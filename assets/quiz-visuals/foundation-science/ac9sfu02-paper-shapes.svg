@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Flat and scrunched paper</title><desc id="desc">Two equal sheets of paper, one flat and one scrunched into a ball, ready to be dropped from the same height.</desc>
+  <rect width="640" height="360" rx="24" fill="#f3f7ff"/>
+  <path d="M110 68h176v142H110z" fill="#fff" stroke="#345c9c" stroke-width="7"/><path d="M142 96h112M142 126h90M142 156h108" stroke="#b7c9e8" stroke-width="6"/>
+  <path d="m448 74 49 17 28 44-10 54-43 30-58-10-27-45 18-61Z" fill="#fff" stroke="#345c9c" stroke-width="7"/><path d="m410 107 91 83m-102-34 104-52m-61-24 8 132" stroke="#b7c9e8" stroke-width="5"/>
+  <path d="M198 226v72m264-72v72" stroke="#ef7c45" stroke-width="8" stroke-linecap="round"/><path d="m183 282 15 20 15-20m234 0 15 20 15-20" fill="none" stroke="#ef7c45" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="157" y="335" font-family="Arial,sans-serif" font-size="28" fill="#20385f">flat</text><text x="399" y="335" font-family="Arial,sans-serif" font-size="28" fill="#20385f">scrunched</text>
+</svg>

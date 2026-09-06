@@ -1,0 +1,45 @@
+name: Rebuild Year 9 English actual banks
+on:
+  push:
+    branches: [content/year9-english-actual-rebuild]
+    paths:
+      - 'scripts/rebuild_year9_english_actual_banks.mjs'
+      - 'scripts/validate_year9_english_actual_banks.mjs'
+      - '.github/workflows/rebuild-year9-english-actual-banks.yml'
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: content/year9-english-actual-rebuild
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Rebuild actual Year 9 English banks
+        run: node scripts/rebuild_year9_english_actual_banks.mjs
+      - name: Validate actual banks
+        run: node scripts/validate_year9_english_actual_banks.mjs
+      - name: Guard Classroom View
+        shell: bash
+        run: |
+          if git status --porcelain | grep -E 'year9/english/.*/teacher-slides|worksheets/year9/.*/teacher|classroom'; then
+            echo 'Classroom View / teacher display changed unexpectedly'
+            exit 1
+          fi
+          echo 'Classroom View guard PASS'
+      - name: Commit rebuilt production banks
+        shell: bash
+        run: |
+          git config user.name 'JBR99729'
+          git config user.email 'jbhasker9@gmail.com'
+          git add assets/assessment-banks/year9/english quiz/year-9/english
+          if git diff --cached --quiet; then
+            echo 'No generated changes to commit'
+            exit 1
+          fi
+          git commit -m 'Rebuild Year 9 English actual question banks'
+          git push origin HEAD:content/year9-english-actual-rebuild

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">SkillrHub</title>
+  <desc id="desc">A prominent white S with a gold learning spark on a rounded SkillrHub blue square.</desc>
+  <defs>
+    <linearGradient id="brand" x1="64" y1="42" x2="450" y2="474" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2F68EA"/>
+      <stop offset=".58" stop-color="#2457D6"/>
+      <stop offset="1" stop-color="#17335F"/>
+    </linearGradient>
+    <filter id="depth" x="-25%" y="-25%" width="150%" height="165%">
+      <feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#071A38" flood-opacity=".34"/>
+    </filter>
+  </defs>
+  <rect x="24" y="24" width="464" height="464" rx="112" fill="url(#brand)"/>
+  <rect x="38" y="38" width="436" height="436" rx="99" fill="none" stroke="#FFFFFF" stroke-opacity=".13" stroke-width="4"/>
+  <circle cx="399" cy="111" r="55" fill="#F4B740" opacity=".13"/>
+  <path d="M399 64l12 29 29 12-29 12-12 29-12-29-29-12 29-12 12-29Z" fill="#F4B740"/>
+  <path d="M350 164c-25-28-62-42-103-39-66 5-105 37-101 82 4 42 41 59 105 69 61 10 90 24 92 57 3 36-34 61-92 65-49 3-94-14-122-46" fill="none" stroke="#FFFFFF" stroke-width="62" stroke-linecap="round" stroke-linejoin="round" filter="url(#depth)"/>
+  <path d="M151 420c64 19 146 17 213-8" fill="none" stroke="#F4B740" stroke-width="16" stroke-linecap="round"/>
+</svg>

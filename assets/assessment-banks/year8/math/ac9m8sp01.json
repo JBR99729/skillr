@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ac9m8sp01-p-001",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "develop_an_understanding_of_what_it_means_for_shapes_to_be_congruent_or_similar",
+    "question": "A Year 8 student is solving a problem involving develop an understanding of what it means for shapes to be congruent or similar. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving develop an understanding of what it means for shapes to be congruent or similar. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "developing an understanding of what it means for shapes to be congruent or similar",
+        "is_correct": true
+      },
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "developing an understanding of what it means for shapes to be congruent or similar",
+      "hint": "Develop an understanding of what it means for shapes to be congruent or similar."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp01-p-002",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_the_enlargement_transformation_and_digital_tools_to_develop_sets_of_similar_shapes",
+    "question": "A Year 8 student is solving a problem involving use the enlargement transformation and digital tools to develop sets of similar shapes. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the enlargement transformation and digital tools to develop sets of similar shapes. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The congruence and similarity model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "using the enlargement transformation and digital tools to develop sets of similar shapes",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "using the enlargement transformation and digital tools to develop sets of similar shapes",
+      "hint": "Use the enlargement transformation and digital tools to develop sets of similar shapes."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp01-p-003",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_sufficient_conditions_to_establish_that_2_triangles_are_congruent",
+    "question": "A Year 8 student is solving a problem involving explore sufficient conditions to establish that 2 triangles are congruent. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving explore sufficient conditions to establish that 2 triangles are congruent. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "investigating sufficient conditions to establish that 2 triangles are congruent",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigating sufficient conditions to establish that 2 triangles are congruent",
+      "hint": "Explore sufficient conditions to establish that 2 triangles are congruent."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp01-p-004",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "apply_logical_reasoning_and_tests_for_congruence_and_similarity_to_problems_and_proofs_involving_plane_shapes",
+    "question": "A Year 8 student is solving a problem involving apply logical reasoning and tests for congruence and similarity to problems and proofs involving plane shapes. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving apply logical reasoning and tests for congruence and similarity to problems and proofs involving plane shapes. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes",
+      "hint": "Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp01-p-005",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_angle_and_side_measurements_of_shapes_under_transformation_to_answer_questions_such_as_what_changes_and_what_stays_the_same",
+    "question": "A Year 8 student is solving a problem involving compare angle and side measurements of shapes under transformation to answer questions such as what changes and what stays the same. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving compare angle and side measurements of shapes under transformation to answer questions such as what changes and what stays the same. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "comparing angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”",
+        "is_correct": true
+      },
+      {
+        "text": "The congruence and similarity model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "comparing angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”",
+      "hint": "Compare angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp01-p-006",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "establish_that_2_shapes_are_congruent_if_one_lies_exactly_on_top_of_the_other_after_one_or_more_transformations_including_translations_reflections_and_rotations",
+    "question": "A Year 8 student is solving a problem involving establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations reflections and rotations. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations reflections and rotations. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "establishing that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations, and recognising that the matching sides and the matching angles are equal",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "establishing that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations, and recognising that the matching sides and the matching angles are equal",
+      "hint": "Establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp01-p-007",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "develop_an_understanding_of_what_it_means_for_shapes_to_be_congruent_or_similar",
+    "question": "A Year 8 student is solving a problem involving develop an understanding of what it means for shapes to be congruent or similar. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving develop an understanding of what it means for shapes to be congruent or similar. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "developing an understanding of what it means for shapes to be congruent or similar",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "developing an understanding of what it means for shapes to be congruent or similar",
+      "hint": "Develop an understanding of what it means for shapes to be congruent or similar."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp01-p-008",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_the_enlargement_transformation_and_digital_tools_to_develop_sets_of_similar_shapes",
+    "question": "A Year 8 student is solving a problem involving use the enlargement transformation and digital tools to develop sets of similar shapes. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use the enlargement transformation and digital tools to develop sets of similar shapes. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The congruence and similarity model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "using the enlargement transformation and digital tools to develop sets of similar shapes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "using the enlargement transformation and digital tools to develop sets of similar shapes",
+      "hint": "Use the enlargement transformation and digital tools to develop sets of similar shapes."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp01-t-001",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_sufficient_conditions_to_establish_that_2_triangles_are_congruent",
+    "question": "A Year 8 student is solving a problem involving explore sufficient conditions to establish that 2 triangles are congruent. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving explore sufficient conditions to establish that 2 triangles are congruent. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "investigating sufficient conditions to establish that 2 triangles are congruent",
+        "is_correct": true
+      },
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "investigating sufficient conditions to establish that 2 triangles are congruent",
+      "hint": "Explore sufficient conditions to establish that 2 triangles are congruent."
+    }
+  },
+  {
+    "id": "ac9m8sp01-t-002",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "apply_logical_reasoning_and_tests_for_congruence_and_similarity_to_problems_and_proofs_involving_plane_shapes",
+    "question": "A Year 8 student is solving a problem involving apply logical reasoning and tests for congruence and similarity to problems and proofs involving plane shapes. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving apply logical reasoning and tests for congruence and similarity to problems and proofs involving plane shapes. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes",
+      "hint": "Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes."
+    }
+  },
+  {
+    "id": "ac9m8sp01-t-003",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_angle_and_side_measurements_of_shapes_under_transformation_to_answer_questions_such_as_what_changes_and_what_stays_the_same",
+    "question": "A Year 8 student is solving a problem involving compare angle and side measurements of shapes under transformation to answer questions such as what changes and what stays the same. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving compare angle and side measurements of shapes under transformation to answer questions such as what changes and what stays the same. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The congruence and similarity model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "comparing angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "comparing angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”",
+      "hint": "Compare angle and side measurements of shapes under transformation to answer questions such as “What changes?” and “What stays the same?”."
+    }
+  },
+  {
+    "id": "ac9m8sp01-t-004",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "establish_that_2_shapes_are_congruent_if_one_lies_exactly_on_top_of_the_other_after_one_or_more_transformations_including_translations_reflections_and_rotations",
+    "question": "A Year 8 student is solving a problem involving establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations reflections and rotations. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations reflections and rotations. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "establishing that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations, and recognising that the matching sides and the matching angles are equal",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "establishing that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations, and recognising that the matching sides and the matching angles are equal",
+      "hint": "Establish that 2 shapes are congruent if one lies exactly on top of the other after one or more transformations including translations, reflections and rotations."
+    }
+  },
+  {
+    "id": "ac9m8sp01-t-005",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "develop_an_understanding_of_what_it_means_for_shapes_to_be_congruent_or_similar",
+    "question": "Which response correctly uses develop an understanding of what it means for shapes to be congruent or similar?",
+    "audio_prompt": "Which response correctly uses develop an understanding of what it means for shapes to be congruent or similar?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "developing an understanding of what it means for shapes to be congruent or similar",
+        "is_correct": true
+      },
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "developing an understanding of what it means for shapes to be congruent or similar",
+      "hint": "Develop an understanding of what it means for shapes to be congruent or similar."
+    }
+  },
+  {
+    "id": "ac9m8sp01-t-006",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_the_enlargement_transformation_and_digital_tools_to_develop_sets_of_similar_shapes",
+    "question": "Which response correctly uses use the enlargement transformation and digital tools to develop sets of similar shapes?",
+    "audio_prompt": "Which response correctly uses use the enlargement transformation and digital tools to develop sets of similar shapes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The congruence and similarity model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "using the enlargement transformation and digital tools to develop sets of similar shapes",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "using the enlargement transformation and digital tools to develop sets of similar shapes",
+      "hint": "Use the enlargement transformation and digital tools to develop sets of similar shapes."
+    }
+  },
+  {
+    "id": "ac9m8sp01-t-007",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_sufficient_conditions_to_establish_that_2_triangles_are_congruent",
+    "question": "Which response correctly uses explore sufficient conditions to establish that 2 triangles are congruent?",
+    "audio_prompt": "Which response correctly uses explore sufficient conditions to establish that 2 triangles are congruent?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "investigating sufficient conditions to establish that 2 triangles are congruent",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigating sufficient conditions to establish that 2 triangles are congruent",
+      "hint": "Explore sufficient conditions to establish that 2 triangles are congruent."
+    }
+  },
+  {
+    "id": "ac9m8sp01-t-008",
+    "curriculum_code": "AC9M8SP01",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "apply_logical_reasoning_and_tests_for_congruence_and_similarity_to_problems_and_proofs_involving_plane_shapes",
+    "question": "Which response correctly uses apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes?",
+    "audio_prompt": "Which response correctly uses apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "applying logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes",
+      "hint": "Apply logical reasoning and tests for congruence and similarity, to problems and proofs involving plane shapes."
+    }
+  }
+]

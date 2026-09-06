@@ -1,0 +1,518 @@
+FOUNDATION MATHS — AC9MFA01
+Recognise, copy and continue repeating patterns represented in different ways.
+
+Status: Frozen v1
+Note: Adult read-aloud support is expected for Foundation students.
+Production note: For action patterns such as clap/tap/sit/stand, pair text with simple icons or audio/read-aloud support in the app interface. Keep option formatting visually consistent.
+
+PRACTICE QUESTIONS 1–24
+
+PRACTICE 1
+What comes next?
+
+red, blue, red, blue, red, ___
+
+A. red
+B. blue
+C. green
+
+Answer: B
+Explanation: The pattern repeats red, blue. After red comes blue.
+
+
+PRACTICE 2
+What comes next?
+
+circle, square, circle, square, circle, ___
+
+A. square
+B. circle
+C. triangle
+
+Answer: A
+Explanation: The repeating part is circle, square. After circle comes square.
+
+
+PRACTICE 3
+Which shows the same pattern?
+
+red, yellow, red, yellow
+
+A. big, small, big, small
+B. big, big, small, small
+C. small, big, big, small
+
+Answer: A
+Explanation: Both patterns repeat in an A, B, A, B order.
+
+
+PRACTICE 4
+What comes next?
+
+clap, tap, clap, tap, clap, ___
+
+A. clap
+B. jump
+C. tap
+
+Answer: C
+Explanation: The pattern repeats clap, tap. After clap comes tap.
+
+
+PRACTICE 5
+Which pattern repeats?
+
+A. star, star, circle, square
+B. star, circle, star, circle
+C. star, circle, square, triangle
+
+Answer: B
+Explanation: Star, circle repeats again and again.
+
+
+PRACTICE 6
+What comes next?
+
+1, 2, 1, 2, 1, ___
+
+A. 3
+B. 1
+C. 2
+
+Answer: C
+Explanation: The pattern repeats 1, 2. After 1 comes 2.
+
+
+PRACTICE 7
+What comes next?
+
+triangle, triangle, circle, triangle, triangle, circle, triangle, triangle, ___
+
+A. circle
+B. triangle
+C. square
+
+Answer: A
+Explanation: The repeating part is triangle, triangle, circle.
+
+
+PRACTICE 8
+Which is the repeating part?
+
+apple, banana, apple, banana, apple, banana
+
+A. apple, apple
+B. apple, banana
+C. banana, banana
+
+Answer: B
+Explanation: Apple, banana is the part that repeats.
+
+
+PRACTICE 9
+What comes next?
+
+big, small, big, small, big, ___
+
+A. big
+B. small
+C. tall
+
+Answer: B
+Explanation: The pattern repeats big, small. After big comes small.
+
+
+PRACTICE 10
+Which continues the pattern?
+
+red, red, blue, red, red, blue, ___
+
+A. red, red, blue
+B. blue, red, blue
+C. red, blue, blue
+
+Answer: A
+Explanation: The repeating part is red, red, blue.
+
+
+PRACTICE 11
+What comes next?
+
+sit, stand, sit, stand, sit, ___
+
+A. stand
+B. sit
+C. clap
+
+Answer: A
+Explanation: The pattern repeats sit, stand.
+
+
+PRACTICE 12
+Which pattern matches this rule?
+
+one circle, one square, repeat
+
+A. circle, circle, square, square
+B. circle, square, circle, square
+C. square, square, circle, circle
+
+Answer: B
+Explanation: Circle, square, circle, square follows the repeating rule.
+
+
+PRACTICE 13
+What comes next?
+
+green, green, yellow, green, green, yellow, green, green, ___
+
+A. green
+B. yellow
+C. red
+
+Answer: B
+Explanation: The repeating part is green, green, yellow.
+
+
+PRACTICE 14
+Which item is missing?
+
+cat, dog, cat, dog, ___, dog
+
+A. dog
+B. bird
+C. cat
+
+Answer: C
+Explanation: The pattern repeats cat, dog. The missing item is cat.
+
+
+PRACTICE 15
+What comes next?
+
+square, circle, triangle, square, circle, triangle, square, ___
+
+A. circle
+B. triangle
+C. square
+
+Answer: A
+Explanation: The repeating part is square, circle, triangle.
+
+
+PRACTICE 16
+Which is a copy of this pattern?
+
+red, blue, blue, red, blue, blue
+
+A. clap, tap, tap, clap, tap, tap
+B. clap, clap, tap, clap, clap, tap
+C. tap, clap, tap, tap, clap, tap
+
+Answer: A
+Explanation: Both patterns follow A, B, B, A, B, B.
+
+
+PRACTICE 17
+What comes next?
+
+short, tall, short, tall, short, ___
+
+A. tall
+B. short
+C. wide
+
+Answer: A
+Explanation: The pattern repeats short, tall.
+
+
+PRACTICE 18
+Which pattern is not repeating?
+
+A. red, blue, red, blue
+B. circle, square, circle, square
+C. red, blue, green, yellow
+
+Answer: C
+Explanation: Red, blue, green, yellow does not show a repeated part yet.
+
+
+PRACTICE 19
+What comes next?
+
+2, 2, 1, 2, 2, 1, 2, 2, ___
+
+A. 2
+B. 1
+C. 3
+
+Answer: B
+Explanation: The repeating part is 2, 2, 1.
+
+
+PRACTICE 20
+Which completes the pattern?
+
+moon, sun, moon, sun, ___, sun
+
+A. moon
+B. sun
+C. star
+
+Answer: A
+Explanation: The pattern repeats moon, sun.
+
+
+PRACTICE 21
+What comes next?
+
+hop, hop, clap, hop, hop, clap, hop, hop, ___
+
+A. hop
+B. clap
+C. tap
+
+Answer: B
+Explanation: The repeating part is hop, hop, clap.
+
+
+PRACTICE 22
+Which pattern has the repeating part “red, blue, green”?
+
+A. red, blue, red, blue, green
+B. red, blue, green, red, blue, green
+C. red, red, blue, green, green
+
+Answer: B
+Explanation: Red, blue, green repeats in order.
+
+
+PRACTICE 23
+What comes next?
+
+circle, circle, square, circle, circle, square, ___
+
+A. circle
+B. square
+C. triangle
+
+Answer: A
+Explanation: The repeating part is circle, circle, square. The next item starts the pattern again.
+
+
+PRACTICE 24
+Which explains the pattern?
+
+red, blue, red, blue, red, blue
+
+A. It counts by twos.
+B. It repeats red, blue.
+C. It gets bigger each time.
+
+Answer: B
+Explanation: The same two colours repeat: red, blue.
+
+
+TEST QUESTIONS 1–16
+
+TEST 1
+What comes next?
+
+yellow, green, yellow, green, yellow, ___
+
+A. yellow
+B. green
+C. red
+
+Answer: B
+Explanation: The pattern repeats yellow, green.
+
+
+TEST 2
+Which is the repeating part?
+
+square, triangle, square, triangle, square, triangle
+
+A. square, triangle
+B. square, square
+C. triangle, triangle
+
+Answer: A
+Explanation: Square, triangle is the repeating part.
+
+
+TEST 3
+What comes next?
+
+tap, clap, tap, clap, tap, ___
+
+A. jump
+B. tap
+C. clap
+
+Answer: C
+Explanation: The pattern repeats tap, clap.
+
+
+TEST 4
+Which pattern repeats?
+
+A. red, blue, green, yellow
+B. circle, circle, circle, square
+C. apple, pear, apple, pear
+
+Answer: C
+Explanation: Apple, pear repeats.
+
+
+TEST 5
+What is missing?
+
+1, 3, 1, 3, ___, 3
+
+A. 1
+B. 2
+C. 3
+
+Answer: A
+Explanation: The pattern repeats 1, 3.
+
+
+TEST 6
+Which continues the pattern?
+
+circle, square, square, circle, square, square, ___
+
+A. square, circle, square
+B. circle, square, square
+C. square, square, circle
+
+Answer: B
+Explanation: The repeating part is circle, square, square.
+
+
+TEST 7
+What comes next?
+
+big, big, small, big, big, small, big, big, ___
+
+A. big
+B. tall
+C. small
+
+Answer: C
+Explanation: The repeating part is big, big, small.
+
+
+TEST 8
+Which is a copy of this pattern?
+
+red, red, blue, red, red, blue
+
+A. clap, clap, tap, clap, clap, tap
+B. clap, tap, clap, tap, clap, tap
+C. tap, clap, clap, tap, clap, clap
+
+Answer: A
+Explanation: Both patterns follow A, A, B, A, A, B.
+
+
+TEST 9
+What comes next?
+
+star, moon, sun, star, moon, sun, star, ___
+
+A. sun
+B. star
+C. moon
+
+Answer: C
+Explanation: The repeating part is star, moon, sun.
+
+
+TEST 10
+Which pattern has the repeating part “clap, tap”?
+
+A. clap, clap, tap, tap
+B. clap, tap, clap, tap
+C. clap, tap, tap, clap
+
+Answer: B
+Explanation: Clap, tap repeats in order.
+
+
+TEST 11
+What comes next?
+
+red, blue, green, red, blue, green, red, blue, ___
+
+A. green
+B. red
+C. blue
+
+Answer: A
+Explanation: The repeating part is red, blue, green.
+
+
+TEST 12
+Which item is missing?
+
+dog, cat, cat, dog, cat, cat, dog, ___
+
+A. dog
+B. cat
+C. bird
+
+Answer: B
+Explanation: The repeating part is dog, cat, cat.
+
+
+TEST 13
+Which pattern is not repeating?
+
+A. triangle, circle, triangle, circle
+B. red, yellow, red, yellow
+C. square, circle, triangle, star
+
+Answer: C
+Explanation: Square, circle, triangle, star does not show a repeated part yet.
+
+
+TEST 14
+What comes next?
+
+stand, sit, jump, stand, sit, jump, stand, ___
+
+A. sit
+B. jump
+C. stand
+
+Answer: A
+Explanation: The repeating part is stand, sit, jump.
+
+
+TEST 15
+Which pattern matches this rule?
+
+two red, one blue, repeat
+
+A. red, blue, red, blue, red, blue
+B. red, red, blue, red, red, blue
+C. red, blue, blue, red, blue, blue
+
+Answer: B
+Explanation: Two red and one blue repeats.
+
+
+TEST 16
+Why is this a repeating pattern?
+
+circle, square, circle, square, circle, square
+
+A. It gets bigger.
+B. It uses numbers.
+C. The same part repeats.
+
+Answer: C
+Explanation: A repeating pattern has a part that repeats again and again.
+

@@ -1,0 +1,25 @@
+name: Rebuild Year 10 English AC9E10LY07
+on:
+  push:
+    branches: [content/year10-english-actual-rebuild]
+    paths: ['scripts/year10_english_actual/ac9e10ly07_authored.mjs','scripts/materialise_year10_english_ly07.mjs','.github/workflows/rebuild-year10-english-actual-ly07.yml']
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    permissions: {contents: write}
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: content/year10-english-actual-rebuild, fetch-depth: 0}
+      - uses: actions/setup-node@v4
+        with: {node-version: '22'}
+      - run: node scripts/materialise_year10_english_ly07.mjs
+      - name: Guard Classroom View
+        run: "if git status --porcelain | grep -E 'teacher-slides|classroom'; then exit 1; fi"
+      - name: Commit production bank
+        run: |
+          git config user.name JBR99729
+          git config user.email jbhasker9@gmail.com
+          git add assets/assessment-banks/year10/english/ac9e10ly07.json quiz/year-10/english/ac9e10ly07
+          git diff --cached --quiet && exit 1
+          git commit -m 'Rebuild AC9E10LY07 actual question bank'
+          git push origin HEAD:content/year10-english-actual-rebuild

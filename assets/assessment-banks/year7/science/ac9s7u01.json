@@ -1,0 +1,613 @@
+[
+  {
+    "id": "ac9s7u01-p-001",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "choose_a_useful_feature",
+    "question": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "At each step choose one of two mutually exclusive observable features",
+        "is_correct": true
+      },
+      {
+        "text": "Habitat used as proof of close relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Unrelated organisms can live in similar habitats",
+        "is_correct": false
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "At each step choose one of two mutually exclusive observable features",
+      "hint": "Unrelated organisms can live in similar habitats."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7u01-p-002",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "follow_a_key",
+    "question": "A Year 7 student is investigating follow a key. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating follow a key. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Key choices overlap",
+        "is_correct": false
+      },
+      {
+        "text": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Use mutually exclusive alternatives",
+        "is_correct": false
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
+      "hint": "Use mutually exclusive alternatives."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7u01-p-003",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "find_an_ambiguous_split",
+    "question": "A Year 7 student is investigating find an ambiguous split. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating find an ambiguous split. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One specimen excluded",
+        "is_correct": false
+      },
+      {
+        "text": "Every valid input needs a path",
+        "is_correct": false
+      },
+      {
+        "text": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
+        "is_correct": true
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
+      "hint": "Every valid input needs a path."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7u01-p-004",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "create_paired_statements",
+    "question": "A Year 7 student is investigating create paired statements. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating create paired statements. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Classification treated as permanent truth",
+        "is_correct": false
+      },
+      {
+        "text": "Systems are models revised with evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      },
+      {
+        "text": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.",
+      "hint": "Systems are models revised with evidence."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7u01-p-005",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "explain_why_classification_may_change",
+    "question": "Which statement correctly identifies dichotomous key in biological classification and dichotomous keys?",
+    "audio_prompt": "Which statement correctly identifies dichotomous key in biological classification and dichotomous keys?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "At each step choose one of two mutually exclusive observable features",
+        "is_correct": true
+      },
+      {
+        "text": "Habitat used as proof of close relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Unrelated organisms can live in similar habitats",
+        "is_correct": false
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "At each step choose one of two mutually exclusive observable features",
+      "hint": "Unrelated organisms can live in similar habitats."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9s7u01-p-006",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "choose_a_useful_feature",
+    "question": "Which choice best describes taxon in biological classification and dichotomous keys?",
+    "audio_prompt": "Which choice best describes taxon in biological classification and dichotomous keys?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Key choices overlap",
+        "is_correct": false
+      },
+      {
+        "text": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Use mutually exclusive alternatives",
+        "is_correct": false
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
+      "hint": "Use mutually exclusive alternatives."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9s7u01-p-007",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "follow_a_key",
+    "question": "What does correct use require for classification in biological classification and dichotomous keys?",
+    "audio_prompt": "What does correct use require for classification in biological classification and dichotomous keys?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One specimen excluded",
+        "is_correct": false
+      },
+      {
+        "text": "Every valid input needs a path",
+        "is_correct": false
+      },
+      {
+        "text": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
+        "is_correct": true
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
+      "hint": "Every valid input needs a path."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "ac9s7u01-p-008",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "find_an_ambiguous_split",
+    "question": "A Year 7 student is investigating find an ambiguous split. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating find an ambiguous split. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Classification treated as permanent truth",
+        "is_correct": false
+      },
+      {
+        "text": "Systems are models revised with evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      },
+      {
+        "text": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.",
+      "hint": "Systems are models revised with evidence."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9s7u01-t-001",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "create_paired_statements",
+    "question": "A Year 7 student is investigating create paired statements. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating create paired statements. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "At each step choose one of two mutually exclusive observable features",
+        "is_correct": true
+      },
+      {
+        "text": "Habitat used as proof of close relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Unrelated organisms can live in similar habitats",
+        "is_correct": false
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "At each step choose one of two mutually exclusive observable features",
+      "hint": "Unrelated organisms can live in similar habitats."
+    }
+  },
+  {
+    "id": "ac9s7u01-t-002",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_why_classification_may_change",
+    "question": "A Year 7 student is investigating explain why classification may change. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain why classification may change. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Key choices overlap",
+        "is_correct": false
+      },
+      {
+        "text": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Use mutually exclusive alternatives",
+        "is_correct": false
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
+      "hint": "Use mutually exclusive alternatives."
+    }
+  },
+  {
+    "id": "ac9s7u01-t-003",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "choose_a_useful_feature",
+    "question": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One specimen excluded",
+        "is_correct": false
+      },
+      {
+        "text": "Every valid input needs a path",
+        "is_correct": false
+      },
+      {
+        "text": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
+        "is_correct": true
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
+      "hint": "Every valid input needs a path."
+    }
+  },
+  {
+    "id": "ac9s7u01-t-004",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "follow_a_key",
+    "question": "A Year 7 student is investigating follow a key. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating follow a key. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Classification treated as permanent truth",
+        "is_correct": false
+      },
+      {
+        "text": "Systems are models revised with evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      },
+      {
+        "text": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.",
+      "hint": "Systems are models revised with evidence."
+    }
+  },
+  {
+    "id": "ac9s7u01-t-005",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "find_an_ambiguous_split",
+    "question": "What should be checked when applying find an ambiguous split in biological classification and dichotomous keys?",
+    "audio_prompt": "What should be checked when applying find an ambiguous split in biological classification and dichotomous keys?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "At each step choose one of two mutually exclusive observable features",
+        "is_correct": true
+      },
+      {
+        "text": "Habitat used as proof of close relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Unrelated organisms can live in similar habitats",
+        "is_correct": false
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "At each step choose one of two mutually exclusive observable features",
+      "hint": "Unrelated organisms can live in similar habitats."
+    }
+  },
+  {
+    "id": "ac9s7u01-t-006",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "create_paired_statements",
+    "question": "Which response best uses create paired statements in biological classification and dichotomous keys?",
+    "audio_prompt": "Which response best uses create paired statements in biological classification and dichotomous keys?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Key choices overlap",
+        "is_correct": false
+      },
+      {
+        "text": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Use mutually exclusive alternatives",
+        "is_correct": false
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful classification feature is observable, consistently defined and able to separate groups. Modern classifications may change when new evidence reveals relationships.",
+      "hint": "Use mutually exclusive alternatives."
+    }
+  },
+  {
+    "id": "ac9s7u01-t-007",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "explain_why_classification_may_change",
+    "question": "A Year 7 student is investigating explain why classification may change. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating explain why classification may change. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One specimen excluded",
+        "is_correct": false
+      },
+      {
+        "text": "Every valid input needs a path",
+        "is_correct": false
+      },
+      {
+        "text": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
+        "is_correct": true
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each step must offer two clear alternatives and account for every specimen. Avoid subjective features such as ‘large’ unless thresholds are defined.",
+      "hint": "Every valid input needs a path."
+    }
+  },
+  {
+    "id": "ac9s7u01-t-008",
+    "curriculum_code": "AC9S7U01",
+    "year_level": "Year 7",
+    "subject": "science",
+    "bank": "test",
+    "skill": "choose_a_useful_feature",
+    "question": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
+    "audio_prompt": "A Year 7 student is investigating choose a useful feature. Which option is scientifically valid and best supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Classification treated as permanent truth",
+        "is_correct": false
+      },
+      {
+        "text": "Systems are models revised with evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Organisation into groups using shared criteria",
+        "is_correct": false
+      },
+      {
+        "text": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Biological classification groups organisms by shared characteristics so identification and communication can be consistent, testable and revisable.",
+      "hint": "Systems are models revised with evidence."
+    }
+  }
+]

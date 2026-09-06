@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E3LY08-P-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a science observation, which feature makes joined handwriting easy to read?",
+    "audio_prompt": "While writing a science observation, which feature makes joined handwriting easy to read?",
+    "answers": [
+      {
+        "text": "Every letter touching the next word",
+        "is_correct": false
+      },
+      {
+        "text": "Random changes in slope",
+        "is_correct": false
+      },
+      {
+        "text": "Consistent letter size, spacing and alignment",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a science observation, when should a join be avoided?",
+    "audio_prompt": "While writing a science observation, when should a join be avoided?",
+    "answers": [
+      {
+        "text": "When it would make the letter shape unclear",
+        "is_correct": true
+      },
+      {
+        "text": "Whenever two letters belong to one word",
+        "is_correct": false
+      },
+      {
+        "text": "Only at the end of a page",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a science observation, why do spaces between words matter?",
+    "audio_prompt": "While writing a science observation, why do spaces between words matter?",
+    "answers": [
+      {
+        "text": "They make letters taller",
+        "is_correct": false
+      },
+      {
+        "text": "They show where one word ends and the next begins",
+        "is_correct": true
+      },
+      {
+        "text": "They replace punctuation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a science observation, what does alignment describe?",
+    "audio_prompt": "While writing a science observation, what does alignment describe?",
+    "answers": [
+      {
+        "text": "How loudly words are read",
+        "is_correct": false
+      },
+      {
+        "text": "How many ideas are in a paragraph",
+        "is_correct": false
+      },
+      {
+        "text": "How letters and words sit along the writing line",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a science observation, a writer cannot read a joined word later. What is the best revision?",
+    "audio_prompt": "While writing a science observation, a writer cannot read a joined word later. What is the best revision?",
+    "answers": [
+      {
+        "text": "Rewrite it with clearer formation and spacing",
+        "is_correct": true
+      },
+      {
+        "text": "Trace over it until it is black",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the whole sentence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a science observation, which practice builds fluency without losing legibility?",
+    "audio_prompt": "While writing a science observation, which practice builds fluency without losing legibility?",
+    "answers": [
+      {
+        "text": "Write as fast as possible immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat short patterns slowly, then increase speed while checking shape",
+        "is_correct": true
+      },
+      {
+        "text": "Use a different letter form each time",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a science observation, why should capital letters remain distinct?",
+    "audio_prompt": "While writing a science observation, why should capital letters remain distinct?",
+    "answers": [
+      {
+        "text": "They must join to every following letter",
+        "is_correct": false
+      },
+      {
+        "text": "They replace full stops",
+        "is_correct": false
+      },
+      {
+        "text": "They signal sentence starts and proper names",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a science observation, which self-check is most useful?",
+    "audio_prompt": "While writing a science observation, which self-check is most useful?",
+    "answers": [
+      {
+        "text": "Can another reader identify every word easily?",
+        "is_correct": true
+      },
+      {
+        "text": "Did I fill the whole line?",
+        "is_correct": false
+      },
+      {
+        "text": "Are all letters exactly the same height?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Clear Joined Handwriting",
+    "question": "While copying a short poem, which feature makes joined handwriting easy to read?",
+    "audio_prompt": "While copying a short poem, which feature makes joined handwriting easy to read?",
+    "answers": [
+      {
+        "text": "Every letter touching the next word",
+        "is_correct": false
+      },
+      {
+        "text": "Consistent letter size, spacing and alignment",
+        "is_correct": true
+      },
+      {
+        "text": "Random changes in slope",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Clear Joined Handwriting",
+    "question": "While copying a short poem, when should a join be avoided?",
+    "audio_prompt": "While copying a short poem, when should a join be avoided?",
+    "answers": [
+      {
+        "text": "Whenever two letters belong to one word",
+        "is_correct": false
+      },
+      {
+        "text": "Only at the end of a page",
+        "is_correct": false
+      },
+      {
+        "text": "When it would make the letter shape unclear",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Clear Joined Handwriting",
+    "question": "Why is “They show where one word ends and the next begins” the best answer here? While copying a short poem, why do spaces between words matter?",
+    "audio_prompt": "Why is “They show where one word ends and the next begins” the best answer here? While copying a short poem, why do spaces between words matter?",
+    "answers": [
+      {
+        "text": "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “They make letters taller” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Clear Joined Handwriting",
+    "question": "Why is “How letters and words sit along the writing line” the best answer here? While copying a short poem, what does alignment describe?",
+    "audio_prompt": "Why is “How letters and words sit along the writing line” the best answer here? While copying a short poem, what does alignment describe?",
+    "answers": [
+      {
+        "text": "Because “How loudly words are read” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Clear Joined Handwriting",
+    "question": "Why is “Rewrite it with clearer formation and spacing” the best answer here? While copying a short poem, a writer cannot read a joined word later. What is the best revision?",
+    "audio_prompt": "Why is “Rewrite it with clearer formation and spacing” the best answer here? While copying a short poem, a writer cannot read a joined word later. What is the best revision?",
+    "answers": [
+      {
+        "text": "Because “Trace over it until it is black” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      },
+      {
+        "text": "Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Clear Joined Handwriting",
+    "question": "Why is “Repeat short patterns slowly, then increase speed while checking shape” the best answer here? While copying a short poem, which practice builds fluency without losing legibility?",
+    "audio_prompt": "Why is “Repeat short patterns slowly, then increase speed while checking shape” the best answer here? While copying a short poem, which practice builds fluency without losing legibility?",
+    "answers": [
+      {
+        "text": "Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Write as fast as possible immediately” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Clear Joined Handwriting",
+    "question": "Why is “They signal sentence starts and proper names” the best answer here? While copying a short poem, why should capital letters remain distinct?",
+    "audio_prompt": "Why is “They signal sentence starts and proper names” the best answer here? While copying a short poem, why should capital letters remain distinct?",
+    "answers": [
+      {
+        "text": "Because “They must join to every following letter” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Clear Joined Handwriting",
+    "question": "Why is “Can another reader identify every word easily?” the best answer here? While copying a short poem, which self-check is most useful?",
+    "audio_prompt": "Why is “Can another reader identify every word easily?” the best answer here? While copying a short poem, which self-check is most useful?",
+    "answers": [
+      {
+        "text": "Because “Did I fill the whole line?” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      },
+      {
+        "text": "Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-017",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Clear Joined Handwriting",
+    "question": "Why is “Consistent letter size, spacing and alignment” the best answer here? While completing a class reflection, which feature makes joined handwriting easy to read?",
+    "audio_prompt": "Why is “Consistent letter size, spacing and alignment” the best answer here? While completing a class reflection, which feature makes joined handwriting easy to read?",
+    "answers": [
+      {
+        "text": "Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Every letter touching the next word” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-018",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Clear Joined Handwriting",
+    "question": "Why is “When it would make the letter shape unclear” the best answer here? While completing a class reflection, when should a join be avoided?",
+    "audio_prompt": "Why is “When it would make the letter shape unclear” the best answer here? While completing a class reflection, when should a join be avoided?",
+    "answers": [
+      {
+        "text": "Because “Whenever two letters belong to one word” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-019",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Clear Joined Handwriting",
+    "question": "Why is “They show where one word ends and the next begins” the best answer here? While completing a class reflection, why do spaces between words matter?",
+    "audio_prompt": "Why is “They show where one word ends and the next begins” the best answer here? While completing a class reflection, why do spaces between words matter?",
+    "answers": [
+      {
+        "text": "Because “They make letters taller” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      },
+      {
+        "text": "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-020",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Clear Joined Handwriting",
+    "question": "Why is “How letters and words sit along the writing line” the best answer here? While completing a class reflection, what does alignment describe?",
+    "audio_prompt": "Why is “How letters and words sit along the writing line” the best answer here? While completing a class reflection, what does alignment describe?",
+    "answers": [
+      {
+        "text": "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “How loudly words are read” sounds familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest-looking option should always be chosen.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-021",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Clear Joined Handwriting",
+    "question": "A student chooses “Every letter touching the next word” for this task: While writing a science observation, which feature makes joined handwriting easy to read? What should they check?",
+    "audio_prompt": "A student chooses “Every letter touching the next word” for this task: While writing a science observation, which feature makes joined handwriting easy to read? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-022",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Clear Joined Handwriting",
+    "question": "A student chooses “Whenever two letters belong to one word” for this task: While writing a science observation, when should a join be avoided? What should they check?",
+    "audio_prompt": "A student chooses “Whenever two letters belong to one word” for this task: While writing a science observation, when should a join be avoided? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-023",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Clear Joined Handwriting",
+    "question": "A student chooses “They make letters taller” for this task: While writing a science observation, why do spaces between words matter? What should they check?",
+    "audio_prompt": "A student chooses “They make letters taller” for this task: While writing a science observation, why do spaces between words matter? What should they check?",
+    "answers": [
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-024",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Clear Joined Handwriting",
+    "question": "A student chooses “How loudly words are read” for this task: While writing a science observation, what does alignment describe? What should they check?",
+    "audio_prompt": "A student chooses “How loudly words are read” for this task: While writing a science observation, what does alignment describe? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-025",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Clear Joined Handwriting",
+    "question": "A student chooses “Trace over it until it is black” for this task: While writing a science observation, a writer cannot read a joined word later. What is the best revision? What should they check?",
+    "audio_prompt": "A student chooses “Trace over it until it is black” for this task: While writing a science observation, a writer cannot read a joined word later. What is the best revision? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-026",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Clear Joined Handwriting",
+    "question": "A student chooses “Write as fast as possible immediately” for this task: While writing a science observation, which practice builds fluency without losing legibility? What should they check?",
+    "audio_prompt": "A student chooses “Write as fast as possible immediately” for this task: While writing a science observation, which practice builds fluency without losing legibility? What should they check?",
+    "answers": [
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-027",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Clear Joined Handwriting",
+    "question": "A student chooses “They must join to every following letter” for this task: While writing a science observation, why should capital letters remain distinct? What should they check?",
+    "audio_prompt": "A student chooses “They must join to every following letter” for this task: While writing a science observation, why should capital letters remain distinct? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-028",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Clear Joined Handwriting",
+    "question": "A student chooses “Did I fill the whole line?” for this task: While writing a science observation, which self-check is most useful? What should they check?",
+    "audio_prompt": "A student chooses “Did I fill the whole line?” for this task: While writing a science observation, which self-check is most useful? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-029",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Clear Joined Handwriting",
+    "question": "A student chooses “Every letter touching the next word” for this task: While copying a short poem, which feature makes joined handwriting easy to read? What should they check?",
+    "audio_prompt": "A student chooses “Every letter touching the next word” for this task: While copying a short poem, which feature makes joined handwriting easy to read? What should they check?",
+    "answers": [
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-030",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Clear Joined Handwriting",
+    "question": "A student chooses “Whenever two letters belong to one word” for this task: While copying a short poem, when should a join be avoided? What should they check?",
+    "audio_prompt": "A student chooses “Whenever two letters belong to one word” for this task: While copying a short poem, when should a join be avoided? What should they check?",
+    "answers": [
+      {
+        "text": "Keep the answer because it uses a familiar word.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the wording, structure and context before choosing.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the example and choose the remaining option.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the wording, structure and context before choosing. When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the exact clue in the example to repair the mix-up."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-031",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While copying a short poem, why should capital letters remain distinct?",
+    "audio_prompt": "While copying a short poem, why should capital letters remain distinct?",
+    "answers": [
+      {
+        "text": "They must join to every following letter",
+        "is_correct": false
+      },
+      {
+        "text": "They replace full stops",
+        "is_correct": false
+      },
+      {
+        "text": "They signal sentence starts and proper names",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-032",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While copying a short poem, which self-check is most useful?",
+    "audio_prompt": "While copying a short poem, which self-check is most useful?",
+    "answers": [
+      {
+        "text": "Can another reader identify every word easily?",
+        "is_correct": true
+      },
+      {
+        "text": "Did I fill the whole line?",
+        "is_correct": false
+      },
+      {
+        "text": "Are all letters exactly the same height?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-033",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While completing a class reflection, which feature makes joined handwriting easy to read?",
+    "audio_prompt": "While completing a class reflection, which feature makes joined handwriting easy to read?",
+    "answers": [
+      {
+        "text": "Every letter touching the next word",
+        "is_correct": false
+      },
+      {
+        "text": "Consistent letter size, spacing and alignment",
+        "is_correct": true
+      },
+      {
+        "text": "Random changes in slope",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-034",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While completing a class reflection, when should a join be avoided?",
+    "audio_prompt": "While completing a class reflection, when should a join be avoided?",
+    "answers": [
+      {
+        "text": "Whenever two letters belong to one word",
+        "is_correct": false
+      },
+      {
+        "text": "Only at the end of a page",
+        "is_correct": false
+      },
+      {
+        "text": "When it would make the letter shape unclear",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-035",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While completing a class reflection, why do spaces between words matter?",
+    "audio_prompt": "While completing a class reflection, why do spaces between words matter?",
+    "answers": [
+      {
+        "text": "They show where one word ends and the next begins",
+        "is_correct": true
+      },
+      {
+        "text": "They make letters taller",
+        "is_correct": false
+      },
+      {
+        "text": "They replace punctuation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-036",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While completing a class reflection, what does alignment describe?",
+    "audio_prompt": "While completing a class reflection, what does alignment describe?",
+    "answers": [
+      {
+        "text": "How loudly words are read",
+        "is_correct": false
+      },
+      {
+        "text": "How letters and words sit along the writing line",
+        "is_correct": true
+      },
+      {
+        "text": "How many ideas are in a paragraph",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-037",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While completing a class reflection, a writer cannot read a joined word later. What is the best revision?",
+    "audio_prompt": "While completing a class reflection, a writer cannot read a joined word later. What is the best revision?",
+    "answers": [
+      {
+        "text": "Trace over it until it is black",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the whole sentence",
+        "is_correct": false
+      },
+      {
+        "text": "Rewrite it with clearer formation and spacing",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-038",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While completing a class reflection, which practice builds fluency without losing legibility?",
+    "audio_prompt": "While completing a class reflection, which practice builds fluency without losing legibility?",
+    "answers": [
+      {
+        "text": "Repeat short patterns slowly, then increase speed while checking shape",
+        "is_correct": true
+      },
+      {
+        "text": "Write as fast as possible immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Use a different letter form each time",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-039",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While completing a class reflection, why should capital letters remain distinct?",
+    "audio_prompt": "While completing a class reflection, why should capital letters remain distinct?",
+    "answers": [
+      {
+        "text": "They must join to every following letter",
+        "is_correct": false
+      },
+      {
+        "text": "They signal sentence starts and proper names",
+        "is_correct": true
+      },
+      {
+        "text": "They replace full stops",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-P-040",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While completing a class reflection, which self-check is most useful?",
+    "audio_prompt": "While completing a class reflection, which self-check is most useful?",
+    "answers": [
+      {
+        "text": "Did I fill the whole line?",
+        "is_correct": false
+      },
+      {
+        "text": "Are all letters exactly the same height?",
+        "is_correct": false
+      },
+      {
+        "text": "Can another reader identify every word easily?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Clear Joined Handwriting",
+    "question": "While labelling a project display, which feature makes joined handwriting easy to read?",
+    "audio_prompt": "While labelling a project display, which feature makes joined handwriting easy to read?",
+    "answers": [
+      {
+        "text": "Consistent letter size, spacing and alignment",
+        "is_correct": true
+      },
+      {
+        "text": "Every letter touching the next word",
+        "is_correct": false
+      },
+      {
+        "text": "Random changes in slope",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Clear Joined Handwriting",
+    "question": "While labelling a project display, when should a join be avoided?",
+    "audio_prompt": "While labelling a project display, when should a join be avoided?",
+    "answers": [
+      {
+        "text": "Whenever two letters belong to one word",
+        "is_correct": false
+      },
+      {
+        "text": "When it would make the letter shape unclear",
+        "is_correct": true
+      },
+      {
+        "text": "Only at the end of a page",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Clear Joined Handwriting",
+    "question": "While labelling a project display, why do spaces between words matter?",
+    "audio_prompt": "While labelling a project display, why do spaces between words matter?",
+    "answers": [
+      {
+        "text": "They make letters taller",
+        "is_correct": false
+      },
+      {
+        "text": "They replace punctuation",
+        "is_correct": false
+      },
+      {
+        "text": "They show where one word ends and the next begins",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Clear Joined Handwriting",
+    "question": "While labelling a project display, what does alignment describe?",
+    "audio_prompt": "While labelling a project display, what does alignment describe?",
+    "answers": [
+      {
+        "text": "How letters and words sit along the writing line",
+        "is_correct": true
+      },
+      {
+        "text": "How loudly words are read",
+        "is_correct": false
+      },
+      {
+        "text": "How many ideas are in a paragraph",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Clear Joined Handwriting",
+    "question": "While labelling a project display, a writer cannot read a joined word later. What is the best revision?",
+    "audio_prompt": "While labelling a project display, a writer cannot read a joined word later. What is the best revision?",
+    "answers": [
+      {
+        "text": "Trace over it until it is black",
+        "is_correct": false
+      },
+      {
+        "text": "Rewrite it with clearer formation and spacing",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the whole sentence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Clear Joined Handwriting",
+    "question": "While labelling a project display, which practice builds fluency without losing legibility?",
+    "audio_prompt": "While labelling a project display, which practice builds fluency without losing legibility?",
+    "answers": [
+      {
+        "text": "Write as fast as possible immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Use a different letter form each time",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat short patterns slowly, then increase speed while checking shape",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Clear Joined Handwriting",
+    "question": "While labelling a project display, why should capital letters remain distinct?",
+    "audio_prompt": "While labelling a project display, why should capital letters remain distinct?",
+    "answers": [
+      {
+        "text": "They signal sentence starts and proper names",
+        "is_correct": true
+      },
+      {
+        "text": "They must join to every following letter",
+        "is_correct": false
+      },
+      {
+        "text": "They replace full stops",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Clear Joined Handwriting",
+    "question": "While labelling a project display, which self-check is most useful?",
+    "audio_prompt": "While labelling a project display, which self-check is most useful?",
+    "answers": [
+      {
+        "text": "Did I fill the whole line?",
+        "is_correct": false
+      },
+      {
+        "text": "Can another reader identify every word easily?",
+        "is_correct": true
+      },
+      {
+        "text": "Are all letters exactly the same height?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a note for a community visitor, which feature makes joined handwriting easy to read?",
+    "audio_prompt": "While writing a note for a community visitor, which feature makes joined handwriting easy to read?",
+    "answers": [
+      {
+        "text": "Every letter touching the next word",
+        "is_correct": false
+      },
+      {
+        "text": "Random changes in slope",
+        "is_correct": false
+      },
+      {
+        "text": "Consistent letter size, spacing and alignment",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Consistent letter size, spacing and alignment This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a note for a community visitor, when should a join be avoided?",
+    "audio_prompt": "While writing a note for a community visitor, when should a join be avoided?",
+    "answers": [
+      {
+        "text": "When it would make the letter shape unclear",
+        "is_correct": true
+      },
+      {
+        "text": "Whenever two letters belong to one word",
+        "is_correct": false
+      },
+      {
+        "text": "Only at the end of a page",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "When it would make the letter shape unclear This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a note for a community visitor, why do spaces between words matter?",
+    "audio_prompt": "While writing a note for a community visitor, why do spaces between words matter?",
+    "answers": [
+      {
+        "text": "They make letters taller",
+        "is_correct": false
+      },
+      {
+        "text": "They show where one word ends and the next begins",
+        "is_correct": true
+      },
+      {
+        "text": "They replace punctuation",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "They show where one word ends and the next begins This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a note for a community visitor, what does alignment describe?",
+    "audio_prompt": "While writing a note for a community visitor, what does alignment describe?",
+    "answers": [
+      {
+        "text": "How loudly words are read",
+        "is_correct": false
+      },
+      {
+        "text": "How many ideas are in a paragraph",
+        "is_correct": false
+      },
+      {
+        "text": "How letters and words sit along the writing line",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "How letters and words sit along the writing line This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a note for a community visitor, a writer cannot read a joined word later. What is the best revision?",
+    "audio_prompt": "While writing a note for a community visitor, a writer cannot read a joined word later. What is the best revision?",
+    "answers": [
+      {
+        "text": "Rewrite it with clearer formation and spacing",
+        "is_correct": true
+      },
+      {
+        "text": "Trace over it until it is black",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the whole sentence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rewrite it with clearer formation and spacing This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a note for a community visitor, which practice builds fluency without losing legibility?",
+    "audio_prompt": "While writing a note for a community visitor, which practice builds fluency without losing legibility?",
+    "answers": [
+      {
+        "text": "Write as fast as possible immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat short patterns slowly, then increase speed while checking shape",
+        "is_correct": true
+      },
+      {
+        "text": "Use a different letter form each time",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeat short patterns slowly, then increase speed while checking shape This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a note for a community visitor, why should capital letters remain distinct?",
+    "audio_prompt": "While writing a note for a community visitor, why should capital letters remain distinct?",
+    "answers": [
+      {
+        "text": "They must join to every following letter",
+        "is_correct": false
+      },
+      {
+        "text": "They replace full stops",
+        "is_correct": false
+      },
+      {
+        "text": "They signal sentence starts and proper names",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "They signal sentence starts and proper names This explanation follows the relevant Year 3 English evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  },
+  {
+    "id": "AC9E3LY08-T-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LY08",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Clear Joined Handwriting",
+    "question": "While writing a note for a community visitor, which self-check is most useful?",
+    "audio_prompt": "While writing a note for a community visitor, which self-check is most useful?",
+    "answers": [
+      {
+        "text": "Can another reader identify every word easily?",
+        "is_correct": true
+      },
+      {
+        "text": "Did I fill the whole line?",
+        "is_correct": false
+      },
+      {
+        "text": "Are all letters exactly the same height?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Can another reader identify every word easily? This choice best fits the language, text or literacy evidence.",
+      "hint": "Use the wording, structure and context before choosing."
+    }
+  }
+]

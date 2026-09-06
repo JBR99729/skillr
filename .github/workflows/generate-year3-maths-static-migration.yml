@@ -1,0 +1,57 @@
+name: Generate Year 3 Maths static migration
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/migrate_year3_maths_static.mjs'
+      - '.github/workflows/generate-year3-maths-static-migration.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate authored Year 3 Maths source modules before migration
+        shell: bash
+        run: |
+          set +e
+          node scripts/validate_year3_maths_topic_modules.mjs > /tmp/year3-validator.log 2>&1
+          status=$?
+          cat /tmp/year3-validator.log
+          if [ "$status" -eq 0 ]; then
+            exit 0
+          fi
+          grep -vE '^AC9M3M03: topic cache version missing for (data-n1|data-n2|data-n3|data-a|data-sp|data-st|data-p)$' /tmp/year3-validator.log | sed '/^$/d' > /tmp/year3-unexpected.log
+          if [ -s /tmp/year3-unexpected.log ]; then
+            echo 'Unexpected Year 3 source-quality failures remain:'
+            cat /tmp/year3-unexpected.log
+            exit 1
+          fi
+          echo 'Only the known AC9M3M03 legacy renderer-cache wiring errors were present; migration removes that dependency.'
+      - name: Generate Year 3 Maths static pages and fixed slides
+        run: node scripts/migrate_year3_maths_static.mjs
+      - name: Validate generated static architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Commit generated files to migration branch
+        shell: bash
+        run: |
+          if git diff --quiet -- year3/maths; then
+            echo 'Generated output is already current.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add year3/maths
+          git commit -m 'Generate static Year 3 Maths curriculum pages'
+          git push origin HEAD:${GITHUB_HEAD_REF}

@@ -6,36 +6,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "skill": "action_presents_character_direct",
+    "question": "‘Mara stomped down the hall.’ What does stomped suggest?",
+    "audio_prompt": "‘Mara stomped down the hall.’ What does stomped suggest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "determined",
+        "text": "Mara may be angry.",
         "is_correct": true
       },
       {
-        "text": "bored",
+        "text": "Mara may be calm and relaxed.",
         "is_correct": false
       },
       {
-        "text": "greedy",
+        "text": "Mara may be moving very carefully.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The forceful verb stomped suggests an angry or frustrated movement.",
+      "hint": "Think about the feeling carried by the action word."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-002",
@@ -44,36 +44,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "skill": "dialogue_presents_character_direct",
+    "question": "‘You can have my seat,’ said Eli. What does the dialogue suggest?",
+    "audio_prompt": "‘You can have my seat,’ said Eli. What does the dialogue suggest?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "busy",
+        "text": "Eli is impatient to leave.",
         "is_correct": false
       },
       {
-        "text": "sunny",
-        "is_correct": false
-      },
-      {
-        "text": "mysterious",
+        "text": "Eli is considerate.",
         "is_correct": true
+      },
+      {
+        "text": "Eli is worried that nobody will sit.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Offering the seat presents Eli as considerate.",
+      "hint": "Use what the character says to infer a quality."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-003",
@@ -82,36 +82,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "skill": "setting_words_create_mood_direct",
+    "question": "Which words make a cave sound frightening?",
+    "audio_prompt": "Which words make a cave sound frightening?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "angry",
+        "text": "the bright, friendly cave",
         "is_correct": false
       },
       {
-        "text": "kind",
+        "text": "the ordinary cave",
+        "is_correct": false
+      },
+      {
+        "text": "the narrow, echoing cave",
         "is_correct": true
-      },
-      {
-        "text": "forgetful",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Narrow and echoing create a more frightening impression of the cave.",
+      "hint": "Choose adjectives that build the target mood."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-004",
@@ -120,36 +120,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "skill": "precise_verb_comparison_direct",
+    "question": "Which verb best shows the dog moved eagerly toward its owner?",
+    "audio_prompt": "Which verb best shows the dog moved eagerly toward its owner?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "setting affects events",
+        "text": "bounded",
         "is_correct": true
       },
       {
-        "text": "title has commas",
+        "text": "went",
         "is_correct": false
       },
       {
-        "text": "word has a suffix",
+        "text": "crept",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Bounded shows energetic, eager movement more clearly than went or crept.",
+      "hint": "Choose the verb with the most precise movement."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-005",
@@ -158,36 +158,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "skill": "noun_group_presents_setting_direct",
+    "question": "What picture is built by ‘the tiny, sunlit room’?",
+    "audio_prompt": "What picture is built by ‘the tiny, sunlit room’?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bored",
+        "text": "a small room with no light inside",
         "is_correct": false
       },
       {
-        "text": "greedy",
-        "is_correct": false
-      },
-      {
-        "text": "determined",
+        "text": "a small room filled with light",
         "is_correct": true
+      },
+      {
+        "text": "a large room filled with bright light",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Tiny describes size and sunlit describes the room's light.",
+      "hint": "Use both adjectives in the noun group."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-006",
@@ -196,36 +196,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "skill": "compare_character_wording_direct",
+    "question": "One text says the fox ‘crept’; another says it ‘marched’. What difference is shown?",
+    "audio_prompt": "One text says the fox ‘crept’; another says it ‘marched’. What difference is shown?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "sunny",
+        "text": "The fox has the same movement because both verbs mean walked.",
         "is_correct": false
       },
       {
-        "text": "mysterious",
+        "text": "The verbs change the places but not how the fox seems to move.",
+        "is_correct": false
+      },
+      {
+        "text": "The fox moves secretly in one and boldly in the other.",
         "is_correct": true
-      },
-      {
-        "text": "busy",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Crept suggests secret movement; marched suggests bold, firm movement.",
+      "hint": "Compare the feeling in each verb, not just the general action."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-007",
@@ -234,36 +234,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "skill": "image_and_words_present_character_direct",
+    "question": "The words say Ben agrees, but the picture shows folded arms and a frown. What might the image add?",
+    "audio_prompt": "The words say Ben agrees, but the picture shows folded arms and a frown. What might the image add?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "kind",
+        "text": "Ben may agree but still feel unhappy about it.",
         "is_correct": true
       },
       {
-        "text": "forgetful",
+        "text": "Ben seems pleased because the written words matter more than the picture.",
         "is_correct": false
       },
       {
-        "text": "angry",
+        "text": "Ben seems cold, so the frown does not add any feeling.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The body language adds a possible feeling that differs from the words.",
+      "hint": "Compare what is said with face and posture; do not rely on one clue alone."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-008",
@@ -272,36 +272,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "skill": "sensory_words_present_a_coast_direct",
+    "question": "‘Salt spray stung her cheeks and waves thundered.’ How is the coast presented?",
+    "audio_prompt": "‘Salt spray stung her cheeks and waves thundered.’ How is the coast presented?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "title has commas",
+        "text": "silent and still",
         "is_correct": false
       },
       {
-        "text": "word has a suffix",
-        "is_correct": false
-      },
-      {
-        "text": "setting affects events",
+        "text": "wild and powerful",
         "is_correct": true
+      },
+      {
+        "text": "warm and sleepy",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Stung and thundered make the coastal setting feel wild and powerful.",
+      "hint": "Notice the strong sensory verbs."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-009",
@@ -309,37 +309,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "stage": "recognise",
+    "skill": "speech_reveals_confidence_direct",
+    "question": "‘I know the path. Follow me!’ called Jo. How is Jo presented?",
+    "audio_prompt": "‘I know the path. Follow me!’ called Jo. How is Jo presented?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "greedy",
+        "text": "uncertain",
         "is_correct": false
       },
       {
-        "text": "determined",
+        "text": "unhelpful",
+        "is_correct": false
+      },
+      {
+        "text": "confident",
         "is_correct": true
-      },
-      {
-        "text": "bored",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Jo's direct words and exclamation present confidence.",
+      "hint": "Use the dialogue and punctuation together."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-010",
@@ -347,37 +347,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "stage": "recognise",
+    "skill": "compare_setting_moods_direct",
+    "question": "Text A calls the park ‘crowded and buzzing’. Text B calls it ‘empty and hushed’. What changes?",
+    "audio_prompt": "Text A calls the park ‘crowded and buzzing’. Text B calls it ‘empty and hushed’. What changes?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "mysterious",
+        "text": "the mood created by each description",
         "is_correct": true
       },
       {
-        "text": "busy",
+        "text": "the number of people changes, but both word groups create the same mood",
         "is_correct": false
       },
       {
-        "text": "sunny",
+        "text": "the park name changes, while its sounds and mood stay the same",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The contrasting adjectives and sounds create different moods.",
+      "hint": "Compare the impressions made by the descriptive words."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-011",
@@ -385,37 +385,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "stage": "explain",
+    "skill": "action_presents_character_explain",
+    "question": "‘Mara stomped down the hall.’ What does stomped suggest? Why is “Mara may be angry.” the best answer?",
+    "audio_prompt": "‘Mara stomped down the hall.’ What does stomped suggest? Why is “Mara may be angry.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "forgetful",
+        "text": "It is best only because it is longer than “Mara may be calm and relaxed.”.",
         "is_correct": false
       },
       {
-        "text": "angry",
-        "is_correct": false
-      },
-      {
-        "text": "kind",
+        "text": "The forceful verb stomped suggests an angry or frustrated movement.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The forceful verb stomped suggests an angry or frustrated movement.",
+      "hint": "Think about the feeling carried by the action word."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-012",
@@ -423,37 +423,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "stage": "explain",
+    "skill": "dialogue_presents_character_explain",
+    "question": "‘You can have my seat,’ said Eli. What does the dialogue suggest? Why is “Eli is considerate.” the best answer?",
+    "audio_prompt": "‘You can have my seat,’ said Eli. What does the dialogue suggest? Why is “Eli is considerate.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "word has a suffix",
+        "text": "It is best only because it is longer than “Eli is impatient to leave.”.",
         "is_correct": false
       },
       {
-        "text": "setting affects events",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Offering the seat presents Eli as considerate.",
         "is_correct": true
-      },
-      {
-        "text": "title has commas",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Offering the seat presents Eli as considerate.",
+      "hint": "Use what the character says to infer a quality."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-013",
@@ -461,37 +461,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "stage": "explain",
+    "skill": "setting_words_create_mood_explain",
+    "question": "Which words make a cave sound frightening? Why is “the narrow, echoing cave” the best answer?",
+    "audio_prompt": "Which words make a cave sound frightening? Why is “the narrow, echoing cave” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "determined",
+        "text": "Narrow and echoing create a more frightening impression of the cave.",
         "is_correct": true
       },
       {
-        "text": "bored",
+        "text": "It is best only because it is longer than “the bright, friendly cave”.",
         "is_correct": false
       },
       {
-        "text": "greedy",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Narrow and echoing create a more frightening impression of the cave.",
+      "hint": "Choose adjectives that build the target mood."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-014",
@@ -499,37 +499,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "stage": "explain",
+    "skill": "precise_verb_comparison_explain",
+    "question": "Which verb best shows the dog moved eagerly toward its owner? Why is “bounded” the best answer?",
+    "audio_prompt": "Which verb best shows the dog moved eagerly toward its owner? Why is “bounded” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "busy",
+        "text": "It is best only because it is longer than “went”.",
         "is_correct": false
       },
       {
-        "text": "sunny",
-        "is_correct": false
-      },
-      {
-        "text": "mysterious",
+        "text": "Bounded shows energetic, eager movement more clearly than went or crept.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Bounded shows energetic, eager movement more clearly than went or crept.",
+      "hint": "Choose the verb with the most precise movement."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-015",
@@ -537,37 +537,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "stage": "explain",
+    "skill": "noun_group_presents_setting_explain",
+    "question": "What picture is built by ‘the tiny, sunlit room’? Why is “a small room filled with light” the best answer?",
+    "audio_prompt": "What picture is built by ‘the tiny, sunlit room’? Why is “a small room filled with light” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "angry",
+        "text": "It is best only because it is longer than “a small room with no light inside”.",
         "is_correct": false
       },
       {
-        "text": "kind",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Tiny describes size and sunlit describes the room's light.",
         "is_correct": true
-      },
-      {
-        "text": "forgetful",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Tiny describes size and sunlit describes the room's light.",
+      "hint": "Use both adjectives in the noun group."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-016",
@@ -575,37 +575,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "stage": "explain",
+    "skill": "compare_character_wording_explain",
+    "question": "One text says the fox ‘crept’; another says it ‘marched’. What difference is shown? Why is “The fox moves secretly in one and boldly in the other.” the best answer?",
+    "audio_prompt": "One text says the fox ‘crept’; another says it ‘marched’. What difference is shown? Why is “The fox moves secretly in one and boldly in the other.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "setting affects events",
+        "text": "Crept suggests secret movement; marched suggests bold, firm movement.",
         "is_correct": true
       },
       {
-        "text": "title has commas",
+        "text": "It is best only because it is longer than “The fox has the same movement because both verbs mean walked.”.",
         "is_correct": false
       },
       {
-        "text": "word has a suffix",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Crept suggests secret movement; marched suggests bold, firm movement.",
+      "hint": "Compare the feeling in each verb, not just the general action."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-017",
@@ -613,37 +613,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "stage": "explain",
+    "skill": "image_and_words_present_character_explain",
+    "question": "The words say Ben agrees, but the picture shows folded arms and a frown. What might the image add? Why is “Ben may agree but still feel unhappy about it.” the best answer?",
+    "audio_prompt": "The words say Ben agrees, but the picture shows folded arms and a frown. What might the image add? Why is “Ben may agree but still feel unhappy about it.” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bored",
+        "text": "It is best only because it is longer than “Ben seems pleased because the written words matter more than the picture.”.",
         "is_correct": false
       },
       {
-        "text": "greedy",
-        "is_correct": false
-      },
-      {
-        "text": "determined",
+        "text": "The body language adds a possible feeling that differs from the words.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The body language adds a possible feeling that differs from the words.",
+      "hint": "Compare what is said with face and posture; do not rely on one clue alone."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 17,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-018",
@@ -651,37 +651,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "stage": "explain",
+    "skill": "sensory_words_present_a_coast_explain",
+    "question": "‘Salt spray stung her cheeks and waves thundered.’ How is the coast presented? Why is “wild and powerful” the best answer?",
+    "audio_prompt": "‘Salt spray stung her cheeks and waves thundered.’ How is the coast presented? Why is “wild and powerful” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "sunny",
+        "text": "It is best only because it is longer than “silent and still”.",
         "is_correct": false
       },
       {
-        "text": "mysterious",
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Stung and thundered make the coastal setting feel wild and powerful.",
         "is_correct": true
-      },
-      {
-        "text": "busy",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Stung and thundered make the coastal setting feel wild and powerful.",
+      "hint": "Notice the strong sensory verbs."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 18,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-019",
@@ -689,37 +689,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "stage": "explain",
+    "skill": "speech_reveals_confidence_explain",
+    "question": "‘I know the path. Follow me!’ called Jo. How is Jo presented? Why is “confident” the best answer?",
+    "audio_prompt": "‘I know the path. Follow me!’ called Jo. How is Jo presented? Why is “confident” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "kind",
+        "text": "Jo's direct words and exclamation present confidence.",
         "is_correct": true
       },
       {
-        "text": "forgetful",
+        "text": "It is best only because it is longer than “uncertain”.",
         "is_correct": false
       },
       {
-        "text": "angry",
+        "text": "It is best because the details in the situation do not matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Jo's direct words and exclamation present confidence.",
+      "hint": "Use the dialogue and punctuation together."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 19,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-020",
@@ -727,37 +727,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "stage": "explain",
+    "skill": "compare_setting_moods_explain",
+    "question": "Text A calls the park ‘crowded and buzzing’. Text B calls it ‘empty and hushed’. What changes? Why is “the mood created by each description” the best answer?",
+    "audio_prompt": "Text A calls the park ‘crowded and buzzing’. Text B calls it ‘empty and hushed’. What changes? Why is “the mood created by each description” the best answer?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "title has commas",
+        "text": "It is best only because it is longer than “the number of people changes, but both word groups create the same mood”.",
         "is_correct": false
       },
       {
-        "text": "word has a suffix",
-        "is_correct": false
-      },
-      {
-        "text": "setting affects events",
+        "text": "The contrasting adjectives and sounds create different moods.",
         "is_correct": true
+      },
+      {
+        "text": "It is best because the details in the situation do not matter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The contrasting adjectives and sounds create different moods.",
+      "hint": "Compare the impressions made by the descriptive words."
     },
     "difficulty": 2,
     "difficulty_tier": "core",
     "sequence_priority": 20,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-021",
@@ -765,37 +765,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "stage": "discriminate",
+    "skill": "setting_words_create_mood_discriminate",
+    "question": "Which words make a cave sound frightening? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which words make a cave sound frightening? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "greedy",
+        "text": "the narrow, echoing cave",
         "is_correct": false
       },
       {
-        "text": "determined",
+        "text": "the ordinary cave",
+        "is_correct": false
+      },
+      {
+        "text": "the bright, friendly cave",
         "is_correct": true
-      },
-      {
-        "text": "bored",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“the bright, friendly cave” is the mix-up to avoid. Choose adjectives that build the target mood.",
+      "hint": "Choose adjectives that build the target mood."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 21,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-022",
@@ -803,37 +803,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "stage": "discriminate",
+    "skill": "precise_verb_comparison_discriminate",
+    "question": "Which verb best shows the dog moved eagerly toward its owner? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which verb best shows the dog moved eagerly toward its owner? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "mysterious",
+        "text": "went",
         "is_correct": true
       },
       {
-        "text": "busy",
+        "text": "bounded",
         "is_correct": false
       },
       {
-        "text": "sunny",
+        "text": "crept",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "“went” is the mix-up to avoid. Choose the verb with the most precise movement.",
+      "hint": "Choose the verb with the most precise movement."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 22,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-023",
@@ -841,43 +841,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LE03. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LE03. Use your own example.",
+    "stage": "discriminate",
+    "skill": "noun_group_presents_setting_discriminate",
+    "question": "What picture is built by ‘the tiny, sunlit room’? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "What picture is built by ‘the tiny, sunlit room’? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "a small room filled with light",
+        "is_correct": false
+      },
+      {
+        "text": "a small room with no light inside",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
+        "text": "a large room filled with bright light",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for How Language Presents Characters and Settings.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“a small room with no light inside” is the mix-up to avoid. Use both adjectives in the noun group.",
+      "hint": "Use both adjectives in the noun group."
     },
     "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty_tier": "application",
     "sequence_priority": 23,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for How Language Presents Characters and Settings.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-P-024",
@@ -885,43 +879,645 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "practice",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LE03, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LE03, then explain the answer.",
+    "stage": "discriminate",
+    "skill": "compare_character_wording_discriminate",
+    "question": "One text says the fox ‘crept’; another says it ‘marched’. What difference is shown? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "One text says the fox ‘crept’; another says it ‘marched’. What difference is shown? Which response is the clearest mix-up to avoid?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
+        "text": "The fox moves secretly in one and boldly in the other.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The verbs change the places but not how the fox seems to move.",
+        "is_correct": false
+      },
+      {
+        "text": "The fox has the same movement because both verbs mean walked.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“The fox has the same movement because both verbs mean walked.” is the mix-up to avoid. Compare the feeling in each verb, not just the general action.",
+      "hint": "Compare the feeling in each verb, not just the general action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 24,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-025",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "image_and_words_present_character_discriminate",
+    "question": "The words say Ben agrees, but the picture shows folded arms and a frown. What might the image add? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "The words say Ben agrees, but the picture shows folded arms and a frown. What might the image add? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ben seems pleased because the written words matter more than the picture.",
+        "is_correct": true
+      },
+      {
+        "text": "Ben may agree but still feel unhappy about it.",
+        "is_correct": false
+      },
+      {
+        "text": "Ben seems cold, so the frown does not add any feeling.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "“Ben seems pleased because the written words matter more than the picture.” is the mix-up to avoid. Compare what is said with face and posture; do not rely on one clue alone.",
+      "hint": "Compare what is said with face and posture; do not rely on one clue alone."
     },
     "difficulty": 3,
-    "difficulty_tier": "stretch",
-    "sequence_priority": 24,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "difficulty_tier": "application",
+    "sequence_priority": 25,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-026",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "sensory_words_present_a_coast_discriminate",
+    "question": "‘Salt spray stung her cheeks and waves thundered.’ How is the coast presented? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "‘Salt spray stung her cheeks and waves thundered.’ How is the coast presented? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "wild and powerful",
+        "is_correct": false
+      },
+      {
+        "text": "silent and still",
+        "is_correct": true
+      },
+      {
+        "text": "warm and sleepy",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“silent and still” is the mix-up to avoid. Notice the strong sensory verbs.",
+      "hint": "Notice the strong sensory verbs."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 26,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-027",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "speech_reveals_confidence_discriminate",
+    "question": "‘I know the path. Follow me!’ called Jo. How is Jo presented? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "‘I know the path. Follow me!’ called Jo. How is Jo presented? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "confident",
+        "is_correct": false
+      },
+      {
+        "text": "unhelpful",
+        "is_correct": false
+      },
+      {
+        "text": "uncertain",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“uncertain” is the mix-up to avoid. Use the dialogue and punctuation together.",
+      "hint": "Use the dialogue and punctuation together."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 27,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-028",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "compare_setting_moods_discriminate",
+    "question": "Text A calls the park ‘crowded and buzzing’. Text B calls it ‘empty and hushed’. What changes? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Text A calls the park ‘crowded and buzzing’. Text B calls it ‘empty and hushed’. What changes? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the number of people changes, but both word groups create the same mood",
+        "is_correct": true
+      },
+      {
+        "text": "the mood created by each description",
+        "is_correct": false
+      },
+      {
+        "text": "the park name changes, while its sounds and mood stay the same",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "“the number of people changes, but both word groups create the same mood” is the mix-up to avoid. Compare the impressions made by the descriptive words.",
+      "hint": "Compare the impressions made by the descriptive words."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-029",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "repeated_action_presents_character_discriminate",
+    "question": "Every morning, Asha checks that the kitten has food and water. What feature is built? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Every morning, Asha checks that the kitten has food and water. What feature is built? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Asha is responsible.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha is forgetful.",
+        "is_correct": true
+      },
+      {
+        "text": "Asha is frightened of the kitten.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "“Asha is forgetful.” is the mix-up to avoid. Use the pattern of actions as evidence.",
+      "hint": "Use the pattern of actions as evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-030",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "choose_vivid_storm_wording_discriminate",
+    "question": "Which sentence presents the storm most vividly? Which response is the clearest mix-up to avoid?",
+    "audio_prompt": "Which sentence presents the storm most vividly? Which response is the clearest mix-up to avoid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rain hammered the roof while branches whipped the windows.",
+        "is_correct": false
+      },
+      {
+        "text": "The storm was very stormy outside the house.",
+        "is_correct": false
+      },
+      {
+        "text": "Heavy rain fell while the wind moved the branches.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Heavy rain fell while the wind moved the branches.” is the mix-up to avoid. Choose precise words that help you hear and picture the setting.",
+      "hint": "Choose precise words that help you hear and picture the setting."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-031",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "setting_words_create_mood_apply",
+    "question": "Use this clue: Choose adjectives that build the target mood. Which words make a cave sound frightening?",
+    "audio_prompt": "Use this clue: Choose adjectives that build the target mood. Which words make a cave sound frightening?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the narrow, echoing cave",
+        "is_correct": true
+      },
+      {
+        "text": "the ordinary cave",
+        "is_correct": false
+      },
+      {
+        "text": "the bright, friendly cave",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Narrow and echoing create a more frightening impression of the cave.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-032",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "precise_verb_comparison_apply",
+    "question": "Use this clue: Choose the verb with the most precise movement. Which verb best shows the dog moved eagerly toward its owner?",
+    "audio_prompt": "Use this clue: Choose the verb with the most precise movement. Which verb best shows the dog moved eagerly toward its owner?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "crept",
+        "is_correct": false
+      },
+      {
+        "text": "bounded",
+        "is_correct": true
+      },
+      {
+        "text": "went",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Bounded shows energetic, eager movement more clearly than went or crept.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-033",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "noun_group_presents_setting_apply",
+    "question": "Use this clue: Use both adjectives in the noun group. What picture is built by ‘the tiny, sunlit room’?",
+    "audio_prompt": "Use this clue: Use both adjectives in the noun group. What picture is built by ‘the tiny, sunlit room’?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "a large room filled with bright light",
+        "is_correct": false
+      },
+      {
+        "text": "a small room with no light inside",
+        "is_correct": false
+      },
+      {
+        "text": "a small room filled with light",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Tiny describes size and sunlit describes the room's light.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-034",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "compare_character_wording_apply",
+    "question": "Use this clue: Compare the feeling in each verb, not just the general action. One text says the fox ‘crept’; another says it ‘marched’. What difference is shown?",
+    "audio_prompt": "Use this clue: Compare the feeling in each verb, not just the general action. One text says the fox ‘crept’; another says it ‘marched’. What difference is shown?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The fox moves secretly in one and boldly in the other.",
+        "is_correct": true
+      },
+      {
+        "text": "The verbs change the places but not how the fox seems to move.",
+        "is_correct": false
+      },
+      {
+        "text": "The fox has the same movement because both verbs mean walked.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Crept suggests secret movement; marched suggests bold, firm movement.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-035",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "image_and_words_present_character_apply",
+    "question": "Use this clue: Compare what is said with face and posture; do not rely on one clue alone. The words say Ben agrees, but the picture shows folded arms and a frown. What might the image add?",
+    "audio_prompt": "Use this clue: Compare what is said with face and posture; do not rely on one clue alone. The words say Ben agrees, but the picture shows folded arms and a frown. What might the image add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ben seems cold, so the frown does not add any feeling.",
+        "is_correct": false
+      },
+      {
+        "text": "Ben may agree but still feel unhappy about it.",
+        "is_correct": true
+      },
+      {
+        "text": "Ben seems pleased because the written words matter more than the picture.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The body language adds a possible feeling that differs from the words.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-036",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "sensory_words_present_a_coast_apply",
+    "question": "Use this clue: Notice the strong sensory verbs. ‘Salt spray stung her cheeks and waves thundered.’ How is the coast presented?",
+    "audio_prompt": "Use this clue: Notice the strong sensory verbs. ‘Salt spray stung her cheeks and waves thundered.’ How is the coast presented?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "warm and sleepy",
+        "is_correct": false
+      },
+      {
+        "text": "silent and still",
+        "is_correct": false
+      },
+      {
+        "text": "wild and powerful",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Stung and thundered make the coastal setting feel wild and powerful.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-037",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "speech_reveals_confidence_apply",
+    "question": "Use this clue: Use the dialogue and punctuation together. ‘I know the path. Follow me!’ called Jo. How is Jo presented?",
+    "audio_prompt": "Use this clue: Use the dialogue and punctuation together. ‘I know the path. Follow me!’ called Jo. How is Jo presented?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "confident",
+        "is_correct": true
+      },
+      {
+        "text": "unhelpful",
+        "is_correct": false
+      },
+      {
+        "text": "uncertain",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Jo's direct words and exclamation present confidence.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-038",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "compare_setting_moods_apply",
+    "question": "Use this clue: Compare the impressions made by the descriptive words. Text A calls the park ‘crowded and buzzing’. Text B calls it ‘empty and hushed’. What changes?",
+    "audio_prompt": "Use this clue: Compare the impressions made by the descriptive words. Text A calls the park ‘crowded and buzzing’. Text B calls it ‘empty and hushed’. What changes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "the park name changes, while its sounds and mood stay the same",
+        "is_correct": false
+      },
+      {
+        "text": "the mood created by each description",
+        "is_correct": true
+      },
+      {
+        "text": "the number of people changes, but both word groups create the same mood",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The contrasting adjectives and sounds create different moods.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-039",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "repeated_action_presents_character_apply",
+    "question": "Use this clue: Use the pattern of actions as evidence. Every morning, Asha checks that the kitten has food and water. What feature is built?",
+    "audio_prompt": "Use this clue: Use the pattern of actions as evidence. Every morning, Asha checks that the kitten has food and water. What feature is built?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Asha is frightened of the kitten.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha is forgetful.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha is responsible.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The repeated caring actions present Asha as responsible.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "student-facing-v3"
+  },
+  {
+    "id": "AC9E2LE03-P-040",
+    "subject": "english",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9E2LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "choose_vivid_storm_wording_apply",
+    "question": "Use this clue: Choose precise words that help you hear and picture the setting. Which sentence presents the storm most vividly?",
+    "audio_prompt": "Use this clue: Choose precise words that help you hear and picture the setting. Which sentence presents the storm most vividly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Rain hammered the roof while branches whipped the windows.",
+        "is_correct": true
+      },
+      {
+        "text": "The storm was very stormy outside the house.",
+        "is_correct": false
+      },
+      {
+        "text": "Heavy rain fell while the wind moved the branches.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Hammered and whipped create strong sound and movement.",
+      "hint": "Use the clue first, then check which response fits the exact people, purpose, text or language feature in the example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-001",
@@ -929,37 +1525,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
-    "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "stage": "verify",
+    "skill": "evidence_for_an_impression_direct",
+    "question": "A reader says the castle feels abandoned. Which line is best evidence?",
+    "audio_prompt": "A reader says the castle feels abandoned. Which line is best evidence?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "determined",
+        "text": "Dust covered the silent rooms and weeds filled the doorway.",
         "is_correct": true
       },
       {
-        "text": "bored",
+        "text": "One wooden door stood at the front.",
         "is_correct": false
       },
       {
-        "text": "greedy",
+        "text": "A bright flag moved above the busy gate.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Dust, silence and weeds support the impression that nobody cares for the castle.",
+      "hint": "Pick setting details that directly support abandoned."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 1,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-002",
@@ -967,37 +1563,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
-    "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "stage": "verify",
+    "skill": "compare_ways_of_showing_fear_direct",
+    "question": "Text A says, ‘Ravi was scared.’ Text B says, ‘Ravi's knees shook as he reached for the latch.’ What does Text B do differently?",
+    "audio_prompt": "Text A says, ‘Ravi was scared.’ Text B says, ‘Ravi's knees shook as he reached for the latch.’ What does Text B do differently?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "busy",
+        "text": "It names fear more directly than Text A does.",
         "is_correct": false
       },
       {
-        "text": "sunny",
-        "is_correct": false
-      },
-      {
-        "text": "mysterious",
+        "text": "It shows fear through Ravi's body and action.",
         "is_correct": true
+      },
+      {
+        "text": "It gives a latch detail but does not present Ravi's feeling.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Shaking knees and a careful reach let readers infer Ravi's fear from behaviour.",
+      "hint": "Notice whether the feeling is named or shown through evidence."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 2,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-003",
@@ -1005,37 +1601,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
-    "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "stage": "verify",
+    "skill": "dialogue_changes_an_impression_direct",
+    "question": "Mum asks who spilled the paint. Kira says, ‘I did. I will clean it up.’ How does the dialogue present Kira?",
+    "audio_prompt": "Mum asks who spilled the paint. Kira says, ‘I did. I will clean it up.’ How does the dialogue present Kira?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "angry",
+        "text": "as unsure because she uses short sentences",
         "is_correct": false
       },
       {
-        "text": "kind",
+        "text": "as careless because an accident happened",
+        "is_correct": false
+      },
+      {
+        "text": "as honest and responsible",
         "is_correct": true
-      },
-      {
-        "text": "forgetful",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Kira admits what happened and offers to repair it, showing honesty and responsibility.",
+      "hint": "Use both parts of what Kira says."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 3,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-004",
@@ -1043,37 +1639,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
-    "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "stage": "verify",
+    "skill": "setting_through_sound_direct",
+    "question": "Which line presents the library as busy rather than calm?",
+    "audio_prompt": "Which line presents the library as busy rather than calm?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "setting affects events",
+        "text": "Chairs scraped, pages flicked and groups whispered at every table.",
         "is_correct": true
       },
       {
-        "text": "title has commas",
+        "text": "One clock ticked above the empty desk.",
         "is_correct": false
       },
       {
-        "text": "word has a suffix",
+        "text": "Soft light rested on rows of closed books.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Several overlapping actions and sounds make the library seem busy.",
+      "hint": "Choose details that suggest many people and activities."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 4,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-005",
@@ -1081,37 +1677,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
-    "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "stage": "verify",
+    "skill": "verb_changes_character_movement_direct",
+    "question": "Replace walked in ‘The winner walked onto the stage’ to show proud, confident movement. Which verb fits?",
+    "audio_prompt": "Replace walked in ‘The winner walked onto the stage’ to show proud, confident movement. Which verb fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "bored",
+        "text": "wandered",
         "is_correct": false
       },
       {
-        "text": "greedy",
-        "is_correct": false
-      },
-      {
-        "text": "determined",
+        "text": "strode",
         "is_correct": true
+      },
+      {
+        "text": "tiptoed",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Strode suggests deliberate, confident movement onto the stage.",
+      "hint": "Compare the feeling carried by each movement word."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 5,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-006",
@@ -1119,37 +1715,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
-    "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "stage": "verify",
+    "skill": "image_changes_setting_meaning_direct",
+    "question": "The words say, ‘The house waited on the hill.’ Which image would make the house seem welcoming?",
+    "audio_prompt": "The words say, ‘The house waited on the hill.’ Which image would make the house seem welcoming?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "sunny",
+        "text": "dark windows, a broken gate and thorny weeds",
         "is_correct": false
       },
       {
-        "text": "mysterious",
+        "text": "thick fog hiding the path and roof",
+        "is_correct": false
+      },
+      {
+        "text": "warm windows, an open gate and flowers by the path",
         "is_correct": true
-      },
-      {
-        "text": "busy",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Warm light, openness and flowers support a welcoming impression.",
+      "hint": "Match colour, light and objects to the intended feeling."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 6,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-007",
@@ -1157,37 +1753,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
-    "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "stage": "verify",
+    "skill": "noun_group_precision_direct",
+    "question": "Which noun group helps a reader picture a nest hidden from view?",
+    "audio_prompt": "Which noun group helps a reader picture a nest hidden from view?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "kind",
+        "text": "the tiny nest beneath tangled green vines",
         "is_correct": true
       },
       {
-        "text": "forgetful",
+        "text": "the nest somewhere near plants",
         "is_correct": false
       },
       {
-        "text": "angry",
+        "text": "the enormous nest on the open roof",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Size, position and tangled vines create a precise picture of a concealed nest.",
+      "hint": "Look for details that all support hidden."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 7,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-008",
@@ -1195,37 +1791,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
-    "stage": "recognise",
-    "skill": "literary features",
-    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "stage": "verify",
+    "skill": "compare_character_descriptions_direct",
+    "question": "One author calls Mo ‘careful’; another shows Mo checking each knot twice. How are the descriptions related?",
+    "audio_prompt": "One author calls Mo ‘careful’; another shows Mo checking each knot twice. How are the descriptions related?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "title has commas",
+        "text": "The descriptions are unrelated because one uses a word and one uses an action.",
         "is_correct": false
       },
       {
-        "text": "word has a suffix",
-        "is_correct": false
-      },
-      {
-        "text": "setting affects events",
+        "text": "Both present Mo as careful, but one tells and one shows.",
         "is_correct": true
+      },
+      {
+        "text": "Both descriptions tell the quality directly in exactly the same way.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "The adjective names the quality, while the repeated checking demonstrates it.",
+      "hint": "Compare the direct label with the action evidence."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 8,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-009",
@@ -1234,36 +1830,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
     "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "skill": "evidence_for_an_impression_test-reason",
+    "question": "A reader says the castle feels abandoned. Which line is best evidence? Which reason best supports the correct choice?",
+    "audio_prompt": "A reader says the castle feels abandoned. Which line is best evidence? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "greedy",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "determined",
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Dust, silence and weeds support the impression that nobody cares for the castle.",
         "is_correct": true
-      },
-      {
-        "text": "bored",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Dust, silence and weeds support the impression that nobody cares for the castle.",
+      "hint": "Pick setting details that directly support abandoned."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 9,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-010",
@@ -1272,36 +1868,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
     "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "skill": "compare_ways_of_showing_fear_test-reason",
+    "question": "Text A says, ‘Ravi was scared.’ Text B says, ‘Ravi's knees shook as he reached for the latch.’ What does Text B do differently? Which reason best supports the correct choice?",
+    "audio_prompt": "Text A says, ‘Ravi was scared.’ Text B says, ‘Ravi's knees shook as he reached for the latch.’ What does Text B do differently? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "mysterious",
+        "text": "Shaking knees and a careful reach let readers infer Ravi's fear from behaviour.",
         "is_correct": true
       },
       {
-        "text": "busy",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "sunny",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Shaking knees and a careful reach let readers infer Ravi's fear from behaviour.",
+      "hint": "Notice whether the feeling is named or shown through evidence."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 10,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-011",
@@ -1310,36 +1906,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
     "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
+    "skill": "dialogue_changes_an_impression_test-reason",
+    "question": "Mum asks who spilled the paint. Kira says, ‘I did. I will clean it up.’ How does the dialogue present Kira? Which reason best supports the correct choice?",
+    "audio_prompt": "Mum asks who spilled the paint. Kira says, ‘I did. I will clean it up.’ How does the dialogue present Kira? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "forgetful",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "angry",
-        "is_correct": false
-      },
-      {
-        "text": "kind",
+        "text": "Kira admits what happened and offers to repair it, showing honesty and responsibility.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Kira admits what happened and offers to repair it, showing honesty and responsibility.",
+      "hint": "Use both parts of what Kira says."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 11,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-012",
@@ -1348,36 +1944,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
     "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
+    "skill": "setting_through_sound_test-reason",
+    "question": "Which line presents the library as busy rather than calm? Which reason best supports the correct choice?",
+    "audio_prompt": "Which line presents the library as busy rather than calm? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "word has a suffix",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "setting affects events",
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Several overlapping actions and sounds make the library seem busy.",
         "is_correct": true
-      },
-      {
-        "text": "title has commas",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Several overlapping actions and sounds make the library seem busy.",
+      "hint": "Choose details that suggest many people and activities."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 12,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-013",
@@ -1386,36 +1982,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
     "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
+    "skill": "verb_changes_character_movement_test-reason",
+    "question": "Replace walked in ‘The winner walked onto the stage’ to show proud, confident movement. Which verb fits? Which reason best supports the correct choice?",
+    "audio_prompt": "Replace walked in ‘The winner walked onto the stage’ to show proud, confident movement. Which verb fits? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "determined",
+        "text": "Strode suggests deliberate, confident movement onto the stage.",
         "is_correct": true
       },
       {
-        "text": "bored",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "greedy",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Strode suggests deliberate, confident movement onto the stage.",
+      "hint": "Compare the feeling carried by each movement word."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 13,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-014",
@@ -1424,36 +2020,36 @@
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
     "stage": "apply",
-    "skill": "literary features",
-    "question": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audio_prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
+    "skill": "image_changes_setting_meaning_test-reason",
+    "question": "The words say, ‘The house waited on the hill.’ Which image would make the house seem welcoming? Which reason best supports the correct choice?",
+    "audio_prompt": "The words say, ‘The house waited on the hill.’ Which image would make the house seem welcoming? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "busy",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "sunny",
-        "is_correct": false
-      },
-      {
-        "text": "mysterious",
+        "text": "Warm light, openness and flowers support a welcoming impression.",
         "is_correct": true
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-      "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea."
+      "summary": "Warm light, openness and flowers support a welcoming impression.",
+      "hint": "Match colour, light and objects to the intended feeling."
     },
-    "difficulty": 2,
-    "difficulty_tier": "core",
+    "difficulty": 3,
+    "difficulty_tier": "application",
     "sequence_priority": 14,
-    "quality_schema": "year2-english-remaining-original-v1"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-015",
@@ -1461,43 +2057,37 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
-    "stage": "create",
-    "skill": "explain concept",
-    "question": "Write or say two sentences that show the main idea of AC9E2LE03. Use your own example.",
-    "audio_prompt": "Write or say two sentences that show the main idea of AC9E2LE03. Use your own example.",
+    "stage": "apply",
+    "skill": "noun_group_precision_test-reason",
+    "question": "Which noun group helps a reader picture a nest hidden from view? Which reason best supports the correct choice?",
+    "audio_prompt": "Which noun group helps a reader picture a nest hidden from view? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The correct choice is simply the most formal-sounding option.",
+        "is_correct": false
+      },
+      {
+        "text": "The correct choice works even if the situation and audience are ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "Size, position and tangled vines create a precise picture of a concealed nest.",
         "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong response explains the code idea and includes a correct original example for How Language Presents Characters and Settings.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "Size, position and tangled vines create a precise picture of a concealed nest.",
+      "hint": "Look for details that all support hidden."
     },
     "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty_tier": "application",
     "sequence_priority": 15,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response explains the code idea and includes a correct original example for How Language Presents Characters and Settings.",
-    "acceptance_note": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "student-facing-v3"
   },
   {
     "id": "AC9E2LE03-T-016",
@@ -1505,42 +2095,36 @@
     "year_level": "Year 2",
     "curriculum_code": "AC9E2LE03",
     "bank": "test",
-    "stage": "create",
-    "skill": "apply concept",
-    "question": "Create a short Year 2 example question for AC9E2LE03, then explain the answer.",
-    "audio_prompt": "Create a short Year 2 example question for AC9E2LE03, then explain the answer.",
+    "stage": "apply",
+    "skill": "compare_character_descriptions_test-reason",
+    "question": "One author calls Mo ‘careful’; another shows Mo checking each knot twice. How are the descriptions related? Which reason best supports the correct choice?",
+    "audio_prompt": "One author calls Mo ‘careful’; another shows Mo checking each knot twice. How are the descriptions related? Which reason best supports the correct choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Parent or teacher review needed",
+        "text": "The adjective names the quality, while the repeated checking demonstrates it.",
         "is_correct": true
       },
       {
-        "text": "Needs more detail",
+        "text": "The correct choice is simply the most formal-sounding option.",
         "is_correct": false
       },
       {
-        "text": "Off topic",
+        "text": "The correct choice works even if the situation and audience are ignored.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strong response creates a clear example and explains why the answer works.",
-      "hint": "Use the checklist in the question and ask an adult to confirm your response."
+      "summary": "The adjective names the quality, while the repeated checking demonstrates it.",
+      "hint": "Compare the direct label with the action evidence."
     },
     "difficulty": 3,
-    "difficulty_tier": "stretch",
+    "difficulty_tier": "application",
     "sequence_priority": 16,
-    "quality_schema": "year2-english-remaining-original-v1",
-    "response_type": "adult_review",
-    "grading_mode": "adult_review",
-    "model_answer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptance_note": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "response_instructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completion_label": "Ready for adult review"
+    "quality_schema": "student-facing-v3"
   }
 ]

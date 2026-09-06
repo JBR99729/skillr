@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "ac9s6i06-p-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "What should stay the same when explaining findings to different audiences?",
+    "audio_prompt": "What should stay the same when explaining findings to different audiences?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The accuracy of the evidence and conclusion.",
+        "is_correct": true
+      },
+      {
+        "text": "The exact vocabulary level.",
+        "is_correct": false
+      },
+      {
+        "text": "The font colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The accuracy of the evidence and conclusion.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Which feature best supports a scientific finding on a poster?",
+    "audio_prompt": "Which feature best supports a scientific finding on a poster?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An unrelated decoration.",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled graph with a caption explaining the trend.",
+        "is_correct": true
+      },
+      {
+        "text": "A huge title with no data.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A labelled graph with a caption explaining the trend.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Why define technical words for a younger audience?",
+    "audio_prompt": "Why define technical words for a younger audience?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It changes the results.",
+        "is_correct": false
+      },
+      {
+        "text": "It hides the evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps readers understand without changing the science.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It helps readers understand without changing the science.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "A conclusion only repeats the prediction. What is missing?",
+    "audio_prompt": "A conclusion only repeats the prediction. What is missing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A statement linking results to evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "A brighter background.",
+        "is_correct": false
+      },
+      {
+        "text": "A new unrelated question.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A statement linking results to evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Why cite or name data sources in a digital report?",
+    "audio_prompt": "Why cite or name data sources in a digital report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So the report looks longer.",
+        "is_correct": false
+      },
+      {
+        "text": "So readers can judge and check the evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "So no explanation is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "So readers can judge and check the evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Which slide design helps an oral presentation?",
+    "audio_prompt": "Which slide design helps an oral presentation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Six paragraphs of tiny text.",
+        "is_correct": false
+      },
+      {
+        "text": "Images with no connection to findings.",
+        "is_correct": false
+      },
+      {
+        "text": "Few key words, readable labels and spoken explanation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Few key words, readable labels and spoken explanation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "A report includes a graph but no explanation. What should be added?",
+    "audio_prompt": "A report includes a graph but no explanation. What should be added?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Text explaining the pattern and what it means.",
+        "is_correct": true
+      },
+      {
+        "text": "More decorative borders.",
+        "is_correct": false
+      },
+      {
+        "text": "A different prediction only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Text explaining the pattern and what it means.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Which communication choice improves accessibility?",
+    "audio_prompt": "Which communication choice improves accessibility?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low-contrast labels.",
+        "is_correct": false
+      },
+      {
+        "text": "Clear contrast, readable text and alt text for important images.",
+        "is_correct": true
+      },
+      {
+        "text": "Important information only in tiny images.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Clear contrast, readable text and alt text for important images.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "What should stay the same when explaining findings to different audiences in a new class investigation?",
+    "audio_prompt": "What should stay the same when explaining findings to different audiences in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The exact vocabulary level.",
+        "is_correct": false
+      },
+      {
+        "text": "The font colour.",
+        "is_correct": false
+      },
+      {
+        "text": "The accuracy of the evidence and conclusion.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The accuracy of the evidence and conclusion.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Which feature best supports a scientific finding on a poster in a new class investigation?",
+    "audio_prompt": "Which feature best supports a scientific finding on a poster in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A labelled graph with a caption explaining the trend.",
+        "is_correct": true
+      },
+      {
+        "text": "An unrelated decoration.",
+        "is_correct": false
+      },
+      {
+        "text": "A huge title with no data.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A labelled graph with a caption explaining the trend.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Why define technical words for a younger audience in a new class investigation?",
+    "audio_prompt": "Why define technical words for a younger audience in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It changes the results.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps readers understand without changing the science.",
+        "is_correct": true
+      },
+      {
+        "text": "It hides the evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It helps readers understand without changing the science.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "A conclusion only repeats the prediction. What is missing in a new class investigation?",
+    "audio_prompt": "A conclusion only repeats the prediction. What is missing in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A brighter background.",
+        "is_correct": false
+      },
+      {
+        "text": "A new unrelated question.",
+        "is_correct": false
+      },
+      {
+        "text": "A statement linking results to evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A statement linking results to evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Why cite or name data sources in a digital report in a new class investigation?",
+    "audio_prompt": "Why cite or name data sources in a digital report in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So readers can judge and check the evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "So the report looks longer.",
+        "is_correct": false
+      },
+      {
+        "text": "So no explanation is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "So readers can judge and check the evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Which slide design helps an oral presentation in a new class investigation?",
+    "audio_prompt": "Which slide design helps an oral presentation in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Six paragraphs of tiny text.",
+        "is_correct": false
+      },
+      {
+        "text": "Few key words, readable labels and spoken explanation.",
+        "is_correct": true
+      },
+      {
+        "text": "Images with no connection to findings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Few key words, readable labels and spoken explanation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "A report includes a graph but no explanation. What should be added in a new class investigation?",
+    "audio_prompt": "A report includes a graph but no explanation. What should be added in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "More decorative borders.",
+        "is_correct": false
+      },
+      {
+        "text": "A different prediction only.",
+        "is_correct": false
+      },
+      {
+        "text": "Text explaining the pattern and what it means.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Text explaining the pattern and what it means.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Which communication choice improves accessibility in a new class investigation?",
+    "audio_prompt": "Which communication choice improves accessibility in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Clear contrast, readable text and alt text for important images.",
+        "is_correct": true
+      },
+      {
+        "text": "Low-contrast labels.",
+        "is_correct": false
+      },
+      {
+        "text": "Important information only in tiny images.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Clear contrast, readable text and alt text for important images.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-017",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "What should stay the same when explaining findings to different audiences after students review their evidence?",
+    "audio_prompt": "What should stay the same when explaining findings to different audiences after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The exact vocabulary level.",
+        "is_correct": false
+      },
+      {
+        "text": "The accuracy of the evidence and conclusion.",
+        "is_correct": true
+      },
+      {
+        "text": "The font colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The accuracy of the evidence and conclusion.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-018",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Which feature best supports a scientific finding on a poster after students review their evidence?",
+    "audio_prompt": "Which feature best supports a scientific finding on a poster after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An unrelated decoration.",
+        "is_correct": false
+      },
+      {
+        "text": "A huge title with no data.",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled graph with a caption explaining the trend.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A labelled graph with a caption explaining the trend.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-019",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Why define technical words for a younger audience after students review their evidence?",
+    "audio_prompt": "Why define technical words for a younger audience after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It helps readers understand without changing the science.",
+        "is_correct": true
+      },
+      {
+        "text": "It changes the results.",
+        "is_correct": false
+      },
+      {
+        "text": "It hides the evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It helps readers understand without changing the science.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-020",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "A conclusion only repeats the prediction. What is missing after students review their evidence?",
+    "audio_prompt": "A conclusion only repeats the prediction. What is missing after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A brighter background.",
+        "is_correct": false
+      },
+      {
+        "text": "A statement linking results to evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "A new unrelated question.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A statement linking results to evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-021",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Why cite or name data sources in a digital report after students review their evidence?",
+    "audio_prompt": "Why cite or name data sources in a digital report after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So the report looks longer.",
+        "is_correct": false
+      },
+      {
+        "text": "So no explanation is needed.",
+        "is_correct": false
+      },
+      {
+        "text": "So readers can judge and check the evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "So readers can judge and check the evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-022",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Which slide design helps an oral presentation after students review their evidence?",
+    "audio_prompt": "Which slide design helps an oral presentation after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Few key words, readable labels and spoken explanation.",
+        "is_correct": true
+      },
+      {
+        "text": "Six paragraphs of tiny text.",
+        "is_correct": false
+      },
+      {
+        "text": "Images with no connection to findings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Few key words, readable labels and spoken explanation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-023",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "A report includes a graph but no explanation. What should be added after students review their evidence?",
+    "audio_prompt": "A report includes a graph but no explanation. What should be added after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "More decorative borders.",
+        "is_correct": false
+      },
+      {
+        "text": "Text explaining the pattern and what it means.",
+        "is_correct": true
+      },
+      {
+        "text": "A different prediction only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Text explaining the pattern and what it means.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-p-024",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "practice",
+    "skill": "communicating findings",
+    "question": "Which communication choice improves accessibility after students review their evidence?",
+    "audio_prompt": "Which communication choice improves accessibility after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low-contrast labels.",
+        "is_correct": false
+      },
+      {
+        "text": "Important information only in tiny images.",
+        "is_correct": false
+      },
+      {
+        "text": "Clear contrast, readable text and alt text for important images.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Clear contrast, readable text and alt text for important images.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A different class checks the same science idea: Which communication choice improves accessibility?",
+    "audio_prompt": "A different class checks the same science idea: Which communication choice improves accessibility?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Clear contrast, readable text and alt text for important images.",
+        "is_correct": true
+      },
+      {
+        "text": "Low-contrast labels.",
+        "is_correct": false
+      },
+      {
+        "text": "Important information only in tiny images.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Clear contrast, readable text and alt text for important images.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A different class checks the same science idea: A report includes a graph but no explanation. What should be added?",
+    "audio_prompt": "A different class checks the same science idea: A report includes a graph but no explanation. What should be added?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "More decorative borders.",
+        "is_correct": false
+      },
+      {
+        "text": "Text explaining the pattern and what it means.",
+        "is_correct": true
+      },
+      {
+        "text": "A different prediction only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Text explaining the pattern and what it means.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A different class checks the same science idea: Which slide design helps an oral presentation?",
+    "audio_prompt": "A different class checks the same science idea: Which slide design helps an oral presentation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Six paragraphs of tiny text.",
+        "is_correct": false
+      },
+      {
+        "text": "Images with no connection to findings.",
+        "is_correct": false
+      },
+      {
+        "text": "Few key words, readable labels and spoken explanation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Few key words, readable labels and spoken explanation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A different class checks the same science idea: Why cite or name data sources in a digital report?",
+    "audio_prompt": "A different class checks the same science idea: Why cite or name data sources in a digital report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So readers can judge and check the evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "So the report looks longer.",
+        "is_correct": false
+      },
+      {
+        "text": "So no explanation is needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "So readers can judge and check the evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A different class checks the same science idea: A conclusion only repeats the prediction. What is missing?",
+    "audio_prompt": "A different class checks the same science idea: A conclusion only repeats the prediction. What is missing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A brighter background.",
+        "is_correct": false
+      },
+      {
+        "text": "A statement linking results to evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "A new unrelated question.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A statement linking results to evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A different class checks the same science idea: Why define technical words for a younger audience?",
+    "audio_prompt": "A different class checks the same science idea: Why define technical words for a younger audience?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It changes the results.",
+        "is_correct": false
+      },
+      {
+        "text": "It hides the evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps readers understand without changing the science.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It helps readers understand without changing the science.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A different class checks the same science idea: Which feature best supports a scientific finding on a poster?",
+    "audio_prompt": "A different class checks the same science idea: Which feature best supports a scientific finding on a poster?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A labelled graph with a caption explaining the trend.",
+        "is_correct": true
+      },
+      {
+        "text": "An unrelated decoration.",
+        "is_correct": false
+      },
+      {
+        "text": "A huge title with no data.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A labelled graph with a caption explaining the trend.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A different class checks the same science idea: What should stay the same when explaining findings to different audiences?",
+    "audio_prompt": "A different class checks the same science idea: What should stay the same when explaining findings to different audiences?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The exact vocabulary level.",
+        "is_correct": false
+      },
+      {
+        "text": "The accuracy of the evidence and conclusion.",
+        "is_correct": true
+      },
+      {
+        "text": "The font colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The accuracy of the evidence and conclusion.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A follow-up test asks: Which communication choice improves accessibility?",
+    "audio_prompt": "A follow-up test asks: Which communication choice improves accessibility?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Low-contrast labels.",
+        "is_correct": false
+      },
+      {
+        "text": "Important information only in tiny images.",
+        "is_correct": false
+      },
+      {
+        "text": "Clear contrast, readable text and alt text for important images.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Clear contrast, readable text and alt text for important images.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A follow-up test asks: A report includes a graph but no explanation. What should be added?",
+    "audio_prompt": "A follow-up test asks: A report includes a graph but no explanation. What should be added?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Text explaining the pattern and what it means.",
+        "is_correct": true
+      },
+      {
+        "text": "More decorative borders.",
+        "is_correct": false
+      },
+      {
+        "text": "A different prediction only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Text explaining the pattern and what it means.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A follow-up test asks: Which slide design helps an oral presentation?",
+    "audio_prompt": "A follow-up test asks: Which slide design helps an oral presentation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Six paragraphs of tiny text.",
+        "is_correct": false
+      },
+      {
+        "text": "Few key words, readable labels and spoken explanation.",
+        "is_correct": true
+      },
+      {
+        "text": "Images with no connection to findings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Few key words, readable labels and spoken explanation.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A follow-up test asks: Why cite or name data sources in a digital report?",
+    "audio_prompt": "A follow-up test asks: Why cite or name data sources in a digital report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So the report looks longer.",
+        "is_correct": false
+      },
+      {
+        "text": "So no explanation is needed.",
+        "is_correct": false
+      },
+      {
+        "text": "So readers can judge and check the evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "So readers can judge and check the evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A follow-up test asks: A conclusion only repeats the prediction. What is missing?",
+    "audio_prompt": "A follow-up test asks: A conclusion only repeats the prediction. What is missing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A statement linking results to evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "A brighter background.",
+        "is_correct": false
+      },
+      {
+        "text": "A new unrelated question.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A statement linking results to evidence.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A follow-up test asks: Why define technical words for a younger audience?",
+    "audio_prompt": "A follow-up test asks: Why define technical words for a younger audience?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It changes the results.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps readers understand without changing the science.",
+        "is_correct": true
+      },
+      {
+        "text": "It hides the evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It helps readers understand without changing the science.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A follow-up test asks: Which feature best supports a scientific finding on a poster?",
+    "audio_prompt": "A follow-up test asks: Which feature best supports a scientific finding on a poster?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An unrelated decoration.",
+        "is_correct": false
+      },
+      {
+        "text": "A huge title with no data.",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled graph with a caption explaining the trend.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A labelled graph with a caption explaining the trend.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i06-t-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I06",
+    "bank": "test",
+    "skill": "communicating findings",
+    "question": "A follow-up test asks: What should stay the same when explaining findings to different audiences?",
+    "audio_prompt": "A follow-up test asks: What should stay the same when explaining findings to different audiences?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The accuracy of the evidence and conclusion.",
+        "is_correct": true
+      },
+      {
+        "text": "The exact vocabulary level.",
+        "is_correct": false
+      },
+      {
+        "text": "The font colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The accuracy of the evidence and conclusion.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  }
+]

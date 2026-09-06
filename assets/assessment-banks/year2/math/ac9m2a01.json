@@ -1,0 +1,1697 @@
+[
+  {
+    "id": "AC9M2A01-P-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "identify_constant_change",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Which number pattern increases by the same amount each time?",
+    "audio_prompt": "Which number pattern increases by the same amount each time?",
+    "answers": [
+      {
+        "text": "4, 7, 10, 13",
+        "is_correct": true
+      },
+      {
+        "text": "4, 7, 9, 13",
+        "is_correct": false
+      },
+      {
+        "text": "4, 8, 11, 15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each term is 3 more than the term before it.",
+      "hint": "Compare every neighbouring pair."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "continue_increasing_pattern",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Continue the pattern: 12, 17, 22, __.",
+    "audio_prompt": "Continue the pattern: 12, 17, 22, __.",
+    "answers": [
+      {
+        "text": "26",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "28",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The constant change is +5, so 22 + 5 = 27.",
+      "hint": "Find the change between the first two terms."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "continue_decreasing_pattern",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "What comes next: 35, 31, 27, 23, __?",
+    "audio_prompt": "What comes next: 35, 31, 27, 23, __?",
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "19",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pattern subtracts 4 each time; 23 − 4 = 19.",
+      "hint": "Keep the direction and amount unchanged."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "identify_rule",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "What is the rule for 6, 10, 14, 18?",
+    "audio_prompt": "What is the rule for 6, 10, 14, 18?",
+    "answers": [
+      {
+        "text": "Add 4",
+        "is_correct": true
+      },
+      {
+        "text": "Add 6",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract 4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Every step increases by 4.",
+      "hint": "Subtract one term from the next."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "identify_decreasing_rule",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "What is the rule for 48, 41, 34, 27?",
+    "audio_prompt": "What is the rule for 48, 41, 34, 27?",
+    "answers": [
+      {
+        "text": "Subtract 6",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract 7",
+        "is_correct": true
+      },
+      {
+        "text": "Add 7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each term is 7 less than the previous term.",
+      "hint": "Check the rule on more than one step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "missing_middle_term",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Find the missing number: 9, 13, __, 21, 25.",
+    "audio_prompt": "Find the missing number: 9, 13, __, 21, 25.",
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "17",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Adding 4 to 13 gives 17, and adding 4 again gives 21.",
+      "hint": "The missing value must fit on both sides."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "missing_first_term",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Find the missing first term: __, 18, 24, 30.",
+    "audio_prompt": "Find the missing first term: __, 18, 24, 30.",
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The rule is +6, so the term before 18 is 18 − 6 = 12.",
+      "hint": "Work backwards using the opposite operation."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "missing_decreasing_term",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Complete: 70, 62, 54, __, 38.",
+    "audio_prompt": "Complete: 70, 62, 54, __, 38.",
+    "answers": [
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "46",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtracting 8 from 54 gives 46, then 46 − 8 = 38.",
+      "hint": "Check both gaps around the blank."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "shape_growth_count",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A shape pattern uses 2 squares, then 5 squares, then 8 squares. How many squares are in the next shape?",
+    "audio_prompt": "A shape pattern uses 2 squares, then 5 squares, then 8 squares. How many squares are in the next shape?",
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The number of squares grows by 3 each step, so 8 + 3 = 11.",
+      "hint": "Count the constant growth."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "object_decrease",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Four displays contain 20, 17, 14 and 11 counters. How many counters should the next display contain?",
+    "audio_prompt": "Four displays contain 20, 17, 14 and 11 counters. How many counters should the next display contain?",
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each display has 3 fewer counters; 11 − 3 = 8.",
+      "hint": "Describe what changes from display to display."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "match_object_rule",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A tower pattern has 3 blocks, 7 blocks, 11 blocks and 15 blocks. Which rule matches it?",
+    "audio_prompt": "A tower pattern has 3 blocks, 7 blocks, 11 blocks and 15 blocks. Which rule matches it?",
+    "answers": [
+      {
+        "text": "Start at 3 and add 3",
+        "is_correct": false
+      },
+      {
+        "text": "Start at 3 and add 4",
+        "is_correct": true
+      },
+      {
+        "text": "Start at 4 and add 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The counts 3, 7, 11 and 15 increase by 4.",
+      "hint": "Test the rule against every tower."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "predict_later_term",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A pattern starts 5, 8, 11, 14. What is the sixth term?",
+    "audio_prompt": "A pattern starts 5, 8, 11, 14. What is the sixth term?",
+    "answers": [
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "23",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The fifth term is 17 and the sixth is 20 because the rule is +3.",
+      "hint": "Do not stop after finding only the next term."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "addition_table_output",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A number machine adds 6. What is the output for an input of 13?",
+    "audio_prompt": "A number machine adds 6. What is the output for an input of 13?",
+    "answers": [
+      {
+        "text": "19",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Apply the constant rule: 13 + 6 = 19.",
+      "hint": "Use the same change for every input."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "subtraction_table_output",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A number machine subtracts 5. What is the output for 24?",
+    "audio_prompt": "A number machine subtracts 5. What is the output for 24?",
+    "answers": [
+      {
+        "text": "29",
+        "is_correct": false
+      },
+      {
+        "text": "19",
+        "is_correct": true
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The output is 24 − 5 = 19.",
+      "hint": "The rule decreases the input."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "infer_addition_rule",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A table maps 3→10, 6→13 and 12→19. What is its rule?",
+    "audio_prompt": "A table maps 3→10, 6→13 and 12→19. What is its rule?",
+    "answers": [
+      {
+        "text": "Add 6",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract 7",
+        "is_correct": false
+      },
+      {
+        "text": "Add 7",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each output is 7 greater than its input.",
+      "hint": "Compare input and output in several rows."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "infer_subtraction_rule",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A table maps 18→14, 25→21 and 40→36. What is its rule?",
+    "audio_prompt": "A table maps 18→14, 25→21 and 40→36. What is its rule?",
+    "answers": [
+      {
+        "text": "Subtract 4",
+        "is_correct": true
+      },
+      {
+        "text": "Add 4",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract 5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Every output is 4 less than its input.",
+      "hint": "Check the direction of the change."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-017",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "complete_table_pair",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "The rule is add 9. Which input-output pair belongs in the table?",
+    "audio_prompt": "The rule is add 9. Which input-output pair belongs in the table?",
+    "answers": [
+      {
+        "text": "16→24",
+        "is_correct": false
+      },
+      {
+        "text": "16→25",
+        "is_correct": true
+      },
+      {
+        "text": "25→16",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Sixteen plus 9 equals 25.",
+      "hint": "Apply the stated rule to the input."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-018",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "find_table_input",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A machine adds 8 and produces 31. What number went in?",
+    "audio_prompt": "A machine adds 8 and produces 31. What number went in?",
+    "answers": [
+      {
+        "text": "39",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "23",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Undo +8 with subtraction: 31 − 8 = 23.",
+      "hint": "Work backwards from the output."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-019",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "compare_pattern_rules",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Pattern A is 10, 14, 18. Pattern B is 10, 16, 22. How do their rules differ?",
+    "audio_prompt": "Pattern A is 10, 14, 18. Pattern B is 10, 16, 22. How do their rules differ?",
+    "answers": [
+      {
+        "text": "A adds 4; B adds 6",
+        "is_correct": true
+      },
+      {
+        "text": "A adds 6; B adds 4",
+        "is_correct": false
+      },
+      {
+        "text": "Both add 4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The constant changes are 4 and 6 respectively.",
+      "hint": "Find each pattern’s change separately."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-020",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "diagnose_nonconstant_pattern",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Why is 7, 11, 15, 20 not a constant additive pattern?",
+    "audio_prompt": "Why is 7, 11, 15, 20 not a constant additive pattern?",
+    "answers": [
+      {
+        "text": "It contains an even number",
+        "is_correct": false
+      },
+      {
+        "text": "The last change is +5 instead of +4",
+        "is_correct": true
+      },
+      {
+        "text": "It increases rather than decreases",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The changes are +4, +4 and +5, so they are not constant.",
+      "hint": "List every change."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-021",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "repair_pattern",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "The rule is subtract 6. Which term needs changing in 50, 44, 38, 33, 26?",
+    "audio_prompt": "The rule is subtract 6. Which term needs changing in 50, 44, 38, 33, 26?",
+    "answers": [
+      {
+        "text": "44 should be 45",
+        "is_correct": false
+      },
+      {
+        "text": "26 should be 27",
+        "is_correct": false
+      },
+      {
+        "text": "33 should be 32",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "After 38, subtracting 6 gives 32; then 32 − 6 = 26.",
+      "hint": "Generate the pattern from the start."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-022",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "reason_from_two_terms",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A constant additive pattern has 22 followed by 29. Which number must follow 29?",
+    "audio_prompt": "A constant additive pattern has 22 followed by 29. Which number must follow 29?",
+    "answers": [
+      {
+        "text": "36",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "37",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The change is +7, so 29 + 7 = 36.",
+      "hint": "Use the difference between the known consecutive terms."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-P-023",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "create_number_pattern",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Create a six-term number pattern that starts at 17 and decreases by 3. State the rule.",
+    "audio_prompt": "Create a six-term number pattern that starts at 17 and decreases by 3. State the rule.",
+    "answers": [
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Completed response",
+        "is_correct": true
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "17, 14, 11, 8, 5, 2; rule: subtract 3 each time.",
+      "hint": "Accept the six correct terms and an explicit subtract-3 rule."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "17, 14, 11, 8, 5, 2; rule: subtract 3 each time.",
+    "acceptance_note": "Accept the six correct terms and an explicit subtract-3 rule.",
+    "response_instructions": "Write all six terms and name the constant change.",
+    "completion_label": "Ready for adult review"
+  },
+  {
+    "id": "AC9M2A01-P-024",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "practice",
+    "skill": "create_object_pattern",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Draw or describe four groups of objects whose counts form a pattern starting at 2 and increasing by 4.",
+    "audio_prompt": "Draw or describe four groups of objects whose counts form a pattern starting at 2 and increasing by 4.",
+    "answers": [
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      },
+      {
+        "text": "Completed response",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Valid group counts are 2, 6, 10 and 14 objects; the rule is add 4.",
+      "hint": "The objects may differ, but each group count and the +4 rule must be clear."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Valid group counts are 2, 6, 10 and 14 objects; the rule is add 4.",
+    "acceptance_note": "The objects may differ, but each group count and the +4 rule must be clear.",
+    "response_instructions": "Show four groups, label their counts and state the rule.",
+    "completion_label": "Ready for adult review"
+  },
+  {
+    "id": "AC9M2A01-T-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "constant_change",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Which pattern has a constant change of +6?",
+    "audio_prompt": "Which pattern has a constant change of +6?",
+    "answers": [
+      {
+        "text": "7, 13, 19, 25",
+        "is_correct": true
+      },
+      {
+        "text": "7, 12, 19, 25",
+        "is_correct": false
+      },
+      {
+        "text": "6, 12, 19, 25",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each next term is 6 greater.",
+      "hint": "Check every step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "continue_pattern",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Continue: 18, 25, 32, __.",
+    "audio_prompt": "Continue: 18, 25, 32, __.",
+    "answers": [
+      {
+        "text": "38",
+        "is_correct": false
+      },
+      {
+        "text": "39",
+        "is_correct": true
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The rule is add 7, giving 39.",
+      "hint": "Find the constant difference."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "decreasing_pattern",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "What comes next: 63, 58, 53, 48?",
+    "audio_prompt": "What comes next: 63, 58, 53, 48?",
+    "answers": [
+      {
+        "text": "42",
+        "is_correct": false
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "43",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Subtract 5 from 48 to get 43.",
+      "hint": "Continue the same decrease."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "missing_term",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Find the blank: 16, 22, __, 34.",
+    "audio_prompt": "Find the blank: 16, 22, __, 34.",
+    "answers": [
+      {
+        "text": "28",
+        "is_correct": true
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      },
+      {
+        "text": "29",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pattern adds 6, so the missing term is 28.",
+      "hint": "It must be 6 from both neighbours."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "missing_start",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Complete: __, 42, 36, 30.",
+    "audio_prompt": "Complete: __, 42, 36, 30.",
+    "answers": [
+      {
+        "text": "46",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": true
+      },
+      {
+        "text": "50",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The rule is subtract 6; working back gives 48.",
+      "hint": "Reverse the rule."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "shape_count",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Successive figures contain 4, 9 and 14 triangles. How many triangles should figure 4 contain?",
+    "audio_prompt": "Successive figures contain 4, 9 and 14 triangles. How many triangles should figure 4 contain?",
+    "answers": [
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "19",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The figures gain 5 triangles each time.",
+      "hint": "Use the change in the counts."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "object_pattern_rule",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Rows hold 30, 26, 22 and 18 beads. What is the rule?",
+    "audio_prompt": "Rows hold 30, 26, 22 and 18 beads. What is the rule?",
+    "answers": [
+      {
+        "text": "Subtract 4",
+        "is_correct": true
+      },
+      {
+        "text": "Subtract 8",
+        "is_correct": false
+      },
+      {
+        "text": "Add 4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each row has 4 fewer beads.",
+      "hint": "Compare neighbouring rows."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "table_output",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A machine subtracts 12. What output follows input 47?",
+    "audio_prompt": "A machine subtracts 12. What output follows input 47?",
+    "answers": [
+      {
+        "text": "59",
+        "is_correct": false
+      },
+      {
+        "text": "35",
+        "is_correct": true
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "47 − 12 = 35.",
+      "hint": "Apply the rule once."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "apply",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "infer_table_rule",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "The pairs are 8→17, 15→24 and 31→40. What is the rule?",
+    "audio_prompt": "The pairs are 8→17, 15→24 and 31→40. What is the rule?",
+    "answers": [
+      {
+        "text": "Add 8",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract 9",
+        "is_correct": false
+      },
+      {
+        "text": "Add 9",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Each output exceeds its input by 9.",
+      "hint": "Compare more than one pair."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "find_input",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A subtract-7 machine gives output 28. What was the input?",
+    "audio_prompt": "A subtract-7 machine gives output 28. What was the input?",
+    "answers": [
+      {
+        "text": "35",
+        "is_correct": true
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "34",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The input is 7 more than 28: 35.",
+      "hint": "Undo subtraction with addition."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "predict_term",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A pattern is 9, 13, 17, 21. What is its seventh term?",
+    "audio_prompt": "A pattern is 9, 13, 17, 21. What is its seventh term?",
+    "answers": [
+      {
+        "text": "29",
+        "is_correct": false
+      },
+      {
+        "text": "33",
+        "is_correct": true
+      },
+      {
+        "text": "37",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Terms 5, 6 and 7 are 25, 29 and 33.",
+      "hint": "Continue the +4 rule three more times."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "compare_rules",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Both patterns start at 12. P adds 3; Q adds 5. What are their fourth terms?",
+    "audio_prompt": "Both patterns start at 12. P adds 3; Q adds 5. What are their fourth terms?",
+    "answers": [
+      {
+        "text": "P: 24; Q: 32",
+        "is_correct": false
+      },
+      {
+        "text": "P: 18; Q: 22",
+        "is_correct": false
+      },
+      {
+        "text": "P: 21; Q: 27",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Three changes give 12+9=21 and 12+15=27.",
+      "hint": "The starting value is term 1."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "identify_error",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Mia follows add 8: 5, 13, 21, 28. What is the correction?",
+    "audio_prompt": "Mia follows add 8: 5, 13, 21, 28. What is the correction?",
+    "answers": [
+      {
+        "text": "Replace 28 with 29",
+        "is_correct": true
+      },
+      {
+        "text": "Replace 21 with 20",
+        "is_correct": false
+      },
+      {
+        "text": "Replace 13 with 12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Twenty-one plus 8 is 29.",
+      "hint": "Apply the rule to the term before the error."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "choose_missing_object_count",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "A growing display follows +3 and has 6, 9, __, 15 counters. What fills the gap?",
+    "audio_prompt": "A growing display follows +3 and has 6, 9, __, 15 counters. What fills the gap?",
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Nine plus 3 is 12 and 12 plus 3 is 15.",
+      "hint": "Check both sides."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  },
+  {
+    "id": "AC9M2A01-T-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "create_and_explain",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Create five terms of an additive pattern beginning at 40 with constant change −7, then explain how you checked it.",
+    "audio_prompt": "Create five terms of an additive pattern beginning at 40 with constant change −7, then explain how you checked it.",
+    "answers": [
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      },
+      {
+        "text": "Completed response",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "40, 33, 26, 19, 12. Each neighbouring difference is −7.",
+      "hint": "Accept equivalent wording that supplies all terms and verifies every change."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "40, 33, 26, 19, 12. Each neighbouring difference is −7.",
+    "acceptance_note": "Accept equivalent wording that supplies all terms and verifies every change.",
+    "response_instructions": "Write the terms, rule and one checking sentence.",
+    "completion_label": "Ready for adult review"
+  },
+  {
+    "id": "AC9M2A01-T-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2A01",
+    "bank": "test",
+    "skill": "distinguish_repeat_from_additive",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "question": "Why does red, blue, red, blue not by itself show an additive pattern?",
+    "audio_prompt": "Why does red, blue, red, blue not by itself show an additive pattern?",
+    "answers": [
+      {
+        "text": "It repeats categories but gives no numerical constant change",
+        "is_correct": true
+      },
+      {
+        "text": "It has too many colours",
+        "is_correct": false
+      },
+      {
+        "text": "Additive patterns must always decrease",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An additive pattern needs quantities that change by a constant amount.",
+      "hint": "Separate repeating order from changing quantity."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "reason",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-year2-maths-ixl-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/maths/skill-plans/australian-curriculum-version-90-year-2",
+      "evidence_scope": "All mapped IXL pages, live entry questions and worked examples were inspected sequentially; see docs/question-bank-reviews/2026-09-06-year2-maths-a01-a03.md. No IXL wording or media was copied."
+    }
+  }
+]

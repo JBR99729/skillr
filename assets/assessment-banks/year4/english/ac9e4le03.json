@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E4LE03-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "In a character who returns a lost wallet even though they need money, which option best demonstrates the skill?",
+    "audio_prompt": "In a character who returns a lost wallet even though they need money, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "The choice reveals nothing about character.",
+        "is_correct": false
+      },
+      {
+        "text": "The wallet matters only because it is an object.",
+        "is_correct": false
+      },
+      {
+        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+      "hint": "Ask what the action shows about the person."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which choice fits a character who returns a lost wallet even though they need money most accurately?",
+    "audio_prompt": "Which choice fits a character who returns a lost wallet even though they need money most accurately?",
+    "answers": [
+      {
+        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "is_correct": true
+      },
+      {
+        "text": "The choice reveals nothing about character.",
+        "is_correct": false
+      },
+      {
+        "text": "The wallet matters only because it is an object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+      "hint": "Ask what the action shows about the person."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which choice fits a storm approaching while two characters are stranded on a jetty most accurately?",
+    "audio_prompt": "Which choice fits a storm approaching while two characters are stranded on a jetty most accurately?",
+    "answers": [
+      {
+        "text": "The setting cannot affect the plot.",
+        "is_correct": false
+      },
+      {
+        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "is_correct": true
+      },
+      {
+        "text": "Storms always make stories funny.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Setting can create pressure that shapes what characters must do next.",
+      "hint": "Connect the place or conditions to the problem."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Look closely at a storm approaching while two characters are stranded on a jetty. Which response or wording works best?",
+    "audio_prompt": "Look closely at a storm approaching while two characters are stranded on a jetty. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "The setting cannot affect the plot.",
+        "is_correct": false
+      },
+      {
+        "text": "Storms always make stories funny.",
+        "is_correct": false
+      },
+      {
+        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Setting can create pressure that shapes what characters must do next.",
+      "hint": "Connect the place or conditions to the problem."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Look closely at two friends arguing in dialogue before a difficult decision. Which response or wording works best?",
+    "audio_prompt": "Look closely at two friends arguing in dialogue before a difficult decision. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "is_correct": true
+      },
+      {
+        "text": "Dialogue only tells readers who is speaking.",
+        "is_correct": false
+      },
+      {
+        "text": "The argument removes all conflict.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dialogue can expose character motives and increase tension in the plot.",
+      "hint": "Look at what the words reveal about each character."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "For two friends arguing in dialogue before a difficult decision, which option is the strongest match?",
+    "audio_prompt": "For two friends arguing in dialogue before a difficult decision, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Dialogue only tells readers who is speaking.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "is_correct": true
+      },
+      {
+        "text": "The argument removes all conflict.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dialogue can expose character motives and increase tension in the plot.",
+      "hint": "Look at what the words reveal about each character."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "For an illustration showing a tiny character beneath a huge cliff, which option is the strongest match?",
+    "audio_prompt": "For an illustration showing a tiny character beneath a huge cliff, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "The picture proves the character will fail.",
+        "is_correct": false
+      },
+      {
+        "text": "Illustrations never add to a written story.",
+        "is_correct": false
+      },
+      {
+        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+      "hint": "Use details from both image and story."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which example should you choose for an illustration showing a tiny character beneath a huge cliff?",
+    "audio_prompt": "Which example should you choose for an illustration showing a tiny character beneath a huge cliff?",
+    "answers": [
+      {
+        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "is_correct": true
+      },
+      {
+        "text": "The picture proves the character will fail.",
+        "is_correct": false
+      },
+      {
+        "text": "Illustrations never add to a written story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+      "hint": "Use details from both image and story."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which example should you choose for a character ignores a warning and later becomes lost?",
+    "audio_prompt": "Which example should you choose for a character ignores a warning and later becomes lost?",
+    "answers": [
+      {
+        "text": "The warning and getting lost are unrelated.",
+        "is_correct": false
+      },
+      {
+        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "is_correct": true
+      },
+      {
+        "text": "Consequences only happen at the end of stories.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Engaging plots often develop because characters make choices that have effects.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "In a character ignores a warning and later becomes lost, which option best demonstrates the skill?",
+    "audio_prompt": "In a character ignores a warning and later becomes lost, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "The warning and getting lost are unrelated.",
+        "is_correct": false
+      },
+      {
+        "text": "Consequences only happen at the end of stories.",
+        "is_correct": false
+      },
+      {
+        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Engaging plots often develop because characters make choices that have effects.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Why does “The choice shows honesty and creates interest because doing the right thing costs the character something.” work well for a character who returns a lost wallet even though they need money?",
+    "audio_prompt": "Why does “The choice shows honesty and creates interest because doing the right thing costs the character something.” work well for a character who returns a lost wallet even though they need money?",
+    "answers": [
+      {
+        "text": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The choice reveals nothing about character.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+      "hint": "Ask what the action shows about the person."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What makes “The choice shows honesty and creates interest because doing the right thing costs the character something.” a better choice in a character who returns a lost wallet even though they need money?",
+    "audio_prompt": "What makes “The choice shows honesty and creates interest because doing the right thing costs the character something.” a better choice in a character who returns a lost wallet even though they need money?",
+    "answers": [
+      {
+        "text": "Because “The choice reveals nothing about character.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+      "hint": "Ask what the action shows about the person."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What makes “The threatening setting increases tension because the danger is getting closer.” a better choice in a storm approaching while two characters are stranded on a jetty?",
+    "audio_prompt": "What makes “The threatening setting increases tension because the danger is getting closer.” a better choice in a storm approaching while two characters are stranded on a jetty?",
+    "answers": [
+      {
+        "text": "Because “The setting cannot affect the plot.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Setting can create pressure that shapes what characters must do next.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Setting can create pressure that shapes what characters must do next.",
+      "hint": "Connect the place or conditions to the problem."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which explanation best justifies “The threatening setting increases tension because the danger is getting closer.” for a storm approaching while two characters are stranded on a jetty?",
+    "audio_prompt": "Which explanation best justifies “The threatening setting increases tension because the danger is getting closer.” for a storm approaching while two characters are stranded on a jetty?",
+    "answers": [
+      {
+        "text": "Setting can create pressure that shapes what characters must do next.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The setting cannot affect the plot.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Setting can create pressure that shapes what characters must do next.",
+      "hint": "Connect the place or conditions to the problem."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which explanation best justifies “The dialogue reveals their different views and makes the decision more uncertain.” for two friends arguing in dialogue before a difficult decision?",
+    "audio_prompt": "Which explanation best justifies “The dialogue reveals their different views and makes the decision more uncertain.” for two friends arguing in dialogue before a difficult decision?",
+    "answers": [
+      {
+        "text": "Because “Dialogue only tells readers who is speaking.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Dialogue can expose character motives and increase tension in the plot.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dialogue can expose character motives and increase tension in the plot.",
+      "hint": "Look at what the words reveal about each character."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What should you notice about “The dialogue reveals their different views and makes the decision more uncertain.” in two friends arguing in dialogue before a difficult decision?",
+    "audio_prompt": "What should you notice about “The dialogue reveals their different views and makes the decision more uncertain.” in two friends arguing in dialogue before a difficult decision?",
+    "answers": [
+      {
+        "text": "Because “Dialogue only tells readers who is speaking.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Dialogue can expose character motives and increase tension in the plot.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dialogue can expose character motives and increase tension in the plot.",
+      "hint": "Look at what the words reveal about each character."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What should you notice about “The scale makes the challenge look difficult and the character seem vulnerable.” in an illustration showing a tiny character beneath a huge cliff?",
+    "audio_prompt": "What should you notice about “The scale makes the challenge look difficult and the character seem vulnerable.” in an illustration showing a tiny character beneath a huge cliff?",
+    "answers": [
+      {
+        "text": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The picture proves the character will fail.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+      "hint": "Use details from both image and story."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which reason explains why “The scale makes the challenge look difficult and the character seem vulnerable.” suits an illustration showing a tiny character beneath a huge cliff?",
+    "audio_prompt": "Which reason explains why “The scale makes the challenge look difficult and the character seem vulnerable.” suits an illustration showing a tiny character beneath a huge cliff?",
+    "answers": [
+      {
+        "text": "Because “The picture proves the character will fail.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+      "hint": "Use details from both image and story."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which reason explains why “The consequence grows from the earlier choice, linking character action to plot development.” suits a character ignores a warning and later becomes lost?",
+    "audio_prompt": "Which reason explains why “The consequence grows from the earlier choice, linking character action to plot development.” suits a character ignores a warning and later becomes lost?",
+    "answers": [
+      {
+        "text": "Because “The warning and getting lost are unrelated.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Engaging plots often develop because characters make choices that have effects.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Engaging plots often develop because characters make choices that have effects.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Why does “The consequence grows from the earlier choice, linking character action to plot development.” work well for a character ignores a warning and later becomes lost?",
+    "audio_prompt": "Why does “The consequence grows from the earlier choice, linking character action to plot development.” work well for a character ignores a warning and later becomes lost?",
+    "answers": [
+      {
+        "text": "Engaging plots often develop because characters make choices that have effects.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The warning and getting lost are unrelated.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Engaging plots often develop because characters make choices that have effects.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which revision best fixes the problem in “The choice reveals nothing about character.” for a character who returns a lost wallet even though they need money?",
+    "audio_prompt": "Which revision best fixes the problem in “The choice reveals nothing about character.” for a character who returns a lost wallet even though they need money?",
+    "answers": [
+      {
+        "text": "The choice reveals nothing about character.",
+        "is_correct": false
+      },
+      {
+        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "is_correct": true
+      },
+      {
+        "text": "The wallet matters only because it is an object.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the action shows about the person."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Compare the choices for a character who returns a lost wallet even though they need money. Which one avoids the mistake in “The choice reveals nothing about character.”?",
+    "audio_prompt": "Compare the choices for a character who returns a lost wallet even though they need money. Which one avoids the mistake in “The choice reveals nothing about character.”?",
+    "answers": [
+      {
+        "text": "The choice reveals nothing about character.",
+        "is_correct": false
+      },
+      {
+        "text": "The wallet matters only because it is an object.",
+        "is_correct": false
+      },
+      {
+        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the action shows about the person."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Compare the choices for a storm approaching while two characters are stranded on a jetty. Which one avoids the mistake in “The setting cannot affect the plot.”?",
+    "audio_prompt": "Compare the choices for a storm approaching while two characters are stranded on a jetty. Which one avoids the mistake in “The setting cannot affect the plot.”?",
+    "answers": [
+      {
+        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "is_correct": true
+      },
+      {
+        "text": "The setting cannot affect the plot.",
+        "is_correct": false
+      },
+      {
+        "text": "Storms always make stories funny.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Setting can create pressure that shapes what characters must do next. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Connect the place or conditions to the problem."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "If “The setting cannot affect the plot.” does not work in a storm approaching while two characters are stranded on a jetty, what should replace it?",
+    "audio_prompt": "If “The setting cannot affect the plot.” does not work in a storm approaching while two characters are stranded on a jetty, what should replace it?",
+    "answers": [
+      {
+        "text": "The setting cannot affect the plot.",
+        "is_correct": false
+      },
+      {
+        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "is_correct": true
+      },
+      {
+        "text": "Storms always make stories funny.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Setting can create pressure that shapes what characters must do next. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Connect the place or conditions to the problem."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "If “Dialogue only tells readers who is speaking.” does not work in two friends arguing in dialogue before a difficult decision, what should replace it?",
+    "audio_prompt": "If “Dialogue only tells readers who is speaking.” does not work in two friends arguing in dialogue before a difficult decision, what should replace it?",
+    "answers": [
+      {
+        "text": "Dialogue only tells readers who is speaking.",
+        "is_correct": false
+      },
+      {
+        "text": "The argument removes all conflict.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dialogue can expose character motives and increase tension in the plot. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look at what the words reveal about each character."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which option corrects the meaning or form needed for two friends arguing in dialogue before a difficult decision?",
+    "audio_prompt": "Which option corrects the meaning or form needed for two friends arguing in dialogue before a difficult decision?",
+    "answers": [
+      {
+        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "is_correct": true
+      },
+      {
+        "text": "Dialogue only tells readers who is speaking.",
+        "is_correct": false
+      },
+      {
+        "text": "The argument removes all conflict.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dialogue can expose character motives and increase tension in the plot. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look at what the words reveal about each character."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which option corrects the meaning or form needed for an illustration showing a tiny character beneath a huge cliff?",
+    "audio_prompt": "Which option corrects the meaning or form needed for an illustration showing a tiny character beneath a huge cliff?",
+    "answers": [
+      {
+        "text": "The picture proves the character will fail.",
+        "is_correct": false
+      },
+      {
+        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "is_correct": true
+      },
+      {
+        "text": "Illustrations never add to a written story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use details from both image and story."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which choice is the clearest correction for an illustration showing a tiny character beneath a huge cliff?",
+    "audio_prompt": "Which choice is the clearest correction for an illustration showing a tiny character beneath a huge cliff?",
+    "answers": [
+      {
+        "text": "The picture proves the character will fail.",
+        "is_correct": false
+      },
+      {
+        "text": "Illustrations never add to a written story.",
+        "is_correct": false
+      },
+      {
+        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Use details from both image and story."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which choice is the clearest correction for a character ignores a warning and later becomes lost?",
+    "audio_prompt": "Which choice is the clearest correction for a character ignores a warning and later becomes lost?",
+    "answers": [
+      {
+        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "is_correct": true
+      },
+      {
+        "text": "The warning and getting lost are unrelated.",
+        "is_correct": false
+      },
+      {
+        "text": "Consequences only happen at the end of stories.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Engaging plots often develop because characters make choices that have effects. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which revision best fixes the problem in “The warning and getting lost are unrelated.” for a character ignores a warning and later becomes lost?",
+    "audio_prompt": "Which revision best fixes the problem in “The warning and getting lost are unrelated.” for a character ignores a warning and later becomes lost?",
+    "answers": [
+      {
+        "text": "The warning and getting lost are unrelated.",
+        "is_correct": false
+      },
+      {
+        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "is_correct": true
+      },
+      {
+        "text": "Consequences only happen at the end of stories.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Engaging plots often develop because characters make choices that have effects. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "You now need to handle a character who returns a lost wallet even though they need money independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle a character who returns a lost wallet even though they need money independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "The wallet matters only because it is an object.",
+        "is_correct": false
+      },
+      {
+        "text": "The choice reveals nothing about character.",
+        "is_correct": false
+      },
+      {
+        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+      "hint": "Ask what the action shows about the person."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Apply the same idea to a character who returns a lost wallet even though they need money. Which option is best?",
+    "audio_prompt": "Apply the same idea to a character who returns a lost wallet even though they need money. Which option is best?",
+    "answers": [
+      {
+        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "is_correct": true
+      },
+      {
+        "text": "The wallet matters only because it is an object.",
+        "is_correct": false
+      },
+      {
+        "text": "The choice reveals nothing about character.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+      "hint": "Ask what the action shows about the person."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Apply the same idea to a storm approaching while two characters are stranded on a jetty. Which option is best?",
+    "audio_prompt": "Apply the same idea to a storm approaching while two characters are stranded on a jetty. Which option is best?",
+    "answers": [
+      {
+        "text": "Storms always make stories funny.",
+        "is_correct": false
+      },
+      {
+        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "is_correct": true
+      },
+      {
+        "text": "The setting cannot affect the plot.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Setting can create pressure that shapes what characters must do next.",
+      "hint": "Connect the place or conditions to the problem."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which decision would produce the clearest result in a storm approaching while two characters are stranded on a jetty?",
+    "audio_prompt": "Which decision would produce the clearest result in a storm approaching while two characters are stranded on a jetty?",
+    "answers": [
+      {
+        "text": "Storms always make stories funny.",
+        "is_correct": false
+      },
+      {
+        "text": "The setting cannot affect the plot.",
+        "is_correct": false
+      },
+      {
+        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Setting can create pressure that shapes what characters must do next.",
+      "hint": "Connect the place or conditions to the problem."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which decision would produce the clearest result in two friends arguing in dialogue before a difficult decision?",
+    "audio_prompt": "Which decision would produce the clearest result in two friends arguing in dialogue before a difficult decision?",
+    "answers": [
+      {
+        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "is_correct": true
+      },
+      {
+        "text": "The argument removes all conflict.",
+        "is_correct": false
+      },
+      {
+        "text": "Dialogue only tells readers who is speaking.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dialogue can expose character motives and increase tension in the plot.",
+      "hint": "Look at what the words reveal about each character."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Choose the option that applies the skill correctly in two friends arguing in dialogue before a difficult decision.",
+    "audio_prompt": "Choose the option that applies the skill correctly in two friends arguing in dialogue before a difficult decision.",
+    "answers": [
+      {
+        "text": "The argument removes all conflict.",
+        "is_correct": false
+      },
+      {
+        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "is_correct": true
+      },
+      {
+        "text": "Dialogue only tells readers who is speaking.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dialogue can expose character motives and increase tension in the plot.",
+      "hint": "Look at what the words reveal about each character."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Choose the option that applies the skill correctly in an illustration showing a tiny character beneath a huge cliff.",
+    "audio_prompt": "Choose the option that applies the skill correctly in an illustration showing a tiny character beneath a huge cliff.",
+    "answers": [
+      {
+        "text": "Illustrations never add to a written story.",
+        "is_correct": false
+      },
+      {
+        "text": "The picture proves the character will fail.",
+        "is_correct": false
+      },
+      {
+        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+      "hint": "Use details from both image and story."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What would be the most effective choice for an illustration showing a tiny character beneath a huge cliff?",
+    "audio_prompt": "What would be the most effective choice for an illustration showing a tiny character beneath a huge cliff?",
+    "answers": [
+      {
+        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "is_correct": true
+      },
+      {
+        "text": "Illustrations never add to a written story.",
+        "is_correct": false
+      },
+      {
+        "text": "The picture proves the character will fail.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+      "hint": "Use details from both image and story."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What would be the most effective choice for a character ignores a warning and later becomes lost?",
+    "audio_prompt": "What would be the most effective choice for a character ignores a warning and later becomes lost?",
+    "answers": [
+      {
+        "text": "Consequences only happen at the end of stories.",
+        "is_correct": false
+      },
+      {
+        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "is_correct": true
+      },
+      {
+        "text": "The warning and getting lost are unrelated.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Engaging plots often develop because characters make choices that have effects.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
+  },
+  {
+    "id": "AC9E4LE03-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "You now need to handle a character ignores a warning and later becomes lost independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle a character ignores a warning and later becomes lost independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Consequences only happen at the end of stories.",
+        "is_correct": false
+      },
+      {
+        "text": "The warning and getting lost are unrelated.",
+        "is_correct": false
+      },
+      {
+        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Engaging plots often develop because characters make choices that have effects.",
+      "hint": "Trace cause and effect through the character’s decision."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "New context: a mystery story slowly revealing footprints, a broken latch and a missing key. Which option is correct?",
+    "audio_prompt": "New context: a mystery story slowly revealing footprints, a broken latch and a missing key. Which option is correct?",
+    "answers": [
+      {
+        "text": "The clues build curiosity because each detail narrows what might have happened.",
+        "is_correct": true
+      },
+      {
+        "text": "The clues resolve the mystery immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Details cannot shape tension.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What is the best choice for a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "audio_prompt": "What is the best choice for a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "answers": [
+      {
+        "text": "The clues resolve the mystery immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "The clues build curiosity because each detail narrows what might have happened.",
+        "is_correct": true
+      },
+      {
+        "text": "Details cannot shape tension.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which explanation best supports “The clues build curiosity because each detail narrows what might have happened.” in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "audio_prompt": "Which explanation best supports “The clues build curiosity because each detail narrows what might have happened.” in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "answers": [
+      {
+        "text": "Because “The clues resolve the mystery immediately.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Gradual clues keep readers forming and revising predictions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which clue should guide your decision in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "audio_prompt": "Which clue should guide your decision in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "answers": [
+      {
+        "text": "Ask what the reader knows now and what is still uncertain.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which option would you reject first in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "audio_prompt": "Which option would you reject first in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "answers": [
+      {
+        "text": "The clues build curiosity because each detail narrows what might have happened.",
+        "is_correct": false
+      },
+      {
+        "text": "The clues resolve the mystery immediately.",
+        "is_correct": true
+      },
+      {
+        "text": "Details cannot shape tension.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which correction should replace “The clues resolve the mystery immediately.” in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "audio_prompt": "Which correction should replace “The clues resolve the mystery immediately.” in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "answers": [
+      {
+        "text": "The clues resolve the mystery immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Details cannot shape tension.",
+        "is_correct": false
+      },
+      {
+        "text": "The clues build curiosity because each detail narrows what might have happened.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Apply the skill to a mystery story slowly revealing footprints, a broken latch and a missing key: what should you choose?",
+    "audio_prompt": "Apply the skill to a mystery story slowly revealing footprints, a broken latch and a missing key: what should you choose?",
+    "answers": [
+      {
+        "text": "The clues build curiosity because each detail narrows what might have happened.",
+        "is_correct": true
+      },
+      {
+        "text": "The clues resolve the mystery immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Details cannot shape tension.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which final choice gives the clearest and most accurate result for a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "answers": [
+      {
+        "text": "The clues resolve the mystery immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "The clues build curiosity because each detail narrows what might have happened.",
+        "is_correct": true
+      },
+      {
+        "text": "Details cannot shape tension.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Gradual clues keep readers forming and revising predictions.",
+      "hint": "Ask what the reader knows now and what is still uncertain."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "New context: a shy character finally speaks at a community meeting. Which option is correct?",
+    "audio_prompt": "New context: a shy character finally speaks at a community meeting. Which option is correct?",
+    "answers": [
+      {
+        "text": "The scene is important only because it has speech marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Character growth cannot affect reader response.",
+        "is_correct": false
+      },
+      {
+        "text": "The moment is engaging because it completes a change the story has been building toward.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "What is the best choice for a shy character finally speaks at a community meeting?",
+    "audio_prompt": "What is the best choice for a shy character finally speaks at a community meeting?",
+    "answers": [
+      {
+        "text": "The moment is engaging because it completes a change the story has been building toward.",
+        "is_correct": true
+      },
+      {
+        "text": "The scene is important only because it has speech marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Character growth cannot affect reader response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which explanation best supports “The moment is engaging because it completes a change the story has been building toward.” in a shy character finally speaks at a community meeting?",
+    "audio_prompt": "Which explanation best supports “The moment is engaging because it completes a change the story has been building toward.” in a shy character finally speaks at a community meeting?",
+    "answers": [
+      {
+        "text": "Because “The scene is important only because it has speech marks.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "A significant action can show development and provide a satisfying turning point.",
+        "is_correct": true
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which clue should guide your decision in a shy character finally speaks at a community meeting?",
+    "audio_prompt": "Which clue should guide your decision in a shy character finally speaks at a community meeting?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      },
+      {
+        "text": "Connect the final action to earlier behaviour.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which option would you reject first in a shy character finally speaks at a community meeting?",
+    "audio_prompt": "Which option would you reject first in a shy character finally speaks at a community meeting?",
+    "answers": [
+      {
+        "text": "The scene is important only because it has speech marks.",
+        "is_correct": true
+      },
+      {
+        "text": "The moment is engaging because it completes a change the story has been building toward.",
+        "is_correct": false
+      },
+      {
+        "text": "Character growth cannot affect reader response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which correction should replace “The scene is important only because it has speech marks.” in a shy character finally speaks at a community meeting?",
+    "audio_prompt": "Which correction should replace “The scene is important only because it has speech marks.” in a shy character finally speaks at a community meeting?",
+    "answers": [
+      {
+        "text": "The scene is important only because it has speech marks.",
+        "is_correct": false
+      },
+      {
+        "text": "The moment is engaging because it completes a change the story has been building toward.",
+        "is_correct": true
+      },
+      {
+        "text": "Character growth cannot affect reader response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Apply the skill to a shy character finally speaks at a community meeting: what should you choose?",
+    "audio_prompt": "Apply the skill to a shy character finally speaks at a community meeting: what should you choose?",
+    "answers": [
+      {
+        "text": "The scene is important only because it has speech marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Character growth cannot affect reader response.",
+        "is_correct": false
+      },
+      {
+        "text": "The moment is engaging because it completes a change the story has been building toward.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
+    }
+  },
+  {
+    "id": "AC9E4LE03-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Engaging Stories: Character, Setting and Plot",
+    "question": "Which final choice gives the clearest and most accurate result for a shy character finally speaks at a community meeting?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for a shy character finally speaks at a community meeting?",
+    "answers": [
+      {
+        "text": "The moment is engaging because it completes a change the story has been building toward.",
+        "is_correct": true
+      },
+      {
+        "text": "The scene is important only because it has speech marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Character growth cannot affect reader response.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A significant action can show development and provide a satisfying turning point.",
+      "hint": "Connect the final action to earlier behaviour."
+    }
+  }
+]

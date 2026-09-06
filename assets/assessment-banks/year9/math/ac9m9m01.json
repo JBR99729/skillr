@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ac9m9m01-p-001",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "analyse_nets_of_objects_to_generate_short_cuts_and_establish_formulas_for_surface_area",
+    "question": "A Year 9 student is solving a problem involving analyse nets of objects to generate short cuts and establish formulas for surface area. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving analyse nets of objects to generate short cuts and establish formulas for surface area. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "analysing nets of objects to generate short cuts and establish formulas for surface area",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "analysing nets of objects to generate short cuts and establish formulas for surface area",
+      "hint": "Analyse nets of objects to generate short cuts and establish formulas for surface area."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9m01-p-002",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "determine_the_amount_of_material_needed_to_make_can_coolers_for_a_class_fundraising_project_and_working_out_the_most_cost_efficient_way_to_cut_out_the_pieces",
+    "question": "A Year 9 student is solving a problem involving determine the amount of material needed to make can coolers for a class fundraising project and working out the most cost efficient way to cut out the pieces. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving determine the amount of material needed to make can coolers for a class fundraising project and working out the most cost efficient way to cut out the pieces. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The surface area and volume model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "determining the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "determining the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces",
+      "hint": "Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9m01-p-003",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_different_prisms_that_have_the_same_volume_but_different_surface_areas_making_conjectures_as_to_what_type_of_prism_would_have_the_smallest_or_largest_surface_area",
+    "question": "A Year 9 student is solving a problem involving find different prisms that have the same volume but different surface areas making conjectures as to what type of prism would have the smallest or largest surface area. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving find different prisms that have the same volume but different surface areas making conjectures as to what type of prism would have the smallest or largest surface area. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "finding different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "finding different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area",
+      "hint": "Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9m01-p-004",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_objects_and_technologies_of_first_nations_australians_analysing_and_connecting_surface_area_and_volume_and_exploring_their_relationship_to_their_capacity",
+    "question": "A Year 9 student is solving a problem involving explore objects and technologies of first nations australians analysing and connecting surface area and volume and exploring their relationship to their capacity. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore objects and technologies of first nations australians analysing and connecting surface area and volume and exploring their relationship to their capacity. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "investigating objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "investigating objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity",
+      "hint": "Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9m01-p-005",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "analyse_nets_of_objects_to_generate_short_cuts_and_establish_formulas_for_surface_area",
+    "question": "A Year 9 student is solving a problem involving analyse nets of objects to generate short cuts and establish formulas for surface area. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving analyse nets of objects to generate short cuts and establish formulas for surface area. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "analysing nets of objects to generate short cuts and establish formulas for surface area",
+        "is_correct": true
+      },
+      {
+        "text": "The surface area and volume model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "analysing nets of objects to generate short cuts and establish formulas for surface area",
+      "hint": "Analyse nets of objects to generate short cuts and establish formulas for surface area."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9m01-p-006",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "determine_the_amount_of_material_needed_to_make_can_coolers_for_a_class_fundraising_project_and_working_out_the_most_cost_efficient_way_to_cut_out_the_pieces",
+    "question": "A Year 9 student is solving a problem involving determine the amount of material needed to make can coolers for a class fundraising project and working out the most cost efficient way to cut out the pieces. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving determine the amount of material needed to make can coolers for a class fundraising project and working out the most cost efficient way to cut out the pieces. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "determining the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "determining the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces",
+      "hint": "Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9m01-p-007",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "find_different_prisms_that_have_the_same_volume_but_different_surface_areas_making_conjectures_as_to_what_type_of_prism_would_have_the_smallest_or_largest_surface_area",
+    "question": "A Year 9 student is solving a problem involving find different prisms that have the same volume but different surface areas making conjectures as to what type of prism would have the smallest or largest surface area. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving find different prisms that have the same volume but different surface areas making conjectures as to what type of prism would have the smallest or largest surface area. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "finding different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "finding different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area",
+      "hint": "Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9m01-p-008",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_objects_and_technologies_of_first_nations_australians_analysing_and_connecting_surface_area_and_volume_and_exploring_their_relationship_to_their_capacity",
+    "question": "A Year 9 student is solving a problem involving explore objects and technologies of first nations australians analysing and connecting surface area and volume and exploring their relationship to their capacity. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore objects and technologies of first nations australians analysing and connecting surface area and volume and exploring their relationship to their capacity. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The surface area and volume model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "investigating objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "investigating objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity",
+      "hint": "Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9m01-t-001",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "analyse_nets_of_objects_to_generate_short_cuts_and_establish_formulas_for_surface_area",
+    "question": "Which response correctly uses analyse nets of objects to generate short cuts and establish formulas for surface area?",
+    "audio_prompt": "Which response correctly uses analyse nets of objects to generate short cuts and establish formulas for surface area?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "analysing nets of objects to generate short cuts and establish formulas for surface area",
+        "is_correct": true
+      },
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "analysing nets of objects to generate short cuts and establish formulas for surface area",
+      "hint": "Analyse nets of objects to generate short cuts and establish formulas for surface area."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-002",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "determine_the_amount_of_material_needed_to_make_can_coolers_for_a_class_fundraising_project_and_working_out_the_most_cost_efficient_way_to_cut_out_the_pieces",
+    "question": "Which response correctly uses determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces?",
+    "audio_prompt": "Which response correctly uses determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "determining the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "determining the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces",
+      "hint": "Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-003",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_different_prisms_that_have_the_same_volume_but_different_surface_areas_making_conjectures_as_to_what_type_of_prism_would_have_the_smallest_or_largest_surface_area",
+    "question": "Which response correctly uses find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area?",
+    "audio_prompt": "Which response correctly uses find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The surface area and volume model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "finding different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "finding different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area",
+      "hint": "Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-004",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_objects_and_technologies_of_first_nations_australians_analysing_and_connecting_surface_area_and_volume_and_exploring_their_relationship_to_their_capacity",
+    "question": "Which response correctly uses explore objects and technologies of first nations australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity?",
+    "audio_prompt": "Which response correctly uses explore objects and technologies of first nations australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "investigating objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "investigating objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity",
+      "hint": "Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-005",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "analyse_nets_of_objects_to_generate_short_cuts_and_establish_formulas_for_surface_area",
+    "question": "A Year 9 student is solving a problem involving analyse nets of objects to generate short cuts and establish formulas for surface area. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving analyse nets of objects to generate short cuts and establish formulas for surface area. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "analysing nets of objects to generate short cuts and establish formulas for surface area",
+        "is_correct": true
+      },
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "analysing nets of objects to generate short cuts and establish formulas for surface area",
+      "hint": "Analyse nets of objects to generate short cuts and establish formulas for surface area."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-006",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "determine_the_amount_of_material_needed_to_make_can_coolers_for_a_class_fundraising_project_and_working_out_the_most_cost_efficient_way_to_cut_out_the_pieces",
+    "question": "A Year 9 student is solving a problem involving determine the amount of material needed to make can coolers for a class fundraising project and working out the most cost efficient way to cut out the pieces. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving determine the amount of material needed to make can coolers for a class fundraising project and working out the most cost efficient way to cut out the pieces. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The surface area and volume model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "determining the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "determining the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces",
+      "hint": "Determine the amount of material needed to make can-coolers for a class fundraising project and working out the most cost-efficient way to cut out the pieces."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-007",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "find_different_prisms_that_have_the_same_volume_but_different_surface_areas_making_conjectures_as_to_what_type_of_prism_would_have_the_smallest_or_largest_surface_area",
+    "question": "A Year 9 student is solving a problem involving find different prisms that have the same volume but different surface areas making conjectures as to what type of prism would have the smallest or largest surface area. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving find different prisms that have the same volume but different surface areas making conjectures as to what type of prism would have the smallest or largest surface area. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "finding different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "finding different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area",
+      "hint": "Find different prisms that have the same volume but different surface areas, making conjectures as to what type of prism would have the smallest or largest surface area."
+    }
+  },
+  {
+    "id": "ac9m9m01-t-008",
+    "curriculum_code": "AC9M9M01",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_objects_and_technologies_of_first_nations_australians_analysing_and_connecting_surface_area_and_volume_and_exploring_their_relationship_to_their_capacity",
+    "question": "A Year 9 student is solving a problem involving explore objects and technologies of first nations australians analysing and connecting surface area and volume and exploring their relationship to their capacity. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore objects and technologies of first nations australians analysing and connecting surface area and volume and exploring their relationship to their capacity. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dimensions, units or accuracy are mixed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "investigating objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "investigating objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity",
+      "hint": "Explore objects and technologies of First Nations Australians, analysing and connecting surface area and volume, and exploring their relationship to their capacity."
+    }
+  }
+]

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Writing under two rulers</title><desc id="desc">The word SUN can be seen through a clear plastic ruler but is hidden by a wooden ruler.</desc>
+  <rect width="640" height="360" rx="24" fill="#f7fbff"/>
+  <text x="86" y="155" font-family="Arial,sans-serif" font-size="72" font-weight="700" fill="#243b5a">SUN</text><text x="392" y="155" font-family="Arial,sans-serif" font-size="72" font-weight="700" fill="#243b5a">SUN</text>
+  <rect x="55" y="90" width="230" height="105" rx="10" fill="#9edcf0" fill-opacity=".46" stroke="#297a9a" stroke-width="7"/><path d="M75 92v23m30-23v15m30-15v23m30-23v15m30-15v23m30-23v15m30-15v23" stroke="#297a9a" stroke-width="4"/>
+  <rect x="355" y="90" width="230" height="105" rx="10" fill="#b77a43" stroke="#70431f" stroke-width="7"/><path d="M371 116c49-25 95 25 150-4m-147 51c62-21 106 15 192-12" fill="none" stroke="#8f5a2d" stroke-width="5"/>
+  <text x="80" y="246" font-family="Arial,sans-serif" font-size="28" fill="#20566d">clear plastic</text><text x="423" y="246" font-family="Arial,sans-serif" font-size="28" fill="#5b371e">wood</text>
+</svg>

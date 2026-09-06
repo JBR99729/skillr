@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Clay sphere and cube on matching ramps</title><desc id="desc">A blue clay sphere and cube start at the same marked height on two matching ramps.</desc>
+  <rect width="640" height="360" rx="24" fill="#f4f9ff"/>
+  <path d="M64 112h228v176H64zM348 112h228v176H348z" fill="#fff" stroke="#b8cbe8" stroke-width="4"/>
+  <path d="m86 146 174 112H86Z" fill="#dbe9fb" stroke="#315f9d" stroke-width="7"/><path d="m370 146 174 112H370Z" fill="#dbe9fb" stroke="#315f9d" stroke-width="7"/>
+  <circle cx="108" cy="139" r="29" fill="#4f8ddf" stroke="#214d88" stroke-width="6"/><rect x="371" y="108" width="58" height="58" rx="6" fill="#4f8ddf" stroke="#214d88" stroke-width="6"/>
+  <path d="M76 99h214M360 99h214" stroke="#ef7c45" stroke-width="5" stroke-dasharray="10 8"/>
+  <text x="133" y="329" font-family="Arial,sans-serif" font-size="27" fill="#20385f">sphere</text><text x="431" y="329" font-family="Arial,sans-serif" font-size="27" fill="#20385f">cube</text>
+</svg>

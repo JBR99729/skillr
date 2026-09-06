@@ -1,0 +1,64 @@
+name: Migrate final runtime-only Science decks
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/migrate_runtime_only_science_static.mjs'
+      - '.github/workflows/migrate-runtime-only-science-static.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+
+      - name: Generate final fixed Science viewers
+        run: node scripts/migrate_runtime_only_science_static.mjs
+
+      - name: Commit generated files locally
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add year2/science/ac9s2u03-that-materials-can-be-changed-physically-without-changing-their year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and
+          git commit -m "Fix final Years 1-7 runtime-only Science decks"
+
+      - name: Validate locked static architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+
+      - name: Verify final decks are fixed, branded and non-downloadable
+        run: |
+          node <<'NODE'
+          const fs=require('node:fs');
+          const targets=[
+            ['AC9S2U03','year2/science/ac9s2u03-that-materials-can-be-changed-physically-without-changing-their',10],
+            ['AC9S3U04','year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and',12]
+          ];
+          const errors=[];
+          for(const [code,dir,count] of targets){
+            const topic=fs.readFileSync(`${dir}/index.html`,'utf8');
+            const viewer=fs.readFileSync(`${dir}/teacher-deck/index.html`,'utf8');
+            if(!/<details\b/i.test(topic)||!/<summary\b/i.test(topic))errors.push(`${code}: no native dropdown Topic Guide`);
+            if(/lower-materials-render|ac9s3u04-render|lower-materials-lessons|ac9s3u04-lesson/i.test(topic))errors.push(`${code}: Topic Guide still runtime-dependent`);
+            if(/lower-materials-render|ac9s3u04-render|lower-materials-lessons|ac9s3u04-lesson|teachingSlides|\.slides\.forEach/i.test(viewer))errors.push(`${code}: viewer still runtime-dependent`);
+            if(/href=["'][^"']+\.(?:pdf|pptx)/i.test(viewer)||/\bdownload\s*=/i.test(viewer))errors.push(`${code}: viewer exposes download`);
+            if(!/data-slide-previous/.test(viewer)||!/data-slide-next/.test(viewer))errors.push(`${code}: missing page navigation`);
+            for(let i=1;i<=count;i++){
+              const f=`${dir}/teacher-deck/slide-${String(i).padStart(2,'0')}.svg`;
+              if(!fs.existsSync(f)){errors.push(`${code}: missing ${f}`);continue;}
+              const svg=fs.readFileSync(f,'utf8');
+              if(!svg.includes(code)||!svg.includes('skillrhub.com')||!svg.includes('SkillrHub'))errors.push(`${code}: branding/footer missing on slide ${i}`);
+            }
+          }
+          if(errors.length){console.error(errors.join('\n'));process.exit(1)}
+          console.log('Final runtime-only Science deck verification: PASS');
+          NODE
+
+      - name: Push generated commit
+        run: git push origin HEAD:${{ github.head_ref || github.ref_name }}

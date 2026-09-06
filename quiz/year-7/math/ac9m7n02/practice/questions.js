@@ -1,0 +1,28 @@
+"use strict";
+const q=(id,skill,question,answers,correct,summary,hint)=>({id,curriculumCode:"AC9M7N02",bank:"practice",skill,printable:true,type:"single",question,audioPrompt:question,answers,correct,explanation:`${summary}\nHint: ${hint}`,structuredExplanation:{summary,hint},qualitySchema:"production-v2"});
+window.skillrPracticeQuestions=[
+q("ac9m7n02-p-001","prime factorisation","What is the prime factorisation of 360?",["2³ × 3² × 5","2² × 3² × 5","2³ × 3 × 5²","2² × 3³ × 5"],0,"360 = 8 × 9 × 5 = 2³ × 3² × 5.","Divide repeatedly by prime numbers."),
+q("ac9m7n02-p-002","prime factorisation","Which number has prime factorisation 2⁴ × 3²?",["144","288","324","576"],0,"2⁴ × 3² = 16 × 9 = 144.","Evaluate each prime power before multiplying."),
+q("ac9m7n02-p-003","prime factorisation","What is the prime factorisation of 840?",["2³ × 3 × 5 × 7","2² × 3² × 5 × 7","2³ × 3² × 5","2⁴ × 3 × 5 × 7"],0,"840 = 8 × 3 × 5 × 7 = 2³ × 3 × 5 × 7.","Check by multiplying the factors back."),
+q("ac9m7n02-p-004","prime powers","Which number equals 3³ × 5²?",["675","375","1125","225"],0,"3³ × 5² = 27 × 25 = 675.","Calculate the powers first."),
+q("ac9m7n02-p-005","prime factorisation","What is the prime factorisation of 504?",["2³ × 3² × 7","2⁴ × 3 × 7","2³ × 3³","2² × 3² × 7²"],0,"504 = 8 × 9 × 7 = 2³ × 3² × 7.","Use repeated division or a factor tree."),
+q("ac9m7n02-p-006","distinct primes","Which number has exactly four distinct prime factors?",["210","180","144","200"],0,"210 = 2 × 3 × 5 × 7, so it has four distinct prime factors.","Count different prime bases, not repeated copies."),
+q("ac9m7n02-p-007","distinct primes","Which number has exactly three distinct prime factors?",["180","144","200","343"],0,"180 = 2² × 3² × 5, so its distinct primes are 2, 3 and 5.","Ignore repeated powers when counting distinct primes."),
+q("ac9m7n02-p-008","powers of 2","Which number is NOT a power of 2?",["192","128","256","512"],0,"192 = 3 × 64, whereas 128, 256 and 512 are powers of 2.","Recall 2⁷, 2⁸ and 2⁹."),
+q("ac9m7n02-p-009","powers of 3","Which number is a power of 3?",["243","162","108","1620"],0,"243 = 3⁵.","Use the sequence 1, 3, 9, 27, 81, 243, …"),
+q("ac9m7n02-p-010","powers of 5","Which number equals 5⁴?",["625","3125","125","25"],0,"5⁴ = 625.","5² = 25, 5³ = 125, 5⁴ = 625."),
+q("ac9m7n02-p-011","mixed prime powers","Which number equals 5³ × 2²?",["500","250","625","1000"],0,"125 × 4 = 500.","Evaluate each prime power separately."),
+q("ac9m7n02-p-012","mixed prime powers","Which number equals 3² × 2⁴?",["144","96","72","48"],0,"9 × 16 = 144.","Powers come before multiplication."),
+q("ac9m7n02-p-013","HCF","Find the HCF of 48 and 180.",["12","6","18","24"],0,"48 = 2⁴×3 and 180 = 2²×3²×5; common lowest powers give 2²×3 = 12.","For HCF use common primes with the smaller exponents."),
+q("ac9m7n02-p-014","LCM","Find the LCM of 24 and 90.",["360","180","720","540"],0,"24 = 2³×3 and 90 = 2×3²×5; highest powers give 2³×3²×5 = 360.","For LCM use every prime at its largest exponent."),
+q("ac9m7n02-p-015","HCF","Find the HCF of 84 and 210.",["42","14","21","7"],0,"84 = 2²×3×7 and 210 = 2×3×5×7; HCF = 2×3×7 = 42.","Use only common prime factors."),
+q("ac9m7n02-p-016","LCM","Find the LCM of 18 and 30.",["90","60","180","30"],0,"18 = 2×3² and 30 = 2×3×5; LCM = 2×3²×5 = 90.","Take the highest exponent of each prime."),
+q("ac9m7n02-p-017","HCF ratio application","48 = 2⁴×3 and 180 = 2²×3²×5. What is 48:180 in simplest form?",["4:15","12:45","8:30","16:60"],0,"HCF = 12; dividing both terms by 12 gives 4:15.","Use the HCF to simplify both parts equally."),
+q("ac9m7n02-p-018","LCM application","A bell rings every 18 minutes and another every 30 minutes. If they ring together now, when will they next ring together?",["90 minutes","60 minutes","48 minutes","180 minutes"],0,"The next common time is LCM(18,30)=90 minutes.","A repeat-together problem usually uses LCM."),
+q("ac9m7n02-p-019","factor structure","If N = 2³ × 3² × 5, which number is definitely a factor of N?",["90","240","75","54"],0,"90 = 2×3²×5 uses exponents no larger than those in N.","A factor cannot require a larger prime exponent than N has."),
+q("ac9m7n02-p-020","HCF from prime powers","If A = 2⁴×3 and B = 2²×3³, what is HCF(A,B)?",["2²×3","2⁴×3","2²×3³","2⁴"],0,"Use minimum exponents: 2²×3¹.","HCF takes the smaller power of each common prime."),
+q("ac9m7n02-p-021","LCM from prime powers","If A = 2³×5² and B = 2⁵×5, what is LCM(A,B)?",["2⁵×5²","2³×5²","2⁵×5","2³×5"],0,"Use maximum exponents: 2⁵×5².","LCM takes the largest power needed."),
+q("ac9m7n02-p-022","factor count","360 = 2³×3²×5. How many positive factors does 360 have?",["24","18","12","30"],0,"The factor count is (3+1)(2+1)(1+1)=24.","Choose exponents independently from 0 up to each maximum."),
+q("ac9m7n02-p-023","factor reasoning","N = 2⁴×5². Is N divisible by 40?",["Yes, because 40 = 2³×5 and N contains at least those powers","No, because N has too many factors of 2","No, because 5² is not divisible by 5","Yes, because every even number is divisible by 40"],0,"40 = 2³×5 and N has 2⁴×5², so 40 divides N.","Compare required prime exponents."),
+q("ac9m7n02-p-024","mixed reasoning","Which number has the largest HCF with 180?",["60","48","75","54"],0,"HCF(180,60)=60, larger than the HCFs with the other options.","Prime-factorise 180 and compare common structure.")];
+window.quizQuestions=window.skillrPracticeQuestions;

@@ -1,0 +1,24 @@
+name: Validate blog free-first campaign
+
+on:
+  pull_request:
+    paths:
+      - 'blogs/**'
+      - 'scripts/validate_blog_free_first_campaign.mjs'
+      - '.github/workflows/validate-blog-free-first-campaign.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'blogs/**'
+      - 'scripts/validate_blog_free_first_campaign.mjs'
+      - '.github/workflows/validate-blog-free-first-campaign.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/validate_blog_free_first_campaign.mjs

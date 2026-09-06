@@ -1,0 +1,44 @@
+.curriculum-verified-label,
+.info-verified {
+  display: inline-block;
+  padding: 0.4rem 0.7rem;
+  border: 1px solid #b9e2c8;
+  border-radius: 999px;
+  background: #eaf8ef;
+  color: #17653a;
+  font-weight: 850;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.curriculum-verified-label:hover,
+.curriculum-verified-label:focus-visible {
+  background: #daf1e3;
+  color: #104c2b;
+}
+
+.info-table-wrap {
+  overflow-x: auto;
+}
+
+.info-status-table {
+  width: 100%;
+  border-collapse: collapse;
+  color: #18324f;
+}
+
+.info-status-table th,
+.info-status-table td {
+  padding: 13px 14px;
+  border-bottom: 1px solid #dce5f1;
+  text-align: left;
+}
+
+.info-status-table tbody tr:last-child th,
+.info-status-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.info-status-note {
+  margin-top: 16px !important;
+}

@@ -1,0 +1,1658 @@
+[
+  {
+    "id": "ac9e1ly15-er6-p-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Start with 'cat'. Which word means more than one cat?",
+    "audio_prompt": "Start with 'cat'. Which word means more than one cat?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "explanation": {
+      "summary": "Adding the grammatical ending s makes the regular plural cats.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "cats",
+        "is_correct": true
+      },
+      {
+        "text": "catting",
+        "is_correct": false
+      },
+      {
+        "text": "cated",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly15-er6-p-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Which word belongs with 'jump' and means the action happened in the past?",
+    "audio_prompt": "Which word belongs with 'jump' and means the action happened in the past?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "explanation": {
+      "summary": "The ending ed marks the completed past action in jumped.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "jumps",
+        "is_correct": false
+      },
+      {
+        "text": "jumped",
+        "is_correct": true
+      },
+      {
+        "text": "jumping",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly15-er6-p-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Complete 'The dog is ___ now' using a form of bark.",
+    "audio_prompt": "Complete 'The dog is ___ now' using a form of bark.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "explanation": {
+      "summary": "Is combines with barking to show the action happening now.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "barked",
+        "is_correct": false
+      },
+      {
+        "text": "barks",
+        "is_correct": false
+      },
+      {
+        "text": "barking",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly15-er6-p-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Which word family keeps the meaning of 'look' while adding grammatical endings?",
+    "audio_prompt": "Which word family keeps the meaning of 'look' while adding grammatical endings?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "explanation": {
+      "summary": "The first group adds endings to the same base; rhyming or starting alike is not enough.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "look, looks, looked, looking",
+        "is_correct": true
+      },
+      {
+        "text": "look, book, cook, hook",
+        "is_correct": false
+      },
+      {
+        "text": "look, leaf, lamp, lip",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly15-er6-p-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Start with 'box'. Which word names more than one?",
+    "audio_prompt": "Start with 'box'. Which word names more than one?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "explanation": {
+      "summary": "The regular plural of box adds es, giving boxes.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "boxing",
+        "is_correct": false
+      },
+      {
+        "text": "boxes",
+        "is_correct": true
+      },
+      {
+        "text": "boxs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly15-er6-p-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "In 'We played yesterday', which ending is added to play?",
+    "audio_prompt": "In 'We played yesterday', which ending is added to play?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "explanation": {
+      "summary": "Played contains the base play plus ed, marking a past action.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "ing",
+        "is_correct": false
+      },
+      {
+        "text": "s",
+        "is_correct": false
+      },
+      {
+        "text": "ed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly15-er6-p-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Which word means 'more than one dish'?",
+    "audio_prompt": "Which word means 'more than one dish'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "explanation": {
+      "summary": "Adding es forms the plural dishes; ed and ing make different forms.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "dishes",
+        "is_correct": true
+      },
+      {
+        "text": "dished",
+        "is_correct": false
+      },
+      {
+        "text": "dishing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly15-er6-p-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Complete 'She ___ to school every day' using walk.",
+    "audio_prompt": "Complete 'She ___ to school every day' using walk.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "explanation": {
+      "summary": "With the singular subject she in this present-tense sentence, walk takes s.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "walking",
+        "is_correct": false
+      },
+      {
+        "text": "walks",
+        "is_correct": true
+      },
+      {
+        "text": "walk",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly15-er6-p-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Read 'help', 'helped' and 'helping'. Which part stays in all three?",
+    "audio_prompt": "Read 'help', 'helped' and 'helping'. Which part stays in all three?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "explanation": {
+      "summary": "Help is the shared base carrying the core meaning; the endings change its grammatical form.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "ed",
+        "is_correct": false
+      },
+      {
+        "text": "ing",
+        "is_correct": false
+      },
+      {
+        "text": "help",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly15-er6-p-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Which form fits 'We ___ the room last night'?",
+    "audio_prompt": "Which form fits 'We ___ the room last night'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "explanation": {
+      "summary": "Last night signals the past, and cleaned is clean plus ed.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "cleaned",
+        "is_correct": true
+      },
+      {
+        "text": "cleaning",
+        "is_correct": false
+      },
+      {
+        "text": "cleans",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly15-er6-p-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Change 'one brush' to mean more than one.",
+    "audio_prompt": "Change 'one brush' to mean more than one.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "explanation": {
+      "summary": "Brush takes es for its regular plural, so brushes names more than one object.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "brushing",
+        "is_correct": false
+      },
+      {
+        "text": "brushes",
+        "is_correct": true
+      },
+      {
+        "text": "brushed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly15-er6-p-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Which word in 'The birds are singing' contains the ending for an action happening with are?",
+    "audio_prompt": "Which word in 'The birds are singing' contains the ending for an action happening with are?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "explanation": {
+      "summary": "Singing uses ing with are; birds instead has a plural s ending.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "birds",
+        "is_correct": false
+      },
+      {
+        "text": "The",
+        "is_correct": false
+      },
+      {
+        "text": "singing",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly15-er6-p-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Choose the pair made by adding different endings to 'pack'.",
+    "audio_prompt": "Choose the pair made by adding different endings to 'pack'.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "explanation": {
+      "summary": "Packed and packing retain the base pack and add grammatical endings.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "packed, packing",
+        "is_correct": true
+      },
+      {
+        "text": "back, sack",
+        "is_correct": false
+      },
+      {
+        "text": "park, part",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly15-er6-p-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Complete 'Two ___ sat on the fence' using bird.",
+    "audio_prompt": "Complete 'Two ___ sat on the fence' using bird.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "explanation": {
+      "summary": "The number two needs the plural noun birds, formed by adding s.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "birding",
+        "is_correct": false
+      },
+      {
+        "text": "birds",
+        "is_correct": true
+      },
+      {
+        "text": "birded",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly15-er6-p-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Read 'I paint today' and 'I painted yesterday'. What does ed change?",
+    "audio_prompt": "Read 'I paint today' and 'I painted yesterday'. What does ed change?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "explanation": {
+      "summary": "The ending ed changes the verb form to refer to a past action.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "It means there are many painters.",
+        "is_correct": false
+      },
+      {
+        "text": "It means the paint is brighter.",
+        "is_correct": false
+      },
+      {
+        "text": "It marks the action as past.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly15-er6-p-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Complete 'The children are ___' using rest.",
+    "audio_prompt": "Complete 'The children are ___' using rest.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "explanation": {
+      "summary": "Are combines with resting to describe the ongoing action or state.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "resting",
+        "is_correct": true
+      },
+      {
+        "text": "rested",
+        "is_correct": false
+      },
+      {
+        "text": "rests",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly15-er6-p-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "A child puts 'cook' with 'looked' because they rhyme. Which word belongs to the look family instead?",
+    "audio_prompt": "A child puts 'cook' with 'looked' because they rhyme. Which word belongs to the look family instead?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "explanation": {
+      "summary": "Looking keeps the base look; the others rhyme but do not share that base meaning.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "book",
+        "is_correct": false
+      },
+      {
+        "text": "looking",
+        "is_correct": true
+      },
+      {
+        "text": "hook",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly15-er6-p-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Read 'The cat sleeps' and 'The cats sleep'. What does s do in 'cats'?",
+    "audio_prompt": "Read 'The cat sleeps' and 'The cats sleep'. What does s do in 'cats'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "explanation": {
+      "summary": "In cats, s is a plural noun ending; its job depends on the word it is attached to.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "It marks a past action.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a describing word.",
+        "is_correct": false
+      },
+      {
+        "text": "It marks more than one cat.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly15-er6-p-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "In 'The cat sleeps', what does the s in 'sleeps' do?",
+    "audio_prompt": "In 'The cat sleeps', what does the s in 'sleeps' do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "explanation": {
+      "summary": "The verb ending agrees with the singular subject; it is not a plural noun ending here.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "It makes the present verb fit one cat.",
+        "is_correct": true
+      },
+      {
+        "text": "It means there is more than one cat.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows the cat slept yesterday.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly15-er6-p-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Choose the sentence where the ending fits the time clue.",
+    "audio_prompt": "Choose the sentence where the ending fits the time clue.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "explanation": {
+      "summary": "Planted is the past form of plant and fits Yesterday with the subject we.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Yesterday, we plants beans.",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday, we planted beans.",
+        "is_correct": true
+      },
+      {
+        "text": "Yesterday, we planting beans.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly15-er6-p-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Rewrite 'three bus' using the correct plural. Explain what you added.",
+    "audio_prompt": "Rewrite 'three bus' using the correct plural. Explain what you added.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "explanation": {
+      "summary": "Check the plural buses and an explanation that es shows more than one bus. It is not a past-tense ending here.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "three buses; add es to bus",
+    "acceptance_note": "Check the plural buses and an explanation that es shows more than one bus. It is not a past-tense ending here.",
+    "response_instructions": "Write your response on paper or here. A grown-up checks it.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly15-er6-p-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Write two forms of wash: one to finish 'I am ___ now' and one to finish 'I ___ yesterday'.",
+    "audio_prompt": "Write two forms of wash: one to finish 'I am ___ now' and one to finish 'I ___ yesterday'.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "explanation": {
+      "summary": "Check washing after am and washed for yesterday. Both retain wash, with different grammatical endings.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Use washing for now and washed for yesterday.",
+    "acceptance_note": "Check washing after am and washed for yesterday. Both retain wash, with different grammatical endings.",
+    "response_instructions": "Write your response on paper or here. A grown-up checks it.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly15-er6-p-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Complete these in writing using clap: 'Now I am ___.' 'Yesterday I ___ too.'",
+    "audio_prompt": "Complete these in writing using clap: 'Now I am ___.' 'Yesterday I ___ too.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "explanation": {
+      "summary": "Check clapping and clapped, including the doubled p and the endings that fit the time and sentence structure.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Now I am clapping. Yesterday I clapped too.",
+    "acceptance_note": "Check clapping and clapped, including the doubled p and the endings that fit the time and sentence structure.",
+    "response_instructions": "Write your response on paper or here. A grown-up checks it.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly15-er6-p-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "practice",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Build a word family from talk. Write the base and three forms with grammatical endings. Use one in a short sentence.",
+    "audio_prompt": "Build a word family from talk. Write the base and three forms with grammatical endings. Use one in a short sentence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "explanation": {
+      "summary": "Check the shared base and the s, ed and ing forms. The sentence must use its chosen form meaningfully; a rhyming word alone is not a family member.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "talk, talks, talked, talking; for example, We talked yesterday.",
+    "acceptance_note": "Check the shared base and the s, ed and ing forms. The sentence must use its chosen form meaningfully; a rhyming word alone is not a family member.",
+    "response_instructions": "Write your response on paper or here. A grown-up checks it.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly15-er6-t-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Which form of 'cup' means more than one?",
+    "audio_prompt": "Which form of 'cup' means more than one?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "explanation": {
+      "summary": "The ending s makes the regular plural noun cups.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "cups",
+        "is_correct": true
+      },
+      {
+        "text": "cupped",
+        "is_correct": false
+      },
+      {
+        "text": "cupping",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly15-er6-t-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Complete 'We ___ our hands before lunch yesterday' using wash.",
+    "audio_prompt": "Complete 'We ___ our hands before lunch yesterday' using wash.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "explanation": {
+      "summary": "Washed is the past verb form that matches yesterday.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "washes",
+        "is_correct": false
+      },
+      {
+        "text": "washed",
+        "is_correct": true
+      },
+      {
+        "text": "washing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly15-er6-t-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Complete 'The baby is ___' using sleep.",
+    "audio_prompt": "Complete 'The baby is ___' using sleep.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "explanation": {
+      "summary": "Is combines with sleeping to describe the action now.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "slept",
+        "is_correct": false
+      },
+      {
+        "text": "sleeps",
+        "is_correct": false
+      },
+      {
+        "text": "sleeping",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly15-er6-t-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Which word belongs to the 'paint' family?",
+    "audio_prompt": "Which word belongs to the 'paint' family?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "explanation": {
+      "summary": "Painting preserves the base paint and adds ing; similar spelling or rhyme is not a word family link.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "painting",
+        "is_correct": true
+      },
+      {
+        "text": "point",
+        "is_correct": false
+      },
+      {
+        "text": "faint",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly15-er6-t-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "What is the regular plural of 'fox'?",
+    "audio_prompt": "What is the regular plural of 'fox'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "explanation": {
+      "summary": "Fox adds es to make the plural foxes.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "foxing",
+        "is_correct": false
+      },
+      {
+        "text": "foxes",
+        "is_correct": true
+      },
+      {
+        "text": "foxs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly15-er6-t-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "In 'They walked home', which part carries the base meaning?",
+    "audio_prompt": "In 'They walked home', which part carries the base meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "explanation": {
+      "summary": "Walk is the base; ed is the ending showing the past form.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "ed",
+        "is_correct": false
+      },
+      {
+        "text": "ked",
+        "is_correct": false
+      },
+      {
+        "text": "walk",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly15-er6-t-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Complete 'One girl ___ the door each morning' using open.",
+    "audio_prompt": "Complete 'One girl ___ the door each morning' using open.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "explanation": {
+      "summary": "The singular subject one girl takes opens in this present-tense sentence.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "opens",
+        "is_correct": true
+      },
+      {
+        "text": "open",
+        "is_correct": false
+      },
+      {
+        "text": "opening",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly15-er6-t-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Choose the word that means more than one 'wish'.",
+    "audio_prompt": "Choose the word that means more than one 'wish'.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "explanation": {
+      "summary": "Wishes is the plural noun, formed with es; the other endings create verb forms.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "wishing",
+        "is_correct": false
+      },
+      {
+        "text": "wishes",
+        "is_correct": true
+      },
+      {
+        "text": "wished",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly15-er6-t-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Read 'played' and 'playing'. What do both words retain?",
+    "audio_prompt": "Read 'played' and 'playing'. What do both words retain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "explanation": {
+      "summary": "Both contain play, while their different endings change the grammatical form.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "The ending ed",
+        "is_correct": false
+      },
+      {
+        "text": "The ending ing",
+        "is_correct": false
+      },
+      {
+        "text": "The base play",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly15-er6-t-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Choose the sentence with a suitable past form.",
+    "audio_prompt": "Choose the sentence with a suitable past form.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "explanation": {
+      "summary": "Visited uses ed for the past time described by Last week.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "Last week, I visited Gran.",
+        "is_correct": true
+      },
+      {
+        "text": "Last week, I visiting Gran.",
+        "is_correct": false
+      },
+      {
+        "text": "Last week, I visits Gran.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "ac9e1ly15-er6-t-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Which pair adds endings to the same base word 'jump'?",
+    "audio_prompt": "Which pair adds endings to the same base word 'jump'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "explanation": {
+      "summary": "Jumps and jumping keep the same base and add s and ing.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "jump and lamp",
+        "is_correct": false
+      },
+      {
+        "text": "jumps and jumping",
+        "is_correct": true
+      },
+      {
+        "text": "bump and lump",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "ac9e1ly15-er6-t-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "In 'The hens peck', what does the s in hens show?",
+    "audio_prompt": "In 'The hens peck', what does the s in hens show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "explanation": {
+      "summary": "The s marks a plural noun, telling us there is more than one hen.",
+      "hint": "Say the words and check the whole example."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [
+      {
+        "text": "The pecking happened yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "Each hen is larger.",
+        "is_correct": false
+      },
+      {
+        "text": "There is more than one hen.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "ac9e1ly15-er6-t-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Change 'A hen pecks' so it is about more than one hen. Write the new sentence.",
+    "audio_prompt": "Change 'A hen pecks' so it is about more than one hen. Write the new sentence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "explanation": {
+      "summary": "Check hens as the plural noun and peck as the agreeing present verb. Do not keep the singular article a.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Hens peck. Accept The hens peck or equivalent plural wording.",
+    "acceptance_note": "Check hens as the plural noun and peck as the agreeing present verb. Do not keep the singular article a.",
+    "response_instructions": "Write your response on paper or here. A grown-up checks it.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly15-er6-t-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Write the plural of glass in this sentence: 'Two ___ were on the table.'",
+    "audio_prompt": "Write the plural of glass in this sentence: 'Two ___ were on the table.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "explanation": {
+      "summary": "Check glasses, formed with es, to match the quantity two. The rest of the sentence may be copied.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Two glasses were on the table.",
+    "acceptance_note": "Check glasses, formed with es, to match the quantity two. The rest of the sentence may be copied.",
+    "response_instructions": "Write your response on paper or here. A grown-up checks it.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly15-er6-t-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Complete in writing using skip: 'I am ___ now.' 'I ___ yesterday.'",
+    "audio_prompt": "Complete in writing using skip: 'I am ___ now.' 'I ___ yesterday.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "explanation": {
+      "summary": "Check skipping and skipped, with the correct endings and doubled p in both forms.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "I am skipping now. I skipped yesterday.",
+    "acceptance_note": "Check skipping and skipped, with the correct endings and doubled p in both forms.",
+    "response_instructions": "Write your response on paper or here. A grown-up checks it.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly15-er6-t-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY15",
+    "bank": "test",
+    "skill": "grammatical endings and meaningful word families",
+    "question": "Write two words made by adding grammatical endings to rest. Explain why nest is not part of this family.",
+    "audio_prompt": "Write two words made by adding grammatical endings to rest. Explain why nest is not part of this family.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "explanation": {
+      "summary": "Check two correctly formed words sharing rest and a meaning-based explanation. Rhyme alone does not create a grammatical word family.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/form-regular-plurals-with-s-and-es",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Accept two of rests, rested and resting. Nest has a different base and meaning.",
+    "acceptance_note": "Check two correctly formed words sharing rest and a meaning-based explanation. Rhyme alone does not create a grammatical word family.",
+    "response_instructions": "Write your response on paper or here. A grown-up checks it.",
+    "completion_label": "I have completed the writing on paper."
+  }
+]

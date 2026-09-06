@@ -1,0 +1,20 @@
+"use strict";
+const q=(id,skill,question,answers,correct,summary,hint)=>({id,curriculumCode:"AC9M7A02",bank:"test",skill,printable:true,type:"single",question,audioPrompt:question,answers,correct,explanation:`${summary}\nHint: ${hint}`,structuredExplanation:{summary,hint},qualitySchema:"production-v2"});
+window.skillrTestQuestions=[
+q("ac9m7a02-t-001","generalising","Simplify 2a+5a+3a.",["10a","10a^2","7a","a+10"],0,"Add the coefficients: 2+5+3=10.","These are like terms."),
+q("ac9m7a02-t-002","brackets","Which expression means five times the difference between x and 6?",["5(x-6)","5x-6","x-30","6-5x"],0,"The difference x-6 must be grouped before multiplying by 5.","Use brackets for the quantity acted on as a whole."),
+q("ac9m7a02-t-003","translation","Three more than twice a number is:",["2x+3","2(x+3)","3x+2","2x-3"],0,"Twice the number is 2x, then add 3.","Translate in sequence."),
+q("ac9m7a02-t-004","translation","One third of the sum of n and 12 is:",["(n+12)/3","n/3+12","3(n+12)","n+4"],0,"The whole sum n+12 is divided by 3.","Group the sum."),
+q("ac9m7a02-t-005","equivalence","Which is equivalent to 6(x+2)-2x?",["4x+12","6x+10","8x+12","4x+2"],0,"6x+12-2x=4x+12.","Expand then collect like terms."),
+q("ac9m7a02-t-006","error analysis","A student writes 'double the sum of x and 7' as 2x+7. What is the best correction?",["2(x+7)","2x-7","x+14","7(2+x)"],0,"The entire sum must be doubled.","Brackets show both terms are multiplied by 2."),
+q("ac9m7a02-t-007","consecutive integers","Which expression gives the sum of four consecutive integers starting at n?",["n+(n+1)+(n+2)+(n+3)","4n+3","n+n+n+n","n(n+1)(n+2)(n+3)"],0,"Consecutive integers increase by 1 each time.","List all four terms."),
+q("ac9m7a02-t-008","structure","For x=6, what is the difference between 4(x+3) and 4x+3?",["9","12","3","21"],0,"4(9)=36 and 24+3=27; difference=9.","Evaluate both expressions."),
+q("ac9m7a02-t-009","variable behaviour","If y=5x-2, what happens to y when x increases by 3?",["y increases by 15","y increases by 3","y increases by 13","y doubles"],0,"The change is 5×3=15.","The constant -2 does not affect the change."),
+q("ac9m7a02-t-010","relationship","For A=lw, l=8 and w changes from 3 to 5. How much does A increase?",["16","10","24","40"],0,"Area changes from 24 to 40, an increase of 16.","Evaluate before and after."),
+q("ac9m7a02-t-011","context","A walking track costs $12 fixed plus $4 per participant. Which expression gives total cost C for p participants?",["C=12+4p","C=12p+4","C=4(p+12)","C=16p"],0,"There is one fixed cost and a per-person cost.","Fixed amount + rate×number."),
+q("ac9m7a02-t-012","context","A water tank starts with 500 L and loses r litres per hour for h hours. Which expression gives the remaining volume?",["500-rh","500+r+h","500-r-h","rh-500"],0,"Total loss is r×h, subtracted from 500.","Rate times time gives the total change."),
+q("ac9m7a02-t-013","comparison","Which expression is always 8 greater than 3x?",["3x+8","3(x+8)","8x+3","3x-8"],0,"Adding 8 gives a constant difference of 8.","Compare by subtraction."),
+q("ac9m7a02-t-014","product","Which represents a number multiplied by two more than itself?",["x(x+2)","2x+2","x^2+2","2(x+2)"],0,"Two more than x is x+2; product means multiply.","Translate both factors."),
+q("ac9m7a02-t-015","reasoning","Which statement about 3x+4 and 3(x+4) is true for every x?",["3(x+4) is 8 greater","3x+4 is 8 greater","They are always equal","Their difference depends on x"],0,"3(x+4)=3x+12, which is 8 more than 3x+4.","Expand the bracket and compare."),
+q("ac9m7a02-t-016","mixed reasoning","A pattern has term value 5n+2. What is the change in value when n increases by 1?",["5","2","7","It depends on n"],0,"5(n+1)+2-(5n+2)=5.","Compare consecutive terms algebraically.")];
+window.quizQuestions=window.skillrTestQuestions;

@@ -1,0 +1,1 @@
+The Year 1 English rollout is grounded in the supplied Australian Curriculum code list and elaborations for AC9E1LA01–AC9E1LY15. Existing SkillrHub authored banks remain the source for question examples; the student-facing layer changes progression, presentation and practice delivery without substituting unrelated curriculum content.

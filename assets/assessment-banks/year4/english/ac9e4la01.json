@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E4LA01-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "In emailing the school principal to ask about assembly times, which option best demonstrates the skill?",
+    "audio_prompt": "In emailing the school principal to ask about assembly times, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "Could you please let me know what time the assembly begins?",
+        "is_correct": true
+      },
+      {
+        "text": "Hey, what time is the thing?",
+        "is_correct": false
+      },
+      {
+        "text": "Tell me the assembly time now.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The polite request suits a formal relationship without using complicated language.",
+      "hint": "Think about who is receiving the message and how well you know them."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which choice fits emailing the school principal to ask about assembly times most accurately?",
+    "audio_prompt": "Which choice fits emailing the school principal to ask about assembly times most accurately?",
+    "answers": [
+      {
+        "text": "Hey, what time is the thing?",
+        "is_correct": false
+      },
+      {
+        "text": "Could you please let me know what time the assembly begins?",
+        "is_correct": true
+      },
+      {
+        "text": "Tell me the assembly time now.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The polite request suits a formal relationship without using complicated language.",
+      "hint": "Think about who is receiving the message and how well you know them."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which choice fits asking a close friend to bring a football to the park most accurately?",
+    "audio_prompt": "Which choice fits asking a close friend to bring a football to the park most accurately?",
+    "answers": [
+      {
+        "text": "Dear Sir or Madam, I respectfully request the football.",
+        "is_correct": false
+      },
+      {
+        "text": "Bring it or else.",
+        "is_correct": false
+      },
+      {
+        "text": "Can you bring the footy this arvo?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A relaxed expression can suit a close friendship while still being respectful.",
+      "hint": "Informal does not mean rude; it means the language can be more relaxed."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Look closely at asking a close friend to bring a football to the park. Which response or wording works best?",
+    "audio_prompt": "Look closely at asking a close friend to bring a football to the park. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Can you bring the footy this arvo?",
+        "is_correct": true
+      },
+      {
+        "text": "Dear Sir or Madam, I respectfully request the football.",
+        "is_correct": false
+      },
+      {
+        "text": "Bring it or else.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A relaxed expression can suit a close friendship while still being respectful.",
+      "hint": "Informal does not mean rude; it means the language can be more relaxed."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Look closely at welcoming an Elder who is visiting the class. Which response or wording works best?",
+    "audio_prompt": "Look closely at welcoming an Elder who is visiting the class. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Hey May, tell us your stories.",
+        "is_correct": false
+      },
+      {
+        "text": "Welcome, Aunty May. Thank you for sharing your knowledge with us.",
+        "is_correct": true
+      },
+      {
+        "text": "Oi, come and sit here.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Respectful address and thanks recognise the relationship and cultural protocol.",
+      "hint": "Notice the respectful form of address and the acknowledgement of the visitor."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "For welcoming an Elder who is visiting the class, which option is the strongest match?",
+    "audio_prompt": "For welcoming an Elder who is visiting the class, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Hey May, tell us your stories.",
+        "is_correct": false
+      },
+      {
+        "text": "Oi, come and sit here.",
+        "is_correct": false
+      },
+      {
+        "text": "Welcome, Aunty May. Thank you for sharing your knowledge with us.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Respectful address and thanks recognise the relationship and cultural protocol.",
+      "hint": "Notice the respectful form of address and the acknowledgement of the visitor."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "For asking a librarian for help finding a book, which option is the strongest match?",
+    "audio_prompt": "For asking a librarian for help finding a book, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Excuse me, could you help me find this title, please?",
+        "is_correct": true
+      },
+      {
+        "text": "Move, I need that shelf.",
+        "is_correct": false
+      },
+      {
+        "text": "Mate, grab me that book.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The request is courteous and suitable for an adult you may not know well.",
+      "hint": "Choose language that is clear, polite and appropriate to the relationship."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which example should you choose for asking a librarian for help finding a book?",
+    "audio_prompt": "Which example should you choose for asking a librarian for help finding a book?",
+    "answers": [
+      {
+        "text": "Move, I need that shelf.",
+        "is_correct": false
+      },
+      {
+        "text": "Excuse me, could you help me find this title, please?",
+        "is_correct": true
+      },
+      {
+        "text": "Mate, grab me that book.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The request is courteous and suitable for an adult you may not know well.",
+      "hint": "Choose language that is clear, polite and appropriate to the relationship."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which example should you choose for disagreeing with a teammate during a lunchtime game?",
+    "audio_prompt": "Which example should you choose for disagreeing with a teammate during a lunchtime game?",
+    "answers": [
+      {
+        "text": "You are wrong, so stop talking.",
+        "is_correct": false
+      },
+      {
+        "text": "Whatever. Your idea is silly.",
+        "is_correct": false
+      },
+      {
+        "text": "I see it differently. Can we check the rule together?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Respectful disagreement protects the relationship while still expressing a different view.",
+      "hint": "Look for wording that disagrees without attacking the person."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "In disagreeing with a teammate during a lunchtime game, which option best demonstrates the skill?",
+    "audio_prompt": "In disagreeing with a teammate during a lunchtime game, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "I see it differently. Can we check the rule together?",
+        "is_correct": true
+      },
+      {
+        "text": "You are wrong, so stop talking.",
+        "is_correct": false
+      },
+      {
+        "text": "Whatever. Your idea is silly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Respectful disagreement protects the relationship while still expressing a different view.",
+      "hint": "Look for wording that disagrees without attacking the person."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Why does “Could you please let me know what time the assembly begins?” work well for emailing the school principal to ask about assembly times?",
+    "audio_prompt": "Why does “Could you please let me know what time the assembly begins?” work well for emailing the school principal to ask about assembly times?",
+    "answers": [
+      {
+        "text": "Because “Hey, what time is the thing?” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "The polite request suits a formal relationship without using complicated language.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The polite request suits a formal relationship without using complicated language.",
+      "hint": "Think about who is receiving the message and how well you know them."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "What makes “Could you please let me know what time the assembly begins?” a better choice in emailing the school principal to ask about assembly times?",
+    "audio_prompt": "What makes “Could you please let me know what time the assembly begins?” a better choice in emailing the school principal to ask about assembly times?",
+    "answers": [
+      {
+        "text": "Because “Hey, what time is the thing?” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "The polite request suits a formal relationship without using complicated language.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The polite request suits a formal relationship without using complicated language.",
+      "hint": "Think about who is receiving the message and how well you know them."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "What makes “Can you bring the footy this arvo?” a better choice in asking a close friend to bring a football to the park?",
+    "audio_prompt": "What makes “Can you bring the footy this arvo?” a better choice in asking a close friend to bring a football to the park?",
+    "answers": [
+      {
+        "text": "A relaxed expression can suit a close friendship while still being respectful.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Dear Sir or Madam, I respectfully request the football.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A relaxed expression can suit a close friendship while still being respectful.",
+      "hint": "Informal does not mean rude; it means the language can be more relaxed."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which explanation best justifies “Can you bring the footy this arvo?” for asking a close friend to bring a football to the park?",
+    "audio_prompt": "Which explanation best justifies “Can you bring the footy this arvo?” for asking a close friend to bring a football to the park?",
+    "answers": [
+      {
+        "text": "Because “Dear Sir or Madam, I respectfully request the football.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "A relaxed expression can suit a close friendship while still being respectful.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A relaxed expression can suit a close friendship while still being respectful.",
+      "hint": "Informal does not mean rude; it means the language can be more relaxed."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which explanation best justifies “Welcome, Aunty May. Thank you for sharing your knowledge with us.” for welcoming an Elder who is visiting the class?",
+    "audio_prompt": "Which explanation best justifies “Welcome, Aunty May. Thank you for sharing your knowledge with us.” for welcoming an Elder who is visiting the class?",
+    "answers": [
+      {
+        "text": "Because “Hey May, tell us your stories.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Respectful address and thanks recognise the relationship and cultural protocol.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Respectful address and thanks recognise the relationship and cultural protocol.",
+      "hint": "Notice the respectful form of address and the acknowledgement of the visitor."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "What should you notice about “Welcome, Aunty May. Thank you for sharing your knowledge with us.” in welcoming an Elder who is visiting the class?",
+    "audio_prompt": "What should you notice about “Welcome, Aunty May. Thank you for sharing your knowledge with us.” in welcoming an Elder who is visiting the class?",
+    "answers": [
+      {
+        "text": "Respectful address and thanks recognise the relationship and cultural protocol.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Hey May, tell us your stories.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Respectful address and thanks recognise the relationship and cultural protocol.",
+      "hint": "Notice the respectful form of address and the acknowledgement of the visitor."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "What should you notice about “Excuse me, could you help me find this title, please?” in asking a librarian for help finding a book?",
+    "audio_prompt": "What should you notice about “Excuse me, could you help me find this title, please?” in asking a librarian for help finding a book?",
+    "answers": [
+      {
+        "text": "Because “Move, I need that shelf.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "The request is courteous and suitable for an adult you may not know well.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The request is courteous and suitable for an adult you may not know well.",
+      "hint": "Choose language that is clear, polite and appropriate to the relationship."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which reason explains why “Excuse me, could you help me find this title, please?” suits asking a librarian for help finding a book?",
+    "audio_prompt": "Which reason explains why “Excuse me, could you help me find this title, please?” suits asking a librarian for help finding a book?",
+    "answers": [
+      {
+        "text": "Because “Move, I need that shelf.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "The request is courteous and suitable for an adult you may not know well.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The request is courteous and suitable for an adult you may not know well.",
+      "hint": "Choose language that is clear, polite and appropriate to the relationship."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which reason explains why “I see it differently. Can we check the rule together?” suits disagreeing with a teammate during a lunchtime game?",
+    "audio_prompt": "Which reason explains why “I see it differently. Can we check the rule together?” suits disagreeing with a teammate during a lunchtime game?",
+    "answers": [
+      {
+        "text": "Respectful disagreement protects the relationship while still expressing a different view.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “You are wrong, so stop talking.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Respectful disagreement protects the relationship while still expressing a different view.",
+      "hint": "Look for wording that disagrees without attacking the person."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Why does “I see it differently. Can we check the rule together?” work well for disagreeing with a teammate during a lunchtime game?",
+    "audio_prompt": "Why does “I see it differently. Can we check the rule together?” work well for disagreeing with a teammate during a lunchtime game?",
+    "answers": [
+      {
+        "text": "Because “You are wrong, so stop talking.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Respectful disagreement protects the relationship while still expressing a different view.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Respectful disagreement protects the relationship while still expressing a different view.",
+      "hint": "Look for wording that disagrees without attacking the person."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which revision best fixes the problem in “Hey, what time is the thing?” for emailing the school principal to ask about assembly times?",
+    "audio_prompt": "Which revision best fixes the problem in “Hey, what time is the thing?” for emailing the school principal to ask about assembly times?",
+    "answers": [
+      {
+        "text": "Hey, what time is the thing?",
+        "is_correct": false
+      },
+      {
+        "text": "Tell me the assembly time now.",
+        "is_correct": false
+      },
+      {
+        "text": "Could you please let me know what time the assembly begins?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The polite request suits a formal relationship without using complicated language. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Think about who is receiving the message and how well you know them."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Compare the choices for emailing the school principal to ask about assembly times. Which one avoids the mistake in “Hey, what time is the thing?”?",
+    "audio_prompt": "Compare the choices for emailing the school principal to ask about assembly times. Which one avoids the mistake in “Hey, what time is the thing?”?",
+    "answers": [
+      {
+        "text": "Could you please let me know what time the assembly begins?",
+        "is_correct": true
+      },
+      {
+        "text": "Hey, what time is the thing?",
+        "is_correct": false
+      },
+      {
+        "text": "Tell me the assembly time now.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The polite request suits a formal relationship without using complicated language. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Think about who is receiving the message and how well you know them."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Compare the choices for asking a close friend to bring a football to the park. Which one avoids the mistake in “Dear Sir or Madam, I respectfully request the football.”?",
+    "audio_prompt": "Compare the choices for asking a close friend to bring a football to the park. Which one avoids the mistake in “Dear Sir or Madam, I respectfully request the football.”?",
+    "answers": [
+      {
+        "text": "Dear Sir or Madam, I respectfully request the football.",
+        "is_correct": false
+      },
+      {
+        "text": "Can you bring the footy this arvo?",
+        "is_correct": true
+      },
+      {
+        "text": "Bring it or else.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A relaxed expression can suit a close friendship while still being respectful. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Informal does not mean rude; it means the language can be more relaxed."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "If “Dear Sir or Madam, I respectfully request the football.” does not work in asking a close friend to bring a football to the park, what should replace it?",
+    "audio_prompt": "If “Dear Sir or Madam, I respectfully request the football.” does not work in asking a close friend to bring a football to the park, what should replace it?",
+    "answers": [
+      {
+        "text": "Dear Sir or Madam, I respectfully request the football.",
+        "is_correct": false
+      },
+      {
+        "text": "Bring it or else.",
+        "is_correct": false
+      },
+      {
+        "text": "Can you bring the footy this arvo?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A relaxed expression can suit a close friendship while still being respectful. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Informal does not mean rude; it means the language can be more relaxed."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "If “Hey May, tell us your stories.” does not work in welcoming an Elder who is visiting the class, what should replace it?",
+    "audio_prompt": "If “Hey May, tell us your stories.” does not work in welcoming an Elder who is visiting the class, what should replace it?",
+    "answers": [
+      {
+        "text": "Welcome, Aunty May. Thank you for sharing your knowledge with us.",
+        "is_correct": true
+      },
+      {
+        "text": "Hey May, tell us your stories.",
+        "is_correct": false
+      },
+      {
+        "text": "Oi, come and sit here.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Respectful address and thanks recognise the relationship and cultural protocol. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice the respectful form of address and the acknowledgement of the visitor."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which option corrects the meaning or form needed for welcoming an Elder who is visiting the class?",
+    "audio_prompt": "Which option corrects the meaning or form needed for welcoming an Elder who is visiting the class?",
+    "answers": [
+      {
+        "text": "Hey May, tell us your stories.",
+        "is_correct": false
+      },
+      {
+        "text": "Welcome, Aunty May. Thank you for sharing your knowledge with us.",
+        "is_correct": true
+      },
+      {
+        "text": "Oi, come and sit here.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Respectful address and thanks recognise the relationship and cultural protocol. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice the respectful form of address and the acknowledgement of the visitor."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which option corrects the meaning or form needed for asking a librarian for help finding a book?",
+    "audio_prompt": "Which option corrects the meaning or form needed for asking a librarian for help finding a book?",
+    "answers": [
+      {
+        "text": "Move, I need that shelf.",
+        "is_correct": false
+      },
+      {
+        "text": "Mate, grab me that book.",
+        "is_correct": false
+      },
+      {
+        "text": "Excuse me, could you help me find this title, please?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The request is courteous and suitable for an adult you may not know well. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose language that is clear, polite and appropriate to the relationship."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which choice is the clearest correction for asking a librarian for help finding a book?",
+    "audio_prompt": "Which choice is the clearest correction for asking a librarian for help finding a book?",
+    "answers": [
+      {
+        "text": "Excuse me, could you help me find this title, please?",
+        "is_correct": true
+      },
+      {
+        "text": "Move, I need that shelf.",
+        "is_correct": false
+      },
+      {
+        "text": "Mate, grab me that book.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The request is courteous and suitable for an adult you may not know well. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose language that is clear, polite and appropriate to the relationship."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which choice is the clearest correction for disagreeing with a teammate during a lunchtime game?",
+    "audio_prompt": "Which choice is the clearest correction for disagreeing with a teammate during a lunchtime game?",
+    "answers": [
+      {
+        "text": "You are wrong, so stop talking.",
+        "is_correct": false
+      },
+      {
+        "text": "I see it differently. Can we check the rule together?",
+        "is_correct": true
+      },
+      {
+        "text": "Whatever. Your idea is silly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Respectful disagreement protects the relationship while still expressing a different view. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for wording that disagrees without attacking the person."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which revision best fixes the problem in “You are wrong, so stop talking.” for disagreeing with a teammate during a lunchtime game?",
+    "audio_prompt": "Which revision best fixes the problem in “You are wrong, so stop talking.” for disagreeing with a teammate during a lunchtime game?",
+    "answers": [
+      {
+        "text": "You are wrong, so stop talking.",
+        "is_correct": false
+      },
+      {
+        "text": "Whatever. Your idea is silly.",
+        "is_correct": false
+      },
+      {
+        "text": "I see it differently. Can we check the rule together?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Respectful disagreement protects the relationship while still expressing a different view. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for wording that disagrees without attacking the person."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "You now need to handle emailing the school principal to ask about assembly times independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle emailing the school principal to ask about assembly times independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Could you please let me know what time the assembly begins?",
+        "is_correct": true
+      },
+      {
+        "text": "Tell me the assembly time now.",
+        "is_correct": false
+      },
+      {
+        "text": "Hey, what time is the thing?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The polite request suits a formal relationship without using complicated language.",
+      "hint": "Think about who is receiving the message and how well you know them."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Apply the same idea to emailing the school principal to ask about assembly times. Which option is best?",
+    "audio_prompt": "Apply the same idea to emailing the school principal to ask about assembly times. Which option is best?",
+    "answers": [
+      {
+        "text": "Tell me the assembly time now.",
+        "is_correct": false
+      },
+      {
+        "text": "Could you please let me know what time the assembly begins?",
+        "is_correct": true
+      },
+      {
+        "text": "Hey, what time is the thing?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The polite request suits a formal relationship without using complicated language.",
+      "hint": "Think about who is receiving the message and how well you know them."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Apply the same idea to asking a close friend to bring a football to the park. Which option is best?",
+    "audio_prompt": "Apply the same idea to asking a close friend to bring a football to the park. Which option is best?",
+    "answers": [
+      {
+        "text": "Bring it or else.",
+        "is_correct": false
+      },
+      {
+        "text": "Dear Sir or Madam, I respectfully request the football.",
+        "is_correct": false
+      },
+      {
+        "text": "Can you bring the footy this arvo?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A relaxed expression can suit a close friendship while still being respectful.",
+      "hint": "Informal does not mean rude; it means the language can be more relaxed."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which decision would produce the clearest result in asking a close friend to bring a football to the park?",
+    "audio_prompt": "Which decision would produce the clearest result in asking a close friend to bring a football to the park?",
+    "answers": [
+      {
+        "text": "Can you bring the footy this arvo?",
+        "is_correct": true
+      },
+      {
+        "text": "Bring it or else.",
+        "is_correct": false
+      },
+      {
+        "text": "Dear Sir or Madam, I respectfully request the football.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A relaxed expression can suit a close friendship while still being respectful.",
+      "hint": "Informal does not mean rude; it means the language can be more relaxed."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which decision would produce the clearest result in welcoming an Elder who is visiting the class?",
+    "audio_prompt": "Which decision would produce the clearest result in welcoming an Elder who is visiting the class?",
+    "answers": [
+      {
+        "text": "Oi, come and sit here.",
+        "is_correct": false
+      },
+      {
+        "text": "Welcome, Aunty May. Thank you for sharing your knowledge with us.",
+        "is_correct": true
+      },
+      {
+        "text": "Hey May, tell us your stories.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Respectful address and thanks recognise the relationship and cultural protocol.",
+      "hint": "Notice the respectful form of address and the acknowledgement of the visitor."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Choose the option that applies the skill correctly in welcoming an Elder who is visiting the class.",
+    "audio_prompt": "Choose the option that applies the skill correctly in welcoming an Elder who is visiting the class.",
+    "answers": [
+      {
+        "text": "Oi, come and sit here.",
+        "is_correct": false
+      },
+      {
+        "text": "Hey May, tell us your stories.",
+        "is_correct": false
+      },
+      {
+        "text": "Welcome, Aunty May. Thank you for sharing your knowledge with us.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Respectful address and thanks recognise the relationship and cultural protocol.",
+      "hint": "Notice the respectful form of address and the acknowledgement of the visitor."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Choose the option that applies the skill correctly in asking a librarian for help finding a book.",
+    "audio_prompt": "Choose the option that applies the skill correctly in asking a librarian for help finding a book.",
+    "answers": [
+      {
+        "text": "Excuse me, could you help me find this title, please?",
+        "is_correct": true
+      },
+      {
+        "text": "Mate, grab me that book.",
+        "is_correct": false
+      },
+      {
+        "text": "Move, I need that shelf.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The request is courteous and suitable for an adult you may not know well.",
+      "hint": "Choose language that is clear, polite and appropriate to the relationship."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "What would be the most effective choice for asking a librarian for help finding a book?",
+    "audio_prompt": "What would be the most effective choice for asking a librarian for help finding a book?",
+    "answers": [
+      {
+        "text": "Mate, grab me that book.",
+        "is_correct": false
+      },
+      {
+        "text": "Excuse me, could you help me find this title, please?",
+        "is_correct": true
+      },
+      {
+        "text": "Move, I need that shelf.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The request is courteous and suitable for an adult you may not know well.",
+      "hint": "Choose language that is clear, polite and appropriate to the relationship."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "What would be the most effective choice for disagreeing with a teammate during a lunchtime game?",
+    "audio_prompt": "What would be the most effective choice for disagreeing with a teammate during a lunchtime game?",
+    "answers": [
+      {
+        "text": "Whatever. Your idea is silly.",
+        "is_correct": false
+      },
+      {
+        "text": "You are wrong, so stop talking.",
+        "is_correct": false
+      },
+      {
+        "text": "I see it differently. Can we check the rule together?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Respectful disagreement protects the relationship while still expressing a different view.",
+      "hint": "Look for wording that disagrees without attacking the person."
+    }
+  },
+  {
+    "id": "AC9E4LA01-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "You now need to handle disagreeing with a teammate during a lunchtime game independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle disagreeing with a teammate during a lunchtime game independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "I see it differently. Can we check the rule together?",
+        "is_correct": true
+      },
+      {
+        "text": "Whatever. Your idea is silly.",
+        "is_correct": false
+      },
+      {
+        "text": "You are wrong, so stop talking.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Respectful disagreement protects the relationship while still expressing a different view.",
+      "hint": "Look for wording that disagrees without attacking the person."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "New context: asking a museum guide a question on an excursion. Which option is correct?",
+    "audio_prompt": "New context: asking a museum guide a question on an excursion. Which option is correct?",
+    "answers": [
+      {
+        "text": "Hey, how old is that thing?",
+        "is_correct": false
+      },
+      {
+        "text": "Excuse me, may I ask how old this canoe is?",
+        "is_correct": true
+      },
+      {
+        "text": "Answer me about the canoe.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A courteous question suits an unfamiliar adult in a public setting.",
+      "hint": "Test whether the wording would sound respectful to someone you have just met."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "What is the best choice for asking a museum guide a question on an excursion?",
+    "audio_prompt": "What is the best choice for asking a museum guide a question on an excursion?",
+    "answers": [
+      {
+        "text": "Hey, how old is that thing?",
+        "is_correct": false
+      },
+      {
+        "text": "Answer me about the canoe.",
+        "is_correct": false
+      },
+      {
+        "text": "Excuse me, may I ask how old this canoe is?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A courteous question suits an unfamiliar adult in a public setting.",
+      "hint": "Test whether the wording would sound respectful to someone you have just met."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which explanation best supports “Excuse me, may I ask how old this canoe is?” in asking a museum guide a question on an excursion?",
+    "audio_prompt": "Which explanation best supports “Excuse me, may I ask how old this canoe is?” in asking a museum guide a question on an excursion?",
+    "answers": [
+      {
+        "text": "A courteous question suits an unfamiliar adult in a public setting.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Hey, how old is that thing?” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A courteous question suits an unfamiliar adult in a public setting.",
+      "hint": "Test whether the wording would sound respectful to someone you have just met."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which clue should guide your decision in asking a museum guide a question on an excursion?",
+    "audio_prompt": "Which clue should guide your decision in asking a museum guide a question on an excursion?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Test whether the wording would sound respectful to someone you have just met.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A courteous question suits an unfamiliar adult in a public setting.",
+      "hint": "Test whether the wording would sound respectful to someone you have just met."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which option would you reject first in asking a museum guide a question on an excursion?",
+    "audio_prompt": "Which option would you reject first in asking a museum guide a question on an excursion?",
+    "answers": [
+      {
+        "text": "Excuse me, may I ask how old this canoe is?",
+        "is_correct": false
+      },
+      {
+        "text": "Answer me about the canoe.",
+        "is_correct": false
+      },
+      {
+        "text": "Hey, how old is that thing?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A courteous question suits an unfamiliar adult in a public setting.",
+      "hint": "Test whether the wording would sound respectful to someone you have just met."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which correction should replace “Hey, how old is that thing?” in asking a museum guide a question on an excursion?",
+    "audio_prompt": "Which correction should replace “Hey, how old is that thing?” in asking a museum guide a question on an excursion?",
+    "answers": [
+      {
+        "text": "Excuse me, may I ask how old this canoe is?",
+        "is_correct": true
+      },
+      {
+        "text": "Hey, how old is that thing?",
+        "is_correct": false
+      },
+      {
+        "text": "Answer me about the canoe.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A courteous question suits an unfamiliar adult in a public setting.",
+      "hint": "Test whether the wording would sound respectful to someone you have just met."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Apply the skill to asking a museum guide a question on an excursion: what should you choose?",
+    "audio_prompt": "Apply the skill to asking a museum guide a question on an excursion: what should you choose?",
+    "answers": [
+      {
+        "text": "Hey, how old is that thing?",
+        "is_correct": false
+      },
+      {
+        "text": "Excuse me, may I ask how old this canoe is?",
+        "is_correct": true
+      },
+      {
+        "text": "Answer me about the canoe.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A courteous question suits an unfamiliar adult in a public setting.",
+      "hint": "Test whether the wording would sound respectful to someone you have just met."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which final choice gives the clearest and most accurate result for asking a museum guide a question on an excursion?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for asking a museum guide a question on an excursion?",
+    "answers": [
+      {
+        "text": "Hey, how old is that thing?",
+        "is_correct": false
+      },
+      {
+        "text": "Answer me about the canoe.",
+        "is_correct": false
+      },
+      {
+        "text": "Excuse me, may I ask how old this canoe is?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A courteous question suits an unfamiliar adult in a public setting.",
+      "hint": "Test whether the wording would sound respectful to someone you have just met."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "New context: sending a message to a cousin about a weekend barbecue. Which option is correct?",
+    "audio_prompt": "New context: sending a message to a cousin about a weekend barbecue. Which option is correct?",
+    "answers": [
+      {
+        "text": "Are you coming to the barbie on Saturday?",
+        "is_correct": true
+      },
+      {
+        "text": "To whom it may concern, please confirm attendance.",
+        "is_correct": false
+      },
+      {
+        "text": "You must attend the barbecue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Friendly, relaxed wording suits a familiar family relationship.",
+      "hint": "Choose a tone that matches a cousin rather than a formal organisation."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "What is the best choice for sending a message to a cousin about a weekend barbecue?",
+    "audio_prompt": "What is the best choice for sending a message to a cousin about a weekend barbecue?",
+    "answers": [
+      {
+        "text": "To whom it may concern, please confirm attendance.",
+        "is_correct": false
+      },
+      {
+        "text": "Are you coming to the barbie on Saturday?",
+        "is_correct": true
+      },
+      {
+        "text": "You must attend the barbecue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Friendly, relaxed wording suits a familiar family relationship.",
+      "hint": "Choose a tone that matches a cousin rather than a formal organisation."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which explanation best supports “Are you coming to the barbie on Saturday?” in sending a message to a cousin about a weekend barbecue?",
+    "audio_prompt": "Which explanation best supports “Are you coming to the barbie on Saturday?” in sending a message to a cousin about a weekend barbecue?",
+    "answers": [
+      {
+        "text": "Because “To whom it may concern, please confirm attendance.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Friendly, relaxed wording suits a familiar family relationship.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Friendly, relaxed wording suits a familiar family relationship.",
+      "hint": "Choose a tone that matches a cousin rather than a formal organisation."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which clue should guide your decision in sending a message to a cousin about a weekend barbecue?",
+    "audio_prompt": "Which clue should guide your decision in sending a message to a cousin about a weekend barbecue?",
+    "answers": [
+      {
+        "text": "Choose a tone that matches a cousin rather than a formal organisation.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Friendly, relaxed wording suits a familiar family relationship.",
+      "hint": "Choose a tone that matches a cousin rather than a formal organisation."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which option would you reject first in sending a message to a cousin about a weekend barbecue?",
+    "audio_prompt": "Which option would you reject first in sending a message to a cousin about a weekend barbecue?",
+    "answers": [
+      {
+        "text": "Are you coming to the barbie on Saturday?",
+        "is_correct": false
+      },
+      {
+        "text": "To whom it may concern, please confirm attendance.",
+        "is_correct": true
+      },
+      {
+        "text": "You must attend the barbecue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Friendly, relaxed wording suits a familiar family relationship.",
+      "hint": "Choose a tone that matches a cousin rather than a formal organisation."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which correction should replace “To whom it may concern, please confirm attendance.” in sending a message to a cousin about a weekend barbecue?",
+    "audio_prompt": "Which correction should replace “To whom it may concern, please confirm attendance.” in sending a message to a cousin about a weekend barbecue?",
+    "answers": [
+      {
+        "text": "To whom it may concern, please confirm attendance.",
+        "is_correct": false
+      },
+      {
+        "text": "You must attend the barbecue.",
+        "is_correct": false
+      },
+      {
+        "text": "Are you coming to the barbie on Saturday?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Friendly, relaxed wording suits a familiar family relationship.",
+      "hint": "Choose a tone that matches a cousin rather than a formal organisation."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Apply the skill to sending a message to a cousin about a weekend barbecue: what should you choose?",
+    "audio_prompt": "Apply the skill to sending a message to a cousin about a weekend barbecue: what should you choose?",
+    "answers": [
+      {
+        "text": "Are you coming to the barbie on Saturday?",
+        "is_correct": true
+      },
+      {
+        "text": "To whom it may concern, please confirm attendance.",
+        "is_correct": false
+      },
+      {
+        "text": "You must attend the barbecue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Friendly, relaxed wording suits a familiar family relationship.",
+      "hint": "Choose a tone that matches a cousin rather than a formal organisation."
+    }
+  },
+  {
+    "id": "AC9E4LA01-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA01",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Language for Formal and Informal Relationships",
+    "question": "Which final choice gives the clearest and most accurate result for sending a message to a cousin about a weekend barbecue?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for sending a message to a cousin about a weekend barbecue?",
+    "answers": [
+      {
+        "text": "To whom it may concern, please confirm attendance.",
+        "is_correct": false
+      },
+      {
+        "text": "Are you coming to the barbie on Saturday?",
+        "is_correct": true
+      },
+      {
+        "text": "You must attend the barbecue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Friendly, relaxed wording suits a familiar family relationship.",
+      "hint": "Choose a tone that matches a cousin rather than a formal organisation."
+    }
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ac9m9st05-p-001",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "plan_and_conducting_an_investigation_using_questions_together_with_analysis_of_secondary_data_set_collected_from_online_data_bases_such_as_the_australian_bureau_of_statistics",
+    "question": "A Year 9 student is solving a problem involving plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
+      "hint": "Plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st05-p-002",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "plan_and_conducting_an_investigation_relating_to_consumer_spending_habits_modelling_market_research_on_what_teenagers_are_prepared_to_spend_on_technology_compared_to_clothing",
+    "question": "A Year 9 student is solving a problem involving plan and conducting an investigation relating to consumer spending habits modelling market research on what teenagers are prepared to spend on technology compared to clothing. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving plan and conducting an investigation relating to consumer spending habits modelling market research on what teenagers are prepared to spend on technology compared to clothing. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The statistical evidence model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
+      "hint": "Plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st05-p-003",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_where_would_be_the_best_location_for_a_tropical_fruit_plantation",
+    "question": "A Year 9 student is solving a problem involving explore where would be the best location for a tropical fruit plantation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore where would be the best location for a tropical fruit plantation. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
+      "hint": "Explore where would be the best location for a tropical fruit plantation."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st05-p-004",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "posing_statistical_questions_collecting_representing_and_interpreting_data_from_different_sources_in_relation_to_reconciliation_considering_the_relationships_between_variables",
+    "question": "A Year 9 student is solving a problem involving posing statistical questions collecting representing and interpreting data from different sources in relation to reconciliation considering the relationships between variables. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving posing statistical questions collecting representing and interpreting data from different sources in relation to reconciliation considering the relationships between variables. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables",
+      "hint": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st05-p-005",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "plan_and_conducting_an_investigation_using_questions_together_with_analysis_of_secondary_data_set_collected_from_online_data_bases_such_as_the_australian_bureau_of_statistics",
+    "question": "A Year 9 student is solving a problem involving plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
+        "is_correct": true
+      },
+      {
+        "text": "The statistical evidence model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
+      "hint": "Plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st05-p-006",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "plan_and_conducting_an_investigation_relating_to_consumer_spending_habits_modelling_market_research_on_what_teenagers_are_prepared_to_spend_on_technology_compared_to_clothing",
+    "question": "A Year 9 student is solving a problem involving plan and conducting an investigation relating to consumer spending habits modelling market research on what teenagers are prepared to spend on technology compared to clothing. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving plan and conducting an investigation relating to consumer spending habits modelling market research on what teenagers are prepared to spend on technology compared to clothing. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
+      "hint": "Plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st05-p-007",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_where_would_be_the_best_location_for_a_tropical_fruit_plantation",
+    "question": "A Year 9 student is solving a problem involving explore where would be the best location for a tropical fruit plantation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore where would be the best location for a tropical fruit plantation. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
+      "hint": "Explore where would be the best location for a tropical fruit plantation."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st05-p-008",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "posing_statistical_questions_collecting_representing_and_interpreting_data_from_different_sources_in_relation_to_reconciliation_considering_the_relationships_between_variables",
+    "question": "A Year 9 student is solving a problem involving posing statistical questions collecting representing and interpreting data from different sources in relation to reconciliation considering the relationships between variables. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving posing statistical questions collecting representing and interpreting data from different sources in relation to reconciliation considering the relationships between variables. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The statistical evidence model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables",
+      "hint": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st05-t-001",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "plan_and_conducting_an_investigation_using_questions_together_with_analysis_of_secondary_data_set_collected_from_online_data_bases_such_as_the_australian_bureau_of_statistics",
+    "question": "Which response correctly uses plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics?",
+    "audio_prompt": "Which response correctly uses plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
+        "is_correct": true
+      },
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
+      "hint": "Plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-002",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "plan_and_conducting_an_investigation_relating_to_consumer_spending_habits_modelling_market_research_on_what_teenagers_are_prepared_to_spend_on_technology_compared_to_clothing",
+    "question": "Which response correctly uses plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing?",
+    "audio_prompt": "Which response correctly uses plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
+      "hint": "Plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-003",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_where_would_be_the_best_location_for_a_tropical_fruit_plantation",
+    "question": "Which response correctly uses explore where would be the best location for a tropical fruit plantation?",
+    "audio_prompt": "Which response correctly uses explore where would be the best location for a tropical fruit plantation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The statistical evidence model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
+      "hint": "Explore where would be the best location for a tropical fruit plantation."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-004",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "posing_statistical_questions_collecting_representing_and_interpreting_data_from_different_sources_in_relation_to_reconciliation_considering_the_relationships_between_variables",
+    "question": "Which response correctly uses posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables?",
+    "audio_prompt": "Which response correctly uses posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables",
+      "hint": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-005",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "plan_and_conducting_an_investigation_using_questions_together_with_analysis_of_secondary_data_set_collected_from_online_data_bases_such_as_the_australian_bureau_of_statistics",
+    "question": "A Year 9 student is solving a problem involving plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the australian bureau of statistics. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "planning and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics",
+      "hint": "Plan and conducting an investigation using questions together with analysis of secondary data set collected from online data bases such as the Australian Bureau of Statistics."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-006",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "plan_and_conducting_an_investigation_relating_to_consumer_spending_habits_modelling_market_research_on_what_teenagers_are_prepared_to_spend_on_technology_compared_to_clothing",
+    "question": "A Year 9 student is solving a problem involving plan and conducting an investigation relating to consumer spending habits modelling market research on what teenagers are prepared to spend on technology compared to clothing. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving plan and conducting an investigation relating to consumer spending habits modelling market research on what teenagers are prepared to spend on technology compared to clothing. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The statistical evidence model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "planning and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing, with consideration of sample techniques and potential sources of bias",
+      "hint": "Plan and conducting an investigation relating to consumer spending habits; modelling market research on what teenagers are prepared to spend on technology compared to clothing."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-007",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_where_would_be_the_best_location_for_a_tropical_fruit_plantation",
+    "question": "A Year 9 student is solving a problem involving explore where would be the best location for a tropical fruit plantation. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore where would be the best location for a tropical fruit plantation. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigating where would be the best location for a tropical fruit plantation by conducting a statistical investigation comparing different variables such as the annual rainfall in various parts of Australia, Indonesia, New Guinea and Malaysia, land prices and associated farming costs",
+      "hint": "Explore where would be the best location for a tropical fruit plantation."
+    }
+  },
+  {
+    "id": "ac9m9st05-t-008",
+    "curriculum_code": "AC9M9ST05",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "posing_statistical_questions_collecting_representing_and_interpreting_data_from_different_sources_in_relation_to_reconciliation_considering_the_relationships_between_variables",
+    "question": "A Year 9 student is solving a problem involving posing statistical questions collecting representing and interpreting data from different sources in relation to reconciliation considering the relationships between variables. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving posing statistical questions collecting representing and interpreting data from different sources in relation to reconciliation considering the relationships between variables. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables",
+      "hint": "posing statistical questions, collecting, representing and interpreting data from different sources in relation to reconciliation, considering the relationships between variables."
+    }
+  }
+]

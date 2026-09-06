@@ -4,640 +4,498 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly06-t-001",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test write for an audience direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "audioPrompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "visual": {
+    "type": "single",
+    "question": "Which sentence best suits a reminder for Year 2 students returning library books?",
+    "audioPrompt": "Which sentence best suits a reminder for Year 2 students returning library books?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The dragon stomped into the cave.",
-        "is_correct": true
-      },
-      {
-        "text": "The dragon cave into moved.",
-        "is_correct": false
-      },
-      {
-        "text": "The dragon was a noun.",
-        "is_correct": false
-      }
+      "Patrons must facilitate the restitution of borrowed volumes.",
+      "Library books should be returned at the correct time and place.",
+      "Please place your library book in the blue return box by Friday."
     ],
-    "correctIndex": 0,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 1,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The sentence uses clear, familiar language and gives students a specific action.\nHint: Match vocabulary and detail to the intended readers.",
+    "structuredExplanation": {
+      "summary": "The sentence uses clear, familiar language and gives students a specific action.",
+      "hint": "Match vocabulary and detail to the intended readers."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-002",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test order a procedure direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: I like the park because ___.",
-    "audioPrompt": "Choose the best revision or text part: I like the park because ___.",
-    "visual": {
+    "type": "single",
+    "question": "A draft procedure lists: bake the muffins; mix the batter; place mixture in the tray. Which order is logical?",
+    "audioPrompt": "A draft procedure lists: bake the muffins; mix the batter; place mixture in the tray. Which order is logical?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "park is park is park",
-        "is_correct": false
-      },
-      {
-        "text": "because",
-        "is_correct": false
-      },
-      {
-        "text": "there is space to run and play",
-        "is_correct": true
-      }
+      "mix the batter, fill the tray, then bake",
+      "bake, mix, then fill the tray",
+      "fill the tray, bake, then make the batter"
     ],
-    "correctIndex": 2,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 2,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The mixture must be prepared and placed in the tray before baking.\nHint: Imagine completing each action and check what must happen first.",
+    "structuredExplanation": {
+      "summary": "The mixture must be prepared and placed in the tray before baking.",
+      "hint": "Imagine completing each action and check what must happen first."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-003",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test choose a useful image direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: First we mixed the batter. ___ we poured it into the pan.",
-    "audioPrompt": "Choose the best revision or text part: First we mixed the batter. ___ we poured it into the pan.",
-    "visual": {
+    "type": "single",
+    "question": "A report explains the parts of a flower. Which image adds the most useful information?",
+    "audioPrompt": "A report explains the parts of a flower. Which image adds the most useful information?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Because",
-        "is_correct": false
-      },
-      {
-        "text": "Then",
-        "is_correct": true
-      },
-      {
-        "text": "Blue",
-        "is_correct": false
-      }
+      "a colourful garden photo with the flower parts too small to see",
+      "a clear flower diagram with each part labelled",
+      "a close flower picture with no labels to identify each part"
     ],
-    "correctIndex": 1,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 3,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "A labelled diagram directly supports the report's explanation.\nHint: Choose an image that helps the audience understand the content.",
+    "structuredExplanation": {
+      "summary": "A labelled diagram directly supports the report's explanation.",
+      "hint": "Choose an image that helps the audience understand the content."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-004",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test edit punctuation direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The tiny brown bird landed on the branch.",
-    "audioPrompt": "Choose the best revision or text part: The tiny brown bird landed on the branch.",
-    "visual": {
+    "type": "single",
+    "question": "Which edit correctly punctuates this list: ‘We packed hats water snacks and maps’ ?",
+    "audioPrompt": "Which edit correctly punctuates this list: ‘We packed hats water snacks and maps’ ?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "tiny brown",
-        "is_correct": true
-      },
-      {
-        "text": "landed on",
-        "is_correct": false
-      },
-      {
-        "text": "the branch",
-        "is_correct": false
-      }
+      "We packed, hats water snacks and maps.",
+      "We packed hats water snacks and, maps.",
+      "We packed hats, water, snacks and maps."
     ],
-    "correctIndex": 0,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 4,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Commas separate the listed items so each one is clear.\nHint: Place commas between items, not between the verb and its first item.",
+    "structuredExplanation": {
+      "summary": "Commas separate the listed items so each one is clear.",
+      "hint": "Place commas between items, not between the verb and its first item."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-005",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test spell a two syllable word direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "audioPrompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "visual": {
+    "type": "single",
+    "question": "A student writes littel in a class story. Which edit gives the common spelling?",
+    "audioPrompt": "A student writes littel in a class story. Which edit gives the common spelling?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The dragon cave into moved.",
-        "is_correct": false
-      },
-      {
-        "text": "The dragon was a noun.",
-        "is_correct": false
-      },
-      {
-        "text": "The dragon stomped into the cave.",
-        "is_correct": true
-      }
+      "little",
+      "litlee",
+      "litul"
     ],
-    "correctIndex": 2,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 5,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "Little is the conventional spelling of this common two-syllable word.\nHint: Say the word, recall its familiar pattern and check it visually.",
+    "structuredExplanation": {
+      "summary": "Little is the conventional spelling of this common two-syllable word.",
+      "hint": "Say the word, recall its familiar pattern and check it visually."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-006",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test edit text flow direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: I like the park because ___.",
-    "audioPrompt": "Choose the best revision or text part: I like the park because ___.",
-    "visual": {
+    "type": "single",
+    "question": "A report starts with dolphin food, jumps to the ending, then explains habitat. What edit helps readers most?",
+    "audioPrompt": "A report starts with dolphin food, jumps to the ending, then explains habitat. What edit helps readers most?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "because",
-        "is_correct": false
-      },
-      {
-        "text": "there is space to run and play",
-        "is_correct": true
-      },
-      {
-        "text": "park is park is park",
-        "is_correct": false
-      }
+      "move one habitat fact into the middle of the food section",
+      "group related food and habitat facts under clear headings",
+      "put all food and habitat facts into one paragraph without headings"
     ],
-    "correctIndex": 1,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 6,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "Grouping related facts makes the report easier to follow.\nHint: Edit the organisation before polishing punctuation.",
+    "structuredExplanation": {
+      "summary": "Grouping related facts makes the report easier to follow.",
+      "hint": "Edit the organisation before polishing punctuation."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-007",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test strengthen persuasion direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: First we mixed the batter. ___ we poured it into the pan.",
-    "audioPrompt": "Choose the best revision or text part: First we mixed the batter. ___ we poured it into the pan.",
-    "visual": {
+    "type": "single",
+    "question": "A letter says, ‘We need more trees.’ Which added sentence gives the strongest relevant reason?",
+    "audioPrompt": "A letter says, ‘We need more trees.’ Which added sentence gives the strongest relevant reason?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Then",
-        "is_correct": true
-      },
-      {
-        "text": "Blue",
-        "is_correct": false
-      },
-      {
-        "text": "Because",
-        "is_correct": false
-      }
+      "Trees grow leaves and branches as they get bigger.",
+      "Green trees would make one corner look a little nicer.",
+      "Trees would shade the play area on hot days."
     ],
-    "correctIndex": 0,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 7,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Shade on hot days directly supports the request for school trees.\nHint: Add a reason that matters to the audience and proposed action.",
+    "structuredExplanation": {
+      "summary": "Shade on hot days directly supports the request for school trees.",
+      "hint": "Add a reason that matters to the audience and proposed action."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-008",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test edit an imaginative ending direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The tiny brown bird landed on the branch.",
-    "audioPrompt": "Choose the best revision or text part: The tiny brown bird landed on the branch.",
-    "visual": {
+    "type": "single",
+    "question": "Tali follows glowing footprints to find a lost moonbird. Which ending solves the problem and keeps the imaginative mood?",
+    "audioPrompt": "Tali follows glowing footprints to find a lost moonbird. Which ending solves the problem and keeps the imaginative mood?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "landed on",
-        "is_correct": false
-      },
-      {
-        "text": "the branch",
-        "is_correct": false
-      },
-      {
-        "text": "tiny brown",
-        "is_correct": true
-      }
+      "Tali opened the cage, and the moonbird flew home along a silver beam.",
+      "Tali found the moonbird, but the story ended before she could free it.",
+      "Tali opened the cage, then listed three ordinary facts about bird wings."
     ],
-    "correctIndex": 2,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 8,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The completed ending resolves the lost-bird problem and continues the story's magical world.\nHint: Choose an ending that finishes the main problem and still belongs in the imagined story.",
+    "structuredExplanation": {
+      "summary": "The completed ending resolves the lost-bird problem and continues the story's magical world.",
+      "hint": "Choose an ending that finishes the main problem and still belongs in the imagined story."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-009",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test write for an audience test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "audioPrompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "visual": {
+    "type": "single",
+    "question": "Which sentence best suits a reminder for Year 2 students returning library books? Which reason best supports the correct choice?",
+    "audioPrompt": "Which sentence best suits a reminder for Year 2 students returning library books? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The dragon was a noun.",
-        "is_correct": false
-      },
-      {
-        "text": "The dragon stomped into the cave.",
-        "is_correct": true
-      },
-      {
-        "text": "The dragon cave into moved.",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The sentence uses clear, familiar language and gives students a specific action.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 1,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 9,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "The sentence uses clear, familiar language and gives students a specific action.\nHint: Match vocabulary and detail to the intended readers.",
+    "structuredExplanation": {
+      "summary": "The sentence uses clear, familiar language and gives students a specific action.",
+      "hint": "Match vocabulary and detail to the intended readers."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-010",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test order a procedure test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: I like the park because ___.",
-    "audioPrompt": "Choose the best revision or text part: I like the park because ___.",
-    "visual": {
+    "type": "single",
+    "question": "A draft procedure lists: bake the muffins; mix the batter; place mixture in the tray. Which order is logical? Which reason best supports the correct choice?",
+    "audioPrompt": "A draft procedure lists: bake the muffins; mix the batter; place mixture in the tray. Which order is logical? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "there is space to run and play",
-        "is_correct": true
-      },
-      {
-        "text": "park is park is park",
-        "is_correct": false
-      },
-      {
-        "text": "because",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "The mixture must be prepared and placed in the tray before baking."
     ],
-    "correctIndex": 0,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 10,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The mixture must be prepared and placed in the tray before baking.\nHint: Imagine completing each action and check what must happen first.",
+    "structuredExplanation": {
+      "summary": "The mixture must be prepared and placed in the tray before baking.",
+      "hint": "Imagine completing each action and check what must happen first."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-011",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test choose a useful image test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: First we mixed the batter. ___ we poured it into the pan.",
-    "audioPrompt": "Choose the best revision or text part: First we mixed the batter. ___ we poured it into the pan.",
-    "visual": {
+    "type": "single",
+    "question": "A report explains the parts of a flower. Which image adds the most useful information? Which reason best supports the correct choice?",
+    "audioPrompt": "A report explains the parts of a flower. Which image adds the most useful information? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Blue",
-        "is_correct": false
-      },
-      {
-        "text": "Because",
-        "is_correct": false
-      },
-      {
-        "text": "Then",
-        "is_correct": true
-      }
+      "A labelled diagram directly supports the report's explanation.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 2,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 11,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "A labelled diagram directly supports the report's explanation.\nHint: Choose an image that helps the audience understand the content.",
+    "structuredExplanation": {
+      "summary": "A labelled diagram directly supports the report's explanation.",
+      "hint": "Choose an image that helps the audience understand the content."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-012",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test edit punctuation test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The tiny brown bird landed on the branch.",
-    "audioPrompt": "Choose the best revision or text part: The tiny brown bird landed on the branch.",
-    "visual": {
+    "type": "single",
+    "question": "Which edit correctly punctuates this list: ‘We packed hats water snacks and maps’ ? Which reason best supports the correct choice?",
+    "audioPrompt": "Which edit correctly punctuates this list: ‘We packed hats water snacks and maps’ ? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "the branch",
-        "is_correct": false
-      },
-      {
-        "text": "tiny brown",
-        "is_correct": true
-      },
-      {
-        "text": "landed on",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "Commas separate the listed items so each one is clear.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 1,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 12,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "Commas separate the listed items so each one is clear.\nHint: Place commas between items, not between the verb and its first item.",
+    "structuredExplanation": {
+      "summary": "Commas separate the listed items so each one is clear.",
+      "hint": "Place commas between items, not between the verb and its first item."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-013",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test spell a two syllable word test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "audioPrompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "visual": {
+    "type": "single",
+    "question": "A student writes littel in a class story. Which edit gives the common spelling? Which reason best supports the correct choice?",
+    "audioPrompt": "A student writes littel in a class story. Which edit gives the common spelling? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The dragon stomped into the cave.",
-        "is_correct": true
-      },
-      {
-        "text": "The dragon cave into moved.",
-        "is_correct": false
-      },
-      {
-        "text": "The dragon was a noun.",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "Little is the conventional spelling of this common two-syllable word."
     ],
-    "correctIndex": 0,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 13,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Little is the conventional spelling of this common two-syllable word.\nHint: Say the word, recall its familiar pattern and check it visually.",
+    "structuredExplanation": {
+      "summary": "Little is the conventional spelling of this common two-syllable word.",
+      "hint": "Say the word, recall its familiar pattern and check it visually."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-014",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "test edit text flow test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: I like the park because ___.",
-    "audioPrompt": "Choose the best revision or text part: I like the park because ___.",
-    "visual": {
+    "type": "single",
+    "question": "A report starts with dolphin food, jumps to the ending, then explains habitat. What edit helps readers most? Which reason best supports the correct choice?",
+    "audioPrompt": "A report starts with dolphin food, jumps to the ending, then explains habitat. What edit helps readers most? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "park is park is park",
-        "is_correct": false
-      },
-      {
-        "text": "because",
-        "is_correct": false
-      },
-      {
-        "text": "there is space to run and play",
-        "is_correct": true
-      }
+      "Grouping related facts makes the report easier to follow.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 2,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 14,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "Grouping related facts makes the report easier to follow.\nHint: Edit the organisation before polishing punctuation.",
+    "structuredExplanation": {
+      "summary": "Grouping related facts makes the report easier to follow.",
+      "hint": "Edit the organisation before polishing punctuation."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-015",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "explain concept",
+    "skill": "test strengthen persuasion test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LY06. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LY06. Use your own example.",
-    "visual": {
+    "type": "single",
+    "question": "A letter says, ‘We need more trees.’ Which added sentence gives the strongest relevant reason? Which reason best supports the correct choice?",
+    "audioPrompt": "A letter says, ‘We need more trees.’ Which added sentence gives the strongest relevant reason? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "Shade on hot days directly supports the request for school trees.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Create and Edit Short Texts.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "stretch",
+    "difficultyTier": "application",
     "sequencePriority": 15,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Create and Edit Short Texts.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "correct": 1,
+    "explanation": "Shade on hot days directly supports the request for school trees.\nHint: Add a reason that matters to the audience and proposed action.",
+    "structuredExplanation": {
+      "summary": "Shade on hot days directly supports the request for school trees.",
+      "hint": "Add a reason that matters to the audience and proposed action."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly06-t-016",
     "curriculumCode": "AC9E2LY06",
     "bank": "test",
-    "skill": "apply concept",
+    "skill": "test edit an imaginative ending test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LY06, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LY06, then explain the answer.",
-    "visual": {
+    "type": "single",
+    "question": "Tali follows glowing footprints to find a lost moonbird. Which ending solves the problem and keeps the imaginative mood? Which reason best supports the correct choice?",
+    "audioPrompt": "Tali follows glowing footprints to find a lost moonbird. Which ending solves the problem and keeps the imaginative mood? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "The completed ending resolves the lost-bird problem and continues the story's magical world."
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "stretch",
+    "difficultyTier": "application",
     "sequencePriority": 16,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "correct": 2,
+    "explanation": "The completed ending resolves the lost-bird problem and continues the story's magical world.\nHint: Choose an ending that finishes the main problem and still belongs in the imagined story.",
+    "structuredExplanation": {
+      "summary": "The completed ending resolves the lost-bird problem and continues the story's magical world.",
+      "hint": "Choose an ending that finishes the main problem and still belongs in the imagined story."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

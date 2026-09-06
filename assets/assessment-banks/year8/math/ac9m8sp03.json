@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ac9m8sp03-p-001",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "locating_aircraft_drones_using_latitude_longitude_and_altitude_as_a_three_dimensional_coordinate_system",
+    "question": "A Year 8 student is solving a problem involving locating aircraft drones using latitude longitude and altitude as a three dimensional coordinate system. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving locating aircraft drones using latitude longitude and altitude as a three dimensional coordinate system. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
+        "is_correct": true
+      },
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
+      "hint": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp03-p-002",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "construct_three_dimensional_objects_using_3d_printers_or_designing_software_that_uses_a_three_dimensional_coordinate_system",
+    "question": "A Year 8 student is solving a problem involving construct three dimensional objects using 3d printers or designing software that uses a three dimensional coordinate system. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving construct three dimensional objects using 3d printers or designing software that uses a three dimensional coordinate system. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The position in three dimensions model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
+      "hint": "Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp03-p-003",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "compare_and_contrasting_two_dimensional_and_three_dimensional_coordinate_systems_by_highlighting_what_is_the_same_and_what_is_different_including_virtual_maps_versus_street_views",
+    "question": "A Year 8 student is solving a problem involving compare and contrasting two dimensional and three dimensional coordinate systems by highlighting what is the same and what is different including virtual maps versus street views. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving compare and contrasting two dimensional and three dimensional coordinate systems by highlighting what is the same and what is different including virtual maps versus street views. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views",
+      "hint": "Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp03-p-004",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_dynamic_geometry_software_to_construct_shapes_and_objects_within_the_first_octant_of_a_three_dimensional_coordinate_system",
+    "question": "A Year 8 student is solving a problem involving use dynamic geometry software to construct shapes and objects within the first octant of a three dimensional coordinate system. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use dynamic geometry software to construct shapes and objects within the first octant of a three dimensional coordinate system. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system",
+      "hint": "Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp03-p-005",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "interpret_three_dimensional_coordinate_locations_for_objects_in_multi_storey_car_parks_playing_games_based_on_three_dimensional_coordinate_systems_such_as_three_dimensional_noughts_and_crosses_tic_tac_toe",
+    "question": "A Year 8 student is solving a problem involving interpret three dimensional coordinate locations for objects in multi storey car parks playing games based on three dimensional coordinate systems such as three dimensional noughts and crosses tic tac toe. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving interpret three dimensional coordinate locations for objects in multi storey car parks playing games based on three dimensional coordinate systems such as three dimensional noughts and crosses tic tac toe. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "interpreting three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)",
+        "is_correct": true
+      },
+      {
+        "text": "The position in three dimensions model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "interpreting three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)",
+      "hint": "Interpret three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp03-p-006",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_position_and_transformation_through_geospatial_technologies_used_by_first_nations_australians_communities",
+    "question": "A Year 8 student is solving a problem involving explore position and transformation through geospatial technologies used by first nations australians communities. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving explore position and transformation through geospatial technologies used by first nations australians communities. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "exploring position and transformation through geospatial technologies used by First Nations Australians’ communities",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "exploring position and transformation through geospatial technologies used by First Nations Australians’ communities",
+      "hint": "Explore position and transformation through geospatial technologies used by First Nations Australians’ communities."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp03-p-007",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "locating_aircraft_drones_using_latitude_longitude_and_altitude_as_a_three_dimensional_coordinate_system",
+    "question": "A Year 8 student is solving a problem involving locating aircraft drones using latitude longitude and altitude as a three dimensional coordinate system. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving locating aircraft drones using latitude longitude and altitude as a three dimensional coordinate system. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
+      "hint": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp03-p-008",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "construct_three_dimensional_objects_using_3d_printers_or_designing_software_that_uses_a_three_dimensional_coordinate_system",
+    "question": "A Year 8 student is solving a problem involving construct three dimensional objects using 3d printers or designing software that uses a three dimensional coordinate system. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving construct three dimensional objects using 3d printers or designing software that uses a three dimensional coordinate system. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The position in three dimensions model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
+      "hint": "Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m8sp03-t-001",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_and_contrasting_two_dimensional_and_three_dimensional_coordinate_systems_by_highlighting_what_is_the_same_and_what_is_different_including_virtual_maps_versus_street_views",
+    "question": "A Year 8 student is solving a problem involving compare and contrasting two dimensional and three dimensional coordinate systems by highlighting what is the same and what is different including virtual maps versus street views. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving compare and contrasting two dimensional and three dimensional coordinate systems by highlighting what is the same and what is different including virtual maps versus street views. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views",
+        "is_correct": true
+      },
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views",
+      "hint": "Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views."
+    }
+  },
+  {
+    "id": "ac9m8sp03-t-002",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_dynamic_geometry_software_to_construct_shapes_and_objects_within_the_first_octant_of_a_three_dimensional_coordinate_system",
+    "question": "A Year 8 student is solving a problem involving use dynamic geometry software to construct shapes and objects within the first octant of a three dimensional coordinate system. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving use dynamic geometry software to construct shapes and objects within the first octant of a three dimensional coordinate system. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system",
+      "hint": "Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system."
+    }
+  },
+  {
+    "id": "ac9m8sp03-t-003",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "interpret_three_dimensional_coordinate_locations_for_objects_in_multi_storey_car_parks_playing_games_based_on_three_dimensional_coordinate_systems_such_as_three_dimensional_noughts_and_crosses_tic_tac_toe",
+    "question": "A Year 8 student is solving a problem involving interpret three dimensional coordinate locations for objects in multi storey car parks playing games based on three dimensional coordinate systems such as three dimensional noughts and crosses tic tac toe. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving interpret three dimensional coordinate locations for objects in multi storey car parks playing games based on three dimensional coordinate systems such as three dimensional noughts and crosses tic tac toe. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The position in three dimensions model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "interpreting three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "interpreting three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)",
+      "hint": "Interpret three-dimensional coordinate locations for objects in multi-storey car parks; playing games based on three-dimensional coordinate systems such as three-dimensional Noughts and Crosses (Tic-Tac-Toe)."
+    }
+  },
+  {
+    "id": "ac9m8sp03-t-004",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_position_and_transformation_through_geospatial_technologies_used_by_first_nations_australians_communities",
+    "question": "A Year 8 student is solving a problem involving explore position and transformation through geospatial technologies used by first nations australians communities. Which option is mathematically valid?",
+    "audio_prompt": "A Year 8 student is solving a problem involving explore position and transformation through geospatial technologies used by first nations australians communities. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "exploring position and transformation through geospatial technologies used by First Nations Australians’ communities",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "exploring position and transformation through geospatial technologies used by First Nations Australians’ communities",
+      "hint": "Explore position and transformation through geospatial technologies used by First Nations Australians’ communities."
+    }
+  },
+  {
+    "id": "ac9m8sp03-t-005",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "locating_aircraft_drones_using_latitude_longitude_and_altitude_as_a_three_dimensional_coordinate_system",
+    "question": "Which response correctly uses locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system?",
+    "audio_prompt": "Which response correctly uses locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
+        "is_correct": true
+      },
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system",
+      "hint": "locating aircraft/drones using latitude, longitude and altitude as a three-dimensional coordinate system."
+    }
+  },
+  {
+    "id": "ac9m8sp03-t-006",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "construct_three_dimensional_objects_using_3d_printers_or_designing_software_that_uses_a_three_dimensional_coordinate_system",
+    "question": "Which response correctly uses construct three-dimensional objects using 3d printers or designing software that uses a three-dimensional coordinate system?",
+    "audio_prompt": "Which response correctly uses construct three-dimensional objects using 3d printers or designing software that uses a three-dimensional coordinate system?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The position in three dimensions model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "constructing three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system",
+      "hint": "Construct three-dimensional objects using 3D printers or designing software that uses a three-dimensional coordinate system."
+    }
+  },
+  {
+    "id": "ac9m8sp03-t-007",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "compare_and_contrasting_two_dimensional_and_three_dimensional_coordinate_systems_by_highlighting_what_is_the_same_and_what_is_different_including_virtual_maps_versus_street_views",
+    "question": "Which response correctly uses compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views?",
+    "audio_prompt": "Which response correctly uses compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "comparing and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views",
+      "hint": "Compare and contrasting two-dimensional and three-dimensional coordinate systems by highlighting what is the same and what is different, including virtual maps versus street views."
+    }
+  },
+  {
+    "id": "ac9m8sp03-t-008",
+    "curriculum_code": "AC9M8SP03",
+    "year_level": "Year 8",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_dynamic_geometry_software_to_construct_shapes_and_objects_within_the_first_octant_of_a_three_dimensional_coordinate_system",
+    "question": "Which response correctly uses use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system?",
+    "audio_prompt": "Which response correctly uses use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A diagram is trusted by appearance instead of stated conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "using dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system",
+      "hint": "Use dynamic geometry software to construct shapes and objects within the first octant of a three-dimensional coordinate system."
+    }
+  }
+]

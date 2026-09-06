@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" role="img" aria-label="Skillr Education Year 2 Mathematics workbook cover">
+  <rect width="1200" height="1600" fill="#f8fafc"/>
+  <rect x="90" y="90" width="1020" height="1420" rx="28" fill="#ffffff" stroke="#dbeafe" stroke-width="6"/>
+  <rect x="150" y="160" width="900" height="240" rx="20" fill="#0f4c81"/>
+  <text x="600" y="250" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" fill="#ffffff">Skillr Education</text>
+  <text x="600" y="320" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="600" fill="#e0f2fe">Year 2 Mathematics</text>
+  <text x="600" y="430" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700" fill="#0f172a">Teaching and Practice</text>
+  <text x="600" y="500" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700" fill="#0f172a">Workbook</text>
+  <rect x="240" y="620" width="720" height="320" rx="20" fill="#f8fafc" stroke="#cbd5e1" stroke-width="4"/>
+  <text x="600" y="710" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#0f172a">Australian Curriculum v9.0</text>
+  <text x="600" y="770" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#475569">Number • Place value • Measurement</text>
+  <text x="600" y="820" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#475569">Geometry • Data • Problem solving</text>
+  <text x="600" y="880" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#475569">Ready for class, tutoring and homework</text>
+  <rect x="330" y="1180" width="540" height="90" rx="16" fill="#2563eb"/>
+  <text x="600" y="1238" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Preview • Download • Print</text>
+</svg>

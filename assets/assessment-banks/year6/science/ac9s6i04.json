@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "ac9s6i04-p-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "Which representation best shows temperature change over time?",
+    "audio_prompt": "Which representation best shows temperature change over time?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A line graph.",
+        "is_correct": true
+      },
+      {
+        "text": "An unordered pie chart.",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled photo only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A line graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "Why should graph axes use even intervals?",
+    "audio_prompt": "Why should graph axes use even intervals?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So the graph looks taller.",
+        "is_correct": false
+      },
+      {
+        "text": "So the pattern is not visually distorted.",
+        "is_correct": true
+      },
+      {
+        "text": "So labels can be skipped.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "So the pattern is not visually distorted.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "audio_prompt": "A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Which student wrote fastest.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the lamp has a nice colour.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether temperature rise changes as distance changes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Whether temperature rise changes as distance changes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "When is a model useful?",
+    "audio_prompt": "When is a model useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "When it simplifies a system so parts and relationships can be examined.",
+        "is_correct": true
+      },
+      {
+        "text": "When it replaces all real evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "When it hides limitations.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "When it simplifies a system so parts and relationships can be examined.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "What should a conclusion about a trend include?",
+    "audio_prompt": "What should a conclusion about a trend include?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A claim that the pattern proves everything.",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern plus evidence and any limits.",
+        "is_correct": true
+      },
+      {
+        "text": "The prettiest graph colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The pattern plus evidence and any limits.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "Why keep raw data when showing a mean?",
+    "audio_prompt": "Why keep raw data when showing a mean?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Raw data makes the mean invalid.",
+        "is_correct": false
+      },
+      {
+        "text": "Raw data is only decoration.",
+        "is_correct": false
+      },
+      {
+        "text": "Others can check variation and how the mean was made.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Others can check variation and how the mean was made.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "Which graph choice best compares categories?",
+    "audio_prompt": "Which graph choice best compares categories?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A column graph.",
+        "is_correct": true
+      },
+      {
+        "text": "A line graph with no order.",
+        "is_correct": false
+      },
+      {
+        "text": "A paragraph with no numbers.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A column graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "A physical model of Earth and Sun is used. What should students state?",
+    "audio_prompt": "A physical model of Earth and Sun is used. What should students state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "That the model is the real solar system.",
+        "is_correct": false
+      },
+      {
+        "text": "What the model shows well and what it does not show to scale.",
+        "is_correct": true
+      },
+      {
+        "text": "That models never have limits.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "What the model shows well and what it does not show to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "Which representation best shows temperature change over time in a new class investigation?",
+    "audio_prompt": "Which representation best shows temperature change over time in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An unordered pie chart.",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled photo only.",
+        "is_correct": false
+      },
+      {
+        "text": "A line graph.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A line graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "Why should graph axes use even intervals in a new class investigation?",
+    "audio_prompt": "Why should graph axes use even intervals in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So the pattern is not visually distorted.",
+        "is_correct": true
+      },
+      {
+        "text": "So the graph looks taller.",
+        "is_correct": false
+      },
+      {
+        "text": "So labels can be skipped.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "So the pattern is not visually distorted.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "A table lists distance from lamp and temperature rise. What relationship could a graph help show in a new class investigation?",
+    "audio_prompt": "A table lists distance from lamp and temperature rise. What relationship could a graph help show in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Which student wrote fastest.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether temperature rise changes as distance changes.",
+        "is_correct": true
+      },
+      {
+        "text": "Whether the lamp has a nice colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Whether temperature rise changes as distance changes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "When is a model useful in a new class investigation?",
+    "audio_prompt": "When is a model useful in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "When it replaces all real evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "When it hides limitations.",
+        "is_correct": false
+      },
+      {
+        "text": "When it simplifies a system so parts and relationships can be examined.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "When it simplifies a system so parts and relationships can be examined.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "What should a conclusion about a trend include in a new class investigation?",
+    "audio_prompt": "What should a conclusion about a trend include in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The pattern plus evidence and any limits.",
+        "is_correct": true
+      },
+      {
+        "text": "A claim that the pattern proves everything.",
+        "is_correct": false
+      },
+      {
+        "text": "The prettiest graph colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pattern plus evidence and any limits.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "Why keep raw data when showing a mean in a new class investigation?",
+    "audio_prompt": "Why keep raw data when showing a mean in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Raw data makes the mean invalid.",
+        "is_correct": false
+      },
+      {
+        "text": "Others can check variation and how the mean was made.",
+        "is_correct": true
+      },
+      {
+        "text": "Raw data is only decoration.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Others can check variation and how the mean was made.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "Which graph choice best compares categories in a new class investigation?",
+    "audio_prompt": "Which graph choice best compares categories in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A line graph with no order.",
+        "is_correct": false
+      },
+      {
+        "text": "A paragraph with no numbers.",
+        "is_correct": false
+      },
+      {
+        "text": "A column graph.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A column graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "A physical model of Earth and Sun is used. What should students state in a new class investigation?",
+    "audio_prompt": "A physical model of Earth and Sun is used. What should students state in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "What the model shows well and what it does not show to scale.",
+        "is_correct": true
+      },
+      {
+        "text": "That the model is the real solar system.",
+        "is_correct": false
+      },
+      {
+        "text": "That models never have limits.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "What the model shows well and what it does not show to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-017",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "Which representation best shows temperature change over time after students review their evidence?",
+    "audio_prompt": "Which representation best shows temperature change over time after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An unordered pie chart.",
+        "is_correct": false
+      },
+      {
+        "text": "A line graph.",
+        "is_correct": true
+      },
+      {
+        "text": "A labelled photo only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A line graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-018",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "Why should graph axes use even intervals after students review their evidence?",
+    "audio_prompt": "Why should graph axes use even intervals after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So the graph looks taller.",
+        "is_correct": false
+      },
+      {
+        "text": "So labels can be skipped.",
+        "is_correct": false
+      },
+      {
+        "text": "So the pattern is not visually distorted.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "So the pattern is not visually distorted.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-019",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "A table lists distance from lamp and temperature rise. What relationship could a graph help show after students review their evidence?",
+    "audio_prompt": "A table lists distance from lamp and temperature rise. What relationship could a graph help show after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Whether temperature rise changes as distance changes.",
+        "is_correct": true
+      },
+      {
+        "text": "Which student wrote fastest.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the lamp has a nice colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Whether temperature rise changes as distance changes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-020",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "When is a model useful after students review their evidence?",
+    "audio_prompt": "When is a model useful after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "When it replaces all real evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "When it simplifies a system so parts and relationships can be examined.",
+        "is_correct": true
+      },
+      {
+        "text": "When it hides limitations.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "When it simplifies a system so parts and relationships can be examined.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-021",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "What should a conclusion about a trend include after students review their evidence?",
+    "audio_prompt": "What should a conclusion about a trend include after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A claim that the pattern proves everything.",
+        "is_correct": false
+      },
+      {
+        "text": "The prettiest graph colour.",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern plus evidence and any limits.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pattern plus evidence and any limits.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-022",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "Why keep raw data when showing a mean after students review their evidence?",
+    "audio_prompt": "Why keep raw data when showing a mean after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Others can check variation and how the mean was made.",
+        "is_correct": true
+      },
+      {
+        "text": "Raw data makes the mean invalid.",
+        "is_correct": false
+      },
+      {
+        "text": "Raw data is only decoration.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Others can check variation and how the mean was made.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-023",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "Which graph choice best compares categories after students review their evidence?",
+    "audio_prompt": "Which graph choice best compares categories after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A line graph with no order.",
+        "is_correct": false
+      },
+      {
+        "text": "A column graph.",
+        "is_correct": true
+      },
+      {
+        "text": "A paragraph with no numbers.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A column graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-p-024",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "practice",
+    "skill": "representing evidence",
+    "question": "A physical model of Earth and Sun is used. What should students state after students review their evidence?",
+    "audio_prompt": "A physical model of Earth and Sun is used. What should students state after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "That the model is the real solar system.",
+        "is_correct": false
+      },
+      {
+        "text": "That models never have limits.",
+        "is_correct": false
+      },
+      {
+        "text": "What the model shows well and what it does not show to scale.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "What the model shows well and what it does not show to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: A physical model of Earth and Sun is used. What should students state?",
+    "audio_prompt": "A different class checks the same science idea: A physical model of Earth and Sun is used. What should students state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "What the model shows well and what it does not show to scale.",
+        "is_correct": true
+      },
+      {
+        "text": "That the model is the real solar system.",
+        "is_correct": false
+      },
+      {
+        "text": "That models never have limits.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "What the model shows well and what it does not show to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: Which graph choice best compares categories?",
+    "audio_prompt": "A different class checks the same science idea: Which graph choice best compares categories?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A line graph with no order.",
+        "is_correct": false
+      },
+      {
+        "text": "A column graph.",
+        "is_correct": true
+      },
+      {
+        "text": "A paragraph with no numbers.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A column graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: Why keep raw data when showing a mean?",
+    "audio_prompt": "A different class checks the same science idea: Why keep raw data when showing a mean?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Raw data makes the mean invalid.",
+        "is_correct": false
+      },
+      {
+        "text": "Raw data is only decoration.",
+        "is_correct": false
+      },
+      {
+        "text": "Others can check variation and how the mean was made.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Others can check variation and how the mean was made.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: What should a conclusion about a trend include?",
+    "audio_prompt": "A different class checks the same science idea: What should a conclusion about a trend include?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The pattern plus evidence and any limits.",
+        "is_correct": true
+      },
+      {
+        "text": "A claim that the pattern proves everything.",
+        "is_correct": false
+      },
+      {
+        "text": "The prettiest graph colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The pattern plus evidence and any limits.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: When is a model useful?",
+    "audio_prompt": "A different class checks the same science idea: When is a model useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "When it replaces all real evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "When it simplifies a system so parts and relationships can be examined.",
+        "is_correct": true
+      },
+      {
+        "text": "When it hides limitations.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "When it simplifies a system so parts and relationships can be examined.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "audio_prompt": "A different class checks the same science idea: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Which student wrote fastest.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the lamp has a nice colour.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether temperature rise changes as distance changes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Whether temperature rise changes as distance changes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: Why should graph axes use even intervals?",
+    "audio_prompt": "A different class checks the same science idea: Why should graph axes use even intervals?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So the pattern is not visually distorted.",
+        "is_correct": true
+      },
+      {
+        "text": "So the graph looks taller.",
+        "is_correct": false
+      },
+      {
+        "text": "So labels can be skipped.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "So the pattern is not visually distorted.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A different class checks the same science idea: Which representation best shows temperature change over time?",
+    "audio_prompt": "A different class checks the same science idea: Which representation best shows temperature change over time?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "An unordered pie chart.",
+        "is_correct": false
+      },
+      {
+        "text": "A line graph.",
+        "is_correct": true
+      },
+      {
+        "text": "A labelled photo only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A line graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: A physical model of Earth and Sun is used. What should students state?",
+    "audio_prompt": "A follow-up test asks: A physical model of Earth and Sun is used. What should students state?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "That the model is the real solar system.",
+        "is_correct": false
+      },
+      {
+        "text": "That models never have limits.",
+        "is_correct": false
+      },
+      {
+        "text": "What the model shows well and what it does not show to scale.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "What the model shows well and what it does not show to scale.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: Which graph choice best compares categories?",
+    "audio_prompt": "A follow-up test asks: Which graph choice best compares categories?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A column graph.",
+        "is_correct": true
+      },
+      {
+        "text": "A line graph with no order.",
+        "is_correct": false
+      },
+      {
+        "text": "A paragraph with no numbers.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A column graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: Why keep raw data when showing a mean?",
+    "audio_prompt": "A follow-up test asks: Why keep raw data when showing a mean?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Raw data makes the mean invalid.",
+        "is_correct": false
+      },
+      {
+        "text": "Others can check variation and how the mean was made.",
+        "is_correct": true
+      },
+      {
+        "text": "Raw data is only decoration.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Others can check variation and how the mean was made.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: What should a conclusion about a trend include?",
+    "audio_prompt": "A follow-up test asks: What should a conclusion about a trend include?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A claim that the pattern proves everything.",
+        "is_correct": false
+      },
+      {
+        "text": "The prettiest graph colour.",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern plus evidence and any limits.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The pattern plus evidence and any limits.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: When is a model useful?",
+    "audio_prompt": "A follow-up test asks: When is a model useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "When it simplifies a system so parts and relationships can be examined.",
+        "is_correct": true
+      },
+      {
+        "text": "When it replaces all real evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "When it hides limitations.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "When it simplifies a system so parts and relationships can be examined.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "audio_prompt": "A follow-up test asks: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Which student wrote fastest.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether temperature rise changes as distance changes.",
+        "is_correct": true
+      },
+      {
+        "text": "Whether the lamp has a nice colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Whether temperature rise changes as distance changes.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: Why should graph axes use even intervals?",
+    "audio_prompt": "A follow-up test asks: Why should graph axes use even intervals?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "So the graph looks taller.",
+        "is_correct": false
+      },
+      {
+        "text": "So labels can be skipped.",
+        "is_correct": false
+      },
+      {
+        "text": "So the pattern is not visually distorted.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "So the pattern is not visually distorted.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i04-t-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I04",
+    "bank": "test",
+    "skill": "representing evidence",
+    "question": "A follow-up test asks: Which representation best shows temperature change over time?",
+    "audio_prompt": "A follow-up test asks: Which representation best shows temperature change over time?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A line graph.",
+        "is_correct": true
+      },
+      {
+        "text": "An unordered pie chart.",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled photo only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A line graph.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  }
+]

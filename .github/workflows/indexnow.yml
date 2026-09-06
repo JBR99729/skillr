@@ -1,0 +1,43 @@
+name: Notify IndexNow
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: indexnow-main
+  cancel-in-progress: true
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Submit changed public URLs
+        if: github.event_name == 'push'
+        run: python3 scripts/submit_indexnow.py "${{ github.event.before }}" "${{ github.sha }}"
+
+      - name: Manual verification
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          key = "7992061fa6bd152443061bdc0a2a1d27"
+          key_file = Path(f"{key}.txt")
+          assert key_file.read_text(encoding="utf-8").strip() == key
+          print(f"IndexNow key file ready: https://skillrhub.com/{key}.txt")
+          print("Automatic submissions run on pushes to main.")
+          PY

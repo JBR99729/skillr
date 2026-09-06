@@ -1,0 +1,32 @@
+name: Rebuild Year 1 Science actual banks
+on:
+  push:
+    branches: [content/year1-science-actual-rebuild]
+    paths:
+      - 'scripts/year1_science_actual/**'
+      - 'scripts/materialise_year1_science_actual_all.mjs'
+      - '.github/workflows/rebuild-year1-science-actual-all.yml'
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    permissions: {contents: write}
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: content/year1-science-actual-rebuild, fetch-depth: 0}
+      - uses: actions/setup-node@v4
+        with: {node-version: '22'}
+      - name: Materialise and validate all 10 codes
+        run: node scripts/materialise_year1_science_actual_all.mjs
+      - name: Guard non-assessment Year 1 Science content
+        run: |
+          if git status --porcelain | grep -E 'teacher-slides|worksheet|/index.html|assessment-visuals'; then
+            echo 'Protected non-assessment content changed'; git status --short; exit 1;
+          fi
+      - name: Commit production banks
+        run: |
+          git config user.name JBR99729
+          git config user.email jbhasker9@gmail.com
+          git add quiz/year-1/science/*/practice/questions.js quiz/year-1/science/*/practice/practice-questions.js quiz/year-1/science/*/test/questions.js assets/assessment-banks/year1/science/*.json
+          git diff --cached --quiet && exit 1
+          git commit -m 'Rebuild all Year 1 Science actual question banks'
+          git push origin HEAD:content/year1-science-actual-rebuild

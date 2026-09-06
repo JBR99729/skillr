@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E4LY06-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Written Texts",
+    "question": "In planning an information report about wombats, which option best demonstrates the skill?",
+    "audio_prompt": "In planning an information report about wombats, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "Write every fact in the order it was found.",
+        "is_correct": false
+      },
+      {
+        "text": "Group notes into sections such as habitat, diet and behaviour before drafting.",
+        "is_correct": true
+      },
+      {
+        "text": "Start drafting unrelated sentences without deciding the purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "hint": "Sort ideas by topic before writing full sentences."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Written Texts",
+    "question": "Which choice fits planning an information report about wombats most accurately?",
+    "audio_prompt": "Which choice fits planning an information report about wombats most accurately?",
+    "answers": [
+      {
+        "text": "Write every fact in the order it was found.",
+        "is_correct": false
+      },
+      {
+        "text": "Start drafting unrelated sentences without deciding the purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Group notes into sections such as habitat, diet and behaviour before drafting.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "hint": "Sort ideas by topic before writing full sentences."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Written Texts",
+    "question": "Which choice fits building a paragraph about water saving most accurately?",
+    "audio_prompt": "Which choice fits building a paragraph about water saving most accurately?",
+    "answers": [
+      {
+        "text": "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+        "is_correct": true
+      },
+      {
+        "text": "Put one sentence about water between two sentences about football.",
+        "is_correct": false
+      },
+      {
+        "text": "Add however to every sentence whether or not there is a contrast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "hint": "Check both topic unity and logical links."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Written Texts",
+    "question": "Look closely at building a paragraph about water saving. Which response or wording works best?",
+    "audio_prompt": "Look closely at building a paragraph about water saving. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Put one sentence about water between two sentences about football.",
+        "is_correct": false
+      },
+      {
+        "text": "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+        "is_correct": true
+      },
+      {
+        "text": "Add however to every sentence whether or not there is a contrast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "hint": "Check both topic unity and logical links."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Written Texts",
+    "question": "Look closely at combining ideas into a complex sentence. Which response or wording works best?",
+    "audio_prompt": "Look closely at combining ideas into a complex sentence. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Because the tank was nearly empty.",
+        "is_correct": false
+      },
+      {
+        "text": "The family shortened because tank showers.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the tank was nearly empty, the family shortened their showers.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The dependent cause clause adds a reason to a complete main clause.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Written Texts",
+    "question": "For combining ideas into a complex sentence, which option is the strongest match?",
+    "audio_prompt": "For combining ideas into a complex sentence, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Because the tank was nearly empty, the family shortened their showers.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the tank was nearly empty.",
+        "is_correct": false
+      },
+      {
+        "text": "The family shortened because tank showers.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The dependent cause clause adds a reason to a complete main clause.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Written Texts",
+    "question": "For editing tense in a recount, which option is the strongest match?",
+    "audio_prompt": "For editing tense in a recount, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "We arrived at the campsite, unpacked the car and cooked dinner.",
+        "is_correct": true
+      },
+      {
+        "text": "We arriving at the campsite and cooked tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consistent past tense suits events that happened during the same past time frame.",
+      "hint": "Only shift tense when the time frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Written Texts",
+    "question": "Which example should you choose for editing tense in a recount?",
+    "audio_prompt": "Which example should you choose for editing tense in a recount?",
+    "answers": [
+      {
+        "text": "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "We arriving at the campsite and cooked tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "We arrived at the campsite, unpacked the car and cooked dinner.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Consistent past tense suits events that happened during the same past time frame.",
+      "hint": "Only shift tense when the time frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Written Texts",
+    "question": "Which example should you choose for replacing vague vocabulary in a science explanation?",
+    "audio_prompt": "Which example should you choose for replacing vague vocabulary in a science explanation?",
+    "answers": [
+      {
+        "text": "The metal expanded when it was heated.",
+        "is_correct": true
+      },
+      {
+        "text": "The metal did something when it got hot.",
+        "is_correct": false
+      },
+      {
+        "text": "The metal became nice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Expanded precisely names the change and suits the scientific purpose.",
+      "hint": "Choose the most exact word for the meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Written Texts",
+    "question": "In replacing vague vocabulary in a science explanation, which option best demonstrates the skill?",
+    "audio_prompt": "In replacing vague vocabulary in a science explanation, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "The metal did something when it got hot.",
+        "is_correct": false
+      },
+      {
+        "text": "The metal expanded when it was heated.",
+        "is_correct": true
+      },
+      {
+        "text": "The metal became nice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Expanded precisely names the change and suits the scientific purpose.",
+      "hint": "Choose the most exact word for the meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Written Texts",
+    "question": "Why does “Group notes into sections such as habitat, diet and behaviour before drafting.” work well for planning an information report about wombats?",
+    "audio_prompt": "Why does “Group notes into sections such as habitat, diet and behaviour before drafting.” work well for planning an information report about wombats?",
+    "answers": [
+      {
+        "text": "Because “Write every fact in the order it was found.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Planning related ideas into sections creates a clear basis for paragraphs.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "hint": "Sort ideas by topic before writing full sentences."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Written Texts",
+    "question": "What makes “Group notes into sections such as habitat, diet and behaviour before drafting.” a better choice in planning an information report about wombats?",
+    "audio_prompt": "What makes “Group notes into sections such as habitat, diet and behaviour before drafting.” a better choice in planning an information report about wombats?",
+    "answers": [
+      {
+        "text": "Planning related ideas into sections creates a clear basis for paragraphs.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Write every fact in the order it was found.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "hint": "Sort ideas by topic before writing full sentences."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Written Texts",
+    "question": "What makes “Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.” a better choice in building a paragraph about water saving?",
+    "audio_prompt": "What makes “Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.” a better choice in building a paragraph about water saving?",
+    "answers": [
+      {
+        "text": "Because “Put one sentence about water between two sentences about football.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "hint": "Check both topic unity and logical links."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Written Texts",
+    "question": "Which explanation best justifies “Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.” for building a paragraph about water saving?",
+    "audio_prompt": "Which explanation best justifies “Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.” for building a paragraph about water saving?",
+    "answers": [
+      {
+        "text": "Because “Put one sentence about water between two sentences about football.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "hint": "Check both topic unity and logical links."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Written Texts",
+    "question": "Which explanation best justifies “Because the tank was nearly empty, the family shortened their showers.” for combining ideas into a complex sentence?",
+    "audio_prompt": "Which explanation best justifies “Because the tank was nearly empty, the family shortened their showers.” for combining ideas into a complex sentence?",
+    "answers": [
+      {
+        "text": "The dependent cause clause adds a reason to a complete main clause.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Because the tank was nearly empty.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The dependent cause clause adds a reason to a complete main clause.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Written Texts",
+    "question": "What should you notice about “Because the tank was nearly empty, the family shortened their showers.” in combining ideas into a complex sentence?",
+    "audio_prompt": "What should you notice about “Because the tank was nearly empty, the family shortened their showers.” in combining ideas into a complex sentence?",
+    "answers": [
+      {
+        "text": "Because “Because the tank was nearly empty.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "The dependent cause clause adds a reason to a complete main clause.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The dependent cause clause adds a reason to a complete main clause.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Written Texts",
+    "question": "What should you notice about “We arrived at the campsite, unpacked the car and cooked dinner.” in editing tense in a recount?",
+    "audio_prompt": "What should you notice about “We arrived at the campsite, unpacked the car and cooked dinner.” in editing tense in a recount?",
+    "answers": [
+      {
+        "text": "Because “We arrived at the campsite, unpack the car and will cook dinner yesterday.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Consistent past tense suits events that happened during the same past time frame.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Consistent past tense suits events that happened during the same past time frame.",
+      "hint": "Only shift tense when the time frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Written Texts",
+    "question": "Which reason explains why “We arrived at the campsite, unpacked the car and cooked dinner.” suits editing tense in a recount?",
+    "audio_prompt": "Which reason explains why “We arrived at the campsite, unpacked the car and cooked dinner.” suits editing tense in a recount?",
+    "answers": [
+      {
+        "text": "Consistent past tense suits events that happened during the same past time frame.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “We arrived at the campsite, unpack the car and will cook dinner yesterday.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Consistent past tense suits events that happened during the same past time frame.",
+      "hint": "Only shift tense when the time frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Written Texts",
+    "question": "Which reason explains why “The metal expanded when it was heated.” suits replacing vague vocabulary in a science explanation?",
+    "audio_prompt": "Which reason explains why “The metal expanded when it was heated.” suits replacing vague vocabulary in a science explanation?",
+    "answers": [
+      {
+        "text": "Because “The metal did something when it got hot.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Expanded precisely names the change and suits the scientific purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Expanded precisely names the change and suits the scientific purpose.",
+      "hint": "Choose the most exact word for the meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Written Texts",
+    "question": "Why does “The metal expanded when it was heated.” work well for replacing vague vocabulary in a science explanation?",
+    "audio_prompt": "Why does “The metal expanded when it was heated.” work well for replacing vague vocabulary in a science explanation?",
+    "answers": [
+      {
+        "text": "Because “The metal did something when it got hot.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Expanded precisely names the change and suits the scientific purpose.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Expanded precisely names the change and suits the scientific purpose.",
+      "hint": "Choose the most exact word for the meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Written Texts",
+    "question": "Which revision best fixes the problem in “Write every fact in the order it was found.” for planning an information report about wombats?",
+    "audio_prompt": "Which revision best fixes the problem in “Write every fact in the order it was found.” for planning an information report about wombats?",
+    "answers": [
+      {
+        "text": "Group notes into sections such as habitat, diet and behaviour before drafting.",
+        "is_correct": true
+      },
+      {
+        "text": "Write every fact in the order it was found.",
+        "is_correct": false
+      },
+      {
+        "text": "Start drafting unrelated sentences without deciding the purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Sort ideas by topic before writing full sentences."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Written Texts",
+    "question": "Compare the choices for planning an information report about wombats. Which one avoids the mistake in “Write every fact in the order it was found.”?",
+    "audio_prompt": "Compare the choices for planning an information report about wombats. Which one avoids the mistake in “Write every fact in the order it was found.”?",
+    "answers": [
+      {
+        "text": "Write every fact in the order it was found.",
+        "is_correct": false
+      },
+      {
+        "text": "Group notes into sections such as habitat, diet and behaviour before drafting.",
+        "is_correct": true
+      },
+      {
+        "text": "Start drafting unrelated sentences without deciding the purpose.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Sort ideas by topic before writing full sentences."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Written Texts",
+    "question": "Compare the choices for building a paragraph about water saving. Which one avoids the mistake in “Put one sentence about water between two sentences about football.”?",
+    "audio_prompt": "Compare the choices for building a paragraph about water saving. Which one avoids the mistake in “Put one sentence about water between two sentences about football.”?",
+    "answers": [
+      {
+        "text": "Put one sentence about water between two sentences about football.",
+        "is_correct": false
+      },
+      {
+        "text": "Add however to every sentence whether or not there is a contrast.",
+        "is_correct": false
+      },
+      {
+        "text": "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check both topic unity and logical links."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Written Texts",
+    "question": "If “Put one sentence about water between two sentences about football.” does not work in building a paragraph about water saving, what should replace it?",
+    "audio_prompt": "If “Put one sentence about water between two sentences about football.” does not work in building a paragraph about water saving, what should replace it?",
+    "answers": [
+      {
+        "text": "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+        "is_correct": true
+      },
+      {
+        "text": "Put one sentence about water between two sentences about football.",
+        "is_correct": false
+      },
+      {
+        "text": "Add however to every sentence whether or not there is a contrast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check both topic unity and logical links."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Written Texts",
+    "question": "If “Because the tank was nearly empty.” does not work in combining ideas into a complex sentence, what should replace it?",
+    "audio_prompt": "If “Because the tank was nearly empty.” does not work in combining ideas into a complex sentence, what should replace it?",
+    "answers": [
+      {
+        "text": "Because the tank was nearly empty.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the tank was nearly empty, the family shortened their showers.",
+        "is_correct": true
+      },
+      {
+        "text": "The family shortened because tank showers.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The dependent cause clause adds a reason to a complete main clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Written Texts",
+    "question": "Which option corrects the meaning or form needed for combining ideas into a complex sentence?",
+    "audio_prompt": "Which option corrects the meaning or form needed for combining ideas into a complex sentence?",
+    "answers": [
+      {
+        "text": "Because the tank was nearly empty.",
+        "is_correct": false
+      },
+      {
+        "text": "The family shortened because tank showers.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the tank was nearly empty, the family shortened their showers.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The dependent cause clause adds a reason to a complete main clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Written Texts",
+    "question": "Which option corrects the meaning or form needed for editing tense in a recount?",
+    "audio_prompt": "Which option corrects the meaning or form needed for editing tense in a recount?",
+    "answers": [
+      {
+        "text": "We arrived at the campsite, unpacked the car and cooked dinner.",
+        "is_correct": true
+      },
+      {
+        "text": "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "We arriving at the campsite and cooked tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Consistent past tense suits events that happened during the same past time frame. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Only shift tense when the time frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Written Texts",
+    "question": "Which choice is the clearest correction for editing tense in a recount?",
+    "audio_prompt": "Which choice is the clearest correction for editing tense in a recount?",
+    "answers": [
+      {
+        "text": "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "We arrived at the campsite, unpacked the car and cooked dinner.",
+        "is_correct": true
+      },
+      {
+        "text": "We arriving at the campsite and cooked tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consistent past tense suits events that happened during the same past time frame. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Only shift tense when the time frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Written Texts",
+    "question": "Which choice is the clearest correction for replacing vague vocabulary in a science explanation?",
+    "audio_prompt": "Which choice is the clearest correction for replacing vague vocabulary in a science explanation?",
+    "answers": [
+      {
+        "text": "The metal did something when it got hot.",
+        "is_correct": false
+      },
+      {
+        "text": "The metal became nice.",
+        "is_correct": false
+      },
+      {
+        "text": "The metal expanded when it was heated.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Expanded precisely names the change and suits the scientific purpose. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose the most exact word for the meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Written Texts",
+    "question": "Which revision best fixes the problem in “The metal did something when it got hot.” for replacing vague vocabulary in a science explanation?",
+    "audio_prompt": "Which revision best fixes the problem in “The metal did something when it got hot.” for replacing vague vocabulary in a science explanation?",
+    "answers": [
+      {
+        "text": "The metal expanded when it was heated.",
+        "is_correct": true
+      },
+      {
+        "text": "The metal did something when it got hot.",
+        "is_correct": false
+      },
+      {
+        "text": "The metal became nice.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Expanded precisely names the change and suits the scientific purpose. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose the most exact word for the meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "You now need to handle planning an information report about wombats independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle planning an information report about wombats independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Start drafting unrelated sentences without deciding the purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Group notes into sections such as habitat, diet and behaviour before drafting.",
+        "is_correct": true
+      },
+      {
+        "text": "Write every fact in the order it was found.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "hint": "Sort ideas by topic before writing full sentences."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Apply the same idea to planning an information report about wombats. Which option is best?",
+    "audio_prompt": "Apply the same idea to planning an information report about wombats. Which option is best?",
+    "answers": [
+      {
+        "text": "Start drafting unrelated sentences without deciding the purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Write every fact in the order it was found.",
+        "is_correct": false
+      },
+      {
+        "text": "Group notes into sections such as habitat, diet and behaviour before drafting.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
+      "hint": "Sort ideas by topic before writing full sentences."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Apply the same idea to building a paragraph about water saving. Which option is best?",
+    "audio_prompt": "Apply the same idea to building a paragraph about water saving. Which option is best?",
+    "answers": [
+      {
+        "text": "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+        "is_correct": true
+      },
+      {
+        "text": "Add however to every sentence whether or not there is a contrast.",
+        "is_correct": false
+      },
+      {
+        "text": "Put one sentence about water between two sentences about football.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "hint": "Check both topic unity and logical links."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Which decision would produce the clearest result in building a paragraph about water saving?",
+    "audio_prompt": "Which decision would produce the clearest result in building a paragraph about water saving?",
+    "answers": [
+      {
+        "text": "Add however to every sentence whether or not there is a contrast.",
+        "is_correct": false
+      },
+      {
+        "text": "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+        "is_correct": true
+      },
+      {
+        "text": "Put one sentence about water between two sentences about football.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+      "hint": "Check both topic unity and logical links."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Which decision would produce the clearest result in combining ideas into a complex sentence?",
+    "audio_prompt": "Which decision would produce the clearest result in combining ideas into a complex sentence?",
+    "answers": [
+      {
+        "text": "The family shortened because tank showers.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the tank was nearly empty.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the tank was nearly empty, the family shortened their showers.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The dependent cause clause adds a reason to a complete main clause.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Choose the option that applies the skill correctly in combining ideas into a complex sentence.",
+    "audio_prompt": "Choose the option that applies the skill correctly in combining ideas into a complex sentence.",
+    "answers": [
+      {
+        "text": "Because the tank was nearly empty, the family shortened their showers.",
+        "is_correct": true
+      },
+      {
+        "text": "The family shortened because tank showers.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the tank was nearly empty.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The dependent cause clause adds a reason to a complete main clause.",
+      "hint": "Check that one clause can stand alone and the other adds a relationship."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Choose the option that applies the skill correctly in editing tense in a recount.",
+    "audio_prompt": "Choose the option that applies the skill correctly in editing tense in a recount.",
+    "answers": [
+      {
+        "text": "We arriving at the campsite and cooked tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "We arrived at the campsite, unpacked the car and cooked dinner.",
+        "is_correct": true
+      },
+      {
+        "text": "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Consistent past tense suits events that happened during the same past time frame.",
+      "hint": "Only shift tense when the time frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "What would be the most effective choice for editing tense in a recount?",
+    "audio_prompt": "What would be the most effective choice for editing tense in a recount?",
+    "answers": [
+      {
+        "text": "We arriving at the campsite and cooked tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "We arrived at the campsite, unpacked the car and cooked dinner.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Consistent past tense suits events that happened during the same past time frame.",
+      "hint": "Only shift tense when the time frame changes."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "What would be the most effective choice for replacing vague vocabulary in a science explanation?",
+    "audio_prompt": "What would be the most effective choice for replacing vague vocabulary in a science explanation?",
+    "answers": [
+      {
+        "text": "The metal expanded when it was heated.",
+        "is_correct": true
+      },
+      {
+        "text": "The metal became nice.",
+        "is_correct": false
+      },
+      {
+        "text": "The metal did something when it got hot.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Expanded precisely names the change and suits the scientific purpose.",
+      "hint": "Choose the most exact word for the meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "You now need to handle replacing vague vocabulary in a science explanation independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle replacing vague vocabulary in a science explanation independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "The metal became nice.",
+        "is_correct": false
+      },
+      {
+        "text": "The metal expanded when it was heated.",
+        "is_correct": true
+      },
+      {
+        "text": "The metal did something when it got hot.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Expanded precisely names the change and suits the scientific purpose.",
+      "hint": "Choose the most exact word for the meaning."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Written Texts",
+    "question": "New context: editing a multisyllabic word and punctuation. Which option is correct?",
+    "audio_prompt": "New context: editing a multisyllabic word and punctuation. Which option is correct?",
+    "answers": [
+      {
+        "text": "The enviromental program begins on Wednesday and families can regester online",
+        "is_correct": false
+      },
+      {
+        "text": "The environmental program begins on Wednesday and, families can register online.",
+        "is_correct": false
+      },
+      {
+        "text": "The environmental program begins on Wednesday, and families can register online.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
+      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Written Texts",
+    "question": "What is the best choice for editing a multisyllabic word and punctuation?",
+    "audio_prompt": "What is the best choice for editing a multisyllabic word and punctuation?",
+    "answers": [
+      {
+        "text": "The environmental program begins on Wednesday, and families can register online.",
+        "is_correct": true
+      },
+      {
+        "text": "The enviromental program begins on Wednesday and families can regester online",
+        "is_correct": false
+      },
+      {
+        "text": "The environmental program begins on Wednesday and, families can register online.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
+      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Written Texts",
+    "question": "Which explanation best supports “The environmental program begins on Wednesday, and families can register online.” in editing a multisyllabic word and punctuation?",
+    "audio_prompt": "Which explanation best supports “The environmental program begins on Wednesday, and families can register online.” in editing a multisyllabic word and punctuation?",
+    "answers": [
+      {
+        "text": "Because “The enviromental program begins on Wednesday and families can regester online” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Editing checks spelling patterns and punctuation as well as ideas.",
+        "is_correct": true
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
+      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Written Texts",
+    "question": "Which clue should guide your decision in editing a multisyllabic word and punctuation?",
+    "audio_prompt": "Which clue should guide your decision in editing a multisyllabic word and punctuation?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      },
+      {
+        "text": "Read for one feature at a time: spelling, sentence boundary, then punctuation.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
+      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Which option would you reject first in editing a multisyllabic word and punctuation?",
+    "audio_prompt": "Which option would you reject first in editing a multisyllabic word and punctuation?",
+    "answers": [
+      {
+        "text": "The enviromental program begins on Wednesday and families can regester online",
+        "is_correct": true
+      },
+      {
+        "text": "The environmental program begins on Wednesday, and families can register online.",
+        "is_correct": false
+      },
+      {
+        "text": "The environmental program begins on Wednesday and, families can register online.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Editing checks spelling patterns and punctuation as well as ideas.",
+      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Which correction should replace “The enviromental program begins on Wednesday and families can regester online” in editing a multisyllabic word and punctuation?",
+    "audio_prompt": "Which correction should replace “The enviromental program begins on Wednesday and families can regester online” in editing a multisyllabic word and punctuation?",
+    "answers": [
+      {
+        "text": "The enviromental program begins on Wednesday and families can regester online",
+        "is_correct": false
+      },
+      {
+        "text": "The environmental program begins on Wednesday, and families can register online.",
+        "is_correct": true
+      },
+      {
+        "text": "The environmental program begins on Wednesday and, families can register online.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
+      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Apply the skill to editing a multisyllabic word and punctuation: what should you choose?",
+    "audio_prompt": "Apply the skill to editing a multisyllabic word and punctuation: what should you choose?",
+    "answers": [
+      {
+        "text": "The enviromental program begins on Wednesday and families can regester online",
+        "is_correct": false
+      },
+      {
+        "text": "The environmental program begins on Wednesday and, families can register online.",
+        "is_correct": false
+      },
+      {
+        "text": "The environmental program begins on Wednesday, and families can register online.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
+      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Which final choice gives the clearest and most accurate result for editing a multisyllabic word and punctuation?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for editing a multisyllabic word and punctuation?",
+    "answers": [
+      {
+        "text": "The environmental program begins on Wednesday, and families can register online.",
+        "is_correct": true
+      },
+      {
+        "text": "The enviromental program begins on Wednesday and families can regester online",
+        "is_correct": false
+      },
+      {
+        "text": "The environmental program begins on Wednesday and, families can register online.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
+      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Written Texts",
+    "question": "New context: writing a conclusion to a persuasive text about a bike rack. Which option is correct?",
+    "audio_prompt": "New context: writing a conclusion to a persuasive text about a bike rack. Which option is correct?",
+    "answers": [
+      {
+        "text": "Bikes have wheels.",
+        "is_correct": false
+      },
+      {
+        "text": "For these reasons, a covered bike rack would make cycling to school safer and more practical.",
+        "is_correct": true
+      },
+      {
+        "text": "Now I will introduce a completely different issue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
+      "hint": "Finish by reinforcing the main case."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Written Texts",
+    "question": "What is the best choice for writing a conclusion to a persuasive text about a bike rack?",
+    "audio_prompt": "What is the best choice for writing a conclusion to a persuasive text about a bike rack?",
+    "answers": [
+      {
+        "text": "Bikes have wheels.",
+        "is_correct": false
+      },
+      {
+        "text": "Now I will introduce a completely different issue.",
+        "is_correct": false
+      },
+      {
+        "text": "For these reasons, a covered bike rack would make cycling to school safer and more practical.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
+      "hint": "Finish by reinforcing the main case."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Written Texts",
+    "question": "Which explanation best supports “For these reasons, a covered bike rack would make cycling to school safer and more practical.” in writing a conclusion to a persuasive text about a bike rack?",
+    "audio_prompt": "Which explanation best supports “For these reasons, a covered bike rack would make cycling to school safer and more practical.” in writing a conclusion to a persuasive text about a bike rack?",
+    "answers": [
+      {
+        "text": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Bikes have wheels.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
+      "hint": "Finish by reinforcing the main case."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Written Texts",
+    "question": "Which clue should guide your decision in writing a conclusion to a persuasive text about a bike rack?",
+    "audio_prompt": "Which clue should guide your decision in writing a conclusion to a persuasive text about a bike rack?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Finish by reinforcing the main case.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
+      "hint": "Finish by reinforcing the main case."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Which option would you reject first in writing a conclusion to a persuasive text about a bike rack?",
+    "audio_prompt": "Which option would you reject first in writing a conclusion to a persuasive text about a bike rack?",
+    "answers": [
+      {
+        "text": "For these reasons, a covered bike rack would make cycling to school safer and more practical.",
+        "is_correct": false
+      },
+      {
+        "text": "Now I will introduce a completely different issue.",
+        "is_correct": false
+      },
+      {
+        "text": "Bikes have wheels.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
+      "hint": "Finish by reinforcing the main case."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Which correction should replace “Bikes have wheels.” in writing a conclusion to a persuasive text about a bike rack?",
+    "audio_prompt": "Which correction should replace “Bikes have wheels.” in writing a conclusion to a persuasive text about a bike rack?",
+    "answers": [
+      {
+        "text": "For these reasons, a covered bike rack would make cycling to school safer and more practical.",
+        "is_correct": true
+      },
+      {
+        "text": "Bikes have wheels.",
+        "is_correct": false
+      },
+      {
+        "text": "Now I will introduce a completely different issue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
+      "hint": "Finish by reinforcing the main case."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Apply the skill to writing a conclusion to a persuasive text about a bike rack: what should you choose?",
+    "audio_prompt": "Apply the skill to writing a conclusion to a persuasive text about a bike rack: what should you choose?",
+    "answers": [
+      {
+        "text": "Bikes have wheels.",
+        "is_correct": false
+      },
+      {
+        "text": "For these reasons, a covered bike rack would make cycling to school safer and more practical.",
+        "is_correct": true
+      },
+      {
+        "text": "Now I will introduce a completely different issue.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
+      "hint": "Finish by reinforcing the main case."
+    }
+  },
+  {
+    "id": "AC9E4LY06-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Written Texts",
+    "question": "Which final choice gives the clearest and most accurate result for writing a conclusion to a persuasive text about a bike rack?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for writing a conclusion to a persuasive text about a bike rack?",
+    "answers": [
+      {
+        "text": "Bikes have wheels.",
+        "is_correct": false
+      },
+      {
+        "text": "Now I will introduce a completely different issue.",
+        "is_correct": false
+      },
+      {
+        "text": "For these reasons, a covered bike rack would make cycling to school safer and more practical.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
+      "hint": "Finish by reinforcing the main case."
+    }
+  }
+]

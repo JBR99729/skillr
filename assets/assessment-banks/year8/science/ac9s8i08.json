@@ -1,0 +1,1418 @@
+[
+  {
+    "id": "AC9S8I08-P-001",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_purpose",
+    "question": "During a class investigation, students observe: A laboratory report must allow another class to repeat an investigation. Which method sentence is most suitable?",
+    "audio_prompt": "During a class investigation, students observe: A laboratory report must allow another class to repeat an investigation. Which method sentence is most suitable?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-001",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A laboratory report must allow another class to repeat an investigation."
+    },
+    "answers": [
+      {
+        "text": "Heat 100 mL of water at 200 W and record temperature every 30 seconds for 5 minutes",
+        "is_correct": true
+      },
+      {
+        "text": "We heated some water for a while and it got hotter",
+        "is_correct": false
+      },
+      {
+        "text": "The amazing water experiment worked perfectly",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A reproducible report uses precise quantities, units and sequence.",
+      "hint": "Choose details another investigator can follow."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I08-P-002",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_audience",
+    "question": "During a museum evidence display, students observe: A bushfire-smoke alert is written for the general public. Which message preserves accuracy and supports action?",
+    "audio_prompt": "During a museum evidence display, students observe: A bushfire-smoke alert is written for the general public. Which message preserves accuracy and supports action?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-002",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A bushfire-smoke alert is written for the general public."
+    },
+    "answers": [
+      {
+        "text": "The air is poison and everyone who goes outside will become ill",
+        "is_correct": false
+      },
+      {
+        "text": "Particle levels are high today; people with breathing conditions should follow health advice and limit strenuous outdoor activity",
+        "is_correct": true
+      },
+      {
+        "text": "PM2.5 exceeded the threshold, with no explanation or action",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Public communication combines accurate risk language with clear, audience-relevant action.",
+      "hint": "Avoid both exaggeration and unexplained technical shorthand."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I08-P-003",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_scientific_content",
+    "question": "During a field-team briefing, students observe: A graph shows a small uncertain increase in sea temperature. Which caption communicates the result honestly?",
+    "audio_prompt": "During a field-team briefing, students observe: A graph shows a small uncertain increase in sea temperature. Which caption communicates the result honestly?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-003",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A graph shows a small uncertain increase in sea temperature."
+    },
+    "answers": [
+      {
+        "text": "Ocean temperature has definitely surged",
+        "is_correct": false
+      },
+      {
+        "text": "The graph proves temperature did not change because uncertainty exists",
+        "is_correct": false
+      },
+      {
+        "text": "Mean temperature increased slightly; error bars overlap, so the size of the change remains uncertain",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A scientific caption states the pattern and its uncertainty without overclaiming.",
+      "hint": "Mention both the direction and what the error bars limit."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I08-P-004",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_language_and_structure",
+    "question": "During a laboratory notebook, students observe: The same result must appear in a journal-style report and a Year 5 classroom poster. What should change between the texts?",
+    "audio_prompt": "During a laboratory notebook, students observe: The same result must appear in a journal-style report and a Year 5 classroom poster. What should change between the texts?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-004",
+      "alt_text": "Communicate Science for a Purpose observation card stating: The same result must appear in a journal-style report and a Year 5 classroom poster."
+    },
+    "answers": [
+      {
+        "text": "Vocabulary, detail and structure may change, while the data relationship and conclusion remain accurate",
+        "is_correct": true
+      },
+      {
+        "text": "Remove evidence from the poster because younger readers need only opinions",
+        "is_correct": false
+      },
+      {
+        "text": "Change the conclusion so each audience hears what it prefers",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Audience adaptation changes presentation, not the scientific meaning.",
+      "hint": "Simplify expression while preserving evidence and conclusion."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I08-P-005",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "During a community science meeting, students observe: A student writes, ‘The solution was heated by us’ in every sentence because passive voice sounds scientific. Which revision principle is best?",
+    "audio_prompt": "During a community science meeting, students observe: A student writes, ‘The solution was heated by us’ in every sentence because passive voice sounds scientific. Which revision principle is best?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-005",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A student writes, ‘The solution was heated by us’ in every sentence because passive voice sounds scientific."
+    },
+    "answers": [
+      {
+        "text": "Passive voice is compulsory in every scientific sentence",
+        "is_correct": false
+      },
+      {
+        "text": "Choose active or passive voice according to clarity and whether the actor or process is the focus",
+        "is_correct": true
+      },
+      {
+        "text": "Active voice makes any scientific statement false",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific voice is selected for clarity and purpose, not as a prestige rule.",
+      "hint": "Ask what the reader needs to focus on."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I08-P-006",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_purpose",
+    "question": "During a digital model review, students observe: An infographic compares household energy sources. Which visual feature improves interpretation rather than decoration?",
+    "audio_prompt": "During a digital model review, students observe: An infographic compares household energy sources. Which visual feature improves interpretation rather than decoration?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-006",
+      "alt_text": "Communicate Science for a Purpose observation card stating: An infographic compares household energy sources."
+    },
+    "answers": [
+      {
+        "text": "Three-dimensional icons whose volume exaggerates small differences",
+        "is_correct": false
+      },
+      {
+        "text": "Colours with no legend and values from unlabelled years",
+        "is_correct": false
+      },
+      {
+        "text": "Bars using a common zero baseline, labelled units and a cited data year",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Effective visuals use honest scale, labels and source context.",
+      "hint": "Readers should compare values without visual distortion."
+    },
+    "difficulty": 4,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-007",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_audience",
+    "question": "During a student research poster, students observe: A 20-second oral briefing reports a water test. Which structure suits the purpose?",
+    "audio_prompt": "During a student research poster, students observe: A 20-second oral briefing reports a water test. Which structure suits the purpose?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-007",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A 20-second oral briefing reports a water test."
+    },
+    "answers": [
+      {
+        "text": "Lead with the key finding, give one supporting value and state the practical implication and limitation",
+        "is_correct": true
+      },
+      {
+        "text": "Read every raw measurement without naming the finding",
+        "is_correct": false
+      },
+      {
+        "text": "Give the recommendation but hide the evidence and uncertainty",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A short briefing prioritises a finding, essential evidence and responsible qualification.",
+      "hint": "Keep the evidence-to-action chain visible."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I08-P-008",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_scientific_content",
+    "question": "During an engineering design check, students observe: A website animation shows how particles move when a solid melts. Which accessibility addition is most useful?",
+    "audio_prompt": "During an engineering design check, students observe: A website animation shows how particles move when a solid melts. Which accessibility addition is most useful?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-008",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A website animation shows how particles move when a solid melts."
+    },
+    "answers": [
+      {
+        "text": "Rely on colour alone to show every change",
+        "is_correct": false
+      },
+      {
+        "text": "Provide a text description of particle arrangement and motion, plus controls usable by keyboard",
+        "is_correct": true
+      },
+      {
+        "text": "Autoplay rapidly because all users interpret motion the same way",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Accessible science communication provides equivalent meaning and usable controls.",
+      "hint": "Ensure the scientific relationship is available without sight or a mouse."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I08-P-009",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_language_and_structure",
+    "question": "During a data-team discussion, students observe: A news headline says, ‘Study proves screens destroy sleep,’ but the study found a modest association. Which headline is accurate?",
+    "audio_prompt": "During a data-team discussion, students observe: A news headline says, ‘Study proves screens destroy sleep,’ but the study found a modest association. Which headline is accurate?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-009",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A news headline says, ‘Study proves screens destroy sleep,’ but the study found a modest association."
+    },
+    "answers": [
+      {
+        "text": "Screens certainly destroy sleep for everyone",
+        "is_correct": false
+      },
+      {
+        "text": "Study finds nothing because an association is not causation",
+        "is_correct": false
+      },
+      {
+        "text": "Study finds an association between greater screen use and shorter sleep in the surveyed group",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A headline should match the study design, effect and sampled population.",
+      "hint": "Replace causal certainty with the observed association."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-010",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "During a school science report, students observe: A report includes a table copied from another study. What makes its use transparent?",
+    "audio_prompt": "During a school science report, students observe: A report includes a table copied from another study. What makes its use transparent?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-010",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A report includes a table copied from another study."
+    },
+    "answers": [
+      {
+        "text": "Give a clear source, retain headings and units, and explain why the table is relevant",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the citation and present the data as newly collected",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the citation but alter units without noting the conversion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Transparent communication lets readers trace evidence and interpret it in context.",
+      "hint": "Preserve provenance, meaning and measurement conventions."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9S8I08-P-011",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_purpose",
+    "question": "During a council evidence summary, students observe: A team must communicate results from study 11 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the water temperature and sugar dissolving time evidence.",
+    "audio_prompt": "During a council evidence summary, students observe: A team must communicate results from study 11 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the water temperature and sugar dissolving time evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-011",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 11 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For water temperature and sugar dissolving time: Remove the dissolving time evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For water temperature and sugar dissolving time: Adapt vocabulary and detail, but keep the measured water temperature-dissolving time relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For water temperature and sugar dissolving time: Change the water temperature-dissolving time conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication of water temperature and sugar dissolving time can change form while preserving evidence, meaning and uncertainty. This conclusion concerns water temperature and sugar dissolving time.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to water temperature and sugar dissolving time."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-012",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_audience",
+    "question": "During a peer-review conversation, students observe: A team must communicate results from study 12 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the ramp angle and toy-car travel time evidence.",
+    "audio_prompt": "During a peer-review conversation, students observe: A team must communicate results from study 12 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the ramp angle and toy-car travel time evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-012",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 12 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For ramp angle and toy-car travel time: Remove the travel time evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For ramp angle and toy-car travel time: Change the ramp angle-travel time conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      },
+      {
+        "text": "For ramp angle and toy-car travel time: Adapt vocabulary and detail, but keep the measured ramp angle-travel time relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication of ramp angle and toy-car travel time can change form while preserving evidence, meaning and uncertainty. This conclusion concerns ramp angle and toy-car travel time.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to ramp angle and toy-car travel time."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-013",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_scientific_content",
+    "question": "During an environmental monitoring project, students observe: A team must communicate results from study 13 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the light intensity and pondweed bubble rate evidence.",
+    "audio_prompt": "During an environmental monitoring project, students observe: A team must communicate results from study 13 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the light intensity and pondweed bubble rate evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-013",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 13 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For light intensity and pondweed bubble rate: Adapt vocabulary and detail, but keep the measured light intensity-bubbles per minute relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For light intensity and pondweed bubble rate: Remove the bubbles per minute evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For light intensity and pondweed bubble rate: Change the light intensity-bubbles per minute conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Communication of light intensity and pondweed bubble rate can change form while preserving evidence, meaning and uncertainty. This conclusion concerns light intensity and pondweed bubble rate.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to light intensity and pondweed bubble rate."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-014",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_language_and_structure",
+    "question": "During a medical research case, students observe: A team must communicate results from study 14 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the soil type and bean-seedling height evidence.",
+    "audio_prompt": "During a medical research case, students observe: A team must communicate results from study 14 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the soil type and bean-seedling height evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-014",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 14 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For soil type and bean-seedling height: Remove the height after 14 days evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For soil type and bean-seedling height: Adapt vocabulary and detail, but keep the measured soil type-height after 14 days relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For soil type and bean-seedling height: Change the soil type-height after 14 days conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication of soil type and bean-seedling height can change form while preserving evidence, meaning and uncertainty. This conclusion concerns soil type and bean-seedling height.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to soil type and bean-seedling height."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-015",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "During a science-news fact check, students observe: A team must communicate results from study 15 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the wire length and electrical current evidence.",
+    "audio_prompt": "During a science-news fact check, students observe: A team must communicate results from study 15 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the wire length and electrical current evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-015",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 15 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For wire length and electrical current: Remove the current evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For wire length and electrical current: Change the wire length-current conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      },
+      {
+        "text": "For wire length and electrical current: Adapt vocabulary and detail, but keep the measured wire length-current relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication of wire length and electrical current can change form while preserving evidence, meaning and uncertainty. This conclusion concerns wire length and electrical current.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to wire length and electrical current."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-016",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_purpose",
+    "question": "During a classroom model test, students observe: A team must communicate results from study 16 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the exercise duration and pulse recovery evidence.",
+    "audio_prompt": "During a classroom model test, students observe: A team must communicate results from study 16 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the exercise duration and pulse recovery evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-016",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 16 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For exercise duration and pulse recovery: Adapt vocabulary and detail, but keep the measured exercise duration-recovery time relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For exercise duration and pulse recovery: Remove the recovery time evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For exercise duration and pulse recovery: Change the exercise duration-recovery time conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Communication of exercise duration and pulse recovery can change form while preserving evidence, meaning and uncertainty. This conclusion concerns exercise duration and pulse recovery.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to exercise duration and pulse recovery."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-017",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_audience",
+    "question": "During a regional planning workshop, students observe: A team must communicate results from study 17 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the salt concentration and egg buoyancy evidence.",
+    "audio_prompt": "During a regional planning workshop, students observe: A team must communicate results from study 17 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the salt concentration and egg buoyancy evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-017",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 17 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For salt concentration and egg buoyancy: Remove the floating height evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For salt concentration and egg buoyancy: Adapt vocabulary and detail, but keep the measured salt concentration-floating height relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For salt concentration and egg buoyancy: Change the salt concentration-floating height conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication of salt concentration and egg buoyancy can change form while preserving evidence, meaning and uncertainty. This conclusion concerns salt concentration and egg buoyancy.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to salt concentration and egg buoyancy."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-018",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_scientific_content",
+    "question": "During an equipment selection task, students observe: A team must communicate results from study 18 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the insulation material and cooling evidence.",
+    "audio_prompt": "During an equipment selection task, students observe: A team must communicate results from study 18 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the insulation material and cooling evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-018",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 18 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For insulation material and cooling: Remove the temperature loss evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For insulation material and cooling: Change the insulation material-temperature loss conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      },
+      {
+        "text": "For insulation material and cooling: Adapt vocabulary and detail, but keep the measured insulation material-temperature loss relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication of insulation material and cooling can change form while preserving evidence, meaning and uncertainty. This conclusion concerns insulation material and cooling.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to insulation material and cooling."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-019",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_language_and_structure",
+    "question": "During a public information draft, students observe: A team must communicate results from study 19 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the surface area and evaporation evidence.",
+    "audio_prompt": "During a public information draft, students observe: A team must communicate results from study 19 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the surface area and evaporation evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-019",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 19 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For surface area and evaporation: Adapt vocabulary and detail, but keep the measured exposed surface area-mass of water lost relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For surface area and evaporation: Remove the mass of water lost evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For surface area and evaporation: Change the exposed surface area-mass of water lost conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Communication of surface area and evaporation can change form while preserving evidence, meaning and uncertainty. This conclusion concerns surface area and evaporation.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to surface area and evaporation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-020",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "During an independent replication study, students observe: A team must communicate results from study 20 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the pH and amylase activity evidence.",
+    "audio_prompt": "During an independent replication study, students observe: A team must communicate results from study 20 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the pH and amylase activity evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-020",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 20 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For pH and amylase activity: Remove the time to digest starch evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For pH and amylase activity: Adapt vocabulary and detail, but keep the measured pH-time to digest starch relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For pH and amylase activity: Change the pH-time to digest starch conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication of pH and amylase activity can change form while preserving evidence, meaning and uncertainty. This conclusion concerns pH and amylase activity.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to pH and amylase activity."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-021",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_purpose",
+    "question": "During a risk-assessment meeting, students observe: A team must communicate results from study 21 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the drop height and crater diameter evidence.",
+    "audio_prompt": "During a risk-assessment meeting, students observe: A team must communicate results from study 21 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the drop height and crater diameter evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-021",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 21 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For drop height and crater diameter: Remove the crater diameter evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For drop height and crater diameter: Change the drop height-crater diameter conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      },
+      {
+        "text": "For drop height and crater diameter: Adapt vocabulary and detail, but keep the measured drop height-crater diameter relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication of drop height and crater diameter can change form while preserving evidence, meaning and uncertainty. This conclusion concerns drop height and crater diameter.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to drop height and crater diameter."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-022",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_audience",
+    "question": "During a graph interpretation task, students observe: A team must communicate results from study 22 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the fertiliser concentration and duckweed growth evidence.",
+    "audio_prompt": "During a graph interpretation task, students observe: A team must communicate results from study 22 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the fertiliser concentration and duckweed growth evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-022",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 22 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For fertiliser concentration and duckweed growth: Adapt vocabulary and detail, but keep the measured fertiliser concentration-change in frond number relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For fertiliser concentration and duckweed growth: Remove the change in frond number evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For fertiliser concentration and duckweed growth: Change the fertiliser concentration-change in frond number conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Communication of fertiliser concentration and duckweed growth can change form while preserving evidence, meaning and uncertainty. This conclusion concerns fertiliser concentration and duckweed growth.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to fertiliser concentration and duckweed growth."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-023",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_scientific_content",
+    "question": "During a claim-evidence-reasoning response, students observe: A team must communicate results from study 23 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the blade length and paper-turbine rotation evidence.",
+    "audio_prompt": "During a claim-evidence-reasoning response, students observe: A team must communicate results from study 23 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the blade length and paper-turbine rotation evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-023",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 23 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For blade length and paper-turbine rotation: Remove the rotations per minute evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For blade length and paper-turbine rotation: Adapt vocabulary and detail, but keep the measured blade length-rotations per minute relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For blade length and paper-turbine rotation: Change the blade length-rotations per minute conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication of blade length and paper-turbine rotation can change form while preserving evidence, meaning and uncertainty. This conclusion concerns blade length and paper-turbine rotation.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to blade length and paper-turbine rotation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-P-024",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "practice",
+    "skill": "communication_language_and_structure",
+    "question": "During a scientific-method audit, students observe: A team must communicate results from study 24 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the detergent concentration and surface tension evidence.",
+    "audio_prompt": "During a scientific-method audit, students observe: A team must communicate results from study 24 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the detergent concentration and surface tension evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-p-024",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 24 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For detergent concentration and surface tension: Remove the drops held on a coin evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For detergent concentration and surface tension: Change the detergent concentration-drops held on a coin conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      },
+      {
+        "text": "For detergent concentration and surface tension: Adapt vocabulary and detail, but keep the measured detergent concentration-drops held on a coin relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication of detergent concentration and surface tension can change form while preserving evidence, meaning and uncertainty. This conclusion concerns detergent concentration and surface tension.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to detergent concentration and surface tension."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9S8I08-T-001",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "During the new research proposal, students observe: A team must communicate results from study 25 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the sound frequency and perceived pitch evidence.",
+    "audio_prompt": "During the new research proposal, students observe: A team must communicate results from study 25 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the sound frequency and perceived pitch evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-001",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 25 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For sound frequency and perceived pitch: Adapt vocabulary and detail, but keep the measured speaker frequency-reported pitch relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For sound frequency and perceived pitch: Remove the reported pitch evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For sound frequency and perceived pitch: Change the speaker frequency-reported pitch conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Communication of sound frequency and perceived pitch can change form while preserving evidence, meaning and uncertainty. This conclusion concerns sound frequency and perceived pitch.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to sound frequency and perceived pitch."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-002",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_purpose",
+    "question": "During the cross-school data comparison, students observe: A team must communicate results from study 26 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the acid concentration and reaction rate evidence.",
+    "audio_prompt": "During the cross-school data comparison, students observe: A team must communicate results from study 26 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the acid concentration and reaction rate evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-002",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 26 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For acid concentration and reaction rate: Remove the gas volume per minute evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For acid concentration and reaction rate: Adapt vocabulary and detail, but keep the measured acid concentration-gas volume per minute relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For acid concentration and reaction rate: Change the acid concentration-gas volume per minute conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication of acid concentration and reaction rate can change form while preserving evidence, meaning and uncertainty. This conclusion concerns acid concentration and reaction rate.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to acid concentration and reaction rate."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-003",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_audience",
+    "question": "During the technology evaluation panel, students observe: A team must communicate results from study 27 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the shade cover and soil moisture evidence.",
+    "audio_prompt": "During the technology evaluation panel, students observe: A team must communicate results from study 27 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the shade cover and soil moisture evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-003",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 27 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For shade cover and soil moisture: Remove the soil moisture after six hours evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For shade cover and soil moisture: Change the percentage shade cover-soil moisture after six hours conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      },
+      {
+        "text": "For shade cover and soil moisture: Adapt vocabulary and detail, but keep the measured percentage shade cover-soil moisture after six hours relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication of shade cover and soil moisture can change form while preserving evidence, meaning and uncertainty. This conclusion concerns shade cover and soil moisture.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to shade cover and soil moisture."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-004",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_scientific_content",
+    "question": "During the science exhibition caption, students observe: A team must communicate results from study 28 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the magnet distance and force evidence.",
+    "audio_prompt": "During the science exhibition caption, students observe: A team must communicate results from study 28 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the magnet distance and force evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-004",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 28 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For magnet distance and force: Adapt vocabulary and detail, but keep the measured magnet separation-force reading relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For magnet distance and force: Remove the force reading evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For magnet distance and force: Change the magnet separation-force reading conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Communication of magnet distance and force can change form while preserving evidence, meaning and uncertainty. This conclusion concerns magnet distance and force.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to magnet distance and force."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-005",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_language_and_structure",
+    "question": "During the policy evidence hearing, students observe: A team must communicate results from study 29 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the water depth and wave speed evidence.",
+    "audio_prompt": "During the policy evidence hearing, students observe: A team must communicate results from study 29 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the water depth and wave speed evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-005",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 29 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For water depth and wave speed: Remove the wave travel time evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For water depth and wave speed: Adapt vocabulary and detail, but keep the measured water depth-wave travel time relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For water depth and wave speed: Change the water depth-wave travel time conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication of water depth and wave speed can change form while preserving evidence, meaning and uncertainty. This conclusion concerns water depth and wave speed.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to water depth and wave speed."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-006",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "During the controlled follow-up investigation, students observe: A team must communicate results from study 30 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the antibiotic concentration and inhibition zone evidence.",
+    "audio_prompt": "During the controlled follow-up investigation, students observe: A team must communicate results from study 30 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the antibiotic concentration and inhibition zone evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-006",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 30 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For antibiotic concentration and inhibition zone: Remove the inhibition-zone diameter evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For antibiotic concentration and inhibition zone: Change the antibiotic concentration-inhibition-zone diameter conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      },
+      {
+        "text": "For antibiotic concentration and inhibition zone: Adapt vocabulary and detail, but keep the measured antibiotic concentration-inhibition-zone diameter relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication of antibiotic concentration and inhibition zone can change form while preserving evidence, meaning and uncertainty. This conclusion concerns antibiotic concentration and inhibition zone.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to antibiotic concentration and inhibition zone."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-007",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_purpose",
+    "question": "During the model limitations review, students observe: A team must communicate results from study 31 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the fruit ripeness and vitamin C evidence.",
+    "audio_prompt": "During the model limitations review, students observe: A team must communicate results from study 31 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the fruit ripeness and vitamin C evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-007",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 31 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For fruit ripeness and vitamin C: Adapt vocabulary and detail, but keep the measured ripeness stage-titration volume relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For fruit ripeness and vitamin C: Remove the titration volume evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For fruit ripeness and vitamin C: Change the ripeness stage-titration volume conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Communication of fruit ripeness and vitamin C can change form while preserving evidence, meaning and uncertainty. This conclusion concerns fruit ripeness and vitamin C.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to fruit ripeness and vitamin C."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-008",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_audience",
+    "question": "During the ethics committee discussion, students observe: A team must communicate results from study 32 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the roof colour and model-house temperature evidence.",
+    "audio_prompt": "During the ethics committee discussion, students observe: A team must communicate results from study 32 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the roof colour and model-house temperature evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-008",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 32 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For roof colour and model-house temperature: Remove the inside temperature rise evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For roof colour and model-house temperature: Adapt vocabulary and detail, but keep the measured roof colour-inside temperature rise relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For roof colour and model-house temperature: Change the roof colour-inside temperature rise conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication of roof colour and model-house temperature can change form while preserving evidence, meaning and uncertainty. This conclusion concerns roof colour and model-house temperature.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to roof colour and model-house temperature."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-009",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_scientific_content",
+    "question": "During the coastal field station report, students observe: A team must communicate results from study 33 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the salinity and seed germination evidence.",
+    "audio_prompt": "During the coastal field station report, students observe: A team must communicate results from study 33 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the salinity and seed germination evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-009",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 33 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For salinity and seed germination: Remove the germination percentage evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For salinity and seed germination: Change the salt concentration-germination percentage conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      },
+      {
+        "text": "For salinity and seed germination: Adapt vocabulary and detail, but keep the measured salt concentration-germination percentage relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication of salinity and seed germination can change form while preserving evidence, meaning and uncertainty. This conclusion concerns salinity and seed germination.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to salinity and seed germination."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-010",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_language_and_structure",
+    "question": "During the renewable-energy trial, students observe: A team must communicate results from study 34 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the load and bridge deflection evidence.",
+    "audio_prompt": "During the renewable-energy trial, students observe: A team must communicate results from study 34 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the load and bridge deflection evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-010",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 34 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For load and bridge deflection: Adapt vocabulary and detail, but keep the measured applied load-bridge deflection relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For load and bridge deflection: Remove the bridge deflection evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For load and bridge deflection: Change the applied load-bridge deflection conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Communication of load and bridge deflection can change form while preserving evidence, meaning and uncertainty. This conclusion concerns load and bridge deflection.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to load and bridge deflection."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-011",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "During the hospital innovation briefing, students observe: A team must communicate results from study 35 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the wind speed and transpiration evidence.",
+    "audio_prompt": "During the hospital innovation briefing, students observe: A team must communicate results from study 35 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the wind speed and transpiration evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-011",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 35 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For wind speed and transpiration: Remove the plant mass loss evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For wind speed and transpiration: Adapt vocabulary and detail, but keep the measured wind speed-plant mass loss relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For wind speed and transpiration: Change the wind speed-plant mass loss conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication of wind speed and transpiration can change form while preserving evidence, meaning and uncertainty. This conclusion concerns wind speed and transpiration.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to wind speed and transpiration."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-012",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_purpose",
+    "question": "During the geological survey update, students observe: A team must communicate results from study 36 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the particle size and dissolving evidence.",
+    "audio_prompt": "During the geological survey update, students observe: A team must communicate results from study 36 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the particle size and dissolving evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-012",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 36 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For particle size and dissolving: Remove the dissolving time evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For particle size and dissolving: Change the solute particle size-dissolving time conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      },
+      {
+        "text": "For particle size and dissolving: Adapt vocabulary and detail, but keep the measured solute particle size-dissolving time relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication of particle size and dissolving can change form while preserving evidence, meaning and uncertainty. This conclusion concerns particle size and dissolving.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to particle size and dissolving."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-013",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_audience",
+    "question": "During the materials-testing laboratory, students observe: A team must communicate results from study 37 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the string length and pendulum period evidence.",
+    "audio_prompt": "During the materials-testing laboratory, students observe: A team must communicate results from study 37 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the string length and pendulum period evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-013",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 37 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For string length and pendulum period: Adapt vocabulary and detail, but keep the measured string length-period relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For string length and pendulum period: Remove the period evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For string length and pendulum period: Change the string length-period conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Communication of string length and pendulum period can change form while preserving evidence, meaning and uncertainty. This conclusion concerns string length and pendulum period.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to string length and pendulum period."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-014",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_scientific_content",
+    "question": "During the documentary planning session, students observe: A team must communicate results from study 38 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the battery temperature and motor speed evidence.",
+    "audio_prompt": "During the documentary planning session, students observe: A team must communicate results from study 38 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the battery temperature and motor speed evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-014",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 38 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For battery temperature and motor speed: Remove the motor rotations per minute evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For battery temperature and motor speed: Adapt vocabulary and detail, but keep the measured battery temperature-motor rotations per minute relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For battery temperature and motor speed: Change the battery temperature-motor rotations per minute conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Communication of battery temperature and motor speed can change form while preserving evidence, meaning and uncertainty. This conclusion concerns battery temperature and motor speed.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to battery temperature and motor speed."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-015",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_language_and_structure",
+    "question": "During the national data-set review, students observe: A team must communicate results from study 39 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the stream velocity and sediment size evidence.",
+    "audio_prompt": "During the national data-set review, students observe: A team must communicate results from study 39 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the stream velocity and sediment size evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-015",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 39 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For stream velocity and sediment size: Remove the largest transported grain evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For stream velocity and sediment size: Change the stream velocity-largest transported grain conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      },
+      {
+        "text": "For stream velocity and sediment size: Adapt vocabulary and detail, but keep the measured stream velocity-largest transported grain relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Communication of stream velocity and sediment size can change form while preserving evidence, meaning and uncertainty. This conclusion concerns stream velocity and sediment size.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to stream velocity and sediment size."
+    }
+  },
+  {
+    "id": "AC9S8I08-T-016",
+    "subject": "science",
+    "year_level": "Year 8",
+    "curriculum_code": "AC9S8I08",
+    "bank": "test",
+    "skill": "communication_visual_or_digital_feature",
+    "question": "During the final evidence conference, students observe: A team must communicate results from study 40 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the leaf area and photosynthesis evidence.",
+    "audio_prompt": "During the final evidence conference, students observe: A team must communicate results from study 40 to students and laboratory researchers. Which communication choice preserves the science for both audiences? Use the leaf area and photosynthesis evidence.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year8/science/ac9s8i08.svg#ac9s8i08-t-016",
+      "alt_text": "Communicate Science for a Purpose observation card stating: A team must communicate results from study 40 to students and laboratory researchers."
+    },
+    "answers": [
+      {
+        "text": "For leaf area and photosynthesis: Adapt vocabulary and detail, but keep the measured leaf area exposed-oxygen production rate relationship, units, uncertainty and source consistent",
+        "is_correct": true
+      },
+      {
+        "text": "For leaf area and photosynthesis: Remove the oxygen production rate evidence for students and give only an opinion",
+        "is_correct": false
+      },
+      {
+        "text": "For leaf area and photosynthesis: Change the leaf area exposed-oxygen production rate conclusion to suit what each audience wants to hear",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Communication of leaf area and photosynthesis can change form while preserving evidence, meaning and uncertainty. This conclusion concerns leaf area and photosynthesis.",
+      "hint": "Audience affects expression, not the scientific result. Apply this to leaf area and photosynthesis."
+    }
+  }
+]

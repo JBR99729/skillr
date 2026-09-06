@@ -1,0 +1,32 @@
+name: Validate Year 7 Maths static topic pages
+
+on:
+  pull_request:
+    paths:
+      - 'year7/maths/**'
+      - 'quiz/year-7/math/**'
+      - 'assets/year7-curriculum.css'
+      - 'scripts/validate_year7_maths_static_topic_pages.mjs'
+      - '.github/workflows/validate-year7-maths-static-topic-pages.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'year7/maths/**'
+      - 'quiz/year-7/math/**'
+      - 'assets/year7-curriculum.css'
+      - 'scripts/validate_year7_maths_static_topic_pages.mjs'
+      - '.github/workflows/validate-year7-maths-static-topic-pages.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate Year 7 Maths topic pages
+        run: node scripts/validate_year7_maths_static_topic_pages.mjs

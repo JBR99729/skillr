@@ -1,0 +1,32 @@
+name: Validate homework revenue readiness
+
+on:
+  pull_request:
+    paths:
+      - "quiz/**/homework/index.html"
+      - "assets/homework-shell.css"
+      - "assets/homework-page-runtime.js"
+      - "assets/skillr-ad-config.js"
+      - "scripts/validate_homework_revenue_readiness.mjs"
+      - ".github/workflows/validate-homework-revenue-readiness.yml"
+  push:
+    branches: [main]
+    paths:
+      - "quiz/**/homework/index.html"
+      - "assets/homework-shell.css"
+      - "assets/homework-page-runtime.js"
+      - "assets/skillr-ad-config.js"
+      - "scripts/validate_homework_revenue_readiness.mjs"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/validate_homework_revenue_readiness.mjs

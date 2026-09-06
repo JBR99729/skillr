@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ac9m9st02-p-001",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_and_analysing_different_visualisations_of_data_such_as_infographics_found_in_the_media_and_commenting_on_the_strengths_weaknesses_and_possible_biases_of_particular_examples",
+    "question": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+      "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st02-p-002",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "discuss_the_impact_of_decreased_landline_usage_or_an_increased_aversion_to_answering_calls_from_unknown_numbers_on_survey_data",
+    "question": "A Year 9 student is solving a problem involving discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sampling and representation bias model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+      "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st02-p-003",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_potential_cultural_bias_relating_to_first_nations_australians_by_critically_analysing_sampling_techniques_in_statistical_reports",
+    "question": "A Year 9 student is solving a problem involving explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+      "hint": "Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st02-p-004",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_and_analysing_different_visualisations_of_data_such_as_infographics_found_in_the_media_and_commenting_on_the_strengths_weaknesses_and_possible_biases_of_particular_examples",
+    "question": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+      "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st02-p-005",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "discuss_the_impact_of_decreased_landline_usage_or_an_increased_aversion_to_answering_calls_from_unknown_numbers_on_survey_data",
+    "question": "A Year 9 student is solving a problem involving discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+        "is_correct": true
+      },
+      {
+        "text": "The sampling and representation bias model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+      "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st02-p-006",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_potential_cultural_bias_relating_to_first_nations_australians_by_critically_analysing_sampling_techniques_in_statistical_reports",
+    "question": "A Year 9 student is solving a problem involving explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+      "hint": "Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st02-p-007",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "explore_and_analysing_different_visualisations_of_data_such_as_infographics_found_in_the_media_and_commenting_on_the_strengths_weaknesses_and_possible_biases_of_particular_examples",
+    "question": "What should you check when using explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
+    "audio_prompt": "What should you check when using explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+      "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st02-p-008",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "discuss_the_impact_of_decreased_landline_usage_or_an_increased_aversion_to_answering_calls_from_unknown_numbers_on_survey_data",
+    "question": "What should you check when using discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
+    "audio_prompt": "What should you check when using discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sampling and representation bias model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+      "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9st02-t-001",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_potential_cultural_bias_relating_to_first_nations_australians_by_critically_analysing_sampling_techniques_in_statistical_reports",
+    "question": "Which response correctly uses explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports?",
+    "audio_prompt": "Which response correctly uses explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+        "is_correct": true
+      },
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+      "hint": "Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports."
+    }
+  },
+  {
+    "id": "ac9m9st02-t-002",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_and_analysing_different_visualisations_of_data_such_as_infographics_found_in_the_media_and_commenting_on_the_strengths_weaknesses_and_possible_biases_of_particular_examples",
+    "question": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+      "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
+    }
+  },
+  {
+    "id": "ac9m9st02-t-003",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "discuss_the_impact_of_decreased_landline_usage_or_an_increased_aversion_to_answering_calls_from_unknown_numbers_on_survey_data",
+    "question": "A Year 9 student is solving a problem involving discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sampling and representation bias model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+      "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
+    }
+  },
+  {
+    "id": "ac9m9st02-t-004",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_potential_cultural_bias_relating_to_first_nations_australians_by_critically_analysing_sampling_techniques_in_statistical_reports",
+    "question": "A Year 9 student is solving a problem involving explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+      "hint": "Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports."
+    }
+  },
+  {
+    "id": "ac9m9st02-t-005",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_and_analysing_different_visualisations_of_data_such_as_infographics_found_in_the_media_and_commenting_on_the_strengths_weaknesses_and_possible_biases_of_particular_examples",
+    "question": "When would you use explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
+    "audio_prompt": "When would you use explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+        "is_correct": true
+      },
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+      "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
+    }
+  },
+  {
+    "id": "ac9m9st02-t-006",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "discuss_the_impact_of_decreased_landline_usage_or_an_increased_aversion_to_answering_calls_from_unknown_numbers_on_survey_data",
+    "question": "When would you use discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
+    "audio_prompt": "When would you use discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sampling and representation bias model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "discussing the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data",
+      "hint": "Discuss the impact of decreased landline usage or an increased aversion to answering calls from unknown numbers on survey data."
+    }
+  },
+  {
+    "id": "ac9m9st02-t-007",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_potential_cultural_bias_relating_to_first_nations_australians_by_critically_analysing_sampling_techniques_in_statistical_reports",
+    "question": "When would you use explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports?",
+    "audio_prompt": "When would you use explore potential cultural bias relating to first nations australians by critically analysing sampling techniques in statistical reports?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "exploring potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports",
+      "hint": "Explore potential cultural bias relating to First Nations Australians by critically analysing sampling techniques in statistical reports."
+    }
+  },
+  {
+    "id": "ac9m9st02-t-008",
+    "curriculum_code": "AC9M9ST02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "explore_and_analysing_different_visualisations_of_data_such_as_infographics_found_in_the_media_and_commenting_on_the_strengths_weaknesses_and_possible_biases_of_particular_examples",
+    "question": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths weaknesses and possible biases of particular examples. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A display or sample is treated as proof of a stronger claim",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "investigating and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples",
+      "hint": "Explore and analysing different visualisations of data such as infographics found in the media and commenting on the strengths, weaknesses and possible biases of particular examples."
+    }
+  }
+]

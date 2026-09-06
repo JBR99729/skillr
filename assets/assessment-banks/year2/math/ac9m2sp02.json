@@ -1,0 +1,1706 @@
+[
+  {
+    "id": "AC9M2SP02-P-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "locate",
+    "question": "Which place is in the top-left square?",
+    "audio_prompt": "Which place is in the top-left square?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-001"
+    },
+    "answers": [
+      {
+        "text": "Door",
+        "is_correct": false
+      },
+      {
+        "text": "Gate",
+        "is_correct": true
+      },
+      {
+        "text": "Tap",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The top row and leftmost column meet at Gate.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "relative",
+    "question": "Which place is directly below Tree?",
+    "audio_prompt": "Which place is directly below Tree?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-002"
+    },
+    "answers": [
+      {
+        "text": "Pond",
+        "is_correct": true
+      },
+      {
+        "text": "Slide",
+        "is_correct": false
+      },
+      {
+        "text": "Flowers",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Move one square down from Tree to Pond.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "between",
+    "question": "Which place is between Flowers and Bin in their row?",
+    "audio_prompt": "Which place is between Flowers and Bin in their row?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-003"
+    },
+    "answers": [
+      {
+        "text": "Sand",
+        "is_correct": false
+      },
+      {
+        "text": "Steps",
+        "is_correct": false
+      },
+      {
+        "text": "Table",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The row reads Path, Flowers, Table, Bin.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "right",
+    "question": "Which place is immediately to the right of Pond?",
+    "audio_prompt": "Which place is immediately to the right of Pond?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-004"
+    },
+    "answers": [
+      {
+        "text": "Bench",
+        "is_correct": false
+      },
+      {
+        "text": "Flowers",
+        "is_correct": false
+      },
+      {
+        "text": "Sand",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "In the second row, Sand is one square right of Pond.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "single_move",
+    "question": "Start at Gate and move 2 squares right. Where do you arrive?",
+    "audio_prompt": "Start at Gate and move 2 squares right. Where do you arrive?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-005"
+    },
+    "answers": [
+      {
+        "text": "Tree",
+        "is_correct": false
+      },
+      {
+        "text": "Slide",
+        "is_correct": true
+      },
+      {
+        "text": "Tap",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Gate to Tree is one step; Tree to Slide is the second.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "down_move",
+    "question": "Start at Tap and move 3 squares down. Where do you finish?",
+    "audio_prompt": "Start at Tap and move 3 squares down. Where do you finish?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-006"
+    },
+    "answers": [
+      {
+        "text": "Wall",
+        "is_correct": true
+      },
+      {
+        "text": "Bin",
+        "is_correct": false
+      },
+      {
+        "text": "Shed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Follow Tap, Shed, Bin, Wall: three moves.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "path",
+    "question": "Start at Door. Move 2 right, then 1 up. Where are you?",
+    "audio_prompt": "Start at Door. Move 2 right, then 1 up. Where are you?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-007"
+    },
+    "answers": [
+      {
+        "text": "Sand",
+        "is_correct": false
+      },
+      {
+        "text": "Table",
+        "is_correct": true
+      },
+      {
+        "text": "Steps",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Two right reaches Steps; one up reaches Table.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "left_path",
+    "question": "Start at Shed. Move 1 down, then 2 left. Where do you finish?",
+    "audio_prompt": "Start at Shed. Move 1 down, then 2 left. Where do you finish?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-008"
+    },
+    "answers": [
+      {
+        "text": "Path",
+        "is_correct": false
+      },
+      {
+        "text": "Table",
+        "is_correct": false
+      },
+      {
+        "text": "Flowers",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Shed to Bin, then Table, then Flowers.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "instruction",
+    "question": "Which instruction takes you from Pond to Tree?",
+    "audio_prompt": "Which instruction takes you from Pond to Tree?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-009"
+    },
+    "answers": [
+      {
+        "text": "Move 1 square up",
+        "is_correct": true
+      },
+      {
+        "text": "Move 1 square left",
+        "is_correct": false
+      },
+      {
+        "text": "Move 2 squares up",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Tree is directly above Pond.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "two_step_route",
+    "question": "Which route takes you from Gate to Sand?",
+    "audio_prompt": "Which route takes you from Gate to Sand?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-010"
+    },
+    "answers": [
+      {
+        "text": "2 right, then 1 down",
+        "is_correct": true
+      },
+      {
+        "text": "1 right, then 2 down",
+        "is_correct": false
+      },
+      {
+        "text": "2 down, then 1 left",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Two right reaches Slide; one down reaches Sand.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "start_matters",
+    "question": "You follow “1 square right”. What else must you know to find the destination?",
+    "audio_prompt": "You follow “1 square right”. What else must you know to find the destination?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The colour of the page",
+        "is_correct": false
+      },
+      {
+        "text": "The time of day",
+        "is_correct": false
+      },
+      {
+        "text": "The starting square",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The same move leads to different destinations from different starts.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "count_moves",
+    "question": "From Path, follow 1 right, 1 up, 1 right. How many moves do you make?",
+    "audio_prompt": "From Path, follow 1 right, 1 up, 1 right. How many moves do you make?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-012"
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "There are three one-square moves.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "trace",
+    "question": "From Path, follow 1 right, 1 up, 1 right. Which place do you pass through second, after leaving Path?",
+    "audio_prompt": "From Path, follow 1 right, 1 up, 1 right. Which place do you pass through second, after leaving Path?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-013"
+    },
+    "answers": [
+      {
+        "text": "Flowers",
+        "is_correct": false
+      },
+      {
+        "text": "Sand",
+        "is_correct": false
+      },
+      {
+        "text": "Pond",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The successive places are Flowers, Pond and Sand.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "reverse",
+    "question": "You travel from Mat to Flowers by moving up once. How do you return?",
+    "audio_prompt": "You travel from Mat to Flowers by moving up once. How do you return?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-014"
+    },
+    "answers": [
+      {
+        "text": "Move down once",
+        "is_correct": true
+      },
+      {
+        "text": "Move up once",
+        "is_correct": false
+      },
+      {
+        "text": "Move left once",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Reverse the upward move with a downward move.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "reverse_sequence",
+    "question": "A route goes 2 right, then 1 up. Which route retraces it from the finish?",
+    "audio_prompt": "A route goes 2 right, then 1 up. Which route retraces it from the finish?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "2 left, then 1 down",
+        "is_correct": false
+      },
+      {
+        "text": "1 down, then 2 left",
+        "is_correct": true
+      },
+      {
+        "text": "2 right, then 1 down",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Undo the last move first, then undo the earlier rightward moves.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "obstacle",
+    "question": "The Pond square is closed. Which route gets from Bench to Sand without entering Pond?",
+    "audio_prompt": "The Pond square is closed. Which route gets from Bench to Sand without entering Pond?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-016"
+    },
+    "answers": [
+      {
+        "text": "2 right",
+        "is_correct": false
+      },
+      {
+        "text": "1 up, 2 right, 1 down",
+        "is_correct": true
+      },
+      {
+        "text": "1 right, 1 up, 1 right, 1 down",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The first route goes through Gate, Tree and Slide, avoiding Pond.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-017",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "same_finish",
+    "question": "From Gate, compare “2 right then 1 down” with “1 down then 2 right”. Do they end at the same place if all squares are open?",
+    "audio_prompt": "From Gate, compare “2 right then 1 down” with “1 down then 2 right”. Do they end at the same place if all squares are open?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-017"
+    },
+    "answers": [
+      {
+        "text": "Yes; both finish at Sand",
+        "is_correct": true
+      },
+      {
+        "text": "No; one finishes at Pond",
+        "is_correct": false
+      },
+      {
+        "text": "No; changing order always changes the finish",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both routes make the same total moves right and down, though they pass different places.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-018",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "map_view",
+    "question": "A plan shows where tables and doors are from above. What does it help you do?",
+    "audio_prompt": "A plan shows where tables and doors are from above. What does it help you do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Know the exact colour of the ceiling",
+        "is_correct": false
+      },
+      {
+        "text": "Find the age of every table",
+        "is_correct": false
+      },
+      {
+        "text": "Locate places and follow routes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A plan represents positions within the space.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-019",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "boundary",
+    "question": "Start at Tap. Can you move 1 square right and remain inside this plan?",
+    "audio_prompt": "Start at Tap. Can you move 1 square right and remain inside this plan?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-019"
+    },
+    "answers": [
+      {
+        "text": "No; Tap is at the right edge",
+        "is_correct": true
+      },
+      {
+        "text": "Yes; you reach Gate",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; you reach Shed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "There is no square to the right of Tap.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-020",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "missing_move",
+    "question": "Start at Gate. Move 1 down, then ___ right to reach Sand. How many squares go in the gap?",
+    "audio_prompt": "Start at Gate. Move 1 down, then ___ right to reach Sand. How many squares go in the gap?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-020"
+    },
+    "answers": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "From Bench, two rightward moves pass Pond and reach Sand.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-021",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "relative_not_facing",
+    "question": "The plan says “move right on the page”. Should the direction change when a toy turns to face another way?",
+    "audio_prompt": "The plan says “move right on the page”. Should the direction change when a toy turns to face another way?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yes; it always follows the toy’s face",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; it becomes up",
+        "is_correct": false
+      },
+      {
+        "text": "No; page-right stays the same",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "These directions use the fixed page, not the toy’s changing orientation.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-P-022",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "trace_route",
+    "question": "Copy the plan and draw a route from Door to Tap. Use only up/down/left/right moves and write your instructions.",
+    "audio_prompt": "Copy the plan and draw a route from Door to Tap. Use only up/down/left/right moves and write your instructions.",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-022"
+    },
+    "answers": [
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      },
+      {
+        "text": "Completed response",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Any valid connected route within the grid from Door to Tap, with matching directions.",
+      "hint": "One example is 3 up, then 3 right. Check the learner’s actual route rather than requiring that example."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Any valid connected route within the grid from Door to Tap, with matching directions.",
+    "acceptance_note": "One example is 3 up, then 3 right. Check the learner’s actual route rather than requiring that example.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
+  },
+  {
+    "id": "AC9M2SP02-P-023",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "avoid_pond",
+    "question": "Draw a route from Bench to Sand that avoids Pond. Write each move in order.",
+    "audio_prompt": "Draw a route from Bench to Sand that avoids Pond. Write each move in order.",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Four-by-four playground grid. Rows from top: Gate, Tree, Slide, Tap; Bench, Pond, Sand, Shed; Path, Flowers, Table, Bin; Door, Mat, Steps, Wall.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-p-023"
+    },
+    "answers": [
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Completed response",
+        "is_correct": true
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "For example, up 1, right 2, down 1.",
+      "hint": "Accept any valid route remaining inside the grid and never entering Pond; directions must match."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "For example, up 1, right 2, down 1.",
+    "acceptance_note": "Accept any valid route remaining inside the grid and never entering Pond; directions must match.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
+  },
+  {
+    "id": "AC9M2SP02-P-024",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "practice",
+    "skill": "familiar_plan",
+    "question": "Draw a simple plan of a familiar room with a door and two named objects. Mark a route from the door to one object and describe it.",
+    "audio_prompt": "Draw a simple plan of a familiar room with a door and two named objects. Mark a route from the door to one object and describe it.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Completed response",
+        "is_correct": true
+      },
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A recognisable overhead arrangement with named positions and a route whose directions match the drawing.",
+      "hint": "Adult checks the chosen familiar space and the consistency of directions; artistic detail is not assessed."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "A recognisable overhead arrangement with named positions and a route whose directions match the drawing.",
+    "acceptance_note": "Adult checks the chosen familiar space and the consistency of directions; artistic detail is not assessed.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
+  },
+  {
+    "id": "AC9M2SP02-T-001",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "locate",
+    "question": "What is in the bottom-right square of the classroom plan?",
+    "audio_prompt": "What is in the bottom-right square of the classroom plan?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-001"
+    },
+    "answers": [
+      {
+        "text": "Sink",
+        "is_correct": false
+      },
+      {
+        "text": "Bags",
+        "is_correct": false
+      },
+      {
+        "text": "Window",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The bottom row meets the rightmost column at Window.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-002",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "relative",
+    "question": "Which place is directly above Blocks?",
+    "audio_prompt": "Which place is directly above Blocks?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-002"
+    },
+    "answers": [
+      {
+        "text": "Art",
+        "is_correct": true
+      },
+      {
+        "text": "Shelf",
+        "is_correct": false
+      },
+      {
+        "text": "Desk",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Art is in the same column, one row above Blocks.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-003",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "between",
+    "question": "What lies between Rug and Blocks in their row?",
+    "audio_prompt": "What lies between Rug and Blocks in their row?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-003"
+    },
+    "answers": [
+      {
+        "text": "Table",
+        "is_correct": false
+      },
+      {
+        "text": "Plants",
+        "is_correct": true
+      },
+      {
+        "text": "Desk",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The middle row begins Rug, Plants, Blocks.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-004",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "move",
+    "question": "Start at Books. Move 3 squares right. Where do you finish?",
+    "audio_prompt": "Start at Books. Move 3 squares right. Where do you finish?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-004"
+    },
+    "answers": [
+      {
+        "text": "Art",
+        "is_correct": false
+      },
+      {
+        "text": "Sink",
+        "is_correct": true
+      },
+      {
+        "text": "Door",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The three moves reach Desk, Art and Sink.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-005",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "two_moves",
+    "question": "Start at Window. Move 2 left, then 1 up. Where do you arrive?",
+    "audio_prompt": "Start at Window. Move 2 left, then 1 up. Where do you arrive?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-005"
+    },
+    "answers": [
+      {
+        "text": "Desk",
+        "is_correct": false
+      },
+      {
+        "text": "Rug",
+        "is_correct": false
+      },
+      {
+        "text": "Plants",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Two left reaches Table; one up reaches Plants.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-006",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "route_select",
+    "question": "Which route goes from Bags to Art?",
+    "audio_prompt": "Which route goes from Bags to Art?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-006"
+    },
+    "answers": [
+      {
+        "text": "2 up, then 2 right",
+        "is_correct": true
+      },
+      {
+        "text": "2 right, then 1 up",
+        "is_correct": false
+      },
+      {
+        "text": "1 up, then 3 right",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "From Bags, two up reaches Books and two right reaches Art.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-007",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "destination",
+    "question": "From Door, move 1 left and 1 down. Where are you?",
+    "audio_prompt": "From Door, move 1 left and 1 down. Where are you?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-007"
+    },
+    "answers": [
+      {
+        "text": "Shelf",
+        "is_correct": true
+      },
+      {
+        "text": "Table",
+        "is_correct": false
+      },
+      {
+        "text": "Blocks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Door to Blocks, then down to Shelf.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 7,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-008",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "reverse",
+    "question": "A route from Desk to Table is 2 squares down. How do you return along it?",
+    "audio_prompt": "A route from Desk to Table is 2 squares down. How do you return along it?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-008"
+    },
+    "answers": [
+      {
+        "text": "2 squares right",
+        "is_correct": false
+      },
+      {
+        "text": "1 square up",
+        "is_correct": false
+      },
+      {
+        "text": "2 squares up",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Reverse both downward moves.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 8,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-009",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "boundary",
+    "question": "Which move from Books leaves the plan?",
+    "audio_prompt": "Which move from Books leaves the plan?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-009"
+    },
+    "answers": [
+      {
+        "text": "1 square right",
+        "is_correct": false
+      },
+      {
+        "text": "1 square left",
+        "is_correct": true
+      },
+      {
+        "text": "1 square down",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Books is at the left boundary.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-010",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "blocked",
+    "question": "Plants is blocked. Which route from Rug to Blocks avoids it?",
+    "audio_prompt": "Plants is blocked. Which route from Rug to Blocks avoids it?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-010"
+    },
+    "answers": [
+      {
+        "text": "1 up, 2 right, 1 down",
+        "is_correct": true
+      },
+      {
+        "text": "2 right",
+        "is_correct": false
+      },
+      {
+        "text": "1 right, 1 down, 1 right, 1 up",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first route goes via Books, Desk and Art.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-011",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "missing",
+    "question": "From Bags, move 1 right and then ___ up to reach Desk.",
+    "audio_prompt": "From Bags, move 1 right and then ___ up to reach Desk.",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-011"
+    },
+    "answers": [
+      {
+        "text": "1 square",
+        "is_correct": false
+      },
+      {
+        "text": "2 squares",
+        "is_correct": true
+      },
+      {
+        "text": "3 squares",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One right reaches Table, and Desk is two rows above Table.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-012",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "order",
+    "question": "Why might the order of moves matter even when two routes share a destination?",
+    "audio_prompt": "Why might the order of moves matter even when two routes share a destination?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The page’s right edge changes",
+        "is_correct": false
+      },
+      {
+        "text": "Each route must have different totals",
+        "is_correct": false
+      },
+      {
+        "text": "One route might pass through a blocked square",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different intermediate positions can encounter different obstacles.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-013",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "starting",
+    "question": "Someone says “Go up to the shelf”, but the plan has Shelf in the bottom row. What should you clarify first?",
+    "audio_prompt": "Someone says “Go up to the shelf”, but the plan has Shelf in the bottom row. What should you clarify first?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-013"
+    },
+    "answers": [
+      {
+        "text": "The shelf’s colour",
+        "is_correct": false
+      },
+      {
+        "text": "How many books are on it",
+        "is_correct": false
+      },
+      {
+        "text": "Where the person starts and which direction system they mean",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Clear starting position and direction reference are needed to follow instructions.",
+      "hint": "Use the information in the question and check each step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 13,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    }
+  },
+  {
+    "id": "AC9M2SP02-T-014",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "route",
+    "question": "Draw a route from Sink to Bags and write the steps in order.",
+    "audio_prompt": "Draw a route from Sink to Bags and write the steps in order.",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-014"
+    },
+    "answers": [
+      {
+        "text": "Completed response",
+        "is_correct": true
+      },
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For example, 3 left then 2 down, staying within the plan.",
+      "hint": "Accept other valid routes; verify the drawing and written steps have the same start and finish."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 14,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "For example, 3 left then 2 down, staying within the plan.",
+    "acceptance_note": "Accept other valid routes; verify the drawing and written steps have the same start and finish.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
+  },
+  {
+    "id": "AC9M2SP02-T-015",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "reverse_route",
+    "question": "Trace Books to Desk to Plants to Blocks. Write instructions to retrace it from Blocks back to Books.",
+    "audio_prompt": "Trace Books to Desk to Plants to Blocks. Write instructions to retrace it from Blocks back to Books.",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-015"
+    },
+    "answers": [
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Completed response",
+        "is_correct": true
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Left 1, up 1, left 1.",
+      "hint": "The reverse route must visit Plants, Desk and Books in that order."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 15,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Left 1, up 1, left 1.",
+    "acceptance_note": "The reverse route must visit Plants, Desk and Books in that order.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
+  },
+  {
+    "id": "AC9M2SP02-T-016",
+    "subject": "math",
+    "year_level": "Year 2",
+    "curriculum_code": "AC9M2SP02",
+    "bank": "test",
+    "skill": "describe_position",
+    "question": "Use this plan to describe the position of Table in two different ways.",
+    "audio_prompt": "Use this plan to describe the position of Table in two different ways.",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Three-by-four classroom grid. Rows from top: Books, Desk, Art, Sink; Rug, Plants, Blocks, Door; Bags, Table, Shelf, Window.",
+      "asset_path": "/assets/assessment-visuals/year2/math/ac9m2sp02.svg?v=20260906-year2-pending-release#ac9m2sp02-t-016"
+    },
+    "answers": [
+      {
+        "text": "Completed response",
+        "is_correct": true
+      },
+      {
+        "text": "Needs revision",
+        "is_correct": false
+      },
+      {
+        "text": "Not attempted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "For example, Table is below Plants and between Bags and Shelf.",
+      "hint": "Accept two accurate spatial relationships, not two repeated names for the same relation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 16,
+    "review": {
+      "status": "editorially-reviewed",
+      "version": "20260906-year2-pending-release",
+      "evidence_scope": "See 2026-09-06-year2-public-ixl-sweep.md. Original questions; worked examples and representative entry tasks reviewed, not exhaustive adaptive progression."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "For example, Table is below Plants and between Bags and Shelf.",
+    "acceptance_note": "Accept two accurate spatial relationships, not two repeated names for the same relation.",
+    "response_instructions": "Complete the task on paper or with materials, then ask an adult to check it.",
+    "completion_label": "Ready for adult review"
+  }
+]

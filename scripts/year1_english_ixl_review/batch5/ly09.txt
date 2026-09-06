@@ -1,0 +1,40 @@
+Say 'cat' normally. Ask the child to say every sound separately, moving one counter for each sound.|Three phonemes: /k/ /a/ /t/. Accept the short vowel in cat. Count speech sounds, not letter names; the child should segment before hearing this model.
+Say 'map'. Ask the child to stretch it into its separate sounds in order.|Three phonemes: /m/ /a/ /p/. Listen for all three in order without added 'uh' sounds after the consonants.
+Say 'fish'. Ask the child to say each sound and count them with fingers.|Three phonemes: /f/ /i/ /sh/. The final sh is one sound; four printed letters do not mean four phonemes.
+Say 'ship'. Ask the child to move a counter for each separate sound they say.|Three phonemes: /sh/ /i/ /p/. The first sound is one continuous sh sound, not separate s and h sounds.
+Say 'sock'. Ask the child to say its sounds slowly and separately.|Three phonemes: /s/ /o/ /k/. The ending ck represents one sound. Accept the child's usual Australian short o pronunciation.
+Say 'duck'. Ask for all the sounds in order, with one tap for each.|Three phonemes: /d/ /u/ /k/. The short vowel is the one in duck; the ending has one /k/ sound.
+Say 'bell'. Ask the child to separate the sounds without naming letters.|Three phonemes: /b/ /e/ /l/. The double written l represents one final speech sound.
+Say 'ring'. Ask the child to say each sound and move a counter for each.|Three phonemes: /r/ /i/ /ng/. The final ng is one sound, not a separate n then g in ordinary ring.
+Say 'stop'. Ask the child to say every sound, keeping the two beginning consonant sounds separate.|Four phonemes: /s/ /t/ /o/ /p/. Listen for both /s/ and /t/, not a single combined 'st' count.
+Say 'flag'. Ask the child to segment the whole word and count the sounds.|Four phonemes: /f/ /l/ /a/ /g/. Both consonants in fl must be heard separately before the vowel.
+Say 'drum'. Ask the child to say the sounds in order, slowly enough to hear the beginning blend.|Four phonemes: /d/ /r/ /u/ /m/ in the taught segmentation. Accept natural local pronunciation; do not add extra vowels between consonants.
+Say 'nest'. Ask the child to separate all the sounds, especially at the end.|Four phonemes: /n/ /e/ /s/ /t/. The final cluster contributes two distinct sounds in the segmentation.
+Say 'hand'. Ask the child to move one counter for each sound they say.|Four phonemes: /h/ /a/ /n/ /d/. Check that the final /d/ is included rather than stopping at /n/.
+Say 'milk'. Ask the child to say each sound in order.|Four phonemes: /m/ /i/ /l/ /k/. Listen for both ending consonants; accept the learner's accent without treating an accent feature as a disorder.
+Say 'tent'. Ask the child to tap for each sound and say them separately.|Four phonemes: /t/ /e/ /n/ /t/. The first and last sounds are both /t/, but occur in different positions and each counts.
+Say 'frog'. Ask the child to segment the whole word, keeping the beginning sounds separate.|Four phonemes: /f/ /r/ /o/ /g/. Both /f/ and /r/ belong before the vowel; check that neither is omitted.
+Say 'pin' and then 'spin'. Ask the child to segment both and tell which has an extra sound.|Pin: /p/ /i/ /n/ (3). Spin: /s/ /p/ /i/ /n/ (4). Spin has the additional initial /s/ sound.
+Say 'lip' and then 'slip'. Ask for every sound in both words, using separate rows of counters.|Lip: /l/ /i/ /p/ (3). Slip: /s/ /l/ /i/ /p/ (4). Check the full segmentation rather than just a correct total.
+Say 'stamp'. Ask the child to segment the word, paying attention to both ends.|Five phonemes: /s/ /t/ /a/ /m/ /p/. There are two beginning consonants and two ending consonants around the vowel.
+Say 'split'. Ask the child to separate every beginning sound, then finish the word's sounds.|Five phonemes: /s/ /p/ /l/ /i/ /t/. All three initial cluster sounds should be represented separately.
+Say 'spring'. Ask the child to segment it and count the sounds.|Five phonemes: /s/ /p/ /r/ /i/ /ng/. The three beginning consonants are separate sounds; the final ng is one sound.
+Say 'best'. A puppet counts only /b/ /e/ /s/. Ask the child to segment the whole word and show the missing sound.|Four phonemes: /b/ /e/ /s/ /t/. The puppet omitted the final /t/; the child should say the complete sequence.
+Say 'shop' and 'spot'. Ask the child to segment both and explain why they need different numbers of counters.|Shop: /sh/ /o/ /p/ (3). Spot: /s/ /p/ /o/ /t/ (4). Sh is one speech sound while the starting cluster in spot contains two.
+Say 'crisp'. Ask for all the sounds, then ask the child to repeat the ending sounds on their own.|Five phonemes: /k/ /r/ /i/ /s/ /p/. The ending sequence is /s/ /p/; check it is not counted as a single sound.
+Say 'jam'. Ask the child to say every sound separately.|Three phonemes: /j/ /a/ /m/. The initial sound in jam is treated as one phoneme in the taught segmentation.
+Say 'web'. Ask for the separate sounds in order, using one counter each.|Three phonemes: /w/ /e/ /b/. All sounds should be included in order without substituting letter names.
+Say 'chin'. Ask the child to segment the word and count its sounds.|Three phonemes: /ch/ /i/ /n/. Ch is one speech sound in chin, despite being written with two letters.
+Say 'thin'. Ask the child to say the separate sounds.|Three phonemes: /th/ /i/ /n/. Use the unvoiced th heard in thin as one sound, not a t sound followed by h.
+Say 'step'. Ask the child to segment the whole word, keeping the initial sounds separate.|Four phonemes: /s/ /t/ /e/ /p/. Both initial consonants need their own sound and counter.
+Say 'plug'. Ask for all the sounds in order.|Four phonemes: /p/ /l/ /u/ /g/. Check that the beginning /l/ remains present when the word is segmented.
+Say 'belt'. Ask the child to separate the sounds, including the ending.|Four phonemes: /b/ /e/ /l/ /t/. Both /l/ and /t/ should be heard at the end.
+Say 'lamp'. Ask the child to move a counter for each spoken sound.|Four phonemes: /l/ /a/ /m/ /p/. The final /p/ counts separately from /m/.
+Say 'clap'. Ask the child to say every sound slowly.|Four phonemes: /k/ /l/ /a/ /p/. The beginning cluster has two sounds rather than one combined count.
+Say 'desk'. Ask the child to segment the word and repeat just the last two sounds.|Four phonemes: /d/ /e/ /s/ /k/. The last two sounds are /s/ /k/ in that order.
+Say 'top' and then 'stomp'. Ask the child to segment both words with counters.|Top: /t/ /o/ /p/ (3). Stomp: /s/ /t/ /o/ /m/ /p/ (5). Check both full sequences, including /s/ and /m/ in stomp.
+Say 'glad'. A puppet says only /g/ /a/ /d/. Ask the child to say all the sounds and identify what was missed.|Four phonemes: /g/ /l/ /a/ /d/. The missing sound is /l/ after the initial /g/.
+Say 'string'. Ask the child to say all the sounds and count them.|Five phonemes: /s/ /t/ /r/ /i/ /ng/. Separate the three initial sounds while keeping the final ng as one phoneme.
+Say 'spent'. Ask the child to segment it, checking the sounds at both ends.|Five phonemes: /s/ /p/ /e/ /n/ /t/. Check both initial and final cluster sounds are represented.
+Say 'wing' and 'wind'. Ask the child to segment each and compare the number of sounds.|Wing: /w/ /i/ /ng/ (3). Wind, as in blowing air: /w/ /i/ /n/ /d/ (4). Say wind with its short vowel to avoid the other pronunciation.
+Say 'smell'. Ask for every sound, then ask whether its ending needs one counter or two.|Four phonemes: /s/ /m/ /e/ /l/. The final /l/ is one sound even though the written word has two l letters; do not show the spelling first.

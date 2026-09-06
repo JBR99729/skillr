@@ -1,0 +1,35 @@
+name: AdSense content quality guard
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  adsense-quality-guard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Verify known AdSense-risk content regressions
+        run: python3 scripts/adsense_final_cleanup.py
+
+      - name: Verify legacy Homework indexing and ad protections
+        run: python3 scripts/strip_legacy_homework_ads.py
+
+      - name: Verify Homework subject labels and generator safeguards
+        run: python3 scripts/adsense_legacy_homework_safety.py
+
+      - name: Fail if a guard would change tracked files
+        run: git diff --exit-code

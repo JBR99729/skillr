@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "ac9s6i05-p-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Two groups get different dissolving times. What should they compare first?",
+    "audio_prompt": "Two groups get different dissolving times. What should they compare first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Their methods, variables and measurement tools.",
+        "is_correct": true
+      },
+      {
+        "text": "Who is more confident.",
+        "is_correct": false
+      },
+      {
+        "text": "Which table looks neater.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Their methods, variables and measurement tools.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "What should happen before excluding an outlier?",
+    "audio_prompt": "What should happen before excluding an outlier?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Delete it immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Investigate whether a mistake or unusual condition explains it.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep it secret.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Investigate whether a mistake or unusual condition explains it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Which method difference makes results less comparable?",
+    "audio_prompt": "Which method difference makes results less comparable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "All groups used seconds.",
+        "is_correct": false
+      },
+      {
+        "text": "All groups labelled their cups.",
+        "is_correct": false
+      },
+      {
+        "text": "One group used hot water while others used room-temperature water.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One group used hot water while others used room-temperature water.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Can more repeats fix a thermometer that is always 2 degrees C too high?",
+    "audio_prompt": "Can more repeats fix a thermometer that is always 2 degrees C too high?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "No, repeats do not remove systematic calibration error.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, repeats fix every error.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, if the table is colourful.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "No, repeats do not remove systematic calibration error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Which conclusion is proportionate?",
+    "audio_prompt": "Which conclusion is proportionate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Material A is always the best in every situation.",
+        "is_correct": false
+      },
+      {
+        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
+        "is_correct": true
+      },
+      {
+        "text": "The prediction must be true because we liked it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Why compare findings with others?",
+    "audio_prompt": "Why compare findings with others?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves one group must be dishonest.",
+        "is_correct": false
+      },
+      {
+        "text": "It means your data should be changed.",
+        "is_correct": false
+      },
+      {
+        "text": "It can reveal method differences, errors or stronger patterns.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It can reveal method differences, errors or stronger patterns.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "What is a useful question for further investigation?",
+    "audio_prompt": "What is a useful question for further investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Would the same pattern occur with different material thicknesses?",
+        "is_correct": true
+      },
+      {
+        "text": "Can we ignore the unexpected result?",
+        "is_correct": false
+      },
+      {
+        "text": "Which result is easiest to write?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Would the same pattern occur with different material thicknesses?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Which source of random error fits manual stopwatch timing?",
+    "audio_prompt": "Which source of random error fits manual stopwatch timing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A ruler with centimetre marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Different reaction times when starting and stopping the timer.",
+        "is_correct": true
+      },
+      {
+        "text": "A graph title.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Different reaction times when starting and stopping the timer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Two groups get different dissolving times. What should they compare first in a new class investigation?",
+    "audio_prompt": "Two groups get different dissolving times. What should they compare first in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Who is more confident.",
+        "is_correct": false
+      },
+      {
+        "text": "Which table looks neater.",
+        "is_correct": false
+      },
+      {
+        "text": "Their methods, variables and measurement tools.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Their methods, variables and measurement tools.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "What should happen before excluding an outlier in a new class investigation?",
+    "audio_prompt": "What should happen before excluding an outlier in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Investigate whether a mistake or unusual condition explains it.",
+        "is_correct": true
+      },
+      {
+        "text": "Delete it immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep it secret.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Investigate whether a mistake or unusual condition explains it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Which method difference makes results less comparable in a new class investigation?",
+    "audio_prompt": "Which method difference makes results less comparable in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "All groups used seconds.",
+        "is_correct": false
+      },
+      {
+        "text": "One group used hot water while others used room-temperature water.",
+        "is_correct": true
+      },
+      {
+        "text": "All groups labelled their cups.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One group used hot water while others used room-temperature water.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Can more repeats fix a thermometer that is always 2 degrees C too high in a new class investigation?",
+    "audio_prompt": "Can more repeats fix a thermometer that is always 2 degrees C too high in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yes, repeats fix every error.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, if the table is colourful.",
+        "is_correct": false
+      },
+      {
+        "text": "No, repeats do not remove systematic calibration error.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "No, repeats do not remove systematic calibration error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Which conclusion is proportionate in a new class investigation?",
+    "audio_prompt": "Which conclusion is proportionate in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
+        "is_correct": true
+      },
+      {
+        "text": "Material A is always the best in every situation.",
+        "is_correct": false
+      },
+      {
+        "text": "The prediction must be true because we liked it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Why compare findings with others in a new class investigation?",
+    "audio_prompt": "Why compare findings with others in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves one group must be dishonest.",
+        "is_correct": false
+      },
+      {
+        "text": "It can reveal method differences, errors or stronger patterns.",
+        "is_correct": true
+      },
+      {
+        "text": "It means your data should be changed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It can reveal method differences, errors or stronger patterns.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "What is a useful question for further investigation in a new class investigation?",
+    "audio_prompt": "What is a useful question for further investigation in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Can we ignore the unexpected result?",
+        "is_correct": false
+      },
+      {
+        "text": "Which result is easiest to write?",
+        "is_correct": false
+      },
+      {
+        "text": "Would the same pattern occur with different material thicknesses?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Would the same pattern occur with different material thicknesses?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Which source of random error fits manual stopwatch timing in a new class investigation?",
+    "audio_prompt": "Which source of random error fits manual stopwatch timing in a new class investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different reaction times when starting and stopping the timer.",
+        "is_correct": true
+      },
+      {
+        "text": "A ruler with centimetre marks.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph title.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different reaction times when starting and stopping the timer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-017",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Two groups get different dissolving times. What should they compare first after students review their evidence?",
+    "audio_prompt": "Two groups get different dissolving times. What should they compare first after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Who is more confident.",
+        "is_correct": false
+      },
+      {
+        "text": "Their methods, variables and measurement tools.",
+        "is_correct": true
+      },
+      {
+        "text": "Which table looks neater.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Their methods, variables and measurement tools.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-018",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "What should happen before excluding an outlier after students review their evidence?",
+    "audio_prompt": "What should happen before excluding an outlier after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Delete it immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep it secret.",
+        "is_correct": false
+      },
+      {
+        "text": "Investigate whether a mistake or unusual condition explains it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Investigate whether a mistake or unusual condition explains it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-019",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Which method difference makes results less comparable after students review their evidence?",
+    "audio_prompt": "Which method difference makes results less comparable after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One group used hot water while others used room-temperature water.",
+        "is_correct": true
+      },
+      {
+        "text": "All groups used seconds.",
+        "is_correct": false
+      },
+      {
+        "text": "All groups labelled their cups.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One group used hot water while others used room-temperature water.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-020",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Can more repeats fix a thermometer that is always 2 degrees C too high after students review their evidence?",
+    "audio_prompt": "Can more repeats fix a thermometer that is always 2 degrees C too high after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yes, repeats fix every error.",
+        "is_correct": false
+      },
+      {
+        "text": "No, repeats do not remove systematic calibration error.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, if the table is colourful.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "No, repeats do not remove systematic calibration error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-021",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Which conclusion is proportionate after students review their evidence?",
+    "audio_prompt": "Which conclusion is proportionate after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Material A is always the best in every situation.",
+        "is_correct": false
+      },
+      {
+        "text": "The prediction must be true because we liked it.",
+        "is_correct": false
+      },
+      {
+        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-022",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Why compare findings with others after students review their evidence?",
+    "audio_prompt": "Why compare findings with others after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It can reveal method differences, errors or stronger patterns.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves one group must be dishonest.",
+        "is_correct": false
+      },
+      {
+        "text": "It means your data should be changed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It can reveal method differences, errors or stronger patterns.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-023",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "What is a useful question for further investigation after students review their evidence?",
+    "audio_prompt": "What is a useful question for further investigation after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Can we ignore the unexpected result?",
+        "is_correct": false
+      },
+      {
+        "text": "Would the same pattern occur with different material thicknesses?",
+        "is_correct": true
+      },
+      {
+        "text": "Which result is easiest to write?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Would the same pattern occur with different material thicknesses?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-p-024",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "practice",
+    "skill": "errors and conclusions",
+    "question": "Which source of random error fits manual stopwatch timing after students review their evidence?",
+    "audio_prompt": "Which source of random error fits manual stopwatch timing after students review their evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A ruler with centimetre marks.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph title.",
+        "is_correct": false
+      },
+      {
+        "text": "Different reaction times when starting and stopping the timer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different reaction times when starting and stopping the timer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-001",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: Which source of random error fits manual stopwatch timing?",
+    "audio_prompt": "A different class checks the same science idea: Which source of random error fits manual stopwatch timing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Different reaction times when starting and stopping the timer.",
+        "is_correct": true
+      },
+      {
+        "text": "A ruler with centimetre marks.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph title.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different reaction times when starting and stopping the timer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-002",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: What is a useful question for further investigation?",
+    "audio_prompt": "A different class checks the same science idea: What is a useful question for further investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Can we ignore the unexpected result?",
+        "is_correct": false
+      },
+      {
+        "text": "Would the same pattern occur with different material thicknesses?",
+        "is_correct": true
+      },
+      {
+        "text": "Which result is easiest to write?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Would the same pattern occur with different material thicknesses?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-003",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: Why compare findings with others?",
+    "audio_prompt": "A different class checks the same science idea: Why compare findings with others?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves one group must be dishonest.",
+        "is_correct": false
+      },
+      {
+        "text": "It means your data should be changed.",
+        "is_correct": false
+      },
+      {
+        "text": "It can reveal method differences, errors or stronger patterns.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It can reveal method differences, errors or stronger patterns.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-004",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: Which conclusion is proportionate?",
+    "audio_prompt": "A different class checks the same science idea: Which conclusion is proportionate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
+        "is_correct": true
+      },
+      {
+        "text": "Material A is always the best in every situation.",
+        "is_correct": false
+      },
+      {
+        "text": "The prediction must be true because we liked it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-005",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: Can more repeats fix a thermometer that is always 2 degrees C too high?",
+    "audio_prompt": "A different class checks the same science idea: Can more repeats fix a thermometer that is always 2 degrees C too high?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yes, repeats fix every error.",
+        "is_correct": false
+      },
+      {
+        "text": "No, repeats do not remove systematic calibration error.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, if the table is colourful.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "No, repeats do not remove systematic calibration error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-006",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: Which method difference makes results less comparable?",
+    "audio_prompt": "A different class checks the same science idea: Which method difference makes results less comparable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "All groups used seconds.",
+        "is_correct": false
+      },
+      {
+        "text": "All groups labelled their cups.",
+        "is_correct": false
+      },
+      {
+        "text": "One group used hot water while others used room-temperature water.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "One group used hot water while others used room-temperature water.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-007",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: What should happen before excluding an outlier?",
+    "audio_prompt": "A different class checks the same science idea: What should happen before excluding an outlier?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Investigate whether a mistake or unusual condition explains it.",
+        "is_correct": true
+      },
+      {
+        "text": "Delete it immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep it secret.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Investigate whether a mistake or unusual condition explains it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-008",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A different class checks the same science idea: Two groups get different dissolving times. What should they compare first?",
+    "audio_prompt": "A different class checks the same science idea: Two groups get different dissolving times. What should they compare first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Who is more confident.",
+        "is_correct": false
+      },
+      {
+        "text": "Their methods, variables and measurement tools.",
+        "is_correct": true
+      },
+      {
+        "text": "Which table looks neater.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Their methods, variables and measurement tools.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-009",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: Which source of random error fits manual stopwatch timing?",
+    "audio_prompt": "A follow-up test asks: Which source of random error fits manual stopwatch timing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A ruler with centimetre marks.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph title.",
+        "is_correct": false
+      },
+      {
+        "text": "Different reaction times when starting and stopping the timer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different reaction times when starting and stopping the timer.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-010",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: What is a useful question for further investigation?",
+    "audio_prompt": "A follow-up test asks: What is a useful question for further investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Would the same pattern occur with different material thicknesses?",
+        "is_correct": true
+      },
+      {
+        "text": "Can we ignore the unexpected result?",
+        "is_correct": false
+      },
+      {
+        "text": "Which result is easiest to write?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Would the same pattern occur with different material thicknesses?",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-011",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: Why compare findings with others?",
+    "audio_prompt": "A follow-up test asks: Why compare findings with others?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It proves one group must be dishonest.",
+        "is_correct": false
+      },
+      {
+        "text": "It can reveal method differences, errors or stronger patterns.",
+        "is_correct": true
+      },
+      {
+        "text": "It means your data should be changed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It can reveal method differences, errors or stronger patterns.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-012",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: Which conclusion is proportionate?",
+    "audio_prompt": "A follow-up test asks: Which conclusion is proportionate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Material A is always the best in every situation.",
+        "is_correct": false
+      },
+      {
+        "text": "The prediction must be true because we liked it.",
+        "is_correct": false
+      },
+      {
+        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-013",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: Can more repeats fix a thermometer that is always 2 degrees C too high?",
+    "audio_prompt": "A follow-up test asks: Can more repeats fix a thermometer that is always 2 degrees C too high?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "No, repeats do not remove systematic calibration error.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, repeats fix every error.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, if the table is colourful.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "No, repeats do not remove systematic calibration error.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-014",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: Which method difference makes results less comparable?",
+    "audio_prompt": "A follow-up test asks: Which method difference makes results less comparable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "All groups used seconds.",
+        "is_correct": false
+      },
+      {
+        "text": "One group used hot water while others used room-temperature water.",
+        "is_correct": true
+      },
+      {
+        "text": "All groups labelled their cups.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One group used hot water while others used room-temperature water.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-015",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: What should happen before excluding an outlier?",
+    "audio_prompt": "A follow-up test asks: What should happen before excluding an outlier?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Delete it immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep it secret.",
+        "is_correct": false
+      },
+      {
+        "text": "Investigate whether a mistake or unusual condition explains it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Investigate whether a mistake or unusual condition explains it.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  },
+  {
+    "id": "ac9s6i05-t-016",
+    "subject": "science",
+    "year_level": "Year 6",
+    "curriculum_code": "AC9S6I05",
+    "bank": "test",
+    "skill": "errors and conclusions",
+    "question": "A follow-up test asks: Two groups get different dissolving times. What should they compare first?",
+    "audio_prompt": "A follow-up test asks: Two groups get different dissolving times. What should they compare first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Their methods, variables and measurement tools.",
+        "is_correct": true
+      },
+      {
+        "text": "Who is more confident.",
+        "is_correct": false
+      },
+      {
+        "text": "Which table looks neater.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Their methods, variables and measurement tools.",
+      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+    }
+  }
+]

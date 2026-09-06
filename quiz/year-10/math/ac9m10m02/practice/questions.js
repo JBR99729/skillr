@@ -1,0 +1,28 @@
+"use strict";
+const Q=(id,n,s,q,a,c,e)=>({id,curriculumCode:"AC9M10M02",bank:"practice",section:s,sourceNumber:n,skill:s,printable:true,type:"single",question:q,answers:a,correct:c,explanation:e,structuredExplanation:{summary:e,hint:"Think in powers of 10 and compare multiplicative change, not additive change."},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+Q("ac9m10m02-p-001",1,"Logarithmic scale basics","A logarithmic scale increases by:",["Equal steps in value","Equal multiplicative factors","Equal additive factors","Equal percentages only"],1,"Equal spacing on a logarithmic scale corresponds to equal multiplicative ratios."),
+Q("ac9m10m02-p-002",2,"Logarithmic scale basics","On a base-10 logarithmic scale, an increase of 1 unit represents:",["×2","×5","×10","×100"],2,"A change of 1 in log10 corresponds to multiplying the original quantity by 10."),
+Q("ac9m10m02-p-003",3,"Logarithmic scale basics","Evaluate log10(1000).",["1","2","3","4"],2,"1000=10^3, so log10(1000)=3."),
+Q("ac9m10m02-p-004",4,"Logarithmic scale basics","Evaluate log10(1).",["-1","0","1","10"],1,"1=10^0, so log10(1)=0."),
+Q("ac9m10m02-p-005",5,"Logarithmic scale basics","Evaluate log10(0.1).",["-1","0","1","2"],0,"0.1=10^-1, so log10(0.1)=-1."),
+Q("ac9m10m02-p-006",6,"Logarithmic scale basics","A logarithmic scale is especially useful when values:",["Change slowly","Span extremely large or small magnitudes","Are always positive integers","Are always whole numbers"],1,"Logarithmic scales compress quantities that span many orders of magnitude."),
+Q("ac9m10m02-p-007",7,"Logarithmic scale basics","On a logarithmic scale, equal spacing represents:",["Equal differences","Equal ratios","Equal sums","Equal absolute changes"],1,"Equal distances correspond to equal multiplicative ratios."),
+Q("ac9m10m02-p-008",8,"Real-world logarithmic scales","The Richter magnitude scale is:",["Linear","Quadratic","Logarithmic","Exponential"],2,"Earthquake magnitude is represented on a logarithmic scale."),
+Q("ac9m10m02-p-009",9,"Real-world logarithmic scales","Sound level measured in decibels uses a:",["Linear scale","Logarithmic scale","Quadratic scale","Exponential scale"],1,"Decibels are based on a logarithm of an intensity ratio."),
+Q("ac9m10m02-p-010",10,"Real-world logarithmic scales","The pH scale is:",["Linear","Logarithmic","Quadratic","Exponential"],1,"pH is defined using a base-10 logarithm of hydrogen ion concentration."),
+Q("ac9m10m02-p-011",11,"Interpreting logarithmic scales","A magnitude 6 earthquake has how many times the ground-motion amplitude of a magnitude 5 earthquake?",["2 times","5 times","10 times","100 times"],2,"A one-unit increase in earthquake magnitude corresponds to a tenfold increase in measured amplitude."),
+Q("ac9m10m02-p-012",12,"Interpreting logarithmic scales","A sound level increases from 40 dB to 50 dB. By what factor does intensity increase?",["×2","×5","×10","×100"],2,"A 10 dB increase corresponds to a tenfold increase in intensity."),
+Q("ac9m10m02-p-013",13,"Interpreting logarithmic scales","pH decreases from 7 to 6. The hydrogen ion concentration:",["Halves","Doubles","Increases by a factor of 10","Increases by a factor of 100"],2,"A decrease of 1 pH unit means hydrogen ion concentration increases tenfold."),
+Q("ac9m10m02-p-014",14,"Interpreting logarithmic scales","On a base-10 logarithmic scale, moving right by one log unit means the represented quantity is:",["Increased by 10","Multiplied by 10","Divided by 10","Decreased by 10"],1,"A one-unit increase in log10 means a factor of 10 increase in the original quantity."),
+Q("ac9m10m02-p-015",15,"Interpreting logarithmic scales","log10(50) lies between:",["0 and 1","1 and 2","2 and 3","3 and 4"],1,"Since 10<50<100, its base-10 logarithm lies between 1 and 2."),
+Q("ac9m10m02-p-016",16,"Interpreting logarithmic scales","Evaluate log10(0.01).",["-1","-2","1","2"],1,"0.01=10^-2, so log10(0.01)=-2."),
+Q("ac9m10m02-p-017",17,"Interpreting logarithmic scales","A quantity increases from 10 to 1000. How much does its base-10 logarithm increase?",["1 unit","2 units","3 units","4 units"],1,"log10(10)=1 and log10(1000)=3, so the increase is 3-1=2 units."),
+Q("ac9m10m02-p-018",18,"Orders of magnitude","A bacteria count increases from 10^4 to 10^6. By what factor has it increased?",["×10","×100","×1000","×10,000"],1,"10^6/10^4=10^2=100."),
+Q("ac9m10m02-p-019",19,"Orders of magnitude","A quantity changes from 10^-3 to 10^-1. By what factor has it increased?",["×10","×100","×1000","×0.1"],1,"10^-1/10^-3=10^2=100."),
+Q("ac9m10m02-p-020",20,"Interpreting logarithmic scales","On a logarithmic scale, equal distances represent:",["Equal absolute change","Equal multiplicative change","Equal additive change","Equal linear change"],1,"Logarithmic spacing is based on ratios rather than differences."),
+Q("ac9m10m02-p-021",21,"Applying logarithmic scales","A sound level increases from 60 dB to 80 dB. By what factor does intensity increase?",["×2","×10","×100","×1000"],2,"A 20 dB increase corresponds to 10^(20/10)=100 times the intensity."),
+Q("ac9m10m02-p-022",22,"Applying logarithmic scales","A pH change from 8 to 5 means hydrogen ion concentration increases by:",["×3","×10","×100","×1000"],3,"A decrease of 3 pH units corresponds to a 10^3=1000-fold increase in hydrogen ion concentration."),
+Q("ac9m10m02-p-023",23,"Applying logarithmic scales","Which is the best approximation to log10(5000)?",["3.30","3.70","4.00","5.00"],1,"log10(5000)=log10(5)+3≈0.699+3=3.699≈3.70."),
+Q("ac9m10m02-p-024",24,"Applying logarithmic scales","log10(2) is approximately:",["0.1","0.2","0.3","0.5"],2,"log10(2)≈0.301.")];
+window.quizQuestions=window.skillrPracticeQuestions;

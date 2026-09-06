@@ -1,0 +1,460 @@
+FOUNDATION MATHS — AC9MFSP01
+Sort, name and create familiar shapes; recognise and describe familiar shapes within objects in the environment, giving reasons.
+
+Status: Frozen v1
+Note: Adult read-aloud support is expected for Foundation students.
+Production note: Use clear shape visuals/icons in the app for circle, triangle, square and rectangle items. Keep the focus on familiar shapes, obvious features, everyday objects and simple reasons.
+
+PRACTICE QUESTIONS 1–24
+
+PRACTICE 1
+Which shape is round?
+
+A. Triangle
+B. Square
+C. Circle
+
+Answer: C
+Explanation: A circle is round and has no corners.
+
+
+PRACTICE 2
+Which shape has 3 sides?
+
+A. Rectangle
+B. Circle
+C. Triangle
+
+Answer: C
+Explanation: A triangle has 3 sides.
+
+
+PRACTICE 3
+Which shape has 4 equal sides?
+
+A. Circle
+B. Triangle
+C. Square
+
+Answer: C
+Explanation: A square has 4 equal sides.
+
+
+PRACTICE 4
+Which shape looks like a door?
+
+A. Circle
+B. Triangle
+C. Rectangle
+
+Answer: C
+Explanation: A door is usually shaped like a rectangle.
+
+
+PRACTICE 5
+Which object is like a circle?
+
+A. Ball
+B. Book
+C. Plate
+
+Answer: C
+Explanation: A plate has a round circle face.
+
+
+PRACTICE 6
+Which object is like a rectangle?
+
+A. Orange
+B. Button
+C. Book
+
+Answer: C
+Explanation: A book often has a rectangle face.
+
+
+PRACTICE 7
+Which object is like a triangle?
+
+A. Clock face
+B. Lunchbox lid
+C. Sandwich cut in half
+
+Answer: C
+Explanation: A sandwich cut corner to corner can make triangle shapes.
+
+
+PRACTICE 8
+Which shape has corners?
+
+A. Circle
+B. Round ball
+C. Square
+
+Answer: C
+Explanation: A square has corners. A circle does not.
+
+
+PRACTICE 9
+Which shape does not have straight sides?
+
+A. Triangle
+B. Rectangle
+C. Circle
+
+Answer: C
+Explanation: A circle is curved and has no straight sides.
+
+
+PRACTICE 10
+Which two shapes belong together because both have 4 sides?
+
+A. Square and rectangle
+B. Circle and triangle
+C. Triangle and circle
+
+Answer: A
+Explanation: Squares and rectangles both have 4 sides.
+
+
+PRACTICE 11
+Which shape does not belong?
+
+circle, circle, square, circle
+
+A. First circle
+B. Last circle
+C. Square
+
+Answer: C
+Explanation: The square does not belong because the others are circles.
+
+
+PRACTICE 12
+Which shape does not belong?
+
+triangle, square, rectangle, circle
+
+A. Triangle
+B. Circle
+C. Rectangle
+
+Answer: B
+Explanation: The circle does not have straight sides or corners.
+
+
+PRACTICE 13
+Which group has only circles?
+
+A. plate, coin, wheel
+B. book, door, window
+C. roof, flag, sandwich
+
+Answer: A
+Explanation: A plate, coin and wheel are round like circles.
+
+
+PRACTICE 14
+Which group has only rectangles?
+
+A. ball, plate, coin
+B. book, phone, door
+C. cone, hat, roof
+
+Answer: B
+Explanation: A book, phone and door often have rectangle faces.
+
+
+PRACTICE 15
+Which shape could you make with 3 straight sticks?
+
+A. Triangle
+B. Circle
+C. Oval
+
+Answer: A
+Explanation: Three straight sticks can make a triangle.
+
+
+PRACTICE 16
+Which shape could you make with 4 equal straight sticks?
+
+A. Circle
+B. Square
+C. Triangle
+
+Answer: B
+Explanation: Four equal straight sticks can make a square.
+
+
+PRACTICE 17
+Which reason best describes a square?
+
+A. It has no corners.
+B. It has 3 sides.
+C. It has 4 equal sides.
+
+Answer: C
+Explanation: A square has 4 equal sides and 4 corners.
+
+
+PRACTICE 18
+Which reason best describes a circle?
+
+A. It is round.
+B. It has 4 corners.
+C. It has 3 sides.
+
+Answer: A
+Explanation: A circle is round and has no corners.
+
+
+PRACTICE 19
+A child sorts shapes into “round” and “not round”.
+Where should the circle go?
+
+A. Not round
+B. Round
+C. Both groups
+
+Answer: B
+Explanation: A circle belongs in the round group.
+
+
+PRACTICE 20
+A child sorts shapes into “has corners” and “no corners”.
+Where should the triangle go?
+
+A. Has corners
+B. No corners
+C. Round shapes
+
+Answer: A
+Explanation: A triangle has corners.
+
+
+PRACTICE 21
+Which object could be sorted with a ball?
+
+A. Orange
+B. Book
+C. Door
+
+Answer: A
+Explanation: An orange and a ball are both round objects.
+
+
+PRACTICE 22
+Which object could be sorted with a box?
+
+A. Coin
+B. Dice
+C. Plate
+
+Answer: B
+Explanation: A dice and a box have flat faces and corners.
+
+
+PRACTICE 23
+Which shape is best for drawing a simple house roof?
+
+A. Circle
+B. Triangle
+C. Rectangle
+
+Answer: B
+Explanation: A simple roof is often drawn as a triangle.
+
+
+PRACTICE 24
+Why could a window and a book be sorted together?
+
+A. Both are usually round.
+B. Both are usually rectangular.
+C. Both have no corners.
+
+Answer: B
+Explanation: A window and a book often have rectangle shapes.
+
+
+TEST QUESTIONS 1–16
+
+TEST 1
+Which shape has no corners?
+
+A. Circle
+B. Square
+C. Triangle
+
+Answer: A
+Explanation: A circle has no corners.
+
+
+TEST 2
+Which shape has 4 sides?
+
+A. Circle
+B. Rectangle
+C. Ball
+
+Answer: B
+Explanation: A rectangle has 4 sides.
+
+
+TEST 3
+Which object has a circle face?
+
+A. Clock
+B. Door
+C. Book
+
+Answer: A
+Explanation: Many clocks have a round circle face.
+
+
+TEST 4
+Which object is usually rectangular?
+
+A. Wheel
+B. Plate
+C. Door
+
+Answer: C
+Explanation: A door is usually shaped like a rectangle.
+
+
+TEST 5
+Which shape could be made with 3 sticks?
+
+A. Triangle
+B. Square
+C. Circle
+
+Answer: A
+Explanation: Three sticks can make a triangle.
+
+
+TEST 6
+Which shape could be made with 4 straight sides?
+
+A. Circle
+B. Rectangle
+C. Ball
+
+Answer: B
+Explanation: A rectangle has 4 straight sides.
+
+
+TEST 7
+Which shape does not belong?
+
+square, rectangle, circle, square
+
+A. Rectangle
+B. Circle
+C. First square
+
+Answer: B
+Explanation: The circle does not belong because the others have straight sides and corners.
+
+
+TEST 8
+Which group has only round objects?
+
+A. book, door, box
+B. wheel, coin, plate
+C. roof, sandwich, flag
+
+Answer: B
+Explanation: A wheel, coin and plate are round.
+
+
+TEST 9
+Which group has objects with corners?
+
+A. book, box, dice
+B. ball, orange, wheel
+C. coin, plate, hoop
+
+Answer: A
+Explanation: A book, box and dice have corners.
+
+
+TEST 10
+A child sorts shapes by “has 3 sides”.
+Which shape belongs?
+
+A. Circle
+B. Square
+C. Triangle
+
+Answer: C
+Explanation: A triangle has 3 sides.
+
+
+TEST 11
+A child sorts shapes by “round”.
+Which shape belongs?
+
+A. Circle
+B. Rectangle
+C. Triangle
+
+Answer: A
+Explanation: A circle is round.
+
+
+TEST 12
+Which reason best describes a rectangle?
+
+A. It has no sides.
+B. It has 4 sides.
+C. It is always round.
+
+Answer: B
+Explanation: A rectangle has 4 sides and 4 corners.
+
+
+TEST 13
+Which reason best describes a triangle?
+
+A. It has 3 sides.
+B. It has no corners.
+C. It is round.
+
+Answer: A
+Explanation: A triangle has 3 sides and 3 corners.
+
+
+TEST 14
+Which object could be sorted with a plate?
+
+A. Coin
+B. Door
+C. Book
+
+Answer: A
+Explanation: A coin and a plate are both round like circles.
+
+
+TEST 15
+Which object could be sorted with a door?
+
+A. Ball
+B. Book
+C. Orange
+
+Answer: B
+Explanation: A book and a door are often rectangular.
+
+
+TEST 16
+Why could a square and rectangle be sorted together?
+
+A. Both are round.
+B. Both have 4 sides.
+C. Both have 3 sides.
+
+Answer: B
+Explanation: A square and a rectangle both have 4 sides.
+

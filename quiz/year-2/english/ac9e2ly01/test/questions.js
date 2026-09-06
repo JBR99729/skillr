@@ -4,640 +4,498 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly01-t-001",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test penguin texts direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the garden is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the garden is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "A penguin tale shows a chick escaping a seal. A penguin report explains feathers, food and habitat. What information is only in the tale?",
+    "audioPrompt": "A penguin tale shows a chick escaping a seal. A penguin report explains feathers, food and habitat. What information is only in the tale?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      },
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      },
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      }
+      "the chick's escape from the seal",
+      "facts about penguin feathers",
+      "information about penguin habitats"
     ],
-    "correctIndex": 0,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 1,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The escape is a story event, while feathers and habitat are report facts.\nHint: Separate the imagined event from the grouped factual information.",
+    "structuredExplanation": {
+      "summary": "The escape is a story event, while feathers and habitat are report facts.",
+      "hint": "Separate the imagined event from the grouped factual information."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-002",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test garden map and article direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the beach is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the beach is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "A school-garden map labels the pond, beds and path. An article explains how students care for the garden. Which question can the map answer best?",
+    "audioPrompt": "A school-garden map labels the pond, beds and path. An article explains how students care for the garden. Which question can the map answer best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      },
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      },
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      }
+      "Why do students add compost?",
+      "Where is the pond compared with the path?",
+      "How often do students water seedlings?"
     ],
-    "correctIndex": 2,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 2,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "A map shows where features are located in relation to one another.\nHint: Choose the question about position, not reasons or routines.",
+    "structuredExplanation": {
+      "summary": "A map shows where features are located in relation to one another.",
+      "hint": "Choose the question about position, not reasons or routines."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-003",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test poem and warning direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the library is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the library is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "A storm poem repeats crashing sound words. A storm warning lists places to avoid. How are their purposes different?",
+    "audioPrompt": "A storm poem repeats crashing sound words. A storm warning lists places to avoid. How are their purposes different?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      },
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      },
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      }
+      "The poem gives official directions; the warning entertains with rhyme.",
+      "The poem explains storm causes; the warning shares a character's feelings.",
+      "The poem creates an experience; the warning gives safety advice."
     ],
-    "correctIndex": 1,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 3,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The poem uses language for an imaginative effect, while the warning supports safe action.\nHint: Ask what each text is trying to help its reader feel or do.",
+    "structuredExplanation": {
+      "summary": "The poem uses language for an imaginative effect, while the warning supports safe action.",
+      "hint": "Ask what each text is trying to help its reader feel or do."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-004",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test timetable and travel story direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the school fair is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the school fair is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "A bus timetable and a travel story both mention the number 8 bus. What can the timetable show that the story may not?",
+    "audioPrompt": "A bus timetable and a travel story both mention the number 8 bus. What can the timetable show that the story may not?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      },
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      },
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      }
+      "the planned arrival times at each stop",
+      "how the main character felt on the bus",
+      "the problem that changed the character"
     ],
-    "correctIndex": 0,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 4,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "A timetable presents scheduled times in a table for quick reference.\nHint: Look for information arranged by stops and times.",
+    "structuredExplanation": {
+      "summary": "A timetable presents scheduled times in a table for quick reference.",
+      "hint": "Look for information arranged by stops and times."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-005",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test brochure and recount direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the park is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the park is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "A bushwalk brochure has a map and brief track rules. A recount tells what happened on one family's walk. Which feature belongs mainly to the recount?",
+    "audioPrompt": "A bushwalk brochure has a map and brief track rules. A recount tells what happened on one family's walk. Which feature belongs mainly to the recount?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      },
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      },
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      }
+      "a map showing the track route",
+      "events told in the order the family experienced them",
+      "short rules for protecting the park"
     ],
-    "correctIndex": 2,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 5,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "A recount presents experienced events in time order.\nHint: Find the feature that tells a particular group's past experience.",
+    "structuredExplanation": {
+      "summary": "A recount presents experienced events in time order.",
+      "hint": "Find the feature that tells a particular group's past experience."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-006",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test water texts direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the museum is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the museum is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "One water-saving text uses facts and a labelled diagram. Another says, ‘Turn off the tap today!’ Which comparison is accurate?",
+    "audioPrompt": "One water-saving text uses facts and a labelled diagram. Another says, ‘Turn off the tap today!’ Which comparison is accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      },
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      },
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      }
+      "The first urges action; the second explains water use in detail.",
+      "Both texts explain water use in exactly the same way.",
+      "The first explains water use; the second urges readers to act."
     ],
-    "correctIndex": 1,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 6,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Both texts share a water-saving topic but use informative and persuasive presentations.\nHint: Compare the purpose shown by the diagram, facts and command.",
+    "structuredExplanation": {
+      "summary": "Both texts share a water-saving topic but use informative and persuasive presentations.",
+      "hint": "Compare the purpose shown by the diagram, facts and command."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-007",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test flood graph and report direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the classroom is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the classroom is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "A rainfall graph and a news report both cover a flood. Which detail is the graph best at showing?",
+    "audioPrompt": "A rainfall graph and a news report both cover a flood. Which detail is the graph best at showing?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      },
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      },
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      }
+      "how the rainfall amount changed across five days",
+      "what a resident said during the rescue",
+      "the order of one family's trip to safety"
     ],
-    "correctIndex": 0,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 7,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "A graph makes changes in recorded amounts across days easy to compare.\nHint: Choose information represented by values and time points.",
+    "structuredExplanation": {
+      "summary": "A graph makes changes in recorded amounts across days easy to compare.",
+      "hint": "Choose information represented by values and time points."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-008",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test animal poster and encyclopaedia direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the farm is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the farm is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "A koala poster uses one large image and four short facts. An encyclopaedia page uses sections and more detail. Why might the poster suit a hallway display?",
+    "audioPrompt": "A koala poster uses one large image and four short facts. An encyclopaedia page uses sections and more detail. Why might the poster suit a hallway display?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      },
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      },
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      }
+      "Its many detailed sections suit a long research task.",
+      "Its brief facts and large image can be understood quickly.",
+      "Its large image makes its facts more complete than the encyclopaedia."
     ],
-    "correctIndex": 2,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 8,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "A display poster presents selected information for quick viewing.\nHint: Consider where the text is used and how long readers may look at it.",
+    "structuredExplanation": {
+      "summary": "A display poster presents selected information for quick viewing.",
+      "hint": "Consider where the text is used and how long readers may look at it."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-009",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test penguin texts test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the market is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the market is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "A penguin tale shows a chick escaping a seal. A penguin report explains feathers, food and habitat. What information is only in the tale? Which reason best supports the correct choice?",
+    "audioPrompt": "A penguin tale shows a chick escaping a seal. A penguin report explains feathers, food and habitat. What information is only in the tale? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      },
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      },
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "The escape is a story event, while feathers and habitat are report facts."
     ],
-    "correctIndex": 1,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 9,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The escape is a story event, while feathers and habitat are report facts.\nHint: Separate the imagined event from the grouped factual information.",
+    "structuredExplanation": {
+      "summary": "The escape is a story event, while feathers and habitat are report facts.",
+      "hint": "Separate the imagined event from the grouped factual information."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-010",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test garden map and article test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the bus stop is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the bus stop is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "A school-garden map labels the pond, beds and path. An article explains how students care for the garden. Which question can the map answer best? Which reason best supports the correct choice?",
+    "audioPrompt": "A school-garden map labels the pond, beds and path. An article explains how students care for the garden. Which question can the map answer best? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      },
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      },
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      }
+      "A map shows where features are located in relation to one another.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 0,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 10,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "A map shows where features are located in relation to one another.\nHint: Choose the question about position, not reasons or routines.",
+    "structuredExplanation": {
+      "summary": "A map shows where features are located in relation to one another.",
+      "hint": "Choose the question about position, not reasons or routines."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-011",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test poem and warning test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the sports day is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the sports day is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "A storm poem repeats crashing sound words. A storm warning lists places to avoid. How are their purposes different? Which reason best supports the correct choice?",
+    "audioPrompt": "A storm poem repeats crashing sound words. A storm warning lists places to avoid. How are their purposes different? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      },
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      },
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The poem uses language for an imaginative effect, while the warning supports safe action.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 2,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 11,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "The poem uses language for an imaginative effect, while the warning supports safe action.\nHint: Ask what each text is trying to help its reader feel or do.",
+    "structuredExplanation": {
+      "summary": "The poem uses language for an imaginative effect, while the warning supports safe action.",
+      "hint": "Ask what each text is trying to help its reader feel or do."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-012",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test timetable and travel story test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the rainy walk is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the rainy walk is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "A bus timetable and a travel story both mention the number 8 bus. What can the timetable show that the story may not? Which reason best supports the correct choice?",
+    "audioPrompt": "A bus timetable and a travel story both mention the number 8 bus. What can the timetable show that the story may not? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      },
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      },
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "A timetable presents scheduled times in a table for quick reference."
     ],
-    "correctIndex": 1,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 12,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "A timetable presents scheduled times in a table for quick reference.\nHint: Look for information arranged by stops and times.",
+    "structuredExplanation": {
+      "summary": "A timetable presents scheduled times in a table for quick reference.",
+      "hint": "Look for information arranged by stops and times."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-013",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test brochure and recount test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the garden is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the garden is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "A bushwalk brochure has a map and brief track rules. A recount tells what happened on one family's walk. Which feature belongs mainly to the recount? Which reason best supports the correct choice?",
+    "audioPrompt": "A bushwalk brochure has a map and brief track rules. A recount tells what happened on one family's walk. Which feature belongs mainly to the recount? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      },
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      },
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      }
+      "A recount presents experienced events in time order.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 0,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 13,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "A recount presents experienced events in time order.\nHint: Find the feature that tells a particular group's past experience.",
+    "structuredExplanation": {
+      "summary": "A recount presents experienced events in time order.",
+      "hint": "Find the feature that tells a particular group's past experience."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-014",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "compare texts",
+    "skill": "test water texts test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "One text about the beach is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "audioPrompt": "One text about the beach is a poster with times and prices. Another is a story about a child visiting. How are they different?",
-    "visual": {
+    "type": "single",
+    "question": "One water-saving text uses facts and a labelled diagram. Another says, ‘Turn off the tap today!’ Which comparison is accurate? Which reason best supports the correct choice?",
+    "audioPrompt": "One water-saving text uses facts and a labelled diagram. Another says, ‘Turn off the tap today!’ Which comparison is accurate? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Both are only lists of rhyming words.",
-        "is_correct": false
-      },
-      {
-        "text": "The story is an index and the poster is a chapter.",
-        "is_correct": false
-      },
-      {
-        "text": "The poster gives facts quickly; the story tells events.",
-        "is_correct": true
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "Both texts share a water-saving topic but use informative and persuasive presentations.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 2,
-    "explanation": "Similar topics can be presented differently in different text types.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 14,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "Both texts share a water-saving topic but use informative and persuasive presentations.\nHint: Compare the purpose shown by the diagram, facts and command.",
+    "structuredExplanation": {
+      "summary": "Both texts share a water-saving topic but use informative and persuasive presentations.",
+      "hint": "Compare the purpose shown by the diagram, facts and command."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-015",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "explain concept",
+    "skill": "test flood graph and report test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LY01. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LY01. Use your own example.",
-    "visual": {
+    "type": "single",
+    "question": "A rainfall graph and a news report both cover a flood. Which detail is the graph best at showing? Which reason best supports the correct choice?",
+    "audioPrompt": "A rainfall graph and a news report both cover a flood. Which detail is the graph best at showing? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "A graph makes changes in recorded amounts across days easy to compare."
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Similar Topics in Different Texts.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "stretch",
+    "difficultyTier": "application",
     "sequencePriority": 15,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Similar Topics in Different Texts.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "correct": 2,
+    "explanation": "A graph makes changes in recorded amounts across days easy to compare.\nHint: Choose information represented by values and time points.",
+    "structuredExplanation": {
+      "summary": "A graph makes changes in recorded amounts across days easy to compare.",
+      "hint": "Choose information represented by values and time points."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly01-t-016",
     "curriculumCode": "AC9E2LY01",
     "bank": "test",
-    "skill": "apply concept",
+    "skill": "test animal poster and encyclopaedia test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LY01, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LY01, then explain the answer.",
-    "visual": {
+    "type": "single",
+    "question": "A koala poster uses one large image and four short facts. An encyclopaedia page uses sections and more detail. Why might the poster suit a hallway display? Which reason best supports the correct choice?",
+    "audioPrompt": "A koala poster uses one large image and four short facts. An encyclopaedia page uses sections and more detail. Why might the poster suit a hallway display? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
-      }
+      "A display poster presents selected information for quick viewing.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "stretch",
+    "difficultyTier": "application",
     "sequencePriority": 16,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "correct": 0,
+    "explanation": "A display poster presents selected information for quick viewing.\nHint: Consider where the text is used and how long readers may look at it.",
+    "structuredExplanation": {
+      "summary": "A display poster presents selected information for quick viewing.",
+      "hint": "Consider where the text is used and how long readers may look at it."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

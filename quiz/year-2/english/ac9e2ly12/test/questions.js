@@ -4,640 +4,498 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly12-t-001",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test prefix re direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "What does reread mean?",
-    "audioPrompt": "What does reread mean?",
-    "visual": {
+    "type": "single",
+    "question": "Mia reads a page again. Which word uses a prefix to name this action?",
+    "audioPrompt": "Mia reads a page again. Which word uses a prefix to name this action?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "read again",
-        "is_correct": true
-      },
-      {
-        "text": "read before",
-        "is_correct": false
-      },
-      {
-        "text": "read badly",
-        "is_correct": false
-      }
+      "reader",
+      "reading",
+      "reread"
     ],
-    "correctIndex": 0,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 1,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The prefix re adds the meaning again to the base read.\nHint: Choose the affix that comes before the base and means again.",
+    "structuredExplanation": {
+      "summary": "The prefix re adds the meaning again to the base read.",
+      "hint": "Choose the affix that comes before the base and means again."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-002",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test suffix less direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "What does misplace mean?",
-    "audioPrompt": "What does misplace mean?",
-    "visual": {
+    "type": "single",
+    "question": "Which word means without hope?",
+    "audioPrompt": "Which word means without hope?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "place again",
-        "is_correct": false
-      },
-      {
-        "text": "place before",
-        "is_correct": false
-      },
-      {
-        "text": "place wrongly",
-        "is_correct": true
-      }
+      "hopeless",
+      "hopeful",
+      "rehoped"
     ],
-    "correctIndex": 2,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 2,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The suffix less adds the meaning without to the base hope.\nHint: Match without with the suffix less.",
+    "structuredExplanation": {
+      "summary": "The suffix less adds the meaning without to the base hope.",
+      "hint": "Match without with the suffix less."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-003",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test build teacher direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Which word means full of care?",
-    "audioPrompt": "Which word means full of care?",
-    "visual": {
+    "type": "single",
+    "question": "Which word means a person who teaches?",
+    "audioPrompt": "Which word means a person who teaches?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "caringly",
-        "is_correct": false
-      },
-      {
-        "text": "careful",
-        "is_correct": true
-      },
-      {
-        "text": "careless",
-        "is_correct": false
-      }
+      "teaching",
+      "teacher",
+      "reteach"
     ],
-    "correctIndex": 1,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 3,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "The suffix er changes teach into a noun for the person doing the action.\nHint: Find the suffix that can mean a person who does something.",
+    "structuredExplanation": {
+      "summary": "The suffix er changes teach into a noun for the person doing the action.",
+      "hint": "Find the suffix that can mean a person who does something."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-004",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test prefix meaning direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Make the regular plural of box.",
-    "audioPrompt": "Make the regular plural of box.",
-    "visual": {
+    "type": "single",
+    "question": "What does the prefix dis add in disagree?",
+    "audioPrompt": "What does the prefix dis add in disagree?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "boxes",
-        "is_correct": true
-      },
-      {
-        "text": "boxs",
-        "is_correct": false
-      },
-      {
-        "text": "boxies",
-        "is_correct": false
-      }
+      "the meaning agree many times",
+      "the meaning a person who agrees",
+      "the meaning not or the opposite of agreeing"
     ],
-    "correctIndex": 0,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 4,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Dis changes agree to mean not having the same opinion.\nHint: Compare the meanings of agree and disagree.",
+    "structuredExplanation": {
+      "summary": "Dis changes agree to mean not having the same opinion.",
+      "hint": "Compare the meanings of agree and disagree."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-005",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test superlative suffix direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "What does reread mean?",
-    "audioPrompt": "What does reread mean?",
-    "visual": {
+    "type": "single",
+    "question": "Three towers are tall, taller and tallest. Which suffix shows the greatest amount?",
+    "audioPrompt": "Three towers are tall, taller and tallest. Which suffix shows the greatest amount?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "read before",
-        "is_correct": false
-      },
-      {
-        "text": "read badly",
-        "is_correct": false
-      },
-      {
-        "text": "read again",
-        "is_correct": true
-      }
+      "est",
+      "er",
+      "ed"
     ],
-    "correctIndex": 2,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 5,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The suffix est in tallest marks the greatest degree among the towers.\nHint: Look at the ending on the word describing the highest tower.",
+    "structuredExplanation": {
+      "summary": "The suffix est in tallest marks the greatest degree among the towers.",
+      "hint": "Look at the ending on the word describing the highest tower."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-006",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test reject a false family direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "What does misplace mean?",
-    "audioPrompt": "What does misplace mean?",
-    "visual": {
+    "type": "single",
+    "question": "Why does worm not belong in the work word family?",
+    "audioPrompt": "Why does worm not belong in the work word family?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "place before",
-        "is_correct": false
-      },
-      {
-        "text": "place wrongly",
-        "is_correct": true
-      },
-      {
-        "text": "place again",
-        "is_correct": false
-      }
+      "Worm does not rhyme exactly with work.",
+      "Worm does not contain the meaningful base work.",
+      "Family words must begin with work and keep the same ending sound."
     ],
-    "correctIndex": 1,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 6,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "Similar first letters do not create a morphemic family when the base and meaning differ.\nHint: Check for a complete shared base with a connected meaning.",
+    "structuredExplanation": {
+      "summary": "Similar first letters do not create a morphemic family when the base and meaning differ.",
+      "hint": "Check for a complete shared base with a connected meaning."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-007",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test prefix pre direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Which word means full of care?",
-    "audioPrompt": "Which word means full of care?",
-    "visual": {
+    "type": "single",
+    "question": "The oven must heat before the food goes in. Which word uses a prefix to name this action?",
+    "audioPrompt": "The oven must heat before the food goes in. Which word uses a prefix to name this action?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "careful",
-        "is_correct": true
-      },
-      {
-        "text": "careless",
-        "is_correct": false
-      },
-      {
-        "text": "caringly",
-        "is_correct": false
-      }
+      "reheat",
+      "heater",
+      "preheat"
     ],
-    "correctIndex": 0,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 7,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The prefix pre adds the meaning before to the base heat.\nHint: Match the timing clue before with the prefix.",
+    "structuredExplanation": {
+      "summary": "The prefix pre adds the meaning before to the base heat.",
+      "hint": "Match the timing clue before with the prefix."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-008",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test suffix ly direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Make the regular plural of box.",
-    "audioPrompt": "Make the regular plural of box.",
-    "visual": {
+    "type": "single",
+    "question": "A turtle moves in a slow way. Which word adds a suffix to describe how it moves?",
+    "audioPrompt": "A turtle moves in a slow way. Which word adds a suffix to describe how it moves?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "boxs",
-        "is_correct": false
-      },
-      {
-        "text": "boxies",
-        "is_correct": false
-      },
-      {
-        "text": "boxes",
-        "is_correct": true
-      }
+      "slowly",
+      "slower",
+      "slowest"
     ],
-    "correctIndex": 2,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 8,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The suffix ly changes slow into an adverb describing how the turtle moves.\nHint: Choose the ending that means in this way.",
+    "structuredExplanation": {
+      "summary": "The suffix ly changes slow into an adverb describing how the turtle moves.",
+      "hint": "Choose the ending that means in this way."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-009",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test prefix re test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "What does reread mean?",
-    "audioPrompt": "What does reread mean?",
-    "visual": {
+    "type": "single",
+    "question": "Mia reads a page again. Which word uses a prefix to name this action? Which reason best supports the correct choice?",
+    "audioPrompt": "Mia reads a page again. Which word uses a prefix to name this action? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "read badly",
-        "is_correct": false
-      },
-      {
-        "text": "read again",
-        "is_correct": true
-      },
-      {
-        "text": "read before",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The prefix re adds the meaning again to the base read.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 1,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 9,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "The prefix re adds the meaning again to the base read.\nHint: Choose the affix that comes before the base and means again.",
+    "structuredExplanation": {
+      "summary": "The prefix re adds the meaning again to the base read.",
+      "hint": "Choose the affix that comes before the base and means again."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-010",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test suffix less test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "What does misplace mean?",
-    "audioPrompt": "What does misplace mean?",
-    "visual": {
+    "type": "single",
+    "question": "Which word means without hope? Which reason best supports the correct choice?",
+    "audioPrompt": "Which word means without hope? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "place wrongly",
-        "is_correct": true
-      },
-      {
-        "text": "place again",
-        "is_correct": false
-      },
-      {
-        "text": "place before",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "The suffix less adds the meaning without to the base hope."
     ],
-    "correctIndex": 0,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 10,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The suffix less adds the meaning without to the base hope.\nHint: Match without with the suffix less.",
+    "structuredExplanation": {
+      "summary": "The suffix less adds the meaning without to the base hope.",
+      "hint": "Match without with the suffix less."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-011",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test build teacher test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Which word means full of care?",
-    "audioPrompt": "Which word means full of care?",
-    "visual": {
+    "type": "single",
+    "question": "Which word means a person who teaches? Which reason best supports the correct choice?",
+    "audioPrompt": "Which word means a person who teaches? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "careless",
-        "is_correct": false
-      },
-      {
-        "text": "caringly",
-        "is_correct": false
-      },
-      {
-        "text": "careful",
-        "is_correct": true
-      }
+      "The suffix er changes teach into a noun for the person doing the action.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 2,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 11,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The suffix er changes teach into a noun for the person doing the action.\nHint: Find the suffix that can mean a person who does something.",
+    "structuredExplanation": {
+      "summary": "The suffix er changes teach into a noun for the person doing the action.",
+      "hint": "Find the suffix that can mean a person who does something."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-012",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test prefix meaning test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Make the regular plural of box.",
-    "audioPrompt": "Make the regular plural of box.",
-    "visual": {
+    "type": "single",
+    "question": "What does the prefix dis add in disagree? Which reason best supports the correct choice?",
+    "audioPrompt": "What does the prefix dis add in disagree? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "boxies",
-        "is_correct": false
-      },
-      {
-        "text": "boxes",
-        "is_correct": true
-      },
-      {
-        "text": "boxs",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "Dis changes agree to mean not having the same opinion.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 1,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 12,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "Dis changes agree to mean not having the same opinion.\nHint: Compare the meanings of agree and disagree.",
+    "structuredExplanation": {
+      "summary": "Dis changes agree to mean not having the same opinion.",
+      "hint": "Compare the meanings of agree and disagree."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-013",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test superlative suffix test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "What does reread mean?",
-    "audioPrompt": "What does reread mean?",
-    "visual": {
+    "type": "single",
+    "question": "Three towers are tall, taller and tallest. Which suffix shows the greatest amount? Which reason best supports the correct choice?",
+    "audioPrompt": "Three towers are tall, taller and tallest. Which suffix shows the greatest amount? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "read again",
-        "is_correct": true
-      },
-      {
-        "text": "read before",
-        "is_correct": false
-      },
-      {
-        "text": "read badly",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "The suffix est in tallest marks the greatest degree among the towers."
     ],
-    "correctIndex": 0,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 13,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The suffix est in tallest marks the greatest degree among the towers.\nHint: Look at the ending on the word describing the highest tower.",
+    "structuredExplanation": {
+      "summary": "The suffix est in tallest marks the greatest degree among the towers.",
+      "hint": "Look at the ending on the word describing the highest tower."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-014",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "morphemes",
+    "skill": "test reject a false family test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "What does misplace mean?",
-    "audioPrompt": "What does misplace mean?",
-    "visual": {
+    "type": "single",
+    "question": "Why does worm not belong in the work word family? Which reason best supports the correct choice?",
+    "audioPrompt": "Why does worm not belong in the work word family? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "place again",
-        "is_correct": false
-      },
-      {
-        "text": "place before",
-        "is_correct": false
-      },
-      {
-        "text": "place wrongly",
-        "is_correct": true
-      }
+      "Similar first letters do not create a morphemic family when the base and meaning differ.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 2,
-    "explanation": "Prefixes, suffixes and endings change word meaning or grammar.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 14,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "Similar first letters do not create a morphemic family when the base and meaning differ.\nHint: Check for a complete shared base with a connected meaning.",
+    "structuredExplanation": {
+      "summary": "Similar first letters do not create a morphemic family when the base and meaning differ.",
+      "hint": "Check for a complete shared base with a connected meaning."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-015",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "explain concept",
+    "skill": "test prefix pre test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LY12. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LY12. Use your own example.",
-    "visual": {
+    "type": "single",
+    "question": "The oven must heat before the food goes in. Which word uses a prefix to name this action? Which reason best supports the correct choice?",
+    "audioPrompt": "The oven must heat before the food goes in. Which word uses a prefix to name this action? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The prefix pre adds the meaning before to the base heat.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Morphemic Word Families.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "stretch",
+    "difficultyTier": "application",
     "sequencePriority": 15,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Morphemic Word Families.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "correct": 1,
+    "explanation": "The prefix pre adds the meaning before to the base heat.\nHint: Match the timing clue before with the prefix.",
+    "structuredExplanation": {
+      "summary": "The prefix pre adds the meaning before to the base heat.",
+      "hint": "Match the timing clue before with the prefix."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly12-t-016",
     "curriculumCode": "AC9E2LY12",
     "bank": "test",
-    "skill": "apply concept",
+    "skill": "test suffix ly test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LY12, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LY12, then explain the answer.",
-    "visual": {
+    "type": "single",
+    "question": "A turtle moves in a slow way. Which word adds a suffix to describe how it moves? Which reason best supports the correct choice?",
+    "audioPrompt": "A turtle moves in a slow way. Which word adds a suffix to describe how it moves? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "The suffix ly changes slow into an adverb describing how the turtle moves."
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "stretch",
+    "difficultyTier": "application",
     "sequencePriority": 16,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "correct": 2,
+    "explanation": "The suffix ly changes slow into an adverb describing how the turtle moves.\nHint: Choose the ending that means in this way.",
+    "structuredExplanation": {
+      "summary": "The suffix ly changes slow into an adverb describing how the turtle moves.",
+      "hint": "Choose the ending that means in this way."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

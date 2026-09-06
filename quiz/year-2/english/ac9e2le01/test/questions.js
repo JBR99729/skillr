@@ -4,640 +4,498 @@ window.skillrTestQuestions = [
     "id": "ac9e2le01-t-001",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "character changes setting direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "A child plants shade trees in a bare schoolyard. How are character and setting connected?",
+    "audioPrompt": "A child plants shade trees in a bare schoolyard. How are character and setting connected?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "determined",
-        "is_correct": true
-      },
-      {
-        "text": "bored",
-        "is_correct": false
-      },
-      {
-        "text": "greedy",
-        "is_correct": false
-      }
+      "The character plants trees because a friend likes gardening.",
+      "The hot schoolyard motivates the character to plant shade trees.",
+      "The schoolyard becomes cooler before the character plants anything."
     ],
-    "correctIndex": 0,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 1,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "The hot, bare setting motivates the character to plant shade trees.\nHint: Connect the problem in the place with the character's response.",
+    "structuredExplanation": {
+      "summary": "The hot, bare setting motivates the character to plant shade trees.",
+      "hint": "Connect the problem in the place with the character's response."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-002",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "wetland knowledge guides action direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "In a story, Uncle teaches Jai to watch waterbird nests from the marked path. What guides Jai's action?",
+    "audioPrompt": "In a story, Uncle teaches Jai to watch waterbird nests from the marked path. What guides Jai's action?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "busy",
-        "is_correct": false
-      },
-      {
-        "text": "sunny",
-        "is_correct": false
-      },
-      {
-        "text": "mysterious",
-        "is_correct": true
-      }
+      "Jai's idea that moving closer will always improve the view",
+      "one watching rule that Jai assumes suits every wetland",
+      "Uncle's knowledge and care for that particular wetland"
     ],
-    "correctIndex": 2,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 2,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Jai follows knowledge shared for that particular wetland and its nesting birds.\nHint: Stay with the people, place and knowledge shown in the story.",
+    "structuredExplanation": {
+      "summary": "Jai follows knowledge shared for that particular wetland and its nesting birds.",
+      "hint": "Stay with the people, place and knowledge shown in the story."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-003",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "heat changes a journey direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "A character plans to cross an open plain at midday. The day becomes extremely hot. Which change makes sense?",
+    "audioPrompt": "A character plans to cross an open plain at midday. The day becomes extremely hot. Which change makes sense?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "angry",
-        "is_correct": false
-      },
-      {
-        "text": "kind",
-        "is_correct": true
-      },
-      {
-        "text": "forgetful",
-        "is_correct": false
-      }
+      "travel earlier and rest in shade at midday",
+      "wear a thicker coat but keep travelling at midday",
+      "follow the original plan because the time was already chosen"
     ],
-    "correctIndex": 1,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 3,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The extreme heat changes when the character can travel safely.\nHint: Use the new condition in the setting to revise the plan.",
+    "structuredExplanation": {
+      "summary": "The extreme heat changes when the character can travel safely.",
+      "hint": "Use the new condition in the setting to revise the plan."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-004",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "home place shapes memory direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "A character smells bread from the corner bakery and remembers cooking with Grandpa. What connects the character and setting?",
+    "audioPrompt": "A character smells bread from the corner bakery and remembers cooking with Grandpa. What connects the character and setting?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "setting affects events",
-        "is_correct": true
-      },
-      {
-        "text": "title has commas",
-        "is_correct": false
-      },
-      {
-        "text": "word has a suffix",
-        "is_correct": false
-      }
+      "the smell matters because the character must be planning to buy bread",
+      "the familiar bakery smell brings back a family memory",
+      "the bakery must be the same kitchen where the character cooked with Grandpa"
     ],
-    "correctIndex": 0,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 4,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "A sensory detail in the familiar setting prompts the character's memory.\nHint: Link the smell and place with what the character recalls without adding an event.",
+    "structuredExplanation": {
+      "summary": "A sensory detail in the familiar setting prompts the character's memory.",
+      "hint": "Link the smell and place with what the character recalls without adding an event."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-005",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "creators present places differently direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "One story shows a harbour through a fisher's daily work. Another shows it through a visitor's first trip. Why might the settings feel different?",
+    "audioPrompt": "One story shows a harbour through a fisher's daily work. Another shows it through a visitor's first trip. Why might the settings feel different?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "bored",
-        "is_correct": false
-      },
-      {
-        "text": "greedy",
-        "is_correct": false
-      },
-      {
-        "text": "determined",
-        "is_correct": true
-      }
+      "the harbour physically changes to match whoever looks at it",
+      "the visitor must notice the same details once the fisher explains them",
+      "the characters notice the harbour through different experiences"
     ],
-    "correctIndex": 2,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 5,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "A fisher and a first-time visitor bring different experiences to the same kind of setting.\nHint: Consider what each character knows and notices.",
+    "structuredExplanation": {
+      "summary": "A fisher and a first-time visitor bring different experiences to the same kind of setting.",
+      "hint": "Consider what each character knows and notices."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-006",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "cyclone shelter decision direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "A story family hears a cyclone warning and shutters the windows. What does the setting cause them to do next?",
+    "audioPrompt": "A story family hears a cyclone warning and shutters the windows. What does the setting cause them to do next?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "sunny",
-        "is_correct": false
-      },
-      {
-        "text": "mysterious",
-        "is_correct": true
-      },
-      {
-        "text": "busy",
-        "is_correct": false
-      }
+      "move to their prepared safe room",
+      "stay beside a window so they can keep watching the storm",
+      "finish packing the outdoor picnic before following the safety plan"
     ],
-    "correctIndex": 1,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 6,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The cyclone warning and shutters show that the family needs to follow its safety plan promptly.\nHint: Predict the immediate action supported by the dangerous weather clues.",
+    "structuredExplanation": {
+      "summary": "The cyclone warning and shutters show that the family needs to follow its safety plan promptly.",
+      "hint": "Predict the immediate action supported by the dangerous weather clues."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-007",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "respectful text comparison direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "A class reads two books by named First Nations creators from different Nations. Which comment is respectful?",
+    "audioPrompt": "A class reads two books by named First Nations creators from different Nations. Which comment is respectful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "kind",
-        "is_correct": true
-      },
-      {
-        "text": "forgetful",
-        "is_correct": false
-      },
-      {
-        "text": "angry",
-        "is_correct": false
-      }
+      "Both books must teach the same ideas because the creators are First Nations.",
+      "Each creator shares a particular story, so we should discuss each book's own details.",
+      "We can add cultural meanings that neither creator included."
     ],
-    "correctIndex": 0,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 7,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "First Nations texts should be discussed as specific works by specific creators, not treated as one shared viewpoint.\nHint: Name the text evidence and avoid broad cultural claims.",
+    "structuredExplanation": {
+      "summary": "First Nations texts should be discussed as specific works by specific creators, not treated as one shared viewpoint.",
+      "hint": "Name the text evidence and avoid broad cultural claims."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-008",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "setting changes a goal direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "A market closes early when heavy rain floods the street. How could this change the main character's goal?",
+    "audioPrompt": "A market closes early when heavy rain floods the street. How could this change the main character's goal?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "title has commas",
-        "is_correct": false
-      },
-      {
-        "text": "word has a suffix",
-        "is_correct": false
-      },
-      {
-        "text": "setting affects events",
-        "is_correct": true
-      }
+      "The character keeps the usual route because the delivery address has not changed.",
+      "The character keeps walking through deep water because the goal matters more than safety.",
+      "The character must find another safe way to deliver the parcel."
     ],
-    "correctIndex": 2,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 8,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The flooded market creates an obstacle that requires a new, safe plan.\nHint: Connect the changed place with a safe change in the character's actions.",
+    "structuredExplanation": {
+      "summary": "The flooded market creates an obstacle that requires a new, safe plan.",
+      "hint": "Connect the changed place with a safe change in the character's actions."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-009",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "character changes setting test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "A child plants shade trees in a bare schoolyard. How are character and setting connected? Which reason best supports the correct choice?",
+    "audioPrompt": "A child plants shade trees in a bare schoolyard. How are character and setting connected? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "greedy",
-        "is_correct": false
-      },
-      {
-        "text": "determined",
-        "is_correct": true
-      },
-      {
-        "text": "bored",
-        "is_correct": false
-      }
+      "The hot, bare setting motivates the character to plant shade trees.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 1,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 9,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The hot, bare setting motivates the character to plant shade trees.\nHint: Connect the problem in the place with the character's response.",
+    "structuredExplanation": {
+      "summary": "The hot, bare setting motivates the character to plant shade trees.",
+      "hint": "Connect the problem in the place with the character's response."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-010",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "wetland knowledge guides action test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "In a story, Uncle teaches Jai to watch waterbird nests from the marked path. What guides Jai's action? Which reason best supports the correct choice?",
+    "audioPrompt": "In a story, Uncle teaches Jai to watch waterbird nests from the marked path. What guides Jai's action? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "mysterious",
-        "is_correct": true
-      },
-      {
-        "text": "busy",
-        "is_correct": false
-      },
-      {
-        "text": "sunny",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "Jai follows knowledge shared for that particular wetland and its nesting birds.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 0,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 10,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "Jai follows knowledge shared for that particular wetland and its nesting birds.\nHint: Stay with the people, place and knowledge shown in the story.",
+    "structuredExplanation": {
+      "summary": "Jai follows knowledge shared for that particular wetland and its nesting birds.",
+      "hint": "Stay with the people, place and knowledge shown in the story."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-011",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "heat changes a journey test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Tom shares his last biscuit with a new student. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "A character plans to cross an open plain at midday. The day becomes extremely hot. Which change makes sense? Which reason best supports the correct choice?",
+    "audioPrompt": "A character plans to cross an open plain at midday. The day becomes extremely hot. Which change makes sense? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "forgetful",
-        "is_correct": false
-      },
-      {
-        "text": "angry",
-        "is_correct": false
-      },
-      {
-        "text": "kind",
-        "is_correct": true
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "The extreme heat changes when the character can travel safely."
     ],
-    "correctIndex": 2,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 11,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The extreme heat changes when the character can travel safely.\nHint: Use the new condition in the setting to revise the plan.",
+    "structuredExplanation": {
+      "summary": "The extreme heat changes when the character can travel safely.",
+      "hint": "Use the new condition in the setting to revise the plan."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-012",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "home place shapes memory test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The story happens beside a dry creek after weeks without rain. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "A character smells bread from the corner bakery and remembers cooking with Grandpa. What connects the character and setting? Which reason best supports the correct choice?",
+    "audioPrompt": "A character smells bread from the corner bakery and remembers cooking with Grandpa. What connects the character and setting? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "word has a suffix",
-        "is_correct": false
-      },
-      {
-        "text": "setting affects events",
-        "is_correct": true
-      },
-      {
-        "text": "title has commas",
-        "is_correct": false
-      }
+      "A sensory detail in the familiar setting prompts the character's memory.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 1,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 12,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "A sensory detail in the familiar setting prompts the character's memory.\nHint: Link the smell and place with what the character recalls without adding an event.",
+    "structuredExplanation": {
+      "summary": "A sensory detail in the familiar setting prompts the character's memory.",
+      "hint": "Link the smell and place with what the character recalls without adding an event."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-013",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "creators present places differently test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: Nala whispers, “I can fix it,” and studies the broken kite. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "One story shows a harbour through a fisher's daily work. Another shows it through a visitor's first trip. Why might the settings feel different? Which reason best supports the correct choice?",
+    "audioPrompt": "One story shows a harbour through a fisher's daily work. Another shows it through a visitor's first trip. Why might the settings feel different? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "determined",
-        "is_correct": true
-      },
-      {
-        "text": "bored",
-        "is_correct": false
-      },
-      {
-        "text": "greedy",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "A fisher and a first-time visitor bring different experiences to the same kind of setting.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 0,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 13,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "A fisher and a first-time visitor bring different experiences to the same kind of setting.\nHint: Consider what each character knows and notices.",
+    "structuredExplanation": {
+      "summary": "A fisher and a first-time visitor bring different experiences to the same kind of setting.",
+      "hint": "Consider what each character knows and notices."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-014",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "literary features",
+    "skill": "cyclone shelter decision test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "audioPrompt": "Read the detail: The cave is cold, dark and echoing. What is the best idea to discuss?",
-    "visual": {
+    "type": "single",
+    "question": "A story family hears a cyclone warning and shutters the windows. What does the setting cause them to do next? Which reason best supports the correct choice?",
+    "audioPrompt": "A story family hears a cyclone warning and shutters the windows. What does the setting cause them to do next? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "busy",
-        "is_correct": false
-      },
-      {
-        "text": "sunny",
-        "is_correct": false
-      },
-      {
-        "text": "mysterious",
-        "is_correct": true
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "The cyclone warning and shutters show that the family needs to follow its safety plan promptly."
     ],
-    "correctIndex": 2,
-    "explanation": "Actions, dialogue and setting details help readers discuss characters, settings and preferences.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 14,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The cyclone warning and shutters show that the family needs to follow its safety plan promptly.\nHint: Predict the immediate action supported by the dangerous weather clues.",
+    "structuredExplanation": {
+      "summary": "The cyclone warning and shutters show that the family needs to follow its safety plan promptly.",
+      "hint": "Predict the immediate action supported by the dangerous weather clues."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-015",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "explain concept",
+    "skill": "respectful text comparison test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LE01. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LE01. Use your own example.",
-    "visual": {
+    "type": "single",
+    "question": "A class reads two books by named First Nations creators from different Nations. Which comment is respectful? Which reason best supports the correct choice?",
+    "audioPrompt": "A class reads two books by named First Nations creators from different Nations. Which comment is respectful? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
-      }
+      "First Nations texts should be discussed as specific works by specific creators, not treated as one shared viewpoint.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Characters and Settings Across Literature.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "stretch",
+    "difficultyTier": "application",
     "sequencePriority": 15,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Characters and Settings Across Literature.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "correct": 0,
+    "explanation": "First Nations texts should be discussed as specific works by specific creators, not treated as one shared viewpoint.\nHint: Name the text evidence and avoid broad cultural claims.",
+    "structuredExplanation": {
+      "summary": "First Nations texts should be discussed as specific works by specific creators, not treated as one shared viewpoint.",
+      "hint": "Name the text evidence and avoid broad cultural claims."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le01-t-016",
     "curriculumCode": "AC9E2LE01",
     "bank": "test",
-    "skill": "apply concept",
+    "skill": "setting changes a goal test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LE01, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LE01, then explain the answer.",
-    "visual": {
+    "type": "single",
+    "question": "A market closes early when heavy rain floods the street. How could this change the main character's goal? Which reason best supports the correct choice?",
+    "audioPrompt": "A market closes early when heavy rain floods the street. How could this change the main character's goal? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The flooded market creates an obstacle that requires a new, safe plan.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "stretch",
+    "difficultyTier": "application",
     "sequencePriority": 16,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "correct": 1,
+    "explanation": "The flooded market creates an obstacle that requires a new, safe plan.\nHint: Connect the changed place with a safe change in the character's actions.",
+    "structuredExplanation": {
+      "summary": "The flooded market creates an obstacle that requires a new, safe plan.",
+      "hint": "Connect the changed place with a safe change in the character's actions."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

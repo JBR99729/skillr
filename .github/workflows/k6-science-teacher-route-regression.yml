@@ -1,0 +1,49 @@
+name: K-6 Science Teacher Slides regression
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/fix_k6_science_teacher_routes.mjs'
+      - '.github/workflows/k6-science-teacher-route-regression.yml'
+      - 'foundation/science/**/index.html'
+      - 'year1/science/**/index.html'
+      - 'year2/science/**/index.html'
+      - 'year3/science/**/index.html'
+      - 'year4/science/**/index.html'
+      - 'year5/science/**/index.html'
+      - 'year6/science/**/index.html'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  repair-and-validate:
+    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Repair K-6 Science Teacher Slides routes
+        run: node scripts/fix_k6_science_teacher_routes.mjs
+      - name: Validate static curriculum architecture
+        run: node scripts/validate_static_curriculum_architecture.mjs
+      - name: Commit repairs safely
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add foundation/science/*/index.html year{1,2,3,4,5,6}/science/*/index.html 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo 'No K-6 Science route repairs were required.'
+            exit 0
+          fi
+          git commit -m 'Repair K-6 Science static Teacher Slides links'
+          git fetch origin "${GITHUB_HEAD_REF}"
+          git rebase "origin/${GITHUB_HEAD_REF}"
+          git push origin HEAD:"${GITHUB_HEAD_REF}"

@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E4LE04-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Wordplay and Literary Language",
+    "question": "In the pun “The bicycle was two-tired to continue”, which option best demonstrates the skill?",
+    "audio_prompt": "In the pun “The bicycle was two-tired to continue”, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+        "is_correct": true
+      },
+      {
+        "text": "The humour comes from the sentence being factual.",
+        "is_correct": false
+      },
+      {
+        "text": "Two-tired is a standard scientific term.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
+      "hint": "Look for the double meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which choice fits the pun “The bicycle was two-tired to continue” most accurately?",
+    "audio_prompt": "Which choice fits the pun “The bicycle was two-tired to continue” most accurately?",
+    "answers": [
+      {
+        "text": "The humour comes from the sentence being factual.",
+        "is_correct": false
+      },
+      {
+        "text": "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+        "is_correct": true
+      },
+      {
+        "text": "Two-tired is a standard scientific term.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
+      "hint": "Look for the double meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which choice fits the invented word “splish-splashy” in a beach poem most accurately?",
+    "audio_prompt": "Which choice fits the invented word “splish-splashy” in a beach poem most accurately?",
+    "answers": [
+      {
+        "text": "The word has no effect because it is not in every dictionary.",
+        "is_correct": false
+      },
+      {
+        "text": "Invented words can only be spelling mistakes.",
+        "is_correct": false
+      },
+      {
+        "text": "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Writers can create new words to produce a particular sound, image or mood.",
+      "hint": "Ask what the new word makes you hear or imagine."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Wordplay and Literary Language",
+    "question": "Look closely at the invented word “splish-splashy” in a beach poem. Which response or wording works best?",
+    "audio_prompt": "Look closely at the invented word “splish-splashy” in a beach poem. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+        "is_correct": true
+      },
+      {
+        "text": "The word has no effect because it is not in every dictionary.",
+        "is_correct": false
+      },
+      {
+        "text": "Invented words can only be spelling mistakes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Writers can create new words to produce a particular sound, image or mood.",
+      "hint": "Ask what the new word makes you hear or imagine."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Wordplay and Literary Language",
+    "question": "Look closely at the line “The wind whispered through the grass”. Which response or wording works best?",
+    "audio_prompt": "Look closely at the line “The wind whispered through the grass”. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "The line reports an exact weather measurement.",
+        "is_correct": false
+      },
+      {
+        "text": "Personification gives the wind a human action and creates a gentle sound image.",
+        "is_correct": true
+      },
+      {
+        "text": "Whispered means the grass is speaking literally.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Personification can make a natural element feel alive and shape mood.",
+      "hint": "Identify the human action and its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Wordplay and Literary Language",
+    "question": "For the line “The wind whispered through the grass”, which option is the strongest match?",
+    "audio_prompt": "For the line “The wind whispered through the grass”, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "The line reports an exact weather measurement.",
+        "is_correct": false
+      },
+      {
+        "text": "Whispered means the grass is speaking literally.",
+        "is_correct": false
+      },
+      {
+        "text": "Personification gives the wind a human action and creates a gentle sound image.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Personification can make a natural element feel alive and shape mood.",
+      "hint": "Identify the human action and its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Wordplay and Literary Language",
+    "question": "For the phrase “a mountain of homework”, which option is the strongest match?",
+    "audio_prompt": "For the phrase “a mountain of homework”, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "The exaggeration emphasises that the amount feels very large.",
+        "is_correct": true
+      },
+      {
+        "text": "The phrase proves the homework is physically a mountain.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase makes the amount smaller.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "hint": "Check whether the image is meant literally."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which example should you choose for the phrase “a mountain of homework”?",
+    "audio_prompt": "Which example should you choose for the phrase “a mountain of homework”?",
+    "answers": [
+      {
+        "text": "The phrase proves the homework is physically a mountain.",
+        "is_correct": false
+      },
+      {
+        "text": "The exaggeration emphasises that the amount feels very large.",
+        "is_correct": true
+      },
+      {
+        "text": "The phrase makes the amount smaller.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "hint": "Check whether the image is meant literally."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which example should you choose for the emotive phrase “helpless joey” in a rescue appeal?",
+    "audio_prompt": "Which example should you choose for the emotive phrase “helpless joey” in a rescue appeal?",
+    "answers": [
+      {
+        "text": "The word gives only a measurement.",
+        "is_correct": false
+      },
+      {
+        "text": "Emotive language removes all viewpoint.",
+        "is_correct": false
+      },
+      {
+        "text": "Helpless encourages concern and makes readers feel the animal needs protection.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Emotive words are chosen partly for the feelings they encourage.",
+      "hint": "Notice the feeling carried by the adjective."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Wordplay and Literary Language",
+    "question": "In the emotive phrase “helpless joey” in a rescue appeal, which option best demonstrates the skill?",
+    "audio_prompt": "In the emotive phrase “helpless joey” in a rescue appeal, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "Helpless encourages concern and makes readers feel the animal needs protection.",
+        "is_correct": true
+      },
+      {
+        "text": "The word gives only a measurement.",
+        "is_correct": false
+      },
+      {
+        "text": "Emotive language removes all viewpoint.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Emotive words are chosen partly for the feelings they encourage.",
+      "hint": "Notice the feeling carried by the adjective."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Wordplay and Literary Language",
+    "question": "Why does “The humour comes from two-tired sounding like too tired while also referring to two tyres.” work well for the pun “The bicycle was two-tired to continue”?",
+    "audio_prompt": "Why does “The humour comes from two-tired sounding like too tired while also referring to two tyres.” work well for the pun “The bicycle was two-tired to continue”?",
+    "answers": [
+      {
+        "text": "Because “The humour comes from the sentence being factual.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "A pun depends on two meanings or similar sounds being activated at once.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
+      "hint": "Look for the double meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Wordplay and Literary Language",
+    "question": "What makes “The humour comes from two-tired sounding like too tired while also referring to two tyres.” a better choice in the pun “The bicycle was two-tired to continue”?",
+    "audio_prompt": "What makes “The humour comes from two-tired sounding like too tired while also referring to two tyres.” a better choice in the pun “The bicycle was two-tired to continue”?",
+    "answers": [
+      {
+        "text": "Because “The humour comes from the sentence being factual.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "A pun depends on two meanings or similar sounds being activated at once.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
+      "hint": "Look for the double meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Wordplay and Literary Language",
+    "question": "What makes “The neologism blends familiar sound patterns to make the water feel lively and playful.” a better choice in the invented word “splish-splashy” in a beach poem?",
+    "audio_prompt": "What makes “The neologism blends familiar sound patterns to make the water feel lively and playful.” a better choice in the invented word “splish-splashy” in a beach poem?",
+    "answers": [
+      {
+        "text": "Writers can create new words to produce a particular sound, image or mood.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The word has no effect because it is not in every dictionary.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Writers can create new words to produce a particular sound, image or mood.",
+      "hint": "Ask what the new word makes you hear or imagine."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which explanation best justifies “The neologism blends familiar sound patterns to make the water feel lively and playful.” for the invented word “splish-splashy” in a beach poem?",
+    "audio_prompt": "Which explanation best justifies “The neologism blends familiar sound patterns to make the water feel lively and playful.” for the invented word “splish-splashy” in a beach poem?",
+    "answers": [
+      {
+        "text": "Because “The word has no effect because it is not in every dictionary.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Writers can create new words to produce a particular sound, image or mood.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Writers can create new words to produce a particular sound, image or mood.",
+      "hint": "Ask what the new word makes you hear or imagine."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which explanation best justifies “Personification gives the wind a human action and creates a gentle sound image.” for the line “The wind whispered through the grass”?",
+    "audio_prompt": "Which explanation best justifies “Personification gives the wind a human action and creates a gentle sound image.” for the line “The wind whispered through the grass”?",
+    "answers": [
+      {
+        "text": "Because “The line reports an exact weather measurement.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Personification can make a natural element feel alive and shape mood.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Personification can make a natural element feel alive and shape mood.",
+      "hint": "Identify the human action and its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Wordplay and Literary Language",
+    "question": "What should you notice about “Personification gives the wind a human action and creates a gentle sound image.” in the line “The wind whispered through the grass”?",
+    "audio_prompt": "What should you notice about “Personification gives the wind a human action and creates a gentle sound image.” in the line “The wind whispered through the grass”?",
+    "answers": [
+      {
+        "text": "Personification can make a natural element feel alive and shape mood.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The line reports an exact weather measurement.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Personification can make a natural element feel alive and shape mood.",
+      "hint": "Identify the human action and its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Wordplay and Literary Language",
+    "question": "What should you notice about “The exaggeration emphasises that the amount feels very large.” in the phrase “a mountain of homework”?",
+    "audio_prompt": "What should you notice about “The exaggeration emphasises that the amount feels very large.” in the phrase “a mountain of homework”?",
+    "answers": [
+      {
+        "text": "Because “The phrase proves the homework is physically a mountain.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "hint": "Check whether the image is meant literally."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which reason explains why “The exaggeration emphasises that the amount feels very large.” suits the phrase “a mountain of homework”?",
+    "audio_prompt": "Which reason explains why “The exaggeration emphasises that the amount feels very large.” suits the phrase “a mountain of homework”?",
+    "answers": [
+      {
+        "text": "Because “The phrase proves the homework is physically a mountain.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "hint": "Check whether the image is meant literally."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which reason explains why “Helpless encourages concern and makes readers feel the animal needs protection.” suits the emotive phrase “helpless joey” in a rescue appeal?",
+    "audio_prompt": "Which reason explains why “Helpless encourages concern and makes readers feel the animal needs protection.” suits the emotive phrase “helpless joey” in a rescue appeal?",
+    "answers": [
+      {
+        "text": "Emotive words are chosen partly for the feelings they encourage.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The word gives only a measurement.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Emotive words are chosen partly for the feelings they encourage.",
+      "hint": "Notice the feeling carried by the adjective."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Wordplay and Literary Language",
+    "question": "Why does “Helpless encourages concern and makes readers feel the animal needs protection.” work well for the emotive phrase “helpless joey” in a rescue appeal?",
+    "audio_prompt": "Why does “Helpless encourages concern and makes readers feel the animal needs protection.” work well for the emotive phrase “helpless joey” in a rescue appeal?",
+    "answers": [
+      {
+        "text": "Because “The word gives only a measurement.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Emotive words are chosen partly for the feelings they encourage.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Emotive words are chosen partly for the feelings they encourage.",
+      "hint": "Notice the feeling carried by the adjective."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which revision best fixes the problem in “The humour comes from the sentence being factual.” for the pun “The bicycle was two-tired to continue”?",
+    "audio_prompt": "Which revision best fixes the problem in “The humour comes from the sentence being factual.” for the pun “The bicycle was two-tired to continue”?",
+    "answers": [
+      {
+        "text": "The humour comes from the sentence being factual.",
+        "is_correct": false
+      },
+      {
+        "text": "Two-tired is a standard scientific term.",
+        "is_correct": false
+      },
+      {
+        "text": "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A pun depends on two meanings or similar sounds being activated at once. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for the double meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Wordplay and Literary Language",
+    "question": "Compare the choices for the pun “The bicycle was two-tired to continue”. Which one avoids the mistake in “The humour comes from the sentence being factual.”?",
+    "audio_prompt": "Compare the choices for the pun “The bicycle was two-tired to continue”. Which one avoids the mistake in “The humour comes from the sentence being factual.”?",
+    "answers": [
+      {
+        "text": "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+        "is_correct": true
+      },
+      {
+        "text": "The humour comes from the sentence being factual.",
+        "is_correct": false
+      },
+      {
+        "text": "Two-tired is a standard scientific term.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A pun depends on two meanings or similar sounds being activated at once. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Look for the double meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Wordplay and Literary Language",
+    "question": "Compare the choices for the invented word “splish-splashy” in a beach poem. Which one avoids the mistake in “The word has no effect because it is not in every dictionary.”?",
+    "audio_prompt": "Compare the choices for the invented word “splish-splashy” in a beach poem. Which one avoids the mistake in “The word has no effect because it is not in every dictionary.”?",
+    "answers": [
+      {
+        "text": "The word has no effect because it is not in every dictionary.",
+        "is_correct": false
+      },
+      {
+        "text": "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+        "is_correct": true
+      },
+      {
+        "text": "Invented words can only be spelling mistakes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Writers can create new words to produce a particular sound, image or mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the new word makes you hear or imagine."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Wordplay and Literary Language",
+    "question": "If “The word has no effect because it is not in every dictionary.” does not work in the invented word “splish-splashy” in a beach poem, what should replace it?",
+    "audio_prompt": "If “The word has no effect because it is not in every dictionary.” does not work in the invented word “splish-splashy” in a beach poem, what should replace it?",
+    "answers": [
+      {
+        "text": "The word has no effect because it is not in every dictionary.",
+        "is_correct": false
+      },
+      {
+        "text": "Invented words can only be spelling mistakes.",
+        "is_correct": false
+      },
+      {
+        "text": "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Writers can create new words to produce a particular sound, image or mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Ask what the new word makes you hear or imagine."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Wordplay and Literary Language",
+    "question": "If “The line reports an exact weather measurement.” does not work in the line “The wind whispered through the grass”, what should replace it?",
+    "audio_prompt": "If “The line reports an exact weather measurement.” does not work in the line “The wind whispered through the grass”, what should replace it?",
+    "answers": [
+      {
+        "text": "Personification gives the wind a human action and creates a gentle sound image.",
+        "is_correct": true
+      },
+      {
+        "text": "The line reports an exact weather measurement.",
+        "is_correct": false
+      },
+      {
+        "text": "Whispered means the grass is speaking literally.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Personification can make a natural element feel alive and shape mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Identify the human action and its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which option corrects the meaning or form needed for the line “The wind whispered through the grass”?",
+    "audio_prompt": "Which option corrects the meaning or form needed for the line “The wind whispered through the grass”?",
+    "answers": [
+      {
+        "text": "The line reports an exact weather measurement.",
+        "is_correct": false
+      },
+      {
+        "text": "Personification gives the wind a human action and creates a gentle sound image.",
+        "is_correct": true
+      },
+      {
+        "text": "Whispered means the grass is speaking literally.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Personification can make a natural element feel alive and shape mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Identify the human action and its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which option corrects the meaning or form needed for the phrase “a mountain of homework”?",
+    "audio_prompt": "Which option corrects the meaning or form needed for the phrase “a mountain of homework”?",
+    "answers": [
+      {
+        "text": "The phrase proves the homework is physically a mountain.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase makes the amount smaller.",
+        "is_correct": false
+      },
+      {
+        "text": "The exaggeration emphasises that the amount feels very large.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check whether the image is meant literally."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which choice is the clearest correction for the phrase “a mountain of homework”?",
+    "audio_prompt": "Which choice is the clearest correction for the phrase “a mountain of homework”?",
+    "answers": [
+      {
+        "text": "The exaggeration emphasises that the amount feels very large.",
+        "is_correct": true
+      },
+      {
+        "text": "The phrase proves the homework is physically a mountain.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase makes the amount smaller.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Check whether the image is meant literally."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which choice is the clearest correction for the emotive phrase “helpless joey” in a rescue appeal?",
+    "audio_prompt": "Which choice is the clearest correction for the emotive phrase “helpless joey” in a rescue appeal?",
+    "answers": [
+      {
+        "text": "The word gives only a measurement.",
+        "is_correct": false
+      },
+      {
+        "text": "Helpless encourages concern and makes readers feel the animal needs protection.",
+        "is_correct": true
+      },
+      {
+        "text": "Emotive language removes all viewpoint.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Emotive words are chosen partly for the feelings they encourage. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice the feeling carried by the adjective."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which revision best fixes the problem in “The word gives only a measurement.” for the emotive phrase “helpless joey” in a rescue appeal?",
+    "audio_prompt": "Which revision best fixes the problem in “The word gives only a measurement.” for the emotive phrase “helpless joey” in a rescue appeal?",
+    "answers": [
+      {
+        "text": "The word gives only a measurement.",
+        "is_correct": false
+      },
+      {
+        "text": "Emotive language removes all viewpoint.",
+        "is_correct": false
+      },
+      {
+        "text": "Helpless encourages concern and makes readers feel the animal needs protection.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Emotive words are chosen partly for the feelings they encourage. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Notice the feeling carried by the adjective."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "You now need to handle the pun “The bicycle was two-tired to continue” independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle the pun “The bicycle was two-tired to continue” independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+        "is_correct": true
+      },
+      {
+        "text": "Two-tired is a standard scientific term.",
+        "is_correct": false
+      },
+      {
+        "text": "The humour comes from the sentence being factual.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
+      "hint": "Look for the double meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Apply the same idea to the pun “The bicycle was two-tired to continue”. Which option is best?",
+    "audio_prompt": "Apply the same idea to the pun “The bicycle was two-tired to continue”. Which option is best?",
+    "answers": [
+      {
+        "text": "Two-tired is a standard scientific term.",
+        "is_correct": false
+      },
+      {
+        "text": "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+        "is_correct": true
+      },
+      {
+        "text": "The humour comes from the sentence being factual.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
+      "hint": "Look for the double meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Apply the same idea to the invented word “splish-splashy” in a beach poem. Which option is best?",
+    "audio_prompt": "Apply the same idea to the invented word “splish-splashy” in a beach poem. Which option is best?",
+    "answers": [
+      {
+        "text": "Invented words can only be spelling mistakes.",
+        "is_correct": false
+      },
+      {
+        "text": "The word has no effect because it is not in every dictionary.",
+        "is_correct": false
+      },
+      {
+        "text": "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Writers can create new words to produce a particular sound, image or mood.",
+      "hint": "Ask what the new word makes you hear or imagine."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which decision would produce the clearest result in the invented word “splish-splashy” in a beach poem?",
+    "audio_prompt": "Which decision would produce the clearest result in the invented word “splish-splashy” in a beach poem?",
+    "answers": [
+      {
+        "text": "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+        "is_correct": true
+      },
+      {
+        "text": "Invented words can only be spelling mistakes.",
+        "is_correct": false
+      },
+      {
+        "text": "The word has no effect because it is not in every dictionary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Writers can create new words to produce a particular sound, image or mood.",
+      "hint": "Ask what the new word makes you hear or imagine."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which decision would produce the clearest result in the line “The wind whispered through the grass”?",
+    "audio_prompt": "Which decision would produce the clearest result in the line “The wind whispered through the grass”?",
+    "answers": [
+      {
+        "text": "Whispered means the grass is speaking literally.",
+        "is_correct": false
+      },
+      {
+        "text": "Personification gives the wind a human action and creates a gentle sound image.",
+        "is_correct": true
+      },
+      {
+        "text": "The line reports an exact weather measurement.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Personification can make a natural element feel alive and shape mood.",
+      "hint": "Identify the human action and its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Choose the option that applies the skill correctly in the line “The wind whispered through the grass”.",
+    "audio_prompt": "Choose the option that applies the skill correctly in the line “The wind whispered through the grass”.",
+    "answers": [
+      {
+        "text": "Whispered means the grass is speaking literally.",
+        "is_correct": false
+      },
+      {
+        "text": "The line reports an exact weather measurement.",
+        "is_correct": false
+      },
+      {
+        "text": "Personification gives the wind a human action and creates a gentle sound image.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Personification can make a natural element feel alive and shape mood.",
+      "hint": "Identify the human action and its effect."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Choose the option that applies the skill correctly in the phrase “a mountain of homework”.",
+    "audio_prompt": "Choose the option that applies the skill correctly in the phrase “a mountain of homework”.",
+    "answers": [
+      {
+        "text": "The exaggeration emphasises that the amount feels very large.",
+        "is_correct": true
+      },
+      {
+        "text": "The phrase makes the amount smaller.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase proves the homework is physically a mountain.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "hint": "Check whether the image is meant literally."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "What would be the most effective choice for the phrase “a mountain of homework”?",
+    "audio_prompt": "What would be the most effective choice for the phrase “a mountain of homework”?",
+    "answers": [
+      {
+        "text": "The phrase makes the amount smaller.",
+        "is_correct": false
+      },
+      {
+        "text": "The exaggeration emphasises that the amount feels very large.",
+        "is_correct": true
+      },
+      {
+        "text": "The phrase proves the homework is physically a mountain.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+      "hint": "Check whether the image is meant literally."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "What would be the most effective choice for the emotive phrase “helpless joey” in a rescue appeal?",
+    "audio_prompt": "What would be the most effective choice for the emotive phrase “helpless joey” in a rescue appeal?",
+    "answers": [
+      {
+        "text": "Emotive language removes all viewpoint.",
+        "is_correct": false
+      },
+      {
+        "text": "The word gives only a measurement.",
+        "is_correct": false
+      },
+      {
+        "text": "Helpless encourages concern and makes readers feel the animal needs protection.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Emotive words are chosen partly for the feelings they encourage.",
+      "hint": "Notice the feeling carried by the adjective."
+    }
+  },
+  {
+    "id": "AC9E4LE04-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "You now need to handle the emotive phrase “helpless joey” in a rescue appeal independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle the emotive phrase “helpless joey” in a rescue appeal independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Helpless encourages concern and makes readers feel the animal needs protection.",
+        "is_correct": true
+      },
+      {
+        "text": "Emotive language removes all viewpoint.",
+        "is_correct": false
+      },
+      {
+        "text": "The word gives only a measurement.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Emotive words are chosen partly for the feelings they encourage.",
+      "hint": "Notice the feeling carried by the adjective."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Wordplay and Literary Language",
+    "question": "New context: the simile “the creek glittered like scattered coins”. Which option is correct?",
+    "audio_prompt": "New context: the simile “the creek glittered like scattered coins”. Which option is correct?",
+    "answers": [
+      {
+        "text": "The creek contains actual coins.",
+        "is_correct": false
+      },
+      {
+        "text": "The comparison helps the reader picture bright flashes of light on the water.",
+        "is_correct": true
+      },
+      {
+        "text": "The simile explains the creek’s depth exactly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A simile connects one image to another to create a vivid picture.",
+      "hint": "Ask what shared quality links the two things."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Wordplay and Literary Language",
+    "question": "What is the best choice for the simile “the creek glittered like scattered coins”?",
+    "audio_prompt": "What is the best choice for the simile “the creek glittered like scattered coins”?",
+    "answers": [
+      {
+        "text": "The creek contains actual coins.",
+        "is_correct": false
+      },
+      {
+        "text": "The simile explains the creek’s depth exactly.",
+        "is_correct": false
+      },
+      {
+        "text": "The comparison helps the reader picture bright flashes of light on the water.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A simile connects one image to another to create a vivid picture.",
+      "hint": "Ask what shared quality links the two things."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which explanation best supports “The comparison helps the reader picture bright flashes of light on the water.” in the simile “the creek glittered like scattered coins”?",
+    "audio_prompt": "Which explanation best supports “The comparison helps the reader picture bright flashes of light on the water.” in the simile “the creek glittered like scattered coins”?",
+    "answers": [
+      {
+        "text": "A simile connects one image to another to create a vivid picture.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The creek contains actual coins.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A simile connects one image to another to create a vivid picture.",
+      "hint": "Ask what shared quality links the two things."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which clue should guide your decision in the simile “the creek glittered like scattered coins”?",
+    "audio_prompt": "Which clue should guide your decision in the simile “the creek glittered like scattered coins”?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask what shared quality links the two things.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A simile connects one image to another to create a vivid picture.",
+      "hint": "Ask what shared quality links the two things."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which option would you reject first in the simile “the creek glittered like scattered coins”?",
+    "audio_prompt": "Which option would you reject first in the simile “the creek glittered like scattered coins”?",
+    "answers": [
+      {
+        "text": "The comparison helps the reader picture bright flashes of light on the water.",
+        "is_correct": false
+      },
+      {
+        "text": "The simile explains the creek’s depth exactly.",
+        "is_correct": false
+      },
+      {
+        "text": "The creek contains actual coins.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A simile connects one image to another to create a vivid picture.",
+      "hint": "Ask what shared quality links the two things."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which correction should replace “The creek contains actual coins.” in the simile “the creek glittered like scattered coins”?",
+    "audio_prompt": "Which correction should replace “The creek contains actual coins.” in the simile “the creek glittered like scattered coins”?",
+    "answers": [
+      {
+        "text": "The comparison helps the reader picture bright flashes of light on the water.",
+        "is_correct": true
+      },
+      {
+        "text": "The creek contains actual coins.",
+        "is_correct": false
+      },
+      {
+        "text": "The simile explains the creek’s depth exactly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A simile connects one image to another to create a vivid picture.",
+      "hint": "Ask what shared quality links the two things."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Apply the skill to the simile “the creek glittered like scattered coins”: what should you choose?",
+    "audio_prompt": "Apply the skill to the simile “the creek glittered like scattered coins”: what should you choose?",
+    "answers": [
+      {
+        "text": "The creek contains actual coins.",
+        "is_correct": false
+      },
+      {
+        "text": "The comparison helps the reader picture bright flashes of light on the water.",
+        "is_correct": true
+      },
+      {
+        "text": "The simile explains the creek’s depth exactly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A simile connects one image to another to create a vivid picture.",
+      "hint": "Ask what shared quality links the two things."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which final choice gives the clearest and most accurate result for the simile “the creek glittered like scattered coins”?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for the simile “the creek glittered like scattered coins”?",
+    "answers": [
+      {
+        "text": "The creek contains actual coins.",
+        "is_correct": false
+      },
+      {
+        "text": "The simile explains the creek’s depth exactly.",
+        "is_correct": false
+      },
+      {
+        "text": "The comparison helps the reader picture bright flashes of light on the water.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A simile connects one image to another to create a vivid picture.",
+      "hint": "Ask what shared quality links the two things."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Wordplay and Literary Language",
+    "question": "New context: the alliterative phrase “crackling campfire”. Which option is correct?",
+    "audio_prompt": "New context: the alliterative phrase “crackling campfire”. Which option is correct?",
+    "answers": [
+      {
+        "text": "The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.",
+        "is_correct": true
+      },
+      {
+        "text": "Alliteration changes the campfire into a person.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated sounds have no effect on rhythm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sound patterns can reinforce an image and make wording memorable.",
+      "hint": "Listen for repeated starting sounds and connect them to meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Wordplay and Literary Language",
+    "question": "What is the best choice for the alliterative phrase “crackling campfire”?",
+    "audio_prompt": "What is the best choice for the alliterative phrase “crackling campfire”?",
+    "answers": [
+      {
+        "text": "Alliteration changes the campfire into a person.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeated sounds have no effect on rhythm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Sound patterns can reinforce an image and make wording memorable.",
+      "hint": "Listen for repeated starting sounds and connect them to meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which explanation best supports “The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.” in the alliterative phrase “crackling campfire”?",
+    "audio_prompt": "Which explanation best supports “The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.” in the alliterative phrase “crackling campfire”?",
+    "answers": [
+      {
+        "text": "Because “Alliteration changes the campfire into a person.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Sound patterns can reinforce an image and make wording memorable.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Sound patterns can reinforce an image and make wording memorable.",
+      "hint": "Listen for repeated starting sounds and connect them to meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which clue should guide your decision in the alliterative phrase “crackling campfire”?",
+    "audio_prompt": "Which clue should guide your decision in the alliterative phrase “crackling campfire”?",
+    "answers": [
+      {
+        "text": "Listen for repeated starting sounds and connect them to meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sound patterns can reinforce an image and make wording memorable.",
+      "hint": "Listen for repeated starting sounds and connect them to meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which option would you reject first in the alliterative phrase “crackling campfire”?",
+    "audio_prompt": "Which option would you reject first in the alliterative phrase “crackling campfire”?",
+    "answers": [
+      {
+        "text": "The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.",
+        "is_correct": false
+      },
+      {
+        "text": "Alliteration changes the campfire into a person.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeated sounds have no effect on rhythm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Sound patterns can reinforce an image and make wording memorable.",
+      "hint": "Listen for repeated starting sounds and connect them to meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which correction should replace “Alliteration changes the campfire into a person.” in the alliterative phrase “crackling campfire”?",
+    "audio_prompt": "Which correction should replace “Alliteration changes the campfire into a person.” in the alliterative phrase “crackling campfire”?",
+    "answers": [
+      {
+        "text": "Alliteration changes the campfire into a person.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated sounds have no effect on rhythm.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Sound patterns can reinforce an image and make wording memorable.",
+      "hint": "Listen for repeated starting sounds and connect them to meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Apply the skill to the alliterative phrase “crackling campfire”: what should you choose?",
+    "audio_prompt": "Apply the skill to the alliterative phrase “crackling campfire”: what should you choose?",
+    "answers": [
+      {
+        "text": "The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.",
+        "is_correct": true
+      },
+      {
+        "text": "Alliteration changes the campfire into a person.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated sounds have no effect on rhythm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sound patterns can reinforce an image and make wording memorable.",
+      "hint": "Listen for repeated starting sounds and connect them to meaning."
+    }
+  },
+  {
+    "id": "AC9E4LE04-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Wordplay and Literary Language",
+    "question": "Which final choice gives the clearest and most accurate result for the alliterative phrase “crackling campfire”?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for the alliterative phrase “crackling campfire”?",
+    "answers": [
+      {
+        "text": "Alliteration changes the campfire into a person.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeated sounds have no effect on rhythm.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Sound patterns can reinforce an image and make wording memorable.",
+      "hint": "Listen for repeated starting sounds and connect them to meaning."
+    }
+  }
+]

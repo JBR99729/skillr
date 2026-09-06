@@ -1,0 +1,1730 @@
+[
+  {
+    "id": "ac9e1la08-er2-p-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "Look at the two book images. Which one helps a reader name parts of a plant?",
+    "audio_prompt": "Look at the two book images. Which one helps a reader name parts of a plant?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Image A: a flower with a smiling face and a speech bubble saying Good morning. Image B: a plant with lines labelling flower, stem and roots.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-01.svg#model"
+    },
+    "answers": [
+      {
+        "text": "Image B, with labels pointing to parts.",
+        "is_correct": true
+      },
+      {
+        "text": "Image A, with a smiling flower character.",
+        "is_correct": false
+      },
+      {
+        "text": "Both show labels pointing to roots.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Labels connect names to visible parts in the information image.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A story picture shows a child grinning while opening a gift. What can the picture add to 'The child opened it'?",
+    "audio_prompt": "A story picture shows a child grinning while opening a gift. What can the picture add to 'The child opened it'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The date the gift was bought.",
+        "is_correct": false
+      },
+      {
+        "text": "A clue that the child is pleased.",
+        "is_correct": true
+      },
+      {
+        "text": "The exact price of the gift.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A facial expression adds a feeling that the short sentence does not name.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A recipe picture shows hands folding dough. What does this image help explain?",
+    "audio_prompt": "A recipe picture shows hands folding dough. What does this image help explain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Which character is the villain.",
+        "is_correct": false
+      },
+      {
+        "text": "Why the cook likes stories.",
+        "is_correct": false
+      },
+      {
+        "text": "How to do a step.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "An action picture can show how to carry out an instruction.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A map picture shows a path from the gate to a pond. What does it help the reader understand?",
+    "audio_prompt": "A map picture shows a path from the gate to a pond. What does it help the reader understand?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Where to go.",
+        "is_correct": true
+      },
+      {
+        "text": "How the pond smells.",
+        "is_correct": false
+      },
+      {
+        "text": "What happened yesterday.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A map communicates position and route.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "Look at the two house images. Which belongs with instructions for finding the pond?",
+    "audio_prompt": "Look at the two house images. Which belongs with instructions for finding the pond?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Image A: a house with a smiling face saying Welcome, friend. Image B: a gate, a pond and a line with an arrow leading from the gate to the pond.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-05.svg#model"
+    },
+    "answers": [
+      {
+        "text": "Both explain the house's feelings.",
+        "is_correct": false
+      },
+      {
+        "text": "Image B, showing places and a route.",
+        "is_correct": true
+      },
+      {
+        "text": "Image A, showing a house character.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A route image helps with navigation, unlike the story character image.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A story says, 'The room was empty.' The picture shows a kitten under a chair. What extra information does the image give?",
+    "audio_prompt": "A story says, 'The room was empty.' The picture shows a kitten under a chair. What extra information does the image give?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The room has no living things.",
+        "is_correct": false
+      },
+      {
+        "text": "The kitten's exact age.",
+        "is_correct": false
+      },
+      {
+        "text": "A hidden animal is still there.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The image reveals something not named by the words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "An information book has a close-up image of a feather. What can the close-up help you notice?",
+    "audio_prompt": "An information book has a close-up image of a feather. What can the close-up help you notice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Small details in its structure.",
+        "is_correct": true
+      },
+      {
+        "text": "The bird's name without any clue.",
+        "is_correct": false
+      },
+      {
+        "text": "What the bird will do tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A close-up makes small visible features easier to examine.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A poster has a crossed-out picture of a running person. What does the image help communicate?",
+    "audio_prompt": "A poster has a crossed-out picture of a running person. What does the image help communicate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A count of all runners.",
+        "is_correct": false
+      },
+      {
+        "text": "A message not to run.",
+        "is_correct": true
+      },
+      {
+        "text": "A story about winning a race.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The crossing-out mark changes the running picture into a prohibition.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "Look at the two tree images. How do their purposes differ?",
+    "audio_prompt": "Look at the two tree images. How do their purposes differ?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Image A: a tree with a smiling face saying I can sing. Image B: a tree diagram with leaves, trunk and roots labelled.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-09.svg#model"
+    },
+    "answers": [
+      {
+        "text": "A labels roots; B shows a tree speaking.",
+        "is_correct": false
+      },
+      {
+        "text": "Both only tell a reader where to walk.",
+        "is_correct": false
+      },
+      {
+        "text": "A creates a story character; B names real tree parts.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The speech bubble gives a tree a character role; the labels support factual learning.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A comic shows a person with a thought bubble. A science diagram uses label lines. What does each help show?",
+    "audio_prompt": "A comic shows a person with a thought bubble. A science diagram uses label lines. What does each help show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The comic shows a thought; the diagram names parts.",
+        "is_correct": true
+      },
+      {
+        "text": "Both show the exact words spoken aloud.",
+        "is_correct": false
+      },
+      {
+        "text": "The comic names parts; the diagram shows dreams.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different image features serve different meaning-making purposes.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A story drawing makes a mouse larger than a house. An animal fact book shows a mouse beside a ruler. Why might the sizes differ?",
+    "audio_prompt": "A story drawing makes a mouse larger than a house. An animal fact book shows a mouse beside a ruler. Why might the sizes differ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The larger drawing proves mice are bigger than houses.",
+        "is_correct": false
+      },
+      {
+        "text": "One can create fantasy; the other helps show actual size.",
+        "is_correct": true
+      },
+      {
+        "text": "All drawings must use the same size.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Image choices depend on whether the purpose is imaginative or factual.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "An instruction page shows three numbered pictures: fill a pot, add a seed, water it. What do the numbers add?",
+    "audio_prompt": "An instruction page shows three numbered pictures: fill a pot, add a seed, water it. What do the numbers add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The price of each object.",
+        "is_correct": false
+      },
+      {
+        "text": "The size of the finished plant.",
+        "is_correct": false
+      },
+      {
+        "text": "The order to follow.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Numbers link the pictures into a sequence of steps.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "Look at the story face and the face diagram. What does Image A help the reader infer?",
+    "audio_prompt": "Look at the story face and the face diagram. What does Image A help the reader infer?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Image A: a story face with a downturned mouth and a tear. Image B: a face diagram with an eye and mouth labelled.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-13.svg#model"
+    },
+    "answers": [
+      {
+        "text": "How the character may feel.",
+        "is_correct": true
+      },
+      {
+        "text": "The names of the face parts.",
+        "is_correct": false
+      },
+      {
+        "text": "The exact height of the character.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The downward mouth and tears provide feeling clues; the other image uses part labels.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A history book includes an old photograph of a street. A story includes a drawing of a floating street. How do these contribute differently?",
+    "audio_prompt": "A history book includes an old photograph of a street. A story includes a drawing of a floating street. How do these contribute differently?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The drawing must be more accurate because it is colourful.",
+        "is_correct": false
+      },
+      {
+        "text": "The photo records a past view; the drawing creates an imagined setting.",
+        "is_correct": true
+      },
+      {
+        "text": "Both prove that streets once floated.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Photographs can document a scene; fantasy illustrations can depict impossible events.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A page says, 'Mix the colours.' A picture shows blue and yellow becoming green. What does the image clarify?",
+    "audio_prompt": "A page says, 'Mix the colours.' A picture shows blue and yellow becoming green. What does the image clarify?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Who invented paint.",
+        "is_correct": false
+      },
+      {
+        "text": "How much the paint costs.",
+        "is_correct": false
+      },
+      {
+        "text": "Which colours are mixed and the result.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The picture supplies specific information missing from the brief words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A character says, 'I am brave,' but the illustration shows shaking knees beside a dark cave. What might the picture suggest?",
+    "audio_prompt": "A character says, 'I am brave,' but the illustration shows shaking knees beside a dark cave. What might the picture suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The character may feel afraid despite the words.",
+        "is_correct": true
+      },
+      {
+        "text": "The cave must be full of treasure.",
+        "is_correct": false
+      },
+      {
+        "text": "The character is definitely asleep.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Body clues can add a feeling that differs from the character's claim.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "Look at the two rain images. Which comparison fits?",
+    "audio_prompt": "Look at the two rain images. Which comparison fits?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Image A: a smiling cloud saying Time for a shower. Image B: a rain gauge whose water level is marked 10 mm.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-17.svg#model"
+    },
+    "answers": [
+      {
+        "text": "A gives the rainfall amount; B shows a talking cloud.",
+        "is_correct": false
+      },
+      {
+        "text": "A makes rain part of a character scene; B shows a weather amount.",
+        "is_correct": true
+      },
+      {
+        "text": "Both show how a character feels.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The story image personifies a cloud; the gauge image communicates a measured amount.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A book about fish has an image labelled fin and tail. A fish story has a fish wearing a crown. Which is more useful for identifying body parts?",
+    "audio_prompt": "A book about fish has an image labelled fin and tail. A fish story has a fish wearing a crown. Which is more useful for identifying body parts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The crowned fish image.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither image can support meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The labelled fish image.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The labels directly connect body-part vocabulary to the picture.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A child chooses a smiling sun drawing to show tomorrow's exact temperature. What is missing?",
+    "audio_prompt": "A child chooses a smiling sun drawing to show tomorrow's exact temperature. What is missing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A temperature value or other precise temperature information.",
+        "is_correct": true
+      },
+      {
+        "text": "A second smile on the sun.",
+        "is_correct": false
+      },
+      {
+        "text": "A larger decorative border.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A cheerful sun image alone cannot supply an exact temperature.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A warning poster makes a hazard picture large. A story uses a large picture of its main character. What is similar?",
+    "audio_prompt": "A warning poster makes a hazard picture large. A story uses a large picture of its main character. What is similar?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both must show events in time order.",
+        "is_correct": false
+      },
+      {
+        "text": "Both draw attention to something important for their purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Both must be giving safety instructions.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Size can guide attention even when the texts have different purposes.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "Look at the two boat images. Which one explains a direction of movement most directly?",
+    "audio_prompt": "Look at the two boat images. Which one explains a direction of movement most directly?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Image A: a boat with a face saying Hello, waves. Image B: a boat with an arrow pointing right labelled Travel direction.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-21.svg#model"
+    },
+    "answers": [
+      {
+        "text": "Image A, with a boat saying hello.",
+        "is_correct": false
+      },
+      {
+        "text": "Both show the boat's speed as a number.",
+        "is_correct": false
+      },
+      {
+        "text": "Image B, with a labelled direction arrow.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The arrow communicates direction; the speech bubble creates a character voice.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A caption says, 'The bird is feeding its chick.' The photo shows a bird's beak near a chick's open mouth. How do they work together?",
+    "audio_prompt": "A caption says, 'The bird is feeding its chick.' The photo shows a bird's beak near a chick's open mouth. How do they work together?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The words name the action and the photo shows it.",
+        "is_correct": true
+      },
+      {
+        "text": "The photo proves the chick can read.",
+        "is_correct": false
+      },
+      {
+        "text": "The words make the photo unnecessary in every case.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The caption interprets the visible action and the image supplies detail.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A comic image shows a dog holding a trophy. Does that image alone tell you exactly how it won?",
+    "audio_prompt": "A comic image shows a dog holding a trophy. Does that image alone tell you exactly how it won?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yes; every trophy is for the same event.",
+        "is_correct": false
+      },
+      {
+        "text": "No; more story information is needed.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes; it must have won a swimming race.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The trophy suggests success but does not identify the event or method.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-p-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "practice",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A nature guide needs to help readers recognise a leaf's edge. Which image choice best fits?",
+    "audio_prompt": "A nature guide needs to help readers recognise a leaf's edge. Which image choice best fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A tiny leaf hidden behind a title.",
+        "is_correct": false
+      },
+      {
+        "text": "A leaf character covered by a speech bubble.",
+        "is_correct": false
+      },
+      {
+        "text": "A clear close-up of the edge.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Relevant detail must be visible to support identification.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "Look at the two butterfly images. How do they help readers differently?",
+    "audio_prompt": "Look at the two butterfly images. How do they help readers differently?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Image A: a butterfly with a speech bubble saying Shall we explore. Image B: a butterfly diagram with a wing labelled.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-25.svg#model"
+    },
+    "answers": [
+      {
+        "text": "A introduces a story character; B identifies a body feature.",
+        "is_correct": true
+      },
+      {
+        "text": "A gives wing labels; B shows a talking butterfly.",
+        "is_correct": false
+      },
+      {
+        "text": "Both explain the exact flight speed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The story image gives a butterfly a voice, while the diagram labels a feature.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A story picture shows a character's shoulders drooping after a race. What can that add to the words 'The race ended'?",
+    "audio_prompt": "A story picture shows a character's shoulders drooping after a race. What can that add to the words 'The race ended'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The name of every runner.",
+        "is_correct": false
+      },
+      {
+        "text": "A clue about tiredness or disappointment.",
+        "is_correct": true
+      },
+      {
+        "text": "The exact finishing time.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Posture can suggest a feeling or state that the words do not specify.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "An instruction picture shows an arrow turning a lid anticlockwise. What does the arrow contribute?",
+    "audio_prompt": "An instruction picture shows an arrow turning a lid anticlockwise. What does the arrow contribute?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How much the jar weighs.",
+        "is_correct": false
+      },
+      {
+        "text": "What food the reader likes.",
+        "is_correct": false
+      },
+      {
+        "text": "Which way to turn the lid.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The arrow makes the required movement clear.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A travel leaflet uses a photograph of a beach. A pirate story uses an island treasure map. Which difference fits their purposes?",
+    "audio_prompt": "A travel leaflet uses a photograph of a beach. A pirate story uses an island treasure map. Which difference fits their purposes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The photo shows a place's appearance; the map shows locations in the adventure.",
+        "is_correct": true
+      },
+      {
+        "text": "Both tell us the beach's exact temperature.",
+        "is_correct": false
+      },
+      {
+        "text": "The photograph must show where treasure is buried.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The same broad setting can be represented for different reader needs.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "Look at the two weather images. Which helps compare the conditions at two named times?",
+    "audio_prompt": "Look at the two weather images. Which helps compare the conditions at two named times?",
+    "visual": {
+      "type": "svg",
+      "alt_text": "Image A: a smiling sun saying Hello, world. Image B: a morning panel with a sun and an afternoon panel with a cloud and falling rain.",
+      "asset_path": "/assets/assessment-visuals/year1/english/ixl-review-2/ac9e1la08-29.svg#model"
+    },
+    "answers": [
+      {
+        "text": "Both give a character's opinion of the weather.",
+        "is_correct": false
+      },
+      {
+        "text": "Image B, with morning and afternoon panels.",
+        "is_correct": true
+      },
+      {
+        "text": "Image A, with a sun character speaking.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Named panels organise visual weather information across times.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A poster says, 'Wash your hands,' with a picture of hands under a tap. What does the picture do?",
+    "audio_prompt": "A poster says, 'Wash your hands,' with a picture of hands under a tap. What does the picture do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Shows the writer's favourite tap colour.",
+        "is_correct": false
+      },
+      {
+        "text": "Tells a full story about a plumber.",
+        "is_correct": false
+      },
+      {
+        "text": "Reinforces the action in the words.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The visual restates the requested action in an easily recognised form.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A story drawing shows a tiny child beside a huge door. What effect can that size contrast create?",
+    "audio_prompt": "A story drawing shows a tiny child beside a huge door. What effect can that size contrast create?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Make the doorway seem imposing to the child.",
+        "is_correct": true
+      },
+      {
+        "text": "Give the exact measured height of the door.",
+        "is_correct": false
+      },
+      {
+        "text": "Prove that all doors are giant.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Relative size can influence how readers experience a story setting without giving measurements.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A factual diagram labels a seed's root. An imaginative picture gives the seed shoes. Which image explains a real plant part?",
+    "audio_prompt": "A factual diagram labels a seed's root. An imaginative picture gives the seed shoes. Which image explains a real plant part?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both show the real shoes all seeds have.",
+        "is_correct": false
+      },
+      {
+        "text": "The labelled diagram.",
+        "is_correct": true
+      },
+      {
+        "text": "The seed wearing shoes.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Labels identify real features, while shoes give the seed an imagined character quality.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A page claims a toy has four wheels, but its clear diagram shows only three wheels in a complete bottom view. What should a careful reader notice?",
+    "audio_prompt": "A page claims a toy has four wheels, but its clear diagram shows only three wheels in a complete bottom view. What should a careful reader notice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Pictures must always be ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The toy certainly has seven wheels.",
+        "is_correct": false
+      },
+      {
+        "text": "The words and image do not match.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Comparing information reveals a mismatch that needs checking rather than combining the numbers.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "Two images show a bird. One is a labelled body diagram; one shows the bird rescuing a friend. What differs?",
+    "audio_prompt": "Two images show a bird. One is a labelled body diagram; one shows the bird rescuing a friend. What differs?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One explains features; the other advances a story event.",
+        "is_correct": true
+      },
+      {
+        "text": "Both are maps showing a route.",
+        "is_correct": false
+      },
+      {
+        "text": "Both only show the spelling of bird.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The same subject can be used to communicate factual parts or narrative action.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A close-up shows a bee on a flower, but the picture has no scale. Can you use its printed size as the bee's real size?",
+    "audio_prompt": "A close-up shows a bee on a flower, but the picture has no scale. Can you use its printed size as the bee's real size?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Yes; a large picture proves a giant bee exists.",
+        "is_correct": false
+      },
+      {
+        "text": "No; the image may be enlarged.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes; printed pictures always show real size.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Close-ups magnify details and need scale information for real-size conclusions.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A comic uses a speech bubble. A map uses a key. Which pairing explains their jobs?",
+    "audio_prompt": "A comic uses a speech bubble. A map uses a key. Which pairing explains their jobs?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bubble: distances. Key: a character's voice.",
+        "is_correct": false
+      },
+      {
+        "text": "Both give only the page number.",
+        "is_correct": false
+      },
+      {
+        "text": "Bubble: spoken words. Key: meanings of map symbols.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "These visual text features help readers interpret different kinds of information.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A child wants readers to compare two shell shapes. Which layout best supports the purpose?",
+    "audio_prompt": "A child wants readers to compare two shell shapes. Which layout best supports the purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Place clear shell images side by side at a stated common scale.",
+        "is_correct": true
+      },
+      {
+        "text": "Hide one shell behind the other.",
+        "is_correct": false
+      },
+      {
+        "text": "Show only a colourful border and the word shells.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Visible side-by-side details and a common scale support a fair visual comparison.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A character says 'Nothing is wrong', but the picture shows a broken vase behind their back. What extra meaning is suggested?",
+    "audio_prompt": "A character says 'Nothing is wrong', but the picture shows a broken vase behind their back. What extra meaning is suggested?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The vase must have been repaired already.",
+        "is_correct": false
+      },
+      {
+        "text": "They may be hiding what happened.",
+        "is_correct": true
+      },
+      {
+        "text": "They are certainly describing every detail honestly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The hidden broken object gives readers a clue beyond the spoken claim.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A fact book uses arrows from a whole flower to an enlarged petal. What do those arrows help connect?",
+    "audio_prompt": "A fact book uses arrows from a whole flower to an enlarged petal. What do those arrows help connect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The order in which the flower speaks.",
+        "is_correct": false
+      },
+      {
+        "text": "The price of the flower.",
+        "is_correct": false
+      },
+      {
+        "text": "The small part with its enlarged view.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The arrows show where the magnified detail belongs in the whole object.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1la08-er2-t-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LA08",
+    "bank": "test",
+    "skill": "comparing how images contribute to meaning across text types",
+    "question": "A reader says every picture is only decoration. Which example best challenges that claim?",
+    "audio_prompt": "A reader says every picture is only decoration. Which example best challenges that claim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A map image shows which path reaches the exit.",
+        "is_correct": true
+      },
+      {
+        "text": "A border repeats dots around a page.",
+        "is_correct": false
+      },
+      {
+        "text": "A blank margin surrounds a title.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A route map communicates information needed to act, rather than merely decorating the text.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-2",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/which-feeling-matches-the-picture",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-la06-la10.md. No measured equivalence or IXL endorsement."
+    }
+  }
+]

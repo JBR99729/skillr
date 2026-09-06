@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Two parts are halves only when they are equal</title>
+<desc id="desc">One rectangle is split into equal halves and another into unequal parts.</desc>
+<style>
+  .title{font:700 47px Arial,sans-serif}.sub{font:700 29px Arial,sans-serif}.text{font:500 25px Arial,sans-serif}.small{font:500 20px Arial,sans-serif}.footer{font:700 18px Arial,sans-serif}.watermark{font:700 31px Arial,sans-serif;letter-spacing:4px}.shape{stroke:#24324a;stroke-width:4}
+</style>
+<rect width="1200" height="675" fill="#f8fafc"/>
+<rect width="1200" height="82" fill="#173a72"/>
+<text x="52" y="54" fill="#fff" class="sub">SkillrHub • Year 2 Maths</text>
+<text x="1148" y="54" text-anchor="end" fill="#fff" class="small">2 / 7</text>
+<text x="60" y="150" fill="#173a72" class="title">Two parts are halves only when they are equal</text>
+<text x="60" y="205" fill="#475569" class="text">Count the parts, then check their size or amount.</text>
+<rect x="100" y="245" width="420" height="250" rx="20" fill="#fff" class="shape"/>
+<path d="M120 245 H310 V495 H120 Q100 495 100 475 V265 Q100 245 120 245Z" fill="#d9e8ff"/>
+<line x1="310" y1="245" x2="310" y2="495" stroke="#24324a" stroke-width="5"/>
+<text x="310" y="550" text-anchor="middle" fill="#166534" class="sub">Equal halves</text>
+<rect x="680" y="245" width="420" height="250" rx="20" fill="#fff" class="shape"/>
+<path d="M700 245 H805 V495 H700 Q680 495 680 475 V265 Q680 245 700 245Z" fill="#fee2e2"/>
+<line x1="805" y1="245" x2="805" y2="495" stroke="#24324a" stroke-width="5"/>
+<text x="890" y="550" text-anchor="middle" fill="#b91c1c" class="sub">Not halves</text>
+<text x="600" y="395" text-anchor="middle" fill="#173a72" opacity=".055" class="watermark">SKILLRHUB • SKILLRHUB</text>
+<rect y="620" width="1200" height="55" fill="#173a72"/>
+<text x="52" y="655" fill="#fff" class="footer">AC9M2N03 • SkillrHub • skillrhub.com</text>
+</svg>

@@ -1,0 +1,1722 @@
+[
+  {
+    "id": "ac9e1le04-er3-p-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Say 'busy bees buzz'. Which beginning sound repeats?",
+    "audio_prompt": "Say 'busy bees buzz'. Which beginning sound repeats?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The b sound.",
+        "is_correct": true
+      },
+      {
+        "text": "The s sound.",
+        "is_correct": false
+      },
+      {
+        "text": "The m sound.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The words begin with the same b sound, creating alliteration.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Which pair rhymes at the end?",
+    "audio_prompt": "Which pair rhymes at the end?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "hill and hand",
+        "is_correct": false
+      },
+      {
+        "text": "hill and still",
+        "is_correct": true
+      },
+      {
+        "text": "hill and hot",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Hill and still share ending sounds, unlike the other pairs.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Finish the alliterative phrase: 'Tiny turtles ___.'",
+    "audio_prompt": "Finish the alliterative phrase: 'Tiny turtles ___.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "swim",
+        "is_correct": false
+      },
+      {
+        "text": "rest",
+        "is_correct": false
+      },
+      {
+        "text": "tiptoe",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Tiptoe repeats the t sound at the start of tiny and turtles.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Complete the rhyme: 'A little goat / climbed in a ___.'",
+    "audio_prompt": "Complete the rhyme: 'A little goat / climbed in a ___.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "boat",
+        "is_correct": true
+      },
+      {
+        "text": "barn",
+        "is_correct": false
+      },
+      {
+        "text": "box",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Boat rhymes with goat and fits as something to climb into.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Say 'seven slippery snails'. What pattern do you hear?",
+    "audio_prompt": "Say 'seven slippery snails'. What pattern do you hear?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every word is the same word.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated s sounds at the beginnings.",
+        "is_correct": true
+      },
+      {
+        "text": "Every word ends in ail.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The starting sounds repeat although the words differ.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Which line repeats the same word as a chant?",
+    "audio_prompt": "Which line repeats the same word as a chant?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Roll the ball away.",
+        "is_correct": false
+      },
+      {
+        "text": "The round ball rolled.",
+        "is_correct": false
+      },
+      {
+        "text": "Roll, roll, roll along.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeating roll three times creates the chant pattern.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Choose a word that rhymes with deep.",
+    "audio_prompt": "Choose a word that rhymes with deep.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "sleep",
+        "is_correct": true
+      },
+      {
+        "text": "drop",
+        "is_correct": false
+      },
+      {
+        "text": "duck",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sleep and deep have matching ending sounds.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "'Soft sand' and 'sand hand' show different patterns. Which pair repeats a beginning sound?",
+    "audio_prompt": "'Soft sand' and 'sand hand' show different patterns. Which pair repeats a beginning sound?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Both repeat the same beginning sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Soft sand.",
+        "is_correct": true
+      },
+      {
+        "text": "sand hand",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Soft and sand start with s; sand and hand rhyme at the end.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Finish with a word that rhymes and makes sense: 'The bird flew high / across the open ___.'",
+    "audio_prompt": "Finish with a word that rhymes and makes sense: 'The bird flew high / across the open ___.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "pie",
+        "is_correct": false
+      },
+      {
+        "text": "sigh",
+        "is_correct": false
+      },
+      {
+        "text": "sky",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Sky rhymes with high and names the space the bird crosses.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Which line imitates the starting-sound pattern in 'Little lizards leap'?",
+    "audio_prompt": "Which line imitates the starting-sound pattern in 'Little lizards leap'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Playful puppies pounce.",
+        "is_correct": true
+      },
+      {
+        "text": "Puppies run outside.",
+        "is_correct": false
+      },
+      {
+        "text": "Little birds sing.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first line uses three words beginning with the same sound.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Say 'fish, fan, phone'. Why can these words share a beginning-sound pattern?",
+    "audio_prompt": "Say 'fish, fan, phone'. Why can these words share a beginning-sound pattern?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They all have the same number of letters.",
+        "is_correct": false
+      },
+      {
+        "text": "They begin with the f sound despite different spellings.",
+        "is_correct": true
+      },
+      {
+        "text": "They all end in the same sound.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Alliteration concerns sound; ph in phone represents the f sound.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "A poem ends a line with lake. Which ending continues the rhyme?",
+    "audio_prompt": "A poem ends a line with lake. Which ending continues the rhyme?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "leaf",
+        "is_correct": false
+      },
+      {
+        "text": "look",
+        "is_correct": false
+      },
+      {
+        "text": "wake",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Wake matches lake's ending sound.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Which revision adds alliteration to 'The dog runs'?",
+    "audio_prompt": "Which revision adds alliteration to 'The dog runs'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The daring dog dashes.",
+        "is_correct": true
+      },
+      {
+        "text": "The dog runs quickly.",
+        "is_correct": false
+      },
+      {
+        "text": "The dog goes home.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The repeated d sound links daring, dog and dashes.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Finish the chant's pattern: 'Clap and tap. Clap and tap. ___'",
+    "audio_prompt": "Finish the chant's pattern: 'Clap and tap. Clap and tap. ___'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sit beside the door.",
+        "is_correct": false
+      },
+      {
+        "text": "Clap and tap.",
+        "is_correct": true
+      },
+      {
+        "text": "Tap and run away.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeating the phrase continues the established chant.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "'Brown bears bounce.' Which word could replace bears while keeping the starting-sound pattern?",
+    "audio_prompt": "'Brown bears bounce.' Which word could replace bears while keeping the starting-sound pattern?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "rabbits",
+        "is_correct": false
+      },
+      {
+        "text": "hares",
+        "is_correct": false
+      },
+      {
+        "text": "bunnies",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Bunnies starts with the same b sound as brown and bounce.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "A rhyme ends 'The tiny snail / left a silver trail.' Which word could replace trail and still rhyme with snail?",
+    "audio_prompt": "A rhyme ends 'The tiny snail / left a silver trail.' Which word could replace trail and still rhyme with snail?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "rail",
+        "is_correct": true
+      },
+      {
+        "text": "road",
+        "is_correct": false
+      },
+      {
+        "text": "path",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rail preserves the ending sound, though a rewritten line must also make sense.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "A writer chooses 'The cat sat on a hat' instead of 'The cat sat on a chair'. What sound pattern is added?",
+    "audio_prompt": "A writer chooses 'The cat sat on a hat' instead of 'The cat sat on a chair'. What sound pattern is added?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every word has the same ending letter only.",
+        "is_correct": false
+      },
+      {
+        "text": "Rhyme among cat, sat and hat.",
+        "is_correct": true
+      },
+      {
+        "text": "All words begin with c.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The repeated at sound creates rhyme through several words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Which line keeps both alliteration and a sensible action?",
+    "audio_prompt": "Which line keeps both alliteration and a sensible action?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Drowsy ducks doors.",
+        "is_correct": false
+      },
+      {
+        "text": "Drowsy ducks blue.",
+        "is_correct": false
+      },
+      {
+        "text": "Drowsy ducks doze.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Doze repeats d and supplies a sensible action; matching sounds alone are not enough.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Say 'city cat'. Why is this not the same repeated beginning sound?",
+    "audio_prompt": "Say 'city cat'. Why is this not the same repeated beginning sound?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "City starts with s; cat starts with k.",
+        "is_correct": true
+      },
+      {
+        "text": "Both start with exactly the same sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither word has a beginning sound.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The same first letter can represent different sounds.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Complete: 'The frog sat by the bog / beside a fallen ___.'",
+    "audio_prompt": "Complete: 'The frog sat by the bog / beside a fallen ___.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "doggy",
+        "is_correct": false
+      },
+      {
+        "text": "log",
+        "is_correct": true
+      },
+      {
+        "text": "fog",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Log rhymes with bog and makes sense as a fallen object.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "A poem changes 'whispering willows' to 'quiet trees'. What is lost?",
+    "audio_prompt": "A poem changes 'whispering willows' to 'quiet trees'. What is lost?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "All meaning about trees.",
+        "is_correct": false
+      },
+      {
+        "text": "The ability to read the words.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated w sound.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The meaning remains related, but the alliteration disappears.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Which invented chant follows 'Hop, hop, stop' with the same short repeated-word pattern?",
+    "audio_prompt": "Which invented chant follows 'Hop, hop, stop' with the same short repeated-word pattern?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Spin, spin, grin.",
+        "is_correct": true
+      },
+      {
+        "text": "Spin around the playground.",
+        "is_correct": false
+      },
+      {
+        "text": "We can spin together.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first repeats a short word twice then ends with another short rhyming word.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "A child says 'blue shoe' is alliteration because it sounds alike. What is the better description?",
+    "audio_prompt": "A child says 'blue shoe' is alliteration because it sounds alike. What is the better description?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It repeats the exact same word.",
+        "is_correct": false
+      },
+      {
+        "text": "It rhymes at the end.",
+        "is_correct": true
+      },
+      {
+        "text": "It repeats the b sound at the beginning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Blue and shoe share ending sounds but begin differently.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-p-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "practice",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Which ending preserves rhyme and sense: 'We saw a star / above the hills so ___'?",
+    "audio_prompt": "Which ending preserves rhyme and sense: 'We saw a star / above the hills so ___'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "car",
+        "is_correct": false
+      },
+      {
+        "text": "jar",
+        "is_correct": false
+      },
+      {
+        "text": "far",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Far rhymes with star and fits the sentence meaning.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Say 'merry mice munch'. Which sound repeats at the start?",
+    "audio_prompt": "Say 'merry mice munch'. Which sound repeats at the start?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "m",
+        "is_correct": true
+      },
+      {
+        "text": "ch",
+        "is_correct": false
+      },
+      {
+        "text": "s",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "All three words begin with the m sound.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Which pair rhymes?",
+    "audio_prompt": "Which pair rhymes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "stone and storm",
+        "is_correct": false
+      },
+      {
+        "text": "stone and alone",
+        "is_correct": true
+      },
+      {
+        "text": "stone and stick",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Stone and alone share their final stressed sound pattern.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Complete an alliterative line: 'Fuzzy foxes ___.'",
+    "audio_prompt": "Complete an alliterative line: 'Fuzzy foxes ___.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "sleep",
+        "is_correct": false
+      },
+      {
+        "text": "jump",
+        "is_correct": false
+      },
+      {
+        "text": "frolic",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Frolic repeats the f sound that begins fuzzy and foxes.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Finish the rhyme: 'The kitten found a cap / and curled up for a ___.'",
+    "audio_prompt": "Finish the rhyme: 'The kitten found a cap / and curled up for a ___.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "nap",
+        "is_correct": true
+      },
+      {
+        "text": "meal",
+        "is_correct": false
+      },
+      {
+        "text": "rest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Nap rhymes with cap and fits the kitten resting.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "What repeats in 'Down we go, down we go, into snow'?",
+    "audio_prompt": "What repeats in 'Down we go, down we go, into snow'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The whole line three times.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase down we go.",
+        "is_correct": true
+      },
+      {
+        "text": "Only the word snow.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The repeated phrase creates a recognisable pattern.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Choose a word that rhymes with gate.",
+    "audio_prompt": "Choose a word that rhymes with gate.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "goat",
+        "is_correct": false
+      },
+      {
+        "text": "get",
+        "is_correct": false
+      },
+      {
+        "text": "late",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Late and gate have the same ending sound.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Which phrase uses alliteration?",
+    "audio_prompt": "Which phrase uses alliteration?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "pattering paws",
+        "is_correct": true
+      },
+      {
+        "text": "paws claws",
+        "is_correct": false
+      },
+      {
+        "text": "quiet paws",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Pattering and paws share a starting p sound; paws and claws rhyme.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Which new line copies the repeated starting-sound pattern of 'Wild winds whistle'?",
+    "audio_prompt": "Which new line copies the repeated starting-sound pattern of 'Wild winds whistle'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The wind is cold.",
+        "is_correct": false
+      },
+      {
+        "text": "Small snakes slide.",
+        "is_correct": true
+      },
+      {
+        "text": "Snakes move quietly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The repeated s sound gives the new line a similar pattern with different words.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Say 'knit, nest, nose'. Why can they form an alliterative group?",
+    "audio_prompt": "Say 'knit, nest, nose'. Why can they form an alliterative group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Each begins with a spoken k sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Each ends with the same sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Each begins with the n sound.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The k in knit is silent, so its first spoken sound is n.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Complete: 'We found a nest / where birds could ___.'",
+    "audio_prompt": "Complete: 'We found a nest / where birds could ___.'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "rest",
+        "is_correct": true
+      },
+      {
+        "text": "best",
+        "is_correct": false
+      },
+      {
+        "text": "chest",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rest rhymes with nest and fits as an action the birds can do.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "A child writes 'bouncy balls bounce' then changes balls to toys. What sound pattern becomes weaker?",
+    "audio_prompt": "A child writes 'bouncy balls bounce' then changes balls to toys. What sound pattern becomes weaker?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The number of story characters.",
+        "is_correct": false
+      },
+      {
+        "text": "The repeated b sound.",
+        "is_correct": true
+      },
+      {
+        "text": "A rhyme between all the endings.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Toys does not begin with b, so the alliterative chain is interrupted.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Which line keeps a repeated beginning sound and a complete idea?",
+    "audio_prompt": "Which line keeps a repeated beginning sound and a complete idea?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sleepy sloths spoons.",
+        "is_correct": false
+      },
+      {
+        "text": "Sleepy sloths green.",
+        "is_correct": false
+      },
+      {
+        "text": "Sleepy sloths snooze.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Snooze repeats s and tells a sensible action.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Say 'giant goat'. Why do the first letters not make this alliteration?",
+    "audio_prompt": "Say 'giant goat'. Why do the first letters not make this alliteration?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Giant begins with a j sound; goat begins with a hard g sound.",
+        "is_correct": true
+      },
+      {
+        "text": "Both begin with the same sound.",
+        "is_correct": false
+      },
+      {
+        "text": "Alliteration depends only on spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Listen to the sounds rather than deciding from the shared letter g.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "A rhyme needs a line ending to match light. Which sentence fits both sound and meaning?",
+    "audio_prompt": "A rhyme needs a line ending to match light. Which sentence fits both sound and meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "We watched the stars at moon.",
+        "is_correct": false
+      },
+      {
+        "text": "We watched the stars at night.",
+        "is_correct": true
+      },
+      {
+        "text": "We watched the stars at kite.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Night rhymes with light and makes sense as the time for seeing stars.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "Which chant copies the pattern 'Tap, tap, clap' with different words?",
+    "audio_prompt": "Which chant copies the pattern 'Tap, tap, clap' with different words?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Sway slowly beside me.",
+        "is_correct": false
+      },
+      {
+        "text": "Stay here and then sway.",
+        "is_correct": false
+      },
+      {
+        "text": "Sway, sway, stay.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The first keeps the repeated short word followed by a rhyming short word.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  },
+  {
+    "id": "ac9e1le04-er3-t-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LE04",
+    "bank": "test",
+    "skill": "imitating and inventing alliteration, rhyme and sound patterns",
+    "question": "A child calls 'green bean' alliteration. Which correction fits?",
+    "audio_prompt": "A child calls 'green bean' alliteration. Which correction fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The words rhyme but start with different sounds.",
+        "is_correct": true
+      },
+      {
+        "text": "Both words begin with the g sound.",
+        "is_correct": false
+      },
+      {
+        "text": "They have no sound pattern at all.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Green and bean share the een ending sound, creating rhyme rather than alliteration.",
+      "hint": "Read the whole example and check what the question asks."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "review": {
+      "version": "20260906-english-review-3",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-rhyme",
+      "evidence_scope": "Representative related IXL task inspected; curriculum determines full coverage. See docs/question-bank-reviews/2026-09-06-year1-english-le01-le05.md. No measured equivalence or IXL endorsement."
+    }
+  }
+]

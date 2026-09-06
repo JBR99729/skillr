@@ -1,0 +1,236 @@
+"use strict";
+window.skillrPracticeQuestions = [
+  {
+    "id": "ac9m10a02-p-001",
+    "curriculumCode": "AC9M10A02",
+    "bank": "practice",
+    "skill": "explore situations involving linear equations in context such as multiple quotes for a job or profit and loss solving the equations graphically giving solutions in everyday language",
+    "printable": true,
+    "type": "single",
+    "question": "A Year 10 student is solving a problem involving explore situations involving linear equations in context such as multiple quotes for a job or profit and loss solving the equations graphically giving solutions in everyday language. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore situations involving linear equations in context such as multiple quotes for a job or profit and loss solving the equations graphically giving solutions in everyday language. Which option is mathematically valid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "investigating situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language, such as “break-even point” or “point to change providers” for the job",
+      "A rule is applied without preserving equivalence or its conditions",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
+    ],
+    "correct": 0,
+    "explanation": "investigating situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language, such as “break-even point” or “point to change providers” for the job\nHint: Explore situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language.",
+    "structuredExplanation": {
+      "summary": "investigating situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language, such as “break-even point” or “point to change providers” for the job",
+      "hint": "Explore situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m10a02-p-002",
+    "curriculumCode": "AC9M10A02",
+    "bank": "practice",
+    "skill": "describe the solution of simultaneous equations within the context of the situation",
+    "printable": true,
+    "type": "single",
+    "question": "A Year 10 student is solving a problem involving describe the solution of simultaneous equations within the context of the situation. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving describe the solution of simultaneous equations within the context of the situation. Which option is mathematically valid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The simultaneous equations and inequalities model is copied without interpretation",
+      "describing the solution of simultaneous equations within the context of the situation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
+    ],
+    "correct": 1,
+    "explanation": "describing the solution of simultaneous equations within the context of the situation\nHint: Describe the solution of simultaneous equations within the context of the situation.",
+    "structuredExplanation": {
+      "summary": "describing the solution of simultaneous equations within the context of the situation",
+      "hint": "Describe the solution of simultaneous equations within the context of the situation."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m10a02-p-003",
+    "curriculumCode": "AC9M10A02",
+    "bank": "practice",
+    "skill": "graphing regions corresponding to inequalities in the cartesian plane",
+    "printable": true,
+    "type": "single",
+    "question": "A Year 10 student is solving a problem involving graphing regions corresponding to inequalities in the cartesian plane. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving graphing regions corresponding to inequalities in the cartesian plane. Which option is mathematically valid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The result is not verified",
+      "The method can be chosen without checking the values or conditions",
+      "graphing regions corresponding to inequalities in the Cartesian plane; for example, graphing 2x+3y<24 and verifying using a test point such as (0, 0)",
+      "The same rule and result apply to every situation without testing"
+    ],
+    "correct": 2,
+    "explanation": "graphing regions corresponding to inequalities in the Cartesian plane; for example, graphing 2x+3y<24 and verifying using a test point such as (0, 0)\nHint: graphing regions corresponding to inequalities in the Cartesian plane.",
+    "structuredExplanation": {
+      "summary": "graphing regions corresponding to inequalities in the Cartesian plane; for example, graphing 2x+3y<24 and verifying using a test point such as (0, 0)",
+      "hint": "graphing regions corresponding to inequalities in the Cartesian plane."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m10a02-p-004",
+    "curriculumCode": "AC9M10A02",
+    "bank": "practice",
+    "skill": "identify all the combinations of trips to the movies each costing 12 and ice skating sessions each costing 21",
+    "printable": true,
+    "type": "single",
+    "question": "A Year 10 student is solving a problem involving identify all the combinations of trips to the movies each costing 12 and ice skating sessions each costing 21. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving identify all the combinations of trips to the movies each costing 12 and ice skating sessions each costing 21. Which option is mathematically valid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A rule is applied without preserving equivalence or its conditions",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "identifying all the combinations of trips to the movies, each costing \\$12, and ice-skating sessions, each costing \\$21, as the integer solutions for an entertainment budget of up to \\$150 for the school holidays; expressing algebraically as 12m+21s\\leq150"
+    ],
+    "correct": 3,
+    "explanation": "identifying all the combinations of trips to the movies, each costing \\$12, and ice-skating sessions, each costing \\$21, as the integer solutions for an entertainment budget of up to \\$150 for the school holidays; expressing algebraically as 12m+21s\\leq150\nHint: Identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21.",
+    "structuredExplanation": {
+      "summary": "identifying all the combinations of trips to the movies, each costing \\$12, and ice-skating sessions, each costing \\$21, as the integer solutions for an entertainment budget of up to \\$150 for the school holidays; expressing algebraically as 12m+21s\\leq150",
+      "hint": "Identify all the combinations of trips to the movies, each costing $12, and ice-skating sessions, each costing $21."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m10a02-p-005",
+    "curriculumCode": "AC9M10A02",
+    "bank": "practice",
+    "skill": "test when a circle of a specified radius has a corresponding area greater than a given value or whether a point satisfies an inequality",
+    "printable": true,
+    "type": "single",
+    "question": "A Year 10 student is solving a problem involving test when a circle of a specified radius has a corresponding area greater than a given value or whether a point satisfies an inequality. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving test when a circle of a specified radius has a corresponding area greater than a given value or whether a point satisfies an inequality. Which option is mathematically valid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "testing when a circle of a specified radius has a corresponding area greater than a given value, or whether a point satisfies an inequality; for example, whether the point (3, 5) satisfies 2y<x^2",
+      "The simultaneous equations and inequalities model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
+    ],
+    "correct": 0,
+    "explanation": "testing when a circle of a specified radius has a corresponding area greater than a given value, or whether a point satisfies an inequality; for example, whether the point (3, 5) satisfies 2y<x^2\nHint: Test when a circle of a specified radius has a corresponding area greater than a given value, or whether a point satisfies an inequality.",
+    "structuredExplanation": {
+      "summary": "testing when a circle of a specified radius has a corresponding area greater than a given value, or whether a point satisfies an inequality; for example, whether the point (3, 5) satisfies 2y<x^2",
+      "hint": "Test when a circle of a specified radius has a corresponding area greater than a given value, or whether a point satisfies an inequality."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m10a02-p-006",
+    "curriculumCode": "AC9M10A02",
+    "bank": "practice",
+    "skill": "explore the strategies inherent in first nations australian children s instructive games",
+    "printable": true,
+    "type": "single",
+    "question": "A Year 10 student is solving a problem involving explore the strategies inherent in first nations australian children s instructive games. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore the strategies inherent in first nations australian children s instructive games. Which option is mathematically valid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The result is not verified",
+      "investigating the strategies inherent in First Nations Australian children’s instructive games; for example, Weme from the Warlpiri Peoples of central Australia, and their connection to strategies to solve simultaneous linear equations in 2 variables",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing"
+    ],
+    "correct": 1,
+    "explanation": "investigating the strategies inherent in First Nations Australian children’s instructive games; for example, Weme from the Warlpiri Peoples of central Australia, and their connection to strategies to solve simultaneous linear equations in 2 variables\nHint: Explore the strategies inherent in First Nations Australian children’s instructive games.",
+    "structuredExplanation": {
+      "summary": "investigating the strategies inherent in First Nations Australian children’s instructive games; for example, Weme from the Warlpiri Peoples of central Australia, and their connection to strategies to solve simultaneous linear equations in 2 variables",
+      "hint": "Explore the strategies inherent in First Nations Australian children’s instructive games."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m10a02-p-007",
+    "curriculumCode": "AC9M10A02",
+    "bank": "practice",
+    "skill": "explore situations involving linear equations in context such as multiple quotes for a job or profit and loss solving the equations graphically giving solutions in everyday language",
+    "printable": true,
+    "type": "single",
+    "question": "A Year 10 student is solving a problem involving explore situations involving linear equations in context such as multiple quotes for a job or profit and loss solving the equations graphically giving solutions in everyday language. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving explore situations involving linear equations in context such as multiple quotes for a job or profit and loss solving the equations graphically giving solutions in everyday language. Which option is mathematically valid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A rule is applied without preserving equivalence or its conditions",
+      "The method can be chosen without checking the values or conditions",
+      "investigating situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language, such as “break-even point” or “point to change providers” for the job",
+      "The same rule and result apply to every situation without testing"
+    ],
+    "correct": 2,
+    "explanation": "investigating situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language, such as “break-even point” or “point to change providers” for the job\nHint: Explore situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language.",
+    "structuredExplanation": {
+      "summary": "investigating situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language, such as “break-even point” or “point to change providers” for the job",
+      "hint": "Explore situations involving linear equations in context, such as multiple quotes for a job, or profit and loss; solving the equations graphically, giving solutions in everyday language."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m10a02-p-008",
+    "curriculumCode": "AC9M10A02",
+    "bank": "practice",
+    "skill": "describe the solution of simultaneous equations within the context of the situation",
+    "printable": true,
+    "type": "single",
+    "question": "A Year 10 student is solving a problem involving describe the solution of simultaneous equations within the context of the situation. Which option is mathematically valid?",
+    "audioPrompt": "A Year 10 student is solving a problem involving describe the solution of simultaneous equations within the context of the situation. Which option is mathematically valid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The simultaneous equations and inequalities model is copied without interpretation",
+      "The method can be chosen without checking the values or conditions",
+      "The same rule and result apply to every situation without testing",
+      "describing the solution of simultaneous equations within the context of the situation"
+    ],
+    "correct": 3,
+    "explanation": "describing the solution of simultaneous equations within the context of the situation\nHint: Describe the solution of simultaneous equations within the context of the situation.",
+    "structuredExplanation": {
+      "summary": "describing the solution of simultaneous equations within the context of the situation",
+      "hint": "Describe the solution of simultaneous equations within the context of the situation."
+    },
+    "qualitySchema": "production-v1"
+  }
+];
+window.quizQuestions = window.skillrPracticeQuestions;

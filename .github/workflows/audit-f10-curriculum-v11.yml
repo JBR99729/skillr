@@ -1,0 +1,39 @@
+name: Report F-10 curriculum v1.1 coverage
+
+on:
+  workflow_dispatch:
+    inputs:
+      strict:
+        description: Fail when legacy migration warnings remain
+        required: false
+        type: boolean
+        default: false
+  schedule:
+    - cron: '17 3 * * 1'
+  pull_request:
+    paths:
+      - 'scripts/audit_f10_curriculum_v11.py'
+      - '.github/workflows/audit-f10-curriculum-v11.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit indexed curriculum routes against live v1.1
+        env:
+          STRICT: ${{ inputs.strict || false }}
+        run: |
+          args=()
+          if [[ "$STRICT" == "true" ]]; then args+=(--strict); fi
+          python3 scripts/audit_f10_curriculum_v11.py "${args[@]}"
+      - name: Upload audit report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: f10-curriculum-v11-audit
+          path: tmp/f10-curriculum-v11-audit.json
+          if-no-files-found: error

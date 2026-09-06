@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "ac9e1ly13-er6-p-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Say 'cat' in 'The cat is asleep.' Ask the child to spell the target on paper.",
+    "audio_prompt": "Grown-up: hide the screen. Say 'cat' in 'The cat is asleep.' Ask the child to spell the target on paper.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 1,
+    "explanation": {
+      "summary": "Cat: c-a-t. Check the short vowel and all three letters in order. Read the sentence aloud without displaying the spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Cat: c-a-t. Check the short vowel and all three letters in order. Read the sentence aloud without displaying the spelling.",
+    "acceptance_note": "Cat: c-a-t. Check the short vowel and all three letters in order. Read the sentence aloud without displaying the spelling.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'red' in 'I chose red paint.' Ask for the written word.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'red' in 'I chose red paint.' Ask for the written word.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 2,
+    "explanation": {
+      "summary": "Red: r-e-d. Check the short e and the ending d; do not accept a similar-looking real word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Red: r-e-d. Check the short e and the ending d; do not accept a similar-looking real word.",
+    "acceptance_note": "Red: r-e-d. Check the short e and the ending d; do not accept a similar-looking real word.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the screen hidden. Say 'fish' and ask the child to write it.",
+    "audio_prompt": "Grown-up: keep the screen hidden. Say 'fish' and ask the child to write it.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 3,
+    "explanation": {
+      "summary": "Fish: f-i-s-h. The final sh is a common two-letter spelling for one sound.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Fish: f-i-s-h. The final sh is a common two-letter spelling for one sound.",
+    "acceptance_note": "Fish: f-i-s-h. The final sh is a common two-letter spelling for one sound.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Say 'duck' in 'The duck swims.' Ask the child to spell duck.",
+    "audio_prompt": "Grown-up: hide the screen. Say 'duck' in 'The duck swims.' Ask the child to spell duck.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 4,
+    "explanation": {
+      "summary": "Duck: d-u-c-k. Check the short vowel and the common ck ending.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Duck: d-u-c-k. Check the short vowel and the common ck ending.",
+    "acceptance_note": "Duck: d-u-c-k. Check the short vowel and the common ck ending.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'bell' and ask for its spelling.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'bell' and ask for its spelling.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 5,
+    "explanation": {
+      "summary": "Bell: b-e-l-l. The standard spelling ends in ll even though the final phoneme is one sound.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Bell: b-e-l-l. The standard spelling ends in ll even though the final phoneme is one sound.",
+    "acceptance_note": "Bell: b-e-l-l. The standard spelling ends in ll even though the final phoneme is one sound.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the model hidden. Say 'shop' in 'We went to the shop.' Ask the child to write the word.",
+    "audio_prompt": "Grown-up: keep the model hidden. Say 'shop' in 'We went to the shop.' Ask the child to write the word.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 6,
+    "explanation": {
+      "summary": "Shop: s-h-o-p. Check the initial sh digraph and short o spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Shop: s-h-o-p. Check the initial sh digraph and short o spelling.",
+    "acceptance_note": "Shop: s-h-o-p. Check the initial sh digraph and short o spelling.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Say 'chin' and ask the child to spell the word.",
+    "audio_prompt": "Grown-up: hide the screen. Say 'chin' and ask the child to spell the word.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 7,
+    "explanation": {
+      "summary": "Chin: c-h-i-n. Check the initial ch digraph followed by i and n.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Chin: c-h-i-n. Check the initial ch digraph followed by i and n.",
+    "acceptance_note": "Chin: c-h-i-n. Check the initial ch digraph followed by i and n.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the screen hidden. Dictate 'thin' in 'This paper is thin.' Ask for the target spelling.",
+    "audio_prompt": "Grown-up: keep the screen hidden. Dictate 'thin' in 'This paper is thin.' Ask for the target spelling.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "sequence_priority": 8,
+    "explanation": {
+      "summary": "Thin: t-h-i-n. The beginning th is a digraph representing one sound here.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Thin: t-h-i-n. The beginning th is a digraph representing one sound here.",
+    "acceptance_note": "Thin: t-h-i-n. The beginning th is a digraph representing one sound here.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Say 'flag'. Ask the child to write it and check the two beginning consonants.",
+    "audio_prompt": "Grown-up: hide the screen. Say 'flag'. Ask the child to write it and check the two beginning consonants.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 9,
+    "explanation": {
+      "summary": "Flag: f-l-a-g. Retain both consonants in the initial blend.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Flag: f-l-a-g. Retain both consonants in the initial blend.",
+    "acceptance_note": "Flag: f-l-a-g. Retain both consonants in the initial blend.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'nest'. Ask the child to write it and check the ending.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'nest'. Ask the child to write it and check the ending.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 10,
+    "explanation": {
+      "summary": "Nest: n-e-s-t. The final cluster needs both s and t.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Nest: n-e-s-t. The final cluster needs both s and t.",
+    "acceptance_note": "Nest: n-e-s-t. The final cluster needs both s and t.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the screen hidden. Say 'stamp' in 'Put a stamp on the letter.' Ask for the written target.",
+    "audio_prompt": "Grown-up: keep the screen hidden. Say 'stamp' in 'Put a stamp on the letter.' Ask for the written target.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 11,
+    "explanation": {
+      "summary": "Stamp: s-t-a-m-p. Check both the initial st and final mp clusters.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Stamp: s-t-a-m-p. Check both the initial st and final mp clusters.",
+    "acceptance_note": "Stamp: s-t-a-m-p. Check both the initial st and final mp clusters.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the model. Say 'brush' and ask the child to spell it.",
+    "audio_prompt": "Grown-up: hide the model. Say 'brush' and ask the child to spell it.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 12,
+    "explanation": {
+      "summary": "Brush: b-r-u-s-h. The beginning blend and final digraph both need to be represented.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Brush: b-r-u-s-h. The beginning blend and final digraph both need to be represented.",
+    "acceptance_note": "Brush: b-r-u-s-h. The beginning blend and final digraph both need to be represented.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'rain' in 'The rain has stopped.' Ask for the spelling.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'rain' in 'The rain has stopped.' Ask for the spelling.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 13,
+    "explanation": {
+      "summary": "Rain: r-a-i-n. The common ai pattern spells the long a sound in this weather word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Rain: r-a-i-n. The common ai pattern spells the long a sound in this weather word.",
+    "acceptance_note": "Rain: r-a-i-n. The common ai pattern spells the long a sound in this weather word.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Say 'day' in 'It was a sunny day.' Ask the child to write day.",
+    "audio_prompt": "Grown-up: hide the screen. Say 'day' in 'It was a sunny day.' Ask the child to write day.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 14,
+    "explanation": {
+      "summary": "Day: d-a-y. The common ay ending represents the long a sound.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Day: d-a-y. The common ay ending represents the long a sound.",
+    "acceptance_note": "Day: d-a-y. The common ay ending represents the long a sound.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the screen hidden. Dictate 'feet' and ask the child to spell it.",
+    "audio_prompt": "Grown-up: keep the screen hidden. Dictate 'feet' and ask the child to spell it.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 15,
+    "explanation": {
+      "summary": "Feet: f-e-e-t. Check the ee pattern in this word, not a spelling of the sound alone.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Feet: f-e-e-t. Check the ee pattern in this word, not a spelling of the sound alone.",
+    "acceptance_note": "Feet: f-e-e-t. Check the ee pattern in this word, not a spelling of the sound alone.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Say 'boat' in 'The boat floats.' Ask for its spelling.",
+    "audio_prompt": "Grown-up: hide the screen. Say 'boat' in 'The boat floats.' Ask for its spelling.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "sequence_priority": 16,
+    "explanation": {
+      "summary": "Boat: b-o-a-t. The long o sound is represented by oa in this word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Boat: b-o-a-t. The long o sound is represented by oa in this word.",
+    "acceptance_note": "Boat: b-o-a-t. The long o sound is represented by oa in this word.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-017",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'cake'. Ask the child to write it and re-read the spelling before finishing.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'cake'. Ask the child to write it and re-read the spelling before finishing.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 17,
+    "explanation": {
+      "summary": "Cake: c-a-k-e. Check the a-consonant-e pattern, including the final e.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Cake: c-a-k-e. Check the a-consonant-e pattern, including the final e.",
+    "acceptance_note": "Cake: c-a-k-e. Check the a-consonant-e pattern, including the final e.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-018",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the screen hidden. Say 'time' in 'It is time to go.' Ask the child to spell time.",
+    "audio_prompt": "Grown-up: keep the screen hidden. Say 'time' in 'It is time to go.' Ask the child to spell time.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 18,
+    "explanation": {
+      "summary": "Time: t-i-m-e. Include the final e that belongs to this common long i pattern.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Time: t-i-m-e. Include the final e that belongs to this common long i pattern.",
+    "acceptance_note": "Time: t-i-m-e. Include the final e that belongs to this common long i pattern.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-019",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'home'. Ask the child to write and check it.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'home'. Ask the child to write and check it.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 19,
+    "explanation": {
+      "summary": "Home: h-o-m-e. Check the long o pattern with final e, not hom.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Home: h-o-m-e. Check the long o pattern with final e, not hom.",
+    "acceptance_note": "Home: h-o-m-e. Check the long o pattern with final e, not hom.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-020",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the screen hidden. Say 'sunset' in 'The sunset was bright.' Ask for the spelling.",
+    "audio_prompt": "Grown-up: keep the screen hidden. Say 'sunset' in 'The sunset was bright.' Ask for the spelling.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 20,
+    "explanation": {
+      "summary": "Sunset: s-u-n-s-e-t. Both short-vowel syllables need to be represented in order.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Sunset: s-u-n-s-e-t. Both short-vowel syllables need to be represented in order.",
+    "acceptance_note": "Sunset: s-u-n-s-e-t. Both short-vowel syllables need to be represented in order.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-021",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Say 'rabbit'. Ask the child to spell it and check both spoken parts.",
+    "audio_prompt": "Grown-up: hide the screen. Say 'rabbit'. Ask the child to spell it and check both spoken parts.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 21,
+    "explanation": {
+      "summary": "Rabbit: r-a-b-b-i-t. Check the double b and the vowels a and i in the standard spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Rabbit: r-a-b-b-i-t. Check the double b and the vowels a and i in the standard spelling.",
+    "acceptance_note": "Rabbit: r-a-b-b-i-t. Check the double b and the vowels a and i in the standard spelling.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-022",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'napkin'. Ask for a spelling, then invite the child to check both syllables.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'napkin'. Ask for a spelling, then invite the child to check both syllables.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 22,
+    "explanation": {
+      "summary": "Napkin: n-a-p-k-i-n. Retain the two vowel letters and the consonants in order.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Napkin: n-a-p-k-i-n. Retain the two vowel letters and the consonants in order.",
+    "acceptance_note": "Napkin: n-a-p-k-i-n. Retain the two vowel letters and the consonants in order.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-023",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the screen hidden. Say 'sandpit'. Ask the child to write it and check both parts.",
+    "audio_prompt": "Grown-up: keep the screen hidden. Say 'sandpit'. Ask the child to write it and check both parts.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 23,
+    "explanation": {
+      "summary": "Sandpit: s-a-n-d-p-i-t. Keep sand and pit complete, including the adjacent d and p.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Sandpit: s-a-n-d-p-i-t. Keep sand and pit complete, including the adjacent d and p.",
+    "acceptance_note": "Sandpit: s-a-n-d-p-i-t. Keep sand and pit complete, including the adjacent d and p.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-p-024",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "practice",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'raincoat' in 'I wore a raincoat.' Ask the child to spell it.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'raincoat' in 'I wore a raincoat.' Ask the child to spell it.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "sequence_priority": 24,
+    "explanation": {
+      "summary": "Raincoat: r-a-i-n-c-o-a-t. Check the ai and oa patterns in the two familiar parts.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Raincoat: r-a-i-n-c-o-a-t. Check the ai and oa patterns in the two familiar parts.",
+    "acceptance_note": "Raincoat: r-a-i-n-c-o-a-t. Check the ai and oa patterns in the two familiar parts.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-001",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Say 'peg' in 'Put the peg on the line.' Ask for the spelling.",
+    "audio_prompt": "Grown-up: hide the screen. Say 'peg' in 'Put the peg on the line.' Ask for the spelling.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "explanation": {
+      "summary": "Peg: p-e-g. Check the short e and final g rather than a nearby-sounding word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Peg: p-e-g. Check the short e and final g rather than a nearby-sounding word.",
+    "acceptance_note": "Peg: p-e-g. Check the short e and final g rather than a nearby-sounding word.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-002",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the screen hidden. Dictate 'sock' and ask for the written word.",
+    "audio_prompt": "Grown-up: keep the screen hidden. Dictate 'sock' and ask for the written word.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "explanation": {
+      "summary": "Sock: s-o-c-k. Check the common ck ending after the short vowel.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Sock: s-o-c-k. Check the common ck ending after the short vowel.",
+    "acceptance_note": "Sock: s-o-c-k. Check the common ck ending after the short vowel.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-003",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Say 'ship' and ask the child to spell it.",
+    "audio_prompt": "Grown-up: hide the screen. Say 'ship' and ask the child to spell it.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "explanation": {
+      "summary": "Ship: s-h-i-p. The beginning sh is one sound represented with two letters.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Ship: s-h-i-p. The beginning sh is one sound represented with two letters.",
+    "acceptance_note": "Ship: s-h-i-p. The beginning sh is one sound represented with two letters.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-004",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the screen hidden. Say 'chop' in 'We chop the soft fruit.' Ask for the spelling.",
+    "audio_prompt": "Grown-up: keep the screen hidden. Say 'chop' in 'We chop the soft fruit.' Ask for the spelling.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "explanation": {
+      "summary": "Chop: c-h-o-p. Check the ch digraph and short o in the target word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Chop: c-h-o-p. Check the ch digraph and short o in the target word.",
+    "acceptance_note": "Chop: c-h-o-p. Check the ch digraph and short o in the target word.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-005",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'clap'. Ask the child to write the word.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'clap'. Ask the child to write the word.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "explanation": {
+      "summary": "Clap: c-l-a-p. Both beginning consonants must be retained.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Clap: c-l-a-p. Both beginning consonants must be retained.",
+    "acceptance_note": "Clap: c-l-a-p. Both beginning consonants must be retained.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-006",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the model hidden. Say 'hand'. Ask for its written spelling.",
+    "audio_prompt": "Grown-up: keep the model hidden. Say 'hand'. Ask for its written spelling.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "explanation": {
+      "summary": "Hand: h-a-n-d. Check that both final consonants appear in the correct order.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Hand: h-a-n-d. Check that both final consonants appear in the correct order.",
+    "acceptance_note": "Hand: h-a-n-d. Check that both final consonants appear in the correct order.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-007",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'green'. Ask for the spelling.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'green'. Ask for the spelling.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "explanation": {
+      "summary": "Green: g-r-e-e-n. Check the gr blend and ee vowel spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Green: g-r-e-e-n. Check the gr blend and ee vowel spelling.",
+    "acceptance_note": "Green: g-r-e-e-n. Check the gr blend and ee vowel spelling.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-008",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Say 'beach' in 'We walked on the beach.' Ask the child to write beach.",
+    "audio_prompt": "Grown-up: hide the screen. Say 'beach' in 'We walked on the beach.' Ask the child to write beach.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "explanation": {
+      "summary": "Beach: b-e-a-c-h. The common ea and ch patterns both belong in the spelling.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Beach: b-e-a-c-h. The common ea and ch patterns both belong in the spelling.",
+    "acceptance_note": "Beach: b-e-a-c-h. The common ea and ch patterns both belong in the spelling.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-009",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the screen hidden. Say 'play' in 'We can play outside.' Ask for the written word.",
+    "audio_prompt": "Grown-up: keep the screen hidden. Say 'play' in 'We can play outside.' Ask for the written word.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "explanation": {
+      "summary": "Play: p-l-a-y. Retain the pl blend and ay ending.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Play: p-l-a-y. Retain the pl blend and ay ending.",
+    "acceptance_note": "Play: p-l-a-y. Retain the pl blend and ay ending.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-010",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'ride' in 'I ride my bike.' Ask the child to spell it.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'ride' in 'I ride my bike.' Ask the child to spell it.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "explanation": {
+      "summary": "Ride: r-i-d-e. Check the final-e pattern for this long i word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Ride: r-i-d-e. Check the final-e pattern for this long i word.",
+    "acceptance_note": "Ride: r-i-d-e. Check the final-e pattern for this long i word.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-011",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the screen hidden. Say 'note' in 'I wrote a note.' Ask for the spelling.",
+    "audio_prompt": "Grown-up: keep the screen hidden. Say 'note' in 'I wrote a note.' Ask for the spelling.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "explanation": {
+      "summary": "Note: n-o-t-e. The final e is required for the target word.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Note: n-o-t-e. The final e is required for the target word.",
+    "acceptance_note": "Note: n-o-t-e. The final e is required for the target word.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-012",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'picnic'. Ask the child to spell both spoken parts.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'picnic'. Ask the child to spell both spoken parts.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "explanation": {
+      "summary": "Picnic: p-i-c-n-i-c. Check both short i vowels and both c letters in order.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Picnic: p-i-c-n-i-c. Check both short i vowels and both c letters in order.",
+    "acceptance_note": "Picnic: p-i-c-n-i-c. Check both short i vowels and both c letters in order.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-013",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Say 'laptop' in 'The laptop is closed.' Ask for its spelling.",
+    "audio_prompt": "Grown-up: hide the screen. Say 'laptop' in 'The laptop is closed.' Ask for its spelling.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "explanation": {
+      "summary": "Laptop: l-a-p-t-o-p. Keep both familiar parts lap and top complete.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Laptop: l-a-p-t-o-p. Keep both familiar parts lap and top complete.",
+    "acceptance_note": "Laptop: l-a-p-t-o-p. Keep both familiar parts lap and top complete.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-014",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the screen hidden. Say 'bedtime'. Ask the child to write and check it.",
+    "audio_prompt": "Grown-up: keep the screen hidden. Say 'bedtime'. Ask the child to write and check it.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "explanation": {
+      "summary": "Bedtime: b-e-d-t-i-m-e. Retain bed and time, including the final e in time.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Bedtime: b-e-d-t-i-m-e. Retain bed and time, including the final e in time.",
+    "acceptance_note": "Bedtime: b-e-d-t-i-m-e. Retain bed and time, including the final e in time.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-015",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: hide the screen. Dictate 'sailboat'. Ask for the complete spelling.",
+    "audio_prompt": "Grown-up: hide the screen. Dictate 'sailboat'. Ask for the complete spelling.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "explanation": {
+      "summary": "Sailboat: s-a-i-l-b-o-a-t. Check the ai and oa vowel patterns in the two parts.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Sailboat: s-a-i-l-b-o-a-t. Check the ai and oa vowel patterns in the two parts.",
+    "acceptance_note": "Sailboat: s-a-i-l-b-o-a-t. Check the ai and oa vowel patterns in the two parts.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  },
+  {
+    "id": "ac9e1ly13-er6-t-016",
+    "subject": "english",
+    "year_level": "Year 1",
+    "curriculum_code": "AC9E1LY13",
+    "bank": "test",
+    "skill": "spelling words with common patterns",
+    "question": "Grown-up: keep the model hidden. Say 'sunshine'. Ask the child to spell it and check both syllables.",
+    "audio_prompt": "Grown-up: keep the model hidden. Say 'sunshine'. Ask the child to spell it and check both syllables.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "explanation": {
+      "summary": "Sunshine: s-u-n-s-h-i-n-e. Retain sun and shine, including sh and the final e.",
+      "hint": "Complete the task before comparing with the model. A grown-up checks reading and writing."
+    },
+    "review": {
+      "version": "20260906-english-review-6",
+      "status": "editorially-reviewed",
+      "ixl_reference_url": "https://au.ixl.com/ela/year-1/complete-the-two-syllable-words",
+      "evidence_scope": "Representative IXL task inspected; response format and curriculum coverage are documented in docs/question-bank-reviews/2026-09-06-year1-english-ly11-ly15.md. No measured equivalence or endorsement."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Sunshine: s-u-n-s-h-i-n-e. Retain sun and shine, including sh and the final e.",
+    "acceptance_note": "Sunshine: s-u-n-s-h-i-n-e. Retain sun and shine, including sh and the final e.",
+    "response_instructions": "A grown-up says the target word without showing its spelling. Write it on paper before checking.",
+    "completion_label": "I have completed the writing on paper."
+  }
+]

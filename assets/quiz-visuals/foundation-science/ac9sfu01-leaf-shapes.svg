@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Two different leaf shapes</title><desc id="desc">One long thin leaf and one broad round leaf shown side by side.</desc>
+  <rect width="640" height="360" rx="24" fill="#f6fbf2"/>
+  <path d="M105 276C119 128 186 64 269 64c-4 102-58 187-164 212Z" fill="#74bb66" stroke="#276b3a" stroke-width="7"/>
+  <path d="M108 276 234 92" stroke="#276b3a" stroke-width="6"/>
+  <ellipse cx="453" cy="169" rx="105" ry="118" fill="#59ad61" stroke="#276b3a" stroke-width="7"/>
+  <path d="M453 286V69" stroke="#276b3a" stroke-width="6"/>
+  <text x="110" y="326" font-family="Arial,sans-serif" font-size="28" fill="#173c25">long and thin</text>
+  <text x="407" y="326" font-family="Arial,sans-serif" font-size="28" fill="#173c25">round</text>
+</svg>

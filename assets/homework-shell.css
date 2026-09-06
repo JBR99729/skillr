@@ -1,0 +1,76 @@
+/* Shared authored-homework shell: branding plus a dormant, print-safe ad zone. */
+.skillr-homework-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 14px;
+  padding: 12px 14px;
+  border: 1px solid #cbd8ea;
+  border-radius: 16px;
+  background: #fff;
+  color: #18324f;
+}
+.skillr-homework-brand__mark {
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  flex: 0 0 42px;
+  border-radius: 12px;
+  background: #2457d6;
+  color: #fff;
+  font-size: 1.35rem;
+  font-weight: 900;
+}
+.skillr-homework-brand strong {
+  display: block;
+  color: #2457d6;
+  font-size: 1.15rem;
+}
+.skillr-homework-brand small {
+  display: block;
+  margin-top: 2px;
+  color: #62748a;
+  font-size: .9rem;
+}
+.skillr-homework-ad-zone[hidden] {
+  display: none !important;
+}
+.skillr-homework-ad-zone:not([hidden]) {
+  box-sizing: border-box;
+  min-height: 280px;
+  margin: 24px 0 14px;
+  padding: 14px;
+  overflow: hidden;
+  border: 1px solid #dce5f1;
+  border-radius: 16px;
+  background: #fff;
+}
+.skillr-homework-ad-label {
+  display: block;
+  margin-bottom: 8px;
+  color: #62748a;
+  font-size: .72rem;
+  letter-spacing: .06em;
+  text-align: center;
+  text-transform: uppercase;
+}
+@media (max-width: 640px) {
+  .skillr-homework-ad-zone:not([hidden]) {
+    min-height: 250px;
+  }
+}
+@media print {
+  .skillr-homework-ad-zone,
+  .skillr-homework-ad-zone *,
+  .google-auto-placed,
+  ins.adsbygoogle {
+    display: none !important;
+  }
+  .skillr-homework-brand {
+    border: 0;
+    border-bottom: 2px solid #2457d6;
+    border-radius: 0;
+    box-shadow: none;
+  }
+}

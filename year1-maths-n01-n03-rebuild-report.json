@@ -1,0 +1,116 @@
+{
+  "codes": {
+    "AC9M1N01": {
+      "practice": {
+        "count": 56,
+        "types": {
+          "single": 29,
+          "number": 21,
+          "order": 3,
+          "true-false": 3
+        },
+        "visualCount": 24,
+        "skillCount": 18
+      },
+      "test": {
+        "count": 24,
+        "types": {
+          "single": 12,
+          "number": 10,
+          "order": 1,
+          "true-false": 1
+        },
+        "visualCount": 11,
+        "skillCount": 18
+      },
+      "quiz": {
+        "count": 100,
+        "types": {
+          "number": 38,
+          "true-false": 6,
+          "single": 51,
+          "order": 5
+        },
+        "visualCount": 44,
+        "skillCount": 18
+      }
+    },
+    "AC9M1N02": {
+      "practice": {
+        "count": 56,
+        "types": {
+          "single": 32,
+          "number": 15,
+          "multiple": 3,
+          "true-false": 3,
+          "order": 3
+        },
+        "visualCount": 18,
+        "skillCount": 18
+      },
+      "test": {
+        "count": 24,
+        "types": {
+          "single": 13,
+          "number": 7,
+          "multiple": 2,
+          "true-false": 1,
+          "order": 1
+        },
+        "visualCount": 9,
+        "skillCount": 18
+      },
+      "quiz": {
+        "count": 100,
+        "types": {
+          "single": 59,
+          "number": 26,
+          "multiple": 5,
+          "true-false": 5,
+          "order": 5
+        },
+        "visualCount": 33,
+        "skillCount": 18
+      }
+    },
+    "AC9M1N03": {
+      "practice": {
+        "count": 56,
+        "types": {
+          "number": 23,
+          "single": 24,
+          "multiple": 6,
+          "order": 3
+        },
+        "visualCount": 29,
+        "skillCount": 18
+      },
+      "test": {
+        "count": 24,
+        "types": {
+          "number": 9,
+          "single": 12,
+          "multiple": 2,
+          "order": 1
+        },
+        "visualCount": 12,
+        "skillCount": 18
+      },
+      "quiz": {
+        "count": 100,
+        "types": {
+          "single": 44,
+          "number": 41,
+          "multiple": 10,
+          "order": 5
+        },
+        "visualCount": 51,
+        "skillCount": 18
+      }
+    }
+  },
+  "dailyDrills": {
+    "numbers-place-value-to-120": 48,
+    "skip-counting-equal-groups": 32
+  }
+}

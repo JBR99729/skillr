@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <meta name="robots" content="noindex,nofollow"><meta name="theme-color" content="#173968">
+  <title>Year 6 Maths Teacher Slides | SkillrHub</title>
+  <style>
+    *{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:Arial,Helvetica,sans-serif;background:#e7edf5;color:#173968}.viewer-shell{min-height:100vh;display:grid;grid-template-rows:auto 1fr;padding:10px}.viewer-toolbar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;max-width:1400px;width:100%;margin:0 auto 10px;padding:9px 11px;border-radius:12px;background:#173968;color:#fff}.viewer-toolbar a,.viewer-toolbar button{min-height:40px;border:1px solid rgba(255,255,255,.45);border-radius:9px;background:#fff;color:#173968;padding:8px 12px;font:inherit;font-weight:850;text-decoration:none;cursor:pointer}.viewer-toolbar .title{flex:1;min-width:240px;font-weight:900}.viewer-toolbar .progress{min-width:70px;text-align:center;font-weight:900}.viewer-stage{display:grid;place-items:start center;min-height:0}.teacher-slide-page{display:block;width:min(100%,calc((100vh - 92px)*16/9));max-height:calc(100vh - 92px);aspect-ratio:16/9;object-fit:contain;background:#fff;border-radius:8px;box-shadow:0 12px 42px rgba(23,57,104,.24)}button:disabled{opacity:.45;cursor:not-allowed}.blocked-print{display:none}@media(max-width:720px){.viewer-toolbar .title{order:-1;width:100%;min-width:0}.teacher-slide-page{width:100%;height:auto;max-height:none}}@media print{body>*{display:none!important}body::before{content:"SkillrHub Teacher Slides are available for live classroom display.";display:block;padding:32px;font-size:20pt;font-weight:800}}
+  </style>
+</head>
+<body>
+<div class="viewer-shell">
+  <nav class="viewer-toolbar" aria-label="Teacher slide navigation">
+    <a id="topicLink" href="/year6/maths/ac9m6n01-situations-including-financial-contexts-that-use-integers/">Topic Guide</a>
+    <span class="title" id="deckTitle">AC9M6N01 • Integers on Number Lines and the Cartesian Plane</span>
+    <button type="button" id="previous">Previous</button><span class="progress" id="progress">1 / 4</span><button type="button" id="next">Next</button><button type="button" id="fullscreen">Fullscreen</button>
+  </nav>
+  <main class="viewer-stage"><img id="teacherSlidePage" class="teacher-slide-page" src="/worksheets/year6/maths/teacher-slides/pages/ac9m6n01-1.png" alt="AC9M6N01 teacher slide 1 of 4"></main>
+</div>
+<script>
+(() => {
+  "use strict";
+  const decks = {"AC9M6N01":{"title":"Integers on Number Lines and the Cartesian Plane","slug":"ac9m6n01-situations-including-financial-contexts-that-use-integers"},"AC9M6N02":{"title":"Prime, Composite and Square Numbers","slug":"ac9m6n02-and-describe-the-properties-of-prime-composite-and-square"},"AC9M6N03":{"title":"Equivalent Fractions on a Common Number Line","slug":"ac9m6n03-apply-knowledge-of-equivalence-to-compare-order-and-represent"},"AC9M6N04":{"title":"Adding and Subtracting Decimals","slug":"ac9m6n04-apply-knowledge-of-place-value-to-add-and-subtract-decimals"},"AC9M6N05":{"title":"Adding and Subtracting Fractions","slug":"ac9m6n05-solve-problems-involving-addition-and-subtraction-of-fractions"},"AC9M6N06":{"title":"Multiplying and Dividing Decimals by Powers of 10","slug":"ac9m6n06-multiply-and-divide-decimals-by-multiples-of-powers-of-10"},"AC9M6N07":{"title":"Fractions, Decimals and Percentages of Quantities","slug":"ac9m6n07-solve-problems-that-require-finding-a-familiar-fraction-decimal"},"AC9M6N08":{"title":"Estimating with Rational Numbers and Percentages","slug":"ac9m6n08-approximate-numerical-solutions-to-problems-involving-rational"},"AC9M6N09":{"title":"Mathematical Modelling with Rational Numbers and Percentages","slug":"ac9m6n09-mathematical-modelling-to-solve-practical-problems-involving"},"AC9M6A01":{"title":"Growing Patterns and Rational-number Rules","slug":"ac9m6a01-and-use-rules-that-generate-visually-growing-patterns-and-number"},"AC9M6A02":{"title":"Unknown Values with Brackets and Mixed Operations","slug":"ac9m6a02-find-unknown-values-in-numerical-equations-involving-brackets"},"AC9M6A03":{"title":"Algorithms, Decisions and Emerging Patterns","slug":"ac9m6a03-and-use-algorithms-involving-a-sequence-of-steps-and-decisions"},"AC9M6M01":{"title":"Metric Conversions with Decimal Measurements","slug":"ac9m6m01-convert-between-common-metric-units-of-length-mass-and-capacity"},"AC9M6M02":{"title":"Establishing and Applying the Rectangle Area Formula","slug":"ac9m6m02-establish-the-formula-for-the-area-of-a-rectangle-and"},"AC9M6M03":{"title":"Timetables, Itineraries and Journey Duration","slug":"ac9m6m03-interpret-and-use-timetables-and-itineraries-to-plan-activities"},"AC9M6M04":{"title":"Angle Relationships on Lines and at Points","slug":"ac9m6m04-the-relationships-between-angles-on-a-straight-line-angles-at"},"AC9M6SP01":{"title":"Parallel Cross-sections of Three-dimensional Objects","slug":"ac9m6sp01-the-parallel-cross-sections-of-objects-and-recognise-their"},"AC9M6SP02":{"title":"Coordinates in Four Quadrants","slug":"ac9m6sp02-locate-points-in-the-4-quadrants-of-a-cartesian-plane"},"AC9M6SP03":{"title":"Transformations and Tessellations","slug":"ac9m6sp03-and-use-combinations-of-transformations-to-create-tessellations"},"AC9M6ST01":{"title":"Comparing Categorical and Numerical Data Sets","slug":"ac9m6st01-interpret-and-compare-data-sets-for-ordinal-and-nominal"},"AC9M6ST02":{"title":"Evaluating Statistically Informed Arguments","slug":"ac9m6st02-statistically-informed-arguments-presented-in-traditional-and"},"AC9M6ST03":{"title":"Planning and Conducting Statistical Investigations","slug":"ac9m6st03-plan-and-conduct-statistical-investigations-by-posing-and"},"AC9M6P01":{"title":"Probability on a Scale from 0 to 1","slug":"ac9m6p01-that-probabilities-lie-on-numerical-scales-of-0-1"},"AC9M6P02":{"title":"Repeated Chance Experiments and Simulations","slug":"ac9m6p02-conduct-repeated-chance-experiments-and-run-simulations-with-an"}};
+  const requested = (new URLSearchParams(location.search).get("code") || "AC9M6N01").toUpperCase();
+  const code = decks[requested] ? requested : "AC9M6N01";
+  const total = 4;
+  let page = 1;
+  const image = document.getElementById("teacherSlidePage");
+  const progress = document.getElementById("progress");
+  const previous = document.getElementById("previous");
+  const next = document.getElementById("next");
+  const title = document.getElementById("deckTitle");
+  const topicLink = document.getElementById("topicLink");
+  const show = (value) => {
+    page = Math.max(1, Math.min(total, value));
+    image.src = "/worksheets/year6/maths/teacher-slides/pages/" + code.toLowerCase() + "-" + page + ".png";
+    image.alt = code + " teacher slide " + page + " of " + total;
+    progress.textContent = page + " / " + total;
+    previous.disabled = page === 1;
+    next.disabled = page === total;
+  };
+  title.textContent = code + " • " + decks[code].title;
+  document.title = code + " " + decks[code].title + " Teacher Slides | SkillrHub";
+  topicLink.href = "/year6/maths/" + decks[code].slug + "/";
+  previous.addEventListener("click", () => show(page - 1));
+  next.addEventListener("click", () => show(page + 1));
+  document.getElementById("fullscreen").addEventListener("click", () => document.documentElement.requestFullscreen?.());
+  document.addEventListener("keydown", (event) => { if (event.key === "ArrowLeft") show(page - 1); if (event.key === "ArrowRight") show(page + 1); });
+  document.addEventListener("contextmenu", (event) => event.preventDefault());
+  show(1);
+})();
+</script>
+</body></html>

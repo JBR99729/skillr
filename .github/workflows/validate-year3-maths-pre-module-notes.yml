@@ -1,0 +1,76 @@
+name: Validate Year 3 Maths pre-module notes
+
+on:
+  pull_request:
+    paths:
+      - "quiz/assets/year3-maths-pre-module-notes.js"
+      - "quiz/assets/script.js"
+      - "quiz/assets/style.css"
+      - "quiz/year-3/math/**/practice/index.html"
+      - "quiz/year-3/math/**/practice/questions.js"
+      - "quiz/year-3/math/**/test/index.html"
+      - "quiz/year-3/math/**/test/questions.js"
+      - "quiz/year-3/math/**/worksheet/**"
+      - "assets/year3-maths-data-*.js"
+      - "assets/year3-maths-slide.js"
+      - "scripts/validate_year3_maths_pre_module_notes.mjs"
+      - "scripts/validate_year3_maths_pre_module_flow.mjs"
+      - "scripts/validate_pre_module_flow.mjs"
+      - "scripts/validate_curriculum_read_aloud.mjs"
+      - "scripts/validate_year3_maths_topic_modules.mjs"
+      - "scripts/wire_year3_maths_pre_module_notes.mjs"
+      - "service-worker.js"
+      - ".github/workflows/validate-year3-maths-pre-module-notes.yml"
+  push:
+    branches: [main]
+    paths:
+      - "quiz/assets/year3-maths-pre-module-notes.js"
+      - "quiz/assets/script.js"
+      - "quiz/assets/style.css"
+      - "quiz/year-3/math/**/practice/index.html"
+      - "quiz/year-3/math/**/practice/questions.js"
+      - "quiz/year-3/math/**/test/index.html"
+      - "quiz/year-3/math/**/test/questions.js"
+      - "quiz/year-3/math/**/worksheet/**"
+      - "assets/year3-maths-data-*.js"
+      - "assets/year3-maths-slide.js"
+      - "scripts/validate_year3_maths_pre_module_notes.mjs"
+      - "scripts/validate_year3_maths_pre_module_flow.mjs"
+      - "scripts/validate_pre_module_flow.mjs"
+      - "scripts/validate_curriculum_read_aloud.mjs"
+      - "scripts/validate_year3_maths_topic_modules.mjs"
+      - "scripts/wire_year3_maths_pre_module_notes.mjs"
+      - "service-worker.js"
+      - ".github/workflows/validate-year3-maths-pre-module-notes.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check JavaScript syntax
+        run: |
+          node --check quiz/assets/year3-maths-pre-module-notes.js
+          node --check scripts/validate_pre_module_flow.mjs
+          node --check scripts/validate_year3_maths_pre_module_flow.mjs
+          node --check service-worker.js
+          node --check scripts/wire_year3_maths_pre_module_notes.mjs
+
+      - name: Validate Year 3 Maths notes and launch wiring
+        run: node scripts/validate_year3_maths_pre_module_notes.mjs
+
+      - name: Exercise every mandatory Practice and Test launch in Chrome
+        run: node scripts/validate_year3_maths_pre_module_flow.mjs
+
+      - name: Validate read-aloud and connected topic modules
+        run: |
+          node scripts/validate_curriculum_read_aloud.mjs
+          node scripts/validate_year3_maths_topic_modules.mjs

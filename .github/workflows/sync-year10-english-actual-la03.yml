@@ -1,0 +1,43 @@
+name: Sync Year 10 English AC9E10LA03
+on:
+  push:
+    branches: [content/year10-english-actual-rebuild]
+    paths:
+      - 'assets/assessment-banks/year10/english/ac9e10la03.json'
+      - 'scripts/sync_year10_english_actual_la03.mjs'
+      - '.github/workflows/sync-year10-english-actual-la03.yml'
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: content/year10-english-actual-rebuild
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Sync authored LA03 bank to live quiz files
+        run: node scripts/sync_year10_english_actual_la03.mjs
+      - name: Guard Classroom View
+        shell: bash
+        run: |
+          if git status --porcelain | grep -E 'teacher-slides|classroom'; then
+            echo 'Classroom View changed unexpectedly'
+            exit 1
+          fi
+          echo 'Classroom View guard PASS'
+      - name: Commit live LA03 files
+        shell: bash
+        run: |
+          git config user.name 'JBR99729'
+          git config user.email 'jbhasker9@gmail.com'
+          git add quiz/year-10/english/ac9e10la03
+          if git diff --cached --quiet; then
+            echo 'No live changes to commit'
+            exit 0
+          fi
+          git commit -m 'Sync AC9E10LA03 actual live question bank'
+          git push origin HEAD:content/year10-english-actual-rebuild

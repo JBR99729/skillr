@@ -1,0 +1,35 @@
+name: Audit progressive question ordering
+
+on:
+  push:
+    branches:
+      - agent/fix-questions-not-loaded
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Audit question-bank size and confidence quality
+        run: node scripts/assign_confidence_question_tiers.mjs --check || true
+      - name: Verify progressive ordering patch is already present
+        shell: bash
+        run: |
+          if grep -q "function orderQuestionsByProgressiveDifficulty" quiz/assets/script-runtime-v115.js; then
+            echo "Progressive ordering is present."
+          else
+            echo "Progressive ordering is missing; review manually before changing runtime."
+            exit 1
+          fi

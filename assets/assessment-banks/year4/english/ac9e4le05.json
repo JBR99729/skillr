@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "AC9E4LE05-P-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "In opening a story about a child lost at the Royal Easter Show, which option best demonstrates the skill?",
+    "audio_prompt": "In opening a story about a child lost at the Royal Easter Show, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "Mina was at a show. It was a show.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "is_correct": true
+      },
+      {
+        "text": "This story will have a complication later because stories do.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The opening establishes a character, setting and immediate problem through action.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "Which choice fits opening a story about a child lost at the Royal Easter Show most accurately?",
+    "audio_prompt": "Which choice fits opening a story about a child lost at the Royal Easter Show most accurately?",
+    "answers": [
+      {
+        "text": "Mina was at a show. It was a show.",
+        "is_correct": false
+      },
+      {
+        "text": "This story will have a complication later because stories do.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The opening establishes a character, setting and immediate problem through action.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "Which choice fits developing a nervous character before a school performance most accurately?",
+    "audio_prompt": "Which choice fits developing a nervous character before a school performance most accurately?",
+    "answers": [
+      {
+        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "is_correct": true
+      },
+      {
+        "text": "Leo was nervous nervous nervous.",
+        "is_correct": false
+      },
+      {
+        "text": "Leo is a character in this story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "Look closely at developing a nervous character before a school performance. Which response or wording works best?",
+    "audio_prompt": "Look closely at developing a nervous character before a school performance. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "Leo was nervous nervous nervous.",
+        "is_correct": false
+      },
+      {
+        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "is_correct": true
+      },
+      {
+        "text": "Leo is a character in this story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "Look closely at creating a vivid bush setting. Which response or wording works best?",
+    "audio_prompt": "Look closely at creating a vivid bush setting. Which response or wording works best?",
+    "answers": [
+      {
+        "text": "The bush was nice and there were trees.",
+        "is_correct": false
+      },
+      {
+        "text": "There was a setting in the bush.",
+        "is_correct": false
+      },
+      {
+        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Specific sensory details help the reader picture and hear the setting.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "For creating a vivid bush setting, which option is the strongest match?",
+    "audio_prompt": "For creating a vivid bush setting, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "is_correct": true
+      },
+      {
+        "text": "The bush was nice and there were trees.",
+        "is_correct": false
+      },
+      {
+        "text": "There was a setting in the bush.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specific sensory details help the reader picture and hear the setting.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "For using dialogue to increase tension, which option is the strongest match?",
+    "audio_prompt": "For using dialogue to increase tension, which option is the strongest match?",
+    "answers": [
+      {
+        "text": "Amira said hello and then nothing changed.",
+        "is_correct": false
+      },
+      {
+        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "is_correct": true
+      },
+      {
+        "text": "“I am increasing the tension now,” Amira explained.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+      "hint": "Let the characters’ words move the story forward."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "Which example should you choose for using dialogue to increase tension?",
+    "audio_prompt": "Which example should you choose for using dialogue to increase tension?",
+    "answers": [
+      {
+        "text": "Amira said hello and then nothing changed.",
+        "is_correct": false
+      },
+      {
+        "text": "“I am increasing the tension now,” Amira explained.",
+        "is_correct": false
+      },
+      {
+        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+      "hint": "Let the characters’ words move the story forward."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "Which example should you choose for revising a flat complication?",
+    "audio_prompt": "Which example should you choose for revising a flat complication?",
+    "answers": [
+      {
+        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "is_correct": true
+      },
+      {
+        "text": "There was a problem.",
+        "is_correct": false
+      },
+      {
+        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "Creating Literary Texts",
+    "question": "In revising a flat complication, which option best demonstrates the skill?",
+    "audio_prompt": "In revising a flat complication, which option best demonstrates the skill?",
+    "answers": [
+      {
+        "text": "There was a problem.",
+        "is_correct": false
+      },
+      {
+        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "is_correct": true
+      },
+      {
+        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "Why does “Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.” work well for opening a story about a child lost at the Royal Easter Show?",
+    "audio_prompt": "Why does “Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.” work well for opening a story about a child lost at the Royal Easter Show?",
+    "answers": [
+      {
+        "text": "Because “Mina was at a show. It was a show.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "The opening establishes a character, setting and immediate problem through action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The opening establishes a character, setting and immediate problem through action.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "What makes “Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.” a better choice in opening a story about a child lost at the Royal Easter Show?",
+    "audio_prompt": "What makes “Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.” a better choice in opening a story about a child lost at the Royal Easter Show?",
+    "answers": [
+      {
+        "text": "The opening establishes a character, setting and immediate problem through action.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Mina was at a show. It was a show.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The opening establishes a character, setting and immediate problem through action.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "What makes “Backstage, Leo rubbed his palms on his costume and counted each breath.” a better choice in developing a nervous character before a school performance?",
+    "audio_prompt": "What makes “Backstage, Leo rubbed his palms on his costume and counted each breath.” a better choice in developing a nervous character before a school performance?",
+    "answers": [
+      {
+        "text": "Because “Leo was nervous nervous nervous.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Actions and physical details show the feeling instead of simply labelling it.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "Which explanation best justifies “Backstage, Leo rubbed his palms on his costume and counted each breath.” for developing a nervous character before a school performance?",
+    "audio_prompt": "Which explanation best justifies “Backstage, Leo rubbed his palms on his costume and counted each breath.” for developing a nervous character before a school performance?",
+    "answers": [
+      {
+        "text": "Because “Leo was nervous nervous nervous.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Actions and physical details show the feeling instead of simply labelling it.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "Which explanation best justifies “Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.” for creating a vivid bush setting?",
+    "audio_prompt": "Which explanation best justifies “Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.” for creating a vivid bush setting?",
+    "answers": [
+      {
+        "text": "Specific sensory details help the reader picture and hear the setting.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “The bush was nice and there were trees.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specific sensory details help the reader picture and hear the setting.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "What should you notice about “Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.” in creating a vivid bush setting?",
+    "audio_prompt": "What should you notice about “Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.” in creating a vivid bush setting?",
+    "answers": [
+      {
+        "text": "Because “The bush was nice and there were trees.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Specific sensory details help the reader picture and hear the setting.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Specific sensory details help the reader picture and hear the setting.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-017",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "What should you notice about ““Did you hear that?” Amira whispered. “It came from inside the shed.”” in using dialogue to increase tension?",
+    "audio_prompt": "What should you notice about ““Did you hear that?” Amira whispered. “It came from inside the shed.”” in using dialogue to increase tension?",
+    "answers": [
+      {
+        "text": "Because “Amira said hello and then nothing changed.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+      "hint": "Let the characters’ words move the story forward."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-018",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "Which reason explains why ““Did you hear that?” Amira whispered. “It came from inside the shed.”” suits using dialogue to increase tension?",
+    "audio_prompt": "Which reason explains why ““Did you hear that?” Amira whispered. “It came from inside the shed.”” suits using dialogue to increase tension?",
+    "answers": [
+      {
+        "text": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “Amira said hello and then nothing changed.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+      "hint": "Let the characters’ words move the story forward."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-019",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "Which reason explains why “The creek rose over the stepping stones just as the group realised the bridge was behind them.” suits revising a flat complication?",
+    "audio_prompt": "Which reason explains why “The creek rose over the stepping stones just as the group realised the bridge was behind them.” suits revising a flat complication?",
+    "answers": [
+      {
+        "text": "Because “There was a problem.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "A complication creates a specific obstacle that requires the characters to respond.",
+        "is_correct": true
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-020",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "Creating Literary Texts",
+    "question": "Why does “The creek rose over the stepping stones just as the group realised the bridge was behind them.” work well for revising a flat complication?",
+    "audio_prompt": "Why does “The creek rose over the stepping stones just as the group realised the bridge was behind them.” work well for revising a flat complication?",
+    "answers": [
+      {
+        "text": "Because “There was a problem.” is always acceptable in this situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest or most complicated option must be correct.",
+        "is_correct": false
+      },
+      {
+        "text": "A complication creates a specific obstacle that requires the characters to respond.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-021",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Which revision best fixes the problem in “Mina was at a show. It was a show.” for opening a story about a child lost at the Royal Easter Show?",
+    "audio_prompt": "Which revision best fixes the problem in “Mina was at a show. It was a show.” for opening a story about a child lost at the Royal Easter Show?",
+    "answers": [
+      {
+        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "is_correct": true
+      },
+      {
+        "text": "Mina was at a show. It was a show.",
+        "is_correct": false
+      },
+      {
+        "text": "This story will have a complication later because stories do.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The opening establishes a character, setting and immediate problem through action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-022",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Compare the choices for opening a story about a child lost at the Royal Easter Show. Which one avoids the mistake in “Mina was at a show. It was a show.”?",
+    "audio_prompt": "Compare the choices for opening a story about a child lost at the Royal Easter Show. Which one avoids the mistake in “Mina was at a show. It was a show.”?",
+    "answers": [
+      {
+        "text": "Mina was at a show. It was a show.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "is_correct": true
+      },
+      {
+        "text": "This story will have a complication later because stories do.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The opening establishes a character, setting and immediate problem through action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-023",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Compare the choices for developing a nervous character before a school performance. Which one avoids the mistake in “Leo was nervous nervous nervous.”?",
+    "audio_prompt": "Compare the choices for developing a nervous character before a school performance. Which one avoids the mistake in “Leo was nervous nervous nervous.”?",
+    "answers": [
+      {
+        "text": "Leo was nervous nervous nervous.",
+        "is_correct": false
+      },
+      {
+        "text": "Leo is a character in this story.",
+        "is_correct": false
+      },
+      {
+        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Actions and physical details show the feeling instead of simply labelling it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-024",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "If “Leo was nervous nervous nervous.” does not work in developing a nervous character before a school performance, what should replace it?",
+    "audio_prompt": "If “Leo was nervous nervous nervous.” does not work in developing a nervous character before a school performance, what should replace it?",
+    "answers": [
+      {
+        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "is_correct": true
+      },
+      {
+        "text": "Leo was nervous nervous nervous.",
+        "is_correct": false
+      },
+      {
+        "text": "Leo is a character in this story.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Actions and physical details show the feeling instead of simply labelling it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-025",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "If “The bush was nice and there were trees.” does not work in creating a vivid bush setting, what should replace it?",
+    "audio_prompt": "If “The bush was nice and there were trees.” does not work in creating a vivid bush setting, what should replace it?",
+    "answers": [
+      {
+        "text": "The bush was nice and there were trees.",
+        "is_correct": false
+      },
+      {
+        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "is_correct": true
+      },
+      {
+        "text": "There was a setting in the bush.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Specific sensory details help the reader picture and hear the setting. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-026",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Which option corrects the meaning or form needed for creating a vivid bush setting?",
+    "audio_prompt": "Which option corrects the meaning or form needed for creating a vivid bush setting?",
+    "answers": [
+      {
+        "text": "The bush was nice and there were trees.",
+        "is_correct": false
+      },
+      {
+        "text": "There was a setting in the bush.",
+        "is_correct": false
+      },
+      {
+        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Specific sensory details help the reader picture and hear the setting. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-027",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Which option corrects the meaning or form needed for using dialogue to increase tension?",
+    "audio_prompt": "Which option corrects the meaning or form needed for using dialogue to increase tension?",
+    "answers": [
+      {
+        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "is_correct": true
+      },
+      {
+        "text": "Amira said hello and then nothing changed.",
+        "is_correct": false
+      },
+      {
+        "text": "“I am increasing the tension now,” Amira explained.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Let the characters’ words move the story forward."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-028",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Which choice is the clearest correction for using dialogue to increase tension?",
+    "audio_prompt": "Which choice is the clearest correction for using dialogue to increase tension?",
+    "answers": [
+      {
+        "text": "Amira said hello and then nothing changed.",
+        "is_correct": false
+      },
+      {
+        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "is_correct": true
+      },
+      {
+        "text": "“I am increasing the tension now,” Amira explained.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Let the characters’ words move the story forward."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-029",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Which choice is the clearest correction for revising a flat complication?",
+    "audio_prompt": "Which choice is the clearest correction for revising a flat complication?",
+    "answers": [
+      {
+        "text": "There was a problem.",
+        "is_correct": false
+      },
+      {
+        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "is_correct": false
+      },
+      {
+        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A complication creates a specific obstacle that requires the characters to respond. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-030",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "Creating Literary Texts",
+    "question": "Which revision best fixes the problem in “There was a problem.” for revising a flat complication?",
+    "audio_prompt": "Which revision best fixes the problem in “There was a problem.” for revising a flat complication?",
+    "answers": [
+      {
+        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "is_correct": true
+      },
+      {
+        "text": "There was a problem.",
+        "is_correct": false
+      },
+      {
+        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A complication creates a specific obstacle that requires the characters to respond. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-031",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "You now need to handle opening a story about a child lost at the Royal Easter Show independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle opening a story about a child lost at the Royal Easter Show independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "This story will have a complication later because stories do.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "is_correct": true
+      },
+      {
+        "text": "Mina was at a show. It was a show.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The opening establishes a character, setting and immediate problem through action.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-032",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Apply the same idea to opening a story about a child lost at the Royal Easter Show. Which option is best?",
+    "audio_prompt": "Apply the same idea to opening a story about a child lost at the Royal Easter Show. Which option is best?",
+    "answers": [
+      {
+        "text": "This story will have a complication later because stories do.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina was at a show. It was a show.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The opening establishes a character, setting and immediate problem through action.",
+      "hint": "Begin with concrete story details rather than explaining the plan for the story."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-033",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Apply the same idea to developing a nervous character before a school performance. Which option is best?",
+    "audio_prompt": "Apply the same idea to developing a nervous character before a school performance. Which option is best?",
+    "answers": [
+      {
+        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "is_correct": true
+      },
+      {
+        "text": "Leo is a character in this story.",
+        "is_correct": false
+      },
+      {
+        "text": "Leo was nervous nervous nervous.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-034",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which decision would produce the clearest result in developing a nervous character before a school performance?",
+    "audio_prompt": "Which decision would produce the clearest result in developing a nervous character before a school performance?",
+    "answers": [
+      {
+        "text": "Leo is a character in this story.",
+        "is_correct": false
+      },
+      {
+        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "is_correct": true
+      },
+      {
+        "text": "Leo was nervous nervous nervous.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
+      "hint": "Show the emotion through what the character does or notices."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-035",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which decision would produce the clearest result in creating a vivid bush setting?",
+    "audio_prompt": "Which decision would produce the clearest result in creating a vivid bush setting?",
+    "answers": [
+      {
+        "text": "There was a setting in the bush.",
+        "is_correct": false
+      },
+      {
+        "text": "The bush was nice and there were trees.",
+        "is_correct": false
+      },
+      {
+        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Specific sensory details help the reader picture and hear the setting.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-036",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Choose the option that applies the skill correctly in creating a vivid bush setting.",
+    "audio_prompt": "Choose the option that applies the skill correctly in creating a vivid bush setting.",
+    "answers": [
+      {
+        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "is_correct": true
+      },
+      {
+        "text": "There was a setting in the bush.",
+        "is_correct": false
+      },
+      {
+        "text": "The bush was nice and there were trees.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specific sensory details help the reader picture and hear the setting.",
+      "hint": "Choose concrete nouns and precise verbs."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-037",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Choose the option that applies the skill correctly in using dialogue to increase tension.",
+    "audio_prompt": "Choose the option that applies the skill correctly in using dialogue to increase tension.",
+    "answers": [
+      {
+        "text": "“I am increasing the tension now,” Amira explained.",
+        "is_correct": false
+      },
+      {
+        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "is_correct": true
+      },
+      {
+        "text": "Amira said hello and then nothing changed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+      "hint": "Let the characters’ words move the story forward."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-038",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "What would be the most effective choice for using dialogue to increase tension?",
+    "audio_prompt": "What would be the most effective choice for using dialogue to increase tension?",
+    "answers": [
+      {
+        "text": "“I am increasing the tension now,” Amira explained.",
+        "is_correct": false
+      },
+      {
+        "text": "Amira said hello and then nothing changed.",
+        "is_correct": false
+      },
+      {
+        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+      "hint": "Let the characters’ words move the story forward."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-039",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "What would be the most effective choice for revising a flat complication?",
+    "audio_prompt": "What would be the most effective choice for revising a flat complication?",
+    "answers": [
+      {
+        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "is_correct": true
+      },
+      {
+        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "is_correct": false
+      },
+      {
+        "text": "There was a problem.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
+  },
+  {
+    "id": "AC9E4LE05-P-040",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "You now need to handle revising a flat complication independently. Which choice should you use?",
+    "audio_prompt": "You now need to handle revising a flat complication independently. Which choice should you use?",
+    "answers": [
+      {
+        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "is_correct": false
+      },
+      {
+        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "is_correct": true
+      },
+      {
+        "text": "There was a problem.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
+      "hint": "Make the problem concrete and connected to the setting."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-001",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "New context: ending a story after a lost dog is found. Which option is correct?",
+    "audio_prompt": "New context: ending a story after a lost dog is found. Which option is correct?",
+    "answers": [
+      {
+        "text": "The dog was found. The end.",
+        "is_correct": false
+      },
+      {
+        "text": "Suddenly a spaceship arrived for no reason.",
+        "is_correct": false
+      },
+      {
+        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-002",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "What is the best choice for ending a story after a lost dog is found?",
+    "audio_prompt": "What is the best choice for ending a story after a lost dog is found?",
+    "answers": [
+      {
+        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "is_correct": true
+      },
+      {
+        "text": "The dog was found. The end.",
+        "is_correct": false
+      },
+      {
+        "text": "Suddenly a spaceship arrived for no reason.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-003",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "Which explanation best supports “When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.” in ending a story after a lost dog is found?",
+    "audio_prompt": "Which explanation best supports “When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.” in ending a story after a lost dog is found?",
+    "answers": [
+      {
+        "text": "Because “The dog was found. The end.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+        "is_correct": true
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-004",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "Which clue should guide your decision in ending a story after a lost dog is found?",
+    "audio_prompt": "Which clue should guide your decision in ending a story after a lost dog is found?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      },
+      {
+        "text": "Resolve what the story has been building, rather than adding an unrelated event.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-005",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which option would you reject first in ending a story after a lost dog is found?",
+    "audio_prompt": "Which option would you reject first in ending a story after a lost dog is found?",
+    "answers": [
+      {
+        "text": "The dog was found. The end.",
+        "is_correct": true
+      },
+      {
+        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "is_correct": false
+      },
+      {
+        "text": "Suddenly a spaceship arrived for no reason.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-006",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which correction should replace “The dog was found. The end.” in ending a story after a lost dog is found?",
+    "audio_prompt": "Which correction should replace “The dog was found. The end.” in ending a story after a lost dog is found?",
+    "answers": [
+      {
+        "text": "The dog was found. The end.",
+        "is_correct": false
+      },
+      {
+        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "is_correct": true
+      },
+      {
+        "text": "Suddenly a spaceship arrived for no reason.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-007",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Apply the skill to ending a story after a lost dog is found: what should you choose?",
+    "audio_prompt": "Apply the skill to ending a story after a lost dog is found: what should you choose?",
+    "answers": [
+      {
+        "text": "The dog was found. The end.",
+        "is_correct": false
+      },
+      {
+        "text": "Suddenly a spaceship arrived for no reason.",
+        "is_correct": false
+      },
+      {
+        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-008",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which final choice gives the clearest and most accurate result for ending a story after a lost dog is found?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for ending a story after a lost dog is found?",
+    "answers": [
+      {
+        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "is_correct": true
+      },
+      {
+        "text": "The dog was found. The end.",
+        "is_correct": false
+      },
+      {
+        "text": "Suddenly a spaceship arrived for no reason.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-009",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "New context: giving useful feedback on a classmate’s story. Which option is correct?",
+    "audio_prompt": "New context: giving useful feedback on a classmate’s story. Which option is correct?",
+    "answers": [
+      {
+        "text": "It is bad.",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
+        "is_correct": true
+      },
+      {
+        "text": "Make every sentence longer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-010",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "What is the best choice for giving useful feedback on a classmate’s story?",
+    "audio_prompt": "What is the best choice for giving useful feedback on a classmate’s story?",
+    "answers": [
+      {
+        "text": "It is bad.",
+        "is_correct": false
+      },
+      {
+        "text": "Make every sentence longer.",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-011",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "Which explanation best supports “The setting is clear; adding what the character hears at the station could make the tense scene even stronger.” in giving useful feedback on a classmate’s story?",
+    "audio_prompt": "Which explanation best supports “The setting is clear; adding what the character hears at the station could make the tense scene even stronger.” in giving useful feedback on a classmate’s story?",
+    "answers": [
+      {
+        "text": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Because “It is bad.” is always a safe choice.",
+        "is_correct": false
+      },
+      {
+        "text": "Because surface appearance matters more than meaning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-012",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "verify",
+    "skill": "Creating Literary Texts",
+    "question": "Which clue should guide your decision in giving useful feedback on a classmate’s story?",
+    "audio_prompt": "Which clue should guide your decision in giving useful feedback on a classmate’s story?",
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Be specific about the effect of the suggested revision.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the context and use the first familiar form.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-013",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which option would you reject first in giving useful feedback on a classmate’s story?",
+    "audio_prompt": "Which option would you reject first in giving useful feedback on a classmate’s story?",
+    "answers": [
+      {
+        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
+        "is_correct": false
+      },
+      {
+        "text": "Make every sentence longer.",
+        "is_correct": false
+      },
+      {
+        "text": "It is bad.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-014",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which correction should replace “It is bad.” in giving useful feedback on a classmate’s story?",
+    "audio_prompt": "Which correction should replace “It is bad.” in giving useful feedback on a classmate’s story?",
+    "answers": [
+      {
+        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
+        "is_correct": true
+      },
+      {
+        "text": "It is bad.",
+        "is_correct": false
+      },
+      {
+        "text": "Make every sentence longer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-015",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Apply the skill to giving useful feedback on a classmate’s story: what should you choose?",
+    "audio_prompt": "Apply the skill to giving useful feedback on a classmate’s story: what should you choose?",
+    "answers": [
+      {
+        "text": "It is bad.",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
+        "is_correct": true
+      },
+      {
+        "text": "Make every sentence longer.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
+    }
+  },
+  {
+    "id": "AC9E4LE05-T-016",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Creating Literary Texts",
+    "question": "Which final choice gives the clearest and most accurate result for giving useful feedback on a classmate’s story?",
+    "audio_prompt": "Which final choice gives the clearest and most accurate result for giving useful feedback on a classmate’s story?",
+    "answers": [
+      {
+        "text": "It is bad.",
+        "is_correct": false
+      },
+      {
+        "text": "Make every sentence longer.",
+        "is_correct": false
+      },
+      {
+        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+      "hint": "Be specific about the effect of the suggested revision."
+    }
+  }
+]

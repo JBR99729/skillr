@@ -1,0 +1,610 @@
+[
+  {
+    "id": "ac9m9p02-p-001",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "understand_that_relative_frequencies_from_large_data_sets_or_long_run_experiments_can_provide_reliable_measures_of_probability_and_can_be_used_to_make_predictions_of_decisions",
+    "question": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+        "is_correct": true
+      },
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9p02-p-002",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_venn_diagrams_or_two_way_tables_to_estimate_frequencies_of_events_involving_and_or_questions",
+    "question": "A Year 9 student is solving a problem involving use venn diagrams or two way tables to estimate frequencies of events involving and or questions. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use venn diagrams or two way tables to estimate frequencies of events involving and or questions. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The relative frequency and event language model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9p02-p-003",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "designing_testing_and_refining_an_algorithm_used_to_determine_relative_frequencies_from_a_generated_data_set_to_estimate_different_probabilities",
+    "question": "A Year 9 student is solving a problem involving designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+      "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9p02-p-004",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "understand_that_relative_frequencies_from_large_data_sets_or_long_run_experiments_can_provide_reliable_measures_of_probability_and_can_be_used_to_make_predictions_of_decisions",
+    "question": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
+    },
+    "difficulty": 3,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9p02-p-005",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_venn_diagrams_or_two_way_tables_to_estimate_frequencies_of_events_involving_and_or_questions",
+    "question": "A Year 9 student is solving a problem involving use venn diagrams or two way tables to estimate frequencies of events involving and or questions. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use venn diagrams or two way tables to estimate frequencies of events involving and or questions. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+        "is_correct": true
+      },
+      {
+        "text": "The relative frequency and event language model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9p02-p-006",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "designing_testing_and_refining_an_algorithm_used_to_determine_relative_frequencies_from_a_generated_data_set_to_estimate_different_probabilities",
+    "question": "A Year 9 student is solving a problem involving designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+      "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9p02-p-007",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "understand_that_relative_frequencies_from_large_data_sets_or_long_run_experiments_can_provide_reliable_measures_of_probability_and_can_be_used_to_make_predictions_of_decisions",
+    "question": "What should you check when using understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
+    "audio_prompt": "What should you check when using understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9p02-p-008",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "practice",
+    "skill": "use_venn_diagrams_or_two_way_tables_to_estimate_frequencies_of_events_involving_and_or_questions",
+    "question": "What should you check when using use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
+    "audio_prompt": "What should you check when using use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The relative frequency and event language model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
+    },
+    "difficulty": 2,
+    "sequence_priority": 2
+  },
+  {
+    "id": "ac9m9p02-t-001",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "designing_testing_and_refining_an_algorithm_used_to_determine_relative_frequencies_from_a_generated_data_set_to_estimate_different_probabilities",
+    "question": "Which response correctly uses designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
+    "audio_prompt": "Which response correctly uses designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+        "is_correct": true
+      },
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+      "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
+    }
+  },
+  {
+    "id": "ac9m9p02-t-002",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "understand_that_relative_frequencies_from_large_data_sets_or_long_run_experiments_can_provide_reliable_measures_of_probability_and_can_be_used_to_make_predictions_of_decisions",
+    "question": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
+    }
+  },
+  {
+    "id": "ac9m9p02-t-003",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_venn_diagrams_or_two_way_tables_to_estimate_frequencies_of_events_involving_and_or_questions",
+    "question": "A Year 9 student is solving a problem involving use venn diagrams or two way tables to estimate frequencies of events involving and or questions. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving use venn diagrams or two way tables to estimate frequencies of events involving and or questions. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The relative frequency and event language model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
+    }
+  },
+  {
+    "id": "ac9m9p02-t-004",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "designing_testing_and_refining_an_algorithm_used_to_determine_relative_frequencies_from_a_generated_data_set_to_estimate_different_probabilities",
+    "question": "A Year 9 student is solving a problem involving designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving designing testing and refining an algorithm used to determine relative frequencies from a generated data set to estimate different probabilities. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+      "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
+    }
+  },
+  {
+    "id": "ac9m9p02-t-005",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "understand_that_relative_frequencies_from_large_data_sets_or_long_run_experiments_can_provide_reliable_measures_of_probability_and_can_be_used_to_make_predictions_of_decisions",
+    "question": "When would you use understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
+    "audio_prompt": "When would you use understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+        "is_correct": true
+      },
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
+    }
+  },
+  {
+    "id": "ac9m9p02-t-006",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "use_venn_diagrams_or_two_way_tables_to_estimate_frequencies_of_events_involving_and_or_questions",
+    "question": "When would you use use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
+    "audio_prompt": "When would you use use venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The relative frequency and event language model is copied without interpretation",
+        "is_correct": false
+      },
+      {
+        "text": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+        "is_correct": true
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "using Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions",
+      "hint": "Use Venn diagrams or two-way tables to estimate frequencies of events involving “and”, “or” questions."
+    }
+  },
+  {
+    "id": "ac9m9p02-t-007",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "designing_testing_and_refining_an_algorithm_used_to_determine_relative_frequencies_from_a_generated_data_set_to_estimate_different_probabilities",
+    "question": "When would you use designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
+    "audio_prompt": "When would you use designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The result is not verified",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+        "is_correct": true
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities",
+      "hint": "designing, testing and refining an algorithm used to determine relative frequencies from a generated data set, to estimate different probabilities."
+    }
+  },
+  {
+    "id": "ac9m9p02-t-008",
+    "curriculum_code": "AC9M9P02",
+    "year_level": "Year 9",
+    "subject": "math",
+    "bank": "test",
+    "skill": "understand_that_relative_frequencies_from_large_data_sets_or_long_run_experiments_can_provide_reliable_measures_of_probability_and_can_be_used_to_make_predictions_of_decisions",
+    "question": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
+    "audio_prompt": "A Year 9 student is solving a problem involving understand that relative frequencies from large data sets or long run experiments can provide reliable measures of probability and can be used to make predictions of decisions. Which option is mathematically valid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The sample space or dependency changes without being noticed",
+        "is_correct": false
+      },
+      {
+        "text": "The method can be chosen without checking the values or conditions",
+        "is_correct": false
+      },
+      {
+        "text": "The same rule and result apply to every situation without testing",
+        "is_correct": false
+      },
+      {
+        "text": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "understanding that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions",
+      "hint": "Understand that relative frequencies from large data sets or long-run experiments can provide reliable measures of probability and can be used to make predictions of decisions."
+    }
+  }
+]

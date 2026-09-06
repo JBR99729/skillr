@@ -4,640 +4,498 @@ window.skillrTestQuestions = [
     "id": "ac9e2ly03-t-001",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test museum label direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: Buy a ticket today before the show sells out! What is the best answer?",
-    "audioPrompt": "Read: Buy a ticket today before the show sells out! What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "A museum card names an old canoe, its material and when it was made. What is the card mainly designed to do?",
+    "audioPrompt": "A museum card names an old canoe, its material and when it was made. What is the card mainly designed to do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "persuade",
-        "is_correct": true
-      },
-      {
-        "text": "inform",
-        "is_correct": false
-      },
-      {
-        "text": "tell a story",
-        "is_correct": false
-      }
+      "teach visitors how to build the canoe step by step",
+      "convince visitors that this canoe is the museum's best object",
+      "inform visitors about the displayed canoe"
     ],
-    "correctIndex": 0,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 1,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Names, dates and material details provide information about an exhibit.\nHint: Use the factual details and museum setting as clues.",
+    "structuredExplanation": {
+      "summary": "Names, dates and material details provide information about an exhibit.",
+      "hint": "Use the factual details and museum setting as clues."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-002",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test party invitation direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: The koala sleeps for many hours each day. What is the best answer?",
-    "audioPrompt": "Read: The koala sleeps for many hours each day. What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "A card gives a date, time, place and says, ‘Please come to our class picnic.’ Who is the likely audience?",
+    "audioPrompt": "A card gives a date, time, place and says, ‘Please come to our class picnic.’ Who is the likely audience?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "persuade",
-        "is_correct": false
-      },
-      {
-        "text": "entertain with a problem",
-        "is_correct": false
-      },
-      {
-        "text": "inform",
-        "is_correct": true
-      }
+      "people invited to the class picnic",
+      "all students who enjoy picnics but were not invited",
+      "people reading a recount after the picnic has finished"
     ],
-    "correctIndex": 2,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 2,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "Event details and the invitation address the people expected at the picnic.\nHint: Ask who needs the date, time and place.",
+    "structuredExplanation": {
+      "summary": "Event details and the invitation address the people expected at the picnic.",
+      "hint": "Ask who needs the date, time and place."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-003",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test persuasive community message direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: Once, a possum found a glowing seed. What is the best answer?",
-    "audioPrompt": "Read: Once, a possum found a glowing seed. What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "A sign beside a creek says, ‘Please bin your rubbish so turtles stay safe.’ Which clue shows persuasion?",
+    "audioPrompt": "A sign beside a creek says, ‘Please bin your rubbish so turtles stay safe.’ Which clue shows persuasion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "index",
-        "is_correct": false
-      },
-      {
-        "text": "imaginative",
-        "is_correct": true
-      },
-      {
-        "text": "instruction",
-        "is_correct": false
-      }
+      "It explains several turtle species with labelled facts.",
+      "It asks visitors to act and gives a reason.",
+      "It recounts what one visitor saw beside the creek."
     ],
-    "correctIndex": 1,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 3,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "The request and safety reason are designed to influence visitor behaviour.\nHint: Find the language that encourages an action.",
+    "structuredExplanation": {
+      "summary": "The request and safety reason are designed to influence visitor behaviour.",
+      "hint": "Find the language that encourages an action."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-004",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test imaginative audience clue direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: Dear families, please bring hats for the excursion. What is the best answer?",
-    "audioPrompt": "Read: Dear families, please bring hats for the excursion. What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "A picture book uses large print, repeated lines and playful animal pictures. Which audience is most likely?",
+    "audioPrompt": "A picture book uses large print, repeated lines and playful animal pictures. Which audience is most likely?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "families",
-        "is_correct": true
-      },
-      {
-        "text": "a dragon",
-        "is_correct": false
-      },
-      {
-        "text": "a map key",
-        "is_correct": false
-      }
+      "older readers wanting long chapters without picture support",
+      "adults choosing a detailed factual wildlife guide",
+      "young children listening or beginning to read"
     ],
-    "correctIndex": 0,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 4,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Large print, repetition and playful pictures support young children.\nHint: Use several design and language clues together.",
+    "structuredExplanation": {
+      "summary": "Large print, repetition and playful pictures support young children.",
+      "hint": "Use several design and language clues together."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-005",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test instructions for classmates direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: Buy a ticket today before the show sells out! What is the best answer?",
-    "audioPrompt": "Read: Buy a ticket today before the show sells out! What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "Which opening suits spoken instructions for classmates making a paper fan?",
+    "audioPrompt": "Which opening suits spoken instructions for classmates making a paper fan?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "inform",
-        "is_correct": false
-      },
-      {
-        "text": "tell a story",
-        "is_correct": false
-      },
-      {
-        "text": "persuade",
-        "is_correct": true
-      }
+      "You need one sheet of paper. First, fold the bottom edge up.",
+      "Fold the paper until it looks like a fan.",
+      "Paper fans can help people feel cooler on a hot day."
     ],
-    "correctIndex": 2,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 5,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The opening names the material and begins a clear ordered procedure.\nHint: Match the wording to a familiar audience that must complete a task.",
+    "structuredExplanation": {
+      "summary": "The opening names the material and begins a clear ordered procedure.",
+      "hint": "Match the wording to a familiar audience that must complete a task."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-006",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test same topic new purpose direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: The koala sleeps for many hours each day. What is the best answer?",
-    "audioPrompt": "Read: The koala sleeps for many hours each day. What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "A factual shark report is changed into a poster saying, ‘Protect shark habitats now.’ What changed most?",
+    "audioPrompt": "A factual shark report is changed into a poster saying, ‘Protect shark habitats now.’ What changed most?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "entertain with a problem",
-        "is_correct": false
-      },
-      {
-        "text": "inform",
-        "is_correct": true
-      },
-      {
-        "text": "persuade",
-        "is_correct": false
-      }
+      "The topic changed because the poster uses fewer shark facts.",
+      "The purpose changed from informing to persuading.",
+      "Only the layout changed; the purpose stayed informative."
     ],
-    "correctIndex": 1,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 6,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "The report provides facts, while the poster urges readers to protect habitats.\nHint: Notice whether the text explains information or asks for action.",
+    "structuredExplanation": {
+      "summary": "The report provides facts, while the poster urges readers to protect habitats.",
+      "hint": "Notice whether the text explains information or asks for action."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-007",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test weather alert direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: Once, a possum found a glowing seed. What is the best answer?",
-    "audioPrompt": "Read: Once, a possum found a glowing seed. What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "A phone alert says, ‘Severe storm approaching. Move indoors now.’ What are its purpose and audience?",
+    "audioPrompt": "A phone alert says, ‘Severe storm approaching. Move indoors now.’ What are its purpose and audience?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "imaginative",
-        "is_correct": true
-      },
-      {
-        "text": "instruction",
-        "is_correct": false
-      },
-      {
-        "text": "index",
-        "is_correct": false
-      }
+      "to explain storm types to students doing a weather project",
+      "to report yesterday's storm after the danger has passed",
+      "to warn people in the area and prompt safe action"
     ],
-    "correctIndex": 0,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 7,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The urgent warning and command address people who may be in danger.\nHint: Use the immediate action words and delivery context as evidence.",
+    "structuredExplanation": {
+      "summary": "The urgent warning and command address people who may be in danger.",
+      "hint": "Use the immediate action words and delivery context as evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-008",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test council playground poster direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: Dear families, please bring hats for the excursion. What is the best answer?",
-    "audioPrompt": "Read: Dear families, please bring hats for the excursion. What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "A council poster asks families to vote on two playground plans. Which feature best supports that purpose?",
+    "audioPrompt": "A council poster asks families to vote on two playground plans. Which feature best supports that purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "a dragon",
-        "is_correct": false
-      },
-      {
-        "text": "a map key",
-        "is_correct": false
-      },
-      {
-        "text": "families",
-        "is_correct": true
-      }
+      "clear pictures of both plans and directions for voting",
+      "a fictional story with no plan pictures",
+      "technical building details with no voting information"
     ],
-    "correctIndex": 2,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 8,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The audience needs to compare the choices and know how to respond.\nHint: Match the design features to families making a decision.",
+    "structuredExplanation": {
+      "summary": "The audience needs to compare the choices and know how to respond.",
+      "hint": "Match the design features to families making a decision."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-009",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test museum label test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: Buy a ticket today before the show sells out! What is the best answer?",
-    "audioPrompt": "Read: Buy a ticket today before the show sells out! What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "A museum card names an old canoe, its material and when it was made. What is the card mainly designed to do? Which reason best supports the correct choice?",
+    "audioPrompt": "A museum card names an old canoe, its material and when it was made. What is the card mainly designed to do? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "tell a story",
-        "is_correct": false
-      },
-      {
-        "text": "persuade",
-        "is_correct": true
-      },
-      {
-        "text": "inform",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "Names, dates and material details provide information about an exhibit.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 1,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 9,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "Names, dates and material details provide information about an exhibit.\nHint: Use the factual details and museum setting as clues.",
+    "structuredExplanation": {
+      "summary": "Names, dates and material details provide information about an exhibit.",
+      "hint": "Use the factual details and museum setting as clues."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-010",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test party invitation test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: The koala sleeps for many hours each day. What is the best answer?",
-    "audioPrompt": "Read: The koala sleeps for many hours each day. What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "A card gives a date, time, place and says, ‘Please come to our class picnic.’ Who is the likely audience? Which reason best supports the correct choice?",
+    "audioPrompt": "A card gives a date, time, place and says, ‘Please come to our class picnic.’ Who is the likely audience? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "inform",
-        "is_correct": true
-      },
-      {
-        "text": "persuade",
-        "is_correct": false
-      },
-      {
-        "text": "entertain with a problem",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "Event details and the invitation address the people expected at the picnic."
     ],
-    "correctIndex": 0,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 10,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Event details and the invitation address the people expected at the picnic.\nHint: Ask who needs the date, time and place.",
+    "structuredExplanation": {
+      "summary": "Event details and the invitation address the people expected at the picnic.",
+      "hint": "Ask who needs the date, time and place."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-011",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test persuasive community message test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: Once, a possum found a glowing seed. What is the best answer?",
-    "audioPrompt": "Read: Once, a possum found a glowing seed. What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "A sign beside a creek says, ‘Please bin your rubbish so turtles stay safe.’ Which clue shows persuasion? Which reason best supports the correct choice?",
+    "audioPrompt": "A sign beside a creek says, ‘Please bin your rubbish so turtles stay safe.’ Which clue shows persuasion? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "instruction",
-        "is_correct": false
-      },
-      {
-        "text": "index",
-        "is_correct": false
-      },
-      {
-        "text": "imaginative",
-        "is_correct": true
-      }
+      "The request and safety reason are designed to influence visitor behaviour.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 2,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 11,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The request and safety reason are designed to influence visitor behaviour.\nHint: Find the language that encourages an action.",
+    "structuredExplanation": {
+      "summary": "The request and safety reason are designed to influence visitor behaviour.",
+      "hint": "Find the language that encourages an action."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-012",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test imaginative audience clue test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: Dear families, please bring hats for the excursion. What is the best answer?",
-    "audioPrompt": "Read: Dear families, please bring hats for the excursion. What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "A picture book uses large print, repeated lines and playful animal pictures. Which audience is most likely? Which reason best supports the correct choice?",
+    "audioPrompt": "A picture book uses large print, repeated lines and playful animal pictures. Which audience is most likely? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "a map key",
-        "is_correct": false
-      },
-      {
-        "text": "families",
-        "is_correct": true
-      },
-      {
-        "text": "a dragon",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "Large print, repetition and playful pictures support young children.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 1,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 12,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "Large print, repetition and playful pictures support young children.\nHint: Use several design and language clues together.",
+    "structuredExplanation": {
+      "summary": "Large print, repetition and playful pictures support young children.",
+      "hint": "Use several design and language clues together."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-013",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test instructions for classmates test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: Buy a ticket today before the show sells out! What is the best answer?",
-    "audioPrompt": "Read: Buy a ticket today before the show sells out! What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "Which opening suits spoken instructions for classmates making a paper fan? Which reason best supports the correct choice?",
+    "audioPrompt": "Which opening suits spoken instructions for classmates making a paper fan? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "persuade",
-        "is_correct": true
-      },
-      {
-        "text": "inform",
-        "is_correct": false
-      },
-      {
-        "text": "tell a story",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "The opening names the material and begins a clear ordered procedure."
     ],
-    "correctIndex": 0,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 13,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The opening names the material and begins a clear ordered procedure.\nHint: Match the wording to a familiar audience that must complete a task.",
+    "structuredExplanation": {
+      "summary": "The opening names the material and begins a clear ordered procedure.",
+      "hint": "Match the wording to a familiar audience that must complete a task."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-014",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "purpose and audience",
+    "skill": "test same topic new purpose test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Read: The koala sleeps for many hours each day. What is the best answer?",
-    "audioPrompt": "Read: The koala sleeps for many hours each day. What is the best answer?",
-    "visual": {
+    "type": "single",
+    "question": "A factual shark report is changed into a poster saying, ‘Protect shark habitats now.’ What changed most? Which reason best supports the correct choice?",
+    "audioPrompt": "A factual shark report is changed into a poster saying, ‘Protect shark habitats now.’ What changed most? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "persuade",
-        "is_correct": false
-      },
-      {
-        "text": "entertain with a problem",
-        "is_correct": false
-      },
-      {
-        "text": "inform",
-        "is_correct": true
-      }
+      "The report provides facts, while the poster urges readers to protect habitats.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 2,
-    "explanation": "Words and text structure help identify purpose and audience.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 14,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The report provides facts, while the poster urges readers to protect habitats.\nHint: Notice whether the text explains information or asks for action.",
+    "structuredExplanation": {
+      "summary": "The report provides facts, while the poster urges readers to protect habitats.",
+      "hint": "Notice whether the text explains information or asks for action."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-015",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "explain concept",
+    "skill": "test weather alert test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LY03. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LY03. Use your own example.",
-    "visual": {
+    "type": "single",
+    "question": "A phone alert says, ‘Severe storm approaching. Move indoors now.’ What are its purpose and audience? Which reason best supports the correct choice?",
+    "audioPrompt": "A phone alert says, ‘Severe storm approaching. Move indoors now.’ What are its purpose and audience? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The urgent warning and command address people who may be in danger.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Purpose and Audience.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "stretch",
+    "difficultyTier": "application",
     "sequencePriority": 15,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Purpose and Audience.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "correct": 1,
+    "explanation": "The urgent warning and command address people who may be in danger.\nHint: Use the immediate action words and delivery context as evidence.",
+    "structuredExplanation": {
+      "summary": "The urgent warning and command address people who may be in danger.",
+      "hint": "Use the immediate action words and delivery context as evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2ly03-t-016",
     "curriculumCode": "AC9E2LY03",
     "bank": "test",
-    "skill": "apply concept",
+    "skill": "test council playground poster test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LY03, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LY03, then explain the answer.",
-    "visual": {
+    "type": "single",
+    "question": "A council poster asks families to vote on two playground plans. Which feature best supports that purpose? Which reason best supports the correct choice?",
+    "audioPrompt": "A council poster asks families to vote on two playground plans. Which feature best supports that purpose? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "The audience needs to compare the choices and know how to respond."
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "stretch",
+    "difficultyTier": "application",
     "sequencePriority": 16,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "correct": 2,
+    "explanation": "The audience needs to compare the choices and know how to respond.\nHint: Match the design features to families making a decision.",
+    "structuredExplanation": {
+      "summary": "The audience needs to compare the choices and know how to respond.",
+      "hint": "Match the design features to families making a decision."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

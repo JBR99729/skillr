@@ -1,0 +1,160 @@
+{
+  "AC9M1N01": {
+    "E1": ["Read 17, 70 and 71. Which is greatest? Explain using tens and ones.", "71 is greatest: it has seven tens and one one. 70 has seven tens with no extra ones; 17 has only one ten."],
+    "E2": ["Place 42 between 40 and 50 on an equally spaced number line. Is it closer to 40 or 50?", "It is closer to 40: two steps after 40 and eight steps before 50. The spaces must represent equal increases."],
+    "E3": ["On a chart with ten numbers in each row, 34 is directly above 44. What changes when moving down one row?", "The number increases by ten. The tens count changes from three to four, while the ones digit stays four."],
+    "E4": ["Two cards use different written symbols. Each card is matched to a collection of seven dots. Must the amounts be different?", "No. Different words or symbols can represent the same quantity. Counting both collections gives seven."]
+  },
+  "AC9M1N02": {
+    "E1": ["A ten-frame has six filled spaces. How many empty spaces complete ten? Show the two parts.", "Four spaces are empty. Six and four combine to make ten: 6 + 4 = 10."],
+    "E2": ["Build 52 with tens and ones. Open one bundle of ten. How many tens and ones are there now?", "Four tens and twelve ones. Opening a bundle changes the grouping, but 40 + 12 still equals 52."],
+    "E3": ["Show 28 as 20 and 8, then find a different split. How can you check it?", "For example, 10 and 18. Recombine the parts: 10 + 18 = 28, just as 20 + 8 = 28."]
+  },
+  "AC9M1N03": {
+    "E1": ["There are six groups of five counters and two loose counters. Count efficiently.", "Count 5, 10, 15, 20, 25, 30, then 31, 32. There are 32 counters; the two loose counters are not another group of five."],
+    "E2": ["Nine bundles each contain ten pencils, with six loose pencils beside them. What is the total?", "96 pencils. Nine tens make 90, and six more make 96."],
+    "E3": ["Play money shows four stacks of ten $1 coins and three loose $1 coins. What is the total value?", "$43. Count the stacks as $10, $20, $30, $40, then add $3. Each coin is worth one dollar."]
+  },
+  "AC9M1N04": {
+    "E1": ["Draw 15 counters and cross out six. What remains, and which number sentence matches?", "Nine remain. 15 − 6 = 9; the crossed-out counters show the amount taken away."],
+    "E2": ["Use making ten to calculate 9 + 5. Explain how you split five.", "Split five into one and four: 9 + 1 + 4 = 10 + 4 = 14."],
+    "E3": ["You know 6 + 6 = 12. How does that help find 6 + 7?", "Seven is one more than six, so the total is one more than 12: 13."],
+    "E4": ["Ten birds sit on a fence. Four more arrive. Draw the story and write an equation that matches.", "10 + 4 = 14. The drawing should join a group of ten and a group of four; fourteen is the whole."]
+  },
+  "AC9M1N05": {
+    "E1": ["A box holds 13 crayons. Eight are blue and the rest are red. How many are red?", "Five are red. Show a whole of 13 split into eight and the missing part; 13 − 8 = 5 or 8 + 5 = 13."],
+    "E2": ["At a pretend shop, a notebook costs $6 and a pen costs $3. You pay $10. How much change is due?", "The cost is $9, so the change is $1. Check that $9 + $1 equals the $10 paid."],
+    "E3": ["A bus has nine passengers. Four get off and six get on. How many are on the bus now?", "9 − 4 = 5, then 5 + 6 = 11 passengers. Account for both changes in the correct order."]
+  },
+  "AC9M1N06": {
+    "E1": ["Four toy bicycles each need two wheels. How many wheels are needed altogether?", "Eight wheels. Show four groups of two and count 2, 4, 6, 8."],
+    "E2": ["Share 14 counters equally between two players. How can you check the sharing?", "Each receives seven. Count both shares to check that they are equal and that 7 + 7 accounts for all 14 counters."],
+    "E3": ["Share eight $1 play coins equally among four children. How many coins and how much value does each receive?", "Each receives two coins worth $2. Deal one to each child twice; all shares have the same value."]
+  },
+  "AC9M1A01": {
+    "E1": ["Continue the count 10, 20, 30, __, __. What is added each time?", "40, 50. Add ten each time; saying only the next number does not explain the rule."],
+    "E2": ["Build separate stages containing 5, 10 and 15 blocks. How many blocks should stage four contain?", "20 blocks. Each new stage contains five more blocks than the previous stage; keep the stages visibly separate."],
+    "E3": ["In the count 0, 5, 10, 15, 20, which ones digits repeat? Will 23 occur in this count?", "The ones digits alternate between 0 and 5. 23 will not occur because its ones digit is 3."],
+    "E4": ["Count the value of six 5-cent play coins by fives.", "5, 10, 15, 20, 25, 30 cents. The count gives value in cents, not the number of coins."],
+    "E5": ["A packing robot fills boxes with ten crayons each. It fills four boxes. How many crayons has it packed?", "40 crayons: 10, 20, 30, 40. Each completed box increases the total by ten."],
+    "E6": ["In a classroom counting game, players call the next multiple of five: 5, 10, 15. Give the next two calls and the rule.", "20 and 25. Add five after every call."]
+  },
+  "AC9M1A02": {
+    "E1": ["Continue red, red, blue, red, red, blue. Name the smallest repeating unit.", "Red, red, blue comes next. The smallest repeating unit is red–red–blue, not the whole six-item display."],
+    "E2": ["Represent clap, stamp, clap, stamp with letters. What repeats?", "CS CS. The unit CS repeats; each letter consistently represents one action."],
+    "E3": ["Compare the ones digits in 20–29 and 30–39. What repeats, and what changes?", "The ones digits repeat from 0 to 9. The tens digit changes from 2 to 3, so the numbers are different even though the ones-digit pattern repeats."],
+    "E4": ["Give a drawing tool clear instructions to make triangle, circle, circle repeated three times. How can you check its result?", "Specify the unit triangle–circle–circle and three repeats. Check for nine shapes in that order, with no missing or extra shape between units."]
+  },
+  "AC9M1M01": {
+    "E1": ["A string exactly matches a shelf's length. A box is longer than that string. Will the box fit along the shelf without overhanging?", "No. The string transfers the shelf's length, and the box exceeds it. Align the same starting ends when comparing."],
+    "E2": ["Balance scales show A heavier than B and B heavier than C. Order them from lightest to heaviest.", "C, B, A. Use the mass comparisons; the biggest-looking object is not necessarily the heaviest."],
+    "E3": ["Three containers hold exactly two, five and three identical cups of water. Order their capacities.", "Two cups, three cups, five cups: least to greatest. Using the same cup makes the comparisons meaningful."],
+    "E4": ["Three sand timers start together. Red empties first, blue next and green last. Which measures the longest duration?", "Green. Starting together allows the finishing times to show which duration is longest."]
+  },
+  "AC9M1M02": {
+    "E1": ["The same strip measures six long blocks or twelve short blocks, with no gaps. Did the strip change length?", "No. Smaller units require more copies. The count depends on the unit as well as the object's length."],
+    "E2": ["A mat measures eight identical blocks and a tray measures five. How much longer is the mat?", "Three blocks longer: 8 − 5 = 3. Both measurements must use the same-sized blocks placed end-to-end."],
+    "E3": ["Two children count different numbers of footsteps over the same path. Give a possible reason and a better comparison method.", "Their steps may differ in length. Use copies of one fixed unit, such as the same measuring strip, for a more consistent comparison."],
+    "E4": ["One toy reaches six stacked blocks and another reaches four. Which is taller, and by how much?", "The first is two blocks taller, provided the blocks are identical and both stacks start at the same level."]
+  },
+  "AC9M1M03": {
+    "E1": ["Which is a suitable unit for the time from one birthday to the next: hours or years?", "Years. One birthday to the next is about one year; hours suit much shorter durations."],
+    "E2": ["A calendar shows April has 30 days and May has 31. Are all months the same length? What follows December?", "No. These two months already have different lengths. January follows December as the calendar cycle begins a new year."],
+    "E3": ["Place these events on a daily timeline: breakfast, bedtime, lunch. Explain the order.", "Breakfast, lunch, bedtime. A timeline shows when events occur and their sequence, rather than arranging them by how enjoyable they are."],
+    "E4": ["A short film lasts about one hour and a school holiday lasts two weeks. Which duration is longer?", "Two weeks is longer. Compare the units as well as the numbers; one hour is only part of a day."]
+  },
+  "AC9M1SP01": {
+    "E1": ["A group contains triangles of different sizes, colours and orientations. Which feature keeps them in the same group?", "Each has three straight sides and three corners. Size, colour and turning do not change that classification."],
+    "E2": ["A flat shape in a bag has a curved boundary and no corners. Could those clues alone distinguish a circle from an oval?", "No. Both can fit those clues. More information is needed, such as whether it is stretched in one direction."],
+    "E3": ["Arrange four cubes in a tower, then rearrange them in a row. What stays the same and what changes?", "There are still four cubes. The arrangement, overall height and overall length change."]
+  },
+  "AC9M1SP02": {
+    "E1": ["A robot faces the board. It moves forward two spaces, turns right, then moves forward one. Why must its starting direction be known?", "Forward and right depend on which way the robot faces. A different starting direction can produce a different finishing position."],
+    "E2": ["A robot is told ‘Go over there.’ Improve the instruction so another person can follow it exactly.", "For example, ‘Start on the marked square facing the door. Move forward three squares.’ A clear start, direction and distance remove guesswork."],
+    "E3": ["A line is Mia, Noah, Ava, Leo from front to back. Who is third, and who stands immediately behind Noah?", "Ava is third and immediately behind Noah. State which end is the front before using ordinal positions."],
+    "E4": ["Describe a route from the classroom door to the library using two familiar landmarks. What should a listener be able to do?", "The listener should be able to follow the stated route. For example, walk straight to the tree, turn left, then continue to the library entrance; check the directions against the actual local layout."]
+  },
+  "AC9M1ST01": {
+    "E1": ["You want to count playground rubbish types without touching them. Choose categories for paper, food scraps and wrappers. What should happen to an unfamiliar item?", "Record it in an agreed ‘other’ category and review the categories afterwards. Do not quietly omit it or count it twice."],
+    "E2": ["Five favourite-fruit responses are apple, pear, apple, banana, pear. Which question can this list answer?", "It can answer how many of these five responses belong to each fruit: apple 2, pear 2, banana 1. It cannot tell us everyone's favourite fruit."],
+    "E3": ["A tally has four marks for Year 1 cyclists. One more Year 1 cyclist arrives. What changes?", "Add one mark to make five. One observed student contributes one tally; record the observation in the correct year category."],
+    "E4": ["A chart uses one sticker for each completed reading session. Mia has three stickers. What does that show, and what does it not show?", "It shows three recorded sessions. Without more information, it does not show the number of books or minutes read."],
+    "E5": ["A pretend chatbot asks five children ‘Did you walk to school today?’ The replies are yes, no, yes, yes, no. Record the totals.", "Yes: 3. No: 2. The totals add to five replies, so each child's response is represented once."]
+  },
+  "AC9M1ST02": {
+    "E1": ["Make a one-picture-per-child display for four apples, two pears and one banana as favourite-fruit responses. How many pictures are needed?", "Seven pictures in three labelled categories. Keep symbols the same size and use one picture for each response."],
+    "E2": ["Convert dog, cat, dog, dog, cat, bird into a tally chart. Which category has the greatest frequency?", "Dog has 3, cat 2 and bird 1. Dog has the greatest frequency because it has the most recorded responses."],
+    "E3": ["No child in a class has a birthday in June. A birthday chart includes June. What should its count be?", "Zero. No names or marks in that labelled month can show zero, but a written 0 makes the meaning especially clear."],
+    "E4": ["One-to-one rows show six circles for walking and four for cycling. How many more children walk?", "Two more. Match four circles from each row; two walking circles remain unmatched."],
+    "E5": ["A vote has art 7, music 5 and drama 7. Is there one most popular option?", "No. Art and drama tie for the highest frequency, with seven votes each."]
+  },
+  "AC9S1U01": {
+    "E1": ["A frog is observed beside a pond with water, insects and plants. Name two needs that this place may help meet.", "Water meets a water need; insects may provide food, and plants may provide shelter. Link the feature to a need rather than only naming the place."],
+    "E2": ["Group these care actions: refilling a rabbit's water bowl, watering a plant, and cleaning a rabbit's shelter. Which actions supply water?", "Refilling the bowl and watering the plant supply water. Cleaning the shelter helps maintain a suitable living place."],
+    "E3": ["Name one need shared by a child, a pet dog and a garden plant. Do they all obtain food in the same way?", "They all need water and air. Animals eat food; green plants make their food using light, water and air rather than eating meals."],
+    "E4": ["Design a model habitat for a pet rabbit. Label how water, food and shelter would be provided.", "For example, show drinking water, suitable rabbit food and a sheltered resting place. Labels must explain what each feature provides."],
+    "E6": ["A vegetable garden supplies food for people. Why must the plants still be cared for while they grow?", "They are living things with needs such as water, air and suitable light. Meeting those needs supports growth and a healthy food source."]
+  },
+  "AC9S1U02": {
+    "E1": ["A class photographs the same tree each week. Leaves gradually change colour and fall. What pattern could the record reveal?", "It can show a change over several weeks. Compare dated observations of the same tree rather than treating one fallen leaf as a whole seasonal pattern."],
+    "E2": ["Clouds darken before an outdoor game. How could that observation help with planning?", "It gives a reason to check the weather and consider shelter or a changed plan. Dark clouds suggest possible rain but do not guarantee it."],
+    "E3": ["Records show some birds leave an area at a similar time each year. Is that more likely a daily or seasonal pattern?", "A seasonal pattern, because the change recurs across the year rather than within a single day. Not all bird species migrate."],
+    "E4": ["A plant's soil becomes dry after several hot days. Name an observation and a possible response.", "Dry soil is the observation. Check the plant's watering needs and provide suitable care; do not assume every plant needs the same amount of water."],
+    "E5": ["A forecast predicts a cold, wet morning. Explain a clothing choice using that information.", "A warm layer and rain protection could help keep a person warm and dry. The reason should connect the clothing to the predicted conditions."]
+  },
+  "AC9S1U03": {
+    "E1": ["You move a toy wagon towards yourself using its handle. Is that a push or a pull?", "A pull: the handle is used to bring the wagon towards you."],
+    "E2": ["A plastic paddle strikes a soft ball. What force does the paddle apply, and what could change if the strike is stronger?", "It pushes the ball away. A stronger strike may make the ball start faster or travel farther if other relevant conditions are alike."],
+    "E3": ["A rolling ball meets your gently placed hand and stops. Did the force have an effect even though the ball ended still?", "Yes. A force changed its motion by slowing and stopping it; forces do not only start movement."],
+    "E4": ["Press a lump of playdough flat, then gently stretch it. Describe the two actions and their effects.", "Pressing is a push that flattens it. Stretching involves pulling parts apart, making it longer or thinner."],
+    "E5": ["Draw a toy car with an arrow showing a push from left to right. What does the arrow communicate?", "It shows the direction of the push. Label it ‘push’; an arrow alone should not be confused with a guarantee of how far the car will travel."],
+    "E7": ["A foot strikes a soft shuttlecock upwards. Is the strike a push or a pull? Explain using its direction.", "It is a push away from the foot. The contact force changes the shuttlecock's motion."]
+  },
+  "AC9S1H01": {
+    "E1": ["A gardener notices seedlings leaning towards a window. How could that observation guide care?", "The gardener can check whether the plants receive suitable light and adjust their position. Observations inform a care decision."],
+    "E2": ["A garden has very little shelter for small animals. Suggest one feature to discuss with a local habitat expert.", "For example, suitable local plants or sheltered spaces. Explain which animal need the feature could meet and check its suitability for that place."],
+    "E5": ["A wildlife carer observes where an animal rests before designing a shelter. Why observe first?", "The animal's behaviour gives evidence about the kind of shelter it uses. A useful design should respond to the animal's needs."],
+    "E6": ["A family sees a forecast of strong rain before a picnic. How are they using science if they change the plan?", "They use information about likely weather to predict conditions and make a practical decision."],
+    "E7": ["When stirring a bowl with a spoon, how do pushes help move the mixture?", "The hand moves the spoon, and the spoon pushes the mixture along. The tool helps transfer the applied force."],
+    "E8": ["An engineer tests a toy with a gentle push and then a stronger push. What could the results help them decide?", "The results can help them predict how the toy moves under different pushes and improve its design for its intended users."]
+  },
+  "AC9S1I01": {
+    "E1": ["Turn ‘This toy rolls’ into a question that compares two push strengths.", "For example, ‘Does this toy travel farther after a stronger push than after a gentle push on the same surface?’ The question identifies what to compare."],
+    "E2": ["You see a bird under a bush on a wet day. Ask a question about how it meets a need.", "For example, ‘Does the bird use this bush for shelter when it rains?’ Further observations could help investigate the idea."],
+    "E3": ["A plant's soil has been dry and its leaves are drooping. Make a prediction about suitable watering, without withholding the care it needs.", "For example, ‘I predict the leaves may become firmer after suitable watering because plants need water.’ Observe what happens; a prediction is not a guaranteed result."],
+    "E4": ["Where would you predict finding a frog more often: near a pond or on a dry paved path? Give a reason.", "Near a pond is a reasonable prediction because water and nearby shelter may meet its needs. An actual observation is still needed."],
+    "E5": ["Last year's records show more flowers on a particular tree in spring. Make a prediction for this spring and name the evidence.", "Predict more flowers on that tree in spring, using the previous seasonal record as evidence. Check the new observations rather than assuming an exact repeat."]
+  },
+  "AC9S1I02": {
+    "E1": ["Before an outdoor observation, the teacher gives sun-safety instructions. When should these be followed?", "Before going outside and throughout the activity. Preparing first is part of a safe procedure, rather than a step to remember afterwards."],
+    "E2": ["Put these steps in order: record the distance, place the toy at the start, gently push the toy along the clear track.", "Place it at the start, gently push along the track, then record the distance travelled. Follow the teacher's agreed method."],
+    "E3": ["Would watching birds or pushing a toy be the better method for investigating how birds find shelter? Why?", "Watching birds in their environment is relevant to the question. The toy activity cannot provide evidence about bird shelter."],
+    "E4": ["A group finishes measuring with blocks. What should it do before leaving the area?", "Record the results, return the equipment to its agreed place and clear the workspace as instructed so the next group can use it safely."]
+  },
+  "AC9S1I03": {
+    "E1": ["Which is an observation: ‘The leaf has three holes’ or ‘An insect ate it last night’?", "‘The leaf has three holes’ describes something seen. The insect statement suggests an explanation that needs further evidence."],
+    "E2": ["A toy travels the length of seven identical blocks placed end-to-end. How should the distance be recorded?", "Seven blocks. Include the informal unit and check that there are no gaps or overlaps between blocks."],
+    "E3": ["To compare two seedlings' heights, should you count their leaves or measure from the soil to the top using the same blocks?", "Measure their heights using the same-sized blocks and the same start and end points. Leaf count answers a different question."],
+    "E4": ["A class photographs a seedling on Monday and Friday. Which labels make the photographs more useful as a record?", "Add the plant identity, dates and a consistent size reference where possible. This helps readers identify what changed and when."]
+  },
+  "AC9S1I04": {
+    "E1": ["A table records a plant as three blocks tall on Monday and five on Friday. What change does it show?", "An increase of two blocks, provided the same-sized blocks and measurement method were used."],
+    "E2": ["Two photographs show a round lump of playdough and the same lump flattened after pressing. Place them in before and after columns.", "Round lump: before. Flattened lump: after. The order communicates the shape change caused by pressing."],
+    "E3": ["A five-day record is sunny, rainy, rainy, sunny, cloudy. Which two conditions occur equally often?", "Sunny and rainy each occur twice. Cloudy occurs once; count the recorded days in each category."],
+    "E4": ["Dated pictures show buds, flowers, then fruit on one tree. Put them in the observed order. Must every plant follow exactly these dates?", "Buds, flowers, fruit for this record. Other plants or conditions can produce different timing, so do not generalise the dates to every plant."],
+    "E5": ["Sort opening a drawer by its handle and pressing a doorbell into pull and push groups.", "Opening the drawer towards you by its handle is a pull. Pressing the doorbell is a push. State the action because some objects can be moved in more than one way."]
+  },
+  "AC9S1I05": {
+    "E1": ["Two groups count five and seven birds. Before deciding who is correct, what should they compare?", "Compare where and when they counted, how long they watched and whether birds moved or were counted twice. Different observations do not automatically mean carelessness."],
+    "E3": ["One day's weather is observed at 8 am and another day's at 2 pm. How could the comparison be made more consistent?", "Observe at the same time and place on each day, or clearly record time as part of the comparison. Time of day may affect the conditions."],
+    "E4": ["You predict a toy will roll six blocks. It rolls four. What should your report say?", "Report the prediction of six and the observation of four separately. Do not change the result to match the prediction; ask what might explain the difference."],
+    "E5": ["Two children both call their pushes ‘big’, but the toy travels different distances. What makes the comparison uncertain?", "‘Big’ does not specify an equal push. With teacher guidance, use a more repeatable method and keep the other relevant conditions alike."]
+  },
+  "AC9S1I06": {
+    "E1": ["Improve ‘I made it go’ by naming the action and direction for a toy moved away from your hand.", "For example, ‘I pushed the toy forwards.’ The words identify both the force and its direction."],
+    "E3": ["A habitat model includes water and a sheltered resting place. How can labels improve your explanation?", "Label what each feature provides: water for drinking and shelter for resting or protection. Explain the need instead of only naming the material used in the model."],
+    "E4": ["You want to show how a tree changed over three months. What should accompany three drawings?", "Dates or month labels, placed in order, and descriptions of observed changes. Consistent viewpoints make comparisons easier."],
+    "E5": ["On a drawing, a hand pulls a wagon left. Add an arrow and words to communicate the force.", "Draw an arrow pointing left at the wagon and label it ‘pull to the left’. Match the words, arrow and depicted action."],
+    "E6": ["Retell how a gardener uses a repeated observation to make a prediction. Include the pattern and the predicted result.", "For example, ‘The soil usually dries after several warm days, so the gardener predicts it may need checking for water tomorrow.’ Identify the evidence and keep the prediction distinct from a later observation."]
+  }
+}

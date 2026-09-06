@@ -4,640 +4,498 @@ window.skillrTestQuestions = [
     "id": "ac9e2le05-t-001",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "distinguish adaptation from copying direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "audioPrompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "visual": {
+    "type": "single",
+    "question": "Which draft is an original adaptation of a familiar lost-child story?",
+    "audioPrompt": "Which draft is an original adaptation of a familiar lost-child story?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The dragon stomped into the cave.",
-        "is_correct": true
-      },
-      {
-        "text": "The dragon cave into moved.",
-        "is_correct": false
-      },
-      {
-        "text": "The dragon was a noun.",
-        "is_correct": false
-      }
+      "It follows the original events and changes only one character's name.",
+      "It redraws each picture with the same characters and actions.",
+      "It keeps the journey home but uses new characters, obstacles and language."
     ],
-    "correctIndex": 0,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 1,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "A strong adaptation uses a recognisable structure while making substantial original choices.\nHint: Look for both connection to the familiar text and meaningful new creation.",
+    "structuredExplanation": {
+      "summary": "A strong adaptation uses a recognisable structure while making substantial original choices.",
+      "hint": "Look for both connection to the familiar text and meaningful new creation."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-002",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "adapt a cumulative structure direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: I like the park because ___.",
-    "audioPrompt": "Choose the best revision or text part: I like the park because ___.",
-    "visual": {
+    "type": "single",
+    "question": "A familiar tale adds one new visitor in each scene. Which plan uses that structure in a new way?",
+    "audioPrompt": "A familiar tale adds one new visitor in each scene. Which plan uses that structure in a new way?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "park is park is park",
-        "is_correct": false
-      },
-      {
-        "text": "because",
-        "is_correct": false
-      },
-      {
-        "text": "there is space to run and play",
-        "is_correct": true
-      }
+      "A space station welcomes a robot, an alien and then a comet researcher.",
+      "One visitor arrives and no pattern develops.",
+      "The original visitors arrive in the original place and say the same lines."
     ],
-    "correctIndex": 2,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 2,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The plan keeps the growing visitor pattern while changing the setting, characters and events.\nHint: Keep the structural pattern but make fresh story choices.",
+    "structuredExplanation": {
+      "summary": "The plan keeps the growing visitor pattern while changing the setting, characters and events.",
+      "hint": "Keep the structural pattern but make fresh story choices."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-003",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "edit a confusing ending direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: First we mixed the batter. ___ we poured it into the pan.",
-    "audioPrompt": "Choose the best revision or text part: First we mixed the batter. ___ we poured it into the pan.",
-    "visual": {
+    "type": "single",
+    "question": "A draft ends, ‘They were safe,’ but never shows how the characters escaped. Which edit helps readers most?",
+    "audioPrompt": "A draft ends, ‘They were safe,’ but never shows how the characters escaped. Which edit helps readers most?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Because",
-        "is_correct": false
-      },
-      {
-        "text": "Then",
-        "is_correct": true
-      },
-      {
-        "text": "Blue",
-        "is_correct": false
-      }
+      "repeat the words They were safe three times",
+      "add the action that solves the escape problem before the final line",
+      "add a new problem after the final line without solving either one"
     ],
-    "correctIndex": 1,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 3,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "Showing the solution connects the problem to the ending and completes the event sequence.\nHint: Check whether the reader can follow how the problem was resolved.",
+    "structuredExplanation": {
+      "summary": "Showing the solution connects the problem to the ending and completes the event sequence.",
+      "hint": "Check whether the reader can follow how the problem was resolved."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-004",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "adapt dialogue pattern direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The tiny brown bird landed on the branch.",
-    "audioPrompt": "Choose the best revision or text part: The tiny brown bird landed on the branch.",
-    "visual": {
+    "type": "single",
+    "question": "A familiar character always asks three questions before acting. Which adaptation keeps that language pattern?",
+    "audioPrompt": "A familiar character always asks three questions before acting. Which adaptation keeps that language pattern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "tiny brown",
-        "is_correct": true
-      },
-      {
-        "text": "landed on",
-        "is_correct": false
-      },
-      {
-        "text": "the branch",
-        "is_correct": false
-      }
+      "The new detective acts at once and asks no questions.",
+      "The original character repeats the original questions word for word.",
+      "A new detective asks three different clue questions before opening a box."
     ],
-    "correctIndex": 0,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 4,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The adaptation retains the three-question pattern but gives it new language and a new situation.\nHint: Keep the pattern, not the exact words or character.",
+    "structuredExplanation": {
+      "summary": "The adaptation retains the three-question pattern but gives it new language and a new situation.",
+      "hint": "Keep the pattern, not the exact words or character."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-005",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "edit image sequence direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "audioPrompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "visual": {
+    "type": "single",
+    "question": "In a picture story, the bridge is repaired on page two but broken again on page three with no explanation. What edit improves continuity?",
+    "audioPrompt": "In a picture story, the bridge is repaired on page two but broken again on page three with no explanation. What edit improves continuity?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The dragon cave into moved.",
-        "is_correct": false
-      },
-      {
-        "text": "The dragon was a noun.",
-        "is_correct": false
-      },
-      {
-        "text": "The dragon stomped into the cave.",
-        "is_correct": true
-      }
+      "show the bridge still repaired or add an event that breaks it again",
+      "swap the page colours and keep the unexplained change",
+      "remove the bridge from only the final picture"
     ],
-    "correctIndex": 2,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 5,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "The pictures need a consistent state or a visible event explaining the change.\nHint: Compare what the image shows before and after each event.",
+    "structuredExplanation": {
+      "summary": "The pictures need a consistent state or a visible event explaining the change.",
+      "hint": "Compare what the image shows before and after each event."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-006",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "choose digital transition direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: I like the park because ___.",
-    "audioPrompt": "Choose the best revision or text part: I like the park because ___.",
-    "visual": {
+    "type": "single",
+    "question": "A calm garden scene changes suddenly to a chase. Which digital choice makes the shift clear?",
+    "audioPrompt": "A calm garden scene changes suddenly to a chase. Which digital choice makes the shift clear?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "because",
-        "is_correct": false
-      },
-      {
-        "text": "there is space to run and play",
-        "is_correct": true
-      },
-      {
-        "text": "park is park is park",
-        "is_correct": false
-      }
+      "keep the calm music and frozen garden image through the chase",
+      "use a brief sound cue and a quick scene change when the chase begins",
+      "play every sound effect at once before the chase starts"
     ],
-    "correctIndex": 1,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 6,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "A timely sound and visual transition signal the new pace and action.\nHint: Match digital features to the exact moment and mood.",
+    "structuredExplanation": {
+      "summary": "A timely sound and visual transition signal the new pace and action.",
+      "hint": "Match digital features to the exact moment and mood."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-007",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "peer editing feedback direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: First we mixed the batter. ___ we poured it into the pan.",
-    "audioPrompt": "Choose the best revision or text part: First we mixed the batter. ___ we poured it into the pan.",
-    "visual": {
+    "type": "single",
+    "question": "A partner's adaptation has a new setting but copies every original event. Which feedback is most useful?",
+    "audioPrompt": "A partner's adaptation has a new setting but copies every original event. Which feedback is most useful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Then",
-        "is_correct": true
-      },
-      {
-        "text": "Blue",
-        "is_correct": false
-      },
-      {
-        "text": "Because",
-        "is_correct": false
-      }
+      "Change the font so the copied events seem different.",
+      "Remove the new setting and copy the original place too.",
+      "Keep the setting, then create events that could happen in that new place."
     ],
-    "correctIndex": 0,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 7,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "Useful feedback recognises the new choice and suggests deeper changes linked to it.\nHint: An adaptation needs meaningful new content, not just surface changes.",
+    "structuredExplanation": {
+      "summary": "Useful feedback recognises the new choice and suggests deeper changes linked to it.",
+      "hint": "An adaptation needs meaningful new content, not just surface changes."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-008",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "performance adaptation direct",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The tiny brown bird landed on the branch.",
-    "audioPrompt": "Choose the best revision or text part: The tiny brown bird landed on the branch.",
-    "visual": {
+    "type": "single",
+    "question": "A class adapts a quiet bedtime story for the stage. Which choice keeps its gentle mood?",
+    "audioPrompt": "A class adapts a quiet bedtime story for the stage. Which choice keeps its gentle mood?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "landed on",
-        "is_correct": false
-      },
-      {
-        "text": "the branch",
-        "is_correct": false
-      },
-      {
-        "text": "tiny brown",
-        "is_correct": true
-      }
+      "use soft voices, slow movements and dim warm lighting",
+      "use shouting, rapid running and flashing lights",
+      "speak with no changes in pace or expression"
     ],
-    "correctIndex": 2,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 8,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "Soft, slow performance choices support the bedtime story's gentle mood.\nHint: Match voice, movement and light to the text's feeling.",
+    "structuredExplanation": {
+      "summary": "Soft, slow performance choices support the bedtime story's gentle mood.",
+      "hint": "Match voice, movement and light to the text's feeling."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-009",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "distinguish adaptation from copying test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "audioPrompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "visual": {
+    "type": "single",
+    "question": "Which draft is an original adaptation of a familiar lost-child story? Which reason best supports the correct choice?",
+    "audioPrompt": "Which draft is an original adaptation of a familiar lost-child story? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The dragon was a noun.",
-        "is_correct": false
-      },
-      {
-        "text": "The dragon stomped into the cave.",
-        "is_correct": true
-      },
-      {
-        "text": "The dragon cave into moved.",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "A strong adaptation uses a recognisable structure while making substantial original choices.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 1,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 9,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "A strong adaptation uses a recognisable structure while making substantial original choices.\nHint: Look for both connection to the familiar text and meaningful new creation.",
+    "structuredExplanation": {
+      "summary": "A strong adaptation uses a recognisable structure while making substantial original choices.",
+      "hint": "Look for both connection to the familiar text and meaningful new creation."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-010",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "adapt a cumulative structure test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: I like the park because ___.",
-    "audioPrompt": "Choose the best revision or text part: I like the park because ___.",
-    "visual": {
+    "type": "single",
+    "question": "A familiar tale adds one new visitor in each scene. Which plan uses that structure in a new way? Which reason best supports the correct choice?",
+    "audioPrompt": "A familiar tale adds one new visitor in each scene. Which plan uses that structure in a new way? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "there is space to run and play",
-        "is_correct": true
-      },
-      {
-        "text": "park is park is park",
-        "is_correct": false
-      },
-      {
-        "text": "because",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "The plan keeps the growing visitor pattern while changing the setting, characters and events."
     ],
-    "correctIndex": 0,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 10,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The plan keeps the growing visitor pattern while changing the setting, characters and events.\nHint: Keep the structural pattern but make fresh story choices.",
+    "structuredExplanation": {
+      "summary": "The plan keeps the growing visitor pattern while changing the setting, characters and events.",
+      "hint": "Keep the structural pattern but make fresh story choices."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-011",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "edit a confusing ending test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: First we mixed the batter. ___ we poured it into the pan.",
-    "audioPrompt": "Choose the best revision or text part: First we mixed the batter. ___ we poured it into the pan.",
-    "visual": {
+    "type": "single",
+    "question": "A draft ends, ‘They were safe,’ but never shows how the characters escaped. Which edit helps readers most? Which reason best supports the correct choice?",
+    "audioPrompt": "A draft ends, ‘They were safe,’ but never shows how the characters escaped. Which edit helps readers most? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Blue",
-        "is_correct": false
-      },
-      {
-        "text": "Because",
-        "is_correct": false
-      },
-      {
-        "text": "Then",
-        "is_correct": true
-      }
+      "Showing the solution connects the problem to the ending and completes the event sequence.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 2,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 11,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "Showing the solution connects the problem to the ending and completes the event sequence.\nHint: Check whether the reader can follow how the problem was resolved.",
+    "structuredExplanation": {
+      "summary": "Showing the solution connects the problem to the ending and completes the event sequence.",
+      "hint": "Check whether the reader can follow how the problem was resolved."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-012",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "adapt dialogue pattern test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The tiny brown bird landed on the branch.",
-    "audioPrompt": "Choose the best revision or text part: The tiny brown bird landed on the branch.",
-    "visual": {
+    "type": "single",
+    "question": "A familiar character always asks three questions before acting. Which adaptation keeps that language pattern? Which reason best supports the correct choice?",
+    "audioPrompt": "A familiar character always asks three questions before acting. Which adaptation keeps that language pattern? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "the branch",
-        "is_correct": false
-      },
-      {
-        "text": "tiny brown",
-        "is_correct": true
-      },
-      {
-        "text": "landed on",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The adaptation retains the three-question pattern but gives it new language and a new situation.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 1,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 12,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 1,
+    "explanation": "The adaptation retains the three-question pattern but gives it new language and a new situation.\nHint: Keep the pattern, not the exact words or character.",
+    "structuredExplanation": {
+      "summary": "The adaptation retains the three-question pattern but gives it new language and a new situation.",
+      "hint": "Keep the pattern, not the exact words or character."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-013",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "edit image sequence test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "audioPrompt": "Choose the best revision or text part: The dragon moved into the cave.",
-    "visual": {
+    "type": "single",
+    "question": "In a picture story, the bridge is repaired on page two but broken again on page three with no explanation. What edit improves continuity? Which reason best supports the correct choice?",
+    "audioPrompt": "In a picture story, the bridge is repaired on page two but broken again on page three with no explanation. What edit improves continuity? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "The dragon stomped into the cave.",
-        "is_correct": true
-      },
-      {
-        "text": "The dragon cave into moved.",
-        "is_correct": false
-      },
-      {
-        "text": "The dragon was a noun.",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "The pictures need a consistent state or a visible event explaining the change."
     ],
-    "correctIndex": 0,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 13,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 2,
+    "explanation": "The pictures need a consistent state or a visible event explaining the change.\nHint: Compare what the image shows before and after each event.",
+    "structuredExplanation": {
+      "summary": "The pictures need a consistent state or a visible event explaining the change.",
+      "hint": "Compare what the image shows before and after each event."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-014",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "create and edit text",
+    "skill": "choose digital transition test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Choose the best revision or text part: I like the park because ___.",
-    "audioPrompt": "Choose the best revision or text part: I like the park because ___.",
-    "visual": {
+    "type": "single",
+    "question": "A calm garden scene changes suddenly to a chase. Which digital choice makes the shift clear? Which reason best supports the correct choice?",
+    "audioPrompt": "A calm garden scene changes suddenly to a chase. Which digital choice makes the shift clear? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "park is park is park",
-        "is_correct": false
-      },
-      {
-        "text": "because",
-        "is_correct": false
-      },
-      {
-        "text": "there is space to run and play",
-        "is_correct": true
-      }
+      "A timely sound and visual transition signal the new pace and action.",
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 2,
-    "explanation": "Editing improves order, detail, vocabulary and connection to purpose.",
-    "hint": "Read the whole sentence or text clue, then choose the answer that best fits the Year 2 English idea.",
-    "difficulty": 2,
-    "difficultyTier": "core",
+    "difficulty": 3,
+    "difficultyTier": "application",
     "sequencePriority": 14,
-    "responseType": "multiple_choice",
-    "gradingMode": "auto",
-    "modelAnswer": null,
-    "acceptanceNote": null,
-    "responseInstructions": null,
-    "completionLabel": null
+    "correct": 0,
+    "explanation": "A timely sound and visual transition signal the new pace and action.\nHint: Match digital features to the exact moment and mood.",
+    "structuredExplanation": {
+      "summary": "A timely sound and visual transition signal the new pace and action.",
+      "hint": "Match digital features to the exact moment and mood."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-015",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "explain concept",
+    "skill": "peer editing feedback test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Write or say two sentences that show the main idea of AC9E2LE05. Use your own example.",
-    "audioPrompt": "Write or say two sentences that show the main idea of AC9E2LE05. Use your own example.",
-    "visual": {
+    "type": "single",
+    "question": "A partner's adaptation has a new setting but copies every original event. Which feedback is most useful? Which reason best supports the correct choice?",
+    "audioPrompt": "A partner's adaptation has a new setting but copies every original event. Which feedback is most useful? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "Useful feedback recognises the new choice and suggests deeper changes linked to it.",
+      "The correct choice works even if the situation and audience are ignored."
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response explains the code idea and includes a correct original example for Adapt and Edit Literary Texts.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "stretch",
+    "difficultyTier": "application",
     "sequencePriority": 15,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response explains the code idea and includes a correct original example for Adapt and Edit Literary Texts.",
-    "acceptanceNote": "Accept if the response is on-topic, understandable and includes a correct example.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "correct": 1,
+    "explanation": "Useful feedback recognises the new choice and suggests deeper changes linked to it.\nHint: An adaptation needs meaningful new content, not just surface changes.",
+    "structuredExplanation": {
+      "summary": "Useful feedback recognises the new choice and suggests deeper changes linked to it.",
+      "hint": "An adaptation needs meaningful new content, not just surface changes."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9e2le05-t-016",
     "curriculumCode": "AC9E2LE05",
     "bank": "test",
-    "skill": "apply concept",
+    "skill": "performance adaptation test-reason",
     "printable": true,
-    "type": "multiple-choice",
-    "prompt": "Create a short Year 2 example question for AC9E2LE05, then explain the answer.",
-    "audioPrompt": "Create a short Year 2 example question for AC9E2LE05, then explain the answer.",
-    "visual": {
+    "type": "single",
+    "question": "A class adapts a quiet bedtime story for the stage. Which choice keeps its gentle mood? Which reason best supports the correct choice?",
+    "audioPrompt": "A class adapts a quiet bedtime story for the stage. Which choice keeps its gentle mood? Which reason best supports the correct choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
-      {
-        "text": "Parent or teacher review needed",
-        "is_correct": true
-      },
-      {
-        "text": "Needs more detail",
-        "is_correct": false
-      },
-      {
-        "text": "Off topic",
-        "is_correct": false
-      }
+      "The correct choice is simply the most formal-sounding option.",
+      "The correct choice works even if the situation and audience are ignored.",
+      "Soft, slow performance choices support the bedtime story's gentle mood."
     ],
-    "correctIndex": 0,
-    "explanation": "A strong response creates a clear example and explains why the answer works.",
-    "hint": "Use the checklist in the question and ask an adult to confirm your response.",
     "difficulty": 3,
-    "difficultyTier": "stretch",
+    "difficultyTier": "application",
     "sequencePriority": 16,
-    "responseType": "adult_review",
-    "gradingMode": "adult_review",
-    "modelAnswer": "A strong response creates a clear example and explains why the answer works.",
-    "acceptanceNote": "Accept if the example matches the descriptor and the explanation is accurate.",
-    "responseInstructions": "Say or write your response, then ask a parent or teacher to check it against the acceptance note.",
-    "completionLabel": "Ready for adult review"
+    "correct": 2,
+    "explanation": "Soft, slow performance choices support the bedtime story's gentle mood.\nHint: Match voice, movement and light to the text's feeling.",
+    "structuredExplanation": {
+      "summary": "Soft, slow performance choices support the bedtime story's gentle mood.",
+      "hint": "Match voice, movement and light to the text's feeling."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;
