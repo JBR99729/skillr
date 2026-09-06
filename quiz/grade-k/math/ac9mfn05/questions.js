@@ -615,7 +615,7 @@ window.skillrPracticeQuestions = [
     "skill": "take away from a collection",
     "printable": true,
     "type": "single",
-    "question": "6 shells are on a mat. 1 are taken away. How many stay on the mat?",
+    "question": "6 shells are on a mat. 1 is taken away. How many stay on the mat?",
     "visual": "Start: ● ● ● ● ● ●\nTaken away: ×",
     "answers": [
       "1",

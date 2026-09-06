@@ -7,7 +7,7 @@ window.skillrPracticeQuestions = [
     "skill": "match parts to whole",
     "printable": true,
     "type": "single",
-    "question": "Mia has 4 counters in all. 1 are on the mat and the rest are in a cup. How many are in the cup?",
+    "question": "Mia has 4 counters in all. 1 is on the mat and the rest are in a cup. How many are in the cup?",
     "visual": "Blue: ●\nYellow: ?",
     "answers": [
       "3",

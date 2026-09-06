@@ -84,8 +84,8 @@ window.skillrPracticeQuestions = [
       "AAB",
       "ABB"
     ],
-    "correct": 1,
-    "explanation": "Each different symbol can be named with a letter to show the repeating structure."
+    "correct": 2,
+    "explanation": "Each symbol can be named with a letter. Match repeated symbols with the same letter."
   },
   {
     "id": "ac9mfa01-p-006",
@@ -364,8 +364,8 @@ window.skillrPracticeQuestions = [
       "ABC",
       "AAB"
     ],
-    "correct": 2,
-    "explanation": "Each different symbol can be named with a letter to show the repeating structure."
+    "correct": 0,
+    "explanation": "Each symbol can be named with a letter. Match repeated symbols with the same letter."
   },
   {
     "id": "ac9mfa01-p-022",
