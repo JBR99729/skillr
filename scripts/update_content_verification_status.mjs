@@ -68,6 +68,7 @@ const completed = groups.filter((group) => group.codes.every((code) => reviewed.
 const completedKeys = new Set(completed.map((group) => `${group.yearDirectory}/${group.subject}`));
 const startMarker = "<!-- skillr-verification-badge:start -->";
 const endMarker = "<!-- skillr-verification-badge:end -->";
+const verificationStylesheet = '<link rel="stylesheet" href="/assets/verification-status.css?v=20260906-1">';
 
 function replaceMarked(source, start, end, replacement) {
   const pattern = new RegExp(`${start.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}[\\s\\S]*?${end.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}`);
@@ -80,13 +81,18 @@ function desiredHub(group, source) {
   const hasManagedBadge = source.includes(startMarker);
   const hasLegacyBadge = source.includes('class="curriculum-verified-label"');
   if (!complete && !hasManagedBadge && !hasLegacyBadge) return source;
+  let output = source;
+  if ((complete || hasManagedBadge || hasLegacyBadge) && !output.includes("/assets/verification-status.css")) {
+    output = output.replace(/(<link rel="stylesheet" href="\/assets\/css\/curriculum-skill-hub\.css">)/, `$1\n  ${verificationStylesheet}`);
+  }
   const label = `${group.yearLabel} ${group.subjectLabel}`;
   const badge = complete
     ? `${startMarker}<p><a class="curriculum-verified-label" href="/editorial-standards.html#verified-status" aria-label="${label} content verification details">✓ Content Verified</a></p>${endMarker}`
     : `${startMarker}${endMarker}`;
-  let output = source.replace(/<!-- skillr-verification-badge:start -->[\s\S]*?<!-- skillr-verification-badge:end -->/, badge);
-  if (output === source && !source.includes(startMarker)) {
-    output = source.replace(/(<header class="curriculum-hero">[\s\S]*?<h1>[^<]+<\/h1>)(?:<p><a class="curriculum-verified-label"[\s\S]*?<\/a><\/p>)?/, `$1${badge}`);
+  const beforeBadge = output;
+  output = output.replace(/<!-- skillr-verification-badge:start -->[\s\S]*?<!-- skillr-verification-badge:end -->/, badge);
+  if (output === beforeBadge && !output.includes(startMarker)) {
+    output = output.replace(/(<header class="curriculum-hero">[\s\S]*?<h1>[^<]+<\/h1>)(?:<p><a class="curriculum-verified-label"[\s\S]*?<\/a><\/p>)?/, `$1${badge}`);
   }
   return output;
 }
