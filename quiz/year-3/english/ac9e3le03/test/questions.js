@@ -4,23 +4,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-001",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
     "type": "single",
-    "question": "In a scene inside a storm shelter, which words create the strongest uneasy mood?",
-    "audioPrompt": "In a scene inside a storm shelter, which words create the strongest uneasy mood?",
+    "question": "“You go first,” said Imani, moving her painting aside so her friend had room.\n\nWhich interpretation is supported here?",
+    "audioPrompt": "“You go first,” said Imani, moving her painting aside so her friend had room.\n\nWhich interpretation is supported here?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "nice trees stood",
-      "green leaves grew",
-      "silent shadows crept"
+      "Imani makes space for her friend.",
+      "Imani has thrown away the painting.",
+      "Imani refuses to share the table.",
+      "Imani wants her friend to stop painting."
     ],
-    "correct": 2,
-    "explanation": "silent shadows crept This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 0,
+    "explanation": "Her words and movement both show making room for the friend.\nHint: Find the particular words or visible details that support your interpretation.",
     "structuredExplanation": {
-      "summary": "silent shadows crept This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Her words and movement both show making room for the friend.",
+      "hint": "Find the particular words or visible details that support your interpretation."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +32,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-002",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
     "type": "single",
-    "question": "In a scene inside a storm shelter, an illustration shows crossed arms and a frown. What does it suggest?",
-    "audioPrompt": "In a scene inside a storm shelter, an illustration shows crossed arms and a frown. What does it suggest?",
+    "question": "The empty swing tapped the fence. Mist blurred the houses at the far end of the street.\n\nWhich mood do the setting details most strongly support?",
+    "audioPrompt": "The empty swing tapped the fence. Mist blurred the houses at the far end of the street.\n\nWhich mood do the setting details most strongly support?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "The character may be upset or unwilling",
-      "The character is certainly asleep",
-      "The setting is underwater"
+      "A crowded, cheerful festival.",
+      "A quiet, slightly eerie mood.",
+      "A noisy sporting contest.",
+      "A hot, bright afternoon."
     ],
-    "correct": 0,
-    "explanation": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 1,
+    "explanation": "The empty moving swing and obscuring mist support an eerie quietness; no danger is proved.\nHint: Find the particular words or visible details that support your interpretation.",
     "structuredExplanation": {
-      "summary": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The empty moving swing and obscuring mist support an eerie quietness; no danger is proved.",
+      "hint": "Find the particular words or visible details that support your interpretation."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +60,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-003",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
     "type": "single",
-    "question": "In a scene inside a storm shelter, how can an image extend the written words?",
-    "audioPrompt": "In a scene inside a storm shelter, how can an image extend the written words?",
+    "question": "Eli's shoulders dropped when the model collapsed. Then his sister brought glue and said, “Let's mend it together.”\n\nHow does the new event affect the mood?",
+    "audioPrompt": "Eli's shoulders dropped when the model collapsed. Then his sister brought glue and said, “Let's mend it together.”\n\nHow does the new event affect the mood?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "It repeats every sentence exactly",
-      "It can add clues about mood, setting or character",
-      "It removes the need for interpretation"
+      "It proves the model is already fixed.",
+      "It changes delight into anger.",
+      "It introduces hope after disappointment.",
+      "It makes help impossible."
     ],
-    "correct": 1,
-    "explanation": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 2,
+    "explanation": "The offer and materials make repair possible, changing the disappointed moment without guaranteeing success.\nHint: Find the particular words or visible details that support your interpretation.",
     "structuredExplanation": {
-      "summary": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The offer and materials make repair possible, changing the disappointed moment without guaranteeing success.",
+      "hint": "Find the particular words or visible details that support your interpretation."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +88,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-004",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
     "type": "single",
-    "question": "In a scene inside a storm shelter, which detail best portrays a hurried event?",
-    "audioPrompt": "In a scene inside a storm shelter, which detail best portrays a hurried event?",
+    "question": "“I can carry it,” said Pip. Pip took two steps, stopped, and asked, “Could you take this end?”\n\nWhat does Pip's final question show?",
+    "audioPrompt": "“I can carry it,” said Pip. Pip took two steps, stopped, and asked, “Could you take this end?”\n\nWhat does Pip's final question show?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "A chair was brown",
-      "The clock had numbers",
-      "Boots pounded as people rushed past"
+      "Pip has already reached the destination.",
+      "Pip refuses every offer of help.",
+      "Pip has forgotten what is being carried.",
+      "Pip recognises that help would be useful."
     ],
-    "correct": 2,
-    "explanation": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 3,
+    "explanation": "The request revises the initial attempt to carry it alone; it does not prove why the load is difficult.\nHint: Find the particular words or visible details that support your interpretation.",
     "structuredExplanation": {
-      "summary": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The request revises the initial attempt to carry it alone; it does not prove why the load is difficult.",
+      "hint": "Find the particular words or visible details that support your interpretation."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +116,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-005",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
-    "type": "single",
-    "question": "In a scene inside a storm shelter, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
-    "audioPrompt": "In a scene inside a storm shelter, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The drizzle contrasts with glowing windows and warm scented air, making inside seem comforting.",
+    "acceptanceNote": "Require the indoor/outdoor contrast and at least two sensory details. Accept another plausible interpretation when it is supported by the supplied words or illustration. Do not require the model wording.",
+    "responseInstructions": "Explain your idea and point to the words or picture details that support it. An adult checks your reasoning.",
+    "completionLabel": "I have explained my interpretation aloud or on paper; an adult still needs to check it.",
+    "question": "The bakery windows glowed through the drizzle. As the door opened, warm cinnamon air wrapped around us.\n\nHow does the language make the bakery seem inviting against the outdoor setting?",
+    "audioPrompt": "The bakery windows glowed through the drizzle. As the door opened, warm cinnamon air wrapped around us.\n\nHow does the language make the bakery seem inviting against the outdoor setting?",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "The character may be hiding tension",
-      "The character has no feelings",
-      "The picture cannot affect meaning"
-    ],
-    "correct": 0,
-    "explanation": "The character may be hiding tension This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The drizzle contrasts with glowing windows and warm scented air, making inside seem comforting.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The drizzle contrasts with glowing windows and warm scented air, making inside seem comforting.",
+      "hint": "Connect a specific detail with its effect on the reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +145,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-006",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
-    "type": "single",
-    "question": "In a scene inside a storm shelter, which illustration best supports a dangerous storm scene?",
-    "audioPrompt": "In a scene inside a storm shelter, which illustration best supports a dangerous storm scene?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The soft request and waiting portray the dragon as polite or considerate in this scene.",
+    "acceptanceNote": "Require the request and waiting; do not assume all dragons act this way. Accept another plausible interpretation when it is supported by the supplied words or illustration. Do not require the model wording.",
+    "responseInstructions": "Explain your idea and point to the words or picture details that support it. An adult checks your reasoning.",
+    "completionLabel": "I have explained my interpretation aloud or on paper; an adult still needs to check it.",
+    "question": "“My turn?” asked the dragon softly. It waited outside the game circle instead of pushing in.\n\nHow is this dragon portrayed? Use both speech and action.",
+    "audioPrompt": "“My turn?” asked the dragon softly. It waited outside the game circle instead of pushing in.\n\nHow is this dragon portrayed? Use both speech and action.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "A neat picnic under clear skies",
-      "Bent trees beneath dark clouds",
-      "A blank white wall"
-    ],
-    "correct": 1,
-    "explanation": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The soft request and waiting portray the dragon as polite or considerate in this scene.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The soft request and waiting portray the dragon as polite or considerate in this scene.",
+      "hint": "Connect a specific detail with its effect on the reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +174,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-007",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
-    "type": "single",
-    "question": "In a scene inside a storm shelter, why might an author choose a close-up of a face?",
-    "audioPrompt": "In a scene inside a storm shelter, why might an author choose a close-up of a face?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The snapping branch creates concern about a fall; the catch and safe landing bring relief.",
+    "acceptanceNote": "Require the problem and resolution; no contents or injuries are stated. Accept another plausible interpretation when it is supported by the supplied words or illustration. Do not require the model wording.",
+    "responseInstructions": "Explain your idea and point to the words or picture details that support it. An adult checks your reasoning.",
+    "completionLabel": "I have explained my interpretation aloud or on paper; an adult still needs to check it.",
+    "question": "The branch snapped beneath the basket. Before it fell far, a passing gardener caught it and set it safely down.\n\nExplain how the event changes the tension.",
+    "audioPrompt": "The branch snapped beneath the basket. Before it fell far, a passing gardener caught it and set it safely down.\n\nExplain how the event changes the tension.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "To show the whole country's location",
-      "To list the plot in order",
-      "To emphasise a character's emotion"
-    ],
-    "correct": 2,
-    "explanation": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.\nHint: Use the story details and reader effect before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The snapping branch creates concern about a fall; the catch and safe landing bring relief.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The snapping branch creates concern about a fall; the catch and safe landing bring relief.",
+      "hint": "Connect a specific detail with its effect on the reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +203,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-008",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
-    "type": "single",
-    "question": "In a scene inside a storm shelter, which comparison explains a combined effect?",
-    "audioPrompt": "In a scene inside a storm shelter, which comparison explains a combined effect?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Muffled steps and a distant-sounding bell create a hushed, quiet atmosphere.",
+    "acceptanceNote": "Accept calm or lonely when linked to the same evidence; do not require one personal mood word. Accept another plausible interpretation when it is supported by the supplied words or illustration. Do not require the model wording.",
+    "responseInstructions": "Explain your idea and point to the words or picture details that support it. An adult checks your reasoning.",
+    "completionLabel": "I have explained my interpretation aloud or on paper; an adult still needs to check it.",
+    "question": "The snow muffled our footsteps. Even the village bell sounded far away.\n\nHow do the sound descriptions affect the atmosphere?",
+    "audioPrompt": "The snow muffled our footsteps. Even the village bell sounded far away.\n\nHow do the sound descriptions affect the atmosphere?",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "The dark words and tilted image both make the scene feel unstable",
-      "The page has words and a picture",
-      "Both versions use paper"
-    ],
-    "correct": 0,
-    "explanation": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "Muffled steps and a distant-sounding bell create a hushed, quiet atmosphere.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Muffled steps and a distant-sounding bell create a hushed, quiet atmosphere.",
+      "hint": "Connect a specific detail with its effect on the reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +232,30 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-009",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
-    "type": "single",
-    "question": "On a page showing a bright market, which words create the strongest uneasy mood?",
-    "audioPrompt": "On a page showing a bright market, which words create the strongest uneasy mood?",
-    "visual": "",
-    "visualHtml": "",
-    "answers": [
-      "nice trees stood",
-      "silent shadows crept",
-      "green leaves grew"
-    ],
-    "correct": 1,
-    "explanation": "silent shadows crept This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Smoke from the chimney suggests a fire may be inside, offering possible warmth in the snowy setting.",
+    "acceptanceNote": "Require smoke and snow; smoke suggests warmth but does not prove somebody will welcome the traveller. Accept another plausible interpretation when it is supported by the supplied words or illustration. Do not require the model wording.",
+    "responseInstructions": "Explain your idea and point to the words or picture details that support it. An adult checks your reasoning.",
+    "completionLabel": "I have explained my interpretation aloud or on paper; an adult still needs to check it.",
+    "question": "At last, the traveller saw the cabin.\n\nWhat does the illustration add that might make this arrival feel hopeful?",
+    "audioPrompt": "At last, the traveller saw the cabin.\n\nWhat does the illustration add that might make this arrival feel hopeful?",
+    "visual": "A cabin stands in snow with chimney smoke and a footprint trail. A person carrying a bag faces the cabin.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A cabin stands in snow with chimney smoke and a footprint trail. A person carrying a bag faces the cabin.\"><use href=\"/assets/assessment-visuals/year3/english/le03/t1-snow-cabin.svg#scene\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/le03/t1-snow-cabin.svg#scene",
+      "alt_text": "A cabin stands in snow with chimney smoke and a footprint trail. A person carrying a bag faces the cabin."
+    },
+    "answers": [],
+    "correct": "Smoke from the chimney suggests a fire may be inside, offering possible warmth in the snowy setting.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "silent shadows crept This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Smoke from the chimney suggests a fire may be inside, offering possible warmth in the snowy setting.",
+      "hint": "Connect a specific detail with its effect on the reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +263,30 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-010",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
-    "type": "single",
-    "question": "On a page showing a bright market, an illustration shows crossed arms and a frown. What does it suggest?",
-    "audioPrompt": "On a page showing a bright market, an illustration shows crossed arms and a frown. What does it suggest?",
-    "visual": "",
-    "visualHtml": "",
-    "answers": [
-      "The character is certainly asleep",
-      "The setting is underwater",
-      "The character may be upset or unwilling"
-    ],
-    "correct": 2,
-    "explanation": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The traveller carries a bag and faces the cabin. The trail shows that someone or something has passed along the snow, but does not identify who made the footprints.",
+    "acceptanceNote": "Require a visible traveller detail and recognition that the maker of the tracks is uncertain; do not assume the traveller made them. Accept another plausible interpretation when it is supported by the supplied words or illustration. Do not require the model wording.",
+    "responseInstructions": "Explain your idea and point to the words or picture details that support it. An adult checks your reasoning.",
+    "completionLabel": "I have explained my interpretation aloud or on paper; an adult still needs to check it.",
+    "question": "At last, the traveller saw the cabin.\n\nWhat does the picture add about the traveller, and does it prove who made the footprints?",
+    "audioPrompt": "At last, the traveller saw the cabin.\n\nWhat does the picture add about the traveller, and does it prove who made the footprints?",
+    "visual": "A cabin stands in snow with chimney smoke and a footprint trail. A person carrying a bag faces the cabin.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A cabin stands in snow with chimney smoke and a footprint trail. A person carrying a bag faces the cabin.\"><use href=\"/assets/assessment-visuals/year3/english/le03/t1-snow-cabin.svg#scene\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/le03/t1-snow-cabin.svg#scene",
+      "alt_text": "A cabin stands in snow with chimney smoke and a footprint trail. A person carrying a bag faces the cabin."
+    },
+    "answers": [],
+    "correct": "The traveller carries a bag and faces the cabin. The trail shows that someone or something has passed along the snow, but does not identify who made the footprints.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The character may be upset or unwilling This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The traveller carries a bag and faces the cabin. The trail shows that someone or something has passed along the snow, but does not identify who made the footprints.",
+      "hint": "Connect a specific detail with its effect on the reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +294,30 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-011",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
-    "type": "single",
-    "question": "On a page showing a bright market, how can an image extend the written words?",
-    "audioPrompt": "On a page showing a bright market, how can an image extend the written words?",
-    "visual": "",
-    "visualHtml": "",
-    "answers": [
-      "It can add clues about mood, setting or character",
-      "It repeats every sentence exactly",
-      "It removes the need for interpretation"
-    ],
-    "correct": 0,
-    "explanation": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The lamp lights the reading place while tall shelves surround it, making one small area stand out.",
+    "acceptanceNote": "Require the lamp and surrounding shelves; not a magical literal circle unless visible. Accept another plausible interpretation when it is supported by the supplied words or illustration. Do not require the model wording.",
+    "responseInstructions": "Explain your idea and point to the words or picture details that support it. An adult checks your reasoning.",
+    "completionLabel": "I have explained my interpretation aloud or on paper; an adult still needs to check it.",
+    "question": "I found a small circle of light among all those shelves.\n\nExplain how the picture helps you understand the phrase “a small circle of light”.",
+    "audioPrompt": "I found a small circle of light among all those shelves.\n\nExplain how the picture helps you understand the phrase “a small circle of light”.",
+    "visual": "Tall bookcases surround a lamp and an open book in a library.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tall bookcases surround a lamp and an open book in a library.\"><use href=\"/assets/assessment-visuals/year3/english/le03/t2-library.svg#scene\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/le03/t2-library.svg#scene",
+      "alt_text": "Tall bookcases surround a lamp and an open book in a library."
+    },
+    "answers": [],
+    "correct": "The lamp lights the reading place while tall shelves surround it, making one small area stand out.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "It can add clues about mood, setting or character This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The lamp lights the reading place while tall shelves surround it, making one small area stand out.",
+      "hint": "Connect a specific detail with its effect on the reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +325,30 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-012",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
-    "type": "single",
-    "question": "On a page showing a bright market, which detail best portrays a hurried event?",
-    "audioPrompt": "On a page showing a bright market, which detail best portrays a hurried event?",
-    "visual": "",
-    "visualHtml": "",
-    "answers": [
-      "A chair was brown",
-      "Boots pounded as people rushed past",
-      "The clock had numbers"
-    ],
-    "correct": 1,
-    "explanation": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The lamp and open book could make it feel quiet and inviting for reading, even among the tall shelves.",
+    "acceptanceNote": "Accept cosy, thoughtful or imposing if two visible details genuinely support the response. Accept another plausible interpretation when it is supported by the supplied words or illustration. Do not require the model wording.",
+    "responseInstructions": "Explain your idea and point to the words or picture details that support it. An adult checks your reasoning.",
+    "completionLabel": "I have explained my interpretation aloud or on paper; an adult still needs to check it.",
+    "question": "I found a small circle of light among all those shelves.\n\nWhat mood could this reading place create? Support your interpretation with two picture details.",
+    "audioPrompt": "I found a small circle of light among all those shelves.\n\nWhat mood could this reading place create? Support your interpretation with two picture details.",
+    "visual": "Tall bookcases surround a lamp and an open book in a library.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Tall bookcases surround a lamp and an open book in a library.\"><use href=\"/assets/assessment-visuals/year3/english/le03/t2-library.svg#scene\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/le03/t2-library.svg#scene",
+      "alt_text": "Tall bookcases surround a lamp and an open book in a library."
+    },
+    "answers": [],
+    "correct": "The lamp and open book could make it feel quiet and inviting for reading, even among the tall shelves.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Boots pounded as people rushed past This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The lamp and open book could make it feel quiet and inviting for reading, even among the tall shelves.",
+      "hint": "Connect a specific detail with its effect on the reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +356,30 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-013",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
-    "type": "single",
-    "question": "On a page showing a bright market, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
-    "audioPrompt": "On a page showing a bright market, the text says the character smiled, but the picture shows clenched fists. What might the contrast suggest?",
-    "visual": "",
-    "visualHtml": "",
-    "answers": [
-      "The character has no feelings",
-      "The picture cannot affect meaning",
-      "The character may be hiding tension"
-    ],
-    "correct": 2,
-    "explanation": "The character may be hiding tension This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Pulled against and hold on suggest strain, while the stretched rope and waves show the boat being held in rough water.",
+    "acceptanceNote": "Require one phrase and one visible detail; no broken rope is shown. Accept another plausible interpretation when it is supported by the supplied words or illustration. Do not require the model wording.",
+    "responseInstructions": "Explain your idea and point to the words or picture details that support it. An adult checks your reasoning.",
+    "completionLabel": "I have explained my interpretation aloud or on paper; an adult still needs to check it.",
+    "question": "The little boat pulled against its rope. “Hold on,” whispered the sailor.\n\nHow do language and illustration make this moment feel tense?",
+    "audioPrompt": "The little boat pulled against its rope. “Hold on,” whispered the sailor.\n\nHow do language and illustration make this moment feel tense?",
+    "visual": "A boat is tied to a post by a stretched rope beside waves on a windy shore.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A boat is tied to a post by a stretched rope beside waves on a windy shore.\"><use href=\"/assets/assessment-visuals/year3/english/le03/t3-windy-shore.svg#scene\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/le03/t3-windy-shore.svg#scene",
+      "alt_text": "A boat is tied to a post by a stretched rope beside waves on a windy shore."
+    },
+    "answers": [],
+    "correct": "Pulled against and hold on suggest strain, while the stretched rope and waves show the boat being held in rough water.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The character may be hiding tension This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Pulled against and hold on suggest strain, while the stretched rope and waves show the boat being held in rough water.",
+      "hint": "Connect a specific detail with its effect on the reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +387,30 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-014",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
-    "type": "single",
-    "question": "On a page showing a bright market, which illustration best supports a dangerous storm scene?",
-    "audioPrompt": "On a page showing a bright market, which illustration best supports a dangerous storm scene?",
-    "visual": "",
-    "visualHtml": "",
-    "answers": [
-      "Bent trees beneath dark clouds",
-      "A neat picnic under clear skies",
-      "A blank white wall"
-    ],
-    "correct": 0,
-    "explanation": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The rope may be tested because it is stretched while waves surround the boat. Nothing shows the boat indoors.",
+    "acceptanceNote": "Require the rope/wave evidence and distinguish a possibility from an event already occurring. Accept another plausible interpretation when it is supported by the supplied words or illustration. Do not require the model wording.",
+    "responseInstructions": "Explain your idea and point to the words or picture details that support it. An adult checks your reasoning.",
+    "completionLabel": "I have explained my interpretation aloud or on paper; an adult still needs to check it.",
+    "question": "The little boat pulled against its rope. “Hold on,” whispered the sailor.\n\nWhich idea has evidence: the rope may be tested by the water, or the boat is already safely indoors? Explain.",
+    "audioPrompt": "The little boat pulled against its rope. “Hold on,” whispered the sailor.\n\nWhich idea has evidence: the rope may be tested by the water, or the boat is already safely indoors? Explain.",
+    "visual": "A boat is tied to a post by a stretched rope beside waves on a windy shore.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A boat is tied to a post by a stretched rope beside waves on a windy shore.\"><use href=\"/assets/assessment-visuals/year3/english/le03/t3-windy-shore.svg#scene\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/le03/t3-windy-shore.svg#scene",
+      "alt_text": "A boat is tied to a post by a stretched rope beside waves on a windy shore."
+    },
+    "answers": [],
+    "correct": "The rope may be tested because it is stretched while waves surround the boat. Nothing shows the boat indoors.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Bent trees beneath dark clouds This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The rope may be tested because it is stretched while waves surround the boat. Nothing shows the boat indoors.",
+      "hint": "Connect a specific detail with its effect on the reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +418,30 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-015",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
-    "type": "single",
-    "question": "On a page showing a bright market, why might an author choose a close-up of a face?",
-    "audioPrompt": "On a page showing a bright market, why might an author choose a close-up of a face?",
-    "visual": "",
-    "visualHtml": "",
-    "answers": [
-      "To show the whole country's location",
-      "To emphasise a character's emotion",
-      "To list the plot in order"
-    ],
-    "correct": 1,
-    "explanation": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.\nHint: Use the story details and reader effect before choosing.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The words say the last guest left; the empty chairs and remaining decorations show the space after the gathering.",
+    "acceptanceNote": "Require both text and visible detail. Accept another plausible interpretation when it is supported by the supplied words or illustration. Do not require the model wording.",
+    "responseInstructions": "Explain your idea and point to the words or picture details that support it. An adult checks your reasoning.",
+    "completionLabel": "I have explained my interpretation aloud or on paper; an adult still needs to check it.",
+    "question": "The last guest had gone. Only a balloon kept us company.\n\nHow do the words and image show that the lively event is over?",
+    "audioPrompt": "The last guest had gone. Only a balloon kept us company.\n\nHow do the words and image show that the lively event is over?",
+    "visual": "An empty party space has chairs, drooping bunting and one balloon.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An empty party space has chairs, drooping bunting and one balloon.\"><use href=\"/assets/assessment-visuals/year3/english/le03/t4-after-party.svg#scene\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/le03/t4-after-party.svg#scene",
+      "alt_text": "An empty party space has chairs, drooping bunting and one balloon."
+    },
+    "answers": [],
+    "correct": "The words say the last guest left; the empty chairs and remaining decorations show the space after the gathering.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "To emphasise a character's emotion This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The words say the last guest left; the empty chairs and remaining decorations show the space after the gathering.",
+      "hint": "Connect a specific detail with its effect on the reader."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +449,30 @@ window.skillrTestQuestions = [
     "id": "ac9e3le03-t-016",
     "curriculumCode": "AC9E3LE03",
     "bank": "test",
-    "skill": "Character, Setting and Narrative Mood",
+    "skill": "Character, setting and narrative mood",
     "printable": true,
-    "type": "single",
-    "question": "On a page showing a bright market, which comparison explains a combined effect?",
-    "audioPrompt": "On a page showing a bright market, which comparison explains a combined effect?",
-    "visual": "",
-    "visualHtml": "",
-    "answers": [
-      "The page has words and a picture",
-      "Both versions use paper",
-      "The dark words and tilted image both make the scene feel unstable"
-    ],
-    "correct": 2,
-    "explanation": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The empty chairs and absence of guests could feel lonely, while the end of activity could feel peaceful. The balloon is the only company mentioned.",
+    "acceptanceNote": "Accept both explained responses; do not claim every reader must feel the same way. Accept another plausible interpretation when it is supported by the supplied words or illustration. Do not require the model wording.",
+    "responseInstructions": "Explain your idea and point to the words or picture details that support it. An adult checks your reasoning.",
+    "completionLabel": "I have explained my interpretation aloud or on paper; an adult still needs to check it.",
+    "question": "The last guest had gone. Only a balloon kept us company.\n\nCould this ending feel peaceful to one reader and lonely to another? Explain with evidence.",
+    "audioPrompt": "The last guest had gone. Only a balloon kept us company.\n\nCould this ending feel peaceful to one reader and lonely to another? Explain with evidence.",
+    "visual": "An empty party space has chairs, drooping bunting and one balloon.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An empty party space has chairs, drooping bunting and one balloon.\"><use href=\"/assets/assessment-visuals/year3/english/le03/t4-after-party.svg#scene\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/le03/t4-after-party.svg#scene",
+      "alt_text": "An empty party space has chairs, drooping bunting and one balloon."
+    },
+    "answers": [],
+    "correct": "The empty chairs and absence of guests could feel lonely, while the end of activity could feel peaceful. The balloon is the only company mentioned.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The dark words and tilted image both make the scene feel unstable This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The empty chairs and absence of guests could feel lonely, while the end of activity could feel peaceful. The balloon is the only company mentioned.",
+      "hint": "Connect a specific detail with its effect on the reader."
     },
     "qualitySchema": "production-v1"
   }

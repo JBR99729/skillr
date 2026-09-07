@@ -447,7 +447,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Listen for splash, sprang and slipped without lost consonants; the frog ends in the reeds.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Listen for splash, sprang and slipped without lost consonants; the frog ends in the reeds. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -462,20 +462,20 @@
     "curriculum_code": "AC9E3LY04",
     "bank": "practice",
     "skill": "Read accurately and fluently",
-    "question": "Rae stretched a string between two sticks. She clipped three paper flags to it. A strong breeze lifted the flags, but the knots held.\n\nRead this whole passage aloud to an adult. Read the str beginnings without adding a vowel between the consonants. What kept the flags attached?",
-    "audio_prompt": "Rae stretched a string between two sticks. She clipped three paper flags to it. A strong breeze lifted the flags, but the knots held.\n\nRead this whole passage aloud to an adult. Read the str beginnings without adding a vowel between the consonants. What kept the flags attached?",
+    "question": "Rae stretched a string between two sticks. She clipped three paper flags to it. A strong breeze lifted the flags, but the knots held.\n\nRead this whole passage aloud to an adult. Read the str beginnings without adding a vowel between the consonants. What held the string in place?",
+    "audio_prompt": "Rae stretched a string between two sticks. She clipped three paper flags to it. A strong breeze lifted the flags, but the knots held.\n\nRead this whole passage aloud to an adult. Read the str beginnings without adding a vowel between the consonants. What held the string in place?",
     "visual": {
       "type": "none"
     },
     "grading_mode": "adult-review",
     "answers": [],
     "correct_index": null,
-    "model_answer": "Check stretched, string and strong; knots held the string and attached flags in place.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check stretched, string and strong; knots held the string and attached flags in place. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "model_answer": "Check stretched, string and strong; knots held the string in place; clips attached the flags to it.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
-      "summary": "Check stretched, string and strong; knots held the string and attached flags in place.",
+      "summary": "Check stretched, string and strong; knots held the string in place; clips attached the flags to it.",
       "hint": "Look through the whole word. Use the sentence to check your reading, rather than guessing from its topic."
     }
   },
@@ -495,7 +495,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Check scr and the ending of scraped; the mud hid a scratch.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check scr and the ending of scraped; the mud hid a scratch. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -510,8 +510,8 @@
     "curriculum_code": "AC9E3LY04",
     "bank": "practice",
     "skill": "Read accurately and fluently",
-    "question": "A stripe ran down the toy’s back. When Jo pressed its tail, a spring lifted its head. Jo laughed and tried the button again.\n\nRead this whole passage aloud to an adult. Distinguish stripe from spring. What made the head rise?",
-    "audio_prompt": "A stripe ran down the toy’s back. When Jo pressed its tail, a spring lifted its head. Jo laughed and tried the button again.\n\nRead this whole passage aloud to an adult. Distinguish stripe from spring. What made the head rise?",
+    "question": "A stripe ran down the toy’s back. When Jo pressed its tail, a spring lifted its head. Jo laughed and pressed the tail again.\n\nRead this whole passage aloud to an adult. Distinguish stripe from spring. What made the head rise?",
+    "audio_prompt": "A stripe ran down the toy’s back. When Jo pressed its tail, a spring lifted its head. Jo laughed and pressed the tail again.\n\nRead this whole passage aloud to an adult. Distinguish stripe from spring. What made the head rise?",
     "visual": {
       "type": "none"
     },
@@ -519,7 +519,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Listen for str versus spr and smooth sentence groups; the spring lifted the head when the tail was pressed.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Listen for str versus spr and smooth sentence groups; the spring lifted the head when the tail was pressed. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -543,7 +543,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Hear seeds, suitable and towards accurately; the root appears first.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Hear seeds, suitable and towards accurately; the root appears first. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -567,7 +567,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Check wrap, damp and becomes; add water if the paper becomes dry, not continuously.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check wrap, damp and becomes; add water if the paper becomes dry, not continuously. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -591,7 +591,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Listen for switched, fluttered and disappeared; the torch lit the dim path.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Listen for switched, fluttered and disappeared; the torch lit the dim path. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -615,7 +615,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Keep plural puppies and others distinct from one puppy; one remained asleep.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Keep plural puppies and others distinct from one puppy; one remained asleep. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -639,7 +639,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Check carried, painting and will welcome without changing tense; carrying chairs happened yesterday.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check carried, painting and will welcome without changing tense; carrying chairs happened yesterday. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -663,7 +663,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Hear the question and reply as separate speech; she made space for Omar to sit.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Hear the question and reply as separate speech; she made space for Omar to sit. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -687,7 +687,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Keep had rolled and while an adult fetched it accurate; the adult fetched the ball.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Keep had rolled and while an adult fetched it accurate; the adult fetched the ball. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -711,7 +711,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Retain after lunch, before we left and on the way home; rain began after the visit.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Retain after lunch, before we left and on the way home; rain began after the visit. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -735,7 +735,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "The flight and turning identify an animal; keep flowering and vanished accurate rather than replacing unfamiliar words.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. The flight and turning identify an animal; keep flowering and vanished accurate rather than replacing unfamiliar words. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -759,7 +759,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "The first stamp is the postage item; the second names an action. Preserve not and read both sentences accurately.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. The first stamp is the postage item; the second names an action. Preserve not and read both sentences accurately. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -783,7 +783,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "The wind and cold shore support keeping warm; hear blew and close and connected noun groups.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. The wind and cold shore support keeping warm; hear blew and close and connected noun groups. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -807,7 +807,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Preserve no one and when; questions began after the story ended.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Preserve no one and when; questions began after the story ended. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -831,7 +831,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Accurate crossed, carried and would not; the walkers avoided crushing ants.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Accurate crossed, carried and would not; the walkers avoided crushing ants. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -855,7 +855,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Do not lose the main link boat drifted; the boat reaches reeds.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Do not lose the main link boat drifted; the boat reaches reeds. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -879,7 +879,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Hear tin/in and awhile/smile while preserving words; the bowl catches incoming drops.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Hear tin/in and awhile/smile while preserving words; the bowl catches incoming drops. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -903,7 +903,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Accurate settles, cricket and slipped, with calm connected phrasing; the speaker closes a book.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Accurate settles, cricket and slipped, with calm connected phrasing; the speaker closes a book. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -927,7 +927,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Hear opens, lockers and walkway; bags go in lockers near the door.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Hear opens, lockers and walkway; bags go in lockers near the door. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -951,7 +951,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Keep stripes and last seen accurate; take it to the school office.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Keep stripes and last seen accurate; take it to the school office. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -975,7 +975,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Check grown, tied and flowers; Cleo will show the flowers, not claim beans have already been picked.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check grown, tied and flowers; Cleo will show the flowers, not claim beans have already been picked. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -999,7 +999,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Hear wide versus narrow and three versus second; the wide bridge held three.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Hear wide versus narrow and three versus second; the wide bridge held three. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1023,7 +1023,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Steam rose from the pot; check before so the cooling happens before serving.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Steam rose from the pot; check before so the cooling happens before serving. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1047,7 +1047,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Accurate larger, patterns and had found; they left both shells in place.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Accurate larger, patterns and had found; they left both shells in place. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1071,7 +1071,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Lead here has the vowel sound in seed; blue is the chosen path. Accept accent variation, not a different word.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Lead here has the vowel sound in seed; blue is the chosen path. Accept accent variation, not a different word. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1095,7 +1095,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Both wind occurrences refer to moving air; when the air grew still the tubes stopped ringing.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Both wind occurrences refer to moving air; when the air grew still the tubes stopped ringing. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1119,7 +1119,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Hear three listed objects without merging them; the coat hangs by the door, not inside the bag.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Hear three listed objects without merging them; the coat hangs by the door, not inside the bag. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1142,12 +1142,12 @@
     "grading_mode": "adult-review",
     "answers": [],
     "correct_index": null,
-    "model_answer": "Check slippery and steady; the slippery path caused the slowdown, with pace increasing again afterwards.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check slippery and steady; the slippery path caused the slowdown, with pace increasing again afterwards. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "model_answer": "Check slippery and steady; the slippery path caused the slowdown, followed by a return to a steady pace.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
-      "summary": "Check slippery and steady; the slippery path caused the slowdown, with pace increasing again afterwards.",
+      "summary": "Check slippery and steady; the slippery path caused the slowdown, followed by a return to a steady pace.",
       "hint": "Look through the whole word. Use the sentence to check your reading, rather than guessing from its topic."
     }
   },
@@ -1167,7 +1167,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Preserve do not and before; ask the keeper before taking suitable food.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Preserve do not and before; ask the keeper before taking suitable food. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1191,7 +1191,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Accurate stayed, speaking and finished; they waited for the visitor to finish.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Accurate stayed, speaking and finished; they waited for the visitor to finish. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1215,7 +1215,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Hear wooden, costumes and inviting accurately; she was invited to make a play.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Hear wooden, costumes and inviting accurately; she was invited to make a play. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1239,7 +1239,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Check crack, pushed and wider; the chick’s damp head appeared.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check crack, pushed and wider; the chick’s damp head appeared. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1263,7 +1263,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Hear north of the lake and crossed that bridge; they crossed the bridge before turning.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Hear north of the lake and crossed that bridge; they crossed the bridge before turning. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1287,7 +1287,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Check thought, rustle and decorations; falling paper decorations explain the sound, not an animal.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check thought, rustle and decorations; falling paper decorations explain the sound, not an animal. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1389,7 +1389,7 @@
         "is_correct": false
       },
       {
-        "text": "Group Before you lift the lid, then switch off the machine.",
+        "text": "Read “Before you lift the lid” as one group, pause, then read “switch off the machine”.",
         "is_correct": true
       },
       {
@@ -1455,7 +1455,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Listen for complete consonant groups and the contrast after but; the next petal slipped past.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Listen for complete consonant groups and the contrast after but; the next petal slipped past. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1479,7 +1479,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Check scribbled, slowly and spare; the key was in the drawer.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check scribbled, slowly and spare; the key was in the drawer. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1503,7 +1503,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Hear planted, appeared and will check in their printed forms; tomorrow is the next check.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Hear planted, appeared and will check in their printed forms; tomorrow is the next check. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1527,7 +1527,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Ana needed to finish her line; observe accurate speech and narrative, not just a correct meaning answer.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Ana needed to finish her line; observe accurate speech and narrative, not just a correct meaning answer. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1551,7 +1551,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Accurate beyond, curved and until; shoes were removed after reaching sand.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Accurate beyond, curved and until; shoes were removed after reaching sand. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1575,7 +1575,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "The second coach is the vehicle; the first is the person walking to players. Hear all words accurately as well as the explanation.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. The second coach is the vehicle; the first is the person walking to players. Hear all words accurately as well as the explanation. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1599,7 +1599,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "The dripping tap was filling the bowl; listen for connected cause and action with no omitted words.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. The dripping tap was filling the bowl; listen for connected cause and action with no omitted words. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1623,7 +1623,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Preserve first, next, finally and while; it stays open while the ink dries.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Preserve first, next, finally and while; it stays open while the ink dries. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1647,7 +1647,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Listen for clink, gently and before; they wait before sipping.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Listen for clink, gently and before; they wait before sipping. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1671,7 +1671,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "Accurate umbrellas, entrance and puddles; wet umbrellas stay in the stand.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. Accurate umbrellas, entrance and puddles; wet umbrellas stay in the stand. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1686,8 +1686,8 @@
     "curriculum_code": "AC9E3LY04",
     "bank": "test",
     "skill": "Read accurately and fluently",
-    "question": "The kite did not fall when the breeze faded. Its tail caught on a twig. We lowered the branch carefully and freed the string before packing up.\n\nRead this whole passage aloud to an adult. Retain not and read the final actions in order. What held the kite up?",
-    "audio_prompt": "The kite did not fall when the breeze faded. Its tail caught on a twig. We lowered the branch carefully and freed the string before packing up.\n\nRead this whole passage aloud to an adult. Retain not and read the final actions in order. What held the kite up?",
+    "question": "The kite did not fall when the breeze faded. Its tail caught on a twig. We lowered the branch carefully and freed the tail before packing up.\n\nRead this whole passage aloud to an adult. Retain not and read the final actions in order. What held the kite up?",
+    "audio_prompt": "The kite did not fall when the breeze faded. Its tail caught on a twig. We lowered the branch carefully and freed the tail before packing up.\n\nRead this whole passage aloud to an adult. Retain not and read the final actions in order. What held the kite up?",
     "visual": {
       "type": "none"
     },
@@ -1695,7 +1695,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "The tail caught on a twig; hear did not fall and freed accurately, with order retained.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. The tail caught on a twig; hear did not fall and freed accurately, with order retained. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
@@ -1719,7 +1719,7 @@
     "answers": [],
     "correct_index": null,
     "model_answer": "The base was widened; observe accurate first reading or a successful self-correction and connected phrasing.",
-    "acceptance_note": "An adult must hear the passage, not just read the typed response. The base was widened; observe accurate first reading or a successful self-correction and connected phrasing. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
+    "acceptance_note": "An adult must hear the passage, not just read the typed response. Check accurate words, connected phrasing and attention to meaning. Allow a comfortable pace and the learner’s accent. Accept accurate first reading; a deliberate error is not required. If help or a model reading is needed, practise and then try the passage independently before marking it as achieved.",
     "response_instructions": "Read aloud while an adult listens. If a word does not sound right, look through its letters, blend it and reread the sentence. Answer the short meaning check aloud; you may record the adult’s observations here.",
     "completion_label": "I have read aloud; an adult still needs to check my reading.",
     "explanation": {
