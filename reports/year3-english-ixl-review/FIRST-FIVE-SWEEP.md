@@ -1,6 +1,6 @@
 # Year 3 English first-five strict sweep
 
-Status: AC9E3LA01–LA05 RESEARCH IN PROGRESS / NOT DRAFTED / NOT VALIDATED / NOT PUBLISHED.
+Status: AC9E3LA01–LA05 DRAFTED / VALIDATED / PUBLISHED, with live QA passed. IXL coverage remains bounded as recorded; no exhaustive-progression claim.
 
 Baseline: main 4a808a4acae1aca0e2cc11ae9f48872b9b187a98. Isolated clean worktree; unrelated homeschooling/product work remains untouched. Science badge directly rechecked live: Content Verified, 12/12 codes. No duplicate badge mutation needed. No Year 3 English review report or reviewed ledger entry found. Existing first-five source banks each have 40 practice +16 test, three answers and no visual metadata. Target 48+16 with four choices as required by the current Year 3 production validator, preserving all existing source and runtime IDs and fields.
 
@@ -114,3 +114,19 @@ Local checks passed:
 Historical `validate_year3_english_quality_banks.mjs` expects 24/16 and three options; `validate_year3_english_student_facing.mjs` expects 40/16 and artificial ten-item stage blocks. Those obsolete assumptions contradict the authorised 48/16, four-option review. They were inspected, not represented as passing. The scoped current validator preserves the substantive identity, TTS parity, unique-prompt, feedback and runtime checks with the requested bank contract. Neither old validator nor a broad generator was altered.
 
 Status: all five DRAFTED and locally VALIDATED. Publication, release integrity and live QA are pending below. IXL evidence remains bounded to the observations above, with ACARA-led gaps explicitly retained.
+
+
+## Publication and live QA — 7 September 2026
+
+- Published content commit: `4c33daca90eb4c187a35cc0b909c301a1490de79`.
+- Latest-main base: `d54606ce5f7d19869ca66d329ad52840676e5996`, full base tree `01e90b505eb77eea75a2dd5a45eee6f8d95dc0ba`.
+- Full candidate tree: `7ddcbb15142fc45b5c42c816566a1fe616f9b5e8`; connector tree SHA exactly matched the locally validated complete tree. Non-forced update after immediate main re-read.
+- Release integrity: 18,219 → 18,222 tracked files, zero deleted paths, core files and CNAME preserved. Unrelated homeschooling changes from latest main retained.
+- Pages deployment `34129475596`: completed successfully. All seven workflows for this commit succeeded, including release integrity, question-bank quality, static audit and rollout checks.
+- Live homepage loaded with main navigation and learning resources. English hub displayed the first five codes and no whole-subject verified badge.
+- All ten affected routes (practice and test for LA01–LA05) started and accepted a response with the new question text, four choices and matching original explanation. Practice checked conversation convention, emotional strength, narrative opening, supporting detail and heading repair. Test checks covered each code's own test bank.
+- LA05 full five-question test: deliberately incorrect T016, then correct T006, T005, T001 and T008. Score and result were 4/5 =80%. Review preserved all five questions, selected answers, correct answers and explanations, including the deliberate error. Retake opened a fresh start screen, with best score retained and a new name field.
+- Live screenshots inspected answer/feedback layout and preserved multi-line navigation text. No new image assets were needed. No claim of exhaustive device testing or audio playback.
+- Browser tool occasionally timed out on click operations; visible state was re-read before continuing. No result was inferred from an unconfirmed click. Two existing read-aloud controls remain visible; this shared UI duplication was not introduced by the bank release and did not prevent answering or feedback.
+
+Year 3 English is 5/28 reviewed codes at this release. This report does not claim the remaining 23 are complete. The user subsequently authorised the next ten, LA06–LA11 and LE01–LE04, as a separate continuing batch.
