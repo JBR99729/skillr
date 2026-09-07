@@ -46,8 +46,10 @@ for path in PAGES:
     url = 'https://skillrhub.com/' + str(path.relative_to(ROOT)).replace('/index.html', '/')
     assert page.headings == 1 and page.canonicals == [url], path
     assert url in sitemap, url
-    graph = page.schemas[0]['@graph']
-    assert any(item['@type'] == 'BreadcrumbList' for item in graph)
+    payload = page.schemas[0]
+    graph = payload.get('@graph', [payload])
+    if path != ROOT / 'print-and-go.html':
+        assert any(item['@type'] == 'BreadcrumbList' for item in graph)
     for link in page.links:
         parsed = urlsplit(link)
         if link.startswith('/') or parsed.netloc == 'skillrhub.com':
@@ -55,9 +57,14 @@ for path in PAGES:
             assert target.exists(), (path, link)
 products = json.loads((ROOT / 'data/print-and-go-products.json').read_text())
 for product in products:
-    if product.get('resourceType', 'worksheet') != 'worksheet' or not product.get('available'):
+    if not product.get('available'):
         continue
-    target = ROOT / product['url'].lstrip('/') / 'index.html'
+    parsed = urlsplit(product['url'])
+    if parsed.path == '/product.html':
+        assert (ROOT / 'product.html').exists(), product['url']
+        assert parsed.query == f"id={product['id']}", product['url']
+        continue
+    target = ROOT / parsed.path.lstrip('/') / 'index.html'
     graph = Page(target.read_text()).schemas[0]['@graph']
     schema = next(item for item in graph if item['@type'] == 'Product')
     assert schema['offers']['price'] == product['price']

@@ -473,6 +473,48 @@
     "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-3-Time-Duration-Worksheets-Hours-Minutes-Seconds-AC9M3M03-17592010"
   },
   {
+    "id": "year-3-multiplication-division-workbook",
+    "title": "Year 3 Multiplication & Division Workbook | 144 Questions | Australian Curriculum v9.0",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "multiplication",
+      "division",
+      "3 4 5 10 facts",
+      "arrays",
+      "equal groups",
+      "fact families",
+      "sharing",
+      "grouping",
+      "word problems",
+      "workbook"
+    ],
+    "curriculumCodes": [
+      "AC9M3A03",
+      "AC9M3N04"
+    ],
+    "description": "A 70-page workbook with 144 multiplication and division questions, including practice, application, mastery checks and detailed answer sheets.",
+    "url": "/products/year-3-multiplication-division-workbook/",
+    "image": "/assets/year-3-multiplication-division-workbook-cover.png",
+    "price": "3.49",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "workbook",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Workbook-144-Questions-Australian-V90-17594291",
+    "includes": [
+      "144 questions: 112 practice and application questions plus 32 mastery checks",
+      "3, 4, 5 and 10 multiplication facts and related division facts",
+      "Equal groups, arrays, sharing, grouping and fact families",
+      "Missing factors, inverse operations and efficient calculation strategies",
+      "Word problems, reasoning and error analysis",
+      "Detailed answer sheets with methods and explanations",
+      "Australian Curriculum v9.0 alignment: AC9M3A03 and AC9M3N04",
+      "Digital PDF download; purchase and delivery are handled by TPT"
+    ]
+  },
+  {
     "id": "year-3-multiplication-division-slides",
     "title": "Year 3 Multiplication & Division Teaching Slides | Australian Curriculum v9",
     "year": 3,
@@ -585,6 +627,96 @@
       "Focused on AC9M3N02; not a complete Year 3 mathematics program",
       "43-page non-editable PDF; US Letter pages can be scaled to A4",
       "Preview, purchase and file delivery available on TPT"
+    ]
+  },
+  {
+    "id": "year-3-fractions-slides",
+    "title": "Year 3 Fractions Teaching Slides | Unit Fractions & Multiples | Australian Curriculum v9.0",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "fractions",
+      "unit fractions",
+      "multiples of unit fractions",
+      "equal parts",
+      "fraction strips",
+      "number lines",
+      "collections",
+      "lengths",
+      "teaching slides"
+    ],
+    "curriculumCodes": [
+      "AC9M3N02"
+    ],
+    "description": "A 30-slide visual teaching presentation for unit fractions and their multiples, with worked examples, guided practice, misconception checks and answers.",
+    "url": "/products/year-3-fractions-slides/",
+    "image": "/assets/year-3-fractions-slides-cover.png",
+    "price": "6.99",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Teaching-Slides-Unit-Fractions-Multiples-Australian-V90-17594445",
+    "bundleTptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Bundle-80-Question-Workbook-30-Teaching-Slides-Australian-17594471",
+    "bundlePrice": "8.38",
+    "format": "30-slide flattened PDF in 16:9 landscape format",
+    "includes": [
+      "Learning intention and success criteria",
+      "Equal and unequal parts; halves, thirds, quarters, fifths and tenths",
+      "Numerator and denominator meaning",
+      "Unit fractions and multiples of unit fractions",
+      "Fractions of collections and lengths",
+      "Fraction strips, number lines and completing a whole",
+      "Eight check-for-understanding and misconception questions with answer slides",
+      "Guided practice, Think-Pair-Share prompts and an exit ticket with answers",
+      "Focused on AC9M3N02; not a complete Year 3 mathematics program"
+    ],
+    "learningGoals": [
+      "Recognise and name unit fractions using equal parts",
+      "Represent fractions with models, collections, lengths and number lines",
+      "Compare unit fractions and explain the role of the denominator",
+      "Count unit fractions to form multiples and complete a whole"
+    ]
+  },
+  {
+    "id": "year-3-fractions-bundle",
+    "title": "Year 3 Fractions Bundle | 80-Question Workbook + 30 Teaching Slides | Australian Curriculum v9.0",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "fractions",
+      "unit fractions",
+      "multiples of unit fractions",
+      "number lines",
+      "collections",
+      "workbook",
+      "teaching slides",
+      "bundle"
+    ],
+    "curriculumCodes": [
+      "AC9M3N02"
+    ],
+    "description": "Combine a 43-page workbook containing 80 questions and detailed answers with a 30-slide visual teaching presentation for AC9M3N02.",
+    "url": "/products/year-3-fractions-bundle/",
+    "image": "/assets/year-3-fractions-slides-cover.png",
+    "price": "8.38",
+    "listPrice": "10.48",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Bundle-80-Question-Workbook-30-Teaching-Slides-Australian-17594471",
+    "includes": [
+      "43-page fractions workbook with 80 curriculum-aligned questions",
+      "64 practice and application questions plus 16 mastery and extension questions",
+      "Complete answer key with worked methods and teaching or checking tips",
+      "30-slide visual teaching presentation with worked examples and guided practice",
+      "Eight check-for-understanding and misconception questions with answer slides",
+      "Unit fractions and their multiples, collections, lengths, fraction strips and number lines",
+      "Focused on AC9M3N02; not a complete Year 3 mathematics program",
+      "Both resources are also sold individually; check previous purchases to avoid duplicates"
     ]
   }
 ]
