@@ -3,7 +3,7 @@
 Started 7 September 2026 from origin/main 4b07704c93c19f2fc41b91cc403acee7f28828ec.
 Scope: AC9E3LA11, AC9E3LE01–LE05, AC9E3LY01–LY04. LA01–LA10 already recorded reviewed; do not repeat their bank development.
 
-Status: LA11 reviewed and prepared for publication; remaining nine codes in progress. Deployment checkpoint below determines published status.
+Status update, 7 September 2026: LA11, LE02–LE05 and LY01–LY04 are published with successful Actions/Pages. LE01 is the final reviewed release candidate in this ten-code batch. Its dedicated report and the later per-code repair reports supersede the historical checkpoints below. Final publication/live evidence follows the release. The Year 3 English ledger will be 20/28 after LE01; LY05–LY12 remain unreviewed production banks, with research ahead saved separately.
 
 ## Evidence and release conditions
 

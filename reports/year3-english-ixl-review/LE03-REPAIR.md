@@ -46,3 +46,9 @@ Final illustration refinement: the storm scene now depicts Wren leaning towards 
 ## Integration review
 
 Coordinating agent read all 64 questions, supported keys and acceptance notes and visually inspected the final eight-scene contact sheet. A second independent agent also reviewed all 64 and all eight scenes, finding no substantive unsupported-answer or illustration-context blocker. Applied its three clarity refinements: P020 explicitly requests two details, P033 calls its figurative image a comparison, and T014 asks which idea is supported rather than calling a present-tense alternative a prediction. Scoped entry guidance now explains evidence-based discussion and adult checking. Source/runtime parity, preserved IDs, Practice mirror and helper load order were checked. Publication/live SVG loading remains to be recorded below.
+
+## Published verification
+
+Published main ec94fde64926f816109e84af89e52d99343bf7e4, complete tree 8210ac11d094351b83c6393c3cc3501c98209042, non-forced update; release integrity preserved 18,265 files with no deletion. All seven Actions runs passed, including Pages deployment. Live Practice completed four discussion QA responses and one correct MCQ: result correctly showed 1/1 checked answers, five tasks completed and four pending adult checks. The actual Wren/storm illustration loaded through the external SVG reference and was visually inspected on the question page; feedback matched the character-posture task. Live Test loaded the distinct library scene and adult discussion controls; its actual SVG was visually inspected. These are integration checks, not assessments of a real learner's literary discussion.
+
+The illustrated Test response saved as pending with model hidden; live homepage loaded afterwards. No shared runtime change was needed.
