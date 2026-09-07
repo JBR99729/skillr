@@ -124,3 +124,13 @@ LA09's 32 original SVG scenes were rendered and visually inspected, with evidenc
 Local checks passed: production validators for all five; scoped validator scripts/validate_year3_english_la06_la10.mjs; preserved source/runtime IDs and schema fields; 320 unique prompts; coverage; actual practice/test HTML script ownership and load order; no experience-teacher-questions.js override; complete source/runtime/answer/explanation parity; practice mirror equality; result/review/retake routes. The review-aware publisher updated the ledger to 10/28 Year 3 English codes. The whole-subject badge remains pending. Review ledger check passed.
 
 Full-tree release integrity and publication/deployment/live QA are separate gates to be recorded below. No topic guides, slides or worksheets were regenerated.
+
+### Initial publication and live QA
+
+Published LA06–LA10 to main: 544b103ac9b4cd0b6f157545177afdcc3a2deb60, full tree 07a31ac1f8b0fa95c6b6f7489d362fa20f75b996, parent 2d4f89718c3fad9164834245a21133d974a73aee. Exact local/API tree match; non-forced update after immediate main recheck. Integrity: 18,222 →18,226 paths, zero deletions, core/domain preserved. Question-quality ratchet passed with reduced legacy debt elsewhere explicitly retained, not declared repaired.
+
+Pages run 34136312039 succeeded. All six other release workflows succeeded, including release integrity 34136314407 and question quality 34136314368.
+
+Live practice and test routes checked for all five codes: displayed new four-choice source questions and matching feedback. Practice sample IDs: LA06-P032, LA07-P048, LA08-P046, LA09-P003, LA10-P030. Test sample IDs: LA06-T007, LA07-T004, LA08-T012, LA10-T005. LA09 completed a five-question test with one deliberately incorrect answer (T010), followed by correct T002/T014/T013/T001; result 4/5 (80%) matched. Review retained selected/correct answers and explanations; retake returned a fresh start with a blank name and best score 4 preserved. SVGs rendered visibly and legibly in live practice and test.
+
+Live review exposed a real limitation: shared review pages omitted the image. A scoped LA09 repair now loads the matching bank on each of its two review pages and restores each original SVG and alt description beside the saved question. It does not change shared rendering or unrelated codes. Syntax and scoped loading checks passed; this follow-up awaits publication and live verification. Duplicate read-aloud controls are pre-existing shared UI and were not changed. No exhaustive mobile/device or audio playback claim is made.
