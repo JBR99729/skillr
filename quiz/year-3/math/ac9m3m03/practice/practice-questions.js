@@ -7,25 +7,24 @@ window.skillrPracticeQuestions = [
     "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "How many seconds are in 3 minutes?",
-    "audioPrompt": "How many seconds are in 3 minutes?",
+    "question": "How many seconds make one minute?",
+    "audioPrompt": "How many seconds make one minute?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "180 seconds",
-      "90 seconds",
-      "120 seconds",
-      "300 seconds"
+      "60",
+      "100",
+      "24",
+      "30"
     ],
-    "difficulty": 1,
     "correct": 0,
-    "explanation": "Each minute has 60 seconds, so 3 minutes is 180 seconds.\nHint: Multiply minutes by 60.",
+    "explanation": "A minute contains 60 seconds, not 100.\nHint: Think about the seconds counted by a one-minute timer.",
     "structuredExplanation": {
-      "summary": "Each minute has 60 seconds, so 3 minutes is 180 seconds.",
-      "hint": "Multiply minutes by 60."
+      "summary": "A minute contains 60 seconds, not 100.",
+      "hint": "Think about the seconds counted by a one-minute timer."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,25 +35,24 @@ window.skillrPracticeQuestions = [
     "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "How many minutes are in 4 hours?",
-    "audioPrompt": "How many minutes are in 4 hours?",
+    "question": "How many minutes make one hour?",
+    "audioPrompt": "How many minutes make one hour?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "120 minutes",
-      "240 minutes",
-      "180 minutes",
-      "400 minutes"
+      "24",
+      "60",
+      "100",
+      "12"
     ],
-    "difficulty": 1,
     "correct": 1,
-    "explanation": "Each hour has 60 minutes, so 4 hours is 240 minutes.\nHint: Multiply hours by 60.",
+    "explanation": "An hour contains 60 minutes.\nHint: Think about the minutes in one full hour.",
     "structuredExplanation": {
-      "summary": "Each hour has 60 minutes, so 4 hours is 240 minutes.",
-      "hint": "Multiply hours by 60."
+      "summary": "An hour contains 60 minutes.",
+      "hint": "Think about the minutes in one full hour."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,25 +63,24 @@ window.skillrPracticeQuestions = [
     "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "How many hours are in 2 days?",
-    "audioPrompt": "How many hours are in 2 days?",
+    "question": "How many hours make one day?",
+    "audioPrompt": "How many hours make one day?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "24 hours",
-      "36 hours",
-      "48 hours",
-      "60 hours"
+      "12",
+      "60",
+      "24",
+      "100"
     ],
-    "difficulty": 1,
     "correct": 2,
-    "explanation": "Each day has 24 hours, so 2 days is 48 hours.\nHint: Multiply days by 24.",
+    "explanation": "One full day contains 24 hours.\nHint: A full day includes both daytime and night-time.",
     "structuredExplanation": {
-      "summary": "Each day has 24 hours, so 2 days is 48 hours.",
-      "hint": "Multiply days by 24."
+      "summary": "One full day contains 24 hours.",
+      "hint": "A full day includes both daytime and night-time."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,25 +91,24 @@ window.skillrPracticeQuestions = [
     "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "Which duration is the same as 120 seconds?",
-    "audioPrompt": "Which duration is the same as 120 seconds?",
+    "question": "Which duration is sensible for taking one step?",
+    "audioPrompt": "Which duration is sensible for taking one step?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "1 hour",
-      "12 minutes",
-      "20 minutes",
-      "2 minutes"
+      "about 1 hour",
+      "about 1 day",
+      "about 1 minute",
+      "about 1 second"
     ],
-    "difficulty": 1,
     "correct": 3,
-    "explanation": "120 seconds is 2 groups of 60 seconds.\nHint: Divide seconds by 60.",
+    "explanation": "One step is a brief action best measured in seconds.\nHint: Imagine the action; choose a suitable scale of time.",
     "structuredExplanation": {
-      "summary": "120 seconds is 2 groups of 60 seconds.",
-      "hint": "Divide seconds by 60."
+      "summary": "One step is a brief action best measured in seconds.",
+      "hint": "Imagine the action; choose a suitable scale of time."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,25 +119,24 @@ window.skillrPracticeQuestions = [
     "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "Which is longer: 90 minutes or 2 hours?",
-    "audioPrompt": "Which is longer: 90 minutes or 2 hours?",
+    "question": "How many seconds are in 2 minutes?",
+    "audioPrompt": "How many seconds are in 2 minutes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "2 hours",
-      "90 minutes",
-      "they are equal",
-      "90 seconds"
+      "120 seconds",
+      "62 seconds",
+      "200 seconds",
+      "30 seconds"
     ],
-    "difficulty": 1,
     "correct": 0,
-    "explanation": "2 hours is 120 minutes, which is longer than 90 minutes.\nHint: Change both to minutes.",
+    "explanation": "Two groups of 60 seconds total 120 seconds.\nHint: Use two groups of sixty seconds.",
     "structuredExplanation": {
-      "summary": "2 hours is 120 minutes, which is longer than 90 minutes.",
-      "hint": "Change both to minutes."
+      "summary": "Two groups of 60 seconds total 120 seconds.",
+      "hint": "Use two groups of sixty seconds."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,25 +147,24 @@ window.skillrPracticeQuestions = [
     "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "Which is shortest?",
-    "audioPrompt": "Which is shortest?",
+    "question": "How many minutes are in 3 hours?",
+    "audioPrompt": "How many minutes are in 3 hours?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "1 minute",
-      "45 seconds",
-      "2 minutes",
-      "90 seconds"
+      "63 minutes",
+      "180 minutes",
+      "300 minutes",
+      "30 minutes"
     ],
-    "difficulty": 1,
     "correct": 1,
-    "explanation": "45 seconds is less than 60 seconds, so it is shorter than 1 minute.\nHint: Compare using seconds.",
+    "explanation": "Three groups of 60 minutes total 180 minutes.\nHint: Use three groups of sixty minutes.",
     "structuredExplanation": {
-      "summary": "45 seconds is less than 60 seconds, so it is shorter than 1 minute.",
-      "hint": "Compare using seconds."
+      "summary": "Three groups of 60 minutes total 180 minutes.",
+      "hint": "Use three groups of sixty minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,25 +175,24 @@ window.skillrPracticeQuestions = [
     "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "Which is the same as 1 day?",
-    "audioPrompt": "Which is the same as 1 day?",
+    "question": "How many hours are in 3 days?",
+    "audioPrompt": "How many hours are in 3 days?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "12 hours",
-      "60 hours",
-      "24 hours",
-      "100 hours"
+      "27 hours",
+      "36 hours",
+      "72 hours",
+      "180 hours"
     ],
-    "difficulty": 1,
     "correct": 2,
-    "explanation": "One day has 24 hours.\nHint: Recall the hours in a day.",
+    "explanation": "Three groups of 24 hours total 72 hours.\nHint: Use three groups of twenty-four hours.",
     "structuredExplanation": {
-      "summary": "One day has 24 hours.",
-      "hint": "Recall the hours in a day."
+      "summary": "Three groups of 24 hours total 72 hours.",
+      "hint": "Use three groups of twenty-four hours."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,25 +203,24 @@ window.skillrPracticeQuestions = [
     "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "A movie lasts 95 minutes and a lesson lasts 1 hour. Which lasts longer?",
-    "audioPrompt": "A movie lasts 95 minutes and a lesson lasts 1 hour. Which lasts longer?",
+    "question": "Which lasts longer: 1 minute or 50 seconds?",
+    "audioPrompt": "Which lasts longer: 1 minute or 50 seconds?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "the lesson",
-      "they are equal",
-      "the lesson by 35 minutes",
-      "the movie"
+      "50 seconds",
+      "They are equal",
+      "They cannot be compared",
+      "1 minute"
     ],
-    "difficulty": 1,
     "correct": 3,
-    "explanation": "1 hour is 60 minutes, so 95 minutes is longer.\nHint: Convert the hour to minutes.",
+    "explanation": "A minute is 60 seconds, which is 10 seconds longer.\nHint: Express both durations in seconds.",
     "structuredExplanation": {
-      "summary": "1 hour is 60 minutes, so 95 minutes is longer.",
-      "hint": "Convert the hour to minutes."
+      "summary": "A minute is 60 seconds, which is 10 seconds longer.",
+      "hint": "Express both durations in seconds."
     },
     "qualitySchema": "production-v1"
   },
@@ -239,25 +231,24 @@ window.skillrPracticeQuestions = [
     "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "Which is the best estimate for brushing your teeth?",
-    "audioPrompt": "Which is the best estimate for brushing your teeth?",
+    "question": "Which is a sensible estimate for eating a sandwich?",
+    "audioPrompt": "Which is a sensible estimate for eating a sandwich?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "2 minutes",
-      "2 seconds",
-      "2 days",
-      "2 hours"
+      "5 minutes",
+      "5 days",
+      "5 hours",
+      "5 seconds"
     ],
-    "difficulty": 1,
     "correct": 0,
-    "explanation": "Brushing teeth usually takes a few minutes.\nHint: Pick a sensible time unit.",
+    "explanation": "Eating a sandwich usually takes minutes rather than seconds or hours.\nHint: Compare the estimates with an ordinary meal.",
     "structuredExplanation": {
-      "summary": "Brushing teeth usually takes a few minutes.",
-      "hint": "Pick a sensible time unit."
+      "summary": "Eating a sandwich usually takes minutes rather than seconds or hours.",
+      "hint": "Compare the estimates with an ordinary meal."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,25 +259,24 @@ window.skillrPracticeQuestions = [
     "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "Which is the best estimate for blinking once?",
-    "audioPrompt": "Which is the best estimate for blinking once?",
+    "question": "How many minutes is 120 seconds?",
+    "audioPrompt": "How many minutes is 120 seconds?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "5 minutes",
-      "less than 1 second",
-      "2 hours",
-      "1 day"
+      "12 minutes",
+      "2 minutes",
+      "20 minutes",
+      "1 minute"
     ],
-    "difficulty": 1,
     "correct": 1,
-    "explanation": "A blink is very quick, so it takes less than a second.\nHint: Very quick events use seconds.",
+    "explanation": "There are two groups of 60 seconds in 120 seconds.\nHint: Count how many sixty-second groups fit.",
     "structuredExplanation": {
-      "summary": "A blink is very quick, so it takes less than a second.",
-      "hint": "Very quick events use seconds."
+      "summary": "There are two groups of 60 seconds in 120 seconds.",
+      "hint": "Count how many sixty-second groups fit."
     },
     "qualitySchema": "production-v1"
   },
@@ -297,25 +287,24 @@ window.skillrPracticeQuestions = [
     "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "Which is the best estimate for a school lunch break?",
-    "audioPrompt": "Which is the best estimate for a school lunch break?",
+    "question": "How many hours is 120 minutes?",
+    "audioPrompt": "How many hours is 120 minutes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "40 seconds",
-      "40 days",
-      "40 minutes",
-      "40 hours"
+      "12 hours",
+      "20 hours",
+      "2 hours",
+      "1 hour"
     ],
-    "difficulty": 1,
     "correct": 2,
-    "explanation": "A lunch break usually lasts many minutes, not seconds, hours or days.\nHint: Use everyday experience.",
+    "explanation": "Two lots of 60 minutes make two hours.\nHint: Count how many sixty-minute groups fit.",
     "structuredExplanation": {
-      "summary": "A lunch break usually lasts many minutes, not seconds, hours or days.",
-      "hint": "Use everyday experience."
+      "summary": "Two lots of 60 minutes make two hours.",
+      "hint": "Count how many sixty-minute groups fit."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,25 +315,24 @@ window.skillrPracticeQuestions = [
     "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "Which is the best estimate for a weekend?",
-    "audioPrompt": "Which is the best estimate for a weekend?",
+    "question": "How many days is 48 hours?",
+    "audioPrompt": "How many days is 48 hours?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "2 seconds",
-      "2 minutes",
-      "2 hours",
+      "4 days",
+      "24 days",
+      "1 day",
       "2 days"
     ],
-    "difficulty": 1,
     "correct": 3,
-    "explanation": "A weekend lasts Saturday and Sunday, which is 2 days.\nHint: Long events often use days.",
+    "explanation": "There are two 24-hour periods in 48 hours.\nHint: Count complete twenty-four-hour periods.",
     "structuredExplanation": {
-      "summary": "A weekend lasts Saturday and Sunday, which is 2 days.",
-      "hint": "Long events often use days."
+      "summary": "There are two 24-hour periods in 48 hours.",
+      "hint": "Count complete twenty-four-hour periods."
     },
     "qualitySchema": "production-v1"
   },
@@ -355,25 +343,24 @@ window.skillrPracticeQuestions = [
     "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "A reading session starts at 9:10 and ends at 9:35. How long is it?",
-    "audioPrompt": "A reading session starts at 9:10 and ends at 9:35. How long is it?",
+    "question": "Compare 90 seconds with 1 minute.",
+    "audioPrompt": "Compare 90 seconds with 1 minute.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "25 minutes",
-      "15 minutes",
-      "35 minutes",
-      "45 minutes"
+      "90 seconds is 30 seconds longer",
+      "They are equal",
+      "1 minute is 30 seconds longer",
+      "90 seconds is 90 minutes"
     ],
-    "difficulty": 1,
     "correct": 0,
-    "explanation": "From 9:10 to 9:35 is 25 minutes.\nHint: Count forward on the clock.",
+    "explanation": "Change one minute to 60 seconds, then compare.\nHint: Convert the minute to seconds before finding the difference.",
     "structuredExplanation": {
-      "summary": "From 9:10 to 9:35 is 25 minutes.",
-      "hint": "Count forward on the clock."
+      "summary": "Change one minute to 60 seconds, then compare.",
+      "hint": "Convert the minute to seconds before finding the difference."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,25 +371,24 @@ window.skillrPracticeQuestions = [
     "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "A game starts at 2:00 and finishes at 3:30. How long is it?",
-    "audioPrompt": "A game starts at 2:00 and finishes at 3:30. How long is it?",
+    "question": "A song lasts 2 minutes and 15 seconds. How many seconds is that?",
+    "audioPrompt": "A song lasts 2 minutes and 15 seconds. How many seconds is that?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "30 minutes",
-      "1 hour 30 minutes",
-      "2 hours",
-      "3 hours 30 minutes"
+      "215 seconds",
+      "135 seconds",
+      "75 seconds",
+      "120 seconds"
     ],
-    "difficulty": 1,
     "correct": 1,
-    "explanation": "From 2:00 to 3:00 is 1 hour, then 30 more minutes.\nHint: Break the time into hours and minutes.",
+    "explanation": "Two minutes is 120 seconds; add 15 seconds.\nHint: Convert the whole minutes, then add the extra seconds.",
     "structuredExplanation": {
-      "summary": "From 2:00 to 3:00 is 1 hour, then 30 more minutes.",
-      "hint": "Break the time into hours and minutes."
+      "summary": "Two minutes is 120 seconds; add 15 seconds.",
+      "hint": "Convert the whole minutes, then add the extra seconds."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,25 +399,24 @@ window.skillrPracticeQuestions = [
     "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "A cake bakes for 45 minutes from 10:20. What time does it finish?",
-    "audioPrompt": "A cake bakes for 45 minutes from 10:20. What time does it finish?",
+    "question": "A lesson lasts 1 hour and 10 minutes. How many minutes is that?",
+    "audioPrompt": "A lesson lasts 1 hour and 10 minutes. How many minutes is that?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "10:45",
-      "11:20",
-      "11:05",
-      "12:05"
+      "110 minutes",
+      "61 minutes",
+      "70 minutes",
+      "50 minutes"
     ],
-    "difficulty": 1,
     "correct": 2,
-    "explanation": "40 minutes after 10:20 is 11:00, then 5 more minutes is 11:05.\nHint: Count forward carefully.",
+    "explanation": "Add 10 minutes to the 60 minutes in an hour.\nHint: Convert the hour before adding the extra minutes.",
     "structuredExplanation": {
-      "summary": "40 minutes after 10:20 is 11:00, then 5 more minutes is 11:05.",
-      "hint": "Count forward carefully."
+      "summary": "Add 10 minutes to the 60 minutes in an hour.",
+      "hint": "Convert the hour before adding the extra minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +427,24 @@ window.skillrPracticeQuestions = [
     "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "A bus trip takes 1 hour 15 minutes. If it starts at 7:30, when does it end?",
-    "audioPrompt": "A bus trip takes 1 hour 15 minutes. If it starts at 7:30, when does it end?",
+    "question": "Which is a sensible estimate for a night's sleep?",
+    "audioPrompt": "Which is a sensible estimate for a night's sleep?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "8:15",
-      "7:45",
-      "9:30",
-      "8:45"
+      "9 seconds",
+      "9 minutes",
+      "9 days",
+      "9 hours"
     ],
-    "difficulty": 1,
     "correct": 3,
-    "explanation": "One hour after 7:30 is 8:30, then 15 more minutes is 8:45.\nHint: Add the hour first, then the minutes.",
+    "explanation": "A night's sleep takes several hours.\nHint: Think about how long the event usually lasts.",
     "structuredExplanation": {
-      "summary": "One hour after 7:30 is 8:30, then 15 more minutes is 8:45.",
-      "hint": "Add the hour first, then the minutes."
+      "summary": "A night's sleep takes several hours.",
+      "hint": "Think about how long the event usually lasts."
     },
     "qualitySchema": "production-v1"
   },
@@ -471,25 +455,24 @@ window.skillrPracticeQuestions = [
     "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "During maths group, work out how many seconds are in 3 minutes? using the benchmark.",
-    "audioPrompt": "During maths group, work out how many seconds are in 3 minutes? using the benchmark.",
+    "question": "Which two durations are equal?",
+    "audioPrompt": "Which two durations are equal?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "180 seconds",
-      "90 seconds",
-      "120 seconds",
-      "300 seconds"
+      "2 minutes and 120 seconds",
+      "2 hours and 120 seconds",
+      "2 days and 120 minutes",
+      "2 minutes and 20 seconds"
     ],
-    "difficulty": 2,
     "correct": 0,
-    "explanation": "Each minute has 60 seconds, so 3 minutes is 180 seconds.\nHint: Multiply minutes by 60.",
+    "explanation": "Two lots of 60 seconds make two minutes.\nHint: Convert both sides of each pair to the same unit.",
     "structuredExplanation": {
-      "summary": "Each minute has 60 seconds, so 3 minutes is 180 seconds.",
-      "hint": "Multiply minutes by 60."
+      "summary": "Two lots of 60 seconds make two minutes.",
+      "hint": "Convert both sides of each pair to the same unit."
     },
     "qualitySchema": "production-v1"
   },
@@ -500,25 +483,24 @@ window.skillrPracticeQuestions = [
     "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "During maths group, work out how many minutes are in 4 hours? with a partner.",
-    "audioPrompt": "During maths group, work out how many minutes are in 4 hours? with a partner.",
+    "question": "A race takes 75 seconds. Express this in minutes and seconds.",
+    "audioPrompt": "A race takes 75 seconds. Express this in minutes and seconds.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "120 minutes",
-      "240 minutes",
-      "180 minutes",
-      "400 minutes"
+      "1 minute 75 seconds",
+      "1 minute 15 seconds",
+      "7 minutes 5 seconds",
+      "15 minutes"
     ],
-    "difficulty": 2,
     "correct": 1,
-    "explanation": "Each hour has 60 minutes, so 4 hours is 240 minutes.\nHint: Multiply hours by 60.",
+    "explanation": "Remove one full minute, leaving 15 seconds.\nHint: Take out a full group of sixty seconds.",
     "structuredExplanation": {
-      "summary": "Each hour has 60 minutes, so 4 hours is 240 minutes.",
-      "hint": "Multiply hours by 60."
+      "summary": "Remove one full minute, leaving 15 seconds.",
+      "hint": "Take out a full group of sixty seconds."
     },
     "qualitySchema": "production-v1"
   },
@@ -529,25 +511,24 @@ window.skillrPracticeQuestions = [
     "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "During maths group, work out how many hours are in 2 days? from the labelled information.",
-    "audioPrompt": "During maths group, work out how many hours are in 2 days? from the labelled information.",
+    "question": "A film lasts 95 minutes. Express this in hours and minutes.",
+    "audioPrompt": "A film lasts 95 minutes. Express this in hours and minutes.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "24 hours",
-      "36 hours",
-      "48 hours",
-      "60 hours"
+      "1 hour 95 minutes",
+      "9 hours 5 minutes",
+      "1 hour 35 minutes",
+      "2 hours 35 minutes"
     ],
-    "difficulty": 2,
     "correct": 2,
-    "explanation": "Each day has 24 hours, so 2 days is 48 hours.\nHint: Multiply days by 24.",
+    "explanation": "Remove 60 minutes, leaving 35 minutes.\nHint: Take out a full group of sixty minutes.",
     "structuredExplanation": {
-      "summary": "Each day has 24 hours, so 2 days is 48 hours.",
-      "hint": "Multiply days by 24."
+      "summary": "Remove 60 minutes, leaving 35 minutes.",
+      "hint": "Take out a full group of sixty minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -558,25 +539,24 @@ window.skillrPracticeQuestions = [
     "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "During maths group, which duration is the same as 120 seconds? before measuring.",
-    "audioPrompt": "During maths group, which duration is the same as 120 seconds? before measuring.",
+    "question": "Which is shorter: 2 hours or 100 minutes?",
+    "audioPrompt": "Which is shorter: 2 hours or 100 minutes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "1 hour",
-      "12 minutes",
-      "20 minutes",
-      "2 minutes"
+      "2 hours",
+      "They are equal",
+      "100 hours",
+      "100 minutes"
     ],
-    "difficulty": 2,
     "correct": 3,
-    "explanation": "120 seconds is 2 groups of 60 seconds.\nHint: Divide seconds by 60.",
+    "explanation": "Two hours is 120 minutes, greater than 100 minutes.\nHint: Compare using minutes for both durations.",
     "structuredExplanation": {
-      "summary": "120 seconds is 2 groups of 60 seconds.",
-      "hint": "Divide seconds by 60."
+      "summary": "Two hours is 120 minutes, greater than 100 minutes.",
+      "hint": "Compare using minutes for both durations."
     },
     "qualitySchema": "production-v1"
   },
@@ -587,25 +567,24 @@ window.skillrPracticeQuestions = [
     "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "During maths group, choose longer: 90 minutes or 2 hours? using the benchmark.",
-    "audioPrompt": "During maths group, choose longer: 90 minutes or 2 hours? using the benchmark.",
+    "question": "Order these from shortest to longest: 1 hour, 30 seconds, 5 minutes.",
+    "audioPrompt": "Order these from shortest to longest: 1 hour, 30 seconds, 5 minutes.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "2 hours",
-      "90 minutes",
-      "they are equal",
-      "90 seconds"
+      "30 seconds, 5 minutes, 1 hour",
+      "5 minutes, 30 seconds, 1 hour",
+      "1 hour, 5 minutes, 30 seconds",
+      "30 seconds, 1 hour, 5 minutes"
     ],
-    "difficulty": 2,
     "correct": 0,
-    "explanation": "2 hours is 120 minutes, which is longer than 90 minutes.\nHint: Change both to minutes.",
+    "explanation": "Compare the size of the units as well as the numbers.\nHint: Check the units as well as the numbers.",
     "structuredExplanation": {
-      "summary": "2 hours is 120 minutes, which is longer than 90 minutes.",
-      "hint": "Change both to minutes."
+      "summary": "Compare the size of the units as well as the numbers.",
+      "hint": "Check the units as well as the numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -616,25 +595,24 @@ window.skillrPracticeQuestions = [
     "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "During maths group, choose shortest? with a partner.",
-    "audioPrompt": "During maths group, choose shortest? with a partner.",
+    "question": "A timer counts 40 seconds, then another 20 seconds. What is the total?",
+    "audioPrompt": "A timer counts 40 seconds, then another 20 seconds. What is the total?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
+      "1 hour",
       "1 minute",
-      "45 seconds",
       "2 minutes",
-      "90 seconds"
+      "40 minutes"
     ],
-    "difficulty": 2,
     "correct": 1,
-    "explanation": "45 seconds is less than 60 seconds, so it is shorter than 1 minute.\nHint: Compare using seconds.",
+    "explanation": "40 plus 20 makes 60 seconds, or one minute.\nHint: Add the seconds, then compare the total with one minute.",
     "structuredExplanation": {
-      "summary": "45 seconds is less than 60 seconds, so it is shorter than 1 minute.",
-      "hint": "Compare using seconds."
+      "summary": "40 plus 20 makes 60 seconds, or one minute.",
+      "hint": "Add the seconds, then compare the total with one minute."
     },
     "qualitySchema": "production-v1"
   },
@@ -645,25 +623,24 @@ window.skillrPracticeQuestions = [
     "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "During maths group, choose the same as 1 day? from the labelled information.",
-    "audioPrompt": "During maths group, choose the same as 1 day? from the labelled information.",
+    "question": "Which instrument is best for measuring a short race in seconds?",
+    "audioPrompt": "Which instrument is best for measuring a short race in seconds?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "12 hours",
-      "60 hours",
-      "24 hours",
-      "100 hours"
+      "a monthly calendar",
+      "a ruler",
+      "a stopwatch",
+      "a kitchen scale"
     ],
-    "difficulty": 2,
     "correct": 2,
-    "explanation": "One day has 24 hours.\nHint: Recall the hours in a day.",
+    "explanation": "A stopwatch measures the duration of a short event.\nHint: Choose a device that measures elapsed time.",
     "structuredExplanation": {
-      "summary": "One day has 24 hours.",
-      "hint": "Recall the hours in a day."
+      "summary": "A stopwatch measures the duration of a short event.",
+      "hint": "Choose a device that measures elapsed time."
     },
     "qualitySchema": "production-v1"
   },
@@ -674,25 +651,24 @@ window.skillrPracticeQuestions = [
     "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "During maths group, a movie lasts 95 minutes and a lesson lasts 1 hour. Which lasts longer? before measuring.",
-    "audioPrompt": "During maths group, a movie lasts 95 minutes and a lesson lasts 1 hour. Which lasts longer? before measuring.",
+    "question": "An activity is estimated at 10 minutes but takes 12 minutes. What happened?",
+    "audioPrompt": "An activity is estimated at 10 minutes but takes 12 minutes. What happened?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "the lesson",
-      "they are equal",
-      "the lesson by 35 minutes",
-      "the movie"
+      "It took 2 minutes less",
+      "The estimate was exact",
+      "It took 22 minutes longer",
+      "It took 2 minutes longer than estimated"
     ],
-    "difficulty": 2,
     "correct": 3,
-    "explanation": "1 hour is 60 minutes, so 95 minutes is longer.\nHint: Convert the hour to minutes.",
+    "explanation": "Actual time exceeds the estimate by two minutes.\nHint: Compare the measured duration with the estimate.",
     "structuredExplanation": {
-      "summary": "1 hour is 60 minutes, so 95 minutes is longer.",
-      "hint": "Convert the hour to minutes."
+      "summary": "Actual time exceeds the estimate by two minutes.",
+      "hint": "Compare the measured duration with the estimate."
     },
     "qualitySchema": "production-v1"
   },
@@ -703,25 +679,24 @@ window.skillrPracticeQuestions = [
     "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "During maths group, choose the best estimate for brushing your teeth? using the benchmark.",
-    "audioPrompt": "During maths group, choose the best estimate for brushing your teeth? using the benchmark.",
+    "question": "A class reads for 15 minutes and draws for 20 minutes. What is the total duration?",
+    "audioPrompt": "A class reads for 15 minutes and draws for 20 minutes. What is the total duration?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "2 minutes",
-      "2 seconds",
-      "2 days",
-      "2 hours"
+      "35 minutes",
+      "5 minutes",
+      "45 minutes",
+      "1 hour 35 minutes"
     ],
-    "difficulty": 2,
     "correct": 0,
-    "explanation": "Brushing teeth usually takes a few minutes.\nHint: Pick a sensible time unit.",
+    "explanation": "The two successive activities take 15 plus 20 minutes.\nHint: Add the durations of the two successive activities.",
     "structuredExplanation": {
-      "summary": "Brushing teeth usually takes a few minutes.",
-      "hint": "Pick a sensible time unit."
+      "summary": "The two successive activities take 15 plus 20 minutes.",
+      "hint": "Add the durations of the two successive activities."
     },
     "qualitySchema": "production-v1"
   },
@@ -732,25 +707,24 @@ window.skillrPracticeQuestions = [
     "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "During maths group, choose the best estimate for blinking once? with a partner.",
-    "audioPrompt": "During maths group, choose the best estimate for blinking once? with a partner.",
+    "question": "A 30-minute break includes 12 minutes of eating. How much time remains?",
+    "audioPrompt": "A 30-minute break includes 12 minutes of eating. How much time remains?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "5 minutes",
-      "less than 1 second",
-      "2 hours",
-      "1 day"
+      "42 minutes",
+      "18 minutes",
+      "12 minutes",
+      "22 minutes"
     ],
-    "difficulty": 2,
     "correct": 1,
-    "explanation": "A blink is very quick, so it takes less than a second.\nHint: Very quick events use seconds.",
+    "explanation": "Subtract the used time from the whole break.\nHint: Subtract the eating time from the whole break.",
     "structuredExplanation": {
-      "summary": "A blink is very quick, so it takes less than a second.",
-      "hint": "Very quick events use seconds."
+      "summary": "Subtract the used time from the whole break.",
+      "hint": "Subtract the eating time from the whole break."
     },
     "qualitySchema": "production-v1"
   },
@@ -761,25 +735,24 @@ window.skillrPracticeQuestions = [
     "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "During maths group, choose the best estimate for a school lunch break? from the labelled information.",
-    "audioPrompt": "During maths group, choose the best estimate for a school lunch break? from the labelled information.",
+    "question": "Which lasts longer: 1 day or 20 hours?",
+    "audioPrompt": "Which lasts longer: 1 day or 20 hours?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "40 seconds",
-      "40 days",
-      "40 minutes",
-      "40 hours"
+      "20 hours",
+      "They are equal",
+      "1 day",
+      "20 minutes"
     ],
-    "difficulty": 2,
     "correct": 2,
-    "explanation": "A lunch break usually lasts many minutes, not seconds, hours or days.\nHint: Use everyday experience.",
+    "explanation": "One day has 24 hours, four more than 20 hours.\nHint: Use twenty-four hours for a day.",
     "structuredExplanation": {
-      "summary": "A lunch break usually lasts many minutes, not seconds, hours or days.",
-      "hint": "Use everyday experience."
+      "summary": "One day has 24 hours, four more than 20 hours.",
+      "hint": "Use twenty-four hours for a day."
     },
     "qualitySchema": "production-v1"
   },
@@ -790,25 +763,24 @@ window.skillrPracticeQuestions = [
     "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "During maths group, choose the best estimate for a weekend? before measuring.",
-    "audioPrompt": "During maths group, choose the best estimate for a weekend? before measuring.",
+    "question": "A journey lasts 1 day and 3 hours. How many hours is it?",
+    "audioPrompt": "A journey lasts 1 day and 3 hours. How many hours is it?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "2 seconds",
-      "2 minutes",
-      "2 hours",
-      "2 days"
+      "13 hours",
+      "36 hours",
+      "63 hours",
+      "27 hours"
     ],
-    "difficulty": 2,
     "correct": 3,
-    "explanation": "A weekend lasts Saturday and Sunday, which is 2 days.\nHint: Long events often use days.",
+    "explanation": "Add three hours to the 24 hours in one day.\nHint: Convert the day, then add the extra hours.",
     "structuredExplanation": {
-      "summary": "A weekend lasts Saturday and Sunday, which is 2 days.",
-      "hint": "Long events often use days."
+      "summary": "Add three hours to the 24 hours in one day.",
+      "hint": "Convert the day, then add the extra hours."
     },
     "qualitySchema": "production-v1"
   },
@@ -819,25 +791,26 @@ window.skillrPracticeQuestions = [
     "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "During maths group, a reading session starts at 9:10 and ends at 9:35. How long is it? using the benchmark.",
-    "audioPrompt": "During maths group, a reading session starts at 9:10 and ends at 9:35. How long is it? using the benchmark.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Use the timeline. What is the total duration from start to finish?",
+    "audioPrompt": "Use the timeline. What is the total duration from start to finish?",
+    "visual": "Timeline with two successive jumps: 10 minutes, then 15 minutes.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Timeline with two successive jumps: 10 minutes, then 15 minutes.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03-v2.svg#ac9m3m03-p-029\"></use></svg>",
     "visualMeta": {
-      "type": "none"
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03-v2.svg#ac9m3m03-p-029",
+      "alt_text": "Timeline with two successive jumps: 10 minutes, then 15 minutes."
     },
     "answers": [
       "25 minutes",
+      "5 minutes",
       "15 minutes",
-      "35 minutes",
-      "45 minutes"
+      "35 minutes"
     ],
-    "difficulty": 2,
     "correct": 0,
-    "explanation": "From 9:10 to 9:35 is 25 minutes.\nHint: Count forward on the clock.",
+    "explanation": "The two successive intervals total 10 + 15 = 25 minutes.\nHint: Combine the two labelled time jumps.",
     "structuredExplanation": {
-      "summary": "From 9:10 to 9:35 is 25 minutes.",
-      "hint": "Count forward on the clock."
+      "summary": "The two successive intervals total 10 + 15 = 25 minutes.",
+      "hint": "Combine the two labelled time jumps."
     },
     "qualitySchema": "production-v1"
   },
@@ -848,25 +821,24 @@ window.skillrPracticeQuestions = [
     "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "During maths group, a game starts at 2:00 and finishes at 3:30. How long is it? with a partner.",
-    "audioPrompt": "During maths group, a game starts at 2:00 and finishes at 3:30. How long is it? with a partner.",
+    "question": "A game starts at 10:10 and ends at 10:40 that morning. How long does it last?",
+    "audioPrompt": "A game starts at 10:10 and ends at 10:40 that morning. How long does it last?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
+      "50 minutes",
       "30 minutes",
-      "1 hour 30 minutes",
-      "2 hours",
-      "3 hours 30 minutes"
+      "40 minutes",
+      "1 hour"
     ],
-    "difficulty": 2,
     "correct": 1,
-    "explanation": "From 2:00 to 3:00 is 1 hour, then 30 more minutes.\nHint: Break the time into hours and minutes.",
+    "explanation": "The difference within the hour is 40 minus 10 minutes.\nHint: Count forward from the start to the finish.",
     "structuredExplanation": {
-      "summary": "From 2:00 to 3:00 is 1 hour, then 30 more minutes.",
-      "hint": "Break the time into hours and minutes."
+      "summary": "The difference within the hour is 40 minus 10 minutes.",
+      "hint": "Count forward from the start to the finish."
     },
     "qualitySchema": "production-v1"
   },
@@ -877,25 +849,24 @@ window.skillrPracticeQuestions = [
     "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "During maths group, a cake bakes for 45 minutes from 10:20. What time does it finish? from the labelled information.",
-    "audioPrompt": "During maths group, a cake bakes for 45 minutes from 10:20. What time does it finish? from the labelled information.",
+    "question": "A walk starts at 2:45 pm and ends at 3:10 pm. How long is it?",
+    "audioPrompt": "A walk starts at 2:45 pm and ends at 3:10 pm. How long is it?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "10:45",
-      "11:20",
-      "11:05",
-      "12:05"
+      "65 minutes",
+      "35 minutes",
+      "25 minutes",
+      "15 minutes"
     ],
-    "difficulty": 2,
     "correct": 2,
-    "explanation": "40 minutes after 10:20 is 11:00, then 5 more minutes is 11:05.\nHint: Count forward carefully.",
+    "explanation": "Count 15 minutes to 3:00, then another 10 minutes.\nHint: Split the interval at the next whole hour.",
     "structuredExplanation": {
-      "summary": "40 minutes after 10:20 is 11:00, then 5 more minutes is 11:05.",
-      "hint": "Count forward carefully."
+      "summary": "Count 15 minutes to 3:00, then another 10 minutes.",
+      "hint": "Split the interval at the next whole hour."
     },
     "qualitySchema": "production-v1"
   },
@@ -906,25 +877,24 @@ window.skillrPracticeQuestions = [
     "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "During maths group, a bus trip takes 1 hour 15 minutes. If it starts at 7:30, when does it end? before measuring.",
-    "audioPrompt": "During maths group, a bus trip takes 1 hour 15 minutes. If it starts at 7:30, when does it end? before measuring.",
+    "question": "A task starts at 11:50 am and finishes at 12:10 pm on the same day. How long does it take?",
+    "audioPrompt": "A task starts at 11:50 am and finishes at 12:10 pm on the same day. How long does it take?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "8:15",
-      "7:45",
-      "9:30",
-      "8:45"
+      "60 minutes",
+      "1 hour 20 minutes",
+      "10 minutes",
+      "20 minutes"
     ],
-    "difficulty": 2,
     "correct": 3,
-    "explanation": "One hour after 7:30 is 8:30, then 15 more minutes is 8:45.\nHint: Add the hour first, then the minutes.",
+    "explanation": "There are 10 minutes to noon and 10 minutes after noon.\nHint: Split the interval at noon.",
     "structuredExplanation": {
-      "summary": "One hour after 7:30 is 8:30, then 15 more minutes is 8:45.",
-      "hint": "Add the hour first, then the minutes."
+      "summary": "There are 10 minutes to noon and 10 minutes after noon.",
+      "hint": "Split the interval at noon."
     },
     "qualitySchema": "production-v1"
   },
@@ -935,25 +905,24 @@ window.skillrPracticeQuestions = [
     "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, work out how many seconds are in 3 minutes? with a partner.",
-    "audioPrompt": "In a classroom check, work out how many seconds are in 3 minutes? with a partner.",
+    "question": "A timer is set for 3 minutes. After 100 seconds, how many seconds remain?",
+    "audioPrompt": "A timer is set for 3 minutes. After 100 seconds, how many seconds remain?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "180 seconds",
-      "90 seconds",
-      "120 seconds",
-      "300 seconds"
+      "80 seconds",
+      "97 seconds",
+      "200 seconds",
+      "20 seconds"
     ],
-    "difficulty": 3,
     "correct": 0,
-    "explanation": "Each minute has 60 seconds, so 3 minutes is 180 seconds.\nHint: Multiply minutes by 60.",
+    "explanation": "Three minutes is 180 seconds; subtract 100 seconds.\nHint: Convert the full timer setting to seconds first.",
     "structuredExplanation": {
-      "summary": "Each minute has 60 seconds, so 3 minutes is 180 seconds.",
-      "hint": "Multiply minutes by 60."
+      "summary": "Three minutes is 180 seconds; subtract 100 seconds.",
+      "hint": "Convert the full timer setting to seconds first."
     },
     "qualitySchema": "production-v1"
   },
@@ -964,25 +933,24 @@ window.skillrPracticeQuestions = [
     "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, work out how many minutes are in 4 hours? from the labelled information.",
-    "audioPrompt": "In a classroom check, work out how many minutes are in 4 hours? from the labelled information.",
+    "question": "One task takes 1 minute 20 seconds; another takes 100 seconds. Which is quicker?",
+    "audioPrompt": "One task takes 1 minute 20 seconds; another takes 100 seconds. Which is quicker?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "120 minutes",
-      "240 minutes",
-      "180 minutes",
-      "400 minutes"
+      "the second task by 20 seconds",
+      "the first task by 20 seconds",
+      "They are equal",
+      "the first task by 80 seconds"
     ],
-    "difficulty": 3,
     "correct": 1,
-    "explanation": "Each hour has 60 minutes, so 4 hours is 240 minutes.\nHint: Multiply hours by 60.",
+    "explanation": "The first takes 80 seconds, compared with 100 seconds.\nHint: Use seconds for both tasks before comparing.",
     "structuredExplanation": {
-      "summary": "Each hour has 60 minutes, so 4 hours is 240 minutes.",
-      "hint": "Multiply hours by 60."
+      "summary": "The first takes 80 seconds, compared with 100 seconds.",
+      "hint": "Use seconds for both tasks before comparing."
     },
     "qualitySchema": "production-v1"
   },
@@ -993,25 +961,24 @@ window.skillrPracticeQuestions = [
     "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, work out how many hours are in 2 days? before measuring.",
-    "audioPrompt": "In a classroom check, work out how many hours are in 2 days? before measuring.",
+    "question": "Which estimate fits a school holiday better than a single lunch break?",
+    "audioPrompt": "Which estimate fits a school holiday better than a single lunch break?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "24 hours",
-      "36 hours",
-      "48 hours",
-      "60 hours"
+      "several seconds",
+      "one minute",
+      "several days",
+      "half a minute"
     ],
-    "difficulty": 3,
     "correct": 2,
-    "explanation": "Each day has 24 hours, so 2 days is 48 hours.\nHint: Multiply days by 24.",
+    "explanation": "A holiday lasts days; a lunch break lasts minutes.\nHint: Think about the usual length of both events.",
     "structuredExplanation": {
-      "summary": "Each day has 24 hours, so 2 days is 48 hours.",
-      "hint": "Multiply days by 24."
+      "summary": "A holiday lasts days; a lunch break lasts minutes.",
+      "hint": "Think about the usual length of both events."
     },
     "qualitySchema": "production-v1"
   },
@@ -1022,25 +989,24 @@ window.skillrPracticeQuestions = [
     "skill": "convert time units",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, which duration is the same as 120 seconds? using the benchmark.",
-    "audioPrompt": "In a classroom check, which duration is the same as 120 seconds? using the benchmark.",
+    "question": "A child says 1 hour 30 minutes is 130 minutes. What is the correction?",
+    "audioPrompt": "A child says 1 hour 30 minutes is 130 minutes. What is the correction?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "1 hour",
-      "12 minutes",
-      "20 minutes",
-      "2 minutes"
+      "60 minutes",
+      "103 minutes",
+      "30 minutes",
+      "90 minutes"
     ],
-    "difficulty": 3,
     "correct": 3,
-    "explanation": "120 seconds is 2 groups of 60 seconds.\nHint: Divide seconds by 60.",
+    "explanation": "Replace the hour with 60 minutes and add 30.\nHint: An hour has sixty minutes, not one hundred.",
     "structuredExplanation": {
-      "summary": "120 seconds is 2 groups of 60 seconds.",
-      "hint": "Divide seconds by 60."
+      "summary": "Replace the hour with 60 minutes and add 30.",
+      "hint": "An hour has sixty minutes, not one hundred."
     },
     "qualitySchema": "production-v1"
   },
@@ -1051,25 +1017,24 @@ window.skillrPracticeQuestions = [
     "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, choose longer: 90 minutes or 2 hours? with a partner.",
-    "audioPrompt": "In a classroom check, choose longer: 90 minutes or 2 hours? with a partner.",
+    "question": "You have 1 hour. Two tasks take 25 minutes each. Is there time for both?",
+    "audioPrompt": "You have 1 hour. Two tasks take 25 minutes each. Is there time for both?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "2 hours",
-      "90 minutes",
-      "they are equal",
-      "90 seconds"
+      "Yes, with 10 minutes left",
+      "No, 10 minutes short",
+      "Yes, with 35 minutes left",
+      "They take exactly an hour"
     ],
-    "difficulty": 3,
     "correct": 0,
-    "explanation": "2 hours is 120 minutes, which is longer than 90 minutes.\nHint: Change both to minutes.",
+    "explanation": "The tasks total 50 minutes out of 60.\nHint: Compare the combined task time with sixty minutes.",
     "structuredExplanation": {
-      "summary": "2 hours is 120 minutes, which is longer than 90 minutes.",
-      "hint": "Change both to minutes."
+      "summary": "The tasks total 50 minutes out of 60.",
+      "hint": "Compare the combined task time with sixty minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -1080,25 +1045,24 @@ window.skillrPracticeQuestions = [
     "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, choose shortest? from the labelled information.",
-    "audioPrompt": "In a classroom check, choose shortest? from the labelled information.",
+    "question": "A 45-second timer runs twice. What total duration is measured?",
+    "audioPrompt": "A 45-second timer runs twice. What total duration is measured?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "1 minute",
       "45 seconds",
+      "1 minute 30 seconds",
       "2 minutes",
-      "90 seconds"
+      "90 minutes"
     ],
-    "difficulty": 3,
     "correct": 1,
-    "explanation": "45 seconds is less than 60 seconds, so it is shorter than 1 minute.\nHint: Compare using seconds.",
+    "explanation": "Two lots of 45 seconds make 90 seconds.\nHint: Add the two timer runs, then regroup full minutes.",
     "structuredExplanation": {
-      "summary": "45 seconds is less than 60 seconds, so it is shorter than 1 minute.",
-      "hint": "Compare using seconds."
+      "summary": "Two lots of 45 seconds make 90 seconds.",
+      "hint": "Add the two timer runs, then regroup full minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -1109,25 +1073,24 @@ window.skillrPracticeQuestions = [
     "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, choose the same as 1 day? before measuring.",
-    "audioPrompt": "In a classroom check, choose the same as 1 day? before measuring.",
+    "question": "A trip takes 150 minutes. Which is the same duration?",
+    "audioPrompt": "A trip takes 150 minutes. Which is the same duration?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "12 hours",
-      "60 hours",
-      "24 hours",
-      "100 hours"
+      "1 hour 50 minutes",
+      "15 hours",
+      "2 hours 30 minutes",
+      "2 hours 50 minutes"
     ],
-    "difficulty": 3,
     "correct": 2,
-    "explanation": "One day has 24 hours.\nHint: Recall the hours in a day.",
+    "explanation": "Two hours use 120 minutes, leaving 30 minutes.\nHint: Take out complete groups of sixty minutes.",
     "structuredExplanation": {
-      "summary": "One day has 24 hours.",
-      "hint": "Recall the hours in a day."
+      "summary": "Two hours use 120 minutes, leaving 30 minutes.",
+      "hint": "Take out complete groups of sixty minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -1138,25 +1101,24 @@ window.skillrPracticeQuestions = [
     "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, a movie lasts 95 minutes and a lesson lasts 1 hour. Which lasts longer? using the benchmark.",
-    "audioPrompt": "In a classroom check, a movie lasts 95 minutes and a lesson lasts 1 hour. Which lasts longer? using the benchmark.",
+    "question": "A class camp includes two nights away from home. Which is the most sensible estimate of its total duration?",
+    "audioPrompt": "A class camp includes two nights away from home. Which is the most sensible estimate of its total duration?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "the lesson",
-      "they are equal",
-      "the lesson by 35 minutes",
-      "the movie"
+      "about 3 hours",
+      "about 3 minutes",
+      "about 3 seconds",
+      "about 3 days"
     ],
-    "difficulty": 3,
     "correct": 3,
-    "explanation": "1 hour is 60 minutes, so 95 minutes is longer.\nHint: Convert the hour to minutes.",
+    "explanation": "Two nights and the daytime activities take several days. Three hours would not even include one whole night.\nHint: Choose a duration that includes both nights.",
     "structuredExplanation": {
-      "summary": "1 hour is 60 minutes, so 95 minutes is longer.",
-      "hint": "Convert the hour to minutes."
+      "summary": "Two nights and the daytime activities take several days. Three hours would not even include one whole night.",
+      "hint": "Choose a duration that includes both nights."
     },
     "qualitySchema": "production-v1"
   },
@@ -1167,25 +1129,26 @@ window.skillrPracticeQuestions = [
     "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, choose the best estimate for brushing your teeth? with a partner.",
-    "audioPrompt": "In a classroom check, choose the best estimate for brushing your teeth? with a partner.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Use the timeline. What is the total duration from start to finish?",
+    "audioPrompt": "Use the timeline. What is the total duration from start to finish?",
+    "visual": "Timeline with two successive jumps: 25 minutes, then 20 minutes. Marked times: 4:35 pm, 5:00 pm, 5:20 pm.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Timeline with two successive jumps: 25 minutes, then 20 minutes. Marked times: 4:35 pm, 5:00 pm, 5:20 pm.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m03-v2.svg#ac9m3m03-p-041\"></use></svg>",
     "visualMeta": {
-      "type": "none"
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m03-v2.svg#ac9m3m03-p-041",
+      "alt_text": "Timeline with two successive jumps: 25 minutes, then 20 minutes. Marked times: 4:35 pm, 5:00 pm, 5:20 pm."
     },
     "answers": [
-      "2 minutes",
-      "2 seconds",
-      "2 days",
-      "2 hours"
+      "45 minutes",
+      "85 minutes",
+      "25 minutes",
+      "20 minutes"
     ],
-    "difficulty": 3,
     "correct": 0,
-    "explanation": "Brushing teeth usually takes a few minutes.\nHint: Pick a sensible time unit.",
+    "explanation": "The two successive intervals total 25 + 20 = 45 minutes.\nHint: Use the whole-hour point to split the interval.",
     "structuredExplanation": {
-      "summary": "Brushing teeth usually takes a few minutes.",
-      "hint": "Pick a sensible time unit."
+      "summary": "The two successive intervals total 25 + 20 = 45 minutes.",
+      "hint": "Use the whole-hour point to split the interval."
     },
     "qualitySchema": "production-v1"
   },
@@ -1196,25 +1159,24 @@ window.skillrPracticeQuestions = [
     "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, choose the best estimate for blinking once? from the labelled information.",
-    "audioPrompt": "In a classroom check, choose the best estimate for blinking once? from the labelled information.",
+    "question": "A cake takes 35 minutes to bake. It starts at 9:40 am. When is it ready?",
+    "audioPrompt": "A cake takes 35 minutes to bake. It starts at 9:40 am. When is it ready?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "5 minutes",
-      "less than 1 second",
-      "2 hours",
-      "1 day"
+      "9:75 am",
+      "10:15 am",
+      "10:35 am",
+      "9:05 am"
     ],
-    "difficulty": 3,
     "correct": 1,
-    "explanation": "A blink is very quick, so it takes less than a second.\nHint: Very quick events use seconds.",
+    "explanation": "Count 20 minutes to 10:00 and 15 more minutes.\nHint: Use the time to the next hour as the first step.",
     "structuredExplanation": {
-      "summary": "A blink is very quick, so it takes less than a second.",
-      "hint": "Very quick events use seconds."
+      "summary": "Count 20 minutes to 10:00 and 15 more minutes.",
+      "hint": "Use the time to the next hour as the first step."
     },
     "qualitySchema": "production-v1"
   },
@@ -1225,25 +1187,24 @@ window.skillrPracticeQuestions = [
     "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, choose the best estimate for a school lunch break? before measuring.",
-    "audioPrompt": "In a classroom check, choose the best estimate for a school lunch break? before measuring.",
+    "question": "A bus ride lasts 50 minutes and a train ride lasts 1 hour 5 minutes. How much longer is the train ride?",
+    "audioPrompt": "A bus ride lasts 50 minutes and a train ride lasts 1 hour 5 minutes. How much longer is the train ride?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "40 seconds",
-      "40 days",
-      "40 minutes",
-      "40 hours"
+      "55 minutes",
+      "45 minutes",
+      "15 minutes",
+      "115 minutes"
     ],
-    "difficulty": 3,
     "correct": 2,
-    "explanation": "A lunch break usually lasts many minutes, not seconds, hours or days.\nHint: Use everyday experience.",
+    "explanation": "The train ride is 65 minutes; subtract 50.\nHint: Convert the mixed duration before subtracting.",
     "structuredExplanation": {
-      "summary": "A lunch break usually lasts many minutes, not seconds, hours or days.",
-      "hint": "Use everyday experience."
+      "summary": "The train ride is 65 minutes; subtract 50.",
+      "hint": "Convert the mixed duration before subtracting."
     },
     "qualitySchema": "production-v1"
   },
@@ -1254,25 +1215,24 @@ window.skillrPracticeQuestions = [
     "skill": "estimate duration",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, choose the best estimate for a weekend? using the benchmark.",
-    "audioPrompt": "In a classroom check, choose the best estimate for a weekend? using the benchmark.",
+    "question": "Reading half a short passage aloud takes about 25 seconds. The other half is similar. Which estimate is sensible for reading the whole passage?",
+    "audioPrompt": "Reading half a short passage aloud takes about 25 seconds. The other half is similar. Which estimate is sensible for reading the whole passage?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "2 seconds",
-      "2 minutes",
-      "2 hours",
-      "2 days"
+      "about 25 seconds",
+      "about 50 minutes",
+      "about 5 seconds",
+      "about 50 seconds"
     ],
-    "difficulty": 3,
     "correct": 3,
-    "explanation": "A weekend lasts Saturday and Sunday, which is 2 days.\nHint: Long events often use days.",
+    "explanation": "Two similar halves should take about twice as long: 25 + 25 is about 50 seconds. This is an estimate, not an exact promise.\nHint: Use the first half as a benchmark for the second.",
     "structuredExplanation": {
-      "summary": "A weekend lasts Saturday and Sunday, which is 2 days.",
-      "hint": "Long events often use days."
+      "summary": "Two similar halves should take about twice as long: 25 + 25 is about 50 seconds. This is an estimate, not an exact promise.",
+      "hint": "Use the first half as a benchmark for the second."
     },
     "qualitySchema": "production-v1"
   },
@@ -1283,25 +1243,24 @@ window.skillrPracticeQuestions = [
     "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, a reading session starts at 9:10 and ends at 9:35. How long is it? with a partner.",
-    "audioPrompt": "In a classroom check, a reading session starts at 9:10 and ends at 9:35. How long is it? with a partner.",
+    "question": "A child estimates a puzzle will take 8 minutes. What is a good way to check?",
+    "audioPrompt": "A child estimates a puzzle will take 8 minutes. What is a good way to check?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "25 minutes",
-      "15 minutes",
-      "35 minutes",
-      "45 minutes"
+      "time the attempt from start to finish, then compare",
+      "start the timer only after finishing the puzzle",
+      "assume another child’s time must be exactly the same",
+      "change the recorded time to make it equal 8 minutes"
     ],
-    "difficulty": 3,
     "correct": 0,
-    "explanation": "From 9:10 to 9:35 is 25 minutes.\nHint: Count forward on the clock.",
+    "explanation": "Measure the actual attempt honestly, then compare the duration with the estimate. An estimate can be close without being exact.\nHint: Measure the whole event before comparing with the estimate.",
     "structuredExplanation": {
-      "summary": "From 9:10 to 9:35 is 25 minutes.",
-      "hint": "Count forward on the clock."
+      "summary": "Measure the actual attempt honestly, then compare the duration with the estimate. An estimate can be close without being exact.",
+      "hint": "Measure the whole event before comparing with the estimate."
     },
     "qualitySchema": "production-v1"
   },
@@ -1312,25 +1271,24 @@ window.skillrPracticeQuestions = [
     "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, a game starts at 2:00 and finishes at 3:30. How long is it? from the labelled information.",
-    "audioPrompt": "In a classroom check, a game starts at 2:00 and finishes at 3:30. How long is it? from the labelled information.",
+    "question": "Two activities each take 30 minutes. How many hours is that in total?",
+    "audioPrompt": "Two activities each take 30 minutes. How many hours is that in total?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "30 minutes",
-      "1 hour 30 minutes",
       "2 hours",
-      "3 hours 30 minutes"
+      "1 hour",
+      "half an hour",
+      "3 hours"
     ],
-    "difficulty": 3,
     "correct": 1,
-    "explanation": "From 2:00 to 3:00 is 1 hour, then 30 more minutes.\nHint: Break the time into hours and minutes.",
+    "explanation": "Together they take 60 minutes.\nHint: Combine both half-hour activities.",
     "structuredExplanation": {
-      "summary": "From 2:00 to 3:00 is 1 hour, then 30 more minutes.",
-      "hint": "Break the time into hours and minutes."
+      "summary": "Together they take 60 minutes.",
+      "hint": "Combine both half-hour activities."
     },
     "qualitySchema": "production-v1"
   },
@@ -1341,25 +1299,24 @@ window.skillrPracticeQuestions = [
     "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, a cake bakes for 45 minutes from 10:20. What time does it finish? before measuring.",
-    "audioPrompt": "In a classroom check, a cake bakes for 45 minutes from 10:20. What time does it finish? before measuring.",
+    "question": "A 2-hour session has a 15-minute break. How many minutes are spent on activities?",
+    "audioPrompt": "A 2-hour session has a 15-minute break. How many minutes are spent on activities?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "10:45",
-      "11:20",
-      "11:05",
-      "12:05"
+      "185 minutes",
+      "115 minutes",
+      "105 minutes",
+      "45 minutes"
     ],
-    "difficulty": 3,
     "correct": 2,
-    "explanation": "40 minutes after 10:20 is 11:00, then 5 more minutes is 11:05.\nHint: Count forward carefully.",
+    "explanation": "Two hours is 120 minutes; remove the 15-minute break.\nHint: Convert the session to minutes before subtracting the break.",
     "structuredExplanation": {
-      "summary": "40 minutes after 10:20 is 11:00, then 5 more minutes is 11:05.",
-      "hint": "Count forward carefully."
+      "summary": "Two hours is 120 minutes; remove the 15-minute break.",
+      "hint": "Convert the session to minutes before subtracting the break."
     },
     "qualitySchema": "production-v1"
   },
@@ -1370,25 +1327,24 @@ window.skillrPracticeQuestions = [
     "skill": "elapsed time",
     "printable": true,
     "type": "single",
-    "question": "In a classroom check, a bus trip takes 1 hour 15 minutes. If it starts at 7:30, when does it end? using the benchmark.",
-    "audioPrompt": "In a classroom check, a bus trip takes 1 hour 15 minutes. If it starts at 7:30, when does it end? using the benchmark.",
+    "question": "Why is 100 seconds not the same as 1 minute?",
+    "audioPrompt": "Why is 100 seconds not the same as 1 minute?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "8:15",
-      "7:45",
-      "9:30",
-      "8:45"
+      "A minute contains 24 seconds",
+      "Seconds are longer than minutes",
+      "There are no fixed time relationships",
+      "A minute contains 60 seconds"
     ],
-    "difficulty": 3,
     "correct": 3,
-    "explanation": "One hour after 7:30 is 8:30, then 15 more minutes is 8:45.\nHint: Add the hour first, then the minutes.",
+    "explanation": "Time units do not use a base of 100 for seconds to minutes.\nHint: Check the fixed number of seconds in a minute.",
     "structuredExplanation": {
-      "summary": "One hour after 7:30 is 8:30, then 15 more minutes is 8:45.",
-      "hint": "Add the hour first, then the minutes."
+      "summary": "Time units do not use a base of 100 for seconds to minutes.",
+      "hint": "Check the fixed number of seconds in a minute."
     },
     "qualitySchema": "production-v1"
   }
