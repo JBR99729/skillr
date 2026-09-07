@@ -4,28 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-001",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "question of interest",
     "printable": true,
     "type": "single",
-    "question": "During the playground survey, which question is suitable for a guided investigation about playground use?",
-    "audioPrompt": "During the playground survey, which question is suitable for a guided investigation about playground use?",
-    "visual": "During the playground survey: An investigation question leading to a set of data.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the playground survey: An investigation question leading to a set of data.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-001\"></use></svg>",
+    "question": "For the lunchbox investigation: which question clearly guides an investigation into number of containers?",
+    "audioPrompt": "For the lunchbox investigation: which question clearly guides an investigation into number of containers?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-001",
-      "alt_text": "During the playground survey: An investigation question leading to a set of data."
+      "type": "none"
     },
     "answers": [
-      "A question no one can answer",
-      "A question with answers that can be collected and compared",
-      "A question unrelated to the topic"
+      "How many reusable containers are in each lunchbox?",
+      "Do students like things?",
+      "What is the best colour?",
+      "Why is school good?"
     ],
-    "correct": 1,
-    "explanation": "A statistical question anticipates varied answers that can be recorded.\nHint: Ask whether a group could provide data for the question.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "A useful statistical question identifies what data to collect.\nHint: Choose a question answerable by collecting varying data.",
     "structuredExplanation": {
-      "summary": "A statistical question anticipates varied answers that can be recorded.",
-      "hint": "Ask whether a group could provide data for the question."
+      "summary": "A useful statistical question identifies what data to collect.",
+      "hint": "Choose a question answerable by collecting varying data."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-002",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "variable type",
     "printable": true,
     "type": "single",
-    "question": "During the playground survey, why should the class decide categories before collecting playground use data?",
-    "audioPrompt": "During the playground survey, why should the class decide categories before collecting playground use data?",
-    "visual": "During the playground survey: Named categories beside tally columns.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the playground survey: Named categories beside tally columns.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-002\"></use></svg>",
+    "question": "For the lunchbox investigation: in “How many reusable containers are in each lunchbox?”, what type of variable is number of containers?",
+    "audioPrompt": "For the lunchbox investigation: in “How many reusable containers are in each lunchbox?”, what type of variable is number of containers?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-002",
-      "alt_text": "During the playground survey: Named categories beside tally columns."
+      "type": "none"
     },
     "answers": [
-      "So every response becomes equal",
-      "So no labels are needed",
-      "So responses are recorded consistently"
+      "categorical",
+      "discrete numerical",
+      "not a variable",
+      "a certain event"
     ],
-    "correct": 2,
-    "explanation": "Clear categories help each response go into the correct group.\nHint: Categories are the organised places where answers are recorded.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "number of containers is discrete numerical.\nHint: Categories are names; discrete numbers are counts.",
     "structuredExplanation": {
-      "summary": "Clear categories help each response go into the correct group.",
-      "hint": "Categories are the organised places where answers are recorded."
+      "summary": "number of containers is discrete numerical.",
+      "hint": "Categories are names; discrete numbers are counts."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-003",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "collection",
     "printable": true,
     "type": "single",
-    "question": "During the playground survey, 21 responses include 10 yes answers. How many no answers are there?",
-    "audioPrompt": "During the playground survey, 21 responses include 10 yes answers. How many no answers are there?",
-    "visual": "During the playground survey: A two-category investigation table with a missing no count.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the playground survey: A two-category investigation table with a missing no count.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-003\"></use></svg>",
+    "question": "For the lunchbox investigation: what is the fairest way to collect class data for “How many reusable containers are in each lunchbox?”",
+    "audioPrompt": "For the lunchbox investigation: what is the fairest way to collect class data for “How many reusable containers are in each lunchbox?”",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-003",
-      "alt_text": "During the playground survey: A two-category investigation table with a missing no count."
+      "type": "none"
     },
     "answers": [
-      "11",
-      "13",
-      "31"
+      "Ask only two friends",
+      "Guess the answers",
+      "Ask every student the same clear question",
+      "Change the question for each person"
     ],
-    "correct": 0,
-    "explanation": "21−10=11.\nHint: Subtract the yes responses from the total.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "Using the same clear question for the whole group makes collection consistent.\nHint: Look for equal treatment of participants.",
     "structuredExplanation": {
-      "summary": "21−10=11.",
-      "hint": "Subtract the yes responses from the total."
+      "summary": "Using the same clear question for the whole group makes collection consistent.",
+      "hint": "Look for equal treatment of participants."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +97,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-004",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "record",
     "printable": true,
     "type": "single",
-    "question": "During the playground survey, which display best compares yes 10 and no 11?",
-    "audioPrompt": "During the playground survey, which display best compares yes 10 and no 11?",
-    "visual": "During the playground survey: Two labelled category counts ready for a graph.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the playground survey: Two labelled category counts ready for a graph.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-004\"></use></svg>",
+    "question": "For the lunchbox investigation: results are 0 3, 1 10, 2 or more 7. Which recording check is correct?",
+    "audioPrompt": "For the lunchbox investigation: results are 0 3, 1 10, 2 or more 7. Which recording check is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-004",
-      "alt_text": "During the playground survey: Two labelled category counts ready for a graph."
+      "type": "none"
     },
     "answers": [
-      "An unlabelled sketch",
-      "A labelled graph using the same scale",
-      "A clock with no data"
+      "The frequencies total 22",
+      "1 has zero",
+      "There are only two categories",
+      "The frequencies total 20"
     ],
-    "correct": 1,
-    "explanation": "A labelled common scale allows the two counts to be compared fairly.\nHint: Look for labels, counts and an even scale.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "3 + 10 + 7 = 20.\nHint: Add the frequencies.",
     "structuredExplanation": {
-      "summary": "A labelled common scale allows the two counts to be compared fairly.",
-      "hint": "Look for labels, counts and an even scale."
+      "summary": "3 + 10 + 7 = 20.",
+      "hint": "Add the frequencies."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +128,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-005",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "represent",
     "printable": true,
     "type": "single",
-    "question": "During the playground survey, what conclusion is supported when yes has 10 responses and no has 11?",
-    "audioPrompt": "During the playground survey, what conclusion is supported when yes has 10 responses and no has 11?",
-    "visual": "During the playground survey: Two response counts shown for interpretation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the playground survey: Two response counts shown for interpretation.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-005\"></use></svg>",
+    "question": "In the garden investigation: which representation best compares the categories walk, bus, car?",
+    "audioPrompt": "In the garden investigation: which representation best compares the categories walk, bus, car?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-005",
-      "alt_text": "During the playground survey: Two response counts shown for interpretation."
+      "type": "none"
     },
     "answers": [
-      "More people answered yes",
-      "Both groups are equal",
-      "More people answered no"
+      "A labelled bar graph",
+      "A calendar",
+      "An analogue clock",
+      "An unlabelled sketch"
     ],
-    "correct": 2,
-    "explanation": "The larger count supports the conclusion.\nHint: Base the conclusion on the recorded values.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "A labelled bar graph clearly compares separate categories.\nHint: Choose a display designed for category frequencies.",
     "structuredExplanation": {
-      "summary": "The larger count supports the conclusion.",
-      "hint": "Base the conclusion on the recorded values."
+      "summary": "A labelled bar graph clearly compares separate categories.",
+      "hint": "Choose a display designed for category frequencies."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-006",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "interpret",
     "printable": true,
     "type": "single",
-    "question": "During the playground survey, another group gets a different result for the same investigation. What should the class do?",
-    "audioPrompt": "During the playground survey, another group gets a different result for the same investigation. What should the class do?",
-    "visual": "During the playground survey: Two investigation results ready to compare.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the playground survey: Two investigation results ready to compare.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-006\"></use></svg>",
+    "question": "In the garden investigation: the frequencies are walk 7, bus 5, car 8. What conclusion is supported?",
+    "audioPrompt": "In the garden investigation: the frequencies are walk 7, bus 5, car 8. What conclusion is supported?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-006",
-      "alt_text": "During the playground survey: Two investigation results ready to compare."
+      "type": "none"
     },
     "answers": [
-      "Compare methods and data before explaining the difference",
-      "Delete one result",
-      "Assume the larger number is correct"
+      "walk and bus must be equal",
+      "car occurred most often",
+      "The data prove a cause",
+      "Everyone gave the same answer"
     ],
-    "correct": 0,
-    "explanation": "Different samples can vary; comparing collection methods and evidence supports a fair explanation.\nHint: Check who was asked and how responses were recorded.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "car has the greatest frequency, 8.\nHint: Compare the recorded frequencies.",
     "structuredExplanation": {
-      "summary": "Different samples can vary; comparing collection methods and evidence supports a fair explanation.",
-      "hint": "Check who was asked and how responses were recorded."
+      "summary": "car has the greatest frequency, 8.",
+      "hint": "Compare the recorded frequencies."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-007",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "sequence",
     "printable": true,
     "type": "single",
-    "question": "During the playground survey, which step comes after collecting the data?",
-    "audioPrompt": "During the playground survey, which step comes after collecting the data?",
-    "visual": "During the playground survey: Four stages of a guided statistical investigation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the playground survey: Four stages of a guided statistical investigation.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-007\"></use></svg>",
+    "question": "In the garden investigation: after agreeing on a question and collecting responses, what should investigators do next?",
+    "audioPrompt": "In the garden investigation: after agreeing on a question and collecting responses, what should investigators do next?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-007",
-      "alt_text": "During the playground survey: Four stages of a guided statistical investigation."
+      "type": "none"
     },
     "answers": [
-      "Change the question secretly",
-      "Organise and display it",
-      "Ignore the responses"
+      "Invent extra responses",
+      "Erase unusual results",
+      "Organise and represent the data",
+      "Change the original question"
     ],
-    "correct": 1,
-    "explanation": "Organising and displaying data makes patterns easier to interpret.\nHint: Follow the investigation cycle in order.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "Data are organised and represented before interpretation.\nHint: Follow question → collection → representation → interpretation.",
     "structuredExplanation": {
-      "summary": "Organising and displaying data makes patterns easier to interpret.",
-      "hint": "Follow the investigation cycle in order."
+      "summary": "Data are organised and represented before interpretation.",
+      "hint": "Follow question → collection → representation → interpretation."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +221,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-008",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "limitation",
     "printable": true,
     "type": "single",
-    "question": "During the playground survey, why must a conclusion mention the data?",
-    "audioPrompt": "During the playground survey, why must a conclusion mention the data?",
-    "visual": "During the playground survey: A conclusion box linked to a data display.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the playground survey: A conclusion box linked to a data display.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-008\"></use></svg>",
+    "question": "In the garden investigation: only five students were asked “How do Year 3 students travel to school?” What is the safest report?",
+    "audioPrompt": "In the garden investigation: only five students were asked “How do Year 3 students travel to school?” What is the safest report?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-008",
-      "alt_text": "During the playground survey: A conclusion box linked to a data display."
+      "type": "none"
     },
     "answers": [
-      "It makes every claim true",
-      "It replaces the investigation question",
-      "Evidence shows whether the claim is supported"
+      "Claim every Year 3 student is the same",
+      "Replace the responses with guesses",
+      "Say the result is certain",
+      "Describe those five responses and note the small group"
     ],
-    "correct": 2,
-    "explanation": "A conclusion should connect directly to observed counts or patterns.\nHint: Quote or compare the relevant values.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "A conclusion should match the group actually surveyed.\nHint: Do not generalise beyond the collected data.",
     "structuredExplanation": {
-      "summary": "A conclusion should connect directly to observed counts or patterns.",
-      "hint": "Quote or compare the relevant values."
+      "summary": "A conclusion should match the group actually surveyed.",
+      "hint": "Do not generalise beyond the collected data."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +252,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-009",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "categorical",
     "printable": true,
     "type": "single",
-    "question": "In the recycling survey, which question is suitable for a guided investigation about recycling?",
-    "audioPrompt": "In the recycling survey, which question is suitable for a guided investigation about recycling?",
-    "visual": "In the recycling survey: An investigation question leading to a set of data.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the recycling survey: An investigation question leading to a set of data.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-009\"></use></svg>",
+    "question": "During the recycling investigation: which variable is categorical?",
+    "audioPrompt": "During the recycling investigation: which variable is categorical?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-009",
-      "alt_text": "In the recycling survey: An investigation question leading to a set of data."
+      "type": "none"
     },
     "answers": [
-      "A question with answers that can be collected and compared",
-      "A question no one can answer",
-      "A question unrelated to the topic"
+      "Favourite lunch fruit",
+      "Number of siblings",
+      "Number of goals",
+      "Height in centimetres"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "A statistical question anticipates varied answers that can be recorded.\nHint: Ask whether a group could provide data for the question.",
+    "explanation": "Favourite fruit records a named category.\nHint: Look for labels rather than counts.",
     "structuredExplanation": {
-      "summary": "A statistical question anticipates varied answers that can be recorded.",
-      "hint": "Ask whether a group could provide data for the question."
+      "summary": "Favourite fruit records a named category.",
+      "hint": "Look for labels rather than counts."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +283,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-010",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "discrete",
     "printable": true,
     "type": "single",
-    "question": "In the recycling survey, why should the class decide categories before collecting recycling data?",
-    "audioPrompt": "In the recycling survey, why should the class decide categories before collecting recycling data?",
-    "visual": "In the recycling survey: Named categories beside tally columns.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the recycling survey: Named categories beside tally columns.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-010\"></use></svg>",
+    "question": "During the recycling investigation: which variable is discrete numerical?",
+    "audioPrompt": "During the recycling investigation: which variable is discrete numerical?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-010",
-      "alt_text": "In the recycling survey: Named categories beside tally columns."
+      "type": "none"
     },
     "answers": [
-      "So every response becomes equal",
-      "So responses are recorded consistently",
-      "So no labels are needed"
+      "Type of pet",
+      "Number of pets in a home",
+      "Eye colour",
+      "Way of travelling"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
-    "explanation": "Clear categories help each response go into the correct group.\nHint: Categories are the organised places where answers are recorded.",
+    "explanation": "Number of pets is a count using whole numbers.\nHint: Discrete numerical data are counted.",
     "structuredExplanation": {
-      "summary": "Clear categories help each response go into the correct group.",
-      "hint": "Categories are the organised places where answers are recorded."
+      "summary": "Number of pets is a count using whole numbers.",
+      "hint": "Discrete numerical data are counted."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +314,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-011",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "tally",
     "printable": true,
     "type": "single",
-    "question": "In the recycling survey, 24 responses include 11 yes answers. How many no answers are there?",
-    "audioPrompt": "In the recycling survey, 24 responses include 11 yes answers. How many no answers are there?",
-    "visual": "In the recycling survey: A two-category investigation table with a missing no count.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the recycling survey: A two-category investigation table with a missing no count.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-011\"></use></svg>",
+    "question": "During the recycling investigation: a tally sheet shows 4, 9 and 6 marks. How many observations were collected?",
+    "audioPrompt": "During the recycling investigation: a tally sheet shows 4, 9 and 6 marks. How many observations were collected?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-011",
-      "alt_text": "In the recycling survey: A two-category investigation table with a missing no count."
+      "type": "none"
     },
     "answers": [
-      "15",
-      "35",
-      "13"
+      "9",
+      "18",
+      "19",
+      "24"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
-    "explanation": "24−11=13.\nHint: Subtract the yes responses from the total.",
+    "explanation": "Add the tally frequencies to get 19.\nHint: Each tally represents one observation.",
     "structuredExplanation": {
-      "summary": "24−11=13.",
-      "hint": "Subtract the yes responses from the total."
+      "summary": "Add the tally frequencies to get 19.",
+      "hint": "Each tally represents one observation."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +345,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-012",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "audit",
     "printable": true,
     "type": "single",
-    "question": "In the recycling survey, which display best compares yes 11 and no 13?",
-    "audioPrompt": "In the recycling survey, which display best compares yes 11 and no 13?",
-    "visual": "In the recycling survey: Two labelled category counts ready for a graph.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the recycling survey: Two labelled category counts ready for a graph.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-012\"></use></svg>",
+    "question": "During the recycling investigation: the class asked 19 students, but its frequency table totals 18. What should happen?",
+    "audioPrompt": "During the recycling investigation: the class asked 19 students, but its frequency table totals 18. What should happen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-012",
-      "alt_text": "In the recycling survey: Two labelled category counts ready for a graph."
+      "type": "none"
     },
     "answers": [
-      "A labelled graph using the same scale",
-      "An unlabelled sketch",
-      "A clock with no data"
+      "Publish it unchanged",
+      "Add a guessed category",
+      "Delete the question",
+      "Check the records for a missing response"
     ],
-    "correct": 0,
-    "explanation": "A labelled common scale allows the two counts to be compared fairly.\nHint: Look for labels, counts and an even scale.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "The total should match the number of collected responses.\nHint: Reconcile the table total with the sample size.",
     "structuredExplanation": {
-      "summary": "A labelled common scale allows the two counts to be compared fairly.",
-      "hint": "Look for labels, counts and an even scale."
+      "summary": "The total should match the number of collected responses.",
+      "hint": "Reconcile the table total with the sample size."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +376,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-013",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "comparison",
     "printable": true,
     "type": "single",
-    "question": "In the recycling survey, what conclusion is supported when yes has 11 responses and no has 13?",
-    "audioPrompt": "In the recycling survey, what conclusion is supported when yes has 11 responses and no has 13?",
-    "visual": "In the recycling survey: Two response counts shown for interpretation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the recycling survey: Two response counts shown for interpretation.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-013\"></use></svg>",
+    "question": "For the class-pet investigation: two groups investigate the same question and get different results. What is reasonable?",
+    "audioPrompt": "For the class-pet investigation: two groups investigate the same question and get different results. What is reasonable?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-013",
-      "alt_text": "In the recycling survey: Two response counts shown for interpretation."
+      "type": "none"
     },
     "answers": [
-      "More people answered yes",
-      "More people answered no",
-      "Both groups are equal"
+      "Compare their samples and methods before explaining differences",
+      "One group must have cheated",
+      "Both graphs must be identical",
+      "Average the labels, not the data"
     ],
-    "correct": 1,
-    "explanation": "The larger count supports the conclusion.\nHint: Base the conclusion on the recorded values.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Different samples can produce different results; methods and groups should be compared.\nHint: Variation does not automatically mean an error.",
     "structuredExplanation": {
-      "summary": "The larger count supports the conclusion.",
-      "hint": "Base the conclusion on the recorded values."
+      "summary": "Different samples can produce different results; methods and groups should be compared.",
+      "hint": "Variation does not automatically mean an error."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +407,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-014",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "conclusion",
     "printable": true,
     "type": "single",
-    "question": "In the recycling survey, another group gets a different result for the same investigation. What should the class do?",
-    "audioPrompt": "In the recycling survey, another group gets a different result for the same investigation. What should the class do?",
-    "visual": "In the recycling survey: Two investigation results ready to compare.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the recycling survey: Two investigation results ready to compare.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-014\"></use></svg>",
+    "question": "For the class-pet investigation: which sentence is a data-based conclusion for frequencies oval 8, court 6, climbing area 5?",
+    "audioPrompt": "For the class-pet investigation: which sentence is a data-based conclusion for frequencies oval 8, court 6, climbing area 5?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-014",
-      "alt_text": "In the recycling survey: Two investigation results ready to compare."
+      "type": "none"
     },
     "answers": [
-      "Delete one result",
-      "Assume the larger number is correct",
-      "Compare methods and data before explaining the difference"
+      "Everyone everywhere prefers the same answer",
+      "oval was the most frequent response in this group",
+      "The result will never change",
+      "The graph caused the responses"
     ],
-    "correct": 2,
-    "explanation": "Different samples can vary; comparing collection methods and evidence supports a fair explanation.\nHint: Check who was asked and how responses were recorded.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "The statement identifies the observed group and matches its largest frequency.\nHint: Use cautious wording tied to the data.",
     "structuredExplanation": {
-      "summary": "Different samples can vary; comparing collection methods and evidence supports a fair explanation.",
-      "hint": "Check who was asked and how responses were recorded."
+      "summary": "The statement identifies the observed group and matches its largest frequency.",
+      "hint": "Use cautious wording tied to the data."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +438,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-015",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "question quality",
     "printable": true,
     "type": "single",
-    "question": "In the recycling survey, which step comes after collecting the data?",
-    "audioPrompt": "In the recycling survey, which step comes after collecting the data?",
-    "visual": "In the recycling survey: Four stages of a guided statistical investigation.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the recycling survey: Four stages of a guided statistical investigation.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-015\"></use></svg>",
+    "question": "For the class-pet investigation: why is “Which playground area is used most at lunch?” better than “Tell me something”?",
+    "audioPrompt": "For the class-pet investigation: why is “Which playground area is used most at lunch?” better than “Tell me something”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-015",
-      "alt_text": "In the recycling survey: Four stages of a guided statistical investigation."
+      "type": "none"
     },
     "answers": [
-      "Organise and display it",
-      "Change the question secretly",
-      "Ignore the responses"
+      "It guarantees one answer",
+      "It removes all variation",
+      "It specifies the information to collect",
+      "It needs no participants"
     ],
-    "correct": 0,
-    "explanation": "Organising and displaying data makes patterns easier to interpret.\nHint: Follow the investigation cycle in order.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "A focused question determines relevant data.\nHint: The investigation needs a clear purpose.",
     "structuredExplanation": {
-      "summary": "Organising and displaying data makes patterns easier to interpret.",
-      "hint": "Follow the investigation cycle in order."
+      "summary": "A focused question determines relevant data.",
+      "hint": "The investigation needs a clear purpose."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +469,30 @@ window.skillrTestQuestions = [
     "id": "ac9m3st03-t-016",
     "curriculumCode": "AC9M3ST03",
     "bank": "test",
-    "skill": "statistical investigation",
+    "skill": "full investigation",
     "printable": true,
     "type": "single",
-    "question": "In the recycling survey, why must a conclusion mention the data?",
-    "audioPrompt": "In the recycling survey, why must a conclusion mention the data?",
-    "visual": "In the recycling survey: A conclusion box linked to a data display.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the recycling survey: A conclusion box linked to a data display.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-016\"></use></svg>",
+    "question": "For the class-pet investigation: which order describes a complete guided statistical investigation?",
+    "audioPrompt": "For the class-pet investigation: which order describes a complete guided statistical investigation?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st03.svg#ac9m3st03-t-016",
-      "alt_text": "In the recycling survey: A conclusion box linked to a data display."
+      "type": "none"
     },
     "answers": [
-      "It makes every claim true",
-      "Evidence shows whether the claim is supported",
-      "It replaces the investigation question"
+      "Graph, guess, question, erase",
+      "Interpret, collect, avoid recording",
+      "Collect only, then stop",
+      "Question, collect, record, represent, interpret"
     ],
-    "correct": 1,
-    "explanation": "A conclusion should connect directly to observed counts or patterns.\nHint: Quote or compare the relevant values.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "A complete investigation begins with a question and ends by interpreting represented data.\nHint: Put the stages in logical order.",
     "structuredExplanation": {
-      "summary": "A conclusion should connect directly to observed counts or patterns.",
-      "hint": "Quote or compare the relevant values."
+      "summary": "A complete investigation begins with a question and ends by interpreting represented data.",
+      "hint": "Put the stages in logical order."
     },
     "qualitySchema": "production-v1"
   }

@@ -308,11 +308,9 @@
         "Interpret data in context"
       ],
       "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
-      "readinessStatus": "BLOCKED - prerequisite incomplete",
-      "remainingPrerequisites": [
-        "Complete relevant IXL skill inspection and representative progression evidence",
-        "Complete item-level coverage map and supported-assessment checks"
-      ]
+      "readinessStatus": "VALIDATED - publication pending",
+      "remainingPrerequisites": [],
+      "validationReport": "FINAL-FOUR-VALIDATION.md"
     },
     "AC9M3ST03": {
       "officialDescriptor": "conduct guided statistical investigations involving the collection, representation and interpretation of data for categorical and discrete numerical variables with respect to questions of interest",
@@ -326,11 +324,9 @@
         "Connect investigation to questions of interest"
       ],
       "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
-      "readinessStatus": "BLOCKED - prerequisite incomplete",
-      "remainingPrerequisites": [
-        "Complete relevant IXL skill inspection and representative progression evidence",
-        "Complete item-level coverage map and supported-assessment checks"
-      ]
+      "readinessStatus": "VALIDATED - publication pending",
+      "remainingPrerequisites": [],
+      "validationReport": "FINAL-FOUR-VALIDATION.md"
     },
     "AC9M3P01": {
       "officialDescriptor": "identify practical activities and everyday events involving chance; describe possible outcomes and events as \u2018likely\u2019 or \u2018unlikely\u2019 and identify some events as \u2018certain\u2019 or \u2018impossible\u2019 explaining reasoning",
@@ -343,11 +339,9 @@
         "Explain reasoning"
       ],
       "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
-      "readinessStatus": "BLOCKED - prerequisite incomplete",
-      "remainingPrerequisites": [
-        "Complete relevant IXL skill inspection and representative progression evidence",
-        "Complete item-level coverage map and supported-assessment checks"
-      ]
+      "readinessStatus": "VALIDATED - publication pending",
+      "remainingPrerequisites": [],
+      "validationReport": "FINAL-FOUR-VALIDATION.md"
     },
     "AC9M3P02": {
       "officialDescriptor": "conduct repeated chance experiments; identify and describe possible outcomes, record the results, recognise and discuss the variation",
@@ -360,11 +354,9 @@
         "Discuss variation"
       ],
       "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
-      "readinessStatus": "BLOCKED - prerequisite incomplete",
-      "remainingPrerequisites": [
-        "Complete relevant IXL skill inspection and representative progression evidence",
-        "Complete item-level coverage map and supported-assessment checks"
-      ]
+      "readinessStatus": "VALIDATED - publication pending",
+      "remainingPrerequisites": [],
+      "validationReport": "FINAL-FOUR-VALIDATION.md"
     }
   }
 }

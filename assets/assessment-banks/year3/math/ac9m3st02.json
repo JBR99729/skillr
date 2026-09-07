@@ -5,32 +5,34 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "read_greatest_category_from_graph",
-    "question": "On the fruit graph, which category has the most fruit votes?",
-    "audio_prompt": "On the fruit graph, which category has the most fruit votes?",
+    "skill": "interpret_context",
+    "question": "At the library: a bar graph of library books shows Adventure 8, Animals 5, Space 3. Which category has the greatest count?",
+    "audio_prompt": "At the library: a bar graph of library books shows Adventure 8, Animals 5, Space 3. Which category has the greatest count?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-001",
-      "alt_text": "On the fruit graph: Bar graph for fruit: A 2, B 8, C 5."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "bananas",
+        "text": "Adventure",
         "is_correct": true
       },
       {
-        "text": "apples",
+        "text": "Space",
         "is_correct": false
       },
       {
-        "text": "oranges",
+        "text": "All are equal",
+        "is_correct": false
+      },
+      {
+        "text": "The graph does not show it",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Category bananas has the tallest bar and the greatest count, 8.",
-      "hint": "Compare the top of each bar."
+      "summary": "Adventure has the greatest count, 8.",
+      "hint": "Compare the bar heights."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -42,32 +44,34 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "read_least_category_from_graph",
-    "question": "On the fruit graph, which category has the fewest fruit votes?",
-    "audio_prompt": "On the fruit graph, which category has the fewest fruit votes?",
+    "skill": "interpret_context",
+    "question": "At the library: using these library books counts — Adventure 8, Animals 5, Space 3 — how many more are in Adventure than Space?",
+    "audio_prompt": "At the library: using these library books counts — Adventure 8, Animals 5, Space 3 — how many more are in Adventure than Space?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-002",
-      "alt_text": "On the fruit graph: Bar graph for fruit: A 2, B 8, C 5."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "bananas",
+        "text": "11",
         "is_correct": false
       },
       {
-        "text": "apples",
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "oranges",
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "Not enough information",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Category apples has the shortest bar and the smallest count, 2.",
-      "hint": "Find the bar that reaches the lowest number."
+      "summary": "Subtract: 8 − 3 = 5.",
+      "hint": "Find the difference between the greatest and least counts."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -79,32 +83,34 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "compare_graph_categories",
-    "question": "On the fruit graph, how many more votes does bananas have than apples?",
-    "audio_prompt": "On the fruit graph, how many more votes does bananas have than apples?",
+    "skill": "create_bar_graph",
+    "question": "At the library: a student graphs library books: Adventure 8, Animals 5, Space 3. Where should the Space bar end?",
+    "audio_prompt": "At the library: a student graphs library books: Adventure 8, Animals 5, Space 3. Where should the Space bar end?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-003",
-      "alt_text": "On the fruit graph: Bar graph with apples at 2 and bananas at 8."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "10",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "7",
+        "text": "8",
         "is_correct": false
       },
       {
-        "text": "6",
+        "text": "3",
         "is_correct": true
+      },
+      {
+        "text": "At zero",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Find the difference: 8 − 2 = 6.",
-      "hint": "Start at apples's height and count up to bananas's height."
+      "summary": "The bar must end at 3, matching the data.",
+      "hint": "Locate Space in the data list."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -116,32 +122,34 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "preserve_data_across_displays",
-    "question": "On the fruit graph, what must stay the same when this table is changed into a graph?",
-    "audio_prompt": "On the fruit graph, what must stay the same when this table is changed into a graph?",
+    "skill": "compare_representations",
+    "question": "At the library: a table lists Adventure 8, Animals 5, Space 3. Which feature must a matching picture graph preserve?",
+    "audio_prompt": "At the library: a table lists Adventure 8, Animals 5, Space 3. Which feature must a matching picture graph preserve?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-004",
-      "alt_text": "On the fruit graph: A table and bar graph both showing counts 2, 8, 5."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "the category counts",
+        "text": "The colour of the table",
+        "is_correct": false
+      },
+      {
+        "text": "The row order only",
+        "is_correct": false
+      },
+      {
+        "text": "The font size",
+        "is_correct": false
+      },
+      {
+        "text": "Every category count",
         "is_correct": true
-      },
-      {
-        "text": "the bar colours only",
-        "is_correct": false
-      },
-      {
-        "text": "the order of the alphabet",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A new display must represent the same data values.",
-      "hint": "Check every graph bar against its table count."
+      "summary": "Changing representation must not change the data values.",
+      "hint": "The display may change, but the data cannot."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -153,32 +161,34 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "explain_graph_labels",
-    "question": "On the fruit graph, why does a graph need category labels?",
-    "audio_prompt": "On the fruit graph, why does a graph need category labels?",
+    "skill": "picture_graph_key",
+    "question": "At the library: for library books, a picture graph key says one symbol represents 2. How many symbols show 10?",
+    "audio_prompt": "At the library: for library books, a picture graph key says one symbol represents 2. How many symbols show 10?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-005",
-      "alt_text": "On the fruit graph: A labelled graph for categories A, B and C."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "to make every bar equal",
-        "is_correct": false
-      },
-      {
-        "text": "to show what each bar represents",
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "to change the data totals",
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "7",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Labels connect each bar or picture to its category.",
-      "hint": "Without labels, you cannot tell what is being counted."
+      "summary": "10 ÷ 2 = 5 symbols.",
+      "hint": "Divide the count by the value of each symbol."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -190,35 +200,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "choose_data_display",
-    "question": "On the fruit graph, which display makes it easy to compare three category counts?",
-    "audio_prompt": "On the fruit graph, which display makes it easy to compare three category counts?",
+    "skill": "compare_representations",
+    "question": "At the library: the same library books data are shown in a table and a bar graph. Why might the graph be more useful?",
+    "audio_prompt": "At the library: the same library books data are shown in a table and a bar graph. Why might the graph be more useful?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-006",
-      "alt_text": "On the fruit graph: A labelled bar graph with three side-by-side bars."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "an unlabelled picture",
+        "text": "It changes the totals",
         "is_correct": false
       },
       {
-        "text": "a clock face",
-        "is_correct": false
-      },
-      {
-        "text": "a labelled bar graph",
+        "text": "Differences can be compared quickly",
         "is_correct": true
+      },
+      {
+        "text": "It removes category names",
+        "is_correct": false
+      },
+      {
+        "text": "It proves why the results occurred",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A labelled bar graph places the category amounts side by side.",
-      "hint": "Choose a display where the heights and labels can be compared."
+      "summary": "Bar lengths make relative sizes easy to compare.",
+      "hint": "Think about what bar heights show at a glance."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-007",
@@ -226,32 +239,34 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "interpret_picture_graph_key",
-    "question": "On the fruit graph, a picture graph uses one star for one vote. How many votes do 5 stars show?",
-    "audio_prompt": "On the fruit graph, a picture graph uses one star for one vote. How many votes do 5 stars show?",
+    "skill": "graph_error",
+    "question": "At the library: the source data say Adventure 8, but its bar ends at 7. What correction is needed?",
+    "audio_prompt": "At the library: the source data say Adventure 8, but its bar ends at 7. What correction is needed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-007",
-      "alt_text": "On the fruit graph: Picture graph key says one star equals one vote, with 5 stars shown."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "5",
+        "text": "Lower the bar to 3",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the category",
+        "is_correct": false
+      },
+      {
+        "text": "Raise the bar to 8",
         "is_correct": true
       },
       {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "10",
+        "text": "Change the source data",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "When one picture equals one vote, 5 stars represent 5 votes.",
-      "hint": "Check the key before counting the pictures."
+      "summary": "The graph must match the source count of 8.",
+      "hint": "Trust the recorded source data."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -263,32 +278,34 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "identify_graph_data_error",
-    "question": "On the fruit graph, the table says apples has 2 votes, but the graph shows 3. What is wrong?",
-    "audio_prompt": "On the fruit graph, the table says apples has 2 votes, but the graph shows 3. What is wrong?",
+    "skill": "software",
+    "question": "At the library: in graphing software, which action best checks a library books graph before saving it?",
+    "audio_prompt": "At the library: in graphing software, which action best checks a library books graph before saving it?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-008",
-      "alt_text": "On the fruit graph: Table shows apples equals 2, while graph shows apples equals 3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "the graph uses a blue bar",
+        "text": "Add decorative pictures",
         "is_correct": false
       },
       {
-        "text": "the graph count does not match the table",
+        "text": "Sort colours alphabetically",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the scale",
+        "is_correct": false
+      },
+      {
+        "text": "Compare every plotted value with the source table",
         "is_correct": true
-      },
-      {
-        "text": "the table has a heading",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The graph must show 2 for apples, the same as the source table.",
-      "hint": "Compare one category at a time across both displays."
+      "summary": "Checking plotted values against the source detects data-entry errors.",
+      "hint": "Choose the action that checks accuracy."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -300,32 +317,34 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "read_greatest_category_from_graph",
-    "question": "On the pet graph, which category has the most pets votes?",
-    "audio_prompt": "On the pet graph, which category has the most pets votes?",
+    "skill": "create_picture_graph",
+    "question": "At the library: a pictograph for library books uses one symbol for 1 item. Which row should contain 8 symbols?",
+    "audio_prompt": "At the library: a pictograph for library books uses one symbol for 1 item. Which row should contain 8 symbols?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-009",
-      "alt_text": "On the pet graph: Bar graph for pets: A 3, B 9, C 6."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "cats",
-        "is_correct": false
-      },
-      {
-        "text": "fish",
-        "is_correct": false
-      },
-      {
-        "text": "dogs",
+        "text": "Adventure",
         "is_correct": true
+      },
+      {
+        "text": "Space",
+        "is_correct": false
+      },
+      {
+        "text": "Every row",
+        "is_correct": false
+      },
+      {
+        "text": "No row",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Category dogs has the tallest bar and the greatest count, 9.",
-      "hint": "Compare the top of each bar."
+      "summary": "Adventure has count 8, so its row needs 8 symbols.",
+      "hint": "Match the count to its category."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -337,35 +356,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "read_least_category_from_graph",
-    "question": "On the pet graph, which category has the fewest pets votes?",
-    "audio_prompt": "On the pet graph, which category has the fewest pets votes?",
+    "skill": "interpret_context",
+    "question": "At the library: what conclusion is supported by library books data Adventure 8, Animals 5, Space 3?",
+    "audio_prompt": "At the library: what conclusion is supported by library books data Adventure 8, Animals 5, Space 3?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-010",
-      "alt_text": "On the pet graph: Bar graph for pets: A 3, B 9, C 6."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "cats",
+        "text": "Space was recorded most often",
+        "is_correct": false
+      },
+      {
+        "text": "Adventure was recorded most often",
         "is_correct": true
       },
       {
-        "text": "dogs",
+        "text": "Every category was equal",
         "is_correct": false
       },
       {
-        "text": "fish",
+        "text": "The survey explains the cause",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Category cats has the shortest bar and the smallest count, 3.",
-      "hint": "Find the bar that reaches the lowest number."
+      "summary": "Adventure has the largest recorded value.",
+      "hint": "State only what the data support."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-011",
@@ -373,35 +395,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "compare_graph_categories",
-    "question": "On the pet graph, how many more votes does dogs have than cats?",
-    "audio_prompt": "On the pet graph, how many more votes does dogs have than cats?",
+    "skill": "choose_display",
+    "question": "At the library: which display is suitable for comparing the separate categories in library books?",
+    "audio_prompt": "At the library: which display is suitable for comparing the separate categories in library books?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-011",
-      "alt_text": "On the pet graph: Bar graph with cats at 3 and dogs at 9."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "12",
+        "text": "An unlabelled drawing",
         "is_correct": false
       },
       {
-        "text": "6",
+        "text": "A paragraph with no numbers",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled bar graph",
         "is_correct": true
       },
       {
-        "text": "7",
+        "text": "A clock face",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Find the difference: 9 − 3 = 6.",
-      "hint": "Start at cats's height and count up to dogs's height."
+      "summary": "A labelled bar graph supports accurate category comparison.",
+      "hint": "Choose a display with categories and a numerical scale."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-012",
@@ -409,35 +434,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "preserve_data_across_displays",
-    "question": "On the pet graph, what must stay the same when this table is changed into a graph?",
-    "audio_prompt": "On the pet graph, what must stay the same when this table is changed into a graph?",
+    "skill": "scale",
+    "question": "At the library: a bar-graph scale counts 0, 2, 4, 6, 8, 10. Where does a value of 5 belong?",
+    "audio_prompt": "At the library: a bar-graph scale counts 0, 2, 4, 6, 8, 10. Where does a value of 5 belong?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-012",
-      "alt_text": "On the pet graph: A table and bar graph both showing counts 3, 9, 6."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "the bar colours only",
+        "text": "On the 8 line",
         "is_correct": false
       },
       {
-        "text": "the order of the alphabet",
+        "text": "At zero",
         "is_correct": false
       },
       {
-        "text": "the category counts",
+        "text": "Outside the graph",
+        "is_correct": false
+      },
+      {
+        "text": "Halfway between 4 and 6",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A new display must represent the same data values.",
-      "hint": "Check every graph bar against its table count."
+      "summary": "5 lies halfway between 4 and 6.",
+      "hint": "Read the scale interval before plotting."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-013",
@@ -445,35 +473,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "explain_graph_labels",
-    "question": "On the pet graph, why does a graph need category labels?",
-    "audio_prompt": "On the pet graph, why does a graph need category labels?",
+    "skill": "compare_representations",
+    "question": "At the library: a pictograph key changes from 1 item per symbol to 2 items per symbol. What happens for a count of 16?",
+    "audio_prompt": "At the library: a pictograph key changes from 1 item per symbol to 2 items per symbol. What happens for a count of 16?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-013",
-      "alt_text": "On the pet graph: A labelled graph for categories A, B and C."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "to show what each bar represents",
+        "text": "It needs 8 symbols",
         "is_correct": true
       },
       {
-        "text": "to make every bar equal",
+        "text": "It needs 16 symbols",
         "is_correct": false
       },
       {
-        "text": "to change the data totals",
+        "text": "The count becomes 2",
+        "is_correct": false
+      },
+      {
+        "text": "The category disappears",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Labels connect each bar or picture to its category.",
-      "hint": "Without labels, you cannot tell what is being counted."
+      "summary": "16 ÷ 2 = 8 symbols; the underlying count stays the same.",
+      "hint": "Use the key to convert count to symbols."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-014",
@@ -481,35 +512,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "choose_data_display",
-    "question": "On the pet graph, which display makes it easy to compare three category counts?",
-    "audio_prompt": "On the pet graph, which display makes it easy to compare three category counts?",
+    "skill": "software",
+    "question": "At the library: a spreadsheet chart for library books has bars but no title or axis labels. What is the best improvement?",
+    "audio_prompt": "At the library: a spreadsheet chart for library books has bars but no title or axis labels. What is the best improvement?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-014",
-      "alt_text": "On the pet graph: A labelled bar graph with three side-by-side bars."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "an unlabelled picture",
+        "text": "Change all values to 1",
         "is_correct": false
       },
       {
-        "text": "a labelled bar graph",
+        "text": "Add a clear title and labels",
         "is_correct": true
       },
       {
-        "text": "a clock face",
+        "text": "Remove the scale",
+        "is_correct": false
+      },
+      {
+        "text": "Use random category names",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A labelled bar graph places the category amounts side by side.",
-      "hint": "Choose a display where the heights and labels can be compared."
+      "summary": "Titles and labels make the data interpretable in context.",
+      "hint": "Readers need to know what each axis represents."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-015",
@@ -517,35 +551,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "interpret_picture_graph_key",
-    "question": "On the pet graph, a picture graph uses one star for one vote. How many votes do 6 stars show?",
-    "audio_prompt": "On the pet graph, a picture graph uses one star for one vote. How many votes do 6 stars show?",
+    "skill": "interpret_context",
+    "question": "At the library: from Adventure 8, Animals 5, Space 3, what is the total number recorded?",
+    "audio_prompt": "At the library: from Adventure 8, Animals 5, Space 3, what is the total number recorded?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-015",
-      "alt_text": "On the pet graph: Picture graph key says one star equals one vote, with 6 stars shown."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "7",
+        "text": "13",
         "is_correct": false
       },
       {
-        "text": "12",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "6",
+        "text": "16",
         "is_correct": true
+      },
+      {
+        "text": "17",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "When one picture equals one vote, 6 stars represent 6 votes.",
-      "hint": "Check the key before counting the pictures."
+      "summary": "Add all categories: 8 + 5 + 3 = 16.",
+      "hint": "Include every category once."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-016",
@@ -553,35 +590,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "identify_graph_data_error",
-    "question": "On the pet graph, the table says cats has 3 votes, but the graph shows 4. What is wrong?",
-    "audio_prompt": "On the pet graph, the table says cats has 3 votes, but the graph shows 4. What is wrong?",
+    "skill": "compare_representations",
+    "question": "At the library: two graphs show library books. One starts its vertical scale at 0; the other starts at 3. Which gives the clearest fair comparison for Year 3?",
+    "audio_prompt": "At the library: two graphs show library books. One starts its vertical scale at 0; the other starts at 3. Which gives the clearest fair comparison for Year 3?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-016",
-      "alt_text": "On the pet graph: Table shows cats equals 3, while graph shows cats equals 4."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "the graph count does not match the table",
+        "text": "The graph starting at the smallest value",
+        "is_correct": false
+      },
+      {
+        "text": "Both must show different totals",
+        "is_correct": false
+      },
+      {
+        "text": "Neither needs a scale",
+        "is_correct": false
+      },
+      {
+        "text": "The graph starting at 0",
         "is_correct": true
-      },
-      {
-        "text": "the graph uses a blue bar",
-        "is_correct": false
-      },
-      {
-        "text": "the table has a heading",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The graph must show 3 for cats, the same as the source table.",
-      "hint": "Compare one category at a time across both displays."
+      "summary": "Starting at zero avoids exaggerating small differences in bar heights.",
+      "hint": "Consider whether the visual size of differences is fair."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-P-017",
@@ -589,34 +629,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "read_greatest_category_from_graph",
-    "question": "On the games graph, which category has the most games votes?",
-    "audio_prompt": "On the games graph, which category has the most games votes?",
+    "skill": "interpret_context",
+    "question": "In the lunch survey: a bar graph of lunch fruit shows Apple 6, Banana 9, Pear 4. Which category has the greatest count?",
+    "audio_prompt": "In the lunch survey: a bar graph of lunch fruit shows Apple 6, Banana 9, Pear 4. Which category has the greatest count?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-017",
-      "alt_text": "On the games graph: Bar graph for games: A 4, B 10, C 7."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "chase",
-        "is_correct": false
-      },
-      {
-        "text": "swings",
+        "text": "Banana",
         "is_correct": true
       },
       {
-        "text": "ball",
+        "text": "Pear",
+        "is_correct": false
+      },
+      {
+        "text": "All are equal",
+        "is_correct": false
+      },
+      {
+        "text": "The graph does not show it",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Category swings has the tallest bar and the greatest count, 10.",
-      "hint": "Compare the top of each bar."
+      "summary": "Banana has the greatest count, 9.",
+      "hint": "Compare the bar heights."
     },
-    "difficulty": 3,
+    "difficulty": 2,
+    "difficulty_tier": "application",
     "sequence_priority": 2
   },
   {
@@ -625,34 +668,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "read_least_category_from_graph",
-    "question": "On the games graph, which category has the fewest games votes?",
-    "audio_prompt": "On the games graph, which category has the fewest games votes?",
+    "skill": "interpret_context",
+    "question": "In the lunch survey: using these lunch fruit counts — Apple 6, Banana 9, Pear 4 — how many more are in Banana than Pear?",
+    "audio_prompt": "In the lunch survey: using these lunch fruit counts — Apple 6, Banana 9, Pear 4 — how many more are in Banana than Pear?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-018",
-      "alt_text": "On the games graph: Bar graph for games: A 4, B 10, C 7."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "swings",
+        "text": "13",
         "is_correct": false
       },
       {
-        "text": "ball",
-        "is_correct": false
-      },
-      {
-        "text": "chase",
+        "text": "5",
         "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Category chase has the shortest bar and the smallest count, 4.",
-      "hint": "Find the bar that reaches the lowest number."
+      "summary": "Subtract: 9 − 4 = 5.",
+      "hint": "Find the difference between the greatest and least counts."
     },
-    "difficulty": 3,
+    "difficulty": 2,
+    "difficulty_tier": "application",
     "sequence_priority": 2
   },
   {
@@ -661,34 +707,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "compare_graph_categories",
-    "question": "On the games graph, how many more votes does swings have than chase?",
-    "audio_prompt": "On the games graph, how many more votes does swings have than chase?",
+    "skill": "create_bar_graph",
+    "question": "In the lunch survey: a student graphs lunch fruit: Apple 6, Banana 9, Pear 4. Where should the Pear bar end?",
+    "audio_prompt": "In the lunch survey: a student graphs lunch fruit: Apple 6, Banana 9, Pear 4. Where should the Pear bar end?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-019",
-      "alt_text": "On the games graph: Bar graph with chase at 4 and swings at 10."
+      "type": "none"
     },
     "answers": [
       {
         "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "4",
         "is_correct": true
       },
       {
-        "text": "14",
-        "is_correct": false
-      },
-      {
-        "text": "7",
+        "text": "At zero",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Find the difference: 10 − 4 = 6.",
-      "hint": "Start at chase's height and count up to swings's height."
+      "summary": "The bar must end at 4, matching the data.",
+      "hint": "Locate Pear in the data list."
     },
-    "difficulty": 3,
+    "difficulty": 2,
+    "difficulty_tier": "application",
     "sequence_priority": 2
   },
   {
@@ -697,34 +746,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "preserve_data_across_displays",
-    "question": "On the games graph, what must stay the same when this table is changed into a graph?",
-    "audio_prompt": "On the games graph, what must stay the same when this table is changed into a graph?",
+    "skill": "compare_representations",
+    "question": "In the lunch survey: a table lists Apple 6, Banana 9, Pear 4. Which feature must a matching picture graph preserve?",
+    "audio_prompt": "In the lunch survey: a table lists Apple 6, Banana 9, Pear 4. Which feature must a matching picture graph preserve?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-020",
-      "alt_text": "On the games graph: A table and bar graph both showing counts 4, 10, 7."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "the bar colours only",
+        "text": "The colour of the table",
         "is_correct": false
       },
       {
-        "text": "the category counts",
+        "text": "The row order only",
+        "is_correct": false
+      },
+      {
+        "text": "The font size",
+        "is_correct": false
+      },
+      {
+        "text": "Every category count",
         "is_correct": true
-      },
-      {
-        "text": "the order of the alphabet",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A new display must represent the same data values.",
-      "hint": "Check every graph bar against its table count."
+      "summary": "Changing representation must not change the data values.",
+      "hint": "The display may change, but the data cannot."
     },
-    "difficulty": 3,
+    "difficulty": 2,
+    "difficulty_tier": "application",
     "sequence_priority": 2
   },
   {
@@ -733,34 +785,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "explain_graph_labels",
-    "question": "On the games graph, why does a graph need category labels?",
-    "audio_prompt": "On the games graph, why does a graph need category labels?",
+    "skill": "picture_graph_key",
+    "question": "In the lunch survey: for lunch fruit, a picture graph key says one symbol represents 2. How many symbols show 12?",
+    "audio_prompt": "In the lunch survey: for lunch fruit, a picture graph key says one symbol represents 2. How many symbols show 12?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-021",
-      "alt_text": "On the games graph: A labelled graph for categories A, B and C."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "to make every bar equal",
-        "is_correct": false
-      },
-      {
-        "text": "to change the data totals",
-        "is_correct": false
-      },
-      {
-        "text": "to show what each bar represents",
+        "text": "6",
         "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Labels connect each bar or picture to its category.",
-      "hint": "Without labels, you cannot tell what is being counted."
+      "summary": "12 ÷ 2 = 6 symbols.",
+      "hint": "Divide the count by the value of each symbol."
     },
-    "difficulty": 3,
+    "difficulty": 2,
+    "difficulty_tier": "application",
     "sequence_priority": 2
   },
   {
@@ -769,34 +824,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "choose_data_display",
-    "question": "On the games graph, which display makes it easy to compare three category counts?",
-    "audio_prompt": "On the games graph, which display makes it easy to compare three category counts?",
+    "skill": "compare_representations",
+    "question": "In the lunch survey: the same lunch fruit data are shown in a table and a bar graph. Why might the graph be more useful?",
+    "audio_prompt": "In the lunch survey: the same lunch fruit data are shown in a table and a bar graph. Why might the graph be more useful?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-022",
-      "alt_text": "On the games graph: A labelled bar graph with three side-by-side bars."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "a labelled bar graph",
+        "text": "It changes the totals",
+        "is_correct": false
+      },
+      {
+        "text": "Differences can be compared quickly",
         "is_correct": true
       },
       {
-        "text": "an unlabelled picture",
+        "text": "It removes category names",
         "is_correct": false
       },
       {
-        "text": "a clock face",
+        "text": "It proves why the results occurred",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A labelled bar graph places the category amounts side by side.",
-      "hint": "Choose a display where the heights and labels can be compared."
+      "summary": "Bar lengths make relative sizes easy to compare.",
+      "hint": "Think about what bar heights show at a glance."
     },
-    "difficulty": 3,
+    "difficulty": 2,
+    "difficulty_tier": "application",
     "sequence_priority": 2
   },
   {
@@ -805,34 +863,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "interpret_picture_graph_key",
-    "question": "On the games graph, a picture graph uses one star for one vote. How many votes do 7 stars show?",
-    "audio_prompt": "On the games graph, a picture graph uses one star for one vote. How many votes do 7 stars show?",
+    "skill": "graph_error",
+    "question": "In the lunch survey: the source data say Banana 9, but its bar ends at 8. What correction is needed?",
+    "audio_prompt": "In the lunch survey: the source data say Banana 9, but its bar ends at 8. What correction is needed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-023",
-      "alt_text": "On the games graph: Picture graph key says one star equals one vote, with 7 stars shown."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "8",
+        "text": "Lower the bar to 4",
         "is_correct": false
       },
       {
-        "text": "7",
+        "text": "Delete the category",
+        "is_correct": false
+      },
+      {
+        "text": "Raise the bar to 9",
         "is_correct": true
       },
       {
-        "text": "14",
+        "text": "Change the source data",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "When one picture equals one vote, 7 stars represent 7 votes.",
-      "hint": "Check the key before counting the pictures."
+      "summary": "The graph must match the source count of 9.",
+      "hint": "Trust the recorded source data."
     },
-    "difficulty": 3,
+    "difficulty": 2,
+    "difficulty_tier": "application",
     "sequence_priority": 2
   },
   {
@@ -841,35 +902,974 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "practice",
-    "skill": "identify_graph_data_error",
-    "question": "On the games graph, the table says chase has 4 votes, but the graph shows 5. What is wrong?",
-    "audio_prompt": "On the games graph, the table says chase has 4 votes, but the graph shows 5. What is wrong?",
+    "skill": "software",
+    "question": "In the lunch survey: in graphing software, which action best checks a lunch fruit graph before saving it?",
+    "audio_prompt": "In the lunch survey: in graphing software, which action best checks a lunch fruit graph before saving it?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-p-024",
-      "alt_text": "On the games graph: Table shows chase equals 4, while graph shows chase equals 5."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "the graph uses a blue bar",
+        "text": "Add decorative pictures",
         "is_correct": false
       },
       {
-        "text": "the table has a heading",
+        "text": "Sort colours alphabetically",
         "is_correct": false
       },
       {
-        "text": "the graph count does not match the table",
+        "text": "Hide the scale",
+        "is_correct": false
+      },
+      {
+        "text": "Compare every plotted value with the source table",
         "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Checking plotted values against the source detects data-entry errors.",
+      "hint": "Choose the action that checks accuracy."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-025",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "create_picture_graph",
+    "question": "In the lunch survey: a pictograph for lunch fruit uses one symbol for 1 item. Which row should contain 9 symbols?",
+    "audio_prompt": "In the lunch survey: a pictograph for lunch fruit uses one symbol for 1 item. Which row should contain 9 symbols?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Banana",
+        "is_correct": true
+      },
+      {
+        "text": "Pear",
+        "is_correct": false
+      },
+      {
+        "text": "Every row",
+        "is_correct": false
+      },
+      {
+        "text": "No row",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Banana has count 9, so its row needs 9 symbols.",
+      "hint": "Match the count to its category."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-026",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "interpret_context",
+    "question": "In the lunch survey: what conclusion is supported by lunch fruit data Apple 6, Banana 9, Pear 4?",
+    "audio_prompt": "In the lunch survey: what conclusion is supported by lunch fruit data Apple 6, Banana 9, Pear 4?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Pear was recorded most often",
+        "is_correct": false
+      },
+      {
+        "text": "Banana was recorded most often",
+        "is_correct": true
+      },
+      {
+        "text": "Every category was equal",
+        "is_correct": false
+      },
+      {
+        "text": "The survey explains the cause",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Banana has the largest recorded value.",
+      "hint": "State only what the data support."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-027",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "choose_display",
+    "question": "In the lunch survey: which display is suitable for comparing the separate categories in lunch fruit?",
+    "audio_prompt": "In the lunch survey: which display is suitable for comparing the separate categories in lunch fruit?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "An unlabelled drawing",
+        "is_correct": false
+      },
+      {
+        "text": "A paragraph with no numbers",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled bar graph",
+        "is_correct": true
+      },
+      {
+        "text": "A clock face",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The graph must show 4 for chase, the same as the source table.",
-      "hint": "Compare one category at a time across both displays."
+      "summary": "A labelled bar graph supports accurate category comparison.",
+      "hint": "Choose a display with categories and a numerical scale."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-028",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "scale",
+    "question": "In the lunch survey: a bar-graph scale counts 0, 2, 4, 6, 8, 10. Where does a value of 6 belong?",
+    "audio_prompt": "In the lunch survey: a bar-graph scale counts 0, 2, 4, 6, 8, 10. Where does a value of 6 belong?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "On the 9 line",
+        "is_correct": false
+      },
+      {
+        "text": "At zero",
+        "is_correct": false
+      },
+      {
+        "text": "Outside the graph",
+        "is_correct": false
+      },
+      {
+        "text": "On the 6 line",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The labelled scale includes 6.",
+      "hint": "Read the scale interval before plotting."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-029",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "compare_representations",
+    "question": "In the lunch survey: a pictograph key changes from 1 item per symbol to 2 items per symbol. What happens for a count of 18?",
+    "audio_prompt": "In the lunch survey: a pictograph key changes from 1 item per symbol to 2 items per symbol. What happens for a count of 18?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "It needs 9 symbols",
+        "is_correct": true
+      },
+      {
+        "text": "It needs 18 symbols",
+        "is_correct": false
+      },
+      {
+        "text": "The count becomes 2",
+        "is_correct": false
+      },
+      {
+        "text": "The category disappears",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "18 ÷ 2 = 9 symbols; the underlying count stays the same.",
+      "hint": "Use the key to convert count to symbols."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-030",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "software",
+    "question": "In the lunch survey: a spreadsheet chart for lunch fruit has bars but no title or axis labels. What is the best improvement?",
+    "audio_prompt": "In the lunch survey: a spreadsheet chart for lunch fruit has bars but no title or axis labels. What is the best improvement?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Change all values to 1",
+        "is_correct": false
+      },
+      {
+        "text": "Add a clear title and labels",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the scale",
+        "is_correct": false
+      },
+      {
+        "text": "Use random category names",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Titles and labels make the data interpretable in context.",
+      "hint": "Readers need to know what each axis represents."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-031",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "interpret_context",
+    "question": "In the lunch survey: from Apple 6, Banana 9, Pear 4, what is the total number recorded?",
+    "audio_prompt": "In the lunch survey: from Apple 6, Banana 9, Pear 4, what is the total number recorded?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "19",
+        "is_correct": true
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add all categories: 9 + 6 + 4 = 19.",
+      "hint": "Include every category once."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-032",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "compare_representations",
+    "question": "In the lunch survey: two graphs show lunch fruit. One starts its vertical scale at 0; the other starts at 4. Which gives the clearest fair comparison for Year 3?",
+    "audio_prompt": "In the lunch survey: two graphs show lunch fruit. One starts its vertical scale at 0; the other starts at 4. Which gives the clearest fair comparison for Year 3?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The graph starting at the smallest value",
+        "is_correct": false
+      },
+      {
+        "text": "Both must show different totals",
+        "is_correct": false
+      },
+      {
+        "text": "Neither needs a scale",
+        "is_correct": false
+      },
+      {
+        "text": "The graph starting at 0",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Starting at zero avoids exaggerating small differences in bar heights.",
+      "hint": "Consider whether the visual size of differences is fair."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-033",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "interpret_context",
+    "question": "During the park count: a bar graph of park birds shows Magpie 7, Galah 2, Rosella 5. Which category has the greatest count?",
+    "audio_prompt": "During the park count: a bar graph of park birds shows Magpie 7, Galah 2, Rosella 5. Which category has the greatest count?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Magpie",
+        "is_correct": true
+      },
+      {
+        "text": "Galah",
+        "is_correct": false
+      },
+      {
+        "text": "All are equal",
+        "is_correct": false
+      },
+      {
+        "text": "The graph does not show it",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Magpie has the greatest count, 7.",
+      "hint": "Compare the bar heights."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-034",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "interpret_context",
+    "question": "During the park count: using these park birds counts — Magpie 7, Galah 2, Rosella 5 — how many more are in Magpie than Galah?",
+    "audio_prompt": "During the park count: using these park birds counts — Magpie 7, Galah 2, Rosella 5 — how many more are in Magpie than Galah?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "Not enough information",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Subtract: 7 − 2 = 5.",
+      "hint": "Find the difference between the greatest and least counts."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-035",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "create_bar_graph",
+    "question": "During the park count: a student graphs park birds: Magpie 7, Galah 2, Rosella 5. Where should the Galah bar end?",
+    "audio_prompt": "During the park count: a student graphs park birds: Magpie 7, Galah 2, Rosella 5. Where should the Galah bar end?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "At zero",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The bar must end at 2, matching the data.",
+      "hint": "Locate Galah in the data list."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-036",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "compare_representations",
+    "question": "During the park count: a table lists Magpie 7, Galah 2, Rosella 5. Which feature must a matching picture graph preserve?",
+    "audio_prompt": "During the park count: a table lists Magpie 7, Galah 2, Rosella 5. Which feature must a matching picture graph preserve?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The colour of the table",
+        "is_correct": false
+      },
+      {
+        "text": "The row order only",
+        "is_correct": false
+      },
+      {
+        "text": "The font size",
+        "is_correct": false
+      },
+      {
+        "text": "Every category count",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Changing representation must not change the data values.",
+      "hint": "The display may change, but the data cannot."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-037",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "picture_graph_key",
+    "question": "During the park count: for park birds, a picture graph key says one symbol represents 2. How many symbols show 10?",
+    "audio_prompt": "During the park count: for park birds, a picture graph key says one symbol represents 2. How many symbols show 10?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "10 ÷ 2 = 5 symbols.",
+      "hint": "Divide the count by the value of each symbol."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-038",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "compare_representations",
+    "question": "During the park count: the same park birds data are shown in a table and a bar graph. Why might the graph be more useful?",
+    "audio_prompt": "During the park count: the same park birds data are shown in a table and a bar graph. Why might the graph be more useful?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "It changes the totals",
+        "is_correct": false
+      },
+      {
+        "text": "Differences can be compared quickly",
+        "is_correct": true
+      },
+      {
+        "text": "It removes category names",
+        "is_correct": false
+      },
+      {
+        "text": "It proves why the results occurred",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Bar lengths make relative sizes easy to compare.",
+      "hint": "Think about what bar heights show at a glance."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-039",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "graph_error",
+    "question": "During the park count: the source data say Magpie 7, but its bar ends at 6. What correction is needed?",
+    "audio_prompt": "During the park count: the source data say Magpie 7, but its bar ends at 6. What correction is needed?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Lower the bar to 2",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the category",
+        "is_correct": false
+      },
+      {
+        "text": "Raise the bar to 7",
+        "is_correct": true
+      },
+      {
+        "text": "Change the source data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The graph must match the source count of 7.",
+      "hint": "Trust the recorded source data."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-040",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "software",
+    "question": "During the park count: in graphing software, which action best checks a park birds graph before saving it?",
+    "audio_prompt": "During the park count: in graphing software, which action best checks a park birds graph before saving it?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Add decorative pictures",
+        "is_correct": false
+      },
+      {
+        "text": "Sort colours alphabetically",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the scale",
+        "is_correct": false
+      },
+      {
+        "text": "Compare every plotted value with the source table",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Checking plotted values against the source detects data-entry errors.",
+      "hint": "Choose the action that checks accuracy."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
+  },
+  {
+    "id": "AC9M3ST02-P-041",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "create_picture_graph",
+    "question": "During the park count: a pictograph for park birds uses one symbol for 1 item. Which row should contain 7 symbols?",
+    "audio_prompt": "During the park count: a pictograph for park birds uses one symbol for 1 item. Which row should contain 7 symbols?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Magpie",
+        "is_correct": true
+      },
+      {
+        "text": "Galah",
+        "is_correct": false
+      },
+      {
+        "text": "Every row",
+        "is_correct": false
+      },
+      {
+        "text": "No row",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Magpie has count 7, so its row needs 7 symbols.",
+      "hint": "Match the count to its category."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 3
+  },
+  {
+    "id": "AC9M3ST02-P-042",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "interpret_context",
+    "question": "During the park count: what conclusion is supported by park birds data Magpie 7, Galah 2, Rosella 5?",
+    "audio_prompt": "During the park count: what conclusion is supported by park birds data Magpie 7, Galah 2, Rosella 5?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Galah was recorded most often",
+        "is_correct": false
+      },
+      {
+        "text": "Magpie was recorded most often",
+        "is_correct": true
+      },
+      {
+        "text": "Every category was equal",
+        "is_correct": false
+      },
+      {
+        "text": "The survey explains the cause",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Magpie has the largest recorded value.",
+      "hint": "State only what the data support."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 3
+  },
+  {
+    "id": "AC9M3ST02-P-043",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "choose_display",
+    "question": "During the park count: which display is suitable for comparing the separate categories in park birds?",
+    "audio_prompt": "During the park count: which display is suitable for comparing the separate categories in park birds?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "An unlabelled drawing",
+        "is_correct": false
+      },
+      {
+        "text": "A paragraph with no numbers",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled bar graph",
+        "is_correct": true
+      },
+      {
+        "text": "A clock face",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A labelled bar graph supports accurate category comparison.",
+      "hint": "Choose a display with categories and a numerical scale."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 3
+  },
+  {
+    "id": "AC9M3ST02-P-044",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "scale",
+    "question": "During the park count: a bar-graph scale counts 0, 2, 4, 6, 8, 10. Where does a value of 5 belong?",
+    "audio_prompt": "During the park count: a bar-graph scale counts 0, 2, 4, 6, 8, 10. Where does a value of 5 belong?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "On the 7 line",
+        "is_correct": false
+      },
+      {
+        "text": "At zero",
+        "is_correct": false
+      },
+      {
+        "text": "Outside the graph",
+        "is_correct": false
+      },
+      {
+        "text": "Halfway between 4 and 6",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "5 lies halfway between 4 and 6.",
+      "hint": "Read the scale interval before plotting."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 3
+  },
+  {
+    "id": "AC9M3ST02-P-045",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "compare_representations",
+    "question": "During the park count: a pictograph key changes from 1 item per symbol to 2 items per symbol. What happens for a count of 14?",
+    "audio_prompt": "During the park count: a pictograph key changes from 1 item per symbol to 2 items per symbol. What happens for a count of 14?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "It needs 7 symbols",
+        "is_correct": true
+      },
+      {
+        "text": "It needs 14 symbols",
+        "is_correct": false
+      },
+      {
+        "text": "The count becomes 2",
+        "is_correct": false
+      },
+      {
+        "text": "The category disappears",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "14 ÷ 2 = 7 symbols; the underlying count stays the same.",
+      "hint": "Use the key to convert count to symbols."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 3
+  },
+  {
+    "id": "AC9M3ST02-P-046",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "software",
+    "question": "During the park count: a spreadsheet chart for park birds has bars but no title or axis labels. What is the best improvement?",
+    "audio_prompt": "During the park count: a spreadsheet chart for park birds has bars but no title or axis labels. What is the best improvement?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Change all values to 1",
+        "is_correct": false
+      },
+      {
+        "text": "Add a clear title and labels",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the scale",
+        "is_correct": false
+      },
+      {
+        "text": "Use random category names",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Titles and labels make the data interpretable in context.",
+      "hint": "Readers need to know what each axis represents."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 3
+  },
+  {
+    "id": "AC9M3ST02-P-047",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "interpret_context",
+    "question": "During the park count: from Magpie 7, Galah 2, Rosella 5, what is the total number recorded?",
+    "audio_prompt": "During the park count: from Magpie 7, Galah 2, Rosella 5, what is the total number recorded?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": true
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add all categories: 7 + 5 + 2 = 14.",
+      "hint": "Include every category once."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 3
+  },
+  {
+    "id": "AC9M3ST02-P-048",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3ST02",
+    "bank": "practice",
+    "skill": "compare_representations",
+    "question": "During the park count: two graphs show park birds. One starts its vertical scale at 0; the other starts at 2. Which gives the clearest fair comparison for Year 3?",
+    "audio_prompt": "During the park count: two graphs show park birds. One starts its vertical scale at 0; the other starts at 2. Which gives the clearest fair comparison for Year 3?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The graph starting at the smallest value",
+        "is_correct": false
+      },
+      {
+        "text": "Both must show different totals",
+        "is_correct": false
+      },
+      {
+        "text": "Neither needs a scale",
+        "is_correct": false
+      },
+      {
+        "text": "The graph starting at 0",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Starting at zero avoids exaggerating small differences in bar heights.",
+      "hint": "Consider whether the visual size of differences is fair."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 3
   },
   {
     "id": "AC9M3ST02-T-001",
@@ -877,33 +1877,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "read_greatest_category_from_graph",
-    "question": "On the weather graph, which category has the most weather votes?",
-    "audio_prompt": "On the weather graph, which category has the most weather votes?",
+    "skill": "interpret_context",
+    "question": "For the travel chart: a bar graph of class transport shows Walk 4, Bus 10, Car 6. Which category has the greatest count?",
+    "audio_prompt": "For the travel chart: a bar graph of class transport shows Walk 4, Bus 10, Car 6. Which category has the greatest count?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-001",
-      "alt_text": "On the weather graph: Bar graph for weather: A 5, B 11, C 8."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "rainy",
+        "text": "Bus",
         "is_correct": true
       },
       {
-        "text": "sunny",
+        "text": "Walk",
         "is_correct": false
       },
       {
-        "text": "cloudy",
+        "text": "All are equal",
+        "is_correct": false
+      },
+      {
+        "text": "The graph does not show it",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Category rainy has the tallest bar and the greatest count, 11.",
-      "hint": "Compare the top of each bar."
-    }
+      "summary": "Bus has the greatest count, 10.",
+      "hint": "Compare the bar heights."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-002",
@@ -911,33 +1916,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "read_least_category_from_graph",
-    "question": "On the weather graph, which category has the fewest weather votes?",
-    "audio_prompt": "On the weather graph, which category has the fewest weather votes?",
+    "skill": "interpret_context",
+    "question": "For the travel chart: using these class transport counts — Walk 4, Bus 10, Car 6 — how many more are in Bus than Walk?",
+    "audio_prompt": "For the travel chart: using these class transport counts — Walk 4, Bus 10, Car 6 — how many more are in Bus than Walk?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-002",
-      "alt_text": "On the weather graph: Bar graph for weather: A 5, B 11, C 8."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "rainy",
+        "text": "14",
         "is_correct": false
       },
       {
-        "text": "sunny",
+        "text": "6",
         "is_correct": true
       },
       {
-        "text": "cloudy",
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "Not enough information",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Category sunny has the shortest bar and the smallest count, 5.",
-      "hint": "Find the bar that reaches the lowest number."
-    }
+      "summary": "Subtract: 10 − 4 = 6.",
+      "hint": "Find the difference between the greatest and least counts."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-003",
@@ -945,33 +1955,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "compare_graph_categories",
-    "question": "On the weather graph, how many more votes does rainy have than sunny?",
-    "audio_prompt": "On the weather graph, how many more votes does rainy have than sunny?",
+    "skill": "create_bar_graph",
+    "question": "For the travel chart: a student graphs class transport: Walk 4, Bus 10, Car 6. Where should the Walk bar end?",
+    "audio_prompt": "For the travel chart: a student graphs class transport: Walk 4, Bus 10, Car 6. Where should the Walk bar end?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-003",
-      "alt_text": "On the weather graph: Bar graph with sunny at 5 and rainy at 11."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
         "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "4",
         "is_correct": true
+      },
+      {
+        "text": "At zero",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Find the difference: 11 − 5 = 6.",
-      "hint": "Start at sunny's height and count up to rainy's height."
-    }
+      "summary": "The bar must end at 4, matching the data.",
+      "hint": "Locate Walk in the data list."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-004",
@@ -979,33 +1994,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "preserve_data_across_displays",
-    "question": "On the weather graph, what must stay the same when this table is changed into a graph?",
-    "audio_prompt": "On the weather graph, what must stay the same when this table is changed into a graph?",
+    "skill": "compare_representations",
+    "question": "For the travel chart: a table lists Walk 4, Bus 10, Car 6. Which feature must a matching picture graph preserve?",
+    "audio_prompt": "For the travel chart: a table lists Walk 4, Bus 10, Car 6. Which feature must a matching picture graph preserve?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-004",
-      "alt_text": "On the weather graph: A table and bar graph both showing counts 5, 11, 8."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "the category counts",
+        "text": "The colour of the table",
+        "is_correct": false
+      },
+      {
+        "text": "The row order only",
+        "is_correct": false
+      },
+      {
+        "text": "The font size",
+        "is_correct": false
+      },
+      {
+        "text": "Every category count",
         "is_correct": true
-      },
-      {
-        "text": "the bar colours only",
-        "is_correct": false
-      },
-      {
-        "text": "the order of the alphabet",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A new display must represent the same data values.",
-      "hint": "Check every graph bar against its table count."
-    }
+      "summary": "Changing representation must not change the data values.",
+      "hint": "The display may change, but the data cannot."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-005",
@@ -1013,33 +2033,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "explain_graph_labels",
-    "question": "On the weather graph, why does a graph need category labels?",
-    "audio_prompt": "On the weather graph, why does a graph need category labels?",
+    "skill": "picture_graph_key",
+    "question": "At the sports shed: for library books, a picture graph key says one symbol represents 2. How many symbols show 10?",
+    "audio_prompt": "At the sports shed: for library books, a picture graph key says one symbol represents 2. How many symbols show 10?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-005",
-      "alt_text": "On the weather graph: A labelled graph for categories A, B and C."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "to make every bar equal",
-        "is_correct": false
-      },
-      {
-        "text": "to show what each bar represents",
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "to change the data totals",
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "7",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Labels connect each bar or picture to its category.",
-      "hint": "Without labels, you cannot tell what is being counted."
-    }
+      "summary": "10 ÷ 2 = 5 symbols.",
+      "hint": "Divide the count by the value of each symbol."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-006",
@@ -1047,33 +2072,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "choose_data_display",
-    "question": "On the weather graph, which display makes it easy to compare three category counts?",
-    "audio_prompt": "On the weather graph, which display makes it easy to compare three category counts?",
+    "skill": "compare_representations",
+    "question": "At the sports shed: the same library books data are shown in a table and a bar graph. Why might the graph be more useful?",
+    "audio_prompt": "At the sports shed: the same library books data are shown in a table and a bar graph. Why might the graph be more useful?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-006",
-      "alt_text": "On the weather graph: A labelled bar graph with three side-by-side bars."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "an unlabelled picture",
+        "text": "It changes the totals",
         "is_correct": false
       },
       {
-        "text": "a clock face",
-        "is_correct": false
-      },
-      {
-        "text": "a labelled bar graph",
+        "text": "Differences can be compared quickly",
         "is_correct": true
+      },
+      {
+        "text": "It removes category names",
+        "is_correct": false
+      },
+      {
+        "text": "It proves why the results occurred",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A labelled bar graph places the category amounts side by side.",
-      "hint": "Choose a display where the heights and labels can be compared."
-    }
+      "summary": "Bar lengths make relative sizes easy to compare.",
+      "hint": "Think about what bar heights show at a glance."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-007",
@@ -1081,33 +2111,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "interpret_picture_graph_key",
-    "question": "On the weather graph, a picture graph uses one star for one vote. How many votes do 8 stars show?",
-    "audio_prompt": "On the weather graph, a picture graph uses one star for one vote. How many votes do 8 stars show?",
+    "skill": "graph_error",
+    "question": "At the sports shed: the source data say Adventure 8, but its bar ends at 7. What correction is needed?",
+    "audio_prompt": "At the sports shed: the source data say Adventure 8, but its bar ends at 7. What correction is needed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-007",
-      "alt_text": "On the weather graph: Picture graph key says one star equals one vote, with 8 stars shown."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "8",
+        "text": "Lower the bar to 3",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the category",
+        "is_correct": false
+      },
+      {
+        "text": "Raise the bar to 8",
         "is_correct": true
       },
       {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "16",
+        "text": "Change the source data",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "When one picture equals one vote, 8 stars represent 8 votes.",
-      "hint": "Check the key before counting the pictures."
-    }
+      "summary": "The graph must match the source count of 8.",
+      "hint": "Trust the recorded source data."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-008",
@@ -1115,33 +2150,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "identify_graph_data_error",
-    "question": "On the weather graph, the table says sunny has 5 votes, but the graph shows 6. What is wrong?",
-    "audio_prompt": "On the weather graph, the table says sunny has 5 votes, but the graph shows 6. What is wrong?",
+    "skill": "software",
+    "question": "At the sports shed: in graphing software, which action best checks a library books graph before saving it?",
+    "audio_prompt": "At the sports shed: in graphing software, which action best checks a library books graph before saving it?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-008",
-      "alt_text": "On the weather graph: Table shows sunny equals 5, while graph shows sunny equals 6."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "the graph uses a blue bar",
+        "text": "Add decorative pictures",
         "is_correct": false
       },
       {
-        "text": "the graph count does not match the table",
+        "text": "Sort colours alphabetically",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the scale",
+        "is_correct": false
+      },
+      {
+        "text": "Compare every plotted value with the source table",
         "is_correct": true
-      },
-      {
-        "text": "the table has a heading",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The graph must show 5 for sunny, the same as the source table.",
-      "hint": "Compare one category at a time across both displays."
-    }
+      "summary": "Checking plotted values against the source detects data-entry errors.",
+      "hint": "Choose the action that checks accuracy."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-009",
@@ -1149,33 +2189,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "read_greatest_category_from_graph",
-    "question": "On the books graph, which category has the most books votes?",
-    "audio_prompt": "On the books graph, which category has the most books votes?",
+    "skill": "create_picture_graph",
+    "question": "In the garden log: a pictograph for lunch fruit uses one symbol for 1 item. Which row should contain 9 symbols?",
+    "audio_prompt": "In the garden log: a pictograph for lunch fruit uses one symbol for 1 item. Which row should contain 9 symbols?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-009",
-      "alt_text": "On the books graph: Bar graph for books: A 6, B 12, C 9."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "funny",
-        "is_correct": false
-      },
-      {
-        "text": "facts",
-        "is_correct": false
-      },
-      {
-        "text": "animal",
+        "text": "Banana",
         "is_correct": true
+      },
+      {
+        "text": "Pear",
+        "is_correct": false
+      },
+      {
+        "text": "Every row",
+        "is_correct": false
+      },
+      {
+        "text": "No row",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Category animal has the tallest bar and the greatest count, 12.",
-      "hint": "Compare the top of each bar."
-    }
+      "summary": "Banana has count 9, so its row needs 9 symbols.",
+      "hint": "Match the count to its category."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-010",
@@ -1183,33 +2228,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "read_least_category_from_graph",
-    "question": "On the books graph, which category has the fewest books votes?",
-    "audio_prompt": "On the books graph, which category has the fewest books votes?",
+    "skill": "interpret_context",
+    "question": "In the garden log: what conclusion is supported by lunch fruit data Apple 6, Banana 9, Pear 4?",
+    "audio_prompt": "In the garden log: what conclusion is supported by lunch fruit data Apple 6, Banana 9, Pear 4?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-010",
-      "alt_text": "On the books graph: Bar graph for books: A 6, B 12, C 9."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "funny",
+        "text": "Pear was recorded most often",
+        "is_correct": false
+      },
+      {
+        "text": "Banana was recorded most often",
         "is_correct": true
       },
       {
-        "text": "animal",
+        "text": "Every category was equal",
         "is_correct": false
       },
       {
-        "text": "facts",
+        "text": "The survey explains the cause",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Category funny has the shortest bar and the smallest count, 6.",
-      "hint": "Find the bar that reaches the lowest number."
-    }
+      "summary": "Banana has the largest recorded value.",
+      "hint": "State only what the data support."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-011",
@@ -1217,33 +2267,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "compare_graph_categories",
-    "question": "On the books graph, how many more votes does animal have than funny?",
-    "audio_prompt": "On the books graph, how many more votes does animal have than funny?",
+    "skill": "choose_display",
+    "question": "In the garden log: which display is suitable for comparing the separate categories in lunch fruit?",
+    "audio_prompt": "In the garden log: which display is suitable for comparing the separate categories in lunch fruit?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-011",
-      "alt_text": "On the books graph: Bar graph with funny at 6 and animal at 12."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "18",
+        "text": "An unlabelled drawing",
         "is_correct": false
       },
       {
-        "text": "6",
+        "text": "A paragraph with no numbers",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled bar graph",
         "is_correct": true
       },
       {
-        "text": "7",
+        "text": "A clock face",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Find the difference: 12 − 6 = 6.",
-      "hint": "Start at funny's height and count up to animal's height."
-    }
+      "summary": "A labelled bar graph supports accurate category comparison.",
+      "hint": "Choose a display with categories and a numerical scale."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-012",
@@ -1251,33 +2306,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "preserve_data_across_displays",
-    "question": "On the books graph, what must stay the same when this table is changed into a graph?",
-    "audio_prompt": "On the books graph, what must stay the same when this table is changed into a graph?",
+    "skill": "scale",
+    "question": "In the garden log: a bar-graph scale counts 0, 2, 4, 6, 8, 10. Where does a value of 6 belong?",
+    "audio_prompt": "In the garden log: a bar-graph scale counts 0, 2, 4, 6, 8, 10. Where does a value of 6 belong?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-012",
-      "alt_text": "On the books graph: A table and bar graph both showing counts 6, 12, 9."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "the bar colours only",
+        "text": "On the 9 line",
         "is_correct": false
       },
       {
-        "text": "the order of the alphabet",
+        "text": "At zero",
         "is_correct": false
       },
       {
-        "text": "the category counts",
+        "text": "Outside the graph",
+        "is_correct": false
+      },
+      {
+        "text": "On the 6 line",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A new display must represent the same data values.",
-      "hint": "Check every graph bar against its table count."
-    }
+      "summary": "The labelled scale includes 6.",
+      "hint": "Read the scale interval before plotting."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-013",
@@ -1285,33 +2345,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "explain_graph_labels",
-    "question": "On the books graph, why does a graph need category labels?",
-    "audio_prompt": "On the books graph, why does a graph need category labels?",
+    "skill": "compare_representations",
+    "question": "During the class vote: a pictograph key changes from 1 item per symbol to 2 items per symbol. What happens for a count of 14?",
+    "audio_prompt": "During the class vote: a pictograph key changes from 1 item per symbol to 2 items per symbol. What happens for a count of 14?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-013",
-      "alt_text": "On the books graph: A labelled graph for categories A, B and C."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "to show what each bar represents",
+        "text": "It needs 7 symbols",
         "is_correct": true
       },
       {
-        "text": "to make every bar equal",
+        "text": "It needs 14 symbols",
         "is_correct": false
       },
       {
-        "text": "to change the data totals",
+        "text": "The count becomes 2",
+        "is_correct": false
+      },
+      {
+        "text": "The category disappears",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Labels connect each bar or picture to its category.",
-      "hint": "Without labels, you cannot tell what is being counted."
-    }
+      "summary": "14 ÷ 2 = 7 symbols; the underlying count stays the same.",
+      "hint": "Use the key to convert count to symbols."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-014",
@@ -1319,33 +2384,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "choose_data_display",
-    "question": "On the books graph, which display makes it easy to compare three category counts?",
-    "audio_prompt": "On the books graph, which display makes it easy to compare three category counts?",
+    "skill": "software",
+    "question": "During the class vote: a spreadsheet chart for park birds has bars but no title or axis labels. What is the best improvement?",
+    "audio_prompt": "During the class vote: a spreadsheet chart for park birds has bars but no title or axis labels. What is the best improvement?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-014",
-      "alt_text": "On the books graph: A labelled bar graph with three side-by-side bars."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "an unlabelled picture",
+        "text": "Change all values to 1",
         "is_correct": false
       },
       {
-        "text": "a labelled bar graph",
+        "text": "Add a clear title and labels",
         "is_correct": true
       },
       {
-        "text": "a clock face",
+        "text": "Remove the scale",
+        "is_correct": false
+      },
+      {
+        "text": "Use random category names",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A labelled bar graph places the category amounts side by side.",
-      "hint": "Choose a display where the heights and labels can be compared."
-    }
+      "summary": "Titles and labels make the data interpretable in context.",
+      "hint": "Readers need to know what each axis represents."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-015",
@@ -1353,33 +2423,38 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "interpret_picture_graph_key",
-    "question": "On the books graph, a picture graph uses one star for one vote. How many votes do 9 stars show?",
-    "audio_prompt": "On the books graph, a picture graph uses one star for one vote. How many votes do 9 stars show?",
+    "skill": "interpret_context",
+    "question": "During the class vote: from Magpie 7, Galah 2, Rosella 5, what is the total number recorded?",
+    "audio_prompt": "During the class vote: from Magpie 7, Galah 2, Rosella 5, what is the total number recorded?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-015",
-      "alt_text": "On the books graph: Picture graph key says one star equals one vote, with 9 stars shown."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "10",
+        "text": "12",
         "is_correct": false
       },
       {
-        "text": "18",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "9",
+        "text": "14",
         "is_correct": true
+      },
+      {
+        "text": "15",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "When one picture equals one vote, 9 stars represent 9 votes.",
-      "hint": "Check the key before counting the pictures."
-    }
+      "summary": "Add all categories: 7 + 5 + 2 = 14.",
+      "hint": "Include every category once."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3ST02-T-016",
@@ -1387,32 +2462,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3ST02",
     "bank": "test",
-    "skill": "identify_graph_data_error",
-    "question": "On the books graph, the table says funny has 6 votes, but the graph shows 7. What is wrong?",
-    "audio_prompt": "On the books graph, the table says funny has 6 votes, but the graph shows 7. What is wrong?",
+    "skill": "compare_representations",
+    "question": "During the class vote: two graphs show park birds. One starts its vertical scale at 0; the other starts at 2. Which gives the clearest fair comparison for Year 3?",
+    "audio_prompt": "During the class vote: two graphs show park birds. One starts its vertical scale at 0; the other starts at 2. Which gives the clearest fair comparison for Year 3?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st02.svg#ac9m3st02-t-016",
-      "alt_text": "On the books graph: Table shows funny equals 6, while graph shows funny equals 7."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "the graph count does not match the table",
+        "text": "The graph starting at the smallest value",
+        "is_correct": false
+      },
+      {
+        "text": "Both must show different totals",
+        "is_correct": false
+      },
+      {
+        "text": "Neither needs a scale",
+        "is_correct": false
+      },
+      {
+        "text": "The graph starting at 0",
         "is_correct": true
-      },
-      {
-        "text": "the graph uses a blue bar",
-        "is_correct": false
-      },
-      {
-        "text": "the table has a heading",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The graph must show 6 for funny, the same as the source table.",
-      "hint": "Compare one category at a time across both displays."
-    }
+      "summary": "Starting at zero avoids exaggerating small differences in bar heights.",
+      "hint": "Consider whether the visual size of differences is fair."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   }
 ]

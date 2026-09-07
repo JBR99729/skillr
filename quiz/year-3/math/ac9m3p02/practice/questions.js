@@ -4,28 +4,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-001",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "outcomes",
     "printable": true,
     "type": "single",
-    "question": "During the coin trial, a coin is tossed 20 times. What should be recorded after each toss?",
-    "audioPrompt": "During the coin trial, a coin is tossed 20 times. What should be recorded after each toss?",
-    "visual": "During the coin trial: A two-column tally table for repeated coin tosses.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the coin trial: A two-column tally table for repeated coin tosses.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-001\"></use></svg>",
+    "question": "In coin experiment A: before tossing a coin repeatedly, which possible outcomes should be listed?",
+    "audioPrompt": "In coin experiment A: before tossing a coin repeatedly, which possible outcomes should be listed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-001",
-      "alt_text": "During the coin trial: A two-column tally table for repeated coin tosses."
+      "type": "none"
     },
     "answers": [
-      "The time of day only",
-      "A guessed final total",
-      "Whether it lands heads or tails"
+      "heads and tails",
+      "heads only",
+      "1 to 6",
+      "red and blue"
     ],
-    "correct": 2,
-    "explanation": "Recording every outcome creates usable experiment data.\nHint: Use one tally for each trial.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "A coin toss has heads and tails as its possible outcomes.\nHint: List results that one trial can produce.",
     "structuredExplanation": {
-      "summary": "Recording every outcome creates usable experiment data.",
-      "hint": "Use one tally for each trial."
+      "summary": "A coin toss has heads and tails as its possible outcomes.",
+      "hint": "List results that one trial can produce."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +35,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-002",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "record",
     "printable": true,
     "type": "single",
-    "question": "During the coin trial, 8 of 20 spins land on red. How many land on other colours?",
-    "audioPrompt": "During the coin trial, 8 of 20 spins land on red. How many land on other colours?",
-    "visual": "During the coin trial: A spinner results table with 8 red outcomes from 20 trials.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the coin trial: A spinner results table with 8 red outcomes from 20 trials.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-002\"></use></svg>",
+    "question": "In coin experiment A: a coin is tossed 20 times. What should be recorded after each toss?",
+    "audioPrompt": "In coin experiment A: a coin is tossed 20 times. What should be recorded after each toss?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-002",
-      "alt_text": "During the coin trial: A spinner results table with 8 red outcomes from 20 trials."
+      "type": "none"
     },
     "answers": [
-      "12",
-      "8",
-      "28"
+      "The student’s favourite side",
+      "Whether it was heads or tails",
+      "Tomorrow’s prediction",
+      "Only the final toss"
     ],
-    "correct": 0,
-    "explanation": "20−8=12.\nHint: Subtract red outcomes from all trials.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "Recording every outcome produces a complete experiment record.\nHint: Each trial needs one result.",
     "structuredExplanation": {
-      "summary": "20−8=12.",
-      "hint": "Subtract red outcomes from all trials."
+      "summary": "Recording every outcome produces a complete experiment record.",
+      "hint": "Each trial needs one result."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +66,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-003",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "frequency",
     "printable": true,
     "type": "single",
-    "question": "During the coin trial, why repeat a chance experiment many times?",
-    "audioPrompt": "During the coin trial, why repeat a chance experiment many times?",
-    "visual": "During the coin trial: A sequence of repeated chance trials.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the coin trial: A sequence of repeated chance trials.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-003\"></use></svg>",
+    "question": "In coin experiment A: the record shows 9 heads in 20 tosses. How many tails were recorded?",
+    "audioPrompt": "In coin experiment A: the record shows 9 heads in 20 tosses. How many tails were recorded?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-003",
-      "alt_text": "During the coin trial: A sequence of repeated chance trials."
+      "type": "none"
     },
     "answers": [
-      "To guarantee one exact sequence",
-      "To see patterns in the outcomes",
-      "To remove every random result"
+      "9",
+      "20",
+      "11",
+      "2"
     ],
-    "correct": 1,
-    "explanation": "Repeated trials provide more evidence about how outcomes behave.\nHint: One trial gives very little evidence.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "20 − 9 = 11 tails.\nHint: Subtract heads from total trials.",
     "structuredExplanation": {
-      "summary": "Repeated trials provide more evidence about how outcomes behave.",
-      "hint": "One trial gives very little evidence."
+      "summary": "20 − 9 = 11 tails.",
+      "hint": "Subtract heads from total trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +97,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-004",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "tally",
     "printable": true,
     "type": "single",
-    "question": "During the coin trial, two groups repeat the same fair spinner experiment and get different totals. Is that possible?",
-    "audioPrompt": "During the coin trial, two groups repeat the same fair spinner experiment and get different totals. Is that possible?",
-    "visual": "During the coin trial: Two valid but different result tables from the same experiment.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the coin trial: Two valid but different result tables from the same experiment.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-004\"></use></svg>",
+    "question": "In coin experiment A: which frequency table correctly records 9 heads and 11 tails?",
+    "audioPrompt": "In coin experiment A: which frequency table correctly records 9 heads and 11 tails?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-004",
-      "alt_text": "During the coin trial: Two valid but different result tables from the same experiment."
+      "type": "none"
     },
     "answers": [
-      "No, both lists must match exactly",
-      "No, one group must erase its data",
-      "Yes, random results can vary"
+      "Heads 11; Tails 9",
+      "Heads 20; Tails 20",
+      "Heads 9; Tails 20",
+      "Heads 9; Tails 11"
     ],
-    "correct": 2,
-    "explanation": "Chance experiments can produce different short-run results.\nHint: Fair does not mean every small set is identical.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "The correct table preserves both observed frequencies.\nHint: Match each outcome to its count.",
     "structuredExplanation": {
-      "summary": "Chance experiments can produce different short-run results.",
-      "hint": "Fair does not mean every small set is identical."
+      "summary": "The correct table preserves both observed frequencies.",
+      "hint": "Match each outcome to its count."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +128,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-005",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "variation",
     "printable": true,
     "type": "single",
-    "question": "During the coin trial, which table is ready for a 20-trial colour experiment?",
-    "audioPrompt": "During the coin trial, which table is ready for a 20-trial colour experiment?",
-    "visual": "During the coin trial: A labelled chance-experiment recording table.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the coin trial: A labelled chance-experiment recording table.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-005\"></use></svg>",
+    "question": "In coin experiment A: two groups each toss a fair coin 20 times and get different numbers of heads. Is this possible?",
+    "audioPrompt": "In coin experiment A: two groups each toss a fair coin 20 times and get different numbers of heads. Is this possible?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-005",
-      "alt_text": "During the coin trial: A labelled chance-experiment recording table."
+      "type": "none"
     },
     "answers": [
-      "A labelled tally column for every possible colour",
-      "An unlabelled blank page",
-      "A table missing one possible colour"
+      "Yes, chance results can vary",
+      "No, both must get exactly 10",
+      "Only if the coin changes colour",
+      "No, repeated trials are certain"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "All outcomes need a clear place to be recorded.\nHint: List possible outcomes before starting.",
+    "explanation": "Separate repetitions of a chance experiment can produce different frequencies.\nHint: Fair does not mean identical short-run results.",
     "structuredExplanation": {
-      "summary": "All outcomes need a clear place to be recorded.",
-      "hint": "List possible outcomes before starting."
+      "summary": "Separate repetitions of a chance experiment can produce different frequencies.",
+      "hint": "Fair does not mean identical short-run results."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-006",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "discuss variation",
     "printable": true,
     "type": "single",
-    "question": "During the coin trial, red appears 8 times and blue appears 12 times. Which appeared more often?",
-    "audioPrompt": "During the coin trial, red appears 8 times and blue appears 12 times. Which appeared more often?",
-    "visual": "During the coin trial: Observed red and blue totals from repeated trials.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the coin trial: Observed red and blue totals from repeated trials.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-006\"></use></svg>",
+    "question": "In coin experiment A: group A gets 8 heads; Group B gets 12 heads. Which discussion is sound?",
+    "audioPrompt": "In coin experiment A: group A gets 8 heads; Group B gets 12 heads. Which discussion is sound?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-006",
-      "alt_text": "During the coin trial: Observed red and blue totals from repeated trials."
+      "type": "none"
     },
     "answers": [
-      "Red",
-      "Blue",
-      "The experiment gives no evidence"
+      "One group is definitely wrong",
+      "The results vary by 4 heads, which can happen by chance",
+      "Heads is now certain",
+      "The possible outcomes changed"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
-    "explanation": "Compare 8 with 12.\nHint: Use the observed totals, not what you expected.",
+    "explanation": "The difference is 12 − 8 = 4 and short-run variation is expected.\nHint: Describe the difference without claiming certainty.",
     "structuredExplanation": {
-      "summary": "Compare 8 with 12.",
-      "hint": "Use the observed totals, not what you expected."
+      "summary": "The difference is 12 − 8 = 4 and short-run variation is expected.",
+      "hint": "Describe the difference without claiming certainty."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-007",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "fair method",
     "printable": true,
     "type": "single",
-    "question": "During the coin trial, what makes the experiment fair?",
-    "audioPrompt": "During the coin trial, what makes the experiment fair?",
-    "visual": "During the coin trial: A consistent repeated-trial procedure.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the coin trial: A consistent repeated-trial procedure.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-007\"></use></svg>",
+    "question": "In coin experiment A: what keeps a spinner experiment consistent across 30 trials?",
+    "audioPrompt": "In coin experiment A: what keeps a spinner experiment consistent across 30 trials?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-007",
-      "alt_text": "During the coin trial: A consistent repeated-trial procedure."
+      "type": "none"
     },
     "answers": [
-      "Change the spinner halfway",
-      "Record only favourite outcomes",
-      "Use the same spinner and method for every trial"
+      "Change the sections halfway",
+      "Ignore unwanted results",
+      "Use the same spinner and spin it the same way",
+      "Stop after the first red"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
-    "explanation": "Keeping conditions consistent makes comparisons meaningful.\nHint: Only the random outcome should change.",
+    "explanation": "A consistent method makes trials comparable.\nHint: Keep conditions the same and record all outcomes.",
     "structuredExplanation": {
-      "summary": "Keeping conditions consistent makes comparisons meaningful.",
-      "hint": "Only the random outcome should change."
+      "summary": "A consistent method makes trials comparable.",
+      "hint": "Keep conditions the same and record all outcomes."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +221,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-008",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "repeat",
     "printable": true,
     "type": "single",
-    "question": "During the coin trial, a student predicts equal colours but observes 8 red and 12 blue. What should the report say?",
-    "audioPrompt": "During the coin trial, a student predicts equal colours but observes 8 red and 12 blue. What should the report say?",
-    "visual": "During the coin trial: A prediction beside observed trial totals.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During the coin trial: A prediction beside observed trial totals.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-008\"></use></svg>",
+    "question": "In coin experiment A: why conduct many trials instead of only one?",
+    "audioPrompt": "In coin experiment A: why conduct many trials instead of only one?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-008",
-      "alt_text": "During the coin trial: A prediction beside observed trial totals."
+      "type": "none"
     },
     "answers": [
-      "The observed results differed from the prediction",
-      "The data must be changed",
-      "Predictions are always exact"
+      "To make one outcome certain",
+      "To remove possible outcomes",
+      "To guarantee equal totals",
+      "To observe a pattern while still allowing variation"
     ],
-    "correct": 0,
-    "explanation": "A report compares the prediction honestly with recorded evidence.\nHint: Describe what happened without rewriting the totals.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "Repeated trials provide more evidence about how outcomes occur.\nHint: More trials give a larger record, not a guarantee.",
     "structuredExplanation": {
-      "summary": "A report compares the prediction honestly with recorded evidence.",
-      "hint": "Describe what happened without rewriting the totals."
+      "summary": "Repeated trials provide more evidence about how outcomes occur.",
+      "hint": "More trials give a larger record, not a guarantee."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +252,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-009",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "compare trials",
     "printable": true,
     "type": "single",
-    "question": "In the spinner trial, a coin is tossed 25 times. What should be recorded after each toss?",
-    "audioPrompt": "In the spinner trial, a coin is tossed 25 times. What should be recorded after each toss?",
-    "visual": "In the spinner trial: A two-column tally table for repeated coin tosses.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner trial: A two-column tally table for repeated coin tosses.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-009\"></use></svg>",
+    "question": "In coin experiment A: trial 1 has 9 heads in 20 tosses; Trial 2 has 11 heads in 20 tosses. Which statement is correct?",
+    "audioPrompt": "In coin experiment A: trial 1 has 9 heads in 20 tosses; Trial 2 has 11 heads in 20 tosses. Which statement is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-009",
-      "alt_text": "In the spinner trial: A two-column tally table for repeated coin tosses."
+      "type": "none"
     },
     "answers": [
-      "The time of day only",
-      "Whether it lands heads or tails",
-      "A guessed final total"
+      "The head frequencies differ by 2",
+      "Both trials have the same sequence",
+      "Heads was impossible",
+      "No comparison can be made"
     ],
-    "correct": 1,
-    "explanation": "Recording every outcome creates usable experiment data.\nHint: Use one tally for each trial.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "The difference is 2.\nHint: Compare the two frequencies.",
     "structuredExplanation": {
-      "summary": "Recording every outcome creates usable experiment data.",
-      "hint": "Use one tally for each trial."
+      "summary": "The difference is 2.",
+      "hint": "Compare the two frequencies."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +283,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-010",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "missing record",
     "printable": true,
     "type": "single",
-    "question": "In the spinner trial, 10 of 25 spins land on red. How many land on other colours?",
-    "audioPrompt": "In the spinner trial, 10 of 25 spins land on red. How many land on other colours?",
-    "visual": "In the spinner trial: A spinner results table with 10 red outcomes from 25 trials.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner trial: A spinner results table with 10 red outcomes from 25 trials.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-010\"></use></svg>",
+    "question": "In coin experiment A: a tally has 18 recorded outcomes, but the plan required 20 trials. What should the class do?",
+    "audioPrompt": "In coin experiment A: a tally has 18 recorded outcomes, but the plan required 20 trials. What should the class do?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-010",
-      "alt_text": "In the spinner trial: A spinner results table with 10 red outcomes from 25 trials."
+      "type": "none"
     },
     "answers": [
-      "10",
-      "35",
-      "15"
+      "Pretend the total is 20",
+      "Complete or locate the 2 missing trial records",
+      "Double one outcome",
+      "Delete the tally"
     ],
-    "correct": 2,
-    "explanation": "25−10=15.\nHint: Subtract red outcomes from all trials.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "Every conducted trial must have a recorded outcome.\nHint: Compare planned trials with recorded frequencies.",
     "structuredExplanation": {
-      "summary": "25−10=15.",
-      "hint": "Subtract red outcomes from all trials."
+      "summary": "Every conducted trial must have a recorded outcome.",
+      "hint": "Compare planned trials with recorded frequencies."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +314,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-011",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "recognise variation",
     "printable": true,
     "type": "single",
-    "question": "In the spinner trial, why repeat a chance experiment many times?",
-    "audioPrompt": "In the spinner trial, why repeat a chance experiment many times?",
-    "visual": "In the spinner trial: A sequence of repeated chance trials.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner trial: A sequence of repeated chance trials.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-011\"></use></svg>",
+    "question": "In coin experiment A: three sets of 10 coin tosses give 4, 6 and 5 heads. What do the results show?",
+    "audioPrompt": "In coin experiment A: three sets of 10 coin tosses give 4, 6 and 5 heads. What do the results show?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-011",
-      "alt_text": "In the spinner trial: A sequence of repeated chance trials."
+      "type": "none"
     },
     "answers": [
-      "To see patterns in the outcomes",
-      "To guarantee one exact sequence",
-      "To remove every random result"
+      "Heads is impossible",
+      "Every repetition must match",
+      "The frequency varies between repetitions",
+      "The coin has three sides"
     ],
-    "correct": 0,
-    "explanation": "Repeated trials provide more evidence about how outcomes behave.\nHint: One trial gives very little evidence.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "The head counts are not identical across the repeated sets.\nHint: Compare the three recorded counts.",
     "structuredExplanation": {
-      "summary": "Repeated trials provide more evidence about how outcomes behave.",
-      "hint": "One trial gives very little evidence."
+      "summary": "The head counts are not identical across the repeated sets.",
+      "hint": "Compare the three recorded counts."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +345,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-012",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "prediction vs result",
     "printable": true,
     "type": "single",
-    "question": "In the spinner trial, two groups repeat the same fair spinner experiment and get different totals. Is that possible?",
-    "audioPrompt": "In the spinner trial, two groups repeat the same fair spinner experiment and get different totals. Is that possible?",
-    "visual": "In the spinner trial: Two valid but different result tables from the same experiment.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner trial: Two valid but different result tables from the same experiment.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-012\"></use></svg>",
+    "question": "In coin experiment A: a student predicted equal results but observed 9 heads and 11 tails. What should be reported?",
+    "audioPrompt": "In coin experiment A: a student predicted equal results but observed 9 heads and 11 tails. What should be reported?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-012",
-      "alt_text": "In the spinner trial: Two valid but different result tables from the same experiment."
+      "type": "none"
     },
     "answers": [
-      "No, both lists must match exactly",
-      "Yes, random results can vary",
-      "No, one group must erase its data"
+      "Change the record to equal totals",
+      "The prediction is the result",
+      "Discard the experiment",
+      "The observed result was 9 heads and 11 tails; it differed from the prediction"
     ],
-    "correct": 1,
-    "explanation": "Chance experiments can produce different short-run results.\nHint: Fair does not mean every small set is identical.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "Reports must preserve observations and may compare them with predictions.\nHint: Do not alter data to fit a prediction.",
     "structuredExplanation": {
-      "summary": "Chance experiments can produce different short-run results.",
-      "hint": "Fair does not mean every small set is identical."
+      "summary": "Reports must preserve observations and may compare them with predictions.",
+      "hint": "Do not alter data to fit a prediction."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +376,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-013",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "possible outcomes",
     "printable": true,
     "type": "single",
-    "question": "In the spinner trial, which table is ready for a 25-trial colour experiment?",
-    "audioPrompt": "In the spinner trial, which table is ready for a 25-trial colour experiment?",
-    "visual": "In the spinner trial: A labelled chance-experiment recording table.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner trial: A labelled chance-experiment recording table.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-013\"></use></svg>",
+    "question": "In coin experiment A: a six-sided number cube is rolled repeatedly. Which outcome list is complete?",
+    "audioPrompt": "In coin experiment A: a six-sided number cube is rolled repeatedly. Which outcome list is complete?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-013",
-      "alt_text": "In the spinner trial: A labelled chance-experiment recording table."
+      "type": "none"
     },
     "answers": [
-      "An unlabelled blank page",
-      "A table missing one possible colour",
-      "A labelled tally column for every possible colour"
+      "1, 2, 3, 4, 5, 6",
+      "1, 2, 3",
+      "even, red",
+      "0 to 6"
     ],
-    "correct": 2,
-    "explanation": "All outcomes need a clear place to be recorded.\nHint: List possible outcomes before starting.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Each labelled face from 1 through 6 is a possible outcome.\nHint: List each face exactly once.",
     "structuredExplanation": {
-      "summary": "All outcomes need a clear place to be recorded.",
-      "hint": "List possible outcomes before starting."
+      "summary": "Each labelled face from 1 through 6 is a possible outcome.",
+      "hint": "List each face exactly once."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +407,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-014",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "record",
     "printable": true,
     "type": "single",
-    "question": "In the spinner trial, red appears 10 times and blue appears 15 times. Which appeared more often?",
-    "audioPrompt": "In the spinner trial, red appears 10 times and blue appears 15 times. Which appeared more often?",
-    "visual": "In the spinner trial: Observed red and blue totals from repeated trials.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner trial: Observed red and blue totals from repeated trials.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-014\"></use></svg>",
+    "question": "In coin experiment A: which record best supports later comparison of two spinner experiments?",
+    "audioPrompt": "In coin experiment A: which record best supports later comparison of two spinner experiments?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-014",
-      "alt_text": "In the spinner trial: Observed red and blue totals from repeated trials."
+      "type": "none"
     },
     "answers": [
-      "Blue",
-      "Red",
-      "The experiment gives no evidence"
+      "A memory of the favourite result",
+      "A labelled frequency table for every outcome in each experiment",
+      "One unlabelled total",
+      "Only the first trial"
     ],
-    "correct": 0,
-    "explanation": "Compare 10 with 15.\nHint: Use the observed totals, not what you expected.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "Labelled frequencies preserve results for comparison.\nHint: Keep outcome names and counts for both repetitions.",
     "structuredExplanation": {
-      "summary": "Compare 10 with 15.",
-      "hint": "Use the observed totals, not what you expected."
+      "summary": "Labelled frequencies preserve results for comparison.",
+      "hint": "Keep outcome names and counts for both repetitions."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +438,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-015",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "variation",
     "printable": true,
     "type": "single",
-    "question": "In the spinner trial, what makes the experiment fair?",
-    "audioPrompt": "In the spinner trial, what makes the experiment fair?",
-    "visual": "In the spinner trial: A consistent repeated-trial procedure.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner trial: A consistent repeated-trial procedure.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-015\"></use></svg>",
+    "question": "In coin experiment A: after 10 spins, red occurred 7 times. After another 10 spins, red occurred 4 times. What changed?",
+    "audioPrompt": "In coin experiment A: after 10 spins, red occurred 7 times. After another 10 spins, red occurred 4 times. What changed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-015",
-      "alt_text": "In the spinner trial: A consistent repeated-trial procedure."
+      "type": "none"
     },
     "answers": [
-      "Change the spinner halfway",
-      "Use the same spinner and method for every trial",
-      "Record only favourite outcomes"
+      "The spinner’s possible colours",
+      "The meaning of a trial",
+      "The observed frequency of red",
+      "Red became impossible"
     ],
-    "correct": 1,
-    "explanation": "Keeping conditions consistent makes comparisons meaningful.\nHint: Only the random outcome should change.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "The repetitions produced different observed frequencies.\nHint: Separate outcomes that are possible from how often they occurred.",
     "structuredExplanation": {
-      "summary": "Keeping conditions consistent makes comparisons meaningful.",
-      "hint": "Only the random outcome should change."
+      "summary": "The repetitions produced different observed frequencies.",
+      "hint": "Separate outcomes that are possible from how often they occurred."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +469,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-016",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "conclusion",
     "printable": true,
     "type": "single",
-    "question": "In the spinner trial, a student predicts equal colours but observes 10 red and 15 blue. What should the report say?",
-    "audioPrompt": "In the spinner trial, a student predicts equal colours but observes 10 red and 15 blue. What should the report say?",
-    "visual": "In the spinner trial: A prediction beside observed trial totals.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner trial: A prediction beside observed trial totals.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-016\"></use></svg>",
+    "question": "In coin experiment A: which conclusion best fits repeated chance experiments?",
+    "audioPrompt": "In coin experiment A: which conclusion best fits repeated chance experiments?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-016",
-      "alt_text": "In the spinner trial: A prediction beside observed trial totals."
+      "type": "none"
     },
     "answers": [
-      "The data must be changed",
-      "Predictions are always exact",
-      "The observed results differed from the prediction"
+      "Every fair experiment gives identical totals",
+      "The first result predicts every later result",
+      "Variation proves the experiment failed",
+      "Results may vary, so report the actual frequencies from each repetition"
     ],
-    "correct": 2,
-    "explanation": "A report compares the prediction honestly with recorded evidence.\nHint: Describe what happened without rewriting the totals.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "Variation is a normal feature of repeated chance experiments.\nHint: Fair processes can still give different short-run results.",
     "structuredExplanation": {
-      "summary": "A report compares the prediction honestly with recorded evidence.",
-      "hint": "Describe what happened without rewriting the totals."
+      "summary": "Variation is a normal feature of repeated chance experiments.",
+      "hint": "Fair processes can still give different short-run results."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +500,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-017",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "outcomes",
     "printable": true,
     "type": "single",
-    "question": "With the colour bag, a coin is tossed 30 times. What should be recorded after each toss?",
-    "audioPrompt": "With the colour bag, a coin is tossed 30 times. What should be recorded after each toss?",
-    "visual": "With the colour bag: A two-column tally table for repeated coin tosses.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the colour bag: A two-column tally table for repeated coin tosses.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-017\"></use></svg>",
+    "question": "During coin experiment B: before tossing a coin repeatedly, which possible outcomes should be listed?",
+    "audioPrompt": "During coin experiment B: before tossing a coin repeatedly, which possible outcomes should be listed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-017",
-      "alt_text": "With the colour bag: A two-column tally table for repeated coin tosses."
+      "type": "none"
     },
     "answers": [
-      "Whether it lands heads or tails",
-      "The time of day only",
-      "A guessed final total"
+      "heads and tails",
+      "heads only",
+      "1 to 6",
+      "red and blue"
     ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
     "correct": 0,
-    "explanation": "Recording every outcome creates usable experiment data.\nHint: Use one tally for each trial.",
+    "explanation": "A coin toss has heads and tails as its possible outcomes.\nHint: List results that one trial can produce.",
     "structuredExplanation": {
-      "summary": "Recording every outcome creates usable experiment data.",
-      "hint": "Use one tally for each trial."
+      "summary": "A coin toss has heads and tails as its possible outcomes.",
+      "hint": "List results that one trial can produce."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +531,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-018",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "record",
     "printable": true,
     "type": "single",
-    "question": "With the colour bag, 12 of 30 spins land on red. How many land on other colours?",
-    "audioPrompt": "With the colour bag, 12 of 30 spins land on red. How many land on other colours?",
-    "visual": "With the colour bag: A spinner results table with 12 red outcomes from 30 trials.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the colour bag: A spinner results table with 12 red outcomes from 30 trials.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-018\"></use></svg>",
+    "question": "During coin experiment B: a coin is tossed 24 times. What should be recorded after each toss?",
+    "audioPrompt": "During coin experiment B: a coin is tossed 24 times. What should be recorded after each toss?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-018",
-      "alt_text": "With the colour bag: A spinner results table with 12 red outcomes from 30 trials."
+      "type": "none"
     },
     "answers": [
-      "12",
-      "18",
-      "42"
+      "The student’s favourite side",
+      "Whether it was heads or tails",
+      "Tomorrow’s prediction",
+      "Only the final toss"
     ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "30−12=18.\nHint: Subtract red outcomes from all trials.",
+    "explanation": "Recording every outcome produces a complete experiment record.\nHint: Each trial needs one result.",
     "structuredExplanation": {
-      "summary": "30−12=18.",
-      "hint": "Subtract red outcomes from all trials."
+      "summary": "Recording every outcome produces a complete experiment record.",
+      "hint": "Each trial needs one result."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +562,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-019",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "frequency",
     "printable": true,
     "type": "single",
-    "question": "With the colour bag, why repeat a chance experiment many times?",
-    "audioPrompt": "With the colour bag, why repeat a chance experiment many times?",
-    "visual": "With the colour bag: A sequence of repeated chance trials.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the colour bag: A sequence of repeated chance trials.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-019\"></use></svg>",
+    "question": "During coin experiment B: the record shows 13 heads in 24 tosses. How many tails were recorded?",
+    "audioPrompt": "During coin experiment B: the record shows 13 heads in 24 tosses. How many tails were recorded?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-019",
-      "alt_text": "With the colour bag: A sequence of repeated chance trials."
+      "type": "none"
     },
     "answers": [
-      "To guarantee one exact sequence",
-      "To remove every random result",
-      "To see patterns in the outcomes"
+      "13",
+      "24",
+      "11",
+      "2"
     ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
     "correct": 2,
-    "explanation": "Repeated trials provide more evidence about how outcomes behave.\nHint: One trial gives very little evidence.",
+    "explanation": "24 − 13 = 11 tails.\nHint: Subtract heads from total trials.",
     "structuredExplanation": {
-      "summary": "Repeated trials provide more evidence about how outcomes behave.",
-      "hint": "One trial gives very little evidence."
+      "summary": "24 − 13 = 11 tails.",
+      "hint": "Subtract heads from total trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +593,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-020",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "tally",
     "printable": true,
     "type": "single",
-    "question": "With the colour bag, two groups repeat the same fair spinner experiment and get different totals. Is that possible?",
-    "audioPrompt": "With the colour bag, two groups repeat the same fair spinner experiment and get different totals. Is that possible?",
-    "visual": "With the colour bag: Two valid but different result tables from the same experiment.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the colour bag: Two valid but different result tables from the same experiment.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-020\"></use></svg>",
+    "question": "During coin experiment B: which frequency table correctly records 13 heads and 11 tails?",
+    "audioPrompt": "During coin experiment B: which frequency table correctly records 13 heads and 11 tails?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-020",
-      "alt_text": "With the colour bag: Two valid but different result tables from the same experiment."
+      "type": "none"
     },
     "answers": [
-      "Yes, random results can vary",
-      "No, both lists must match exactly",
-      "No, one group must erase its data"
+      "Heads 11; Tails 13",
+      "Heads 24; Tails 24",
+      "Heads 13; Tails 24",
+      "Heads 13; Tails 11"
     ],
-    "correct": 0,
-    "explanation": "Chance experiments can produce different short-run results.\nHint: Fair does not mean every small set is identical.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "The correct table preserves both observed frequencies.\nHint: Match each outcome to its count.",
     "structuredExplanation": {
-      "summary": "Chance experiments can produce different short-run results.",
-      "hint": "Fair does not mean every small set is identical."
+      "summary": "The correct table preserves both observed frequencies.",
+      "hint": "Match each outcome to its count."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +624,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-021",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "variation",
     "printable": true,
     "type": "single",
-    "question": "With the colour bag, which table is ready for a 30-trial colour experiment?",
-    "audioPrompt": "With the colour bag, which table is ready for a 30-trial colour experiment?",
-    "visual": "With the colour bag: A labelled chance-experiment recording table.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the colour bag: A labelled chance-experiment recording table.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-021\"></use></svg>",
+    "question": "During coin experiment B: two groups each toss a fair coin 20 times and get different numbers of heads. Is this possible?",
+    "audioPrompt": "During coin experiment B: two groups each toss a fair coin 20 times and get different numbers of heads. Is this possible?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-021",
-      "alt_text": "With the colour bag: A labelled chance-experiment recording table."
+      "type": "none"
     },
     "answers": [
-      "An unlabelled blank page",
-      "A labelled tally column for every possible colour",
-      "A table missing one possible colour"
+      "Yes, chance results can vary",
+      "No, both must get exactly 10",
+      "Only if the coin changes colour",
+      "No, repeated trials are certain"
     ],
-    "correct": 1,
-    "explanation": "All outcomes need a clear place to be recorded.\nHint: List possible outcomes before starting.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "Separate repetitions of a chance experiment can produce different frequencies.\nHint: Fair does not mean identical short-run results.",
     "structuredExplanation": {
-      "summary": "All outcomes need a clear place to be recorded.",
-      "hint": "List possible outcomes before starting."
+      "summary": "Separate repetitions of a chance experiment can produce different frequencies.",
+      "hint": "Fair does not mean identical short-run results."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +655,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-022",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "discuss variation",
     "printable": true,
     "type": "single",
-    "question": "With the colour bag, red appears 12 times and blue appears 18 times. Which appeared more often?",
-    "audioPrompt": "With the colour bag, red appears 12 times and blue appears 18 times. Which appeared more often?",
-    "visual": "With the colour bag: Observed red and blue totals from repeated trials.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the colour bag: Observed red and blue totals from repeated trials.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-022\"></use></svg>",
+    "question": "During coin experiment B: group A gets 8 heads; Group B gets 12 heads. Which discussion is sound?",
+    "audioPrompt": "During coin experiment B: group A gets 8 heads; Group B gets 12 heads. Which discussion is sound?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-022",
-      "alt_text": "With the colour bag: Observed red and blue totals from repeated trials."
+      "type": "none"
     },
     "answers": [
-      "Red",
-      "The experiment gives no evidence",
-      "Blue"
+      "One group is definitely wrong",
+      "The results vary by 4 heads, which can happen by chance",
+      "Heads is now certain",
+      "The possible outcomes changed"
     ],
-    "correct": 2,
-    "explanation": "Compare 12 with 18.\nHint: Use the observed totals, not what you expected.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The difference is 12 − 8 = 4 and short-run variation is expected.\nHint: Describe the difference without claiming certainty.",
     "structuredExplanation": {
-      "summary": "Compare 12 with 18.",
-      "hint": "Use the observed totals, not what you expected."
+      "summary": "The difference is 12 − 8 = 4 and short-run variation is expected.",
+      "hint": "Describe the difference without claiming certainty."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +686,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-023",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "fair method",
     "printable": true,
     "type": "single",
-    "question": "With the colour bag, what makes the experiment fair?",
-    "audioPrompt": "With the colour bag, what makes the experiment fair?",
-    "visual": "With the colour bag: A consistent repeated-trial procedure.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the colour bag: A consistent repeated-trial procedure.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-023\"></use></svg>",
+    "question": "During coin experiment B: what keeps a spinner experiment consistent across 30 trials?",
+    "audioPrompt": "During coin experiment B: what keeps a spinner experiment consistent across 30 trials?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-023",
-      "alt_text": "With the colour bag: A consistent repeated-trial procedure."
+      "type": "none"
     },
     "answers": [
-      "Use the same spinner and method for every trial",
-      "Change the spinner halfway",
-      "Record only favourite outcomes"
+      "Change the sections halfway",
+      "Ignore unwanted results",
+      "Use the same spinner and spin it the same way",
+      "Stop after the first red"
     ],
-    "correct": 0,
-    "explanation": "Keeping conditions consistent makes comparisons meaningful.\nHint: Only the random outcome should change.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "A consistent method makes trials comparable.\nHint: Keep conditions the same and record all outcomes.",
     "structuredExplanation": {
-      "summary": "Keeping conditions consistent makes comparisons meaningful.",
-      "hint": "Only the random outcome should change."
+      "summary": "A consistent method makes trials comparable.",
+      "hint": "Keep conditions the same and record all outcomes."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +717,774 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p02-p-024",
     "curriculumCode": "AC9M3P02",
     "bank": "practice",
-    "skill": "chance experiment",
+    "skill": "repeat",
     "printable": true,
     "type": "single",
-    "question": "With the colour bag, a student predicts equal colours but observes 12 red and 18 blue. What should the report say?",
-    "audioPrompt": "With the colour bag, a student predicts equal colours but observes 12 red and 18 blue. What should the report say?",
-    "visual": "With the colour bag: A prediction beside observed trial totals.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With the colour bag: A prediction beside observed trial totals.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-024\"></use></svg>",
+    "question": "During coin experiment B: why conduct many trials instead of only one?",
+    "audioPrompt": "During coin experiment B: why conduct many trials instead of only one?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p02.svg#ac9m3p02-p-024",
-      "alt_text": "With the colour bag: A prediction beside observed trial totals."
+      "type": "none"
     },
     "answers": [
-      "The data must be changed",
-      "The observed results differed from the prediction",
-      "Predictions are always exact"
+      "To make one outcome certain",
+      "To remove possible outcomes",
+      "To guarantee equal totals",
+      "To observe a pattern while still allowing variation"
     ],
-    "correct": 1,
-    "explanation": "A report compares the prediction honestly with recorded evidence.\nHint: Describe what happened without rewriting the totals.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Repeated trials provide more evidence about how outcomes occur.\nHint: More trials give a larger record, not a guarantee.",
     "structuredExplanation": {
-      "summary": "A report compares the prediction honestly with recorded evidence.",
-      "hint": "Describe what happened without rewriting the totals."
+      "summary": "Repeated trials provide more evidence about how outcomes occur.",
+      "hint": "More trials give a larger record, not a guarantee."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-025",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "compare trials",
+    "printable": true,
+    "type": "single",
+    "question": "During coin experiment B: trial 1 has 13 heads in 24 tosses; Trial 2 has 11 heads in 24 tosses. Which statement is correct?",
+    "audioPrompt": "During coin experiment B: trial 1 has 13 heads in 24 tosses; Trial 2 has 11 heads in 24 tosses. Which statement is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "The head frequencies differ by 2",
+      "Both trials have the same sequence",
+      "Heads was impossible",
+      "No comparison can be made"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "The difference is 2.\nHint: Compare the two frequencies.",
+    "structuredExplanation": {
+      "summary": "The difference is 2.",
+      "hint": "Compare the two frequencies."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-026",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "missing record",
+    "printable": true,
+    "type": "single",
+    "question": "During coin experiment B: a tally has 18 recorded outcomes, but the plan required 20 trials. What should the class do?",
+    "audioPrompt": "During coin experiment B: a tally has 18 recorded outcomes, but the plan required 20 trials. What should the class do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Pretend the total is 20",
+      "Complete or locate the 2 missing trial records",
+      "Double one outcome",
+      "Delete the tally"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Every conducted trial must have a recorded outcome.\nHint: Compare planned trials with recorded frequencies.",
+    "structuredExplanation": {
+      "summary": "Every conducted trial must have a recorded outcome.",
+      "hint": "Compare planned trials with recorded frequencies."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-027",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "recognise variation",
+    "printable": true,
+    "type": "single",
+    "question": "During coin experiment B: three sets of 10 coin tosses give 4, 6 and 5 heads. What do the results show?",
+    "audioPrompt": "During coin experiment B: three sets of 10 coin tosses give 4, 6 and 5 heads. What do the results show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Heads is impossible",
+      "Every repetition must match",
+      "The frequency varies between repetitions",
+      "The coin has three sides"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "The head counts are not identical across the repeated sets.\nHint: Compare the three recorded counts.",
+    "structuredExplanation": {
+      "summary": "The head counts are not identical across the repeated sets.",
+      "hint": "Compare the three recorded counts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-028",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "prediction vs result",
+    "printable": true,
+    "type": "single",
+    "question": "During coin experiment B: a student predicted equal results but observed 13 heads and 11 tails. What should be reported?",
+    "audioPrompt": "During coin experiment B: a student predicted equal results but observed 13 heads and 11 tails. What should be reported?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Change the record to equal totals",
+      "The prediction is the result",
+      "Discard the experiment",
+      "The observed result was 13 heads and 11 tails; it differed from the prediction"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Reports must preserve observations and may compare them with predictions.\nHint: Do not alter data to fit a prediction.",
+    "structuredExplanation": {
+      "summary": "Reports must preserve observations and may compare them with predictions.",
+      "hint": "Do not alter data to fit a prediction."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-029",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "possible outcomes",
+    "printable": true,
+    "type": "single",
+    "question": "During coin experiment B: a six-sided number cube is rolled repeatedly. Which outcome list is complete?",
+    "audioPrompt": "During coin experiment B: a six-sided number cube is rolled repeatedly. Which outcome list is complete?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "1, 2, 3, 4, 5, 6",
+      "1, 2, 3",
+      "even, red",
+      "0 to 6"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "Each labelled face from 1 through 6 is a possible outcome.\nHint: List each face exactly once.",
+    "structuredExplanation": {
+      "summary": "Each labelled face from 1 through 6 is a possible outcome.",
+      "hint": "List each face exactly once."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-030",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "record",
+    "printable": true,
+    "type": "single",
+    "question": "During coin experiment B: which record best supports later comparison of two spinner experiments?",
+    "audioPrompt": "During coin experiment B: which record best supports later comparison of two spinner experiments?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "A memory of the favourite result",
+      "A labelled frequency table for every outcome in each experiment",
+      "One unlabelled total",
+      "Only the first trial"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Labelled frequencies preserve results for comparison.\nHint: Keep outcome names and counts for both repetitions.",
+    "structuredExplanation": {
+      "summary": "Labelled frequencies preserve results for comparison.",
+      "hint": "Keep outcome names and counts for both repetitions."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-031",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "variation",
+    "printable": true,
+    "type": "single",
+    "question": "During coin experiment B: after 10 spins, red occurred 7 times. After another 10 spins, red occurred 4 times. What changed?",
+    "audioPrompt": "During coin experiment B: after 10 spins, red occurred 7 times. After another 10 spins, red occurred 4 times. What changed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "The spinner’s possible colours",
+      "The meaning of a trial",
+      "The observed frequency of red",
+      "Red became impossible"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "The repetitions produced different observed frequencies.\nHint: Separate outcomes that are possible from how often they occurred.",
+    "structuredExplanation": {
+      "summary": "The repetitions produced different observed frequencies.",
+      "hint": "Separate outcomes that are possible from how often they occurred."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-032",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "conclusion",
+    "printable": true,
+    "type": "single",
+    "question": "During coin experiment B: which conclusion best fits repeated chance experiments?",
+    "audioPrompt": "During coin experiment B: which conclusion best fits repeated chance experiments?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Every fair experiment gives identical totals",
+      "The first result predicts every later result",
+      "Variation proves the experiment failed",
+      "Results may vary, so report the actual frequencies from each repetition"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Variation is a normal feature of repeated chance experiments.\nHint: Fair processes can still give different short-run results.",
+    "structuredExplanation": {
+      "summary": "Variation is a normal feature of repeated chance experiments.",
+      "hint": "Fair processes can still give different short-run results."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-033",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "outcomes",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: before tossing a coin repeatedly, which possible outcomes should be listed?",
+    "audioPrompt": "In repeated trial C: before tossing a coin repeatedly, which possible outcomes should be listed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "heads and tails",
+      "heads only",
+      "1 to 6",
+      "red and blue"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "A coin toss has heads and tails as its possible outcomes.\nHint: List results that one trial can produce.",
+    "structuredExplanation": {
+      "summary": "A coin toss has heads and tails as its possible outcomes.",
+      "hint": "List results that one trial can produce."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-034",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "record",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: a coin is tossed 30 times. What should be recorded after each toss?",
+    "audioPrompt": "In repeated trial C: a coin is tossed 30 times. What should be recorded after each toss?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "The student’s favourite side",
+      "Whether it was heads or tails",
+      "Tomorrow’s prediction",
+      "Only the final toss"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Recording every outcome produces a complete experiment record.\nHint: Each trial needs one result.",
+    "structuredExplanation": {
+      "summary": "Recording every outcome produces a complete experiment record.",
+      "hint": "Each trial needs one result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-035",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "frequency",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: the record shows 14 heads in 30 tosses. How many tails were recorded?",
+    "audioPrompt": "In repeated trial C: the record shows 14 heads in 30 tosses. How many tails were recorded?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "14",
+      "30",
+      "16",
+      "2"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "30 − 14 = 16 tails.\nHint: Subtract heads from total trials.",
+    "structuredExplanation": {
+      "summary": "30 − 14 = 16 tails.",
+      "hint": "Subtract heads from total trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-036",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "tally",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: which frequency table correctly records 14 heads and 16 tails?",
+    "audioPrompt": "In repeated trial C: which frequency table correctly records 14 heads and 16 tails?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Heads 16; Tails 14",
+      "Heads 30; Tails 30",
+      "Heads 14; Tails 30",
+      "Heads 14; Tails 16"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "The correct table preserves both observed frequencies.\nHint: Match each outcome to its count.",
+    "structuredExplanation": {
+      "summary": "The correct table preserves both observed frequencies.",
+      "hint": "Match each outcome to its count."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-037",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "variation",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: two groups each toss a fair coin 20 times and get different numbers of heads. Is this possible?",
+    "audioPrompt": "In repeated trial C: two groups each toss a fair coin 20 times and get different numbers of heads. Is this possible?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Yes, chance results can vary",
+      "No, both must get exactly 10",
+      "Only if the coin changes colour",
+      "No, repeated trials are certain"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "Separate repetitions of a chance experiment can produce different frequencies.\nHint: Fair does not mean identical short-run results.",
+    "structuredExplanation": {
+      "summary": "Separate repetitions of a chance experiment can produce different frequencies.",
+      "hint": "Fair does not mean identical short-run results."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-038",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "discuss variation",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: group A gets 8 heads; Group B gets 12 heads. Which discussion is sound?",
+    "audioPrompt": "In repeated trial C: group A gets 8 heads; Group B gets 12 heads. Which discussion is sound?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "One group is definitely wrong",
+      "The results vary by 4 heads, which can happen by chance",
+      "Heads is now certain",
+      "The possible outcomes changed"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The difference is 12 − 8 = 4 and short-run variation is expected.\nHint: Describe the difference without claiming certainty.",
+    "structuredExplanation": {
+      "summary": "The difference is 12 − 8 = 4 and short-run variation is expected.",
+      "hint": "Describe the difference without claiming certainty."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-039",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "fair method",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: what keeps a spinner experiment consistent across 30 trials?",
+    "audioPrompt": "In repeated trial C: what keeps a spinner experiment consistent across 30 trials?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Change the sections halfway",
+      "Ignore unwanted results",
+      "Use the same spinner and spin it the same way",
+      "Stop after the first red"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "A consistent method makes trials comparable.\nHint: Keep conditions the same and record all outcomes.",
+    "structuredExplanation": {
+      "summary": "A consistent method makes trials comparable.",
+      "hint": "Keep conditions the same and record all outcomes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-040",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "repeat",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: why conduct many trials instead of only one?",
+    "audioPrompt": "In repeated trial C: why conduct many trials instead of only one?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "To make one outcome certain",
+      "To remove possible outcomes",
+      "To guarantee equal totals",
+      "To observe a pattern while still allowing variation"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Repeated trials provide more evidence about how outcomes occur.\nHint: More trials give a larger record, not a guarantee.",
+    "structuredExplanation": {
+      "summary": "Repeated trials provide more evidence about how outcomes occur.",
+      "hint": "More trials give a larger record, not a guarantee."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-041",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "compare trials",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: trial 1 has 14 heads in 30 tosses; Trial 2 has 16 heads in 30 tosses. Which statement is correct?",
+    "audioPrompt": "In repeated trial C: trial 1 has 14 heads in 30 tosses; Trial 2 has 16 heads in 30 tosses. Which statement is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "The head frequencies differ by 2",
+      "Both trials have the same sequence",
+      "Heads was impossible",
+      "No comparison can be made"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "The difference is 2.\nHint: Compare the two frequencies.",
+    "structuredExplanation": {
+      "summary": "The difference is 2.",
+      "hint": "Compare the two frequencies."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-042",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "missing record",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: a tally has 18 recorded outcomes, but the plan required 20 trials. What should the class do?",
+    "audioPrompt": "In repeated trial C: a tally has 18 recorded outcomes, but the plan required 20 trials. What should the class do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Pretend the total is 20",
+      "Complete or locate the 2 missing trial records",
+      "Double one outcome",
+      "Delete the tally"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "Every conducted trial must have a recorded outcome.\nHint: Compare planned trials with recorded frequencies.",
+    "structuredExplanation": {
+      "summary": "Every conducted trial must have a recorded outcome.",
+      "hint": "Compare planned trials with recorded frequencies."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-043",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "recognise variation",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: three sets of 10 coin tosses give 4, 6 and 5 heads. What do the results show?",
+    "audioPrompt": "In repeated trial C: three sets of 10 coin tosses give 4, 6 and 5 heads. What do the results show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Heads is impossible",
+      "Every repetition must match",
+      "The frequency varies between repetitions",
+      "The coin has three sides"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The head counts are not identical across the repeated sets.\nHint: Compare the three recorded counts.",
+    "structuredExplanation": {
+      "summary": "The head counts are not identical across the repeated sets.",
+      "hint": "Compare the three recorded counts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-044",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "prediction vs result",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: a student predicted equal results but observed 14 heads and 16 tails. What should be reported?",
+    "audioPrompt": "In repeated trial C: a student predicted equal results but observed 14 heads and 16 tails. What should be reported?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Change the record to equal totals",
+      "The prediction is the result",
+      "Discard the experiment",
+      "The observed result was 14 heads and 16 tails; it differed from the prediction"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "Reports must preserve observations and may compare them with predictions.\nHint: Do not alter data to fit a prediction.",
+    "structuredExplanation": {
+      "summary": "Reports must preserve observations and may compare them with predictions.",
+      "hint": "Do not alter data to fit a prediction."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-045",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "possible outcomes",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: a six-sided number cube is rolled repeatedly. Which outcome list is complete?",
+    "audioPrompt": "In repeated trial C: a six-sided number cube is rolled repeatedly. Which outcome list is complete?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "1, 2, 3, 4, 5, 6",
+      "1, 2, 3",
+      "even, red",
+      "0 to 6"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "Each labelled face from 1 through 6 is a possible outcome.\nHint: List each face exactly once.",
+    "structuredExplanation": {
+      "summary": "Each labelled face from 1 through 6 is a possible outcome.",
+      "hint": "List each face exactly once."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-046",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "record",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: which record best supports later comparison of two spinner experiments?",
+    "audioPrompt": "In repeated trial C: which record best supports later comparison of two spinner experiments?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "A memory of the favourite result",
+      "A labelled frequency table for every outcome in each experiment",
+      "One unlabelled total",
+      "Only the first trial"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "Labelled frequencies preserve results for comparison.\nHint: Keep outcome names and counts for both repetitions.",
+    "structuredExplanation": {
+      "summary": "Labelled frequencies preserve results for comparison.",
+      "hint": "Keep outcome names and counts for both repetitions."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-047",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "variation",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: after 10 spins, red occurred 7 times. After another 10 spins, red occurred 4 times. What changed?",
+    "audioPrompt": "In repeated trial C: after 10 spins, red occurred 7 times. After another 10 spins, red occurred 4 times. What changed?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "The spinner’s possible colours",
+      "The meaning of a trial",
+      "The observed frequency of red",
+      "Red became impossible"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The repetitions produced different observed frequencies.\nHint: Separate outcomes that are possible from how often they occurred.",
+    "structuredExplanation": {
+      "summary": "The repetitions produced different observed frequencies.",
+      "hint": "Separate outcomes that are possible from how often they occurred."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p02-p-048",
+    "curriculumCode": "AC9M3P02",
+    "bank": "practice",
+    "skill": "conclusion",
+    "printable": true,
+    "type": "single",
+    "question": "In repeated trial C: which conclusion best fits repeated chance experiments?",
+    "audioPrompt": "In repeated trial C: which conclusion best fits repeated chance experiments?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Every fair experiment gives identical totals",
+      "The first result predicts every later result",
+      "Variation proves the experiment failed",
+      "Results may vary, so report the actual frequencies from each repetition"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "Variation is a normal feature of repeated chance experiments.\nHint: Fair processes can still give different short-run results.",
+    "structuredExplanation": {
+      "summary": "Variation is a normal feature of repeated chance experiments.",
+      "hint": "Fair processes can still give different short-run results."
     },
     "qualitySchema": "production-v1"
   }

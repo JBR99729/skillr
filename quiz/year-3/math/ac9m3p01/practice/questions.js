@@ -4,28 +4,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-001",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "likely",
     "printable": true,
     "type": "single",
-    "question": "In the spinner game, a bag has 1 red and 4 blue counters. Which colour is more likely to be drawn?",
-    "audioPrompt": "In the spinner game, a bag has 1 red and 4 blue counters. Which colour is more likely to be drawn?",
-    "visual": "In the spinner game: A bag containing 1 red and 4 blue counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner game: A bag containing 1 red and 4 blue counters.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-001\"></use></svg>",
+    "question": "At the school fair: a bag has 1 red and 5 blue counters. Which colour is more likely?",
+    "audioPrompt": "At the school fair: a bag has 1 red and 5 blue counters. Which colour is more likely?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-001",
-      "alt_text": "In the spinner game: A bag containing 1 red and 4 blue counters."
+      "type": "none"
     },
     "answers": [
-      "Red",
-      "Blue",
-      "They are equally likely"
+      "blue",
+      "red",
+      "Impossible to tell",
+      "Not enough information"
     ],
-    "correct": 1,
-    "explanation": "There are more blue counters, so blue has the greater chance.\nHint: Compare how many of each colour are possible.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "There are more blue counters.\nHint: Compare how many counters of each colour are possible.",
     "structuredExplanation": {
-      "summary": "There are more blue counters, so blue has the greater chance.",
-      "hint": "Compare how many of each colour are possible."
+      "summary": "There are more blue counters.",
+      "hint": "Compare how many counters of each colour are possible."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +35,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-002",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "unlikely",
     "printable": true,
     "type": "single",
-    "question": "In the spinner game, which event is impossible when a number cube has faces 1 to 6?",
-    "audioPrompt": "In the spinner game, which event is impossible when a number cube has faces 1 to 6?",
-    "visual": "In the spinner game: The six faces possible on a standard number cube.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner game: The six faces possible on a standard number cube.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-002\"></use></svg>",
+    "question": "At the school fair: from that bag, which colour is less likely?",
+    "audioPrompt": "At the school fair: from that bag, which colour is less likely?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-002",
-      "alt_text": "In the spinner game: The six faces possible on a standard number cube."
+      "type": "none"
     },
     "answers": [
-      "Rolling a 3",
-      "Rolling an even number",
-      "Rolling a 9"
+      "blue",
+      "red",
+      "Both are impossible",
+      "Not enough information"
     ],
-    "correct": 2,
-    "explanation": "A 9 is not on the cube, so it cannot occur.\nHint: List the possible outcomes.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "The smaller count belongs to red.\nHint: The colour with fewer counters is less likely.",
     "structuredExplanation": {
-      "summary": "A 9 is not on the cube, so it cannot occur.",
-      "hint": "List the possible outcomes."
+      "summary": "The smaller count belongs to red.",
+      "hint": "The colour with fewer counters is less likely."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +66,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-003",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "impossible",
     "printable": true,
     "type": "single",
-    "question": "In the spinner game, which event is certain when choosing one card from cards labelled A, B and C?",
-    "audioPrompt": "In the spinner game, which event is certain when choosing one card from cards labelled A, B and C?",
-    "visual": "In the spinner game: Three cards labelled A, B and C.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner game: Three cards labelled A, B and C.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-003\"></use></svg>",
+    "question": "At the school fair: a standard number cube has faces 1 to 6. Which event is impossible?",
+    "audioPrompt": "At the school fair: a standard number cube has faces 1 to 6. Which event is impossible?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-003",
-      "alt_text": "In the spinner game: Three cards labelled A, B and C."
+      "type": "none"
     },
     "answers": [
-      "The card has a letter",
-      "The card is D",
-      "The card is always A"
+      "Rolling 3",
+      "Rolling an even number",
+      "Rolling 8",
+      "Rolling less than 6"
     ],
-    "correct": 0,
-    "explanation": "Every available card has a letter.\nHint: Check what is true for every possible outcome.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "Eight is not a possible face.\nHint: List the possible outcomes 1, 2, 3, 4, 5, 6.",
     "structuredExplanation": {
-      "summary": "Every available card has a letter.",
-      "hint": "Check what is true for every possible outcome."
+      "summary": "Eight is not a possible face.",
+      "hint": "List the possible outcomes 1, 2, 3, 4, 5, 6."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +97,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-004",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "certain",
     "printable": true,
     "type": "single",
-    "question": "In the spinner game, a fair spinner has 4 equal sections, two green and two yellow. What is true?",
-    "audioPrompt": "In the spinner game, a fair spinner has 4 equal sections, two green and two yellow. What is true?",
-    "visual": "In the spinner game: A fair spinner with two green and two yellow equal sections.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner game: A fair spinner with two green and two yellow equal sections.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-004\"></use></svg>",
+    "question": "At the school fair: a card is chosen from cards labelled A, B and C. Which event is certain?",
+    "audioPrompt": "At the school fair: a card is chosen from cards labelled A, B and C. Which event is certain?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-004",
-      "alt_text": "In the spinner game: A fair spinner with two green and two yellow equal sections."
+      "type": "none"
     },
     "answers": [
-      "Green is impossible",
-      "Green and yellow are equally likely",
-      "Yellow is certain"
+      "The card shows A",
+      "The card shows D",
+      "The card shows a vowel",
+      "The card shows A, B or C"
     ],
-    "correct": 1,
-    "explanation": "Each colour covers two equal sections.\nHint: Count equal sections for each outcome.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "Every available card is A, B or C.\nHint: A certain event includes every possible outcome.",
     "structuredExplanation": {
-      "summary": "Each colour covers two equal sections.",
-      "hint": "Count equal sections for each outcome."
+      "summary": "Every available card is A, B or C.",
+      "hint": "A certain event includes every possible outcome."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +128,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-005",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "outcomes",
     "printable": true,
     "type": "single",
-    "question": "In the spinner game, which word best describes rain tomorrow when the forecast says 80%?",
-    "audioPrompt": "In the spinner game, which word best describes rain tomorrow when the forecast says 80%?",
-    "visual": "In the spinner game: A weather forecast showing an 80 percent chance of rain.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner game: A weather forecast showing an 80 percent chance of rain.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-005\"></use></svg>",
+    "question": "At the school fair: what is the complete outcome set when a coin is tossed once?",
+    "audioPrompt": "At the school fair: what is the complete outcome set when a coin is tossed once?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-005",
-      "alt_text": "In the spinner game: A weather forecast showing an 80 percent chance of rain."
+      "type": "none"
     },
     "answers": [
-      "Impossible",
-      "Certain",
-      "Likely"
+      "heads, tails",
+      "heads only",
+      "tails, edge",
+      "1, 2, 3"
     ],
-    "correct": 2,
-    "explanation": "An 80% chance is high but not guaranteed.\nHint: Likely means expected more often than not.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "The two possible outcomes are heads and tails.\nHint: Include every possible result once.",
     "structuredExplanation": {
-      "summary": "An 80% chance is high but not guaranteed.",
-      "hint": "Likely means expected more often than not."
+      "summary": "The two possible outcomes are heads and tails.",
+      "hint": "Include every possible result once."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-006",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "everyday",
     "printable": true,
     "type": "single",
-    "question": "In the spinner game, which change makes drawing red more likely?",
-    "audioPrompt": "In the spinner game, which change makes drawing red more likely?",
-    "visual": "In the spinner game: A counter bag gaining extra red counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner game: A counter bag gaining extra red counters.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-006\"></use></svg>",
+    "question": "At the school fair: which everyday activity involves chance?",
+    "audioPrompt": "At the school fair: which everyday activity involves chance?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-006",
-      "alt_text": "In the spinner game: A counter bag gaining extra red counters."
+      "type": "none"
     },
     "answers": [
-      "Add more red counters",
-      "Remove red counters",
-      "Add only blue counters"
+      "Reading today’s date",
+      "Drawing one unseen name from a hat",
+      "Counting five pencils",
+      "Measuring a desk"
     ],
-    "correct": 0,
-    "explanation": "Increasing favourable outcomes increases the chance of red.\nHint: Compare the bag before and after the change.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "The unseen draw has more than one possible result that is not known beforehand.\nHint: Look for an uncertain result.",
     "structuredExplanation": {
-      "summary": "Increasing favourable outcomes increases the chance of red.",
-      "hint": "Compare the bag before and after the change."
+      "summary": "The unseen draw has more than one possible result that is not known beforehand.",
+      "hint": "Look for an uncertain result."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-007",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "likely",
     "printable": true,
     "type": "single",
-    "question": "In the spinner game, can an unlikely event still happen?",
-    "audioPrompt": "In the spinner game, can an unlikely event still happen?",
-    "visual": "In the spinner game: A chance scale distinguishing unlikely from impossible.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner game: A chance scale distinguishing unlikely from impossible.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-007\"></use></svg>",
+    "question": "At the school fair: the forecast gives an 80% chance of rain. Which description is best?",
+    "audioPrompt": "At the school fair: the forecast gives an 80% chance of rain. Which description is best?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-007",
-      "alt_text": "In the spinner game: A chance scale distinguishing unlikely from impossible."
+      "type": "none"
     },
     "answers": [
-      "No",
-      "Yes",
-      "Only if it is certain"
+      "impossible",
+      "certain",
+      "likely",
+      "equally likely to rain or not"
     ],
-    "correct": 1,
-    "explanation": "Unlikely means a small chance, not no chance.\nHint: Impossible is the word for no chance.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "An 80% chance is more likely than not, but not certain.\nHint: Likely does not mean guaranteed.",
     "structuredExplanation": {
-      "summary": "Unlikely means a small chance, not no chance.",
-      "hint": "Impossible is the word for no chance."
+      "summary": "An 80% chance is more likely than not, but not certain.",
+      "hint": "Likely does not mean guaranteed."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +221,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-008",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "In the spinner game, why is drawing blue more likely from a bag with 1 red and 4 blue?",
-    "audioPrompt": "In the spinner game, why is drawing blue more likely from a bag with 1 red and 4 blue?",
-    "visual": "In the spinner game: Counts of red and blue counters used to justify likelihood.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the spinner game: Counts of red and blue counters used to justify likelihood.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-008\"></use></svg>",
+    "question": "At the school fair: why is blue more likely than red in the bag?",
+    "audioPrompt": "At the school fair: why is blue more likely than red in the bag?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-008",
-      "alt_text": "In the spinner game: Counts of red and blue counters used to justify likelihood."
+      "type": "none"
     },
     "answers": [
-      "Blue is a brighter colour",
-      "The first counter must be blue",
-      "Blue has more possible counters"
+      "The first draw is always known",
+      "Colour names decide chance",
+      "The bag changes the counters",
+      "More of the possible counters are blue"
     ],
-    "correct": 2,
-    "explanation": "Chance depends on the number of possible outcomes, not colour preference.\nHint: Use counts as evidence.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "Likelihood is compared using the number of possible matching outcomes.\nHint: Base the explanation on the counter counts.",
     "structuredExplanation": {
-      "summary": "Chance depends on the number of possible outcomes, not colour preference.",
-      "hint": "Use counts as evidence."
+      "summary": "Likelihood is compared using the number of possible matching outcomes.",
+      "hint": "Base the explanation on the counter counts."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +252,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-009",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "equal",
     "printable": true,
     "type": "single",
-    "question": "At the weather station, a bag has 2 red and 5 blue counters. Which colour is more likely to be drawn?",
-    "audioPrompt": "At the weather station, a bag has 2 red and 5 blue counters. Which colour is more likely to be drawn?",
-    "visual": "At the weather station: A bag containing 2 red and 5 blue counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the weather station: A bag containing 2 red and 5 blue counters.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-009\"></use></svg>",
+    "question": "At the school fair: a spinner has four equal sections: two stars and two circles. What is true?",
+    "audioPrompt": "At the school fair: a spinner has four equal sections: two stars and two circles. What is true?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-009",
-      "alt_text": "At the weather station: A bag containing 2 red and 5 blue counters."
+      "type": "none"
     },
     "answers": [
-      "Blue",
-      "Red",
-      "They are equally likely"
+      "Star and circle are equally likely",
+      "Star is certain",
+      "Circle is impossible",
+      "Star is less likely"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "There are more blue counters, so blue has the greater chance.\nHint: Compare how many of each colour are possible.",
+    "explanation": "Two of four equal sections show each symbol.\nHint: Equal areas give equal likelihood.",
     "structuredExplanation": {
-      "summary": "There are more blue counters, so blue has the greater chance.",
-      "hint": "Compare how many of each colour are possible."
+      "summary": "Two of four equal sections show each symbol.",
+      "hint": "Equal areas give equal likelihood."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +283,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-010",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "change likelihood",
     "printable": true,
     "type": "single",
-    "question": "At the weather station, which event is impossible when a number cube has faces 1 to 6?",
-    "audioPrompt": "At the weather station, which event is impossible when a number cube has faces 1 to 6?",
-    "visual": "At the weather station: The six faces possible on a standard number cube.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the weather station: The six faces possible on a standard number cube.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-010\"></use></svg>",
+    "question": "At the school fair: what change makes drawing red more likely?",
+    "audioPrompt": "At the school fair: what change makes drawing red more likely?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-010",
-      "alt_text": "At the weather station: The six faces possible on a standard number cube."
+      "type": "none"
     },
     "answers": [
-      "Rolling a 3",
-      "Rolling a 9",
-      "Rolling an even number"
+      "Add more blue counters",
+      "Add more red counters",
+      "Remove every counter",
+      "Write a prediction"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
-    "explanation": "A 9 is not on the cube, so it cannot occur.\nHint: List the possible outcomes.",
+    "explanation": "Adding red increases the share of outcomes that are red.\nHint: Increase favourable outcomes.",
     "structuredExplanation": {
-      "summary": "A 9 is not on the cube, so it cannot occur.",
-      "hint": "List the possible outcomes."
+      "summary": "Adding red increases the share of outcomes that are red.",
+      "hint": "Increase favourable outcomes."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +314,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-011",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "possible",
     "printable": true,
     "type": "single",
-    "question": "At the weather station, which event is certain when choosing one card from cards labelled A, B and C?",
-    "audioPrompt": "At the weather station, which event is certain when choosing one card from cards labelled A, B and C?",
-    "visual": "At the weather station: Three cards labelled A, B and C.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the weather station: Three cards labelled A, B and C.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-011\"></use></svg>",
+    "question": "At the school fair: can an unlikely event happen?",
+    "audioPrompt": "At the school fair: can an unlikely event happen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-011",
-      "alt_text": "At the weather station: Three cards labelled A, B and C."
+      "type": "none"
     },
     "answers": [
-      "The card is D",
-      "The card is always A",
-      "The card has a letter"
+      "No; unlikely means impossible",
+      "Only after a certain event",
+      "Yes; unlikely means possible but not expected often",
+      "Only if outcomes are hidden"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 2,
-    "explanation": "Every available card has a letter.\nHint: Check what is true for every possible outcome.",
+    "explanation": "Unlikely events remain possible.\nHint: Do not confuse unlikely with impossible.",
     "structuredExplanation": {
-      "summary": "Every available card has a letter.",
-      "hint": "Check what is true for every possible outcome."
+      "summary": "Unlikely events remain possible.",
+      "hint": "Do not confuse unlikely with impossible."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +345,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-012",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "certain",
     "printable": true,
     "type": "single",
-    "question": "At the weather station, a fair spinner has 4 equal sections, two green and two yellow. What is true?",
-    "audioPrompt": "At the weather station, a fair spinner has 4 equal sections, two green and two yellow. What is true?",
-    "visual": "At the weather station: A fair spinner with two green and two yellow equal sections.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the weather station: A fair spinner with two green and two yellow equal sections.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-012\"></use></svg>",
+    "question": "At the school fair: the sun has risen every morning in this everyday context. “The sun will rise tomorrow” is best described as:",
+    "audioPrompt": "At the school fair: the sun has risen every morning in this everyday context. “The sun will rise tomorrow” is best described as:",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-012",
-      "alt_text": "At the weather station: A fair spinner with two green and two yellow equal sections."
+      "type": "none"
     },
     "answers": [
-      "Green and yellow are equally likely",
-      "Green is impossible",
-      "Yellow is certain"
+      "impossible",
+      "unlikely",
+      "equally likely",
+      "certain for an everyday Year 3 chance description"
     ],
-    "correct": 0,
-    "explanation": "Each colour covers two equal sections.\nHint: Count equal sections for each outcome.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "In an everyday chance classification, this is treated as certain.\nHint: Choose the everyday description supported by the situation.",
     "structuredExplanation": {
-      "summary": "Each colour covers two equal sections.",
-      "hint": "Count equal sections for each outcome."
+      "summary": "In an everyday chance classification, this is treated as certain.",
+      "hint": "Choose the everyday description supported by the situation."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +376,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-013",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "compare",
     "printable": true,
     "type": "single",
-    "question": "At the weather station, which word best describes rain tomorrow when the forecast says 80%?",
-    "audioPrompt": "At the weather station, which word best describes rain tomorrow when the forecast says 80%?",
-    "visual": "At the weather station: A weather forecast showing an 80 percent chance of rain.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the weather station: A weather forecast showing an 80 percent chance of rain.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-013\"></use></svg>",
+    "question": "At the school fair: spinner A has 3 blue sections out of 4. Spinner B has 1 blue section out of 4. Where is blue more likely?",
+    "audioPrompt": "At the school fair: spinner A has 3 blue sections out of 4. Spinner B has 1 blue section out of 4. Where is blue more likely?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-013",
-      "alt_text": "At the weather station: A weather forecast showing an 80 percent chance of rain."
+      "type": "none"
     },
     "answers": [
-      "Impossible",
-      "Likely",
-      "Certain"
+      "Spinner A",
+      "Spinner B",
+      "Equally likely",
+      "Impossible on both"
     ],
-    "correct": 1,
-    "explanation": "An 80% chance is high but not guaranteed.\nHint: Likely means expected more often than not.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Three favourable equal sections is more than one.\nHint: Compare favourable sections out of the same total.",
     "structuredExplanation": {
-      "summary": "An 80% chance is high but not guaranteed.",
-      "hint": "Likely means expected more often than not."
+      "summary": "Three favourable equal sections is more than one.",
+      "hint": "Compare favourable sections out of the same total."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +407,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-014",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "At the weather station, which change makes drawing red more likely?",
-    "audioPrompt": "At the weather station, which change makes drawing red more likely?",
-    "visual": "At the weather station: A counter bag gaining extra red counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the weather station: A counter bag gaining extra red counters.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-014\"></use></svg>",
+    "question": "At the school fair: why is rolling an even number on a standard number cube neither certain nor impossible?",
+    "audioPrompt": "At the school fair: why is rolling an even number on a standard number cube neither certain nor impossible?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-014",
-      "alt_text": "At the weather station: A counter bag gaining extra red counters."
+      "type": "none"
     },
     "answers": [
-      "Remove red counters",
-      "Add only blue counters",
-      "Add more red counters"
+      "All faces are even",
+      "Some faces are even and some are odd",
+      "No faces are even",
+      "The cube has no outcomes"
     ],
-    "correct": 2,
-    "explanation": "Increasing favourable outcomes increases the chance of red.\nHint: Compare the bag before and after the change.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "Even outcomes 2, 4 and 6 are possible, but odd outcomes are also possible.\nHint: Check whether the event includes none, some or all outcomes.",
     "structuredExplanation": {
-      "summary": "Increasing favourable outcomes increases the chance of red.",
-      "hint": "Compare the bag before and after the change."
+      "summary": "Even outcomes 2, 4 and 6 are possible, but odd outcomes are also possible.",
+      "hint": "Check whether the event includes none, some or all outcomes."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +438,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-015",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "outcomes",
     "printable": true,
     "type": "single",
-    "question": "At the weather station, can an unlikely event still happen?",
-    "audioPrompt": "At the weather station, can an unlikely event still happen?",
-    "visual": "At the weather station: A chance scale distinguishing unlikely from impossible.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the weather station: A chance scale distinguishing unlikely from impossible.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-015\"></use></svg>",
+    "question": "At the school fair: a spinner shows red, blue and green. Which list describes all possible colour outcomes?",
+    "audioPrompt": "At the school fair: a spinner shows red, blue and green. Which list describes all possible colour outcomes?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-015",
-      "alt_text": "At the weather station: A chance scale distinguishing unlikely from impossible."
+      "type": "none"
     },
     "answers": [
-      "Yes",
-      "No",
-      "Only if it is certain"
+      "red only",
+      "red, blue, yellow",
+      "red, blue, green",
+      "three reds"
     ],
-    "correct": 0,
-    "explanation": "Unlikely means a small chance, not no chance.\nHint: Impossible is the word for no chance.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "The outcome set lists each colour appearing on the spinner.\nHint: Use only the colours present.",
     "structuredExplanation": {
-      "summary": "Unlikely means a small chance, not no chance.",
-      "hint": "Impossible is the word for no chance."
+      "summary": "The outcome set lists each colour appearing on the spinner.",
+      "hint": "Use only the colours present."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +469,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-016",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "misconception",
     "printable": true,
     "type": "single",
-    "question": "At the weather station, why is drawing blue more likely from a bag with 2 red and 5 blue?",
-    "audioPrompt": "At the weather station, why is drawing blue more likely from a bag with 2 red and 5 blue?",
-    "visual": "At the weather station: Counts of red and blue counters used to justify likelihood.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the weather station: Counts of red and blue counters used to justify likelihood.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-016\"></use></svg>",
+    "question": "At the school fair: mia says, “Likely means it must happen.” Which correction is accurate?",
+    "audioPrompt": "At the school fair: mia says, “Likely means it must happen.” Which correction is accurate?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-016",
-      "alt_text": "At the weather station: Counts of red and blue counters used to justify likelihood."
+      "type": "none"
     },
     "answers": [
-      "Blue is a brighter colour",
-      "Blue has more possible counters",
-      "The first counter must be blue"
+      "Likely means certain",
+      "Likely means impossible",
+      "Every event is likely",
+      "Likely events can still fail to happen"
     ],
-    "correct": 1,
-    "explanation": "Chance depends on the number of possible outcomes, not colour preference.\nHint: Use counts as evidence.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "Likely describes a strong possibility, not a guarantee.\nHint: Separate likely from certain.",
     "structuredExplanation": {
-      "summary": "Chance depends on the number of possible outcomes, not colour preference.",
-      "hint": "Use counts as evidence."
+      "summary": "Likely describes a strong possibility, not a guarantee.",
+      "hint": "Separate likely from certain."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +500,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-017",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "likely",
     "printable": true,
     "type": "single",
-    "question": "With a number cube, a bag has 3 red and 6 blue counters. Which colour is more likely to be drawn?",
-    "audioPrompt": "With a number cube, a bag has 3 red and 6 blue counters. Which colour is more likely to be drawn?",
-    "visual": "With a number cube: A bag containing 3 red and 6 blue counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a number cube: A bag containing 3 red and 6 blue counters.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-017\"></use></svg>",
+    "question": "During a board game: a bag has 6 green and 2 yellow counters. Which colour is more likely?",
+    "audioPrompt": "During a board game: a bag has 6 green and 2 yellow counters. Which colour is more likely?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-017",
-      "alt_text": "With a number cube: A bag containing 3 red and 6 blue counters."
+      "type": "none"
     },
     "answers": [
-      "Red",
-      "They are equally likely",
-      "Blue"
+      "green",
+      "yellow",
+      "Impossible to tell",
+      "Not enough information"
     ],
-    "correct": 2,
-    "explanation": "There are more blue counters, so blue has the greater chance.\nHint: Compare how many of each colour are possible.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "There are more green counters.\nHint: Compare how many counters of each colour are possible.",
     "structuredExplanation": {
-      "summary": "There are more blue counters, so blue has the greater chance.",
-      "hint": "Compare how many of each colour are possible."
+      "summary": "There are more green counters.",
+      "hint": "Compare how many counters of each colour are possible."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +531,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-018",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "unlikely",
     "printable": true,
     "type": "single",
-    "question": "With a number cube, which event is impossible when a number cube has faces 1 to 6?",
-    "audioPrompt": "With a number cube, which event is impossible when a number cube has faces 1 to 6?",
-    "visual": "With a number cube: The six faces possible on a standard number cube.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a number cube: The six faces possible on a standard number cube.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-018\"></use></svg>",
+    "question": "During a board game: from that bag, which colour is less likely?",
+    "audioPrompt": "During a board game: from that bag, which colour is less likely?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-018",
-      "alt_text": "With a number cube: The six faces possible on a standard number cube."
+      "type": "none"
     },
     "answers": [
-      "Rolling a 9",
-      "Rolling a 3",
-      "Rolling an even number"
+      "green",
+      "yellow",
+      "Both are impossible",
+      "Not enough information"
     ],
-    "correct": 0,
-    "explanation": "A 9 is not on the cube, so it cannot occur.\nHint: List the possible outcomes.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The smaller count belongs to yellow.\nHint: The colour with fewer counters is less likely.",
     "structuredExplanation": {
-      "summary": "A 9 is not on the cube, so it cannot occur.",
-      "hint": "List the possible outcomes."
+      "summary": "The smaller count belongs to yellow.",
+      "hint": "The colour with fewer counters is less likely."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +562,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-019",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "impossible",
     "printable": true,
     "type": "single",
-    "question": "With a number cube, which event is certain when choosing one card from cards labelled A, B and C?",
-    "audioPrompt": "With a number cube, which event is certain when choosing one card from cards labelled A, B and C?",
-    "visual": "With a number cube: Three cards labelled A, B and C.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a number cube: Three cards labelled A, B and C.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-019\"></use></svg>",
+    "question": "During a board game: a standard number cube has faces 1 to 6. Which event is impossible?",
+    "audioPrompt": "During a board game: a standard number cube has faces 1 to 6. Which event is impossible?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-019",
-      "alt_text": "With a number cube: Three cards labelled A, B and C."
+      "type": "none"
     },
     "answers": [
-      "The card is D",
-      "The card has a letter",
-      "The card is always A"
+      "Rolling 3",
+      "Rolling an even number",
+      "Rolling 8",
+      "Rolling less than 6"
     ],
-    "correct": 1,
-    "explanation": "Every available card has a letter.\nHint: Check what is true for every possible outcome.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "Eight is not a possible face.\nHint: List the possible outcomes 1, 2, 3, 4, 5, 6.",
     "structuredExplanation": {
-      "summary": "Every available card has a letter.",
-      "hint": "Check what is true for every possible outcome."
+      "summary": "Eight is not a possible face.",
+      "hint": "List the possible outcomes 1, 2, 3, 4, 5, 6."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +593,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-020",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "certain",
     "printable": true,
     "type": "single",
-    "question": "With a number cube, a fair spinner has 4 equal sections, two green and two yellow. What is true?",
-    "audioPrompt": "With a number cube, a fair spinner has 4 equal sections, two green and two yellow. What is true?",
-    "visual": "With a number cube: A fair spinner with two green and two yellow equal sections.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a number cube: A fair spinner with two green and two yellow equal sections.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-020\"></use></svg>",
+    "question": "During a board game: a card is chosen from cards labelled A, B and C. Which event is certain?",
+    "audioPrompt": "During a board game: a card is chosen from cards labelled A, B and C. Which event is certain?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-020",
-      "alt_text": "With a number cube: A fair spinner with two green and two yellow equal sections."
+      "type": "none"
     },
     "answers": [
-      "Green is impossible",
-      "Yellow is certain",
-      "Green and yellow are equally likely"
+      "The card shows A",
+      "The card shows D",
+      "The card shows a vowel",
+      "The card shows A, B or C"
     ],
-    "correct": 2,
-    "explanation": "Each colour covers two equal sections.\nHint: Count equal sections for each outcome.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Every available card is A, B or C.\nHint: A certain event includes every possible outcome.",
     "structuredExplanation": {
-      "summary": "Each colour covers two equal sections.",
-      "hint": "Count equal sections for each outcome."
+      "summary": "Every available card is A, B or C.",
+      "hint": "A certain event includes every possible outcome."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +624,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-021",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "outcomes",
     "printable": true,
     "type": "single",
-    "question": "With a number cube, which word best describes rain tomorrow when the forecast says 80%?",
-    "audioPrompt": "With a number cube, which word best describes rain tomorrow when the forecast says 80%?",
-    "visual": "With a number cube: A weather forecast showing an 80 percent chance of rain.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a number cube: A weather forecast showing an 80 percent chance of rain.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-021\"></use></svg>",
+    "question": "During a board game: what is the complete outcome set when a coin is tossed once?",
+    "audioPrompt": "During a board game: what is the complete outcome set when a coin is tossed once?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-021",
-      "alt_text": "With a number cube: A weather forecast showing an 80 percent chance of rain."
+      "type": "none"
     },
     "answers": [
-      "Likely",
-      "Impossible",
-      "Certain"
+      "heads, tails",
+      "heads only",
+      "tails, edge",
+      "1, 2, 3"
     ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
     "correct": 0,
-    "explanation": "An 80% chance is high but not guaranteed.\nHint: Likely means expected more often than not.",
+    "explanation": "The two possible outcomes are heads and tails.\nHint: Include every possible result once.",
     "structuredExplanation": {
-      "summary": "An 80% chance is high but not guaranteed.",
-      "hint": "Likely means expected more often than not."
+      "summary": "The two possible outcomes are heads and tails.",
+      "hint": "Include every possible result once."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +655,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-022",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "everyday",
     "printable": true,
     "type": "single",
-    "question": "With a number cube, which change makes drawing red more likely?",
-    "audioPrompt": "With a number cube, which change makes drawing red more likely?",
-    "visual": "With a number cube: A counter bag gaining extra red counters.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a number cube: A counter bag gaining extra red counters.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-022\"></use></svg>",
+    "question": "During a board game: which everyday activity involves chance?",
+    "audioPrompt": "During a board game: which everyday activity involves chance?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-022",
-      "alt_text": "With a number cube: A counter bag gaining extra red counters."
+      "type": "none"
     },
     "answers": [
-      "Remove red counters",
-      "Add more red counters",
-      "Add only blue counters"
+      "Reading today’s date",
+      "Drawing one unseen name from a hat",
+      "Counting five pencils",
+      "Measuring a desk"
     ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "Increasing favourable outcomes increases the chance of red.\nHint: Compare the bag before and after the change.",
+    "explanation": "The unseen draw has more than one possible result that is not known beforehand.\nHint: Look for an uncertain result.",
     "structuredExplanation": {
-      "summary": "Increasing favourable outcomes increases the chance of red.",
-      "hint": "Compare the bag before and after the change."
+      "summary": "The unseen draw has more than one possible result that is not known beforehand.",
+      "hint": "Look for an uncertain result."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +686,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-023",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "likely",
     "printable": true,
     "type": "single",
-    "question": "With a number cube, can an unlikely event still happen?",
-    "audioPrompt": "With a number cube, can an unlikely event still happen?",
-    "visual": "With a number cube: A chance scale distinguishing unlikely from impossible.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a number cube: A chance scale distinguishing unlikely from impossible.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-023\"></use></svg>",
+    "question": "During a board game: the forecast gives an 80% chance of rain. Which description is best?",
+    "audioPrompt": "During a board game: the forecast gives an 80% chance of rain. Which description is best?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-023",
-      "alt_text": "With a number cube: A chance scale distinguishing unlikely from impossible."
+      "type": "none"
     },
     "answers": [
-      "No",
-      "Only if it is certain",
-      "Yes"
+      "impossible",
+      "certain",
+      "likely",
+      "equally likely to rain or not"
     ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
     "correct": 2,
-    "explanation": "Unlikely means a small chance, not no chance.\nHint: Impossible is the word for no chance.",
+    "explanation": "An 80% chance is more likely than not, but not certain.\nHint: Likely does not mean guaranteed.",
     "structuredExplanation": {
-      "summary": "Unlikely means a small chance, not no chance.",
-      "hint": "Impossible is the word for no chance."
+      "summary": "An 80% chance is more likely than not, but not certain.",
+      "hint": "Likely does not mean guaranteed."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +717,774 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3p01-p-024",
     "curriculumCode": "AC9M3P01",
     "bank": "practice",
-    "skill": "chance",
+    "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "With a number cube, why is drawing blue more likely from a bag with 3 red and 6 blue?",
-    "audioPrompt": "With a number cube, why is drawing blue more likely from a bag with 3 red and 6 blue?",
-    "visual": "With a number cube: Counts of red and blue counters used to justify likelihood.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With a number cube: Counts of red and blue counters used to justify likelihood.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-024\"></use></svg>",
+    "question": "During a board game: why is yellow not more likely than green in the bag?",
+    "audioPrompt": "During a board game: why is yellow not more likely than green in the bag?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3p01.svg#ac9m3p01-p-024",
-      "alt_text": "With a number cube: Counts of red and blue counters used to justify likelihood."
+      "type": "none"
     },
     "answers": [
-      "Blue has more possible counters",
-      "Blue is a brighter colour",
-      "The first counter must be blue"
+      "The first draw is always known",
+      "Colour names decide chance",
+      "The bag changes the counters",
+      "Fewer of the counters are yellow"
     ],
-    "correct": 0,
-    "explanation": "Chance depends on the number of possible outcomes, not colour preference.\nHint: Use counts as evidence.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Likelihood is compared using the number of possible matching outcomes.\nHint: Base the explanation on the counter counts.",
     "structuredExplanation": {
-      "summary": "Chance depends on the number of possible outcomes, not colour preference.",
-      "hint": "Use counts as evidence."
+      "summary": "Likelihood is compared using the number of possible matching outcomes.",
+      "hint": "Base the explanation on the counter counts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-025",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "equal",
+    "printable": true,
+    "type": "single",
+    "question": "During a board game: a spinner has four equal sections: two stars and two circles. What is true?",
+    "audioPrompt": "During a board game: a spinner has four equal sections: two stars and two circles. What is true?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Star and circle are equally likely",
+      "Star is certain",
+      "Circle is impossible",
+      "Star is less likely"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "Two of four equal sections show each symbol.\nHint: Equal areas give equal likelihood.",
+    "structuredExplanation": {
+      "summary": "Two of four equal sections show each symbol.",
+      "hint": "Equal areas give equal likelihood."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-026",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "change likelihood",
+    "printable": true,
+    "type": "single",
+    "question": "During a board game: what change makes drawing green more likely?",
+    "audioPrompt": "During a board game: what change makes drawing green more likely?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Add more yellow counters",
+      "Add more green counters",
+      "Remove every counter",
+      "Write a prediction"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Adding green increases the share of outcomes that are green.\nHint: Increase favourable outcomes.",
+    "structuredExplanation": {
+      "summary": "Adding green increases the share of outcomes that are green.",
+      "hint": "Increase favourable outcomes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-027",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "possible",
+    "printable": true,
+    "type": "single",
+    "question": "During a board game: can an unlikely event happen?",
+    "audioPrompt": "During a board game: can an unlikely event happen?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "No; unlikely means impossible",
+      "Only after a certain event",
+      "Yes; unlikely means possible but not expected often",
+      "Only if outcomes are hidden"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "Unlikely events remain possible.\nHint: Do not confuse unlikely with impossible.",
+    "structuredExplanation": {
+      "summary": "Unlikely events remain possible.",
+      "hint": "Do not confuse unlikely with impossible."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-028",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "certain",
+    "printable": true,
+    "type": "single",
+    "question": "During a board game: the sun has risen every morning in this everyday context. “The sun will rise tomorrow” is best described as:",
+    "audioPrompt": "During a board game: the sun has risen every morning in this everyday context. “The sun will rise tomorrow” is best described as:",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "impossible",
+      "unlikely",
+      "equally likely",
+      "certain for an everyday Year 3 chance description"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "In an everyday chance classification, this is treated as certain.\nHint: Choose the everyday description supported by the situation.",
+    "structuredExplanation": {
+      "summary": "In an everyday chance classification, this is treated as certain.",
+      "hint": "Choose the everyday description supported by the situation."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-029",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "compare",
+    "printable": true,
+    "type": "single",
+    "question": "During a board game: spinner A has 3 blue sections out of 4. Spinner B has 1 blue section out of 4. Where is blue more likely?",
+    "audioPrompt": "During a board game: spinner A has 3 blue sections out of 4. Spinner B has 1 blue section out of 4. Where is blue more likely?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Spinner A",
+      "Spinner B",
+      "Equally likely",
+      "Impossible on both"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "Three favourable equal sections is more than one.\nHint: Compare favourable sections out of the same total.",
+    "structuredExplanation": {
+      "summary": "Three favourable equal sections is more than one.",
+      "hint": "Compare favourable sections out of the same total."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-030",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "During a board game: why is rolling an even number on a standard number cube neither certain nor impossible?",
+    "audioPrompt": "During a board game: why is rolling an even number on a standard number cube neither certain nor impossible?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "All faces are even",
+      "Some faces are even and some are odd",
+      "No faces are even",
+      "The cube has no outcomes"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Even outcomes 2, 4 and 6 are possible, but odd outcomes are also possible.\nHint: Check whether the event includes none, some or all outcomes.",
+    "structuredExplanation": {
+      "summary": "Even outcomes 2, 4 and 6 are possible, but odd outcomes are also possible.",
+      "hint": "Check whether the event includes none, some or all outcomes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-031",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "outcomes",
+    "printable": true,
+    "type": "single",
+    "question": "During a board game: a spinner shows red, blue and green. Which list describes all possible colour outcomes?",
+    "audioPrompt": "During a board game: a spinner shows red, blue and green. Which list describes all possible colour outcomes?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "red only",
+      "red, blue, yellow",
+      "red, blue, green",
+      "three reds"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "The outcome set lists each colour appearing on the spinner.\nHint: Use only the colours present.",
+    "structuredExplanation": {
+      "summary": "The outcome set lists each colour appearing on the spinner.",
+      "hint": "Use only the colours present."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-032",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "misconception",
+    "printable": true,
+    "type": "single",
+    "question": "During a board game: mia says, “Likely means it must happen.” Which correction is accurate?",
+    "audioPrompt": "During a board game: mia says, “Likely means it must happen.” Which correction is accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Likely means certain",
+      "Likely means impossible",
+      "Every event is likely",
+      "Likely events can still fail to happen"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Likely describes a strong possibility, not a guarantee.\nHint: Separate likely from certain.",
+    "structuredExplanation": {
+      "summary": "Likely describes a strong possibility, not a guarantee.",
+      "hint": "Separate likely from certain."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-033",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "likely",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: a bag has 3 black and 3 white counters. Which colour is more likely?",
+    "audioPrompt": "At the weather station: a bag has 3 black and 3 white counters. Which colour is more likely?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "They are equally likely",
+      "black",
+      "white",
+      "Impossible to tell"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "Equal counts give equal likelihood.\nHint: Compare how many counters of each colour are possible.",
+    "structuredExplanation": {
+      "summary": "Equal counts give equal likelihood.",
+      "hint": "Compare how many counters of each colour are possible."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-034",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "unlikely",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: from that bag, which colour is less likely?",
+    "audioPrompt": "At the weather station: from that bag, which colour is less likely?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "black",
+      "Neither; they are equal",
+      "white",
+      "Both are impossible"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Neither colour is less likely.\nHint: The colour with fewer counters is less likely.",
+    "structuredExplanation": {
+      "summary": "Neither colour is less likely.",
+      "hint": "The colour with fewer counters is less likely."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-035",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "impossible",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: a standard number cube has faces 1 to 6. Which event is impossible?",
+    "audioPrompt": "At the weather station: a standard number cube has faces 1 to 6. Which event is impossible?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Rolling 3",
+      "Rolling an even number",
+      "Rolling 8",
+      "Rolling less than 6"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "Eight is not a possible face.\nHint: List the possible outcomes 1, 2, 3, 4, 5, 6.",
+    "structuredExplanation": {
+      "summary": "Eight is not a possible face.",
+      "hint": "List the possible outcomes 1, 2, 3, 4, 5, 6."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-036",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "certain",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: a card is chosen from cards labelled A, B and C. Which event is certain?",
+    "audioPrompt": "At the weather station: a card is chosen from cards labelled A, B and C. Which event is certain?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "The card shows A",
+      "The card shows D",
+      "The card shows a vowel",
+      "The card shows A, B or C"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Every available card is A, B or C.\nHint: A certain event includes every possible outcome.",
+    "structuredExplanation": {
+      "summary": "Every available card is A, B or C.",
+      "hint": "A certain event includes every possible outcome."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-037",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "outcomes",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: what is the complete outcome set when a coin is tossed once?",
+    "audioPrompt": "At the weather station: what is the complete outcome set when a coin is tossed once?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "heads, tails",
+      "heads only",
+      "tails, edge",
+      "1, 2, 3"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "The two possible outcomes are heads and tails.\nHint: Include every possible result once.",
+    "structuredExplanation": {
+      "summary": "The two possible outcomes are heads and tails.",
+      "hint": "Include every possible result once."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-038",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "everyday",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: which everyday activity involves chance?",
+    "audioPrompt": "At the weather station: which everyday activity involves chance?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Reading today’s date",
+      "Drawing one unseen name from a hat",
+      "Counting five pencils",
+      "Measuring a desk"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "The unseen draw has more than one possible result that is not known beforehand.\nHint: Look for an uncertain result.",
+    "structuredExplanation": {
+      "summary": "The unseen draw has more than one possible result that is not known beforehand.",
+      "hint": "Look for an uncertain result."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-039",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "likely",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: the forecast gives an 80% chance of rain. Which description is best?",
+    "audioPrompt": "At the weather station: the forecast gives an 80% chance of rain. Which description is best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "impossible",
+      "certain",
+      "likely",
+      "equally likely to rain or not"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "An 80% chance is more likely than not, but not certain.\nHint: Likely does not mean guaranteed.",
+    "structuredExplanation": {
+      "summary": "An 80% chance is more likely than not, but not certain.",
+      "hint": "Likely does not mean guaranteed."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-040",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: why is white not more likely than black in the bag?",
+    "audioPrompt": "At the weather station: why is white not more likely than black in the bag?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "The first draw is always known",
+      "Colour names decide chance",
+      "The bag changes the counters",
+      "The two colours have equal counts"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Likelihood is compared using the number of possible matching outcomes.\nHint: Base the explanation on the counter counts.",
+    "structuredExplanation": {
+      "summary": "Likelihood is compared using the number of possible matching outcomes.",
+      "hint": "Base the explanation on the counter counts."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-041",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "equal",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: a spinner has four equal sections: two stars and two circles. What is true?",
+    "audioPrompt": "At the weather station: a spinner has four equal sections: two stars and two circles. What is true?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Star and circle are equally likely",
+      "Star is certain",
+      "Circle is impossible",
+      "Star is less likely"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "Two of four equal sections show each symbol.\nHint: Equal areas give equal likelihood.",
+    "structuredExplanation": {
+      "summary": "Two of four equal sections show each symbol.",
+      "hint": "Equal areas give equal likelihood."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-042",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "change likelihood",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: what change makes drawing black more likely?",
+    "audioPrompt": "At the weather station: what change makes drawing black more likely?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Add more white counters",
+      "Add more black counters",
+      "Remove every counter",
+      "Write a prediction"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "Adding black increases the share of outcomes that are black.\nHint: Increase favourable outcomes.",
+    "structuredExplanation": {
+      "summary": "Adding black increases the share of outcomes that are black.",
+      "hint": "Increase favourable outcomes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-043",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "possible",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: can an unlikely event happen?",
+    "audioPrompt": "At the weather station: can an unlikely event happen?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "No; unlikely means impossible",
+      "Only after a certain event",
+      "Yes; unlikely means possible but not expected often",
+      "Only if outcomes are hidden"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Unlikely events remain possible.\nHint: Do not confuse unlikely with impossible.",
+    "structuredExplanation": {
+      "summary": "Unlikely events remain possible.",
+      "hint": "Do not confuse unlikely with impossible."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-044",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "certain",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: the sun has risen every morning in this everyday context. “The sun will rise tomorrow” is best described as:",
+    "audioPrompt": "At the weather station: the sun has risen every morning in this everyday context. “The sun will rise tomorrow” is best described as:",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "impossible",
+      "unlikely",
+      "equally likely",
+      "certain for an everyday Year 3 chance description"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "In an everyday chance classification, this is treated as certain.\nHint: Choose the everyday description supported by the situation.",
+    "structuredExplanation": {
+      "summary": "In an everyday chance classification, this is treated as certain.",
+      "hint": "Choose the everyday description supported by the situation."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-045",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "compare",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: spinner A has 3 blue sections out of 4. Spinner B has 1 blue section out of 4. Where is blue more likely?",
+    "audioPrompt": "At the weather station: spinner A has 3 blue sections out of 4. Spinner B has 1 blue section out of 4. Where is blue more likely?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Spinner A",
+      "Spinner B",
+      "Equally likely",
+      "Impossible on both"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "Three favourable equal sections is more than one.\nHint: Compare favourable sections out of the same total.",
+    "structuredExplanation": {
+      "summary": "Three favourable equal sections is more than one.",
+      "hint": "Compare favourable sections out of the same total."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-046",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: why is rolling an even number on a standard number cube neither certain nor impossible?",
+    "audioPrompt": "At the weather station: why is rolling an even number on a standard number cube neither certain nor impossible?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "All faces are even",
+      "Some faces are even and some are odd",
+      "No faces are even",
+      "The cube has no outcomes"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "Even outcomes 2, 4 and 6 are possible, but odd outcomes are also possible.\nHint: Check whether the event includes none, some or all outcomes.",
+    "structuredExplanation": {
+      "summary": "Even outcomes 2, 4 and 6 are possible, but odd outcomes are also possible.",
+      "hint": "Check whether the event includes none, some or all outcomes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-047",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "outcomes",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: a spinner shows red, blue and green. Which list describes all possible colour outcomes?",
+    "audioPrompt": "At the weather station: a spinner shows red, blue and green. Which list describes all possible colour outcomes?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "red only",
+      "red, blue, yellow",
+      "red, blue, green",
+      "three reds"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The outcome set lists each colour appearing on the spinner.\nHint: Use only the colours present.",
+    "structuredExplanation": {
+      "summary": "The outcome set lists each colour appearing on the spinner.",
+      "hint": "Use only the colours present."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3p01-p-048",
+    "curriculumCode": "AC9M3P01",
+    "bank": "practice",
+    "skill": "misconception",
+    "printable": true,
+    "type": "single",
+    "question": "At the weather station: mia says, “Likely means it must happen.” Which correction is accurate?",
+    "audioPrompt": "At the weather station: mia says, “Likely means it must happen.” Which correction is accurate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [
+      "Likely means certain",
+      "Likely means impossible",
+      "Every event is likely",
+      "Likely events can still fail to happen"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "Likely describes a strong possibility, not a guarantee.\nHint: Separate likely from certain.",
+    "structuredExplanation": {
+      "summary": "Likely describes a strong possibility, not a guarantee.",
+      "hint": "Separate likely from certain."
     },
     "qualitySchema": "production-v1"
   }
