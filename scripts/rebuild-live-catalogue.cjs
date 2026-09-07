@@ -28,5 +28,42 @@ const products = rows.map(([id,year,subject,resourceType,price,title,description
 }));
 products.find(p=>p.id==='year-1-science-bundle').listPrice='26.74';
 products.find(p=>p.id==='year-3-time-bundle').listPrice='9.98';
+products.push({
+  "id": "year-3-multiplication-division-slides",
+  "title": "Year 3 Multiplication & Division Teaching Slides | Australian Curriculum v9",
+  "year": 3,
+  "yearLabel": "Year 3",
+  "subject": "maths",
+  "subjectLabel": "Maths",
+  "topics": [
+    "multiplication",
+    "division",
+    "times tables",
+    "arrays",
+    "equal groups",
+    "fact families",
+    "slides"
+  ],
+  "curriculumCodes": [
+    "AC9M3A03",
+    "AC9M3N04"
+  ],
+  "description": "36 PowerPoint teaching slides covering the 3, 4, 5 and 10 times tables, related division facts, arrays, sharing, grouping and calculation strategies. Teaching presentation only; the companion workbook is sold separately.",
+  "url": "/product.html?id=year-3-multiplication-division-slides",
+  "image": "/assets/year-3-multiplication-division-slides-cover.png",
+  "price": "6.99",
+  "currency": "USD",
+  "available": true,
+  "resourceType": "teaching-slides",
+  "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Teaching-Slides-Australian-Curriculum-v9-17594247",
+  "includes": [
+    "36 slides in PowerPoint (.pptx) format",
+    "Learning intentions, visual models, worked examples and guided practice",
+    "Eight check and misconception questions with separate answer slides",
+    "Two exit tickets with answers and think–pair–share prompts",
+    "Times-table recall focus: 3, 4, 5 and 10, plus related division facts",
+    "Product images and purchase available on TPT"
+  ]
+});
 fs.writeFileSync('data/print-and-go-products.json', JSON.stringify(products, null, 2) + '\n');
 console.log(`Wrote ${products.length} live products`);
