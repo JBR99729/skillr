@@ -1,0 +1,12 @@
+# AC9E3LE02 repair — 7 September 2026
+
+Status: reviewed release candidate; deployment and live checks pending.
+
+Official ACARA v9 authority: QCAA P–6 English sequence page 3. Discuss connections between personal experiences and characters' experiences in literary texts, and share personal preferences. https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf
+Latest shared research log refreshed at boundary, version 17 unchanged. Previously rendered actual IXL v9 Year 3 plan has no direct LE02 skill; no unrelated MCQ page is claimed to assess the learner's personal response. General text-evidence practice is reused from the earlier English review, but ACARA determines the personal-response requirement.
+
+64 original literary microtext tasks, 48 Practice +16 Test. Sixteen MCQs (12P/4T) check the accuracy of an explicitly supplied reader connection or reason. Forty-eight tasks (36P/12T) require the learner to share an actual preference/connection in speech or writing; these cannot be automatically marked from agreement with a model. Models are expressly examples; acceptance notes allow different experiences and preferences with reasons. Similarity is not confused with identical events, and a reader's association is distinguished from a fact explicitly stated in the story. Contrasting choices and feelings are permitted.
+
+Each task has a supplied original story/poem fragment or paired endings/openings. New test texts; no context-swapping of eight repeated prompts. Coverage includes trying again, changed plans, sharing, inclusion, waiting, learning, sensory memories, character decisions, humour, fantasy/realistic preferences, open/resolved endings and preferred moods. Prompts request comfortable everyday connections and do not require sensitive personal disclosure. Literary creator range is not falsely claimed as satisfying LE01's separate First Nations/Australian/world coverage requirement.
+
+Editorial pass checked every text, key, example and acceptance note. Corrected Elsa's prompt to refer to her observed choice rather than an unstated motive. All 56 original IDs retained and eight Practice IDs added. Four-choice positions balanced 3 each P/1 each T. Scoped adult-review support and fail-closed configuration reuse the already tested LE04 flow; no shared runtime changes. No topic/classroom/worksheet or print/PDF regeneration. Required validation, parity, ledger-current and complete-tree checks are release gates. Local English ledger 16/28, no whole-subject badge.
