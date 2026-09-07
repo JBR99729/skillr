@@ -2343,8 +2343,8 @@
     "curriculum_code": "AC9M3ST01",
     "bank": "test",
     "skill": "variable_type",
-    "question": "A student records birds visiting the oval. Why is this variable categorical?",
-    "audio_prompt": "A student records birds visiting the oval. Why is this variable categorical?",
+    "question": "A student records the type of each bird visiting the oval. Why is this variable categorical?",
+    "audio_prompt": "A student records the type of each bird visiting the oval. Why is this variable categorical?",
     "visual": {
       "type": "none",
       "alt_text": ""

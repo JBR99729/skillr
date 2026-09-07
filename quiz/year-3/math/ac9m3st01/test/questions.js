@@ -295,8 +295,8 @@ window.skillrTestQuestions = [
     "skill": "variable type",
     "printable": true,
     "type": "single",
-    "question": "A student records birds visiting the oval. Why is this variable categorical?",
-    "audioPrompt": "A student records birds visiting the oval. Why is this variable categorical?",
+    "question": "A student records the type of each bird visiting the oval. Why is this variable categorical?",
+    "audioPrompt": "A student records the type of each bird visiting the oval. Why is this variable categorical?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
