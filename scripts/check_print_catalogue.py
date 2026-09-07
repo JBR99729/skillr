@@ -55,6 +55,8 @@ for path in PAGES:
             assert target.exists(), (path, link)
 products = json.loads((ROOT / 'data/print-and-go-products.json').read_text())
 for product in products:
+    if product.get('resourceType', 'worksheet') != 'worksheet' or not product.get('available'):
+        continue
     target = ROOT / product['url'].lstrip('/') / 'index.html'
     graph = Page(target.read_text()).schemas[0]['@graph']
     schema = next(item for item in graph if item['@type'] == 'Product')

@@ -103,7 +103,7 @@
     nav.replaceChildren();
     [
       ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
-      ["Worksheets", "/worksheets/"], ["About", "/about.html"],
+      ["Worksheets", "/worksheets/"], ["Print & Go", "/print-and-go.html"], ["Teach & Explain", "/teach-and-explain.html"], ["About", "/about.html"],
       ["Updates", "/updates.html"], ["Contact", "/contact.html"],
       ["Support SkillrHub", "/support-skillrhub.html"], ["Privacy", "/privacy-policy.html"],
       ["Facebook", "https://www.facebook.com/1139028835969651", true]
@@ -177,12 +177,12 @@
     heading.style.lineHeight = "1.3";
 
     var supporting = document.createElement("p");
-    supporting.textContent = "More than 450 classroom lesson pages have already been created. Email us with the curriculum code or topic, and we can deliver a polished 16:9 slide and worksheet pack at a small cost.";
+    supporting.textContent = "Explore Teach & Explain for classroom teaching and explanations at home. Teachers can follow SkillrHub on TPT, then email us to request a free sample before buying.";
     supporting.style.margin = "8px 0 0";
 
     var link = document.createElement("a");
-    link.href = "mailto:skillrhublearning@gmail.com?subject=Teaching%20resource%20request%20-%20curriculum%20code%20or%20topic";
-    link.textContent = "Email your code or topic →";
+    link.href = "/teach-and-explain.html";
+    link.textContent = "Explore Teach & Explain →";
     link.style.display = "inline-block";
     link.style.marginTop = "10px";
     link.style.fontWeight = "700";
@@ -221,3 +221,13 @@
     initSiteHelpers();
   }
 })();
+
+// Shared optional resource navigation; guarded across multiple page helpers.
+(function () {
+  if (window.__skillrResourceLinksLoading) return;
+  window.__skillrResourceLinksLoading = true;
+  var script = document.createElement('script');
+  script.src = '/assets/resource-links.js?v=1';
+  script.defer = true;
+  document.head.appendChild(script);
+}());

@@ -109,3 +109,13 @@
   legacy.async = false;
   document.head.appendChild(legacy);
 })();
+
+// Shared optional resource navigation; guarded across multiple page helpers.
+(function () {
+  if (window.__skillrResourceLinksLoading) return;
+  window.__skillrResourceLinksLoading = true;
+  var script = document.createElement('script');
+  script.src = '/assets/resource-links.js?v=1';
+  script.defer = true;
+  document.head.appendChild(script);
+}());
