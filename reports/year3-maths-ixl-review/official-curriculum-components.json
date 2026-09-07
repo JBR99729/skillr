@@ -192,11 +192,9 @@
         "Compare measured objects"
       ],
       "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
-      "readinessStatus": "BLOCKED - prerequisite incomplete",
-      "remainingPrerequisites": [
-        "Complete relevant IXL skill inspection and representative progression evidence",
-        "Complete item-level coverage map and supported-assessment checks"
-      ]
+      "readinessStatus": "VALIDATED - published and live",
+      "remainingPrerequisites": [],
+      "validationReport": "M02-VALIDATION.md"
     },
     "AC9M3M03": {
       "officialDescriptor": "recognise and use the relationship between formal units of time including days, hours, minutes and seconds to estimate and compare the duration of events",
