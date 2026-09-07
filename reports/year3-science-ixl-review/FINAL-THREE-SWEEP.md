@@ -1,7 +1,7 @@
 # Year 3 Science final-three strict sweep
 
 ## Current status
-AC9S3I04–I06: DRAFTED / VALIDATED LOCALLY / RELEASE AND LIVE QA PENDING / NOT PUBLISHED. Each now has 48 practice +16 test. Fresh main baseline 5545220024556b8ca076ea7212b5d32dec1bad43. Fresh checkout after workspace reset; original local evidence commit ed85ce6d and untracked tmp_rebuild_m01.mjs are not present in this new environment and were not deleted or modified by this work. Prior nine completed codes are recorded in FIRST-FOUR-SWEEP.md and NEXT-FIVE-SWEEP.md; do not repeat their bank development.
+AC9S3I04–I06: DRAFTED / VALIDATED / PUBLISHED / LIVE QA PASS. Each now has 48 practice +16 test. Fresh main baseline 5545220024556b8ca076ea7212b5d32dec1bad43. Fresh checkout after workspace reset; original local evidence commit ed85ce6d and untracked tmp_rebuild_m01.mjs are not present in this new environment and were not deleted or modified by this work. Prior nine completed codes are recorded in FIRST-FOUR-SWEEP.md and NEXT-FIVE-SWEEP.md; do not repeat their bank development.
 
 ## Authority and coverage before drafting
 Official ACARA v9 descriptors previously extracted from https://www.australiancurriculum.edu.au/content/dam/en/curriculum/ac-version-9/downloads/science/science-curriculum-content-f-6-v9.docx :
@@ -46,3 +46,20 @@ I04 has 28 original SVG representations: 15 column graphs, 7 tables and 6 sequen
 Production source validators and scoped runtime validator: PASS for all three codes and all six routes (FINAL-THREE-VALIDATION.json). Existing IDs/schema, 48/16 counts, source/runtime equality, SVG references, practice duplicate parity, production filter, actual shared-loader ownership and script order pass. No legacy experience-teacher-questions override is loaded. Review-aware publication updated the ledger to 12/12 Year 3 Science codes; generated status check is CURRENT. Release integrity, deployment and live QA remain pending at this checkpoint.
 
 Release candidate rebased onto current main df3d70eb2b51252a8a9c7c4ea1c0063efdd91e72. Removed a duplicated unrelated portal commit from the candidate; current sitemap and portal changes remain those of main. Complete-tree integrity PASS: 18,204 base files to 18,209 candidate files, zero deleted paths, core journey files and CNAME preserved. Only the 30 intended bank/runtime/review/verification paths change. Remote deployment and live QA not yet claimed.
+
+
+## Publication and live QA — 2026-09-07
+Content published to main as ede4c52a02a2a1de2b2f3ed3cb74395e340cda9d. Every uploaded blob matched its local Git hash, and the full candidate tree fc1973f4845abb8751a752c2d11e74fee2a8e3be matched the locally validated complete tree. The GitHub tree used complete base tree 64e405332397220ddbc271d29b4c7e76ae433a2e; main was re-read immediately before a non-forced update.
+
+All eight content/static/layout/release/IndexNow workflows succeeded for the content commit. Its Pages run was cancelled by a newer main update. Successor da5c19c4223053570d41cf20f4538fc9ffea5b36 includes the content commit as its parent; the Science sources, runtime banks, review ledger and hub are unchanged. Pages run 34121974992 completed successfully: https://github.com/JBR99729/skillr/actions/runs/34121974992 . Fetched successor also passes full-tree integrity, with no deleted files and preserved core files/domain.
+
+Live checks:
+- Homepage loads with the latest navigation and learning resources intact.
+- All six I04/I05/I06 practice/test routes opened and started. Newly authored questions displayed and submitted correct answers returned matching explanations. Examples: seedling-model features; evidence-limited shaded-soil conclusion; readable science slides; a follow-up soil-mixture question; correcting a graph's volume unit.
+- I04 full test deliberately missed the clay-frog model question and answered the other four correctly. Result: 4/5, 80%. Review preserved all five selected answers, correct answers and explanations. Retake opened a fresh shuffled attempt with score zero and a new first question.
+- Live original water-to-ice SVG rendered readable labels/arrows, exposed equivalent accessible text and accepted the correct heat-removed/freezing answer. All 28 symbols were separately rendered and visually reviewed locally. Do not claim every SVG appeared in the sampled live attempts.
+- Year 3 Science hub visibly displays Content Verified. Ledger records 12/12 codes. Independent source count audit confirms all twelve banks have 48 practice +16 test, 768 total questions. Prior nine content reviews/publication/live QA are documented in FIRST-FOUR-SWEEP.md and NEXT-FIVE-SWEEP.md; they were reused, not redone.
+
+Official ACARA F–6 v9 DOCX re-downloaded and exact descriptor rows, including elaborations, re-read during release verification. I04 examples cover life-stage craft models, soil maps, melting data, state organisers and insulation graphs; I05 covers others' findings, fairness, conclusions and further questions; I06 includes simple reports, life-cycle stories, purposeful school/family communication and heat-transfer diagrams. Elaborations are illustrative: this bank does not claim to reproduce every example or replace independent practical model/report creation. Source progression limits above remain explicit after publication.
+
+Attempts remain five shuffled questions; 48/16 are full bank sizes. No shared runtime changes were made. Final status for each of AC9S3I04, AC9S3I05 and AC9S3I06: original bank drafted, content/runtime validated, published, deployment confirmed, sampled live QA PASS.
