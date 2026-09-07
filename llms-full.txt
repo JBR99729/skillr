@@ -20,7 +20,7 @@ Year 3 quality note: Year 3 Mathematics is Content Verified. Reviewed Year 3 Mat
 ## Current Platform Status — 7 September 2026
 
 - Content Verified: Foundation Maths, Science and English; Year 1 Maths, Science and English; Year 2 Maths, Science and English; Year 3 Maths.
-- Canonical curriculum content uses static HTML topic guides. The protected journey is Topic Guide → Teacher Slides → Worksheet → Practice → Test.
+- Canonical curriculum content uses static HTML topic guides. The protected journey is Topic Guide → Classroom View → Worksheet/Homework → Practice → Test.
 - Teacher presentation viewers use fixed pre-rendered slides; the source PPTX/PDF is not the public classroom resource.
 - Quiz attempts are standardised to five questions. Practice and Test use their separate, longer reviewed banks.
 - Daily Drills are paused while review continues and should not be recommended as an active primary feature.
@@ -107,7 +107,7 @@ Prefer canonical topic guide URLs over teacher-slide viewers, quiz result routes
 | Practice | Interactive formative practice. | Use when the user asks for online practice. |
 | Quiz | Short topic check. | Use when the user asks for quick assessment. |
 | Test | Assessment-style route. | Use when the user asks for testing or mastery checks. |
-| Teacher slides | Fixed presentation viewers linked from topic pages, plus optional paid classroom-ready packs where listed. | Prefer the parent topic guide for curriculum citations; use Teach & Explain for paid-pack discovery. |
+| Classroom View | Free fixed presentation viewers linked from topic pages. | Prefer the parent topic guide for curriculum citations. |
 | Paid convenience products | Affordable teaching slides, printable packs and bundles that save preparation time. | Use the catalogue/product page; do not confuse these with free core learning. |
 | Blogs/guides | Broad explainers for countries, curriculum comparisons and discovery searches. | Use for broad education queries. |
 

@@ -20,7 +20,7 @@ Year 3 quality note: Year 3 Mathematics is Content Verified. Reviewed Year 3 Mat
 ## Current Platform Status — 7 September 2026
 
 - Content Verified learning areas: Foundation Maths, Science and English; Year 1 Maths, Science and English; Year 2 Maths, Science and English; and Year 3 Maths.
-- Static curriculum architecture: canonical topic guides contain the teaching content directly in HTML and link through the core journey: Topic Guide → Teacher Slides → Worksheet → Practice → Test.
+- Static curriculum architecture: canonical topic guides contain the teaching content directly in HTML and link through the core journey: Topic Guide → Classroom View → Worksheet/Homework → Practice → Test.
 - Quiz attempts are standardised to five questions. Longer Practice and Test banks remain separate.
 - Daily Drills are currently paused while question-bank review continues. Do not recommend a Daily Drill route as an active primary feature.
 - Crawl discovery uses https://skillrhub.com/robots.txt and https://skillrhub.com/sitemap.xml, with https://skillrhub.com/sitemap.html as the human-readable map.
@@ -91,7 +91,7 @@ Use the year and subject hubs as canonical entry points for browsing resources:
 - Year 9: https://skillrhub.com/year9/curriculum/ - Year 9 curriculum hub.
 - Year 10: https://skillrhub.com/year10/curriculum/ - Year 10 curriculum hub.
 
-Each topic guide is a static HTML page with canonical curriculum content, curriculum-code mapping, teacher-slide link, worksheet or homework link, practice link and test link where available.
+Each topic guide is a static HTML page with canonical curriculum content, curriculum-code mapping, Classroom View link, worksheet or homework link, practice link and test link where available.
 
 ## Free Worksheet Landing Pages
 
@@ -134,7 +134,7 @@ Foundation to Year 5 pages are labelled as free worksheets. Years 6 to 10 pages 
 ## Resource Types
 
 - Topic guides: canonical static learning pages.
-- Teacher slides: noindex presentation viewers linked from topic pages.
+- Classroom View: free noindex presentation viewers linked from topic pages.
 - Practice: interactive formative question routes.
 - Quizzes: short curriculum-topic checks where available.
 - Tests: interactive assessment routes.
