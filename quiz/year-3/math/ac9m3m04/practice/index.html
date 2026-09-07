@@ -37,54 +37,7 @@
   <section class="screen result-screen" id="resultScreen"><div class="card"><h2 id="resultTitle">Opening result…</h2><span id="percentageScore"></span><span id="finalScore"></span><span id="finalTotal"></span><p id="resultMessage"></p><div class="result-actions"><button id="restartButton">Retake</button><button id="reviewButton">Review</button></div></div></section>
 </main>
 <script>window.quizConfig={"storageKey":"AC9M3M04PracticeBest","skillCode":"AC9M3M04","maxQuestions":5,"shuffleQuestions":true,"shuffleAnswers":true,"questionCycle":false,"preReadSeconds":0,"preModuleNotesRequired":true,"requireStudentName":false,"passingPercent":75,"resultStorageKey":"skillrAC9M3M04PracticeResult","resultUrl":"result/","reviewUrl":"../review/","retakeUrl":"../retake/"};</script>
-<script src="/quiz/year-3/math/ac9m3m04/practice/experience-teacher-questions.js?v=20260823-core-v3"></script>
-<script>
-(()=>{
-  const source=Array.isArray(window.quizQuestions)?window.quizQuestions:[];
-  const unique=[];
-  const seenText=new Set();
-  source.forEach(q=>{
-    const key=String(q.question||'').trim().toLowerCase().replace(/\s+/g,' ');
-    if(!key||seenText.has(key))return;
-    seenText.add(key);
-    unique.push(q);
-  });
-  const families=[
-    q=>/clock parts|minute structure/.test(String(q.skill||'')),
-    q=>String(q.skill||'')==='read analogue time',
-    q=>String(q.skill||'')==='hour hand position',
-    q=>String(q.skill||'')==='digital notation',
-    q=>String(q.skill||'')==='time language',
-    q=>String(q.skill||'')==='minute marks',
-    q=>String(q.skill||'')==='analogue digital connection',
-    q=>String(q.skill||'')==='real life',
-    q=>String(q.skill||'')==='reasoning',
-    q=>/sequence|strategy/.test(String(q.skill||''))
-  ];
-  const selected=[];
-  const usedIds=new Set();
-  const usedVisuals=new Set();
-  const choose=predicate=>{
-    let candidates=unique.filter(q=>predicate(q)&&!usedIds.has(q.id));
-    const freshVisuals=candidates.filter(q=>!q.visual||!usedVisuals.has(q.visual));
-    if(freshVisuals.length)candidates=freshVisuals;
-    if(!candidates.length)return;
-    const q=candidates[Math.floor(Math.random()*candidates.length)];
-    selected.push(q);
-    usedIds.add(q.id);
-    if(q.visual)usedVisuals.add(q.visual);
-  };
-  families.forEach(choose);
-  const remaining=unique.filter(q=>!usedIds.has(q.id));
-  for(let i=remaining.length-1;i>0;i--){
-    const j=Math.floor(Math.random()*(i+1));
-    [remaining[i],remaining[j]]=[remaining[j],remaining[i]];
-  }
-  while(selected.length<10&&remaining.length)selected.push(remaining.shift());
-  window.quizQuestions=[...selected,...remaining];
-  window.skillrPracticeQuestions=window.quizQuestions;
-})();
-</script>
+<script src="/quiz/year-3/math/ac9m3m04/practice/questions.js?v=20260907-reviewed-m04"></script>
 <script src="/quiz/assets/production-question-ui.js?v=1"></script>
 <script src="/quiz/assets/year3-maths-pre-module-notes.js?v=20260814-1"></script>
 <script src="/quiz/assets/script.js?v=117"></script>
