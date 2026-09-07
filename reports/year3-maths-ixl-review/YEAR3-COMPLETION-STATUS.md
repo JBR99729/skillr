@@ -6,7 +6,7 @@ Strictly validated under the mandatory ACARA + IXL workflow: 4 of 23 codes.
 
 Validated and live/publishing in this sweep:
 
-- AC9M3M03 — formal units of time, duration estimates, comparisons and elapsed time: validated locally; publication in progress.
+- AC9M3M03 — formal units of time, duration estimates, comparisons and elapsed time: validated and deployed live.
 - AC9M3M04 — clocks to the nearest minute: validated live after route-loading repair.
 - AC9M3M05 — angles as measures of turn: validated live.
 - AC9M3M06 — Australian money: validated live.

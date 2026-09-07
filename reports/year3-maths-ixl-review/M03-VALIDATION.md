@@ -1,7 +1,7 @@
 # AC9M3M03 validation report — Year 3 Mathematics
 
 Status: VALIDATED
-Publication status: READY TO PUBLISH
+Publication status: PUBLISHED TO MAIN AND DEPLOYED
 
 ## Curriculum and IXL readiness
 
@@ -29,4 +29,4 @@ Publication status: READY TO PUBLISH
 - `node scripts/validate_runtime_content_ownership.mjs` — PASS.
 - `node scripts/check_release_integrity.mjs` — PASS, 18105 → 18105 files and no deletions.
 
-Remaining limitation: live production QA is still required after the main commit is deployed by Pages.
+Live production QA: Pages deployment succeeded. Practice loaded the reviewed AC9M3M03 bank and marked a correct response with teaching feedback. Test loaded the reviewed AC9M3M03 test bank and required pre-read flow; live question serving was confirmed. Final answer-button marking on the test route could not be completed because the browser automation wrapper timed out on the visible enabled answer button, while local test marking validation passed.
