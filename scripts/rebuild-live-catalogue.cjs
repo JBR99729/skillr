@@ -65,5 +65,45 @@ products.push({
     "Product images and purchase available on TPT"
   ]
 });
+products.push({
+  "id": "year-3-multiplication-division-bundle",
+  "title": "Year 3 Multiplication & Division Bundle | Workbook + Teaching Slides | AC v9",
+  "year": 3,
+  "yearLabel": "Year 3",
+  "subject": "maths",
+  "subjectLabel": "Maths",
+  "topics": [
+    "multiplication",
+    "division",
+    "times tables",
+    "arrays",
+    "equal groups",
+    "workbook",
+    "slides",
+    "bundle"
+  ],
+  "curriculumCodes": [
+    "AC9M3A03",
+    "AC9M3N04"
+  ],
+  "description": "Combine a 144-question workbook with answers and 36 PowerPoint teaching slides. Focuses on the 3, 4, 5 and 10 times tables and related division facts. Save US$2.10 compared with buying separately.",
+  "url": "/product.html?id=year-3-multiplication-division-bundle",
+  "image": "/assets/year-3-multiplication-division-slides-cover.png",
+  "price": "8.38",
+  "listPrice": "10.48",
+  "currency": "USD",
+  "available": true,
+  "resourceType": "bundle",
+  "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Multiplication-Division-Bundle-Workbook-Teaching-Slides-AC-v9-17594338",
+  "includes": [
+    "144-question Multiplication & Division workbook with answer keys",
+    "36 PowerPoint teaching slides with visual models, worked examples and guided practice",
+    "Eight check and misconception questions plus two exit tickets with answers in the presentation",
+    "Focus: 3, 4, 5 and 10 times tables and related division facts; not a complete Year 3 mathematics program",
+    "Does not teach 6, 7, 8 and 9 times tables as primary units or word problems involving remainders",
+    "Preview and purchase available on TPT",
+    "These two resources are also sold individually; check previous purchases to avoid duplicates"
+  ]
+});
 fs.writeFileSync('data/print-and-go-products.json', JSON.stringify(products, null, 2) + '\n');
 console.log(`Wrote ${products.length} live products`);

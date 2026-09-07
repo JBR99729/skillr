@@ -70,7 +70,7 @@
   input.addEventListener('input', () => {clearTimeout(timer); page = 1; timer = setTimeout(render, 120);});
   previous.addEventListener('click', () => {page--; render();});
   next.addEventListener('click', () => {page++; render();});
-  fetch('/data/print-and-go-products.json').then(response => {
+  fetch('/data/print-and-go-products.json?v=20260907-bundle', { cache: 'no-cache' }).then(response => {
     if (!response.ok) throw new Error('Catalogue unavailable');
     return response.json();
   }).then(data => {if (!Array.isArray(data)) throw new Error('Invalid catalogue'); products = data; render();}).catch(() => {failed = true; render();});
