@@ -4213,3 +4213,28 @@ pre { overflow-x: auto; }
     columns: 1;
   }
 }
+
+/* SkillrHub shared hero action polish. */
+.hero-actions {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.hero-actions .button {
+  margin: 0;
+}
+
+@media (max-width: 560px) {
+  .hero-actions {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .hero-actions .button {
+    text-align: center;
+    width: 100%;
+  }
+}
