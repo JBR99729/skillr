@@ -4,23 +4,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-001",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
     "type": "single",
-    "question": "For a presentation about saving water, which opening best orients listeners?",
-    "audioPrompt": "For a presentation about saving water, which opening best orients listeners?",
+    "question": "Opinion talk: “Our model bridge should have a wider base.” Reason: the narrow base tipped during a test.\n\nWhich detail best develops the reason?",
+    "audioPrompt": "Opinion talk: “Our model bridge should have a wider base.” Reason: the narrow base tipped during a test.\n\nWhich detail best develops the reason?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Begin with an unexplained final detail",
-      "Apologise for speaking",
-      "State the topic and why it matters"
+      "A wider base could help the model stand more steadily.",
+      "The model has a name written on it.",
+      "We used the table yesterday.",
+      "The bridge looks like a bridge."
     ],
-    "correct": 2,
-    "explanation": "State the topic and why it matters This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 0,
+    "explanation": "The detail links the proposed change to the observed problem.\nHint: Use the stated purpose, audience and details.",
     "structuredExplanation": {
-      "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The detail links the proposed change to the observed problem.",
+      "hint": "Use the stated purpose, audience and details."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +32,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-002",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
     "type": "single",
-    "question": "For a presentation about saving water, how should ideas be ordered?",
-    "audioPrompt": "For a presentation about saving water, how should ideas be ordered?",
+    "question": "A story speaker says the ending before explaining who lost the parcel. The listener is confused.\n\nWhich rehearsal change best addresses the problem?",
+    "audioPrompt": "A story speaker says the ending before explaining who lost the parcel. The listener is confused.\n\nWhich rehearsal change best addresses the problem?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "In a clear sequence with linking language",
-      "Randomly as they are remembered",
-      "With the conclusion before any topic"
+      "Speak the confusing order more loudly.",
+      "Introduce the character and missing parcel before the search and ending.",
+      "Remove every character from the story.",
+      "Show an unrelated picture instead of explaining."
     ],
-    "correct": 0,
-    "explanation": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 1,
+    "explanation": "A clear sequence gives the listener needed context.\nHint: Use the stated purpose, audience and details.",
     "structuredExplanation": {
-      "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "A clear sequence gives the listener needed context.",
+      "hint": "Use the stated purpose, audience and details."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +60,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-003",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
     "type": "single",
-    "question": "For a presentation about saving water, which voice choice helps an audience follow?",
-    "audioPrompt": "For a presentation about saving water, which voice choice helps an audience follow?",
+    "question": "An informative talk points to three parts of a drawing, but the speaker repeatedly says “this thing”.\n\nWhat would improve precision?",
+    "audioPrompt": "An informative talk points to three parts of a drawing, but the speaker repeatedly says “this thing”.\n\nWhat would improve precision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "A whisper throughout",
-      "Clear volume, suitable pace and meaningful emphasis",
-      "Maximum speed without pauses"
+      "Point faster without naming anything.",
+      "Use a new vague word for every part.",
+      "Name each part while pointing to its matching label.",
+      "Hide the drawing for the whole talk."
     ],
-    "correct": 1,
-    "explanation": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 2,
+    "explanation": "Matching specific names and labels connects spoken and visual information.\nHint: Use the stated purpose, audience and details.",
     "structuredExplanation": {
-      "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Matching specific names and labels connects spoken and visual information.",
+      "hint": "Use the stated purpose, audience and details."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +88,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-004",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
     "type": "single",
-    "question": "For a presentation about saving water, what is the best use of a visual?",
-    "audioPrompt": "For a presentation about saving water, what is the best use of a visual?",
+    "question": "Rehearsal: a listener hears the opening clearly, but the speaker becomes inaudible while facing the visual.\n\nWhat should the speaker practise?",
+    "audioPrompt": "Rehearsal: a listener hears the opening clearly, but the speaker becomes inaudible while facing the visual.\n\nWhat should the speaker practise?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Cover the visual with unrelated text",
-      "Read every label without explanation",
-      "Show evidence or a relationship while the speaker explains it"
+      "Removing all the useful details.",
+      "Shouting every word at maximum volume.",
+      "Delivering only a silent drawing.",
+      "Keeping the explanation audible while showing the visual."
     ],
-    "correct": 2,
-    "explanation": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 3,
+    "explanation": "The problem is audibility during visual use, not lack of a picture.\nHint: Use the stated purpose, audience and details.",
     "structuredExplanation": {
-      "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The problem is audibility during visual use, not lack of a picture.",
+      "hint": "Use the stated purpose, audience and details."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +116,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-005",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
-    "type": "single",
-    "question": "For a presentation about saving water, why should vocabulary suit the audience?",
-    "audioPrompt": "For a presentation about saving water, why should vocabulary suit the audience?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The delivered talk explains the full process and develops one step clearly.",
+    "acceptanceNote": "Check the added detail supports the stated process. The adult must hear the delivered talk and see the visual, not only read a script or completion statement. Check the plan, a rehearsal improvement, clear structure, relevant elaboration and precise words. Voice should suit the purpose and listening space; do not require an accent, eye contact, fixed pitch pattern or words-per-minute target. Accept other successful presentations.",
+    "responseInstructions": "Use paper for a plan and simple visual. Rehearse, improve and present to an adult. You may record your plan or the listener’s observations here.",
+    "completionLabel": "I have delivered my talk with a visual; an adult still needs to check it.",
+    "question": "Informative presentation. Explain a pretend reading challenge: choose three books, record one idea from each, then share a favourite idea. Add a helpful detail for a new participant.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Create a three-step card. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Pause at the step changes.",
+    "audioPrompt": "Informative presentation. Explain a pretend reading challenge: choose three books, record one idea from each, then share a favourite idea. Add a helpful detail for a new participant.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Create a three-step card. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Pause at the step changes.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Listeners need accurate terms they can understand",
-      "Technical words always impress everyone",
-      "Audience knowledge never matters"
-    ],
-    "correct": 0,
-    "explanation": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The delivered talk explains the full process and develops one step clearly.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The delivered talk explains the full process and develops one step clearly.",
+      "hint": "Make your key idea easy to follow, add a useful detail and use the visual when it helps."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +145,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-006",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
-    "type": "single",
-    "question": "For a presentation about saving water, which transition signals a new point?",
-    "audioPrompt": "For a presentation about saving water, which transition signals a new point?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The speaker explains functions and uses the drawing to support them.",
+    "acceptanceNote": "Check this is presented as an invention, not a claim about real animal-care advice. The adult must hear the delivered talk and see the visual, not only read a script or completion statement. Check the plan, a rehearsal improvement, clear structure, relevant elaboration and precise words. Voice should suit the purpose and listening space; do not require an accent, eye contact, fixed pitch pattern or words-per-minute target. Accept other successful presentations.",
+    "responseInstructions": "Use paper for a plan and simple visual. Rehearse, improve and present to an adult. You may record your plan or the listener’s observations here.",
+    "completionLabel": "I have delivered my talk with a visual; an adult still needs to check it.",
+    "question": "Informative presentation. Describe an invented pet-care robot using a wheel, a water tray and a sensor. Explain what each part does in your design.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw labelled parts. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Use the part names clearly and at a comfortable pace.",
+    "audioPrompt": "Informative presentation. Describe an invented pet-care robot using a wheel, a water tray and a sensor. Explain what each part does in your design.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw labelled parts. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Use the part names clearly and at a comfortable pace.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Um, anyway",
-      "Next, let us compare the two results",
-      "The end, before the middle"
-    ],
-    "correct": 1,
-    "explanation": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The speaker explains functions and uses the drawing to support them.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The speaker explains functions and uses the drawing to support them.",
+      "hint": "Make your key idea easy to follow, add a useful detail and use the visual when it helps."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +174,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-007",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
-    "type": "single",
-    "question": "For a presentation about saving water, a listener looks confused. What can the speaker do?",
-    "audioPrompt": "For a presentation about saving water, a listener looks confused. What can the speaker do?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The talk accurately compares the supplied counts and explains its labels.",
+    "acceptanceNote": "Check the numbers and largest/smallest comparisons. The adult must hear the delivered talk and see the visual, not only read a script or completion statement. Check the plan, a rehearsal improvement, clear structure, relevant elaboration and precise words. Voice should suit the purpose and listening space; do not require an accent, eye contact, fixed pitch pattern or words-per-minute target. Accept other successful presentations.",
+    "responseInstructions": "Use paper for a plan and simple visual. Rehearse, improve and present to an adult. You may record your plan or the listener’s observations here.",
+    "completionLabel": "I have delivered my talk with a visual; an adult still needs to check it.",
+    "question": "Informative presentation. Present pretend collection results: seven smooth stones, five rough stones and three striped stones. Explain the groups and compare their sizes.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Make a labelled chart. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Pause between groups and the comparison.",
+    "audioPrompt": "Informative presentation. Present pretend collection results: seven smooth stones, five rough stones and three striped stones. Explain the groups and compare their sizes.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Make a labelled chart. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Pause between groups and the comparison.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Speak faster",
-      "Remove the main point",
-      "Restate the idea with a clear example"
-    ],
-    "correct": 2,
-    "explanation": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The talk accurately compares the supplied counts and explains its labels.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The talk accurately compares the supplied counts and explains its labels.",
+      "hint": "Make your key idea easy to follow, add a useful detail and use the visual when it helps."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +203,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-008",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
-    "type": "single",
-    "question": "For a presentation about saving water, which conclusion is effective?",
-    "audioPrompt": "For a presentation about saving water, which conclusion is effective?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The talk introduces the town and follows the route shown on the map.",
+    "acceptanceNote": "Check the spoken order agrees with the drawing. The adult must hear the delivered talk and see the visual, not only read a script or completion statement. Check the plan, a rehearsal improvement, clear structure, relevant elaboration and precise words. Voice should suit the purpose and listening space; do not require an accent, eye contact, fixed pitch pattern or words-per-minute target. Accept other successful presentations.",
+    "responseInstructions": "Use paper for a plan and simple visual. Rehearse, improve and present to an adult. You may record your plan or the listener’s observations here.",
+    "completionLabel": "I have delivered my talk with a visual; an adult still needs to check it.",
+    "question": "Informative presentation. Explain a miniature town you design with a station, park and library. Describe a route linking all three.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw and label the route. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Use clear location words and a followable pace.",
+    "audioPrompt": "Informative presentation. Explain a miniature town you design with a station, park and library. Describe a route linking all three.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw and label the route. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Use clear location words and a followable pace.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Summarise the central idea and connect back to the purpose",
-      "Introduce three new topics",
-      "Repeat the greeting only"
-    ],
-    "correct": 0,
-    "explanation": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The talk introduces the town and follows the route shown on the map.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The talk introduces the town and follows the route shown on the map.",
+      "hint": "Make your key idea easy to follow, add a useful detail and use the visual when it helps."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +232,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-009",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
-    "type": "single",
-    "question": "For a demonstration of a simple machine, which opening best orients listeners?",
-    "audioPrompt": "For a demonstration of a simple machine, which opening best orients listeners?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The speaker links the title and design to the humour of the collection.",
+    "acceptanceNote": "Accept any suitable title with two developed reasons. The adult must hear the delivered talk and see the visual, not only read a script or completion statement. Check the plan, a rehearsal improvement, clear structure, relevant elaboration and precise words. Voice should suit the purpose and listening space; do not require an accent, eye contact, fixed pitch pattern or words-per-minute target. Accept other successful presentations.",
+    "responseInstructions": "Use paper for a plan and simple visual. Rehearse, improve and present to an adult. You may record your plan or the listener’s observations here.",
+    "completionLabel": "I have delivered my talk with a visual; an adult still needs to check it.",
+    "question": "Opinion presentation. Recommend a title for a class collection of funny stories. Give two reasons about how it prepares a reader.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Design a cover using the title. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Use an inviting tone and emphasise the title.",
+    "audioPrompt": "Opinion presentation. Recommend a title for a class collection of funny stories. Give two reasons about how it prepares a reader.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Design a cover using the title. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Use an inviting tone and emphasise the title.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Begin with an unexplained final detail",
-      "State the topic and why it matters",
-      "Apologise for speaking"
-    ],
-    "correct": 1,
-    "explanation": "State the topic and why it matters This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The speaker links the title and design to the humour of the collection.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "State the topic and why it matters This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The speaker links the title and design to the humour of the collection.",
+      "hint": "Make your key idea easy to follow, add a useful detail and use the visual when it helps."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +261,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-010",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
-    "type": "single",
-    "question": "For a demonstration of a simple machine, how should ideas be ordered?",
-    "audioPrompt": "For a demonstration of a simple machine, how should ideas be ordered?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The talk makes the choice clear and supports it with visibility and space details.",
+    "acceptanceNote": "Check the actual design fits both reasons. The adult must hear the delivered talk and see the visual, not only read a script or completion statement. Check the plan, a rehearsal improvement, clear structure, relevant elaboration and precise words. Voice should suit the purpose and listening space; do not require an accent, eye contact, fixed pitch pattern or words-per-minute target. Accept other successful presentations.",
+    "responseInstructions": "Use paper for a plan and simple visual. Rehearse, improve and present to an adult. You may record your plan or the listener’s observations here.",
+    "completionLabel": "I have delivered my talk with a visual; an adult still needs to check it.",
+    "question": "Opinion presentation. Choose between a shelf and a hanging display for lightweight paper birds. Explain how visitors could see the birds and how the space would be used.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Sketch the display. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Separate your two reasons with a short pause.",
+    "audioPrompt": "Opinion presentation. Choose between a shelf and a hanging display for lightweight paper birds. Explain how visitors could see the birds and how the space would be used.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Sketch the display. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Separate your two reasons with a short pause.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Randomly as they are remembered",
-      "With the conclusion before any topic",
-      "In a clear sequence with linking language"
-    ],
-    "correct": 2,
-    "explanation": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The talk makes the choice clear and supports it with visibility and space details.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "In a clear sequence with linking language This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The talk makes the choice clear and supports it with visibility and space details.",
+      "hint": "Make your key idea easy to follow, add a useful detail and use the visual when it helps."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +290,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-011",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
-    "type": "single",
-    "question": "For a demonstration of a simple machine, which voice choice helps an audience follow?",
-    "audioPrompt": "For a demonstration of a simple machine, which voice choice helps an audience follow?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The speaker supports the preference with a specific example of collaboration.",
+    "acceptanceNote": "Accept either option; require reasons rather than unsupported enthusiasm. The adult must hear the delivered talk and see the visual, not only read a script or completion statement. Check the plan, a rehearsal improvement, clear structure, relevant elaboration and precise words. Voice should suit the purpose and listening space; do not require an accent, eye contact, fixed pitch pattern or words-per-minute target. Accept other successful presentations.",
+    "responseInstructions": "Use paper for a plan and simple visual. Rehearse, improve and present to an adult. You may record your plan or the listener’s observations here.",
+    "completionLabel": "I have delivered my talk with a visual; an adult still needs to check it.",
+    "question": "Opinion presentation. Recommend one of two activities for an imaginary club: making puzzles or telling stories. Explain how it would help members work together.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw a scene of the activity. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Use a confident, respectful tone.",
+    "audioPrompt": "Opinion presentation. Recommend one of two activities for an imaginary club: making puzzles or telling stories. Explain how it would help members work together.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw a scene of the activity. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Use a confident, respectful tone.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Clear volume, suitable pace and meaningful emphasis",
-      "A whisper throughout",
-      "Maximum speed without pauses"
-    ],
-    "correct": 0,
-    "explanation": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The speaker supports the preference with a specific example of collaboration.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Clear volume, suitable pace and meaningful emphasis This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The speaker supports the preference with a specific example of collaboration.",
+      "hint": "Make your key idea easy to follow, add a useful detail and use the visual when it helps."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +319,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-012",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
-    "type": "single",
-    "question": "For a demonstration of a simple machine, what is the best use of a visual?",
-    "audioPrompt": "For a demonstration of a simple machine, what is the best use of a visual?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The talk names useful information added and explains how borrowers benefit.",
+    "acceptanceNote": "Check two concrete changes and their purposes. The adult must hear the delivered talk and see the visual, not only read a script or completion statement. Check the plan, a rehearsal improvement, clear structure, relevant elaboration and precise words. Voice should suit the purpose and listening space; do not require an accent, eye contact, fixed pitch pattern or words-per-minute target. Accept other successful presentations.",
+    "responseInstructions": "Use paper for a plan and simple visual. Rehearse, improve and present to an adult. You may record your plan or the listener’s observations here.",
+    "completionLabel": "I have delivered my talk with a visual; an adult still needs to check it.",
+    "question": "Opinion presentation. Propose a clearer sign for a pretend classroom lending box currently labelled “Stuff”. Explain two useful changes.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Make the new sign. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Slow down when identifying each change.",
+    "audioPrompt": "Opinion presentation. Propose a clearer sign for a pretend classroom lending box currently labelled “Stuff”. Explain two useful changes.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Make the new sign. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Slow down when identifying each change.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Cover the visual with unrelated text",
-      "Show evidence or a relationship while the speaker explains it",
-      "Read every label without explanation"
-    ],
-    "correct": 1,
-    "explanation": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The talk names useful information added and explains how borrowers benefit.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Show evidence or a relationship while the speaker explains it This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The talk names useful information added and explains how borrowers benefit.",
+      "hint": "Make your key idea easy to follow, add a useful detail and use the visual when it helps."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +348,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-013",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
-    "type": "single",
-    "question": "For a demonstration of a simple machine, why should vocabulary suit the audience?",
-    "audioPrompt": "For a demonstration of a simple machine, why should vocabulary suit the audience?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The story links the wrong delivery, a repair action and a resolved ending.",
+    "acceptanceNote": "Check causal order and the visual route. The adult must hear the delivered talk and see the visual, not only read a script or completion statement. Check the plan, a rehearsal improvement, clear structure, relevant elaboration and precise words. Voice should suit the purpose and listening space; do not require an accent, eye contact, fixed pitch pattern or words-per-minute target. Accept other successful presentations.",
+    "responseInstructions": "Use paper for a plan and simple visual. Rehearse, improve and present to an adult. You may record your plan or the listener’s observations here.",
+    "completionLabel": "I have delivered my talk with a visual; an adult still needs to check it.",
+    "question": "Story presentation. Tell a story about a paper kite that delivers a message to the wrong window. Explain how the right reader eventually gets it.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw the route and turning point. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Make the change of direction clear through a pause.",
+    "audioPrompt": "Story presentation. Tell a story about a paper kite that delivers a message to the wrong window. Explain how the right reader eventually gets it.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw the route and turning point. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Make the change of direction clear through a pause.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Technical words always impress everyone",
-      "Audience knowledge never matters",
-      "Listeners need accurate terms they can understand"
-    ],
-    "correct": 2,
-    "explanation": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The story links the wrong delivery, a repair action and a resolved ending.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Listeners need accurate terms they can understand This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The story links the wrong delivery, a repair action and a resolved ending.",
+      "hint": "Make your key idea easy to follow, add a useful detail and use the visual when it helps."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +377,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-014",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
-    "type": "single",
-    "question": "For a demonstration of a simple machine, which transition signals a new point?",
-    "audioPrompt": "For a demonstration of a simple machine, which transition signals a new point?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The talk sets up an object that later solves the obstacle.",
+    "acceptanceNote": "Check the object is introduced before it is needed. The adult must hear the delivered talk and see the visual, not only read a script or completion statement. Check the plan, a rehearsal improvement, clear structure, relevant elaboration and precise words. Voice should suit the purpose and listening space; do not require an accent, eye contact, fixed pitch pattern or words-per-minute target. Accept other successful presentations.",
+    "responseInstructions": "Use paper for a plan and simple visual. Rehearse, improve and present to an adult. You may record your plan or the listener’s observations here.",
+    "completionLabel": "I have delivered my talk with a visual; an adult still needs to check it.",
+    "question": "Story presentation. Tell a story in which a character cannot cross a tiny stream until an earlier object becomes useful. Introduce that object naturally.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw the crossing solution. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Pause before revealing the solution.",
+    "audioPrompt": "Story presentation. Tell a story in which a character cannot cross a tiny stream until an earlier object becomes useful. Introduce that object naturally.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw the crossing solution. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Pause before revealing the solution.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Next, let us compare the two results",
-      "Um, anyway",
-      "The end, before the middle"
-    ],
-    "correct": 0,
-    "explanation": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The talk sets up an object that later solves the obstacle.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Next, let us compare the two results This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The talk sets up an object that later solves the obstacle.",
+      "hint": "Make your key idea easy to follow, add a useful detail and use the visual when it helps."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +406,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-015",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
-    "type": "single",
-    "question": "For a demonstration of a simple machine, a listener looks confused. What can the speaker do?",
-    "audioPrompt": "For a demonstration of a simple machine, a listener looks confused. What can the speaker do?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The speaker establishes and follows the fantasy rule with a connected resolution.",
+    "acceptanceNote": "Check consistency, structure and developed details. The adult must hear the delivered talk and see the visual, not only read a script or completion statement. Check the plan, a rehearsal improvement, clear structure, relevant elaboration and precise words. Voice should suit the purpose and listening space; do not require an accent, eye contact, fixed pitch pattern or words-per-minute target. Accept other successful presentations.",
+    "responseInstructions": "Use paper for a plan and simple visual. Rehearse, improve and present to an adult. You may record your plan or the listener’s observations here.",
+    "completionLabel": "I have delivered my talk with a visual; an adult still needs to check it.",
+    "question": "Story presentation. Tell a story about a shop where every hat changes the weather in a miniature garden. Use one rule consistently from problem to ending.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw the important hat and garden. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Use expressive tone without losing clarity.",
+    "audioPrompt": "Story presentation. Tell a story about a shop where every hat changes the weather in a miniature garden. Use one rule consistently from problem to ending.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw the important hat and garden. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Use expressive tone without losing clarity.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Speak faster",
-      "Restate the idea with a clear example",
-      "Remove the main point"
-    ],
-    "correct": 1,
-    "explanation": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The speaker establishes and follows the fantasy rule with a connected resolution.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Restate the idea with a clear example This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The speaker establishes and follows the fantasy rule with a connected resolution.",
+      "hint": "Make your key idea easy to follow, add a useful detail and use the visual when it helps."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +435,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly07-t-016",
     "curriculumCode": "AC9E3LY07",
     "bank": "test",
-    "skill": "Oral and Multimodal Presentations",
+    "skill": "Plan, rehearse and deliver presentations",
     "printable": true,
-    "type": "single",
-    "question": "For a demonstration of a simple machine, which conclusion is effective?",
-    "audioPrompt": "For a demonstration of a simple machine, which conclusion is effective?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The talk develops two interpretations and resolves them using the clue.",
+    "acceptanceNote": "Check the reveal follows from the story, not an unrelated surprise. The adult must hear the delivered talk and see the visual, not only read a script or completion statement. Check the plan, a rehearsal improvement, clear structure, relevant elaboration and precise words. Voice should suit the purpose and listening space; do not require an accent, eye contact, fixed pitch pattern or words-per-minute target. Accept other successful presentations.",
+    "responseInstructions": "Use paper for a plan and simple visual. Rehearse, improve and present to an adult. You may record your plan or the listener’s observations here.",
+    "completionLabel": "I have delivered my talk with a visual; an adult still needs to check it.",
+    "question": "Story presentation. Tell a story about two friends who interpret a mysterious sound differently. Let a clue lead them to its real source.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw the clue. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Use voice changes to distinguish their ideas.",
+    "audioPrompt": "Story presentation. Tell a story about two friends who interpret a mysterious sound differently. Let a clue lead them to its real source.\n\nPlan a clear opening, a developed middle and a closing. Create your short talk in your own words. Draw the clue. Rehearse aloud, make one useful improvement, then deliver the talk with your visual to an adult listener. Use voice changes to distinguish their ideas.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Introduce three new topics",
-      "Repeat the greeting only",
-      "Summarise the central idea and connect back to the purpose"
-    ],
-    "correct": 2,
-    "explanation": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The talk develops two interpretations and resolves them using the clue.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Summarise the central idea and connect back to the purpose This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The talk develops two interpretations and resolves them using the clue.",
+      "hint": "Make your key idea easy to follow, add a useful detail and use the visual when it helps."
     },
     "qualitySchema": "production-v1"
   }

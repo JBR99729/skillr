@@ -4,23 +4,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-001",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word phone using the cue word phone, why can this word be difficult to spell?",
-    "audioPrompt": "While spelling the word phone using the cue word phone, why can this word be difficult to spell?",
+    "question": "A spelling note says: in the word phone, two letters together represent the first sound. Which note is accurate?",
+    "audioPrompt": "A spelling note says: in the word phone, two letters together represent the first sound. Which note is accurate?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "It has no spoken sounds",
-      "Every letter has only one possible sound",
-      "Its sounds use a less common letter pattern"
+      "ph represents the /f/ sound.",
+      "p and h each make a separate sound.",
+      "one represents the /f/ sound.",
+      "The word starts with a /p/ sound."
     ],
-    "correct": 2,
-    "explanation": "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 0,
+    "explanation": "In phone, ph spells the first sound /f/. The letters work together.\nHint: Match the spelling to the meaning and the sound or letter pattern.",
     "structuredExplanation": {
-      "summary": "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "In phone, ph spells the first sound /f/. The letters work together.",
+      "hint": "Match the spelling to the meaning and the sound or letter pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +32,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-002",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word phone using the cue word phone, which strategy best supports the spelling?",
-    "audioPrompt": "While spelling the word phone using the cue word phone, which strategy best supports the spelling?",
+    "question": "Complete the label for a small rough drawing: a quick ___.",
+    "audioPrompt": "Complete the label for a small rough drawing: a quick ___.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Recall the whole word and its known letter pattern",
-      "Choose letters only by their alphabet names",
-      "Replace the difficult part with a dash"
+      "skech",
+      "sketch",
+      "skettsh",
+      "sketsh"
     ],
-    "correct": 0,
-    "explanation": "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 1,
+    "explanation": "Sketch ends in tch, a spelling of the /ch/ sound.\nHint: Match the spelling to the meaning and the sound or letter pattern.",
     "structuredExplanation": {
-      "summary": "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Sketch ends in tch, a spelling of the /ch/ sound.",
+      "hint": "Match the spelling to the meaning and the sound or letter pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +60,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-003",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word phone using the cue word phone, what should a writer do after attempting the word?",
-    "audioPrompt": "While spelling the word phone using the cue word phone, what should a writer do after attempting the word?",
+    "question": "Which word uses gh without a spoken /g/ or /h/ sound?",
+    "audioPrompt": "Which word uses gh without a spoken /g/ or /h/ sound?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Assume the first attempt must be right",
-      "Check it against a trusted spelling source",
-      "Remove the word from the sentence"
+      "ghost",
+      "goat",
+      "bright",
+      "hat"
     ],
-    "correct": 1,
-    "explanation": "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 2,
+    "explanation": "In bright, igh spells the long i sound; gh is not pronounced separately. In ghost, g is pronounced.\nHint: Match the spelling to the meaning and the sound or letter pattern.",
     "structuredExplanation": {
-      "summary": "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "In bright, igh spells the long i sound; gh is not pronounced separately. In ghost, g is pronounced.",
+      "hint": "Match the spelling to the meaning and the sound or letter pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +88,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-004",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word phone using the cue word phone, why are cue words useful for less common patterns?",
-    "audioPrompt": "While spelling the word phone using the cue word phone, why are cue words useful for less common patterns?",
+    "question": "A learner writes “nife” for the sharp tool used to cut food. Which correctly spelt correction restores the silent initial letter?",
+    "audioPrompt": "A learner writes “nife” for the sharp tool used to cut food. Which correctly spelt correction restores the silent initial letter?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "They make all spellings regular",
-      "They remove the need for meaning",
-      "They connect a sound pattern with a familiar complete word"
+      "kniffe",
+      "nif",
+      "nifee",
+      "knife"
     ],
-    "correct": 2,
-    "explanation": "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 3,
+    "explanation": "Knife begins with kn. The k is silent; the first spoken sound is /n/.\nHint: Match the spelling to the meaning and the sound or letter pattern.",
     "structuredExplanation": {
-      "summary": "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Knife begins with kn. The k is silent; the first spoken sound is /n/.",
+      "hint": "Match the spelling to the meaning and the sound or letter pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +116,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-005",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word phone using the cue word phone, which statement about English spelling is accurate?",
-    "audioPrompt": "While spelling the word phone using the cue word phone, which statement about English spelling is accurate?",
+    "question": "Choose the correct spelling: We watched a baby ___ climb a branch. The word names an animal with a long tail.",
+    "audioPrompt": "Choose the correct spelling: We watched a baby ___ climb a branch. The word names an animal with a long tail.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "One sound can be represented by different letter patterns",
-      "Every sound always has one spelling",
-      "Word history never affects spelling"
+      "monkey",
+      "munkee",
+      "monkee",
+      "munkey"
     ],
     "correct": 0,
-    "explanation": "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Monkey ends in ey, which represents the final sound heard in happy. The whole spelling is monkey.\nHint: Match the spelling to the meaning and the sound or letter pattern.",
     "structuredExplanation": {
-      "summary": "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Monkey ends in ey, which represents the final sound heard in happy. The whole spelling is monkey.",
+      "hint": "Match the spelling to the meaning and the sound or letter pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +144,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-006",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word phone using the cue word phone, how can word families help?",
-    "audioPrompt": "While spelling the word phone using the cue word phone, how can word families help?",
+    "question": "In the word bridge, which letters spell the final /j/ sound?",
+    "audioPrompt": "In the word bridge, which letters spell the final /j/ sound?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Every related word is spelled identically",
-      "Related words may preserve a recognisable spelling pattern",
-      "Families are based only on word length"
+      "br",
+      "dge",
+      "i",
+      "gei"
     ],
     "correct": 1,
-    "explanation": "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "The ending dge represents the /j/ sound in bridge.\nHint: Match the spelling to the meaning and the sound or letter pattern.",
     "structuredExplanation": {
-      "summary": "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "The ending dge represents the /j/ sound in bridge.",
+      "hint": "Match the spelling to the meaning and the sound or letter pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +172,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-007",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word phone using the cue word phone, what is a useful personal spelling record?",
-    "audioPrompt": "While spelling the word phone using the cue word phone, what is a useful personal spelling record?",
+    "question": "A young sheep is a ___. Choose the spelling that retains its silent final letter.",
+    "audioPrompt": "A young sheep is a ___. Choose the spelling that retains its silent final letter.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "An isolated letter with no word",
-      "A row of slashes",
-      "The complete word, its tricky part and a meaningful example sentence"
+      "lam",
+      "lamn",
+      "lamb",
+      "lamm"
     ],
     "correct": 2,
-    "explanation": "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "explanation": "Lamb has a silent b after m. There is no separate /b/ sound at the end.\nHint: Match the spelling to the meaning and the sound or letter pattern.",
     "structuredExplanation": {
-      "summary": "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Lamb has a silent b after m. There is no separate /b/ sound at the end.",
+      "hint": "Match the spelling to the meaning and the sound or letter pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +200,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-008",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word phone using the cue word phone, which proofreading method is strongest?",
-    "audioPrompt": "While spelling the word phone using the cue word phone, which proofreading method is strongest?",
+    "question": "Which spelling correctly completes “The bird has a soft ___”? The word means one of the light parts covering a bird.",
+    "audioPrompt": "Which spelling correctly completes “The bird has a soft ___”? The word means one of the light parts covering a bird.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Read the sentence, notice the uncertain word, then verify its complete spelling",
-      "Check only the first letter",
-      "Listen once and never inspect the written word"
+      "feether",
+      "fether",
+      "feathar",
+      "feather"
     ],
-    "correct": 0,
-    "explanation": "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 3,
+    "explanation": "Feather uses ea for the short vowel sound heard in bed. Do not assume ea always has the same sound.\nHint: Match the spelling to the meaning and the sound or letter pattern.",
     "structuredExplanation": {
-      "summary": "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Feather uses ea for the short vowel sound heard in bed. Do not assume ea always has the same sound.",
+      "hint": "Match the spelling to the meaning and the sound or letter pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +228,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-009",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word school using the cue word school, why can this word be difficult to spell?",
-    "audioPrompt": "While spelling the word school using the cue word school, why can this word be difficult to spell?",
+    "question": "The word wheel begins with which written letter pair?",
+    "audioPrompt": "The word wheel begins with which written letter pair?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "It has no spoken sounds",
-      "Its sounds use a less common letter pattern",
-      "Every letter has only one possible sound"
+      "wh",
+      "hw",
+      "ww",
+      "hh"
     ],
-    "correct": 1,
-    "explanation": "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 0,
+    "explanation": "Wheel begins wh. Keep both letters in spelling; speakers may pronounce wh differently.\nHint: Match the spelling to the meaning and the sound or letter pattern.",
     "structuredExplanation": {
-      "summary": "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Wheel begins wh. Keep both letters in spelling; speakers may pronounce wh differently.",
+      "hint": "Match the spelling to the meaning and the sound or letter pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +256,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-010",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
     "type": "single",
-    "question": "While spelling the word school using the cue word school, which strategy best supports the spelling?",
-    "audioPrompt": "While spelling the word school using the cue word school, which strategy best supports the spelling?",
+    "question": "Choose the correctly spelt word for the room where food is prepared.",
+    "audioPrompt": "Choose the correctly spelt word for the room where food is prepared.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Choose letters only by their alphabet names",
-      "Replace the difficult part with a dash",
-      "Recall the whole word and its known letter pattern"
+      "kichen",
+      "kitchen",
+      "kitchin",
+      "kitshen"
     ],
-    "correct": 2,
-    "explanation": "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 1,
+    "explanation": "Kitchen retains tch in the middle and en at the end. Saying its two syllables can support checking.\nHint: Match the spelling to the meaning and the sound or letter pattern.",
     "structuredExplanation": {
-      "summary": "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Kitchen retains tch in the middle and en at the end. Saying its two syllables can support checking.",
+      "hint": "Match the spelling to the meaning and the sound or letter pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +284,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-011",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
     "type": "single",
-    "question": "Why is “Check it against a trusted spelling source” the best answer here? While spelling the word school using the cue word school, what should a writer do after attempting the word?",
-    "audioPrompt": "Why is “Check it against a trusted spelling source” the best answer here? While spelling the word school using the cue word school, what should a writer do after attempting the word?",
+    "question": "Which pair shows that the same written vowel team can have different sounds?",
+    "audioPrompt": "Which pair shows that the same written vowel team can have different sounds?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.",
-      "Because “Assume the first attempt must be right” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
+      "seed and need",
+      "rain and train",
+      "bread and bead",
+      "boat and coat"
     ],
-    "correct": 0,
-    "explanation": "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 2,
+    "explanation": "Bread has the vowel sound in bed; bead has the vowel sound in see. Both contain ea.\nHint: Match the spelling to the meaning and the sound or letter pattern.",
     "structuredExplanation": {
-      "summary": "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Bread has the vowel sound in bed; bead has the vowel sound in see. Both contain ea.",
+      "hint": "Match the spelling to the meaning and the sound or letter pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +312,27 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-012",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
     "type": "single",
-    "question": "Why is “They connect a sound pattern with a familiar complete word” the best answer here? While spelling the word school using the cue word school, why are cue words useful for less common patterns?",
-    "audioPrompt": "Why is “They connect a sound pattern with a familiar complete word” the best answer here? While spelling the word school using the cue word school, why are cue words useful for less common patterns?",
+    "question": "Complete the note: The dog buried a bone in the ___. Use the word that rhymes with boil.",
+    "audioPrompt": "Complete the note: The dog buried a bone in the ___. Use the word that rhymes with boil.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Because “They make all spellings regular” sounds familiar.",
-      "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.",
-      "Because the longest-looking option should always be chosen."
+      "soyl",
+      "soile",
+      "soll",
+      "soil"
     ],
-    "correct": 1,
-    "explanation": "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 3,
+    "explanation": "Soil uses oi to represent the vowel sound also heard in boil.\nHint: Match the spelling to the meaning and the sound or letter pattern.",
     "structuredExplanation": {
-      "summary": "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Soil uses oi to represent the vowel sound also heard in boil.",
+      "hint": "Match the spelling to the meaning and the sound or letter pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +340,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-013",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "Why is “One sound can be represented by different letter patterns” the best answer here? While spelling the word school using the cue word school, which statement about English spelling is accurate?",
-    "audioPrompt": "Why is “One sound can be represented by different letter patterns” the best answer here? While spelling the word school using the cue word school, which statement about English spelling is accurate?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "question. In question, qu is retained and the ending is tion; do not replace the whole ending with shun.",
+    "acceptanceNote": "Check the learner’s written word: question. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. In question, qu is retained and the ending is tion; do not replace the whole ending with shun. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "A ___ tells you that someone has asked something and wants an answer. It begins qu and ends with the same letters as action. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "A ___ tells you that someone has asked something and wants an answer. It begins qu and ends with the same letters as action. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Because “Every sound always has one spelling” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence."
-    ],
-    "correct": 2,
-    "explanation": "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "question. In question, qu is retained and the ending is tion; do not replace the whole ending with shun.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "question. In question, qu is retained and the ending is tion; do not replace the whole ending with shun.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +369,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-014",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "Why is “Related words may preserve a recognisable spelling pattern” the best answer here? While spelling the word school using the cue word school, how can word families help?",
-    "audioPrompt": "Why is “Related words may preserve a recognisable spelling pattern” the best answer here? While spelling the word school using the cue word school, how can word families help?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "knot. Knot begins kn: k is silent and n represents the first spoken sound.",
+    "acceptanceNote": "Check the learner’s written word: knot. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Knot begins kn: k is silent and n represents the first spoken sound. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "Mum tied the parcel with brown paper and string, making a neat ___ on top. The missing word rhymes with not and begins with a silent letter. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "Mum tied the parcel with brown paper and string, making a neat ___ on top. The missing word rhymes with not and begins with a silent letter. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.",
-      "Because “Every related word is spelled identically” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
-    ],
-    "correct": 0,
-    "explanation": "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "knot. Knot begins kn: k is silent and n represents the first spoken sound.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "knot. Knot begins kn: k is silent and n represents the first spoken sound.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +398,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-015",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "Why is “The complete word, its tricky part and a meaningful example sentence” the best answer here? While spelling the word school using the cue word school, what is a useful personal spelling record?",
-    "audioPrompt": "Why is “The complete word, its tricky part and a meaningful example sentence” the best answer here? While spelling the word school using the cue word school, what is a useful personal spelling record?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "wring. Wring begins wr; w is silent and r represents the first spoken sound.",
+    "acceptanceNote": "Check the learner’s written word: wring. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Wring begins wr; w is silent and r represents the first spoken sound. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "Please ___ the towel tightly to squeeze out the water. The word rhymes with ring and begins with a silent letter. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "Please ___ the towel tightly to squeeze out the water. The word rhymes with ring and begins with a silent letter. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Because “An isolated letter with no word” sounds familiar.",
-      "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.",
-      "Because the longest-looking option should always be chosen."
-    ],
-    "correct": 1,
-    "explanation": "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "wring. Wring begins wr; w is silent and r represents the first spoken sound.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "wring. Wring begins wr; w is silent and r represents the first spoken sound.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +427,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-016",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "Why is “Read the sentence, notice the uncertain word, then verify its complete spelling” the best answer here? While spelling the word school using the cue word school, which proofreading method is strongest?",
-    "audioPrompt": "Why is “Read the sentence, notice the uncertain word, then verify its complete spelling” the best answer here? While spelling the word school using the cue word school, which proofreading method is strongest?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "wrench. Wrench keeps the silent w in wr and ends in ch.",
+    "acceptanceNote": "Check the learner’s written word: wrench. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Wrench keeps the silent w in wr and ends in ch. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "A repairer used a ___ to turn the nut. Use the six-letter tool name beginning wr. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "A repairer used a ___ to turn the nut. Use the six-letter tool name beginning wr. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Because “Check only the first letter” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence."
-    ],
-    "correct": 2,
-    "explanation": "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "wrench. Wrench keeps the silent w in wr and ends in ch.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "wrench. Wrench keeps the silent w in wr and ends in ch.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -388,23 +456,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-017",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "Why is “Its sounds use a less common letter pattern” the best answer here? While spelling the word measure using the cue word measure, why can this word be difficult to spell?",
-    "audioPrompt": "Why is “Its sounds use a less common letter pattern” the best answer here? While spelling the word measure using the cue word measure, why can this word be difficult to spell?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "knight. Knight begins with silent k; igh represents the long i sound and t the final sound.",
+    "acceptanceNote": "Check the learner’s written word: knight. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Knight begins with silent k; igh represents the long i sound and t the final sound. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The brave rider in armour was a ___. Use the word that sounds like night but names a person. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The brave rider in armour was a ___. Use the word that sounds like night but names a person. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.",
-      "Because “It has no spoken sounds” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
-    ],
-    "correct": 0,
-    "explanation": "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "knight. Knight begins with silent k; igh represents the long i sound and t the final sound.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "knight. Knight begins with silent k; igh represents the long i sound and t the final sound.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -412,23 +485,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-018",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "Why is “Recall the whole word and its known letter pattern” the best answer here? While spelling the word measure using the cue word measure, which strategy best supports the spelling?",
-    "audioPrompt": "Why is “Recall the whole word and its known letter pattern” the best answer here? While spelling the word measure using the cue word measure, which strategy best supports the spelling?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "snail. Snail uses ai for the long a sound and retains the initial sn blend.",
+    "acceptanceNote": "Check the learner’s written word: snail. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Snail uses ai for the long a sound and retains the initial sn blend. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "A small garden creature carries a shell on its back. It is a ___. The vowel sound is the same as in rain. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "A small garden creature carries a shell on its back. It is a ___. The vowel sound is the same as in rain. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Because “Choose letters only by their alphabet names” sounds familiar.",
-      "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.",
-      "Because the longest-looking option should always be chosen."
-    ],
-    "correct": 1,
-    "explanation": "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "snail. Snail uses ai for the long a sound and retains the initial sn blend.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "snail. Snail uses ai for the long a sound and retains the initial sn blend.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -436,23 +514,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-019",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "Why is “Check it against a trusted spelling source” the best answer here? While spelling the word measure using the cue word measure, what should a writer do after attempting the word?",
-    "audioPrompt": "Why is “Check it against a trusted spelling source” the best answer here? While spelling the word measure using the cue word measure, what should a writer do after attempting the word?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "ghost. Ghost begins gh, but the initial spoken sound is /g/; h is silent in this word.",
+    "acceptanceNote": "Check the learner’s written word: ghost. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Ghost begins gh, but the initial spoken sound is /g/; h is silent in this word. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "In the story, a ___ floated through the wall. Use the five-letter word beginning gh. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "In the story, a ___ floated through the wall. Use the five-letter word beginning gh. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Because “Assume the first attempt must be right” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence."
-    ],
-    "correct": 2,
-    "explanation": "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "ghost. Ghost begins gh, but the initial spoken sound is /g/; h is silent in this word.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "ghost. Ghost begins gh, but the initial spoken sound is /g/; h is silent in this word.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -460,23 +543,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-020",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "Why is “They connect a sound pattern with a familiar complete word” the best answer here? While spelling the word measure using the cue word measure, why are cue words useful for less common patterns?",
-    "audioPrompt": "Why is “They connect a sound pattern with a familiar complete word” the best answer here? While spelling the word measure using the cue word measure, why are cue words useful for less common patterns?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "clown. Clown uses ow for the vowel sound heard in town; ow does not always have the sound in snow.",
+    "acceptanceNote": "Check the learner’s written word: clown. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Clown uses ow for the vowel sound heard in town; ow does not always have the sound in snow. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "A performer was dressed as a ___. The circus character had a red nose and enormous shoes. Use the word that rhymes with town. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "A performer was dressed as a ___. The circus character had a red nose and enormous shoes. Use the word that rhymes with town. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.",
-      "Because “They make all spellings regular” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
-    ],
-    "correct": 0,
-    "explanation": "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "clown. Clown uses ow for the vowel sound heard in town; ow does not always have the sound in snow.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "clown. Clown uses ow for the vowel sound heard in town; ow does not always have the sound in snow.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -484,23 +572,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-021",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "A student chooses “It has no spoken sounds” for this task: While spelling the word phone using the cue word phone, why can this word be difficult to spell? What should they check?",
-    "audioPrompt": "A student chooses “It has no spoken sounds” for this task: While spelling the word phone using the cue word phone, why can this word be difficult to spell? What should they check?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "journey. Journey ends ey; its first syllable keeps our. Check both parts instead of spelling only by sound.",
+    "acceptanceNote": "Check the learner’s written word: journey. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Journey ends ey; its first syllable keeps our. Check both parts instead of spelling only by sound. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The bottle holds enough water for the ___. Fill the gap with the word for a long trip that begins j and ends ey. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The bottle holds enough water for the ___. Fill the gap with the word for a long trip that begins j and ends ey. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Use the wording, structure and context before choosing.",
-      "Ignore the example and choose the remaining option."
-    ],
-    "correct": 1,
-    "explanation": "Use the wording, structure and context before choosing. Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "journey. Journey ends ey; its first syllable keeps our. Check both parts instead of spelling only by sound.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use the wording, structure and context before choosing. Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "journey. Journey ends ey; its first syllable keeps our. Check both parts instead of spelling only by sound.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,23 +601,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-022",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "A student chooses “Choose letters only by their alphabet names” for this task: While spelling the word phone using the cue word phone, which strategy best supports the spelling? What should they check?",
-    "audioPrompt": "A student chooses “Choose letters only by their alphabet names” for this task: While spelling the word phone using the cue word phone, which strategy best supports the spelling? What should they check?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "elephant. Elephant uses ph for /f/. Check the middle ph as well as the beginning ele and ending ant.",
+    "acceptanceNote": "Check the learner’s written word: elephant. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Elephant uses ph for /f/. Check the middle ph as well as the beginning ele and ending ant. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "We saw an ___ use its long trunk to lift food. The animal name contains ph. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "We saw an ___ use its long trunk to lift food. The animal name contains ph. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option.",
-      "Use the wording, structure and context before choosing."
-    ],
-    "correct": 2,
-    "explanation": "Use the wording, structure and context before choosing. Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "elephant. Elephant uses ph for /f/. Check the middle ph as well as the beginning ele and ending ant.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use the wording, structure and context before choosing. Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "elephant. Elephant uses ph for /f/. Check the middle ph as well as the beginning ele and ending ant.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -532,23 +630,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-023",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "A student chooses “Assume the first attempt must be right” for this task: While spelling the word phone using the cue word phone, what should a writer do after attempting the word? What should they check?",
-    "audioPrompt": "A student chooses “Assume the first attempt must be right” for this task: While spelling the word phone using the cue word phone, what should a writer do after attempting the word? What should they check?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "magpie. Magpie contains ie for the long i sound in its second part; retain the g before p.",
+    "acceptanceNote": "Check the learner’s written word: magpie. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Magpie contains ie for the long i sound in its second part; retain the g before p. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "A ___ rested on the fence and flashed its black-and-white feathers. The Australian bird’s name ends in pie. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "A ___ rested on the fence and flashed its black-and-white feathers. The Australian bird’s name ends in pie. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Use the wording, structure and context before choosing.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
-    ],
-    "correct": 0,
-    "explanation": "Use the wording, structure and context before choosing. Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "magpie. Magpie contains ie for the long i sound in its second part; retain the g before p.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use the wording, structure and context before choosing. Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "magpie. Magpie contains ie for the long i sound in its second part; retain the g before p.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -556,23 +659,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-024",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "A student chooses “They make all spellings regular” for this task: While spelling the word phone using the cue word phone, why are cue words useful for less common patterns? What should they check?",
-    "audioPrompt": "A student chooses “They make all spellings regular” for this task: While spelling the word phone using the cue word phone, why are cue words useful for less common patterns? What should they check?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "thumb. Thumb begins th and ends mb with a silent b.",
+    "acceptanceNote": "Check the learner’s written word: thumb. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Thumb begins th and ends mb with a silent b. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The end of my finger is near my ___. Write the name of the short thick digit beside the fingers. It has a silent final letter. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The end of my finger is near my ___. Write the name of the short thick digit beside the fingers. It has a silent final letter. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Use the wording, structure and context before choosing.",
-      "Ignore the example and choose the remaining option."
-    ],
-    "correct": 1,
-    "explanation": "Use the wording, structure and context before choosing. They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "thumb. Thumb begins th and ends mb with a silent b.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use the wording, structure and context before choosing. They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "thumb. Thumb begins th and ends mb with a silent b.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -580,23 +688,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-025",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "A student chooses “Every sound always has one spelling” for this task: While spelling the word phone using the cue word phone, which statement about English spelling is accurate? What should they check?",
-    "audioPrompt": "A student chooses “Every sound always has one spelling” for this task: While spelling the word phone using the cue word phone, which statement about English spelling is accurate? What should they check?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "sword. Sword retains w even though it is not pronounced separately.",
+    "acceptanceNote": "Check the learner’s written word: sword. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Sword retains w even though it is not pronounced separately. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The story's soldier carried a ___. Use the five-letter weapon name beginning sw; its w is silent. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The story's soldier carried a ___. Use the five-letter weapon name beginning sw; its w is silent. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option.",
-      "Use the wording, structure and context before choosing."
-    ],
-    "correct": 2,
-    "explanation": "Use the wording, structure and context before choosing. One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "sword. Sword retains w even though it is not pronounced separately.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use the wording, structure and context before choosing. One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "sword. Sword retains w even though it is not pronounced separately.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -604,23 +717,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-026",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "A student chooses “Every related word is spelled identically” for this task: While spelling the word phone using the cue word phone, how can word families help? What should they check?",
-    "audioPrompt": "A student chooses “Every related word is spelled identically” for this task: While spelling the word phone using the cue word phone, how can word families help? What should they check?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "honey. Honey ends ey and keeps o in the first syllable; the o does not have the vowel sound in hot.",
+    "acceptanceNote": "Check the learner’s written word: honey. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Honey ends ey and keeps o in the first syllable; the o does not have the vowel sound in hot. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The beekeeper poured sweet ___ from the hive into a jar. Use the substance whose name begins h and ends ey. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The beekeeper poured sweet ___ from the hive into a jar. Use the substance whose name begins h and ends ey. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Use the wording, structure and context before choosing.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
-    ],
-    "correct": 0,
-    "explanation": "Use the wording, structure and context before choosing. Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "honey. Honey ends ey and keeps o in the first syllable; the o does not have the vowel sound in hot.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use the wording, structure and context before choosing. Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "honey. Honey ends ey and keeps o in the first syllable; the o does not have the vowel sound in hot.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -628,23 +746,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-027",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "A student chooses “An isolated letter with no word” for this task: While spelling the word phone using the cue word phone, what is a useful personal spelling record? What should they check?",
-    "audioPrompt": "A student chooses “An isolated letter with no word” for this task: While spelling the word phone using the cue word phone, what is a useful personal spelling record? What should they check?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "patch. Patch uses tch for the final /ch/ sound after its short vowel.",
+    "acceptanceNote": "Check the learner’s written word: patch. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Patch uses tch for the final /ch/ sound after its short vowel. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "Dad put a ___ over the hole in the sleeve. The word rhymes with match and begins p. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "Dad put a ___ over the hole in the sleeve. The word rhymes with match and begins p. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Use the wording, structure and context before choosing.",
-      "Ignore the example and choose the remaining option."
-    ],
-    "correct": 1,
-    "explanation": "Use the wording, structure and context before choosing. The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "patch. Patch uses tch for the final /ch/ sound after its short vowel.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use the wording, structure and context before choosing. The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "patch. Patch uses tch for the final /ch/ sound after its short vowel.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -652,23 +775,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-028",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "A student chooses “Check only the first letter” for this task: While spelling the word phone using the cue word phone, which proofreading method is strongest? What should they check?",
-    "audioPrompt": "A student chooses “Check only the first letter” for this task: While spelling the word phone using the cue word phone, which proofreading method is strongest? What should they check?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "autumn. Autumn ends mn, with a silent n after m.",
+    "acceptanceNote": "Check the learner’s written word: autumn. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Autumn ends mn, with a silent n after m. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "After summer comes ___. Use the six-letter season name ending mn. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "After summer comes ___. Use the six-letter season name ending mn. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option.",
-      "Use the wording, structure and context before choosing."
-    ],
-    "correct": 2,
-    "explanation": "Use the wording, structure and context before choosing. Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "autumn. Autumn ends mn, with a silent n after m.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use the wording, structure and context before choosing. Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "autumn. Autumn ends mn, with a silent n after m.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -676,23 +804,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-029",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "A student chooses “It has no spoken sounds” for this task: While spelling the word school using the cue word school, why can this word be difficult to spell? What should they check?",
-    "audioPrompt": "A student chooses “It has no spoken sounds” for this task: While spelling the word school using the cue word school, why can this word be difficult to spell? What should they check?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "wheel. Wheel begins wh and contains ee. Preserve wh in spelling regardless of the speaker's pronunciation.",
+    "acceptanceNote": "Check the learner’s written word: wheel. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Wheel begins wh and contains ee. Preserve wh in spelling regardless of the speaker's pronunciation. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "In a car, the ___ turns to help it move. Use the round part’s five-letter name beginning wh. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "In a car, the ___ turns to help it move. Use the round part’s five-letter name beginning wh. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Use the wording, structure and context before choosing.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
-    ],
-    "correct": 0,
-    "explanation": "Use the wording, structure and context before choosing. Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "wheel. Wheel begins wh and contains ee. Preserve wh in spelling regardless of the speaker's pronunciation.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use the wording, structure and context before choosing. Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "wheel. Wheel begins wh and contains ee. Preserve wh in spelling regardless of the speaker's pronunciation.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -700,23 +833,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-030",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "A student chooses “Choose letters only by their alphabet names” for this task: While spelling the word school using the cue word school, which strategy best supports the spelling? What should they check?",
-    "audioPrompt": "A student chooses “Choose letters only by their alphabet names” for this task: While spelling the word school using the cue word school, which strategy best supports the spelling? What should they check?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "bicycle. Bicycle keeps c in both cycle positions; the first c in cycle represents /s/ and the second /k/.",
+    "acceptanceNote": "Check the learner’s written word: bicycle. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Bicycle keeps c in both cycle positions; the first c in cycle represents /s/ and the second /k/. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "Use the seven-letter word for a two-wheeled vehicle with pedals: ___. Its opening letters are bi. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "Use the seven-letter word for a two-wheeled vehicle with pedals: ___. Its opening letters are bi. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Use the wording, structure and context before choosing.",
-      "Ignore the example and choose the remaining option."
-    ],
-    "correct": 1,
-    "explanation": "Use the wording, structure and context before choosing. Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "bicycle. Bicycle keeps c in both cycle positions; the first c in cycle represents /s/ and the second /k/.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use the wording, structure and context before choosing. Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "bicycle. Bicycle keeps c in both cycle positions; the first c in cycle represents /s/ and the second /k/.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -724,23 +862,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-031",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "While spelling the word school using the cue word school, what is a useful personal spelling record?",
-    "audioPrompt": "While spelling the word school using the cue word school, what is a useful personal spelling record?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "cheerful. Cheerful begins ch, contains eer and ends ful with one l.",
+    "acceptanceNote": "Check the learner’s written word: cheerful. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Cheerful begins ch, contains eer and ends ful with one l. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The new puppy was very ___. Use the word for lively happiness that begins ch and ends ful. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The new puppy was very ___. Use the word for lively happiness that begins ch and ends ful. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "An isolated letter with no word",
-      "A row of slashes",
-      "The complete word, its tricky part and a meaningful example sentence"
-    ],
-    "correct": 2,
-    "explanation": "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "cheerful. Cheerful begins ch, contains eer and ends ful with one l.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "cheerful. Cheerful begins ch, contains eer and ends ful with one l.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -748,23 +891,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-032",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "While spelling the word school using the cue word school, which proofreading method is strongest?",
-    "audioPrompt": "While spelling the word school using the cue word school, which proofreading method is strongest?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "flour. Flour and flower sound alike for many speakers but flour is the ingredient, with our.",
+    "acceptanceNote": "Check the learner’s written word: flour. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Flour and flower sound alike for many speakers but flour is the ingredient, with our. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The baker measured the ___ for the dough. Use the ingredient that sounds like flower but is ground grain. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The baker measured the ___ for the dough. Use the ingredient that sounds like flower but is ground grain. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Read the sentence, notice the uncertain word, then verify its complete spelling",
-      "Check only the first letter",
-      "Listen once and never inspect the written word"
-    ],
-    "correct": 0,
-    "explanation": "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "flour. Flour and flower sound alike for many speakers but flour is the ingredient, with our.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "flour. Flour and flower sound alike for many speakers but flour is the ingredient, with our.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -772,23 +920,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-033",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "While spelling the word measure using the cue word measure, why can this word be difficult to spell?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, why can this word be difficult to spell?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "bench. Bench ends nch: n is followed by ch for /ch/.",
+    "acceptanceNote": "Check the learner’s written word: bench. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Bench ends nch: n is followed by ch for /ch/. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "Grandad sat on a garden ___. Use the five-letter seat name ending nch. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "Grandad sat on a garden ___. Use the five-letter seat name ending nch. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "It has no spoken sounds",
-      "Its sounds use a less common letter pattern",
-      "Every letter has only one possible sound"
-    ],
-    "correct": 1,
-    "explanation": "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "bench. Bench ends nch: n is followed by ch for /ch/.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Its sounds use a less common letter pattern This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "bench. Bench ends nch: n is followed by ch for /ch/.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -796,23 +949,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-034",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "While spelling the word measure using the cue word measure, which strategy best supports the spelling?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, which strategy best supports the spelling?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "church. Church retains ch at the beginning and end and ur in the middle.",
+    "acceptanceNote": "Check the learner’s written word: church. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Church retains ch at the beginning and end and ur in the middle. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The children walked past a ___ with a pointed roof and a bell. Use the six-letter building name with ch at both ends. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The children walked past a ___ with a pointed roof and a bell. Use the six-letter building name with ch at both ends. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Choose letters only by their alphabet names",
-      "Replace the difficult part with a dash",
-      "Recall the whole word and its known letter pattern"
-    ],
-    "correct": 2,
-    "explanation": "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "church. Church retains ch at the beginning and end and ur in the middle.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Recall the whole word and its known letter pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "church. Church retains ch at the beginning and end and ur in the middle.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -820,23 +978,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-035",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "While spelling the word measure using the cue word measure, what should a writer do after attempting the word?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, what should a writer do after attempting the word?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "scent. Scent begins sc, pronounced /s/ here; keep c even though it adds no separate spoken sound.",
+    "acceptanceNote": "Check the learner’s written word: scent. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Scent begins sc, pronounced /s/ here; keep c even though it adds no separate spoken sound. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The dog followed a strong ___. Use the five-letter word meaning smell that begins sc. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The dog followed a strong ___. Use the five-letter word meaning smell that begins sc. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Check it against a trusted spelling source",
-      "Assume the first attempt must be right",
-      "Remove the word from the sentence"
-    ],
-    "correct": 0,
-    "explanation": "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "scent. Scent begins sc, pronounced /s/ here; keep c even though it adds no separate spoken sound.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Check it against a trusted spelling source This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "scent. Scent begins sc, pronounced /s/ here; keep c even though it adds no separate spoken sound.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -844,23 +1007,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-036",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "While spelling the word measure using the cue word measure, why are cue words useful for less common patterns?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, why are cue words useful for less common patterns?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "photo. Photo begins ph for /f/ and ends o. It is the common shortened form of photograph.",
+    "acceptanceNote": "Check the learner’s written word: photo. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Photo begins ph for /f/ and ends o. It is the common shortened form of photograph. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "We took a ___ of the group with a camera. Use the short five-letter word beginning ph. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "We took a ___ of the group with a camera. Use the short five-letter word beginning ph. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "They make all spellings regular",
-      "They connect a sound pattern with a familiar complete word",
-      "They remove the need for meaning"
-    ],
-    "correct": 1,
-    "explanation": "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "photo. Photo begins ph for /f/ and ends o. It is the common shortened form of photograph.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "They connect a sound pattern with a familiar complete word This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "photo. Photo begins ph for /f/ and ends o. It is the common shortened form of photograph.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -868,23 +1036,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-037",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "While spelling the word measure using the cue word measure, which statement about English spelling is accurate?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, which statement about English spelling is accurate?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "edge. Edge ends dge for /j/ after the short e sound.",
+    "acceptanceNote": "Check the learner’s written word: edge. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Edge ends dge for /j/ after the short e sound. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The swimmer stood on the ___ before diving into the pool. Use the word that rhymes with hedge and begins with a vowel. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The swimmer stood on the ___ before diving into the pool. Use the word that rhymes with hedge and begins with a vowel. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Every sound always has one spelling",
-      "Word history never affects spelling",
-      "One sound can be represented by different letter patterns"
-    ],
-    "correct": 2,
-    "explanation": "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "edge. Edge ends dge for /j/ after the short e sound.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "One sound can be represented by different letter patterns This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "edge. Edge ends dge for /j/ after the short e sound.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -892,23 +1065,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-038",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "While spelling the word measure using the cue word measure, how can word families help?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, how can word families help?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "shoot. Shoot uses oo for its long vowel sound and sh for its first sound.",
+    "acceptanceNote": "Check the learner’s written word: shoot. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Shoot uses oo for its long vowel sound and sh for its first sound. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "A tiny ___ was curled inside the seed. Use the five-letter word naming a young plant that begins s and ends t. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "A tiny ___ was curled inside the seed. Use the five-letter word naming a young plant that begins s and ends t. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Related words may preserve a recognisable spelling pattern",
-      "Every related word is spelled identically",
-      "Families are based only on word length"
-    ],
-    "correct": 0,
-    "explanation": "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "shoot. Shoot uses oo for its long vowel sound and sh for its first sound.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Related words may preserve a recognisable spelling pattern This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "shoot. Shoot uses oo for its long vowel sound and sh for its first sound.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -916,23 +1094,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-039",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "While spelling the word measure using the cue word measure, what is a useful personal spelling record?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, what is a useful personal spelling record?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "whole. Whole starts wh with silent w and retains final e.",
+    "acceptanceNote": "Check the learner’s written word: whole. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Whole starts wh with silent w and retains final e. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "Please take the ___ loaf, not just a slice. Use the five-letter word that means all of it and sounds like hole. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "Please take the ___ loaf, not just a slice. Use the five-letter word that means all of it and sounds like hole. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "An isolated letter with no word",
-      "The complete word, its tricky part and a meaningful example sentence",
-      "A row of slashes"
-    ],
-    "correct": 1,
-    "explanation": "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "whole. Whole starts wh with silent w and retains final e.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The complete word, its tricky part and a meaningful example sentence This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "whole. Whole starts wh with silent w and retains final e.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   },
@@ -940,23 +1123,260 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3ly11-p-040",
     "curriculumCode": "AC9E3LY11",
     "bank": "practice",
-    "skill": "Less Common Spelling Patterns",
+    "skill": "Less common spelling patterns",
     "printable": true,
-    "type": "single",
-    "question": "While spelling the word measure using the cue word measure, which proofreading method is strongest?",
-    "audioPrompt": "While spelling the word measure using the cue word measure, which proofreading method is strongest?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "laugh. Laugh ends gh, which represents /f/ in this word; it does not have the same job as gh in night.",
+    "acceptanceNote": "Check the learner’s written word: laugh. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Laugh ends gh, which represents /f/ in this word; it does not have the same job as gh in night. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The stage show made us ___ loudly. Use the five-letter verb beginning l that means make a happy ha-ha sound. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The stage show made us ___ loudly. Use the five-letter verb beginning l that means make a happy ha-ha sound. Supply the complete missing word, then underline or name the spelling part that needs care.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Check only the first letter",
-      "Listen once and never inspect the written word",
-      "Read the sentence, notice the uncertain word, then verify its complete spelling"
-    ],
-    "correct": 2,
-    "explanation": "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "laugh. Laugh ends gh, which represents /f/ in this word; it does not have the same job as gh in night.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Read the sentence, notice the uncertain word, then verify its complete spelling This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "laugh. Laugh ends gh, which represents /f/ in this word; it does not have the same job as gh in night.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3ly11-p-041",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "skill": "Less common spelling patterns",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "knee. Knee begins kn with silent k, followed by ee for the vowel sound.",
+    "acceptanceNote": "Check the learner’s written word: knee. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Knee begins kn with silent k, followed by ee for the vowel sound. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "A ___ is the part of your leg between your thigh and your lower leg. The four-letter word begins with a silent k. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "A ___ is the part of your leg between your thigh and your lower leg. The four-letter word begins with a silent k. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "knee. Knee begins kn with silent k, followed by ee for the vowel sound.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "knee. Knee begins kn with silent k, followed by ee for the vowel sound.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3ly11-p-042",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "skill": "Less common spelling patterns",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "right. Right contains igh for the long i sound; gh is not pronounced separately.",
+    "acceptanceNote": "Check the learner’s written word: right. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Right contains igh for the long i sound; gh is not pronounced separately. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The sign shows an arrow pointing ___. Use the opposite of left, a five-letter word ending ght. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The sign shows an arrow pointing ___. Use the opposite of left, a five-letter word ending ght. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "right. Right contains igh for the long i sound; gh is not pronounced separately.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "right. Right contains igh for the long i sound; gh is not pronounced separately.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3ly11-p-043",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "skill": "Less common spelling patterns",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "ribbon. Ribbon has double b and ends on; spelling both syllables helps preserve the unstressed ending.",
+    "acceptanceNote": "Check the learner’s written word: ribbon. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Ribbon has double b and ends on; spelling both syllables helps preserve the unstressed ending. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The shop’s opening was marked by a long ___ tied across the doorway. Use the six-letter word beginning rib. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The shop’s opening was marked by a long ___ tied across the doorway. Use the six-letter word beginning rib. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "ribbon. Ribbon has double b and ends on; spelling both syllables helps preserve the unstressed ending.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "ribbon. Ribbon has double b and ends on; spelling both syllables helps preserve the unstressed ending.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3ly11-p-044",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "skill": "Less common spelling patterns",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "light. Light contains igh and final t. The gh has no separate /g/ or /h/ sound.",
+    "acceptanceNote": "Check the learner’s written word: light. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Light contains igh and final t. The gh has no separate /g/ or /h/ sound. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "A storm flashed and the sudden ___ lit the clouds. Use the five-letter noun beginning l and ending ght. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "A storm flashed and the sudden ___ lit the clouds. Use the five-letter noun beginning l and ending ght. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "light. Light contains igh and final t. The gh has no separate /g/ or /h/ sound.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "light. Light contains igh and final t. The gh has no separate /g/ or /h/ sound.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3ly11-p-045",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "skill": "Less common spelling patterns",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "button. Button keeps double t and the ending on even when the final vowel is weak in speech.",
+    "acceptanceNote": "Check the learner’s written word: button. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Button keeps double t and the ending on even when the final vowel is weak in speech. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "Maya fastened her coat with a ___. Use the six-letter object name beginning but. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "Maya fastened her coat with a ___. Use the six-letter object name beginning but. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "button. Button keeps double t and the ending on even when the final vowel is weak in speech.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "button. Button keeps double t and the ending on even when the final vowel is weak in speech.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3ly11-p-046",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "skill": "Less common spelling patterns",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "wrist. Wrist starts wr with silent w and ends in the st consonant cluster.",
+    "acceptanceNote": "Check the learner’s written word: wrist. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Wrist starts wr with silent w and ends in the st consonant cluster. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "A watch can be worn around your ___. Use the five-letter body-part name starting wr. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "A watch can be worn around your ___. Use the five-letter body-part name starting wr. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "wrist. Wrist starts wr with silent w and ends in the st consonant cluster.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "wrist. Wrist starts wr with silent w and ends in the st consonant cluster.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3ly11-p-047",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "skill": "Less common spelling patterns",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "odour. Odour uses the Australian ending our. Odor is a different regional spelling, so practise odour for this task.",
+    "acceptanceNote": "Check the learner’s written word: odour. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Odour uses the Australian ending our. Odor is a different regional spelling, so practise odour for this task. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "A flower can have a sweet ___. Use the five-letter Australian spelling of a word meaning smell that begins o. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "A flower can have a sweet ___. Use the five-letter Australian spelling of a word meaning smell that begins o. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "odour. Odour uses the Australian ending our. Odor is a different regional spelling, so practise odour for this task.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "odour. Odour uses the Australian ending our. Odor is a different regional spelling, so practise odour for this task.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3ly11-p-048",
+    "curriculumCode": "AC9E3LY11",
+    "bank": "practice",
+    "skill": "Less common spelling patterns",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "glue. Glue ends ue for the vowel sound; it does not end oo.",
+    "acceptanceNote": "Check the learner’s written word: glue. Accept upper- or lower-case letters. Require the correct whole spelling and identification of a relevant letter pattern; the pattern explanation need not use technical terms. Glue ends ue for the vowel sound; it does not end oo. If the learner gives a different sensible word, discuss the clue before asking for this target; do not treat vocabulary uncertainty as proof of a spelling error.",
+    "responseInstructions": "Work out the word from the sentence and clue. Write it here or on paper before viewing the example. An adult checks the actual spelling and the letter pattern you noticed.",
+    "completionLabel": "My spelling and pattern response are ready for an adult to check.",
+    "question": "The sticky ___ held the envelope shut. Use the four-letter word beginning gl and ending in two vowel letters. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "audioPrompt": "The sticky ___ held the envelope shut. Use the four-letter word beginning gl and ending in two vowel letters. Supply the complete missing word, then underline or name the spelling part that needs care.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "glue. Glue ends ue for the vowel sound; it does not end oo.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "glue. Glue ends ue for the vowel sound; it does not end oo.",
+      "hint": "Say the word you have worked out, think about its sounds, and check any unusual letters."
     },
     "qualitySchema": "production-v1"
   }

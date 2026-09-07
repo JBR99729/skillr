@@ -4,23 +4,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-001",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
     "type": "single",
-    "question": "In instructions for preparing lunch, how should a writer choose between words that sound alike?",
-    "audioPrompt": "In instructions for preparing lunch, how should a writer choose between words that sound alike?",
+    "question": "Complete “We bought fresh ___ for the sandwiches.” Choose the correctly spelt food word.",
+    "audioPrompt": "Complete “We bought fresh ___ for the sandwiches.” Choose the correctly spelt food word.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Choose whichever spelling is shorter",
-      "Use the sentence meaning and grammar",
-      "Use both spellings together"
+      "bread",
+      "bred",
+      "bredd",
+      "breade"
     ],
-    "correct": 1,
-    "explanation": "Use the sentence meaning and grammar This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 0,
+    "explanation": "Bread is the food, with ea. Bred is the past form of breed.\nHint: Read the whole sentence and check what the missing word must mean.",
     "structuredExplanation": {
-      "summary": "Use the sentence meaning and grammar This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Bread is the food, with ea. Bred is the past form of breed.",
+      "hint": "Read the whole sentence and check what the missing word must mean."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +32,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-002",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
     "type": "single",
-    "question": "In instructions for preparing lunch, which option correctly completes the meaning 'belonging to them'?",
-    "audioPrompt": "In instructions for preparing lunch, which option correctly completes the meaning 'belonging to them'?",
+    "question": "“___ going to rain,” said Dad. Which contraction means it is?",
+    "audioPrompt": "“___ going to rain,” said Dad. Which contraction means it is?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "there, the place word",
-      "they're, the contraction meaning they are",
-      "their, the ownership word"
+      "Its",
+      "It's",
+      "Its'",
+      "It"
     ],
-    "correct": 2,
-    "explanation": "their, the ownership word This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 1,
+    "explanation": "It’s means it is here. Its without an apostrophe shows belonging.\nHint: Read the whole sentence and check what the missing word must mean.",
     "structuredExplanation": {
-      "summary": "their, the ownership word This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "It’s means it is here. Its without an apostrophe shows belonging.",
+      "hint": "Read the whole sentence and check what the missing word must mean."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +60,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-003",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
     "type": "single",
-    "question": "In instructions for preparing lunch, which option correctly means 'in that place'?",
-    "audioPrompt": "In instructions for preparing lunch, which option correctly means 'in that place'?",
+    "question": "Which word completes “I have ___ finished my puzzle; may I start another?”",
+    "audioPrompt": "Which word completes “I have ___ finished my puzzle; may I start another?”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "there, the place word",
-      "their, the ownership word",
-      "they're, the contraction meaning they are"
+      "allready",
+      "alredy",
+      "already",
+      "allredy"
     ],
-    "correct": 0,
-    "explanation": "there, the place word This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 2,
+    "explanation": "Already means before now or by now. It has one l and keeps ready as its final letters.\nHint: Read the whole sentence and check what the missing word must mean.",
     "structuredExplanation": {
-      "summary": "there, the place word This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Already means before now or by now. It has one l and keeps ready as its final letters.",
+      "hint": "Read the whole sentence and check what the missing word must mean."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +88,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-004",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
     "type": "single",
-    "question": "In instructions for preparing lunch, which option correctly means 'they are'?",
-    "audioPrompt": "In instructions for preparing lunch, which option correctly means 'they are'?",
+    "question": "Complete “Mum ___ the story aloud last night.” Choose the past-tense reading word, not a colour.",
+    "audioPrompt": "Complete “Mum ___ the story aloud last night.” Choose the past-tense reading word, not a colour.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "their, the ownership word",
-      "they're, the contraction meaning they are",
-      "there, the place word"
+      "red",
+      "reed",
+      "readd",
+      "read"
     ],
-    "correct": 1,
-    "explanation": "they're, the contraction meaning they are This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "correct": 3,
+    "explanation": "Read is the past-tense reading word; it sounds like red here but keeps the spelling read.\nHint: Read the whole sentence and check what the missing word must mean.",
     "structuredExplanation": {
-      "summary": "they're, the contraction meaning they are This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "Read is the past-tense reading word; it sounds like red here but keeps the spelling read.",
+      "hint": "Read the whole sentence and check what the missing word must mean."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +116,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-005",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
-    "type": "single",
-    "question": "In instructions for preparing lunch, what helps spell a high-frequency word accurately?",
-    "audioPrompt": "In instructions for preparing lunch, what helps spell a high-frequency word accurately?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "from. From keeps o in the middle and ends m.",
+    "acceptanceNote": "Check the actual written target: from. Accept upper- or lower-case letters unless a capital is needed to begin a supplied sentence. Require the whole correct spelling, including any apostrophe. From keeps o in the middle and ends m. If another word fits the sentence, use the additional clue to discuss the intended word before checking its spelling. A copied model is practice, not independent spelling evidence.",
+    "responseInstructions": "Use the sentence and clue to work out the word. Record your response using the box or paper. View the example only after finishing. An adult checks correct spelling and meaning.",
+    "completionLabel": "My spelling response is ready for an adult to check.",
+    "question": "“The card is ___ our whole class.” Use the four-letter word showing who sent it, beginning f. Supply the missing word.",
+    "audioPrompt": "“The card is ___ our whole class.” Use the four-letter word showing who sent it, beginning f. Supply the missing word.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Invent a new spelling each time",
-      "Rely only on how one speaker pronounces it",
-      "Recall its complete stored spelling and check it in context"
-    ],
-    "correct": 2,
-    "explanation": "Recall its complete stored spelling and check it in context This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "from. From keeps o in the middle and ends m.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Recall its complete stored spelling and check it in context This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "from. From keeps o in the middle and ends m.",
+      "hint": "Think of the word first, then check its letters. Same-sounding words can have different meanings."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +145,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-006",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
-    "type": "single",
-    "question": "In instructions for preparing lunch, why can homophones confuse writers?",
-    "audioPrompt": "In instructions for preparing lunch, why can homophones confuse writers?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "into. Into is one word in this sentence. It ends to.",
+    "acceptanceNote": "Check the actual written target: into. Accept upper- or lower-case letters unless a capital is needed to begin a supplied sentence. Require the whole correct spelling, including any apostrophe. Into is one word in this sentence. It ends to. If another word fits the sentence, use the additional clue to discuss the intended word before checking its spelling. A copied model is practice, not independent spelling evidence.",
+    "responseInstructions": "Use the sentence and clue to work out the word. Record your response using the box or paper. View the example only after finishing. An adult checks correct spelling and meaning.",
+    "completionLabel": "My spelling response is ready for an adult to check.",
+    "question": "“The puppy came ___ the room.” Use the four-letter word meaning to the inside, beginning in. Supply the missing word.",
+    "audioPrompt": "“The puppy came ___ the room.” Use the four-letter word meaning to the inside, beginning in. Supply the missing word.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "They sound alike but have different spellings and meanings",
-      "They always have opposite meanings",
-      "They are written exactly alike"
-    ],
-    "correct": 0,
-    "explanation": "They sound alike but have different spellings and meanings This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "into. Into is one word in this sentence. It ends to.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "They sound alike but have different spellings and meanings This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "into. Into is one word in this sentence. It ends to.",
+      "hint": "Think of the word first, then check its letters. Same-sounding words can have different meanings."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +174,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-007",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
-    "type": "single",
-    "question": "In instructions for preparing lunch, which proofreading question is most useful?",
-    "audioPrompt": "In instructions for preparing lunch, which proofreading question is most useful?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "were. Were is the past-tense form used with we here. It ends ere; do not spell it only as it sounds.",
+    "acceptanceNote": "Check the actual written target: were. Accept upper- or lower-case letters unless a capital is needed to begin a supplied sentence. Require the whole correct spelling, including any apostrophe. Were is the past-tense form used with we here. It ends ere; do not spell it only as it sounds. If another word fits the sentence, use the additional clue to discuss the intended word before checking its spelling. A copied model is practice, not independent spelling evidence.",
+    "responseInstructions": "Use the sentence and clue to work out the word. Record your response using the box or paper. View the example only after finishing. An adult checks correct spelling and meaning.",
+    "completionLabel": "My spelling response is ready for an adult to check.",
+    "question": "“We ___ ready when the bus arrived.” Use the four-letter past-tense word beginning w that goes with we, rather than was. Supply the missing word.",
+    "audioPrompt": "“We ___ ready when the bus arrived.” Use the four-letter past-tense word beginning w that goes with we, rather than was. Supply the missing word.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Is this the longest option?",
-      "Does this spelling match the meaning I intend?",
-      "Does the word begin the page?"
-    ],
-    "correct": 1,
-    "explanation": "Does this spelling match the meaning I intend? This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "were. Were is the past-tense form used with we here. It ends ere; do not spell it only as it sounds.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Does this spelling match the meaning I intend? This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "were. Were is the past-tense form used with we here. It ends ere; do not spell it only as it sounds.",
+      "hint": "Think of the word first, then check its letters. Same-sounding words can have different meanings."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +203,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-008",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
-    "type": "single",
-    "question": "In instructions for preparing lunch, a familiar word still looks wrong. What should the writer do?",
-    "audioPrompt": "In instructions for preparing lunch, a familiar word still looks wrong. What should the writer do?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "when. When begins wh and ends en. Preserve wh regardless of accent.",
+    "acceptanceNote": "Check the actual written target: when. Accept upper- or lower-case letters unless a capital is needed to begin a supplied sentence. Require the whole correct spelling, including any apostrophe. When begins wh and ends en. Preserve wh regardless of accent. If another word fits the sentence, use the additional clue to discuss the intended word before checking its spelling. A copied model is practice, not independent spelling evidence.",
+    "responseInstructions": "Use the sentence and clue to work out the word. Record your response using the box or paper. View the example only after finishing. An adult checks correct spelling and meaning.",
+    "completionLabel": "My spelling response is ready for an adult to check.",
+    "question": "“___ is the bus coming?” Use the four-letter question word asking at what time, beginning wh. Supply the missing word.",
+    "audioPrompt": "“___ is the bus coming?” Use the four-letter question word asking at what time, beginning wh. Supply the missing word.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Add an apostrophe anywhere",
-      "Replace it with a blank line",
-      "Check the complete word in a trusted source and correct it"
-    ],
-    "correct": 2,
-    "explanation": "Check the complete word in a trusted source and correct it This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "when. When begins wh and ends en. Preserve wh regardless of accent.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Check the complete word in a trusted source and correct it This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "when. When begins wh and ends en. Preserve wh regardless of accent.",
+      "hint": "Think of the word first, then check its letters. Same-sounding words can have different meanings."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +232,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-009",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
-    "type": "single",
-    "question": "In a report about visiting the coast, how should a writer choose between words that sound alike?",
-    "audioPrompt": "In a report about visiting the coast, how should a writer choose between words that sound alike?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "because. Because contains cause after be. Check the middle au and the ending se.",
+    "acceptanceNote": "Check the actual written target: because. Accept upper- or lower-case letters unless a capital is needed to begin a supplied sentence. Require the whole correct spelling, including any apostrophe. Because contains cause after be. Check the middle au and the ending se. If another word fits the sentence, use the additional clue to discuss the intended word before checking its spelling. A copied model is practice, not independent spelling evidence.",
+    "responseInstructions": "Use the sentence and clue to work out the word. Record your response using the box or paper. View the example only after finishing. An adult checks correct spelling and meaning.",
+    "completionLabel": "My spelling response is ready for an adult to check.",
+    "question": "“We stayed home ___ it was raining.” Use the seven-letter word introducing the reason, beginning be. Supply the missing word.",
+    "audioPrompt": "“We stayed home ___ it was raining.” Use the seven-letter word introducing the reason, beginning be. Supply the missing word.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Use the sentence meaning and grammar",
-      "Choose whichever spelling is shorter",
-      "Use both spellings together"
-    ],
-    "correct": 0,
-    "explanation": "Use the sentence meaning and grammar This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "because. Because contains cause after be. Check the middle au and the ending se.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Use the sentence meaning and grammar This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "because. Because contains cause after be. Check the middle au and the ending se.",
+      "hint": "Think of the word first, then check its letters. Same-sounding words can have different meanings."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +261,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-010",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
-    "type": "single",
-    "question": "In a report about visiting the coast, which option correctly completes the meaning 'belonging to them'?",
-    "audioPrompt": "In a report about visiting the coast, which option correctly completes the meaning 'belonging to them'?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "show. Show starts sh and ends ow for the vowel sound in this word.",
+    "acceptanceNote": "Check the actual written target: show. Accept upper- or lower-case letters unless a capital is needed to begin a supplied sentence. Require the whole correct spelling, including any apostrophe. Show starts sh and ends ow for the vowel sound in this word. If another word fits the sentence, use the additional clue to discuss the intended word before checking its spelling. A copied model is practice, not independent spelling evidence.",
+    "responseInstructions": "Use the sentence and clue to work out the word. Record your response using the box or paper. View the example only after finishing. An adult checks correct spelling and meaning.",
+    "completionLabel": "My spelling response is ready for an adult to check.",
+    "question": "“Can you ___ me the way?” Use the four-letter verb meaning let me see, beginning sh. Supply the missing word.",
+    "audioPrompt": "“Can you ___ me the way?” Use the four-letter verb meaning let me see, beginning sh. Supply the missing word.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "there, the place word",
-      "their, the ownership word",
-      "they're, the contraction meaning they are"
-    ],
-    "correct": 1,
-    "explanation": "their, the ownership word This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "show. Show starts sh and ends ow for the vowel sound in this word.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "their, the ownership word This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "show. Show starts sh and ends ow for the vowel sound in this word.",
+      "hint": "Think of the word first, then check its letters. Same-sounding words can have different meanings."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +290,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-011",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
-    "type": "single",
-    "question": "In a report about visiting the coast, which option correctly means 'in that place'?",
-    "audioPrompt": "In a report about visiting the coast, which option correctly means 'in that place'?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "pair. Pair is a set of two and uses ai. Pear is the fruit.",
+    "acceptanceNote": "Check the actual written target: pair. Accept upper- or lower-case letters unless a capital is needed to begin a supplied sentence. Require the whole correct spelling, including any apostrophe. Pair is a set of two and uses ai. Pear is the fruit. If another word fits the sentence, use the additional clue to discuss the intended word before checking its spelling. A copied model is practice, not independent spelling evidence.",
+    "responseInstructions": "Use the sentence and clue to work out the word. Record your response using the box or paper. View the example only after finishing. An adult checks correct spelling and meaning.",
+    "completionLabel": "My spelling response is ready for an adult to check.",
+    "question": "“The ___ of shoes cost ten dollars.” Use the four-letter word meaning a matching set of two that sounds like the name of a fruit. Supply the missing word.",
+    "audioPrompt": "“The ___ of shoes cost ten dollars.” Use the four-letter word meaning a matching set of two that sounds like the name of a fruit. Supply the missing word.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "their, the ownership word",
-      "they're, the contraction meaning they are",
-      "there, the place word"
-    ],
-    "correct": 2,
-    "explanation": "there, the place word This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "pair. Pair is a set of two and uses ai. Pear is the fruit.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "there, the place word This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "pair. Pair is a set of two and uses ai. Pear is the fruit.",
+      "hint": "Think of the word first, then check its letters. Same-sounding words can have different meanings."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +319,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-012",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
-    "type": "single",
-    "question": "In a report about visiting the coast, which option correctly means 'they are'?",
-    "audioPrompt": "In a report about visiting the coast, which option correctly means 'they are'?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "pear. Pear is the fruit and uses ea. Pair means a set of two.",
+    "acceptanceNote": "Check the actual written target: pear. Accept upper- or lower-case letters unless a capital is needed to begin a supplied sentence. Require the whole correct spelling, including any apostrophe. Pear is the fruit and uses ea. Pair means a set of two. If another word fits the sentence, use the additional clue to discuss the intended word before checking its spelling. A copied model is practice, not independent spelling evidence.",
+    "responseInstructions": "Use the sentence and clue to work out the word. Record your response using the box or paper. View the example only after finishing. An adult checks correct spelling and meaning.",
+    "completionLabel": "My spelling response is ready for an adult to check.",
+    "question": "“Jo packed a ripe ___ for lunch.” Use the four-letter fruit name that sounds like a set of two. Supply the missing word.",
+    "audioPrompt": "“Jo packed a ripe ___ for lunch.” Use the four-letter fruit name that sounds like a set of two. Supply the missing word.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "they're, the contraction meaning they are",
-      "their, the ownership word",
-      "there, the place word"
-    ],
-    "correct": 0,
-    "explanation": "they're, the contraction meaning they are This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "pear. Pear is the fruit and uses ea. Pair means a set of two.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "they're, the contraction meaning they are This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "pear. Pear is the fruit and uses ea. Pair means a set of two.",
+      "hint": "Think of the word first, then check its letters. Same-sounding words can have different meanings."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +348,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-013",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
-    "type": "single",
-    "question": "In a report about visiting the coast, what helps spell a high-frequency word accurately?",
-    "audioPrompt": "In a report about visiting the coast, what helps spell a high-frequency word accurately?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "air. Air is spelt a-i-r. It is not the same spelling as heir, a person who inherits.",
+    "acceptanceNote": "Check the actual written target: air. Accept upper- or lower-case letters unless a capital is needed to begin a supplied sentence. Require the whole correct spelling, including any apostrophe. Air is spelt a-i-r. It is not the same spelling as heir, a person who inherits. If another word fits the sentence, use the additional clue to discuss the intended word before checking its spelling. A copied model is practice, not independent spelling evidence.",
+    "responseInstructions": "Use the sentence and clue to work out the word. Record your response using the box or paper. View the example only after finishing. An adult checks correct spelling and meaning.",
+    "completionLabel": "My spelling response is ready for an adult to check.",
+    "question": "“The washing blew in the ___.” Use the three-letter word for the mixture around us that we breathe, beginning a. Supply the missing word.",
+    "audioPrompt": "“The washing blew in the ___.” Use the three-letter word for the mixture around us that we breathe, beginning a. Supply the missing word.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Invent a new spelling each time",
-      "Recall its complete stored spelling and check it in context",
-      "Rely only on how one speaker pronounces it"
-    ],
-    "correct": 1,
-    "explanation": "Recall its complete stored spelling and check it in context This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "air. Air is spelt a-i-r. It is not the same spelling as heir, a person who inherits.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Recall its complete stored spelling and check it in context This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "air. Air is spelt a-i-r. It is not the same spelling as heir, a person who inherits.",
+      "hint": "Think of the word first, then check its letters. Same-sounding words can have different meanings."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +377,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-014",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
-    "type": "single",
-    "question": "In a report about visiting the coast, why can homophones confuse writers?",
-    "audioPrompt": "In a report about visiting the coast, why can homophones confuse writers?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "buy. Buy means purchase. Bye is a farewell and by has other uses.",
+    "acceptanceNote": "Check the actual written target: buy. Accept upper- or lower-case letters unless a capital is needed to begin a supplied sentence. Require the whole correct spelling, including any apostrophe. Buy means purchase. Bye is a farewell and by has other uses. If another word fits the sentence, use the additional clue to discuss the intended word before checking its spelling. A copied model is practice, not independent spelling evidence.",
+    "responseInstructions": "Use the sentence and clue to work out the word. Record your response using the box or paper. View the example only after finishing. An adult checks correct spelling and meaning.",
+    "completionLabel": "My spelling response is ready for an adult to check.",
+    "question": "“We will ___ some milk at the shop.” Use the three-letter word meaning purchase that sounds like a farewell. Supply the missing word.",
+    "audioPrompt": "“We will ___ some milk at the shop.” Use the three-letter word meaning purchase that sounds like a farewell. Supply the missing word.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "They always have opposite meanings",
-      "They are written exactly alike",
-      "They sound alike but have different spellings and meanings"
-    ],
-    "correct": 2,
-    "explanation": "They sound alike but have different spellings and meanings This explanation follows the relevant Year 3 English evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "buy. Buy means purchase. Bye is a farewell and by has other uses.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "They sound alike but have different spellings and meanings This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "buy. Buy means purchase. Bye is a farewell and by has other uses.",
+      "hint": "Think of the word first, then check its letters. Same-sounding words can have different meanings."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +406,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-015",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
-    "type": "single",
-    "question": "In a report about visiting the coast, which proofreading question is most useful?",
-    "audioPrompt": "In a report about visiting the coast, which proofreading question is most useful?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "bye. Bye is the short farewell, with final e. Buy means purchase.",
+    "acceptanceNote": "Check the actual written target: bye. Accept upper- or lower-case letters unless a capital is needed to begin a supplied sentence. Require the whole correct spelling, including any apostrophe. Bye is the short farewell, with final e. Buy means purchase. If another word fits the sentence, use the additional clue to discuss the intended word before checking its spelling. A copied model is practice, not independent spelling evidence.",
+    "responseInstructions": "Use the sentence and clue to work out the word. Record your response using the box or paper. View the example only after finishing. An adult checks correct spelling and meaning.",
+    "completionLabel": "My spelling response is ready for an adult to check.",
+    "question": "“Say ___ before you leave.” Use the three-letter short farewell that sounds like the verb meaning purchase. Supply the missing word.",
+    "audioPrompt": "“Say ___ before you leave.” Use the three-letter short farewell that sounds like the verb meaning purchase. Supply the missing word.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Does this spelling match the meaning I intend?",
-      "Is this the longest option?",
-      "Does the word begin the page?"
-    ],
-    "correct": 0,
-    "explanation": "Does this spelling match the meaning I intend? This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "bye. Bye is the short farewell, with final e. Buy means purchase.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Does this spelling match the meaning I intend? This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "bye. Bye is the short farewell, with final e. Buy means purchase.",
+      "hint": "Think of the word first, then check its letters. Same-sounding words can have different meanings."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +435,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3ly12-t-016",
     "curriculumCode": "AC9E3LY12",
     "bank": "test",
-    "skill": "High-Frequency Words and Homophones",
+    "skill": "High-frequency words and homophones",
     "printable": true,
-    "type": "single",
-    "question": "In a report about visiting the coast, a familiar word still looks wrong. What should the writer do?",
-    "audioPrompt": "In a report about visiting the coast, a familiar word still looks wrong. What should the writer do?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "one. One is the number. Won is the past form of win.",
+    "acceptanceNote": "Check the actual written target: one. Accept upper- or lower-case letters unless a capital is needed to begin a supplied sentence. Require the whole correct spelling, including any apostrophe. One is the number. Won is the past form of win. If another word fits the sentence, use the additional clue to discuss the intended word before checking its spelling. A copied model is practice, not independent spelling evidence.",
+    "responseInstructions": "Use the sentence and clue to work out the word. Record your response using the box or paper. View the example only after finishing. An adult checks correct spelling and meaning.",
+    "completionLabel": "My spelling response is ready for an adult to check.",
+    "question": "“The ___ shell was empty.” Use the three-letter word meaning a single shell that sounds like the past tense of win. Supply the missing word.",
+    "audioPrompt": "“The ___ shell was empty.” Use the three-letter word meaning a single shell that sounds like the past tense of win. Supply the missing word.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Add an apostrophe anywhere",
-      "Check the complete word in a trusted source and correct it",
-      "Replace it with a blank line"
-    ],
-    "correct": 1,
-    "explanation": "Check the complete word in a trusted source and correct it This choice best fits the language, text or literacy evidence.\nHint: Use the wording, structure and context before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "one. One is the number. Won is the past form of win.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Check the complete word in a trusted source and correct it This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the wording, structure and context before choosing."
+      "summary": "one. One is the number. Won is the past form of win.",
+      "hint": "Think of the word first, then check its letters. Same-sounding words can have different meanings."
     },
     "qualitySchema": "production-v1"
   }

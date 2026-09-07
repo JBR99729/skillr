@@ -1,0 +1,15 @@
+# AC9E3LY09 repair candidate
+
+7 September 2026. Candidate only; integration, deployed runtime and release verification remain root responsibilities.
+
+Official ACARA v9 descriptor checked in QCAA P–6 English sequence pages 5–6: https://www.qcaa.qld.edu.au/downloads/aciqv9/english/curriculum/ac9_english_p-6_cd_sequence.pdf . Coverage: sound–letter relationships, syllables, blending/segmenting, accurate fluent reading AND writing of multisyllabic words with more complex patterns.
+
+Research provenance: shared log version 17 refreshed and English section read before this work; detailed direct IXL observations in LY05-LY12-RESEARCH.md, including returned parallel researcher evidence. All six mapped pages have worked-example/actual-entry evidence when reusing LY04 blend research. They include open/closed syllables, consonant-l-e, vowel sorting, rhyming spelling, sight-word production and three-letter blends. No full adaptive mastery or unheard audio claim.
+
+Draft: 64 original items, 48 Practice +16 Test; all 56 legacy IDs retained plus 8 Practice IDs. Sixteen applied MCQs (12P/4T) support monitoring, exact spelling and sound–letter decisions. Forty-eight distinct word-pair tasks (36P/12T) require the learner to say parts, blend/read whole multisyllabic words, compose a sentence containing both words, then reread and check spelling against print. Targets span open/closed first syllables, final consonant-l-e, compounds, vowel teams, consonant clusters, three-syllable words and ph. Shared response directions provide a consistent workflow; the target words, contexts and specific checking focus are individually authored.
+
+These are explicitly SUPPORTED reading-and-writing tasks, not unseen spelling dictation. Printed targets are intentionally available for decoding and spelling checking. Do not claim they independently establish unprompted spelling mastery. The adult must hear reading and view the written product; a completion tick or typed claim is insufficient. Natural accent and comfortable pace accepted; no arbitrary speed score. Existing adult-review helper must be present and pending responses excluded from marked-score denominators. Source code does not modify shared runtime.
+
+Editorial review: all 64 questions, options, explanations and adult criteria read. Separate reviewer identified and author corrected an overbroad rabbit stem, false ee wording in green/house, ambiguous room pronunciation correction (now explicit omitted second part), and confusing jungle/bundle phoneme wording (now written groups and natural whole-word reading). Existing Australian spellings harbour/colourful retained. Adult tasks accept varied meaningful sentences rather than requiring one model sentence.
+
+Validation: production-bank validator passes; 64 unique IDs/prompts; 48P/16T; MCQ key positions 3 each in Practice, 1 each in Test. Separate reviewer final hash/approval supplied to root outside this report. Structural validation alone is not the editorial evidence. No publication or verification ledger mutation by authoring agent.
