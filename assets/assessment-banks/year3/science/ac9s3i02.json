@@ -2020,9 +2020,9 @@
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
     "skill": "planning and conducting fair comparisons",
-    "question": "A class tests whether parachute area affects fall time. Which step belongs in the fair-test plan?",
-    "audio_prompt": "A class tests whether parachute area affects fall time. Which step belongs in the fair-test plan?",
-    "audioPrompt": "A class tests whether parachute area affects fall time. Which step belongs in the fair-test plan?",
+    "question": "Paper parachutes carry a small toy. A class compares how long different parachute sizes take to fall. Which step keeps the test fair?",
+    "audio_prompt": "Paper parachutes carry a small toy. A class compares how long different parachute sizes take to fall. Which step keeps the test fair?",
+    "audioPrompt": "Paper parachutes carry a small toy. A class compares how long different parachute sizes take to fall. Which step keeps the test fair?",
     "visual": {
       "type": "none",
       "alt_text": ""

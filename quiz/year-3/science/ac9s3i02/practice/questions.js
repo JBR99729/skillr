@@ -1096,8 +1096,8 @@ window.skillrPracticeQuestions = [
     "skill": "planning and conducting fair comparisons",
     "printable": true,
     "type": "single",
-    "question": "A class tests whether parachute area affects fall time. Which step belongs in the fair-test plan?",
-    "audioPrompt": "A class tests whether parachute area affects fall time. Which step belongs in the fair-test plan?",
+    "question": "Paper parachutes carry a small toy. A class compares how long different parachute sizes take to fall. Which step keeps the test fair?",
+    "audioPrompt": "Paper parachutes carry a small toy. A class compares how long different parachute sizes take to fall. Which step keeps the test fair?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

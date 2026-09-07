@@ -43,7 +43,7 @@ for (const suffix of ['h01', 'h02', 'i01', 'i02', 'i03']) {
     if (/experience-teacher-questions\.js/.test(html)) throw new Error(`${code}: legacy override is loaded`);
     const pattern = new RegExp(`(${code}/${bank}/questions\\.js)(?:\\?[^"']*)?`);
     if (!pattern.test(html)) throw new Error(`${code}: expected bank script not found`);
-    fs.writeFileSync(htmlPath, html.replace(pattern, `$1?v=${version}`));
+    fs.writeFileSync(htmlPath, html.replace(pattern, `$1?v=${version}${code === 'ac9s3i02' && bank === 'practice' ? '-agepass' : ''}`));
   }
   // AGENTS.md requires recording immediately after specialised publication.
   execFileSync(process.execPath, ['scripts/update_content_verification_status.mjs', '--record', code.toUpperCase()], { cwd: root, stdio: 'inherit' });

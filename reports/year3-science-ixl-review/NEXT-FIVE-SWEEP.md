@@ -2,7 +2,7 @@
 
 ## Current status
 
-AC9S3H01, AC9S3H02, AC9S3I01, AC9S3I02, AC9S3I03: DRAFTED and locally VALIDATED; publication and deployment QA pending. Baseline main: 3f1574d860571550cc4e447b25d7c810502e8ec2. Working branch: year3-science-next-five. Clean start; earlier first-four release and evidence preserved. Each existing bank is 40 practice +16 test.
+AC9S3H01, AC9S3H02, AC9S3I01, AC9S3I02, AC9S3I03: DRAFTED / VALIDATED / PUBLISHED. Main content release and live QA passed; final one-question language refinement recorded below. Baseline main: 3f1574d860571550cc4e447b25d7c810502e8ec2. Working branch: year3-science-next-five. Clean start; earlier first-four release and evidence preserved. Each existing bank is 40 practice +16 test.
 
 ## Official ACARA v9 authority
 
@@ -106,3 +106,19 @@ Local gates: production bank validators PASS for all five; scoped source/runtime
 
 ## Latest-main release compatibility
 Rebased cleanly onto 7bab65c7da284752b9c5f0c236f41897b3954721. Unrelated product, indexing and sitemap changes preserved. Full-tree release integrity PASS: zero deleted paths, core site and CNAME preserved, only the 36 intended files changed/added. Scoped validation rerun against this exact main baseline. GitHub publication must use its complete base tree and a non-forced ref update.
+
+## Publication and live QA
+
+Content published to main as f1140c83e7e61c20c62a7444a7d6151c61ce8969, based on complete tree 407706b1a8c971b1c2d0b65a3d67fe7aaf4c707f. The remote candidate tree exactly matched local validated tree da9580a7f87035c85b7fde479a600c282feb6103. Main was re-read immediately before a non-forced update. Fetched published commit passed full-tree integrity again: 18,165 to 18,170 files; no deletions; core files and CNAME preserved.
+
+Pages build and deployment succeeded: https://github.com/JBR99729/skillr/actions/runs/34112000153 . Release integrity, question-bank quality, Year 3 Science static topics, F–4 rollout, F–10 layout, static site audit and IndexNow workflows also succeeded.
+
+Live homepage loaded normally. All ten affected practice/test routes were opened and started, with an answer submitted and feedback checked on each. Directly observed new/revised examples include H01 sharing soil-test methods/data, H02 comparing picnic-bag temperatures, I01 bird-visit predictions, I02 fair parachute comparisons and I03 immediate records. The I03 new cylinder task displayed the original SVG clearly, accepted 35 mL and showed matching explanation; accessible scale description present.
+
+A complete I03 test deliberately missed one question: result 4/5, 80%. Results page, all five persisted review answers/explanations and the retake route were checked successfully. Each attempt remains five shuffled questions; 48/16 are bank sizes, not attempt lengths.
+
+Final live review found one remaining unnecessary phrase, “parachute area”, in I02 P034. It was simplified to a small-toy/paper-parachute size comparison. IDs, answer, explanation and bank unchanged; practice cache version advanced with an agepass suffix. All five scoped validators and ledger check rerun successfully. This small follow-up is published with this report using the same complete-tree integrity procedure; its deployment is checked separately.
+
+Year 3 Science remains 9/12 reviewed codes. AC9S3I04, AC9S3I05 and AC9S3I06 are not included in this release. No full-year Science completion or verified badge is claimed.
+
+Final follow-up rebased onto 9b0411c120356d62255621436703f49c2030766d, preserving the concurrent Maths product listing. Full-tree gate and scoped bank checks passed again; seven intended files only, no deletions.
