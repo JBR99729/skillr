@@ -1,0 +1,15 @@
+# AC9M3M05 validation checkpoint
+
+7 September 2026. **DRAFTED — content and repository checks passed; live release verification pending.**
+
+Readiness: M05-READINESS-COVERAGE.md records the exact official descriptor and component map, both relevant IXL pages and expanded examples, representative visual progression including actual quarter/half/three-quarter/whole turns, and per-ID original coverage allocation. Higher adaptive progression beyond recorded samples is not claimed.
+
+All 64 questions, options, correct answers, hints and explanations reviewed. The bank now has 48 practice + 16 test items with 30 original diagrams. Right-angle comparison and meaningful everyday angle applications replace the prior repeated compass-question pattern. No degrees are required of learners. Both turn direction and turn amount are handled explicitly, and marked sweeps distinguish long/short turns sharing endpoints.
+
+All original 40 IDs, curriculum codes, bank assignments and legacy internal skill tags preserved. Added P025-P048. Legacy skill tags are retained for compatibility; the authoritative coverage mapping is to AC9M3M05 components. Four answer positions balanced 12 each practice / 4 each test. Structural validator PASS; no exact prompt/option duplicates or copied practice/test items.
+
+All 30 diagrams rendered with Inkscape and visually reviewed. Corrected overlay shading to keep the reference square corner visible; clarified scissors with pivot/handles. Re-rendered affected diagrams and checked the fixes. Ray geometry independently checked numerically. All six four-panel selection tasks have exactly one qualifying diagram. All labelled turn amounts and direction arrows checked against the authored geometry. No clipping observed at the rendered size.
+
+Generated practice/test JavaScript executed in isolated Node VM contexts. All IDs, prompts, correct answers, explanations and SVG targets match the production source. Compatibility practice files are identical. Review-aware publisher and review-status check passed; whole-year badge remains off. The older review ledger's 15 codes must not be confused with completion of this stricter sweep.
+
+The cloud browser cannot open the local preview. Live homepage, M05 quiz launch, marking and rendered visual checks are pending deployment. No quiz renderer, dashboard, topic-guide, teacher-slide or worksheet changes are part of this bank release. Do not describe the full Year 3 Maths programme as completed.

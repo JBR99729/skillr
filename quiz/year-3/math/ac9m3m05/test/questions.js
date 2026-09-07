@@ -7,25 +7,26 @@ window.skillrTestQuestions = [
     "skill": "follow quarter turn",
     "printable": true,
     "type": "single",
-    "question": "With an arrow card, an arrow faces west. After a clockwise quarter turn, where does it face?",
-    "audioPrompt": "With an arrow card, an arrow faces west. After a clockwise quarter turn, where does it face?",
-    "visual": "With an arrow card: Arrow starts facing west and turns clockwise to face north.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With an arrow card: Arrow starts facing west and turns clockwise to face north.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-001\"></use></svg>",
+    "question": "What turn does the shaded sweep show?",
+    "audioPrompt": "What turn does the shaded sweep show?",
+    "visual": "Circle with a shaded sweep and a curved arrow showing the turn. Dashed ray marks the start.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Circle with a shaded sweep and a curved arrow showing the turn. Dashed ray marks the start.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-001",
-      "alt_text": "With an arrow card: Arrow starts facing west and turns clockwise to face north."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-001",
+      "alt_text": "Circle with a shaded sweep and a curved arrow showing the turn. Dashed ray marks the start."
     },
     "answers": [
-      "east",
-      "north",
-      "south"
+      "A quarter turn",
+      "A three-quarter turn",
+      "A half turn",
+      "A whole turn"
     ],
-    "correct": 1,
-    "explanation": "A clockwise quarter turn moves one direction around: west to north.\nHint: Move one step clockwise around north, east, south and west.",
+    "correct": 2,
+    "explanation": "The shaded region covers half the circle and joins opposite directions.\nHint: Compare the shading with a full circle.",
     "structuredExplanation": {
-      "summary": "A clockwise quarter turn moves one direction around: west to north.",
-      "hint": "Move one step clockwise around north, east, south and west."
+      "summary": "The shaded region covers half the circle and joins opposite directions.",
+      "hint": "Compare the shading with a full circle."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,25 +37,26 @@ window.skillrTestQuestions = [
     "skill": "follow half turn",
     "printable": true,
     "type": "single",
-    "question": "With an arrow card, an arrow faces west. After a half turn, where does it face?",
-    "audioPrompt": "With an arrow card, an arrow faces west. After a half turn, where does it face?",
-    "visual": "With an arrow card: Arrow after a half turn from west, facing east.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With an arrow card: Arrow after a half turn from west, facing east.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-002\"></use></svg>",
+    "question": "Follow the marked arrow. How much turn is shown?",
+    "audioPrompt": "Follow the marked arrow. How much turn is shown?",
+    "visual": "Circle with a shaded sweep and a curved arrow showing the turn. Dashed ray marks the start.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Circle with a shaded sweep and a curved arrow showing the turn. Dashed ray marks the start.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-002",
-      "alt_text": "With an arrow card: Arrow after a half turn from west, facing east."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-002",
+      "alt_text": "Circle with a shaded sweep and a curved arrow showing the turn. Dashed ray marks the start."
     },
     "answers": [
-      "west",
-      "north",
-      "east"
+      "A three-quarter turn",
+      "A quarter turn",
+      "A half turn",
+      "A whole turn"
     ],
-    "correct": 2,
-    "explanation": "A half turn faces the opposite direction, so west becomes east.\nHint: A half turn is two quarter turns.",
+    "correct": 0,
+    "explanation": "The marked path covers three quarter-circle parts and leaves one quarter unshaded.\nHint: Follow the marked path rather than taking a shortcut.",
     "structuredExplanation": {
-      "summary": "A half turn faces the opposite direction, so west becomes east.",
-      "hint": "A half turn is two quarter turns."
+      "summary": "The marked path covers three quarter-circle parts and leaves one quarter unshaded.",
+      "hint": "Follow the marked path rather than taking a shortcut."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,25 +67,24 @@ window.skillrTestQuestions = [
     "skill": "follow full turn",
     "printable": true,
     "type": "single",
-    "question": "With an arrow card, an arrow faces west. After a full turn, where does it face?",
-    "audioPrompt": "With an arrow card, an arrow faces west. After a full turn, where does it face?",
-    "visual": "With an arrow card: Arrow completes a full turn and faces west again.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With an arrow card: Arrow completes a full turn and faces west again.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-003\"></use></svg>",
+    "question": "A dancer makes a half turn and then a quarter turn in the same direction. What is the combined turn?",
+    "audioPrompt": "A dancer makes a half turn and then a quarter turn in the same direction. What is the combined turn?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-003",
-      "alt_text": "With an arrow card: Arrow completes a full turn and faces west again."
+      "type": "none"
     },
     "answers": [
-      "west",
-      "north",
-      "east"
+      "A three-quarter turn",
+      "A quarter turn",
+      "A half turn",
+      "A whole turn"
     ],
     "correct": 0,
-    "explanation": "A full turn goes all the way around and ends facing west again.\nHint: Spin once and notice the starting and finishing direction match.",
+    "explanation": "A half turn is two quarters. Adding one more quarter gives three quarters.\nHint: Express both turns in quarters.",
     "structuredExplanation": {
-      "summary": "A full turn goes all the way around and ends facing west again.",
-      "hint": "Spin once and notice the starting and finishing direction match."
+      "summary": "A half turn is two quarters. Adding one more quarter gives three quarters.",
+      "hint": "Express both turns in quarters."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,25 +95,24 @@ window.skillrTestQuestions = [
     "skill": "identify half turn",
     "printable": true,
     "type": "single",
-    "question": "With an arrow card, which turn makes an object face the opposite way?",
-    "audioPrompt": "With an arrow card, which turn makes an object face the opposite way?",
-    "visual": "With an arrow card: Arrow facing the opposite direction after a half turn.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With an arrow card: Arrow facing the opposite direction after a half turn.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-004\"></use></svg>",
+    "question": "A pointer has made one quarter turn. How much further in the same direction completes one whole turn?",
+    "audioPrompt": "A pointer has made one quarter turn. How much further in the same direction completes one whole turn?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-004",
-      "alt_text": "With an arrow card: Arrow facing the opposite direction after a half turn."
+      "type": "none"
     },
     "answers": [
-      "A quarter turn",
-      "A half turn",
-      "A full turn"
+      "One quarter turn",
+      "Two quarter turns",
+      "Four quarter turns",
+      "Three quarter turns"
     ],
-    "correct": 1,
-    "explanation": "A half turn is 180 degrees and points in the opposite direction.\nHint: Think of turning from north to south.",
+    "correct": 3,
+    "explanation": "One quarter has been completed, leaving three of the four quarters.\nHint: Count the quarters still needed.",
     "structuredExplanation": {
-      "summary": "A half turn is 180 degrees and points in the opposite direction.",
-      "hint": "Think of turning from north to south."
+      "summary": "One quarter has been completed, leaving three of the four quarters.",
+      "hint": "Count the quarters still needed."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,25 +123,24 @@ window.skillrTestQuestions = [
     "skill": "compose full turn",
     "printable": true,
     "type": "single",
-    "question": "With an arrow card, how many quarter turns make a full turn?",
-    "audioPrompt": "With an arrow card, how many quarter turns make a full turn?",
-    "visual": "With an arrow card: Four quarter-turn arrows moving around a full circle.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With an arrow card: Four quarter-turn arrows moving around a full circle.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-005\"></use></svg>",
+    "question": "Two instructions end at the same direction: turn a quarter turn clockwise, or three quarters anticlockwise. Which statement is correct?",
+    "audioPrompt": "Two instructions end at the same direction: turn a quarter turn clockwise, or three quarters anticlockwise. Which statement is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-005",
-      "alt_text": "With an arrow card: Four quarter-turn arrows moving around a full circle."
+      "type": "none"
     },
     "answers": [
-      "2",
-      "3",
-      "4"
+      "The two turns have equal amounts.",
+      "The finishing directions match, but the second turn is larger.",
+      "The first turn is larger.",
+      "The second instruction makes no turn."
     ],
-    "correct": 2,
-    "explanation": "Four equal quarter turns go all the way around.\nHint: Count the four directions around a compass.",
+    "correct": 1,
+    "explanation": "Both reach the same final direction from a shared start, but three quarters is greater than one quarter.\nHint: Turn amount and final direction are different information.",
     "structuredExplanation": {
-      "summary": "Four equal quarter turns go all the way around.",
-      "hint": "Count the four directions around a compass."
+      "summary": "Both reach the same final direction from a shared start, but three quarters is greater than one quarter.",
+      "hint": "Turn amount and final direction are different information."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,25 +151,26 @@ window.skillrTestQuestions = [
     "skill": "follow three quarter turn",
     "printable": true,
     "type": "single",
-    "question": "With an arrow card, a three-quarter clockwise turn from west ends facing which direction?",
-    "audioPrompt": "With an arrow card, a three-quarter clockwise turn from west ends facing which direction?",
-    "visual": "With an arrow card: Arrow after three clockwise quarter turns from west, facing south.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With an arrow card: Arrow after three clockwise quarter turns from west, facing south.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-006\"></use></svg>",
+    "question": "Which marked opening matches a square corner?",
+    "audioPrompt": "Which marked opening matches a square corner?",
+    "visual": "Four marked angles labelled A, B, C and D, with varied openings and orientations.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four marked angles labelled A, B, C and D, with varied openings and orientations.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-006\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-006",
-      "alt_text": "With an arrow card: Arrow after three clockwise quarter turns from west, facing south."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-006",
+      "alt_text": "Four marked angles labelled A, B, C and D, with varied openings and orientations."
     },
     "answers": [
-      "south",
-      "north",
-      "east"
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "correct": 0,
-    "explanation": "Three clockwise quarter turns from west finish at south.\nHint: Move clockwise three steps, one direction at a time.",
+    "correct": 3,
+    "explanation": "D is a right angle even though its arms are slanted.\nHint: Compare each opening with a right angle.",
     "structuredExplanation": {
-      "summary": "Three clockwise quarter turns from west finish at south.",
-      "hint": "Move clockwise three steps, one direction at a time."
+      "summary": "D is a right angle even though its arms are slanted.",
+      "hint": "Compare each opening with a right angle."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,25 +181,26 @@ window.skillrTestQuestions = [
     "skill": "choose shortest turn",
     "printable": true,
     "type": "single",
-    "question": "With an arrow card, a robot turns from west to north. Which is the shortest turn?",
-    "audioPrompt": "With an arrow card, a robot turns from west to north. Which is the shortest turn?",
-    "visual": "With an arrow card: Robot arrow changing from west to north.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With an arrow card: Robot arrow changing from west to north.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-007\"></use></svg>",
+    "question": "Which marked angle fits inside a right-angle opening?",
+    "audioPrompt": "Which marked angle fits inside a right-angle opening?",
+    "visual": "Four marked angles labelled A, B, C and D, with varied openings and orientations.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four marked angles labelled A, B, C and D, with varied openings and orientations.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-007\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-007",
-      "alt_text": "With an arrow card: Robot arrow changing from west to north."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-007",
+      "alt_text": "Four marked angles labelled A, B, C and D, with varied openings and orientations."
     },
     "answers": [
-      "A half turn",
-      "A clockwise quarter turn",
-      "A full turn"
+      "B",
+      "C",
+      "A",
+      "D"
     ],
-    "correct": 1,
-    "explanation": "north is one clockwise quarter turn from west.\nHint: Choose the turn that reaches the new direction in one step.",
+    "correct": 2,
+    "explanation": "A is narrower than a square corner; the other marked openings equal or exceed it.\nHint: Compare the marked openings.",
     "structuredExplanation": {
-      "summary": "north is one clockwise quarter turn from west.",
-      "hint": "Choose the turn that reaches the new direction in one step."
+      "summary": "A is narrower than a square corner; the other marked openings equal or exceed it.",
+      "hint": "Compare the marked openings."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,25 +211,26 @@ window.skillrTestQuestions = [
     "skill": "describe three quarter turn",
     "printable": true,
     "type": "single",
-    "question": "With an arrow card, which instruction describes three quarter turns?",
-    "audioPrompt": "With an arrow card, which instruction describes three quarter turns?",
-    "visual": "With an arrow card: Three quarter-turn steps shown around a circle.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"With an arrow card: Three quarter-turn steps shown around a circle.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-008\"></use></svg>",
+    "question": "Which marked angle opens beyond a right angle?",
+    "audioPrompt": "Which marked angle opens beyond a right angle?",
+    "visual": "Four marked angles labelled A, B, C and D, with varied openings and orientations.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Four marked angles labelled A, B, C and D, with varied openings and orientations.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-008\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-008",
-      "alt_text": "With an arrow card: Three quarter-turn steps shown around a circle."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-008",
+      "alt_text": "Four marked angles labelled A, B, C and D, with varied openings and orientations."
     },
     "answers": [
-      "Turn quarter, quarter",
-      "Turn all the way around",
-      "Turn quarter, quarter, quarter"
+      "A",
+      "B",
+      "C",
+      "D"
     ],
     "correct": 2,
-    "explanation": "Three quarter turns are three equal one-quarter rotations.\nHint: Count exactly three quarter-turn actions.",
+    "explanation": "C is wider than a square corner. A and B are narrower, and D is equal.\nHint: Ignore arm lengths when judging the opening.",
     "structuredExplanation": {
-      "summary": "Three quarter turns are three equal one-quarter rotations.",
-      "hint": "Count exactly three quarter-turn actions."
+      "summary": "C is wider than a square corner. A and B are narrower, and D is equal.",
+      "hint": "Ignore arm lengths when judging the opening."
     },
     "qualitySchema": "production-v1"
   },
@@ -239,25 +241,24 @@ window.skillrTestQuestions = [
     "skill": "follow quarter turn",
     "printable": true,
     "type": "single",
-    "question": "In the direction challenge, an arrow faces north. After a clockwise quarter turn, where does it face?",
-    "audioPrompt": "In the direction challenge, an arrow faces north. After a clockwise quarter turn, where does it face?",
-    "visual": "In the direction challenge: Arrow starts facing north and turns clockwise to face east.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the direction challenge: Arrow starts facing north and turns clockwise to face east.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-009\"></use></svg>",
+    "question": "A carpenter draws the same square corner with one short arm and one long arm. What is its angle?",
+    "audioPrompt": "A carpenter draws the same square corner with one short arm and one long arm. What is its angle?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-009",
-      "alt_text": "In the direction challenge: Arrow starts facing north and turns clockwise to face east."
+      "type": "none"
     },
     "answers": [
-      "east",
-      "south",
-      "west"
+      "Smaller than a right angle",
+      "Still a right angle",
+      "Greater than a right angle",
+      "Not an angle until the arms are equal"
     ],
-    "correct": 0,
-    "explanation": "A clockwise quarter turn moves one direction around: north to east.\nHint: Move one step clockwise around north, east, south and west.",
+    "correct": 1,
+    "explanation": "The directions of the arms make the opening. Their unequal lengths do not change a right angle.\nHint: Measure the opening, not the sides.",
     "structuredExplanation": {
-      "summary": "A clockwise quarter turn moves one direction around: north to east.",
-      "hint": "Move one step clockwise around north, east, south and west."
+      "summary": "The directions of the arms make the opening. Their unequal lengths do not change a right angle.",
+      "hint": "Measure the opening, not the sides."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,25 +269,24 @@ window.skillrTestQuestions = [
     "skill": "follow half turn",
     "printable": true,
     "type": "single",
-    "question": "In the direction challenge, an arrow faces north. After a half turn, where does it face?",
-    "audioPrompt": "In the direction challenge, an arrow faces north. After a half turn, where does it face?",
-    "visual": "In the direction challenge: Arrow after a half turn from north, facing south.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the direction challenge: Arrow after a half turn from north, facing south.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-010\"></use></svg>",
+    "question": "An angle smaller than a right angle is rotated as a whole. How does it compare afterwards?",
+    "audioPrompt": "An angle smaller than a right angle is rotated as a whole. How does it compare afterwards?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-010",
-      "alt_text": "In the direction challenge: Arrow after a half turn from north, facing south."
+      "type": "none"
     },
     "answers": [
-      "north",
-      "south",
-      "east"
+      "It is still smaller than a right angle.",
+      "It must become a right angle.",
+      "It must become greater than a right angle.",
+      "Its size cannot be compared once it is tilted."
     ],
-    "correct": 1,
-    "explanation": "A half turn faces the opposite direction, so north becomes south.\nHint: A half turn is two quarter turns.",
+    "correct": 0,
+    "explanation": "Turning the complete drawing preserves the opening between its arms.\nHint: Both arms move together without opening further.",
     "structuredExplanation": {
-      "summary": "A half turn faces the opposite direction, so north becomes south.",
-      "hint": "A half turn is two quarter turns."
+      "summary": "Turning the complete drawing preserves the opening between its arms.",
+      "hint": "Both arms move together without opening further."
     },
     "qualitySchema": "production-v1"
   },
@@ -297,25 +297,26 @@ window.skillrTestQuestions = [
     "skill": "follow full turn",
     "printable": true,
     "type": "single",
-    "question": "In the direction challenge, an arrow faces north. After a full turn, where does it face?",
-    "audioPrompt": "In the direction challenge, an arrow faces north. After a full turn, where does it face?",
-    "visual": "In the direction challenge: Arrow completes a full turn and faces north again.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the direction challenge: Arrow completes a full turn and faces north again.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-011\"></use></svg>",
+    "question": "The grey corner is a right angle. How does the blue marked angle compare?",
+    "audioPrompt": "The grey corner is a right angle. How does the blue marked angle compare?",
+    "visual": "Blue marked angle and grey square-corner benchmark share their vertex and one arm.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Blue marked angle and grey square-corner benchmark share their vertex and one arm.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-011\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-011",
-      "alt_text": "In the direction challenge: Arrow completes a full turn and faces north again."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-011",
+      "alt_text": "Blue marked angle and grey square-corner benchmark share their vertex and one arm."
     },
     "answers": [
-      "east",
-      "south",
-      "north"
+      "It is smaller than the right angle.",
+      "It equals the right angle.",
+      "It is a whole turn.",
+      "It is greater than the right angle."
     ],
-    "correct": 2,
-    "explanation": "A full turn goes all the way around and ends facing north again.\nHint: Spin once and notice the starting and finishing direction match.",
+    "correct": 3,
+    "explanation": "Its second arm lies beyond the grey corner when their vertex and first arm line up.\nHint: Compare the arms that do not overlap.",
     "structuredExplanation": {
-      "summary": "A full turn goes all the way around and ends facing north again.",
-      "hint": "Spin once and notice the starting and finishing direction match."
+      "summary": "Its second arm lies beyond the grey corner when their vertex and first arm line up.",
+      "hint": "Compare the arms that do not overlap."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,25 +327,24 @@ window.skillrTestQuestions = [
     "skill": "identify half turn",
     "printable": true,
     "type": "single",
-    "question": "In the direction challenge, which turn makes an object face the opposite way?",
-    "audioPrompt": "In the direction challenge, which turn makes an object face the opposite way?",
-    "visual": "In the direction challenge: Arrow facing the opposite direction after a half turn.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the direction challenge: Arrow facing the opposite direction after a half turn.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-012\"></use></svg>",
+    "question": "Which method fairly compares a drawn angle with a square paper corner?",
+    "audioPrompt": "Which method fairly compares a drawn angle with a square paper corner?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-012",
-      "alt_text": "In the direction challenge: Arrow facing the opposite direction after a half turn."
+      "type": "none"
     },
     "answers": [
-      "A half turn",
-      "A quarter turn",
-      "A full turn"
+      "Match the vertices and one side, then compare the other sides.",
+      "Match only the lengths of the arms.",
+      "Count which drawing uses more ink.",
+      "Turn the paper until both drawings point up, without matching vertices."
     ],
     "correct": 0,
-    "explanation": "A half turn is 180 degrees and points in the opposite direction.\nHint: Think of turning from north to south.",
+    "explanation": "Aligning a shared vertex and one arm gives both openings the same starting position.\nHint: An opening comparison needs the same starting point.",
     "structuredExplanation": {
-      "summary": "A half turn is 180 degrees and points in the opposite direction.",
-      "hint": "Think of turning from north to south."
+      "summary": "Aligning a shared vertex and one arm gives both openings the same starting position.",
+      "hint": "An opening comparison needs the same starting point."
     },
     "qualitySchema": "production-v1"
   },
@@ -355,25 +355,26 @@ window.skillrTestQuestions = [
     "skill": "compose full turn",
     "printable": true,
     "type": "single",
-    "question": "In the direction challenge, how many quarter turns make a full turn?",
-    "audioPrompt": "In the direction challenge, how many quarter turns make a full turn?",
-    "visual": "In the direction challenge: Four quarter-turn arrows moving around a full circle.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the direction challenge: Four quarter-turn arrows moving around a full circle.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-013\"></use></svg>",
+    "question": "The diagram shows a box lid opened from its dashed closed position. Compare the marked opening with a right angle.",
+    "audioPrompt": "The diagram shows a box lid opened from its dashed closed position. Compare the marked opening with a right angle.",
+    "visual": "Hinged object seen from above or the side: dashed closed position, solid open position, shaded opening at the hinge.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Hinged object seen from above or the side: dashed closed position, solid open position, shaded opening at the hinge.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-013\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-013",
-      "alt_text": "In the direction challenge: Four quarter-turn arrows moving around a full circle."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-013",
+      "alt_text": "Hinged object seen from above or the side: dashed closed position, solid open position, shaded opening at the hinge."
     },
     "answers": [
-      "2",
-      "4",
-      "3"
+      "It is a right angle.",
+      "It is smaller than a right angle.",
+      "It is greater than a right angle.",
+      "It is a whole turn."
     ],
     "correct": 1,
-    "explanation": "Four equal quarter turns go all the way around.\nHint: Count the four directions around a compass.",
+    "explanation": "The lid has not reached a square-corner opening from its closed position.\nHint: Use the hinge and the marked sweep.",
     "structuredExplanation": {
-      "summary": "Four equal quarter turns go all the way around.",
-      "hint": "Count the four directions around a compass."
+      "summary": "The lid has not reached a square-corner opening from its closed position.",
+      "hint": "Use the hinge and the marked sweep."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,25 +385,24 @@ window.skillrTestQuestions = [
     "skill": "follow three quarter turn",
     "printable": true,
     "type": "single",
-    "question": "In the direction challenge, a three-quarter clockwise turn from north ends facing which direction?",
-    "audioPrompt": "In the direction challenge, a three-quarter clockwise turn from north ends facing which direction?",
-    "visual": "In the direction challenge: Arrow after three clockwise quarter turns from north, facing west.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the direction challenge: Arrow after three clockwise quarter turns from north, facing west.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-014\"></use></svg>",
+    "question": "A robot travels north, then turns east at a square corner. Which instruction describes its turn?",
+    "audioPrompt": "A robot travels north, then turns east at a square corner. Which instruction describes its turn?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-014",
-      "alt_text": "In the direction challenge: Arrow after three clockwise quarter turns from north, facing west."
+      "type": "none"
     },
     "answers": [
-      "east",
-      "south",
-      "west"
+      "Turn a quarter turn anticlockwise.",
+      "Turn a quarter turn clockwise.",
+      "Turn a half turn.",
+      "Turn a whole turn."
     ],
-    "correct": 2,
-    "explanation": "Three clockwise quarter turns from north finish at west.\nHint: Move clockwise three steps, one direction at a time.",
+    "correct": 1,
+    "explanation": "North to east is one quarter turn clockwise.\nHint: Start facing north, then trace the turn to east.",
     "structuredExplanation": {
-      "summary": "Three clockwise quarter turns from north finish at west.",
-      "hint": "Move clockwise three steps, one direction at a time."
+      "summary": "North to east is one quarter turn clockwise.",
+      "hint": "Start facing north, then trace the turn to east."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,25 +413,26 @@ window.skillrTestQuestions = [
     "skill": "choose shortest turn",
     "printable": true,
     "type": "single",
-    "question": "In the direction challenge, a robot turns from north to east. Which is the shortest turn?",
-    "audioPrompt": "In the direction challenge, a robot turns from north to east. Which is the shortest turn?",
-    "visual": "In the direction challenge: Robot arrow changing from north to east.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the direction challenge: Robot arrow changing from north to east.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-015\"></use></svg>",
+    "question": "At exactly 5 o’clock, compare the smaller angle between the hands with a right angle.",
+    "audioPrompt": "At exactly 5 o’clock, compare the smaller angle between the hands with a right angle.",
+    "visual": "Analogue clock with minute hand at 12 and hour hand at 5.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Analogue clock with minute hand at 12 and hour hand at 5.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-015\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-015",
-      "alt_text": "In the direction challenge: Robot arrow changing from north to east."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05-v2.svg#ac9m3m05-t-015",
+      "alt_text": "Analogue clock with minute hand at 12 and hour hand at 5."
     },
     "answers": [
-      "A clockwise quarter turn",
-      "A half turn",
-      "A full turn"
+      "It equals a right angle.",
+      "It is smaller than a right angle.",
+      "It is greater than a right angle.",
+      "It is a whole turn."
     ],
-    "correct": 0,
-    "explanation": "east is one clockwise quarter turn from north.\nHint: Choose the turn that reaches the new direction in one step.",
+    "correct": 2,
+    "explanation": "The smaller gap from 12 to 5 is wider than the quarter-circle gap from 12 to 3.\nHint: Compare with the right-angle clock position.",
     "structuredExplanation": {
-      "summary": "east is one clockwise quarter turn from north.",
-      "hint": "Choose the turn that reaches the new direction in one step."
+      "summary": "The smaller gap from 12 to 5 is wider than the quarter-circle gap from 12 to 3.",
+      "hint": "Compare with the right-angle clock position."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +443,24 @@ window.skillrTestQuestions = [
     "skill": "describe three quarter turn",
     "printable": true,
     "type": "single",
-    "question": "In the direction challenge, which instruction describes three quarter turns?",
-    "audioPrompt": "In the direction challenge, which instruction describes three quarter turns?",
-    "visual": "In the direction challenge: Three quarter-turn steps shown around a circle.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the direction challenge: Three quarter-turn steps shown around a circle.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-016\"></use></svg>",
+    "question": "Two gates are different lengths but each opens through a quarter turn. Which comparison is correct?",
+    "audioPrompt": "Two gates are different lengths but each opens through a quarter turn. Which comparison is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m05.svg#ac9m3m05-t-016",
-      "alt_text": "In the direction challenge: Three quarter-turn steps shown around a circle."
+      "type": "none"
     },
     "answers": [
-      "Turn quarter, quarter",
-      "Turn quarter, quarter, quarter",
-      "Turn all the way around"
+      "The longer gate has a greater angle.",
+      "The shorter gate has a greater angle.",
+      "Neither gate makes a right angle.",
+      "Their angles of opening are equal."
     ],
-    "correct": 1,
-    "explanation": "Three quarter turns are three equal one-quarter rotations.\nHint: Count exactly three quarter-turn actions.",
+    "correct": 3,
+    "explanation": "Both make quarter turns, so both openings are right angles. Gate length does not determine turn amount.\nHint: Compare the turns, not the lengths.",
     "structuredExplanation": {
-      "summary": "Three quarter turns are three equal one-quarter rotations.",
-      "hint": "Count exactly three quarter-turn actions."
+      "summary": "Both make quarter turns, so both openings are right angles. Gate length does not determine turn amount.",
+      "hint": "Compare the turns, not the lengths."
     },
     "qualitySchema": "production-v1"
   }
