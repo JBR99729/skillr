@@ -1,6 +1,6 @@
 # M06 release validation
 
-7 September 2026. **DRAFTED — content and repository checks passed; deployment/live-flow verification pending.** No publication success is asserted by this pre-release checkpoint.
+7 September 2026. **VALIDATED and published.** Content release: `9bcf84e9d74a1a7f2371c2f4c6ba9d7a88eed08f`. Pages run 34078081030 succeeded.
 
 Readiness evidence and original per-ID allocation are in M06-READINESS-COVERAGE.md. Older M06-EVIDENCE.md retains historical blocked checkpoints; they are superseded by the readiness record after restored login and further inspection.
 
@@ -16,8 +16,12 @@ Readiness evidence and original per-ID allocation are in M06-READINESS-COVERAGE.
 - Generated practice/test scripts executed in isolated Node VM contexts: all 64 IDs, prompts, correct answers, explanations and SVG references match the source bank; compatibility practice files are identical.
 - Review-aware publisher ran and verification-status check passed. It records M06 but does not activate the whole Year 3 Maths badge. Its 14 historically reviewed codes must not be interpreted as 14 completed reviews under this newer mandatory sweep.
 
-## Limits and pending release checks
+## Limits and completed release checks
 
 IXL evidence is a documented representative sample from all nine relevant pages, including every expanded worked example, not exhaustive adaptive progression or mastery. Multiple choice assesses selecting representations and reasoning; it does not prove unaided physical money handling. New questions/diagrams are original and do not reproduce IXL assets.
 
-The cloud browser rejected the local preview URL with ERR_BLOCKED_BY_CLIENT. No claim of a local browser flow test is made. Generated-data integration is checked; live homepage, M06 practice/test flow and deployed diagram rendering must be checked after Pages succeeds. Keep final whole-code completion pending until that check. No quiz renderer, dashboard implementation, product links, topic guide, slides or worksheets were changed.
+The cloud browser rejected the local preview URL with ERR_BLOCKED_BY_CLIENT. No claim of a local browser flow test is made. Generated-data integration was checked before release. The post-deployment live checks are recorded below. No quiz renderer, dashboard implementation, product links, topic guide, slides or worksheets were changed.
+
+Live checks completed after deployment: mandatory preparation notes shown; five-question practice completed and scored 5/5; result page, review and retake links displayed; separate test preparation/name gate and five-question launch worked; first test response marked with the correct explanation; new coin diagram rendered correctly; homepage loaded. Full-tree integrity check passed with no deletions and unchanged domain/core files.
+
+CI also exposed stale 8/12-question expectations and a cycle=true assumption in the Year 3 flow test. All 46 production configs were checked: five questions and cycle=false. A scoped test correction retains existing shared-test defaults for other learning areas. AdSense content guard remains separately failed; this is not an all-CI-green claim.

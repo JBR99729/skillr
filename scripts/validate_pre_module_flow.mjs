@@ -91,13 +91,14 @@ function parseConfigLiteral(source, label) {
   }
 }
 
-async function getRouteQuestionCycleKey(routePrefix, code, mode) {
+async function getRouteQuestionCycleKey(routePrefix, code, mode, expectedCycle = true) {
   const route = routeFor(routePrefix, code, mode);
   const html = await readFile(path.join(root, normalisePublicPath(`${route}index.html`)), "utf8");
   const configMatch = html.match(/window\.quizConfig\s*=\s*(\{.*?\});<\/script>/s);
   assert(configMatch, `${code} ${mode}: quiz config is missing from the launch route`);
   const config = parseConfigLiteral(configMatch[1], `${code}-${mode}`);
-  assert.equal(config.questionCycle, true, `${code} ${mode}: question-cycle behaviour changed`);
+  assert.equal(config.questionCycle, expectedCycle, `${code} ${mode}: question-cycle behaviour changed`);
+  if (!expectedCycle) return null;
   const storageKey = config.questionCycleStorageKey || config.storageKey;
   assert.equal(typeof storageKey, "string", `${code} ${mode}: question-cycle storage key is missing`);
   assert(storageKey, `${code} ${mode}: question-cycle storage key is empty`);
@@ -672,8 +673,8 @@ export async function validatePreModuleFlow(configuration) {
           // Mobile checks repeat routes already exercised on desktop. Remove only
           // that route's unseen-cycle state so this isolated layout check starts
           // with the same clean first-launch conditions as its desktop check.
-          const cycleKey = await getRouteQuestionCycleKey(routePrefix, check.code, check.mode);
-          await evaluate(
+          const cycleKey = await getRouteQuestionCycleKey(routePrefix, check.code, check.mode, configuration.expectedQuestionCycle ?? true);
+          if (cycleKey) await evaluate(
             chrome.client,
             sessionId,
             `localStorage.removeItem(${JSON.stringify(cycleKey)}); true`
