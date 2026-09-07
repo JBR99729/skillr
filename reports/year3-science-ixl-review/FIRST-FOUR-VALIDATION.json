@@ -1,0 +1,62 @@
+{
+  "baseline": "origin/main",
+  "checks": [
+    {
+      "code": "AC9S3U01",
+      "bank": "practice",
+      "count": 48,
+      "visuals": 6,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3U01",
+      "bank": "test",
+      "count": 16,
+      "visuals": 2,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3U02",
+      "bank": "practice",
+      "count": 48,
+      "visuals": 5,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3U02",
+      "bank": "test",
+      "count": 16,
+      "visuals": 2,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3U03",
+      "bank": "practice",
+      "count": 48,
+      "visuals": 5,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3U03",
+      "bank": "test",
+      "count": 16,
+      "visuals": 2,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3U04",
+      "bank": "practice",
+      "count": 48,
+      "visuals": 5,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3U04",
+      "bank": "test",
+      "count": 16,
+      "visuals": 2,
+      "status": "PASS"
+    }
+  ],
+  "status": "PASS"
+}

@@ -6,10 +6,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which property can you observe in a soil sample?",
-    "audio_prompt": "Which property can you observe in a soil sample?",
-    "audioPrompt": "Which property can you observe in a soil sample?",
+    "skill": "Compare observable rock properties",
+    "question": "Rock A is pale grey and Rock B is dark grey. Which property has been compared?",
+    "audio_prompt": "Rock A is pale grey and Rock B is dark grey. Which property has been compared?",
+    "audioPrompt": "Rock A is pale grey and Rock B is dark grey. Which property has been compared?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -17,37 +17,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Particle size",
+        "text": "Colour",
         "is_correct": true
       },
       {
-        "text": "Its favourite colour",
+        "text": "Hardness",
         "is_correct": false
       },
       {
-        "text": "Its age in years exactly",
+        "text": "Mass",
         "is_correct": false
       },
       {
-        "text": "Its name from memory",
+        "text": "Water absorption",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Particle size",
-      "Its favourite colour",
-      "Its age in years exactly",
-      "Its name from memory"
+      "Colour",
+      "Hardness",
+      "Mass",
+      "Water absorption"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Particle size is an observable property that can be compared.",
-      "hint": "Look at what can be seen or tested."
+      "summary": "Pale and dark describe colour. No mass, scratch or water test was reported.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Particle size is an observable property that can be compared.",
-      "hint": "Look at what can be seen or tested."
+      "summary": "Pale and dark describe colour. No mass, scratch or water test was reported.",
+      "hint": "Compare the same observable property in both samples."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -67,10 +67,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which soil usually has the largest particles?",
-    "audio_prompt": "Which soil usually has the largest particles?",
-    "audioPrompt": "Which soil usually has the largest particles?",
+    "skill": "Compare observable rock properties",
+    "question": "A pebble feels smooth. Another rock feels rough. Which record describes their texture?",
+    "audio_prompt": "A pebble feels smooth. Another rock feels rough. Which record describes their texture?",
+    "audioPrompt": "A pebble feels smooth. Another rock feels rough. Which record describes their texture?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -78,37 +78,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Clay-rich soil",
+        "text": "Pale and dark",
         "is_correct": false
       },
       {
-        "text": "Silt-rich soil",
+        "text": "Large and small",
         "is_correct": false
       },
       {
-        "text": "All soils have identical particles",
+        "text": "Light and heavy",
         "is_correct": false
       },
       {
-        "text": "Sandy soil",
+        "text": "Smooth and rough",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Clay-rich soil",
-      "Silt-rich soil",
-      "All soils have identical particles",
-      "Sandy soil"
+      "Pale and dark",
+      "Large and small",
+      "Light and heavy",
+      "Smooth and rough"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Sand particles are generally larger than silt and clay particles.",
-      "hint": "Think coarse versus fine."
+      "summary": "Texture describes how a surface feels, such as smooth or rough.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Sand particles are generally larger than silt and clay particles.",
-      "hint": "Think coarse versus fine."
+      "summary": "Texture describes how a surface feels, such as smooth or rough.",
+      "hint": "Compare the same observable property in both samples."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -128,10 +128,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which material is a rock?",
-    "audio_prompt": "Which material is a rock?",
-    "audioPrompt": "Which material is a rock?",
+    "skill": "Compare observable rock properties",
+    "question": "Two rocks are equally large. One has rounded edges and the other has sharp corners. How do they differ?",
+    "audio_prompt": "Two rocks are equally large. One has rounded edges and the other has sharp corners. How do they differ?",
+    "audioPrompt": "Two rocks are equally large. One has rounded edges and the other has sharp corners. How do they differ?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -139,37 +139,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Water",
+        "text": "Time observed",
         "is_correct": false
       },
       {
-        "text": "Air",
+        "text": "Number of samples",
         "is_correct": false
       },
       {
-        "text": "Granite",
+        "text": "Shape",
         "is_correct": true
       },
       {
-        "text": "Humus",
+        "text": "Size",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Water",
-      "Air",
-      "Granite",
-      "Humus"
+      "Time observed",
+      "Number of samples",
+      "Shape",
+      "Size"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Granite is a rock made of minerals.",
-      "hint": "Choose the solid Earth material."
+      "summary": "Rounded edges and sharp corners are differences in shape even when size is similar.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Granite is a rock made of minerals.",
-      "hint": "Choose the solid Earth material."
+      "summary": "Rounded edges and sharp corners are differences in shape even when size is similar.",
+      "hint": "Compare the same observable property in both samples."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -189,10 +189,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which is a mineral property?",
-    "audio_prompt": "Which is a mineral property?",
-    "audioPrompt": "Which is a mineral property?",
+    "skill": "Compare observable rock properties",
+    "question": "A magnifier shows large visible grains in Sample A and very tiny grains in Sample B. What can be concluded?",
+    "audio_prompt": "A magnifier shows large visible grains in Sample A and very tiny grains in Sample B. What can be concluded?",
+    "audioPrompt": "A magnifier shows large visible grains in Sample A and very tiny grains in Sample B. What can be concluded?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -200,37 +200,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Favourite use",
+        "text": "B must be manufactured",
         "is_correct": false
       },
       {
-        "text": "Hardness",
+        "text": "They must have different colours",
+        "is_correct": false
+      },
+      {
+        "text": "A must weigh more",
+        "is_correct": false
+      },
+      {
+        "text": "Their grain sizes differ",
         "is_correct": true
-      },
-      {
-        "text": "Happiness",
-        "is_correct": false
-      },
-      {
-        "text": "Age group",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Favourite use",
-      "Hardness",
-      "Happiness",
-      "Age group"
+      "B must be manufactured",
+      "They must have different colours",
+      "A must weigh more",
+      "Their grain sizes differ"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Hardness is a physical property used to compare minerals.",
-      "hint": "Use a testable property."
+      "summary": "The observed evidence supports a grain-size comparison, not a conclusion about weight or origin.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Hardness is a physical property used to compare minerals.",
-      "hint": "Use a testable property."
+      "summary": "The observed evidence supports a grain-size comparison, not a conclusion about weight or origin.",
+      "hint": "Compare the same observable property in both samples."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -250,48 +250,50 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why is soil an important Earth resource?",
-    "audio_prompt": "Why is soil an important Earth resource?",
-    "audioPrompt": "Why is soil an important Earth resource?",
+    "skill": "Compare observable rock properties",
+    "question": "Rock A is red and rough. Rock B is red and smooth. Which property do they share?",
+    "audio_prompt": "Rock A is red and rough. Rock B is red and smooth. Which property do they share?",
+    "audioPrompt": "Rock A is red and rough. Rock B is red and smooth. Which property do they share?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-u02-diagrams.svg",
+      "symbol_id": "u02-p-005",
+      "alt_text": "Rock A is red and rough. Rock B is red and smooth."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rock A is red and rough. Rock B is red and smooth.\"><use href=\"/assets/assessment-banks/year3/science/strict-u02-diagrams.svg#u02-p-005\"/></svg>",
     "answers": [
       {
-        "text": "It supports plant growth and many living things",
+        "text": "Grain size",
+        "is_correct": false
+      },
+      {
+        "text": "Texture",
+        "is_correct": false
+      },
+      {
+        "text": "Mass",
+        "is_correct": false
+      },
+      {
+        "text": "Colour",
         "is_correct": true
-      },
-      {
-        "text": "It is always the same everywhere",
-        "is_correct": false
-      },
-      {
-        "text": "It cannot hold water",
-        "is_correct": false
-      },
-      {
-        "text": "It is only useful for colour",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "It supports plant growth and many living things",
-      "It is always the same everywhere",
-      "It cannot hold water",
-      "It is only useful for colour"
+      "Grain size",
+      "Texture",
+      "Mass",
+      "Colour"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Soil supports ecosystems, food production and many human uses.",
-      "hint": "Think plants and habitats."
+      "summary": "Both are red, but their textures differ. Mass and grain size were not described.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Soil supports ecosystems, food production and many human uses.",
-      "hint": "Think plants and habitats."
+      "summary": "Both are red, but their textures differ. Mass and grain size were not described.",
+      "hint": "Compare the same observable property in both samples."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -311,10 +313,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which soil would water likely drain through fastest?",
-    "audio_prompt": "Which soil would water likely drain through fastest?",
-    "audioPrompt": "Which soil would water likely drain through fastest?",
+    "skill": "Compare observable rock properties",
+    "question": "A student writes that a rock is beautiful. Which replacement is an observable description?",
+    "audio_prompt": "A student writes that a rock is beautiful. Which replacement is an observable description?",
+    "audioPrompt": "A student writes that a rock is beautiful. Which replacement is an observable description?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -322,37 +324,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Very fine clay-rich soil",
-        "is_correct": false
-      },
-      {
-        "text": "Mud with tiny particles",
-        "is_correct": false
-      },
-      {
-        "text": "All soils drain at the same rate",
-        "is_correct": false
-      },
-      {
-        "text": "Coarse sandy soil",
+        "text": "It has a grey surface with white specks",
         "is_correct": true
+      },
+      {
+        "text": "It is the strongest rock here",
+        "is_correct": false
+      },
+      {
+        "text": "It is probably very old",
+        "is_correct": false
+      },
+      {
+        "text": "It must be useful for every building",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Very fine clay-rich soil",
-      "Mud with tiny particles",
-      "All soils drain at the same rate",
-      "Coarse sandy soil"
+      "It has a grey surface with white specks",
+      "It is the strongest rock here",
+      "It is probably very old",
+      "It must be useful for every building"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Larger pore spaces between coarse particles often allow faster drainage.",
-      "hint": "Think spaces between particles."
+      "summary": "Colour and visible specks can be checked by other observers; beauty is a preference.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Larger pore spaces between coarse particles often allow faster drainage.",
-      "hint": "Think spaces between particles."
+      "summary": "Colour and visible specks can be checked by other observers; beauty is a preference.",
+      "hint": "Compare the same observable property in both samples."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -372,10 +374,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which observation best compares two rocks?",
-    "audio_prompt": "Which observation best compares two rocks?",
-    "audioPrompt": "Which observation best compares two rocks?",
+    "skill": "Compare observable rock properties",
+    "question": "A dry rock appears pale but looks darker when wet. How should a class fairly compare the colours of two rocks?",
+    "audio_prompt": "A dry rock appears pale but looks darker when wet. How should a class fairly compare the colours of two rocks?",
+    "audioPrompt": "A dry rock appears pale but looks darker when wet. How should a class fairly compare the colours of two rocks?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -383,37 +385,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Rock B is lucky",
+        "text": "Wet only the first rock",
         "is_correct": false
       },
       {
-        "text": "Rock A is older because it looks nicer",
-        "is_correct": false
-      },
-      {
-        "text": "Rock A is smoother and darker than Rock B",
+        "text": "Compare both when dry under the same light",
         "is_correct": true
       },
       {
-        "text": "Rock A is better",
+        "text": "Compare one rock today and remember the other next week",
+        "is_correct": false
+      },
+      {
+        "text": "Put one in shade and one in sunlight",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Rock B is lucky",
-      "Rock A is older because it looks nicer",
-      "Rock A is smoother and darker than Rock B",
-      "Rock A is better"
+      "Wet only the first rock",
+      "Compare both when dry under the same light",
+      "Compare one rock today and remember the other next week",
+      "Put one in shade and one in sunlight"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Surface texture and colour are observable properties.",
-      "hint": "Use evidence, not judgement."
+      "summary": "Water and lighting can affect appearance. Matching those conditions makes the comparison fairer.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Surface texture and colour are observable properties.",
-      "hint": "Use evidence, not judgement."
+      "summary": "Water and lighting can affect appearance. Matching those conditions makes the comparison fairer.",
+      "hint": "Compare the same observable property in both samples."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -433,10 +435,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which Earth resource is commonly used to make glass?",
-    "audio_prompt": "Which Earth resource is commonly used to make glass?",
-    "audioPrompt": "Which Earth resource is commonly used to make glass?",
+    "skill": "Compare observable rock properties",
+    "question": "Two black rocks look similar in colour. What would give more evidence about their differences?",
+    "audio_prompt": "Two black rocks look similar in colour. What would give more evidence about their differences?",
+    "audioPrompt": "Two black rocks look similar in colour. What would give more evidence about their differences?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -444,37 +446,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Clouds",
+        "text": "Give both the same name before observing other properties",
         "is_correct": false
       },
       {
-        "text": "Silica-rich sand",
+        "text": "Assume they are the same kind from colour alone",
+        "is_correct": false
+      },
+      {
+        "text": "Compare their textures and visible grains too",
         "is_correct": true
       },
       {
-        "text": "Leaves",
-        "is_correct": false
-      },
-      {
-        "text": "Wool",
+        "text": "Compare only their black colour again",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Clouds",
-      "Silica-rich sand",
-      "Leaves",
-      "Wool"
+      "Give both the same name before observing other properties",
+      "Assume they are the same kind from colour alone",
+      "Compare their textures and visible grains too",
+      "Compare only their black colour again"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Silica from sand is an important raw material for glass.",
-      "hint": "Think mineral resource."
+      "summary": "Several properties give stronger evidence than colour alone.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Silica from sand is an important raw material for glass.",
-      "hint": "Think mineral resource."
+      "summary": "Several properties give stronger evidence than colour alone.",
+      "hint": "Compare the same observable property in both samples."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -494,48 +496,50 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which soil component comes from decayed living material?",
-    "audio_prompt": "Which soil component comes from decayed living material?",
-    "audioPrompt": "Which soil component comes from decayed living material?",
+    "skill": "Compare observable rock properties",
+    "question": "A rock has a rough surface and rounded edges. Which description is possible?",
+    "audio_prompt": "A rock has a rough surface and rounded edges. Which description is possible?",
+    "audioPrompt": "A rock has a rough surface and rounded edges. Which description is possible?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-u02-diagrams.svg",
+      "symbol_id": "u02-p-009",
+      "alt_text": "The rock has a rough surface and rounded edges."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The rock has a rough surface and rounded edges.\"><use href=\"/assets/assessment-banks/year3/science/strict-u02-diagrams.svg#u02-p-009\"/></svg>",
     "answers": [
       {
-        "text": "Organic matter or humus",
+        "text": "A rounded rock must always feel smooth",
+        "is_correct": false
+      },
+      {
+        "text": "Texture is rough while overall shape is rounded",
         "is_correct": true
       },
       {
-        "text": "Quartz only",
+        "text": "A rough rock must always have sharp edges",
         "is_correct": false
       },
       {
-        "text": "Plastic",
-        "is_correct": false
-      },
-      {
-        "text": "Metal wire",
+        "text": "Texture and shape mean exactly the same thing",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Organic matter or humus",
-      "Quartz only",
-      "Plastic",
-      "Metal wire"
+      "A rounded rock must always feel smooth",
+      "Texture is rough while overall shape is rounded",
+      "A rough rock must always have sharp edges",
+      "Texture and shape mean exactly the same thing"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Humus forms from decomposed plant and animal material.",
-      "hint": "Living material breaks down into soil."
+      "summary": "Texture describes the surface; shape describes the overall form and edges.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Humus forms from decomposed plant and animal material.",
-      "hint": "Living material breaks down into soil."
+      "summary": "Texture describes the surface; shape describes the overall form and edges.",
+      "hint": "Compare the same observable property in both samples."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -555,10 +559,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which statement is correct?",
-    "audio_prompt": "Which statement is correct?",
-    "audioPrompt": "Which statement is correct?",
+    "skill": "Compare observable rock properties",
+    "question": "A class sorts rocks into smooth and rough groups. Where should a smooth, dark rock go?",
+    "audio_prompt": "A class sorts rocks into smooth and rough groups. Where should a smooth, dark rock go?",
+    "audioPrompt": "A class sorts rocks into smooth and rough groups. Where should a smooth, dark rock go?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -566,37 +570,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "All soils are identical",
-        "is_correct": false
-      },
-      {
-        "text": "Every rock is one mineral only",
-        "is_correct": false
-      },
-      {
-        "text": "Minerals are always soft",
-        "is_correct": false
-      },
-      {
-        "text": "Different soils can have different particle sizes and water-holding properties",
+        "text": "The smooth group",
         "is_correct": true
+      },
+      {
+        "text": "Neither group because dark samples need a separate group",
+        "is_correct": false
+      },
+      {
+        "text": "Both groups because colour and texture are interchangeable",
+        "is_correct": false
+      },
+      {
+        "text": "The rough group because it is dark",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "All soils are identical",
-      "Every rock is one mineral only",
-      "Minerals are always soft",
-      "Different soils can have different particle sizes and water-holding properties"
+      "The smooth group",
+      "Neither group because dark samples need a separate group",
+      "Both groups because colour and texture are interchangeable",
+      "The rough group because it is dark"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Soil, rock and mineral samples can vary greatly in observable properties.",
-      "hint": "Avoid “all the same”."
+      "summary": "The grouping rule is texture, so colour does not decide its place.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Soil, rock and mineral samples can vary greatly in observable properties.",
-      "hint": "Avoid “all the same”."
+      "summary": "The grouping rule is texture, so colour does not decide its place.",
+      "hint": "Compare the same observable property in both samples."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -616,10 +620,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why does sandy soil often drain water faster than clay-rich soil?",
-    "audio_prompt": "Why does sandy soil often drain water faster than clay-rich soil?",
-    "audioPrompt": "Why does sandy soil often drain water faster than clay-rich soil?",
+    "skill": "Compare observable rock properties",
+    "question": "A rock is 4 cm across. After a child turns it over, it is still 4 cm across but has a different pattern on that side. What changed?",
+    "audio_prompt": "A rock is 4 cm across. After a child turns it over, it is still 4 cm across but has a different pattern on that side. What changed?",
+    "audioPrompt": "A rock is 4 cm across. After a child turns it over, it is still 4 cm across but has a different pattern on that side. What changed?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -627,42 +631,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Clay has no spaces at all",
+        "text": "The visible grains must all have changed into new minerals",
         "is_correct": false
       },
       {
-        "text": "Colour controls drainage",
-        "is_correct": false
-      },
-      {
-        "text": "Larger particles usually leave larger spaces for water to move through",
+        "text": "The visible surface, not the rock's overall size",
         "is_correct": true
       },
       {
-        "text": "Sand repels all water",
+        "text": "The entire rock must have gained a new colour",
+        "is_correct": false
+      },
+      {
+        "text": "The rock became larger when its pattern changed",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Clay has no spaces at all",
-      "Colour controls drainage",
-      "Larger particles usually leave larger spaces for water to move through",
-      "Sand repels all water"
+      "The visible grains must all have changed into new minerals",
+      "The visible surface, not the rock's overall size",
+      "The entire rock must have gained a new colour",
+      "The rock became larger when its pattern changed"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Particle size influences pore space and water movement.",
-      "hint": "Think spaces between grains."
+      "summary": "Turning a sample reveals another surface; it does not itself enlarge or melt the rock.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Particle size influences pore space and water movement.",
-      "hint": "Think spaces between grains."
+      "summary": "Turning a sample reveals another surface; it does not itself enlarge or melt the rock.",
+      "hint": "Compare the same observable property in both samples."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 11,
     "sequencePriority": 11,
     "quality_schema": "skillr-actual-v6",
@@ -677,10 +681,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why can two soil samples look different?",
-    "audio_prompt": "Why can two soil samples look different?",
-    "audioPrompt": "Why can two soil samples look different?",
+    "skill": "Compare observable rock properties",
+    "question": "Which pair of records allows the clearest comparison of two rock surfaces?",
+    "audio_prompt": "Which pair of records allows the clearest comparison of two rock surfaces?",
+    "audioPrompt": "Which pair of records allows the clearest comparison of two rock surfaces?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -688,42 +692,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "One sample is not really soil",
+        "text": "A: attractive; B: unattractive",
         "is_correct": false
       },
       {
-        "text": "They may contain different proportions of sand, silt, clay and organic matter",
+        "text": "A: rough with large grains; B: smooth with tiny grains",
         "is_correct": true
       },
       {
-        "text": "Soil must always look the same",
+        "text": "A: probably strong; B: probably stronger",
         "is_correct": false
       },
       {
-        "text": "Only colour changes, never composition",
+        "text": "A: found outside; B: found outside too",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "One sample is not really soil",
-      "They may contain different proportions of sand, silt, clay and organic matter",
-      "Soil must always look the same",
-      "Only colour changes, never composition"
+      "A: attractive; B: unattractive",
+      "A: rough with large grains; B: smooth with tiny grains",
+      "A: probably strong; B: probably stronger",
+      "A: found outside; B: found outside too"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Soil composition varies from place to place.",
-      "hint": "Different mixtures create different properties."
+      "summary": "The first records use matching observable properties, making similarities and differences clear.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Soil composition varies from place to place.",
-      "hint": "Different mixtures create different properties."
+      "summary": "The first records use matching observable properties, making similarities and differences clear.",
+      "hint": "Compare the same observable property in both samples."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 12,
     "sequencePriority": 12,
     "quality_schema": "skillr-actual-v6",
@@ -738,10 +742,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why is hardness useful when identifying minerals?",
-    "audio_prompt": "Why is hardness useful when identifying minerals?",
-    "audioPrompt": "Why is hardness useful when identifying minerals?",
+    "skill": "Compare minerals and rocks using evidence",
+    "question": "A magnifier reveals different mineral grains within a piece of granite. What relationship does this show?",
+    "audio_prompt": "A magnifier reveals different mineral grains within a piece of granite. What relationship does this show?",
+    "audioPrompt": "A magnifier reveals different mineral grains within a piece of granite. What relationship does this show?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -749,42 +753,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Different minerals can resist scratching differently",
+        "text": "Minerals form only outside rocks",
+        "is_correct": false
+      },
+      {
+        "text": "All visible grains in every rock are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Minerals can be building blocks of rocks",
         "is_correct": true
       },
       {
-        "text": "Hardness tells exact age",
-        "is_correct": false
-      },
-      {
-        "text": "Hardness changes rock colour",
-        "is_correct": false
-      },
-      {
-        "text": "All minerals have the same hardness",
+        "text": "Every rock contains exactly one mineral",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Different minerals can resist scratching differently",
-      "Hardness tells exact age",
-      "Hardness changes rock colour",
-      "All minerals have the same hardness"
+      "Minerals form only outside rocks",
+      "All visible grains in every rock are identical",
+      "Minerals can be building blocks of rocks",
+      "Every rock contains exactly one mineral"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Scratch resistance is a characteristic property useful for comparison.",
-      "hint": "Think scratch test."
+      "summary": "Many rocks contain mineral grains, and a rock can contain more than one mineral.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
     "structuredExplanation": {
-      "summary": "Scratch resistance is a characteristic property useful for comparison.",
-      "hint": "Think scratch test."
+      "summary": "Many rocks contain mineral grains, and a rock can contain more than one mineral.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 13,
     "sequencePriority": 13,
     "quality_schema": "skillr-actual-v6",
@@ -799,10 +803,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why are rocks important Earth resources?",
-    "audio_prompt": "Why are rocks important Earth resources?",
-    "audioPrompt": "Why are rocks important Earth resources?",
+    "skill": "Compare minerals and rocks using evidence",
+    "question": "A display labels one sample quartz, a mineral, and another granite, a rock containing quartz. Which statement fits the labels?",
+    "audio_prompt": "A display labels one sample quartz, a mineral, and another granite, a rock containing quartz. Which statement fits the labels?",
+    "audioPrompt": "A display labels one sample quartz, a mineral, and another granite, a rock containing quartz. Which statement fits the labels?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -810,42 +814,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Rocks have no human uses",
+        "text": "Quartz and granite must be identical materials",
         "is_correct": false
       },
       {
-        "text": "Only soft rocks are resources",
-        "is_correct": false
-      },
-      {
-        "text": "Every rock is used in the same way",
-        "is_correct": false
-      },
-      {
-        "text": "They provide building materials and contain useful minerals",
+        "text": "Quartz can be part of granite",
         "is_correct": true
+      },
+      {
+        "text": "Quartz cannot occur in a rock with other minerals",
+        "is_correct": false
+      },
+      {
+        "text": "Every part of granite must be quartz",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Rocks have no human uses",
-      "Only soft rocks are resources",
-      "Every rock is used in the same way",
-      "They provide building materials and contain useful minerals"
+      "Quartz and granite must be identical materials",
+      "Quartz can be part of granite",
+      "Quartz cannot occur in a rock with other minerals",
+      "Every part of granite must be quartz"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Rocks are used directly and as sources of minerals.",
-      "hint": "Think construction and materials."
+      "summary": "The mineral quartz can occur within granite alongside other minerals.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
     "structuredExplanation": {
-      "summary": "Rocks are used directly and as sources of minerals.",
-      "hint": "Think construction and materials."
+      "summary": "The mineral quartz can occur within granite alongside other minerals.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 14,
     "sequencePriority": 14,
     "quality_schema": "skillr-actual-v6",
@@ -860,10 +864,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why does soil matter for agriculture?",
-    "audio_prompt": "Why does soil matter for agriculture?",
-    "audioPrompt": "Why does soil matter for agriculture?",
+    "skill": "Compare minerals and rocks using evidence",
+    "question": "A child finds a natural stone and a shaped concrete paving block. Which comparison is correct?",
+    "audio_prompt": "A child finds a natural stone and a shaped concrete paving block. Which comparison is correct?",
+    "audioPrompt": "A child finds a natural stone and a shaped concrete paving block. Which comparison is correct?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -871,42 +875,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Soil replaces air",
+        "text": "Both must be natural rocks because both are hard",
         "is_correct": false
       },
       {
-        "text": "All crops grow without roots",
-        "is_correct": false
-      },
-      {
-        "text": "Plants depend on soil for support, water and nutrients",
+        "text": "The stone formed naturally; people manufactured the paving block",
         "is_correct": true
       },
       {
-        "text": "Soil makes sunlight",
+        "text": "The paving block is a mineral because it is square",
+        "is_correct": false
+      },
+      {
+        "text": "The stone is manufactured because it is small",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Soil replaces air",
-      "All crops grow without roots",
-      "Plants depend on soil for support, water and nutrients",
-      "Soil makes sunlight"
+      "Both must be natural rocks because both are hard",
+      "The stone formed naturally; people manufactured the paving block",
+      "The paving block is a mineral because it is square",
+      "The stone is manufactured because it is small"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Soil provides several resources plants need.",
-      "hint": "Roots interact with soil."
+      "summary": "Hardness or shape alone does not establish origin. The paving block is a manufactured material.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
     "structuredExplanation": {
-      "summary": "Soil provides several resources plants need.",
-      "hint": "Roots interact with soil."
+      "summary": "Hardness or shape alone does not establish origin. The paving block is a manufactured material.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 15,
     "sequencePriority": 15,
     "quality_schema": "skillr-actual-v6",
@@ -921,10 +925,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why is “this rock is strong because it is dark” weak reasoning?",
-    "audio_prompt": "Why is “this rock is strong because it is dark” weak reasoning?",
-    "audioPrompt": "Why is “this rock is strong because it is dark” weak reasoning?",
+    "skill": "Compare minerals and rocks using evidence",
+    "question": "Two mineral samples are shiny, but one is pale and the other dark. Which properties are recorded?",
+    "audio_prompt": "Two mineral samples are shiny, but one is pale and the other dark. Which properties are recorded?",
+    "audioPrompt": "Two mineral samples are shiny, but one is pale and the other dark. Which properties are recorded?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -932,42 +936,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Colour is the only rock property",
+        "text": "Grain size and mass",
         "is_correct": false
       },
       {
-        "text": "Colour alone does not show strength; relevant properties should be tested",
+        "text": "Lustre and colour",
         "is_correct": true
       },
       {
-        "text": "Dark rocks are always strong",
+        "text": "Texture and temperature",
         "is_correct": false
       },
       {
-        "text": "All light rocks are weak",
+        "text": "Hardness and mass",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Colour is the only rock property",
-      "Colour alone does not show strength; relevant properties should be tested",
-      "Dark rocks are always strong",
-      "All light rocks are weak"
+      "Grain size and mass",
+      "Lustre and colour",
+      "Texture and temperature",
+      "Hardness and mass"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "A property claim should be supported by evidence related to that property.",
-      "hint": "Match evidence to claim."
+      "summary": "Shininess describes lustre, while pale and dark describe colour.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
     "structuredExplanation": {
-      "summary": "A property claim should be supported by evidence related to that property.",
-      "hint": "Match evidence to claim."
+      "summary": "Shininess describes lustre, while pale and dark describe colour.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 16,
     "sequencePriority": 16,
     "quality_schema": "skillr-actual-v6",
@@ -982,10 +986,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why might clay-rich soil hold more water?",
-    "audio_prompt": "Why might clay-rich soil hold more water?",
-    "audioPrompt": "Why might clay-rich soil hold more water?",
+    "skill": "Compare minerals and rocks using evidence",
+    "question": "Mineral A has flat shiny faces. Mineral B has a dull surface. Which observation directly distinguishes them?",
+    "audio_prompt": "Mineral A has flat shiny faces. Mineral B has a dull surface. Which observation directly distinguishes them?",
+    "audioPrompt": "Mineral A has flat shiny faces. Mineral B has a dull surface. Which observation directly distinguishes them?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -993,42 +997,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Very small particles create small pore spaces that slow drainage",
+        "text": "Their masses, which have not been measured",
+        "is_correct": false
+      },
+      {
+        "text": "Their exact mineral identity from shine alone",
+        "is_correct": false
+      },
+      {
+        "text": "Their hardness, which has not been tested",
+        "is_correct": false
+      },
+      {
+        "text": "How their surfaces reflect light",
         "is_correct": true
-      },
-      {
-        "text": "Clay destroys water",
-        "is_correct": false
-      },
-      {
-        "text": "Clay is always colder",
-        "is_correct": false
-      },
-      {
-        "text": "Particle size never matters",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Very small particles create small pore spaces that slow drainage",
-      "Clay destroys water",
-      "Clay is always colder",
-      "Particle size never matters"
+      "Their masses, which have not been measured",
+      "Their exact mineral identity from shine alone",
+      "Their hardness, which has not been tested",
+      "How their surfaces reflect light"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Fine particles can slow water movement and increase retention.",
-      "hint": "Fine particles, smaller spaces."
+      "summary": "Shiny and dull surfaces reflect light differently; the other details do not describe the samples.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
     "structuredExplanation": {
-      "summary": "Fine particles can slow water movement and increase retention.",
-      "hint": "Fine particles, smaller spaces."
+      "summary": "Shiny and dull surfaces reflect light differently; the other details do not describe the samples.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 17,
     "sequencePriority": 17,
     "quality_schema": "skillr-actual-v6",
@@ -1043,10 +1047,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why are minerals called natural resources?",
-    "audio_prompt": "Why are minerals called natural resources?",
-    "audioPrompt": "Why are minerals called natural resources?",
+    "skill": "Compare minerals and rocks using evidence",
+    "question": "A sample matches a mineral guide's colour but not its other listed properties. What should the student do?",
+    "audio_prompt": "A sample matches a mineral guide's colour but not its other listed properties. What should the student do?",
+    "audioPrompt": "A sample matches a mineral guide's colour but not its other listed properties. What should the student do?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1054,42 +1058,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "They are made only in factories",
+        "text": "Ignore the properties that do not match",
         "is_correct": false
       },
       {
-        "text": "They are all renewable quickly",
+        "text": "Assume every sample of the same colour is the same mineral",
         "is_correct": false
       },
       {
-        "text": "They are not part of rocks",
-        "is_correct": false
-      },
-      {
-        "text": "People obtain them from Earth and use them for materials and products",
+        "text": "Gather more evidence before identifying it",
         "is_correct": true
+      },
+      {
+        "text": "Identify it from the matching colour alone",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "They are made only in factories",
-      "They are all renewable quickly",
-      "They are not part of rocks",
-      "People obtain them from Earth and use them for materials and products"
+      "Ignore the properties that do not match",
+      "Assume every sample of the same colour is the same mineral",
+      "Gather more evidence before identifying it",
+      "Identify it from the matching colour alone"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Minerals occur naturally and have many practical uses.",
-      "hint": "Earth source + human use."
+      "summary": "One matching property is not enough when other observations differ.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
     "structuredExplanation": {
-      "summary": "Minerals occur naturally and have many practical uses.",
-      "hint": "Earth source + human use."
+      "summary": "One matching property is not enough when other observations differ.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 18,
     "sequencePriority": 18,
     "quality_schema": "skillr-actual-v6",
@@ -1104,10 +1108,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why is a hand lens useful when comparing rocks?",
-    "audio_prompt": "Why is a hand lens useful when comparing rocks?",
-    "audioPrompt": "Why is a hand lens useful when comparing rocks?",
+    "skill": "Compare minerals and rocks using evidence",
+    "question": "A class compares a rock containing several visible grain colours with one pale mineral crystal. What should it record?",
+    "audio_prompt": "A class compares a rock containing several visible grain colours with one pale mineral crystal. What should it record?",
+    "audioPrompt": "A class compares a rock containing several visible grain colours with one pale mineral crystal. What should it record?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1115,42 +1119,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It measures temperature",
+        "text": "Every rock must contain exactly three minerals",
         "is_correct": false
       },
       {
-        "text": "It changes the rock",
-        "is_correct": false
-      },
-      {
-        "text": "It helps reveal small grains and crystals not easily seen with the naked eye",
+        "text": "The visible colours and grain patterns of each",
         "is_correct": true
       },
       {
-        "text": "It measures mass",
+        "text": "Crystals cannot occur within a rock",
+        "is_correct": false
+      },
+      {
+        "text": "Every pale sample must be the same mineral",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It measures temperature",
-      "It changes the rock",
-      "It helps reveal small grains and crystals not easily seen with the naked eye",
-      "It measures mass"
+      "Every rock must contain exactly three minerals",
+      "The visible colours and grain patterns of each",
+      "Crystals cannot occur within a rock",
+      "Every pale sample must be the same mineral"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Magnification helps observe texture and mineral grains.",
-      "hint": "Look more closely."
+      "summary": "The observations support descriptions of these samples, not universal claims about all rocks or minerals.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
     "structuredExplanation": {
-      "summary": "Magnification helps observe texture and mineral grains.",
-      "hint": "Look more closely."
+      "summary": "The observations support descriptions of these samples, not universal claims about all rocks or minerals.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 19,
     "sequencePriority": 19,
     "quality_schema": "skillr-actual-v6",
@@ -1165,10 +1169,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why should soil resources be managed carefully?",
-    "audio_prompt": "Why should soil resources be managed carefully?",
-    "audioPrompt": "Why should soil resources be managed carefully?",
+    "skill": "Compare minerals and rocks using evidence",
+    "question": "Which tool helps a student observe tiny grains on a rock without changing the sample?",
+    "audio_prompt": "Which tool helps a student observe tiny grains on a rock without changing the sample?",
+    "audioPrompt": "Which tool helps a student observe tiny grains on a rock without changing the sample?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1176,42 +1180,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Only rocks matter as resources",
-        "is_correct": false
-      },
-      {
-        "text": "Soil can take a long time to form and can be lost through erosion",
+        "text": "A hand lens",
         "is_correct": true
       },
       {
-        "text": "Soil forms instantly",
+        "text": "A ruler used only to measure overall length",
         "is_correct": false
       },
       {
-        "text": "Soil cannot be damaged",
+        "text": "A thermometer used only to measure temperature",
+        "is_correct": false
+      },
+      {
+        "text": "A balance used only to measure mass",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Only rocks matter as resources",
-      "Soil can take a long time to form and can be lost through erosion",
-      "Soil forms instantly",
-      "Soil cannot be damaged"
+      "A hand lens",
+      "A ruler used only to measure overall length",
+      "A thermometer used only to measure temperature",
+      "A balance used only to measure mass"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Soil is valuable and can be degraded or eroded faster than it forms.",
-      "hint": "Think conservation."
+      "summary": "A hand lens magnifies surface details while leaving the sample unchanged.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
     "structuredExplanation": {
-      "summary": "Soil is valuable and can be degraded or eroded faster than it forms.",
-      "hint": "Think conservation."
+      "summary": "A hand lens magnifies surface details while leaving the sample unchanged.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 20,
     "sequencePriority": 20,
     "quality_schema": "skillr-actual-v6",
@@ -1226,10 +1230,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which observation best supports “Sample A is sandy”?",
-    "audio_prompt": "Which observation best supports “Sample A is sandy”?",
-    "audioPrompt": "Which observation best supports “Sample A is sandy”?",
+    "skill": "Investigate soil properties and contents",
+    "question": "A soil sample contains sand grains, small pebbles and decaying leaves. What does this show?",
+    "audio_prompt": "A soil sample contains sand grains, small pebbles and decaying leaves. What does this show?",
+    "audioPrompt": "A soil sample contains sand grains, small pebbles and decaying leaves. What does this show?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1237,42 +1241,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It has many large, gritty particles",
+        "text": "Every part of soil is living",
+        "is_correct": false
+      },
+      {
+        "text": "Soil contains only large rocks",
+        "is_correct": false
+      },
+      {
+        "text": "Soil is always one pure mineral",
+        "is_correct": false
+      },
+      {
+        "text": "Soil can contain several different materials",
         "is_correct": true
-      },
-      {
-        "text": "It is my favourite sample",
-        "is_correct": false
-      },
-      {
-        "text": "It is in a yellow cup",
-        "is_correct": false
-      },
-      {
-        "text": "It came from outside",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "It has many large, gritty particles",
-      "It is my favourite sample",
-      "It is in a yellow cup",
-      "It came from outside"
+      "Every part of soil is living",
+      "Soil contains only large rocks",
+      "Soil is always one pure mineral",
+      "Soil can contain several different materials"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Large gritty particles are characteristic of sandy soil.",
-      "hint": "Use texture evidence."
+      "summary": "Soil is a mixture that can include mineral particles and remains of living things.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Large gritty particles are characteristic of sandy soil.",
-      "hint": "Use texture evidence."
+      "summary": "Soil is a mixture that can include mineral particles and remains of living things.",
+      "hint": "Separate what was observed from what has not been tested."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 21,
     "sequencePriority": 21,
     "quality_schema": "skillr-actual-v6",
@@ -1287,10 +1291,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which statement is a misconception?",
-    "audio_prompt": "Which statement is a misconception?",
-    "audioPrompt": "Which statement is a misconception?",
+    "skill": "Investigate soil properties and contents",
+    "question": "Which observation shows that soil can provide a habitat?",
+    "audio_prompt": "Which observation shows that soil can provide a habitat?",
+    "audioPrompt": "Which observation shows that soil can provide a habitat?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1298,42 +1302,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Soils can differ in particle size",
+        "text": "The sample has a dark colour",
         "is_correct": false
       },
       {
-        "text": "Some soils drain faster than others",
+        "text": "The soil feels gritty when dry",
         "is_correct": false
       },
       {
-        "text": "Organic matter can be part of soil",
-        "is_correct": false
-      },
-      {
-        "text": "All soil is the same material",
+        "text": "Small animals are found living among its particles",
         "is_correct": true
+      },
+      {
+        "text": "The soil contains small stones",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Soils can differ in particle size",
-      "Some soils drain faster than others",
-      "Organic matter can be part of soil",
-      "All soil is the same material"
+      "The sample has a dark colour",
+      "The soil feels gritty when dry",
+      "Small animals are found living among its particles",
+      "The soil contains small stones"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Soils are mixtures that vary in composition and properties.",
-      "hint": "Different places, different soil."
+      "summary": "Finding organisms living in soil is evidence that it provides a place to live.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Soils are mixtures that vary in composition and properties.",
-      "hint": "Different places, different soil."
+      "summary": "Finding organisms living in soil is evidence that it provides a place to live.",
+      "hint": "Separate what was observed from what has not been tested."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 22,
     "sequencePriority": 22,
     "quality_schema": "skillr-actual-v6",
@@ -1348,10 +1352,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which property would best help compare two minerals?",
-    "audio_prompt": "Which property would best help compare two minerals?",
-    "audioPrompt": "Which property would best help compare two minerals?",
+    "skill": "Investigate soil properties and contents",
+    "question": "Soil A feels gritty and Soil B feels sticky when equally damp. Which property is being compared?",
+    "audio_prompt": "Soil A feels gritty and Soil B feels sticky when equally damp. Which property is being compared?",
+    "audioPrompt": "Soil A feels gritty and Soil B feels sticky when equally damp. Which property is being compared?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1359,42 +1363,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Price sticker",
+        "text": "Particle colour",
         "is_correct": false
       },
       {
-        "text": "Where the sample sits on the table",
+        "text": "Sample mass",
         "is_correct": false
       },
       {
-        "text": "Hardness",
+        "text": "Drainage rate",
+        "is_correct": false
+      },
+      {
+        "text": "Texture",
         "is_correct": true
-      },
-      {
-        "text": "Owner name",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Price sticker",
-      "Where the sample sits on the table",
-      "Hardness",
-      "Owner name"
+      "Particle colour",
+      "Sample mass",
+      "Drainage rate",
+      "Texture"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Hardness is a physical property of the mineral itself.",
-      "hint": "Choose an intrinsic property."
+      "summary": "Gritty and sticky describe how the soil feels under the stated conditions.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Hardness is a physical property of the mineral itself.",
-      "hint": "Choose an intrinsic property."
+      "summary": "Gritty and sticky describe how the soil feels under the stated conditions.",
+      "hint": "Separate what was observed from what has not been tested."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 23,
     "sequencePriority": 23,
     "quality_schema": "skillr-actual-v6",
@@ -1409,53 +1413,55 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which sample is likely to have fastest drainage?",
-    "audio_prompt": "Which sample is likely to have fastest drainage?",
-    "audioPrompt": "Which sample is likely to have fastest drainage?",
+    "skill": "Investigate soil properties and contents",
+    "question": "Two equal dry soil samples are examined. A contains many large grains; B contains mostly tiny grains. Which conclusion is supported?",
+    "audio_prompt": "Two equal dry soil samples are examined. A contains many large grains; B contains mostly tiny grains. Which conclusion is supported?",
+    "audioPrompt": "Two equal dry soil samples are examined. A contains many large grains; B contains mostly tiny grains. Which conclusion is supported?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-u02-diagrams.svg",
+      "symbol_id": "u02-p-024",
+      "alt_text": "Soil A has many large grains. Soil B has mostly tiny grains."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Soil A has many large grains. Soil B has mostly tiny grains.\"><use href=\"/assets/assessment-banks/year3/science/strict-u02-diagrams.svg#u02-p-024\"/></svg>",
     "answers": [
       {
-        "text": "All must drain equally",
+        "text": "B must be darker",
         "is_correct": false
       },
       {
-        "text": "Large coarse grains with visible spaces",
+        "text": "The samples differ in particle size",
         "is_correct": true
       },
       {
-        "text": "Very fine sticky particles",
+        "text": "A must contain more living animals",
         "is_correct": false
       },
       {
-        "text": "Dense wet clay",
+        "text": "Both must hold exactly the same amount of water",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "All must drain equally",
-      "Large coarse grains with visible spaces",
-      "Very fine sticky particles",
-      "Dense wet clay"
+      "B must be darker",
+      "The samples differ in particle size",
+      "A must contain more living animals",
+      "Both must hold exactly the same amount of water"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Coarse grains generally allow more rapid water movement.",
-      "hint": "Look at particle size and spaces."
+      "summary": "The observations show different particle sizes. Other properties need their own observations or tests.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Coarse grains generally allow more rapid water movement.",
-      "hint": "Look at particle size and spaces."
+      "summary": "The observations show different particle sizes. Other properties need their own observations or tests.",
+      "hint": "Separate what was observed from what has not been tested."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 24,
     "sequencePriority": 24,
     "quality_schema": "skillr-actual-v6",
@@ -1470,10 +1476,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which claim about rocks is most accurate?",
-    "audio_prompt": "Which claim about rocks is most accurate?",
-    "audioPrompt": "Which claim about rocks is most accurate?",
+    "skill": "Investigate soil properties and contents",
+    "question": "A class wants to compare soil colour. Which procedure is fairest?",
+    "audio_prompt": "A class wants to compare soil colour. Which procedure is fairest?",
+    "audioPrompt": "A class wants to compare soil colour. Which procedure is fairest?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1481,42 +1487,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Rocks can be made of one or more minerals",
+        "text": "Judge one sample from memory after looking at the other",
+        "is_correct": false
+      },
+      {
+        "text": "Compare one in shade and the other in sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "Place equally dry samples under the same light",
         "is_correct": true
       },
       {
-        "text": "Every rock is pure quartz",
-        "is_correct": false
-      },
-      {
-        "text": "Rocks are living things",
-        "is_correct": false
-      },
-      {
-        "text": "Rocks all have the same hardness",
+        "text": "Soak one sample and leave the other dry",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Rocks can be made of one or more minerals",
-      "Every rock is pure quartz",
-      "Rocks are living things",
-      "Rocks all have the same hardness"
+      "Judge one sample from memory after looking at the other",
+      "Compare one in shade and the other in sunlight",
+      "Place equally dry samples under the same light",
+      "Soak one sample and leave the other dry"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Rocks are aggregates of mineral material and can contain several minerals.",
-      "hint": "Rock ≠ single mineral necessarily."
+      "summary": "Moisture and light can change apparent colour, so keep them similar.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Rocks are aggregates of mineral material and can contain several minerals.",
-      "hint": "Rock ≠ single mineral necessarily."
+      "summary": "Moisture and light can change apparent colour, so keep them similar.",
+      "hint": "Separate what was observed from what has not been tested."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 25,
     "sequencePriority": 25,
     "quality_schema": "skillr-actual-v6",
@@ -1531,10 +1537,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which soil property matters most for how quickly water moves through it?",
-    "audio_prompt": "Which soil property matters most for how quickly water moves through it?",
-    "audioPrompt": "Which soil property matters most for how quickly water moves through it?",
+    "skill": "Investigate soil properties and contents",
+    "question": "A student removes a small twig from soil. How should the twig be described?",
+    "audio_prompt": "A student removes a small twig from soil. How should the twig be described?",
+    "audioPrompt": "A student removes a small twig from soil. How should the twig be described?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1542,42 +1548,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Pot colour",
-        "is_correct": false
-      },
-      {
-        "text": "Label font",
-        "is_correct": false
-      },
-      {
-        "text": "Who collected it",
-        "is_correct": false
-      },
-      {
-        "text": "Particle size and pore space",
+        "text": "Plant material that can be part of a soil sample",
         "is_correct": true
+      },
+      {
+        "text": "A mineral crystal because it was found in soil",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence that the whole sample is living",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence that the sample cannot also contain rock particles",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Pot colour",
-      "Label font",
-      "Who collected it",
-      "Particle size and pore space"
+      "Plant material that can be part of a soil sample",
+      "A mineral crystal because it was found in soil",
+      "Evidence that the whole sample is living",
+      "Evidence that the sample cannot also contain rock particles"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Water movement depends strongly on the size and arrangement of particles and spaces.",
-      "hint": "Think pore space."
+      "summary": "Soil may contain plant remains as well as mineral particles.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Water movement depends strongly on the size and arrangement of particles and spaces.",
-      "hint": "Think pore space."
+      "summary": "Soil may contain plant remains as well as mineral particles.",
+      "hint": "Separate what was observed from what has not been tested."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 26,
     "sequencePriority": 26,
     "quality_schema": "skillr-actual-v6",
@@ -1592,53 +1598,55 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which is an Earth-resource use?",
-    "audio_prompt": "Which is an Earth-resource use?",
-    "audioPrompt": "Which is an Earth-resource use?",
+    "skill": "Investigate soil properties and contents",
+    "question": "Equal amounts of water are poured through equal soil samples in matching funnels. A lets 70 mL through in five minutes; B lets 25 mL through. What was observed?",
+    "audio_prompt": "Equal amounts of water are poured through equal soil samples in matching funnels. A lets 70 mL through in five minutes; B lets 25 mL through. What was observed?",
+    "audioPrompt": "Equal amounts of water are poured through equal soil samples in matching funnels. A lets 70 mL through in five minutes; B lets 25 mL through. What was observed?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-u02-diagrams.svg",
+      "symbol_id": "u02-p-027",
+      "alt_text": "Under matching conditions, 70 millilitres passed through A and 25 millilitres through B in five minutes."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Under matching conditions, 70 millilitres passed through A and 25 millilitres through B in five minutes.\"><use href=\"/assets/assessment-banks/year3/science/strict-u02-diagrams.svg#u02-p-027\"/></svg>",
     "answers": [
       {
-        "text": "Leaves used as metal ore",
+        "text": "A contained no soil",
         "is_correct": false
       },
       {
-        "text": "Sunlight stored inside granite",
+        "text": "B let more water pass through",
         "is_correct": false
       },
       {
-        "text": "Gravel used in road construction",
+        "text": "More water passed through A in that time",
         "is_correct": true
       },
       {
-        "text": "Clouds used as bricks",
+        "text": "Both let equal amounts pass through",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Leaves used as metal ore",
-      "Sunlight stored inside granite",
-      "Gravel used in road construction",
-      "Clouds used as bricks"
+      "A contained no soil",
+      "B let more water pass through",
+      "More water passed through A in that time",
+      "Both let equal amounts pass through"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Gravel is a rock resource widely used in construction.",
-      "hint": "Real material use."
+      "summary": "The measurements show 70 mL passing through A compared with 25 mL through B during the same interval.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Gravel is a rock resource widely used in construction.",
-      "hint": "Real material use."
+      "summary": "The measurements show 70 mL passing through A compared with 25 mL through B during the same interval.",
+      "hint": "Separate what was observed from what has not been tested."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 27,
     "sequencePriority": 27,
     "quality_schema": "skillr-actual-v6",
@@ -1653,10 +1661,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which statement best compares sand and clay?",
-    "audio_prompt": "Which statement best compares sand and clay?",
-    "audioPrompt": "Which statement best compares sand and clay?",
+    "skill": "Investigate soil properties and contents",
+    "question": "In a drainage comparison, why should both soil samples receive the same amount of water?",
+    "audio_prompt": "In a drainage comparison, why should both soil samples receive the same amount of water?",
+    "audioPrompt": "In a drainage comparison, why should both soil samples receive the same amount of water?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1664,42 +1672,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Neither is found in soil",
-        "is_correct": false
-      },
-      {
-        "text": "Sand has larger particles; clay has much finer particles",
+        "text": "So the starting water amount does not explain the difference",
         "is_correct": true
       },
       {
-        "text": "Clay has larger particles than sand",
+        "text": "To make both soils have the same particle sizes",
         "is_correct": false
       },
       {
-        "text": "They have identical particle sizes",
+        "text": "To guarantee both soils drain the same amount",
+        "is_correct": false
+      },
+      {
+        "text": "To remove the need to measure drainage time",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Neither is found in soil",
-      "Sand has larger particles; clay has much finer particles",
-      "Clay has larger particles than sand",
-      "They have identical particle sizes"
+      "So the starting water amount does not explain the difference",
+      "To make both soils have the same particle sizes",
+      "To guarantee both soils drain the same amount",
+      "To remove the need to measure drainage time"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Sand and clay differ greatly in particle size.",
-      "hint": "Coarse versus fine."
+      "summary": "Controlling the water amount helps compare the soils rather than different amounts added.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Sand and clay differ greatly in particle size.",
-      "hint": "Coarse versus fine."
+      "summary": "Controlling the water amount helps compare the soils rather than different amounts added.",
+      "hint": "Separate what was observed from what has not been tested."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 28,
     "sequencePriority": 28,
     "quality_schema": "skillr-actual-v6",
@@ -1714,10 +1722,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which observation is about texture?",
-    "audio_prompt": "Which observation is about texture?",
-    "audioPrompt": "Which observation is about texture?",
+    "skill": "Investigate soil properties and contents",
+    "question": "A dry soil sample weighs more after water is mixed into it. Which explanation fits?",
+    "audio_prompt": "A dry soil sample weighs more after water is mixed into it. Which explanation fits?",
+    "audioPrompt": "A dry soil sample weighs more after water is mixed into it. Which explanation fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1725,42 +1733,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The rock feels rough",
+        "text": "The soil must have lost material",
+        "is_correct": false
+      },
+      {
+        "text": "Water has been added to the sample",
         "is_correct": true
       },
       {
-        "text": "The rock is grey",
+        "text": "The dry soil must have grown new mineral grains",
         "is_correct": false
       },
       {
-        "text": "The rock is 5 cm long",
-        "is_correct": false
-      },
-      {
-        "text": "The rock weighs 120 g",
+        "text": "The amount of soil alone has definitely increased",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The rock feels rough",
-      "The rock is grey",
-      "The rock is 5 cm long",
-      "The rock weighs 120 g"
+      "The soil must have lost material",
+      "Water has been added to the sample",
+      "The dry soil must have grown new mineral grains",
+      "The amount of soil alone has definitely increased"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Roughness is a texture property.",
-      "hint": "Surface feel."
+      "summary": "The added water contributes mass; no transformation into living material is shown.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Roughness is a texture property.",
-      "hint": "Surface feel."
+      "summary": "The added water contributes mass; no transformation into living material is shown.",
+      "hint": "Separate what was observed from what has not been tested."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 29,
     "sequencePriority": 29,
     "quality_schema": "skillr-actual-v6",
@@ -1775,10 +1783,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which statement about resources is too broad?",
-    "audio_prompt": "Which statement about resources is too broad?",
-    "audioPrompt": "Which statement about resources is too broad?",
+    "skill": "Investigate soil properties and contents",
+    "question": "A soil contains tiny roots and decaying leaves. Which conclusion is reasonable?",
+    "audio_prompt": "A soil contains tiny roots and decaying leaves. Which conclusion is reasonable?",
+    "audioPrompt": "A soil contains tiny roots and decaying leaves. Which conclusion is reasonable?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1786,42 +1794,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Different rocks suit different uses",
+        "text": "Every part is currently living",
         "is_correct": false
       },
       {
-        "text": "Hardness can affect use",
+        "text": "All of it is a single rock",
         "is_correct": false
       },
       {
-        "text": "Some minerals are used in electronics",
-        "is_correct": false
-      },
-      {
-        "text": "All rocks are equally useful for every purpose",
+        "text": "Some of its contents came from plants",
         "is_correct": true
+      },
+      {
+        "text": "It cannot also contain sand",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Different rocks suit different uses",
-      "Hardness can affect use",
-      "Some minerals are used in electronics",
-      "All rocks are equally useful for every purpose"
+      "Every part is currently living",
+      "All of it is a single rock",
+      "Some of its contents came from plants",
+      "It cannot also contain sand"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Material suitability depends on properties and purpose.",
-      "hint": "Different properties, different uses."
+      "summary": "Roots and decaying leaves are plant material, but the sample can also contain other components.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Material suitability depends on properties and purpose.",
-      "hint": "Different properties, different uses."
+      "summary": "Roots and decaying leaves are plant material, but the sample can also contain other components.",
+      "hint": "Separate what was observed from what has not been tested."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 30,
     "sequencePriority": 30,
     "quality_schema": "skillr-actual-v6",
@@ -1836,10 +1844,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "A garden bed drains too quickly. Which soil change might help it hold more water?",
-    "audio_prompt": "A garden bed drains too quickly. Which soil change might help it hold more water?",
-    "audioPrompt": "A garden bed drains too quickly. Which soil change might help it hold more water?",
+    "skill": "Investigate soil properties and contents",
+    "question": "A child says all soils are identical. Which evidence challenges the claim?",
+    "audio_prompt": "A child says all soils are identical. Which evidence challenges the claim?",
+    "audioPrompt": "A child says all soils are identical. Which evidence challenges the claim?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1847,40 +1855,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Remove all organic matter",
-        "is_correct": false
-      },
-      {
-        "text": "Use larger rocks only",
-        "is_correct": false
-      },
-      {
-        "text": "Add more fine-textured material and organic matter",
+        "text": "Two samples have different colours and particle sizes",
         "is_correct": true
       },
       {
-        "text": "Add only coarse sand",
+        "text": "Both are called soil",
+        "is_correct": false
+      },
+      {
+        "text": "Both samples are kept in jars",
+        "is_correct": false
+      },
+      {
+        "text": "Both were observed by the same class",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Remove all organic matter",
-      "Use larger rocks only",
-      "Add more fine-textured material and organic matter",
-      "Add only coarse sand"
+      "Two samples have different colours and particle sizes",
+      "Both are called soil",
+      "Both samples are kept in jars",
+      "Both were observed by the same class"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Finer particles and organic matter can increase water retention.",
-      "hint": "Think water-holding capacity."
+      "summary": "Measured or observed differences show that soils can have different properties.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Finer particles and organic matter can increase water retention.",
-      "hint": "Think water-holding capacity."
+      "summary": "Measured or observed differences show that soils can have different properties.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 31,
@@ -1897,10 +1905,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "A path needs a hard durable material. Which property should be prioritised?",
-    "audio_prompt": "A path needs a hard durable material. Which property should be prioritised?",
-    "audioPrompt": "A path needs a hard durable material. Which property should be prioritised?",
+    "skill": "Investigate soil properties and contents",
+    "question": "A class compares soil samples and finds a worm in only one small handful. What should it avoid concluding?",
+    "audio_prompt": "A class compares soil samples and finds a worm in only one small handful. What should it avoid concluding?",
+    "audioPrompt": "A class compares soil samples and finds a worm in only one small handful. What should it avoid concluding?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1908,40 +1916,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Ability to dissolve quickly",
+        "text": "That soil can contain organisms",
         "is_correct": false
       },
       {
-        "text": "Hardness and resistance to wear",
+        "text": "That the other entire soil area contains no worms",
         "is_correct": true
       },
       {
-        "text": "Bright colour only",
+        "text": "That the samples were small",
         "is_correct": false
       },
       {
-        "text": "Softness",
+        "text": "That a worm was observed in the first handful",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Ability to dissolve quickly",
-      "Hardness and resistance to wear",
-      "Bright colour only",
-      "Softness"
+      "That soil can contain organisms",
+      "That the other entire soil area contains no worms",
+      "That the samples were small",
+      "That a worm was observed in the first handful"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Durable paths need materials that resist abrasion and breakdown.",
-      "hint": "Match property to purpose."
+      "summary": "A small sample cannot establish that no worms exist anywhere in the larger area.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Durable paths need materials that resist abrasion and breakdown.",
-      "hint": "Match property to purpose."
+      "summary": "A small sample cannot establish that no worms exist anywhere in the larger area.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 32,
@@ -1958,10 +1966,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Two soil samples receive equal water. Sample A drains 80 mL; Sample B drains 25 mL. Which is likely finer-textured?",
-    "audio_prompt": "Two soil samples receive equal water. Sample A drains 80 mL; Sample B drains 25 mL. Which is likely finer-textured?",
-    "audioPrompt": "Two soil samples receive equal water. Sample A drains 80 mL; Sample B drains 25 mL. Which is likely finer-textured?",
+    "skill": "Explain Earth resource importance",
+    "question": "Why is soil an important resource for growing vegetables?",
+    "audio_prompt": "Why is soil an important resource for growing vegetables?",
+    "audioPrompt": "Why is soil an important resource for growing vegetables?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1969,40 +1977,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Sample B",
+        "text": "It guarantees plants never need water",
+        "is_correct": false
+      },
+      {
+        "text": "It turns plastic seeds into living plants",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces all sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "It supports roots and can supply water and nutrients",
         "is_correct": true
-      },
-      {
-        "text": "Sample A",
-        "is_correct": false
-      },
-      {
-        "text": "Both must be identical",
-        "is_correct": false
-      },
-      {
-        "text": "Drainage gives no clue",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Sample B",
-      "Sample A",
-      "Both must be identical",
-      "Drainage gives no clue"
+      "It guarantees plants never need water",
+      "It turns plastic seeds into living plants",
+      "It replaces all sunlight",
+      "It supports roots and can supply water and nutrients"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Lower drainage can indicate finer particles and greater water retention.",
-      "hint": "Less water through = more held back."
+      "summary": "Soil can anchor roots and provide water and nutrients needed for plant growth.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "structuredExplanation": {
-      "summary": "Lower drainage can indicate finer particles and greater water retention.",
-      "hint": "Less water through = more held back."
+      "summary": "Soil can anchor roots and provide water and nutrients needed for plant growth.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 33,
@@ -2019,10 +2027,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "A mineral scratches glass but cannot be scratched by a fingernail. What can you infer?",
-    "audio_prompt": "A mineral scratches glass but cannot be scratched by a fingernail. What can you infer?",
-    "audioPrompt": "A mineral scratches glass but cannot be scratched by a fingernail. What can you infer?",
+    "skill": "Explain Earth resource importance",
+    "question": "How can caring for soil help people obtain food?",
+    "audio_prompt": "How can caring for soil help people obtain food?",
+    "audioPrompt": "How can caring for soil help people obtain food?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2030,40 +2038,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It must be a metal",
+        "text": "Plants need soil only to stay upright and never obtain anything from it",
         "is_correct": false
       },
       {
-        "text": "It is living",
-        "is_correct": false
-      },
-      {
-        "text": "Its colour is white",
-        "is_correct": false
-      },
-      {
-        "text": "It is relatively hard",
+        "text": "Healthy soil supports crops that people eat",
         "is_correct": true
+      },
+      {
+        "text": "All crops grow equally well in every soil",
+        "is_correct": false
+      },
+      {
+        "text": "Soil removes the need for water",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "It must be a metal",
-      "It is living",
-      "Its colour is white",
-      "It is relatively hard"
+      "Plants need soil only to stay upright and never obtain anything from it",
+      "Healthy soil supports crops that people eat",
+      "All crops grow equally well in every soil",
+      "Soil removes the need for water"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Scratch behaviour provides evidence about hardness.",
-      "hint": "Use the property tested."
+      "summary": "Many food crops depend on suitable soil for growth.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "structuredExplanation": {
-      "summary": "Scratch behaviour provides evidence about hardness.",
-      "hint": "Use the property tested."
+      "summary": "Many food crops depend on suitable soil for growth.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 34,
@@ -2080,10 +2088,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "A class compares soil colour only and concludes one soil is best for plants. What is missing?",
-    "audio_prompt": "A class compares soil colour only and concludes one soil is best for plants. What is missing?",
-    "audioPrompt": "A class compares soil colour only and concludes one soil is best for plants. What is missing?",
+    "skill": "Explain Earth resource importance",
+    "question": "Why is soil important to an earthworm?",
+    "audio_prompt": "Why is soil important to an earthworm?",
+    "audioPrompt": "Why is soil important to an earthworm?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2091,40 +2099,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A larger label",
+        "text": "It prevents all changes in the worm's surroundings",
         "is_correct": false
       },
       {
-        "text": "A favourite sample",
+        "text": "It guarantees no predators can reach the worm",
         "is_correct": false
       },
       {
-        "text": "Evidence about relevant properties such as nutrients, drainage and water-holding",
+        "text": "It provides a place to live and find suitable food",
         "is_correct": true
       },
       {
-        "text": "A prettier graph",
+        "text": "It means the worm never needs moisture",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A larger label",
-      "A favourite sample",
-      "Evidence about relevant properties such as nutrients, drainage and water-holding",
-      "A prettier graph"
+      "It prevents all changes in the worm's surroundings",
+      "It guarantees no predators can reach the worm",
+      "It provides a place to live and find suitable food",
+      "It means the worm never needs moisture"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Colour alone does not determine plant suitability.",
-      "hint": "Test properties related to plant growth."
+      "summary": "Soil is a habitat where earthworms can live and obtain food from organic material.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "structuredExplanation": {
-      "summary": "Colour alone does not determine plant suitability.",
-      "hint": "Test properties related to plant growth."
+      "summary": "Soil is a habitat where earthworms can live and obtain food from organic material.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 35,
@@ -2141,10 +2149,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why might coarse gravel be useful under a path?",
-    "audio_prompt": "Why might coarse gravel be useful under a path?",
-    "audioPrompt": "Why might coarse gravel be useful under a path?",
+    "skill": "Explain Earth resource importance",
+    "question": "A builder chooses a strong rock for a wall. Which link between property and use is reasonable?",
+    "audio_prompt": "A builder chooses a strong rock for a wall. Which link between property and use is reasonable?",
+    "audioPrompt": "A builder chooses a strong rock for a wall. Which link between property and use is reasonable?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2152,40 +2160,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It dissolves into soil quickly",
+        "text": "Every rock has the same strength for building",
         "is_correct": false
       },
       {
-        "text": "It can provide drainage and a stable base",
+        "text": "Dark colour alone guarantees the rock is strong",
+        "is_correct": false
+      },
+      {
+        "text": "A smooth surface alone proves it can support the wall",
+        "is_correct": false
+      },
+      {
+        "text": "Strength helps the rock support the wall",
         "is_correct": true
-      },
-      {
-        "text": "It always holds the most water",
-        "is_correct": false
-      },
-      {
-        "text": "It behaves like clay",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "It dissolves into soil quickly",
-      "It can provide drainage and a stable base",
-      "It always holds the most water",
-      "It behaves like clay"
+      "Every rock has the same strength for building",
+      "Dark colour alone guarantees the rock is strong",
+      "A smooth surface alone proves it can support the wall",
+      "Strength helps the rock support the wall"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Large particles and spaces can help water drain and support construction.",
-      "hint": "Think structure and drainage."
+      "summary": "The rock's strength is relevant to supporting a wall; colour alone is not evidence of strength.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "structuredExplanation": {
-      "summary": "Large particles and spaces can help water drain and support construction.",
-      "hint": "Think structure and drainage."
+      "summary": "The rock's strength is relevant to supporting a wall; colour alone is not evidence of strength.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 36,
@@ -2202,10 +2210,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "A rock contains visible crystals of several colours. What is a reasonable explanation?",
-    "audio_prompt": "A rock contains visible crystals of several colours. What is a reasonable explanation?",
-    "audioPrompt": "A rock contains visible crystals of several colours. What is a reasonable explanation?",
+    "skill": "Explain Earth resource importance",
+    "question": "A path needs a durable material that remains firm under footsteps. Why might suitable crushed rock be used?",
+    "audio_prompt": "A path needs a durable material that remains firm under footsteps. Why might suitable crushed rock be used?",
+    "audioPrompt": "A path needs a durable material that remains firm under footsteps. Why might suitable crushed rock be used?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2213,40 +2221,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It may contain several different minerals",
+        "text": "The smallest grains always make the strongest surface",
+        "is_correct": false
+      },
+      {
+        "text": "Its colour alone proves that it will resist wear",
+        "is_correct": false
+      },
+      {
+        "text": "It can provide a firm, hard-wearing surface",
         "is_correct": true
       },
       {
-        "text": "Colour proves it is artificial",
-        "is_correct": false
-      },
-      {
-        "text": "Every crystal is the same mineral",
-        "is_correct": false
-      },
-      {
-        "text": "Rocks cannot contain crystals",
+        "text": "Any rock must be equally suitable for every path",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It may contain several different minerals",
-      "Colour proves it is artificial",
-      "Every crystal is the same mineral",
-      "Rocks cannot contain crystals"
+      "The smallest grains always make the strongest surface",
+      "Its colour alone proves that it will resist wear",
+      "It can provide a firm, hard-wearing surface",
+      "Any rock must be equally suitable for every path"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Different crystals can indicate different mineral components.",
-      "hint": "Look at mineral composition."
+      "summary": "Suitable rock can withstand wear and form a firm path surface.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "structuredExplanation": {
-      "summary": "Different crystals can indicate different mineral components.",
-      "hint": "Look at mineral composition."
+      "summary": "Suitable rock can withstand wear and form a firm path surface.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 37,
@@ -2263,10 +2271,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "A farmer wants to reduce soil erosion on a slope. Which action best protects the soil resource?",
-    "audio_prompt": "A farmer wants to reduce soil erosion on a slope. Which action best protects the soil resource?",
-    "audioPrompt": "A farmer wants to reduce soil erosion on a slope. Which action best protects the soil resource?",
+    "skill": "Explain Earth resource importance",
+    "question": "Graphite is a mineral used in pencil cores because it leaves a mark on paper. Which property is useful here?",
+    "audio_prompt": "Graphite is a mineral used in pencil cores because it leaves a mark on paper. Which property is useful here?",
+    "audioPrompt": "Graphite is a mineral used in pencil cores because it leaves a mark on paper. Which property is useful here?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2274,40 +2282,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Remove all vegetation",
-        "is_correct": false
-      },
-      {
-        "text": "Leave bare soil exposed to rain",
-        "is_correct": false
-      },
-      {
-        "text": "Increase runoff speed",
-        "is_correct": false
-      },
-      {
-        "text": "Maintain plant cover so roots help hold soil",
+        "text": "It transfers a visible mark when rubbed on paper",
         "is_correct": true
+      },
+      {
+        "text": "Its hardness prevents any material reaching the paper",
+        "is_correct": false
+      },
+      {
+        "text": "It dissolves immediately in dry paper",
+        "is_correct": false
+      },
+      {
+        "text": "It is transparent enough to see through",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Remove all vegetation",
-      "Leave bare soil exposed to rain",
-      "Increase runoff speed",
-      "Maintain plant cover so roots help hold soil"
+      "It transfers a visible mark when rubbed on paper",
+      "Its hardness prevents any material reaching the paper",
+      "It dissolves immediately in dry paper",
+      "It is transparent enough to see through"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Vegetation helps reduce erosion by protecting and binding soil.",
-      "hint": "Protect the surface and roots."
+      "summary": "Graphite can leave marks, making it useful for writing and drawing.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "structuredExplanation": {
-      "summary": "Vegetation helps reduce erosion by protecting and binding soil.",
-      "hint": "Protect the surface and roots."
+      "summary": "Graphite can leave marks, making it useful for writing and drawing.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 38,
@@ -2324,10 +2332,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "A rock is chosen for a kitchen bench. Which combination of properties is useful?",
-    "audio_prompt": "A rock is chosen for a kitchen bench. Which combination of properties is useful?",
-    "audioPrompt": "A rock is chosen for a kitchen bench. Which combination of properties is useful?",
+    "skill": "Explain Earth resource importance",
+    "question": "A mineral sample is used as a gemstone because it is attractive and can be polished. What does this illustrate?",
+    "audio_prompt": "A mineral sample is used as a gemstone because it is attractive and can be polished. What does this illustrate?",
+    "audioPrompt": "A mineral sample is used as a gemstone because it is attractive and can be polished. What does this illustrate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2335,40 +2343,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Highly absorbent and weak",
+        "text": "Appearance proves that a mineral suits every practical use",
         "is_correct": false
       },
       {
-        "text": "Easy to dissolve in water",
+        "text": "Minerals are useful only when used in buildings",
         "is_correct": false
       },
       {
-        "text": "Hard, durable and not easily scratched",
+        "text": "Properties can make an Earth resource useful",
         "is_correct": true
       },
       {
-        "text": "Very soft and crumbly",
+        "text": "Every mineral has the same decorative properties",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Highly absorbent and weak",
-      "Easy to dissolve in water",
-      "Hard, durable and not easily scratched",
-      "Very soft and crumbly"
+      "Appearance proves that a mineral suits every practical use",
+      "Minerals are useful only when used in buildings",
+      "Properties can make an Earth resource useful",
+      "Every mineral has the same decorative properties"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Bench materials need durability and resistance to wear.",
-      "hint": "Match material properties to use."
+      "summary": "Appearance and ability to take a polish can support a decorative use.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "structuredExplanation": {
-      "summary": "Bench materials need durability and resistance to wear.",
-      "hint": "Match material properties to use."
+      "summary": "Appearance and ability to take a polish can support a decorative use.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 39,
@@ -2385,10 +2393,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "practice",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which conclusion best fits a drainage investigation?",
-    "audio_prompt": "Which conclusion best fits a drainage investigation?",
-    "audioPrompt": "Which conclusion best fits a drainage investigation?",
+    "skill": "Explain Earth resource importance",
+    "question": "Salt can be obtained from Earth resources and used in food. What is a sensible classroom rule for an unknown mineral sample?",
+    "audio_prompt": "Salt can be obtained from Earth resources and used in food. What is a sensible classroom rule for an unknown mineral sample?",
+    "audioPrompt": "Salt can be obtained from Earth resources and used in food. What is a sensible classroom rule for an unknown mineral sample?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2396,44 +2404,534 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Soil type is the only factor that can matter",
-        "is_correct": false
-      },
-      {
-        "text": "The sandy sample drained more water in the same time than the clay-rich sample",
+        "text": "Never taste it to identify it",
         "is_correct": true
       },
       {
-        "text": "Sandy soil always drains fastest everywhere",
+        "text": "Mix unknown minerals into lunch",
         "is_correct": false
       },
       {
-        "text": "Clay never lets water through",
+        "text": "Taste every white sample",
+        "is_correct": false
+      },
+      {
+        "text": "Assume every clear crystal is edible salt",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Soil type is the only factor that can matter",
-      "The sandy sample drained more water in the same time than the clay-rich sample",
-      "Sandy soil always drains fastest everywhere",
-      "Clay never lets water through"
+      "Never taste it to identify it",
+      "Mix unknown minerals into lunch",
+      "Taste every white sample",
+      "Assume every clear crystal is edible salt"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A careful conclusion stays within the measured comparison.",
-      "hint": "Report this test, not every soil."
+      "summary": "Unknown samples may be unsafe; appearance does not establish that a mineral is edible.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "structuredExplanation": {
-      "summary": "A careful conclusion stays within the measured comparison.",
-      "hint": "Report this test, not every soil."
+      "summary": "Unknown samples may be unsafe; appearance does not establish that a mineral is edible.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 40,
     "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u02-p-041",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U02",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "skill": "Explain Earth resource importance",
+    "question": "A town uses stone in buildings and soil in gardens. Why are both Earth resources?",
+    "audio_prompt": "A town uses stone in buildings and soil in gardens. Why are both Earth resources?",
+    "audioPrompt": "A town uses stone in buildings and soil in gardens. Why are both Earth resources?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "People use these natural materials for useful purposes",
+        "is_correct": true
+      },
+      {
+        "text": "Only minerals, not soils or rocks, can be resources",
+        "is_correct": false
+      },
+      {
+        "text": "Both are manufactured before they occur in nature",
+        "is_correct": false
+      },
+      {
+        "text": "Both have identical observable properties",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "People use these natural materials for useful purposes",
+      "Only minerals, not soils or rocks, can be resources",
+      "Both are manufactured before they occur in nature",
+      "Both have identical observable properties"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Earth resources are natural materials that people and other living things depend on or use.",
+      "hint": "Connect the material to the need or use it supports."
+    },
+    "structuredExplanation": {
+      "summary": "Earth resources are natural materials that people and other living things depend on or use.",
+      "hint": "Connect the material to the need or use it supports."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 41,
+    "sequencePriority": 41,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u02-p-042",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U02",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "skill": "Explain Earth resource importance",
+    "question": "Why should a class protect exposed garden soil from being washed away?",
+    "audio_prompt": "Why should a class protect exposed garden soil from being washed away?",
+    "audioPrompt": "Why should a class protect exposed garden soil from being washed away?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "All lost soil is replaced immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Soil is useful only for its colour",
+        "is_correct": false
+      },
+      {
+        "text": "Removing soil always improves plant growth",
+        "is_correct": false
+      },
+      {
+        "text": "Losing soil can remove material that supports plants",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "All lost soil is replaced immediately",
+      "Soil is useful only for its colour",
+      "Removing soil always improves plant growth",
+      "Losing soil can remove material that supports plants"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Soil supports plants and can be lost through erosion, so retaining it protects a useful resource.",
+      "hint": "Connect the material to the need or use it supports."
+    },
+    "structuredExplanation": {
+      "summary": "Soil supports plants and can be lost through erosion, so retaining it protects a useful resource.",
+      "hint": "Connect the material to the need or use it supports."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 42,
+    "sequencePriority": 42,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u02-p-043",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U02",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "skill": "Explain Earth resource importance",
+    "question": "A student says rocks matter only because they look interesting. Which example adds another reason?",
+    "audio_prompt": "A student says rocks matter only because they look interesting. Which example adds another reason?",
+    "audioPrompt": "A student says rocks matter only because they look interesting. Which example adds another reason?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Different observers prefer different rock colours",
+        "is_correct": false
+      },
+      {
+        "text": "The samples can be arranged from pale to dark",
+        "is_correct": false
+      },
+      {
+        "text": "The rock has a name in a collection",
+        "is_correct": false
+      },
+      {
+        "text": "Suitable rock is used in roads and buildings",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Different observers prefer different rock colours",
+      "The samples can be arranged from pale to dark",
+      "The rock has a name in a collection",
+      "Suitable rock is used in roads and buildings"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Construction uses show practical importance beyond appearance.",
+      "hint": "Connect the material to the need or use it supports."
+    },
+    "structuredExplanation": {
+      "summary": "Construction uses show practical importance beyond appearance.",
+      "hint": "Connect the material to the need or use it supports."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 43,
+    "sequencePriority": 43,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u02-p-044",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U02",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "skill": "Explain Earth resource importance",
+    "question": "Why are minerals used to make useful objects described as resources?",
+    "audio_prompt": "Why are minerals used to make useful objects described as resources?",
+    "audioPrompt": "Why are minerals used to make useful objects described as resources?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "They can be used without considering their properties",
+        "is_correct": false
+      },
+      {
+        "text": "Only manufactured materials can be resources",
+        "is_correct": false
+      },
+      {
+        "text": "They are all equally useful for every task",
+        "is_correct": false
+      },
+      {
+        "text": "They are natural materials people can use",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "They can be used without considering their properties",
+      "Only manufactured materials can be resources",
+      "They are all equally useful for every task",
+      "They are natural materials people can use"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A natural material is a resource when it can meet a need or have a useful application.",
+      "hint": "Connect the material to the need or use it supports."
+    },
+    "structuredExplanation": {
+      "summary": "A natural material is a resource when it can meet a need or have a useful application.",
+      "hint": "Connect the material to the need or use it supports."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 44,
+    "sequencePriority": 44,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u02-p-045",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U02",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "skill": "Investigate and choose resources",
+    "question": "Two soils are tested for seedlings using equal pots, water and light. Why use the same kind of seed?",
+    "audio_prompt": "Two soils are tested for seedlings using equal pots, water and light. Why use the same kind of seed?",
+    "audioPrompt": "Two soils are tested for seedlings using equal pots, water and light. Why use the same kind of seed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "To replace the need to control light and water",
+        "is_correct": false
+      },
+      {
+        "text": "To guarantee identical final plant growth",
+        "is_correct": false
+      },
+      {
+        "text": "To reduce differences caused by plant type",
+        "is_correct": true
+      },
+      {
+        "text": "To make both soils have identical drainage",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "To replace the need to control light and water",
+      "To guarantee identical final plant growth",
+      "To reduce differences caused by plant type",
+      "To make both soils have identical drainage"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Using the same kind of seed makes the soil comparison fairer.",
+      "hint": "Use the test evidence and keep other conditions comparable."
+    },
+    "structuredExplanation": {
+      "summary": "Using the same kind of seed makes the soil comparison fairer.",
+      "hint": "Use the test evidence and keep other conditions comparable."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 45,
+    "sequencePriority": 45,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u02-p-046",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U02",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "skill": "Investigate and choose resources",
+    "question": "A plant label recommends free-draining soil. Test A drains 60 mL in five minutes; B drains 10 mL under matching conditions. Which is better supported by this evidence?",
+    "audio_prompt": "A plant label recommends free-draining soil. Test A drains 60 mL in five minutes; B drains 10 mL under matching conditions. Which is better supported by this evidence?",
+    "audioPrompt": "A plant label recommends free-draining soil. Test A drains 60 mL in five minutes; B drains 10 mL under matching conditions. Which is better supported by this evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-u02-diagrams.svg",
+      "symbol_id": "u02-p-046",
+      "alt_text": "A drains 60 millilitres and B drains 10 millilitres in five minutes."
+    },
+    "visualHtml": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A drains 60 millilitres and B drains 10 millilitres in five minutes.\"><use href=\"/assets/assessment-banks/year3/science/strict-u02-diagrams.svg#u02-p-046\"/></svg>",
+    "answers": [
+      {
+        "text": "A, because more water passed through in the same time",
+        "is_correct": true
+      },
+      {
+        "text": "B, because less water passed through",
+        "is_correct": false
+      },
+      {
+        "text": "Either, because the results are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Neither, because drainage cannot be observed",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A, because more water passed through in the same time",
+      "B, because less water passed through",
+      "Either, because the results are identical",
+      "Neither, because drainage cannot be observed"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The test supports A as the more freely draining sample under those conditions.",
+      "hint": "Use the test evidence and keep other conditions comparable."
+    },
+    "structuredExplanation": {
+      "summary": "The test supports A as the more freely draining sample under those conditions.",
+      "hint": "Use the test evidence and keep other conditions comparable."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 46,
+    "sequencePriority": 46,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u02-p-047",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U02",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "skill": "Investigate and choose resources",
+    "question": "A paving trial finds Stone A crumbles under repeated use while Stone B remains firm. Which choice is better supported for a busy path?",
+    "audio_prompt": "A paving trial finds Stone A crumbles under repeated use while Stone B remains firm. Which choice is better supported for a busy path?",
+    "audioPrompt": "A paving trial finds Stone A crumbles under repeated use while Stone B remains firm. Which choice is better supported for a busy path?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Stone B, based on its observed durability",
+        "is_correct": true
+      },
+      {
+        "text": "Either stone, because all rocks wear at the same rate",
+        "is_correct": false
+      },
+      {
+        "text": "Stone A, because being easy to break always suits a busy path",
+        "is_correct": false
+      },
+      {
+        "text": "Stone A, because crumbling shows greater durability",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Stone B, based on its observed durability",
+      "Either stone, because all rocks wear at the same rate",
+      "Stone A, because being easy to break always suits a busy path",
+      "Stone A, because crumbling shows greater durability"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Remaining firm during the trial is useful evidence of durability for the intended use.",
+      "hint": "Use the test evidence and keep other conditions comparable."
+    },
+    "structuredExplanation": {
+      "summary": "Remaining firm during the trial is useful evidence of durability for the intended use.",
+      "hint": "Use the test evidence and keep other conditions comparable."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 47,
+    "sequencePriority": 47,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3u02-p-048",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U02",
+    "curriculumCode": "AC9S3U02",
+    "bank": "practice",
+    "skill": "Investigate and choose resources",
+    "question": "A class wants to explain why a resource is useful. Which record gives the strongest link?",
+    "audio_prompt": "A class wants to explain why a resource is useful. Which record gives the strongest link?",
+    "audioPrompt": "A class wants to explain why a resource is useful. Which record gives the strongest link?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Graphite is a mineral, so it must be suitable for every use",
+        "is_correct": false
+      },
+      {
+        "text": "Graphite is natural, so no property testing is useful",
+        "is_correct": false
+      },
+      {
+        "text": "Graphite has a dark colour, so it must support a heavy wall",
+        "is_correct": false
+      },
+      {
+        "text": "Graphite leaves marks, so it can be used in pencil cores",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Graphite is a mineral, so it must be suitable for every use",
+      "Graphite is natural, so no property testing is useful",
+      "Graphite has a dark colour, so it must support a heavy wall",
+      "Graphite leaves marks, so it can be used in pencil cores"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A useful explanation connects an observed property with what the material is used to do.",
+      "hint": "Use the test evidence and keep other conditions comparable."
+    },
+    "structuredExplanation": {
+      "summary": "A useful explanation connects an observed property with what the material is used to do.",
+      "hint": "Use the test evidence and keep other conditions comparable."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 48,
+    "sequencePriority": 48,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
@@ -2446,58 +2944,61 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which soil property can be observed directly?",
-    "audio_prompt": "Which soil property can be observed directly?",
-    "audioPrompt": "Which soil property can be observed directly?",
+    "skill": "Compare observable rock properties",
+    "question": "Sample X is smooth and pale; Sample Y is rough and pale. Which comparison is correct?",
+    "audio_prompt": "Sample X is smooth and pale; Sample Y is rough and pale. Which comparison is correct?",
+    "audioPrompt": "Sample X is smooth and pale; Sample Y is rough and pale. Which comparison is correct?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-u02-diagrams.svg",
+      "symbol_id": "u02-t-001",
+      "alt_text": "X is smooth and pale; Y is rough and pale."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"X is smooth and pale; Y is rough and pale.\"><use href=\"/assets/assessment-banks/year3/science/strict-u02-diagrams.svg#u02-t-001\"/></svg>",
     "answers": [
       {
-        "text": "Its favourite plant",
-        "is_correct": false
-      },
-      {
-        "text": "Its age without testing",
-        "is_correct": false
-      },
-      {
-        "text": "Particle size",
+        "text": "They share colour but differ in texture",
         "is_correct": true
       },
       {
-        "text": "Its exact future use",
+        "text": "Both must contain identical minerals",
+        "is_correct": false
+      },
+      {
+        "text": "Their masses must be equal",
+        "is_correct": false
+      },
+      {
+        "text": "They share texture but differ in colour",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Its favourite plant",
-      "Its age without testing",
-      "Particle size",
-      "Its exact future use"
+      "They share colour but differ in texture",
+      "Both must contain identical minerals",
+      "Their masses must be equal",
+      "They share texture but differ in colour"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Particle size is observable.",
-      "hint": "Look at the sample."
+      "summary": "Both are pale, while smooth and rough describe different textures.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Particle size is observable.",
-      "hint": "Look at the sample."
+      "summary": "Both are pale, while smooth and rough describe different textures.",
+      "hint": "Compare the same observable property in both samples."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 1,
     "sequencePriority": 1,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3u02-t-002",
@@ -2506,10 +3007,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which soil type usually has the finest particles?",
-    "audio_prompt": "Which soil type usually has the finest particles?",
-    "audioPrompt": "Which soil type usually has the finest particles?",
+    "skill": "Compare observable rock properties",
+    "question": "A student sorts rocks by sharp or rounded edges. Which property is used?",
+    "audio_prompt": "A student sorts rocks by sharp or rounded edges. Which property is used?",
+    "audioPrompt": "A student sorts rocks by sharp or rounded edges. Which property is used?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2517,47 +3018,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "All are identical",
+        "text": "Temperature",
         "is_correct": false
       },
       {
-        "text": "Clay-rich soil",
+        "text": "Shape",
         "is_correct": true
       },
       {
-        "text": "Sandy soil",
+        "text": "Mass",
         "is_correct": false
       },
       {
-        "text": "Gravel",
+        "text": "Absorbency",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "All are identical",
-      "Clay-rich soil",
-      "Sandy soil",
-      "Gravel"
+      "Temperature",
+      "Shape",
+      "Mass",
+      "Absorbency"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Clay particles are very fine.",
-      "hint": "Fine versus coarse."
+      "summary": "The form of the edges is part of a rock's shape.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Clay particles are very fine.",
-      "hint": "Fine versus coarse."
+      "summary": "The form of the edges is part of a rock's shape.",
+      "hint": "Compare the same observable property in both samples."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 2,
     "sequencePriority": 2,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3u02-t-003",
@@ -2566,10 +3068,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why can soils drain at different rates?",
-    "audio_prompt": "Why can soils drain at different rates?",
-    "audioPrompt": "Why can soils drain at different rates?",
+    "skill": "Compare observable rock properties",
+    "question": "Two stones have the same colour. Which next step gives useful comparison evidence?",
+    "audio_prompt": "Two stones have the same colour. Which next step gives useful comparison evidence?",
+    "audioPrompt": "Two stones have the same colour. Which next step gives useful comparison evidence?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2577,47 +3079,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Their particle sizes and pore spaces differ",
+        "text": "Compare their colours only, without other observations",
+        "is_correct": false
+      },
+      {
+        "text": "Assume the smaller stone must be a different mineral",
+        "is_correct": false
+      },
+      {
+        "text": "Declare them identical immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Inspect their grain sizes and textures",
         "is_correct": true
-      },
-      {
-        "text": "Soil colour controls all drainage",
-        "is_correct": false
-      },
-      {
-        "text": "Every soil holds the same water",
-        "is_correct": false
-      },
-      {
-        "text": "Water chooses a favourite soil",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Their particle sizes and pore spaces differ",
-      "Soil colour controls all drainage",
-      "Every soil holds the same water",
-      "Water chooses a favourite soil"
+      "Compare their colours only, without other observations",
+      "Assume the smaller stone must be a different mineral",
+      "Declare them identical immediately",
+      "Inspect their grain sizes and textures"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Particle arrangement affects water movement.",
-      "hint": "Think spaces between grains."
+      "summary": "Additional properties help reveal similarities and differences that colour alone cannot show.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Particle arrangement affects water movement.",
-      "hint": "Think spaces between grains."
+      "summary": "Additional properties help reveal similarities and differences that colour alone cannot show.",
+      "hint": "Compare the same observable property in both samples."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 3,
     "sequencePriority": 3,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   },
   {
     "id": "ac9s3u02-t-004",
@@ -2626,10 +3129,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which property helps identify minerals?",
-    "audio_prompt": "Which property helps identify minerals?",
-    "audioPrompt": "Which property helps identify minerals?",
+    "skill": "Compare observable rock properties",
+    "question": "A dry rock looks different from the same rock when wet. How should two rock colours be compared fairly?",
+    "audio_prompt": "A dry rock looks different from the same rock when wet. How should two rock colours be compared fairly?",
+    "audioPrompt": "A dry rock looks different from the same rock when wet. How should two rock colours be compared fairly?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2637,47 +3140,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Owner name",
-        "is_correct": false
-      },
-      {
-        "text": "Price",
-        "is_correct": false
-      },
-      {
-        "text": "Container colour",
-        "is_correct": false
-      },
-      {
-        "text": "Hardness",
+        "text": "Observe both at the same moisture condition and lighting",
         "is_correct": true
+      },
+      {
+        "text": "Wet only the darker sample",
+        "is_correct": false
+      },
+      {
+        "text": "Use different coloured lights",
+        "is_correct": false
+      },
+      {
+        "text": "Compare one from memory only",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Owner name",
-      "Price",
-      "Container colour",
-      "Hardness"
+      "Observe both at the same moisture condition and lighting",
+      "Wet only the darker sample",
+      "Use different coloured lights",
+      "Compare one from memory only"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Hardness is a characteristic physical property.",
-      "hint": "Use a testable property."
+      "summary": "Matching moisture and lighting reduces avoidable differences in appearance.",
+      "hint": "Compare the same observable property in both samples."
     },
     "structuredExplanation": {
-      "summary": "Hardness is a characteristic physical property.",
-      "hint": "Use a testable property."
+      "summary": "Matching moisture and lighting reduces avoidable differences in appearance.",
+      "hint": "Compare the same observable property in both samples."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 4,
     "sequencePriority": 4,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   },
   {
     "id": "ac9s3u02-t-005",
@@ -2686,10 +3190,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why is soil a resource?",
-    "audio_prompt": "Why is soil a resource?",
-    "audioPrompt": "Why is soil a resource?",
+    "skill": "Compare minerals and rocks using evidence",
+    "question": "A rock sample contains visible quartz and other mineral grains. What does this show?",
+    "audio_prompt": "A rock sample contains visible quartz and other mineral grains. What does this show?",
+    "audioPrompt": "A rock sample contains visible quartz and other mineral grains. What does this show?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2697,47 +3201,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It is made only of rock",
+        "text": "Every rock must contain only quartz",
         "is_correct": false
       },
       {
-        "text": "It forms instantly",
+        "text": "All grains in a rock must have the same properties",
         "is_correct": false
       },
       {
-        "text": "It supports plants, habitats and food production",
+        "text": "A rock can contain different minerals",
         "is_correct": true
       },
       {
-        "text": "It has no living organisms",
+        "text": "Different minerals cannot occur together in a rock",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It is made only of rock",
-      "It forms instantly",
-      "It supports plants, habitats and food production",
-      "It has no living organisms"
+      "Every rock must contain only quartz",
+      "All grains in a rock must have the same properties",
+      "A rock can contain different minerals",
+      "Different minerals cannot occur together in a rock"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Soil supports ecosystems and human needs.",
-      "hint": "Think roots and food."
+      "summary": "Minerals are building blocks of many rocks, which may contain several kinds.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
     "structuredExplanation": {
-      "summary": "Soil supports ecosystems and human needs.",
-      "hint": "Think roots and food."
+      "summary": "Minerals are building blocks of many rocks, which may contain several kinds.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 5,
     "sequencePriority": 5,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3u02-t-006",
@@ -2746,10 +3251,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which rock use depends on durability?",
-    "audio_prompt": "Which rock use depends on durability?",
-    "audioPrompt": "Which rock use depends on durability?",
+    "skill": "Compare minerals and rocks using evidence",
+    "question": "A student calls a paving brick a natural rock because it is hard. What is the problem?",
+    "audio_prompt": "A student calls a paving brick a natural rock because it is hard. What is the problem?",
+    "audioPrompt": "A student calls a paving brick a natural rock because it is hard. What is the problem?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2757,47 +3262,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A cloud",
-        "is_correct": false
-      },
-      {
-        "text": "Road aggregate",
+        "text": "Hardness alone does not show that a material formed naturally",
         "is_correct": true
       },
       {
-        "text": "A paper towel",
+        "text": "Only liquids can be manufactured",
         "is_correct": false
       },
       {
-        "text": "A balloon",
+        "text": "A square shape proves a mineral identity",
+        "is_correct": false
+      },
+      {
+        "text": "Every hard object is a natural rock",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A cloud",
-      "Road aggregate",
-      "A paper towel",
-      "A balloon"
+      "Hardness alone does not show that a material formed naturally",
+      "Only liquids can be manufactured",
+      "A square shape proves a mineral identity",
+      "Every hard object is a natural rock"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Road materials must resist wear.",
-      "hint": "Match use and property."
+      "summary": "Manufactured materials can also be hard, so origin cannot be decided from hardness alone.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
     "structuredExplanation": {
-      "summary": "Road materials must resist wear.",
-      "hint": "Match use and property."
+      "summary": "Manufactured materials can also be hard, so origin cannot be decided from hardness alone.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 6,
     "sequencePriority": 6,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "apply"
   },
   {
     "id": "ac9s3u02-t-007",
@@ -2806,10 +3312,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "A soil feels gritty. What does this suggest?",
-    "audio_prompt": "A soil feels gritty. What does this suggest?",
-    "audioPrompt": "A soil feels gritty. What does this suggest?",
+    "skill": "Compare minerals and rocks using evidence",
+    "question": "A guide lists colour, lustre and grain features for samples. Why compare all the listed features?",
+    "audio_prompt": "A guide lists colour, lustre and grain features for samples. Why compare all the listed features?",
+    "audioPrompt": "A guide lists colour, lustre and grain features for samples. Why compare all the listed features?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2817,47 +3323,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It contains larger sand-sized particles",
+        "text": "A single matching colour proves identity",
+        "is_correct": false
+      },
+      {
+        "text": "Several properties provide stronger identification evidence",
         "is_correct": true
       },
       {
-        "text": "It is pure clay",
+        "text": "Observing more properties makes identification less reliable",
         "is_correct": false
       },
       {
-        "text": "It has no mineral matter",
-        "is_correct": false
-      },
-      {
-        "text": "It cannot contain water",
+        "text": "Only the first property in the guide is useful",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It contains larger sand-sized particles",
-      "It is pure clay",
-      "It has no mineral matter",
-      "It cannot contain water"
+      "A single matching colour proves identity",
+      "Several properties provide stronger identification evidence",
+      "Observing more properties makes identification less reliable",
+      "Only the first property in the guide is useful"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Grittiness is associated with coarse sand particles.",
-      "hint": "Texture clue."
+      "summary": "Considering multiple properties reduces mistakes caused by relying on one shared feature.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
     "structuredExplanation": {
-      "summary": "Grittiness is associated with coarse sand particles.",
-      "hint": "Texture clue."
+      "summary": "Considering multiple properties reduces mistakes caused by relying on one shared feature.",
+      "hint": "Use the stated properties; one matching feature may not be enough."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 7,
     "sequencePriority": 7,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   },
   {
     "id": "ac9s3u02-t-008",
@@ -2866,10 +3373,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which statement about rocks is correct?",
-    "audio_prompt": "Which statement about rocks is correct?",
-    "audioPrompt": "Which statement about rocks is correct?",
+    "skill": "Investigate soil properties and contents",
+    "question": "Soil contains small stones, fine grains and leaf remains. Which statement fits?",
+    "audio_prompt": "Soil contains small stones, fine grains and leaf remains. Which statement fits?",
+    "audioPrompt": "Soil contains small stones, fine grains and leaf remains. Which statement fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2877,47 +3384,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Every rock is one pure mineral",
-        "is_correct": false
-      },
-      {
-        "text": "They are living",
-        "is_correct": false
-      },
-      {
-        "text": "They all feel the same",
-        "is_correct": false
-      },
-      {
-        "text": "They can contain several minerals",
+        "text": "Soil can be a mixture of different materials",
         "is_correct": true
+      },
+      {
+        "text": "Everything in soil is currently living",
+        "is_correct": false
+      },
+      {
+        "text": "Soil must be one mineral crystal",
+        "is_correct": false
+      },
+      {
+        "text": "Soil cannot contain plant material",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Every rock is one pure mineral",
-      "They are living",
-      "They all feel the same",
-      "They can contain several minerals"
+      "Soil can be a mixture of different materials",
+      "Everything in soil is currently living",
+      "Soil must be one mineral crystal",
+      "Soil cannot contain plant material"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Rocks can be mixtures of minerals.",
-      "hint": "Rock composition varies."
+      "summary": "A soil sample can include mineral particles and organic remains.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Rocks can be mixtures of minerals.",
-      "hint": "Rock composition varies."
+      "summary": "A soil sample can include mineral particles and organic remains.",
+      "hint": "Separate what was observed from what has not been tested."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 8,
     "sequencePriority": 8,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3u02-t-009",
@@ -2926,190 +3434,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which sample likely holds more water?",
-    "audio_prompt": "Which sample likely holds more water?",
-    "audioPrompt": "Which sample likely holds more water?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "visualHtml": "",
-    "answers": [
-      {
-        "text": "Large pebbles only",
-        "is_correct": false
-      },
-      {
-        "text": "Dry glass beads",
-        "is_correct": false
-      },
-      {
-        "text": "Fine clay-rich soil",
-        "is_correct": true
-      },
-      {
-        "text": "Coarse gravel",
-        "is_correct": false
-      }
-    ],
-    "answer_texts": [
-      "Large pebbles only",
-      "Dry glass beads",
-      "Fine clay-rich soil",
-      "Coarse gravel"
-    ],
-    "correct_index": 2,
-    "correct": 2,
-    "explanation": {
-      "summary": "Fine pore spaces slow drainage and can retain more water.",
-      "hint": "Fine particles."
-    },
-    "structuredExplanation": {
-      "summary": "Fine pore spaces slow drainage and can retain more water.",
-      "hint": "Fine particles."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
-    "sequence_priority": 9,
-    "sequencePriority": 9,
-    "quality_schema": "skillr-actual-v6",
-    "qualitySchema": "skillr-actual-v6",
-    "printable": true,
-    "type": "single"
-  },
-  {
-    "id": "ac9s3u02-t-010",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U02",
-    "curriculumCode": "AC9S3U02",
-    "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Why use a hand lens on a rock?",
-    "audio_prompt": "Why use a hand lens on a rock?",
-    "audioPrompt": "Why use a hand lens on a rock?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "visualHtml": "",
-    "answers": [
-      {
-        "text": "To dissolve it",
-        "is_correct": false
-      },
-      {
-        "text": "To see grains and crystals more clearly",
-        "is_correct": true
-      },
-      {
-        "text": "To measure temperature",
-        "is_correct": false
-      },
-      {
-        "text": "To weigh it",
-        "is_correct": false
-      }
-    ],
-    "answer_texts": [
-      "To dissolve it",
-      "To see grains and crystals more clearly",
-      "To measure temperature",
-      "To weigh it"
-    ],
-    "correct_index": 1,
-    "correct": 1,
-    "explanation": {
-      "summary": "Magnification reveals small visible features.",
-      "hint": "Look closely."
-    },
-    "structuredExplanation": {
-      "summary": "Magnification reveals small visible features.",
-      "hint": "Look closely."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
-    "sequence_priority": 10,
-    "sequencePriority": 10,
-    "quality_schema": "skillr-actual-v6",
-    "qualitySchema": "skillr-actual-v6",
-    "printable": true,
-    "type": "single"
-  },
-  {
-    "id": "ac9s3u02-t-011",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U02",
-    "curriculumCode": "AC9S3U02",
-    "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which action helps conserve soil?",
-    "audio_prompt": "Which action helps conserve soil?",
-    "audioPrompt": "Which action helps conserve soil?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "visualHtml": "",
-    "answers": [
-      {
-        "text": "Keep vegetation cover on slopes",
-        "is_correct": true
-      },
-      {
-        "text": "Remove all roots",
-        "is_correct": false
-      },
-      {
-        "text": "Leave soil bare in heavy rain",
-        "is_correct": false
-      },
-      {
-        "text": "Increase erosion",
-        "is_correct": false
-      }
-    ],
-    "answer_texts": [
-      "Keep vegetation cover on slopes",
-      "Remove all roots",
-      "Leave soil bare in heavy rain",
-      "Increase erosion"
-    ],
-    "correct_index": 0,
-    "correct": 0,
-    "explanation": {
-      "summary": "Vegetation protects soil from erosion.",
-      "hint": "Hold soil in place."
-    },
-    "structuredExplanation": {
-      "summary": "Vegetation protects soil from erosion.",
-      "hint": "Hold soil in place."
-    },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
-    "sequence_priority": 11,
-    "sequencePriority": 11,
-    "quality_schema": "skillr-actual-v6",
-    "qualitySchema": "skillr-actual-v6",
-    "printable": true,
-    "type": "single"
-  },
-  {
-    "id": "ac9s3u02-t-012",
-    "subject": "science",
-    "year_level": "Year 3",
-    "curriculum_code": "AC9S3U02",
-    "curriculumCode": "AC9S3U02",
-    "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "A mineral scratches another mineral. What property is being compared?",
-    "audio_prompt": "A mineral scratches another mineral. What property is being compared?",
-    "audioPrompt": "A mineral scratches another mineral. What property is being compared?",
+    "skill": "Investigate soil properties and contents",
+    "question": "Soil P feels gritty and Soil Q feels sticky when equally damp. What differs?",
+    "audio_prompt": "Soil P feels gritty and Soil Q feels sticky when equally damp. What differs?",
+    "audioPrompt": "Soil P feels gritty and Soil Q feels sticky when equally damp. What differs?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3125,39 +3453,225 @@
         "is_correct": false
       },
       {
-        "text": "Volume",
+        "text": "Drainage rate",
         "is_correct": false
       },
       {
-        "text": "Hardness",
+        "text": "Texture",
         "is_correct": true
       }
     ],
     "answer_texts": [
       "Colour",
       "Mass",
-      "Volume",
-      "Hardness"
+      "Drainage rate",
+      "Texture"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Scratch tests compare hardness.",
-      "hint": "Resistance to scratching."
+      "summary": "Gritty and sticky describe different textures under comparable conditions.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "structuredExplanation": {
-      "summary": "Scratch tests compare hardness.",
-      "hint": "Resistance to scratching."
+      "summary": "Gritty and sticky describe different textures under comparable conditions.",
+      "hint": "Separate what was observed from what has not been tested."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 9,
+    "sequencePriority": 9,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single",
+    "stage": "recognise"
+  },
+  {
+    "id": "ac9s3u02-t-010",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U02",
+    "curriculumCode": "AC9S3U02",
+    "bank": "test",
+    "skill": "Investigate soil properties and contents",
+    "question": "Equal water amounts pass through equal soil samples for the same time. P collects 50 mL below it and Q collects 15 mL. Which conclusion is supported?",
+    "audio_prompt": "Equal water amounts pass through equal soil samples for the same time. P collects 50 mL below it and Q collects 15 mL. Which conclusion is supported?",
+    "audioPrompt": "Equal water amounts pass through equal soil samples for the same time. P collects 50 mL below it and Q collects 15 mL. Which conclusion is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-u02-diagrams.svg",
+      "symbol_id": "u02-t-010",
+      "alt_text": "P lets 50 millilitres pass through and Q lets 15 millilitres pass through."
+    },
+    "visualHtml": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"P lets 50 millilitres pass through and Q lets 15 millilitres pass through.\"><use href=\"/assets/assessment-banks/year3/science/strict-u02-diagrams.svg#u02-t-010\"/></svg>",
+    "answers": [
+      {
+        "text": "More water passed through Q",
+        "is_correct": false
+      },
+      {
+        "text": "The samples must have identical drainage",
+        "is_correct": false
+      },
+      {
+        "text": "More water passed through P during the test",
+        "is_correct": true
+      },
+      {
+        "text": "P must contain no mineral particles",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "More water passed through Q",
+      "The samples must have identical drainage",
+      "More water passed through P during the test",
+      "P must contain no mineral particles"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The collected volumes show more water passing through P in the measured interval.",
+      "hint": "Separate what was observed from what has not been tested."
+    },
+    "structuredExplanation": {
+      "summary": "The collected volumes show more water passing through P in the measured interval.",
+      "hint": "Separate what was observed from what has not been tested."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 10,
+    "sequencePriority": 10,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single",
+    "stage": "reason"
+  },
+  {
+    "id": "ac9s3u02-t-011",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U02",
+    "curriculumCode": "AC9S3U02",
+    "bank": "test",
+    "skill": "Investigate soil properties and contents",
+    "question": "One small soil sample contains a beetle. Which conclusion is justified?",
+    "audio_prompt": "One small soil sample contains a beetle. Which conclusion is justified?",
+    "audioPrompt": "One small soil sample contains a beetle. Which conclusion is justified?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "No other animals can live there",
+        "is_correct": false
+      },
+      {
+        "text": "Every soil sample contains a beetle",
+        "is_correct": false
+      },
+      {
+        "text": "All soil particles are living",
+        "is_correct": false
+      },
+      {
+        "text": "Soil can provide a habitat for animals",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "No other animals can live there",
+      "Every soil sample contains a beetle",
+      "All soil particles are living",
+      "Soil can provide a habitat for animals"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The observation supports soil as habitat, without proving what occurs in every sample.",
+      "hint": "Separate what was observed from what has not been tested."
+    },
+    "structuredExplanation": {
+      "summary": "The observation supports soil as habitat, without proving what occurs in every sample.",
+      "hint": "Separate what was observed from what has not been tested."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 11,
+    "sequencePriority": 11,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single",
+    "stage": "reason"
+  },
+  {
+    "id": "ac9s3u02-t-012",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3U02",
+    "curriculumCode": "AC9S3U02",
+    "bank": "test",
+    "skill": "Explain Earth resource importance",
+    "question": "Why is soil valuable to a vegetable garden?",
+    "audio_prompt": "Why is soil valuable to a vegetable garden?",
+    "audioPrompt": "Why is soil valuable to a vegetable garden?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It replaces the need for light",
+        "is_correct": false
+      },
+      {
+        "text": "It prevents roots from growing",
+        "is_correct": false
+      },
+      {
+        "text": "It can support roots and supply water and nutrients",
+        "is_correct": true
+      },
+      {
+        "text": "It makes every seed survive without care",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It replaces the need for light",
+      "It prevents roots from growing",
+      "It can support roots and supply water and nutrients",
+      "It makes every seed survive without care"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Suitable soil supports plant growth by providing anchorage, water and nutrients.",
+      "hint": "Connect the material to the need or use it supports."
+    },
+    "structuredExplanation": {
+      "summary": "Suitable soil supports plant growth by providing anchorage, water and nutrients.",
+      "hint": "Connect the material to the need or use it supports."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 12,
     "sequencePriority": 12,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3u02-t-013",
@@ -3166,10 +3680,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which statement is false?",
-    "audio_prompt": "Which statement is false?",
-    "audioPrompt": "Which statement is false?",
+    "skill": "Explain Earth resource importance",
+    "question": "A mineral leaves a dark line when rubbed on paper and is used in pencils. Which property explains the use?",
+    "audio_prompt": "A mineral leaves a dark line when rubbed on paper and is used in pencils. Which property explains the use?",
+    "audioPrompt": "A mineral leaves a dark line when rubbed on paper and is used in pencils. Which property explains the use?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3177,47 +3691,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Organic matter can be part of soil",
+        "text": "Its transparency",
         "is_correct": false
       },
       {
-        "text": "Sand and clay differ in particle size",
+        "text": "Its inability to rub off on paper",
         "is_correct": false
       },
       {
-        "text": "All soils have identical properties",
+        "text": "Its resistance to leaving marks",
+        "is_correct": false
+      },
+      {
+        "text": "Its ability to leave a mark",
         "is_correct": true
-      },
-      {
-        "text": "Soils can differ in drainage",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Organic matter can be part of soil",
-      "Sand and clay differ in particle size",
-      "All soils have identical properties",
-      "Soils can differ in drainage"
+      "Its transparency",
+      "Its inability to rub off on paper",
+      "Its resistance to leaving marks",
+      "Its ability to leave a mark"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Soil properties vary.",
-      "hint": "Avoid “identical”."
+      "summary": "A writing material needs to leave a visible mark on the writing surface.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "structuredExplanation": {
-      "summary": "Soil properties vary.",
-      "hint": "Avoid “identical”."
+      "summary": "A writing material needs to leave a visible mark on the writing surface.",
+      "hint": "Connect the material to the need or use it supports."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 13,
     "sequencePriority": 13,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3u02-t-014",
@@ -3226,10 +3741,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which material is commonly used in construction?",
-    "audio_prompt": "Which material is commonly used in construction?",
-    "audioPrompt": "Which material is commonly used in construction?",
+    "skill": "Explain Earth resource importance",
+    "question": "A builder uses tested strong stone for a retaining wall. Which explanation connects property and use?",
+    "audio_prompt": "A builder uses tested strong stone for a retaining wall. Which explanation connects property and use?",
+    "audioPrompt": "A builder uses tested strong stone for a retaining wall. Which explanation connects property and use?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3237,47 +3752,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Leaves only",
+        "text": "All Earth resources have the same strength",
         "is_correct": false
       },
       {
-        "text": "Gravel",
+        "text": "The stone's strength helps the wall hold its load",
         "is_correct": true
       },
       {
-        "text": "Clouds",
+        "text": "Only the stone's colour matters",
         "is_correct": false
       },
       {
-        "text": "Steam",
+        "text": "Every dark stone is automatically suitable",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Leaves only",
-      "Gravel",
-      "Clouds",
-      "Steam"
+      "All Earth resources have the same strength",
+      "The stone's strength helps the wall hold its load",
+      "Only the stone's colour matters",
+      "Every dark stone is automatically suitable"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Gravel is a rock resource used in construction.",
-      "hint": "Earth material use."
+      "summary": "The tested strength is relevant evidence for the structural use.",
+      "hint": "Connect the material to the need or use it supports."
     },
     "structuredExplanation": {
-      "summary": "Gravel is a rock resource used in construction.",
-      "hint": "Earth material use."
+      "summary": "The tested strength is relevant evidence for the structural use.",
+      "hint": "Connect the material to the need or use it supports."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 14,
     "sequencePriority": 14,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "apply"
   },
   {
     "id": "ac9s3u02-t-015",
@@ -3286,10 +3802,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "A soil sample drains very slowly. What is one likely reason?",
-    "audio_prompt": "A soil sample drains very slowly. What is one likely reason?",
-    "audioPrompt": "A soil sample drains very slowly. What is one likely reason?",
+    "skill": "Investigate and choose resources",
+    "question": "A class compares plant growth in two soils. What should stay the same?",
+    "audio_prompt": "A class compares plant growth in two soils. What should stay the same?",
+    "audioPrompt": "A class compares plant growth in two soils. What should stay the same?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3297,47 +3813,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It contains many fine particles",
+        "text": "Only the names of the soils",
+        "is_correct": false
+      },
+      {
+        "text": "The final height of every plant",
+        "is_correct": false
+      },
+      {
+        "text": "Plant type, light and water supplied",
         "is_correct": true
       },
       {
-        "text": "It contains only large gravel spaces",
-        "is_correct": false
-      },
-      {
-        "text": "It has no particles",
-        "is_correct": false
-      },
-      {
-        "text": "It is bright coloured",
+        "text": "The soils' natural particle sizes",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It contains many fine particles",
-      "It contains only large gravel spaces",
-      "It has no particles",
-      "It is bright coloured"
+      "Only the names of the soils",
+      "The final height of every plant",
+      "Plant type, light and water supplied",
+      "The soils' natural particle sizes"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Fine particles create smaller pores and slower flow.",
-      "hint": "Think clay-like texture."
+      "summary": "Keeping other growing conditions similar helps investigate the effect of soil.",
+      "hint": "Use the test evidence and keep other conditions comparable."
     },
     "structuredExplanation": {
-      "summary": "Fine particles create smaller pores and slower flow.",
-      "hint": "Think clay-like texture."
+      "summary": "Keeping other growing conditions similar helps investigate the effect of soil.",
+      "hint": "Use the test evidence and keep other conditions comparable."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 15,
     "sequencePriority": 15,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   },
   {
     "id": "ac9s3u02-t-016",
@@ -3346,10 +3863,10 @@
     "curriculum_code": "AC9S3U02",
     "curriculumCode": "AC9S3U02",
     "bank": "test",
-    "skill": "soils, rocks, minerals and Earth resources",
-    "question": "Which conclusion is careful?",
-    "audio_prompt": "Which conclusion is careful?",
-    "audioPrompt": "Which conclusion is careful?",
+    "skill": "Investigate and choose resources",
+    "question": "A surface trial finds one rock wears away quickly and another remains firm. What does this evidence help decide?",
+    "audio_prompt": "A surface trial finds one rock wears away quickly and another remains firm. What does this evidence help decide?",
+    "audioPrompt": "A surface trial finds one rock wears away quickly and another remains firm. What does this evidence help decide?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3357,46 +3874,47 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Coarse soil always drains fastest everywhere",
+        "text": "Which rock must contain the most minerals",
         "is_correct": false
       },
       {
-        "text": "Fine soil never drains",
-        "is_correct": false
-      },
-      {
-        "text": "One test proves every soil",
-        "is_correct": false
-      },
-      {
-        "text": "In our test, the coarse soil drained more water than the fine soil",
+        "text": "Which rock may suit a path that receives many footsteps",
         "is_correct": true
+      },
+      {
+        "text": "Which sample is oldest without further evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Whether all rocks have identical durability",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Coarse soil always drains fastest everywhere",
-      "Fine soil never drains",
-      "One test proves every soil",
-      "In our test, the coarse soil drained more water than the fine soil"
+      "Which rock must contain the most minerals",
+      "Which rock may suit a path that receives many footsteps",
+      "Which sample is oldest without further evidence",
+      "Whether all rocks have identical durability"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The conclusion should stay within the tested evidence.",
-      "hint": "Limit the claim."
+      "summary": "A wear trial gives evidence about durability relevant to choosing path material.",
+      "hint": "Use the test evidence and keep other conditions comparable."
     },
     "structuredExplanation": {
-      "summary": "The conclusion should stay within the tested evidence.",
-      "hint": "Limit the claim."
+      "summary": "A wear trial gives evidence about durability relevant to choosing path material.",
+      "hint": "Use the test evidence and keep other conditions comparable."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 16,
     "sequencePriority": 16,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   }
 ]

@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-001",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Classify by solid and liquid properties",
     "printable": true,
     "type": "single",
-    "question": "Which describes a solid?",
-    "audioPrompt": "Which describes a solid?",
+    "question": "A soft rubber eraser keeps its own form when moved between containers. Which state is it in?",
+    "audioPrompt": "A soft rubber eraser keeps its own form when moved between containers. Which state is it in?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,19 +16,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Has no volume",
-      "Always flows",
-      "Keeps its own shape",
-      "Takes any container shape"
+      "Neither because it bends",
+      "Liquid because it is soft",
+      "Liquid because it can be moved",
+      "Solid"
     ],
-    "correct": 2,
-    "explanation": "Solids have definite shape and volume.\nHint: Think fixed shape.",
+    "correct": 3,
+    "explanation": "A solid can be soft or flexible and still have its own form.\nHint: Use shape and flow behaviour rather than hardness or colour alone.",
     "structuredExplanation": {
-      "summary": "Solids have definite shape and volume.",
-      "hint": "Think fixed shape."
+      "summary": "A solid can be soft or flexible and still have its own form.",
+      "hint": "Use shape and flow behaviour rather than hardness or colour alone."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -36,11 +36,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-002",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Classify by solid and liquid properties",
     "printable": true,
     "type": "single",
-    "question": "Which describes a liquid?",
-    "audioPrompt": "Which describes a liquid?",
+    "question": "Water is carefully moved from a shallow dish into a narrow bottle without loss. What changes?",
+    "audioPrompt": "Water is carefully moved from a shallow dish into a narrow bottle without loss. What changes?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -48,19 +48,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Cannot flow",
-      "Takes container shape but has volume",
-      "Keeps one fixed shape",
-      "Has no volume"
+      "It becomes ice immediately",
+      "Its amount doubles",
+      "It keeps the dish's shape inside the bottle",
+      "Its shape but not its amount"
     ],
-    "correct": 1,
-    "explanation": "Liquids flow and have definite volume.\nHint: Shape changes, amount remains.",
+    "correct": 3,
+    "explanation": "A liquid takes its container's shape while its amount stays the same if none is lost.\nHint: Use shape and flow behaviour rather than hardness or colour alone.",
     "structuredExplanation": {
-      "summary": "Liquids flow and have definite volume.",
-      "hint": "Shape changes, amount remains."
+      "summary": "A liquid takes its container's shape while its amount stays the same if none is lost.",
+      "hint": "Use shape and flow behaviour rather than hardness or colour alone."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 2,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -68,11 +68,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-003",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Classify by solid and liquid properties",
     "printable": true,
     "type": "single",
-    "question": "When solid chocolate becomes liquid chocolate, what change is occurring?",
-    "audioPrompt": "When solid chocolate becomes liquid chocolate, what change is occurring?",
+    "question": "Dry beads can be poured, but each bead keeps its shape. What are they?",
+    "audioPrompt": "Dry beads can be poured, but each bead keeps its shape. What are they?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -80,19 +80,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Melting",
-      "Freezing",
-      "Condensing",
-      "Breaking into pieces"
+      "Water in a different colour",
+      "Neither solid nor liquid because they are small",
+      "A collection of solids",
+      "A liquid just because they can be poured"
     ],
-    "correct": 0,
-    "explanation": "Melting changes state from solid to liquid.\nHint: Solid → liquid.",
+    "correct": 2,
+    "explanation": "Pouring a collection does not make its individual solid pieces liquid.\nHint: Use shape and flow behaviour rather than hardness or colour alone.",
     "structuredExplanation": {
-      "summary": "Melting changes state from solid to liquid.",
-      "hint": "Solid → liquid."
+      "summary": "Pouring a collection does not make its individual solid pieces liquid.",
+      "hint": "Use shape and flow behaviour rather than hardness or colour alone."
     },
     "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficultyTier": "reason",
     "sequencePriority": 3,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -100,11 +100,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-004",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Classify by solid and liquid properties",
     "printable": true,
     "type": "single",
-    "question": "When liquid water becomes ice, what change is occurring?",
-    "audioPrompt": "When liquid water becomes ice, what change is occurring?",
+    "question": "A thick syrup flows slowly into a jar. Which statement is best supported?",
+    "audioPrompt": "A thick syrup flows slowly into a jar. Which statement is best supported?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -112,19 +112,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Melting",
-      "Evaporating",
-      "Breaking",
-      "Freezing"
+      "Every slow-moving material is solid",
+      "Only fast-flowing substances have volume",
+      "A liquid can flow slowly",
+      "Only transparent substances are liquid"
     ],
-    "correct": 3,
-    "explanation": "Freezing changes state from liquid to solid.\nHint: Liquid → solid.",
+    "correct": 2,
+    "explanation": "Flow speed varies among liquids; slow flow alone does not establish a solid state.\nHint: Use shape and flow behaviour rather than hardness or colour alone.",
     "structuredExplanation": {
-      "summary": "Freezing changes state from liquid to solid.",
-      "hint": "Liquid → solid."
+      "summary": "Flow speed varies among liquids; slow flow alone does not establish a solid state.",
+      "hint": "Use shape and flow behaviour rather than hardness or colour alone."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 4,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -132,11 +132,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-005",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Compare shape and amount",
     "printable": true,
     "type": "single",
-    "question": "Why does ice melt on a warm surface?",
-    "audioPrompt": "Why does ice melt on a warm surface?",
+    "question": "Two equal amounts of liquid stand at different heights in differently shaped containers. Why?",
+    "audioPrompt": "Two equal amounts of liquid stand at different heights in differently shaped containers. Why?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -144,19 +144,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Cold is added",
-      "Its volume becomes zero",
-      "It gains heat energy",
-      "It loses heat"
+      "The taller level always proves a larger amount",
+      "Container shape affects the height reached",
+      "Liquids have no amount",
+      "The shorter container has destroyed liquid"
     ],
-    "correct": 2,
-    "explanation": "Heat entering the ice can cause melting.\nHint: Heat in.",
+    "correct": 1,
+    "explanation": "The same amount can be spread wider or extend higher depending on container shape.\nHint: Distinguish changing shape from changing the amount or state.",
     "structuredExplanation": {
-      "summary": "Heat entering the ice can cause melting.",
-      "hint": "Heat in."
+      "summary": "The same amount can be spread wider or extend higher depending on container shape.",
+      "hint": "Distinguish changing shape from changing the amount or state."
     },
     "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficultyTier": "reason",
     "sequencePriority": 5,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -164,11 +164,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-006",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Compare shape and amount",
     "printable": true,
     "type": "single",
-    "question": "A container of juice is left in the freezer overnight. Why did it become solid?",
-    "audioPrompt": "A container of juice is left in the freezer overnight. Why did it become solid?",
+    "question": "A child tears a paper sheet into smaller pieces. What happens to its state?",
+    "audioPrompt": "A child tears a paper sheet into smaller pieces. What happens to its state?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -176,19 +176,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The juice stopped being matter.",
-      "It lost heat energy until it froze.",
-      "It gained heat energy.",
-      "The freezer added solid matter."
+      "The paper freezes for the first time",
+      "The paper has melted",
+      "Each piece remains solid",
+      "Every piece becomes liquid"
     ],
-    "correct": 1,
-    "explanation": "Freezing happens when a substance loses enough heat energy for a liquid to change into a solid.\nHint: Heat out.",
+    "correct": 2,
+    "explanation": "Tearing changes size and shape without making paper liquid.\nHint: Distinguish changing shape from changing the amount or state.",
     "structuredExplanation": {
-      "summary": "Freezing happens when a substance loses enough heat energy for a liquid to change into a solid.",
-      "hint": "Heat out."
+      "summary": "Tearing changes size and shape without making paper liquid.",
+      "hint": "Distinguish changing shape from changing the amount or state."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 6,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -196,11 +196,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-007",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Compare shape and amount",
     "printable": true,
     "type": "single",
-    "question": "Which is NOT a state change?",
-    "audioPrompt": "Which is NOT a state change?",
+    "question": "A class compares a stone and water by moving each between containers. Which observation distinguishes them?",
+    "audioPrompt": "A class compares a stone and water by moving each between containers. Which observation distinguishes them?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -208,19 +208,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Cutting a solid block",
-      "Melting butter",
-      "Freezing water",
-      "Melting ice"
+      "Both can be carried",
+      "The stone retains its form while water changes shape",
+      "Both have names",
+      "Both can be placed on a table"
     ],
-    "correct": 0,
-    "explanation": "Cutting changes size and shape but not state.\nHint: State remains solid.",
+    "correct": 1,
+    "explanation": "Their different shape behaviour helps distinguish solid from liquid.\nHint: Distinguish changing shape from changing the amount or state.",
     "structuredExplanation": {
-      "summary": "Cutting changes size and shape but not state.",
-      "hint": "State remains solid."
+      "summary": "Their different shape behaviour helps distinguish solid from liquid.",
+      "hint": "Distinguish changing shape from changing the amount or state."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 7,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -228,31 +228,33 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-008",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Read and explain state changes",
     "printable": true,
     "type": "single",
-    "question": "A liquid is poured into a new container. What usually changes?",
-    "audioPrompt": "A liquid is poured into a new container. What usually changes?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A diagram shows liquid → solid. Which process labels the arrow?",
+    "audioPrompt": "A diagram shows liquid → solid. Which process labels the arrow?",
+    "visual": "The arrow leads from liquid to solid.",
+    "visualHtml": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The arrow leads from liquid to solid.\"><use href=\"/assets/assessment-banks/year3/science/strict-u04-diagrams.svg#u04-t-008\"/></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-u04-diagrams.svg",
+      "symbol_id": "u04-t-008",
+      "alt_text": "The arrow leads from liquid to solid."
     },
     "answers": [
-      "Its amount automatically",
-      "Its state immediately",
-      "Its mass to zero",
-      "Its shape"
+      "Melting",
+      "Breaking",
+      "Pouring",
+      "Freezing"
     ],
     "correct": 3,
-    "explanation": "Liquids take the shape of their container.\nHint: Container shape.",
+    "explanation": "Freezing is the change from liquid to solid.\nHint: Follow the starting and finishing states shown.",
     "structuredExplanation": {
-      "summary": "Liquids take the shape of their container.",
-      "hint": "Container shape."
+      "summary": "Freezing is the change from liquid to solid.",
+      "hint": "Follow the starting and finishing states shown."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 8,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -260,31 +262,33 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-009",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Read and explain state changes",
     "printable": true,
     "type": "single",
-    "question": "Which statement is false?",
-    "audioPrompt": "Which statement is false?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A diagram shows [missing] → liquid and labels the arrow melting. What is missing?",
+    "audioPrompt": "A diagram shows [missing] → liquid and labels the arrow melting. What is missing?",
+    "visual": "The arrow labelled melting starts at a missing state and ends at liquid.",
+    "visualHtml": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The arrow labelled melting starts at a missing state and ends at liquid.\"><use href=\"/assets/assessment-banks/year3/science/strict-u04-diagrams.svg#u04-t-009\"/></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-u04-diagrams.svg",
+      "symbol_id": "u04-t-009",
+      "alt_text": "The arrow labelled melting starts at a missing state and ends at liquid."
     },
     "answers": [
-      "Solids keep shape",
-      "Heating can melt some solids",
-      "Liquids have no volume",
-      "Liquids can be measured in mL"
+      "Liquid already",
+      "Liquid in a narrower container",
+      "Smaller liquid drops",
+      "Solid"
     ],
-    "correct": 2,
-    "explanation": "Liquids have measurable volume.\nHint: Shape is not volume.",
+    "correct": 3,
+    "explanation": "Melting begins with a solid and produces a liquid.\nHint: Follow the starting and finishing states shown.",
     "structuredExplanation": {
-      "summary": "Liquids have measurable volume.",
-      "hint": "Shape is not volume."
+      "summary": "Melting begins with a solid and produces a liquid.",
+      "hint": "Follow the starting and finishing states shown."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 9,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -292,11 +296,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-010",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Read and explain state changes",
     "printable": true,
     "type": "single",
-    "question": "100 mL of water is poured into a bowl without spilling. How much water remains?",
-    "audioPrompt": "100 mL of water is poured into a bowl without spilling. How much water remains?",
+    "question": "Ice is warmed until liquid water collects. What has changed?",
+    "audioPrompt": "Ice is warmed until liquid water collects. What has changed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -304,19 +308,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "0 mL",
-      "100 mL",
-      "200 mL",
-      "50 mL"
+      "State, from solid to liquid",
+      "Water into a different substance",
+      "Only the container's name",
+      "Liquid into solid"
     ],
-    "correct": 1,
-    "explanation": "The volume remains the same if none is lost.\nHint: Same amount.",
+    "correct": 0,
+    "explanation": "The ice melts but remains the substance water.\nHint: Follow the starting and finishing states shown.",
     "structuredExplanation": {
-      "summary": "The volume remains the same if none is lost.",
-      "hint": "Same amount."
+      "summary": "The ice melts but remains the substance water.",
+      "hint": "Follow the starting and finishing states shown."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 10,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -324,11 +328,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-011",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Read and explain state changes",
     "printable": true,
     "type": "single",
-    "question": "Chocolate becomes liquid near a heater. This is:",
-    "audioPrompt": "Chocolate becomes liquid near a heater. This is:",
+    "question": "An ice cube is broken into fragments that remain frozen. Why is this not melting?",
+    "audioPrompt": "An ice cube is broken into fragments that remain frozen. Why is this not melting?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -336,19 +340,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "melting",
-      "freezing",
-      "cutting",
-      "crushing"
+      "Melting means making smaller solid pieces",
+      "The material remains solid rather than becoming liquid",
+      "Every broken object is liquid",
+      "Making pieces smaller changes the substance itself"
     ],
-    "correct": 0,
-    "explanation": "Heat caused a solid-to-liquid state change.\nHint: Solid to liquid.",
+    "correct": 1,
+    "explanation": "Melting requires a solid-to-liquid change, which is not shown by frozen fragments.\nHint: Follow the starting and finishing states shown.",
     "structuredExplanation": {
-      "summary": "Heat caused a solid-to-liquid state change.",
-      "hint": "Solid to liquid."
+      "summary": "Melting requires a solid-to-liquid change, which is not shown by frozen fragments.",
+      "hint": "Follow the starting and finishing states shown."
     },
     "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficultyTier": "reason",
     "sequencePriority": 11,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -356,11 +360,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-012",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Explain heat addition and removal",
     "printable": true,
     "type": "single",
-    "question": "Juice becomes an icy solid. This is:",
-    "audioPrompt": "Juice becomes an icy solid. This is:",
+    "question": "A tray of water loses enough heat in a freezer to form ice. Which explanation fits?",
+    "audioPrompt": "A tray of water loses enough heat in a freezer to form ice. Which explanation fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -368,19 +372,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "melting",
-      "evaporation only",
-      "breaking",
-      "freezing"
+      "Removing heat can cause freezing",
+      "Adding heat caused the water to melt into ice",
+      "Changing the tray's label caused freezing",
+      "The tray poured cold matter into the water"
     ],
-    "correct": 3,
-    "explanation": "The liquid changed to solid.\nHint: Liquid to solid.",
+    "correct": 0,
+    "explanation": "Heat leaving the water can lead to the liquid becoming solid.\nHint: Decide whether heat moves into or out of the material.",
     "structuredExplanation": {
-      "summary": "The liquid changed to solid.",
-      "hint": "Liquid to solid."
+      "summary": "Heat leaving the water can lead to the liquid becoming solid.",
+      "hint": "Decide whether heat moves into or out of the material."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 12,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -388,11 +392,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-013",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Explain heat addition and removal",
     "printable": true,
     "type": "single",
-    "question": "Which property is shared by solids and liquids?",
-    "audioPrompt": "Which property is shared by solids and liquids?",
+    "question": "A chocolate piece becomes warmer but remains solid. What does this show?",
+    "audioPrompt": "A chocolate piece becomes warmer but remains solid. What does this show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -400,19 +404,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both always flow",
-      "Neither occupies space",
-      "Both have volume",
-      "Both always keep shape"
+      "Adding some heat need not cause immediate melting",
+      "Solids can never warm",
+      "Any temperature increase must change state",
+      "Heating always causes freezing"
     ],
-    "correct": 2,
-    "explanation": "Both states occupy space.\nHint: Shared property.",
+    "correct": 0,
+    "explanation": "A solid may become warmer before it melts.\nHint: Decide whether heat moves into or out of the material.",
     "structuredExplanation": {
-      "summary": "Both states occupy space.",
-      "hint": "Shared property."
+      "summary": "A solid may become warmer before it melts.",
+      "hint": "Decide whether heat moves into or out of the material."
     },
     "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficultyTier": "reason",
     "sequencePriority": 13,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -420,11 +424,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-014",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Explain heat addition and removal",
     "printable": true,
     "type": "single",
-    "question": "Which sequence can be reversed by heating then cooling?",
-    "audioPrompt": "Which sequence can be reversed by heating then cooling?",
+    "question": "Liquid wax is poured into a mould and cooled until solid. Why can this make a new shape?",
+    "audioPrompt": "Liquid wax is poured into a mould and cooled until solid. Why can this make a new shape?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -432,19 +436,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Wood → smoke → wood",
-      "Solid wax → liquid wax → solid wax",
-      "Rock → bird → rock",
-      "Paper → ash → paper"
+      "Every solid copies a nearby shape without melting",
+      "The liquid takes the mould's shape before solidifying",
+      "Pouring alone always solidifies wax",
+      "Cooling makes wax flow permanently"
     ],
     "correct": 1,
-    "explanation": "Melting and solidifying can be reversible physical state changes.\nHint: Same substance, different state.",
+    "explanation": "Melting and solidifying let suitable materials be shaped in a mould.\nHint: Decide whether heat moves into or out of the material.",
     "structuredExplanation": {
-      "summary": "Melting and solidifying can be reversible physical state changes.",
-      "hint": "Same substance, different state."
+      "summary": "Melting and solidifying let suitable materials be shaped in a mould.",
+      "hint": "Decide whether heat moves into or out of the material."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 14,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -452,11 +456,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-015",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Investigate changes and uses",
     "printable": true,
     "type": "single",
-    "question": "If ice is cut in half but stays frozen, what happened?",
-    "audioPrompt": "If ice is cut in half but stays frozen, what happened?",
+    "question": "A class compares ice melting in two places with different temperatures. Which choice makes the comparison fairer?",
+    "audioPrompt": "A class compares ice melting in two places with different temperatures. Which choice makes the comparison fairer?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -464,19 +468,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Its size changed, not its state",
-      "It melted",
-      "It froze",
-      "It became liquid"
+      "Record only the result that matches a guess",
+      "Change container material and ice size together",
+      "Use equal-sized ice cubes in matching containers",
+      "Use a huge cube in only one place"
     ],
-    "correct": 0,
-    "explanation": "Cutting does not change the solid state.\nHint: Shape/size versus state.",
+    "correct": 2,
+    "explanation": "Matching other conditions helps investigate the effect of surroundings.\nHint: Use observed evidence and compare matching conditions.",
     "structuredExplanation": {
-      "summary": "Cutting does not change the solid state.",
-      "hint": "Shape/size versus state."
+      "summary": "Matching other conditions helps investigate the effect of surroundings.",
+      "hint": "Use observed evidence and compare matching conditions."
     },
     "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficultyTier": "reason",
     "sequencePriority": 15,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -484,11 +488,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3u04-t-016",
     "curriculumCode": "AC9S3U04",
     "bank": "test",
-    "skill": "solids, liquids and changes of state",
+    "skill": "Investigate changes and uses",
     "printable": true,
     "type": "single",
-    "question": "Which explanation is best?",
-    "audioPrompt": "Which explanation is best?",
+    "question": "A student claims a warmed solid melted. Which observation best supports the claim?",
+    "audioPrompt": "A student claims a warmed solid melted. Which observation best supports the claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -496,19 +500,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "State changes happen without energy transfer",
-      "All solids melt at the same temperature",
-      "Liquids have no measurable amount",
-      "Adding or removing heat energy can cause some substances to change between solid and liquid states"
+      "A liquid formed from the solid in the container",
+      "The solid was broken into dry pieces",
+      "The solid became warmer but no liquid was observed",
+      "The container was moved"
     ],
-    "correct": 3,
-    "explanation": "Heat transfer can drive melting and freezing.\nHint: Connect energy and state.",
+    "correct": 0,
+    "explanation": "A resulting liquid is evidence of melting; movement or breaking alone is not.\nHint: Use observed evidence and compare matching conditions.",
     "structuredExplanation": {
-      "summary": "Heat transfer can drive melting and freezing.",
-      "hint": "Connect energy and state."
+      "summary": "A resulting liquid is evidence of melting; movement or breaking alone is not.",
+      "hint": "Use observed evidence and compare matching conditions."
     },
     "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficultyTier": "reason",
     "sequencePriority": 16,
     "qualitySchema": "skillr-actual-v6"
   }
