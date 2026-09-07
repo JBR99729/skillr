@@ -48,7 +48,15 @@ for(const item of YEAR8_MATHS_V2_MIGRATED){
   if(!html.includes(item.victoria.code)||!html.includes(item.victoria.relationship))errors.push(`${item.code}: Victoria mapping missing`);
   for(const code of item.nsw.code.split(';').map(s=>s.trim()))if(!html.includes(code))errors.push(`${item.code}: NSW mapping ${code} missing`);
   if(!html.includes(item.nsw.relationship))errors.push(`${item.code}: NSW relationship missing`);
-  for(const label of ['Teacher Slides','Homework','Practice Sheet','Practice','Test'])if(!html.includes(`>${label}<`))errors.push(`${item.code}: ${label} link missing`);
+  const resourceLabelGroups=[
+    ['Teacher Slides','Classroom View'],
+    ['Homework','Practice Sheet','Worksheet'],
+    ['Practice'],
+    ['Test']
+  ];
+  for(const labels of resourceLabelGroups){
+    if(!labels.some(label=>html.includes(`>${label}<`)))errors.push(`${item.code}: ${labels.join(' / ')} link missing`);
+  }
   if(!html.includes('data-report-issue')||!html.includes('/assets/report-issue.js'))errors.push(`${item.code}: Report Issue missing`);
   if(!html.includes('G-8P22BET45N'))errors.push(`${item.code}: analytics missing`);
   if(!html.includes('ca-pub-7734963540104771'))errors.push(`${item.code}: AdSense readiness missing`);
