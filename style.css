@@ -4093,3 +4093,123 @@ pre { overflow-x: auto; }
 .worksheet-paper .response-lines {
     color: #203047 !important;
 }
+
+/* SkillrHub worksheet/homework landing polish. */
+.worksheet-landing .page-hero {
+  border: 1px solid #dbe7ff;
+  box-shadow: 0 16px 38px rgba(26, 58, 114, 0.08);
+}
+
+.worksheet-landing .page-hero h1 {
+  max-width: 30ch;
+  text-wrap: balance;
+}
+
+.worksheet-landing .page-hero p {
+  max-width: 72ch;
+}
+
+.worksheet-intent-grid,
+.worksheet-sample-grid,
+.worksheet-note-grid {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.worksheet-note-card,
+.worksheet-sample-card,
+.worksheet-route-card {
+  background: #ffffff;
+  border: 1px solid #dce6f8;
+  border-radius: 12px;
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.05);
+  padding: 18px;
+}
+
+.worksheet-note-card h3,
+.worksheet-sample-card h3,
+.worksheet-route-card h3 {
+  color: #173968;
+  margin-top: 0;
+}
+
+.worksheet-note-card p,
+.worksheet-sample-card p,
+.worksheet-route-card p {
+  margin-bottom: 0;
+}
+
+.worksheet-route {
+  counter-reset: worksheet-route;
+  display: grid;
+  gap: 12px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.worksheet-route li {
+  align-items: flex-start;
+  background: #f8fbff;
+  border: 1px solid #dce6f8;
+  border-radius: 10px;
+  display: grid;
+  gap: 8px;
+  grid-template-columns: auto 1fr;
+  padding: 14px;
+}
+
+.worksheet-route li::before {
+  align-items: center;
+  background: #2457d6;
+  border-radius: 999px;
+  color: #ffffff;
+  content: counter(worksheet-route);
+  counter-increment: worksheet-route;
+  display: inline-flex;
+  font-weight: 800;
+  height: 28px;
+  justify-content: center;
+  width: 28px;
+}
+
+.worksheet-route strong {
+  color: #173968;
+  display: block;
+}
+
+.worksheet-topic-list {
+  columns: 2;
+  list-style-position: inside;
+  padding-left: 0;
+}
+
+.worksheet-topic-list li {
+  break-inside: avoid;
+  margin-bottom: 8px;
+}
+
+.worksheet-faq details {
+  background: #ffffff;
+  border: 1px solid #dce6f8;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 14px 16px;
+}
+
+.worksheet-faq summary {
+  color: #173968;
+  cursor: pointer;
+  font-weight: 800;
+}
+
+.worksheet-faq p {
+  margin-bottom: 0;
+}
+
+@media (max-width: 640px) {
+  .worksheet-topic-list {
+    columns: 1;
+  }
+}
