@@ -6,7 +6,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "A class tests whether ramp height affects how far a toy car travels. What should they change?",
     "audio_prompt": "A class tests whether ramp height affects how far a toy car travels. What should they change?",
     "audioPrompt": "A class tests whether ramp height affects how far a toy car travels. What should they change?",
@@ -17,8 +17,8 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Only the ramp height",
-        "is_correct": true
+        "text": "Everything each trial",
+        "is_correct": false
       },
       {
         "text": "The ramp height and car",
@@ -29,18 +29,18 @@
         "is_correct": false
       },
       {
-        "text": "Everything each trial",
-        "is_correct": false
+        "text": "Only the ramp height",
+        "is_correct": true
       }
     ],
     "answer_texts": [
-      "Only the ramp height",
+      "Everything each trial",
       "The ramp height and car",
       "The car and floor surface",
-      "Everything each trial"
+      "Only the ramp height"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "A fair test changes the factor being investigated while other important conditions stay the same.",
       "hint": "Change one tested factor."
@@ -67,7 +67,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "In the same ramp test, what should stay the same?",
     "audio_prompt": "In the same ramp test, what should stay the same?",
     "audioPrompt": "In the same ramp test, what should stay the same?",
@@ -128,7 +128,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "Which plan is safest for testing how quickly ice melts?",
     "audio_prompt": "Which plan is safest for testing how quickly ice melts?",
     "audioPrompt": "Which plan is safest for testing how quickly ice melts?",
@@ -139,30 +139,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Taste every sample",
+        "text": "Run across a wet floor",
         "is_correct": false
       },
       {
-        "text": "Run across a wet floor",
+        "text": "Hold ice over electrical equipment",
+        "is_correct": false
+      },
+      {
+        "text": "Taste every sample",
         "is_correct": false
       },
       {
         "text": "Use small ice cubes in trays and wipe spills",
         "is_correct": true
-      },
-      {
-        "text": "Hold ice over electrical equipment",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Taste every sample",
       "Run across a wet floor",
-      "Use small ice cubes in trays and wipe spills",
-      "Hold ice over electrical equipment"
+      "Hold ice over electrical equipment",
+      "Taste every sample",
+      "Use small ice cubes in trays and wipe spills"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "Safe procedures reduce slipping and electrical risks while still allowing observations.",
       "hint": "Notice the hazards."
@@ -189,7 +189,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Which is the factor being measured in “Does paper thickness affect how much weight a bridge holds?”",
     "audio_prompt": "Which is the factor being measured in “Does paper thickness affect how much weight a bridge holds?”",
     "audioPrompt": "Which is the factor being measured in “Does paper thickness affect how much weight a bridge holds?”",
@@ -200,7 +200,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Bridge name",
+        "text": "Paper colour",
         "is_correct": false
       },
       {
@@ -208,19 +208,19 @@
         "is_correct": true
       },
       {
-        "text": "Paper thickness",
+        "text": "Bridge name",
         "is_correct": false
       },
       {
-        "text": "Paper colour",
+        "text": "Paper thickness",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Bridge name",
+      "Paper colour",
       "The weight held",
-      "Paper thickness",
-      "Paper colour"
+      "Bridge name",
+      "Paper thickness"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -250,7 +250,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Which scaffold heading tells what equipment is needed?",
     "audio_prompt": "Which scaffold heading tells what equipment is needed?",
     "audioPrompt": "Which scaffold heading tells what equipment is needed?",
@@ -261,12 +261,12 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Materials",
-        "is_correct": true
-      },
-      {
         "text": "Prediction",
         "is_correct": false
+      },
+      {
+        "text": "Materials",
+        "is_correct": true
       },
       {
         "text": "Conclusion",
@@ -278,13 +278,13 @@
       }
     ],
     "answer_texts": [
-      "Materials",
       "Prediction",
+      "Materials",
       "Conclusion",
       "Results"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "The materials section lists what is needed to conduct the investigation.",
       "hint": "What will you gather before starting?"
@@ -311,10 +311,10 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
-    "question": "Which plan tests a prediction fairly?",
-    "audio_prompt": "Which plan tests a prediction fairly?",
-    "audioPrompt": "Which plan tests a prediction fairly?",
+    "skill": "planning and conducting fair comparisons",
+    "question": "A class compares drainage through equal soil volumes in matching containers. Which plan keeps the water comparison fair?",
+    "audio_prompt": "A class compares drainage through equal soil volumes in matching containers. Which plan keeps the water comparison fair?",
+    "audioPrompt": "A class compares drainage through equal soil volumes in matching containers. Which plan keeps the water comparison fair?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -322,7 +322,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Use different soil amounts and different water amounts",
+        "text": "Use the same amount of water for each soil sample while changing soil type",
+        "is_correct": true
+      },
+      {
+        "text": "Measure only the favourite sample",
         "is_correct": false
       },
       {
@@ -330,22 +334,18 @@
         "is_correct": false
       },
       {
-        "text": "Measure only the favourite sample",
+        "text": "Use different soil amounts and different water amounts",
         "is_correct": false
-      },
-      {
-        "text": "Use the same amount of water for each soil sample while changing soil type",
-        "is_correct": true
       }
     ],
     "answer_texts": [
-      "Use different soil amounts and different water amounts",
-      "Change the container each time too",
+      "Use the same amount of water for each soil sample while changing soil type",
       "Measure only the favourite sample",
-      "Use the same amount of water for each soil sample while changing soil type"
+      "Change the container each time too",
+      "Use different soil amounts and different water amounts"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "A fair comparison limits unnecessary differences between groups.",
       "hint": "Change the factor you are testing, not several others."
@@ -372,7 +372,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "Why should long hair be tied back near a candle-heated demonstration?",
     "audio_prompt": "Why should long hair be tied back near a candle-heated demonstration?",
     "audioPrompt": "Why should long hair be tied back near a candle-heated demonstration?",
@@ -383,11 +383,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "To improve the prediction",
+        "text": "To make the flame heat materials faster",
         "is_correct": false
       },
       {
-        "text": "To change the heat source",
+        "text": "To keep the measured temperature unchanged",
         "is_correct": false
       },
       {
@@ -395,15 +395,15 @@
         "is_correct": true
       },
       {
-        "text": "To make measurements larger",
+        "text": "To avoid having to follow the other safety steps",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "To improve the prediction",
-      "To change the heat source",
+      "To make the flame heat materials faster",
+      "To keep the measured temperature unchanged",
       "To reduce the risk of hair reaching the flame",
-      "To make measurements larger"
+      "To avoid having to follow the other safety steps"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -433,7 +433,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Which question is best suited to a fair test?",
     "audio_prompt": "Which question is best suited to a fair test?",
     "audioPrompt": "Which question is best suited to a fair test?",
@@ -448,12 +448,12 @@
         "is_correct": false
       },
       {
-        "text": "Does the number of paper clips affect how fast a spinner falls?",
-        "is_correct": true
-      },
-      {
         "text": "Which spinner is prettiest?",
         "is_correct": false
+      },
+      {
+        "text": "Does the number of paper clips affect how fast a spinner falls?",
+        "is_correct": true
       },
       {
         "text": "Why are spinners fun?",
@@ -462,18 +462,18 @@
     ],
     "answer_texts": [
       "Who made the best spinner?",
-      "Does the number of paper clips affect how fast a spinner falls?",
       "Which spinner is prettiest?",
+      "Does the number of paper clips affect how fast a spinner falls?",
       "Why are spinners fun?"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The first question identifies a factor to change and an observable outcome.",
+      "summary": "The focused question identifies a factor to change and an observable outcome.",
       "hint": "Can one factor be changed and one result measured?"
     },
     "structuredExplanation": {
-      "summary": "The first question identifies a factor to change and an observable outcome.",
+      "summary": "The focused question identifies a factor to change and an observable outcome.",
       "hint": "Can one factor be changed and one result measured?"
     },
     "stage": "recognise",
@@ -494,7 +494,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Which tool should be used to measure 50 mL of water?",
     "audio_prompt": "Which tool should be used to measure 50 mL of water?",
     "audioPrompt": "Which tool should be used to measure 50 mL of water?",
@@ -505,12 +505,12 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A measuring cylinder or marked measuring cup",
-        "is_correct": true
-      },
-      {
         "text": "A ruler",
         "is_correct": false
+      },
+      {
+        "text": "A measuring cylinder or marked measuring cup",
+        "is_correct": true
       },
       {
         "text": "A stopwatch",
@@ -522,13 +522,13 @@
       }
     ],
     "answer_texts": [
-      "A measuring cylinder or marked measuring cup",
       "A ruler",
+      "A measuring cylinder or marked measuring cup",
       "A stopwatch",
       "A hand lens"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "Volume is measured with a graduated container.",
       "hint": "Match the tool to the quantity."
@@ -555,7 +555,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "Before starting an investigation, what should a group do first if equipment is cracked?",
     "audio_prompt": "Before starting an investigation, what should a group do first if equipment is cracked?",
     "audioPrompt": "Before starting an investigation, what should a group do first if equipment is cracked?",
@@ -566,7 +566,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Use it carefully anyway",
+        "text": "Put more pressure on it",
         "is_correct": false
       },
       {
@@ -574,7 +574,7 @@
         "is_correct": false
       },
       {
-        "text": "Put more pressure on it",
+        "text": "Use it carefully anyway",
         "is_correct": false
       },
       {
@@ -583,9 +583,9 @@
       }
     ],
     "answer_texts": [
-      "Use it carefully anyway",
-      "Hide the crack",
       "Put more pressure on it",
+      "Hide the crack",
+      "Use it carefully anyway",
       "Tell an adult and replace it"
     ],
     "correct_index": 3,
@@ -616,7 +616,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Why keep the release point the same in repeated car-ramp trials?",
     "audio_prompt": "Why keep the release point the same in repeated car-ramp trials?",
     "audioPrompt": "Why keep the release point the same in repeated car-ramp trials?",
@@ -627,11 +627,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "To make the ramp taller",
+        "text": "To remove the need to measure the distance",
         "is_correct": false
       },
       {
-        "text": "To guarantee identical results",
+        "text": "To force every trial to give the same distance",
         "is_correct": false
       },
       {
@@ -639,15 +639,15 @@
         "is_correct": true
       },
       {
-        "text": "Because cars only move from one point",
+        "text": "To make release point the changed factor",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "To make the ramp taller",
-      "To guarantee identical results",
+      "To remove the need to measure the distance",
+      "To force every trial to give the same distance",
       "So differences in distance are less likely to come from different starting positions",
-      "Because cars only move from one point"
+      "To make release point the changed factor"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -677,7 +677,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Why is changing ramp height and car type together a problem?",
     "audio_prompt": "Why is changing ramp height and car type together a problem?",
     "audioPrompt": "Why is changing ramp height and car type together a problem?",
@@ -688,7 +688,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Car type never matters",
+        "text": "Keeping only the timing method alike controls every other difference.",
         "is_correct": false
       },
       {
@@ -696,19 +696,19 @@
         "is_correct": true
       },
       {
-        "text": "Two changes make the test faster",
+        "text": "Changing two factors makes each effect easier to separate.",
         "is_correct": false
       },
       {
-        "text": "More changes always improve evidence",
+        "text": "Changing car type cannot affect distance.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Car type never matters",
+      "Keeping only the timing method alike controls every other difference.",
       "You cannot tell which change caused a difference in travel distance",
-      "Two changes make the test faster",
-      "More changes always improve evidence"
+      "Changing two factors makes each effect easier to separate.",
+      "Changing car type cannot affect distance."
     ],
     "correct_index": 1,
     "correct": 1,
@@ -738,7 +738,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Why repeat a fair test several times?",
     "audio_prompt": "Why repeat a fair test several times?",
     "audioPrompt": "Why repeat a fair test several times?",
@@ -757,19 +757,19 @@
         "is_correct": false
       },
       {
-        "text": "The first result must be wrong",
+        "text": "It makes all measurements equal",
         "is_correct": false
       },
       {
-        "text": "It makes all measurements equal",
+        "text": "The first result must be wrong",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Repeated trials help reveal whether a result is consistent or unusual",
       "Repeating proves the prediction",
-      "The first result must be wrong",
-      "It makes all measurements equal"
+      "It makes all measurements equal",
+      "The first result must be wrong"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -799,7 +799,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "Why should a group plan safety before collecting data?",
     "audio_prompt": "Why should a group plan safety before collecting data?",
     "audioPrompt": "Why should a group plan safety before collecting data?",
@@ -810,30 +810,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Safety only matters after an accident",
-        "is_correct": false
-      },
-      {
-        "text": "Safety changes the scientific question",
-        "is_correct": false
-      },
-      {
-        "text": "A fair test must be dangerous",
+        "text": "A fair method automatically removes every hazard.",
         "is_correct": false
       },
       {
         "text": "Hazards can be reduced before anyone is exposed to them",
         "is_correct": true
+      },
+      {
+        "text": "Safety controls are needed only after a result is recorded.",
+        "is_correct": false
+      },
+      {
+        "text": "Planning safety removes the need for teacher instructions.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Safety only matters after an accident",
-      "Safety changes the scientific question",
-      "A fair test must be dangerous",
-      "Hazards can be reduced before anyone is exposed to them"
+      "A fair method automatically removes every hazard.",
+      "Hazards can be reduced before anyone is exposed to them",
+      "Safety controls are needed only after a result is recorded.",
+      "Planning safety removes the need for teacher instructions."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "Planning controls risks before the investigation begins.",
       "hint": "Prevent problems rather than react later."
@@ -860,10 +860,10 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
-    "question": "A class compares absorbency of four towels. Why use the same volume of water each time?",
-    "audio_prompt": "A class compares absorbency of four towels. Why use the same volume of water each time?",
-    "audioPrompt": "A class compares absorbency of four towels. Why use the same volume of water each time?",
+    "skill": "planning and conducting fair comparisons",
+    "question": "A class compares water absorption of four towels. Why use the same volume of water each time?",
+    "audio_prompt": "A class compares water absorption of four towels. Why use the same volume of water each time?",
+    "audioPrompt": "A class compares water absorption of four towels. Why use the same volume of water each time?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -871,16 +871,16 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Volume does not affect results",
-        "is_correct": false
-      },
-      {
         "text": "It makes the towels the same material",
         "is_correct": false
       },
       {
-        "text": "Different water amounts would make absorbency comparisons unfair",
+        "text": "Different water amounts would make water absorption comparisons unfair",
         "is_correct": true
+      },
+      {
+        "text": "Volume does not affect results",
+        "is_correct": false
       },
       {
         "text": "Every towel needs all the water",
@@ -888,13 +888,13 @@
       }
     ],
     "answer_texts": [
-      "Volume does not affect results",
       "It makes the towels the same material",
-      "Different water amounts would make absorbency comparisons unfair",
+      "Different water amounts would make water absorption comparisons unfair",
+      "Volume does not affect results",
       "Every towel needs all the water"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "The same starting amount lets towel type remain the main changed factor.",
       "hint": "Keep starting conditions comparable."
@@ -921,7 +921,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Why should a plan say exactly what will be measured?",
     "audio_prompt": "Why should a plan say exactly what will be measured?",
     "audioPrompt": "Why should a plan say exactly what will be measured?",
@@ -932,7 +932,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It prevents all errors",
+        "text": "A clear outcome means repeated results cannot differ.",
         "is_correct": false
       },
       {
@@ -940,19 +940,19 @@
         "is_correct": true
       },
       {
-        "text": "It makes the result come true",
+        "text": "Naming a measurement guarantees the prediction is right.",
         "is_correct": false
       },
       {
-        "text": "It replaces the need for a question",
+        "text": "The measurement can replace the investigation question.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It prevents all errors",
+      "A clear outcome means repeated results cannot differ.",
       "It makes the evidence needed to answer the question clear",
-      "It makes the result come true",
-      "It replaces the need for a question"
+      "Naming a measurement guarantees the prediction is right.",
+      "The measurement can replace the investigation question."
     ],
     "correct_index": 1,
     "correct": 1,
@@ -982,7 +982,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "Why is “be careful” weaker than “wear safety glasses when liquid may splash”?",
     "audio_prompt": "Why is “be careful” weaker than “wear safety glasses when liquid may splash”?",
     "audioPrompt": "Why is “be careful” weaker than “wear safety glasses when liquid may splash”?",
@@ -997,23 +997,23 @@
         "is_correct": true
       },
       {
-        "text": "The first instruction is always wrong",
+        "text": "Safety glasses remove the need to handle equipment properly.",
         "is_correct": false
       },
       {
-        "text": "Safety glasses stop every hazard",
+        "text": "A general reminder identifies every possible hazard.",
         "is_correct": false
       },
       {
-        "text": "Specific instructions are only for adults",
+        "text": "Only adults can follow specific safety instructions.",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "The second instruction names the hazard and a specific control",
-      "The first instruction is always wrong",
-      "Safety glasses stop every hazard",
-      "Specific instructions are only for adults"
+      "Safety glasses remove the need to handle equipment properly.",
+      "A general reminder identifies every possible hazard.",
+      "Only adults can follow specific safety instructions."
     ],
     "correct_index": 0,
     "correct": 0,
@@ -1043,7 +1043,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Why should groups use the same timing method in each trial?",
     "audio_prompt": "Why should groups use the same timing method in each trial?",
     "audioPrompt": "Why should groups use the same timing method in each trial?",
@@ -1054,36 +1054,36 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Only digital timers are scientific",
-        "is_correct": false
-      },
-      {
-        "text": "Timing never affects evidence",
-        "is_correct": false
-      },
-      {
-        "text": "The longest method is always best",
-        "is_correct": false
-      },
-      {
         "text": "Different timing methods could make results hard to compare",
         "is_correct": true
+      },
+      {
+        "text": "Using any digital timer guarantees comparable results.",
+        "is_correct": false
+      },
+      {
+        "text": "Each group should invent a different stop rule.",
+        "is_correct": false
+      },
+      {
+        "text": "Different starting rules cannot affect measured times.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Only digital timers are scientific",
-      "Timing never affects evidence",
-      "The longest method is always best",
-      "Different timing methods could make results hard to compare"
+      "Different timing methods could make results hard to compare",
+      "Using any digital timer guarantees comparable results.",
+      "Each group should invent a different stop rule.",
+      "Different starting rules cannot affect measured times."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Consistent measurement methods improve comparability between trials.",
+      "summary": "Consistent measurement methods improve fair comparison between trials.",
       "hint": "Measure in the same way."
     },
     "structuredExplanation": {
-      "summary": "Consistent measurement methods improve comparability between trials.",
+      "summary": "Consistent measurement methods improve fair comparison between trials.",
       "hint": "Measure in the same way."
     },
     "stage": "explain",
@@ -1104,7 +1104,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Why can a test be fair even if results are not identical each time?",
     "audio_prompt": "Why can a test be fair even if results are not identical each time?",
     "audioPrompt": "Why can a test be fair even if results are not identical each time?",
@@ -1115,11 +1115,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Different results prove cheating",
+        "text": "A fair test has no measurements",
         "is_correct": false
       },
       {
-        "text": "A fair test has no measurements",
+        "text": "Fair tests always give exactly one number",
         "is_correct": false
       },
       {
@@ -1127,15 +1127,15 @@
         "is_correct": true
       },
       {
-        "text": "Fair tests always give exactly one number",
+        "text": "Different results prove cheating",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Different results prove cheating",
       "A fair test has no measurements",
+      "Fair tests always give exactly one number",
       "Fairness concerns the method; natural variation can still occur",
-      "Fair tests always give exactly one number"
+      "Different results prove cheating"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -1165,7 +1165,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "Why should instructions include what to do with spills?",
     "audio_prompt": "Why should instructions include what to do with spills?",
     "audioPrompt": "Why should instructions include what to do with spills?",
@@ -1176,30 +1176,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Water cannot be hazardous",
-        "is_correct": false
-      },
-      {
         "text": "A spill can create a slipping or equipment hazard",
         "is_correct": true
       },
       {
-        "text": "Spills improve measurements",
+        "text": "Cleaning spills replaces the need for safe equipment.",
         "is_correct": false
       },
       {
-        "text": "Only large spills matter",
+        "text": "Small spills cannot create a slipping risk.",
+        "is_correct": false
+      },
+      {
+        "text": "Spills matter only if they change the prediction.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Water cannot be hazardous",
       "A spill can create a slipping or equipment hazard",
-      "Spills improve measurements",
-      "Only large spills matter"
+      "Cleaning spills replaces the need for safe equipment.",
+      "Small spills cannot create a slipping risk.",
+      "Spills matter only if they change the prediction."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "Even common materials can create risks depending on the situation.",
       "hint": "Think about the wet floor and equipment."
@@ -1226,7 +1226,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Which plan is fairest for comparing paper-plane designs?",
     "audio_prompt": "Which plan is fairest for comparing paper-plane designs?",
     "audioPrompt": "Which plan is fairest for comparing paper-plane designs?",
@@ -1237,11 +1237,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Use the same thrower and launch line for each design",
-        "is_correct": true
+        "text": "Use different throwers and different rooms",
+        "is_correct": false
       },
       {
-        "text": "Use different throwers and different rooms",
+        "text": "Measure only one design",
         "is_correct": false
       },
       {
@@ -1249,24 +1249,24 @@
         "is_correct": false
       },
       {
-        "text": "Measure only one design",
-        "is_correct": false
+        "text": "Use the same thrower and launch line for each design",
+        "is_correct": true
       }
     ],
     "answer_texts": [
-      "Use the same thrower and launch line for each design",
       "Use different throwers and different rooms",
+      "Measure only one design",
       "Throw the favourite plane harder",
-      "Measure only one design"
+      "Use the same thrower and launch line for each design"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Keeping launch conditions consistent helps isolate design differences.",
+      "summary": "Keeping launch conditions consistent helps test design differences.",
       "hint": "Control the launch."
     },
     "structuredExplanation": {
-      "summary": "Keeping launch conditions consistent helps isolate design differences.",
+      "summary": "Keeping launch conditions consistent helps test design differences.",
       "hint": "Control the launch."
     },
     "stage": "discriminate",
@@ -1287,7 +1287,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Which investigation has two changed factors and therefore a fairness problem?",
     "audio_prompt": "Which investigation has two changed factors and therefore a fairness problem?",
     "audioPrompt": "Which investigation has two changed factors and therefore a fairness problem?",
@@ -1298,30 +1298,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Comparing equal-temperature water in metal and foam cups",
-        "is_correct": false
-      },
-      {
-        "text": "Comparing two soil types with equal volumes",
-        "is_correct": false
-      },
-      {
         "text": "Comparing two ramps with the same car",
+        "is_correct": false
+      },
+      {
+        "text": "Comparing equal-temperature water in metal and foam cups",
         "is_correct": false
       },
       {
         "text": "Comparing hot water in a metal cup with cold water in a foam cup",
         "is_correct": true
+      },
+      {
+        "text": "Comparing two soil types with equal volumes",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Comparing equal-temperature water in metal and foam cups",
-      "Comparing two soil types with equal volumes",
       "Comparing two ramps with the same car",
-      "Comparing hot water in a metal cup with cold water in a foam cup"
+      "Comparing equal-temperature water in metal and foam cups",
+      "Comparing hot water in a metal cup with cold water in a foam cup",
+      "Comparing two soil types with equal volumes"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "Both starting temperature and cup material changed, so their effects cannot be separated.",
       "hint": "Count the differences between groups."
@@ -1348,7 +1348,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "Which is the strongest safety control when cutting cardboard for a model?",
     "audio_prompt": "Which is the strongest safety control when cutting cardboard for a model?",
     "audioPrompt": "Which is the strongest safety control when cutting cardboard for a model?",
@@ -1358,10 +1358,6 @@
     },
     "visualHtml": "",
     "answers": [
-      {
-        "text": "Use damaged scissors",
-        "is_correct": false
-      },
       {
         "text": "Wave scissors while talking",
         "is_correct": false
@@ -1373,16 +1369,20 @@
       {
         "text": "Cut toward your hand",
         "is_correct": false
+      },
+      {
+        "text": "Use damaged scissors",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Use damaged scissors",
       "Wave scissors while talking",
       "Use appropriate scissors carefully with adult guidance if needed",
-      "Cut toward your hand"
+      "Cut toward your hand",
+      "Use damaged scissors"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "Safe tool use reduces the chance of cuts.",
       "hint": "Choose the controlled procedure."
@@ -1409,10 +1409,10 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
-    "question": "A student tests whether water temperature affects dissolving time. Which variable should be measured?",
-    "audio_prompt": "A student tests whether water temperature affects dissolving time. Which variable should be measured?",
-    "audioPrompt": "A student tests whether water temperature affects dissolving time. Which variable should be measured?",
+    "skill": "planning and conducting fair comparisons",
+    "question": "A student tests whether water temperature affects dissolving time. Which factor should be measured?",
+    "audio_prompt": "A student tests whether water temperature affects dissolving time. Which factor should be measured?",
+    "audioPrompt": "A student tests whether water temperature affects dissolving time. Which factor should be measured?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1420,30 +1420,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Student height",
+        "text": "Water temperature only",
         "is_correct": false
       },
       {
-        "text": "Time taken to dissolve",
-        "is_correct": true
+        "text": "Student height",
+        "is_correct": false
       },
       {
         "text": "Cup colour",
         "is_correct": false
       },
       {
-        "text": "Water temperature only",
-        "is_correct": false
+        "text": "Time taken to dissolve",
+        "is_correct": true
       }
     ],
     "answer_texts": [
+      "Water temperature only",
       "Student height",
-      "Time taken to dissolve",
       "Cup colour",
-      "Water temperature only"
+      "Time taken to dissolve"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "The outcome named in the question is dissolving time.",
       "hint": "What changes as the result?"
@@ -1470,7 +1470,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Which procedure best supports a fair soil-drainage test?",
     "audio_prompt": "Which procedure best supports a fair soil-drainage test?",
     "audioPrompt": "Which procedure best supports a fair soil-drainage test?",
@@ -1481,30 +1481,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Same soil volume, same water volume, same container size, different soil type",
-        "is_correct": true
-      },
-      {
         "text": "Different soil and different water amount",
-        "is_correct": false
-      },
-      {
-        "text": "Different container for every soil",
         "is_correct": false
       },
       {
         "text": "Pour until each “looks wet enough”",
         "is_correct": false
+      },
+      {
+        "text": "Same soil volume, same water volume, same container size, different soil type",
+        "is_correct": true
+      },
+      {
+        "text": "Different container for every soil",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Same soil volume, same water volume, same container size, different soil type",
       "Different soil and different water amount",
-      "Different container for every soil",
-      "Pour until each “looks wet enough”"
+      "Pour until each “looks wet enough”",
+      "Same soil volume, same water volume, same container size, different soil type",
+      "Different container for every soil"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "Consistent quantities and containers make soil type the main difference.",
       "hint": "Keep the setup comparable."
@@ -1531,7 +1531,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "Which statement is a safety risk rather than a fairness issue?",
     "audio_prompt": "Which statement is a safety risk rather than a fairness issue?",
     "audioPrompt": "Which statement is a safety risk rather than a fairness issue?",
@@ -1542,30 +1542,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "One ramp is 5 cm taller",
+        "text": "One cup has 20 mL more water",
         "is_correct": false
       },
       {
-        "text": "One cup has 20 mL more water",
-        "is_correct": false
+        "text": "A wet electrical cord lies beside the experiment",
+        "is_correct": true
       },
       {
         "text": "Different cars are used",
         "is_correct": false
       },
       {
-        "text": "A wet electrical cord lies beside the experiment",
-        "is_correct": true
+        "text": "One ramp is 5 cm taller",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "One ramp is 5 cm taller",
       "One cup has 20 mL more water",
+      "A wet electrical cord lies beside the experiment",
       "Different cars are used",
-      "A wet electrical cord lies beside the experiment"
+      "One ramp is 5 cm taller"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "The electrical hazard threatens safety, while the other choices affect fairness.",
       "hint": "Risk to people versus comparison quality."
@@ -1592,10 +1592,10 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
-    "question": "Which statement is a fairness issue rather than a safety issue?",
-    "audio_prompt": "Which statement is a fairness issue rather than a safety issue?",
-    "audioPrompt": "Which statement is a fairness issue rather than a safety issue?",
+    "skill": "safe investigation procedures",
+    "question": "A class compares how soil type affects seedling growth. Which difference is a fairness issue rather than a safety issue?",
+    "audio_prompt": "A class compares how soil type affects seedling growth. Which difference is a fairness issue rather than a safety issue?",
+    "audioPrompt": "A class compares how soil type affects seedling growth. Which difference is a fairness issue rather than a safety issue?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1603,30 +1603,30 @@
     "visualHtml": "",
     "answers": [
       {
+        "text": "One seed tray receives twice as much water as the other",
+        "is_correct": true
+      },
+      {
         "text": "A cord crosses a walkway",
+        "is_correct": false
+      },
+      {
+        "text": "A broken glass container is used",
         "is_correct": false
       },
       {
         "text": "Students touch a hot plate",
         "is_correct": false
-      },
-      {
-        "text": "One seed tray receives twice as much water as the other",
-        "is_correct": true
-      },
-      {
-        "text": "A broken glass container is used",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A cord crosses a walkway",
-      "Students touch a hot plate",
       "One seed tray receives twice as much water as the other",
-      "A broken glass container is used"
+      "A cord crosses a walkway",
+      "A broken glass container is used",
+      "Students touch a hot plate"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "Different water amounts could affect growth and confuse the comparison.",
       "hint": "Does it change the scientific comparison?"
@@ -1653,7 +1653,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "A plan says “drop each ball from about shoulder height.” What is the best improvement?",
     "audio_prompt": "A plan says “drop each ball from about shoulder height.” What is the best improvement?",
     "audioPrompt": "A plan says “drop each ball from about shoulder height.” What is the best improvement?",
@@ -1664,7 +1664,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Remove the height instruction",
+        "text": "Use a different person each time without guidance",
+        "is_correct": false
+      },
+      {
+        "text": "Drop each ball from any height",
         "is_correct": false
       },
       {
@@ -1672,22 +1676,18 @@
         "is_correct": true
       },
       {
-        "text": "Drop each ball from any height",
-        "is_correct": false
-      },
-      {
-        "text": "Use a different person each time without guidance",
+        "text": "Remove the height instruction",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Remove the height instruction",
-      "Choose and measure one exact drop height for every ball",
+      "Use a different person each time without guidance",
       "Drop each ball from any height",
-      "Use a different person each time without guidance"
+      "Choose and measure one exact drop height for every ball",
+      "Remove the height instruction"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "A measured common height makes the procedure clearer and fairer.",
       "hint": "Replace “about” with a controlled value."
@@ -1714,7 +1714,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Which reason best explains using identical containers in an evaporation test?",
     "audio_prompt": "Which reason best explains using identical containers in an evaporation test?",
     "audioPrompt": "Which reason best explains using identical containers in an evaporation test?",
@@ -1725,30 +1725,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Container shape and opening size could also affect evaporation",
-        "is_correct": true
-      },
-      {
-        "text": "Identical containers look neat",
-        "is_correct": false
-      },
-      {
         "text": "Containers never affect evaporation",
         "is_correct": false
       },
       {
         "text": "The prediction requires matching colours",
         "is_correct": false
+      },
+      {
+        "text": "Identical containers look neat",
+        "is_correct": false
+      },
+      {
+        "text": "Container shape and opening size could also affect evaporation",
+        "is_correct": true
       }
     ],
     "answer_texts": [
-      "Container shape and opening size could also affect evaporation",
-      "Identical containers look neat",
       "Containers never affect evaporation",
-      "The prediction requires matching colours"
+      "The prediction requires matching colours",
+      "Identical containers look neat",
+      "Container shape and opening size could also affect evaporation"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "Uncontrolled container differences could create another explanation for the results.",
       "hint": "Control factors that could matter."
@@ -1775,7 +1775,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "If an investigation involves unknown garden berries, what is the safest action?",
     "audio_prompt": "If an investigation involves unknown garden berries, what is the safest action?",
     "audioPrompt": "If an investigation involves unknown garden berries, what is the safest action?",
@@ -1785,6 +1785,10 @@
     },
     "visualHtml": "",
     "answers": [
+      {
+        "text": "Observe without tasting and wash hands after handling",
+        "is_correct": true
+      },
       {
         "text": "Taste them to identify them",
         "is_correct": false
@@ -1796,20 +1800,16 @@
       {
         "text": "Crush and smell them closely",
         "is_correct": false
-      },
-      {
-        "text": "Observe without tasting and wash hands after handling",
-        "is_correct": true
       }
     ],
     "answer_texts": [
+      "Observe without tasting and wash hands after handling",
       "Taste them to identify them",
       "Rub them near the eyes",
-      "Crush and smell them closely",
-      "Observe without tasting and wash hands after handling"
+      "Crush and smell them closely"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "Unknown biological materials should not be tasted, and hygiene reduces exposure risks.",
       "hint": "Unknown does not mean safe to eat."
@@ -1836,7 +1836,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "You are testing whether shade cloth reduces soil warming. Which plan is strongest?",
     "audio_prompt": "You are testing whether shade cloth reduces soil warming. Which plan is strongest?",
     "audioPrompt": "You are testing whether shade cloth reduces soil warming. Which plan is strongest?",
@@ -1847,36 +1847,36 @@
     "visualHtml": "",
     "answers": [
       {
+        "text": "Measure only the shaded tray",
+        "is_correct": false
+      },
+      {
         "text": "Put one tray indoors and one outdoors",
         "is_correct": false
       },
       {
-        "text": "Measure only the shaded tray",
+        "text": "Use different soils and different tray sizes",
         "is_correct": false
       },
       {
         "text": "Use matching soil trays, cover one with shade cloth, leave one uncovered, measure both temperatures at the same times",
         "is_correct": true
-      },
-      {
-        "text": "Use different soils and different tray sizes",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Put one tray indoors and one outdoors",
       "Measure only the shaded tray",
-      "Use matching soil trays, cover one with shade cloth, leave one uncovered, measure both temperatures at the same times",
-      "Use different soils and different tray sizes"
+      "Put one tray indoors and one outdoors",
+      "Use different soils and different tray sizes",
+      "Use matching soil trays, cover one with shade cloth, leave one uncovered, measure both temperatures at the same times"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The first plan changes shade while controlling other important conditions.",
+      "summary": "The fair plan changes shade while controlling other important conditions.",
       "hint": "One tested factor: shade."
     },
     "structuredExplanation": {
-      "summary": "The first plan changes shade while controlling other important conditions.",
+      "summary": "The fair plan changes shade while controlling other important conditions.",
       "hint": "One tested factor: shade."
     },
     "stage": "apply",
@@ -1897,10 +1897,10 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
-    "question": "A group wants to compare which sponge holds more water. What should they control?",
-    "audio_prompt": "A group wants to compare which sponge holds more water. What should they control?",
-    "audioPrompt": "A group wants to compare which sponge holds more water. What should they control?",
+    "skill": "planning and conducting fair comparisons",
+    "question": "A group compares how much water equal-sized pieces of two sponge materials absorb. What should they keep the same?",
+    "audio_prompt": "A group compares how much water equal-sized pieces of two sponge materials absorb. What should they keep the same?",
+    "audioPrompt": "A group compares how much water equal-sized pieces of two sponge materials absorb. What should they keep the same?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1908,36 +1908,36 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The order of answer choices",
+        "text": "The measured amount absorbed, before testing",
+        "is_correct": false
+      },
+      {
+        "text": "The sponge material being compared",
+        "is_correct": false
+      },
+      {
+        "text": "The final result chosen to match the prediction",
         "is_correct": false
       },
       {
         "text": "Sponge size and starting water amount",
         "is_correct": true
-      },
-      {
-        "text": "Sponge colour only",
-        "is_correct": false
-      },
-      {
-        "text": "Which student likes each sponge",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The order of answer choices",
-      "Sponge size and starting water amount",
-      "Sponge colour only",
-      "Which student likes each sponge"
+      "The measured amount absorbed, before testing",
+      "The sponge material being compared",
+      "The final result chosen to match the prediction",
+      "Sponge size and starting water amount"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Size and starting conditions could affect absorbency results and should be controlled.",
+      "summary": "Size and starting conditions could affect water absorption results and should be controlled.",
       "hint": "Keep relevant conditions equal."
     },
     "structuredExplanation": {
-      "summary": "Size and starting conditions could affect absorbency results and should be controlled.",
+      "summary": "Size and starting conditions could affect water absorption results and should be controlled.",
       "hint": "Keep relevant conditions equal."
     },
     "stage": "apply",
@@ -1958,7 +1958,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "A hot-water investigation requires measuring temperatures. Which plan is safest?",
     "audio_prompt": "A hot-water investigation requires measuring temperatures. Which plan is safest?",
     "audioPrompt": "A hot-water investigation requires measuring temperatures. Which plan is safest?",
@@ -1973,7 +1973,7 @@
         "is_correct": true
       },
       {
-        "text": "Use boiling water without supervision",
+        "text": "Carry open hot cups around the room",
         "is_correct": false
       },
       {
@@ -1981,15 +1981,15 @@
         "is_correct": false
       },
       {
-        "text": "Carry open hot cups around the room",
+        "text": "Use boiling water without supervision",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Use warm, teacher-approved water and a thermometer without touching hot surfaces",
-      "Use boiling water without supervision",
+      "Carry open hot cups around the room",
       "Test temperature with fingers",
-      "Carry open hot cups around the room"
+      "Use boiling water without supervision"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -2019,7 +2019,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "A class tests whether parachute area affects fall time. Which step belongs in the fair-test plan?",
     "audio_prompt": "A class tests whether parachute area affects fall time. Which step belongs in the fair-test plan?",
     "audioPrompt": "A class tests whether parachute area affects fall time. Which step belongs in the fair-test plan?",
@@ -2030,36 +2030,36 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Change canopy area and payload mass together",
+        "text": "Drop from different heights",
         "is_correct": false
       },
       {
-        "text": "Drop from different heights",
-        "is_correct": false
+        "text": "Keep material and toy mass the same while changing parachute size",
+        "is_correct": true
       },
       {
         "text": "Use a stopwatch for only one parachute",
         "is_correct": false
       },
       {
-        "text": "Keep material and payload mass the same while changing canopy area",
-        "is_correct": true
+        "text": "Change parachute size and toy mass together",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Change canopy area and payload mass together",
       "Drop from different heights",
+      "Keep material and toy mass the same while changing parachute size",
       "Use a stopwatch for only one parachute",
-      "Keep material and payload mass the same while changing canopy area"
+      "Change parachute size and toy mass together"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Controlling material, mass and drop height helps isolate canopy area.",
+      "summary": "Controlling material, mass and drop height helps test parachute size.",
       "hint": "Keep other flight conditions alike."
     },
     "structuredExplanation": {
-      "summary": "Controlling material, mass and drop height helps isolate canopy area.",
+      "summary": "Controlling material, mass and drop height helps test parachute size.",
       "hint": "Keep other flight conditions alike."
     },
     "stage": "apply",
@@ -2080,7 +2080,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "A trial gives a very different result from the others. What should the group do?",
     "audio_prompt": "A trial gives a very different result from the others. What should the group do?",
     "audioPrompt": "A trial gives a very different result from the others. What should the group do?",
@@ -2091,6 +2091,10 @@
     "visualHtml": "",
     "answers": [
       {
+        "text": "Record it, check the method, and repeat if appropriate",
+        "is_correct": true
+      },
+      {
         "text": "Change it to the average",
         "is_correct": false
       },
@@ -2099,22 +2103,18 @@
         "is_correct": false
       },
       {
-        "text": "Record it, check the method, and repeat if appropriate",
-        "is_correct": true
-      },
-      {
         "text": "Delete it because it looks wrong",
         "is_correct": false
       }
     ],
     "answer_texts": [
+      "Record it, check the method, and repeat if appropriate",
       "Change it to the average",
       "Stop the investigation immediately",
-      "Record it, check the method, and repeat if appropriate",
       "Delete it because it looks wrong"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "Unusual data should be kept and investigated rather than hidden.",
       "hint": "Unexpected evidence still counts."
@@ -2141,7 +2141,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "A group tests which wrapping material keeps ice cold longest. Which safety concern is most relevant?",
     "audio_prompt": "A group tests which wrapping material keeps ice cold longest. Which safety concern is most relevant?",
     "audioPrompt": "A group tests which wrapping material keeps ice cold longest. Which safety concern is most relevant?",
@@ -2152,30 +2152,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Timers cause burns",
+        "text": "Keeping the work area wet prevents slipping.",
+        "is_correct": false
+      },
+      {
+        "text": "The timer must be placed in the meltwater.",
+        "is_correct": false
+      },
+      {
+        "text": "The ice may warm the room enough to burn skin.",
         "is_correct": false
       },
       {
         "text": "Meltwater may make the work area slippery",
         "is_correct": true
-      },
-      {
-        "text": "Ice is always poisonous",
-        "is_correct": false
-      },
-      {
-        "text": "Paper cannot be touched",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Timers cause burns",
-      "Meltwater may make the work area slippery",
-      "Ice is always poisonous",
-      "Paper cannot be touched"
+      "Keeping the work area wet prevents slipping.",
+      "The timer must be placed in the meltwater.",
+      "The ice may warm the room enough to burn skin.",
+      "Meltwater may make the work area slippery"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "Meltwater can create a practical slip hazard that should be managed.",
       "hint": "Think about what happens as ice melts."
@@ -2202,7 +2202,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "You notice one group used 100 mL of water and another used 150 mL in the same soil test. What should happen next?",
     "audio_prompt": "You notice one group used 100 mL of water and another used 150 mL in the same soil test. What should happen next?",
     "audioPrompt": "You notice one group used 100 mL of water and another used 150 mL in the same soil test. What should happen next?",
@@ -2213,30 +2213,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Repeat with the same water volume before comparing the soils",
-        "is_correct": true
+        "text": "Say the larger volume is more scientific",
+        "is_correct": false
       },
       {
         "text": "Average the results anyway",
         "is_correct": false
       },
       {
-        "text": "Choose the result you prefer",
-        "is_correct": false
+        "text": "Repeat with the same water volume before comparing the soils",
+        "is_correct": true
       },
       {
-        "text": "Say the larger volume is more scientific",
+        "text": "Choose the result you prefer",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Repeat with the same water volume before comparing the soils",
+      "Say the larger volume is more scientific",
       "Average the results anyway",
-      "Choose the result you prefer",
-      "Say the larger volume is more scientific"
+      "Repeat with the same water volume before comparing the soils",
+      "Choose the result you prefer"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "The different water amounts make the original comparison unfair.",
       "hint": "Fix the uncontrolled difference."
@@ -2263,7 +2263,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "A class wants to test whether surface roughness affects sliding distance. Which materials make the clearest comparison?",
     "audio_prompt": "A class wants to test whether surface roughness affects sliding distance. Which materials make the clearest comparison?",
     "audioPrompt": "A class wants to test whether surface roughness affects sliding distance. Which materials make the clearest comparison?",
@@ -2299,11 +2299,11 @@
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Using the same block isolates surface roughness more effectively.",
+      "summary": "Using the same block tests surface roughness more effectively.",
       "hint": "Change the surface, not the object."
     },
     "structuredExplanation": {
-      "summary": "Using the same block isolates surface roughness more effectively.",
+      "summary": "Using the same block tests surface roughness more effectively.",
       "hint": "Change the surface, not the object."
     },
     "stage": "apply",
@@ -2324,7 +2324,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "A plan has no step for recording measurements. What is the best revision?",
     "audio_prompt": "A plan has no step for recording measurements. What is the best revision?",
     "audioPrompt": "A plan has no step for recording measurements. What is the best revision?",
@@ -2339,7 +2339,7 @@
         "is_correct": false
       },
       {
-        "text": "Record just the favourite result",
+        "text": "Rely on memory",
         "is_correct": false
       },
       {
@@ -2347,15 +2347,15 @@
         "is_correct": true
       },
       {
-        "text": "Rely on memory",
+        "text": "Record just the favourite result",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Write only whether the prediction was right",
-      "Record just the favourite result",
+      "Rely on memory",
       "Add a results table with units and space for repeated trials",
-      "Rely on memory"
+      "Record just the favourite result"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -2385,7 +2385,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "practice",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Which full plan is strongest for “Does water temperature affect dissolving time?”",
     "audio_prompt": "Which full plan is strongest for “Does water temperature affect dissolving time?”",
     "audioPrompt": "Which full plan is strongest for “Does water temperature affect dissolving time?”",
@@ -2396,6 +2396,10 @@
     "visualHtml": "",
     "answers": [
       {
+        "text": "Different sugar masses, cups and temperatures",
+        "is_correct": false
+      },
+      {
         "text": "Use one cup and guess",
         "is_correct": false
       },
@@ -2404,28 +2408,24 @@
         "is_correct": true
       },
       {
-        "text": "Different sugar masses, cups and temperatures",
-        "is_correct": false
-      },
-      {
         "text": "Change temperature and stirring speed together",
         "is_correct": false
       }
     ],
     "answer_texts": [
+      "Different sugar masses, cups and temperatures",
       "Use one cup and guess",
       "Same sugar mass and water volume, different water temperatures, same stirring rule, measure dissolving time safely",
-      "Different sugar masses, cups and temperatures",
       "Change temperature and stirring speed together"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The first plan changes temperature while controlling other important conditions and measuring the relevant outcome.",
+      "summary": "The fair plan changes temperature while controlling other important conditions and measuring the relevant outcome.",
       "hint": "One changed factor + controlled conditions + measured result."
     },
     "structuredExplanation": {
-      "summary": "The first plan changes temperature while controlling other important conditions and measuring the relevant outcome.",
+      "summary": "The fair plan changes temperature while controlling other important conditions and measuring the relevant outcome.",
       "hint": "One changed factor + controlled conditions + measured result."
     },
     "stage": "apply",
@@ -2446,7 +2446,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Which action makes a seed-growth comparison fairer?",
     "audio_prompt": "Which action makes a seed-growth comparison fairer?",
     "audioPrompt": "Which action makes a seed-growth comparison fairer?",
@@ -2461,32 +2461,32 @@
         "is_correct": false
       },
       {
-        "text": "Move only the tallest plant",
-        "is_correct": false
-      },
-      {
         "text": "Give each pot the same soil amount and pot size while changing only light exposure",
         "is_correct": true
       },
       {
         "text": "Use different pot sizes and soils",
         "is_correct": false
+      },
+      {
+        "text": "Move only the tallest plant",
+        "is_correct": false
       }
     ],
     "answer_texts": [
       "Water one pot twice as much",
-      "Move only the tallest plant",
       "Give each pot the same soil amount and pot size while changing only light exposure",
-      "Use different pot sizes and soils"
+      "Use different pot sizes and soils",
+      "Move only the tallest plant"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Controlled conditions help isolate the effect of light.",
+      "summary": "Controlled conditions help test the effect of light.",
       "hint": "Change the factor being tested."
     },
     "structuredExplanation": {
-      "summary": "Controlled conditions help isolate the effect of light.",
+      "summary": "Controlled conditions help test the effect of light.",
       "hint": "Change the factor being tested."
     },
     "difficulty": 3,
@@ -2506,7 +2506,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "A class compares toy cars on two surfaces. Which factor should stay the same?",
     "audio_prompt": "A class compares toy cars on two surfaces. Which factor should stay the same?",
     "audioPrompt": "A class compares toy cars on two surfaces. Which factor should stay the same?",
@@ -2517,7 +2517,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The result",
+        "text": "The travel distance",
+        "is_correct": false
+      },
+      {
+        "text": "The surface",
         "is_correct": false
       },
       {
@@ -2525,22 +2529,18 @@
         "is_correct": true
       },
       {
-        "text": "The surface",
-        "is_correct": false
-      },
-      {
-        "text": "The travel distance",
+        "text": "The result",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The result",
-      "The car",
+      "The travel distance",
       "The surface",
-      "The travel distance"
+      "The car",
+      "The result"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "Using the same car helps make surface type the main difference.",
       "hint": "Keep the object constant."
@@ -2566,7 +2566,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "Which is a safety issue in a water investigation?",
     "audio_prompt": "Which is a safety issue in a water investigation?",
     "audioPrompt": "Which is a safety issue in a water investigation?",
@@ -2626,7 +2626,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Why repeat a bouncing-ball test?",
     "audio_prompt": "Why repeat a bouncing-ball test?",
     "audioPrompt": "Why repeat a bouncing-ball test?",
@@ -2637,11 +2637,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "To force the same number",
-        "is_correct": false
+        "text": "To see whether the pattern is consistent across trials",
+        "is_correct": true
       },
       {
-        "text": "To prove the prediction",
+        "text": "To force the same number",
         "is_correct": false
       },
       {
@@ -2649,18 +2649,18 @@
         "is_correct": false
       },
       {
-        "text": "To see whether the pattern is consistent across trials",
-        "is_correct": true
+        "text": "To prove the prediction",
+        "is_correct": false
       }
     ],
     "answer_texts": [
+      "To see whether the pattern is consistent across trials",
       "To force the same number",
-      "To prove the prediction",
       "To avoid measuring",
-      "To see whether the pattern is consistent across trials"
+      "To prove the prediction"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "Repeats help reveal variation and consistency.",
       "hint": "More evidence, not guaranteed sameness."
@@ -2686,7 +2686,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Which plan best tests whether paper type affects bridge strength?",
     "audio_prompt": "Which plan best tests whether paper type affects bridge strength?",
     "audioPrompt": "Which plan best tests whether paper type affects bridge strength?",
@@ -2697,11 +2697,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Use a different span each trial",
-        "is_correct": false
-      },
-      {
-        "text": "Press harder on the favourite bridge",
+        "text": "Different paper types and different bridge lengths",
         "is_correct": false
       },
       {
@@ -2709,24 +2705,28 @@
         "is_correct": true
       },
       {
-        "text": "Different paper types and different bridge lengths",
+        "text": "Press harder on the favourite bridge",
+        "is_correct": false
+      },
+      {
+        "text": "Use a different span each trial",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Use a different span each trial",
-      "Press harder on the favourite bridge",
+      "Different paper types and different bridge lengths",
       "Same bridge dimensions, different paper types, add equal masses one at a time",
-      "Different paper types and different bridge lengths"
+      "Press harder on the favourite bridge",
+      "Use a different span each trial"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The first plan controls other important factors.",
+      "summary": "The fair plan controls other important factors.",
       "hint": "Isolate paper type."
     },
     "structuredExplanation": {
-      "summary": "The first plan controls other important factors.",
+      "summary": "The fair plan controls other important factors.",
       "hint": "Isolate paper type."
     },
     "difficulty": 3,
@@ -2746,7 +2746,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "A student uses cracked glassware. What should happen?",
     "audio_prompt": "A student uses cracked glassware. What should happen?",
     "audioPrompt": "A student uses cracked glassware. What should happen?",
@@ -2757,7 +2757,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Use it only for hot water",
+        "text": "Continue if the crack is small",
         "is_correct": false
       },
       {
@@ -2765,19 +2765,19 @@
         "is_correct": true
       },
       {
-        "text": "Continue if the crack is small",
+        "text": "Cover the crack with a finger",
         "is_correct": false
       },
       {
-        "text": "Cover the crack with a finger",
+        "text": "Use it only for hot water",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Use it only for hot water",
-      "Stop and replace it with safe equipment",
       "Continue if the crack is small",
-      "Cover the crack with a finger"
+      "Stop and replace it with safe equipment",
+      "Cover the crack with a finger",
+      "Use it only for hot water"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -2806,7 +2806,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Which measured outcome fits “Does fan speed affect drying time?”",
     "audio_prompt": "Which measured outcome fits “Does fan speed affect drying time?”",
     "audioPrompt": "Which measured outcome fits “Does fan speed affect drying time?”",
@@ -2817,30 +2817,30 @@
     "visualHtml": "",
     "answers": [
       {
+        "text": "The time when the fan is switched off, regardless of cloth dryness",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature of the fan motor only",
+        "is_correct": false
+      },
+      {
+        "text": "The cloth mass before any drying, without later readings",
+        "is_correct": false
+      },
+      {
         "text": "Time until the cloth is dry",
         "is_correct": true
-      },
-      {
-        "text": "Fan colour",
-        "is_correct": false
-      },
-      {
-        "text": "Cloth pattern",
-        "is_correct": false
-      },
-      {
-        "text": "Room name",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Time until the cloth is dry",
-      "Fan colour",
-      "Cloth pattern",
-      "Room name"
+      "The time when the fan is switched off, regardless of cloth dryness",
+      "Temperature of the fan motor only",
+      "The cloth mass before any drying, without later readings",
+      "Time until the cloth is dry"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "Drying time directly answers the question.",
       "hint": "Measure what the question asks."
@@ -2866,7 +2866,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "Why use the same amount of detergent in each cleaning trial?",
     "audio_prompt": "Why use the same amount of detergent in each cleaning trial?",
     "audioPrompt": "Why use the same amount of detergent in each cleaning trial?",
@@ -2877,30 +2877,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Detergent amount never matters",
-        "is_correct": false
-      },
-      {
-        "text": "It makes colours match",
-        "is_correct": false
+        "text": "Different amounts could affect the result and make the comparison unfair",
+        "is_correct": true
       },
       {
         "text": "It guarantees the same result",
         "is_correct": false
       },
       {
-        "text": "Different amounts could affect the result and make the comparison unfair",
-        "is_correct": true
+        "text": "Detergent amount never matters",
+        "is_correct": false
+      },
+      {
+        "text": "It makes colours match",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Detergent amount never matters",
-      "It makes colours match",
+      "Different amounts could affect the result and make the comparison unfair",
       "It guarantees the same result",
-      "Different amounts could affect the result and make the comparison unfair"
+      "Detergent amount never matters",
+      "It makes colours match"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "A controlled detergent amount prevents another factor from changing.",
       "hint": "Control relevant conditions."
@@ -2926,7 +2926,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "Which instruction is most specific and safe?",
     "audio_prompt": "Which instruction is most specific and safe?",
     "audioPrompt": "Which instruction is most specific and safe?",
@@ -2941,7 +2941,7 @@
         "is_correct": false
       },
       {
-        "text": "Touch every liquid first",
+        "text": "Be careful somehow",
         "is_correct": false
       },
       {
@@ -2949,15 +2949,15 @@
         "is_correct": true
       },
       {
-        "text": "Be careful somehow",
+        "text": "Touch every liquid first",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Stand as close as possible",
-      "Touch every liquid first",
+      "Be careful somehow",
       "Wear eye protection when testing liquids that may splash",
-      "Be careful somehow"
+      "Touch every liquid first"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -2986,7 +2986,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "One group drops balls from 1 m and another from 2 m. What is wrong with comparing bounce heights?",
     "audio_prompt": "One group drops balls from 1 m and another from 2 m. What is wrong with comparing bounce heights?",
     "audioPrompt": "One group drops balls from 1 m and another from 2 m. What is wrong with comparing bounce heights?",
@@ -2997,7 +2997,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The test is unsafe because it uses balls",
+        "text": "The balls must have different colours.",
+        "is_correct": false
+      },
+      {
+        "text": "Changing height tests only the ball material.",
         "is_correct": false
       },
       {
@@ -3005,22 +3009,18 @@
         "is_correct": true
       },
       {
-        "text": "Balls cannot bounce",
-        "is_correct": false
-      },
-      {
-        "text": "Height is not measurable",
+        "text": "The measured bounce is automatically the same.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The test is unsafe because it uses balls",
+      "The balls must have different colours.",
+      "Changing height tests only the ball material.",
       "Drop height is not controlled",
-      "Balls cannot bounce",
-      "Height is not measurable"
+      "The measured bounce is automatically the same."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "Different starting heights could affect bounce height.",
       "hint": "Same starting condition."
@@ -3046,10 +3046,10 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
-    "question": "Which plan best tests insulation?",
-    "audio_prompt": "Which plan best tests insulation?",
-    "audioPrompt": "Which plan best tests insulation?",
+    "skill": "planning and conducting fair comparisons",
+    "question": "Which plan best tests how wrapping material affects cooling, with all cups in the same room?",
+    "audio_prompt": "Which plan best tests how wrapping material affects cooling, with all cups in the same room?",
+    "audioPrompt": "Which plan best tests how wrapping material affects cooling, with all cups in the same room?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3057,30 +3057,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Place equal warm-water volumes in matching cups wrapped with different materials and compare temperature change",
-        "is_correct": true
+        "text": "Wrap only one cup and do not measure the other",
+        "is_correct": false
       },
       {
         "text": "Use different water volumes and cup sizes",
         "is_correct": false
       },
       {
-        "text": "Wrap only one cup and do not measure the other",
+        "text": "Use boiling water without supervision",
         "is_correct": false
       },
       {
-        "text": "Use boiling water without supervision",
-        "is_correct": false
+        "text": "Place equal water volumes at the same starting temperature in matching cups with different wraps; compare cooling after the same time.",
+        "is_correct": true
       }
     ],
     "answer_texts": [
-      "Place equal warm-water volumes in matching cups wrapped with different materials and compare temperature change",
-      "Use different water volumes and cup sizes",
       "Wrap only one cup and do not measure the other",
-      "Use boiling water without supervision"
+      "Use different water volumes and cup sizes",
+      "Use boiling water without supervision",
+      "Place equal water volumes at the same starting temperature in matching cups with different wraps; compare cooling after the same time."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "Matching starting conditions make wrapping material the main difference.",
       "hint": "Control volume, cup and start temperature."
@@ -3106,7 +3106,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "Why should spills be cleaned promptly?",
     "audio_prompt": "Why should spills be cleaned promptly?",
     "audioPrompt": "Why should spills be cleaned promptly?",
@@ -3117,30 +3117,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "They improve fairness",
+        "text": "Spills are safe whenever the water is cool.",
         "is_correct": false
       },
       {
-        "text": "They make data more accurate",
-        "is_correct": false
-      },
-      {
-        "text": "They cool every material",
+        "text": "Spills make every comparison unfair even after cleanup.",
         "is_correct": false
       },
       {
         "text": "They can create slipping or equipment hazards",
         "is_correct": true
+      },
+      {
+        "text": "Spills improve temperature readings.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "They improve fairness",
-      "They make data more accurate",
-      "They cool every material",
-      "They can create slipping or equipment hazards"
+      "Spills are safe whenever the water is cool.",
+      "Spills make every comparison unfair even after cleanup.",
+      "They can create slipping or equipment hazards",
+      "Spills improve temperature readings."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "Spill management is a practical safety control.",
       "hint": "Think about the floor and nearby equipment."
@@ -3166,10 +3166,10 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
-    "question": "Which change would improve a vague plan that says “use some water”?",
-    "audio_prompt": "Which change would improve a vague plan that says “use some water”?",
-    "audioPrompt": "Which change would improve a vague plan that says “use some water”?",
+    "skill": "following provided investigation steps",
+    "question": "A teacher gives a soil-test plan: 1 label the cups; 2 add equal soil amounts; 3 ____. Which next step keeps the test fair?",
+    "audio_prompt": "A teacher gives a soil-test plan: 1 label the cups; 2 add equal soil amounts; 3 ____. Which next step keeps the test fair?",
+    "audioPrompt": "A teacher gives a soil-test plan: 1 label the cups; 2 add equal soil amounts; 3 ____. Which next step keeps the test fair?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3177,37 +3177,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Choose by eye only",
+        "text": "Pour a different water volume into each cup.",
         "is_correct": false
       },
       {
-        "text": "Remove water from the plan",
+        "text": "Choose the best soil before adding water.",
         "is_correct": false
       },
       {
-        "text": "Specify and measure the same volume for each trial",
+        "text": "Remove the cup labels before recording results.",
+        "is_correct": false
+      },
+      {
+        "text": "Measure and pour the same water volume into each cup.",
         "is_correct": true
-      },
-      {
-        "text": "Use any amount each time",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Choose by eye only",
-      "Remove water from the plan",
-      "Specify and measure the same volume for each trial",
-      "Use any amount each time"
+      "Pour a different water volume into each cup.",
+      "Choose the best soil before adding water.",
+      "Remove the cup labels before recording results.",
+      "Measure and pour the same water volume into each cup."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A measured volume makes the procedure repeatable and fairer.",
-      "hint": "Replace vague amounts with measured ones."
+      "summary": "The same measured water volume lets the group compare the soil types fairly.",
+      "hint": "Follow the plan and keep the water amount alike."
     },
     "structuredExplanation": {
-      "summary": "A measured volume makes the procedure repeatable and fairer.",
-      "hint": "Replace vague amounts with measured ones."
+      "summary": "The same measured water volume lets the group compare the soil types fairly.",
+      "hint": "Follow the plan and keep the water amount alike."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -3226,7 +3226,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "If a test changes both light and water, what is the problem?",
     "audio_prompt": "If a test changes both light and water, what is the problem?",
     "audioPrompt": "If a test changes both light and water, what is the problem?",
@@ -3237,30 +3237,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The result becomes automatically correct",
+        "text": "Plants need both factors",
         "is_correct": false
       },
       {
-        "text": "The effects of the two changes cannot be separated",
-        "is_correct": true
+        "text": "The result becomes automatically correct",
+        "is_correct": false
       },
       {
         "text": "Two changes are always more scientific",
         "is_correct": false
       },
       {
-        "text": "Plants need both factors",
-        "is_correct": false
+        "text": "The effects of the two changes cannot be separated",
+        "is_correct": true
       }
     ],
     "answer_texts": [
+      "Plants need both factors",
       "The result becomes automatically correct",
-      "The effects of the two changes cannot be separated",
       "Two changes are always more scientific",
-      "Plants need both factors"
+      "The effects of the two changes cannot be separated"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "Changing multiple factors at once confuses the explanation for any difference.",
       "hint": "One tested factor at a time."
@@ -3286,7 +3286,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "question": "Which behaviour is safest during a heated demonstration?",
     "audio_prompt": "Which behaviour is safest during a heated demonstration?",
     "audioPrompt": "Which behaviour is safest during a heated demonstration?",
@@ -3301,23 +3301,23 @@
         "is_correct": true
       },
       {
-        "text": "Reach over the heat source",
-        "is_correct": false
-      },
-      {
         "text": "Touch the hot container",
         "is_correct": false
       },
       {
         "text": "Run past the equipment",
         "is_correct": false
+      },
+      {
+        "text": "Reach over the heat source",
+        "is_correct": false
       }
     ],
     "answer_texts": [
       "Keep a safe distance and follow the teacher’s instructions",
-      "Reach over the heat source",
       "Touch the hot container",
-      "Run past the equipment"
+      "Run past the equipment",
+      "Reach over the heat source"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -3346,7 +3346,7 @@
     "curriculum_code": "AC9S3I02",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "question": "A result is unusual but the method was followed. What should students do?",
     "audio_prompt": "A result is unusual but the method was followed. What should students do?",
     "audioPrompt": "A result is unusual but the method was followed. What should students do?",
@@ -3357,30 +3357,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Erase it",
+        "text": "Change it to match the others",
         "is_correct": false
       },
       {
-        "text": "Change it to match the others",
-        "is_correct": false
+        "text": "Record it and consider another repeat",
+        "is_correct": true
       },
       {
         "text": "Ignore it completely",
         "is_correct": false
       },
       {
-        "text": "Record it and consider another repeat",
-        "is_correct": true
+        "text": "Erase it",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Erase it",
       "Change it to match the others",
+      "Record it and consider another repeat",
       "Ignore it completely",
-      "Record it and consider another repeat"
+      "Erase it"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "Unusual results are still evidence and may be worth checking with further trials.",
       "hint": "Keep the data."
@@ -3394,6 +3394,494 @@
     "difficultyTier": "independent",
     "sequence_priority": 16,
     "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i02-p-041",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I02",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "skill": "completing fair-test scaffolds",
+    "question": "A scaffold asks: Change — soil type; Keep the same — soil volume, water volume and container; Measure — ____. The question is which soil drains water fastest. What completes the plan?",
+    "audio_prompt": "A scaffold asks: Change — soil type; Keep the same — soil volume, water volume and container; Measure — ____. The question is which soil drains water fastest. What completes the plan?",
+    "audioPrompt": "A scaffold asks: Change — soil type; Keep the same — soil volume, water volume and container; Measure — ____. The question is which soil drains water fastest. What completes the plan?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Number of children in the group",
+        "is_correct": false
+      },
+      {
+        "text": "Colour of the container label",
+        "is_correct": false
+      },
+      {
+        "text": "Time for the water to drain",
+        "is_correct": true
+      },
+      {
+        "text": "Starting water volume changed each time",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Number of children in the group",
+      "Colour of the container label",
+      "Time for the water to drain",
+      "Starting water volume changed each time"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Drainage time answers the stated question; the other headings control relevant differences.",
+      "hint": "Measure the outcome named in the question."
+    },
+    "structuredExplanation": {
+      "summary": "Drainage time answers the stated question; the other headings control relevant differences.",
+      "hint": "Measure the outcome named in the question."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 41,
+    "sequencePriority": 41,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i02-p-042",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I02",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "skill": "ordering investigation steps",
+    "question": "A teacher provides these steps for comparing ice melting: A record melting time; B prepare equal cubes on labelled trays; C place trays in the chosen locations and start timing. Which order works?",
+    "audio_prompt": "A teacher provides these steps for comparing ice melting: A record melting time; B prepare equal cubes on labelled trays; C place trays in the chosen locations and start timing. Which order works?",
+    "audioPrompt": "A teacher provides these steps for comparing ice melting: A record melting time; B prepare equal cubes on labelled trays; C place trays in the chosen locations and start timing. Which order works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "C, A, B",
+        "is_correct": false
+      },
+      {
+        "text": "B, C, A",
+        "is_correct": true
+      },
+      {
+        "text": "A, B, C",
+        "is_correct": false
+      },
+      {
+        "text": "B, A, C",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "C, A, B",
+      "B, C, A",
+      "A, B, C",
+      "B, A, C"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Prepare and label the samples before starting the test, then record the observed outcome.",
+      "hint": "Which step must happen before timing begins?"
+    },
+    "structuredExplanation": {
+      "summary": "Prepare and label the samples before starting the test, then record the observed outcome.",
+      "hint": "Which step must happen before timing begins?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 42,
+    "sequencePriority": 42,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i02-p-043",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I02",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "skill": "planning records",
+    "question": "A plan says to measure each seedling every Monday but gives no recording instruction. Which step should be added?",
+    "audio_prompt": "A plan says to measure each seedling every Monday but gives no recording instruction. Which step should be added?",
+    "audioPrompt": "A plan says to measure each seedling every Monday but gives no recording instruction. Which step should be added?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Remove the plant labels before measuring.",
+        "is_correct": false
+      },
+      {
+        "text": "Write only the tallest height at the end of the month.",
+        "is_correct": false
+      },
+      {
+        "text": "Record which plant looks nicest instead of measuring.",
+        "is_correct": false
+      },
+      {
+        "text": "Write each height and date beside the matching plant label in a table.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Remove the plant labels before measuring.",
+      "Write only the tallest height at the end of the month.",
+      "Record which plant looks nicest instead of measuring.",
+      "Write each height and date beside the matching plant label in a table."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The added step preserves which plant, date and measurement belong together.",
+      "hint": "Plan where each measurement will go."
+    },
+    "structuredExplanation": {
+      "summary": "The added step preserves which plant, date and measurement belong together.",
+      "hint": "Plan where each measurement will go."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 43,
+    "sequencePriority": 43,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i02-p-044",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I02",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "skill": "conducting planned repeats",
+    "question": "A scaffold says to repeat the drainage test three times with fresh, equal soil samples. The first result differs from the prediction. What should the group do?",
+    "audio_prompt": "A scaffold says to repeat the drainage test three times with fresh, equal soil samples. The first result differs from the prediction. What should the group do?",
+    "audioPrompt": "A scaffold says to repeat the drainage test three times with fresh, equal soil samples. The first result differs from the prediction. What should the group do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Record the result and continue the planned repeats safely.",
+        "is_correct": true
+      },
+      {
+        "text": "Stop because a different result makes the method unfair.",
+        "is_correct": false
+      },
+      {
+        "text": "Use extra water in the next trial to match the prediction.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the first result before repeating.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Record the result and continue the planned repeats safely.",
+      "Stop because a different result makes the method unfair.",
+      "Use extra water in the next trial to match the prediction.",
+      "Change the first result before repeating."
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A prediction does not determine the results. Following the same planned method provides useful repeated evidence.",
+      "hint": "Keep the method consistent and record what happens."
+    },
+    "structuredExplanation": {
+      "summary": "A prediction does not determine the results. Following the same planned method provides useful repeated evidence.",
+      "hint": "Keep the method consistent and record what happens."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 44,
+    "sequencePriority": 44,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i02-p-045",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I02",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "skill": "safe soil investigation",
+    "question": "Before a soil investigation, the teacher provides gloves, tools and handwashing instructions. Which plan follows this safety scaffold?",
+    "audio_prompt": "Before a soil investigation, the teacher provides gloves, tools and handwashing instructions. Which plan follows this safety scaffold?",
+    "audioPrompt": "Before a soil investigation, the teacher provides gloves, tools and handwashing instructions. Which plan follows this safety scaffold?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Use the tools as shown, avoid touching the face and wash hands after the investigation.",
+        "is_correct": true
+      },
+      {
+        "text": "Taste a little soil to identify it.",
+        "is_correct": false
+      },
+      {
+        "text": "Skip handwashing if the soil looks clean.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the gloves to rub soil near the eyes.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Use the tools as shown, avoid touching the face and wash hands after the investigation.",
+      "Taste a little soil to identify it.",
+      "Skip handwashing if the soil looks clean.",
+      "Remove the gloves to rub soil near the eyes."
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Following the supplied handling and hygiene steps reduces exposure to soil and keeps the investigation safe.",
+      "hint": "Follow the specific handling instructions."
+    },
+    "structuredExplanation": {
+      "summary": "Following the supplied handling and hygiene steps reduces exposure to soil and keeps the investigation safe.",
+      "hint": "Follow the specific handling instructions."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 45,
+    "sequencePriority": 45,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i02-p-046",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I02",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "skill": "matching plan to prediction",
+    "question": "The prediction is that a cloth wrap slows cooling. Which plan directly tests it?",
+    "audio_prompt": "The prediction is that a cloth wrap slows cooling. Which plan directly tests it?",
+    "audioPrompt": "The prediction is that a cloth wrap slows cooling. Which plan directly tests it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Use matching cups with equal water at the same starting temperature; wrap one and compare temperatures after the same time.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a large wrapped cup of hot water and a small unwrapped cup of cool water.",
+        "is_correct": false
+      },
+      {
+        "text": "Wrap both cups and compare their label colours.",
+        "is_correct": false
+      },
+      {
+        "text": "Measure the wrapped cup today and the other cup in a different room tomorrow.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Use matching cups with equal water at the same starting temperature; wrap one and compare temperatures after the same time.",
+      "Use a large wrapped cup of hot water and a small unwrapped cup of cool water.",
+      "Wrap both cups and compare their label colours.",
+      "Measure the wrapped cup today and the other cup in a different room tomorrow."
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The plan changes wrapping while controlling cup, water and timing conditions and measuring cooling.",
+      "hint": "Change the wrapping, keep other relevant conditions alike."
+    },
+    "structuredExplanation": {
+      "summary": "The plan changes wrapping while controlling cup, water and timing conditions and measuring cooling.",
+      "hint": "Change the wrapping, keep other relevant conditions alike."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 46,
+    "sequencePriority": 46,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i02-p-047",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I02",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "skill": "repairing missing controls",
+    "question": "A plan compares melting on two surfaces using equal ice cubes. It does not say when to start timing each cube. What should be added?",
+    "audio_prompt": "A plan compares melting on two surfaces using equal ice cubes. It does not say when to start timing each cube. What should be added?",
+    "audioPrompt": "A plan compares melting on two surfaces using equal ice cubes. It does not say when to start timing each cube. What should be added?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Use a different timing rule for each surface.",
+        "is_correct": false
+      },
+      {
+        "text": "Start timing each cube as soon as it is placed on its surface.",
+        "is_correct": true
+      },
+      {
+        "text": "Record the time before either cube is placed.",
+        "is_correct": false
+      },
+      {
+        "text": "Start timing the second cube only after the first has melted.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Use a different timing rule for each surface.",
+      "Start timing each cube as soon as it is placed on its surface.",
+      "Record the time before either cube is placed.",
+      "Start timing the second cube only after the first has melted."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A shared start rule makes melting times comparable.",
+      "hint": "Use the same start event for both measurements."
+    },
+    "structuredExplanation": {
+      "summary": "A shared start rule makes melting times comparable.",
+      "hint": "Use the same start event for both measurements."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 47,
+    "sequencePriority": 47,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i02-p-048",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I02",
+    "curriculumCode": "AC9S3I02",
+    "bank": "practice",
+    "skill": "following and adapting scaffolds",
+    "question": "A provided plan needs a measuring cylinder, but none is available. A marked measuring cup is available. What should students do?",
+    "audio_prompt": "A provided plan needs a measuring cylinder, but none is available. A marked measuring cup is available. What should students do?",
+    "audioPrompt": "A provided plan needs a measuring cylinder, but none is available. A marked measuring cup is available. What should students do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Guess the volume in an unmarked container.",
+        "is_correct": false
+      },
+      {
+        "text": "Skip measuring because the original tool is missing.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask the teacher whether the cup can measure the required volume, then follow the agreed plan.",
+        "is_correct": true
+      },
+      {
+        "text": "Change both the water volume and soil amount without recording it.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Guess the volume in an unmarked container.",
+      "Skip measuring because the original tool is missing.",
+      "Ask the teacher whether the cup can measure the required volume, then follow the agreed plan.",
+      "Change both the water volume and soil amount without recording it."
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "An appropriate agreed substitute can preserve the required measurement; guessing or changing several conditions weakens the test.",
+      "hint": "Keep the planned measurement and get guidance on the substitute."
+    },
+    "structuredExplanation": {
+      "summary": "An appropriate agreed substitute can preserve the required measurement; guessing or changing several conditions weakens the test.",
+      "hint": "Keep the planned measurement and get guidance on the substitute."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 48,
+    "sequencePriority": 48,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,

@@ -4,7 +4,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-001",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "printable": true,
     "type": "single",
     "question": "Which action makes a seed-growth comparison fairer?",
@@ -17,14 +17,14 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Water one pot twice as much",
-      "Move only the tallest plant",
       "Give each pot the same soil amount and pot size while changing only light exposure",
-      "Use different pot sizes and soils"
+      "Use different pot sizes and soils",
+      "Move only the tallest plant"
     ],
-    "correct": 2,
-    "explanation": "Controlled conditions help isolate the effect of light.\nHint: Change the factor being tested.",
+    "correct": 1,
+    "explanation": "Controlled conditions help test the effect of light.\nHint: Change the factor being tested.",
     "structuredExplanation": {
-      "summary": "Controlled conditions help isolate the effect of light.",
+      "summary": "Controlled conditions help test the effect of light.",
       "hint": "Change the factor being tested."
     },
     "difficulty": 3,
@@ -36,7 +36,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-002",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "printable": true,
     "type": "single",
     "question": "A class compares toy cars on two surfaces. Which factor should stay the same?",
@@ -48,12 +48,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The result",
-      "The car",
+      "The travel distance",
       "The surface",
-      "The travel distance"
+      "The car",
+      "The result"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Using the same car helps make surface type the main difference.\nHint: Keep the object constant.",
     "structuredExplanation": {
       "summary": "Using the same car helps make surface type the main difference.",
@@ -68,7 +68,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-003",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "printable": true,
     "type": "single",
     "question": "Which is a safety issue in a water investigation?",
@@ -100,7 +100,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-004",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "printable": true,
     "type": "single",
     "question": "Why repeat a bouncing-ball test?",
@@ -112,12 +112,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
+      "To see whether the pattern is consistent across trials",
       "To force the same number",
-      "To prove the prediction",
       "To avoid measuring",
-      "To see whether the pattern is consistent across trials"
+      "To prove the prediction"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Repeats help reveal variation and consistency.\nHint: More evidence, not guaranteed sameness.",
     "structuredExplanation": {
       "summary": "Repeats help reveal variation and consistency.",
@@ -132,7 +132,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-005",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "printable": true,
     "type": "single",
     "question": "Which plan best tests whether paper type affects bridge strength?",
@@ -144,15 +144,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use a different span each trial",
-      "Press harder on the favourite bridge",
+      "Different paper types and different bridge lengths",
       "Same bridge dimensions, different paper types, add equal masses one at a time",
-      "Different paper types and different bridge lengths"
+      "Press harder on the favourite bridge",
+      "Use a different span each trial"
     ],
-    "correct": 2,
-    "explanation": "The first plan controls other important factors.\nHint: Isolate paper type.",
+    "correct": 1,
+    "explanation": "The fair plan controls other important factors.\nHint: Isolate paper type.",
     "structuredExplanation": {
-      "summary": "The first plan controls other important factors.",
+      "summary": "The fair plan controls other important factors.",
       "hint": "Isolate paper type."
     },
     "difficulty": 3,
@@ -164,7 +164,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-006",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "printable": true,
     "type": "single",
     "question": "A student uses cracked glassware. What should happen?",
@@ -176,10 +176,10 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use it only for hot water",
-      "Stop and replace it with safe equipment",
       "Continue if the crack is small",
-      "Cover the crack with a finger"
+      "Stop and replace it with safe equipment",
+      "Cover the crack with a finger",
+      "Use it only for hot water"
     ],
     "correct": 1,
     "explanation": "Damaged glass can break and cause injury.\nHint: Do not use damaged equipment.",
@@ -196,7 +196,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-007",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "printable": true,
     "type": "single",
     "question": "Which measured outcome fits “Does fan speed affect drying time?”",
@@ -208,12 +208,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Time until the cloth is dry",
-      "Fan colour",
-      "Cloth pattern",
-      "Room name"
+      "The time when the fan is switched off, regardless of cloth dryness",
+      "Temperature of the fan motor only",
+      "The cloth mass before any drying, without later readings",
+      "Time until the cloth is dry"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Drying time directly answers the question.\nHint: Measure what the question asks.",
     "structuredExplanation": {
       "summary": "Drying time directly answers the question.",
@@ -228,7 +228,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-008",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "printable": true,
     "type": "single",
     "question": "Why use the same amount of detergent in each cleaning trial?",
@@ -240,12 +240,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Detergent amount never matters",
-      "It makes colours match",
+      "Different amounts could affect the result and make the comparison unfair",
       "It guarantees the same result",
-      "Different amounts could affect the result and make the comparison unfair"
+      "Detergent amount never matters",
+      "It makes colours match"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "A controlled detergent amount prevents another factor from changing.\nHint: Control relevant conditions.",
     "structuredExplanation": {
       "summary": "A controlled detergent amount prevents another factor from changing.",
@@ -260,7 +260,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-009",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "printable": true,
     "type": "single",
     "question": "Which instruction is most specific and safe?",
@@ -273,9 +273,9 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Stand as close as possible",
-      "Touch every liquid first",
+      "Be careful somehow",
       "Wear eye protection when testing liquids that may splash",
-      "Be careful somehow"
+      "Touch every liquid first"
     ],
     "correct": 2,
     "explanation": "Specific controls address a known hazard.\nHint: Name the action and hazard.",
@@ -292,7 +292,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-010",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "printable": true,
     "type": "single",
     "question": "One group drops balls from 1 m and another from 2 m. What is wrong with comparing bounce heights?",
@@ -304,12 +304,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The test is unsafe because it uses balls",
+      "The balls must have different colours.",
+      "Changing height tests only the ball material.",
       "Drop height is not controlled",
-      "Balls cannot bounce",
-      "Height is not measurable"
+      "The measured bounce is automatically the same."
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Different starting heights could affect bounce height.\nHint: Same starting condition.",
     "structuredExplanation": {
       "summary": "Different starting heights could affect bounce height.",
@@ -324,11 +324,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-011",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "printable": true,
     "type": "single",
-    "question": "Which plan best tests insulation?",
-    "audioPrompt": "Which plan best tests insulation?",
+    "question": "Which plan best tests how wrapping material affects cooling, with all cups in the same room?",
+    "audioPrompt": "Which plan best tests how wrapping material affects cooling, with all cups in the same room?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -336,12 +336,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Place equal warm-water volumes in matching cups wrapped with different materials and compare temperature change",
-      "Use different water volumes and cup sizes",
       "Wrap only one cup and do not measure the other",
-      "Use boiling water without supervision"
+      "Use different water volumes and cup sizes",
+      "Use boiling water without supervision",
+      "Place equal water volumes at the same starting temperature in matching cups with different wraps; compare cooling after the same time."
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Matching starting conditions make wrapping material the main difference.\nHint: Control volume, cup and start temperature.",
     "structuredExplanation": {
       "summary": "Matching starting conditions make wrapping material the main difference.",
@@ -356,7 +356,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-012",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "printable": true,
     "type": "single",
     "question": "Why should spills be cleaned promptly?",
@@ -368,12 +368,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "They improve fairness",
-      "They make data more accurate",
-      "They cool every material",
-      "They can create slipping or equipment hazards"
+      "Spills are safe whenever the water is cool.",
+      "Spills make every comparison unfair even after cleanup.",
+      "They can create slipping or equipment hazards",
+      "Spills improve temperature readings."
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Spill management is a practical safety control.\nHint: Think about the floor and nearby equipment.",
     "structuredExplanation": {
       "summary": "Spill management is a practical safety control.",
@@ -388,11 +388,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-013",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "following provided investigation steps",
     "printable": true,
     "type": "single",
-    "question": "Which change would improve a vague plan that says “use some water”?",
-    "audioPrompt": "Which change would improve a vague plan that says “use some water”?",
+    "question": "A teacher gives a soil-test plan: 1 label the cups; 2 add equal soil amounts; 3 ____. Which next step keeps the test fair?",
+    "audioPrompt": "A teacher gives a soil-test plan: 1 label the cups; 2 add equal soil amounts; 3 ____. Which next step keeps the test fair?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -400,16 +400,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose by eye only",
-      "Remove water from the plan",
-      "Specify and measure the same volume for each trial",
-      "Use any amount each time"
+      "Pour a different water volume into each cup.",
+      "Choose the best soil before adding water.",
+      "Remove the cup labels before recording results.",
+      "Measure and pour the same water volume into each cup."
     ],
-    "correct": 2,
-    "explanation": "A measured volume makes the procedure repeatable and fairer.\nHint: Replace vague amounts with measured ones.",
+    "correct": 3,
+    "explanation": "The same measured water volume lets the group compare the soil types fairly.\nHint: Follow the plan and keep the water amount alike.",
     "structuredExplanation": {
-      "summary": "A measured volume makes the procedure repeatable and fairer.",
-      "hint": "Replace vague amounts with measured ones."
+      "summary": "The same measured water volume lets the group compare the soil types fairly.",
+      "hint": "Follow the plan and keep the water amount alike."
     },
     "difficulty": 3,
     "difficultyTier": "independent",
@@ -420,7 +420,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-014",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "printable": true,
     "type": "single",
     "question": "If a test changes both light and water, what is the problem?",
@@ -432,12 +432,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
+      "Plants need both factors",
       "The result becomes automatically correct",
-      "The effects of the two changes cannot be separated",
       "Two changes are always more scientific",
-      "Plants need both factors"
+      "The effects of the two changes cannot be separated"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Changing multiple factors at once confuses the explanation for any difference.\nHint: One tested factor at a time.",
     "structuredExplanation": {
       "summary": "Changing multiple factors at once confuses the explanation for any difference.",
@@ -452,7 +452,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-015",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "safe investigation procedures",
     "printable": true,
     "type": "single",
     "question": "Which behaviour is safest during a heated demonstration?",
@@ -465,9 +465,9 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Keep a safe distance and follow the teacher’s instructions",
-      "Reach over the heat source",
       "Touch the hot container",
-      "Run past the equipment"
+      "Run past the equipment",
+      "Reach over the heat source"
     ],
     "correct": 0,
     "explanation": "Following controlled procedures reduces burn and collision risks.\nHint: Respect the hazard zone.",
@@ -484,7 +484,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i02-t-016",
     "curriculumCode": "AC9S3I02",
     "bank": "test",
-    "skill": "planning fair and safe investigations",
+    "skill": "planning and conducting fair comparisons",
     "printable": true,
     "type": "single",
     "question": "A result is unusual but the method was followed. What should students do?",
@@ -496,12 +496,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Erase it",
       "Change it to match the others",
+      "Record it and consider another repeat",
       "Ignore it completely",
-      "Record it and consider another repeat"
+      "Erase it"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Unusual results are still evidence and may be worth checking with further trials.\nHint: Keep the data.",
     "structuredExplanation": {
       "summary": "Unusual results are still evidence and may be worth checking with further trials.",

@@ -1,0 +1,76 @@
+{
+  "baseline": "7bab65c7da284752b9c5f0c236f41897b3954721",
+  "checks": [
+    {
+      "code": "AC9S3H01",
+      "bank": "practice",
+      "count": 48,
+      "visuals": 0,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3H01",
+      "bank": "test",
+      "count": 16,
+      "visuals": 0,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3H02",
+      "bank": "practice",
+      "count": 48,
+      "visuals": 0,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3H02",
+      "bank": "test",
+      "count": 16,
+      "visuals": 0,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3I01",
+      "bank": "practice",
+      "count": 48,
+      "visuals": 0,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3I01",
+      "bank": "test",
+      "count": 16,
+      "visuals": 0,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3I02",
+      "bank": "practice",
+      "count": 48,
+      "visuals": 0,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3I02",
+      "bank": "test",
+      "count": 16,
+      "visuals": 0,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3I03",
+      "bank": "practice",
+      "count": 48,
+      "visuals": 9,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3I03",
+      "bank": "test",
+      "count": 16,
+      "visuals": 4,
+      "status": "PASS"
+    }
+  ],
+  "status": "PASS"
+}

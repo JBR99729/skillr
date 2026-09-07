@@ -4,7 +4,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-001",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Wet sand holds a castle shape better than dry sand. Which question best follows?",
@@ -16,12 +16,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Why is the beach fun?",
-      "Are buckets useful?",
-      "Does water amount affect how well sand holds shape?",
-      "Which castle is prettiest?"
+      "Is the beach more enjoyable than the park?",
+      "Which sandcastle looks most attractive?",
+      "Which bucket colour is best?",
+      "Does water amount affect how well sand holds shape?"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "It tests the observed relationship.\nHint: Make it measurable.",
     "structuredExplanation": {
       "summary": "It tests the observed relationship.",
@@ -36,7 +36,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-002",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "Grass was wet after four dewy mornings. Which prediction is careful?",
@@ -48,10 +48,10 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Exactly four patches will be wet.",
+      "The grass cannot be wet again after four observations.",
       "It may be wet after another dewy morning.",
-      "It must be wet forever.",
-      "Dew makes all grass identical."
+      "The next morning must have exactly the same water amount.",
+      "Every patch of grass must be wet every day."
     ],
     "correct": 1,
     "explanation": "The pattern supports “may”, not certainty.\nHint: Avoid must.",
@@ -68,11 +68,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-003",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions from observed relationships",
     "printable": true,
     "type": "single",
-    "question": "Which question is most measurable?",
-    "audioPrompt": "Which question is most measurable?",
+    "question": "Two soil samples let water through at different speeds. Which question could a class answer by measuring?",
+    "audioPrompt": "Two soil samples let water through at different speeds. Which question could a class answer by measuring?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -80,16 +80,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Does string length affect pendulum swing time?",
-      "Which pendulum looks best?",
-      "Is swinging exciting?",
-      "Why is string useful?"
+      "Does soil type affect how long water takes to drain?",
+      "Which soil colour is most attractive?",
+      "Which container does the class like best?",
+      "Is pouring water more fun than digging soil?"
     ],
     "correct": 0,
-    "explanation": "Both variables can be measured.\nHint: Choose measurable factors.",
+    "explanation": "Soil type can be compared and drainage time can be measured.\nHint: Choose a question with an outcome you can measure.",
     "structuredExplanation": {
-      "summary": "Both variables can be measured.",
-      "hint": "Choose measurable factors."
+      "summary": "Soil type can be compared and drainage time can be measured.",
+      "hint": "Choose a question with an outcome you can measure."
     },
     "difficulty": 3,
     "difficultyTier": "independent",
@@ -100,7 +100,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-004",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "More-layer paper towels absorbed more water in three trials. Which prediction follows?",
@@ -112,9 +112,9 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "More layers always absorb every drop.",
-      "The thickest is best for every job.",
-      "Paper towels choose water.",
+      "The thinnest towel must absorb most because the thicker ones did before.",
+      "The next towel must absorb exactly the same volume regardless of size.",
+      "More layers must absorb all the water in every test.",
       "A towel with more layers may absorb more in another similar test."
     ],
     "correct": 3,
@@ -132,7 +132,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-005",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Why is “Which bridge is best?” weak?",
@@ -144,15 +144,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Questions cannot use which.",
-      "Bridge is too technical.",
       "“Best” does not name a measurable property.",
-      "Bridges cannot be tested."
+      "Any question beginning with which is untestable.",
+      "Bridge material cannot be compared fairly.",
+      "The question already gives an exact load measurement."
     ],
-    "correct": 2,
-    "explanation": "A criterion such as load held must be defined.\nHint: Best at what?",
+    "correct": 0,
+    "explanation": "A need such as load held must be defined.\nHint: Best at what?",
     "structuredExplanation": {
-      "summary": "A criterion such as load held must be defined.",
+      "summary": "A need such as load held must be defined.",
       "hint": "Best at what?"
     },
     "difficulty": 3,
@@ -164,7 +164,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-006",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "A magnet attracted steel clips before. What supports predicting it will attract another steel clip?",
@@ -176,10 +176,10 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Writing the prediction first",
+      "The clip being shiny",
       "Relevant previous observations",
       "Liking magnets",
-      "The clip being shiny"
+      "Writing the prediction first"
     ],
     "correct": 1,
     "explanation": "Past relevant evidence supports the expectation.\nHint: Use evidence.",
@@ -196,7 +196,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-007",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "One shaded plant grew slowly. Which claim is too strong?",
@@ -208,15 +208,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Plants in shade always grow slowly.",
       "This plant grew slowly in shade.",
       "We could test more plants.",
+      "Plants in shade always grow slowly.",
       "This suggests a light-growth question."
     ],
-    "correct": 0,
-    "explanation": "One observation cannot justify a universal claim.\nHint: One result ≠ always.",
+    "correct": 2,
+    "explanation": "One observation cannot justify a general claim.\nHint: One result ≠ always.",
     "structuredExplanation": {
-      "summary": "One observation cannot justify a universal claim.",
+      "summary": "One observation cannot justify a general claim.",
       "hint": "One result ≠ always."
     },
     "difficulty": 3,
@@ -228,7 +228,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-008",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "Which statement reports a measured result rather than a prediction?",
@@ -240,12 +240,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
+      "Water cooled from 50°C to 38°C.",
       "Water may cool faster outside.",
       "Metal may cool it faster.",
-      "The next test should differ.",
-      "Water cooled from 50°C to 38°C."
+      "The next test should differ."
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "The temperature change reports measured evidence.\nHint: Choose what has already been measured.",
     "structuredExplanation": {
       "summary": "The temperature change reports measured evidence.",
@@ -260,7 +260,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-009",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Snails are often found in damp spots. Which question is strongest?",
@@ -272,10 +272,10 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Why is mud messy?",
-      "Are gardens fun?",
+      "Is looking for snails more fun than looking for beetles?",
+      "Which garden is the class favourite?",
       "Does soil moisture affect where snails are found?",
-      "Which snail is cutest?"
+      "Which snail shell is most attractive?"
     ],
     "correct": 2,
     "explanation": "It tests the observed moisture-location relationship.\nHint: Turn pattern into question.",
@@ -292,7 +292,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-010",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "A ball bounced higher on tile than carpet in several trials. Which prediction fits?",
@@ -304,10 +304,10 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The next bounce must be identical.",
+      "The next bounce must have exactly the same height.",
       "It may bounce higher on tile again.",
-      "Tile always makes every object bounce highest.",
-      "Carpet stops all motion."
+      "The observed pattern proves tile is best for every ball.",
+      "The ball must bounce higher on carpet despite the earlier pattern."
     ],
     "correct": 1,
     "explanation": "The prediction uses the pattern cautiously.\nHint: Use may.",
@@ -324,7 +324,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-011",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Four rocks are being compared. Which question asks for an opinion rather than measurable evidence?",
@@ -336,12 +336,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
+      "Which is longest?",
       "Which rock is nicest?",
       "Which rock has greatest mass?",
-      "Which is longest?",
       "Which absorbs most water?"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "“Nicest” is personal preference.\nHint: Can it be measured objectively?",
     "structuredExplanation": {
       "summary": "“Nicest” is personal preference.",
@@ -356,7 +356,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-012",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "A prediction is not supported. What should happen?",
@@ -368,12 +368,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Erase the result.",
       "Change the prediction after seeing data and pretend it was original.",
-      "Stop doing science.",
-      "Keep the evidence and revise the idea if needed."
+      "Erase the result.",
+      "Keep the evidence and revise the idea if needed.",
+      "Stop doing science."
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Unexpected evidence helps improve thinking.\nHint: Evidence first.",
     "structuredExplanation": {
       "summary": "Unexpected evidence helps improve thinking.",
@@ -388,7 +388,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-013",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Three darker surfaces warmed more than lighter ones. Which new question is useful?",
@@ -400,12 +400,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Why is light pretty?",
-      "Who likes black?",
-      "Does surface colour affect temperature increase in sunlight?",
-      "Which colour is most fashionable?"
+      "Which dark colour is most attractive?",
+      "Which surface would make the nicest display?",
+      "Which colour does the class prefer to paint?",
+      "Does surface colour affect temperature increase in sunlight?"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "It tests the observed colour-temperature relationship.\nHint: Ask about the pattern.",
     "structuredExplanation": {
       "summary": "It tests the observed colour-temperature relationship.",
@@ -420,7 +420,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-014",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Which statement is most cautious?",
@@ -432,12 +432,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The result can never change.",
       "Our results suggest the rough surface may slow the car.",
-      "The rough surface always stops every car.",
-      "Roughness is the only factor that matters."
+      "Roughness is the only factor that matters.",
+      "The result can never change.",
+      "The rough surface always stops every car."
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "“Suggest” and “may” match limited evidence.\nHint: Match certainty to evidence.",
     "structuredExplanation": {
       "summary": "“Suggest” and “may” match limited evidence.",
@@ -452,7 +452,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-015",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "What makes a relationship question useful?",
@@ -464,12 +464,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It links factors that can be observed or measured.",
-      "It guarantees a cause.",
       "It must have one-word answers.",
+      "It guarantees a cause.",
+      "It links factors that can be observed or measured.",
       "It should ask for a favourite."
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Measurable relationships can be investigated scientifically.\nHint: Observable factors.",
     "structuredExplanation": {
       "summary": "Measurable relationships can be investigated scientifically.",
@@ -484,7 +484,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i01-t-016",
     "curriculumCode": "AC9S3I01",
     "bank": "test",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Which sequence is best?",
@@ -497,8 +497,8 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Predict → change data → conclude",
-      "Vote → guess → stop",
       "Choose answer → ignore results",
+      "Vote → guess → stop",
       "Observe → question → predict → test → compare evidence"
     ],
     "correct": 3,

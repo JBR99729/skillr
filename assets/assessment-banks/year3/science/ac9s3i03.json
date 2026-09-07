@@ -6,7 +6,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Which tool is best for measuring the length of a leaf?",
     "audio_prompt": "Which tool is best for measuring the length of a leaf?",
     "audioPrompt": "Which tool is best for measuring the length of a leaf?",
@@ -16,10 +16,6 @@
     },
     "visualHtml": "",
     "answers": [
-      {
-        "text": "A ruler",
-        "is_correct": true
-      },
       {
         "text": "A thermometer",
         "is_correct": false
@@ -31,16 +27,20 @@
       {
         "text": "A measuring cup",
         "is_correct": false
+      },
+      {
+        "text": "A ruler",
+        "is_correct": true
       }
     ],
     "answer_texts": [
-      "A ruler",
       "A thermometer",
       "A stopwatch",
-      "A measuring cup"
+      "A measuring cup",
+      "A ruler"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "A ruler measures length.",
       "hint": "Match the tool to the quantity."
@@ -67,7 +67,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Which unit is suitable for the length of a pencil?",
     "audio_prompt": "Which unit is suitable for the length of a pencil?",
     "audioPrompt": "Which unit is suitable for the length of a pencil?",
@@ -78,30 +78,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "litres",
-        "is_correct": false
+        "text": "centimetres",
+        "is_correct": true
       },
       {
         "text": "degrees Celsius",
         "is_correct": false
       },
       {
-        "text": "seconds",
+        "text": "litres",
         "is_correct": false
       },
       {
-        "text": "centimetres",
-        "is_correct": true
+        "text": "seconds",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "litres",
+      "centimetres",
       "degrees Celsius",
-      "seconds",
-      "centimetres"
+      "litres",
+      "seconds"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "Centimetres are suitable for small lengths.",
       "hint": "Choose a length unit."
@@ -128,7 +128,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Which tool measures temperature?",
     "audio_prompt": "Which tool measures temperature?",
     "audioPrompt": "Which tool measures temperature?",
@@ -139,6 +139,10 @@
     "visualHtml": "",
     "answers": [
       {
+        "text": "Thermometer",
+        "is_correct": true
+      },
+      {
         "text": "Balance",
         "is_correct": false
       },
@@ -147,22 +151,18 @@
         "is_correct": false
       },
       {
-        "text": "Thermometer",
-        "is_correct": true
-      },
-      {
         "text": "Ruler",
         "is_correct": false
       }
     ],
     "answer_texts": [
+      "Thermometer",
       "Balance",
       "Stopwatch",
-      "Thermometer",
       "Ruler"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "A thermometer measures temperature.",
       "hint": "Think temperature."
@@ -189,7 +189,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Which record is complete?",
     "audio_prompt": "Which record is complete?",
     "audioPrompt": "Which record is complete?",
@@ -200,30 +200,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The cup was blue",
+        "text": "The water temperature was 24 mL",
         "is_correct": false
-      },
-      {
-        "text": "The water temperature was 24°C",
-        "is_correct": true
       },
       {
         "text": "The water temperature was 24",
         "is_correct": false
       },
       {
-        "text": "The water was nice",
+        "text": "The water temperature was 24 cm",
         "is_correct": false
+      },
+      {
+        "text": "The water temperature was 24°C",
+        "is_correct": true
       }
     ],
     "answer_texts": [
-      "The cup was blue",
-      "The water temperature was 24°C",
+      "The water temperature was 24 mL",
       "The water temperature was 24",
-      "The water was nice"
+      "The water temperature was 24 cm",
+      "The water temperature was 24°C"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "A useful measurement includes a number and unit.",
       "hint": "Number + unit."
@@ -250,7 +250,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Which tool is best for timing how long a toy car takes to travel down a ramp?",
     "audio_prompt": "Which tool is best for timing how long a toy car takes to travel down a ramp?",
     "audioPrompt": "Which tool is best for timing how long a toy car takes to travel down a ramp?",
@@ -261,30 +261,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Stopwatch",
-        "is_correct": true
+        "text": "Thermometer",
+        "is_correct": false
       },
       {
         "text": "Ruler",
         "is_correct": false
       },
       {
-        "text": "Thermometer",
+        "text": "Measuring cylinder",
         "is_correct": false
       },
       {
-        "text": "Measuring cylinder",
-        "is_correct": false
+        "text": "Stopwatch",
+        "is_correct": true
       }
     ],
     "answer_texts": [
-      "Stopwatch",
-      "Ruler",
       "Thermometer",
-      "Measuring cylinder"
+      "Ruler",
+      "Measuring cylinder",
+      "Stopwatch"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "A stopwatch measures elapsed time.",
       "hint": "Match the tool to time."
@@ -311,7 +311,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Which measurement is about volume?",
     "audio_prompt": "Which measurement is about volume?",
     "audioPrompt": "Which measurement is about volume?",
@@ -326,11 +326,11 @@
         "is_correct": false
       },
       {
-        "text": "20 s",
+        "text": "28°C",
         "is_correct": false
       },
       {
-        "text": "28°C",
+        "text": "20 s",
         "is_correct": false
       },
       {
@@ -340,8 +340,8 @@
     ],
     "answer_texts": [
       "15 cm",
-      "20 s",
       "28°C",
+      "20 s",
       "150 mL"
     ],
     "correct_index": 3,
@@ -372,7 +372,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "A digital scale shows 82 g. What is being measured?",
     "audio_prompt": "A digital scale shows 82 g. What is being measured?",
     "audioPrompt": "A digital scale shows 82 g. What is being measured?",
@@ -383,11 +383,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Temperature",
+        "text": "Time",
         "is_correct": false
       },
       {
-        "text": "Time",
+        "text": "Length",
         "is_correct": false
       },
       {
@@ -395,15 +395,15 @@
         "is_correct": true
       },
       {
-        "text": "Length",
+        "text": "Temperature",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Temperature",
       "Time",
+      "Length",
       "Mass",
-      "Length"
+      "Temperature"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -433,7 +433,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Which observation uses a sense safely?",
     "audio_prompt": "Which observation uses a sense safely?",
     "audioPrompt": "Which observation uses a sense safely?",
@@ -444,30 +444,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Smell an unknown chemical closely",
-        "is_correct": false
-      },
-      {
         "text": "The flower has a sweet smell from a safe distance",
         "is_correct": true
+      },
+      {
+        "text": "Touch a hot plate",
+        "is_correct": false
       },
       {
         "text": "Taste the unknown berry",
         "is_correct": false
       },
       {
-        "text": "Touch a hot plate",
+        "text": "Smell an unknown chemical closely",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Smell an unknown chemical closely",
       "The flower has a sweet smell from a safe distance",
+      "Touch a hot plate",
       "Taste the unknown berry",
-      "Touch a hot plate"
+      "Smell an unknown chemical closely"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "Safe observation uses appropriate senses without unnecessary risk.",
       "hint": "Do not taste or closely smell unknown substances."
@@ -494,7 +494,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Which record belongs in a results table?",
     "audio_prompt": "Which record belongs in a results table?",
     "audioPrompt": "Which record belongs in a results table?",
@@ -509,23 +509,23 @@
         "is_correct": true
       },
       {
-        "text": "It went far",
+        "text": "Trial 1: expected 36 cm, without measuring",
         "is_correct": false
       },
       {
-        "text": "I liked trial 1",
+        "text": "Trial 1: 36",
         "is_correct": false
       },
       {
-        "text": "The car is cool",
+        "text": "Trial 1: about that far",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Trial 1: 36 cm",
-      "It went far",
-      "I liked trial 1",
-      "The car is cool"
+      "Trial 1: expected 36 cm, without measuring",
+      "Trial 1: 36",
+      "Trial 1: about that far"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -555,7 +555,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "A hand lens is most useful for:",
     "audio_prompt": "A hand lens is most useful for:",
     "audioPrompt": "A hand lens is most useful for:",
@@ -566,30 +566,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "measuring time",
+        "text": "measuring temperature",
         "is_correct": false
       },
       {
-        "text": "measuring temperature",
-        "is_correct": false
+        "text": "seeing small surface details",
+        "is_correct": true
       },
       {
         "text": "measuring mass",
         "is_correct": false
       },
       {
-        "text": "seeing small surface details",
-        "is_correct": true
+        "text": "measuring time",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "measuring time",
       "measuring temperature",
+      "seeing small surface details",
       "measuring mass",
-      "seeing small surface details"
+      "measuring time"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "A hand lens magnifies visible details.",
       "hint": "Think close-up observation."
@@ -616,7 +616,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Why should a ruler start at zero when measuring?",
     "audio_prompt": "Why should a ruler start at zero when measuring?",
     "audioPrompt": "Why should a ruler start at zero when measuring?",
@@ -627,11 +627,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Any mark gives the same answer",
+        "text": "The ruler must begin at one because zero has no length.",
         "is_correct": false
       },
       {
-        "text": "It is only for neatness",
+        "text": "Starting at the ruler edge is always correct even when zero is inset.",
         "is_correct": false
       },
       {
@@ -639,15 +639,15 @@
         "is_correct": true
       },
       {
-        "text": "Zero makes objects longer",
+        "text": "The end mark alone gives length even if the object starts at another mark.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Any mark gives the same answer",
-      "It is only for neatness",
+      "The ruler must begin at one because zero has no length.",
+      "Starting at the ruler edge is always correct even when zero is inset.",
       "Starting at zero gives the correct distance from the beginning of the object",
-      "Zero makes objects longer"
+      "The end mark alone gives length even if the object starts at another mark."
     ],
     "correct_index": 2,
     "correct": 2,
@@ -677,7 +677,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Why include units with measurements?",
     "audio_prompt": "Why include units with measurements?",
     "audioPrompt": "Why include units with measurements?",
@@ -687,6 +687,10 @@
     },
     "visualHtml": "",
     "answers": [
+      {
+        "text": "Units are optional decoration",
+        "is_correct": false
+      },
       {
         "text": "Every measurement uses the same unit",
         "is_correct": false
@@ -698,20 +702,16 @@
       {
         "text": "Units make the number larger",
         "is_correct": false
-      },
-      {
-        "text": "Units are optional decoration",
-        "is_correct": false
       }
     ],
     "answer_texts": [
+      "Units are optional decoration",
       "Every measurement uses the same unit",
       "Units tell what the number means and allow clear comparison",
-      "Units make the number larger",
-      "Units are optional decoration"
+      "Units make the number larger"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "A number alone can be ambiguous.",
       "hint": "What does 25 mean: cm, s, mL, °C?"
@@ -738,7 +738,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Why should eye level be used when reading liquid volume?",
     "audio_prompt": "Why should eye level be used when reading liquid volume?",
     "audioPrompt": "Why should eye level be used when reading liquid volume?",
@@ -749,30 +749,30 @@
     "visualHtml": "",
     "answers": [
       {
+        "text": "It changes the amount of liquid in the container.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need to check the unit.",
+        "is_correct": false
+      },
+      {
         "text": "It reduces reading error from viewing the scale at an angle",
         "is_correct": true
       },
       {
-        "text": "It makes the liquid deeper",
-        "is_correct": false
-      },
-      {
-        "text": "It changes the volume",
-        "is_correct": false
-      },
-      {
-        "text": "It keeps the cup warmer",
+        "text": "It makes every marked container have the same scale.",
         "is_correct": false
       }
     ],
     "answer_texts": [
+      "It changes the amount of liquid in the container.",
+      "It removes the need to check the unit.",
       "It reduces reading error from viewing the scale at an angle",
-      "It makes the liquid deeper",
-      "It changes the volume",
-      "It keeps the cup warmer"
+      "It makes every marked container have the same scale."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "Looking level with the scale gives a more accurate reading.",
       "hint": "Avoid angle error."
@@ -799,7 +799,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Why repeat a measurement?",
     "audio_prompt": "Why repeat a measurement?",
     "audioPrompt": "Why repeat a measurement?",
@@ -810,7 +810,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "To guarantee the prediction",
+        "text": "To check whether the readings are consistent",
+        "is_correct": true
+      },
+      {
+        "text": "Because the first reading never counts",
         "is_correct": false
       },
       {
@@ -818,22 +822,18 @@
         "is_correct": false
       },
       {
-        "text": "Because the first reading never counts",
+        "text": "To guarantee the prediction",
         "is_correct": false
-      },
-      {
-        "text": "To check whether the readings are consistent",
-        "is_correct": true
       }
     ],
     "answer_texts": [
-      "To guarantee the prediction",
-      "To change the result",
+      "To check whether the readings are consistent",
       "Because the first reading never counts",
-      "To check whether the readings are consistent"
+      "To change the result",
+      "To guarantee the prediction"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "Repeating can reveal variation or mistakes.",
       "hint": "Check consistency."
@@ -860,7 +860,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Why record observations immediately?",
     "audio_prompt": "Why record observations immediately?",
     "audioPrompt": "Why record observations immediately?",
@@ -871,11 +871,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Later guesses are more scientific",
+        "text": "All measurements can be recovered from memory without labels.",
         "is_correct": false
       },
       {
-        "text": "Recording changes the result",
+        "text": "Later estimates are more accurate than immediate readings.",
         "is_correct": false
       },
       {
@@ -883,15 +883,15 @@
         "is_correct": true
       },
       {
-        "text": "Memory always improves later",
+        "text": "Recording only the expected result avoids mix-ups.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Later guesses are more scientific",
-      "Recording changes the result",
+      "All measurements can be recovered from memory without labels.",
+      "Later estimates are more accurate than immediate readings.",
       "Details and measurements are less likely to be forgotten or mixed up",
-      "Memory always improves later"
+      "Recording only the expected result avoids mix-ups."
     ],
     "correct_index": 2,
     "correct": 2,
@@ -921,7 +921,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Why use the same type of tool for repeated measurements in one investigation?",
     "audio_prompt": "Why use the same type of tool for repeated measurements in one investigation?",
     "audioPrompt": "Why use the same type of tool for repeated measurements in one investigation?",
@@ -932,30 +932,30 @@
     "visualHtml": "",
     "answers": [
       {
+        "text": "It makes units unnecessary",
+        "is_correct": false
+      },
+      {
         "text": "It guarantees identical numbers",
         "is_correct": false
       },
       {
-        "text": "Using the same method improves comparability",
+        "text": "Using the same method improves fair comparison",
         "is_correct": true
       },
       {
         "text": "Different tools always give the same result",
         "is_correct": false
-      },
-      {
-        "text": "It makes units unnecessary",
-        "is_correct": false
       }
     ],
     "answer_texts": [
+      "It makes units unnecessary",
       "It guarantees identical numbers",
-      "Using the same method improves comparability",
-      "Different tools always give the same result",
-      "It makes units unnecessary"
+      "Using the same method improves fair comparison",
+      "Different tools always give the same result"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "Consistent tools reduce method differences between readings.",
       "hint": "Keep the measurement method consistent."
@@ -982,7 +982,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Why is “the plant grew a lot” weaker than “the plant grew 4 cm”?",
     "audio_prompt": "Why is “the plant grew a lot” weaker than “the plant grew 4 cm”?",
     "audioPrompt": "Why is “the plant grew a lot” weaker than “the plant grew 4 cm”?",
@@ -993,30 +993,30 @@
     "visualHtml": "",
     "answers": [
       {
+        "text": "The phrase a lot gives the exact same information.",
+        "is_correct": false
+      },
+      {
+        "text": "Words cannot record any scientific observations.",
+        "is_correct": false
+      },
+      {
         "text": "The second statement gives a measurable amount",
         "is_correct": true
       },
       {
-        "text": "Words can never be scientific",
-        "is_correct": false
-      },
-      {
-        "text": "4 cm proves why it grew",
-        "is_correct": false
-      },
-      {
-        "text": "The first statement has no noun",
+        "text": "A measured increase proves what caused the growth.",
         "is_correct": false
       }
     ],
     "answer_texts": [
+      "The phrase a lot gives the exact same information.",
+      "Words cannot record any scientific observations.",
       "The second statement gives a measurable amount",
-      "Words can never be scientific",
-      "4 cm proves why it grew",
-      "The first statement has no noun"
+      "A measured increase proves what caused the growth."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "A measured change is more precise and easier to compare.",
       "hint": "Precise evidence is stronger."
@@ -1043,7 +1043,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Why might a digital timer be useful?",
     "audio_prompt": "Why might a digital timer be useful?",
     "audioPrompt": "Why might a digital timer be useful?",
@@ -1054,30 +1054,30 @@
     "visualHtml": "",
     "answers": [
       {
+        "text": "It removes the need to observe",
+        "is_correct": false
+      },
+      {
+        "text": "It can record elapsed time clearly and consistently",
+        "is_correct": true
+      },
+      {
         "text": "Digital tools always make results correct",
         "is_correct": false
       },
       {
         "text": "It measures temperature too",
         "is_correct": false
-      },
-      {
-        "text": "It removes the need to observe",
-        "is_correct": false
-      },
-      {
-        "text": "It can record elapsed time precisely and consistently",
-        "is_correct": true
       }
     ],
     "answer_texts": [
-      "Digital tools always make results correct",
-      "It measures temperature too",
       "It removes the need to observe",
-      "It can record elapsed time precisely and consistently"
+      "It can record elapsed time clearly and consistently",
+      "Digital tools always make results correct",
+      "It measures temperature too"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "Digital tools can support precise measurements when used correctly.",
       "hint": "Think about what the tool measures well."
@@ -1104,7 +1104,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Why should a thermometer be given time to settle before reading?",
     "audio_prompt": "Why should a thermometer be given time to settle before reading?",
     "audioPrompt": "Why should a thermometer be given time to settle before reading?",
@@ -1115,30 +1115,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Waiting always raises temperature",
-        "is_correct": false
-      },
-      {
-        "text": "The unit changes over time",
-        "is_correct": false
-      },
-      {
         "text": "The reading may change until it reflects the object or liquid temperature",
         "is_correct": true
       },
       {
-        "text": "Thermometers need to rest for comfort",
+        "text": "The first moving reading is always the most reliable.",
+        "is_correct": false
+      },
+      {
+        "text": "Waiting makes the thermometer create heat.",
+        "is_correct": false
+      },
+      {
+        "text": "The thermometer changes its measurement unit while settling.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Waiting always raises temperature",
-      "The unit changes over time",
       "The reading may change until it reflects the object or liquid temperature",
-      "Thermometers need to rest for comfort"
+      "The first moving reading is always the most reliable.",
+      "Waiting makes the thermometer create heat.",
+      "The thermometer changes its measurement unit while settling."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "A stable reading is more reliable than reading too quickly.",
       "hint": "Wait for the value to stop changing."
@@ -1165,7 +1165,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Why should observations be factual rather than based on preference?",
     "audio_prompt": "Why should observations be factual rather than based on preference?",
     "audioPrompt": "Why should observations be factual rather than based on preference?",
@@ -1176,7 +1176,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Facts must be numbers only",
+        "text": "Science cannot include words",
+        "is_correct": false
+      },
+      {
+        "text": "Preferences are always wrong",
         "is_correct": false
       },
       {
@@ -1184,22 +1188,18 @@
         "is_correct": true
       },
       {
-        "text": "Preferences are always wrong",
-        "is_correct": false
-      },
-      {
-        "text": "Science cannot include words",
+        "text": "Facts must be numbers only",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Facts must be numbers only",
-      "Other people should be able to check what was observed",
+      "Science cannot include words",
       "Preferences are always wrong",
-      "Science cannot include words"
+      "Other people should be able to check what was observed",
+      "Facts must be numbers only"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "Scientific records aim to be shareable and checkable.",
       "hint": "Record what was observed, not what was liked."
@@ -1226,10 +1226,10 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
-    "question": "Which measurement is written correctly?",
-    "audio_prompt": "Which measurement is written correctly?",
-    "audioPrompt": "Which measurement is written correctly?",
+    "skill": "using measurement tools and procedures",
+    "question": "A leaf is measured using a centimetre ruler. Which record uses the appropriate unit for its length?",
+    "audio_prompt": "A leaf is measured using a centimetre ruler. Which record uses the appropriate unit for its length?",
+    "audioPrompt": "A leaf is measured using a centimetre ruler. Which record uses the appropriate unit for its length?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1241,23 +1241,23 @@
         "is_correct": true
       },
       {
-        "text": "18 long",
+        "text": "18 s",
         "is_correct": false
       },
       {
-        "text": "18 temperature",
+        "text": "18 mL",
         "is_correct": false
       },
       {
-        "text": "18 nice",
+        "text": "18°C",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "18 cm",
-      "18 long",
-      "18 temperature",
-      "18 nice"
+      "18 s",
+      "18 mL",
+      "18°C"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -1287,7 +1287,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Which tool would NOT help measure water temperature?",
     "audio_prompt": "Which tool would NOT help measure water temperature?",
     "audioPrompt": "Which tool would NOT help measure water temperature?",
@@ -1348,48 +1348,50 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
-    "question": "Which reading is most precise for a ruler marked in centimetres?",
-    "audio_prompt": "Which reading is most precise for a ruler marked in centimetres?",
-    "audioPrompt": "Which reading is most precise for a ruler marked in centimetres?",
+    "skill": "reading a ruler",
+    "question": "Read the centimetre ruler. Which measurement matches the leaf?",
+    "audio_prompt": "Read the centimetre ruler. Which measurement matches the leaf?",
+    "audioPrompt": "Read the centimetre ruler. Which measurement matches the leaf?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "p023",
+      "alt_text": "A centimetre ruler has a leaf starting at zero and ending at the mark labelled ten."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A centimetre ruler has a leaf starting at zero and ending at the mark labelled ten.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#p023\"/></svg>",
     "answers": [
       {
-        "text": "long",
+        "text": "5 cm",
         "is_correct": false
       },
       {
-        "text": "one handspan",
-        "is_correct": false
-      },
-      {
-        "text": "12 cm",
+        "text": "10 cm",
         "is_correct": true
       },
       {
-        "text": "about 10 to 15 cm",
+        "text": "11 cm",
+        "is_correct": false
+      },
+      {
+        "text": "9 cm",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "long",
-      "one handspan",
-      "12 cm",
-      "about 10 to 15 cm"
+      "5 cm",
+      "10 cm",
+      "11 cm",
+      "9 cm"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A scale reading is more precise than a vague estimate.",
-      "hint": "Use the instrument scale."
+      "summary": "The leaf begins at zero and its tip reaches 10 cm.",
+      "hint": "Read the mark under the tip."
     },
     "structuredExplanation": {
-      "summary": "A scale reading is more precise than a vague estimate.",
-      "hint": "Use the instrument scale."
+      "summary": "The leaf begins at zero and its tip reaches 10 cm.",
+      "hint": "Read the mark under the tip."
     },
     "stage": "discriminate",
     "difficulty": 2,
@@ -1409,7 +1411,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Which observation is unsafe?",
     "audio_prompt": "Which observation is unsafe?",
     "audioPrompt": "Which observation is unsafe?",
@@ -1428,19 +1430,19 @@
         "is_correct": true
       },
       {
-        "text": "Looking at its colour",
+        "text": "Using a hand lens from a safe distance",
         "is_correct": false
       },
       {
-        "text": "Using a hand lens from a safe distance",
+        "text": "Looking at its colour",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Recording its texture visually",
       "Tasting an unknown powder",
-      "Looking at its colour",
-      "Using a hand lens from a safe distance"
+      "Using a hand lens from a safe distance",
+      "Looking at its colour"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -1470,7 +1472,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Which result is easier to compare?",
     "audio_prompt": "Which result is easier to compare?",
     "audioPrompt": "Which result is easier to compare?",
@@ -1481,30 +1483,30 @@
     "visualHtml": "",
     "answers": [
       {
+        "text": "Trial A: 28; Trial B: 34",
+        "is_correct": false
+      },
+      {
+        "text": "Trial A: quick; Trial B: quite slow",
+        "is_correct": false
+      },
+      {
         "text": "Trial A: 28 s; Trial B: 34 s",
         "is_correct": true
       },
       {
-        "text": "A was quick; B was slower",
-        "is_correct": false
-      },
-      {
-        "text": "A looked better",
-        "is_correct": false
-      },
-      {
-        "text": "B felt successful",
+        "text": "Trial A: expected 28 s; Trial B: expected 34 s, with no measurements",
         "is_correct": false
       }
     ],
     "answer_texts": [
+      "Trial A: 28; Trial B: 34",
+      "Trial A: quick; Trial B: quite slow",
       "Trial A: 28 s; Trial B: 34 s",
-      "A was quick; B was slower",
-      "A looked better",
-      "B felt successful"
+      "Trial A: expected 28 s; Trial B: expected 34 s, with no measurements"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "Measured times provide a clear comparison.",
       "hint": "Use the same quantity and units."
@@ -1531,7 +1533,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Which ruler reading is likely wrong?",
     "audio_prompt": "Which ruler reading is likely wrong?",
     "audioPrompt": "Which ruler reading is likely wrong?",
@@ -1546,11 +1548,11 @@
         "is_correct": false
       },
       {
-        "text": "The object begins at 0 and ends at 8 cm",
+        "text": "The student checks the scale at eye level",
         "is_correct": false
       },
       {
-        "text": "The student checks the scale at eye level",
+        "text": "The object begins at 0 and ends at 8 cm",
         "is_correct": false
       },
       {
@@ -1560,8 +1562,8 @@
     ],
     "answer_texts": [
       "The student subtracts 3 from 11 and records 8 cm",
-      "The object begins at 0 and ends at 8 cm",
       "The student checks the scale at eye level",
+      "The object begins at 0 and ends at 8 cm",
       "The object begins at 3 cm and ends at 11 cm, but the student records 11 cm"
     ],
     "correct_index": 3,
@@ -1592,7 +1594,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Which record mixes observation with opinion?",
     "audio_prompt": "Which record mixes observation with opinion?",
     "audioPrompt": "Which record mixes observation with opinion?",
@@ -1603,10 +1605,6 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The rock is 6 cm long",
-        "is_correct": false
-      },
-      {
         "text": "The rock has black spots",
         "is_correct": false
       },
@@ -1615,18 +1613,22 @@
         "is_correct": true
       },
       {
+        "text": "The rock is 6 cm long",
+        "is_correct": false
+      },
+      {
         "text": "The rock is shiny",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The rock is 6 cm long",
       "The rock has black spots",
       "The rock is the nicest because it is shiny",
+      "The rock is 6 cm long",
       "The rock is shiny"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "“Nicest” is a preference, not an objective observation.",
       "hint": "Spot the judgement word."
@@ -1653,7 +1655,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Which unit best matches mass?",
     "audio_prompt": "Which unit best matches mass?",
     "audioPrompt": "Which unit best matches mass?",
@@ -1664,7 +1666,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "degrees Celsius",
+        "text": "seconds",
+        "is_correct": false
+      },
+      {
+        "text": "millilitres",
         "is_correct": false
       },
       {
@@ -1672,22 +1678,18 @@
         "is_correct": true
       },
       {
-        "text": "millilitres",
-        "is_correct": false
-      },
-      {
-        "text": "seconds",
+        "text": "degrees Celsius",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "degrees Celsius",
-      "grams",
+      "seconds",
       "millilitres",
-      "seconds"
+      "grams",
+      "degrees Celsius"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "Grams measure mass.",
       "hint": "Match quantity and unit."
@@ -1714,7 +1716,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Which measurement procedure is strongest?",
     "audio_prompt": "Which measurement procedure is strongest?",
     "audioPrompt": "Which measurement procedure is strongest?",
@@ -1729,23 +1731,23 @@
         "is_correct": true
       },
       {
-        "text": "Use a ruler for one leaf and handspans for another",
-        "is_correct": false
-      },
-      {
         "text": "Guess some lengths",
         "is_correct": false
       },
       {
         "text": "Record only the biggest leaf",
         "is_correct": false
+      },
+      {
+        "text": "Use a ruler for one leaf and handspans for another",
+        "is_correct": false
       }
     ],
     "answer_texts": [
       "Measure each leaf with the same ruler from base to tip",
-      "Use a ruler for one leaf and handspans for another",
       "Guess some lengths",
-      "Record only the biggest leaf"
+      "Record only the biggest leaf",
+      "Use a ruler for one leaf and handspans for another"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -1775,7 +1777,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Which result suggests a measurement should be checked?",
     "audio_prompt": "Which result suggests a measurement should be checked?",
     "audioPrompt": "Which result suggests a measurement should be checked?",
@@ -1786,37 +1788,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Three readings are 24 cm, 25 cm and 24 cm",
+        "text": "Two readings differ by 1 cm",
         "is_correct": false
       },
       {
-        "text": "Two readings differ by 1 cm",
-        "is_correct": false
+        "text": "Three readings are 24 cm, 25 cm and 61 cm",
+        "is_correct": true
       },
       {
         "text": "The same ruler is used each time",
         "is_correct": false
       },
       {
-        "text": "Three readings are 24 cm, 25 cm and 61 cm",
-        "is_correct": true
+        "text": "Three readings are 24 cm, 25 cm and 24 cm",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Three readings are 24 cm, 25 cm and 24 cm",
       "Two readings differ by 1 cm",
+      "Three readings are 24 cm, 25 cm and 61 cm",
       "The same ruler is used each time",
-      "Three readings are 24 cm, 25 cm and 61 cm"
+      "Three readings are 24 cm, 25 cm and 24 cm"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "61 cm is very different from the other readings and may be an unusual value or error worth checking.",
-      "hint": "Look for the outlier."
+      "hint": "Look for the unusual reading."
     },
     "structuredExplanation": {
       "summary": "61 cm is very different from the other readings and may be an unusual value or error worth checking.",
-      "hint": "Look for the outlier."
+      "hint": "Look for the unusual reading."
     },
     "stage": "discriminate",
     "difficulty": 2,
@@ -1836,7 +1838,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "A class wants to measure how fast ice warms after leaving a freezer. What should they record?",
     "audio_prompt": "A class wants to measure how fast ice warms after leaving a freezer. What should they record?",
     "audioPrompt": "A class wants to measure how fast ice warms after leaving a freezer. What should they record?",
@@ -1847,11 +1849,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The favourite ice cube",
+        "text": "Only its starting temperature, with no later readings",
         "is_correct": false
       },
       {
-        "text": "The room name only",
+        "text": "The time without recording any temperature",
         "is_correct": false
       },
       {
@@ -1859,15 +1861,15 @@
         "is_correct": true
       },
       {
-        "text": "Only the ice colour",
+        "text": "Only the final amount of meltwater, with no temperature readings",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The favourite ice cube",
-      "The room name only",
+      "Only its starting temperature, with no later readings",
+      "The time without recording any temperature",
       "Temperature at regular time intervals",
-      "Only the ice colour"
+      "Only the final amount of meltwater, with no temperature readings"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -1897,7 +1899,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "A bean plant is 13 cm tall on Monday and 18 cm on Friday. How much did it grow?",
     "audio_prompt": "A bean plant is 13 cm tall on Monday and 18 cm on Friday. How much did it grow?",
     "audioPrompt": "A bean plant is 13 cm tall on Monday and 18 cm on Friday. How much did it grow?",
@@ -1908,30 +1910,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "13 cm",
-        "is_correct": false
-      },
-      {
         "text": "5 cm",
         "is_correct": true
+      },
+      {
+        "text": "18 cm",
+        "is_correct": false
       },
       {
         "text": "31 cm",
         "is_correct": false
       },
       {
-        "text": "18 cm",
+        "text": "13 cm",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "13 cm",
       "5 cm",
+      "18 cm",
       "31 cm",
-      "18 cm"
+      "13 cm"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "Growth is the difference between final and initial height: 18 − 13 = 5 cm.",
       "hint": "Subtract starting height from final height."
@@ -1958,7 +1960,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "You need 100 mL of water for each trial. Which procedure is best?",
     "audio_prompt": "You need 100 mL of water for each trial. Which procedure is best?",
     "audioPrompt": "You need 100 mL of water for each trial. Which procedure is best?",
@@ -1968,6 +1970,10 @@
     },
     "visualHtml": "",
     "answers": [
+      {
+        "text": "Guess from the bottle weight",
+        "is_correct": false
+      },
       {
         "text": "Measure to the 100 mL mark at eye level each time",
         "is_correct": true
@@ -1979,20 +1985,16 @@
       {
         "text": "Use different cups without markings",
         "is_correct": false
-      },
-      {
-        "text": "Guess from the bottle weight",
-        "is_correct": false
       }
     ],
     "answer_texts": [
+      "Guess from the bottle weight",
       "Measure to the 100 mL mark at eye level each time",
       "Pour until it looks similar",
-      "Use different cups without markings",
-      "Guess from the bottle weight"
+      "Use different cups without markings"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "A marked volume measured consistently supports accurate trials.",
       "hint": "Use the scale."
@@ -2019,10 +2021,10 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
-    "question": "A stopwatch reads 47.2 s. What should be recorded?",
-    "audio_prompt": "A stopwatch reads 47.2 s. What should be recorded?",
-    "audioPrompt": "A stopwatch reads 47.2 s. What should be recorded?",
+    "skill": "recording observations and measurements",
+    "question": "A stopwatch reads 47 s. What should be recorded?",
+    "audio_prompt": "A stopwatch reads 47 s. What should be recorded?",
+    "audioPrompt": "A stopwatch reads 47 s. What should be recorded?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2030,7 +2032,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "47.2",
+        "text": "47",
         "is_correct": false
       },
       {
@@ -2038,22 +2040,22 @@
         "is_correct": false
       },
       {
-        "text": "fast",
-        "is_correct": false
+        "text": "47 s",
+        "is_correct": true
       },
       {
-        "text": "47.2 s",
-        "is_correct": true
+        "text": "fast",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "47.2",
+      "47",
       "about a minute",
-      "fast",
-      "47.2 s"
+      "47 s",
+      "fast"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "The numerical value and unit make the record clear.",
       "hint": "Keep the unit."
@@ -2080,48 +2082,50 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
-    "question": "A digital thermometer gives 21.6°C, 21.7°C and 21.6°C in repeated readings. What can you say?",
-    "audio_prompt": "A digital thermometer gives 21.6°C, 21.7°C and 21.6°C in repeated readings. What can you say?",
-    "audioPrompt": "A digital thermometer gives 21.6°C, 21.7°C and 21.6°C in repeated readings. What can you say?",
+    "skill": "reading a mass scale",
+    "question": "Read the mass scale. What mass should be recorded?",
+    "audio_prompt": "Read the mass scale. What mass should be recorded?",
+    "audioPrompt": "Read the mass scale. What mass should be recorded?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "p035",
+      "alt_text": "A mass scale is numbered in tens of grams. The pointer is on the third interval after zero."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A mass scale is numbered in tens of grams. The pointer is on the third interval after zero.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#p035\"/></svg>",
     "answers": [
       {
-        "text": "Temperature is impossible to measure",
+        "text": "3 g",
         "is_correct": false
       },
       {
-        "text": "Only the largest reading counts",
-        "is_correct": false
-      },
-      {
-        "text": "The readings are very consistent",
+        "text": "30 g",
         "is_correct": true
       },
       {
-        "text": "The tool must be broken",
+        "text": "20 g",
+        "is_correct": false
+      },
+      {
+        "text": "40 g",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Temperature is impossible to measure",
-      "Only the largest reading counts",
-      "The readings are very consistent",
-      "The tool must be broken"
+      "3 g",
+      "30 g",
+      "20 g",
+      "40 g"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Closely grouped repeated readings suggest consistent measurement.",
-      "hint": "Compare the repeated values."
+      "summary": "The pointer is at 30 g on a scale counting in tens.",
+      "hint": "Match the pointer with its scale mark."
     },
     "structuredExplanation": {
-      "summary": "Closely grouped repeated readings suggest consistent measurement.",
-      "hint": "Compare the repeated values."
+      "summary": "The pointer is at 30 g on a scale counting in tens.",
+      "hint": "Match the pointer with its scale mark."
     },
     "stage": "apply",
     "difficulty": 3,
@@ -2141,7 +2145,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "A student measures a pencil from the 2 cm mark to the 16 cm mark. What is its length?",
     "audio_prompt": "A student measures a pencil from the 2 cm mark to the 16 cm mark. What is its length?",
     "audioPrompt": "A student measures a pencil from the 2 cm mark to the 16 cm mark. What is its length?",
@@ -2152,30 +2156,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "2 cm",
-        "is_correct": false
-      },
-      {
-        "text": "14 cm",
-        "is_correct": true
-      },
-      {
         "text": "16 cm",
         "is_correct": false
       },
       {
         "text": "18 cm",
         "is_correct": false
+      },
+      {
+        "text": "2 cm",
+        "is_correct": false
+      },
+      {
+        "text": "14 cm",
+        "is_correct": true
       }
     ],
     "answer_texts": [
-      "2 cm",
-      "14 cm",
       "16 cm",
-      "18 cm"
+      "18 cm",
+      "2 cm",
+      "14 cm"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "Length is 16 − 2 = 14 cm.",
       "hint": "Subtract the start mark from the end mark."
@@ -2202,7 +2206,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "You need to compare masses of three rocks. What is the best method?",
     "audio_prompt": "You need to compare masses of three rocks. What is the best method?",
     "audioPrompt": "You need to compare masses of three rocks. What is the best method?",
@@ -2212,10 +2216,6 @@
     },
     "visualHtml": "",
     "answers": [
-      {
-        "text": "Use the same balance and record each result in grams",
-        "is_correct": true
-      },
       {
         "text": "Lift them by hand only",
         "is_correct": false
@@ -2227,16 +2227,20 @@
       {
         "text": "Record only heaviest/lightest without values",
         "is_correct": false
+      },
+      {
+        "text": "Use the same balance and record each result in grams",
+        "is_correct": true
       }
     ],
     "answer_texts": [
-      "Use the same balance and record each result in grams",
       "Lift them by hand only",
       "Use grams for one and kilograms for another",
-      "Record only heaviest/lightest without values"
+      "Record only heaviest/lightest without values",
+      "Use the same balance and record each result in grams"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "Using the same balance and unit makes the results directly comparable.",
       "hint": "Same tool, same unit."
@@ -2263,7 +2267,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "A class photographs a seedling each day and measures height every third day. How do the tools help differently?",
     "audio_prompt": "A class photographs a seedling each day and measures height every third day. How do the tools help differently?",
     "audioPrompt": "A class photographs a seedling each day and measures height every third day. How do the tools help differently?",
@@ -2278,26 +2282,26 @@
         "is_correct": false
       },
       {
+        "text": "Photos show visible changes; the ruler provides numerical height data",
+        "is_correct": true
+      },
+      {
         "text": "Photos make rulers unnecessary",
         "is_correct": false
       },
       {
         "text": "Rulers show leaf colour better",
         "is_correct": false
-      },
-      {
-        "text": "Photos show visible changes; the ruler provides numerical height data",
-        "is_correct": true
       }
     ],
     "answer_texts": [
       "Both tools measure exactly the same quantity",
+      "Photos show visible changes; the ruler provides numerical height data",
       "Photos make rulers unnecessary",
-      "Rulers show leaf colour better",
-      "Photos show visible changes; the ruler provides numerical height data"
+      "Rulers show leaf colour better"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "Different tools can capture different kinds of evidence.",
       "hint": "Image evidence versus measurement evidence."
@@ -2324,7 +2328,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "A student records “water = 35” after using a thermometer. What should be fixed?",
     "audio_prompt": "A student records “water = 35” after using a thermometer. What should be fixed?",
     "audioPrompt": "A student records “water = 35” after using a thermometer. What should be fixed?",
@@ -2335,11 +2339,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Remove the number",
-        "is_correct": false
-      },
-      {
-        "text": "Write “warm” only",
+        "text": "Replace the measurement with warm",
         "is_correct": false
       },
       {
@@ -2347,18 +2347,22 @@
         "is_correct": true
       },
       {
-        "text": "Change 35 to a word",
+        "text": "Record 35 minutes as the temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Add the unit: 35 mL",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Remove the number",
-      "Write “warm” only",
+      "Replace the measurement with warm",
       "Add the unit: 35°C",
-      "Change 35 to a word"
+      "Record 35 minutes as the temperature",
+      "Add the unit: 35 mL"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "The unit identifies the measurement as temperature.",
       "hint": "A number needs its unit."
@@ -2385,7 +2389,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "practice",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Which investigation record is strongest?",
     "audio_prompt": "Which investigation record is strongest?",
     "audioPrompt": "Which investigation record is strongest?",
@@ -2396,7 +2400,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The cup looked normal",
+        "text": "Time: 0, 30, 60; Temperature: 60, 53, 47, with no units",
         "is_correct": false
       },
       {
@@ -2404,19 +2408,19 @@
         "is_correct": true
       },
       {
-        "text": "It got cooler",
+        "text": "Expected temperature: 60, 53, 47, without observed readings",
         "is_correct": false
       },
       {
-        "text": "Hot, warm, less warm",
+        "text": "Temperature: warm, cooler, coolest, with no times",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The cup looked normal",
+      "Time: 0, 30, 60; Temperature: 60, 53, 47, with no units",
       "Time (s): 0, 30, 60; Temperature (°C): 60, 53, 47",
-      "It got cooler",
-      "Hot, warm, less warm"
+      "Expected temperature: 60, 53, 47, without observed readings",
+      "Temperature: warm, cooler, coolest, with no times"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -2446,7 +2450,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Which tool is best for measuring the mass of a shell?",
     "audio_prompt": "Which tool is best for measuring the mass of a shell?",
     "audioPrompt": "Which tool is best for measuring the mass of a shell?",
@@ -2461,7 +2465,7 @@
         "is_correct": false
       },
       {
-        "text": "A thermometer",
+        "text": "A ruler",
         "is_correct": false
       },
       {
@@ -2469,15 +2473,15 @@
         "is_correct": true
       },
       {
-        "text": "A ruler",
+        "text": "A thermometer",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "A stopwatch",
-      "A thermometer",
+      "A ruler",
       "A balance",
-      "A ruler"
+      "A thermometer"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -2506,7 +2510,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "A student measures a piece of string. Which record gives a complete measurement?",
     "audio_prompt": "A student measures a piece of string. Which record gives a complete measurement?",
     "audioPrompt": "A student measures a piece of string. Which record gives a complete measurement?",
@@ -2517,7 +2521,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The string looked good",
+        "text": "The string was 42",
+        "is_correct": false
+      },
+      {
+        "text": "The string was 42 mL long",
         "is_correct": false
       },
       {
@@ -2525,22 +2533,18 @@
         "is_correct": true
       },
       {
-        "text": "The string was 42",
-        "is_correct": false
-      },
-      {
-        "text": "The string was long",
+        "text": "The string was longer than expected, without a measurement",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The string looked good",
-      "The string was 42 cm long",
       "The string was 42",
-      "The string was long"
+      "The string was 42 mL long",
+      "The string was 42 cm long",
+      "The string was longer than expected, without a measurement"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "A complete measurement includes number and unit.",
       "hint": "Number + unit."
@@ -2566,48 +2570,50 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
-    "question": "Why measure from the zero mark of a ruler?",
-    "audio_prompt": "Why measure from the zero mark of a ruler?",
-    "audioPrompt": "Why measure from the zero mark of a ruler?",
+    "skill": "reading offset ruler scales",
+    "question": "The leaf does not start at zero. Read the ruler diagram. What is its length?",
+    "audio_prompt": "The leaf does not start at zero. Read the ruler diagram. What is its length?",
+    "audioPrompt": "The leaf does not start at zero. Read the ruler diagram. What is its length?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "t003",
+      "alt_text": "A leaf lies over a centimetre ruler. Its ends line up with the marks labelled three and nine."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A leaf lies over a centimetre ruler. Its ends line up with the marks labelled three and nine.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#t003\"/></svg>",
     "answers": [
       {
-        "text": "It gives the correct reference for length",
+        "text": "9 cm",
+        "is_correct": false
+      },
+      {
+        "text": "6 cm",
         "is_correct": true
       },
       {
-        "text": "It makes the object longer",
+        "text": "3 cm",
         "is_correct": false
       },
       {
-        "text": "It changes centimetres to metres",
-        "is_correct": false
-      },
-      {
-        "text": "It is only for decoration",
+        "text": "12 cm",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It gives the correct reference for length",
-      "It makes the object longer",
-      "It changes centimetres to metres",
-      "It is only for decoration"
+      "9 cm",
+      "6 cm",
+      "3 cm",
+      "12 cm"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Zero is the normal starting reference.",
-      "hint": "Start at the reference point."
+      "summary": "The leaf extends from 3 cm to 9 cm. Its length is 9 − 3 = 6 cm.",
+      "hint": "Subtract the start reading from the end reading."
     },
     "structuredExplanation": {
-      "summary": "Zero is the normal starting reference.",
-      "hint": "Start at the reference point."
+      "summary": "The leaf extends from 3 cm to 9 cm. Its length is 9 − 3 = 6 cm.",
+      "hint": "Subtract the start reading from the end reading."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2626,7 +2632,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Which unit is suitable for elapsed time?",
     "audio_prompt": "Which unit is suitable for elapsed time?",
     "audioPrompt": "Which unit is suitable for elapsed time?",
@@ -2641,11 +2647,11 @@
         "is_correct": false
       },
       {
-        "text": "millilitres",
+        "text": "grams",
         "is_correct": false
       },
       {
-        "text": "grams",
+        "text": "millilitres",
         "is_correct": false
       },
       {
@@ -2655,8 +2661,8 @@
     ],
     "answer_texts": [
       "centimetres",
-      "millilitres",
       "grams",
+      "millilitres",
       "seconds"
     ],
     "correct_index": 3,
@@ -2686,48 +2692,50 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
-    "question": "A student measures water as 75 mL. What quantity is this?",
-    "audio_prompt": "A student measures water as 75 mL. What quantity is this?",
-    "audioPrompt": "A student measures water as 75 mL. What quantity is this?",
+    "skill": "reading liquid volume",
+    "question": "Read the cylinder diagram. Which volume should be recorded?",
+    "audio_prompt": "Read the cylinder diagram. Which volume should be recorded?",
+    "audioPrompt": "Read the cylinder diagram. Which volume should be recorded?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "t005",
+      "alt_text": "A cylinder has five-millilitre intervals. The water is at the mark halfway between forty and fifty."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A cylinder has five-millilitre intervals. The water is at the mark halfway between forty and fifty.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#t005\"/></svg>",
     "answers": [
       {
-        "text": "Temperature",
+        "text": "40 mL",
         "is_correct": false
       },
       {
-        "text": "Length",
-        "is_correct": false
-      },
-      {
-        "text": "Volume",
+        "text": "45 mL",
         "is_correct": true
       },
       {
-        "text": "Mass",
+        "text": "9 mL",
+        "is_correct": false
+      },
+      {
+        "text": "50 mL",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Temperature",
-      "Length",
-      "Volume",
-      "Mass"
+      "40 mL",
+      "45 mL",
+      "9 mL",
+      "50 mL"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Millilitres measure liquid volume.",
-      "hint": "mL = volume."
+      "summary": "The water reaches the small mark halfway between 40 and 50 mL: 45 mL.",
+      "hint": "Check the interval between labelled values."
     },
     "structuredExplanation": {
-      "summary": "Millilitres measure liquid volume.",
-      "hint": "mL = volume."
+      "summary": "The water reaches the small mark halfway between 40 and 50 mL: 45 mL.",
+      "hint": "Check the interval between labelled values."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2746,7 +2754,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Which observation is safest?",
     "audio_prompt": "Which observation is safest?",
     "audioPrompt": "Which observation is safest?",
@@ -2757,30 +2765,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Chew a small piece",
-        "is_correct": false
-      },
-      {
         "text": "Look at an unknown leaf with a hand lens",
         "is_correct": true
+      },
+      {
+        "text": "Rub it in your eyes",
+        "is_correct": false
       },
       {
         "text": "Taste the leaf",
         "is_correct": false
       },
       {
-        "text": "Rub it in your eyes",
+        "text": "Chew a small piece",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Chew a small piece",
       "Look at an unknown leaf with a hand lens",
+      "Rub it in your eyes",
       "Taste the leaf",
-      "Rub it in your eyes"
+      "Chew a small piece"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "Visual observation avoids unnecessary exposure.",
       "hint": "Do not taste unknown materials."
@@ -2806,7 +2814,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "A class times the same ramp run several times. Why are repeated measurements useful?",
     "audio_prompt": "A class times the same ramp run several times. Why are repeated measurements useful?",
     "audioPrompt": "A class times the same ramp run several times. Why are repeated measurements useful?",
@@ -2817,30 +2825,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "To check consistency",
-        "is_correct": true
+        "text": "To make values identical",
+        "is_correct": false
       },
       {
         "text": "To guarantee the prediction",
         "is_correct": false
       },
       {
-        "text": "To remove units",
-        "is_correct": false
+        "text": "To check consistency",
+        "is_correct": true
       },
       {
-        "text": "To make values identical",
+        "text": "To remove units",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "To check consistency",
+      "To make values identical",
       "To guarantee the prediction",
-      "To remove units",
-      "To make values identical"
+      "To check consistency",
+      "To remove units"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
       "summary": "Repeats can reveal variation or errors.",
       "hint": "Compare repeated readings."
@@ -2866,7 +2874,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "An object starts at 4 cm and ends at 19 cm on a ruler. Its length is:",
     "audio_prompt": "An object starts at 4 cm and ends at 19 cm on a ruler. Its length is:",
     "audioPrompt": "An object starts at 4 cm and ends at 19 cm on a ruler. Its length is:",
@@ -2877,7 +2885,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "19 cm",
+        "text": "4 cm",
         "is_correct": false
       },
       {
@@ -2885,7 +2893,7 @@
         "is_correct": false
       },
       {
-        "text": "4 cm",
+        "text": "19 cm",
         "is_correct": false
       },
       {
@@ -2894,9 +2902,9 @@
       }
     ],
     "answer_texts": [
-      "19 cm",
-      "23 cm",
       "4 cm",
+      "23 cm",
+      "19 cm",
       "15 cm"
     ],
     "correct_index": 3,
@@ -2926,7 +2934,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Which result should be checked because it is very different?",
     "audio_prompt": "Which result should be checked because it is very different?",
     "audioPrompt": "Which result should be checked because it is very different?",
@@ -2937,11 +2945,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "30 s, 31 s, 30 s",
+        "text": "20 mL, 21 mL, 20 mL",
         "is_correct": false
       },
       {
-        "text": "20 mL, 21 mL, 20 mL",
+        "text": "12 cm, 13 cm, 12 cm",
         "is_correct": false
       },
       {
@@ -2949,15 +2957,15 @@
         "is_correct": true
       },
       {
-        "text": "12 cm, 13 cm, 12 cm",
+        "text": "30 s, 31 s, 30 s",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "30 s, 31 s, 30 s",
       "20 mL, 21 mL, 20 mL",
+      "12 cm, 13 cm, 12 cm",
       "12 cm, 13 cm, 47 cm",
-      "12 cm, 13 cm, 12 cm"
+      "30 s, 31 s, 30 s"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -2986,48 +2994,50 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
-    "question": "What does a thermometer measure?",
-    "audio_prompt": "What does a thermometer measure?",
-    "audioPrompt": "What does a thermometer measure?",
+    "skill": "reading a thermometer",
+    "question": "What temperature is shown on this thermometer?",
+    "audio_prompt": "What temperature is shown on this thermometer?",
+    "audioPrompt": "What temperature is shown on this thermometer?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "t010",
+      "alt_text": "A thermometer has two-degree intervals. The liquid is one interval below twenty degrees Celsius."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A thermometer has two-degree intervals. The liquid is one interval below twenty degrees Celsius.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#t010\"/></svg>",
     "answers": [
       {
-        "text": "Volume",
-        "is_correct": false
-      },
-      {
-        "text": "Temperature",
+        "text": "18°C",
         "is_correct": true
       },
       {
-        "text": "Mass",
+        "text": "8°C",
         "is_correct": false
       },
       {
-        "text": "Time",
+        "text": "20°C",
+        "is_correct": false
+      },
+      {
+        "text": "16°C",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Volume",
-      "Temperature",
-      "Mass",
-      "Time"
+      "18°C",
+      "8°C",
+      "20°C",
+      "16°C"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Thermometers measure temperature.",
-      "hint": "Think °C."
+      "summary": "The liquid ends one two-degree interval below 20°C, so it reads 18°C.",
+      "hint": "Read the top of the liquid against the scale."
     },
     "structuredExplanation": {
-      "summary": "Thermometers measure temperature.",
-      "hint": "Think °C."
+      "summary": "The liquid ends one two-degree interval below 20°C, so it reads 18°C.",
+      "hint": "Read the top of the liquid against the scale."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -3046,7 +3056,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Which statement is an opinion?",
     "audio_prompt": "Which statement is an opinion?",
     "audioPrompt": "Which statement is an opinion?",
@@ -3061,7 +3071,7 @@
         "is_correct": true
       },
       {
-        "text": "The rock is 7 cm long",
+        "text": "The rock has white spots",
         "is_correct": false
       },
       {
@@ -3069,15 +3079,15 @@
         "is_correct": false
       },
       {
-        "text": "The rock has white spots",
+        "text": "The rock is 7 cm long",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "This is the best rock",
-      "The rock is 7 cm long",
+      "The rock has white spots",
       "The rock is rough",
-      "The rock has white spots"
+      "The rock is 7 cm long"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -3106,7 +3116,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "Why use the same stopwatch for repeated races?",
     "audio_prompt": "Why use the same stopwatch for repeated races?",
     "audioPrompt": "Why use the same stopwatch for repeated races?",
@@ -3117,15 +3127,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It makes racers equally fast",
+        "text": "It guarantees no mistakes in starting or stopping.",
         "is_correct": false
       },
       {
-        "text": "It guarantees no mistakes",
+        "text": "It removes the need to use the same start rule.",
         "is_correct": false
       },
       {
-        "text": "It changes distance into time",
+        "text": "It makes all race times identical.",
         "is_correct": false
       },
       {
@@ -3134,19 +3144,19 @@
       }
     ],
     "answer_texts": [
-      "It makes racers equally fast",
-      "It guarantees no mistakes",
-      "It changes distance into time",
+      "It guarantees no mistakes in starting or stopping.",
+      "It removes the need to use the same start rule.",
+      "It makes all race times identical.",
       "It keeps the timing method consistent"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Consistent measurement methods improve comparability.",
+      "summary": "Consistent measurement methods improve fair comparison.",
       "hint": "Same method."
     },
     "structuredExplanation": {
-      "summary": "Consistent measurement methods improve comparability.",
+      "summary": "Consistent measurement methods improve fair comparison.",
       "hint": "Same method."
     },
     "difficulty": 3,
@@ -3166,7 +3176,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Which digital tool could record temperature over time?",
     "audio_prompt": "Which digital tool could record temperature over time?",
     "audioPrompt": "Which digital tool could record temperature over time?",
@@ -3177,30 +3187,30 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A speaker",
-        "is_correct": false
-      },
-      {
-        "text": "A calculator with no sensor",
-        "is_correct": false
-      },
-      {
         "text": "A temperature probe connected to a device",
         "is_correct": true
       },
       {
         "text": "A drawing app only",
         "is_correct": false
+      },
+      {
+        "text": "A speaker",
+        "is_correct": false
+      },
+      {
+        "text": "A calculator with no sensor",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A speaker",
-      "A calculator with no sensor",
       "A temperature probe connected to a device",
-      "A drawing app only"
+      "A drawing app only",
+      "A speaker",
+      "A calculator with no sensor"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
       "summary": "A probe can collect temperature measurements electronically.",
       "hint": "Choose a sensor that measures temperature."
@@ -3226,48 +3236,50 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
-    "question": "Which is the strongest plant-growth record?",
-    "audio_prompt": "Which is the strongest plant-growth record?",
-    "audioPrompt": "Which is the strongest plant-growth record?",
+    "skill": "recording digital mass",
+    "question": "A digital balance is used to measure a rock. Which entry correctly records its display?",
+    "audio_prompt": "A digital balance is used to measure a rock. Which entry correctly records its display?",
+    "audioPrompt": "A digital balance is used to measure a rock. Which entry correctly records its display?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "t014",
+      "alt_text": "A digital balance displays 92 g."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A digital balance displays 92 g.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#t014\"/></svg>",
     "answers": [
       {
-        "text": "It was nice",
+        "text": "Rock mass: 29 g",
         "is_correct": false
       },
       {
-        "text": "Monday 11 cm; Friday 15 cm",
+        "text": "Rock mass: 92 g",
         "is_correct": true
       },
       {
-        "text": "It grew",
+        "text": "Rock mass: 92 cm",
         "is_correct": false
       },
       {
-        "text": "It looked taller",
+        "text": "Rock mass: 92 mL",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It was nice",
-      "Monday 11 cm; Friday 15 cm",
-      "It grew",
-      "It looked taller"
+      "Rock mass: 29 g",
+      "Rock mass: 92 g",
+      "Rock mass: 92 cm",
+      "Rock mass: 92 mL"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Measured heights show the change clearly.",
-      "hint": "Use numerical evidence."
+      "summary": "The balance displays 92 g, which records the rock mass.",
+      "hint": "Copy both the number and the mass unit."
     },
     "structuredExplanation": {
-      "summary": "Measured heights show the change clearly.",
-      "hint": "Use numerical evidence."
+      "summary": "The balance displays 92 g, which records the rock mass.",
+      "hint": "Copy both the number and the mass unit."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -3286,7 +3298,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "question": "A measuring cup is read from above rather than eye level. What problem may occur?",
     "audio_prompt": "A measuring cup is read from above rather than eye level. What problem may occur?",
     "audioPrompt": "A measuring cup is read from above rather than eye level. What problem may occur?",
@@ -3297,30 +3309,30 @@
     "visualHtml": "",
     "answers": [
       {
+        "text": "The volume changes when viewed from above.",
+        "is_correct": false
+      },
+      {
+        "text": "The scale unit changes with eye position.",
+        "is_correct": false
+      },
+      {
+        "text": "Looking from above makes each scale interval larger.",
+        "is_correct": false
+      },
+      {
         "text": "The scale can be misread due to viewing angle",
         "is_correct": true
-      },
-      {
-        "text": "The water changes mass",
-        "is_correct": false
-      },
-      {
-        "text": "The cup becomes hotter",
-        "is_correct": false
-      },
-      {
-        "text": "The unit changes",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The scale can be misread due to viewing angle",
-      "The water changes mass",
-      "The cup becomes hotter",
-      "The unit changes"
+      "The volume changes when viewed from above.",
+      "The scale unit changes with eye position.",
+      "Looking from above makes each scale interval larger.",
+      "The scale can be misread due to viewing angle"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
       "summary": "Viewing angle can affect the apparent level against the scale.",
       "hint": "Read at eye level."
@@ -3346,7 +3358,7 @@
     "curriculum_code": "AC9S3I03",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "question": "Which result table heading is best?",
     "audio_prompt": "Which result table heading is best?",
     "audioPrompt": "Which result table heading is best?",
@@ -3357,43 +3369,545 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Time stuff",
-        "is_correct": false
-      },
-      {
-        "text": "How long maybe",
-        "is_correct": false
-      },
-      {
-        "text": "Result",
+        "text": "Result number",
         "is_correct": false
       },
       {
         "text": "Time (s)",
         "is_correct": true
+      },
+      {
+        "text": "Time",
+        "is_correct": false
+      },
+      {
+        "text": "Seconds measured as length",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Time stuff",
-      "How long maybe",
-      "Result",
-      "Time (s)"
+      "Result number",
+      "Time (s)",
+      "Time",
+      "Seconds measured as length"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
       "summary": "A clear heading names the quantity and unit.",
-      "hint": "Label data precisely."
+      "hint": "Label data clearly."
     },
     "structuredExplanation": {
       "summary": "A clear heading names the quantity and unit.",
-      "hint": "Label data precisely."
+      "hint": "Label data clearly."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
     "sequence_priority": 16,
     "sequencePriority": 16,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-041",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "reading a ruler",
+    "question": "Read the ruler diagram. How long is the leaf?",
+    "audio_prompt": "Read the ruler diagram. How long is the leaf?",
+    "audioPrompt": "Read the ruler diagram. How long is the leaf?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "p041",
+      "alt_text": "A leaf begins at the zero mark of a centimetre ruler and ends seven one-centimetre intervals later."
+    },
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A leaf begins at the zero mark of a centimetre ruler and ends seven one-centimetre intervals later.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#p041\"/></svg>",
+    "answers": [
+      {
+        "text": "7 cm",
+        "is_correct": true
+      },
+      {
+        "text": "6 cm",
+        "is_correct": false
+      },
+      {
+        "text": "8 cm",
+        "is_correct": false
+      },
+      {
+        "text": "14 cm",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "7 cm",
+      "6 cm",
+      "8 cm",
+      "14 cm"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The leaf starts at zero and ends at 7 on the centimetre scale, so its length is 7 cm.",
+      "hint": "Read from the zero mark to the tip."
+    },
+    "structuredExplanation": {
+      "summary": "The leaf starts at zero and ends at 7 on the centimetre scale, so its length is 7 cm.",
+      "hint": "Read from the zero mark to the tip."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 41,
+    "sequencePriority": 41,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-042",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "reading a thermometer",
+    "question": "Read the thermometer diagram. What temperature should be recorded?",
+    "audio_prompt": "Read the thermometer diagram. What temperature should be recorded?",
+    "audioPrompt": "Read the thermometer diagram. What temperature should be recorded?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "p042",
+      "alt_text": "A thermometer is labelled zero, ten, twenty and thirty degrees Celsius. Small intervals are two degrees. The liquid ends two small intervals above twenty."
+    },
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A thermometer is labelled zero, ten, twenty and thirty degrees Celsius. Small intervals are two degrees. The liquid ends two small intervals above twenty.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#p042\"/></svg>",
+    "answers": [
+      {
+        "text": "26°C",
+        "is_correct": false
+      },
+      {
+        "text": "24°C",
+        "is_correct": true
+      },
+      {
+        "text": "22°C",
+        "is_correct": false
+      },
+      {
+        "text": "4°C",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "26°C",
+      "24°C",
+      "22°C",
+      "4°C"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The liquid ends at 24°C. Each small interval represents 2°C.",
+      "hint": "Find the value of each interval before reading."
+    },
+    "structuredExplanation": {
+      "summary": "The liquid ends at 24°C. Each small interval represents 2°C.",
+      "hint": "Find the value of each interval before reading."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 42,
+    "sequencePriority": 42,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-043",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "reading liquid volume",
+    "question": "Read the measuring-cylinder diagram. What water volume is shown?",
+    "audio_prompt": "Read the measuring-cylinder diagram. What water volume is shown?",
+    "audioPrompt": "Read the measuring-cylinder diagram. What water volume is shown?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "p043",
+      "alt_text": "A cylinder is labelled every ten millilitres, with a small mark halfway between. The water ends at the small mark between thirty and forty."
+    },
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A cylinder is labelled every ten millilitres, with a small mark halfway between. The water ends at the small mark between thirty and forty.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#p043\"/></svg>",
+    "answers": [
+      {
+        "text": "35 mL",
+        "is_correct": true
+      },
+      {
+        "text": "7 mL",
+        "is_correct": false
+      },
+      {
+        "text": "30 mL",
+        "is_correct": false
+      },
+      {
+        "text": "40 mL",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "35 mL",
+      "7 mL",
+      "30 mL",
+      "40 mL"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The water level is halfway between 30 and 40 mL, at the 35 mL mark.",
+      "hint": "Read the scale at the water level."
+    },
+    "structuredExplanation": {
+      "summary": "The water level is halfway between 30 and 40 mL, at the 35 mL mark.",
+      "hint": "Read the scale at the water level."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 43,
+    "sequencePriority": 43,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-044",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "reading a mass scale",
+    "question": "Read the scale diagram. What mass should be recorded for the rock?",
+    "audio_prompt": "Read the scale diagram. What mass should be recorded for the rock?",
+    "audioPrompt": "Read the scale diagram. What mass should be recorded for the rock?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "p044",
+      "alt_text": "A mass scale counts in tens of grams. The pointer is one interval above fifty."
+    },
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A mass scale counts in tens of grams. The pointer is one interval above fifty.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#p044\"/></svg>",
+    "answers": [
+      {
+        "text": "70 g",
+        "is_correct": false
+      },
+      {
+        "text": "6 g",
+        "is_correct": false
+      },
+      {
+        "text": "50 g",
+        "is_correct": false
+      },
+      {
+        "text": "60 g",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "70 g",
+      "6 g",
+      "50 g",
+      "60 g"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The pointer is on the 60 g mark between 50 and 70 g.",
+      "hint": "Follow the pointer to the labelled scale."
+    },
+    "structuredExplanation": {
+      "summary": "The pointer is on the 60 g mark between 50 and 70 g.",
+      "hint": "Follow the pointer to the labelled scale."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 44,
+    "sequencePriority": 44,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-045",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "recording digital measurements",
+    "question": "Read the digital stopwatch display. Which entry records the observation accurately?",
+    "audio_prompt": "Read the digital stopwatch display. Which entry records the observation accurately?",
+    "audioPrompt": "Read the digital stopwatch display. Which entry records the observation accurately?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "p045",
+      "alt_text": "The digital stopwatch display reads 38 s."
+    },
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"The digital stopwatch display reads 38 s.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#p045\"/></svg>",
+    "answers": [
+      {
+        "text": "Melting time: 38 min",
+        "is_correct": false
+      },
+      {
+        "text": "Melting time: 38°C",
+        "is_correct": false
+      },
+      {
+        "text": "Melting time: 38 cm",
+        "is_correct": false
+      },
+      {
+        "text": "Melting time: 38 s",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Melting time: 38 min",
+      "Melting time: 38°C",
+      "Melting time: 38 cm",
+      "Melting time: 38 s"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The display shows elapsed seconds, so the record must retain both 38 and s.",
+      "hint": "Keep the displayed number and unit."
+    },
+    "structuredExplanation": {
+      "summary": "The display shows elapsed seconds, so the record must retain both 38 and s.",
+      "hint": "Keep the displayed number and unit."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 45,
+    "sequencePriority": 45,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-046",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "matching records to times",
+    "question": "The table shows 0 minutes: 32°C; 5 minutes: 29°C; 10 minutes: blank. The thermometer now reads 27°C at ten minutes. What belongs in the blank?",
+    "audio_prompt": "The table shows 0 minutes: 32°C; 5 minutes: 29°C; 10 minutes: blank. The thermometer now reads 27°C at ten minutes. What belongs in the blank?",
+    "audioPrompt": "The table shows 0 minutes: 32°C; 5 minutes: 29°C; 10 minutes: blank. The thermometer now reads 27°C at ten minutes. What belongs in the blank?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "p046",
+      "alt_text": "A cooling table shows zero minutes: 32 degrees Celsius; five minutes: 29 degrees Celsius; ten minutes: temperature missing."
+    },
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A cooling table shows zero minutes: 32 degrees Celsius; five minutes: 29 degrees Celsius; ten minutes: temperature missing.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#p046\"/></svg>",
+    "answers": [
+      {
+        "text": "27°C",
+        "is_correct": true
+      },
+      {
+        "text": "10°C",
+        "is_correct": false
+      },
+      {
+        "text": "29°C",
+        "is_correct": false
+      },
+      {
+        "text": "27 minutes",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "27°C",
+      "10°C",
+      "29°C",
+      "27 minutes"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The blank is the temperature recorded at ten minutes, which is 27°C.",
+      "hint": "Match the time with the new reading."
+    },
+    "structuredExplanation": {
+      "summary": "The blank is the temperature recorded at ten minutes, which is 27°C.",
+      "hint": "Match the time with the new reading."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 46,
+    "sequencePriority": 46,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-047",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "digital observation records",
+    "question": "A class uses a tablet to photograph the same seedling each week. Which procedure makes the photos easiest to compare?",
+    "audio_prompt": "A class uses a tablet to photograph the same seedling each week. Which procedure makes the photos easiest to compare?",
+    "audioPrompt": "A class uses a tablet to photograph the same seedling each week. Which procedure makes the photos easiest to compare?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Photograph a different plant each week without labels.",
+        "is_correct": false
+      },
+      {
+        "text": "Save only the photo the class likes best.",
+        "is_correct": false
+      },
+      {
+        "text": "Add a drawing of taller leaves before saving each photo.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the plant label visible and use a similar view with the date recorded.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Photograph a different plant each week without labels.",
+      "Save only the photo the class likes best.",
+      "Add a drawing of taller leaves before saving each photo.",
+      "Keep the plant label visible and use a similar view with the date recorded."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Consistent views, dates and labels allow visible changes in the same plant to be followed.",
+      "hint": "Keep track of which plant and when."
+    },
+    "structuredExplanation": {
+      "summary": "Consistent views, dates and labels allow visible changes in the same plant to be followed.",
+      "hint": "Keep track of which plant and when."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 47,
+    "sequencePriority": 47,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i03-p-048",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I03",
+    "curriculumCode": "AC9S3I03",
+    "bank": "practice",
+    "skill": "reading graduated scales",
+    "question": "The marked cup has equal 10 mL intervals. Read the water level in the diagram.",
+    "audio_prompt": "The marked cup has equal 10 mL intervals. Read the water level in the diagram.",
+    "audioPrompt": "The marked cup has equal 10 mL intervals. Read the water level in the diagram.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "p048",
+      "alt_text": "A marked cup has ten-millilitre intervals. The water ends two intervals below one hundred."
+    },
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A marked cup has ten-millilitre intervals. The water ends two intervals below one hundred.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#p048\"/></svg>",
+    "answers": [
+      {
+        "text": "8 mL",
+        "is_correct": false
+      },
+      {
+        "text": "70 mL",
+        "is_correct": false
+      },
+      {
+        "text": "90 mL",
+        "is_correct": false
+      },
+      {
+        "text": "80 mL",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "8 mL",
+      "70 mL",
+      "90 mL",
+      "80 mL"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The water level reaches the 80 mL mark. The scale counts in tens of millilitres.",
+      "hint": "Count the scale intervals, not just the lines."
+    },
+    "structuredExplanation": {
+      "summary": "The water level reaches the 80 mL mark. The scale counts in tens of millilitres.",
+      "hint": "Count the scale intervals, not just the lines."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 48,
+    "sequencePriority": 48,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,

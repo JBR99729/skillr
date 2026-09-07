@@ -4,7 +4,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-001",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Puddles in sun dry sooner than puddles in shade. Which question explores the pattern?",
@@ -17,14 +17,14 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Does sunlight affect drying time?",
-      "Which puddle looks best?",
       "Why is water wet?",
+      "Which puddle looks best?",
       "Are sunny days nicer?"
     ],
     "correct": 0,
-    "explanation": "The first question tests the observed relationship.\nHint: Ask about what changed.",
+    "explanation": "The focused question tests the observed relationship.\nHint: Ask about what changed.",
     "structuredExplanation": {
-      "summary": "The first question tests the observed relationship.",
+      "summary": "The focused question tests the observed relationship.",
       "hint": "Ask about what changed."
     },
     "stage": "recognise",
@@ -37,7 +37,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-002",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "Which sentence is a prediction?",
@@ -50,8 +50,8 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The sunny puddle dried first.",
-      "The puddle is 30 cm wide.",
       "Both contain water.",
+      "The puddle is 30 cm wide.",
       "The sunny puddle may dry first."
     ],
     "correct": 3,
@@ -70,7 +70,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-003",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "Plants leaned toward a window for three weeks. Which prediction fits?",
@@ -82,12 +82,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Plants like pretty windows.",
-      "The next plant cannot grow.",
       "A new plant may also lean toward the window.",
-      "Every plant must lean exactly 20°."
+      "The observations prove the exact angle of every future plant.",
+      "The next plant must grow away from the window.",
+      "The next plant will not lean even under similar conditions."
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "It uses the pattern without claiming certainty.\nHint: Pattern + may.",
     "structuredExplanation": {
       "summary": "It uses the pattern without claiming certainty.",
@@ -103,7 +103,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-004",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Which question can be answered by measuring?",
@@ -115,12 +115,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Is red best?",
-      "Does ramp height affect car travel distance?",
-      "Which car is coolest?",
-      "Why are toys fun?"
+      "Which ramp design is the class favourite?",
+      "Which car name sounds fastest?",
+      "Which car colour is most attractive?",
+      "Does ramp height affect car travel distance?"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Both ramp height and distance can be measured.\nHint: Choose measurable factors.",
     "structuredExplanation": {
       "summary": "Both ramp height and distance can be measured.",
@@ -136,7 +136,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-005",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "More worms were found in damp soil than dry soil. This is:",
@@ -148,12 +148,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "an observed pattern",
       "a guaranteed rule",
       "an opinion",
+      "an observed pattern",
       "a measurement unit"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The observation shows a possible relationship.\nHint: Notice the repeated relationship.",
     "structuredExplanation": {
       "summary": "The observation shows a possible relationship.",
@@ -169,11 +169,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-006",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
-    "question": "Which prediction matches “Does warmer water dissolve sugar faster?”",
-    "audioPrompt": "Which prediction matches “Does warmer water dissolve sugar faster?”",
+    "question": "In earlier tests, sugar dissolved sooner in warmer water. Which prediction uses this pattern for another similar test?",
+    "audioPrompt": "In earlier tests, sugar dissolved sooner in warmer water. Which prediction uses this pattern for another similar test?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,16 +181,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Warm water is nicer.",
-      "Sugar is white.",
-      "The cup is large.",
+      "Sugar may dissolve at the same speed in both cups.",
+      "Sugar may dissolve more slowly in warmer water.",
+      "The warmer cup may be the class favourite.",
       "Sugar may dissolve faster in warmer water."
     ],
     "correct": 3,
-    "explanation": "The prediction addresses the same factors as the question.\nHint: Question and prediction should match.",
+    "explanation": "The prediction follows the earlier observation that dissolving took less time in warmer water. A prediction still needs testing.\nHint: Use the direction of the observed pattern.",
     "structuredExplanation": {
-      "summary": "The prediction addresses the same factors as the question.",
-      "hint": "Question and prediction should match."
+      "summary": "The prediction follows the earlier observation that dissolving took less time in warmer water. A prediction still needs testing.",
+      "hint": "Use the direction of the observed pattern."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -202,7 +202,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-007",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Which question is opinion-based?",
@@ -235,7 +235,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-008",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Metal spoons felt colder than wooden spoons. Which question follows?",
@@ -247,12 +247,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Why is lunch good?",
-      "Does spoon material affect how cold it feels?",
-      "Are spoons useful?",
-      "Who owns the spoon?"
+      "Who prefers using a metal spoon?",
+      "Does the spoon colour match the plate?",
+      "Which spoon design is most attractive?",
+      "Does spoon material affect how cold it feels?"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "It explores the observed material–sensation relationship.\nHint: Turn the observation into a question.",
     "structuredExplanation": {
       "summary": "It explores the observed material–sensation relationship.",
@@ -268,7 +268,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-009",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Which is an observation?",
@@ -280,12 +280,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
+      "The smooth ramp should win.",
       "The car travelled 42 cm.",
       "The car may travel less far.",
-      "I think roughness will slow it.",
-      "The smooth ramp should win."
+      "I think roughness will slow it."
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "A measured result reports what happened.\nHint: Already happened.",
     "structuredExplanation": {
       "summary": "A measured result reports what happened.",
@@ -301,7 +301,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-010",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "A prediction should be based on:",
@@ -313,9 +313,9 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "a favourite answer",
-      "a lucky number",
-      "what a friend wants",
+      "a choice made without considering observations",
+      "an unrelated result from a different kind of test",
+      "the result someone hopes will happen",
       "relevant observations or patterns"
     ],
     "correct": 3,
@@ -334,7 +334,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-011",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Why is “What happens to plants?” too broad?",
@@ -346,12 +346,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Questions cannot start with what.",
-      "It is too short.",
+      "Every useful question must begin with why.",
       "It does not identify what will change or be observed.",
-      "Plants cannot be tested."
+      "Only questions about numbers can be investigated.",
+      "Plant questions must already include the final answer."
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "A useful question names a clear relationship or outcome.\nHint: Make it specific.",
     "structuredExplanation": {
       "summary": "A useful question names a clear relationship or outcome.",
@@ -367,7 +367,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-012",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "Why predict before collecting results?",
@@ -379,12 +379,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "To change data later.",
-      "To record what was expected before knowing the outcome.",
-      "To guarantee success.",
-      "To avoid observing."
+      "To decide which later results should be kept",
+      "To ensure the result cannot differ from the expectation",
+      "To make the prediction count as a measurement",
+      "To record what was expected before knowing the outcome."
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Predictions are checked against later evidence.\nHint: Prediction first.",
     "structuredExplanation": {
       "summary": "Predictions are checked against later evidence.",
@@ -400,7 +400,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-013",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Two larger parachutes fell more slowly. Why is “a larger one may fall more slowly next time” reasonable?",
@@ -413,9 +413,9 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "It uses the pattern and remains testable.",
-      "Two trials prove always.",
-      "Large things always fall slowly.",
-      "It sounds scientific."
+      "The earlier observations prove the exact next fall time.",
+      "Two observations establish the outcome for every material.",
+      "The prediction needs no more testing because it was stated confidently."
     ],
     "correct": 0,
     "explanation": "The wording matches the limited evidence.\nHint: Use may, not always.",
@@ -433,7 +433,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-014",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Why is “Which soil grows the best plant?” unclear?",
@@ -445,15 +445,15 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Soil cannot affect plants.",
-      "Tallest always means healthiest.",
-      "It has too few words.",
-      "“Best” does not name a measurable outcome."
+      "The question already names an exact height and time.",
+      "“Best” does not name a measurable outcome.",
+      "The word best always means the tallest plant.",
+      "Different soils cannot be compared using measurements."
     ],
-    "correct": 3,
-    "explanation": "The success criterion must be defined.\nHint: Best at what?",
+    "correct": 1,
+    "explanation": "The success need must be defined.\nHint: Best at what?",
     "structuredExplanation": {
-      "summary": "The success criterion must be defined.",
+      "summary": "The success need must be defined.",
       "hint": "Best at what?"
     },
     "stage": "explain",
@@ -466,7 +466,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-015",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "Why is a wrong prediction still useful?",
@@ -478,12 +478,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The test failed.",
       "Predictions must be right.",
       "The result can improve the explanation or lead to a new question.",
+      "The test failed.",
       "The result should be erased."
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Unexpected evidence can teach us.\nHint: Science learns from surprises.",
     "structuredExplanation": {
       "summary": "Unexpected evidence can teach us.",
@@ -499,7 +499,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-016",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Why name both factors in a relationship question?",
@@ -511,12 +511,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes it longer.",
+      "It ensures the result matches the prediction.",
+      "It removes the need to collect observations.",
       "It makes clear what is being compared.",
-      "Every question needs two nouns.",
-      "It guarantees the result."
+      "It proves that one factor causes the other."
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Clear factors help plan the investigation.\nHint: What is related to what?",
     "structuredExplanation": {
       "summary": "Clear factors help plan the investigation.",
@@ -532,7 +532,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-017",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "A black container warmed more in earlier sunlight tests. Why is “black may warm faster” scientific?",
@@ -544,12 +544,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
+      "It describes an outcome that cannot be checked.",
+      "It guarantees that every black object warms fastest.",
       "It uses relevant observations and can be tested.",
-      "Black is popular.",
-      "The speaker is confident.",
-      "It cannot be wrong."
+      "It is based only on a favourite colour."
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Evidence supports a testable expectation.\nHint: Evidence + testability.",
     "structuredExplanation": {
       "summary": "Evidence supports a testable expectation.",
@@ -565,7 +565,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-018",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "Why use “may” in a prediction from limited evidence?",
@@ -577,9 +577,9 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Science must always sound unsure.",
-      "May makes any claim right.",
-      "Measurements are unreliable.",
+      "The word may turns a measured result into an opinion.",
+      "The word may means no investigation is possible.",
+      "The word may replaces the need for evidence.",
       "A pattern does not guarantee every future result."
     ],
     "correct": 3,
@@ -598,7 +598,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-019",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Why is “Does water amount affect plant height?” a relationship question?",
@@ -612,10 +612,10 @@ window.skillrPracticeQuestions = [
     "answers": [
       "It mentions plants.",
       "It has one answer.",
-      "It links water amount with plant height.",
-      "It asks an opinion."
+      "It asks an opinion.",
+      "It links water amount with plant height."
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "It connects one factor with another measurable outcome.\nHint: Identify both factors.",
     "structuredExplanation": {
       "summary": "It connects one factor with another measurable outcome.",
@@ -631,7 +631,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-020",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Why record the observation that led to a question?",
@@ -643,12 +643,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It becomes a rule.",
       "It shows why the investigation was worth asking.",
-      "It guarantees the result.",
-      "It replaces testing."
+      "It guarantees that the pattern will continue.",
+      "It means later observations do not need recording.",
+      "It makes the observation prove the answer before testing."
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The starting observation provides a reason for the question.\nHint: Keep the starting evidence.",
     "structuredExplanation": {
       "summary": "The starting observation provides a reason for the question.",
@@ -664,7 +664,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-021",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Wet clothes dried faster on windy days. Which question best investigates this?",
@@ -676,12 +676,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
+      "Which weather does the class enjoy most?",
       "Does wind speed affect drying time?",
-      "Which clothes look best?",
-      "Why does wind exist?",
-      "Are windy days annoying?"
+      "Which clothes are most attractive?",
+      "Which drying place has the nicest view?"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "It directly tests the observed pattern.\nHint: Turn pattern into question.",
     "structuredExplanation": {
       "summary": "It directly tests the observed pattern.",
@@ -697,7 +697,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-022",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "Which prediction overclaims?",
@@ -709,12 +709,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A larger one may fall more slowly next time.",
-      "We can test whether size matters.",
+      "Two large parachutes fell slowly, so every large parachute always falls slowly.",
       "Earlier trials suggest size may matter.",
-      "Two large parachutes fell slowly, so every large parachute always falls slowly."
+      "A larger one may fall more slowly next time.",
+      "We can test whether size matters."
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "“Every” and “always” go beyond two trials.\nHint: Spot absolute wording.",
     "structuredExplanation": {
       "summary": "“Every” and “always” go beyond two trials.",
@@ -730,7 +730,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-023",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Which question is focused enough for class?",
@@ -742,12 +742,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Why is air interesting?",
-      "What is the best helicopter?",
       "How does helicopter blade length affect fall time?",
-      "How does everything affect flying?"
+      "Why is air interesting?",
+      "How does everything affect flying?",
+      "What is the best helicopter?"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "It names one factor and one measurable outcome.\nHint: Could you plan a test?",
     "structuredExplanation": {
       "summary": "It names one factor and one measurable outcome.",
@@ -763,7 +763,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-024",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "Which prediction is evidence-based?",
@@ -775,15 +775,15 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "First will win because it is first.",
+      "The wider surface may warm more although width was not observed or compared.",
+      "The darker surface may warm more because dark is my favourite colour.",
       "The darker surface may warm more because it did in earlier tests.",
-      "Blue will win because I like blue.",
-      "Square will win because it is neat."
+      "The first surface tested must warm most because it is first."
     ],
-    "correct": 1,
-    "explanation": "The first uses relevant previous observations.\nHint: Evidence, not preference.",
+    "correct": 2,
+    "explanation": "The supported prediction uses relevant previous observations.\nHint: Evidence, not preference.",
     "structuredExplanation": {
-      "summary": "The first uses relevant previous observations.",
+      "summary": "The supported prediction uses relevant previous observations.",
       "hint": "Evidence, not preference."
     },
     "stage": "discriminate",
@@ -796,7 +796,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-025",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Taller ramps usually made cars travel farther. Which question extends the work?",
@@ -808,12 +808,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
+      "Which car would the class most like to own?",
+      "Which car paint is most attractive?",
       "Does the pattern continue with an even taller ramp?",
-      "Which car colour is nicest?",
-      "Why are ramps triangles?",
-      "Who likes cars?"
+      "Which ramp label is easiest to read?"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "It extends the same relationship.\nHint: Build on the pattern.",
     "structuredExplanation": {
       "summary": "It extends the same relationship.",
@@ -829,7 +829,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-026",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Which pair is correct?",
@@ -841,12 +841,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Observation: may last longer; Prediction: lasted 18 min.",
-      "Observation: ice is nice; Prediction: shade is green.",
-      "Observation: tomorrow; Prediction: yesterday.",
-      "Observation: shaded ice lasted 18 min; Prediction: shaded ice may last longer next time."
+      "Observation: shaded ice will last longer tomorrow; Prediction: its measured time was 18 minutes.",
+      "Observation: shaded ice may last longer; Prediction: shaded ice lasted 18 minutes.",
+      "Observation: shaded ice lasted 18 min; Prediction: shaded ice may last longer next time.",
+      "Observation: the next cube should last longer; Prediction: yesterday the cube lasted 18 minutes."
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Observation reports evidence; prediction anticipates a result.\nHint: Known versus expected.",
     "structuredExplanation": {
       "summary": "Observation reports evidence; prediction anticipates a result.",
@@ -862,7 +862,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-027",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Which question would produce evidence rather than opinions?",
@@ -874,15 +874,15 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Who made the best spinner?",
-      "Is spinning fun?",
       "Does adding paper clips affect spinner fall time?",
-      "Which spinner looks coolest?"
+      "Who made the best spinner?",
+      "Which spinner looks coolest?",
+      "Is spinning fun?"
     ],
-    "correct": 2,
-    "explanation": "The first can be measured.\nHint: Choose measurable evidence.",
+    "correct": 0,
+    "explanation": "The effect on fall time can be measured.\nHint: Choose measurable evidence.",
     "structuredExplanation": {
-      "summary": "The first can be measured.",
+      "summary": "The effect on fall time can be measured.",
       "hint": "Choose measurable evidence."
     },
     "stage": "discriminate",
@@ -895,7 +895,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-028",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "One ant is seen near sugar, then a student says ants always prefer sugar. What is wrong?",
@@ -907,15 +907,15 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Predictions cannot mention animals.",
-      "One observation cannot support an “always” claim.",
-      "Ants cannot be observed.",
-      "Sugar is not material."
+      "The observation already compares sugar with every other food.",
+      "One observation proves the preference for every ant.",
+      "Seeing an ant near sugar measures how much sugar it ate.",
+      "One observation cannot support an “always” claim."
     ],
-    "correct": 1,
-    "explanation": "The evidence is too limited for a universal rule.\nHint: One result ≠ always.",
+    "correct": 3,
+    "explanation": "The evidence is too limited for a general rule.\nHint: One result ≠ always.",
     "structuredExplanation": {
-      "summary": "The evidence is too limited for a universal rule.",
+      "summary": "The evidence is too limited for a general rule.",
       "hint": "One result ≠ always."
     },
     "stage": "discriminate",
@@ -928,11 +928,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-029",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
-    "question": "Which prediction matches “Does water temperature affect tablet dissolving time?”",
-    "audioPrompt": "Which prediction matches “Does water temperature affect tablet dissolving time?”",
+    "question": "A class observed that a tablet dissolved sooner in warmer water than in cooler water. Which prediction follows this pattern for a similar trial?",
+    "audioPrompt": "A class observed that a tablet dissolved sooner in warmer water than in cooler water. Which prediction follows this pattern for a similar trial?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -940,16 +940,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
+      "The tablet may take the same time in both water temperatures.",
       "The tablet may dissolve faster in warmer water.",
-      "The warm cup is red.",
-      "The tablet is round.",
-      "Warm water is better."
+      "The tablet colour may be the class favourite.",
+      "The tablet may dissolve more slowly in warmer water."
     ],
-    "correct": 0,
-    "explanation": "It predicts the outcome named in the question.\nHint: Same factors.",
+    "correct": 1,
+    "explanation": "The prediction follows the earlier observation that dissolving took less time in warmer water. A prediction still needs testing.\nHint: Use the direction of the observed pattern.",
     "structuredExplanation": {
-      "summary": "It predicts the outcome named in the question.",
-      "hint": "Same factors."
+      "summary": "The prediction follows the earlier observation that dissolving took less time in warmer water. A prediction still needs testing.",
+      "hint": "Use the direction of the observed pattern."
     },
     "stage": "discriminate",
     "difficulty": 2,
@@ -961,7 +961,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-030",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "What should happen if the expected pattern does not appear?",
@@ -975,10 +975,10 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Delete unusual results.",
       "Change data.",
-      "Claim the pattern anyway.",
-      "Record the results and reconsider the prediction or question."
+      "Record the results and reconsider the prediction or question.",
+      "Claim the pattern anyway."
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Scientific reasoning follows the evidence collected.\nHint: Let evidence change thinking.",
     "structuredExplanation": {
       "summary": "Scientific reasoning follows the evidence collected.",
@@ -994,7 +994,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-031",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Shadows are shortest near lunchtime. Which question best investigates this?",
@@ -1006,10 +1006,10 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Why is lunch at noon?",
-      "Are shadows scary?",
+      "Which time of day does the class prefer?",
+      "Which shadow looks most interesting?",
       "How does a pole’s shadow length change during the day?",
-      "Which shadow is funniest?"
+      "Which pole colour looks best in sunlight?"
     ],
     "correct": 2,
     "explanation": "It makes the time–shadow relationship measurable.\nHint: Measure across time.",
@@ -1027,7 +1027,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-032",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "Ice melted faster on metal than foam in three trials. Which prediction is best?",
@@ -1039,10 +1039,10 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The next result must match exactly.",
+      "Foam never warms.",
       "Ice on metal may melt faster again in a similar test.",
       "Metal melts all ice instantly.",
-      "Foam never warms."
+      "The next result must match exactly."
     ],
     "correct": 1,
     "explanation": "It uses repeated evidence cautiously.\nHint: Pattern, not guarantee.",
@@ -1060,7 +1060,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-033",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Plants given 20 mL grew taller than plants given 5 mL. Which next question is strongest?",
@@ -1093,7 +1093,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-034",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "A smooth ball rolled farther yesterday. Which prediction is strongest?",
@@ -1105,15 +1105,15 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Green will win because green is lucky.",
-      "Smooth objects roll forever.",
-      "Rough balls cannot move.",
-      "A smooth ball may roll farther again on the same ramp."
+      "A smooth ball may roll farther again on the same ramp.",
+      "The smooth ball must roll farther even if it receives a smaller push.",
+      "The next ball must roll exactly the same distance despite a different slope.",
+      "The rough ball must stay still on every ramp."
     ],
-    "correct": 3,
-    "explanation": "The first prediction uses relevant evidence.\nHint: Use yesterday’s observation.",
+    "correct": 0,
+    "explanation": "The evidence-based prediction uses relevant evidence.\nHint: Use yesterday’s observation.",
     "structuredExplanation": {
-      "summary": "The first prediction uses relevant evidence.",
+      "summary": "The evidence-based prediction uses relevant evidence.",
       "hint": "Use yesterday’s observation."
     },
     "stage": "apply",
@@ -1126,7 +1126,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-035",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Improve “Does light affect plants?”",
@@ -1138,12 +1138,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "What happens?",
-      "Do I like sunlight?",
+      "What happens to all living things?",
       "Does light amount affect bean-plant growth over two weeks?",
-      "Are plants good?"
+      "Which plant is nicest?",
+      "Does light affect everything?"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The revision makes the factor and outcome measurable.\nHint: Make “affect” specific.",
     "structuredExplanation": {
       "summary": "The revision makes the factor and outcome measurable.",
@@ -1159,7 +1159,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-036",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "Birds visited a feeder more in mornings for five days. Which prediction fits day six?",
@@ -1171,12 +1171,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Morning creates birds.",
+      "The exact number must be identical to day five.",
+      "The morning count will be lower because it was higher before.",
       "More visits may occur in the morning again.",
-      "Exactly 12 birds must arrive at 8:03.",
-      "Birds never visit afternoons."
+      "Birds cannot visit in the afternoon."
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The pattern supports a cautious prediction.\nHint: Use only what evidence supports.",
     "structuredExplanation": {
       "summary": "The pattern supports a cautious prediction.",
@@ -1192,7 +1192,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-037",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "predictions from observations",
     "printable": true,
     "type": "single",
     "question": "Warmer water was predicted to dissolve sugar faster, but both cups took the same time. What next?",
@@ -1204,12 +1204,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Record the result and repeat or refine the question.",
+      "Say warm was faster anyway.",
       "Change one time.",
-      "Ignore the cups.",
-      "Say warm was faster anyway."
+      "Record the result and repeat or refine the question.",
+      "Ignore the cups."
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Equal results are still evidence.\nHint: Unexpected evidence counts.",
     "structuredExplanation": {
       "summary": "Equal results are still evidence.",
@@ -1225,7 +1225,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-038",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Plants near a leaking tap are taller. Which question avoids assuming cause?",
@@ -1237,15 +1237,15 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Why does the tap make plants tall?",
       "Why are taps good?",
+      "Does receiving more water affect plant growth?",
       "Do tall plants always grow near taps?",
-      "Does receiving more water affect plant growth?"
+      "Why does the tap make plants tall?"
     ],
-    "correct": 3,
-    "explanation": "It tests the possible relationship without assuming causation.\nHint: Ask before claiming cause.",
+    "correct": 1,
+    "explanation": "It tests the possible relationship without assuming a cause.\nHint: Ask before claiming cause.",
     "structuredExplanation": {
-      "summary": "It tests the possible relationship without assuming causation.",
+      "summary": "It tests the possible relationship without assuming a cause.",
       "hint": "Ask before claiming cause."
     },
     "stage": "apply",
@@ -1258,7 +1258,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-039",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Which observation best justifies asking whether shade affects soil temperature?",
@@ -1270,12 +1270,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Students like shade.",
-      "The thermometer is yellow.",
       "Soil was cooler under a tree than in sun on several afternoons.",
-      "The tree has green leaves."
+      "The sunny soil was not measured at all.",
+      "The shaded soil colour is popular with students.",
+      "The thermometer case is yellow."
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Repeated temperature differences support the question.\nHint: Use relevant observations.",
     "structuredExplanation": {
       "summary": "Repeated temperature differences support the question.",
@@ -1291,7 +1291,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9s3i01-p-040",
     "curriculumCode": "AC9S3I01",
     "bank": "practice",
-    "skill": "questions about patterns and evidence-based predictions",
+    "skill": "questions about patterns and relationships",
     "printable": true,
     "type": "single",
     "question": "Which sequence shows strong inquiry?",
@@ -1303,12 +1303,12 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Vote on an opinion → call it evidence",
+      "Ask for favourites → treat the vote as a measurement of heating",
+      "Choose an answer → alter observations to fit → report it",
       "Notice pattern → ask focused question → predict from evidence → investigate",
-      "Choose answer → change data → announce rule",
-      "Predict → refuse to observe"
+      "Predict → skip the investigation → report the prediction as a result"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Strong inquiry connects observations, questions, predictions and evidence.\nHint: Follow the evidence.",
     "structuredExplanation": {
       "summary": "Strong inquiry connects observations, questions, predictions and evidence.",
@@ -1318,6 +1318,270 @@ window.skillrPracticeQuestions = [
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 40,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3i01-p-041",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions from growth patterns",
+    "printable": true,
+    "type": "single",
+    "question": "Each week, a class sees taller bean seedlings in pots with compost than in pots without it. Which question explores this pattern?",
+    "audioPrompt": "Each week, a class sees taller bean seedlings in pots with compost than in pots without it. Which question explores this pattern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "How many letters are in the word compost?",
+      "Does adding compost affect bean-seedling height over four weeks?",
+      "Which compost bag looks most attractive?",
+      "Why must every plant grow tallest in compost?"
+    ],
+    "correct": 1,
+    "explanation": "The question links the observed soil difference with a measurable growth outcome without assuming the answer.\nHint: Name the condition and the observed outcome.",
+    "structuredExplanation": {
+      "summary": "The question links the observed soil difference with a measurable growth outcome without assuming the answer.",
+      "hint": "Name the condition and the observed outcome."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 41,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3i01-p-042",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "predictions from life-stage patterns",
+    "printable": true,
+    "type": "single",
+    "question": "In two pond records, tadpoles develop back legs before becoming young frogs. What is a reasonable prediction for another tadpole of the same kind?",
+    "audioPrompt": "In two pond records, tadpoles develop back legs before becoming young frogs. What is a reasonable prediction for another tadpole of the same kind?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It may develop back legs before becoming a young frog.",
+      "It must develop legs tomorrow at the same time.",
+      "It will skip all stages already seen in the records.",
+      "It will become an egg immediately after growing legs."
+    ],
+    "correct": 0,
+    "explanation": "The prediction uses the observed sequence without inventing an exact date.\nHint: Use the order in the records.",
+    "structuredExplanation": {
+      "summary": "The prediction uses the observed sequence without inventing an exact date.",
+      "hint": "Use the order in the records."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 42,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3i01-p-043",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "predictions from temperature data",
+    "printable": true,
+    "type": "single",
+    "question": "A warm cup in a cooler room is 40°C at the start, 36°C after five minutes and 33°C after ten minutes. Which prediction fits these observations?",
+    "audioPrompt": "A warm cup in a cooler room is 40°C at the start, 36°C after five minutes and 33°C after ten minutes. Which prediction fits these observations?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It must reach exactly 0°C after another five minutes.",
+      "It will probably be cooler after another five minutes in the same room.",
+      "It must remain exactly 33°C because two readings were already taken.",
+      "It will probably be warmer after another five minutes in the same room."
+    ],
+    "correct": 1,
+    "explanation": "The readings show cooling towards the cooler surroundings; they do not specify an exact next temperature.\nHint: Use the direction of the measured change.",
+    "structuredExplanation": {
+      "summary": "The readings show cooling towards the cooler surroundings; they do not specify an exact next temperature.",
+      "hint": "Use the direction of the measured change."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 43,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3i01-p-044",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions about soil relationships",
+    "printable": true,
+    "type": "single",
+    "question": "Water disappears into sandy soil sooner than into clay-rich soil in several observations. Which question could the class investigate?",
+    "audioPrompt": "Water disappears into sandy soil sooner than into clay-rich soil in several observations. Which question could the class investigate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Which soil colour does the class prefer?",
+      "Why is sandy soil best for every garden?",
+      "Which soil name is easier to spell?",
+      "How does soil type affect the time taken for the same water volume to drain?"
+    ],
+    "correct": 3,
+    "explanation": "The question connects soil type with the observed drainage time and makes the comparison measurable.\nHint: Turn the pattern into a question that can be checked.",
+    "structuredExplanation": {
+      "summary": "The question connects soil type with the observed drainage time and makes the comparison measurable.",
+      "hint": "Turn the pattern into a question that can be checked."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 44,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3i01-p-045",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "refining investigation questions",
+    "printable": true,
+    "type": "single",
+    "question": "A student asks, “Does wrapping help?” while looking at melting ice. Which clearer question keeps the same idea?",
+    "audioPrompt": "A student asks, “Does wrapping help?” while looking at melting ice. Which clearer question keeps the same idea?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Does wrapping affect everything?",
+      "How much paper is in the classroom?",
+      "Which wrapping material is nicest?",
+      "Does wrapping material affect how long equal ice cubes take to melt?"
+    ],
+    "correct": 3,
+    "explanation": "The clearer question names both the changed condition and the measured outcome.\nHint: Say what wrapping may affect.",
+    "structuredExplanation": {
+      "summary": "The clearer question names both the changed condition and the measured outcome.",
+      "hint": "Say what wrapping may affect."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 45,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3i01-p-046",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "qualifying predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Three ice cubes melted sooner beside a warm window than in a cooler cupboard. Which prediction states a useful condition?",
+    "audioPrompt": "Three ice cubes melted sooner beside a warm window than in a cooler cupboard. Which prediction states a useful condition?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A cupboard cube can never melt.",
+      "A window cube will always melt first, even if the window area is colder.",
+      "Any cube will melt in exactly three minutes.",
+      "Another equal cube may melt sooner beside the window if the locations have similar temperatures to before."
+    ],
+    "correct": 3,
+    "explanation": "The prediction uses the observed pattern while recognising that changed temperatures could change the outcome.\nHint: Would the same pattern be expected if conditions changed?",
+    "structuredExplanation": {
+      "summary": "The prediction uses the observed pattern while recognising that changed temperatures could change the outcome.",
+      "hint": "Would the same pattern be expected if conditions changed?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 46,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3i01-p-047",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "questions without assumed causes",
+    "printable": true,
+    "type": "single",
+    "question": "A patch of plants beside a tap is taller than plants farther away. Which question explores the pattern without assuming its cause?",
+    "audioPrompt": "A patch of plants beside a tap is taller than plants farther away. Which question explores the pattern without assuming its cause?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Why does tap water always make every plant tall?",
+      "Does water amount affect the height of these plants?",
+      "Why are the shorter plants unable to grow?",
+      "Which tall plant is the best-looking?"
+    ],
+    "correct": 1,
+    "explanation": "The question proposes a relationship to test rather than treating it as already proven.\nHint: Ask about a possible relationship.",
+    "structuredExplanation": {
+      "summary": "The question proposes a relationship to test rather than treating it as already proven.",
+      "hint": "Ask about a possible relationship."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 47,
+    "qualitySchema": "skillr-actual-v6"
+  },
+  {
+    "id": "ac9s3i01-p-048",
+    "curriculumCode": "AC9S3I01",
+    "bank": "practice",
+    "skill": "follow-up questions",
+    "printable": true,
+    "type": "single",
+    "question": "A class predicts larger stones will always have greater mass. One larger stone has less mass than a smaller stone. Which follow-up question is useful?",
+    "audioPrompt": "A class predicts larger stones will always have greater mass. One larger stone has less mass than a smaller stone. Which follow-up question is useful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Could the kind of rock affect mass as well as size?",
+      "How can we label the lighter stone heavier?",
+      "Which measurement should we erase to save our prediction?",
+      "Why should we stop measuring all stones?"
+    ],
+    "correct": 0,
+    "explanation": "The surprising observation suggests another property may matter and can lead to a new investigation question.\nHint: Use the unexpected result to ask a new question.",
+    "structuredExplanation": {
+      "summary": "The surprising observation suggests another property may matter and can lead to a new investigation question.",
+      "hint": "Use the unexpected result to ask a new question."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 48,
     "qualitySchema": "skillr-actual-v6"
   }
 ];

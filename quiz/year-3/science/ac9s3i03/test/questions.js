@@ -4,7 +4,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-001",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "printable": true,
     "type": "single",
     "question": "Which tool is best for measuring the mass of a shell?",
@@ -17,9 +17,9 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A stopwatch",
-      "A thermometer",
+      "A ruler",
       "A balance",
-      "A ruler"
+      "A thermometer"
     ],
     "correct": 2,
     "explanation": "A balance measures mass.\nHint: Match tool and quantity.",
@@ -36,7 +36,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-002",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "printable": true,
     "type": "single",
     "question": "A student measures a piece of string. Which record gives a complete measurement?",
@@ -48,12 +48,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The string looked good",
-      "The string was 42 cm long",
       "The string was 42",
-      "The string was long"
+      "The string was 42 mL long",
+      "The string was 42 cm long",
+      "The string was longer than expected, without a measurement"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "A complete measurement includes number and unit.\nHint: Number + unit.",
     "structuredExplanation": {
       "summary": "A complete measurement includes number and unit.",
@@ -68,28 +68,30 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-003",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "reading offset ruler scales",
     "printable": true,
     "type": "single",
-    "question": "Why measure from the zero mark of a ruler?",
-    "audioPrompt": "Why measure from the zero mark of a ruler?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "The leaf does not start at zero. Read the ruler diagram. What is its length?",
+    "audioPrompt": "The leaf does not start at zero. Read the ruler diagram. What is its length?",
+    "visual": "A leaf lies over a centimetre ruler. Its ends line up with the marks labelled three and nine.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A leaf lies over a centimetre ruler. Its ends line up with the marks labelled three and nine.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#t003\"/></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "t003",
+      "alt_text": "A leaf lies over a centimetre ruler. Its ends line up with the marks labelled three and nine."
     },
     "answers": [
-      "It gives the correct reference for length",
-      "It makes the object longer",
-      "It changes centimetres to metres",
-      "It is only for decoration"
+      "9 cm",
+      "6 cm",
+      "3 cm",
+      "12 cm"
     ],
-    "correct": 0,
-    "explanation": "Zero is the normal starting reference.\nHint: Start at the reference point.",
+    "correct": 1,
+    "explanation": "The leaf extends from 3 cm to 9 cm. Its length is 9 − 3 = 6 cm.\nHint: Subtract the start reading from the end reading.",
     "structuredExplanation": {
-      "summary": "Zero is the normal starting reference.",
-      "hint": "Start at the reference point."
+      "summary": "The leaf extends from 3 cm to 9 cm. Its length is 9 − 3 = 6 cm.",
+      "hint": "Subtract the start reading from the end reading."
     },
     "difficulty": 3,
     "difficultyTier": "independent",
@@ -100,7 +102,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-004",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "printable": true,
     "type": "single",
     "question": "Which unit is suitable for elapsed time?",
@@ -113,8 +115,8 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "centimetres",
-      "millilitres",
       "grams",
+      "millilitres",
       "seconds"
     ],
     "correct": 3,
@@ -132,28 +134,30 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-005",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "reading liquid volume",
     "printable": true,
     "type": "single",
-    "question": "A student measures water as 75 mL. What quantity is this?",
-    "audioPrompt": "A student measures water as 75 mL. What quantity is this?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Read the cylinder diagram. Which volume should be recorded?",
+    "audioPrompt": "Read the cylinder diagram. Which volume should be recorded?",
+    "visual": "A cylinder has five-millilitre intervals. The water is at the mark halfway between forty and fifty.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A cylinder has five-millilitre intervals. The water is at the mark halfway between forty and fifty.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#t005\"/></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "t005",
+      "alt_text": "A cylinder has five-millilitre intervals. The water is at the mark halfway between forty and fifty."
     },
     "answers": [
-      "Temperature",
-      "Length",
-      "Volume",
-      "Mass"
+      "40 mL",
+      "45 mL",
+      "9 mL",
+      "50 mL"
     ],
-    "correct": 2,
-    "explanation": "Millilitres measure liquid volume.\nHint: mL = volume.",
+    "correct": 1,
+    "explanation": "The water reaches the small mark halfway between 40 and 50 mL: 45 mL.\nHint: Check the interval between labelled values.",
     "structuredExplanation": {
-      "summary": "Millilitres measure liquid volume.",
-      "hint": "mL = volume."
+      "summary": "The water reaches the small mark halfway between 40 and 50 mL: 45 mL.",
+      "hint": "Check the interval between labelled values."
     },
     "difficulty": 3,
     "difficultyTier": "independent",
@@ -164,7 +168,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-006",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "printable": true,
     "type": "single",
     "question": "Which observation is safest?",
@@ -176,12 +180,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Chew a small piece",
       "Look at an unknown leaf with a hand lens",
+      "Rub it in your eyes",
       "Taste the leaf",
-      "Rub it in your eyes"
+      "Chew a small piece"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Visual observation avoids unnecessary exposure.\nHint: Do not taste unknown materials.",
     "structuredExplanation": {
       "summary": "Visual observation avoids unnecessary exposure.",
@@ -196,7 +200,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-007",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "printable": true,
     "type": "single",
     "question": "A class times the same ramp run several times. Why are repeated measurements useful?",
@@ -208,12 +212,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "To check consistency",
+      "To make values identical",
       "To guarantee the prediction",
-      "To remove units",
-      "To make values identical"
+      "To check consistency",
+      "To remove units"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Repeats can reveal variation or errors.\nHint: Compare repeated readings.",
     "structuredExplanation": {
       "summary": "Repeats can reveal variation or errors.",
@@ -228,7 +232,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-008",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "printable": true,
     "type": "single",
     "question": "An object starts at 4 cm and ends at 19 cm on a ruler. Its length is:",
@@ -240,9 +244,9 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "19 cm",
-      "23 cm",
       "4 cm",
+      "23 cm",
+      "19 cm",
       "15 cm"
     ],
     "correct": 3,
@@ -260,7 +264,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-009",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "printable": true,
     "type": "single",
     "question": "Which result should be checked because it is very different?",
@@ -272,10 +276,10 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "30 s, 31 s, 30 s",
       "20 mL, 21 mL, 20 mL",
+      "12 cm, 13 cm, 12 cm",
       "12 cm, 13 cm, 47 cm",
-      "12 cm, 13 cm, 12 cm"
+      "30 s, 31 s, 30 s"
     ],
     "correct": 2,
     "explanation": "47 cm is far from the other readings.\nHint: Find the unusual value.",
@@ -292,28 +296,30 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-010",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "reading a thermometer",
     "printable": true,
     "type": "single",
-    "question": "What does a thermometer measure?",
-    "audioPrompt": "What does a thermometer measure?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "What temperature is shown on this thermometer?",
+    "audioPrompt": "What temperature is shown on this thermometer?",
+    "visual": "A thermometer has two-degree intervals. The liquid is one interval below twenty degrees Celsius.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A thermometer has two-degree intervals. The liquid is one interval below twenty degrees Celsius.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#t010\"/></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "t010",
+      "alt_text": "A thermometer has two-degree intervals. The liquid is one interval below twenty degrees Celsius."
     },
     "answers": [
-      "Volume",
-      "Temperature",
-      "Mass",
-      "Time"
+      "18°C",
+      "8°C",
+      "20°C",
+      "16°C"
     ],
-    "correct": 1,
-    "explanation": "Thermometers measure temperature.\nHint: Think °C.",
+    "correct": 0,
+    "explanation": "The liquid ends one two-degree interval below 20°C, so it reads 18°C.\nHint: Read the top of the liquid against the scale.",
     "structuredExplanation": {
-      "summary": "Thermometers measure temperature.",
-      "hint": "Think °C."
+      "summary": "The liquid ends one two-degree interval below 20°C, so it reads 18°C.",
+      "hint": "Read the top of the liquid against the scale."
     },
     "difficulty": 3,
     "difficultyTier": "independent",
@@ -324,7 +330,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-011",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "printable": true,
     "type": "single",
     "question": "Which statement is an opinion?",
@@ -337,9 +343,9 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "This is the best rock",
-      "The rock is 7 cm long",
+      "The rock has white spots",
       "The rock is rough",
-      "The rock has white spots"
+      "The rock is 7 cm long"
     ],
     "correct": 0,
     "explanation": "“Best” is a judgement rather than a shared observation.\nHint: Preference versus observation.",
@@ -356,7 +362,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-012",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "printable": true,
     "type": "single",
     "question": "Why use the same stopwatch for repeated races?",
@@ -368,15 +374,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes racers equally fast",
-      "It guarantees no mistakes",
-      "It changes distance into time",
+      "It guarantees no mistakes in starting or stopping.",
+      "It removes the need to use the same start rule.",
+      "It makes all race times identical.",
       "It keeps the timing method consistent"
     ],
     "correct": 3,
-    "explanation": "Consistent measurement methods improve comparability.\nHint: Same method.",
+    "explanation": "Consistent measurement methods improve fair comparison.\nHint: Same method.",
     "structuredExplanation": {
-      "summary": "Consistent measurement methods improve comparability.",
+      "summary": "Consistent measurement methods improve fair comparison.",
       "hint": "Same method."
     },
     "difficulty": 3,
@@ -388,7 +394,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-013",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "printable": true,
     "type": "single",
     "question": "Which digital tool could record temperature over time?",
@@ -400,12 +406,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A speaker",
-      "A calculator with no sensor",
       "A temperature probe connected to a device",
-      "A drawing app only"
+      "A drawing app only",
+      "A speaker",
+      "A calculator with no sensor"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "A probe can collect temperature measurements electronically.\nHint: Choose a sensor that measures temperature.",
     "structuredExplanation": {
       "summary": "A probe can collect temperature measurements electronically.",
@@ -420,28 +426,30 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-014",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording digital mass",
     "printable": true,
     "type": "single",
-    "question": "Which is the strongest plant-growth record?",
-    "audioPrompt": "Which is the strongest plant-growth record?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A digital balance is used to measure a rock. Which entry correctly records its display?",
+    "audioPrompt": "A digital balance is used to measure a rock. Which entry correctly records its display?",
+    "visual": "A digital balance displays 92 g.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A digital balance displays 92 g.\"><use href=\"/assets/assessment-banks/year3/science/strict-i03-diagrams.svg#t014\"/></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i03-diagrams.svg",
+      "symbol_id": "t014",
+      "alt_text": "A digital balance displays 92 g."
     },
     "answers": [
-      "It was nice",
-      "Monday 11 cm; Friday 15 cm",
-      "It grew",
-      "It looked taller"
+      "Rock mass: 29 g",
+      "Rock mass: 92 g",
+      "Rock mass: 92 cm",
+      "Rock mass: 92 mL"
     ],
     "correct": 1,
-    "explanation": "Measured heights show the change clearly.\nHint: Use numerical evidence.",
+    "explanation": "The balance displays 92 g, which records the rock mass.\nHint: Copy both the number and the mass unit.",
     "structuredExplanation": {
-      "summary": "Measured heights show the change clearly.",
-      "hint": "Use numerical evidence."
+      "summary": "The balance displays 92 g, which records the rock mass.",
+      "hint": "Copy both the number and the mass unit."
     },
     "difficulty": 3,
     "difficultyTier": "independent",
@@ -452,7 +460,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-015",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "using measurement tools and procedures",
     "printable": true,
     "type": "single",
     "question": "A measuring cup is read from above rather than eye level. What problem may occur?",
@@ -464,12 +472,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The scale can be misread due to viewing angle",
-      "The water changes mass",
-      "The cup becomes hotter",
-      "The unit changes"
+      "The volume changes when viewed from above.",
+      "The scale unit changes with eye position.",
+      "Looking from above makes each scale interval larger.",
+      "The scale can be misread due to viewing angle"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Viewing angle can affect the apparent level against the scale.\nHint: Read at eye level.",
     "structuredExplanation": {
       "summary": "Viewing angle can affect the apparent level against the scale.",
@@ -484,7 +492,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3i03-t-016",
     "curriculumCode": "AC9S3I03",
     "bank": "test",
-    "skill": "observing, measuring and recording accurately",
+    "skill": "recording observations and measurements",
     "printable": true,
     "type": "single",
     "question": "Which result table heading is best?",
@@ -496,16 +504,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Time stuff",
-      "How long maybe",
-      "Result",
-      "Time (s)"
+      "Result number",
+      "Time (s)",
+      "Time",
+      "Seconds measured as length"
     ],
-    "correct": 3,
-    "explanation": "A clear heading names the quantity and unit.\nHint: Label data precisely.",
+    "correct": 1,
+    "explanation": "A clear heading names the quantity and unit.\nHint: Label data clearly.",
     "structuredExplanation": {
       "summary": "A clear heading names the quantity and unit.",
-      "hint": "Label data precisely."
+      "hint": "Label data clearly."
     },
     "difficulty": 3,
     "difficultyTier": "independent",

@@ -4,7 +4,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-001",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "linking science to a practical need",
     "printable": true,
     "type": "single",
     "question": "A bushwalking shelter should reduce direct summer sun. Which idea is most relevant?",
@@ -16,10 +16,10 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Sunlight cannot heat objects",
-      "Roof colour is the only factor",
+      "A shelter must cool the air to freezing",
+      "A roof prevents all heat transfer",
       "Shade blocks some incoming solar energy",
-      "Shelters create cold"
+      "Shade adds sunlight to the sheltered area"
     ],
     "correct": 2,
     "explanation": "Shade reduces direct solar heating.\nHint: What does the roof block?",
@@ -36,11 +36,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-002",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "linking science to a practical need",
     "printable": true,
     "type": "single",
-    "question": "A compost bin needs airflow. Which feature helps most?",
-    "audioPrompt": "A compost bin needs airflow. Which feature helps most?",
+    "question": "Living decomposers in a compost bin need air. Which feature helps meet this need?",
+    "audioPrompt": "Living decomposers in a compost bin need air. Which feature helps meet this need?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -48,12 +48,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A sticker",
       "Ventilation openings",
-      "A green lid",
-      "A bigger label"
+      "A completely sealed lid with no air openings",
+      "A solid cover that blocks every air gap",
+      "An extra airtight inner lining"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Openings allow air exchange.\nHint: What changes airflow?",
     "structuredExplanation": {
       "summary": "Openings allow air exchange.",
@@ -68,7 +68,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-003",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "evaluating science-based solutions",
     "printable": true,
     "type": "single",
     "question": "A footpath surface becomes very hot. What evidence best compares replacements?",
@@ -80,12 +80,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Surface temperatures under the same sunlight",
-      "Which looks newest",
-      "Which name is shortest",
-      "Which colour is popular"
+      "One sample indoors and one outdoors at different times",
+      "Surface colour preference without measurements",
+      "Only the starting temperatures before sunlight exposure",
+      "Surface temperatures under the same sunlight"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Temperature directly tests the heat problem.\nHint: Measure the relevant outcome.",
     "structuredExplanation": {
       "summary": "Temperature directly tests the heat problem.",
@@ -100,11 +100,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-004",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "linking science to a practical need",
     "printable": true,
     "type": "single",
-    "question": "Why might a rescue blanket have a reflective surface?",
-    "audioPrompt": "Why might a rescue blanket have a reflective surface?",
+    "question": "A rescue team needs to slow heat loss from a person. A blanket material slows heat transfer. How does this property meet the need?",
+    "audioPrompt": "A rescue team needs to slow heat loss from a person. A blanket material slows heat transfer. How does this property meet the need?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -112,19 +112,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes new body heat",
-      "It increases body mass",
-      "Shiny materials are always waterproof",
-      "It can reduce some heat transfer by reflecting radiation"
+      "It keeps the person at any chosen temperature without checking.",
+      "It cools the person as quickly as possible.",
+      "It helps the person lose heat more slowly.",
+      "It makes the person produce no body heat."
     ],
-    "correct": 3,
-    "explanation": "Reflective surfaces can reduce radiative heat transfer.\nHint: Think heat loss.",
+    "correct": 2,
+    "explanation": "Slowing heat transfer helps retain warmth, but does not set or guarantee a particular body temperature.\nHint: Match the material property to retaining warmth.",
     "structuredExplanation": {
-      "summary": "Reflective surfaces can reduce radiative heat transfer.",
-      "hint": "Think heat loss."
+      "summary": "Slowing heat transfer helps retain warmth, but does not set or guarantee a particular body temperature.",
+      "hint": "Match the material property to retaining warmth."
     },
     "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficultyTier": "apply",
     "sequencePriority": 4,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -132,11 +132,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-005",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "evaluating science-based solutions",
     "printable": true,
     "type": "single",
-    "question": "A new filter is being tested. What result best shows it meets the need?",
-    "audioPrompt": "A new filter is being tested. What result best shows it meets the need?",
+    "question": "A filter is designed to remove visible soil particles from water. Which result shows it meets that particular need?",
+    "audioPrompt": "A filter is designed to remove visible soil particles from water. Which result shows it meets that particular need?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -144,19 +144,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The filter is expensive",
-      "The filter name is long",
-      "Cleaner water after passing through the filter under the tested conditions",
-      "The filter has a bright colour"
+      "The water must be safe to drink because it looks clear.",
+      "Less visible soil remains after filtering than before.",
+      "The filter weighs less before it is used.",
+      "The filtered water is in a more colourful cup."
     ],
-    "correct": 2,
-    "explanation": "Performance evidence should match the need.\nHint: What changed in the water?",
+    "correct": 1,
+    "explanation": "The stated need concerns visible soil. Clear-looking water is not evidence that it is safe to drink.\nHint: Check the result against the stated need.",
     "structuredExplanation": {
-      "summary": "Performance evidence should match the need.",
-      "hint": "What changed in the water?"
+      "summary": "The stated need concerns visible soil. Clear-looking water is not evidence that it is safe to drink.",
+      "hint": "Check the result against the stated need."
     },
     "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficultyTier": "apply",
     "sequencePriority": 5,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -164,11 +164,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-006",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "evaluating science-based solutions",
     "printable": true,
     "type": "single",
-    "question": "Why test a prototype?",
-    "audioPrompt": "Why test a prototype?",
+    "question": "Why test a test model?",
+    "audioPrompt": "Why test a test model?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -176,15 +176,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because designs cannot change",
-      "To find problems and improve the design before wider use",
       "To prove perfection",
-      "To avoid evidence"
+      "Because designs cannot change",
+      "To avoid evidence",
+      "To find problems and improve the design before wider use"
     ],
-    "correct": 1,
-    "explanation": "Prototype testing supports revision.\nHint: Test before finalising.",
+    "correct": 3,
+    "explanation": "Test model testing supports revision.\nHint: Test before finalising.",
     "structuredExplanation": {
-      "summary": "Prototype testing supports revision.",
+      "summary": "Test model testing supports revision.",
       "hint": "Test before finalising."
     },
     "difficulty": 3,
@@ -196,7 +196,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-007",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "linking science to a practical need",
     "printable": true,
     "type": "single",
     "question": "A lunch container must keep food warm. Which property matters most?",
@@ -208,12 +208,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
+      "Thin walls chosen without a cooling test",
+      "A large opening that lets warm air escape",
       "Ability to slow heat transfer",
-      "Bright colour",
-      "Large logo",
-      "Loud lid"
+      "Ability to transfer heat to the room quickly"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Insulation supports temperature control.\nHint: Think heat transfer.",
     "structuredExplanation": {
       "summary": "Insulation supports temperature control.",
@@ -228,7 +228,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-008",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "linking science to a practical need",
     "printable": true,
     "type": "single",
     "question": "A garden path erodes in rain. Which solution is most relevant?",
@@ -240,12 +240,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Add more signs",
-      "Change the path name",
-      "Paint nearby fences",
-      "Improve drainage and protect exposed soil"
+      "Improve drainage and protect exposed soil",
+      "Send more water down the unprotected slope",
+      "Remove all plants beside the exposed path",
+      "Choose a new surface only by its colour"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Drainage and ground protection address erosion.\nHint: Tackle soil movement.",
     "structuredExplanation": {
       "summary": "Drainage and ground protection address erosion.",
@@ -260,7 +260,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-009",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "linking science to a practical need",
     "printable": true,
     "type": "single",
     "question": "Which statement evaluates a solution carefully?",
@@ -272,15 +272,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It looks strong, so no test is needed",
       "Everyone liked it, so science proves it works",
       "It reduced temperature by 5°C in our test, so it met the cooling need better under these conditions",
+      "It looks strong, so no test is needed",
       "It worked once, so it is perfect"
     ],
-    "correct": 2,
-    "explanation": "The first statement uses evidence and limits the claim.\nHint: Evidence + conditions.",
+    "correct": 1,
+    "explanation": "The supported statement uses evidence and limits the claim.\nHint: Evidence + conditions.",
     "structuredExplanation": {
-      "summary": "The first statement uses evidence and limits the claim.",
+      "summary": "The supported statement uses evidence and limits the claim.",
       "hint": "Evidence + conditions."
     },
     "difficulty": 3,
@@ -292,7 +292,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-010",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "evaluating science-based solutions",
     "printable": true,
     "type": "single",
     "question": "A design is strong but too heavy to carry. What does this show?",
@@ -304,15 +304,15 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The design is automatically best",
-      "It meets one criterion but not the full need",
+      "Weight never matters",
       "Strength is useless",
-      "Weight never matters"
+      "It meets one need but not the full need",
+      "The design is automatically best"
     ],
-    "correct": 1,
-    "explanation": "Real solutions often need to satisfy multiple criteria.\nHint: One success can coexist with one problem.",
+    "correct": 2,
+    "explanation": "Real solutions often need to satisfy multiple needs.\nHint: One success can coexist with one problem.",
     "structuredExplanation": {
-      "summary": "Real solutions often need to satisfy multiple criteria.",
+      "summary": "Real solutions often need to satisfy multiple needs.",
       "hint": "One success can coexist with one problem."
     },
     "difficulty": 3,
@@ -324,11 +324,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-011",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "linking science to a practical need",
     "printable": true,
     "type": "single",
-    "question": "Which solution best uses science to reduce glare?",
-    "audioPrompt": "Which solution best uses science to reduce glare?",
+    "question": "A screen can reduce the amount of bright light reaching a surface. Which solution uses this idea to reduce glare?",
+    "audioPrompt": "A screen can reduce the amount of bright light reaching a surface. Which solution uses this idea to reduce glare?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -336,12 +336,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use a screen that blocks some incoming light",
-      "Add shiny surfaces",
-      "Use a louder fan",
-      "Change desk names"
+      "Choose a shiny surface that increases reflected glare",
+      "Remove every window covering",
+      "Direct more reflected light towards the work area",
+      "Use a screen that blocks some incoming light"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Reducing incoming light addresses glare.\nHint: Change the cause.",
     "structuredExplanation": {
       "summary": "Reducing incoming light addresses glare.",
@@ -356,11 +356,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-012",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "using life cycles to meet needs",
     "printable": true,
     "type": "single",
-    "question": "A water-saving device reduces flow too much to work properly. What should designers do?",
-    "audioPrompt": "A water-saving device reduces flow too much to work properly. What should designers do?",
+    "question": "A gardener needs seeds to plant next year. Seeds develop after flowers. Which action uses this explanation?",
+    "audioPrompt": "A gardener needs seeds to plant next year. Seeds develop after flowers. Which action uses this explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -368,16 +368,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Keep it unchanged",
-      "Ignore the problem",
-      "Use more water without measuring",
-      "Adjust and retest to balance water saving with function"
+      "Remove all flowers before seeds form.",
+      "Leave some flowers to form mature seeds before collecting them.",
+      "Collect only roots as the seed supply.",
+      "Pick young leaves instead of waiting for seeds."
     ],
-    "correct": 3,
-    "explanation": "Design improvement balances criteria.\nHint: Test, revise, retest.",
+    "correct": 1,
+    "explanation": "Knowing the plant life cycle helps the gardener collect seeds at the right stage.\nHint: Which stage provides seeds?",
     "structuredExplanation": {
-      "summary": "Design improvement balances criteria.",
-      "hint": "Test, revise, retest."
+      "summary": "Knowing the plant life cycle helps the gardener collect seeds at the right stage.",
+      "hint": "Which stage provides seeds?"
     },
     "difficulty": 3,
     "difficultyTier": "independent",
@@ -388,7 +388,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-013",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "linking science to a practical need",
     "printable": true,
     "type": "single",
     "question": "Which is a need?",
@@ -400,12 +400,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use a lid",
-      "Add a filter",
       "Keep stored water free of leaves",
-      "Install mesh"
+      "Install mesh",
+      "Use a lid",
+      "Add a filter"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The need is the goal; the others are possible solutions.\nHint: Goal versus method.",
     "structuredExplanation": {
       "summary": "The need is the goal; the others are possible solutions.",
@@ -420,7 +420,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-014",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "linking science to a practical need",
     "printable": true,
     "type": "single",
     "question": "A reflective strip improves visibility only slightly. What is the best next step?",
@@ -432,12 +432,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose by colour only",
       "Try alternative reflective materials or placements and retest",
-      "Declare the problem solved",
-      "Remove all evidence"
+      "Change the material without testing the new version",
+      "Assume any slight improvement meets every need",
+      "Test visibility only in bright daylight"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Weak performance is a reason to improve and retest.\nHint: Use evidence to revise.",
     "structuredExplanation": {
       "summary": "Weak performance is a reason to improve and retest.",
@@ -452,7 +452,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-015",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "linking science to a practical need",
     "printable": true,
     "type": "single",
     "question": "Why should solutions be checked in real use?",
@@ -464,12 +464,12 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Real conditions can reveal whether the solution actually works",
-      "Lab results guarantee everything",
       "Testing weakens science",
-      "Installed solutions cannot change"
+      "Lab results guarantee everything",
+      "Installed solutions cannot change",
+      "Real conditions can reveal whether the solution actually works"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Real-world evidence can expose new problems or confirm performance.\nHint: Did it work where needed?",
     "structuredExplanation": {
       "summary": "Real-world evidence can expose new problems or confirm performance.",
@@ -484,7 +484,7 @@ window.skillrTestQuestions = [
     "id": "ac9s3h02-t-016",
     "curriculumCode": "AC9S3H02",
     "bank": "test",
-    "skill": "using scientific explanations to meet needs and solve problems",
+    "skill": "linking science to a practical need",
     "printable": true,
     "type": "single",
     "question": "Which statement best captures scientific problem solving?",
@@ -497,11 +497,11 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Pick the first idea and stop",
+      "Define the need, apply relevant science, test a solution, use evidence to improve it",
       "Choose by appearance",
-      "Avoid measuring results",
-      "Define the need, apply relevant science, test a solution, use evidence to improve it"
+      "Avoid measuring results"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Scientific problem solving is evidence-based and iterative.\nHint: Need → science → test → improve.",
     "structuredExplanation": {
       "summary": "Scientific problem solving is evidence-based and iterative.",
