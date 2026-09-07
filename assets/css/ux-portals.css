@@ -1,0 +1,205 @@
+.portal-page {
+  background: #f6f8fc;
+}
+
+.portal-container {
+  padding-top: 18px;
+}
+
+.portal-hero {
+  max-width: 840px;
+  margin: 0 auto 22px;
+  padding: 42px 0 18px;
+  text-align: center;
+}
+
+.portal-hero--compact {
+  padding-top: 18px;
+}
+
+.portal-hero h1 {
+  margin: 0 0 12px;
+  color: var(--ux-ink);
+  font-size: clamp(2rem, 4vw, 3.3rem);
+  line-height: 1.08;
+  letter-spacing: 0;
+}
+
+.portal-hero p {
+  margin: 0 auto;
+  max-width: 720px;
+  color: var(--ux-muted);
+  font-size: 1.05rem;
+}
+
+.portal-band {
+  margin: 18px 0;
+  padding: 18px;
+  border: 1px solid var(--ux-line);
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: var(--ux-shadow);
+}
+
+.portal-band h2 {
+  margin: 0 0 14px;
+  font-size: 1.4rem;
+}
+
+.portal-year-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.portal-year-card {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  min-height: 88px;
+  padding: 14px;
+  border: 1px solid #d8e2ef;
+  border-radius: 12px;
+  background: #fbfdff;
+  color: var(--ux-ink) !important;
+  text-decoration: none !important;
+}
+
+.portal-year-card:hover,
+.portal-year-card:focus-visible,
+.portal-subject-card:hover,
+.portal-subject-card:focus-visible,
+.portal-product-card:hover,
+.portal-product-card:focus-visible {
+  border-color: var(--ux-blue);
+  background: #fff;
+  box-shadow: var(--ux-shadow);
+  transform: translateY(-1px);
+}
+
+.portal-year-card__mark {
+  display: grid;
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  place-items: center;
+  border-radius: 12px;
+  background: #edf3ff;
+  color: var(--ux-blue);
+  font-weight: 900;
+}
+
+.portal-year-card strong,
+.portal-subject-card h2,
+.portal-product-card h2 {
+  display: block;
+  margin: 0 0 3px;
+  color: var(--ux-ink);
+}
+
+.portal-year-card small,
+.portal-subject-card small {
+  display: block;
+  color: var(--ux-muted);
+  line-height: 1.35;
+}
+
+.portal-subject-grid,
+.portal-product-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.portal-product-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.portal-subject-card,
+.portal-product-card {
+  min-height: 190px;
+  padding: 18px;
+  border: 1px solid #d8e2ef;
+  border-radius: 12px;
+  background: #fbfdff;
+  color: var(--ux-ink) !important;
+  text-decoration: none !important;
+}
+
+.portal-subject-card__kicker {
+  display: inline-block;
+  margin-bottom: 16px;
+  padding: 4px 9px;
+  border-radius: 999px;
+  background: #edf3ff;
+  color: var(--ux-blue);
+  font-size: 0.78rem;
+  font-weight: 900;
+}
+
+.portal-subject-card p,
+.portal-product-card p {
+  margin: 0 0 12px;
+  color: var(--ux-muted);
+}
+
+.portal-product-card span {
+  color: var(--ux-blue);
+  font-weight: 900;
+}
+
+.portal-subject-card--science .portal-subject-card__kicker {
+  background: #ecfdf5;
+  color: var(--ux-science);
+}
+
+.portal-subject-card--english .portal-subject-card__kicker {
+  background: #f5f3ff;
+  color: var(--ux-english);
+}
+
+.portal-next {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 18px 0 8px;
+}
+
+.portal-next a {
+  display: inline-flex;
+  min-height: 42px;
+  align-items: center;
+  padding: 8px 13px;
+  border: 1px solid #cdd8e8;
+  border-radius: 999px;
+  background: #fff;
+  color: var(--ux-blue);
+  font-weight: 900;
+  text-decoration: none;
+}
+
+@media (max-width: 920px) {
+  .portal-year-grid,
+  .portal-product-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .portal-subject-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 620px) {
+  .portal-band {
+    padding: 14px;
+  }
+
+  .portal-year-grid,
+  .portal-product-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .portal-hero {
+    padding-top: 28px;
+  }
+}

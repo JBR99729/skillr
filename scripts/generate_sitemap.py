@@ -16,15 +16,18 @@ EXCLUDED_FILES={"offline.html","product.html"}
 EXCLUDED_PARTS={"teacher-slides"}
 EXCLUDED_ROOT_PARTS={"node_modules","playwright-report","test-results","screenshots"}
 PAUSED_PARTS={"daily-drills"}
-SECTION_LABELS={"site":"Start here","foundation":"Foundation","year1":"Year 1","year2":"Year 2","year3":"Year 3","year4":"Year 4","year5":"Year 5","year6":"Year 6","year7":"Year 7","year8":"Year 8","year9":"Year 9","year10":"Year 10","mappings":"Curriculum mappings","help":"Help and information","quiz":"Practice, tests and worksheets","blogs":"Blogs","worksheets":"Worksheets"}
-HUMAN_SITE_LINKS={"/","/worksheets/","/blogs/","/updates.html","/why-skillrhub.html","/how-to-use-skillr.html"}
+SECTION_LABELS={"site":"Start here","learn":"Learn by year","teach":"Teach by year","products":"Products","foundation":"Foundation","year1":"Year 1","year2":"Year 2","year3":"Year 3","year4":"Year 4","year5":"Year 5","year6":"Year 6","year7":"Year 7","year8":"Year 8","year9":"Year 9","year10":"Year 10","mappings":"Curriculum mappings","help":"Help and information","quiz":"Practice, tests and worksheets","blogs":"Blogs","worksheets":"Worksheets"}
+HUMAN_SITE_LINKS={"/","/learn/","/teach/","/products/","/worksheets/","/blogs/","/updates.html","/why-skillrhub.html","/how-to-use-skillr.html"}
 HUMAN_HELP_LINKS={"/faq.html","/about.html","/contact.html","/support-skillrhub.html","/privacy-policy.html"}
 HUMAN_MAPPING_LINKS={"/nsw/mathematics/","/nsw/stage-5/mathematics/","/victoria/mathematics/","/victoria/year-10/mathematics/"}
-HUMAN_SITE_ORDER=["/","/worksheets/","/blogs/","/updates.html","/why-skillrhub.html","/how-to-use-skillr.html"]
+HUMAN_SITE_ORDER=["/","/learn/","/teach/","/products/","/worksheets/","/blogs/","/updates.html","/why-skillrhub.html","/how-to-use-skillr.html"]
 HUMAN_HELP_ORDER=["/faq.html","/about.html","/contact.html","/support-skillrhub.html","/privacy-policy.html"]
 HUMAN_MAPPING_ORDER=["/nsw/mathematics/","/nsw/stage-5/mathematics/","/victoria/mathematics/","/victoria/year-10/mathematics/"]
 HUMAN_LINK_LABELS={
  "/":"Foundation to Year 10 learning resources",
+ "/learn/":"Learn by year",
+ "/teach/":"Teach by year",
+ "/products/":"Products and downloads",
  "/worksheets/":"Free worksheets and homework",
  "/blogs/":"Australian Curriculum guides and learning articles",
  "/updates.html":"Latest SkillrHub updates",
@@ -121,6 +124,10 @@ def human_sitemap_page(url):
  """Keep the browser sitemap useful; XML sitemaps handle deep crawl discovery."""
  parts=[p for p in url.strip("/").split("/") if p]
  if url in HUMAN_SITE_LINKS|HUMAN_HELP_LINKS|HUMAN_MAPPING_LINKS:return True
+ if parts[0] in {"learn","teach"}:
+  return len(parts)<=2
+ if parts[0]=="products":
+  return len(parts)==1
  if parts[0] in {"foundation",*[f"year{i}" for i in range(1,11)]}:
   return len(parts)==2 and parts[1]=="curriculum" or (len(parts)==3 and parts[1]=="curriculum" and parts[2] in {"maths","science","english"})
  return False
@@ -197,7 +204,7 @@ def main():
  for item in pages:
   if human_sitemap_page(item[0]):
    sections[human_sitemap_key(item[0])].append((item[0],human_sitemap_label(item[0],item[1]),item[2],item[3]))
- html_order=["site","foundation"]+[f"year{i}" for i in range(1,11)]+["mappings","help"]
+ html_order=["site","learn","teach","products","foundation"]+[f"year{i}" for i in range(1,11)]+["mappings","help"]
  keys=[k for k in html_order if k in sections]+sorted(set(sections)-set(html_order))
  blocks=[]
  for key in keys:
@@ -218,4 +225,3 @@ def main():
  search_count=write_search_index(pages)
  print(f"Generated sitemap index with {len(sitemap_files)} child sitemaps, {len(pages)} canonical indexable URLs and {search_count} search entries.")
 if __name__=="__main__":main()
-
