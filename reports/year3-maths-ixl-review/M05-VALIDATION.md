@@ -1,6 +1,6 @@
 # AC9M3M05 validation checkpoint
 
-7 September 2026. **DRAFTED — content and repository checks passed; live release verification pending.**
+7 September 2026. **VALIDATED — content, repository and live release checks passed, subject to the sampling limitations below.**
 
 Readiness: M05-READINESS-COVERAGE.md records the exact official descriptor and component map, both relevant IXL pages and expanded examples, representative visual progression including actual quarter/half/three-quarter/whole turns, and per-ID original coverage allocation. Higher adaptive progression beyond recorded samples is not claimed.
 
@@ -12,4 +12,4 @@ All 30 diagrams rendered with Inkscape and visually reviewed. Corrected overlay 
 
 Generated practice/test JavaScript executed in isolated Node VM contexts. All IDs, prompts, correct answers, explanations and SVG targets match the production source. Compatibility practice files are identical. Review-aware publisher and review-status check passed; whole-year badge remains off. The older review ledger's 15 codes must not be confused with completion of this stricter sweep.
 
-The cloud browser cannot open the local preview. Live homepage, M05 quiz launch, marking and rendered visual checks are pending deployment. No quiz renderer, dashboard, topic-guide, teacher-slide or worksheet changes are part of this bank release. Do not describe the full Year 3 Maths programme as completed.
+The cloud browser could not open the local preview; generated-data checks preceded publication. Commit `e93df3dbd57db5c1f9420d6f74b7a525aaade06d` deployed successfully in Pages run 34079447491. Question-bank quality, release integrity, Year 3 static pages and Year 3 pre-module browser-flow checks passed. Live practice and test each launched through their required notes, displayed a new four-panel angle diagram clearly and marked the selected correct answer with score increment and reasoning feedback. Both displayed Question 1 of 5. The homepage loaded with its main learning pathways. AdSense content quality guard failed separately; no claim that every repository workflow is green. No quiz renderer, dashboard, topic-guide, teacher-slide or worksheet changes are part of this bank release. Do not describe the full Year 3 Maths programme as completed.
