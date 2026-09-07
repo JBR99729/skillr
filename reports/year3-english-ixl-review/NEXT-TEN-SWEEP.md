@@ -1,6 +1,6 @@
 # Year 3 English next-ten strict sweep
 
-Status: LA06–LA10 locally VALIDATED, publication and live QA pending. LA11 and LE01–LE04 remain pending. Earlier draft checkpoints below are chronological evidence, superseded by the release checkpoint.
+Status: LA06–LA10 VALIDATED and PUBLISHED; Pages and live QA passed. LA11 and LE01–LE04 remain pending. Earlier draft checkpoints below are chronological evidence, superseded by the release checkpoint.
 
 Scope authorised: AC9E3LA06–LA11 and AC9E3LE01–LE04. Target 48 practice +16 test per code. First five are complete in content commit 4c33daca90eb4c187a35cc0b909c301a1490de79 and deployment/live-QA report commit 2d4f89718c3fad9164834245a21133d974a73aee. Do not repeat that sweep.
 
@@ -134,3 +134,11 @@ Pages run 34136312039 succeeded. All six other release workflows succeeded, incl
 Live practice and test routes checked for all five codes: displayed new four-choice source questions and matching feedback. Practice sample IDs: LA06-P032, LA07-P048, LA08-P046, LA09-P003, LA10-P030. Test sample IDs: LA06-T007, LA07-T004, LA08-T012, LA10-T005. LA09 completed a five-question test with one deliberately incorrect answer (T010), followed by correct T002/T014/T013/T001; result 4/5 (80%) matched. Review retained selected/correct answers and explanations; retake returned a fresh start with a blank name and best score 4 preserved. SVGs rendered visibly and legibly in live practice and test.
 
 Live review exposed a real limitation: shared review pages omitted the image. A scoped LA09 repair now loads the matching bank on each of its two review pages and restores each original SVG and alt description beside the saved question. It does not change shared rendering or unrelated codes. Syntax and scoped loading checks passed; this follow-up awaits publication and live verification. Duplicate read-aloud controls are pre-existing shared UI and were not changed. No exhaustive mobile/device or audio playback claim is made.
+
+### Final closure: LA06–LA10
+
+Review repair published as 2ba625ac9f6a6bc394cdfb5c9e68aaea61b623bb, full tree 6e48bd975e6c22a7c529fe8eb78ff6fb643ca72a. Full-tree comparison passed (18,226 →18,227 files, zero deletions, CNAME/core preserved); immediate main recheck and non-forced update used. Pages run 34137161951 and every accompanying workflow succeeded. After deployment, the saved LA09 test review showed all five matching SVGs with accessible descriptions, chosen/correct answers and explanations. The rendered review was visually inspected and the seed-depth diagram was clear and correctly positioned beside its question.
+
+Live homepage loaded normally; Year 3 English hub loaded and correctly has no whole-subject Content Verified badge. All ten affected practice/test routes had new-source answer/feedback checks. The full test/result/review/retake flow passed, including 4/5 scoring with one intentional error. The scoped review repair was rechecked after its deployment.
+
+Final status for each of AC9E3LA06, AC9E3LA07, AC9E3LA08, AC9E3LA09 and AC9E3LA10: DRAFTED → VALIDATED → PUBLISHED, with deployment and live QA evidence above. Total 320 reviewed questions, 48 practice +16 test per code. Year 3 English now has 10/28 codes recorded as reviewed. LA11 and LE01–LE04 were not finalised in this request. Research limitations remain those explicitly recorded per source; neither complete IXL adaptive progression nor exhaustive device/audio testing is claimed.
