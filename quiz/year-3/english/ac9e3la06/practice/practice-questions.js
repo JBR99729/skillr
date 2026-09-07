@@ -4,23 +4,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-001",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "identifying whole subjects",
     "printable": true,
     "type": "single",
-    "question": "Which words complete a clause beginning “The noisy parrots”?",
-    "audioPrompt": "Which words complete a clause beginning “The noisy parrots”?",
+    "question": "In “The small dog chased a ball”, which words make up the whole subject?",
+    "audioPrompt": "In “The small dog chased a ball”, which words make up the whole subject?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "at sunrise.",
-      "very bright and.",
-      "squawk at sunrise."
+      "The small dog",
+      "a ball",
+      "chased a ball",
+      "small dog chased"
     ],
-    "correct": 2,
-    "explanation": "A clause usually contains a subject and an agreeing verb.\nHint: Choose words that tell what the subject does or is.",
+    "correct": 0,
+    "explanation": "The whole subject is the noun group “The small dog”; the clause tells what that dog did.\nHint: Find the person or thing the clause is about, including its describing words when the whole subject is asked for.",
     "structuredExplanation": {
-      "summary": "A clause usually contains a subject and an agreeing verb.",
-      "hint": "Choose words that tell what the subject does or is."
+      "summary": "The whole subject is the noun group “The small dog”; the clause tells what that dog did.",
+      "hint": "Find the person or thing the clause is about, including its describing words when the whole subject is asked for."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +34,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-002",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "identifying whole subjects",
     "printable": true,
     "type": "single",
-    "question": "In “The noisy parrots squawk at sunrise,” which words form the subject?",
-    "audioPrompt": "In “The noisy parrots squawk at sunrise,” which words form the subject?",
+    "question": "Who or what is the subject in “Mia opened the gate”?",
+    "audioPrompt": "Who or what is the subject in “Mia opened the gate”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The noisy parrots",
-      "squawk",
-      "at sunrise"
+      "opened",
+      "the gate",
+      "Mia",
+      "Mia opened"
     ],
-    "correct": 0,
-    "explanation": "The subject is who or what the clause is about.\nHint: Ask who or what performs the process.",
+    "correct": 2,
+    "explanation": "Mia is the subject; “the gate” names what she opened.\nHint: Find the person or thing the clause is about, including its describing words when the whole subject is asked for.",
     "structuredExplanation": {
-      "summary": "The subject is who or what the clause is about.",
-      "hint": "Ask who or what performs the process."
+      "summary": "Mia is the subject; “the gate” names what she opened.",
+      "hint": "Find the person or thing the clause is about, including its describing words when the whole subject is asked for."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +64,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-003",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "identifying whole subjects",
     "printable": true,
     "type": "single",
-    "question": "In “The noisy parrots squawk at sunrise,” which word is the verb?",
-    "audioPrompt": "In “The noisy parrots squawk at sunrise,” which word is the verb?",
+    "question": "In “Those bright lanterns glow”, which group is the whole subject?",
+    "audioPrompt": "In “Those bright lanterns glow”, which group is the whole subject?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The noisy parrots",
-      "squawk",
-      "at sunrise"
+      "Those bright",
+      "bright lanterns glow",
+      "Those bright lanterns",
+      "glow"
     ],
-    "correct": 1,
-    "explanation": "The verb expresses the process in the clause.\nHint: Ask what happens or what the subject does.",
+    "correct": 2,
+    "explanation": "The whole subject includes the noun “lanterns” and the words describing which lanterns.\nHint: Find the person or thing the clause is about, including its describing words when the whole subject is asked for.",
     "structuredExplanation": {
-      "summary": "The verb expresses the process in the clause.",
-      "hint": "Ask what happens or what the subject does."
+      "summary": "The whole subject includes the noun “lanterns” and the words describing which lanterns.",
+      "hint": "Find the person or thing the clause is about, including its describing words when the whole subject is asked for."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +94,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-004",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "identifying whole subjects",
     "printable": true,
     "type": "single",
-    "question": "Which sentence has correct subject–verb agreement for The noisy parrots?",
-    "audioPrompt": "Which sentence has correct subject–verb agreement for The noisy parrots?",
+    "question": "A pupil says the subject of “The boy carries a box” is “box” because it is a thing. What should they check?",
+    "audioPrompt": "A pupil says the subject of “The boy carries a box” is “box” because it is a thing. What should they check?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The noisy parrots is squawk at sunrise.",
-      "The noisy parrots does squawk at sunrise.",
-      "The noisy parrots squawk at sunrise."
+      "Who is carrying the box.",
+      "Which word comes last.",
+      "Which noun has fewer letters.",
+      "Whether the box has a colour."
     ],
-    "correct": 2,
-    "explanation": "The verb form must agree with its subject.\nHint: Read the subject and verb together aloud.",
+    "correct": 0,
+    "explanation": "The subject is “The boy”; a sentence can contain another noun that is not its subject.\nHint: Find the person or thing the clause is about, including its describing words when the whole subject is asked for.",
     "structuredExplanation": {
-      "summary": "The verb form must agree with its subject.",
-      "hint": "Read the subject and verb together aloud."
+      "summary": "The subject is “The boy”; a sentence can contain another noun that is not its subject.",
+      "hint": "Find the person or thing the clause is about, including its describing words when the whole subject is asked for."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +124,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-005",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "identifying whole subjects",
     "printable": true,
     "type": "single",
-    "question": "Which group is a complete clause about The noisy parrots?",
-    "audioPrompt": "Which group is a complete clause about The noisy parrots?",
+    "question": "Which word is the main subject noun in “The tall trees beside the path sway”?",
+    "audioPrompt": "Which word is the main subject noun in “The tall trees beside the path sway”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The noisy parrots squawk.",
-      "The noisy parrots.",
-      "at sunrise."
+      "tall",
+      "path",
+      "sway",
+      "trees"
     ],
-    "correct": 0,
-    "explanation": "A complete clause usually needs both a subject and a verb.\nHint: Find the group that tells who or what and what happens.",
+    "correct": 3,
+    "explanation": "“Trees” is the head noun of the subject group; “beside the path” adds a location detail.\nHint: Find the person or thing the clause is about, including its describing words when the whole subject is asked for.",
     "structuredExplanation": {
-      "summary": "A complete clause usually needs both a subject and a verb.",
-      "hint": "Find the group that tells who or what and what happens."
+      "summary": "“Trees” is the head noun of the subject group; “beside the path” adds a location detail.",
+      "hint": "Find the person or thing the clause is about, including its describing words when the whole subject is asked for."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +154,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-006",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "identifying whole subjects",
     "printable": true,
     "type": "single",
-    "question": "A writer changes The noisy parrots to one animal or person. What else may need to change?",
-    "audioPrompt": "A writer changes The noisy parrots to one animal or person. What else may need to change?",
+    "question": "In “Our classroom is quiet”, what is the whole subject?",
+    "audioPrompt": "In “Our classroom is quiet”, what is the whole subject?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The page number.",
-      "The form of the verb.",
-      "The colour of the paper."
+      "Our classroom is",
+      "Our classroom",
+      "quiet",
+      "is quiet"
     ],
     "correct": 1,
-    "explanation": "Singular and plural subjects can require different verb forms.\nHint: Check whether the verb still sounds right with one subject.",
+    "explanation": "The clause is about “Our classroom”; a subject need not be doing a physical action.\nHint: Find the person or thing the clause is about, including its describing words when the whole subject is asked for.",
     "structuredExplanation": {
-      "summary": "Singular and plural subjects can require different verb forms.",
-      "hint": "Check whether the verb still sounds right with one subject."
+      "summary": "The clause is about “Our classroom”; a subject need not be doing a physical action.",
+      "hint": "Find the person or thing the clause is about, including its describing words when the whole subject is asked for."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +184,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-007",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "identifying verbs and verb groups",
     "printable": true,
     "type": "single",
-    "question": "Which revision fixes a missing verb after “The noisy parrots”?",
-    "audioPrompt": "Which revision fixes a missing verb after “The noisy parrots”?",
+    "question": "Which word is the verb in “The children laugh”?",
+    "audioPrompt": "Which word is the verb in “The children laugh”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Add only “at sunrise”.",
-      "Remove the subject.",
-      "Add “squawk”."
+      "children",
+      "laugh",
+      "The",
+      "The children"
     ],
-    "correct": 2,
-    "explanation": "Adding an agreeing verb can complete the clause.\nHint: The clause needs a process word.",
+    "correct": 1,
+    "explanation": "“Laugh” expresses what the children do.\nHint: Find the word or group expressing the action or state, rather than the person or object.",
     "structuredExplanation": {
-      "summary": "Adding an agreeing verb can complete the clause.",
-      "hint": "The clause needs a process word."
+      "summary": "“Laugh” expresses what the children do.",
+      "hint": "Find the word or group expressing the action or state, rather than the person or object."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +214,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-008",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "identifying verbs and verb groups",
     "printable": true,
     "type": "single",
-    "question": "Why do The noisy parrots and “squawk” work together in the clause?",
-    "audioPrompt": "Why do The noisy parrots and “squawk” work together in the clause?",
+    "question": "In “A kite is flying above us”, which words form the verb group?",
+    "audioPrompt": "In “A kite is flying above us”, which words form the verb group?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The subject and verb agree in number.",
-      "They are both page headings.",
-      "Neither word contributes meaning."
+      "is flying",
+      "A kite",
+      "above us",
+      "flying above"
     ],
     "correct": 0,
-    "explanation": "Agreement connects the subject with an appropriate verb form.\nHint: Decide whether the subject refers to one or more than one.",
+    "explanation": "The helping verb “is” works with “flying”; together they express the ongoing action.\nHint: Find the word or group expressing the action or state, rather than the person or object.",
     "structuredExplanation": {
-      "summary": "Agreement connects the subject with an appropriate verb form.",
-      "hint": "Decide whether the subject refers to one or more than one."
+      "summary": "The helping verb “is” works with “flying”; together they express the ongoing action.",
+      "hint": "Find the word or group expressing the action or state, rather than the person or object."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +244,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-009",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "identifying verbs and verb groups",
     "printable": true,
     "type": "single",
-    "question": "Which words complete a clause beginning “Our science group”?",
-    "audioPrompt": "Which words complete a clause beginning “Our science group”?",
+    "question": "Which word is the verb in “The soup smells delicious”?",
+    "audioPrompt": "Which word is the verb in “The soup smells delicious”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "the temperature.",
-      "records the temperature.",
-      "very bright and."
+      "delicious",
+      "The",
+      "soup",
+      "smells"
     ],
-    "correct": 1,
-    "explanation": "A clause usually contains a subject and an agreeing verb.\nHint: Choose words that tell what the subject does or is.",
+    "correct": 3,
+    "explanation": "“Smells” links the soup to a quality; verbs can describe states or relations, not only visible actions.\nHint: Find the word or group expressing the action or state, rather than the person or object.",
     "structuredExplanation": {
-      "summary": "A clause usually contains a subject and an agreeing verb.",
-      "hint": "Choose words that tell what the subject does or is."
+      "summary": "“Smells” links the soup to a quality; verbs can describe states or relations, not only visible actions.",
+      "hint": "Find the word or group expressing the action or state, rather than the person or object."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +274,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-010",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "identifying verbs and verb groups",
     "printable": true,
     "type": "single",
-    "question": "In “Our science group records the temperature,” which words form the subject?",
-    "audioPrompt": "In “Our science group records the temperature,” which words form the subject?",
+    "question": "Which word shows the action in “We packed the pencils carefully”?",
+    "audioPrompt": "Which word shows the action in “We packed the pencils carefully”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "records",
-      "the temperature",
-      "Our science group"
+      "We",
+      "packed",
+      "carefully",
+      "pencils"
     ],
-    "correct": 2,
-    "explanation": "The subject is who or what the clause is about.\nHint: Ask who or what performs the process.",
+    "correct": 1,
+    "explanation": "“Packed” gives the action; “carefully” describes how it was done.\nHint: Find the word or group expressing the action or state, rather than the person or object.",
     "structuredExplanation": {
-      "summary": "The subject is who or what the clause is about.",
-      "hint": "Ask who or what performs the process."
+      "summary": "“Packed” gives the action; “carefully” describes how it was done.",
+      "hint": "Find the word or group expressing the action or state, rather than the person or object."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +304,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-011",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "identifying verbs and verb groups",
     "printable": true,
     "type": "single",
-    "question": "Why is “records” the best answer here? In “Our science group records the temperature,” which word is the verb?",
-    "audioPrompt": "Why is “records” the best answer here? In “Our science group records the temperature,” which word is the verb?",
+    "question": "A pupil selects only “the ball” as the verb in “She has caught the ball”. Which correction is needed?",
+    "audioPrompt": "A pupil selects only “the ball” as the verb in “She has caught the ball”. Which correction is needed?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The verb expresses the process in the clause.",
-      "Because “Our science group” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
+      "The verb group is “has caught”.",
+      "The sentence has no verb because the action is finished.",
+      "The verb group is “the ball”.",
+      "The verb is “She”."
     ],
     "correct": 0,
-    "explanation": "The verb expresses the process in the clause.\nHint: Ask what happens or what the subject does.",
+    "explanation": "“Has caught” expresses the action; “the ball” names its object.\nHint: Find the word or group expressing the action or state, rather than the person or object.",
     "structuredExplanation": {
-      "summary": "The verb expresses the process in the clause.",
-      "hint": "Ask what happens or what the subject does."
+      "summary": "“Has caught” expresses the action; “the ball” names its object.",
+      "hint": "Find the word or group expressing the action or state, rather than the person or object."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +334,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-012",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "identifying verbs and verb groups",
     "printable": true,
     "type": "single",
-    "question": "Why is “Our science group records the temperature.” the best answer here? Which sentence has correct subject–verb agreement for Our science group?",
-    "audioPrompt": "Why is “Our science group records the temperature.” the best answer here? Which sentence has correct subject–verb agreement for Our science group?",
+    "question": "Choose the verb in “My brother remembers the song”.",
+    "audioPrompt": "Choose the verb in “My brother remembers the song”.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Our science group is records the temperature.” sounds familiar.",
-      "The verb form must agree with its subject.",
-      "Because the longest-looking option should always be chosen."
+      "brother",
+      "My",
+      "song",
+      "remembers"
     ],
-    "correct": 1,
-    "explanation": "The verb form must agree with its subject.\nHint: Read the subject and verb together aloud.",
+    "correct": 3,
+    "explanation": "“Remembers” expresses a thinking process, so it is a verb even without visible movement.\nHint: Find the word or group expressing the action or state, rather than the person or object.",
     "structuredExplanation": {
-      "summary": "The verb form must agree with its subject.",
-      "hint": "Read the subject and verb together aloud."
+      "summary": "“Remembers” expresses a thinking process, so it is a verb even without visible movement.",
+      "hint": "Find the word or group expressing the action or state, rather than the person or object."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +364,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-013",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "regular subject verb agreement",
     "printable": true,
     "type": "single",
-    "question": "Why is “Our science group records.” the best answer here? Which group is a complete clause about Our science group?",
-    "audioPrompt": "Why is “Our science group records.” the best answer here? Which group is a complete clause about Our science group?",
+    "question": "Choose the matching present-tense verb: “The rabbit [blank] under the bench.”",
+    "audioPrompt": "Choose the matching present-tense verb: “The rabbit [blank] under the bench.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Our science group.” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "A complete clause usually needs both a subject and a verb."
+      "hop",
+      "to hop",
+      "hopping",
+      "hops"
     ],
-    "correct": 2,
-    "explanation": "A complete clause usually needs both a subject and a verb.\nHint: Find the group that tells who or what and what happens.",
+    "correct": 3,
+    "explanation": "One rabbit takes “hops” in this present-tense clause; “hopping” would need a helping verb.\nHint: For these present-tense verbs, match the verb to whether the subject names one or more than one.",
     "structuredExplanation": {
-      "summary": "A complete clause usually needs both a subject and a verb.",
-      "hint": "Find the group that tells who or what and what happens."
+      "summary": "One rabbit takes “hops” in this present-tense clause; “hopping” would need a helping verb.",
+      "hint": "For these present-tense verbs, match the verb to whether the subject names one or more than one."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +394,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-014",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "regular subject verb agreement",
     "printable": true,
     "type": "single",
-    "question": "Why is “The form of the verb.” the best answer here? A writer changes Our science group to one animal or person. What else may need to change?",
-    "audioPrompt": "Why is “The form of the verb.” the best answer here? A writer changes Our science group to one animal or person. What else may need to change?",
+    "question": "Complete the sentence about what happens every morning: “The buses [blank] at the corner.”",
+    "audioPrompt": "Complete the sentence about what happens every morning: “The buses [blank] at the corner.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Singular and plural subjects can require different verb forms.",
-      "Because “The page number.” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
+      "to stop",
+      "stop",
+      "stops",
+      "stopping"
     ],
-    "correct": 0,
-    "explanation": "Singular and plural subjects can require different verb forms.\nHint: Check whether the verb still sounds right with one subject.",
+    "correct": 1,
+    "explanation": "The plural subject “buses” takes “stop”.\nHint: For these present-tense verbs, match the verb to whether the subject names one or more than one.",
     "structuredExplanation": {
-      "summary": "Singular and plural subjects can require different verb forms.",
-      "hint": "Check whether the verb still sounds right with one subject."
+      "summary": "The plural subject “buses” takes “stop”.",
+      "hint": "For these present-tense verbs, match the verb to whether the subject names one or more than one."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +424,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-015",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "regular subject verb agreement",
     "printable": true,
     "type": "single",
-    "question": "Why is “Add “records”.” the best answer here? Which revision fixes a missing verb after “Our science group”?",
-    "audioPrompt": "Why is “Add “records”.” the best answer here? Which revision fixes a missing verb after “Our science group”?",
+    "question": "Which subject matches “collects the empty trays”?",
+    "audioPrompt": "Which subject matches “collects the empty trays”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Add only “the temperature”.” sounds familiar.",
-      "Adding an agreeing verb can complete the clause.",
-      "Because the longest-looking option should always be chosen."
+      "The helper",
+      "They",
+      "Two pupils",
+      "The helpers"
     ],
-    "correct": 1,
-    "explanation": "Adding an agreeing verb can complete the clause.\nHint: The clause needs a process word.",
+    "correct": 0,
+    "explanation": "“Collects” agrees with the singular subject “The helper”.\nHint: For these present-tense verbs, match the verb to whether the subject names one or more than one.",
     "structuredExplanation": {
-      "summary": "Adding an agreeing verb can complete the clause.",
-      "hint": "The clause needs a process word."
+      "summary": "“Collects” agrees with the singular subject “The helper”.",
+      "hint": "For these present-tense verbs, match the verb to whether the subject names one or more than one."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +454,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-016",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "regular subject verb agreement",
     "printable": true,
     "type": "single",
-    "question": "Why is “The subject and verb agree in number.” the best answer here? Why do Our science group and “records” work together in the clause?",
-    "audioPrompt": "Why is “The subject and verb agree in number.” the best answer here? Why do Our science group and “records” work together in the clause?",
+    "question": "Why is “The birds sings” incorrect in a present-tense sentence?",
+    "audioPrompt": "Why is “The birds sings” incorrect in a present-tense sentence?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “They are both page headings.” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "Agreement connects the subject with an appropriate verb form."
+      "Birds is singular because it names an animal.",
+      "The sentence needs two subjects.",
+      "The plural subject needs “sing”.",
+      "Every verb after birds must end in s."
     ],
     "correct": 2,
-    "explanation": "Agreement connects the subject with an appropriate verb form.\nHint: Decide whether the subject refers to one or more than one.",
+    "explanation": "The verb must agree with the plural subject: “The birds sing”.\nHint: For these present-tense verbs, match the verb to whether the subject names one or more than one.",
     "structuredExplanation": {
-      "summary": "Agreement connects the subject with an appropriate verb form.",
-      "hint": "Decide whether the subject refers to one or more than one."
+      "summary": "The verb must agree with the plural subject: “The birds sing”.",
+      "hint": "For these present-tense verbs, match the verb to whether the subject names one or more than one."
     },
     "qualitySchema": "production-v1"
   },
@@ -388,23 +484,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-017",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "regular subject verb agreement",
     "printable": true,
     "type": "single",
-    "question": "Why is “chase a red ball.” the best answer here? Which words complete a clause beginning “Two young puppies”?",
-    "audioPrompt": "Why is “chase a red ball.” the best answer here? Which words complete a clause beginning “Two young puppies”?",
+    "question": "Choose the matching pair for a present-tense clause.",
+    "audioPrompt": "Choose the matching pair for a present-tense clause.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "A clause usually contains a subject and an agreeing verb.",
-      "Because “a red ball.” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
+      "The painter works.",
+      "The painter working.",
+      "The painter work.",
+      "The painters works."
     ],
     "correct": 0,
-    "explanation": "A clause usually contains a subject and an agreeing verb.\nHint: Choose words that tell what the subject does or is.",
+    "explanation": "The singular subject “painter” agrees with “works”; “working” alone does not complete this clause.\nHint: For these present-tense verbs, match the verb to whether the subject names one or more than one.",
     "structuredExplanation": {
-      "summary": "A clause usually contains a subject and an agreeing verb.",
-      "hint": "Choose words that tell what the subject does or is."
+      "summary": "The singular subject “painter” agrees with “works”; “working” alone does not complete this clause.",
+      "hint": "For these present-tense verbs, match the verb to whether the subject names one or more than one."
     },
     "qualitySchema": "production-v1"
   },
@@ -412,23 +514,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-018",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "regular subject verb agreement",
     "printable": true,
     "type": "single",
-    "question": "Why is “Two young puppies” the best answer here? In “Two young puppies chase a red ball,” which words form the subject?",
-    "audioPrompt": "Why is “Two young puppies” the best answer here? In “Two young puppies chase a red ball,” which words form the subject?",
+    "question": "Complete: “Our neighbours [blank] flowers near the fence.”",
+    "audioPrompt": "Complete: “Our neighbours [blank] flowers near the fence.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “chase” sounds familiar.",
-      "The subject is who or what the clause is about.",
-      "Because the longest-looking option should always be chosen."
+      "growing",
+      "grows",
+      "to grow",
+      "grow"
     ],
-    "correct": 1,
-    "explanation": "The subject is who or what the clause is about.\nHint: Ask who or what performs the process.",
+    "correct": 3,
+    "explanation": "The plural subject “neighbours” matches “grow”.\nHint: For these present-tense verbs, match the verb to whether the subject names one or more than one.",
     "structuredExplanation": {
-      "summary": "The subject is who or what the clause is about.",
-      "hint": "Ask who or what performs the process."
+      "summary": "The plural subject “neighbours” matches “grow”.",
+      "hint": "For these present-tense verbs, match the verb to whether the subject names one or more than one."
     },
     "qualitySchema": "production-v1"
   },
@@ -436,23 +544,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-019",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "pronouns and agreement",
     "printable": true,
     "type": "single",
-    "question": "Why is “chase” the best answer here? In “Two young puppies chase a red ball,” which word is the verb?",
-    "audioPrompt": "Why is “chase” the best answer here? In “Two young puppies chase a red ball,” which word is the verb?",
+    "question": "Choose the present-tense verb for this daily habit: “She [blank] a book after lunch.”",
+    "audioPrompt": "Choose the present-tense verb for this daily habit: “She [blank] a book after lunch.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Two young puppies” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "The verb expresses the process in the clause."
+      "to read",
+      "read",
+      "reads",
+      "reading"
     ],
     "correct": 2,
-    "explanation": "The verb expresses the process in the clause.\nHint: Ask what happens or what the subject does.",
+    "explanation": "“She” takes “reads” for this present-tense action.\nHint: Match the verb to its subject pronoun; I and you do not follow the he/she/it pattern.",
     "structuredExplanation": {
-      "summary": "The verb expresses the process in the clause.",
-      "hint": "Ask what happens or what the subject does."
+      "summary": "“She” takes “reads” for this present-tense action.",
+      "hint": "Match the verb to its subject pronoun; I and you do not follow the he/she/it pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -460,23 +574,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-020",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "pronouns and agreement",
     "printable": true,
     "type": "single",
-    "question": "Why is “Two young puppies chase a red ball.” the best answer here? Which sentence has correct subject–verb agreement for Two young puppies?",
-    "audioPrompt": "Why is “Two young puppies chase a red ball.” the best answer here? Which sentence has correct subject–verb agreement for Two young puppies?",
+    "question": "Complete: “They [blank] the plants every Friday.”",
+    "audioPrompt": "Complete: “They [blank] the plants every Friday.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The verb form must agree with its subject.",
-      "Because “Two young puppies is chase a red ball.” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
+      "watering",
+      "water",
+      "waters",
+      "to water"
     ],
-    "correct": 0,
-    "explanation": "The verb form must agree with its subject.\nHint: Read the subject and verb together aloud.",
+    "correct": 1,
+    "explanation": "The pronoun “they” takes “water”, not “waters”.\nHint: Match the verb to its subject pronoun; I and you do not follow the he/she/it pattern.",
     "structuredExplanation": {
-      "summary": "The verb form must agree with its subject.",
-      "hint": "Read the subject and verb together aloud."
+      "summary": "The pronoun “they” takes “water”, not “waters”.",
+      "hint": "Match the verb to its subject pronoun; I and you do not follow the he/she/it pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -484,23 +604,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-021",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "pronouns and agreement",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “at sunrise.” for this task: Which words complete a clause beginning “The noisy parrots”? What should they check?",
-    "audioPrompt": "A student chooses “at sunrise.” for this task: Which words complete a clause beginning “The noisy parrots”? What should they check?",
+    "question": "Which sentence uses the correct present-tense form with I?",
+    "audioPrompt": "Which sentence uses the correct present-tense form with I?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Choose words that tell what the subject does or is.",
-      "Ignore the example and choose the remaining option."
+      "I to walk to the library.",
+      "I walks to the library.",
+      "I walk to the library.",
+      "I walking to the library."
     ],
-    "correct": 1,
-    "explanation": "Choose words that tell what the subject does or is. A clause usually contains a subject and an agreeing verb.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 2,
+    "explanation": "Use “I walk”; I refers to the speaker but does not take the he/she/it ending.\nHint: Match the verb to its subject pronoun; I and you do not follow the he/she/it pattern.",
     "structuredExplanation": {
-      "summary": "Choose words that tell what the subject does or is. A clause usually contains a subject and an agreeing verb.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Use “I walk”; I refers to the speaker but does not take the he/she/it ending.",
+      "hint": "Match the verb to its subject pronoun; I and you do not follow the he/she/it pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,23 +634,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-022",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "pronouns and agreement",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “squawk” for this task: In “The noisy parrots squawk at sunrise,” which words form the subject? What should they check?",
-    "audioPrompt": "A student chooses “squawk” for this task: In “The noisy parrots squawk at sunrise,” which words form the subject? What should they check?",
+    "question": "Ravi says, “You is ready” because he is speaking to only one person. Which correction is needed?",
+    "audioPrompt": "Ravi says, “You is ready” because he is speaking to only one person. Which correction is needed?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option.",
-      "Ask who or what performs the process."
+      "Remove the verb completely.",
+      "Use “You are ready.”",
+      "Use “You am ready.”",
+      "Keep is whenever you means one person."
     ],
-    "correct": 2,
-    "explanation": "Ask who or what performs the process. The subject is who or what the clause is about.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 1,
+    "explanation": "“You” takes “are” whether it refers to one person or more than one.\nHint: Match the verb to its subject pronoun; I and you do not follow the he/she/it pattern.",
     "structuredExplanation": {
-      "summary": "Ask who or what performs the process. The subject is who or what the clause is about.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "“You” takes “are” whether it refers to one person or more than one.",
+      "hint": "Match the verb to its subject pronoun; I and you do not follow the he/she/it pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -532,23 +664,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-023",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "pronouns and agreement",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “The noisy parrots” for this task: In “The noisy parrots squawk at sunrise,” which word is the verb? What should they check?",
-    "audioPrompt": "A student chooses “The noisy parrots” for this task: In “The noisy parrots squawk at sunrise,” which word is the verb? What should they check?",
+    "question": "Replace “The boys” with “They” in “The boys run quickly”. Which result agrees?",
+    "audioPrompt": "Replace “The boys” with “They” in “The boys run quickly”. Which result agrees?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Ask what happens or what the subject does.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
+      "They running quickly.",
+      "They runs quickly.",
+      "They run quickly.",
+      "They is run quickly."
     ],
-    "correct": 0,
-    "explanation": "Ask what happens or what the subject does. The verb expresses the process in the clause.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 2,
+    "explanation": "The replacement pronoun “They” keeps the verb “run”.\nHint: Match the verb to its subject pronoun; I and you do not follow the he/she/it pattern.",
     "structuredExplanation": {
-      "summary": "Ask what happens or what the subject does. The verb expresses the process in the clause.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The replacement pronoun “They” keeps the verb “run”.",
+      "hint": "Match the verb to its subject pronoun; I and you do not follow the he/she/it pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -556,23 +694,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-024",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "pronouns and agreement",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “The noisy parrots is squawk at sunrise.” for this task: Which sentence has correct subject–verb agreement for The noisy parrots? What should they check?",
-    "audioPrompt": "A student chooses “The noisy parrots is squawk at sunrise.” for this task: Which sentence has correct subject–verb agreement for The noisy parrots? What should they check?",
+    "question": "Choose the subject that matches “watches the clouds”.",
+    "audioPrompt": "Choose the subject that matches “watches the clouds”.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Read the subject and verb together aloud.",
-      "Ignore the example and choose the remaining option."
+      "He",
+      "We",
+      "I",
+      "You"
     ],
-    "correct": 1,
-    "explanation": "Read the subject and verb together aloud. The verb form must agree with its subject.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 0,
+    "explanation": "In these ordinary present-tense forms, “He” takes “watches”; we, I and you take “watch”.\nHint: Match the verb to its subject pronoun; I and you do not follow the he/she/it pattern.",
     "structuredExplanation": {
-      "summary": "Read the subject and verb together aloud. The verb form must agree with its subject.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "In these ordinary present-tense forms, “He” takes “watches”; we, I and you take “watch”.",
+      "hint": "Match the verb to its subject pronoun; I and you do not follow the he/she/it pattern."
     },
     "qualitySchema": "production-v1"
   },
@@ -580,23 +724,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-025",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "agreeing with be and have",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “The noisy parrots.” for this task: Which group is a complete clause about The noisy parrots? What should they check?",
-    "audioPrompt": "A student chooses “The noisy parrots.” for this task: Which group is a complete clause about The noisy parrots? What should they check?",
+    "question": "Complete: “I [blank] ready to begin.”",
+    "audioPrompt": "Complete: “I [blank] ready to begin.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option.",
-      "Find the group that tells who or what and what happens."
+      "am",
+      "are",
+      "be",
+      "is"
     ],
-    "correct": 2,
-    "explanation": "Find the group that tells who or what and what happens. A complete clause usually needs both a subject and a verb.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 0,
+    "explanation": "The matching present form is “I am”.\nHint: Learn the matching forms of be and have; adding s is not a rule for every verb.",
     "structuredExplanation": {
-      "summary": "Find the group that tells who or what and what happens. A complete clause usually needs both a subject and a verb.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The matching present form is “I am”.",
+      "hint": "Learn the matching forms of be and have; adding s is not a rule for every verb."
     },
     "qualitySchema": "production-v1"
   },
@@ -604,23 +754,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-026",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "agreeing with be and have",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “The page number.” for this task: A writer changes The noisy parrots to one animal or person. What else may need to change? What should they check?",
-    "audioPrompt": "A student chooses “The page number.” for this task: A writer changes The noisy parrots to one animal or person. What else may need to change? What should they check?",
+    "question": "Choose the matching clause.",
+    "audioPrompt": "Choose the matching clause.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Check whether the verb still sounds right with one subject.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
+      "The windows am open.",
+      "The windows are open.",
+      "The windows is open.",
+      "The windows be open."
     ],
-    "correct": 0,
-    "explanation": "Check whether the verb still sounds right with one subject. Singular and plural subjects can require different verb forms.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 1,
+    "explanation": "The plural subject “windows” takes “are”.\nHint: Learn the matching forms of be and have; adding s is not a rule for every verb.",
     "structuredExplanation": {
-      "summary": "Check whether the verb still sounds right with one subject. Singular and plural subjects can require different verb forms.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The plural subject “windows” takes “are”.",
+      "hint": "Learn the matching forms of be and have; adding s is not a rule for every verb."
     },
     "qualitySchema": "production-v1"
   },
@@ -628,23 +784,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-027",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "agreeing with be and have",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “Add only “at sunrise”.” for this task: Which revision fixes a missing verb after “The noisy parrots”? What should they check?",
-    "audioPrompt": "A student chooses “Add only “at sunrise”.” for this task: Which revision fixes a missing verb after “The noisy parrots”? What should they check?",
+    "question": "Complete: “The kitten [blank] a small bell.”",
+    "audioPrompt": "Complete: “The kitten [blank] a small bell.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "The clause needs a process word.",
-      "Ignore the example and choose the remaining option."
+      "has",
+      "having",
+      "have",
+      "to have"
     ],
-    "correct": 1,
-    "explanation": "The clause needs a process word. Adding an agreeing verb can complete the clause.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 0,
+    "explanation": "The singular subject “kitten” takes “has” in this present-tense clause.\nHint: Learn the matching forms of be and have; adding s is not a rule for every verb.",
     "structuredExplanation": {
-      "summary": "The clause needs a process word. Adding an agreeing verb can complete the clause.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The singular subject “kitten” takes “has” in this present-tense clause.",
+      "hint": "Learn the matching forms of be and have; adding s is not a rule for every verb."
     },
     "qualitySchema": "production-v1"
   },
@@ -652,23 +814,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-028",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "agreeing with be and have",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “They are both page headings.” for this task: Why do The noisy parrots and “squawk” work together in the clause? What should they check?",
-    "audioPrompt": "A student chooses “They are both page headings.” for this task: Why do The noisy parrots and “squawk” work together in the clause? What should they check?",
+    "question": "Choose the correct sentence about yesterday.",
+    "audioPrompt": "Choose the correct sentence about yesterday.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option.",
-      "Decide whether the subject refers to one or more than one."
+      "The children is tired.",
+      "The children was tired.",
+      "The children am tired.",
+      "The children were tired."
     ],
-    "correct": 2,
-    "explanation": "Decide whether the subject refers to one or more than one. Agreement connects the subject with an appropriate verb form.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 3,
+    "explanation": "The plural subject “children” takes “were” for the past state.\nHint: Learn the matching forms of be and have; adding s is not a rule for every verb.",
     "structuredExplanation": {
-      "summary": "Decide whether the subject refers to one or more than one. Agreement connects the subject with an appropriate verb form.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The plural subject “children” takes “were” for the past state.",
+      "hint": "Learn the matching forms of be and have; adding s is not a rule for every verb."
     },
     "qualitySchema": "production-v1"
   },
@@ -676,23 +844,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-029",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "agreeing with be and have",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “the temperature.” for this task: Which words complete a clause beginning “Our science group”? What should they check?",
-    "audioPrompt": "A student chooses “the temperature.” for this task: Which words complete a clause beginning “Our science group”? What should they check?",
+    "question": "Why is “She is kind” correct even though be does not follow the usual add-s rule?",
+    "audioPrompt": "Why is “She is kind” correct even though be does not follow the usual add-s rule?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Choose words that tell what the subject does or is.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
+      "She is always treated as a plural subject.",
+      "A sentence about kindness never needs agreement.",
+      "Be has special forms, including am, is and are.",
+      "Only action verbs can appear in a clause."
     ],
-    "correct": 0,
-    "explanation": "Choose words that tell what the subject does or is. A clause usually contains a subject and an agreeing verb.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 2,
+    "explanation": "The verb be has irregular forms; agreement is not just adding an ending to every verb.\nHint: Learn the matching forms of be and have; adding s is not a rule for every verb.",
     "structuredExplanation": {
-      "summary": "Choose words that tell what the subject does or is. A clause usually contains a subject and an agreeing verb.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The verb be has irregular forms; agreement is not just adding an ending to every verb.",
+      "hint": "Learn the matching forms of be and have; adding s is not a rule for every verb."
     },
     "qualitySchema": "production-v1"
   },
@@ -700,23 +874,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-030",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "agreeing with be and have",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “records” for this task: In “Our science group records the temperature,” which words form the subject? What should they check?",
-    "audioPrompt": "A student chooses “records” for this task: In “Our science group records the temperature,” which words form the subject? What should they check?",
+    "question": "Complete: “We [blank] enough paper for the display.”",
+    "audioPrompt": "Complete: “We [blank] enough paper for the display.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ask who or what performs the process.",
-      "Ignore the example and choose the remaining option."
+      "have",
+      "has",
+      "to have",
+      "having"
     ],
-    "correct": 1,
-    "explanation": "Ask who or what performs the process. The subject is who or what the clause is about.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 0,
+    "explanation": "The subject “We” matches “have”.\nHint: Learn the matching forms of be and have; adding s is not a rule for every verb.",
     "structuredExplanation": {
-      "summary": "Ask who or what performs the process. The subject is who or what the clause is about.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The subject “We” matches “have”.",
+      "hint": "Learn the matching forms of be and have; adding s is not a rule for every verb."
     },
     "qualitySchema": "production-v1"
   },
@@ -724,23 +904,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-031",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "expanded subject agreement",
     "printable": true,
     "type": "single",
-    "question": "Which revision fixes a missing verb after “Our science group”?",
-    "audioPrompt": "Which revision fixes a missing verb after “Our science group”?",
+    "question": "Complete: “The basket of apples [blank] on the table.”",
+    "audioPrompt": "Complete: “The basket of apples [blank] on the table.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Add only “the temperature”.",
-      "Remove the subject.",
-      "Add “records”."
+      "are",
+      "am",
+      "be",
+      "is"
     ],
-    "correct": 2,
-    "explanation": "Adding an agreeing verb can complete the clause.\nHint: The clause needs a process word.",
+    "correct": 3,
+    "explanation": "The subject's main noun is singular “basket”, so use “is”; “apples” describes its contents.\nHint: Find the main noun in the subject group; another nearby noun may only add detail.",
     "structuredExplanation": {
-      "summary": "Adding an agreeing verb can complete the clause.",
-      "hint": "The clause needs a process word."
+      "summary": "The subject's main noun is singular “basket”, so use “is”; “apples” describes its contents.",
+      "hint": "Find the main noun in the subject group; another nearby noun may only add detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -748,23 +934,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-032",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "expanded subject agreement",
     "printable": true,
     "type": "single",
-    "question": "Why do Our science group and “records” work together in the clause?",
-    "audioPrompt": "Why do Our science group and “records” work together in the clause?",
+    "question": "Complete: “The dogs near the gate [blank] loudly.”",
+    "audioPrompt": "Complete: “The dogs near the gate [blank] loudly.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The subject and verb agree in number.",
-      "They are both page headings.",
-      "Neither word contributes meaning."
+      "to bark",
+      "barks",
+      "bark",
+      "barking"
     ],
-    "correct": 0,
-    "explanation": "Agreement connects the subject with an appropriate verb form.\nHint: Decide whether the subject refers to one or more than one.",
+    "correct": 2,
+    "explanation": "The plural head noun “dogs” controls “bark”, not the nearby singular noun “gate”.\nHint: Find the main noun in the subject group; another nearby noun may only add detail.",
     "structuredExplanation": {
-      "summary": "Agreement connects the subject with an appropriate verb form.",
-      "hint": "Decide whether the subject refers to one or more than one."
+      "summary": "The plural head noun “dogs” controls “bark”, not the nearby singular noun “gate”.",
+      "hint": "Find the main noun in the subject group; another nearby noun may only add detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -772,23 +964,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-033",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "expanded subject agreement",
     "printable": true,
     "type": "single",
-    "question": "Which words complete a clause beginning “Two young puppies”?",
-    "audioPrompt": "Which words complete a clause beginning “Two young puppies”?",
+    "question": "In “The owner of two shops works here”, why does works agree?",
+    "audioPrompt": "In “The owner of two shops works here”, why does works agree?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "a red ball.",
-      "chase a red ball.",
-      "very bright and."
+      "Shops is the nearest noun, so it controls the verb.",
+      "The main subject noun is owner, naming one person.",
+      "Here changes every verb to singular.",
+      "Two always requires an s on the verb."
     ],
     "correct": 1,
-    "explanation": "A clause usually contains a subject and an agreeing verb.\nHint: Choose words that tell what the subject does or is.",
+    "explanation": "The phrase “of two shops” adds detail about the owner; it does not replace the head of the subject.\nHint: Find the main noun in the subject group; another nearby noun may only add detail.",
     "structuredExplanation": {
-      "summary": "A clause usually contains a subject and an agreeing verb.",
-      "hint": "Choose words that tell what the subject does or is."
+      "summary": "The phrase “of two shops” adds detail about the owner; it does not replace the head of the subject.",
+      "hint": "Find the main noun in the subject group; another nearby noun may only add detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -796,23 +994,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-034",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "expanded subject agreement",
     "printable": true,
     "type": "single",
-    "question": "In “Two young puppies chase a red ball,” which words form the subject?",
-    "audioPrompt": "In “Two young puppies chase a red ball,” which words form the subject?",
+    "question": "Choose the sentence with agreement.",
+    "audioPrompt": "Choose the sentence with agreement.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "chase",
-      "a red ball",
-      "Two young puppies"
+      "The flowers in the vase be fresh.",
+      "The flowers in the vase are fresh.",
+      "The flowers in the vase is fresh.",
+      "The flowers in the vase am fresh."
     ],
-    "correct": 2,
-    "explanation": "The subject is who or what the clause is about.\nHint: Ask who or what performs the process.",
+    "correct": 1,
+    "explanation": "The plural subject head “flowers” matches “are”, even with the singular “vase” nearby.\nHint: Find the main noun in the subject group; another nearby noun may only add detail.",
     "structuredExplanation": {
-      "summary": "The subject is who or what the clause is about.",
-      "hint": "Ask who or what performs the process."
+      "summary": "The plural subject head “flowers” matches “are”, even with the singular “vase” nearby.",
+      "hint": "Find the main noun in the subject group; another nearby noun may only add detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -820,23 +1024,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-035",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "expanded subject agreement",
     "printable": true,
     "type": "single",
-    "question": "In “Two young puppies chase a red ball,” which word is the verb?",
-    "audioPrompt": "In “Two young puppies chase a red ball,” which word is the verb?",
+    "question": "Complete: “A box beside the chairs [blank] the doorway.”",
+    "audioPrompt": "Complete: “A box beside the chairs [blank] the doorway.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "chase",
-      "Two young puppies",
-      "a red ball"
+      "blocks",
+      "block",
+      "blocking",
+      "to block"
     ],
     "correct": 0,
-    "explanation": "The verb expresses the process in the clause.\nHint: Ask what happens or what the subject does.",
+    "explanation": "One box is the subject, so “blocks” is the matching present form.\nHint: Find the main noun in the subject group; another nearby noun may only add detail.",
     "structuredExplanation": {
-      "summary": "The verb expresses the process in the clause.",
-      "hint": "Ask what happens or what the subject does."
+      "summary": "One box is the subject, so “blocks” is the matching present form.",
+      "hint": "Find the main noun in the subject group; another nearby noun may only add detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -844,23 +1054,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-036",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "expanded subject agreement",
     "printable": true,
     "type": "single",
-    "question": "Which sentence has correct subject–verb agreement for Two young puppies?",
-    "audioPrompt": "Which sentence has correct subject–verb agreement for Two young puppies?",
+    "question": "Choose the subject group that matches “are wet”.",
+    "audioPrompt": "Choose the subject group that matches “are wet”.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Two young puppies is chase a red ball.",
-      "Two young puppies chase a red ball.",
-      "Two young puppies does chase a red ball."
+      "One coat near the door",
+      "A coat beside two bags",
+      "The coats on the hook",
+      "The coat on the hooks"
     ],
-    "correct": 1,
-    "explanation": "The verb form must agree with its subject.\nHint: Read the subject and verb together aloud.",
+    "correct": 2,
+    "explanation": "“The coats on the hook” has the plural head noun coats. Each other group names one coat, even if another noun is plural.\nHint: Find the main noun in the subject group; another nearby noun may only add detail.",
     "structuredExplanation": {
-      "summary": "The verb form must agree with its subject.",
-      "hint": "Read the subject and verb together aloud."
+      "summary": "“The coats on the hook” has the plural head noun coats. Each other group names one coat, even if another noun is plural.",
+      "hint": "Find the main noun in the subject group; another nearby noun may only add detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -868,23 +1084,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-037",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "repairing agreement in context",
     "printable": true,
     "type": "single",
-    "question": "Which group is a complete clause about Two young puppies?",
-    "audioPrompt": "Which group is a complete clause about Two young puppies?",
+    "question": "Correct this present-tense sentence: “My friends enjoys puzzles.”",
+    "audioPrompt": "Correct this present-tense sentence: “My friends enjoys puzzles.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Two young puppies.",
-      "a red ball.",
-      "Two young puppies chase."
+      "My friends is enjoys puzzles.",
+      "My friends enjoying puzzles.",
+      "My friends to enjoy puzzles.",
+      "My friends enjoy puzzles."
     ],
-    "correct": 2,
-    "explanation": "A complete clause usually needs both a subject and a verb.\nHint: Find the group that tells who or what and what happens.",
+    "correct": 3,
+    "explanation": "The plural subject “friends” matches “enjoy”.\nHint: Keep the intended subject and time while correcting the mismatch.",
     "structuredExplanation": {
-      "summary": "A complete clause usually needs both a subject and a verb.",
-      "hint": "Find the group that tells who or what and what happens."
+      "summary": "The plural subject “friends” matches “enjoy”.",
+      "hint": "Keep the intended subject and time while correcting the mismatch."
     },
     "qualitySchema": "production-v1"
   },
@@ -892,23 +1114,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-038",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "repairing agreement in context",
     "printable": true,
     "type": "single",
-    "question": "A writer changes Two young puppies to one animal or person. What else may need to change?",
-    "audioPrompt": "A writer changes Two young puppies to one animal or person. What else may need to change?",
+    "question": "Keep the one girl and the present tense: “The girl carry the tray.” Which repair fits?",
+    "audioPrompt": "Keep the one girl and the present tense: “The girl carry the tray.” Which repair fits?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The form of the verb.",
-      "The page number.",
-      "The colour of the paper."
+      "The girl carried the tray.",
+      "The girl carries the tray.",
+      "The girl carrying the tray.",
+      "The girls carry the tray."
     ],
-    "correct": 0,
-    "explanation": "Singular and plural subjects can require different verb forms.\nHint: Check whether the verb still sounds right with one subject.",
+    "correct": 1,
+    "explanation": "“Carries” fixes agreement while retaining the singular subject and present time.\nHint: Keep the intended subject and time while correcting the mismatch.",
     "structuredExplanation": {
-      "summary": "Singular and plural subjects can require different verb forms.",
-      "hint": "Check whether the verb still sounds right with one subject."
+      "summary": "“Carries” fixes agreement while retaining the singular subject and present time.",
+      "hint": "Keep the intended subject and time while correcting the mismatch."
     },
     "qualitySchema": "production-v1"
   },
@@ -916,23 +1144,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-039",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "repairing agreement in context",
     "printable": true,
     "type": "single",
-    "question": "Which revision fixes a missing verb after “Two young puppies”?",
-    "audioPrompt": "Which revision fixes a missing verb after “Two young puppies”?",
+    "question": "“The rabbits eat leaves. They lives in a large pen.” Which single word needs changing?",
+    "audioPrompt": "“The rabbits eat leaves. They lives in a large pen.” Which single word needs changing?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Add only “a red ball”.",
-      "Add “chase”.",
-      "Remove the subject."
+      "lives",
+      "rabbits",
+      "large",
+      "eat"
     ],
-    "correct": 1,
-    "explanation": "Adding an agreeing verb can complete the clause.\nHint: The clause needs a process word.",
+    "correct": 0,
+    "explanation": "“They” refers to the rabbits and needs “live”, not “lives”.\nHint: Keep the intended subject and time while correcting the mismatch.",
     "structuredExplanation": {
-      "summary": "Adding an agreeing verb can complete the clause.",
-      "hint": "The clause needs a process word."
+      "summary": "“They” refers to the rabbits and needs “live”, not “lives”.",
+      "hint": "Keep the intended subject and time while correcting the mismatch."
     },
     "qualitySchema": "production-v1"
   },
@@ -940,23 +1174,269 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la06-p-040",
     "curriculumCode": "AC9E3LA06",
     "bank": "practice",
-    "skill": "Clauses and Subject–Verb Agreement",
+    "skill": "repairing agreement in context",
     "printable": true,
     "type": "single",
-    "question": "Why do Two young puppies and “chase” work together in the clause?",
-    "audioPrompt": "Why do Two young puppies and “chase” work together in the clause?",
+    "question": "Which sentence keeps agreement when “A player” changes to “Several players”?",
+    "audioPrompt": "Which sentence keeps agreement when “A player” changes to “Several players”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "They are both page headings.",
-      "Neither word contributes meaning.",
-      "The subject and verb agree in number."
+      "Several players has practised daily.",
+      "Several players is practising daily.",
+      "Several players practise daily.",
+      "Several players practises daily."
     ],
     "correct": 2,
-    "explanation": "Agreement connects the subject with an appropriate verb form.\nHint: Decide whether the subject refers to one or more than one.",
+    "explanation": "The plural subject requires “practise” here; the other verb forms do not match it.\nHint: Keep the intended subject and time while correcting the mismatch.",
     "structuredExplanation": {
-      "summary": "Agreement connects the subject with an appropriate verb form.",
-      "hint": "Decide whether the subject refers to one or more than one."
+      "summary": "The plural subject requires “practise” here; the other verb forms do not match it.",
+      "hint": "Keep the intended subject and time while correcting the mismatch."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la06-p-041",
+    "curriculumCode": "AC9E3LA06",
+    "bank": "practice",
+    "skill": "repairing agreement in context",
+    "printable": true,
+    "type": "single",
+    "question": "A notice says, “Each child has a folder.” It is rewritten using “The children”. Which version agrees?",
+    "audioPrompt": "A notice says, “Each child has a folder.” It is rewritten using “The children”. Which version agrees?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "The children having folders.",
+      "The children is having folders.",
+      "The children has folders.",
+      "The children have folders."
+    ],
+    "correct": 3,
+    "explanation": "The plural subject “children” takes “have”.\nHint: Keep the intended subject and time while correcting the mismatch.",
+    "structuredExplanation": {
+      "summary": "The plural subject “children” takes “have”.",
+      "hint": "Keep the intended subject and time while correcting the mismatch."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la06-p-042",
+    "curriculumCode": "AC9E3LA06",
+    "bank": "practice",
+    "skill": "repairing agreement in context",
+    "printable": true,
+    "type": "single",
+    "question": "A pupil changes the final noun in “The cat chase mice” to “mouse”. Does that fix subject–verb agreement?",
+    "audioPrompt": "A pupil changes the final noun in “The cat chase mice” to “mouse”. Does that fix subject–verb agreement?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Yes; every sentence needs only singular nouns.",
+      "No; cat must always be made plural.",
+      "No; cat still needs the verb chases.",
+      "Yes; the object always decides the verb."
+    ],
+    "correct": 2,
+    "explanation": "Agreement is controlled by the subject cat, not by whether its object is singular or plural.\nHint: Keep the intended subject and time while correcting the mismatch.",
+    "structuredExplanation": {
+      "summary": "Agreement is controlled by the subject cat, not by whether its object is singular or plural.",
+      "hint": "Keep the intended subject and time while correcting the mismatch."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la06-p-043",
+    "curriculumCode": "AC9E3LA06",
+    "bank": "practice",
+    "skill": "clauses and understood subjects",
+    "printable": true,
+    "type": "single",
+    "question": "Which word group includes both a subject and a verb?",
+    "audioPrompt": "Which word group includes both a subject and a verb?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "A very small puppy",
+      "The puppy sleeps.",
+      "The sleepy puppy",
+      "Beside the puppy"
+    ],
+    "correct": 1,
+    "explanation": "“The puppy sleeps” includes the subject and the verb; the other groups name or describe without a verb.\nHint: Look for a grammatical unit with a verb and usually a subject; some commands leave you understood.",
+    "structuredExplanation": {
+      "summary": "“The puppy sleeps” includes the subject and the verb; the other groups name or describe without a verb.",
+      "hint": "Look for a grammatical unit with a verb and usually a subject; some commands leave you understood."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la06-p-044",
+    "curriculumCode": "AC9E3LA06",
+    "bank": "practice",
+    "skill": "clauses and understood subjects",
+    "printable": true,
+    "type": "single",
+    "question": "Complete the clause “The children [blank]” with a matching verb group.",
+    "audioPrompt": "Complete the clause “The children [blank]” with a matching verb group.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "am waiting",
+      "is waiting",
+      "be waits",
+      "are waiting"
+    ],
+    "correct": 3,
+    "explanation": "“The children” is plural and matches “are waiting”.\nHint: Look for a grammatical unit with a verb and usually a subject; some commands leave you understood.",
+    "structuredExplanation": {
+      "summary": "“The children” is plural and matches “are waiting”.",
+      "hint": "Look for a grammatical unit with a verb and usually a subject; some commands leave you understood."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la06-p-045",
+    "curriculumCode": "AC9E3LA06",
+    "bank": "practice",
+    "skill": "clauses and understood subjects",
+    "printable": true,
+    "type": "single",
+    "question": "“Close the gate.” is a command. Who is understood as the person to close it?",
+    "audioPrompt": "“Close the gate.” is a command. Who is understood as the person to close it?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "The gate itself.",
+      "No one, because a command cannot have a verb.",
+      "Someone named Close.",
+      "You, the person being addressed."
+    ],
+    "correct": 3,
+    "explanation": "The subject you can be understood in a command without being written explicitly.\nHint: Look for a grammatical unit with a verb and usually a subject; some commands leave you understood.",
+    "structuredExplanation": {
+      "summary": "The subject you can be understood in a command without being written explicitly.",
+      "hint": "Look for a grammatical unit with a verb and usually a subject; some commands leave you understood."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la06-p-046",
+    "curriculumCode": "AC9E3LA06",
+    "bank": "practice",
+    "skill": "clauses and understood subjects",
+    "printable": true,
+    "type": "single",
+    "question": "In “The rain stopped and the sun appeared”, which pair gives the subjects of the two clauses?",
+    "audioPrompt": "In “The rain stopped and the sun appeared”, which pair gives the subjects of the two clauses?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "and; the",
+      "The rain; the sun",
+      "The rain; appeared",
+      "stopped; appeared"
+    ],
+    "correct": 1,
+    "explanation": "Each clause has its own subject and verb: the rain stopped; the sun appeared.\nHint: Look for a grammatical unit with a verb and usually a subject; some commands leave you understood.",
+    "structuredExplanation": {
+      "summary": "Each clause has its own subject and verb: the rain stopped; the sun appeared.",
+      "hint": "Look for a grammatical unit with a verb and usually a subject; some commands leave you understood."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la06-p-047",
+    "curriculumCode": "AC9E3LA06",
+    "bank": "practice",
+    "skill": "clauses and understood subjects",
+    "printable": true,
+    "type": "single",
+    "question": "Does “a clause usually contains a subject and a verb” mean every clause must show a written subject?",
+    "audioPrompt": "Does “a clause usually contains a subject and a verb” mean every clause must show a written subject?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Yes; every clause must contain exactly four words.",
+      "No; verbs are never needed in clauses.",
+      "No; a command may leave you understood.",
+      "Yes; commands without a written you are always incorrect."
+    ],
+    "correct": 2,
+    "explanation": "“Usually” allows constructions such as commands with an understood subject.\nHint: Look for a grammatical unit with a verb and usually a subject; some commands leave you understood.",
+    "structuredExplanation": {
+      "summary": "“Usually” allows constructions such as commands with an understood subject.",
+      "hint": "Look for a grammatical unit with a verb and usually a subject; some commands leave you understood."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la06-p-048",
+    "curriculumCode": "AC9E3LA06",
+    "bank": "practice",
+    "skill": "clauses and understood subjects",
+    "printable": true,
+    "type": "single",
+    "question": "Which group has a subject and a verb, even though it would need more context to form a complete sentence on its own?",
+    "audioPrompt": "Which group has a subject and a verb, even though it would need more context to form a complete sentence on its own?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "the very late bus",
+      "beside the yellow bus",
+      "after the busy morning",
+      "because the bus arrived"
+    ],
+    "correct": 3,
+    "explanation": "“The bus” is a subject and “arrived” a verb inside the because-clause; a clause need not stand alone as a complete sentence.\nHint: Look for a grammatical unit with a verb and usually a subject; some commands leave you understood.",
+    "structuredExplanation": {
+      "summary": "“The bus” is a subject and “arrived” a verb inside the because-clause; a clause need not stand alone as a complete sentence.",
+      "hint": "Look for a grammatical unit with a verb and usually a subject; some commands leave you understood."
     },
     "qualitySchema": "production-v1"
   }

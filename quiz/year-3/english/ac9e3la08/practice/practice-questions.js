@@ -4,23 +4,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-001",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "recognising past time",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links yesterday with the verb?",
-    "audioPrompt": "Which sentence correctly links yesterday with the verb?",
+    "question": "Which sentence tells something that happened before now?",
+    "audioPrompt": "Which sentence tells something that happened before now?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Yesterday, the student walks a note.",
-      "Yesterday, the student walked a note.",
-      "Yesterday, the student will walk a note."
+      "The child waves from the bus.",
+      "The child waved from the bus.",
+      "The child will wave from the bus.",
+      "The child is waving from the bus."
     ],
     "correct": 1,
-    "explanation": "Past-tense verbs locate a process before now.\nHint: Match the verb form to the past-time clue.",
+    "explanation": "Waved is past tense. It places the wave before now.\nHint: A past-tense verb places something before now; it need not have the word yesterday beside it.",
     "structuredExplanation": {
-      "summary": "Past-tense verbs locate a process before now.",
-      "hint": "Match the verb form to the past-time clue."
+      "summary": "Waved is past tense. It places the wave before now.",
+      "hint": "A past-tense verb places something before now; it need not have the word yesterday beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +34,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-002",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "recognising past time",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links today with the verb?",
-    "audioPrompt": "Which sentence correctly links today with the verb?",
+    "question": "Which word shows past time?\nThe leaves drifted onto the path.",
+    "audioPrompt": "Which word shows past time?\nThe leaves drifted onto the path.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Today, the student walked a note.",
-      "Today, the student will walk a note.",
-      "Today, the student walks a note."
+      "onto",
+      "path",
+      "drifted",
+      "leaves"
     ],
     "correct": 2,
-    "explanation": "Present tense can describe what happens now or regularly.\nHint: Use the time clue to select the present form.",
+    "explanation": "Drifted is the past-tense verb. The other words do not place the event in time.\nHint: A past-tense verb places something before now; it need not have the word yesterday beside it.",
     "structuredExplanation": {
-      "summary": "Present tense can describe what happens now or regularly.",
-      "hint": "Use the time clue to select the present form."
+      "summary": "Drifted is the past-tense verb. The other words do not place the event in time.",
+      "hint": "A past-tense verb places something before now; it need not have the word yesterday beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +64,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-003",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "recognising past time",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links tomorrow with the verb?",
-    "audioPrompt": "Which sentence correctly links tomorrow with the verb?",
+    "question": "Read: We planted beans. When does the verb place the planting?",
+    "audioPrompt": "Read: We planted beans. When does the verb place the planting?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Tomorrow, the student will walk a note.",
-      "Tomorrow, the student walked a note.",
-      "Tomorrow, the student walks a note."
+      "Right now only",
+      "Before now",
+      "After next week",
+      "At an unknown future time"
     ],
-    "correct": 0,
-    "explanation": "Future tense locates a process after now.\nHint: Look for the verb phrase beginning with will.",
+    "correct": 1,
+    "explanation": "Planted is past tense, so the planting happened before now. The sentence does not give an exact date.\nHint: A past-tense verb places something before now; it need not have the word yesterday beside it.",
     "structuredExplanation": {
-      "summary": "Future tense locates a process after now.",
-      "hint": "Look for the verb phrase beginning with will."
+      "summary": "Planted is past tense, so the planting happened before now. The sentence does not give an exact date.",
+      "hint": "A past-tense verb places something before now; it need not have the word yesterday beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +94,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-004",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "recognising past time",
     "printable": true,
     "type": "single",
-    "question": "A recount begins “Yesterday, we walked carefully.” Which continuation keeps past tense?",
-    "audioPrompt": "A recount begins “Yesterday, we walked carefully.” Which continuation keeps past tense?",
+    "question": "Which sentence is in the past tense even without a time word?",
+    "audioPrompt": "Which sentence is in the past tense even without a time word?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Then we walks again.",
-      "Then we walked again.",
-      "Then we will walk again."
+      "The lantern will glow.",
+      "The lantern is glowing.",
+      "The lantern glowed.",
+      "The lantern glows."
     ],
-    "correct": 1,
-    "explanation": "Consistent tense helps readers follow time.\nHint: Keep the next verb in the same time as the first.",
+    "correct": 2,
+    "explanation": "Glowed itself shows past tense; a word such as yesterday is not necessary.\nHint: A past-tense verb places something before now; it need not have the word yesterday beside it.",
     "structuredExplanation": {
-      "summary": "Consistent tense helps readers follow time.",
-      "hint": "Keep the next verb in the same time as the first."
+      "summary": "Glowed itself shows past tense; a word such as yesterday is not necessary.",
+      "hint": "A past-tense verb places something before now; it need not have the word yesterday beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +124,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-005",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "recognising past time",
     "printable": true,
     "type": "single",
-    "question": "Which edit fixes the tense shift in “Yesterday, she walked, then she walks”?",
-    "audioPrompt": "Which edit fixes the tense shift in “Yesterday, she walked, then she walks”?",
+    "question": "Read: The crowd cheered. What can you tell from cheered alone?",
+    "audioPrompt": "Read: The crowd cheered. What can you tell from cheered alone?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Change “walked” to “will walk”.",
-      "Keep both verbs because their times already match.",
-      "Change “walks” to “walked”."
+      "The cheering happened exactly yesterday.",
+      "The cheering will happen tomorrow.",
+      "The cheering happens every Friday.",
+      "The cheering happened before now."
     ],
-    "correct": 2,
-    "explanation": "Both events with the same past-time frame need past forms.\nHint: Use the opening time phrase as your guide.",
+    "correct": 3,
+    "explanation": "Cheered places the action in the past but does not give an exact day or a repeated schedule.\nHint: A past-tense verb places something before now; it need not have the word yesterday beside it.",
     "structuredExplanation": {
-      "summary": "Both events with the same past-time frame need past forms.",
-      "hint": "Use the opening time phrase as your guide."
+      "summary": "Cheered places the action in the past but does not give an exact day or a repeated schedule.",
+      "hint": "A past-tense verb places something before now; it need not have the word yesterday beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +154,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-006",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "recognising past time",
     "printable": true,
     "type": "single",
-    "question": "Which words in “Tomorrow, they will walk” show future time?",
-    "audioPrompt": "Which words in “Tomorrow, they will walk” show future time?",
+    "question": "Which sentence changes the event to past time?",
+    "audioPrompt": "Which sentence changes the event to past time?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Tomorrow and “will walk”",
-      "Yesterday and “walked”",
-      "Today and “walks”"
+      "The kite is going to land beside us.",
+      "The kite lands beside us.",
+      "The kite will land beside us.",
+      "The kite landed beside us."
     ],
-    "correct": 0,
-    "explanation": "A time phrase and verb form can both anchor an event in time.\nHint: Find the pair that points after now.",
+    "correct": 3,
+    "explanation": "Landed is a past-tense form. Lands is present; will land and is going to land refer to future time.\nHint: A past-tense verb places something before now; it need not have the word yesterday beside it.",
     "structuredExplanation": {
-      "summary": "A time phrase and verb form can both anchor an event in time.",
-      "hint": "Find the pair that points after now."
+      "summary": "Landed is a past-tense form. Lands is present; will land and is going to land refer to future time.",
+      "hint": "A past-tense verb places something before now; it need not have the word yesterday beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +184,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-007",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "present habits facts and states",
     "printable": true,
     "type": "single",
-    "question": "Why does a writer use “walks” after today?",
-    "audioPrompt": "Why does a writer use “walks” after today?",
+    "question": "Which sentence tells a usual activity in the present tense?",
+    "audioPrompt": "Which sentence tells a usual activity in the present tense?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "To show that the process ended long ago.",
-      "To show a current or repeated process.",
-      "To show that the process can never occur."
+      "I will feed the hens tomorrow.",
+      "I feed the hens each morning.",
+      "I fed the hens this morning.",
+      "I was feeding the hens earlier."
     ],
     "correct": 1,
-    "explanation": "Present tense suits current and habitual actions.\nHint: Connect the tense to the time clue.",
+    "explanation": "Feed with each morning describes a regular habit.\nHint: Present tense can tell about a current state, a usual activity or a general fact.",
     "structuredExplanation": {
-      "summary": "Present tense suits current and habitual actions.",
-      "hint": "Connect the tense to the time clue."
+      "summary": "Feed with each morning describes a regular habit.",
+      "hint": "Present tense can tell about a current state, a usual activity or a general fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +214,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-008",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "present habits facts and states",
     "printable": true,
     "type": "single",
-    "question": "Using “walked”, “walks” and “will walk”, which sequence moves clearly from past to present to future?",
-    "audioPrompt": "Using “walked”, “walks” and “will walk”, which sequence moves clearly from past to present to future?",
+    "question": "Which sentence describes a current state?",
+    "audioPrompt": "Which sentence describes a current state?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Yesterday: will walk; today: walked; tomorrow: walks.",
-      "Yesterday: walks; today: will walk; tomorrow: walked.",
-      "Yesterday: walked; today: walks; tomorrow: will walk."
+      "The cup is empty now.",
+      "The cup was empty earlier.",
+      "The cup became empty last night.",
+      "The cup will be empty soon."
     ],
-    "correct": 2,
-    "explanation": "Verb tense can organise events along a timeline.\nHint: Match each form to before now, now, and after now.",
+    "correct": 0,
+    "explanation": "Is describes the cup's present state, supported by now.\nHint: Present tense can tell about a current state, a usual activity or a general fact.",
     "structuredExplanation": {
-      "summary": "Verb tense can organise events along a timeline.",
-      "hint": "Match each form to before now, now, and after now."
+      "summary": "Is describes the cup's present state, supported by now.",
+      "hint": "Present tense can tell about a current state, a usual activity or a general fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +244,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-009",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "present habits facts and states",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links last week with the verb?",
-    "audioPrompt": "Which sentence correctly links last week with the verb?",
+    "question": "Choose the present-tense verb for a general fact.\nA square [blank] four sides.",
+    "audioPrompt": "Choose the present-tense verb for a general fact.\nA square [blank] four sides.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Last week, the student measured a note.",
-      "Last week, the student measures a note.",
-      "Last week, the student will measure a note."
+      "will have",
+      "used to have",
+      "had",
+      "has"
     ],
-    "correct": 0,
-    "explanation": "Past-tense verbs locate a process before now.\nHint: Match the verb form to the past-time clue.",
+    "correct": 3,
+    "explanation": "Has states a general fact. Present tense is not limited to actions happening at this instant.\nHint: Present tense can tell about a current state, a usual activity or a general fact.",
     "structuredExplanation": {
-      "summary": "Past-tense verbs locate a process before now.",
-      "hint": "Match the verb form to the past-time clue."
+      "summary": "Has states a general fact. Present tense is not limited to actions happening at this instant.",
+      "hint": "Present tense can tell about a current state, a usual activity or a general fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +274,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-010",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "present habits facts and states",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links each day with the verb?",
-    "audioPrompt": "Which sentence correctly links each day with the verb?",
+    "question": "Which sentence is in the present tense?",
+    "audioPrompt": "Which sentence is in the present tense?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Each day, the student measured a note.",
-      "Each day, the student measures a note.",
-      "Each day, the student will measure a note."
+      "Our bus stopped at the library.",
+      "Our bus stops at the library.",
+      "Our bus will stop at the library.",
+      "Our bus was stopping at the library."
     ],
     "correct": 1,
-    "explanation": "Present tense can describe what happens now or regularly.\nHint: Use the time clue to select the present form.",
+    "explanation": "Stops is present tense and can describe the bus's usual route.\nHint: Present tense can tell about a current state, a usual activity or a general fact.",
     "structuredExplanation": {
-      "summary": "Present tense can describe what happens now or regularly.",
-      "hint": "Use the time clue to select the present form."
+      "summary": "Stops is present tense and can describe the bus's usual route.",
+      "hint": "Present tense can tell about a current state, a usual activity or a general fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +304,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-011",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "present habits facts and states",
     "printable": true,
     "type": "single",
-    "question": "Why is “Next week, the student will measure a note.” the best answer here? Which sentence correctly links next week with the verb?",
-    "audioPrompt": "Why is “Next week, the student will measure a note.” the best answer here? Which sentence correctly links next week with the verb?",
+    "question": "Read: We walk to school on Mondays. Does this mean we are walking at this exact moment?",
+    "audioPrompt": "Read: We walk to school on Mondays. Does this mean we are walking at this exact moment?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Next week, the student measured a note.” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "Future tense locates a process after now."
+      "Yes; Mondays means today only.",
+      "No; walk is a past-tense verb.",
+      "No; it describes a regular habit.",
+      "Yes; all present verbs mean this moment."
     ],
     "correct": 2,
-    "explanation": "Future tense locates a process after now.\nHint: Look for the verb phrase beginning with will.",
+    "explanation": "The present-tense verb walk and on Mondays describe something done regularly.\nHint: Present tense can tell about a current state, a usual activity or a general fact.",
     "structuredExplanation": {
-      "summary": "Future tense locates a process after now.",
-      "hint": "Look for the verb phrase beginning with will."
+      "summary": "The present-tense verb walk and on Mondays describe something done regularly.",
+      "hint": "Present tense can tell about a current state, a usual activity or a general fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +334,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-012",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "present habits facts and states",
     "printable": true,
     "type": "single",
-    "question": "Why is “Then we measured again.” the best answer here? A recount begins “Last week, we measured carefully.” Which continuation keeps past tense?",
-    "audioPrompt": "Why is “Then we measured again.” the best answer here? A recount begins “Last week, we measured carefully.” Which continuation keeps past tense?",
+    "question": "Read: The Earth travels around the Sun. Why does the writer use present tense?",
+    "audioPrompt": "Read: The Earth travels around the Sun. Why does the writer use present tense?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Consistent tense helps readers follow time.",
-      "Because “Then we measures again.” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
+      "To promise a future journey",
+      "To say the travel has stopped",
+      "To retell yesterday's trip",
+      "To state a general fact"
     ],
-    "correct": 0,
-    "explanation": "Consistent tense helps readers follow time.\nHint: Keep the next verb in the same time as the first.",
+    "correct": 3,
+    "explanation": "Travels is used for a general fact, not just something starting right now.\nHint: Present tense can tell about a current state, a usual activity or a general fact.",
     "structuredExplanation": {
-      "summary": "Consistent tense helps readers follow time.",
-      "hint": "Keep the next verb in the same time as the first."
+      "summary": "Travels is used for a general fact, not just something starting right now.",
+      "hint": "Present tense can tell about a current state, a usual activity or a general fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +364,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-013",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "expressing future time",
     "printable": true,
     "type": "single",
-    "question": "Why is “Change “measures” to “measured”.” the best answer here? Which edit fixes the tense shift in “Last week, she measured, then she measures”?",
-    "audioPrompt": "Why is “Change “measures” to “measured”.” the best answer here? Which edit fixes the tense shift in “Last week, she measured, then she measures”?",
+    "question": "Which sentence tells a future event?",
+    "audioPrompt": "Which sentence tells a future event?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Change “measured” to “will measure”.” sounds familiar.",
-      "Both events with the same past-time frame need past forms.",
-      "Because the longest-looking option should always be chosen."
+      "We launch the boat each summer.",
+      "We will launch the boat soon.",
+      "We are launching the boat now.",
+      "We launched the boat earlier."
     ],
     "correct": 1,
-    "explanation": "Both events with the same past-time frame need past forms.\nHint: Use the opening time phrase as your guide.",
+    "explanation": "Will launch places the event after now, and soon supports that meaning.\nHint: Will plus a base verb can tell future time. Going to can also tell a future plan.",
     "structuredExplanation": {
-      "summary": "Both events with the same past-time frame need past forms.",
-      "hint": "Use the opening time phrase as your guide."
+      "summary": "Will launch places the event after now, and soon supports that meaning.",
+      "hint": "Will plus a base verb can tell future time. Going to can also tell a future plan."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +394,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-014",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "expressing future time",
     "printable": true,
     "type": "single",
-    "question": "Why is “Next week and “will measure”” the best answer here? Which words in “Next week, they will measure” show future time?",
-    "audioPrompt": "Why is “Next week and “will measure”” the best answer here? Which words in “Next week, they will measure” show future time?",
+    "question": "Which words show a future action?\nThe class will visit the museum.",
+    "audioPrompt": "Which words show a future action?\nThe class will visit the museum.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Last week and “measured”” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "A time phrase and verb form can both anchor an event in time."
+      "will visit",
+      "the museum",
+      "the class",
+      "class will"
     ],
-    "correct": 2,
-    "explanation": "A time phrase and verb form can both anchor an event in time.\nHint: Find the pair that points after now.",
+    "correct": 0,
+    "explanation": "Will works with the base verb visit to express future time.\nHint: Will plus a base verb can tell future time. Going to can also tell a future plan.",
     "structuredExplanation": {
-      "summary": "A time phrase and verb form can both anchor an event in time.",
-      "hint": "Find the pair that points after now."
+      "summary": "Will works with the base verb visit to express future time.",
+      "hint": "Will plus a base verb can tell future time. Going to can also tell a future plan."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +424,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-015",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "expressing future time",
     "printable": true,
     "type": "single",
-    "question": "Why is “To show a current or repeated process.” the best answer here? Why does a writer use “measures” after each day?",
-    "audioPrompt": "Why is “To show a current or repeated process.” the best answer here? Why does a writer use “measures” after each day?",
+    "question": "Choose the correct future form.\nTomorrow, Jo [blank] the seedlings.",
+    "audioPrompt": "Choose the correct future form.\nTomorrow, Jo [blank] the seedlings.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Present tense suits current and habitual actions.",
-      "Because “To show that the process ended long ago.” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
+      "will watering",
+      "will water",
+      "will waters",
+      "will watered"
     ],
-    "correct": 0,
-    "explanation": "Present tense suits current and habitual actions.\nHint: Connect the tense to the time clue.",
+    "correct": 1,
+    "explanation": "Use will with the base form water, without -s, -ed or -ing.\nHint: Will plus a base verb can tell future time. Going to can also tell a future plan.",
     "structuredExplanation": {
-      "summary": "Present tense suits current and habitual actions.",
-      "hint": "Connect the tense to the time clue."
+      "summary": "Use will with the base form water, without -s, -ed or -ing.",
+      "hint": "Will plus a base verb can tell future time. Going to can also tell a future plan."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +454,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-016",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "expressing future time",
     "printable": true,
     "type": "single",
-    "question": "Why is “Last week: measured; each day: measures; next week: will measure.” the best answer here? Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?",
-    "audioPrompt": "Why is “Last week: measured; each day: measures; next week: will measure.” the best answer here? Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?",
+    "question": "Read: I am going to bake bread tomorrow. What does am going to bake tell us?",
+    "audioPrompt": "Read: I am going to bake bread tomorrow. What does am going to bake tell us?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Last week: will measure; each day: measured; next week: measures.” sounds familiar.",
-      "Verb tense can organise events along a timeline.",
-      "Because the longest-looking option should always be chosen."
+      "A fact about every day",
+      "A finished event last week",
+      "An action finished long ago",
+      "A plan for after now"
     ],
-    "correct": 1,
-    "explanation": "Verb tense can organise events along a timeline.\nHint: Match each form to before now, now, and after now.",
+    "correct": 3,
+    "explanation": "Am going to bake expresses a future plan. Future time does not always require will.\nHint: Will plus a base verb can tell future time. Going to can also tell a future plan.",
     "structuredExplanation": {
-      "summary": "Verb tense can organise events along a timeline.",
-      "hint": "Match each form to before now, now, and after now."
+      "summary": "Am going to bake expresses a future plan. Future time does not always require will.",
+      "hint": "Will plus a base verb can tell future time. Going to can also tell a future plan."
     },
     "qualitySchema": "production-v1"
   },
@@ -388,23 +484,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-017",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "expressing future time",
     "printable": true,
     "type": "single",
-    "question": "Why is “Earlier, the student wrote a note.” the best answer here? Which sentence correctly links earlier with the verb?",
-    "audioPrompt": "Why is “Earlier, the student wrote a note.” the best answer here? Which sentence correctly links earlier with the verb?",
+    "question": "Which pair both refer to future time?",
+    "audioPrompt": "Which pair both refer to future time?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Earlier, the student writes a note.” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "Past-tense verbs locate a process before now."
+      "I paint each day. / I am painting now.",
+      "I was painting. / I painted last week.",
+      "I will paint soon. / I am going to paint tomorrow.",
+      "I painted earlier. / I paint every day."
     ],
     "correct": 2,
-    "explanation": "Past-tense verbs locate a process before now.\nHint: Match the verb form to the past-time clue.",
+    "explanation": "Both will paint and am going to paint refer to events after now in these sentences.\nHint: Will plus a base verb can tell future time. Going to can also tell a future plan.",
     "structuredExplanation": {
-      "summary": "Past-tense verbs locate a process before now.",
-      "hint": "Match the verb form to the past-time clue."
+      "summary": "Both will paint and am going to paint refer to events after now in these sentences.",
+      "hint": "Will plus a base verb can tell future time. Going to can also tell a future plan."
     },
     "qualitySchema": "production-v1"
   },
@@ -412,23 +514,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-018",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "expressing future time",
     "printable": true,
     "type": "single",
-    "question": "Why is “Now, the student writes a note.” the best answer here? Which sentence correctly links now with the verb?",
-    "audioPrompt": "Why is “Now, the student writes a note.” the best answer here? Which sentence correctly links now with the verb?",
+    "question": "A sentence says 'Zara will carry the basket'. Which change keeps future time and correct grammar?",
+    "audioPrompt": "A sentence says 'Zara will carry the basket'. Which change keeps future time and correct grammar?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Present tense can describe what happens now or regularly.",
-      "Because “Now, the student wrote a note.” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
+      "Zara will carried the basket.",
+      "Zara carries the basket each day.",
+      "Zara carried the basket.",
+      "Zara is going to carry the basket."
     ],
-    "correct": 0,
-    "explanation": "Present tense can describe what happens now or regularly.\nHint: Use the time clue to select the present form.",
+    "correct": 3,
+    "explanation": "Is going to carry keeps the future meaning. Will carried uses the wrong verb form.\nHint: Will plus a base verb can tell future time. Going to can also tell a future plan.",
     "structuredExplanation": {
-      "summary": "Present tense can describe what happens now or regularly.",
-      "hint": "Use the time clue to select the present form."
+      "summary": "Is going to carry keeps the future meaning. Will carried uses the wrong verb form.",
+      "hint": "Will plus a base verb can tell future time. Going to can also tell a future plan."
     },
     "qualitySchema": "production-v1"
   },
@@ -436,23 +544,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-019",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "forming regular past verbs",
     "printable": true,
     "type": "single",
-    "question": "Why is “Later, the student will write a note.” the best answer here? Which sentence correctly links later with the verb?",
-    "audioPrompt": "Why is “Later, the student will write a note.” the best answer here? Which sentence correctly links later with the verb?",
+    "question": "Which is the past-tense form of jump?",
+    "audioPrompt": "Which is the past-tense form of jump?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Later, the student wrote a note.” sounds familiar.",
-      "Future tense locates a process after now.",
-      "Because the longest-looking option should always be chosen."
+      "jumping",
+      "jumped",
+      "will jump",
+      "jumps"
     ],
     "correct": 1,
-    "explanation": "Future tense locates a process after now.\nHint: Look for the verb phrase beginning with will.",
+    "explanation": "Jumped is formed by adding -ed to jump.\nHint: Regular past forms use -ed or -d, sometimes with a spelling change.",
     "structuredExplanation": {
-      "summary": "Future tense locates a process after now.",
-      "hint": "Look for the verb phrase beginning with will."
+      "summary": "Jumped is formed by adding -ed to jump.",
+      "hint": "Regular past forms use -ed or -d, sometimes with a spelling change."
     },
     "qualitySchema": "production-v1"
   },
@@ -460,23 +574,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-020",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "forming regular past verbs",
     "printable": true,
     "type": "single",
-    "question": "Why is “Then we wrote again.” the best answer here? A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?",
-    "audioPrompt": "Why is “Then we wrote again.” the best answer here? A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?",
+    "question": "Yesterday, I [blank] the gate. Choose the correct past form of close.",
+    "audioPrompt": "Yesterday, I [blank] the gate. Choose the correct past form of close.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Then we writes again.” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "Consistent tense helps readers follow time."
+      "closes",
+      "closing",
+      "will close",
+      "closed"
     ],
-    "correct": 2,
-    "explanation": "Consistent tense helps readers follow time.\nHint: Keep the next verb in the same time as the first.",
+    "correct": 3,
+    "explanation": "Close already ends in e, so add d to form closed.\nHint: Regular past forms use -ed or -d, sometimes with a spelling change.",
     "structuredExplanation": {
-      "summary": "Consistent tense helps readers follow time.",
-      "hint": "Keep the next verb in the same time as the first."
+      "summary": "Close already ends in e, so add d to form closed.",
+      "hint": "Regular past forms use -ed or -d, sometimes with a spelling change."
     },
     "qualitySchema": "production-v1"
   },
@@ -484,23 +604,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-021",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "forming regular past verbs",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “Yesterday, the student walks a note.” for this task: Which sentence correctly links yesterday with the verb? What should they check?",
-    "audioPrompt": "A student chooses “Yesterday, the student walks a note.” for this task: Which sentence correctly links yesterday with the verb? What should they check?",
+    "question": "Choose the correct past form.\nLast night, the baby [blank] for a moment.",
+    "audioPrompt": "Choose the correct past form.\nLast night, the baby [blank] for a moment.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Match the verb form to the past-time clue.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
+      "crying",
+      "cries",
+      "cryed",
+      "cried"
     ],
-    "correct": 0,
-    "explanation": "Match the verb form to the past-time clue. Past-tense verbs locate a process before now.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 3,
+    "explanation": "For cry, change consonant plus y to i and add -ed: cried.\nHint: Regular past forms use -ed or -d, sometimes with a spelling change.",
     "structuredExplanation": {
-      "summary": "Match the verb form to the past-time clue. Past-tense verbs locate a process before now.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "For cry, change consonant plus y to i and add -ed: cried.",
+      "hint": "Regular past forms use -ed or -d, sometimes with a spelling change."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,23 +634,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-022",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "forming regular past verbs",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “Today, the student walked a note.” for this task: Which sentence correctly links today with the verb? What should they check?",
-    "audioPrompt": "A student chooses “Today, the student walked a note.” for this task: Which sentence correctly links today with the verb? What should they check?",
+    "question": "Choose the correct past form.\nThe rabbit [blank] across the grass earlier.",
+    "audioPrompt": "Choose the correct past form.\nThe rabbit [blank] across the grass earlier.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Use the time clue to select the present form.",
-      "Ignore the example and choose the remaining option."
+      "hoped",
+      "hops",
+      "hopped",
+      "hopping"
     ],
-    "correct": 1,
-    "explanation": "Use the time clue to select the present form. Present tense can describe what happens now or regularly.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 2,
+    "explanation": "Hop becomes hopped, with a doubled p. Hoped is the past of hope and has a different meaning.\nHint: Regular past forms use -ed or -d, sometimes with a spelling change.",
     "structuredExplanation": {
-      "summary": "Use the time clue to select the present form. Present tense can describe what happens now or regularly.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Hop becomes hopped, with a doubled p. Hoped is the past of hope and has a different meaning.",
+      "hint": "Regular past forms use -ed or -d, sometimes with a spelling change."
     },
     "qualitySchema": "production-v1"
   },
@@ -532,23 +664,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-023",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "forming regular past verbs",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “Tomorrow, the student walked a note.” for this task: Which sentence correctly links tomorrow with the verb? What should they check?",
-    "audioPrompt": "A student chooses “Tomorrow, the student walked a note.” for this task: Which sentence correctly links tomorrow with the verb? What should they check?",
+    "question": "Which sentence correctly changes 'We play chess' to past tense?",
+    "audioPrompt": "Which sentence correctly changes 'We play chess' to past tense?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option.",
-      "Look for the verb phrase beginning with will."
+      "We plaied chess.",
+      "We will played chess.",
+      "We played chess.",
+      "We plays chess."
     ],
     "correct": 2,
-    "explanation": "Look for the verb phrase beginning with will. Future tense locates a process after now.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "explanation": "Play has a vowel before y, so keep the y and add -ed: played.\nHint: Regular past forms use -ed or -d, sometimes with a spelling change.",
     "structuredExplanation": {
-      "summary": "Look for the verb phrase beginning with will. Future tense locates a process after now.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Play has a vowel before y, so keep the y and add -ed: played.",
+      "hint": "Regular past forms use -ed or -d, sometimes with a spelling change."
     },
     "qualitySchema": "production-v1"
   },
@@ -556,23 +694,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-024",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "forming regular past verbs",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “Then we walks again.” for this task: A recount begins “Yesterday, we walked carefully.” Which continuation keeps past tense? What should they check?",
-    "audioPrompt": "A student chooses “Then we walks again.” for this task: A recount begins “Yesterday, we walked carefully.” Which continuation keeps past tense? What should they check?",
+    "question": "Which pair both shows correct regular past forms?",
+    "audioPrompt": "Which pair both shows correct regular past forms?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the next verb in the same time as the first.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
+      "bake → baked; clap → clapped",
+      "bake → bakeed; clap → clapped",
+      "bake → baking; clap → claps",
+      "bake → baked; clap → claped"
     ],
     "correct": 0,
-    "explanation": "Keep the next verb in the same time as the first. Consistent tense helps readers follow time.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "explanation": "Bake takes d; clap doubles its final p before -ed. The other pairs contain an incorrect form or tense.\nHint: Regular past forms use -ed or -d, sometimes with a spelling change.",
     "structuredExplanation": {
-      "summary": "Keep the next verb in the same time as the first. Consistent tense helps readers follow time.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Bake takes d; clap doubles its final p before -ed. The other pairs contain an incorrect form or tense.",
+      "hint": "Regular past forms use -ed or -d, sometimes with a spelling change."
     },
     "qualitySchema": "production-v1"
   },
@@ -580,23 +724,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-025",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "common irregular past forms",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “Change “walked” to “will walk”.” for this task: Which edit fixes the tense shift in “Yesterday, she walked, then she walks”? What should they check?",
-    "audioPrompt": "A student chooses “Change “walked” to “will walk”.” for this task: Which edit fixes the tense shift in “Yesterday, she walked, then she walks”? What should they check?",
+    "question": "Choose the past-tense form of go.",
+    "audioPrompt": "Choose the past-tense form of go.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Use the opening time phrase as your guide.",
-      "Ignore the example and choose the remaining option."
+      "went",
+      "goes",
+      "going",
+      "goed"
     ],
-    "correct": 1,
-    "explanation": "Use the opening time phrase as your guide. Both events with the same past-time frame need past forms.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 0,
+    "explanation": "Go has the irregular past form went, not goed.\nHint: Some common verbs change in a different way in the past. Check the whole sentence.",
     "structuredExplanation": {
-      "summary": "Use the opening time phrase as your guide. Both events with the same past-time frame need past forms.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Go has the irregular past form went, not goed.",
+      "hint": "Some common verbs change in a different way in the past. Check the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -604,23 +754,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-026",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "common irregular past forms",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “Yesterday and “walked”” for this task: Which words in “Tomorrow, they will walk” show future time? What should they check?",
-    "audioPrompt": "A student chooses “Yesterday and “walked”” for this task: Which words in “Tomorrow, they will walk” show future time? What should they check?",
+    "question": "Last Saturday, we [blank] a bright rainbow.",
+    "audioPrompt": "Last Saturday, we [blank] a bright rainbow.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option.",
-      "Find the pair that points after now."
+      "seed",
+      "see",
+      "saw",
+      "seeing"
     ],
     "correct": 2,
-    "explanation": "Find the pair that points after now. A time phrase and verb form can both anchor an event in time.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "explanation": "Saw is the past form of see and fits last Saturday.\nHint: Some common verbs change in a different way in the past. Check the whole sentence.",
     "structuredExplanation": {
-      "summary": "Find the pair that points after now. A time phrase and verb form can both anchor an event in time.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Saw is the past form of see and fits last Saturday.",
+      "hint": "Some common verbs change in a different way in the past. Check the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -628,23 +784,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-027",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "common irregular past forms",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “To show that the process ended long ago.” for this task: Why does a writer use “walks” after today? What should they check?",
-    "audioPrompt": "A student chooses “To show that the process ended long ago.” for this task: Why does a writer use “walks” after today? What should they check?",
+    "question": "Choose the correct past form.\nAt yesterday's picnic, I [blank] an apple.",
+    "audioPrompt": "Choose the correct past form.\nAt yesterday's picnic, I [blank] an apple.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Connect the tense to the time clue.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
+      "ate",
+      "eating",
+      "eated",
+      "eat"
     ],
     "correct": 0,
-    "explanation": "Connect the tense to the time clue. Present tense suits current and habitual actions.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "explanation": "Ate is the irregular past form of eat.\nHint: Some common verbs change in a different way in the past. Check the whole sentence.",
     "structuredExplanation": {
-      "summary": "Connect the tense to the time clue. Present tense suits current and habitual actions.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Ate is the irregular past form of eat.",
+      "hint": "Some common verbs change in a different way in the past. Check the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -652,23 +814,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-028",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "common irregular past forms",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “Yesterday: will walk; today: walked; tomorrow: walks.” for this task: Using “walked”, “walks” and “will walk”, which sequence moves clearly from past to present to future? What should they check?",
-    "audioPrompt": "A student chooses “Yesterday: will walk; today: walked; tomorrow: walks.” for this task: Using “walked”, “walks” and “will walk”, which sequence moves clearly from past to present to future? What should they check?",
+    "question": "Which sentence uses a correct past form?",
+    "audioPrompt": "Which sentence uses a correct past form?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Match each form to before now, now, and after now.",
-      "Ignore the example and choose the remaining option."
+      "The swimmer will swam to the edge.",
+      "The swimmer swam to the edge.",
+      "The swimmer swimmed to the edge.",
+      "The swimmer swims to the edge."
     ],
     "correct": 1,
-    "explanation": "Match each form to before now, now, and after now. Verb tense can organise events along a timeline.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "explanation": "Swam is the past form of swim. Swims is present, and the other choices use incorrect forms.\nHint: Some common verbs change in a different way in the past. Check the whole sentence.",
     "structuredExplanation": {
-      "summary": "Match each form to before now, now, and after now. Verb tense can organise events along a timeline.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Swam is the past form of swim. Swims is present, and the other choices use incorrect forms.",
+      "hint": "Some common verbs change in a different way in the past. Check the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -676,23 +844,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-029",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "common irregular past forms",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “Last week, the student measures a note.” for this task: Which sentence correctly links last week with the verb? What should they check?",
-    "audioPrompt": "A student chooses “Last week, the student measures a note.” for this task: Which sentence correctly links last week with the verb? What should they check?",
+    "question": "Someone writes 'I buyed a notebook yesterday'. Which repair keeps the past meaning?",
+    "audioPrompt": "Someone writes 'I buyed a notebook yesterday'. Which repair keeps the past meaning?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option.",
-      "Match the verb form to the past-time clue."
+      "I am buying a notebook yesterday.",
+      "I bought a notebook yesterday.",
+      "I buy a notebook yesterday.",
+      "I will buy a notebook yesterday."
     ],
-    "correct": 2,
-    "explanation": "Match the verb form to the past-time clue. Past-tense verbs locate a process before now.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 1,
+    "explanation": "Bought is the irregular past form of buy and agrees with yesterday.\nHint: Some common verbs change in a different way in the past. Check the whole sentence.",
     "structuredExplanation": {
-      "summary": "Match the verb form to the past-time clue. Past-tense verbs locate a process before now.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Bought is the irregular past form of buy and agrees with yesterday.",
+      "hint": "Some common verbs change in a different way in the past. Check the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -700,23 +874,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-030",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "common irregular past forms",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “Each day, the student measured a note.” for this task: Which sentence correctly links each day with the verb? What should they check?",
-    "audioPrompt": "A student chooses “Each day, the student measured a note.” for this task: Which sentence correctly links each day with the verb? What should they check?",
+    "question": "Why is 'The bell rang' a past-tense sentence?",
+    "audioPrompt": "Why is 'The bell rang' a past-tense sentence?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Use the time clue to select the present form.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
+      "Rang is the past form of ring.",
+      "The sentence has no verb.",
+      "Bell is a word for past time.",
+      "All past verbs must end in -ed."
     ],
     "correct": 0,
-    "explanation": "Use the time clue to select the present form. Present tense can describe what happens now or regularly.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "explanation": "Some past forms are irregular. Ring changes to rang rather than adding -ed.\nHint: Some common verbs change in a different way in the past. Check the whole sentence.",
     "structuredExplanation": {
-      "summary": "Use the time clue to select the present form. Present tense can describe what happens now or regularly.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Some past forms are irregular. Ring changes to rang rather than adding -ed.",
+      "hint": "Some common verbs change in a different way in the past. Check the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -724,23 +904,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-031",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "changing tense preserving meaning",
     "printable": true,
     "type": "single",
-    "question": "Why does a writer use “measures” after each day?",
-    "audioPrompt": "Why does a writer use “measures” after each day?",
+    "question": "Change 'I collect shells' to past tense.",
+    "audioPrompt": "Change 'I collect shells' to past tense.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "To show that the process ended long ago.",
-      "To show a current or repeated process.",
-      "To show that the process can never occur."
+      "She collects shells.",
+      "I collected shells.",
+      "I collect stones.",
+      "I will collect shells."
     ],
     "correct": 1,
-    "explanation": "Present tense suits current and habitual actions.\nHint: Connect the tense to the time clue.",
+    "explanation": "Collected changes the tense while keeping the person and object the same.\nHint: Change the verb form and any time word that needs to change, while keeping the same event and people.",
     "structuredExplanation": {
-      "summary": "Present tense suits current and habitual actions.",
-      "hint": "Connect the tense to the time clue."
+      "summary": "Collected changes the tense while keeping the person and object the same.",
+      "hint": "Change the verb form and any time word that needs to change, while keeping the same event and people."
     },
     "qualitySchema": "production-v1"
   },
@@ -748,23 +934,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-032",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "changing tense preserving meaning",
     "printable": true,
     "type": "single",
-    "question": "Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?",
-    "audioPrompt": "Using “measured”, “measures” and “will measure”, which sequence moves clearly from past to present to future?",
+    "question": "Change 'Ravi opened the box' to future tense.",
+    "audioPrompt": "Change 'Ravi opened the box' to future tense.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Last week: will measure; each day: measured; next week: measures.",
-      "Last week: measures; each day: will measure; next week: measured.",
-      "Last week: measured; each day: measures; next week: will measure."
+      "Ravi will open the box.",
+      "Ravi opens the box.",
+      "Ravi will opened the box.",
+      "Ravi opened the bag."
     ],
-    "correct": 2,
-    "explanation": "Verb tense can organise events along a timeline.\nHint: Match each form to before now, now, and after now.",
+    "correct": 0,
+    "explanation": "Will open changes the event to future time, using will and the base verb.\nHint: Change the verb form and any time word that needs to change, while keeping the same event and people.",
     "structuredExplanation": {
-      "summary": "Verb tense can organise events along a timeline.",
-      "hint": "Match each form to before now, now, and after now."
+      "summary": "Will open changes the event to future time, using will and the base verb.",
+      "hint": "Change the verb form and any time word that needs to change, while keeping the same event and people."
     },
     "qualitySchema": "production-v1"
   },
@@ -772,23 +964,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-033",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "changing tense preserving meaning",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links earlier with the verb?",
-    "audioPrompt": "Which sentence correctly links earlier with the verb?",
+    "question": "Change 'The birds sing' to past tense.",
+    "audioPrompt": "Change 'The birds sing' to past tense.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Earlier, the student wrote a note.",
-      "Earlier, the student writes a note.",
-      "Earlier, the student will write a note."
+      "The birds will sing.",
+      "The bird sings.",
+      "The birds sang.",
+      "The birds singed."
     ],
-    "correct": 0,
-    "explanation": "Past-tense verbs locate a process before now.\nHint: Match the verb form to the past-time clue.",
+    "correct": 2,
+    "explanation": "Sang is the past form of sing. Singed is a different word meaning lightly burned.\nHint: Change the verb form and any time word that needs to change, while keeping the same event and people.",
     "structuredExplanation": {
-      "summary": "Past-tense verbs locate a process before now.",
-      "hint": "Match the verb form to the past-time clue."
+      "summary": "Sang is the past form of sing. Singed is a different word meaning lightly burned.",
+      "hint": "Change the verb form and any time word that needs to change, while keeping the same event and people."
     },
     "qualitySchema": "production-v1"
   },
@@ -796,23 +994,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-034",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "changing tense preserving meaning",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links now with the verb?",
-    "audioPrompt": "Which sentence correctly links now with the verb?",
+    "question": "Change 'The road was wet' to present tense.",
+    "audioPrompt": "Change 'The road was wet' to present tense.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Now, the student wrote a note.",
-      "Now, the student writes a note.",
-      "Now, the student will write a note."
+      "The road is wet.",
+      "The road will be wet.",
+      "The roads were wet.",
+      "The road were wet."
     ],
-    "correct": 1,
-    "explanation": "Present tense can describe what happens now or regularly.\nHint: Use the time clue to select the present form.",
+    "correct": 0,
+    "explanation": "Is changes the state from past to present and agrees with the singular subject road.\nHint: Change the verb form and any time word that needs to change, while keeping the same event and people.",
     "structuredExplanation": {
-      "summary": "Present tense can describe what happens now or regularly.",
-      "hint": "Use the time clue to select the present form."
+      "summary": "Is changes the state from past to present and agrees with the singular subject road.",
+      "hint": "Change the verb form and any time word that needs to change, while keeping the same event and people."
     },
     "qualitySchema": "production-v1"
   },
@@ -820,23 +1024,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-035",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "changing tense preserving meaning",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links later with the verb?",
-    "audioPrompt": "Which sentence correctly links later with the verb?",
+    "question": "Change this plan into a recount of a finished event: 'Tomorrow, we will pack the tent.'",
+    "audioPrompt": "Change this plan into a recount of a finished event: 'Tomorrow, we will pack the tent.'",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Later, the student wrote a note.",
-      "Later, the student writes a note.",
-      "Later, the student will write a note."
+      "Yesterday, we packed the tent.",
+      "Yesterday, we will pack the tent.",
+      "Tomorrow, we packed the tent.",
+      "Every day, we pack the tent."
     ],
-    "correct": 2,
-    "explanation": "Future tense locates a process after now.\nHint: Look for the verb phrase beginning with will.",
+    "correct": 0,
+    "explanation": "Yesterday and packed work together to retell a finished past event.\nHint: Change the verb form and any time word that needs to change, while keeping the same event and people.",
     "structuredExplanation": {
-      "summary": "Future tense locates a process after now.",
-      "hint": "Look for the verb phrase beginning with will."
+      "summary": "Yesterday and packed work together to retell a finished past event.",
+      "hint": "Change the verb form and any time word that needs to change, while keeping the same event and people."
     },
     "qualitySchema": "production-v1"
   },
@@ -844,23 +1054,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-036",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "changing tense preserving meaning",
     "printable": true,
     "type": "single",
-    "question": "A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?",
-    "audioPrompt": "A recount begins “Earlier, we wrote carefully.” Which continuation keeps past tense?",
+    "question": "Which revision changes only the time, keeping the same action, person and object?\nLily carried the tray.",
+    "audioPrompt": "Which revision changes only the time, keeping the same action, person and object?\nLily carried the tray.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Then we wrote again.",
-      "Then we writes again.",
-      "Then we will write again."
+      "Lily will carry the cups.",
+      "Lily will wash the tray.",
+      "Lily will carry the tray.",
+      "Noah will carry the tray."
     ],
-    "correct": 0,
-    "explanation": "Consistent tense helps readers follow time.\nHint: Keep the next verb in the same time as the first.",
+    "correct": 2,
+    "explanation": "Will carry changes past to future. The other choices also change the action, person or object.\nHint: Change the verb form and any time word that needs to change, while keeping the same event and people.",
     "structuredExplanation": {
-      "summary": "Consistent tense helps readers follow time.",
-      "hint": "Keep the next verb in the same time as the first."
+      "summary": "Will carry changes past to future. The other choices also change the action, person or object.",
+      "hint": "Change the verb form and any time word that needs to change, while keeping the same event and people."
     },
     "qualitySchema": "production-v1"
   },
@@ -868,23 +1084,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-037",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "tense consistency in recounts",
     "printable": true,
     "type": "single",
-    "question": "Which edit fixes the tense shift in “Earlier, she wrote, then she writes”?",
-    "audioPrompt": "Which edit fixes the tense shift in “Earlier, she wrote, then she writes”?",
+    "question": "This recount is about yesterday. Choose the missing verb.\nWe walked to the creek and [blank] our lunch.",
+    "audioPrompt": "This recount is about yesterday. Choose the missing verb.\nWe walked to the creek and [blank] our lunch.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Change “wrote” to “will write”.",
-      "Change “writes” to “wrote”.",
-      "Keep both verbs because their times already match."
+      "are eating",
+      "eat",
+      "ate",
+      "will eat"
     ],
-    "correct": 1,
-    "explanation": "Both events with the same past-time frame need past forms.\nHint: Use the opening time phrase as your guide.",
+    "correct": 2,
+    "explanation": "Ate matches walked and the finished events of yesterday.\nHint: Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes.",
     "structuredExplanation": {
-      "summary": "Both events with the same past-time frame need past forms.",
-      "hint": "Use the opening time phrase as your guide."
+      "summary": "Ate matches walked and the finished events of yesterday.",
+      "hint": "Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes."
     },
     "qualitySchema": "production-v1"
   },
@@ -892,23 +1114,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-038",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "tense consistency in recounts",
     "printable": true,
     "type": "single",
-    "question": "Which words in “Later, they will write” show future time?",
-    "audioPrompt": "Which words in “Later, they will write” show future time?",
+    "question": "Choose the sentence that keeps this recount in past time.\nWe reached the beach. [blank]",
+    "audioPrompt": "Choose the sentence that keeps this recount in past time.\nWe reached the beach. [blank]",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Earlier and “wrote”",
-      "Now and “writes”",
-      "Later and “will write”"
+      "We will unpack the picnic.",
+      "We are unpacking the picnic.",
+      "We unpack the picnic.",
+      "We unpacked the picnic."
     ],
-    "correct": 2,
-    "explanation": "A time phrase and verb form can both anchor an event in time.\nHint: Find the pair that points after now.",
+    "correct": 3,
+    "explanation": "Unpacked continues the past-time recount begun by reached.\nHint: Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes.",
     "structuredExplanation": {
-      "summary": "A time phrase and verb form can both anchor an event in time.",
-      "hint": "Find the pair that points after now."
+      "summary": "Unpacked continues the past-time recount begun by reached.",
+      "hint": "Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes."
     },
     "qualitySchema": "production-v1"
   },
@@ -916,23 +1144,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-039",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "tense consistency in recounts",
     "printable": true,
     "type": "single",
-    "question": "Why does a writer use “writes” after now?",
-    "audioPrompt": "Why does a writer use “writes” after now?",
+    "question": "Find the verb that needs changing in this past-time recount.\nI climbed the ladder and paint the sign.",
+    "audioPrompt": "Find the verb that needs changing in this past-time recount.\nI climbed the ladder and paint the sign.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "To show a current or repeated process.",
-      "To show that the process ended long ago.",
-      "To show that the process can never occur."
+      "paint",
+      "ladder",
+      "climbed",
+      "sign"
     ],
     "correct": 0,
-    "explanation": "Present tense suits current and habitual actions.\nHint: Connect the tense to the time clue.",
+    "explanation": "Paint should become painted to match climbed in a recount of finished actions.\nHint: Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes.",
     "structuredExplanation": {
-      "summary": "Present tense suits current and habitual actions.",
-      "hint": "Connect the tense to the time clue."
+      "summary": "Paint should become painted to match climbed in a recount of finished actions.",
+      "hint": "Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes."
     },
     "qualitySchema": "production-v1"
   },
@@ -940,23 +1174,269 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la08-p-040",
     "curriculumCode": "AC9E3LA08",
     "bank": "practice",
-    "skill": "Verb Tense and Time",
+    "skill": "tense consistency in recounts",
     "printable": true,
     "type": "single",
-    "question": "Using “wrote”, “writes” and “will write”, which sequence moves clearly from past to present to future?",
-    "audioPrompt": "Using “wrote”, “writes” and “will write”, which sequence moves clearly from past to present to future?",
+    "question": "Which repair makes both events past?\nThe cat slept, then it jumps onto the chair.",
+    "audioPrompt": "Which repair makes both events past?\nThe cat slept, then it jumps onto the chair.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Earlier: will write; now: wrote; later: writes.",
-      "Earlier: wrote; now: writes; later: will write.",
-      "Earlier: writes; now: will write; later: wrote."
+      "The cat slept, then it jumped onto the chair.",
+      "The cat sleeps, then it jumps onto the chair.",
+      "The cat slept, then it will jump onto the chair.",
+      "The cat will sleep, then it will jump onto the chair."
+    ],
+    "correct": 0,
+    "explanation": "Slept and jumped both place the events in the past.\nHint: Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes.",
+    "structuredExplanation": {
+      "summary": "Slept and jumped both place the events in the past.",
+      "hint": "Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la08-p-041",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "tense consistency in recounts",
+    "printable": true,
+    "type": "single",
+    "question": "Read: Yesterday we visited the pool. Tomorrow we will visit the park. Is the tense change sensible?",
+    "audioPrompt": "Read: Yesterday we visited the pool. Tomorrow we will visit the park. Is the tense change sensible?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "No; every sentence in a text must use one tense.",
+      "No; visited is a future form.",
+      "Yes; the two sentences refer to different times.",
+      "Yes; both sentences describe yesterday."
+    ],
+    "correct": 2,
+    "explanation": "The time shifts from yesterday to tomorrow, so the change from visited to will visit is appropriate.\nHint: Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes.",
+    "structuredExplanation": {
+      "summary": "The time shifts from yesterday to tomorrow, so the change from visited to will visit is appropriate.",
+      "hint": "Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la08-p-042",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "tense consistency in recounts",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence keeps the order and past time?\nFirst I washed the fruit. Then I [blank] it into pieces.",
+    "audioPrompt": "Which sentence keeps the order and past time?\nFirst I washed the fruit. Then I [blank] it into pieces.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "am cutting",
+      "will cut",
+      "cut",
+      "cuts"
+    ],
+    "correct": 2,
+    "explanation": "Cut can be a past form without changing spelling. Washed and then show that this cut is part of a past recount.\nHint: Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes.",
+    "structuredExplanation": {
+      "summary": "Cut can be a past form without changing spelling. Washed and then show that this cut is part of a past recount.",
+      "hint": "Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la08-p-043",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "interpreting time in context",
+    "printable": true,
+    "type": "single",
+    "question": "Which word makes this verb group past?\nThe children were building a shelter.",
+    "audioPrompt": "Which word makes this verb group past?\nThe children were building a shelter.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "children",
+      "shelter",
+      "building",
+      "were"
+    ],
+    "correct": 3,
+    "explanation": "Were places the ongoing building in past time. Building alone does not show when it happened.\nHint: Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough.",
+    "structuredExplanation": {
+      "summary": "Were places the ongoing building in past time. Building alone does not show when it happened.",
+      "hint": "Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la08-p-044",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "interpreting time in context",
+    "printable": true,
+    "type": "single",
+    "question": "Compare: 'I am waiting' and 'I was waiting'. What changes?",
+    "audioPrompt": "Compare: 'I am waiting' and 'I was waiting'. What changes?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Both sentences describe tomorrow.",
+      "The second sentence has no verb.",
+      "The waiting moves from past to future.",
+      "The waiting moves from present to past."
+    ],
+    "correct": 3,
+    "explanation": "Am waiting is present; was waiting places the waiting in the past.\nHint: Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough.",
+    "structuredExplanation": {
+      "summary": "Am waiting is present; was waiting places the waiting in the past.",
+      "hint": "Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la08-p-045",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "interpreting time in context",
+    "printable": true,
+    "type": "single",
+    "question": "Read: Last night, I put the books away. How do you know put refers to past time here?",
+    "audioPrompt": "Read: Last night, I put the books away. How do you know put refers to past time here?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "Put always refers to the future.",
+      "Last night gives the past-time context.",
+      "Books makes the sentence present.",
+      "Away changes put into a future verb."
     ],
     "correct": 1,
-    "explanation": "Verb tense can organise events along a timeline.\nHint: Match each form to before now, now, and after now.",
+    "explanation": "Put has the same spelling in its present and past forms. Last night makes the past meaning clear here.\nHint: Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough.",
     "structuredExplanation": {
-      "summary": "Verb tense can organise events along a timeline.",
-      "hint": "Match each form to before now, now, and after now."
+      "summary": "Put has the same spelling in its present and past forms. Last night makes the past meaning clear here.",
+      "hint": "Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la08-p-046",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "interpreting time in context",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence uses was correctly for a past state?",
+    "audioPrompt": "Which sentence uses was correctly for a past state?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "The garden is muddy yesterday.",
+      "The garden will was muddy yesterday.",
+      "The garden were muddy yesterday.",
+      "The garden was muddy yesterday."
+    ],
+    "correct": 3,
+    "explanation": "Was is the past form that agrees with the singular subject garden.\nHint: Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough.",
+    "structuredExplanation": {
+      "summary": "Was is the past form that agrees with the singular subject garden.",
+      "hint": "Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la08-p-047",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "interpreting time in context",
+    "printable": true,
+    "type": "single",
+    "question": "Read: The students are practising now. Which change places the same ongoing activity in the past?",
+    "audioPrompt": "Read: The students are practising now. Which change places the same ongoing activity in the past?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "The students practise each day.",
+      "The students were practising earlier.",
+      "The students are practising tomorrow.",
+      "The students will practise later."
+    ],
+    "correct": 1,
+    "explanation": "Were practising places the ongoing activity in the past; earlier supports that time.\nHint: Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough.",
+    "structuredExplanation": {
+      "summary": "Were practising places the ongoing activity in the past; earlier supports that time.",
+      "hint": "Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la08-p-048",
+    "curriculumCode": "AC9E3LA08",
+    "bank": "practice",
+    "skill": "interpreting time in context",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence clearly describes a regular present habit?",
+    "audioPrompt": "Which sentence clearly describes a regular present habit?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "I read a page every morning before school.",
+      "Yesterday I read a page before school.",
+      "Tomorrow I will read a page before school.",
+      "I was reading a page before school yesterday."
+    ],
+    "correct": 0,
+    "explanation": "The present form read and every morning describe a regular habit. The other sentences place reading in the past or future.\nHint: Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough.",
+    "structuredExplanation": {
+      "summary": "The present form read and every morning describe a regular habit. The other sentences place reading in the past or future.",
+      "hint": "Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough."
     },
     "qualitySchema": "production-v1"
   }

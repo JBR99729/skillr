@@ -6,27 +6,36 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Verb Processes",
-    "question": "Which verb shows Mina doing a physical action?",
-    "audio_prompt": "Which verb shows Mina doing a physical action?",
+    "skill": "doing_verbs",
+    "question": "Which word tells what the gardener does?\nThe gardener digs beside the fence.",
+    "audio_prompt": "Which word tells what the gardener does?\nThe gardener digs beside the fence.",
     "answers": [
       {
-        "text": "leapt",
+        "text": "digs",
         "is_correct": true
       },
       {
-        "text": "wondered",
+        "text": "gardener",
         "is_correct": false
       },
       {
-        "text": "became",
+        "text": "fence",
+        "is_correct": false
+      },
+      {
+        "text": "beside",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Doing verbs represent actions.",
-      "hint": "Choose the verb that could be observed as an action."
+      "summary": "Digs is the verb. It tells the gardener's action.",
+      "hint": "Ask what someone or something does in this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -36,27 +45,36 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Verb Processes",
-    "question": "Which verb shows a thought or feeling belonging to Mina?",
-    "audio_prompt": "Which verb shows a thought or feeling belonging to Mina?",
+    "skill": "doing_verbs",
+    "question": "Which sentence uses a verb for doing?",
+    "audio_prompt": "Which sentence uses a verb for doing?",
     "answers": [
       {
-        "text": "leapt",
+        "text": "The puppy is sleepy.",
         "is_correct": false
       },
       {
-        "text": "wondered",
+        "text": "The puppy knows the path.",
+        "is_correct": false
+      },
+      {
+        "text": "The puppy likes its bed.",
+        "is_correct": false
+      },
+      {
+        "text": "The puppy chases a leaf.",
         "is_correct": true
-      },
-      {
-        "text": "whispered",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Thinking and feeling verbs represent inner processes.",
-      "hint": "Choose what happens inside the character's mind or emotions."
+      "summary": "Chases tells an action the puppy does. The other verbs tell a quality, feeling or thought.",
+      "hint": "Ask what someone or something does in this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -65,28 +83,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Verb Processes",
-    "question": "Which verb shows Mina speaking?",
-    "audio_prompt": "Which verb shows Mina speaking?",
+    "stage": "apply",
+    "skill": "doing_verbs",
+    "question": "Choose a doing verb that makes sense.\nThe children [blank] the heavy trolley together.",
+    "audio_prompt": "Choose a doing verb that makes sense.\nThe children [blank] the heavy trolley together.",
     "answers": [
       {
-        "text": "wondered",
+        "text": "own",
         "is_correct": false
       },
       {
-        "text": "became",
-        "is_correct": false
-      },
-      {
-        "text": "whispered",
+        "text": "push",
         "is_correct": true
+      },
+      {
+        "text": "hope",
+        "is_correct": false
+      },
+      {
+        "text": "seem",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Saying verbs represent speech.",
-      "hint": "Choose the word that could introduce spoken words."
+      "summary": "Push tells the action of moving the trolley. The other verbs do not describe that action.",
+      "hint": "Ask what someone or something does in this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -95,28 +122,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Verb Processes",
-    "question": "Which verb can relate Mina to a quality or identity?",
-    "audio_prompt": "Which verb can relate Mina to a quality or identity?",
+    "stage": "apply",
+    "skill": "doing_verbs",
+    "question": "The paper fluttered to the floor. What does fluttered tell us?",
+    "audio_prompt": "The paper fluttered to the floor. What does fluttered tell us?",
     "answers": [
       {
-        "text": "became",
+        "text": "What the paper believed",
+        "is_correct": false
+      },
+      {
+        "text": "What the paper said",
+        "is_correct": false
+      },
+      {
+        "text": "How the paper moved",
         "is_correct": true
       },
       {
-        "text": "leapt",
-        "is_correct": false
-      },
-      {
-        "text": "whispered",
+        "text": "Who owned the paper",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Relating verbs connect a participant with a quality or identity.",
-      "hint": "Try placing a describing word after each verb."
+      "summary": "Fluttered describes a light, wavering movement. Things as well as people can have doing verbs.",
+      "hint": "Ask what someone or something does in this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -125,28 +161,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Verb Processes",
-    "question": "Which sentence uses a precise saying verb for quiet speech by Mina?",
-    "audio_prompt": "Which sentence uses a precise saying verb for quiet speech by Mina?",
+    "stage": "reason",
+    "skill": "doing_verbs",
+    "question": "Which verb makes this action more exact?\nThe snail went across the path.",
+    "audio_prompt": "Which verb makes this action more exact?\nThe snail went across the path.",
     "answers": [
       {
-        "text": "Mina leapt the answer softly.",
+        "text": "knew",
         "is_correct": false
       },
       {
-        "text": "Mina whispered the answer softly.",
+        "text": "was",
+        "is_correct": false
+      },
+      {
+        "text": "wanted",
+        "is_correct": false
+      },
+      {
+        "text": "crawled",
         "is_correct": true
-      },
-      {
-        "text": "Mina became the answer softly.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A precise saying verb can show how speech sounds.",
-      "hint": "Match the verb to quiet speech."
+      "summary": "Crawled tells how the snail moved. The other choices do not describe its movement.",
+      "hint": "Ask what someone or something does in this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -155,28 +200,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Verb Processes",
-    "question": "A writer wants readers to know what Mina thinks. Which choice works best?",
-    "audio_prompt": "A writer wants readers to know what Mina thinks. Which choice works best?",
+    "stage": "reason",
+    "skill": "doing_verbs",
+    "question": "Read: The robot lifted the box. Why is lifted a doing verb here?",
+    "audio_prompt": "Read: The robot lifted the box. Why is lifted a doing verb here?",
     "answers": [
       {
-        "text": "Mina leapt across the room.",
+        "text": "It says who owns the box.",
         "is_correct": false
       },
       {
-        "text": "Mina whispered loudly.",
-        "is_correct": false
-      },
-      {
-        "text": "Mina wondered the earlier clue.",
+        "text": "It tells an action by the robot.",
         "is_correct": true
+      },
+      {
+        "text": "It gives the box a name.",
+        "is_correct": false
+      },
+      {
+        "text": "It tells the robot's opinion.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "An inner-process verb reveals thought or feeling.",
-      "hint": "Look for a process that is not simply seen or heard."
+      "summary": "Lifted tells what the robot did to the box, so it represents doing.",
+      "hint": "Ask what someone or something does in this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -186,27 +240,36 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Verb Processes",
-    "question": "Why might a writer replace “said” with “whispered”?",
-    "audio_prompt": "Why might a writer replace “said” with “whispered”?",
+    "skill": "feeling_verbs",
+    "question": "Which verb tells a feeling?\nEli loves quiet stories.",
+    "audio_prompt": "Which verb tells a feeling?\nEli loves quiet stories.",
     "answers": [
       {
-        "text": "To show the manner or mood of the speech more precisely.",
+        "text": "Eli",
+        "is_correct": false
+      },
+      {
+        "text": "quiet",
+        "is_correct": false
+      },
+      {
+        "text": "stories",
+        "is_correct": false
+      },
+      {
+        "text": "loves",
         "is_correct": true
-      },
-      {
-        "text": "To remove the speaker from the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "To turn the speech into a place name.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Specific saying verbs add information about delivery.",
-      "hint": "Consider what the new verb tells the reader."
+      "summary": "Loves tells how Eli feels about quiet stories.",
+      "hint": "Look for a verb that tells an emotion, wish or liking."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -216,27 +279,36 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Verb Processes",
-    "question": "Which explanation correctly compares “leapt” and “wondered”?",
-    "audio_prompt": "Which explanation correctly compares “leapt” and “wondered”?",
+    "skill": "feeling_verbs",
+    "question": "Which sentence has a feeling verb?",
+    "audio_prompt": "Which sentence has a feeling verb?",
     "answers": [
       {
-        "text": "Both words represent speech only.",
+        "text": "I unplug the loud alarm.",
         "is_correct": false
       },
       {
-        "text": "“leapt” represents doing, while “wondered” represents thinking or feeling.",
+        "text": "I repair the loud alarm.",
+        "is_correct": false
+      },
+      {
+        "text": "I dislike the loud alarm.",
         "is_correct": true
       },
       {
-        "text": "“wondered” names a place, while “leapt” names a thing.",
+        "text": "I carry the loud alarm.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Verbs can represent different kinds of processes.",
-      "hint": "Classify each verb by the experience it expresses."
+      "summary": "Dislike tells a feeling about the alarm. Unplug, repair and carry tell physical actions.",
+      "hint": "Look for a verb that tells an emotion, wish or liking."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -245,28 +317,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Verb Processes",
-    "question": "Which verb shows The explorer doing a physical action?",
-    "audio_prompt": "Which verb shows The explorer doing a physical action?",
+    "stage": "apply",
+    "skill": "feeling_verbs",
+    "question": "Choose a verb that shows a wish.\nWe [blank] for sunshine on picnic day.",
+    "audio_prompt": "Choose a verb that shows a wish.\nWe [blank] for sunshine on picnic day.",
     "answers": [
       {
-        "text": "remembered",
+        "text": "walk",
         "is_correct": false
       },
       {
-        "text": "was",
-        "is_correct": false
-      },
-      {
-        "text": "climbed",
+        "text": "hope",
         "is_correct": true
+      },
+      {
+        "text": "shout",
+        "is_correct": false
+      },
+      {
+        "text": "build",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Doing verbs represent actions.",
-      "hint": "Choose the verb that could be observed as an action."
+      "summary": "Hope expresses a wish about what may happen.",
+      "hint": "Look for a verb that tells an emotion, wish or liking."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -275,28 +356,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Verb Processes",
-    "question": "Which verb shows a thought or feeling belonging to The explorer?",
-    "audio_prompt": "Which verb shows a thought or feeling belonging to The explorer?",
+    "stage": "apply",
+    "skill": "feeling_verbs",
+    "question": "Read: Tia feared the sudden thunder. What does feared tell us?",
+    "audio_prompt": "Read: Tia feared the sudden thunder. What does feared tell us?",
     "answers": [
       {
-        "text": "remembered",
+        "text": "Tia's words to a friend",
+        "is_correct": false
+      },
+      {
+        "text": "Tia's knowledge of storms",
+        "is_correct": false
+      },
+      {
+        "text": "Tia's movement indoors",
+        "is_correct": false
+      },
+      {
+        "text": "Tia's feeling about the thunder",
         "is_correct": true
-      },
-      {
-        "text": "climbed",
-        "is_correct": false
-      },
-      {
-        "text": "announced",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Thinking and feeling verbs represent inner processes.",
-      "hint": "Choose what happens inside the character's mind or emotions."
+      "summary": "Feared tells us Tia felt afraid. It does not tell us her words, movement or knowledge.",
+      "hint": "Look for a verb that tells an emotion, wish or liking."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -305,28 +395,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Verb Processes",
-    "question": "Why is “announced” the best answer here? Which verb shows The explorer speaking?",
-    "audio_prompt": "Why is “announced” the best answer here? Which verb shows The explorer speaking?",
+    "stage": "reason",
+    "skill": "feeling_verbs",
+    "question": "Which change makes the sentence express liking?\nI carry this old teddy.",
+    "audio_prompt": "Which change makes the sentence express liking?\nI carry this old teddy.",
     "answers": [
       {
-        "text": "Because “remembered” sounds familiar.",
+        "text": "I wash this old teddy.",
         "is_correct": false
       },
       {
-        "text": "Saying verbs represent speech.",
+        "text": "I move this old teddy.",
+        "is_correct": false
+      },
+      {
+        "text": "I treasure this old teddy.",
         "is_correct": true
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "I mend this old teddy.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Saying verbs represent speech.",
-      "hint": "Choose the word that could introduce spoken words."
+      "summary": "Treasure shows that the teddy matters to the speaker. The other verbs describe actions done to it.",
+      "hint": "Look for a verb that tells an emotion, wish or liking."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -335,28 +434,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Verb Processes",
-    "question": "Why is “was” the best answer here? Which verb can relate The explorer to a quality or identity?",
-    "audio_prompt": "Why is “was” the best answer here? Which verb can relate The explorer to a quality or identity?",
+    "stage": "reason",
+    "skill": "feeling_verbs",
+    "question": "Sam enjoys drawing, but Jo dislikes it. What do the two verbs show?",
+    "audio_prompt": "Sam enjoys drawing, but Jo dislikes it. What do the two verbs show?",
     "answers": [
       {
-        "text": "Because “climbed” sounds familiar.",
+        "text": "Different ways to hold a pencil",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Different things they have drawn",
         "is_correct": false
       },
       {
-        "text": "Relating verbs connect a participant with a quality or identity.",
+        "text": "Different feelings about drawing",
         "is_correct": true
+      },
+      {
+        "text": "Different words spoken aloud",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Relating verbs connect a participant with a quality or identity.",
-      "hint": "Try placing a describing word after each verb."
+      "summary": "Enjoys and dislikes show contrasting feelings about the same activity.",
+      "hint": "Look for a verb that tells an emotion, wish or liking."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -365,28 +473,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Verb Processes",
-    "question": "Why is “The explorer announced the answer softly.” the best answer here? Which sentence uses a precise saying verb for quiet speech by The explorer?",
-    "audio_prompt": "Why is “The explorer announced the answer softly.” the best answer here? Which sentence uses a precise saying verb for quiet speech by The explorer?",
+    "stage": "recognise",
+    "skill": "thinking_verbs",
+    "question": "Which word tells a thinking process?\nI remember the way home.",
+    "audio_prompt": "Which word tells a thinking process?\nI remember the way home.",
     "answers": [
       {
-        "text": "A precise saying verb can show how speech sounds.",
+        "text": "remember",
         "is_correct": true
       },
       {
-        "text": "Because “The explorer climbed the answer softly.” sounds familiar.",
+        "text": "home",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "the",
+        "is_correct": false
+      },
+      {
+        "text": "way",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A precise saying verb can show how speech sounds.",
-      "hint": "Match the verb to quiet speech."
+      "summary": "Remember tells what happens in the speaker's mind.",
+      "hint": "Look for what happens in someone's mind, such as knowing or remembering."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -395,28 +512,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Verb Processes",
-    "question": "Why is “The explorer remembered the earlier clue.” the best answer here? A writer wants readers to know what The explorer thinks. Which choice works best?",
-    "audio_prompt": "Why is “The explorer remembered the earlier clue.” the best answer here? A writer wants readers to know what The explorer thinks. Which choice works best?",
+    "stage": "recognise",
+    "skill": "thinking_verbs",
+    "question": "Which sentence has a thinking verb?",
+    "audio_prompt": "Which sentence has a thinking verb?",
     "answers": [
       {
-        "text": "Because “The explorer climbed across the room.” sounds familiar.",
+        "text": "Asha copies the rule.",
         "is_correct": false
       },
       {
-        "text": "An inner-process verb reveals thought or feeling.",
+        "text": "Asha reads the rule aloud.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha pins up the rule.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha understands the rule.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "An inner-process verb reveals thought or feeling.",
-      "hint": "Look for a process that is not simply seen or heard."
+      "summary": "Understands tells what Asha knows in her mind. The other sentences tell outward actions.",
+      "hint": "Look for what happens in someone's mind, such as knowing or remembering."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -425,28 +551,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Verb Processes",
-    "question": "Why is “To show the manner or mood of the speech more precisely.” the best answer here? Why might a writer replace “said” with “announced”?",
-    "audio_prompt": "Why is “To show the manner or mood of the speech more precisely.” the best answer here? Why might a writer replace “said” with “announced”?",
+    "stage": "apply",
+    "skill": "thinking_verbs",
+    "question": "Choose a thinking verb.\nI [blank] that the missing sock is under the bed.",
+    "audio_prompt": "Choose a thinking verb.\nI [blank] that the missing sock is under the bed.",
     "answers": [
       {
-        "text": "Because “To remove the speaker from the sentence.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
-        "is_correct": false
-      },
-      {
-        "text": "Specific saying verbs add information about delivery.",
+        "text": "suspect",
         "is_correct": true
+      },
+      {
+        "text": "wash",
+        "is_correct": false
+      },
+      {
+        "text": "place",
+        "is_correct": false
+      },
+      {
+        "text": "pull",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Specific saying verbs add information about delivery.",
-      "hint": "Consider what the new verb tells the reader."
+      "summary": "Suspect shows an idea the speaker has without being certain. The other verbs describe actions.",
+      "hint": "Look for what happens in someone's mind, such as knowing or remembering."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -455,28 +590,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Verb Processes",
-    "question": "Why is ““climbed” represents doing, while “remembered” represents thinking or feeling.” the best answer here? Which explanation correctly compares “climbed” and “remembered”?",
-    "audio_prompt": "Why is ““climbed” represents doing, while “remembered” represents thinking or feeling.” the best answer here? Which explanation correctly compares “climbed” and “remembered”?",
+    "stage": "apply",
+    "skill": "thinking_verbs",
+    "question": "Read: Ben imagined a house in the clouds. What does imagined tell us?",
+    "audio_prompt": "Read: Ben imagined a house in the clouds. What does imagined tell us?",
     "answers": [
       {
-        "text": "Verbs can represent different kinds of processes.",
+        "text": "Ben built a real house.",
+        "is_correct": false
+      },
+      {
+        "text": "Ben spoke to the clouds.",
+        "is_correct": false
+      },
+      {
+        "text": "Ben made a picture in his mind.",
         "is_correct": true
       },
       {
-        "text": "Because “Both words represent speech only.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Ben owned a tall house.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Verbs can represent different kinds of processes.",
-      "hint": "Classify each verb by the experience it expresses."
+      "summary": "Imagined means Ben pictured something in his mind. It does not say the house was real.",
+      "hint": "Look for what happens in someone's mind, such as knowing or remembering."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -485,28 +629,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Verb Processes",
-    "question": "Why is “bounded” the best answer here? Which verb shows Our puppy doing a physical action?",
-    "audio_prompt": "Why is “bounded” the best answer here? Which verb shows Our puppy doing a physical action?",
+    "stage": "reason",
+    "skill": "thinking_verbs",
+    "question": "Which sentence shows a decision made in the mind?",
+    "audio_prompt": "Which sentence shows a decision made in the mind?",
     "answers": [
       {
-        "text": "Because “loved” sounds familiar.",
+        "text": "Luca shouted for the bus.",
         "is_correct": false
       },
       {
-        "text": "Doing verbs represent actions.",
+        "text": "Luca hurried towards the bus.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca climbed onto the bus.",
+        "is_correct": false
+      },
+      {
+        "text": "Luca decided to take the bus.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Doing verbs represent actions.",
-      "hint": "Choose the verb that could be observed as an action."
+      "summary": "Decided tells Luca's choice. The other verbs tell saying or moving.",
+      "hint": "Look for what happens in someone's mind, such as knowing or remembering."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -515,28 +668,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Verb Processes",
-    "question": "Why is “loved” the best answer here? Which verb shows a thought or feeling belonging to Our puppy?",
-    "audio_prompt": "Why is “loved” the best answer here? Which verb shows a thought or feeling belonging to Our puppy?",
+    "stage": "reason",
+    "skill": "thinking_verbs",
+    "question": "Nora guessed the answer. How is guessed different from knew?",
+    "audio_prompt": "Nora guessed the answer. How is guessed different from knew?",
     "answers": [
       {
-        "text": "Because “bounded” sounds familiar.",
+        "text": "Guessed shows she spoke loudly.",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Guessed shows she wrote neatly.",
         "is_correct": false
       },
       {
-        "text": "Thinking and feeling verbs represent inner processes.",
+        "text": "Guessed shows she was not certain.",
         "is_correct": true
+      },
+      {
+        "text": "Guessed shows she felt angry.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Thinking and feeling verbs represent inner processes.",
-      "hint": "Choose what happens inside the character's mind or emotions."
+      "summary": "Guessing gives an answer without certain knowledge; knowing suggests certainty.",
+      "hint": "Look for what happens in someone's mind, such as knowing or remembering."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -545,28 +707,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Verb Processes",
-    "question": "Why is “barked” the best answer here? Which verb shows Our puppy speaking?",
-    "audio_prompt": "Why is “barked” the best answer here? Which verb shows Our puppy speaking?",
+    "stage": "recognise",
+    "skill": "saying_verbs",
+    "question": "Which verb tells saying?\nDad whispered a secret.",
+    "audio_prompt": "Which verb tells saying?\nDad whispered a secret.",
     "answers": [
       {
-        "text": "Saying verbs represent speech.",
+        "text": "Dad",
+        "is_correct": false
+      },
+      {
+        "text": "whispered",
         "is_correct": true
       },
       {
-        "text": "Because “loved” sounds familiar.",
+        "text": "secret",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "a",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Saying verbs represent speech.",
-      "hint": "Choose the word that could introduce spoken words."
+      "summary": "Whispered tells that Dad spoke very quietly.",
+      "hint": "Look for a verb that tells how a message is spoken or communicated."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -575,28 +746,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Verb Processes",
-    "question": "Why is “grew” the best answer here? Which verb can relate Our puppy to a quality or identity?",
-    "audio_prompt": "Why is “grew” the best answer here? Which verb can relate Our puppy to a quality or identity?",
+    "stage": "recognise",
+    "skill": "saying_verbs",
+    "question": "Which sentence uses a saying verb?",
+    "audio_prompt": "Which sentence uses a saying verb?",
     "answers": [
       {
-        "text": "Because “bounded” sounds familiar.",
+        "text": "The guide liked the route.",
         "is_correct": false
       },
       {
-        "text": "Relating verbs connect a participant with a quality or identity.",
+        "text": "The guide explained the route.",
         "is_correct": true
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "The guide walked the route.",
+        "is_correct": false
+      },
+      {
+        "text": "The guide remembered the route.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Relating verbs connect a participant with a quality or identity.",
-      "hint": "Try placing a describing word after each verb."
+      "summary": "Explained tells how the guide communicated information about the route.",
+      "hint": "Look for a verb that tells how a message is spoken or communicated."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -605,28 +785,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Verb Processes",
-    "question": "A student chooses “wondered” for this task: Which verb shows Mina doing a physical action? What should they check?",
-    "audio_prompt": "A student chooses “wondered” for this task: Which verb shows Mina doing a physical action? What should they check?",
+    "stage": "apply",
+    "skill": "saying_verbs",
+    "question": "Choose the best verb for a question spoken aloud.\n'Where is my hat?' May [blank].",
+    "audio_prompt": "Choose the best verb for a question spoken aloud.\n'Where is my hat?' May [blank].",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "carried",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "owned",
         "is_correct": false
       },
       {
-        "text": "Choose the verb that could be observed as an action.",
+        "text": "asked",
         "is_correct": true
+      },
+      {
+        "text": "believed",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose the verb that could be observed as an action. Doing verbs represent actions.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Asked shows May spoke a question. The words inside the quotation marks are a question.",
+      "hint": "Look for a verb that tells how a message is spoken or communicated."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -635,28 +824,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Verb Processes",
-    "question": "A student chooses “leapt” for this task: Which verb shows a thought or feeling belonging to Mina? What should they check?",
-    "audio_prompt": "A student chooses “leapt” for this task: Which verb shows a thought or feeling belonging to Mina? What should they check?",
+    "stage": "apply",
+    "skill": "saying_verbs",
+    "question": "Read: 'Stop!' the coach yelled across the field. What does yelled add?",
+    "audio_prompt": "Read: 'Stop!' the coach yelled across the field. What does yelled add?",
     "answers": [
       {
-        "text": "Choose what happens inside the character's mind or emotions.",
+        "text": "The coach forgot the words.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach moved slowly.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach used a loud voice.",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because it uses a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The coach felt sleepy.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Choose what happens inside the character's mind or emotions. Thinking and feeling verbs represent inner processes.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Yelled tells how loudly the coach spoke. The context does not tell us the other details.",
+      "hint": "Look for a verb that tells how a message is spoken or communicated."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -665,28 +863,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Verb Processes",
-    "question": "A student chooses “wondered” for this task: Which verb shows Mina speaking? What should they check?",
-    "audio_prompt": "A student chooses “wondered” for this task: Which verb shows Mina speaking? What should they check?",
+    "stage": "reason",
+    "skill": "saying_verbs",
+    "question": "Which replacement for said shows a quiet voice?\n'Please let the baby sleep,' Ana said.",
+    "audio_prompt": "Which replacement for said shows a quiet voice?\n'Please let the baby sleep,' Ana said.",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the word that could introduce spoken words.",
+        "text": "murmured",
         "is_correct": true
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "called",
+        "is_correct": false
+      },
+      {
+        "text": "announced",
+        "is_correct": false
+      },
+      {
+        "text": "shouted",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Choose the word that could introduce spoken words. Saying verbs represent speech.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Murmured describes quiet speech, which suits not waking the baby.",
+      "hint": "Look for a verb that tells how a message is spoken or communicated."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -695,28 +902,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Verb Processes",
-    "question": "A student chooses “leapt” for this task: Which verb can relate Mina to a quality or identity? What should they check?",
-    "audio_prompt": "A student chooses “leapt” for this task: Which verb can relate Mina to a quality or identity? What should they check?",
+    "stage": "reason",
+    "skill": "saying_verbs",
+    "question": "The narrator wrote: 'I can help,' Ravi offered. What does offered show here?",
+    "audio_prompt": "The narrator wrote: 'I can help,' Ravi offered. What does offered show here?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "Ravi had finished all the work.",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "Ravi had forgotten the job.",
         "is_correct": false
       },
       {
-        "text": "Try placing a describing word after each verb.",
+        "text": "Ravi was unable to speak.",
+        "is_correct": false
+      },
+      {
+        "text": "Ravi said he was willing to help.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Try placing a describing word after each verb. Relating verbs connect a participant with a quality or identity.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Offered introduces Ravi's spoken suggestion to help. It does not say he has already done the work.",
+      "hint": "Look for a verb that tells how a message is spoken or communicated."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -725,28 +941,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Verb Processes",
-    "question": "A student chooses “Mina leapt the answer softly.” for this task: Which sentence uses a precise saying verb for quiet speech by Mina? What should they check?",
-    "audio_prompt": "A student chooses “Mina leapt the answer softly.” for this task: Which sentence uses a precise saying verb for quiet speech by Mina? What should they check?",
+    "stage": "recognise",
+    "skill": "relating_verbs",
+    "question": "Which verb links the kitten to a quality?\nThe kitten is playful.",
+    "audio_prompt": "Which verb links the kitten to a quality?\nThe kitten is playful.",
     "answers": [
       {
-        "text": "Match the verb to quiet speech.",
+        "text": "is",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "the",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "kitten",
+        "is_correct": false
+      },
+      {
+        "text": "playful",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Match the verb to quiet speech. A precise saying verb can show how speech sounds.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Is links the kitten with the quality playful. It does not describe a physical action.",
+      "hint": "Look for a verb that connects someone or something with an identity, quality or possession."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -755,28 +980,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Verb Processes",
-    "question": "A student chooses “Mina leapt across the room.” for this task: A writer wants readers to know what Mina thinks. Which choice works best? What should they check?",
-    "audio_prompt": "A student chooses “Mina leapt across the room.” for this task: A writer wants readers to know what Mina thinks. Which choice works best? What should they check?",
+    "stage": "recognise",
+    "skill": "relating_verbs",
+    "question": "Which sentence tells what something is?",
+    "audio_prompt": "Which sentence tells what something is?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "The coach describes the oval.",
         "is_correct": false
       },
       {
-        "text": "Look for a process that is not simply seen or heard.",
+        "text": "The oval is our meeting place.",
         "is_correct": true
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The team crosses the oval.",
+        "is_correct": false
+      },
+      {
+        "text": "The team likes the oval.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Look for a process that is not simply seen or heard. An inner-process verb reveals thought or feeling.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Is identifies the oval as the meeting place. This is a relating use of a verb.",
+      "hint": "Look for a verb that connects someone or something with an identity, quality or possession."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -785,28 +1019,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Verb Processes",
-    "question": "A student chooses “To remove the speaker from the sentence.” for this task: Why might a writer replace “said” with “whispered”? What should they check?",
-    "audio_prompt": "A student chooses “To remove the speaker from the sentence.” for this task: Why might a writer replace “said” with “whispered”? What should they check?",
+    "stage": "apply",
+    "skill": "relating_verbs",
+    "question": "Choose a verb that shows possession.\nOur school [blank] a small vegetable garden.",
+    "audio_prompt": "Choose a verb that shows possession.\nOur school [blank] a small vegetable garden.",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the example and choose the remaining option.",
-        "is_correct": false
-      },
-      {
-        "text": "Consider what the new verb tells the reader.",
+        "text": "has",
         "is_correct": true
+      },
+      {
+        "text": "digs",
+        "is_correct": false
+      },
+      {
+        "text": "waters",
+        "is_correct": false
+      },
+      {
+        "text": "plants",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Consider what the new verb tells the reader. Specific saying verbs add information about delivery.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Has connects the school with something it possesses. The other verbs tell gardening actions.",
+      "hint": "Look for a verb that connects someone or something with an identity, quality or possession."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -815,28 +1058,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Verb Processes",
-    "question": "A student chooses “Both words represent speech only.” for this task: Which explanation correctly compares “leapt” and “wondered”? What should they check?",
-    "audio_prompt": "A student chooses “Both words represent speech only.” for this task: Which explanation correctly compares “leapt” and “wondered”? What should they check?",
+    "stage": "apply",
+    "skill": "relating_verbs",
+    "question": "Read: This blue helmet belongs to Ali. What relationship does belongs show?",
+    "audio_prompt": "Read: This blue helmet belongs to Ali. What relationship does belongs show?",
     "answers": [
       {
-        "text": "Classify each verb by the experience it expresses.",
+        "text": "Ali is painting the helmet.",
+        "is_correct": false
+      },
+      {
+        "text": "Ali owns the helmet.",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "Ali is wearing the helmet.",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "Ali is finding the helmet.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Classify each verb by the experience it expresses. Verbs can represent different kinds of processes.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Belongs to tells who owns something. It does not say what Ali is doing with it.",
+      "hint": "Look for a verb that connects someone or something with an identity, quality or possession."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -845,28 +1097,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Verb Processes",
-    "question": "A student chooses “remembered” for this task: Which verb shows The explorer doing a physical action? What should they check?",
-    "audio_prompt": "A student chooses “remembered” for this task: Which verb shows The explorer doing a physical action? What should they check?",
+    "stage": "reason",
+    "skill": "relating_verbs",
+    "question": "Which sentence describes a quality using a relating verb?",
+    "audio_prompt": "Which sentence describes a quality using a relating verb?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "The cook serves the soup.",
         "is_correct": false
       },
       {
-        "text": "Choose the verb that could be observed as an action.",
+        "text": "The soup seems salty.",
         "is_correct": true
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The cook stirs the soup.",
+        "is_correct": false
+      },
+      {
+        "text": "The cook spills the soup.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Choose the verb that could be observed as an action. Doing verbs represent actions.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Seems links the soup to the quality salty. The other verbs describe actions.",
+      "hint": "Look for a verb that connects someone or something with an identity, quality or possession."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -875,28 +1136,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Verb Processes",
-    "question": "A student chooses “climbed” for this task: Which verb shows a thought or feeling belonging to The explorer? What should they check?",
-    "audio_prompt": "A student chooses “climbed” for this task: Which verb shows a thought or feeling belonging to The explorer? What should they check?",
+    "stage": "reason",
+    "skill": "relating_verbs",
+    "question": "In 'Mum is a nurse', why is is a relating verb?",
+    "audio_prompt": "In 'Mum is a nurse', why is is a relating verb?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "It gives Mum's exact words.",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "It tells how Mum moves.",
         "is_correct": false
       },
       {
-        "text": "Choose what happens inside the character's mind or emotions.",
+        "text": "It tells what Mum remembers.",
+        "is_correct": false
+      },
+      {
+        "text": "It connects Mum with her job.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Choose what happens inside the character's mind or emotions. Thinking and feeling verbs represent inner processes.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Is links Mum with an identity, a nurse, rather than a physical action.",
+      "hint": "Look for a verb that connects someone or something with an identity, quality or possession."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -905,28 +1175,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Why might a writer replace “said” with “announced”?",
-    "audio_prompt": "Why might a writer replace “said” with “announced”?",
+    "stage": "recognise",
+    "skill": "verb_meaning_in_context",
+    "question": "In 'I think the gate is locked', what does think represent?",
+    "audio_prompt": "In 'I think the gate is locked', what does think represent?",
     "answers": [
       {
-        "text": "To show the manner or mood of the speech more precisely.",
+        "text": "Thinking",
         "is_correct": true
       },
       {
-        "text": "To remove the speaker from the sentence.",
+        "text": "Doing",
         "is_correct": false
       },
       {
-        "text": "To turn the speech into a place name.",
+        "text": "Saying",
+        "is_correct": false
+      },
+      {
+        "text": "Relating",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Specific saying verbs add information about delivery.",
-      "hint": "Consider what the new verb tells the reader."
+      "summary": "Think tells the speaker's belief. No spoken quotation is needed for a thinking process.",
+      "hint": "Read the whole sentence: a verb's meaning depends on how it is used."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -936,27 +1215,36 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which explanation correctly compares “climbed” and “remembered”?",
-    "audio_prompt": "Which explanation correctly compares “climbed” and “remembered”?",
+    "skill": "verb_meaning_in_context",
+    "question": "In 'I feel worried about the race', what does feel express?",
+    "audio_prompt": "In 'I feel worried about the race', what does feel express?",
     "answers": [
       {
-        "text": "Both words represent speech only.",
+        "text": "A spoken question",
         "is_correct": false
       },
       {
-        "text": "“climbed” represents doing, while “remembered” represents thinking or feeling.",
+        "text": "A physical movement",
+        "is_correct": false
+      },
+      {
+        "text": "A feeling",
         "is_correct": true
       },
       {
-        "text": "“remembered” names a place, while “climbed” names a thing.",
+        "text": "A possession",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Verbs can represent different kinds of processes.",
-      "hint": "Classify each verb by the experience it expresses."
+      "summary": "Feel worried tells the speaker's emotion about the race.",
+      "hint": "Read the whole sentence: a verb's meaning depends on how it is used."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -966,27 +1254,36 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which verb shows Our puppy doing a physical action?",
-    "audio_prompt": "Which verb shows Our puppy doing a physical action?",
+    "skill": "verb_meaning_in_context",
+    "question": "Compare: 'I have a bicycle' and 'I ride a bicycle'. What changes?",
+    "audio_prompt": "Compare: 'I have a bicycle' and 'I ride a bicycle'. What changes?",
     "answers": [
       {
-        "text": "loved",
+        "text": "Both tell a thought in the mind.",
         "is_correct": false
       },
       {
-        "text": "grew",
+        "text": "Having tells doing; riding tells possession.",
         "is_correct": false
       },
       {
-        "text": "bounded",
+        "text": "Both tell a spoken message.",
+        "is_correct": false
+      },
+      {
+        "text": "Having tells possession; riding tells doing.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Doing verbs represent actions.",
-      "hint": "Choose the verb that could be observed as an action."
+      "summary": "Have relates the speaker to a possession. Ride describes an action.",
+      "hint": "Read the whole sentence: a verb's meaning depends on how it is used."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -996,27 +1293,36 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which verb shows a thought or feeling belonging to Our puppy?",
-    "audio_prompt": "Which verb shows a thought or feeling belonging to Our puppy?",
+    "skill": "verb_meaning_in_context",
+    "question": "Compare: 'Mia knew the answer' and 'Mia announced the answer'. Which is true?",
+    "audio_prompt": "Compare: 'Mia knew the answer' and 'Mia announced the answer'. Which is true?",
     "answers": [
       {
-        "text": "loved",
+        "text": "Knew tells saying; announced tells thinking.",
+        "is_correct": false
+      },
+      {
+        "text": "Knew tells thinking; announced tells saying.",
         "is_correct": true
       },
       {
-        "text": "bounded",
+        "text": "Both describe what Mia owned.",
         "is_correct": false
       },
       {
-        "text": "barked",
+        "text": "Both tell how Mia moved.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Thinking and feeling verbs represent inner processes.",
-      "hint": "Choose what happens inside the character's mind or emotions."
+      "summary": "Knew concerns knowledge in Mia's mind. Announced tells that she communicated the answer.",
+      "hint": "Read the whole sentence: a verb's meaning depends on how it is used."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1025,28 +1331,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which verb shows Our puppy speaking?",
-    "audio_prompt": "Which verb shows Our puppy speaking?",
+    "stage": "reason",
+    "skill": "verb_meaning_in_context",
+    "question": "Read: 'The chair is wobbly. Dad fixes it.' Which verb links a thing to a quality?",
+    "audio_prompt": "Read: 'The chair is wobbly. Dad fixes it.' Which verb links a thing to a quality?",
     "answers": [
       {
-        "text": "loved",
+        "text": "chair",
         "is_correct": false
       },
       {
-        "text": "barked",
+        "text": "wobbly",
+        "is_correct": false
+      },
+      {
+        "text": "is",
         "is_correct": true
       },
       {
-        "text": "grew",
+        "text": "fixes",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Saying verbs represent speech.",
-      "hint": "Choose the word that could introduce spoken words."
+      "summary": "Is links the chair to wobbly. Fixes is a doing verb, and wobbly is the quality.",
+      "hint": "Read the whole sentence: a verb's meaning depends on how it is used."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1055,28 +1370,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which verb can relate Our puppy to a quality or identity?",
-    "audio_prompt": "Which verb can relate Our puppy to a quality or identity?",
+    "stage": "reason",
+    "skill": "verb_meaning_in_context",
+    "question": "Compare: 'I feel sad' and 'I feel the cloth with my fingers'. Why read the whole sentence?",
+    "audio_prompt": "Compare: 'I feel sad' and 'I feel the cloth with my fingers'. Why read the whole sentence?",
     "answers": [
       {
-        "text": "bounded",
+        "text": "Feel means speaking in both.",
         "is_correct": false
       },
       {
-        "text": "barked",
+        "text": "Feel must express emotion in both.",
         "is_correct": false
       },
       {
-        "text": "grew",
+        "text": "Feel expresses emotion in one and touch in the other.",
         "is_correct": true
+      },
+      {
+        "text": "Feel is not a verb in either.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Relating verbs connect a participant with a quality or identity.",
-      "hint": "Try placing a describing word after each verb."
+      "summary": "The surrounding words show whether feel refers to an emotion or the action of touching.",
+      "hint": "Read the whole sentence: a verb's meaning depends on how it is used."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1085,28 +1409,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which sentence uses a precise saying verb for quiet speech by Our puppy?",
-    "audio_prompt": "Which sentence uses a precise saying verb for quiet speech by Our puppy?",
+    "stage": "recognise",
+    "skill": "main_verbs_in_groups",
+    "question": "Which is the main verb?\nThe duck is paddling across the pond.",
+    "audio_prompt": "Which is the main verb?\nThe duck is paddling across the pond.",
     "answers": [
       {
-        "text": "Our puppy barked the answer softly.",
+        "text": "is",
+        "is_correct": false
+      },
+      {
+        "text": "paddling",
         "is_correct": true
       },
       {
-        "text": "Our puppy bounded the answer softly.",
+        "text": "across",
         "is_correct": false
       },
       {
-        "text": "Our puppy grew the answer softly.",
+        "text": "duck",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A precise saying verb can show how speech sounds.",
-      "hint": "Match the verb to quiet speech."
+      "summary": "Paddling names the main process. Is helps it form the verb group is paddling.",
+      "hint": "A helping verb works with the main verb; use the whole verb group to understand the message."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1115,28 +1448,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "A writer wants readers to know what Our puppy thinks. Which choice works best?",
-    "audio_prompt": "A writer wants readers to know what Our puppy thinks. Which choice works best?",
+    "stage": "recognise",
+    "skill": "main_verbs_in_groups",
+    "question": "Which word helps the main verb in this sentence?\nWe will visit Nan tomorrow.",
+    "audio_prompt": "Which word helps the main verb in this sentence?\nWe will visit Nan tomorrow.",
     "answers": [
       {
-        "text": "Our puppy bounded across the room.",
-        "is_correct": false
-      },
-      {
-        "text": "Our puppy loved the earlier clue.",
+        "text": "will",
         "is_correct": true
       },
       {
-        "text": "Our puppy barked loudly.",
+        "text": "visit",
+        "is_correct": false
+      },
+      {
+        "text": "Nan",
+        "is_correct": false
+      },
+      {
+        "text": "tomorrow",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "An inner-process verb reveals thought or feeling.",
-      "hint": "Look for a process that is not simply seen or heard."
+      "summary": "Will helps visit to show a future action. Tomorrow also gives time, but it is not a verb.",
+      "hint": "A helping verb works with the main verb; use the whole verb group to understand the message."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1146,27 +1488,36 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Why might a writer replace “said” with “barked”?",
-    "audio_prompt": "Why might a writer replace “said” with “barked”?",
+    "skill": "main_verbs_in_groups",
+    "question": "Which two words form the verb group?\nThe class has finished the mural.",
+    "audio_prompt": "Which two words form the verb group?\nThe class has finished the mural.",
     "answers": [
       {
-        "text": "To remove the speaker from the sentence.",
+        "text": "the mural",
         "is_correct": false
       },
       {
-        "text": "To turn the speech into a place name.",
+        "text": "class has",
         "is_correct": false
       },
       {
-        "text": "To show the manner or mood of the speech more precisely.",
+        "text": "finished the",
+        "is_correct": false
+      },
+      {
+        "text": "has finished",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Specific saying verbs add information about delivery.",
-      "hint": "Consider what the new verb tells the reader."
+      "summary": "Has is the helping verb and finished is the main verb. Together they form has finished.",
+      "hint": "A helping verb works with the main verb; use the whole verb group to understand the message."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1176,27 +1527,348 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which explanation correctly compares “bounded” and “loved”?",
-    "audio_prompt": "Which explanation correctly compares “bounded” and “loved”?",
+    "skill": "main_verbs_in_groups",
+    "question": "Read: The baby was quietly sleeping. Which word is the main verb?",
+    "audio_prompt": "Read: The baby was quietly sleeping. Which word is the main verb?",
     "answers": [
       {
-        "text": "“bounded” represents doing, while “loved” represents thinking or feeling.",
+        "text": "sleeping",
         "is_correct": true
       },
       {
-        "text": "Both words represent speech only.",
+        "text": "was",
         "is_correct": false
       },
       {
-        "text": "“loved” names a place, while “bounded” names a thing.",
+        "text": "quietly",
+        "is_correct": false
+      },
+      {
+        "text": "baby",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Verbs can represent different kinds of processes.",
-      "hint": "Classify each verb by the experience it expresses."
+      "summary": "Sleeping is the main verb. Quietly gives detail and can come between was and sleeping.",
+      "hint": "A helping verb works with the main verb; use the whole verb group to understand the message."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA07-P-041",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA07",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "main_verbs_in_groups",
+    "question": "Read: I am hoping for rain. Which word tells the wish?",
+    "audio_prompt": "Read: I am hoping for rain. Which word tells the wish?",
+    "answers": [
+      {
+        "text": "hoping",
+        "is_correct": true
+      },
+      {
+        "text": "am",
+        "is_correct": false
+      },
+      {
+        "text": "for",
+        "is_correct": false
+      },
+      {
+        "text": "rain",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Hoping gives the main meaning of wishing for something. Am helps form the verb group.",
+      "hint": "A helping verb works with the main verb; use the whole verb group to understand the message."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA07-P-042",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA07",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "main_verbs_in_groups",
+    "question": "Read: 'Lee is a singer' and 'Lee is singing'. Which statement is true?",
+    "audio_prompt": "Read: 'Lee is a singer' and 'Lee is singing'. Which statement is true?",
+    "answers": [
+      {
+        "text": "Is is a helping verb in both sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "Is links an identity first and helps singing second.",
+        "is_correct": true
+      },
+      {
+        "text": "Singing is Lee's name in the second sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither sentence contains a verb.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "In the first sentence is links Lee to an identity. In the second it helps the main verb singing.",
+      "hint": "A helping verb works with the main verb; use the whole verb group to understand the message."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA07-P-043",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "choosing_verbs_for_meaning",
+    "question": "A writer wants to show fear. Which sentence does this?",
+    "audio_prompt": "A writer wants to show fear. Which sentence does this?",
+    "answers": [
+      {
+        "text": "I describe the dark tunnel.",
+        "is_correct": false
+      },
+      {
+        "text": "I enter the dark tunnel.",
+        "is_correct": false
+      },
+      {
+        "text": "I dread the dark tunnel.",
+        "is_correct": true
+      },
+      {
+        "text": "I measure the dark tunnel.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Dread tells fear or worry about something. The other verbs do not by themselves show fear.",
+      "hint": "Choose a verb that communicates the meaning the writer wants."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA07-P-044",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "choosing_verbs_for_meaning",
+    "question": "A writer wants to tell a reader about a character's knowledge. Which verb fits?\nAmir [blank] the answer.",
+    "audio_prompt": "A writer wants to tell a reader about a character's knowledge. Which verb fits?\nAmir [blank] the answer.",
+    "answers": [
+      {
+        "text": "shouts",
+        "is_correct": false
+      },
+      {
+        "text": "writes",
+        "is_correct": false
+      },
+      {
+        "text": "checks",
+        "is_correct": false
+      },
+      {
+        "text": "knows",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Knows tells what is in Amir's mind. Shouts, writes and checks tell other processes.",
+      "hint": "Choose a verb that communicates the meaning the writer wants."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA07-P-045",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "choosing_verbs_for_meaning",
+    "question": "Which sentence shows that someone speaks softly?",
+    "audio_prompt": "Which sentence shows that someone speaks softly?",
+    "answers": [
+      {
+        "text": "Jo whispered a warning.",
+        "is_correct": true
+      },
+      {
+        "text": "Jo imagined a warning.",
+        "is_correct": false
+      },
+      {
+        "text": "Jo read the warning silently.",
+        "is_correct": false
+      },
+      {
+        "text": "Jo disliked the warning.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Whispered tells quiet speech. Silent reading does not communicate the warning aloud.",
+      "hint": "Choose a verb that communicates the meaning the writer wants."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA07-P-046",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA07",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "choosing_verbs_for_meaning",
+    "question": "A writer wants to describe the pond's appearance, not an action. Which sentence fits?",
+    "audio_prompt": "A writer wants to describe the pond's appearance, not an action. Which sentence fits?",
+    "answers": [
+      {
+        "text": "A duck swims across the pond.",
+        "is_correct": false
+      },
+      {
+        "text": "The pond is still.",
+        "is_correct": true
+      },
+      {
+        "text": "A fish splashes in the pond.",
+        "is_correct": false
+      },
+      {
+        "text": "The pond freezes overnight.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Is links the pond to the quality still. The other sentences describe something happening.",
+      "hint": "Choose a verb that communicates the meaning the writer wants."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA07-P-047",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA07",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "choosing_verbs_for_meaning",
+    "question": "Which revision changes a thought into a spoken message?\nRosa wondered where the key was.",
+    "audio_prompt": "Which revision changes a thought into a spoken message?\nRosa wondered where the key was.",
+    "answers": [
+      {
+        "text": "Rosa remembered where the key was.",
+        "is_correct": false
+      },
+      {
+        "text": "Rosa knew where the key was.",
+        "is_correct": false
+      },
+      {
+        "text": "Rosa guessed where the key was.",
+        "is_correct": false
+      },
+      {
+        "text": "Rosa asked where the key was.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Asked shows a communicated question. The other choices stay with processes in the mind.",
+      "hint": "Choose a verb that communicates the meaning the writer wants."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA07-P-048",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA07",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "choosing_verbs_for_meaning",
+    "question": "Which sentence combines a feeling verb and a doing verb?",
+    "audio_prompt": "Which sentence combines a feeling verb and a doing verb?",
+    "answers": [
+      {
+        "text": "I love music, so I play the drum.",
+        "is_correct": true
+      },
+      {
+        "text": "I own a drum, and it is red.",
+        "is_correct": false
+      },
+      {
+        "text": "I carry the drum and tap it.",
+        "is_correct": false
+      },
+      {
+        "text": "I think about the drum and remember it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Love tells a feeling; play tells an action. The other choices do not combine those two processes.",
+      "hint": "Choose a verb that communicates the meaning the writer wants."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1205,28 +1877,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Verb Processes",
-    "question": "Which verb shows The actor doing a physical action?",
-    "audio_prompt": "Which verb shows The actor doing a physical action?",
+    "stage": "recognise",
+    "skill": "doing_verbs",
+    "question": "Which word is a doing verb?\nA branch scraped the window.",
+    "audio_prompt": "Which word is a doing verb?\nA branch scraped the window.",
     "answers": [
       {
-        "text": "hoped",
+        "text": "window",
         "is_correct": false
       },
       {
-        "text": "bowed",
+        "text": "scraped",
         "is_correct": true
       },
       {
-        "text": "seemed",
+        "text": "branch",
+        "is_correct": false
+      },
+      {
+        "text": "the",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Doing verbs represent actions.",
-      "hint": "Choose the verb that could be observed as an action."
+      "summary": "Scraped tells what the branch did against the window.",
+      "hint": "Ask what someone or something does in this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1235,28 +1916,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Verb Processes",
-    "question": "Which verb shows a thought or feeling belonging to The actor?",
-    "audio_prompt": "Which verb shows a thought or feeling belonging to The actor?",
+    "stage": "apply",
+    "skill": "doing_verbs",
+    "question": "Which sentence tells a physical action?",
+    "audio_prompt": "Which sentence tells a physical action?",
     "answers": [
       {
-        "text": "bowed",
+        "text": "Mina likes the map.",
         "is_correct": false
       },
       {
-        "text": "murmured",
+        "text": "Mina remembers the map.",
         "is_correct": false
       },
       {
-        "text": "hoped",
+        "text": "Mina folds the map.",
         "is_correct": true
+      },
+      {
+        "text": "Mina owns the map.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Thinking and feeling verbs represent inner processes.",
-      "hint": "Choose what happens inside the character's mind or emotions."
+      "summary": "Folds tells something Mina does with the map. The other verbs express thinking, possession or feeling.",
+      "hint": "Ask what someone or something does in this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1265,28 +1955,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Verb Processes",
-    "question": "Which verb shows The actor speaking?",
-    "audio_prompt": "Which verb shows The actor speaking?",
+    "stage": "recognise",
+    "skill": "feeling_verbs",
+    "question": "Which word shows a feeling?\nThe hikers dreaded the steep climb.",
+    "audio_prompt": "Which word shows a feeling?\nThe hikers dreaded the steep climb.",
     "answers": [
       {
-        "text": "murmured",
+        "text": "steep",
+        "is_correct": false
+      },
+      {
+        "text": "dreaded",
         "is_correct": true
       },
       {
-        "text": "hoped",
+        "text": "climb",
         "is_correct": false
       },
       {
-        "text": "seemed",
+        "text": "hikers",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Saying verbs represent speech.",
-      "hint": "Choose the word that could introduce spoken words."
+      "summary": "Dreaded tells that the hikers felt worried or afraid about the climb.",
+      "hint": "Look for a verb that tells an emotion, wish or liking."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1295,28 +1994,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Verb Processes",
-    "question": "Which verb can relate The actor to a quality or identity?",
-    "audio_prompt": "Which verb can relate The actor to a quality or identity?",
+    "stage": "apply",
+    "skill": "feeling_verbs",
+    "question": "Which sentence expresses a wish rather than an action?",
+    "audio_prompt": "Which sentence expresses a wish rather than an action?",
     "answers": [
       {
-        "text": "bowed",
+        "text": "I take a turn on the swing.",
         "is_correct": false
       },
       {
-        "text": "seemed",
+        "text": "I finish a turn on the swing.",
+        "is_correct": false
+      },
+      {
+        "text": "I start a turn on the swing.",
+        "is_correct": false
+      },
+      {
+        "text": "I want a turn on the swing.",
         "is_correct": true
-      },
-      {
-        "text": "murmured",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Relating verbs connect a participant with a quality or identity.",
-      "hint": "Try placing a describing word after each verb."
+      "summary": "Want tells a wish. Take, start and finish describe what someone does.",
+      "hint": "Look for a verb that tells an emotion, wish or liking."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1325,28 +2033,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Verb Processes",
-    "question": "Which sentence uses a precise saying verb for quiet speech by The actor?",
-    "audio_prompt": "Which sentence uses a precise saying verb for quiet speech by The actor?",
+    "stage": "recognise",
+    "skill": "thinking_verbs",
+    "question": "Which verb is about thinking?\nThe team considered a new plan.",
+    "audio_prompt": "Which verb is about thinking?\nThe team considered a new plan.",
     "answers": [
       {
-        "text": "The actor bowed the answer softly.",
+        "text": "new",
         "is_correct": false
       },
       {
-        "text": "The actor seemed the answer softly.",
+        "text": "team",
         "is_correct": false
       },
       {
-        "text": "The actor murmured the answer softly.",
+        "text": "plan",
+        "is_correct": false
+      },
+      {
+        "text": "considered",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A precise saying verb can show how speech sounds.",
-      "hint": "Match the verb to quiet speech."
+      "summary": "Considered means thought carefully about something, so it represents thinking.",
+      "hint": "Look for what happens in someone's mind, such as knowing or remembering."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1355,28 +2072,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Verb Processes",
-    "question": "A writer wants readers to know what The actor thinks. Which choice works best?",
-    "audio_prompt": "A writer wants readers to know what The actor thinks. Which choice works best?",
+    "stage": "apply",
+    "skill": "thinking_verbs",
+    "question": "Which sentence tells what someone believes?",
+    "audio_prompt": "Which sentence tells what someone believes?",
     "answers": [
       {
-        "text": "The actor hoped the earlier clue.",
+        "text": "I think the parcel is for us.",
         "is_correct": true
       },
       {
-        "text": "The actor bowed across the room.",
+        "text": "I lift the parcel from the step.",
         "is_correct": false
       },
       {
-        "text": "The actor murmured loudly.",
+        "text": "I carry the parcel inside.",
+        "is_correct": false
+      },
+      {
+        "text": "I open the parcel with care.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "An inner-process verb reveals thought or feeling.",
-      "hint": "Look for a process that is not simply seen or heard."
+      "summary": "Think tells the speaker's belief about the parcel.",
+      "hint": "Look for what happens in someone's mind, such as knowing or remembering."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1385,28 +2111,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Verb Processes",
-    "question": "Why might a writer replace “said” with “murmured”?",
-    "audio_prompt": "Why might a writer replace “said” with “murmured”?",
+    "stage": "recognise",
+    "skill": "saying_verbs",
+    "question": "Which word introduces spoken words?\n'Yes, I agree,' Kai replied.",
+    "audio_prompt": "Which word introduces spoken words?\n'Yes, I agree,' Kai replied.",
     "answers": [
       {
-        "text": "To remove the speaker from the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "To show the manner or mood of the speech more precisely.",
+        "text": "replied",
         "is_correct": true
       },
       {
-        "text": "To turn the speech into a place name.",
+        "text": "agree",
+        "is_correct": false
+      },
+      {
+        "text": "Kai",
+        "is_correct": false
+      },
+      {
+        "text": "Yes",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Specific saying verbs add information about delivery.",
-      "hint": "Consider what the new verb tells the reader."
+      "summary": "Replied tells us Kai spoke in response. Agree belongs to the words Kai said.",
+      "hint": "Look for a verb that tells how a message is spoken or communicated."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1415,28 +2150,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Verb Processes",
-    "question": "Which explanation correctly compares “bowed” and “hoped”?",
-    "audio_prompt": "Which explanation correctly compares “bowed” and “hoped”?",
+    "stage": "apply",
+    "skill": "saying_verbs",
+    "question": "Choose a verb that shows giving spoken directions.\nThe teacher [blank] how to play the game.",
+    "audio_prompt": "Choose a verb that shows giving spoken directions.\nThe teacher [blank] how to play the game.",
     "answers": [
       {
-        "text": "Both words represent speech only.",
+        "text": "remembered",
         "is_correct": false
       },
       {
-        "text": "“hoped” names a place, while “bowed” names a thing.",
+        "text": "imagined",
         "is_correct": false
       },
       {
-        "text": "“bowed” represents doing, while “hoped” represents thinking or feeling.",
+        "text": "explained",
         "is_correct": true
+      },
+      {
+        "text": "enjoyed",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Verbs can represent different kinds of processes.",
-      "hint": "Classify each verb by the experience it expresses."
+      "summary": "Explained tells that the teacher communicated how the game works.",
+      "hint": "Look for a verb that tells how a message is spoken or communicated."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1445,28 +2189,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which verb shows Kai doing a physical action?",
-    "audio_prompt": "Which verb shows Kai doing a physical action?",
+    "stage": "recognise",
+    "skill": "relating_verbs",
+    "question": "Which sentence shows possession?",
+    "audio_prompt": "Which sentence shows possession?",
     "answers": [
       {
-        "text": "stirred",
+        "text": "The builder cleans two windows.",
+        "is_correct": false
+      },
+      {
+        "text": "The painter opens two windows.",
+        "is_correct": false
+      },
+      {
+        "text": "The visitor counts two windows.",
+        "is_correct": false
+      },
+      {
+        "text": "The cabin has two windows.",
         "is_correct": true
-      },
-      {
-        "text": "believed",
-        "is_correct": false
-      },
-      {
-        "text": "remained",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Doing verbs represent actions.",
-      "hint": "Choose the verb that could be observed as an action."
+      "summary": "Has relates the cabin to its windows. It does not tell an action performed on them.",
+      "hint": "Look for a verb that connects someone or something with an identity, quality or possession."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1476,27 +2229,36 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
     "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which verb shows a thought or feeling belonging to Kai?",
-    "audio_prompt": "Which verb shows a thought or feeling belonging to Kai?",
+    "skill": "relating_verbs",
+    "question": "Read: The path became slippery. What does became tell us?",
+    "audio_prompt": "Read: The path became slippery. What does became tell us?",
     "answers": [
       {
-        "text": "stirred",
+        "text": "The path moved to another place.",
         "is_correct": false
       },
       {
-        "text": "believed",
+        "text": "The path spoke to the walkers.",
+        "is_correct": false
+      },
+      {
+        "text": "The path remembered the rain.",
+        "is_correct": false
+      },
+      {
+        "text": "The path changed to a new condition.",
         "is_correct": true
-      },
-      {
-        "text": "replied",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Thinking and feeling verbs represent inner processes.",
-      "hint": "Choose what happens inside the character's mind or emotions."
+      "summary": "Became links the path to its changed quality, slippery.",
+      "hint": "Look for a verb that connects someone or something with an identity, quality or possession."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1506,27 +2268,36 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
     "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which verb shows Kai speaking?",
-    "audio_prompt": "Which verb shows Kai speaking?",
+    "skill": "verb_meaning_in_context",
+    "question": "Read: 'Zoe wanted a rest, so she sat down.' Which verb tells her feeling or wish?",
+    "audio_prompt": "Read: 'Zoe wanted a rest, so she sat down.' Which verb tells her feeling or wish?",
     "answers": [
       {
-        "text": "believed",
-        "is_correct": false
-      },
-      {
-        "text": "remained",
-        "is_correct": false
-      },
-      {
-        "text": "replied",
+        "text": "wanted",
         "is_correct": true
+      },
+      {
+        "text": "rest",
+        "is_correct": false
+      },
+      {
+        "text": "sat",
+        "is_correct": false
+      },
+      {
+        "text": "down",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Saying verbs represent speech.",
-      "hint": "Choose the word that could introduce spoken words."
+      "summary": "Wanted tells Zoe's wish. Sat tells what she did; rest is a noun in this sentence.",
+      "hint": "Read the whole sentence: a verb's meaning depends on how it is used."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1535,28 +2306,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which verb can relate Kai to a quality or identity?",
-    "audio_prompt": "Which verb can relate Kai to a quality or identity?",
+    "stage": "reason",
+    "skill": "verb_meaning_in_context",
+    "question": "Read: 'The bag is heavy, and I lift it carefully.' What do is and lift do?",
+    "audio_prompt": "Read: 'The bag is heavy, and I lift it carefully.' What do is and lift do?",
     "answers": [
       {
-        "text": "remained",
+        "text": "Both describe thoughts.",
+        "is_correct": false
+      },
+      {
+        "text": "Is tells an action; lift links a quality.",
+        "is_correct": false
+      },
+      {
+        "text": "Is links a quality; lift tells an action.",
         "is_correct": true
       },
       {
-        "text": "stirred",
-        "is_correct": false
-      },
-      {
-        "text": "replied",
+        "text": "Both introduce spoken words.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Relating verbs connect a participant with a quality or identity.",
-      "hint": "Try placing a describing word after each verb."
+      "summary": "Is relates the bag to heavy. Lift tells what the speaker does.",
+      "hint": "Read the whole sentence: a verb's meaning depends on how it is used."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1565,28 +2345,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which sentence uses a precise saying verb for quiet speech by Kai?",
-    "audio_prompt": "Which sentence uses a precise saying verb for quiet speech by Kai?",
+    "stage": "recognise",
+    "skill": "main_verbs_in_groups",
+    "question": "Which word is the main verb?\nThe children were laughing.",
+    "audio_prompt": "Which word is the main verb?\nThe children were laughing.",
     "answers": [
       {
-        "text": "Kai stirred the answer softly.",
+        "text": "the",
         "is_correct": false
       },
       {
-        "text": "Kai replied the answer softly.",
+        "text": "laughing",
         "is_correct": true
       },
       {
-        "text": "Kai remained the answer softly.",
+        "text": "children",
+        "is_correct": false
+      },
+      {
+        "text": "were",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A precise saying verb can show how speech sounds.",
-      "hint": "Match the verb to quiet speech."
+      "summary": "Laughing tells the main process; were is the helping verb.",
+      "hint": "A helping verb works with the main verb; use the whole verb group to understand the message."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1596,27 +2385,36 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
     "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "A writer wants readers to know what Kai thinks. Which choice works best?",
-    "audio_prompt": "A writer wants readers to know what Kai thinks. Which choice works best?",
+    "skill": "main_verbs_in_groups",
+    "question": "Which words form a verb group about thinking?\nI have remembered your name.",
+    "audio_prompt": "Which words form a verb group about thinking?\nI have remembered your name.",
     "answers": [
       {
-        "text": "Kai stirred across the room.",
+        "text": "your name",
         "is_correct": false
       },
       {
-        "text": "Kai replied loudly.",
-        "is_correct": false
-      },
-      {
-        "text": "Kai believed the earlier clue.",
+        "text": "have remembered",
         "is_correct": true
+      },
+      {
+        "text": "remembered your",
+        "is_correct": false
+      },
+      {
+        "text": "I have",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "An inner-process verb reveals thought or feeling.",
-      "hint": "Look for a process that is not simply seen or heard."
+      "summary": "Have remembered is the verb group. Remembered tells the thinking process and have helps it.",
+      "hint": "A helping verb works with the main verb; use the whole verb group to understand the message."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1626,27 +2424,36 @@
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
     "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Why might a writer replace “said” with “replied”?",
-    "audio_prompt": "Why might a writer replace “said” with “replied”?",
+    "skill": "choosing_verbs_for_meaning",
+    "question": "Which sentence gives an identity using a relating verb?",
+    "audio_prompt": "Which sentence gives an identity using a relating verb?",
     "answers": [
       {
-        "text": "To show the manner or mood of the speech more precisely.",
+        "text": "My neighbour paints a fence.",
+        "is_correct": false
+      },
+      {
+        "text": "My neighbour remembers a picture.",
+        "is_correct": false
+      },
+      {
+        "text": "My neighbour is an artist.",
         "is_correct": true
       },
       {
-        "text": "To remove the speaker from the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "To turn the speech into a place name.",
+        "text": "My neighbour explains a drawing.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Specific saying verbs add information about delivery.",
-      "hint": "Consider what the new verb tells the reader."
+      "summary": "Is connects the neighbour with an identity, an artist.",
+      "hint": "Choose a verb that communicates the meaning the writer wants."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1655,28 +2462,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA07",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Verb Processes",
-    "question": "Which explanation correctly compares “stirred” and “believed”?",
-    "audio_prompt": "Which explanation correctly compares “stirred” and “believed”?",
+    "stage": "reason",
+    "skill": "choosing_verbs_for_meaning",
+    "question": "An author changes 'The child said hello' to 'The child called hello'. What becomes clearer?",
+    "audio_prompt": "An author changes 'The child said hello' to 'The child called hello'. What becomes clearer?",
     "answers": [
       {
-        "text": "Both words represent speech only.",
-        "is_correct": false
-      },
-      {
-        "text": "“stirred” represents doing, while “believed” represents thinking or feeling.",
+        "text": "How the greeting was spoken",
         "is_correct": true
       },
       {
-        "text": "“believed” names a place, while “stirred” names a thing.",
+        "text": "What the child owned",
+        "is_correct": false
+      },
+      {
+        "text": "Which colour the child wore",
+        "is_correct": false
+      },
+      {
+        "text": "Why the child arrived late",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Verbs can represent different kinds of processes.",
-      "hint": "Classify each verb by the experience it expresses."
+      "summary": "Called suggests a voice raised to be heard. The change adds detail about saying the greeting.",
+      "hint": "Choose a verb that communicates the meaning the writer wants."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   }
 ]

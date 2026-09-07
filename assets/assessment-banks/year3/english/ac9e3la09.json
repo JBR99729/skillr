@@ -6,27 +6,36 @@
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "How Images Extend Meaning",
-    "question": "The words say, “Ari hurried home.” Which image detail would extend their meaning?",
-    "audio_prompt": "The words say, “Ari hurried home.” Which image detail would extend their meaning?",
+    "skill": "image_adds_setting_details",
+    "question": "Read: Jo waited for a friend. What does the picture add about where Jo is?",
+    "audio_prompt": "Read: Jo waited for a friend. What does the picture add about where Jo is?",
     "answers": [
       {
-        "text": "a plain page number",
+        "text": "Jo is at a pool.",
         "is_correct": false
       },
       {
-        "text": "an empty white margin",
+        "text": "Jo is at a farm.",
         "is_correct": false
       },
       {
-        "text": "dark clouds above an empty road",
+        "text": "Jo is in a library.",
         "is_correct": true
+      },
+      {
+        "text": "Jo is in a bakery.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "An image extends meaning when it adds relevant information beyond the words.",
-      "hint": "Choose a detail that changes or deepens what readers understand."
+      "summary": "The library sign and shelves of books identify the place. The words only say Jo waited.",
+      "hint": "Use visible objects and signs to identify information the words do not give."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#s1",
+      "alt_text": "A LIBRARY sign above two shelves of books. A person waits beside a bench."
     }
   },
   {
@@ -35,28 +44,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "How Images Extend Meaning",
-    "question": "Combine “Ari hurried home.” with the image detail “dark clouds above an empty road”. What can a reader infer?",
-    "audio_prompt": "Combine “Ari hurried home.” with the image detail “dark clouds above an empty road”. What can a reader infer?",
+    "stage": "reason",
+    "skill": "image_adds_setting_details",
+    "question": "Read: Jo waited for a friend. Which detail comes from the picture rather than these words?",
+    "audio_prompt": "Read: Jo waited for a friend. Which detail comes from the picture rather than these words?",
     "answers": [
       {
-        "text": "an uneasy storm is approaching",
+        "text": "Jo has arranged to meet a friend.",
+        "is_correct": false
+      },
+      {
+        "text": "There are shelves of books nearby.",
         "is_correct": true
       },
       {
-        "text": "The image has no relationship to the words.",
+        "text": "Jo is waiting for someone.",
         "is_correct": false
       },
       {
-        "text": "The page number explains the whole event.",
+        "text": "Jo is waiting rather than leaving.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Readers combine written and visual clues to infer added meaning.",
-      "hint": "Use evidence from both modes."
+      "summary": "The bookshelves are shown in the illustration but are not mentioned in the short text.",
+      "hint": "Use visible objects and signs to identify information the words do not give."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#s1",
+      "alt_text": "A LIBRARY sign above two shelves of books. A person waits beside a bench."
     }
   },
   {
@@ -66,27 +84,36 @@
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "How Images Extend Meaning",
-    "question": "What does “dark clouds above an empty road” add to the words “Ari hurried home.”?",
-    "audio_prompt": "What does “dark clouds above an empty road” add to the words “Ari hurried home.”?",
+    "skill": "image_adds_setting_details",
+    "question": "Read: We stood outside. Where does the picture suggest the people are waiting?",
+    "audio_prompt": "Read: We stood outside. Where does the picture suggest the people are waiting?",
     "answers": [
       {
-        "text": "It gives the spelling of every word.",
+        "text": "At a swimming pool",
         "is_correct": false
       },
       {
-        "text": "It suggests that an uneasy storm is approaching.",
+        "text": "At a cinema ticket desk",
+        "is_correct": false
+      },
+      {
+        "text": "At a bus stop",
         "is_correct": true
       },
       {
-        "text": "It proves a fact that has no support in the text.",
+        "text": "At a campsite",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A relevant visual detail can add setting, mood, action or character information.",
-      "hint": "Name the new meaning supplied by the image."
+      "summary": "The bus and BUS STOP sign add the specific setting that the words leave out.",
+      "hint": "Use visible objects and signs to identify information the words do not give."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#s2",
+      "alt_text": "A person stands beside a BUS STOP sign. A bus with windows and wheels is nearby."
     }
   },
   {
@@ -95,28 +122,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "How Images Extend Meaning",
-    "question": "Which visual change would most alter the mood of “Ari hurried home.”?",
-    "audio_prompt": "Which visual change would most alter the mood of “Ari hurried home.”?",
+    "stage": "reason",
+    "skill": "image_adds_setting_details",
+    "question": "Read: We stood outside. Which picture detail most clearly explains why they might be waiting there?",
+    "audio_prompt": "Read: We stood outside. Which picture detail most clearly explains why they might be waiting there?",
     "answers": [
       {
-        "text": "Change the page number.",
+        "text": "The colour of the shirt",
         "is_correct": false
       },
       {
-        "text": "Make the margin slightly wider.",
+        "text": "The blank sky behind them",
         "is_correct": false
       },
       {
-        "text": "Replace the scene with bright light and relaxed expressions.",
+        "text": "The shape of the person's face",
+        "is_correct": false
+      },
+      {
+        "text": "The BUS STOP sign",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Visual choices such as light and expression influence mood.",
-      "hint": "Look for a change readers would interpret emotionally."
+      "summary": "The sign suggests they are waiting for a bus. A shirt colour or face shape does not explain the purpose of the place.",
+      "hint": "Use visible objects and signs to identify information the words do not give."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#s2",
+      "alt_text": "A person stands beside a BUS STOP sign. A bus with windows and wheels is nearby."
     }
   },
   {
@@ -125,28 +161,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "How Images Extend Meaning",
-    "question": "A caption simply repeats “Ari hurried home.” What would improve it?",
-    "audio_prompt": "A caption simply repeats “Ari hurried home.” What would improve it?",
+    "stage": "apply",
+    "skill": "image_adds_setting_details",
+    "question": "Read: Dad tied the rope securely. What does the picture help the reader understand?",
+    "audio_prompt": "Read: Dad tied the rope securely. What does the picture help the reader understand?",
     "answers": [
       {
-        "text": "Explain how dark clouds above an empty road adds information.",
+        "text": "He is wrapping a birthday parcel.",
+        "is_correct": false
+      },
+      {
+        "text": "He is securing a boat to a jetty.",
         "is_correct": true
       },
       {
-        "text": "Repeat the same sentence twice more.",
+        "text": "He is putting up a tent.",
         "is_correct": false
       },
       {
-        "text": "Describe an unrelated object outside the scene.",
+        "text": "He is hanging washing on a line.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Useful captions can guide attention to meaningful visual evidence.",
-      "hint": "Add information rather than copying the words."
+      "summary": "The rope runs from the boat towards the jetty, showing what Dad is securing.",
+      "hint": "Use visible objects and signs to identify information the words do not give."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#s3",
+      "alt_text": "A person stands on a wooden jetty above water. A rope curves from a sailing boat to the jetty."
     }
   },
   {
@@ -155,28 +200,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "How Images Extend Meaning",
-    "question": "Which statement uses evidence responsibly for “Ari hurried home.” and “dark clouds above an empty road”?",
-    "audio_prompt": "Which statement uses evidence responsibly for “Ari hurried home.” and “dark clouds above an empty road”?",
+    "stage": "reason",
+    "skill": "image_adds_setting_details",
+    "question": "Read: Dad tied the rope securely. Which information would be lost if the picture were removed?",
+    "audio_prompt": "Read: Dad tied the rope securely. Which information would be lost if the picture were removed?",
     "answers": [
       {
-        "text": "The image guarantees every detail of an uneasy storm is approaching.",
+        "text": "That Dad tied a rope",
         "is_correct": false
       },
       {
-        "text": "The visual clue suggests that an uneasy storm is approaching.",
+        "text": "Who performed the tying",
+        "is_correct": false
+      },
+      {
+        "text": "That the tying was secure",
+        "is_correct": false
+      },
+      {
+        "text": "What the rope is attached to",
         "is_correct": true
-      },
-      {
-        "text": "The words and image cannot be read together.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
-      "hint": "Prefer suggests when the evidence allows an inference."
+      "summary": "The text names Dad, the rope and the secure tying. The picture adds the boat and jetty.",
+      "hint": "Use visible objects and signs to identify information the words do not give."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#s3",
+      "alt_text": "A person stands on a wooden jetty above water. A rope curves from a sailing boat to the jetty."
     }
   },
   {
@@ -185,28 +239,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "How Images Extend Meaning",
-    "question": "Why might the creator pair “Ari hurried home.” with “dark clouds above an empty road”?",
-    "audio_prompt": "Why might the creator pair “Ari hurried home.” with “dark clouds above an empty road”?",
+    "stage": "apply",
+    "skill": "visual_causes_and_consequences",
+    "question": "Read: Water spread across the floor. What does the picture suggest caused this?",
+    "audio_prompt": "Read: Water spread across the floor. What does the picture suggest caused this?",
     "answers": [
       {
-        "text": "To make the written words impossible to understand.",
-        "is_correct": false
-      },
-      {
-        "text": "To ensure the image has no purpose.",
-        "is_correct": false
-      },
-      {
-        "text": "To let the image extend the event, setting or mood.",
+        "text": "Water spilled from a tipped container.",
         "is_correct": true
+      },
+      {
+        "text": "Rain came through an open window.",
+        "is_correct": false
+      },
+      {
+        "text": "A tap overflowed into a sink.",
+        "is_correct": false
+      },
+      {
+        "text": "Someone emptied a fish tank.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Words and images can work together to create richer meaning.",
-      "hint": "Explain what the visual contributes."
+      "summary": "The tipped container and stream leading to the puddle suggest a spill from that container.",
+      "hint": "Look for visible clues that support a likely cause, without inventing details about who did it."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#c1",
+      "alt_text": "A water container is tipped beside a plant pot. A stream curves from its spout towards a puddle on the floor."
     }
   },
   {
@@ -215,28 +278,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "How Images Extend Meaning",
-    "question": "Which reading strategy best suits a page containing “Ari hurried home.” and “dark clouds above an empty road”?",
-    "audio_prompt": "Which reading strategy best suits a page containing “Ari hurried home.” and “dark clouds above an empty road”?",
+    "stage": "reason",
+    "skill": "visual_causes_and_consequences",
+    "question": "Read: Water spread across the floor. What can the picture help explain without proving who was responsible?",
+    "audio_prompt": "Read: Water spread across the floor. What can the picture help explain without proving who was responsible?",
     "answers": [
       {
-        "text": "Notice details in both the words and image, then connect them.",
+        "text": "Whether anyone did it on purpose",
+        "is_correct": false
+      },
+      {
+        "text": "Exactly when the spill happened",
+        "is_correct": false
+      },
+      {
+        "text": "Which person tipped the container",
+        "is_correct": false
+      },
+      {
+        "text": "Where the spilled water came from",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the image completely.",
-        "is_correct": false
-      },
-      {
-        "text": "Guess without using either source.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Multimodal reading combines evidence across modes.",
-      "hint": "Use every relevant clue available."
+      "summary": "The container and water trail show a likely source. No person, time or intention is shown.",
+      "hint": "Look for visible clues that support a likely cause, without inventing details about who did it."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#c1",
+      "alt_text": "A water container is tipped beside a plant pot. A stream curves from its spout towards a puddle on the floor."
     }
   },
   {
@@ -245,28 +317,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "How Images Extend Meaning",
-    "question": "The words say, “The dog waited by the gate.” Which image detail would extend their meaning?",
-    "audio_prompt": "The words say, “The dog waited by the gate.” Which image detail would extend their meaning?",
+    "stage": "apply",
+    "skill": "visual_causes_and_consequences",
+    "question": "Read: There was a crash beside the house. What is a likely explanation using the picture?",
+    "audio_prompt": "Read: There was a crash beside the house. What is a likely explanation using the picture?",
     "answers": [
       {
-        "text": "a plain page number",
-        "is_correct": false
-      },
-      {
-        "text": "lowered ears and a wagging tail",
+        "text": "The ball struck the window.",
         "is_correct": true
       },
       {
-        "text": "an empty white margin",
+        "text": "The door slammed in the wind.",
+        "is_correct": false
+      },
+      {
+        "text": "Someone dropped a plate indoors.",
+        "is_correct": false
+      },
+      {
+        "text": "A branch fell onto the roof.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "An image extends meaning when it adds relevant information beyond the words.",
-      "hint": "Choose a detail that changes or deepens what readers understand."
+      "summary": "The ball, curved movement line and cracked opening suggest the ball hit the window.",
+      "hint": "Look for visible clues that support a likely cause, without inventing details about who did it."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#c2",
+      "alt_text": "A ball lies beside a house window. A curved movement line leads towards a jagged break in one pane."
     }
   },
   {
@@ -275,28 +356,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "How Images Extend Meaning",
-    "question": "Combine “The dog waited by the gate.” with the image detail “lowered ears and a wagging tail”. What can a reader infer?",
-    "audio_prompt": "Combine “The dog waited by the gate.” with the image detail “lowered ears and a wagging tail”. What can a reader infer?",
+    "stage": "reason",
+    "skill": "visual_causes_and_consequences",
+    "question": "Read: There was a crash beside the house. Which picture detail best supports the idea that the window was struck?",
+    "audio_prompt": "Read: There was a crash beside the house. Which picture detail best supports the idea that the window was struck?",
     "answers": [
       {
-        "text": "The image has no relationship to the words.",
+        "text": "The empty space beside the house",
         "is_correct": false
       },
       {
-        "text": "The page number explains the whole event.",
+        "text": "The straight edge of the frame",
         "is_correct": false
       },
       {
-        "text": "the dog is hopeful but uncertain",
+        "text": "The jagged break in the pane",
         "is_correct": true
+      },
+      {
+        "text": "The round outline of the ball alone",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Readers combine written and visual clues to infer added meaning.",
-      "hint": "Use evidence from both modes."
+      "summary": "The jagged break is evidence of damage. A frame or round ball alone would not show a window had been struck.",
+      "hint": "Look for visible clues that support a likely cause, without inventing details about who did it."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#c2",
+      "alt_text": "A ball lies beside a house window. A curved movement line leads towards a jagged break in one pane."
     }
   },
   {
@@ -305,28 +395,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "How Images Extend Meaning",
-    "question": "Why is “It suggests that the dog is hopeful but uncertain.” the best answer here? What does “lowered ears and a wagging tail” add to the words “The dog waited by the gate.”?",
-    "audio_prompt": "Why is “It suggests that the dog is hopeful but uncertain.” the best answer here? What does “lowered ears and a wagging tail” add to the words “The dog waited by the gate.”?",
+    "stage": "apply",
+    "skill": "visual_causes_and_consequences",
+    "question": "Read: Marks appeared across the floor. What does the picture add?",
+    "audio_prompt": "Read: Marks appeared across the floor. What does the picture add?",
     "answers": [
       {
-        "text": "A relevant visual detail can add setting, mood, action or character information.",
+        "text": "The marks are scratches from a chair.",
+        "is_correct": false
+      },
+      {
+        "text": "The marks are spilled blue paint.",
+        "is_correct": false
+      },
+      {
+        "text": "The marks look like muddy footprints.",
         "is_correct": true
       },
       {
-        "text": "Because “It gives the spelling of every word.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "The marks are pieces of torn paper.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A relevant visual detail can add setting, mood, action or character information.",
-      "hint": "Name the new meaning supplied by the image."
+      "summary": "Boots near the door and matching brown foot-shaped marks suggest muddy footprints.",
+      "hint": "Look for visible clues that support a likely cause, without inventing details about who did it."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#c3",
+      "alt_text": "Two brown muddy boots sit by the door. Brown foot-shaped marks continue across the floor."
     }
   },
   {
@@ -335,28 +434,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "How Images Extend Meaning",
-    "question": "Why is “Replace the scene with bright light and relaxed expressions.” the best answer here? Which visual change would most alter the mood of “The dog waited by the gate.”?",
-    "audio_prompt": "Why is “Replace the scene with bright light and relaxed expressions.” the best answer here? Which visual change would most alter the mood of “The dog waited by the gate.”?",
+    "stage": "reason",
+    "skill": "visual_causes_and_consequences",
+    "question": "Read: Marks appeared across the floor. Which clue links the marks to the boots?",
+    "audio_prompt": "Read: Marks appeared across the floor. Which clue links the marks to the boots?",
     "answers": [
       {
-        "text": "Because “Change the page number.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Visual choices such as light and expression influence mood.",
+        "text": "Their colour and foot-like shape",
         "is_correct": true
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "The empty upper part of the picture",
+        "is_correct": false
+      },
+      {
+        "text": "The height of the door label",
+        "is_correct": false
+      },
+      {
+        "text": "The distance between the two boots only",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Visual choices such as light and expression influence mood.",
-      "hint": "Look for a change readers would interpret emotionally."
+      "summary": "The marks resemble the muddy boots in colour and shape. Those visible clues support the connection.",
+      "hint": "Look for visible clues that support a likely cause, without inventing details about who did it."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#c3",
+      "alt_text": "Two brown muddy boots sit by the door. Brown foot-shaped marks continue across the floor."
     }
   },
   {
@@ -365,28 +473,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "How Images Extend Meaning",
-    "question": "Why is “Explain how lowered ears and a wagging tail adds information.” the best answer here? A caption simply repeats “The dog waited by the gate.” What would improve it?",
-    "audio_prompt": "Why is “Explain how lowered ears and a wagging tail adds information.” the best answer here? A caption simply repeats “The dog waited by the gate.” What would improve it?",
+    "stage": "apply",
+    "skill": "expressions_and_posture",
+    "question": "Read: Noor saw the result. How does the picture suggest Noor feels?",
+    "audio_prompt": "Read: Noor saw the result. How does the picture suggest Noor feels?",
     "answers": [
       {
-        "text": "Because “Repeat the same sentence twice more.” sounds familiar.",
+        "text": "Sleepy and tired",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Worried and uncertain",
         "is_correct": false
       },
       {
-        "text": "Useful captions can guide attention to meaningful visual evidence.",
+        "text": "Sad and disappointed",
+        "is_correct": false
+      },
+      {
+        "text": "Pleased and excited",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Useful captions can guide attention to meaningful visual evidence.",
-      "hint": "Add information rather than copying the words."
+      "summary": "The smile, raised arms and first-prize trophy together suggest pleasure and excitement.",
+      "hint": "Use expressions, body position and the situation together to support a possible feeling."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#f1",
+      "alt_text": "A smiling person holds both arms high. A trophy on a stand is labelled First prize."
     }
   },
   {
@@ -395,28 +512,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "How Images Extend Meaning",
-    "question": "Why is “The visual clue suggests that the dog is hopeful but uncertain.” the best answer here? Which statement uses evidence responsibly for “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
-    "audio_prompt": "Why is “The visual clue suggests that the dog is hopeful but uncertain.” the best answer here? Which statement uses evidence responsibly for “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
+    "stage": "reason",
+    "skill": "expressions_and_posture",
+    "question": "Read: Noor saw the result. Which pair of picture clues best supports excitement?",
+    "audio_prompt": "Read: Noor saw the result. Which pair of picture clues best supports excitement?",
     "answers": [
       {
-        "text": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
+        "text": "A shirt and two legs",
+        "is_correct": false
+      },
+      {
+        "text": "A table and a floor",
+        "is_correct": false
+      },
+      {
+        "text": "A smile and raised arms",
         "is_correct": true
       },
       {
-        "text": "Because “The image guarantees every detail of the dog is hopeful but uncertain.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "A trophy stand and a blank wall",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
-      "hint": "Prefer suggests when the evidence allows an inference."
+      "summary": "Smiling and raising both arms express a reaction; the neutral objects do not show the person's feeling by themselves.",
+      "hint": "Use expressions, body position and the situation together to support a possible feeling."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#f1",
+      "alt_text": "A smiling person holds both arms high. A trophy on a stand is labelled First prize."
     }
   },
   {
@@ -425,28 +551,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "How Images Extend Meaning",
-    "question": "Why is “To let the image extend the event, setting or mood.” the best answer here? Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?",
-    "audio_prompt": "Why is “To let the image extend the event, setting or mood.” the best answer here? Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?",
+    "stage": "apply",
+    "skill": "expressions_and_posture",
+    "question": "Read: Leo looked at the blocks. What does the illustration suggest?",
+    "audio_prompt": "Read: Leo looked at the blocks. What does the illustration suggest?",
     "answers": [
       {
-        "text": "Because “To make the written words impossible to understand.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Words and images can work together to create richer meaning.",
+        "text": "Leo is upset about the fallen tower.",
         "is_correct": true
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Leo is surprised by a new visitor.",
+        "is_correct": false
+      },
+      {
+        "text": "Leo is eager to eat a snack.",
+        "is_correct": false
+      },
+      {
+        "text": "Leo is sleepy after a long trip.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Words and images can work together to create richer meaning.",
-      "hint": "Explain what the visual contributes."
+      "summary": "The tear and unhappy mouth, beside scattered tower blocks, suggest Leo is upset about them.",
+      "hint": "Use expressions, body position and the situation together to support a possible feeling."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#f2",
+      "alt_text": "A person has a downturned mouth and a tear on one cheek. Scattered blocks lie nearby under the label Fallen tower."
     }
   },
   {
@@ -455,28 +590,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "How Images Extend Meaning",
-    "question": "Why is “Notice details in both the words and image, then connect them.” the best answer here? Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
-    "audio_prompt": "Why is “Notice details in both the words and image, then connect them.” the best answer here? Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
+    "stage": "reason",
+    "skill": "expressions_and_posture",
+    "question": "Read: Leo looked at the blocks. What does the picture add that the words do not state?",
+    "audio_prompt": "Read: Leo looked at the blocks. What does the picture add that the words do not state?",
     "answers": [
       {
-        "text": "Because “Ignore the image completely.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
-        "is_correct": false
-      },
-      {
-        "text": "Multimodal reading combines evidence across modes.",
+        "text": "A clue to Leo's feelings",
         "is_correct": true
+      },
+      {
+        "text": "The name of Leo's teacher",
+        "is_correct": false
+      },
+      {
+        "text": "The time the blocks were bought",
+        "is_correct": false
+      },
+      {
+        "text": "Leo's exact spoken words",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Multimodal reading combines evidence across modes.",
-      "hint": "Use every relevant clue available."
+      "summary": "The expression and tear suggest a feeling. The picture does not give speech, purchase time or a teacher's name.",
+      "hint": "Use expressions, body position and the situation together to support a possible feeling."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#f2",
+      "alt_text": "A person has a downturned mouth and a tear on one cheek. Scattered blocks lie nearby under the label Fallen tower."
     }
   },
   {
@@ -485,28 +629,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "How Images Extend Meaning",
-    "question": "Why is “a fallen tree blocking the narrow track” the best answer here? The words say, “The hikers stopped.” Which image detail would extend their meaning?",
-    "audio_prompt": "Why is “a fallen tree blocking the narrow track” the best answer here? The words say, “The hikers stopped.” Which image detail would extend their meaning?",
+    "stage": "apply",
+    "skill": "expressions_and_posture",
+    "question": "Read: Kit could not find the last puzzle piece. Which feeling does the illustration most strongly suggest?",
+    "audio_prompt": "Read: Kit could not find the last puzzle piece. Which feeling does the illustration most strongly suggest?",
     "answers": [
       {
-        "text": "An image extends meaning when it adds relevant information beyond the words.",
+        "text": "Amusement",
+        "is_correct": false
+      },
+      {
+        "text": "Sleepiness",
+        "is_correct": false
+      },
+      {
+        "text": "Frustration",
         "is_correct": true
       },
       {
-        "text": "Because “a plain page number” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Relief",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "An image extends meaning when it adds relevant information beyond the words.",
-      "hint": "Choose a detail that changes or deepens what readers understand."
+      "summary": "The lowered brows, unhappy mouth and crossed arms fit frustration about the missing piece.",
+      "hint": "Use expressions, body position and the situation together to support a possible feeling."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#f3",
+      "alt_text": "A person has inward-sloping eyebrows, a downturned mouth and crossed arms. Puzzle pieces lie nearby under the label Missing piece."
     }
   },
   {
@@ -515,28 +668,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "How Images Extend Meaning",
-    "question": "Why is “the journey has met an obstacle” the best answer here? Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?",
-    "audio_prompt": "Why is “the journey has met an obstacle” the best answer here? Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?",
+    "stage": "reason",
+    "skill": "expressions_and_posture",
+    "question": "Read: Kit could not find the last puzzle piece. Why should the reader use both words and picture?",
+    "audio_prompt": "Read: Kit could not find the last puzzle piece. Why should the reader use both words and picture?",
     "answers": [
       {
-        "text": "Because “The image has no relationship to the words.” sounds familiar.",
+        "text": "The picture proves the piece is lost forever.",
         "is_correct": false
       },
       {
-        "text": "Readers combine written and visual clues to infer added meaning.",
+        "text": "The words give the problem; the picture suggests a reaction.",
         "is_correct": true
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "The picture tells who took the piece.",
+        "is_correct": false
+      },
+      {
+        "text": "The words tell exactly how Kit's face looks.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Readers combine written and visual clues to infer added meaning.",
-      "hint": "Use evidence from both modes."
+      "summary": "The text identifies the problem, while posture and expression add a likely emotional response. Neither proves what happened to the piece.",
+      "hint": "Use expressions, body position and the situation together to support a possible feeling."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#f3",
+      "alt_text": "A person has inward-sloping eyebrows, a downturned mouth and crossed arms. Puzzle pieces lie nearby under the label Missing piece."
     }
   },
   {
@@ -545,28 +707,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "How Images Extend Meaning",
-    "question": "Why is “It suggests that the journey has met an obstacle.” the best answer here? What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?",
-    "audio_prompt": "Why is “It suggests that the journey has met an obstacle.” the best answer here? What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?",
+    "stage": "apply",
+    "skill": "changes_across_images",
+    "question": "Read: The seedling changed during the week. What change do the two pictures show?",
+    "audio_prompt": "Read: The seedling changed during the week. What change do the two pictures show?",
     "answers": [
       {
-        "text": "Because “It gives the spelling of every word.” sounds familiar.",
+        "text": "It moved into a hanging basket.",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Its pot became much wider.",
         "is_correct": false
       },
       {
-        "text": "A relevant visual detail can add setting, mood, action or character information.",
+        "text": "It lost all its leaves.",
+        "is_correct": false
+      },
+      {
+        "text": "It grew taller and gained leaves.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A relevant visual detail can add setting, mood, action or character information.",
-      "hint": "Name the new meaning supplied by the image."
+      "summary": "The Friday seedling is taller and has more leaves than the Monday seedling; the pot stays the same.",
+      "hint": "Compare the same feature across the labelled pictures to see what has changed."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#q1",
+      "alt_text": "Monday: a short seedling with two leaves in a pot. Friday: a taller seedling with more leaves in the same-sized pot."
     }
   },
   {
@@ -575,28 +746,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "How Images Extend Meaning",
-    "question": "Why is “Replace the scene with bright light and relaxed expressions.” the best answer here? Which visual change would most alter the mood of “The hikers stopped.”?",
-    "audio_prompt": "Why is “Replace the scene with bright light and relaxed expressions.” the best answer here? Which visual change would most alter the mood of “The hikers stopped.”?",
+    "stage": "reason",
+    "skill": "changes_across_images",
+    "question": "Read: The seedling changed during the week. Why are two dated pictures more useful than Friday's picture alone?",
+    "audio_prompt": "Read: The seedling changed during the week. Why are two dated pictures more useful than Friday's picture alone?",
     "answers": [
       {
-        "text": "Visual choices such as light and expression influence mood.",
+        "text": "They show what changed over time.",
         "is_correct": true
       },
       {
-        "text": "Because “Change the page number.” sounds familiar.",
+        "text": "They name the person who planted it.",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "They prove every seedling grows at this speed.",
+        "is_correct": false
+      },
+      {
+        "text": "They tell the exact amount of water used.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Visual choices such as light and expression influence mood.",
-      "hint": "Look for a change readers would interpret emotionally."
+      "summary": "A before-and-after comparison shows growth. It does not reveal exact watering or establish a rule for every plant.",
+      "hint": "Compare the same feature across the labelled pictures to see what has changed."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#q1",
+      "alt_text": "Monday: a short seedling with two leaves in a pot. Friday: a taller seedling with more leaves in the same-sized pot."
     }
   },
   {
@@ -605,28 +785,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "How Images Extend Meaning",
-    "question": "A student chooses “a plain page number” for this task: The words say, “Ari hurried home.” Which image detail would extend their meaning? What should they check?",
-    "audio_prompt": "A student chooses “a plain page number” for this task: The words say, “Ari hurried home.” Which image detail would extend their meaning? What should they check?",
+    "stage": "apply",
+    "skill": "changes_across_images",
+    "question": "Read: Sami added air. What does the picture sequence explain?",
+    "audio_prompt": "Read: Sami added air. What does the picture sequence explain?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "The balloon changed into a ball.",
         "is_correct": false
       },
       {
-        "text": "Choose a detail that changes or deepens what readers understand.",
+        "text": "The string became shorter.",
+        "is_correct": false
+      },
+      {
+        "text": "The balloon became larger.",
         "is_correct": true
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The balloon burst into pieces.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Choose a detail that changes or deepens what readers understand. An image extends meaning when it adds relevant information beyond the words.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The same balloon appears larger after air is added, making the effect visible.",
+      "hint": "Compare the same feature across the labelled pictures to see what has changed."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#q2",
+      "alt_text": "Before adding air: a small balloon with a string. After adding air: the balloon is much larger, with a string still attached."
     }
   },
   {
@@ -635,28 +824,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "How Images Extend Meaning",
-    "question": "A student chooses “The image has no relationship to the words.” for this task: Combine “Ari hurried home.” with the image detail “dark clouds above an empty road”. What can a reader infer? What should they check?",
-    "audio_prompt": "A student chooses “The image has no relationship to the words.” for this task: Combine “Ari hurried home.” with the image detail “dark clouds above an empty road”. What can a reader infer? What should they check?",
+    "stage": "reason",
+    "skill": "changes_across_images",
+    "question": "Read: Sami added air. Which comparison best supports the change shown?",
+    "audio_prompt": "Read: Sami added air. Which comparison best supports the change shown?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "The length of the empty space below",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
-        "is_correct": false
-      },
-      {
-        "text": "Use evidence from both modes.",
+        "text": "The balloon's size before and after",
         "is_correct": true
+      },
+      {
+        "text": "The letters in the two headings",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of the picture border",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Use evidence from both modes. Readers combine written and visual clues to infer added meaning.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Comparing the balloon itself before and after shows that it expanded.",
+      "hint": "Compare the same feature across the labelled pictures to see what has changed."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#q2",
+      "alt_text": "Before adding air: a small balloon with a string. After adding air: the balloon is much larger, with a string still attached."
     }
   },
   {
@@ -665,28 +863,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "How Images Extend Meaning",
-    "question": "A student chooses “It gives the spelling of every word.” for this task: What does “dark clouds above an empty road” add to the words “Ari hurried home.”? What should they check?",
-    "audio_prompt": "A student chooses “It gives the spelling of every word.” for this task: What does “dark clouds above an empty road” add to the words “Ari hurried home.”? What should they check?",
+    "stage": "apply",
+    "skill": "changes_across_images",
+    "question": "Read: The pile changed. What does the pair of pictures add?",
+    "audio_prompt": "Read: The pile changed. What does the pair of pictures add?",
     "answers": [
       {
-        "text": "Name the new meaning supplied by the image.",
+        "text": "The pile stayed the same height.",
+        "is_correct": false
+      },
+      {
+        "text": "Two books were removed from the pile.",
+        "is_correct": false
+      },
+      {
+        "text": "Two books were added to the pile.",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because it uses a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The books were moved onto a shelf.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Name the new meaning supplied by the image. A relevant visual detail can add setting, mood, action or character information.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The first picture shows three books and the second shows five, so two were added.",
+      "hint": "Compare the same feature across the labelled pictures to see what has changed."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#q3",
+      "alt_text": "Before: a pile of three books. After: a pile of five books."
     }
   },
   {
@@ -695,28 +902,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "How Images Extend Meaning",
-    "question": "A student chooses “Change the page number.” for this task: Which visual change would most alter the mood of “Ari hurried home.”? What should they check?",
-    "audio_prompt": "A student chooses “Change the page number.” for this task: Which visual change would most alter the mood of “Ari hurried home.”? What should they check?",
+    "stage": "reason",
+    "skill": "changes_across_images",
+    "question": "Read: The pile changed. Which detail lets the reader work out what happened?",
+    "audio_prompt": "Read: The pile changed. Which detail lets the reader work out what happened?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "The identical background colour",
         "is_correct": false
       },
       {
-        "text": "Look for a change readers would interpret emotionally.",
+        "text": "The number of books in each picture",
         "is_correct": true
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The width of the page border",
+        "is_correct": false
+      },
+      {
+        "text": "The style of the heading letters",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Look for a change readers would interpret emotionally. Visual choices such as light and expression influence mood.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Counting the books in each panel shows how the pile changed; the background and lettering do not.",
+      "hint": "Compare the same feature across the labelled pictures to see what has changed."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#q3",
+      "alt_text": "Before: a pile of three books. After: a pile of five books."
     }
   },
   {
@@ -725,28 +941,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "How Images Extend Meaning",
-    "question": "A student chooses “Repeat the same sentence twice more.” for this task: A caption simply repeats “Ari hurried home.” What would improve it? What should they check?",
-    "audio_prompt": "A student chooses “Repeat the same sentence twice more.” for this task: A caption simply repeats “Ari hurried home.” What would improve it? What should they check?",
+    "stage": "apply",
+    "skill": "diagrams_extend_instructions",
+    "question": "Read: Fold the paper in half. What does the diagram add?",
+    "audio_prompt": "Read: Fold the paper in half. What does the diagram add?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "How much the paper costs",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
-        "is_correct": false
-      },
-      {
-        "text": "Add information rather than copying the words.",
+        "text": "Which edges should meet",
         "is_correct": true
+      },
+      {
+        "text": "Which shop sells the paper",
+        "is_correct": false
+      },
+      {
+        "text": "What words to write on it",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Add information rather than copying the words. Useful captions can guide attention to meaningful visual evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The fold line, arrows and second panel show how the paper's edges meet.",
+      "hint": "Diagrams can show positions, sizes and movements that a short instruction leaves out."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#d1",
+      "alt_text": "Panel 1 shows a rectangular sheet, a dotted vertical line halfway across and an arrow towards that line. Panel 2 shows the sheet folded to half its width, an arrow towards its edges, and the words Edges meet."
     }
   },
   {
@@ -755,28 +980,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "How Images Extend Meaning",
-    "question": "A student chooses “The image guarantees every detail of an uneasy storm is approaching.” for this task: Which statement uses evidence responsibly for “Ari hurried home.” and “dark clouds above an empty road”? What should they check?",
-    "audio_prompt": "A student chooses “The image guarantees every detail of an uneasy storm is approaching.” for this task: Which statement uses evidence responsibly for “Ari hurried home.” and “dark clouds above an empty road”? What should they check?",
+    "stage": "reason",
+    "skill": "diagrams_extend_instructions",
+    "question": "Read: Fold the paper in half. Why is the second panel useful?",
+    "audio_prompt": "Read: Fold the paper in half. Why is the second panel useful?",
     "answers": [
       {
-        "text": "Prefer suggests when the evidence allows an inference.",
+        "text": "It shows a different activity.",
+        "is_correct": false
+      },
+      {
+        "text": "It lists every possible paper size.",
+        "is_correct": false
+      },
+      {
+        "text": "It tells how long the fold will take.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows the shape after the fold.",
         "is_correct": true
-      },
-      {
-        "text": "Keep the answer because it uses a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the example and choose the remaining option.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Prefer suggests when the evidence allows an inference. Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The second panel helps the reader check the expected folded shape.",
+      "hint": "Diagrams can show positions, sizes and movements that a short instruction leaves out."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#d1",
+      "alt_text": "Panel 1 shows a rectangular sheet, a dotted vertical line halfway across and an arrow towards that line. Panel 2 shows the sheet folded to half its width, an arrow towards its edges, and the words Edges meet."
     }
   },
   {
@@ -785,28 +1019,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "How Images Extend Meaning",
-    "question": "A student chooses “To make the written words impossible to understand.” for this task: Why might the creator pair “Ari hurried home.” with “dark clouds above an empty road”? What should they check?",
-    "audio_prompt": "A student chooses “To make the written words impossible to understand.” for this task: Why might the creator pair “Ari hurried home.” with “dark clouds above an empty road”? What should they check?",
+    "stage": "apply",
+    "skill": "diagrams_extend_instructions",
+    "question": "Read: Water the seedling. Where does the diagram show the water should go?",
+    "audio_prompt": "Read: Water the seedling. Where does the diagram show the water should go?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "Onto the pot's outer wall",
         "is_correct": false
       },
       {
-        "text": "Explain what the visual contributes.",
+        "text": "Onto the soil in the pot",
         "is_correct": true
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "Onto the floor beside the pot",
+        "is_correct": false
+      },
+      {
+        "text": "Onto the top leaf only",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Explain what the visual contributes. Words and images can work together to create richer meaning.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The arrow leads from the container towards the soil, adding a precise target to the instruction.",
+      "hint": "Diagrams can show positions, sizes and movements that a short instruction leaves out."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#d2",
+      "alt_text": "A water container tilts towards a seedling in a pot. An arrow leads from the spout down to the soil, beside the stem."
     }
   },
   {
@@ -815,28 +1058,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "How Images Extend Meaning",
-    "question": "A student chooses “Ignore the image completely.” for this task: Which reading strategy best suits a page containing “Ari hurried home.” and “dark clouds above an empty road”? What should they check?",
-    "audio_prompt": "A student chooses “Ignore the image completely.” for this task: Which reading strategy best suits a page containing “Ari hurried home.” and “dark clouds above an empty road”? What should they check?",
+    "stage": "reason",
+    "skill": "diagrams_extend_instructions",
+    "question": "Read: Water the seedling. What useful information does the arrow add?",
+    "audio_prompt": "Read: Water the seedling. What useful information does the arrow add?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "The age of the seedling",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
-        "is_correct": false
-      },
-      {
-        "text": "Use every relevant clue available.",
+        "text": "The direction to pour the water",
         "is_correct": true
+      },
+      {
+        "text": "The name of the plant",
+        "is_correct": false
+      },
+      {
+        "text": "The exact volume of water needed",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Use every relevant clue available. Multimodal reading combines evidence across modes.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The arrow shows direction. No volume, age or plant name is given.",
+      "hint": "Diagrams can show positions, sizes and movements that a short instruction leaves out."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#d2",
+      "alt_text": "A water container tilts towards a seedling in a pot. An arrow leads from the spout down to the soil, beside the stem."
     }
   },
   {
@@ -845,28 +1097,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "How Images Extend Meaning",
-    "question": "A student chooses “a plain page number” for this task: The words say, “The dog waited by the gate.” Which image detail would extend their meaning? What should they check?",
-    "audio_prompt": "A student chooses “a plain page number” for this task: The words say, “The dog waited by the gate.” Which image detail would extend their meaning? What should they check?",
+    "stage": "apply",
+    "skill": "diagrams_extend_instructions",
+    "question": "Read: Build the tower. What does the diagram add about the base?",
+    "audio_prompt": "Read: Build the tower. What does the diagram add about the base?",
     "answers": [
       {
-        "text": "Choose a detail that changes or deepens what readers understand.",
+        "text": "Make the top row the widest.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave a gap under the middle block.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the bottom row the widest.",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because it uses a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "Start with one block at the bottom.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Choose a detail that changes or deepens what readers understand. An image extends meaning when it adds relevant information beyond the words.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The pictured tower has a wide bottom row and narrower rows above; the label also identifies the wide base.",
+      "hint": "Diagrams can show positions, sizes and movements that a short instruction leaves out."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#d3",
+      "alt_text": "A block tower has five blocks in its bottom row, three in its middle row and one on top. An arrow points towards the bottom, labelled 1: wide base. The heading says Build from the bottom."
     }
   },
   {
@@ -875,28 +1136,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "How Images Extend Meaning",
-    "question": "A student chooses “The image has no relationship to the words.” for this task: Combine “The dog waited by the gate.” with the image detail “lowered ears and a wagging tail”. What can a reader infer? What should they check?",
-    "audio_prompt": "A student chooses “The image has no relationship to the words.” for this task: Combine “The dog waited by the gate.” with the image detail “lowered ears and a wagging tail”. What can a reader infer? What should they check?",
+    "stage": "reason",
+    "skill": "diagrams_extend_instructions",
+    "question": "Read: Build the tower. Which instruction would describe the picture more clearly?",
+    "audio_prompt": "Read: Build the tower. Which instruction would describe the picture more clearly?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "Place the widest row on top of a single block.",
         "is_correct": false
       },
       {
-        "text": "Use evidence from both modes.",
+        "text": "Use the same number of blocks in every row.",
+        "is_correct": false
+      },
+      {
+        "text": "Make every row lean towards the right.",
+        "is_correct": false
+      },
+      {
+        "text": "Start with a wide row, then use fewer blocks above.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the example and choose the remaining option.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Use evidence from both modes. Readers combine written and visual clues to infer added meaning.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The diagram shows a broad base and progressively narrower rows, so the revised instruction matches the visual information.",
+      "hint": "Diagrams can show positions, sizes and movements that a short instruction leaves out."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#d3",
+      "alt_text": "A block tower has five blocks in its bottom row, three in its middle row and one on top. An arrow points towards the bottom, labelled 1: wide base. The heading says Build from the bottom."
     }
   },
   {
@@ -906,27 +1176,36 @@
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?",
-    "audio_prompt": "Why might the creator pair “The dog waited by the gate.” with “lowered ears and a wagging tail”?",
+    "skill": "maps_add_spatial_information",
+    "question": "Read: Meet me near the library. What does the map add about the bus stop?",
+    "audio_prompt": "Read: Meet me near the library. What does the map add about the bus stop?",
     "answers": [
       {
-        "text": "To make the written words impossible to understand.",
+        "text": "It is inside the park on this map.",
         "is_correct": false
       },
       {
-        "text": "To ensure the image has no purpose.",
+        "text": "It is above the library on this map.",
         "is_correct": false
       },
       {
-        "text": "To let the image extend the event, setting or mood.",
+        "text": "It is beside the pool in the top row.",
+        "is_correct": false
+      },
+      {
+        "text": "It is below the library on this map.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Words and images can work together to create richer meaning.",
-      "hint": "Explain what the visual contributes."
+      "summary": "The labelled bus stop is in the lower-left section, directly below the library across the road.",
+      "hint": "Use labels and positions to explain where places are in relation to one another."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#m1",
+      "alt_text": "A map with crossing roads. Upper left: Library. Upper right: Park. Lower left: Bus stop. Lower right: Pool."
     }
   },
   {
@@ -935,28 +1214,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
-    "audio_prompt": "Which reading strategy best suits a page containing “The dog waited by the gate.” and “lowered ears and a wagging tail”?",
+    "stage": "reason",
+    "skill": "maps_add_spatial_information",
+    "question": "Read: Meet me near the library. Which question can the map help answer?",
+    "audio_prompt": "Read: Meet me near the library. Which question can the map help answer?",
     "answers": [
       {
-        "text": "Notice details in both the words and image, then connect them.",
+        "text": "How many books are in the library?",
+        "is_correct": false
+      },
+      {
+        "text": "Which place is across the road to the right of the library?",
         "is_correct": true
       },
       {
-        "text": "Ignore the image completely.",
+        "text": "Who works at the library today?",
         "is_correct": false
       },
       {
-        "text": "Guess without using either source.",
+        "text": "What time does the library close?",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Multimodal reading combines evidence across modes.",
-      "hint": "Use every relevant clue available."
+      "summary": "The map shows relative positions, including the park to the library's right. It gives no opening hours, stock count or staff information.",
+      "hint": "Use labels and positions to explain where places are in relation to one another."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#m1",
+      "alt_text": "A map with crossing roads. Upper left: Library. Upper right: Park. Lower left: Bus stop. Lower right: Pool."
     }
   },
   {
@@ -966,27 +1254,36 @@
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "The words say, “The hikers stopped.” Which image detail would extend their meaning?",
-    "audio_prompt": "The words say, “The hikers stopped.” Which image detail would extend their meaning?",
+    "skill": "maps_add_spatial_information",
+    "question": "Read: I put my bag by the desk. What does the room picture add?",
+    "audio_prompt": "Read: I put my bag by the desk. What does the room picture add?",
     "answers": [
       {
-        "text": "a plain page number",
+        "text": "The desk is outside the room.",
         "is_correct": false
       },
       {
-        "text": "a fallen tree blocking the narrow track",
+        "text": "The desk is in the upper-left part of the room.",
         "is_correct": true
       },
       {
-        "text": "an empty white margin",
+        "text": "The desk is underneath the bed.",
+        "is_correct": false
+      },
+      {
+        "text": "The desk is in the lower-right part of the room.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "An image extends meaning when it adds relevant information beyond the words.",
-      "hint": "Choose a detail that changes or deepens what readers understand."
+      "summary": "The diagram locates the desk, while the sentence only says the bag is near it.",
+      "hint": "Use labels and positions to explain where places are in relation to one another."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#m2",
+      "alt_text": "A room plan. A desk is in the upper-left corner. A window is centred on the top wall. A door is on the lower part of the left wall. A bed is in the lower-right corner."
     }
   },
   {
@@ -995,28 +1292,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?",
-    "audio_prompt": "Combine “The hikers stopped.” with the image detail “a fallen tree blocking the narrow track”. What can a reader infer?",
+    "stage": "reason",
+    "skill": "maps_add_spatial_information",
+    "question": "Read: I put my bag by the desk. Which statement uses information from the room plan?",
+    "audio_prompt": "Read: I put my bag by the desk. Which statement uses information from the room plan?",
     "answers": [
       {
-        "text": "The image has no relationship to the words.",
-        "is_correct": false
-      },
-      {
-        "text": "The page number explains the whole event.",
-        "is_correct": false
-      },
-      {
-        "text": "the journey has met an obstacle",
+        "text": "The door and desk are on the left side of the room.",
         "is_correct": true
+      },
+      {
+        "text": "The bag contains three exercise books.",
+        "is_correct": false
+      },
+      {
+        "text": "The desk was bought last year.",
+        "is_correct": false
+      },
+      {
+        "text": "The room belongs to a child named Eli.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Readers combine written and visual clues to infer added meaning.",
-      "hint": "Use evidence from both modes."
+      "summary": "The plan shows the door and desk on the left. The other details are not provided.",
+      "hint": "Use labels and positions to explain where places are in relation to one another."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#m2",
+      "alt_text": "A room plan. A desk is in the upper-left corner. A window is centred on the top wall. A door is on the lower part of the left wall. A bed is in the lower-right corner."
     }
   },
   {
@@ -1026,27 +1332,36 @@
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?",
-    "audio_prompt": "What does “a fallen tree blocking the narrow track” add to the words “The hikers stopped.”?",
+    "skill": "maps_add_spatial_information",
+    "question": "Read: Look for the marked treasure. Which place is the X closest to?",
+    "audio_prompt": "Read: Look for the marked treasure. Which place is the X closest to?",
     "answers": [
       {
-        "text": "It suggests that the journey has met an obstacle.",
+        "text": "The old tree",
+        "is_correct": false
+      },
+      {
+        "text": "The pond",
         "is_correct": true
       },
       {
-        "text": "It gives the spelling of every word.",
+        "text": "The big rock",
         "is_correct": false
       },
       {
-        "text": "It proves a fact that has no support in the text.",
+        "text": "The cave",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A relevant visual detail can add setting, mood, action or character information.",
-      "hint": "Name the new meaning supplied by the image."
+      "summary": "The X is immediately beside the pond in the upper-left part of the map.",
+      "hint": "Use labels and positions to explain where places are in relation to one another."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#m3",
+      "alt_text": "A map labelled X marks the treasure. Upper left: Pond, with an X immediately to its right. Upper right: Big rock. Lower left: Old tree. Lower right: Cave. Roads cross between the four areas."
     }
   },
   {
@@ -1055,28 +1370,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "Which visual change would most alter the mood of “The hikers stopped.”?",
-    "audio_prompt": "Which visual change would most alter the mood of “The hikers stopped.”?",
+    "stage": "reason",
+    "skill": "maps_add_spatial_information",
+    "question": "Read: Look for the marked treasure. What does the map supply that the words leave out?",
+    "audio_prompt": "Read: Look for the marked treasure. What does the map supply that the words leave out?",
     "answers": [
       {
-        "text": "Change the page number.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace the scene with bright light and relaxed expressions.",
+        "text": "The treasure's position near a named landmark",
         "is_correct": true
       },
       {
-        "text": "Make the margin slightly wider.",
+        "text": "The value of the treasure",
+        "is_correct": false
+      },
+      {
+        "text": "The date the treasure was hidden",
+        "is_correct": false
+      },
+      {
+        "text": "The owner of the treasure",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Visual choices such as light and expression influence mood.",
-      "hint": "Look for a change readers would interpret emotionally."
+      "summary": "The X and labelled pond show a location. The other information is absent.",
+      "hint": "Use labels and positions to explain where places are in relation to one another."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#m3",
+      "alt_text": "A map labelled X marks the treasure. Upper left: Pond, with an X immediately to its right. Upper right: Big rock. Lower left: Old tree. Lower right: Cave. Roads cross between the four areas."
     }
   },
   {
@@ -1086,27 +1410,36 @@
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "A caption simply repeats “The hikers stopped.” What would improve it?",
-    "audio_prompt": "A caption simply repeats “The hikers stopped.” What would improve it?",
+    "skill": "contrast_between_words_and_images",
+    "question": "Read the character's words: 'Ready to leave!' What does the picture suggest?",
+    "audio_prompt": "Read the character's words: 'Ready to leave!' What does the picture suggest?",
     "answers": [
       {
-        "text": "Repeat the same sentence twice more.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe an unrelated object outside the scene.",
-        "is_correct": false
-      },
-      {
-        "text": "Explain how a fallen tree blocking the narrow track adds information.",
+        "text": "There are still things to fix before leaving.",
         "is_correct": true
+      },
+      {
+        "text": "The shoes have been put away.",
+        "is_correct": false
+      },
+      {
+        "text": "The bag is empty and tightly closed.",
+        "is_correct": false
+      },
+      {
+        "text": "The character has already reached school.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Useful captions can guide attention to meaningful visual evidence.",
-      "hint": "Add information rather than copying the words."
+      "summary": "An untied lace and open bag with books sticking out suggest the character is not fully ready.",
+      "hint": "Check whether the visible details agree with the words or suggest a different meaning."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#x1",
+      "alt_text": "The words Ready to leave! above a person. One shoe has a loose trailing lace. Beside the person, a bag is open with books sticking out."
     }
   },
   {
@@ -1115,28 +1448,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "Which statement uses evidence responsibly for “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
-    "audio_prompt": "Which statement uses evidence responsibly for “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
+    "stage": "reason",
+    "skill": "contrast_between_words_and_images",
+    "question": "Read the character's words: 'Ready to leave!' How does the picture add humour?",
+    "audio_prompt": "Read the character's words: 'Ready to leave!' How does the picture add humour?",
     "answers": [
       {
-        "text": "The visual clue suggests that the journey has met an obstacle.",
+        "text": "It tells a joke in a speech bubble.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the journey will take a long time.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows the character's favourite lesson.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows problems the confident words overlook.",
         "is_correct": true
-      },
-      {
-        "text": "The image guarantees every detail of the journey has met an obstacle.",
-        "is_correct": false
-      },
-      {
-        "text": "The words and image cannot be read together.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
-      "hint": "Prefer suggests when the evidence allows an inference."
+      "summary": "The contrast between the confident claim and unfinished preparations creates the humour.",
+      "hint": "Check whether the visible details agree with the words or suggest a different meaning."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#x1",
+      "alt_text": "The words Ready to leave! above a person. One shoe has a loose trailing lace. Beside the person, a bag is open with books sticking out."
     }
   },
   {
@@ -1146,27 +1488,36 @@
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "Why might the creator pair “The hikers stopped.” with “a fallen tree blocking the narrow track”?",
-    "audio_prompt": "Why might the creator pair “The hikers stopped.” with “a fallen tree blocking the narrow track”?",
+    "skill": "contrast_between_words_and_images",
+    "question": "Read: 'There is nothing in this box.' What does the picture make the reader suspect?",
+    "audio_prompt": "Read: 'There is nothing in this box.' What does the picture make the reader suspect?",
     "answers": [
       {
-        "text": "To make the written words impossible to understand.",
-        "is_correct": false
-      },
-      {
-        "text": "To let the image extend the event, setting or mood.",
+        "text": "An animal may be hidden inside.",
         "is_correct": true
       },
       {
-        "text": "To ensure the image has no purpose.",
+        "text": "The speaker has removed every object.",
+        "is_correct": false
+      },
+      {
+        "text": "The box is completely flat.",
+        "is_correct": false
+      },
+      {
+        "text": "The box is filled with books.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Words and images can work together to create richer meaning.",
-      "hint": "Explain what the visual contributes."
+      "summary": "The tail emerging from the box suggests an animal inside, despite the statement.",
+      "hint": "Check whether the visible details agree with the words or suggest a different meaning."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#x2",
+      "alt_text": "The words There is nothing in this box. A curved furry tail sticks out from the side of an open cardboard box."
     }
   },
   {
@@ -1175,28 +1526,349 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "Which reading strategy best suits a page containing “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
-    "audio_prompt": "Which reading strategy best suits a page containing “The hikers stopped.” and “a fallen tree blocking the narrow track”?",
+    "stage": "reason",
+    "skill": "contrast_between_words_and_images",
+    "question": "Read: 'There is nothing in this box.' Which visual detail challenges those words?",
+    "audio_prompt": "Read: 'There is nothing in this box.' Which visual detail challenges those words?",
     "answers": [
       {
-        "text": "Ignore the image completely.",
-        "is_correct": false
-      },
-      {
-        "text": "Guess without using either source.",
-        "is_correct": false
-      },
-      {
-        "text": "Notice details in both the words and image, then connect them.",
+        "text": "The tail sticking out",
         "is_correct": true
+      },
+      {
+        "text": "The colour of the cardboard",
+        "is_correct": false
+      },
+      {
+        "text": "The pale background",
+        "is_correct": false
+      },
+      {
+        "text": "The straight sides of the box",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tail is evidence of something in the box. The other details do not contradict the words.",
+      "hint": "Check whether the visible details agree with the words or suggest a different meaning."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#x2",
+      "alt_text": "The words There is nothing in this box. A curved furry tail sticks out from the side of an open cardboard box."
+    }
+  },
+  {
+    "id": "AC9E3LA09-P-041",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "contrast_between_words_and_images",
+    "question": "Read the character's claim: 'My room is perfectly tidy!' How does the picture affect its meaning?",
+    "audio_prompt": "Read the character's claim: 'My room is perfectly tidy!' How does the picture affect its meaning?",
+    "answers": [
+      {
+        "text": "It confirms the floor is completely clear.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves everything has been put away.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows the room has no furniture.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the claim seem untrue.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Books, clothing and toys are scattered, contradicting the claim of perfect tidiness.",
+      "hint": "Check whether the visible details agree with the words or suggest a different meaning."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#x3",
+      "alt_text": "The words My room is perfectly tidy! A bed is at the left. Books, a shirt and toy blocks are scattered across the room."
+    }
+  },
+  {
+    "id": "AC9E3LA09-P-042",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "contrast_between_words_and_images",
+    "question": "Read: 'My room is perfectly tidy!' What would be lost without the illustration?",
+    "audio_prompt": "Read: 'My room is perfectly tidy!' What would be lost without the illustration?",
+    "answers": [
+      {
+        "text": "The speaker's use of the word tidy",
+        "is_correct": false
+      },
+      {
+        "text": "The exact words of the claim",
+        "is_correct": false
+      },
+      {
+        "text": "The contrast between the claim and the mess",
+        "is_correct": true
+      },
+      {
+        "text": "The fact that the speaker has a room",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Multimodal reading combines evidence across modes.",
-      "hint": "Use every relevant clue available."
+      "summary": "The words alone make the claim. The picture supplies the contradictory evidence that changes how readers understand it.",
+      "hint": "Check whether the visible details agree with the words or suggest a different meaning."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#x3",
+      "alt_text": "The words My room is perfectly tidy! A bed is at the left. Books, a shirt and toy blocks are scattered across the room."
+    }
+  },
+  {
+    "id": "AC9E3LA09-P-043",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comparing_illustrators_choices",
+    "question": "Read: We reached the house. Which picture suggests a more welcoming place?",
+    "audio_prompt": "Read: We reached the house. Which picture suggests a more welcoming place?",
+    "answers": [
+      {
+        "text": "Picture B",
+        "is_correct": false
+      },
+      {
+        "text": "Neither, because a house cannot suggest a mood",
+        "is_correct": false
+      },
+      {
+        "text": "Both equally, because both have roofs",
+        "is_correct": false
+      },
+      {
+        "text": "Picture A",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Picture A has lit windows, an open-looking bright entrance and flowers. These choices suggest a welcome compared with the dark, damaged details in B.",
+      "hint": "Compare the details an illustrator includes, then explain the impression those details support."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#a1",
+      "alt_text": "Two house illustrations. A: bright windows and entrance, with flowers beside the house. B: dark windows and entrance, with a jagged line in one window."
+    }
+  },
+  {
+    "id": "AC9E3LA09-P-044",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "comparing_illustrators_choices",
+    "question": "Read: We reached the house. Which difference best explains the contrasting impressions?",
+    "audio_prompt": "Read: We reached the house. Which difference best explains the contrasting impressions?",
+    "answers": [
+      {
+        "text": "Both houses occupy the centre of a panel",
+        "is_correct": false
+      },
+      {
+        "text": "Both pictures show a roof above walls",
+        "is_correct": false
+      },
+      {
+        "text": "Bright lights and flowers versus dark, damaged windows",
+        "is_correct": true
+      },
+      {
+        "text": "The labels use different letters",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The contrasting details affect the mood. Shared shapes and panel labels do not explain the different impressions.",
+      "hint": "Compare the details an illustrator includes, then explain the impression those details support."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#a1",
+      "alt_text": "Two house illustrations. A: bright windows and entrance, with flowers beside the house. B: dark windows and entrance, with a jagged line in one window."
+    }
+  },
+  {
+    "id": "AC9E3LA09-P-045",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comparing_illustrators_choices",
+    "question": "Read: The sea stretched ahead. Which illustration suggests rougher water?",
+    "audio_prompt": "Read: The sea stretched ahead. Which illustration suggests rougher water?",
+    "answers": [
+      {
+        "text": "Picture A",
+        "is_correct": false
+      },
+      {
+        "text": "Neither, because the text does not name waves",
+        "is_correct": false
+      },
+      {
+        "text": "Picture B",
+        "is_correct": true
+      },
+      {
+        "text": "Both, because both show water",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Picture B shows high curved waves and a cloud, while A shows flatter water lines.",
+      "hint": "Compare the details an illustrator includes, then explain the impression those details support."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#a2",
+      "alt_text": "Two sea illustrations. A: a sun over water with flat horizontal lines. B: a cloud over water with tall curved waves."
+    }
+  },
+  {
+    "id": "AC9E3LA09-P-046",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "comparing_illustrators_choices",
+    "question": "Read: The sea stretched ahead. What do the pictures demonstrate?",
+    "audio_prompt": "Read: The sea stretched ahead. What do the pictures demonstrate?",
+    "answers": [
+      {
+        "text": "A picture can only repeat details named in the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The words tell us the exact height of the waves.",
+        "is_correct": false
+      },
+      {
+        "text": "Every sea illustration must show a storm.",
+        "is_correct": false
+      },
+      {
+        "text": "The same words can be illustrated to suggest different conditions.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The brief text leaves conditions open. The illustrations add calm or rough water through different details.",
+      "hint": "Compare the details an illustrator includes, then explain the impression those details support."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#a2",
+      "alt_text": "Two sea illustrations. A: a sun over water with flat horizontal lines. B: a cloud over water with tall curved waves."
+    }
+  },
+  {
+    "id": "AC9E3LA09-P-047",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comparing_illustrators_choices",
+    "question": "Read: The dog waited. Which picture suggests the dog is ready to play?",
+    "audio_prompt": "Read: The dog waited. Which picture suggests the dog is ready to play?",
+    "answers": [
+      {
+        "text": "Neither, because the word play is missing",
+        "is_correct": false
+      },
+      {
+        "text": "Picture A",
+        "is_correct": true
+      },
+      {
+        "text": "Both, because both show a dog",
+        "is_correct": false
+      },
+      {
+        "text": "Picture B",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A shows a wagging tail and a ball nearby. B shows a resting dog with sleep symbols.",
+      "hint": "Compare the details an illustrator includes, then explain the impression those details support."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#a3",
+      "alt_text": "Two dog illustrations. A: a standing dog with a raised curved tail, a ball nearby and the label Tail wagging. B: a lying dog with a closed eye and Z z z above it."
+    }
+  },
+  {
+    "id": "AC9E3LA09-P-048",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA09",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "comparing_illustrators_choices",
+    "question": "Read: The dog waited. Which added details best support the playful interpretation?",
+    "audio_prompt": "Read: The dog waited. Which added details best support the playful interpretation?",
+    "answers": [
+      {
+        "text": "The ball and wagging tail in A",
+        "is_correct": true
+      },
+      {
+        "text": "The resting pose and sleep symbols in B",
+        "is_correct": false
+      },
+      {
+        "text": "The similar fur colour in both",
+        "is_correct": false
+      },
+      {
+        "text": "The matching panel borders",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ball and wagging tail support readiness to play. The details in B support sleep instead.",
+      "hint": "Compare the details an illustrator includes, then explain the impression those details support."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#a3",
+      "alt_text": "Two dog illustrations. A: a standing dog with a raised curved tail, a ball nearby and the label Tail wagging. B: a lying dog with a closed eye and Z z z above it."
     }
   },
   {
@@ -1205,28 +1877,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "How Images Extend Meaning",
-    "question": "The words say, “Lena opened the old box.” Which image detail would extend their meaning?",
-    "audio_prompt": "The words say, “Lena opened the old box.” Which image detail would extend their meaning?",
+    "stage": "recognise",
+    "skill": "image_adds_setting_details",
+    "question": "Read: Mia chose a treat. What place does the illustration add?",
+    "audio_prompt": "Read: Mia chose a treat. What place does the illustration add?",
     "answers": [
       {
-        "text": "a faded photograph tucked beneath a medal",
+        "text": "A garden centre",
+        "is_correct": false
+      },
+      {
+        "text": "A railway platform",
+        "is_correct": false
+      },
+      {
+        "text": "A library",
+        "is_correct": false
+      },
+      {
+        "text": "A bakery",
         "is_correct": true
-      },
-      {
-        "text": "a plain page number",
-        "is_correct": false
-      },
-      {
-        "text": "an empty white margin",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "An image extends meaning when it adds relevant information beyond the words.",
-      "hint": "Choose a detail that changes or deepens what readers understand."
+      "summary": "The bakery sign and bread display identify where Mia chooses the treat.",
+      "hint": "Use visible objects and signs to identify information the words do not give."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#s4",
+      "alt_text": "A BAKERY sign above a glass display containing loaves and rolls. A person stands beside it."
     }
   },
   {
@@ -1235,28 +1916,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "How Images Extend Meaning",
-    "question": "Combine “Lena opened the old box.” with the image detail “a faded photograph tucked beneath a medal”. What can a reader infer?",
-    "audio_prompt": "Combine “Lena opened the old box.” with the image detail “a faded photograph tucked beneath a medal”. What can a reader infer?",
+    "stage": "reason",
+    "skill": "image_adds_setting_details",
+    "question": "Read: Mia chose a treat. Which detail is supplied only by the picture?",
+    "audio_prompt": "Read: Mia chose a treat. Which detail is supplied only by the picture?",
     "answers": [
       {
-        "text": "The image has no relationship to the words.",
+        "text": "Someone named Mia is there.",
         "is_correct": false
       },
       {
-        "text": "the objects may hold a family memory",
+        "text": "The choice is a treat.",
+        "is_correct": false
+      },
+      {
+        "text": "Bread and rolls are on display.",
         "is_correct": true
       },
       {
-        "text": "The page number explains the whole event.",
+        "text": "Mia is choosing something.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Readers combine written and visual clues to infer added meaning.",
-      "hint": "Use evidence from both modes."
+      "summary": "The text does not name the food on display. The illustration supplies that information.",
+      "hint": "Use visible objects and signs to identify information the words do not give."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#s4",
+      "alt_text": "A BAKERY sign above a glass display containing loaves and rolls. A person stands beside it."
     }
   },
   {
@@ -1265,28 +1955,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "How Images Extend Meaning",
-    "question": "What does “a faded photograph tucked beneath a medal” add to the words “Lena opened the old box.”?",
-    "audio_prompt": "What does “a faded photograph tucked beneath a medal” add to the words “Lena opened the old box.”?",
+    "stage": "apply",
+    "skill": "visual_causes_and_consequences",
+    "question": "Read: Ava pulled, but it would not come down. What does the picture help explain?",
+    "audio_prompt": "Read: Ava pulled, but it would not come down. What does the picture help explain?",
     "answers": [
       {
-        "text": "It gives the spelling of every word.",
+        "text": "Her balloon is tied to a chair.",
         "is_correct": false
       },
       {
-        "text": "It proves a fact that has no support in the text.",
-        "is_correct": false
-      },
-      {
-        "text": "It suggests that the objects may hold a family memory.",
+        "text": "Her kite is caught in a tree.",
         "is_correct": true
+      },
+      {
+        "text": "Her boat is stuck under a bridge.",
+        "is_correct": false
+      },
+      {
+        "text": "Her curtain is caught on a hook.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A relevant visual detail can add setting, mood, action or character information.",
-      "hint": "Name the new meaning supplied by the image."
+      "summary": "The string leads towards a kite among the tree branches, explaining the problem.",
+      "hint": "Look for visible clues that support a likely cause, without inventing details about who did it."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#c4",
+      "alt_text": "A kite is caught among tree branches. Its string leads down to a person standing beside the tree."
     }
   },
   {
@@ -1295,28 +1994,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "How Images Extend Meaning",
-    "question": "Which visual change would most alter the mood of “Lena opened the old box.”?",
-    "audio_prompt": "Which visual change would most alter the mood of “Lena opened the old box.”?",
+    "stage": "reason",
+    "skill": "visual_causes_and_consequences",
+    "question": "Read: Ava pulled, but it would not come down. Which detail connects Ava's action with the kite?",
+    "audio_prompt": "Read: Ava pulled, but it would not come down. Which detail connects Ava's action with the kite?",
     "answers": [
       {
-        "text": "Replace the scene with bright light and relaxed expressions.",
+        "text": "The round shape of the leaves",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of the trunk",
+        "is_correct": false
+      },
+      {
+        "text": "The empty ground beside Ava",
+        "is_correct": false
+      },
+      {
+        "text": "The string between Ava and the tree",
         "is_correct": true
-      },
-      {
-        "text": "Change the page number.",
-        "is_correct": false
-      },
-      {
-        "text": "Make the margin slightly wider.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Visual choices such as light and expression influence mood.",
-      "hint": "Look for a change readers would interpret emotionally."
+      "summary": "The visible string links the person pulling with the kite in the tree.",
+      "hint": "Look for visible clues that support a likely cause, without inventing details about who did it."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#c4",
+      "alt_text": "A kite is caught among tree branches. Its string leads down to a person standing beside the tree."
     }
   },
   {
@@ -1325,28 +2033,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "How Images Extend Meaning",
-    "question": "A caption simply repeats “Lena opened the old box.” What would improve it?",
-    "audio_prompt": "A caption simply repeats “Lena opened the old box.” What would improve it?",
+    "stage": "apply",
+    "skill": "expressions_and_posture",
+    "question": "Read: Pat paused beside the bed. What does the picture suggest Pat needs?",
+    "audio_prompt": "Read: Pat paused beside the bed. What does the picture suggest Pat needs?",
     "answers": [
       {
-        "text": "Repeat the same sentence twice more.",
-        "is_correct": false
-      },
-      {
-        "text": "Explain how a faded photograph tucked beneath a medal adds information.",
+        "text": "Some sleep",
         "is_correct": true
       },
       {
-        "text": "Describe an unrelated object outside the scene.",
+        "text": "A bigger lunch",
+        "is_correct": false
+      },
+      {
+        "text": "Help finding a ball",
+        "is_correct": false
+      },
+      {
+        "text": "A turn on the swing",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Useful captions can guide attention to meaningful visual evidence.",
-      "hint": "Add information rather than copying the words."
+      "summary": "The yawning face, bed and late-night setting suggest tiredness.",
+      "hint": "Use expressions, body position and the situation together to support a possible feeling."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#f4",
+      "alt_text": "A person has a round open yawning mouth beside a bed and pillow. A crescent moon and the words Late at night appear above."
     }
   },
   {
@@ -1355,28 +2072,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "How Images Extend Meaning",
-    "question": "Which statement uses evidence responsibly for “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
-    "audio_prompt": "Which statement uses evidence responsibly for “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
+    "stage": "reason",
+    "skill": "expressions_and_posture",
+    "question": "Read: Pat paused beside the bed. Which detail adds the strongest clue about tiredness?",
+    "audio_prompt": "Read: Pat paused beside the bed. Which detail adds the strongest clue about tiredness?",
     "answers": [
       {
-        "text": "The image guarantees every detail of the objects may hold a family memory.",
-        "is_correct": false
-      },
-      {
-        "text": "The words and image cannot be read together.",
-        "is_correct": false
-      },
-      {
-        "text": "The visual clue suggests that the objects may hold a family memory.",
+        "text": "Pat's yawning mouth",
         "is_correct": true
+      },
+      {
+        "text": "The straight edge of the bed",
+        "is_correct": false
+      },
+      {
+        "text": "The width of the pillow",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of the shirt",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
-      "hint": "Prefer suggests when the evidence allows an inference."
+      "summary": "A yawn is a direct visible clue supporting tiredness. The other details do not by themselves indicate a feeling.",
+      "hint": "Use expressions, body position and the situation together to support a possible feeling."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#f4",
+      "alt_text": "A person has a round open yawning mouth beside a bed and pillow. A crescent moon and the words Late at night appear above."
     }
   },
   {
@@ -1385,28 +2111,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "How Images Extend Meaning",
-    "question": "Why might the creator pair “Lena opened the old box.” with “a faded photograph tucked beneath a medal”?",
-    "audio_prompt": "Why might the creator pair “Lena opened the old box.” with “a faded photograph tucked beneath a medal”?",
+    "stage": "apply",
+    "skill": "changes_across_images",
+    "question": "Read: We left the cloth outside. What does the sequence suggest happened later?",
+    "audio_prompt": "Read: We left the cloth outside. What does the sequence suggest happened later?",
     "answers": [
       {
-        "text": "To let the image extend the event, setting or mood.",
+        "text": "The cloth became a different shape.",
+        "is_correct": false
+      },
+      {
+        "text": "The cloth stopped dripping as it dried.",
         "is_correct": true
       },
       {
-        "text": "To make the written words impossible to understand.",
+        "text": "The cloth fell onto the ground.",
         "is_correct": false
       },
       {
-        "text": "To ensure the image has no purpose.",
+        "text": "The cloth was folded into a bag.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Words and images can work together to create richer meaning.",
-      "hint": "Explain what the visual contributes."
+      "summary": "The cloth is still hanging later, but the visible drips are gone. The sunny setting supports drying.",
+      "hint": "Compare the same feature across the labelled pictures to see what has changed."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#q4",
+      "alt_text": "Early morning: a cloth hangs on a line with three drops beneath it. Later that day: the cloth still hangs on the line, with no drops beneath it and a sun above."
     }
   },
   {
@@ -1415,28 +2150,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "How Images Extend Meaning",
-    "question": "Which reading strategy best suits a page containing “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
-    "audio_prompt": "Which reading strategy best suits a page containing “Lena opened the old box.” and “a faded photograph tucked beneath a medal”?",
+    "stage": "reason",
+    "skill": "changes_across_images",
+    "question": "Read: We left the cloth outside. Which detail best supports the idea that it became drier?",
+    "audio_prompt": "Read: We left the cloth outside. Which detail best supports the idea that it became drier?",
     "answers": [
       {
-        "text": "Ignore the image completely.",
+        "text": "The cloth stays in the middle of each panel.",
         "is_correct": false
       },
       {
-        "text": "Notice details in both the words and image, then connect them.",
+        "text": "Drips appear first but not later.",
         "is_correct": true
       },
       {
-        "text": "Guess without using either source.",
+        "text": "Both headings use the same letters.",
+        "is_correct": false
+      },
+      {
+        "text": "Both pictures have a horizontal line.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Multimodal reading combines evidence across modes.",
-      "hint": "Use every relevant clue available."
+      "summary": "The disappearing drips support the inference. The unchanged layout does not show drying.",
+      "hint": "Compare the same feature across the labelled pictures to see what has changed."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#q4",
+      "alt_text": "Early morning: a cloth hangs on a line with three drops beneath it. Later that day: the cloth still hangs on the line, with no drops beneath it and a sun above."
     }
   },
   {
@@ -1446,27 +2190,36 @@
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
     "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "The words say, “The crowd became quiet.” Which image detail would extend their meaning?",
-    "audio_prompt": "The words say, “The crowd became quiet.” Which image detail would extend their meaning?",
+    "skill": "diagrams_extend_instructions",
+    "question": "Read: Plant the seed in the hole. What extra detail does the diagram give?",
+    "audio_prompt": "Read: Plant the seed in the hole. What extra detail does the diagram give?",
     "answers": [
       {
-        "text": "a plain page number",
-        "is_correct": false
-      },
-      {
-        "text": "an empty white margin",
-        "is_correct": false
-      },
-      {
-        "text": "a tiny turtle moving towards the sea",
+        "text": "The seed is about 2 cm below the soil surface.",
         "is_correct": true
+      },
+      {
+        "text": "The seed must be 2 metres from the pot.",
+        "is_correct": false
+      },
+      {
+        "text": "The seed must stay above the soil surface.",
+        "is_correct": false
+      },
+      {
+        "text": "The seed needs two leaves before planting.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "An image extends meaning when it adds relevant information beyond the words.",
-      "hint": "Choose a detail that changes or deepens what readers understand."
+      "summary": "The labelled vertical measurement shows depth below the soil surface.",
+      "hint": "Diagrams can show positions, sizes and movements that a short instruction leaves out."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#d4",
+      "alt_text": "A seed is at the bottom of a hole beneath the labelled soil surface. A vertical marker from the surface to the seed level is labelled 2 cm."
     }
   },
   {
@@ -1475,28 +2228,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "Combine “The crowd became quiet.” with the image detail “a tiny turtle moving towards the sea”. What can a reader infer?",
-    "audio_prompt": "Combine “The crowd became quiet.” with the image detail “a tiny turtle moving towards the sea”. What can a reader infer?",
+    "stage": "reason",
+    "skill": "diagrams_extend_instructions",
+    "question": "Read: Plant the seed in the hole. What does the 2 cm marker measure?",
+    "audio_prompt": "Read: Plant the seed in the hole. What does the 2 cm marker measure?",
     "answers": [
       {
-        "text": "the crowd is watching a fragile animal",
+        "text": "The distance between two pots",
+        "is_correct": false
+      },
+      {
+        "text": "The height of a grown plant",
+        "is_correct": false
+      },
+      {
+        "text": "The width of the whole garden",
+        "is_correct": false
+      },
+      {
+        "text": "The depth from the surface to the seed",
         "is_correct": true
-      },
-      {
-        "text": "The image has no relationship to the words.",
-        "is_correct": false
-      },
-      {
-        "text": "The page number explains the whole event.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Readers combine written and visual clues to infer added meaning.",
-      "hint": "Use evidence from both modes."
+      "summary": "The marker runs from the soil surface down to the seed's level, so it measures planting depth.",
+      "hint": "Diagrams can show positions, sizes and movements that a short instruction leaves out."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#d4",
+      "alt_text": "A seed is at the bottom of a hole beneath the labelled soil surface. A vertical marker from the surface to the seed level is labelled 2 cm."
     }
   },
   {
@@ -1506,27 +2268,36 @@
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
     "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "What does “a tiny turtle moving towards the sea” add to the words “The crowd became quiet.”?",
-    "audio_prompt": "What does “a tiny turtle moving towards the sea” add to the words “The crowd became quiet.”?",
+    "skill": "maps_add_spatial_information",
+    "question": "Read: Walk from the hall to the garden. What does the map show?",
+    "audio_prompt": "Read: Walk from the hall to the garden. What does the map show?",
     "answers": [
       {
-        "text": "It gives the spelling of every word.",
+        "text": "The garden is to the left of the hall.",
         "is_correct": false
       },
       {
-        "text": "It suggests that the crowd is watching a fragile animal.",
+        "text": "The garden is inside the oval.",
+        "is_correct": false
+      },
+      {
+        "text": "The garden is to the right of the hall.",
         "is_correct": true
       },
       {
-        "text": "It proves a fact that has no support in the text.",
+        "text": "The garden is below the office.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A relevant visual detail can add setting, mood, action or character information.",
-      "hint": "Name the new meaning supplied by the image."
+      "summary": "The hall and garden are in the top row, with the garden on the right across the road.",
+      "hint": "Use labels and positions to explain where places are in relation to one another."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#m4",
+      "alt_text": "A map with crossing roads. Upper left: Hall. Upper right: Garden. Lower left: Office. Lower right: Oval."
     }
   },
   {
@@ -1535,28 +2306,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "Which visual change would most alter the mood of “The crowd became quiet.”?",
-    "audio_prompt": "Which visual change would most alter the mood of “The crowd became quiet.”?",
+    "stage": "reason",
+    "skill": "maps_add_spatial_information",
+    "question": "Read: Walk from the hall to the garden. Which detail comes from the map?",
+    "audio_prompt": "Read: Walk from the hall to the garden. Which detail comes from the map?",
     "answers": [
       {
-        "text": "Change the page number.",
+        "text": "The garden has six rose bushes.",
         "is_correct": false
       },
       {
-        "text": "Make the margin slightly wider.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace the scene with bright light and relaxed expressions.",
+        "text": "A road separates the hall and garden.",
         "is_correct": true
+      },
+      {
+        "text": "The walk takes exactly five minutes.",
+        "is_correct": false
+      },
+      {
+        "text": "A teacher will meet you there.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Visual choices such as light and expression influence mood.",
-      "hint": "Look for a change readers would interpret emotionally."
+      "summary": "The map shows the road between the places. It provides no exact time, meeting person or plant count.",
+      "hint": "Use labels and positions to explain where places are in relation to one another."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#m4",
+      "alt_text": "A map with crossing roads. Upper left: Hall. Upper right: Garden. Lower left: Office. Lower right: Oval."
     }
   },
   {
@@ -1566,27 +2346,36 @@
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
     "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "A caption simply repeats “The crowd became quiet.” What would improve it?",
-    "audio_prompt": "A caption simply repeats “The crowd became quiet.” What would improve it?",
+    "skill": "contrast_between_words_and_images",
+    "question": "Read: 'Nothing noisy here!' What do the picture and sound words suggest?",
+    "audio_prompt": "Read: 'Nothing noisy here!' What do the picture and sound words suggest?",
     "answers": [
       {
-        "text": "Explain how a tiny turtle moving towards the sea adds information.",
+        "text": "No sound is being made.",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone is silently reading.",
+        "is_correct": false
+      },
+      {
+        "text": "The scene is actually noisy.",
         "is_correct": true
       },
       {
-        "text": "Repeat the same sentence twice more.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe an unrelated object outside the scene.",
+        "text": "The instruments are packed away.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Useful captions can guide attention to meaningful visual evidence.",
-      "hint": "Add information rather than copying the words."
+      "summary": "The drum, trumpet, BANG and TOOT contradict the claim of quiet.",
+      "hint": "Check whether the visible details agree with the words or suggest a different meaning."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#x4",
+      "alt_text": "The words Nothing noisy here! A person is beside a drum with sticks and a trumpet. BANG appears by the drum and TOOT by the trumpet."
     }
   },
   {
@@ -1595,28 +2384,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "Which statement uses evidence responsibly for “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
-    "audio_prompt": "Which statement uses evidence responsibly for “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
+    "stage": "reason",
+    "skill": "contrast_between_words_and_images",
+    "question": "Read: 'Nothing noisy here!' How do words and picture work together?",
+    "audio_prompt": "Read: 'Nothing noisy here!' How do words and picture work together?",
     "answers": [
       {
-        "text": "The image guarantees every detail of the crowd is watching a fragile animal.",
+        "text": "The picture gives the exact time.",
         "is_correct": false
       },
       {
-        "text": "The visual clue suggests that the crowd is watching a fragile animal.",
+        "text": "They both describe complete silence.",
+        "is_correct": false
+      },
+      {
+        "text": "The picture explains how to repair a drum.",
+        "is_correct": false
+      },
+      {
+        "text": "Their contrast creates a playful joke.",
         "is_correct": true
-      },
-      {
-        "text": "The words and image cannot be read together.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Visual inference should be expressed as supported interpretation, not certainty beyond evidence.",
-      "hint": "Prefer suggests when the evidence allows an inference."
+      "summary": "The claim of quiet clashes with the shown instruments and sound words, creating humour.",
+      "hint": "Check whether the visible details agree with the words or suggest a different meaning."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#x4",
+      "alt_text": "The words Nothing noisy here! A person is beside a drum with sticks and a trumpet. BANG appears by the drum and TOOT by the trumpet."
     }
   },
   {
@@ -1626,27 +2424,36 @@
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
     "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "Why might the creator pair “The crowd became quiet.” with “a tiny turtle moving towards the sea”?",
-    "audio_prompt": "Why might the creator pair “The crowd became quiet.” with “a tiny turtle moving towards the sea”?",
+    "skill": "comparing_illustrators_choices",
+    "question": "Read: A tree stood beside the path. Which picture suggests a windy day?",
+    "audio_prompt": "Read: A tree stood beside the path. Which picture suggests a windy day?",
     "answers": [
       {
-        "text": "To make the written words impossible to understand.",
-        "is_correct": false
-      },
-      {
-        "text": "To ensure the image has no purpose.",
-        "is_correct": false
-      },
-      {
-        "text": "To let the image extend the event, setting or mood.",
+        "text": "Picture B",
         "is_correct": true
+      },
+      {
+        "text": "Both equally, because both show leaves",
+        "is_correct": false
+      },
+      {
+        "text": "Picture A",
+        "is_correct": false
+      },
+      {
+        "text": "Neither, because the text does not mention wind",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Words and images can work together to create richer meaning.",
-      "hint": "Explain what the visual contributes."
+      "summary": "B shows the tree bent to one side, wind lines and a loose leaf. A shows an upright tree without those clues.",
+      "hint": "Compare the details an illustrator includes, then explain the impression those details support."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#a4",
+      "alt_text": "Two tree illustrations. A: an upright tree. B: a tree bent to one side, curved wind lines and a detached leaf beside it."
     }
   },
   {
@@ -1655,28 +2462,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "How Images Extend Meaning",
-    "question": "Which reading strategy best suits a page containing “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
-    "audio_prompt": "Which reading strategy best suits a page containing “The crowd became quiet.” and “a tiny turtle moving towards the sea”?",
+    "stage": "reason",
+    "skill": "comparing_illustrators_choices",
+    "question": "Read: A tree stood beside the path. How does picture B extend the text?",
+    "audio_prompt": "Read: A tree stood beside the path. How does picture B extend the text?",
     "answers": [
       {
-        "text": "Notice details in both the words and image, then connect them.",
+        "text": "It gives the tree's exact age.",
+        "is_correct": false
+      },
+      {
+        "text": "It names the person who planted the tree.",
+        "is_correct": false
+      },
+      {
+        "text": "It suggests weather that the words do not state.",
         "is_correct": true
       },
       {
-        "text": "Ignore the image completely.",
-        "is_correct": false
-      },
-      {
-        "text": "Guess without using either source.",
+        "text": "It tells the length of the whole path.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Multimodal reading combines evidence across modes.",
-      "hint": "Use every relevant clue available."
+      "summary": "The bent shape, movement lines and loose leaf add a suggestion of wind. The other information is not shown.",
+      "hint": "Compare the details an illustrator includes, then explain the impression those details support."
+    },
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/english/la09-image-evidence.svg#a4",
+      "alt_text": "Two tree illustrations. A: an upright tree. B: a tree bent to one side, curved wind lines and a detached leaf beside it."
     }
   }
 ]

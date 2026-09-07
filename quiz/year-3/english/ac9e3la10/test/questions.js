@@ -4,23 +4,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-001",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "meaning from explanations",
     "printable": true,
     "type": "single",
-    "question": "Which technical word precisely names how loud or soft a sound is in a music guide?",
-    "audioPrompt": "Which technical word precisely names how loud or soft a sound is in a music guide?",
+    "question": "Read: The box was fragile, so we carried it gently to avoid breaking it. What does fragile mean?",
+    "audioPrompt": "Read: The box was fragile, so we carried it gently to avoid breaking it. What does fragile mean?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "thing",
-      "volume",
-      "stuff"
+      "Easy to damage",
+      "Difficult to see",
+      "Hard to lift",
+      "Quick to open"
     ],
-    "correct": 1,
-    "explanation": "Technical vocabulary names ideas precisely within a field.\nHint: Choose the word a subject expert would use.",
+    "correct": 0,
+    "explanation": "The need to avoid breaking it shows that fragile means easily damaged.\nHint: Read nearby explanations and examples to work out an unfamiliar word.",
     "structuredExplanation": {
-      "summary": "Technical vocabulary names ideas precisely within a field.",
-      "hint": "Choose the word a subject expert would use."
+      "summary": "The need to avoid breaking it shows that fragile means easily damaged.",
+      "hint": "Read nearby explanations and examples to work out an unfamiliar word."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +34,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-002",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "meaning from explanations",
     "printable": true,
     "type": "single",
-    "question": "In a music guide, what does “volume” mean?",
-    "audioPrompt": "In a music guide, what does “volume” mean?",
+    "question": "Read: The stream was shallow; the water only reached our ankles. What does shallow mean?",
+    "audioPrompt": "Read: The stream was shallow; the water only reached our ankles. What does shallow mean?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "a decorative page feature",
-      "a character's name with no subject meaning",
-      "how loud or soft a sound is"
+      "Not clean",
+      "Not cold",
+      "Not deep",
+      "Not moving"
     ],
     "correct": 2,
-    "explanation": "Context helps readers select the relevant meaning of a technical word.\nHint: Use the subject and surrounding idea.",
+    "explanation": "Water reaching only ankle height provides a clue about depth, not cleanliness, movement or temperature.\nHint: Read nearby explanations and examples to work out an unfamiliar word.",
     "structuredExplanation": {
-      "summary": "Context helps readers select the relevant meaning of a technical word.",
-      "hint": "Use the subject and surrounding idea."
+      "summary": "Water reaching only ankle height provides a clue about depth, not cleanliness, movement or temperature.",
+      "hint": "Read nearby explanations and examples to work out an unfamiliar word."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +64,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-003",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "evidence for word meanings",
     "printable": true,
     "type": "single",
-    "question": "Why is “volume” stronger than “thing” in a music guide?",
-    "audioPrompt": "Why is “volume” stronger than “thing” in a music guide?",
+    "question": "Read: The room was silent. We could hear no voices or other sounds. Which clue explains silent?",
+    "audioPrompt": "Read: The room was silent. We could hear no voices or other sounds. Which clue explains silent?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "It communicates the exact subject meaning.",
-      "It is longer, so it must always be better.",
-      "It removes information from the explanation."
+      "Being able to hear",
+      "The word we",
+      "The word room",
+      "No voices or other sounds"
     ],
-    "correct": 0,
-    "explanation": "Precision, not word length, makes technical vocabulary useful.\nHint: Ask which word identifies the concept accurately.",
+    "correct": 3,
+    "explanation": "The absence of sound explains silent. The other words do not supply that meaning.\nHint: Choose the nearby detail that explains the word, not just any detail in the passage.",
     "structuredExplanation": {
-      "summary": "Precision, not word length, makes technical vocabulary useful.",
-      "hint": "Ask which word identifies the concept accurately."
+      "summary": "The absence of sound explains silent. The other words do not supply that meaning.",
+      "hint": "Choose the nearby detail that explains the word, not just any detail in the passage."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +94,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-004",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "evidence for word meanings",
     "printable": true,
     "type": "single",
-    "question": "A reader does not know “volume” in a music guide. Which clue is most useful?",
-    "audioPrompt": "A reader does not know “volume” in a music guide. Which clue is most useful?",
+    "question": "Read: The track was slippery, and our shoes kept sliding. Which detail best explains slippery?",
+    "audioPrompt": "Read: The track was slippery, and our shoes kept sliding. Which detail best explains slippery?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The colour of the page border.",
-      "The nearby explanation “how loud or soft a sound is”.",
-      "The number of letters in the heading."
+      "Our shoes kept sliding.",
+      "We were wearing shoes.",
+      "There was a track.",
+      "More than one person was there."
     ],
-    "correct": 1,
-    "explanation": "Definitions and surrounding information support word meaning.\nHint: Look for a clue that explains the idea.",
+    "correct": 0,
+    "explanation": "Sliding shows that it is difficult to keep a firm grip on the surface, which explains slippery.\nHint: Choose the nearby detail that explains the word, not just any detail in the passage.",
     "structuredExplanation": {
-      "summary": "Definitions and surrounding information support word meaning.",
-      "hint": "Look for a clue that explains the idea."
+      "summary": "Sliding shows that it is difficult to keep a firm grip on the surface, which explains slippery.",
+      "hint": "Choose the nearby detail that explains the word, not just any detail in the passage."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +124,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-005",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "science topic vocabulary",
     "printable": true,
     "type": "single",
-    "question": "The word “note” can have more than one meaning. What should a reader check first?",
-    "audioPrompt": "The word “note” can have more than one meaning. What should a reader check first?",
+    "question": "Read: A mineral is a naturally occurring solid material found in Earth. Which word names that material in this sentence?",
+    "audioPrompt": "Read: A mineral is a naturally occurring solid material found in Earth. Which word names that material in this sentence?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Only whether the word is short.",
-      "Only its position in the alphabet.",
-      "The subject and surrounding sentence."
+      "Shadow",
+      "Mineral",
+      "Weather",
+      "Temperature"
     ],
-    "correct": 2,
-    "explanation": "Context determines which meaning is intended.\nHint: Read around the word before choosing a meaning.",
+    "correct": 1,
+    "explanation": "Mineral is the topic word being defined; the other terms describe different ideas.\nHint: Use the explanation in the science context to understand the topic word.",
     "structuredExplanation": {
-      "summary": "Context determines which meaning is intended.",
-      "hint": "Read around the word before choosing a meaning."
+      "summary": "Mineral is the topic word being defined; the other terms describe different ideas.",
+      "hint": "Use the explanation in the science context to understand the topic word."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +154,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-006",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "science topic vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses “volume” precisely?",
-    "audioPrompt": "Which sentence uses “volume” precisely?",
+    "question": "Read: We observed the snail by watching it closely and noting what it did. What does observed mean in this investigation?",
+    "audioPrompt": "Read: We observed the snail by watching it closely and noting what it did. What does observed mean in this investigation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The a music guide explains volume as how loud or soft a sound is.",
-      "The volume was a random colour with no connection to a music guide.",
-      "Every object is always called volume."
+      "Watched carefully",
+      "Forgot to record",
+      "Guessed without looking",
+      "Changed into something else"
     ],
     "correct": 0,
-    "explanation": "Precise usage fits the word's field-specific meaning.\nHint: Check whether the sentence matches the definition.",
+    "explanation": "Watching closely and noting actions explains observed as careful watching in this context.\nHint: Use the explanation in the science context to understand the topic word.",
     "structuredExplanation": {
-      "summary": "Precise usage fits the word's field-specific meaning.",
-      "hint": "Check whether the sentence matches the definition."
+      "summary": "Watching closely and noting actions explains observed as careful watching in this context.",
+      "hint": "Use the explanation in the science context to understand the topic word."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +184,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-007",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "mathematics and geography words",
     "printable": true,
     "type": "single",
-    "question": "Which vocabulary note would best help a reader of a music guide?",
-    "audioPrompt": "Which vocabulary note would best help a reader of a music guide?",
+    "question": "Read: The equator is an imaginary line around Earth halfway between the North and South Poles. What is the equator here?",
+    "audioPrompt": "Read: The equator is an imaginary line around Earth halfway between the North and South Poles. What is the equator here?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "volume: any word at all",
-      "volume: how loud or soft a sound is",
-      "volume: meaning not given"
+      "A road between two towns",
+      "A kind of mountain",
+      "An imaginary line around Earth",
+      "A tool that measures wind"
     ],
-    "correct": 1,
-    "explanation": "A glossary-style note gives a clear contextual definition.\nHint: Choose the note that is specific and accurate.",
+    "correct": 2,
+    "explanation": "The context defines the equator as a geographical line, not a physical road or instrument.\nHint: Use the subject context to work out the precise meaning of a topic word.",
     "structuredExplanation": {
-      "summary": "A glossary-style note gives a clear contextual definition.",
-      "hint": "Choose the note that is specific and accurate."
+      "summary": "The context defines the equator as a geographical line, not a physical road or instrument.",
+      "hint": "Use the subject context to work out the precise meaning of a topic word."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +214,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-008",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "mathematics and geography words",
     "printable": true,
     "type": "single",
-    "question": "A writer replaces “volume” with “nice thing” in a music guide. What is lost?",
-    "audioPrompt": "A writer replaces “volume” with “nice thing” in a music guide. What is lost?",
+    "question": "Read: The table has a column of names running from top to bottom. What does column mean here?",
+    "audioPrompt": "Read: The table has a column of names running from top to bottom. What does column mean here?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Only the page decoration.",
-      "The ability to use capital letters.",
-      "The precise technical meaning."
+      "The border around the page",
+      "The title of the whole page",
+      "A horizontal row of entries",
+      "A vertical group of entries"
     ],
-    "correct": 2,
-    "explanation": "Vague wording can weaken a subject explanation.\nHint: Compare how exactly each phrase names the concept.",
+    "correct": 3,
+    "explanation": "Running from top to bottom identifies a column, rather than a row running across.\nHint: Use the subject context to work out the precise meaning of a topic word.",
     "structuredExplanation": {
-      "summary": "Vague wording can weaken a subject explanation.",
-      "hint": "Compare how exactly each phrase names the concept."
+      "summary": "Running from top to bottom identifies a column, rather than a row running across.",
+      "hint": "Use the subject context to work out the precise meaning of a topic word."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +244,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-009",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "technical words in arts and procedures",
     "printable": true,
     "type": "single",
-    "question": "Which technical word precisely names a basic unit of living things in a biology explanation?",
-    "audioPrompt": "Which technical word precisely names a basic unit of living things in a biology explanation?",
+    "question": "Read: The beat is the steady pulse in music that we can clap along with. What is beat here?",
+    "audioPrompt": "Read: The beat is the steady pulse in music that we can clap along with. What is beat here?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "cell",
-      "thing",
-      "stuff"
+      "The title of the song",
+      "The place where a singer stands",
+      "The colour of an instrument",
+      "The steady musical pulse"
     ],
-    "correct": 0,
-    "explanation": "Technical vocabulary names ideas precisely within a field.\nHint: Choose the word a subject expert would use.",
+    "correct": 3,
+    "explanation": "The definition gives the musical meaning of beat, a regular pulse.\nHint: Specialist words can name tools, features or steps; use the given explanation.",
     "structuredExplanation": {
-      "summary": "Technical vocabulary names ideas precisely within a field.",
-      "hint": "Choose the word a subject expert would use."
+      "summary": "The definition gives the musical meaning of beat, a regular pulse.",
+      "hint": "Specialist words can name tools, features or steps; use the given explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +274,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-010",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "technical words in arts and procedures",
     "printable": true,
     "type": "single",
-    "question": "In a biology explanation, what does “cell” mean?",
-    "audioPrompt": "In a biology explanation, what does “cell” mean?",
+    "question": "Read: A prop is an object an actor uses during a performance. Which is a prop?",
+    "audioPrompt": "Read: A prop is an object an actor uses during a performance. Which is a prop?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "a decorative page feature",
-      "a basic unit of living things",
-      "a character's name with no subject meaning"
+      "The actor's spoken greeting",
+      "A pretend key held by an actor",
+      "The theatre's street address",
+      "The audience's applause"
     ],
     "correct": 1,
-    "explanation": "Context helps readers select the relevant meaning of a technical word.\nHint: Use the subject and surrounding idea.",
+    "explanation": "The key is an object used in the performance, fitting the given definition of prop.\nHint: Specialist words can name tools, features or steps; use the given explanation.",
     "structuredExplanation": {
-      "summary": "Context helps readers select the relevant meaning of a technical word.",
-      "hint": "Use the subject and surrounding idea."
+      "summary": "The key is an object used in the performance, fitting the given definition of prop.",
+      "hint": "Specialist words can name tools, features or steps; use the given explanation."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +304,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-011",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "multiple meanings in context",
     "printable": true,
     "type": "single",
-    "question": "Why is “cell” stronger than “thing” in a biology explanation?",
-    "audioPrompt": "Why is “cell” stronger than “thing” in a biology explanation?",
+    "question": "Read: The spring inside the toy stretched and bounced back. What is spring here?",
+    "audioPrompt": "Read: The spring inside the toy stretched and bounced back. What is spring here?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "It is longer, so it must always be better.",
-      "It removes information from the explanation.",
-      "It communicates the exact subject meaning."
+      "The season after winter",
+      "A sudden jump",
+      "A flexible coil",
+      "A place where water emerges"
     ],
     "correct": 2,
-    "explanation": "Precision, not word length, makes technical vocabulary useful.\nHint: Ask which word identifies the concept accurately.",
+    "explanation": "Inside the toy, stretched and bounced back point to a flexible coil.\nHint: A familiar word can have different meanings. Choose the meaning that fits this sentence.",
     "structuredExplanation": {
-      "summary": "Precision, not word length, makes technical vocabulary useful.",
-      "hint": "Ask which word identifies the concept accurately."
+      "summary": "Inside the toy, stretched and bounced back point to a flexible coil.",
+      "hint": "A familiar word can have different meanings. Choose the meaning that fits this sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +334,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-012",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "multiple meanings in context",
     "printable": true,
     "type": "single",
-    "question": "A reader does not know “cell” in a biology explanation. Which clue is most useful?",
-    "audioPrompt": "A reader does not know “cell” in a biology explanation. Which clue is most useful?",
+    "question": "Compare: 'I can lift the light bag' and 'Switch on the light'. Which is true?",
+    "audioPrompt": "Compare: 'I can lift the light bag' and 'Switch on the light'. Which is true?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The nearby explanation “a basic unit of living things”.",
-      "The colour of the page border.",
-      "The number of letters in the heading."
+      "Light describes weight in both sentences.",
+      "Light names a lamp in both sentences.",
+      "The word has no meaning in the first sentence.",
+      "Light describes weight first and names a lamp second."
     ],
-    "correct": 0,
-    "explanation": "Definitions and surrounding information support word meaning.\nHint: Look for a clue that explains the idea.",
+    "correct": 3,
+    "explanation": "Bag and lift support not heavy; switch on supports a source of illumination.\nHint: A familiar word can have different meanings. Choose the meaning that fits this sentence.",
     "structuredExplanation": {
-      "summary": "Definitions and surrounding information support word meaning.",
-      "hint": "Look for a clue that explains the idea."
+      "summary": "Bag and lift support not heavy; switch on supports a source of illumination.",
+      "hint": "A familiar word can have different meanings. Choose the meaning that fits this sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +364,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-013",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "applying a given meaning",
     "printable": true,
     "type": "single",
-    "question": "The word “organ” can have more than one meaning. What should a reader check first?",
-    "audioPrompt": "The word “organ” can have more than one meaning. What should a reader check first?",
+    "question": "Which sentence uses pupil to mean a student?",
+    "audioPrompt": "Which sentence uses pupil to mean a student?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Only whether the word is short.",
-      "The subject and surrounding sentence.",
-      "Only its position in the alphabet."
+      "Bright light made the pupil smaller.",
+      "Each pupil brought a notebook.",
+      "The doctor checked the eye's pupil.",
+      "The pupil in the eye looked dark."
     ],
     "correct": 1,
-    "explanation": "Context determines which meaning is intended.\nHint: Read around the word before choosing a meaning.",
+    "explanation": "Bringing a notebook gives the student meaning. The other examples refer to part of the eye.\nHint: Try the given meaning in each sentence and choose the sentence where it fits.",
     "structuredExplanation": {
-      "summary": "Context determines which meaning is intended.",
-      "hint": "Read around the word before choosing a meaning."
+      "summary": "Bringing a notebook gives the student meaning. The other examples refer to part of the eye.",
+      "hint": "Try the given meaning in each sentence and choose the sentence where it fits."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +394,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-014",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "applying a given meaning",
     "printable": true,
     "type": "single",
-    "question": "Which sentence uses “cell” precisely?",
-    "audioPrompt": "Which sentence uses “cell” precisely?",
+    "question": "Which sentence uses point to mean the sharp end of something?",
+    "audioPrompt": "Which sentence uses point to mean the sharp end of something?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The cell was a random colour with no connection to a biology explanation.",
-      "Every object is always called cell.",
-      "The a biology explanation explains cell as a basic unit of living things."
+      "Please point towards the door.",
+      "The pencil's point snapped.",
+      "I scored a point in the game.",
+      "That is a helpful point in your argument."
     ],
-    "correct": 2,
-    "explanation": "Precise usage fits the word's field-specific meaning.\nHint: Check whether the sentence matches the definition.",
+    "correct": 1,
+    "explanation": "The pencil context identifies a sharp tip rather than a score, gesture or idea.\nHint: Try the given meaning in each sentence and choose the sentence where it fits.",
     "structuredExplanation": {
-      "summary": "Precise usage fits the word's field-specific meaning.",
-      "hint": "Check whether the sentence matches the definition."
+      "summary": "The pencil context identifies a sharp tip rather than a score, gesture or idea.",
+      "hint": "Try the given meaning in each sentence and choose the sentence where it fits."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +424,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-015",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "precise vocabulary and connotation",
     "printable": true,
     "type": "single",
-    "question": "Which vocabulary note would best help a reader of a biology explanation?",
-    "audioPrompt": "Which vocabulary note would best help a reader of a biology explanation?",
+    "question": "Read: The map shows our route to camp. Why does route fit better than stuff?",
+    "audioPrompt": "Read: The map shows our route to camp. Why does route fit better than stuff?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "cell: a basic unit of living things",
-      "cell: any word at all",
-      "cell: meaning not given"
+      "It precisely names the way we will travel.",
+      "It tells us the weather at camp.",
+      "It gives the number of campers.",
+      "It proves the camp is nearby."
     ],
     "correct": 0,
-    "explanation": "A glossary-style note gives a clear contextual definition.\nHint: Choose the note that is specific and accurate.",
+    "explanation": "Route names the path of travel, whereas stuff is vague and does not identify that idea.\nHint: Choose a word that fits both the topic and the feeling or exact meaning of the passage.",
     "structuredExplanation": {
-      "summary": "A glossary-style note gives a clear contextual definition.",
-      "hint": "Choose the note that is specific and accurate."
+      "summary": "Route names the path of travel, whereas stuff is vague and does not identify that idea.",
+      "hint": "Choose a word that fits both the topic and the feeling or exact meaning of the passage."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +454,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la10-t-016",
     "curriculumCode": "AC9E3LA10",
     "bank": "test",
-    "skill": "Technical Vocabulary and Context",
+    "skill": "precise vocabulary and connotation",
     "printable": true,
     "type": "single",
-    "question": "A writer replaces “cell” with “nice thing” in a biology explanation. What is lost?",
-    "audioPrompt": "A writer replaces “cell” with “nice thing” in a biology explanation. What is lost?",
+    "question": "Which description sounds approving of a child's many questions?",
+    "audioPrompt": "Which description sounds approving of a child's many questions?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Only the page decoration.",
-      "The precise technical meaning.",
-      "The ability to use capital letters."
+      "Irritating",
+      "Nosy",
+      "Curious",
+      "Annoying"
     ],
-    "correct": 1,
-    "explanation": "Vague wording can weaken a subject explanation.\nHint: Compare how exactly each phrase names the concept.",
+    "correct": 2,
+    "explanation": "Curious can praise an interest in learning. The other choices express criticism or annoyance.\nHint: Choose a word that fits both the topic and the feeling or exact meaning of the passage.",
     "structuredExplanation": {
-      "summary": "Vague wording can weaken a subject explanation.",
-      "hint": "Compare how exactly each phrase names the concept."
+      "summary": "Curious can praise an interest in learning. The other choices express criticism or annoyance.",
+      "hint": "Choose a word that fits both the topic and the feeling or exact meaning of the passage."
     },
     "qualitySchema": "production-v1"
   }

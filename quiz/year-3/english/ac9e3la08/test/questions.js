@@ -4,23 +4,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-001",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "recognising past time",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links on monday with the verb?",
-    "audioPrompt": "Which sentence correctly links on monday with the verb?",
+    "question": "Which verb places this event in the past?\nThe owl rested in the hollow.",
+    "audioPrompt": "Which verb places this event in the past?\nThe owl rested in the hollow.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "On Monday, the student finds a note.",
-      "On Monday, the student will find a note.",
-      "On Monday, the student found a note."
+      "hollow",
+      "owl",
+      "rested",
+      "in"
     ],
     "correct": 2,
-    "explanation": "Past-tense verbs locate a process before now.\nHint: Match the verb form to the past-time clue.",
+    "explanation": "Rested tells what happened before now.\nHint: A past-tense verb places something before now; it need not have the word yesterday beside it.",
     "structuredExplanation": {
-      "summary": "Past-tense verbs locate a process before now.",
-      "hint": "Match the verb form to the past-time clue."
+      "summary": "Rested tells what happened before now.",
+      "hint": "A past-tense verb places something before now; it need not have the word yesterday beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +34,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-002",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "recognising past time",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links every morning with the verb?",
-    "audioPrompt": "Which sentence correctly links every morning with the verb?",
+    "question": "Which sentence tells a past event?",
+    "audioPrompt": "Which sentence tells a past event?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Every morning, the student finds a note.",
-      "Every morning, the student found a note.",
-      "Every morning, the student will find a note."
+      "The door creaked open.",
+      "The door will creak open.",
+      "The door is creaking open.",
+      "The door creaks open."
     ],
     "correct": 0,
-    "explanation": "Present tense can describe what happens now or regularly.\nHint: Use the time clue to select the present form.",
+    "explanation": "Creaked is past tense, while the other verb groups place the event in the present or future.\nHint: A past-tense verb places something before now; it need not have the word yesterday beside it.",
     "structuredExplanation": {
-      "summary": "Present tense can describe what happens now or regularly.",
-      "hint": "Use the time clue to select the present form."
+      "summary": "Creaked is past tense, while the other verb groups place the event in the present or future.",
+      "hint": "A past-tense verb places something before now; it need not have the word yesterday beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +64,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-003",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "present habits facts and states",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links on friday with the verb?",
-    "audioPrompt": "Which sentence correctly links on friday with the verb?",
+    "question": "Which sentence uses present tense for a habit?",
+    "audioPrompt": "Which sentence uses present tense for a habit?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "On Friday, the student found a note.",
-      "On Friday, the student will find a note.",
-      "On Friday, the student finds a note."
+      "Nia will check the gate tonight.",
+      "Nia checks the gate every night.",
+      "Nia checked the gate last night.",
+      "Nia was checking the gate earlier."
     ],
     "correct": 1,
-    "explanation": "Future tense locates a process after now.\nHint: Look for the verb phrase beginning with will.",
+    "explanation": "Checks with every night describes a regular present habit.\nHint: Present tense can tell about a current state, a usual activity or a general fact.",
     "structuredExplanation": {
-      "summary": "Future tense locates a process after now.",
-      "hint": "Look for the verb phrase beginning with will."
+      "summary": "Checks with every night describes a regular present habit.",
+      "hint": "Present tense can tell about a current state, a usual activity or a general fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +94,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-004",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "present habits facts and states",
     "printable": true,
     "type": "single",
-    "question": "A recount begins “On Monday, we found carefully.” Which continuation keeps past tense?",
-    "audioPrompt": "A recount begins “On Monday, we found carefully.” Which continuation keeps past tense?",
+    "question": "Choose a present-tense statement of fact.",
+    "audioPrompt": "Choose a present-tense statement of fact.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Then we finds again.",
-      "Then we will find again.",
-      "Then we found again."
+      "A triangle used to have three sides.",
+      "A triangle had three sides.",
+      "A triangle will have three sides.",
+      "A triangle has three sides."
     ],
-    "correct": 2,
-    "explanation": "Consistent tense helps readers follow time.\nHint: Keep the next verb in the same time as the first.",
+    "correct": 3,
+    "explanation": "Has states the general property in present tense.\nHint: Present tense can tell about a current state, a usual activity or a general fact.",
     "structuredExplanation": {
-      "summary": "Consistent tense helps readers follow time.",
-      "hint": "Keep the next verb in the same time as the first."
+      "summary": "Has states the general property in present tense.",
+      "hint": "Present tense can tell about a current state, a usual activity or a general fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +124,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-005",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "expressing future time",
     "printable": true,
     "type": "single",
-    "question": "Which edit fixes the tense shift in “On Monday, she found, then she finds”?",
-    "audioPrompt": "Which edit fixes the tense shift in “On Monday, she found, then she finds”?",
+    "question": "Which sentence tells what will happen later?",
+    "audioPrompt": "Which sentence tells what will happen later?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Change “finds” to “found”.",
-      "Change “found” to “will find”.",
-      "Keep both verbs because their times already match."
+      "The guests will arrive at six.",
+      "The guests arrived at six.",
+      "The guests are arriving now.",
+      "The guests arrive here every week."
     ],
     "correct": 0,
-    "explanation": "Both events with the same past-time frame need past forms.\nHint: Use the opening time phrase as your guide.",
+    "explanation": "Will arrive places the arrival in future time.\nHint: Will plus a base verb can tell future time. Going to can also tell a future plan.",
     "structuredExplanation": {
-      "summary": "Both events with the same past-time frame need past forms.",
-      "hint": "Use the opening time phrase as your guide."
+      "summary": "Will arrive places the arrival in future time.",
+      "hint": "Will plus a base verb can tell future time. Going to can also tell a future plan."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +154,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-006",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "expressing future time",
     "printable": true,
     "type": "single",
-    "question": "Which words in “On Friday, they will find” show future time?",
-    "audioPrompt": "Which words in “On Friday, they will find” show future time?",
+    "question": "Complete the plan: Next week, we [blank] our cousins.",
+    "audioPrompt": "Complete the plan: Next week, we [blank] our cousins.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "On Monday and “found”",
-      "On Friday and “will find”",
-      "Every morning and “finds”"
+      "visited",
+      "were visiting",
+      "have already visited",
+      "are going to visit"
     ],
-    "correct": 1,
-    "explanation": "A time phrase and verb form can both anchor an event in time.\nHint: Find the pair that points after now.",
+    "correct": 3,
+    "explanation": "Are going to visit agrees with the future time next week.\nHint: Will plus a base verb can tell future time. Going to can also tell a future plan.",
     "structuredExplanation": {
-      "summary": "A time phrase and verb form can both anchor an event in time.",
-      "hint": "Find the pair that points after now."
+      "summary": "Are going to visit agrees with the future time next week.",
+      "hint": "Will plus a base verb can tell future time. Going to can also tell a future plan."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +184,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-007",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "forming regular past verbs",
     "printable": true,
     "type": "single",
-    "question": "Why does a writer use “finds” after every morning?",
-    "audioPrompt": "Why does a writer use “finds” after every morning?",
+    "question": "Which is the past-tense form of brush?",
+    "audioPrompt": "Which is the past-tense form of brush?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "To show that the process ended long ago.",
-      "To show that the process can never occur.",
-      "To show a current or repeated process."
+      "will brush",
+      "brushing",
+      "brushes",
+      "brushed"
     ],
-    "correct": 2,
-    "explanation": "Present tense suits current and habitual actions.\nHint: Connect the tense to the time clue.",
+    "correct": 3,
+    "explanation": "Add -ed to brush to make brushed, a past-tense verb.\nHint: Regular past forms use -ed or -d, sometimes with a spelling change.",
     "structuredExplanation": {
-      "summary": "Present tense suits current and habitual actions.",
-      "hint": "Connect the tense to the time clue."
+      "summary": "Add -ed to brush to make brushed, a past-tense verb.",
+      "hint": "Regular past forms use -ed or -d, sometimes with a spelling change."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +214,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-008",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "forming regular past verbs",
     "printable": true,
     "type": "single",
-    "question": "Using “found”, “finds” and “will find”, which sequence moves clearly from past to present to future?",
-    "audioPrompt": "Using “found”, “finds” and “will find”, which sequence moves clearly from past to present to future?",
+    "question": "Choose the correctly formed past-tense sentence about the rain.",
+    "audioPrompt": "Choose the correctly formed past-tense sentence about the rain.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "On Monday: found; every morning: finds; on friday: will find.",
-      "On Monday: will find; every morning: found; on friday: finds.",
-      "On Monday: finds; every morning: will find; on friday: found."
+      "The rain will stopped before lunch.",
+      "The rain stops before lunch.",
+      "The rain stopped before lunch.",
+      "The rain stoped before lunch."
     ],
-    "correct": 0,
-    "explanation": "Verb tense can organise events along a timeline.\nHint: Match each form to before now, now, and after now.",
+    "correct": 2,
+    "explanation": "Stop doubles p before -ed: stopped. This correctly fits a past event.\nHint: Regular past forms use -ed or -d, sometimes with a spelling change.",
     "structuredExplanation": {
-      "summary": "Verb tense can organise events along a timeline.",
-      "hint": "Match each form to before now, now, and after now."
+      "summary": "Stop doubles p before -ed: stopped. This correctly fits a past event.",
+      "hint": "Regular past forms use -ed or -d, sometimes with a spelling change."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +244,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-009",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "common irregular past forms",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links before lunch with the verb?",
-    "audioPrompt": "Which sentence correctly links before lunch with the verb?",
+    "question": "Which sentence is in the past tense?",
+    "audioPrompt": "Which sentence is in the past tense?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Before lunch, the student makes a note.",
-      "Before lunch, the student made a note.",
-      "Before lunch, the student will make a note."
+      "The runner ran around the oval.",
+      "The runner is running around the oval.",
+      "The runner will run around the oval.",
+      "The runner runs around the oval."
     ],
-    "correct": 1,
-    "explanation": "Past-tense verbs locate a process before now.\nHint: Match the verb form to the past-time clue.",
+    "correct": 0,
+    "explanation": "Ran is the irregular past form of run.\nHint: Some common verbs change in a different way in the past. Check the whole sentence.",
     "structuredExplanation": {
-      "summary": "Past-tense verbs locate a process before now.",
-      "hint": "Match the verb form to the past-time clue."
+      "summary": "Ran is the irregular past form of run.",
+      "hint": "Some common verbs change in a different way in the past. Check the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +274,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-010",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "common irregular past forms",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links at present with the verb?",
-    "audioPrompt": "Which sentence correctly links at present with the verb?",
+    "question": "Choose the correct past form.\nYesterday, Dad [blank] a letter.",
+    "audioPrompt": "Choose the correct past form.\nYesterday, Dad [blank] a letter.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "At present, the student made a note.",
-      "At present, the student will make a note.",
-      "At present, the student makes a note."
+      "writing",
+      "writes",
+      "wrote",
+      "writed"
     ],
     "correct": 2,
-    "explanation": "Present tense can describe what happens now or regularly.\nHint: Use the time clue to select the present form.",
+    "explanation": "Wrote is the irregular past form of write.\nHint: Some common verbs change in a different way in the past. Check the whole sentence.",
     "structuredExplanation": {
-      "summary": "Present tense can describe what happens now or regularly.",
-      "hint": "Use the time clue to select the present form."
+      "summary": "Wrote is the irregular past form of write.",
+      "hint": "Some common verbs change in a different way in the past. Check the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +304,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-011",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "changing tense preserving meaning",
     "printable": true,
     "type": "single",
-    "question": "Which sentence correctly links after lunch with the verb?",
-    "audioPrompt": "Which sentence correctly links after lunch with the verb?",
+    "question": "Change 'We make a model' to past tense.",
+    "audioPrompt": "Change 'We make a model' to past tense.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "After lunch, the student will make a note.",
-      "After lunch, the student made a note.",
-      "After lunch, the student makes a note."
+      "We will make a model.",
+      "We made a model.",
+      "We are making a model.",
+      "We maked a model."
     ],
-    "correct": 0,
-    "explanation": "Future tense locates a process after now.\nHint: Look for the verb phrase beginning with will.",
+    "correct": 1,
+    "explanation": "Made is the correct past form of make.\nHint: Change the verb form and any time word that needs to change, while keeping the same event and people.",
     "structuredExplanation": {
-      "summary": "Future tense locates a process after now.",
-      "hint": "Look for the verb phrase beginning with will."
+      "summary": "Made is the correct past form of make.",
+      "hint": "Change the verb form and any time word that needs to change, while keeping the same event and people."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +334,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-012",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "changing tense preserving meaning",
     "printable": true,
     "type": "single",
-    "question": "A recount begins “Before lunch, we made carefully.” Which continuation keeps past tense?",
-    "audioPrompt": "A recount begins “Before lunch, we made carefully.” Which continuation keeps past tense?",
+    "question": "Which sentence turns a past state into a future state?\nThe hall was quiet.",
+    "audioPrompt": "Which sentence turns a past state into a future state?\nThe hall was quiet.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Then we makes again.",
-      "Then we made again.",
-      "Then we will make again."
+      "The hall is quiet.",
+      "The hall was very quiet.",
+      "The hall will be quiet.",
+      "The hall were quiet."
     ],
-    "correct": 1,
-    "explanation": "Consistent tense helps readers follow time.\nHint: Keep the next verb in the same time as the first.",
+    "correct": 2,
+    "explanation": "Will be places the quiet state in the future. The other choices do not do this correctly.\nHint: Change the verb form and any time word that needs to change, while keeping the same event and people.",
     "structuredExplanation": {
-      "summary": "Consistent tense helps readers follow time.",
-      "hint": "Keep the next verb in the same time as the first."
+      "summary": "Will be places the quiet state in the future. The other choices do not do this correctly.",
+      "hint": "Change the verb form and any time word that needs to change, while keeping the same event and people."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +364,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-013",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "tense consistency in recounts",
     "printable": true,
     "type": "single",
-    "question": "Which edit fixes the tense shift in “Before lunch, she made, then she makes”?",
-    "audioPrompt": "Which edit fixes the tense shift in “Before lunch, she made, then she makes”?",
+    "question": "Finish the past-time recount.\nThe boat rocked, and water [blank] over the side.",
+    "audioPrompt": "Finish the past-time recount.\nThe boat rocked, and water [blank] over the side.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Change “made” to “will make”.",
-      "Keep both verbs because their times already match.",
-      "Change “makes” to “made”."
+      "is splashing",
+      "splashed",
+      "splashes",
+      "will splash"
     ],
-    "correct": 2,
-    "explanation": "Both events with the same past-time frame need past forms.\nHint: Use the opening time phrase as your guide.",
+    "correct": 1,
+    "explanation": "Splashed matches rocked to retell the finished event.\nHint: Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes.",
     "structuredExplanation": {
-      "summary": "Both events with the same past-time frame need past forms.",
-      "hint": "Use the opening time phrase as your guide."
+      "summary": "Splashed matches rocked to retell the finished event.",
+      "hint": "Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +394,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-014",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "tense consistency in recounts",
     "printable": true,
     "type": "single",
-    "question": "Which words in “After lunch, they will make” show future time?",
-    "audioPrompt": "Which words in “After lunch, they will make” show future time?",
+    "question": "Why do the verb times change here?\nI lost my hat yesterday. I will search again tomorrow.",
+    "audioPrompt": "Why do the verb times change here?\nI lost my hat yesterday. I will search again tomorrow.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "After lunch and “will make”",
-      "Before lunch and “made”",
-      "At present and “makes”"
+      "Every second sentence must use will.",
+      "The writer moves from a past event to a future plan.",
+      "Lost and will search both mean the present.",
+      "The writer has made a tense mistake."
     ],
-    "correct": 0,
-    "explanation": "A time phrase and verb form can both anchor an event in time.\nHint: Find the pair that points after now.",
+    "correct": 1,
+    "explanation": "Yesterday supports lost, and tomorrow supports will search. The two events belong to different times.\nHint: Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes.",
     "structuredExplanation": {
-      "summary": "A time phrase and verb form can both anchor an event in time.",
-      "hint": "Find the pair that points after now."
+      "summary": "Yesterday supports lost, and tomorrow supports will search. The two events belong to different times.",
+      "hint": "Keep the verbs in past time when the whole passage retells finished events, unless the time meaning changes."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +424,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-015",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "interpreting time in context",
     "printable": true,
     "type": "single",
-    "question": "Why does a writer use “makes” after at present?",
-    "audioPrompt": "Why does a writer use “makes” after at present?",
+    "question": "Which sentence places an ongoing activity in the past?",
+    "audioPrompt": "Which sentence places an ongoing activity in the past?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "To show that the process ended long ago.",
-      "To show a current or repeated process.",
-      "To show that the process can never occur."
+      "The dog was barking earlier.",
+      "The dog is barking now.",
+      "The dog barks each evening.",
+      "The dog will bark later."
     ],
-    "correct": 1,
-    "explanation": "Present tense suits current and habitual actions.\nHint: Connect the tense to the time clue.",
+    "correct": 0,
+    "explanation": "Was barking, supported by earlier, tells an activity taking place in past time.\nHint: Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough.",
     "structuredExplanation": {
-      "summary": "Present tense suits current and habitual actions.",
-      "hint": "Connect the tense to the time clue."
+      "summary": "Was barking, supported by earlier, tells an activity taking place in past time.",
+      "hint": "Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +454,29 @@ window.skillrTestQuestions = [
     "id": "ac9e3la08-t-016",
     "curriculumCode": "AC9E3LA08",
     "bank": "test",
-    "skill": "Verb Tense and Time",
+    "skill": "interpreting time in context",
     "printable": true,
     "type": "single",
-    "question": "Using “made”, “makes” and “will make”, which sequence moves clearly from past to present to future?",
-    "audioPrompt": "Using “made”, “makes” and “will make”, which sequence moves clearly from past to present to future?",
+    "question": "Read: Yesterday, I hit the target. Does a past verb always end in -ed?",
+    "audioPrompt": "Read: Yesterday, I hit the target. Does a past verb always end in -ed?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Before lunch: will make; at present: made; after lunch: makes.",
-      "Before lunch: makes; at present: will make; after lunch: made.",
-      "Before lunch: made; at present: makes; after lunch: will make."
+      "Yes; hit must be changed to hitted.",
+      "Yes; this sentence has no past meaning.",
+      "No; yesterday makes every verb a future form.",
+      "No; hit is a past form here without an ending change."
     ],
-    "correct": 2,
-    "explanation": "Verb tense can organise events along a timeline.\nHint: Match each form to before now, now, and after now.",
+    "correct": 3,
+    "explanation": "Hit keeps the same form in present and past. Yesterday establishes the past-time meaning here.\nHint: Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough.",
     "structuredExplanation": {
-      "summary": "Verb tense can organise events along a timeline.",
-      "hint": "Match each form to before now, now, and after now."
+      "summary": "Hit keeps the same form in present and past. Yesterday establishes the past-time meaning here.",
+      "hint": "Use the whole verb group and surrounding words to work out time, especially when one word alone is not enough."
     },
     "qualitySchema": "production-v1"
   }

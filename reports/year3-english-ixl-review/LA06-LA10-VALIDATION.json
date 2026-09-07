@@ -1,0 +1,745 @@
+{
+  "status": "PASS",
+  "baseline": "2d4f89718c3fad9164834245a21133d974a73aee",
+  "codes": 5,
+  "questions": 320,
+  "checks": [
+    "all production validators",
+    "identity and bank preservation",
+    "all legacy schema keys preserved",
+    "unique prompts",
+    "eight strands at 6 practice +2 test",
+    "actual HTML question-script ownership and order",
+    "source/runtime/feedback parity",
+    "practice mirror equality",
+    "result/review/retake route presence",
+    "English subject badge remains pending"
+  ],
+  "results": [
+    {
+      "code": "AC9E3LA06",
+      "status": "PASS",
+      "preservedSourceIds": 56,
+      "addedPracticeIds": 8,
+      "coverage": {
+        "identifying_whole_subjects": {
+          "practice": [
+            "AC9E3LA06-P-001",
+            "AC9E3LA06-P-002",
+            "AC9E3LA06-P-003",
+            "AC9E3LA06-P-004",
+            "AC9E3LA06-P-005",
+            "AC9E3LA06-P-006"
+          ],
+          "test": [
+            "AC9E3LA06-T-001",
+            "AC9E3LA06-T-002"
+          ]
+        },
+        "identifying_verbs_and_verb_groups": {
+          "practice": [
+            "AC9E3LA06-P-007",
+            "AC9E3LA06-P-008",
+            "AC9E3LA06-P-009",
+            "AC9E3LA06-P-010",
+            "AC9E3LA06-P-011",
+            "AC9E3LA06-P-012"
+          ],
+          "test": [
+            "AC9E3LA06-T-003",
+            "AC9E3LA06-T-004"
+          ]
+        },
+        "regular_subject_verb_agreement": {
+          "practice": [
+            "AC9E3LA06-P-013",
+            "AC9E3LA06-P-014",
+            "AC9E3LA06-P-015",
+            "AC9E3LA06-P-016",
+            "AC9E3LA06-P-017",
+            "AC9E3LA06-P-018"
+          ],
+          "test": [
+            "AC9E3LA06-T-005",
+            "AC9E3LA06-T-006"
+          ]
+        },
+        "pronouns_and_agreement": {
+          "practice": [
+            "AC9E3LA06-P-019",
+            "AC9E3LA06-P-020",
+            "AC9E3LA06-P-021",
+            "AC9E3LA06-P-022",
+            "AC9E3LA06-P-023",
+            "AC9E3LA06-P-024"
+          ],
+          "test": [
+            "AC9E3LA06-T-007",
+            "AC9E3LA06-T-008"
+          ]
+        },
+        "agreeing_with_be_and_have": {
+          "practice": [
+            "AC9E3LA06-P-025",
+            "AC9E3LA06-P-026",
+            "AC9E3LA06-P-027",
+            "AC9E3LA06-P-028",
+            "AC9E3LA06-P-029",
+            "AC9E3LA06-P-030"
+          ],
+          "test": [
+            "AC9E3LA06-T-009",
+            "AC9E3LA06-T-010"
+          ]
+        },
+        "expanded_subject_agreement": {
+          "practice": [
+            "AC9E3LA06-P-031",
+            "AC9E3LA06-P-032",
+            "AC9E3LA06-P-033",
+            "AC9E3LA06-P-034",
+            "AC9E3LA06-P-035",
+            "AC9E3LA06-P-036"
+          ],
+          "test": [
+            "AC9E3LA06-T-011",
+            "AC9E3LA06-T-012"
+          ]
+        },
+        "repairing_agreement_in_context": {
+          "practice": [
+            "AC9E3LA06-P-037",
+            "AC9E3LA06-P-038",
+            "AC9E3LA06-P-039",
+            "AC9E3LA06-P-040",
+            "AC9E3LA06-P-041",
+            "AC9E3LA06-P-042"
+          ],
+          "test": [
+            "AC9E3LA06-T-013",
+            "AC9E3LA06-T-014"
+          ]
+        },
+        "clauses_and_understood_subjects": {
+          "practice": [
+            "AC9E3LA06-P-043",
+            "AC9E3LA06-P-044",
+            "AC9E3LA06-P-045",
+            "AC9E3LA06-P-046",
+            "AC9E3LA06-P-047",
+            "AC9E3LA06-P-048"
+          ],
+          "test": [
+            "AC9E3LA06-T-015",
+            "AC9E3LA06-T-016"
+          ]
+        }
+      },
+      "stages": {
+        "apply": 40,
+        "recognise": 6,
+        "reason": 18
+      },
+      "routes": [
+        {
+          "bank": "practice",
+          "count": 48,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la06/practice/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 40
+        },
+        {
+          "bank": "test",
+          "count": 16,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la06/test/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 16
+        }
+      ]
+    },
+    {
+      "code": "AC9E3LA07",
+      "status": "PASS",
+      "preservedSourceIds": 56,
+      "addedPracticeIds": 8,
+      "coverage": {
+        "doing_verbs": {
+          "practice": [
+            "AC9E3LA07-P-001",
+            "AC9E3LA07-P-002",
+            "AC9E3LA07-P-003",
+            "AC9E3LA07-P-004",
+            "AC9E3LA07-P-005",
+            "AC9E3LA07-P-006"
+          ],
+          "test": [
+            "AC9E3LA07-T-001",
+            "AC9E3LA07-T-002"
+          ]
+        },
+        "feeling_verbs": {
+          "practice": [
+            "AC9E3LA07-P-007",
+            "AC9E3LA07-P-008",
+            "AC9E3LA07-P-009",
+            "AC9E3LA07-P-010",
+            "AC9E3LA07-P-011",
+            "AC9E3LA07-P-012"
+          ],
+          "test": [
+            "AC9E3LA07-T-003",
+            "AC9E3LA07-T-004"
+          ]
+        },
+        "thinking_verbs": {
+          "practice": [
+            "AC9E3LA07-P-013",
+            "AC9E3LA07-P-014",
+            "AC9E3LA07-P-015",
+            "AC9E3LA07-P-016",
+            "AC9E3LA07-P-017",
+            "AC9E3LA07-P-018"
+          ],
+          "test": [
+            "AC9E3LA07-T-005",
+            "AC9E3LA07-T-006"
+          ]
+        },
+        "saying_verbs": {
+          "practice": [
+            "AC9E3LA07-P-019",
+            "AC9E3LA07-P-020",
+            "AC9E3LA07-P-021",
+            "AC9E3LA07-P-022",
+            "AC9E3LA07-P-023",
+            "AC9E3LA07-P-024"
+          ],
+          "test": [
+            "AC9E3LA07-T-007",
+            "AC9E3LA07-T-008"
+          ]
+        },
+        "relating_verbs": {
+          "practice": [
+            "AC9E3LA07-P-025",
+            "AC9E3LA07-P-026",
+            "AC9E3LA07-P-027",
+            "AC9E3LA07-P-028",
+            "AC9E3LA07-P-029",
+            "AC9E3LA07-P-030"
+          ],
+          "test": [
+            "AC9E3LA07-T-009",
+            "AC9E3LA07-T-010"
+          ]
+        },
+        "verb_meaning_in_context": {
+          "practice": [
+            "AC9E3LA07-P-031",
+            "AC9E3LA07-P-032",
+            "AC9E3LA07-P-033",
+            "AC9E3LA07-P-034",
+            "AC9E3LA07-P-035",
+            "AC9E3LA07-P-036"
+          ],
+          "test": [
+            "AC9E3LA07-T-011",
+            "AC9E3LA07-T-012"
+          ]
+        },
+        "main_verbs_in_groups": {
+          "practice": [
+            "AC9E3LA07-P-037",
+            "AC9E3LA07-P-038",
+            "AC9E3LA07-P-039",
+            "AC9E3LA07-P-040",
+            "AC9E3LA07-P-041",
+            "AC9E3LA07-P-042"
+          ],
+          "test": [
+            "AC9E3LA07-T-013",
+            "AC9E3LA07-T-014"
+          ]
+        },
+        "choosing_verbs_for_meaning": {
+          "practice": [
+            "AC9E3LA07-P-043",
+            "AC9E3LA07-P-044",
+            "AC9E3LA07-P-045",
+            "AC9E3LA07-P-046",
+            "AC9E3LA07-P-047",
+            "AC9E3LA07-P-048"
+          ],
+          "test": [
+            "AC9E3LA07-T-015",
+            "AC9E3LA07-T-016"
+          ]
+        }
+      },
+      "stages": {
+        "recognise": 19,
+        "apply": 26,
+        "reason": 19
+      },
+      "routes": [
+        {
+          "bank": "practice",
+          "count": 48,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la07/practice/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 40
+        },
+        {
+          "bank": "test",
+          "count": 16,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la07/test/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 16
+        }
+      ]
+    },
+    {
+      "code": "AC9E3LA08",
+      "status": "PASS",
+      "preservedSourceIds": 56,
+      "addedPracticeIds": 8,
+      "coverage": {
+        "recognising_past_time": {
+          "practice": [
+            "AC9E3LA08-P-001",
+            "AC9E3LA08-P-002",
+            "AC9E3LA08-P-003",
+            "AC9E3LA08-P-004",
+            "AC9E3LA08-P-005",
+            "AC9E3LA08-P-006"
+          ],
+          "test": [
+            "AC9E3LA08-T-001",
+            "AC9E3LA08-T-002"
+          ]
+        },
+        "present_habits_facts_and_states": {
+          "practice": [
+            "AC9E3LA08-P-007",
+            "AC9E3LA08-P-008",
+            "AC9E3LA08-P-009",
+            "AC9E3LA08-P-010",
+            "AC9E3LA08-P-011",
+            "AC9E3LA08-P-012"
+          ],
+          "test": [
+            "AC9E3LA08-T-003",
+            "AC9E3LA08-T-004"
+          ]
+        },
+        "expressing_future_time": {
+          "practice": [
+            "AC9E3LA08-P-013",
+            "AC9E3LA08-P-014",
+            "AC9E3LA08-P-015",
+            "AC9E3LA08-P-016",
+            "AC9E3LA08-P-017",
+            "AC9E3LA08-P-018"
+          ],
+          "test": [
+            "AC9E3LA08-T-005",
+            "AC9E3LA08-T-006"
+          ]
+        },
+        "forming_regular_past_verbs": {
+          "practice": [
+            "AC9E3LA08-P-019",
+            "AC9E3LA08-P-020",
+            "AC9E3LA08-P-021",
+            "AC9E3LA08-P-022",
+            "AC9E3LA08-P-023",
+            "AC9E3LA08-P-024"
+          ],
+          "test": [
+            "AC9E3LA08-T-007",
+            "AC9E3LA08-T-008"
+          ]
+        },
+        "common_irregular_past_forms": {
+          "practice": [
+            "AC9E3LA08-P-025",
+            "AC9E3LA08-P-026",
+            "AC9E3LA08-P-027",
+            "AC9E3LA08-P-028",
+            "AC9E3LA08-P-029",
+            "AC9E3LA08-P-030"
+          ],
+          "test": [
+            "AC9E3LA08-T-009",
+            "AC9E3LA08-T-010"
+          ]
+        },
+        "changing_tense_preserving_meaning": {
+          "practice": [
+            "AC9E3LA08-P-031",
+            "AC9E3LA08-P-032",
+            "AC9E3LA08-P-033",
+            "AC9E3LA08-P-034",
+            "AC9E3LA08-P-035",
+            "AC9E3LA08-P-036"
+          ],
+          "test": [
+            "AC9E3LA08-T-011",
+            "AC9E3LA08-T-012"
+          ]
+        },
+        "tense_consistency_in_recounts": {
+          "practice": [
+            "AC9E3LA08-P-037",
+            "AC9E3LA08-P-038",
+            "AC9E3LA08-P-039",
+            "AC9E3LA08-P-040",
+            "AC9E3LA08-P-041",
+            "AC9E3LA08-P-042"
+          ],
+          "test": [
+            "AC9E3LA08-T-013",
+            "AC9E3LA08-T-014"
+          ]
+        },
+        "interpreting_time_in_context": {
+          "practice": [
+            "AC9E3LA08-P-043",
+            "AC9E3LA08-P-044",
+            "AC9E3LA08-P-045",
+            "AC9E3LA08-P-046",
+            "AC9E3LA08-P-047",
+            "AC9E3LA08-P-048"
+          ],
+          "test": [
+            "AC9E3LA08-T-015",
+            "AC9E3LA08-T-016"
+          ]
+        }
+      },
+      "stages": {
+        "recognise": 15,
+        "apply": 29,
+        "reason": 20
+      },
+      "routes": [
+        {
+          "bank": "practice",
+          "count": 48,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la08/practice/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 40
+        },
+        {
+          "bank": "test",
+          "count": 16,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la08/test/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 16
+        }
+      ]
+    },
+    {
+      "code": "AC9E3LA09",
+      "status": "PASS",
+      "preservedSourceIds": 56,
+      "addedPracticeIds": 8,
+      "coverage": {
+        "image_adds_setting_details": {
+          "practice": [
+            "AC9E3LA09-P-001",
+            "AC9E3LA09-P-002",
+            "AC9E3LA09-P-003",
+            "AC9E3LA09-P-004",
+            "AC9E3LA09-P-005",
+            "AC9E3LA09-P-006"
+          ],
+          "test": [
+            "AC9E3LA09-T-001",
+            "AC9E3LA09-T-002"
+          ]
+        },
+        "visual_causes_and_consequences": {
+          "practice": [
+            "AC9E3LA09-P-007",
+            "AC9E3LA09-P-008",
+            "AC9E3LA09-P-009",
+            "AC9E3LA09-P-010",
+            "AC9E3LA09-P-011",
+            "AC9E3LA09-P-012"
+          ],
+          "test": [
+            "AC9E3LA09-T-003",
+            "AC9E3LA09-T-004"
+          ]
+        },
+        "expressions_and_posture": {
+          "practice": [
+            "AC9E3LA09-P-013",
+            "AC9E3LA09-P-014",
+            "AC9E3LA09-P-015",
+            "AC9E3LA09-P-016",
+            "AC9E3LA09-P-017",
+            "AC9E3LA09-P-018"
+          ],
+          "test": [
+            "AC9E3LA09-T-005",
+            "AC9E3LA09-T-006"
+          ]
+        },
+        "changes_across_images": {
+          "practice": [
+            "AC9E3LA09-P-019",
+            "AC9E3LA09-P-020",
+            "AC9E3LA09-P-021",
+            "AC9E3LA09-P-022",
+            "AC9E3LA09-P-023",
+            "AC9E3LA09-P-024"
+          ],
+          "test": [
+            "AC9E3LA09-T-007",
+            "AC9E3LA09-T-008"
+          ]
+        },
+        "diagrams_extend_instructions": {
+          "practice": [
+            "AC9E3LA09-P-025",
+            "AC9E3LA09-P-026",
+            "AC9E3LA09-P-027",
+            "AC9E3LA09-P-028",
+            "AC9E3LA09-P-029",
+            "AC9E3LA09-P-030"
+          ],
+          "test": [
+            "AC9E3LA09-T-009",
+            "AC9E3LA09-T-010"
+          ]
+        },
+        "maps_add_spatial_information": {
+          "practice": [
+            "AC9E3LA09-P-031",
+            "AC9E3LA09-P-032",
+            "AC9E3LA09-P-033",
+            "AC9E3LA09-P-034",
+            "AC9E3LA09-P-035",
+            "AC9E3LA09-P-036"
+          ],
+          "test": [
+            "AC9E3LA09-T-011",
+            "AC9E3LA09-T-012"
+          ]
+        },
+        "contrast_between_words_and_images": {
+          "practice": [
+            "AC9E3LA09-P-037",
+            "AC9E3LA09-P-038",
+            "AC9E3LA09-P-039",
+            "AC9E3LA09-P-040",
+            "AC9E3LA09-P-041",
+            "AC9E3LA09-P-042"
+          ],
+          "test": [
+            "AC9E3LA09-T-013",
+            "AC9E3LA09-T-014"
+          ]
+        },
+        "comparing_illustrators_choices": {
+          "practice": [
+            "AC9E3LA09-P-043",
+            "AC9E3LA09-P-044",
+            "AC9E3LA09-P-045",
+            "AC9E3LA09-P-046",
+            "AC9E3LA09-P-047",
+            "AC9E3LA09-P-048"
+          ],
+          "test": [
+            "AC9E3LA09-T-015",
+            "AC9E3LA09-T-016"
+          ]
+        }
+      },
+      "stages": {
+        "recognise": 3,
+        "reason": 32,
+        "apply": 29
+      },
+      "routes": [
+        {
+          "bank": "practice",
+          "count": 48,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la09/practice/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 40
+        },
+        {
+          "bank": "test",
+          "count": 16,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la09/test/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 16
+        }
+      ]
+    },
+    {
+      "code": "AC9E3LA10",
+      "status": "PASS",
+      "preservedSourceIds": 56,
+      "addedPracticeIds": 8,
+      "coverage": {
+        "meaning_from_explanations": {
+          "practice": [
+            "AC9E3LA10-P-001",
+            "AC9E3LA10-P-002",
+            "AC9E3LA10-P-003",
+            "AC9E3LA10-P-004",
+            "AC9E3LA10-P-005",
+            "AC9E3LA10-P-006"
+          ],
+          "test": [
+            "AC9E3LA10-T-001",
+            "AC9E3LA10-T-002"
+          ]
+        },
+        "evidence_for_word_meanings": {
+          "practice": [
+            "AC9E3LA10-P-007",
+            "AC9E3LA10-P-008",
+            "AC9E3LA10-P-009",
+            "AC9E3LA10-P-010",
+            "AC9E3LA10-P-011",
+            "AC9E3LA10-P-012"
+          ],
+          "test": [
+            "AC9E3LA10-T-003",
+            "AC9E3LA10-T-004"
+          ]
+        },
+        "science_topic_vocabulary": {
+          "practice": [
+            "AC9E3LA10-P-013",
+            "AC9E3LA10-P-014",
+            "AC9E3LA10-P-015",
+            "AC9E3LA10-P-016",
+            "AC9E3LA10-P-017",
+            "AC9E3LA10-P-018"
+          ],
+          "test": [
+            "AC9E3LA10-T-005",
+            "AC9E3LA10-T-006"
+          ]
+        },
+        "mathematics_and_geography_words": {
+          "practice": [
+            "AC9E3LA10-P-019",
+            "AC9E3LA10-P-020",
+            "AC9E3LA10-P-021",
+            "AC9E3LA10-P-022",
+            "AC9E3LA10-P-023",
+            "AC9E3LA10-P-024"
+          ],
+          "test": [
+            "AC9E3LA10-T-007",
+            "AC9E3LA10-T-008"
+          ]
+        },
+        "technical_words_in_arts_and_procedures": {
+          "practice": [
+            "AC9E3LA10-P-025",
+            "AC9E3LA10-P-026",
+            "AC9E3LA10-P-027",
+            "AC9E3LA10-P-028",
+            "AC9E3LA10-P-029",
+            "AC9E3LA10-P-030"
+          ],
+          "test": [
+            "AC9E3LA10-T-009",
+            "AC9E3LA10-T-010"
+          ]
+        },
+        "multiple_meanings_in_context": {
+          "practice": [
+            "AC9E3LA10-P-031",
+            "AC9E3LA10-P-032",
+            "AC9E3LA10-P-033",
+            "AC9E3LA10-P-034",
+            "AC9E3LA10-P-035",
+            "AC9E3LA10-P-036"
+          ],
+          "test": [
+            "AC9E3LA10-T-011",
+            "AC9E3LA10-T-012"
+          ]
+        },
+        "applying_a_given_meaning": {
+          "practice": [
+            "AC9E3LA10-P-037",
+            "AC9E3LA10-P-038",
+            "AC9E3LA10-P-039",
+            "AC9E3LA10-P-040",
+            "AC9E3LA10-P-041",
+            "AC9E3LA10-P-042"
+          ],
+          "test": [
+            "AC9E3LA10-T-013",
+            "AC9E3LA10-T-014"
+          ]
+        },
+        "precise_vocabulary_and_connotation": {
+          "practice": [
+            "AC9E3LA10-P-043",
+            "AC9E3LA10-P-044",
+            "AC9E3LA10-P-045",
+            "AC9E3LA10-P-046",
+            "AC9E3LA10-P-047",
+            "AC9E3LA10-P-048"
+          ],
+          "test": [
+            "AC9E3LA10-T-015",
+            "AC9E3LA10-T-016"
+          ]
+        }
+      },
+      "stages": {
+        "recognise": 5,
+        "apply": 33,
+        "reason": 26
+      },
+      "routes": [
+        {
+          "bank": "practice",
+          "count": 48,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la10/practice/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 40
+        },
+        {
+          "bank": "test",
+          "count": 16,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la10/test/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 16
+        }
+      ]
+    }
+  ]
+}

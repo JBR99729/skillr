@@ -6,27 +6,36 @@
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which technical word precisely names liquid water changing into water vapour in a water-cycle report?",
-    "audio_prompt": "Which technical word precisely names liquid water changing into water vapour in a water-cycle report?",
+    "skill": "meaning_from_explanations",
+    "question": "Read: The path was narrow; only one person could walk along it at a time. What does narrow mean here?",
+    "audio_prompt": "Read: The path was narrow; only one person could walk along it at a time. What does narrow mean here?",
     "answers": [
       {
-        "text": "evaporation",
+        "text": "Covered in grass",
+        "is_correct": false
+      },
+      {
+        "text": "Full of holes",
+        "is_correct": false
+      },
+      {
+        "text": "Not very wide",
         "is_correct": true
       },
       {
-        "text": "thing",
-        "is_correct": false
-      },
-      {
-        "text": "stuff",
+        "text": "Very steep",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Technical vocabulary names ideas precisely within a field.",
-      "hint": "Choose the word a subject expert would use."
+      "summary": "The clue that only one person fits across the path explains narrow as not very wide.",
+      "hint": "Read nearby explanations and examples to work out an unfamiliar word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -35,28 +44,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Technical Vocabulary and Context",
-    "question": "In a water-cycle report, what does “evaporation” mean?",
-    "audio_prompt": "In a water-cycle report, what does “evaporation” mean?",
+    "stage": "apply",
+    "skill": "meaning_from_explanations",
+    "question": "Read: The puppy was drowsy. Its eyes kept closing, and it curled up for a nap. What does drowsy mean?",
+    "audio_prompt": "Read: The puppy was drowsy. Its eyes kept closing, and it curled up for a nap. What does drowsy mean?",
     "answers": [
       {
-        "text": "a decorative page feature",
+        "text": "Noisy",
         "is_correct": false
       },
       {
-        "text": "liquid water changing into water vapour",
+        "text": "Sleepy",
         "is_correct": true
       },
       {
-        "text": "a character's name with no subject meaning",
+        "text": "Hungry",
+        "is_correct": false
+      },
+      {
+        "text": "Playful",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Context helps readers select the relevant meaning of a technical word.",
-      "hint": "Use the subject and surrounding idea."
+      "summary": "Closing eyes and settling for a nap are clues that drowsy means sleepy.",
+      "hint": "Read nearby explanations and examples to work out an unfamiliar word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -65,28 +83,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “evaporation” stronger than “thing” in a water-cycle report?",
-    "audio_prompt": "Why is “evaporation” stronger than “thing” in a water-cycle report?",
+    "stage": "apply",
+    "skill": "meaning_from_explanations",
+    "question": "Read: We gathered debris after the storm, including broken twigs and torn paper. What is debris here?",
+    "audio_prompt": "Read: We gathered debris after the storm, including broken twigs and torn paper. What is debris here?",
     "answers": [
       {
-        "text": "It is longer, so it must always be better.",
-        "is_correct": false
-      },
-      {
-        "text": "It removes information from the explanation.",
-        "is_correct": false
-      },
-      {
-        "text": "It communicates the exact subject meaning.",
+        "text": "Scattered unwanted pieces",
         "is_correct": true
+      },
+      {
+        "text": "Containers of clean water",
+        "is_correct": false
+      },
+      {
+        "text": "Carefully packed tools",
+        "is_correct": false
+      },
+      {
+        "text": "Freshly planted flowers",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Precision, not word length, makes technical vocabulary useful.",
-      "hint": "Ask which word identifies the concept accurately."
+      "summary": "The examples of broken twigs and torn paper explain debris as scattered pieces left behind.",
+      "hint": "Read nearby explanations and examples to work out an unfamiliar word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -95,28 +122,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A reader does not know “evaporation” in a water-cycle report. Which clue is most useful?",
-    "audio_prompt": "A reader does not know “evaporation” in a water-cycle report. Which clue is most useful?",
+    "stage": "apply",
+    "skill": "meaning_from_explanations",
+    "question": "Read: The fabric is transparent, so I can see the pattern underneath it. What does transparent mean?",
+    "audio_prompt": "Read: The fabric is transparent, so I can see the pattern underneath it. What does transparent mean?",
     "answers": [
       {
-        "text": "The nearby explanation “liquid water changing into water vapour”.",
+        "text": "Unable to get wet",
+        "is_correct": false
+      },
+      {
+        "text": "Able to be seen through",
         "is_correct": true
       },
       {
-        "text": "The colour of the page border.",
+        "text": "Rough when touched",
         "is_correct": false
       },
       {
-        "text": "The number of letters in the heading.",
+        "text": "Easy to tear apart",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Definitions and surrounding information support word meaning.",
-      "hint": "Look for a clue that explains the idea."
+      "summary": "Seeing the pattern underneath gives the clue that light passes through the fabric so objects can be seen.",
+      "hint": "Read nearby explanations and examples to work out an unfamiliar word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -125,28 +161,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Technical Vocabulary and Context",
-    "question": "The word “cycle” can have more than one meaning. What should a reader check first?",
-    "audio_prompt": "The word “cycle” can have more than one meaning. What should a reader check first?",
+    "stage": "reason",
+    "skill": "meaning_from_explanations",
+    "question": "Read: The once-crowded beach was deserted; no people remained. Which meaning fits deserted?",
+    "audio_prompt": "Read: The once-crowded beach was deserted; no people remained. Which meaning fits deserted?",
     "answers": [
       {
-        "text": "Only whether the word is short.",
+        "text": "Covered in sand dunes",
         "is_correct": false
       },
       {
-        "text": "The subject and surrounding sentence.",
+        "text": "Empty of people",
         "is_correct": true
       },
       {
-        "text": "Only its position in the alphabet.",
+        "text": "Always extremely hot",
+        "is_correct": false
+      },
+      {
+        "text": "Far from any water",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Context determines which meaning is intended.",
-      "hint": "Read around the word before choosing a meaning."
+      "summary": "The explanation no people remained shows deserted means empty of people here, not a desert landscape.",
+      "hint": "Read nearby explanations and examples to work out an unfamiliar word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -155,28 +200,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which sentence uses “evaporation” precisely?",
-    "audio_prompt": "Which sentence uses “evaporation” precisely?",
+    "stage": "reason",
+    "skill": "meaning_from_explanations",
+    "question": "Read: The twins constructed a shelter from branches. They joined the pieces into a roof and walls. What does constructed mean?",
+    "audio_prompt": "Read: The twins constructed a shelter from branches. They joined the pieces into a roof and walls. What does constructed mean?",
     "answers": [
       {
-        "text": "The evaporation was a random colour with no connection to a water-cycle report.",
+        "text": "Measured",
         "is_correct": false
       },
       {
-        "text": "Every object is always called evaporation.",
+        "text": "Painted",
         "is_correct": false
       },
       {
-        "text": "The a water-cycle report explains evaporation as liquid water changing into water vapour.",
+        "text": "Discovered",
+        "is_correct": false
+      },
+      {
+        "text": "Built",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Precise usage fits the word's field-specific meaning.",
-      "hint": "Check whether the sentence matches the definition."
+      "summary": "Joining pieces to make a roof and walls explains constructed as built.",
+      "hint": "Read nearby explanations and examples to work out an unfamiliar word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -185,28 +239,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which vocabulary note would best help a reader of a water-cycle report?",
-    "audio_prompt": "Which vocabulary note would best help a reader of a water-cycle report?",
+    "stage": "apply",
+    "skill": "evidence_for_word_meanings",
+    "question": "Read: The soup was scalding. Lee waited for it to cool before taking a sip. Which clue suggests scalding means extremely hot?",
+    "audio_prompt": "Read: The soup was scalding. Lee waited for it to cool before taking a sip. Which clue suggests scalding means extremely hot?",
     "answers": [
       {
-        "text": "evaporation: liquid water changing into water vapour",
+        "text": "Someone was named Lee.",
+        "is_correct": false
+      },
+      {
+        "text": "Lee waited for it to cool.",
         "is_correct": true
       },
       {
-        "text": "evaporation: any word at all",
+        "text": "The food was soup.",
         "is_correct": false
       },
       {
-        "text": "evaporation: meaning not given",
+        "text": "Lee was going to take a sip.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A glossary-style note gives a clear contextual definition.",
-      "hint": "Choose the note that is specific and accurate."
+      "summary": "Waiting for the soup to cool directly supports the meaning extremely hot.",
+      "hint": "Choose the nearby detail that explains the word, not just any detail in the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -215,28 +278,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A writer replaces “evaporation” with “nice thing” in a water-cycle report. What is lost?",
-    "audio_prompt": "A writer replaces “evaporation” with “nice thing” in a water-cycle report. What is lost?",
+    "stage": "apply",
+    "skill": "evidence_for_word_meanings",
+    "question": "Read: The hall was spacious. There was plenty of room for all six tables. Which clue explains spacious?",
+    "audio_prompt": "Read: The hall was spacious. There was plenty of room for all six tables. Which clue explains spacious?",
     "answers": [
       {
-        "text": "Only the page decoration.",
+        "text": "The word hall alone",
         "is_correct": false
       },
       {
-        "text": "The precise technical meaning.",
+        "text": "The word there alone",
+        "is_correct": false
+      },
+      {
+        "text": "All six tables",
+        "is_correct": false
+      },
+      {
+        "text": "Plenty of room",
         "is_correct": true
-      },
-      {
-        "text": "The ability to use capital letters.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Vague wording can weaken a subject explanation.",
-      "hint": "Compare how exactly each phrase names the concept."
+      "summary": "Plenty of room explains that spacious means having a lot of space.",
+      "hint": "Choose the nearby detail that explains the word, not just any detail in the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -245,28 +317,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which technical word precisely names a seed beginning to grow in a plant science lesson?",
-    "audio_prompt": "Which technical word precisely names a seed beginning to grow in a plant science lesson?",
+    "stage": "apply",
+    "skill": "evidence_for_word_meanings",
+    "question": "Read: We were famished after the walk and quickly ate every sandwich. Which action best explains famished?",
+    "audio_prompt": "Read: We were famished after the walk and quickly ate every sandwich. Which action best explains famished?",
     "answers": [
       {
-        "text": "thing",
+        "text": "Having sandwiches available",
         "is_correct": false
       },
       {
-        "text": "stuff",
-        "is_correct": false
-      },
-      {
-        "text": "germination",
+        "text": "Quickly eating every sandwich",
         "is_correct": true
+      },
+      {
+        "text": "Going for a walk",
+        "is_correct": false
+      },
+      {
+        "text": "Being together as a group",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Technical vocabulary names ideas precisely within a field.",
-      "hint": "Choose the word a subject expert would use."
+      "summary": "Eating all the food quickly supports very hungry, the meaning of famished here.",
+      "hint": "Choose the nearby detail that explains the word, not just any detail in the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -275,28 +356,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Technical Vocabulary and Context",
-    "question": "In a plant science lesson, what does “germination” mean?",
-    "audio_prompt": "In a plant science lesson, what does “germination” mean?",
+    "stage": "reason",
+    "skill": "evidence_for_word_meanings",
+    "question": "Read: The vase was ancient. It had been made thousands of years ago. Which detail best supports ancient meaning very old?",
+    "audio_prompt": "Read: The vase was ancient. It had been made thousands of years ago. Which detail best supports ancient meaning very old?",
     "answers": [
       {
-        "text": "a seed beginning to grow",
+        "text": "Being a vase",
+        "is_correct": false
+      },
+      {
+        "text": "Made thousands of years ago",
         "is_correct": true
       },
       {
-        "text": "a decorative page feature",
+        "text": "Having been made by someone",
         "is_correct": false
       },
       {
-        "text": "a character's name with no subject meaning",
+        "text": "Being mentioned in a sentence",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Context helps readers select the relevant meaning of a technical word.",
-      "hint": "Use the subject and surrounding idea."
+      "summary": "The age given in thousands of years directly explains ancient.",
+      "hint": "Choose the nearby detail that explains the word, not just any detail in the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -305,28 +395,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “It communicates the exact subject meaning.” the best answer here? Why is “germination” stronger than “thing” in a plant science lesson?",
-    "audio_prompt": "Why is “It communicates the exact subject meaning.” the best answer here? Why is “germination” stronger than “thing” in a plant science lesson?",
+    "stage": "reason",
+    "skill": "evidence_for_word_meanings",
+    "question": "Read: The puppy was reluctant to enter. It stopped at the gate and backed away. Why does reluctant mean unwilling here?",
+    "audio_prompt": "Read: The puppy was reluctant to enter. It stopped at the gate and backed away. Why does reluctant mean unwilling here?",
     "answers": [
       {
-        "text": "Because “It is longer, so it must always be better.” sounds familiar.",
+        "text": "All puppies dislike every gate.",
         "is_correct": false
       },
       {
-        "text": "Precision, not word length, makes technical vocabulary useful.",
+        "text": "The gate must be made of metal.",
+        "is_correct": false
+      },
+      {
+        "text": "Its actions show hesitation and retreat.",
         "is_correct": true
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "The sentence names an animal.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Precision, not word length, makes technical vocabulary useful.",
-      "hint": "Ask which word identifies the concept accurately."
+      "summary": "Stopping and backing away show unwillingness to enter. The other claims are unsupported or unrelated.",
+      "hint": "Choose the nearby detail that explains the word, not just any detail in the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -335,28 +434,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “The nearby explanation “a seed beginning to grow”.” the best answer here? A reader does not know “germination” in a plant science lesson. Which clue is most useful?",
-    "audio_prompt": "Why is “The nearby explanation “a seed beginning to grow”.” the best answer here? A reader does not know “germination” in a plant science lesson. Which clue is most useful?",
+    "stage": "reason",
+    "skill": "evidence_for_word_meanings",
+    "question": "Read: The water was murky, so we could not see the stones beneath it. Which clue best supports murky meaning hard to see through?",
+    "audio_prompt": "Read: The water was murky, so we could not see the stones beneath it. Which clue best supports murky meaning hard to see through?",
     "answers": [
       {
-        "text": "Because “The colour of the page border.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
-        "is_correct": false
-      },
-      {
-        "text": "Definitions and surrounding information support word meaning.",
+        "text": "We could not see the stones beneath it.",
         "is_correct": true
+      },
+      {
+        "text": "Some things were beneath other things.",
+        "is_correct": false
+      },
+      {
+        "text": "The passage mentions water.",
+        "is_correct": false
+      },
+      {
+        "text": "There were stones in the water.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Definitions and surrounding information support word meaning.",
-      "hint": "Look for a clue that explains the idea."
+      "summary": "Not being able to see through the water directly supports the meaning of murky.",
+      "hint": "Choose the nearby detail that explains the word, not just any detail in the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -365,28 +473,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “The subject and surrounding sentence.” the best answer here? The word “shoot” can have more than one meaning. What should a reader check first?",
-    "audio_prompt": "Why is “The subject and surrounding sentence.” the best answer here? The word “shoot” can have more than one meaning. What should a reader check first?",
+    "stage": "recognise",
+    "skill": "science_topic_vocabulary",
+    "question": "Read: A seed begins to germinate when it starts growing into a new plant. What does germinate mean?",
+    "audio_prompt": "Read: A seed begins to germinate when it starts growing into a new plant. What does germinate mean?",
     "answers": [
       {
-        "text": "Context determines which meaning is intended.",
+        "text": "Change into a rock",
+        "is_correct": false
+      },
+      {
+        "text": "Stop needing space",
+        "is_correct": false
+      },
+      {
+        "text": "Begin to grow",
         "is_correct": true
       },
       {
-        "text": "Because “Only whether the word is short.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Lose all its water",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Context determines which meaning is intended.",
-      "hint": "Read around the word before choosing a meaning."
+      "summary": "The sentence explains germinate as the beginning of growth from a seed.",
+      "hint": "Use the explanation in the science context to understand the topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -395,28 +512,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “The a plant science lesson explains germination as a seed beginning to grow.” the best answer here? Which sentence uses “germination” precisely?",
-    "audio_prompt": "Why is “The a plant science lesson explains germination as a seed beginning to grow.” the best answer here? Which sentence uses “germination” precisely?",
+    "stage": "apply",
+    "skill": "science_topic_vocabulary",
+    "question": "Read: The stem supports the leaves and flowers above the ground. Which plant part is being described?",
+    "audio_prompt": "Read: The stem supports the leaves and flowers above the ground. Which plant part is being described?",
     "answers": [
       {
-        "text": "Because “The germination was a random colour with no connection to a plant science lesson.” sounds familiar.",
+        "text": "A petal",
         "is_correct": false
       },
       {
-        "text": "Precise usage fits the word's field-specific meaning.",
+        "text": "The stem",
         "is_correct": true
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "A seed coat",
+        "is_correct": false
+      },
+      {
+        "text": "A fruit",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Precise usage fits the word's field-specific meaning.",
-      "hint": "Check whether the sentence matches the definition."
+      "summary": "Stem is the topic word for the supporting plant part described in the sentence.",
+      "hint": "Use the explanation in the science context to understand the topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -425,28 +551,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “germination: a seed beginning to grow” the best answer here? Which vocabulary note would best help a reader of a plant science lesson?",
-    "audio_prompt": "Why is “germination: a seed beginning to grow” the best answer here? Which vocabulary note would best help a reader of a plant science lesson?",
+    "stage": "apply",
+    "skill": "science_topic_vocabulary",
+    "question": "Read: A thermometer measures temperature, telling us how hot or cold something is. What does temperature describe?",
+    "audio_prompt": "Read: A thermometer measures temperature, telling us how hot or cold something is. What does temperature describe?",
     "answers": [
       {
-        "text": "Because “germination: any word at all” sounds familiar.",
+        "text": "How long something is",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "How loud something is",
         "is_correct": false
       },
       {
-        "text": "A glossary-style note gives a clear contextual definition.",
+        "text": "How heavy something is",
+        "is_correct": false
+      },
+      {
+        "text": "How hot or cold something is",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A glossary-style note gives a clear contextual definition.",
-      "hint": "Choose the note that is specific and accurate."
+      "summary": "Temperature is a measure of how hot or cold something is, as the context explains.",
+      "hint": "Use the explanation in the science context to understand the topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -455,28 +590,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “The precise technical meaning.” the best answer here? A writer replaces “germination” with “nice thing” in a plant science lesson. What is lost?",
-    "audio_prompt": "Why is “The precise technical meaning.” the best answer here? A writer replaces “germination” with “nice thing” in a plant science lesson. What is lost?",
+    "stage": "apply",
+    "skill": "science_topic_vocabulary",
+    "question": "Read: The soil's texture is how it feels, such as gritty or smooth. Which observation is about texture?",
+    "audio_prompt": "Read: The soil's texture is how it feels, such as gritty or smooth. Which observation is about texture?",
     "answers": [
       {
-        "text": "Vague wording can weaken a subject explanation.",
+        "text": "The soil feels gritty.",
         "is_correct": true
       },
       {
-        "text": "Because “Only the page decoration.” sounds familiar.",
+        "text": "The soil fills two cups.",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "The soil was collected today.",
+        "is_correct": false
+      },
+      {
+        "text": "The soil is dark brown.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Vague wording can weaken a subject explanation.",
-      "hint": "Compare how exactly each phrase names the concept."
+      "summary": "Gritty describes how the soil feels. The other observations concern amount, colour or time.",
+      "hint": "Use the explanation in the science context to understand the topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -485,28 +629,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “erosion” the best answer here? Which technical word precisely names earth material being worn away and moved in a geography article?",
-    "audio_prompt": "Why is “erosion” the best answer here? Which technical word precisely names earth material being worn away and moved in a geography article?",
+    "stage": "reason",
+    "skill": "science_topic_vocabulary",
+    "question": "Read: A habitat is a place where a living thing lives and finds what it needs. Which phrase uses habitat in this sense?",
+    "audio_prompt": "Read: A habitat is a place where a living thing lives and finds what it needs. Which phrase uses habitat in this sense?",
     "answers": [
       {
-        "text": "Because “thing” sounds familiar.",
+        "text": "The frog's colour is its habitat.",
         "is_correct": false
       },
       {
-        "text": "Technical vocabulary names ideas precisely within a field.",
+        "text": "The frog's jump is its habitat.",
+        "is_correct": false
+      },
+      {
+        "text": "The frog's croak is its habitat.",
+        "is_correct": false
+      },
+      {
+        "text": "The wetland is the frog's habitat.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Technical vocabulary names ideas precisely within a field.",
-      "hint": "Choose the word a subject expert would use."
+      "summary": "A wetland is a place a frog may live. A movement, colour or sound is not a habitat.",
+      "hint": "Use the explanation in the science context to understand the topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -515,28 +668,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “earth material being worn away and moved” the best answer here? In a geography article, what does “erosion” mean?",
-    "audio_prompt": "Why is “earth material being worn away and moved” the best answer here? In a geography article, what does “erosion” mean?",
+    "stage": "reason",
+    "skill": "science_topic_vocabulary",
+    "question": "Read: When ice melts, it changes from a solid to liquid water. Which event illustrates melts?",
+    "audio_prompt": "Read: When ice melts, it changes from a solid to liquid water. Which event illustrates melts?",
     "answers": [
       {
-        "text": "Because “a decorative page feature” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
-        "is_correct": false
-      },
-      {
-        "text": "Context helps readers select the relevant meaning of a technical word.",
+        "text": "An ice cube becomes water.",
         "is_correct": true
+      },
+      {
+        "text": "A wet towel is folded.",
+        "is_correct": false
+      },
+      {
+        "text": "A rock is broken into smaller pieces.",
+        "is_correct": false
+      },
+      {
+        "text": "Water becomes a hard ice cube.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Context helps readers select the relevant meaning of a technical word.",
-      "hint": "Use the subject and surrounding idea."
+      "summary": "Melting is the change from solid to liquid described in the context, not freezing, breaking or folding.",
+      "hint": "Use the explanation in the science context to understand the topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -545,28 +707,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “It communicates the exact subject meaning.” the best answer here? Why is “erosion” stronger than “thing” in a geography article?",
-    "audio_prompt": "Why is “It communicates the exact subject meaning.” the best answer here? Why is “erosion” stronger than “thing” in a geography article?",
+    "stage": "recognise",
+    "skill": "mathematics_and_geography_words",
+    "question": "Read: The perimeter is the distance around the outside of a shape. What would you measure to find it?",
+    "audio_prompt": "Read: The perimeter is the distance around the outside of a shape. What would you measure to find it?",
     "answers": [
       {
-        "text": "Precision, not word length, makes technical vocabulary useful.",
+        "text": "The space inside the shape",
+        "is_correct": false
+      },
+      {
+        "text": "The lengths around the boundary",
         "is_correct": true
       },
       {
-        "text": "Because “It is longer, so it must always be better.” sounds familiar.",
+        "text": "The shape's colour",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "The number of pages in a book",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Precision, not word length, makes technical vocabulary useful.",
-      "hint": "Ask which word identifies the concept accurately."
+      "summary": "The definition identifies perimeter with distance around the boundary, not area inside.",
+      "hint": "Use the subject context to work out the precise meaning of a topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -575,28 +746,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “The nearby explanation “earth material being worn away and moved”.” the best answer here? A reader does not know “erosion” in a geography article. Which clue is most useful?",
-    "audio_prompt": "Why is “The nearby explanation “earth material being worn away and moved”.” the best answer here? A reader does not know “erosion” in a geography article. Which clue is most useful?",
+    "stage": "apply",
+    "skill": "mathematics_and_geography_words",
+    "question": "Read: A map's legend explains what its symbols mean. What is the legend used for here?",
+    "audio_prompt": "Read: A map's legend explains what its symbols mean. What is the legend used for here?",
     "answers": [
       {
-        "text": "Because “The colour of the page border.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Definitions and surrounding information support word meaning.",
+        "text": "Understanding the map's symbols",
         "is_correct": true
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Finding the author's favourite story",
+        "is_correct": false
+      },
+      {
+        "text": "Counting every word on the map",
+        "is_correct": false
+      },
+      {
+        "text": "Measuring the paper's thickness",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Definitions and surrounding information support word meaning.",
-      "hint": "Look for a clue that explains the idea."
+      "summary": "In a map context, legend means the key that explains symbols.",
+      "hint": "Use the subject context to work out the precise meaning of a topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -605,28 +785,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A student chooses “thing” for this task: Which technical word precisely names liquid water changing into water vapour in a water-cycle report? What should they check?",
-    "audio_prompt": "A student chooses “thing” for this task: Which technical word precisely names liquid water changing into water vapour in a water-cycle report? What should they check?",
+    "stage": "apply",
+    "skill": "mathematics_and_geography_words",
+    "question": "Read: The horizontal line goes straight across the page from left to right. Which direction is horizontal here?",
+    "audio_prompt": "Read: The horizontal line goes straight across the page from left to right. Which direction is horizontal here?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "Diagonally from corner to corner",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "Around in a circle",
         "is_correct": false
       },
       {
-        "text": "Choose the word a subject expert would use.",
+        "text": "Across from left to right",
         "is_correct": true
+      },
+      {
+        "text": "Up from bottom to top",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose the word a subject expert would use. Technical vocabulary names ideas precisely within a field.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The sentence explains horizontal as running across the page.",
+      "hint": "Use the subject context to work out the precise meaning of a topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -635,28 +824,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A student chooses “a decorative page feature” for this task: In a water-cycle report, what does “evaporation” mean? What should they check?",
-    "audio_prompt": "A student chooses “a decorative page feature” for this task: In a water-cycle report, what does “evaporation” mean? What should they check?",
+    "stage": "apply",
+    "skill": "mathematics_and_geography_words",
+    "question": "Read: A route is the way taken from one place to another. Which is a route?",
+    "audio_prompt": "Read: A route is the way taken from one place to another. Which is a route?",
     "answers": [
       {
-        "text": "Use the subject and surrounding idea.",
+        "text": "The path from home to the library",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "The number of books borrowed",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The name on a library card",
+        "is_correct": false
+      },
+      {
+        "text": "The height of a library shelf",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Use the subject and surrounding idea. Context helps readers select the relevant meaning of a technical word.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "A route describes a way of travelling between places.",
+      "hint": "Use the subject context to work out the precise meaning of a topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -665,28 +863,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A student chooses “It is longer, so it must always be better.” for this task: Why is “evaporation” stronger than “thing” in a water-cycle report? What should they check?",
-    "audio_prompt": "A student chooses “It is longer, so it must always be better.” for this task: Why is “evaporation” stronger than “thing” in a water-cycle report? What should they check?",
+    "stage": "reason",
+    "skill": "mathematics_and_geography_words",
+    "question": "Read: An estimate is a close guess made using information. Which action is estimating?",
+    "audio_prompt": "Read: An estimate is a close guess made using information. Which action is estimating?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "Reading a label that states the exact number",
         "is_correct": false
       },
       {
-        "text": "Ask which word identifies the concept accurately.",
+        "text": "Judging that a jar holds about 50 beads by looking carefully",
         "is_correct": true
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "Counting every bead one by one to get an exact total",
+        "is_correct": false
+      },
+      {
+        "text": "Choosing a number without looking at the jar",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Ask which word identifies the concept accurately. Precision, not word length, makes technical vocabulary useful.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "A careful approximate judgement uses information without an exact count, matching estimate.",
+      "hint": "Use the subject context to work out the precise meaning of a topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -695,28 +902,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A student chooses “The colour of the page border.” for this task: A reader does not know “evaporation” in a water-cycle report. Which clue is most useful? What should they check?",
-    "audio_prompt": "A student chooses “The colour of the page border.” for this task: A reader does not know “evaporation” in a water-cycle report. Which clue is most useful? What should they check?",
+    "stage": "reason",
+    "skill": "mathematics_and_geography_words",
+    "question": "Read: The scale on this map shows that one centimetre represents one kilometre. What does scale mean here?",
+    "audio_prompt": "Read: The scale on this map shows that one centimetre represents one kilometre. What does scale mean here?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "A tool for weighing fruit",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "A covering on a fish",
         "is_correct": false
       },
       {
-        "text": "Look for a clue that explains the idea.",
+        "text": "A series of musical notes",
+        "is_correct": false
+      },
+      {
+        "text": "A link between map distance and real distance",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Look for a clue that explains the idea. Definitions and surrounding information support word meaning.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The distance comparison gives the map meaning of scale. The other choices are different meanings of the same word.",
+      "hint": "Use the subject context to work out the precise meaning of a topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -725,28 +941,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A student chooses “Only whether the word is short.” for this task: The word “cycle” can have more than one meaning. What should a reader check first? What should they check?",
-    "audio_prompt": "A student chooses “Only whether the word is short.” for this task: The word “cycle” can have more than one meaning. What should a reader check first? What should they check?",
+    "stage": "recognise",
+    "skill": "technical_words_in_arts_and_procedures",
+    "question": "Read: The chorus is the part of a song that repeats between verses. Which part repeats?",
+    "audio_prompt": "Read: The chorus is the part of a song that repeats between verses. Which part repeats?",
     "answers": [
       {
-        "text": "Read around the word before choosing a meaning.",
+        "text": "The chorus",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "The cast",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The caption",
+        "is_correct": false
+      },
+      {
+        "text": "The cover",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Read around the word before choosing a meaning. Context determines which meaning is intended.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The context defines chorus as the repeated section of the song.",
+      "hint": "Specialist words can name tools, features or steps; use the given explanation."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -755,28 +980,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A student chooses “The evaporation was a random colour with no connection to a water-cycle report.” for this task: Which sentence uses “evaporation” precisely? What should they check?",
-    "audio_prompt": "A student chooses “The evaporation was a random colour with no connection to a water-cycle report.” for this task: Which sentence uses “evaporation” precisely? What should they check?",
+    "stage": "apply",
+    "skill": "technical_words_in_arts_and_procedures",
+    "question": "Read: An illustrator creates pictures for a book. Who is the illustrator?",
+    "audio_prompt": "Read: An illustrator creates pictures for a book. Who is the illustrator?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "The person who builds the bookshelf",
         "is_correct": false
       },
       {
-        "text": "Check whether the sentence matches the definition.",
+        "text": "The person who delivers the parcel",
+        "is_correct": false
+      },
+      {
+        "text": "The person who borrows the book",
+        "is_correct": false
+      },
+      {
+        "text": "The person who makes the pictures",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the example and choose the remaining option.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Check whether the sentence matches the definition. Precise usage fits the word's field-specific meaning.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Illustrator is the term for the creator of the book's pictures.",
+      "hint": "Specialist words can name tools, features or steps; use the given explanation."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -785,28 +1019,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A student chooses “evaporation: any word at all” for this task: Which vocabulary note would best help a reader of a water-cycle report? What should they check?",
-    "audio_prompt": "A student chooses “evaporation: any word at all” for this task: Which vocabulary note would best help a reader of a water-cycle report? What should they check?",
+    "stage": "apply",
+    "skill": "technical_words_in_arts_and_procedures",
+    "question": "Read: A caption is a short piece of text beside a picture that explains it. Which is a caption?",
+    "audio_prompt": "Read: A caption is a short piece of text beside a picture that explains it. Which is a caption?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "A long story with no picture",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "A blank page at the end of a book",
         "is_correct": false
       },
       {
-        "text": "Choose the note that is specific and accurate.",
+        "text": "A sentence under a photo naming the event",
         "is_correct": true
+      },
+      {
+        "text": "A list of all chapters at the front of a book",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose the note that is specific and accurate. A glossary-style note gives a clear contextual definition.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "A sentence attached to a photo that explains it fits the given meaning of caption.",
+      "hint": "Specialist words can name tools, features or steps; use the given explanation."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -815,28 +1058,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A student chooses “Only the page decoration.” for this task: A writer replaces “evaporation” with “nice thing” in a water-cycle report. What is lost? What should they check?",
-    "audio_prompt": "A student chooses “Only the page decoration.” for this task: A writer replaces “evaporation” with “nice thing” in a water-cycle report. What is lost? What should they check?",
+    "stage": "apply",
+    "skill": "technical_words_in_arts_and_procedures",
+    "question": "Read: In this recipe, knead means to press and fold dough repeatedly. Which action is kneading?",
+    "audio_prompt": "Read: In this recipe, knead means to press and fold dough repeatedly. Which action is kneading?",
     "answers": [
       {
-        "text": "Compare how exactly each phrase names the concept.",
+        "text": "Pressing and folding the dough",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "Pouring milk into a cup",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "Cutting a finished loaf into slices",
+        "is_correct": false
+      },
+      {
+        "text": "Sprinkling flour on a bench once",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Compare how exactly each phrase names the concept. Vague wording can weaken a subject explanation.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Repeated pressing and folding matches the technical cooking term knead.",
+      "hint": "Specialist words can name tools, features or steps; use the given explanation."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -845,28 +1097,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A student chooses “thing” for this task: Which technical word precisely names a seed beginning to grow in a plant science lesson? What should they check?",
-    "audio_prompt": "A student chooses “thing” for this task: Which technical word precisely names a seed beginning to grow in a plant science lesson? What should they check?",
+    "stage": "reason",
+    "skill": "technical_words_in_arts_and_procedures",
+    "question": "Read: The stage directions tell actors what to do, such as 'walk to the door'. Which line is a stage direction?",
+    "audio_prompt": "Read: The stage directions tell actors what to do, such as 'walk to the door'. Which line is a stage direction?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "'Hello, everyone!'",
         "is_correct": false
       },
       {
-        "text": "Choose the word a subject expert would use.",
+        "text": "The Lost Hat",
+        "is_correct": false
+      },
+      {
+        "text": "[Mina waves to the crowd.]",
         "is_correct": true
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "'Where did you put it?'",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Choose the word a subject expert would use. Technical vocabulary names ideas precisely within a field.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The bracketed line tells an actor an action. The quoted lines are speech, and The Lost Hat is a title.",
+      "hint": "Specialist words can name tools, features or steps; use the given explanation."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -875,28 +1136,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A student chooses “a decorative page feature” for this task: In a plant science lesson, what does “germination” mean? What should they check?",
-    "audio_prompt": "A student chooses “a decorative page feature” for this task: In a plant science lesson, what does “germination” mean? What should they check?",
+    "stage": "reason",
+    "skill": "technical_words_in_arts_and_procedures",
+    "question": "Read: In drawing, an outline marks the outer edges of an object. Which action creates an outline?",
+    "audio_prompt": "Read: In drawing, an outline marks the outer edges of an object. Which action creates an outline?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "Colouring the entire page blue",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the subject and surrounding idea.",
+        "text": "Tracing the outside edge of a leaf",
         "is_correct": true
+      },
+      {
+        "text": "Counting the veins inside a leaf",
+        "is_correct": false
+      },
+      {
+        "text": "Writing a name beneath a picture",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Use the subject and surrounding idea. Context helps readers select the relevant meaning of a technical word.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Following the outside edge creates the boundary described by outline.",
+      "hint": "Specialist words can name tools, features or steps; use the given explanation."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -905,28 +1175,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which vocabulary note would best help a reader of a plant science lesson?",
-    "audio_prompt": "Which vocabulary note would best help a reader of a plant science lesson?",
+    "stage": "recognise",
+    "skill": "multiple_meanings_in_context",
+    "question": "Read: We sat on the bank beside the river. What does bank mean here?",
+    "audio_prompt": "Read: We sat on the bank beside the river. What does bank mean here?",
     "answers": [
       {
-        "text": "germination: a seed beginning to grow",
+        "text": "Land beside the water",
         "is_correct": true
       },
       {
-        "text": "germination: any word at all",
+        "text": "A place that keeps money",
         "is_correct": false
       },
       {
-        "text": "germination: meaning not given",
+        "text": "A pile of savings",
+        "is_correct": false
+      },
+      {
+        "text": "A group of clouds",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A glossary-style note gives a clear contextual definition.",
-      "hint": "Choose the note that is specific and accurate."
+      "summary": "River gives the context for bank as the land along water.",
+      "hint": "A familiar word can have different meanings. Choose the meaning that fits this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -936,27 +1215,36 @@
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A writer replaces “germination” with “nice thing” in a plant science lesson. What is lost?",
-    "audio_prompt": "A writer replaces “germination” with “nice thing” in a plant science lesson. What is lost?",
+    "skill": "multiple_meanings_in_context",
+    "question": "Read: The bat flew out at dusk. What does bat mean here?",
+    "audio_prompt": "Read: The bat flew out at dusk. What does bat mean here?",
     "answers": [
       {
-        "text": "Only the page decoration.",
+        "text": "A kind of shoe",
         "is_correct": false
       },
       {
-        "text": "The precise technical meaning.",
+        "text": "A wooden shelf",
+        "is_correct": false
+      },
+      {
+        "text": "A tool used to hit a ball",
+        "is_correct": false
+      },
+      {
+        "text": "A flying animal",
         "is_correct": true
-      },
-      {
-        "text": "The ability to use capital letters.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Vague wording can weaken a subject explanation.",
-      "hint": "Compare how exactly each phrase names the concept."
+      "summary": "Flew out at dusk supports the animal meaning, rather than sporting equipment.",
+      "hint": "A familiar word can have different meanings. Choose the meaning that fits this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -966,27 +1254,36 @@
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which technical word precisely names earth material being worn away and moved in a geography article?",
-    "audio_prompt": "Which technical word precisely names earth material being worn away and moved in a geography article?",
+    "skill": "multiple_meanings_in_context",
+    "question": "Read: The crane lifted a heavy beam at the building site. What does crane mean?",
+    "audio_prompt": "Read: The crane lifted a heavy beam at the building site. What does crane mean?",
     "answers": [
       {
-        "text": "thing",
+        "text": "A small stream",
         "is_correct": false
       },
       {
-        "text": "stuff",
+        "text": "A long-legged bird",
         "is_correct": false
       },
       {
-        "text": "erosion",
+        "text": "A lifting machine",
         "is_correct": true
+      },
+      {
+        "text": "A musical instrument",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Technical vocabulary names ideas precisely within a field.",
-      "hint": "Choose the word a subject expert would use."
+      "summary": "Lifting a heavy beam at a building site points to the machine meaning of crane.",
+      "hint": "A familiar word can have different meanings. Choose the meaning that fits this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -996,27 +1293,36 @@
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "In a geography article, what does “erosion” mean?",
-    "audio_prompt": "In a geography article, what does “erosion” mean?",
+    "skill": "multiple_meanings_in_context",
+    "question": "Read: Please seal the envelope before posting it. What does seal mean here?",
+    "audio_prompt": "Read: Please seal the envelope before posting it. What does seal mean here?",
     "answers": [
       {
-        "text": "earth material being worn away and moved",
+        "text": "Draw a sea animal on it",
+        "is_correct": false
+      },
+      {
+        "text": "Write a story inside it",
+        "is_correct": false
+      },
+      {
+        "text": "Close it securely",
         "is_correct": true
       },
       {
-        "text": "a decorative page feature",
-        "is_correct": false
-      },
-      {
-        "text": "a character's name with no subject meaning",
+        "text": "Measure its length",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Context helps readers select the relevant meaning of a technical word.",
-      "hint": "Use the subject and surrounding idea."
+      "summary": "With envelope and posting, seal means close securely, not the animal of the same name.",
+      "hint": "A familiar word can have different meanings. Choose the meaning that fits this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1025,28 +1331,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “erosion” stronger than “thing” in a geography article?",
-    "audio_prompt": "Why is “erosion” stronger than “thing” in a geography article?",
+    "stage": "reason",
+    "skill": "multiple_meanings_in_context",
+    "question": "Compare: 'The ring sparkled on her finger' and 'I heard the bell ring'. How does ring change?",
+    "audio_prompt": "Compare: 'The ring sparkled on her finger' and 'I heard the bell ring'. How does ring change?",
     "answers": [
       {
-        "text": "It is longer, so it must always be better.",
+        "text": "It tells the same sound in both sentences.",
         "is_correct": false
       },
       {
-        "text": "It communicates the exact subject meaning.",
+        "text": "It names jewellery in both sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "It names a finger first and a bell second.",
+        "is_correct": false
+      },
+      {
+        "text": "It names jewellery first and a sound-producing action second.",
         "is_correct": true
-      },
-      {
-        "text": "It removes information from the explanation.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Precision, not word length, makes technical vocabulary useful.",
-      "hint": "Ask which word identifies the concept accurately."
+      "summary": "The surrounding words show the jewellery sense first and the action of sounding second.",
+      "hint": "A familiar word can have different meanings. Choose the meaning that fits this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1055,28 +1370,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A reader does not know “erosion” in a geography article. Which clue is most useful?",
-    "audio_prompt": "A reader does not know “erosion” in a geography article. Which clue is most useful?",
+    "stage": "reason",
+    "skill": "multiple_meanings_in_context",
+    "question": "Read: The football coach helped us practise. Which meaning of coach fits?",
+    "audio_prompt": "Read: The football coach helped us practise. Which meaning of coach fits?",
     "answers": [
       {
-        "text": "The colour of the page border.",
+        "text": "A bus for long journeys",
         "is_correct": false
       },
       {
-        "text": "The number of letters in the heading.",
-        "is_correct": false
-      },
-      {
-        "text": "The nearby explanation “earth material being worn away and moved”.",
+        "text": "A person who trains players",
         "is_correct": true
+      },
+      {
+        "text": "A bag of sports equipment",
+        "is_correct": false
+      },
+      {
+        "text": "A seat near a window",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Definitions and surrounding information support word meaning.",
-      "hint": "Look for a clue that explains the idea."
+      "summary": "Helping players practise identifies a coach as a trainer in this context.",
+      "hint": "A familiar word can have different meanings. Choose the meaning that fits this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1086,27 +1410,36 @@
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "The word “bank” can have more than one meaning. What should a reader check first?",
-    "audio_prompt": "The word “bank” can have more than one meaning. What should a reader check first?",
+    "skill": "applying_a_given_meaning",
+    "question": "Which sentence uses wave to mean a movement of water?",
+    "audio_prompt": "Which sentence uses wave to mean a movement of water?",
     "answers": [
       {
-        "text": "The subject and surrounding sentence.",
+        "text": "I gave Nan a wave from the car.",
+        "is_correct": false
+      },
+      {
+        "text": "The flag began to wave.",
+        "is_correct": false
+      },
+      {
+        "text": "Please wave when you see us.",
+        "is_correct": false
+      },
+      {
+        "text": "A wave rolled onto the sand.",
         "is_correct": true
-      },
-      {
-        "text": "Only whether the word is short.",
-        "is_correct": false
-      },
-      {
-        "text": "Only its position in the alphabet.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Context determines which meaning is intended.",
-      "hint": "Read around the word before choosing a meaning."
+      "summary": "Rolling onto sand fits the water meaning. The other sentences use waving as a gesture or movement.",
+      "hint": "Try the given meaning in each sentence and choose the sentence where it fits."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1116,27 +1449,36 @@
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which sentence uses “erosion” precisely?",
-    "audio_prompt": "Which sentence uses “erosion” precisely?",
+    "skill": "applying_a_given_meaning",
+    "question": "Which sentence uses trunk to mean the main woody stem of a tree?",
+    "audio_prompt": "Which sentence uses trunk to mean the main woody stem of a tree?",
     "answers": [
       {
-        "text": "The erosion was a random colour with no connection to a geography article.",
+        "text": "The old trunk had a broken lock.",
         "is_correct": false
       },
       {
-        "text": "The a geography article explains erosion as earth material being worn away and moved.",
+        "text": "The elephant lifted its trunk.",
+        "is_correct": false
+      },
+      {
+        "text": "We packed clothes in a wooden trunk.",
+        "is_correct": false
+      },
+      {
+        "text": "The trunk was covered in rough bark.",
         "is_correct": true
-      },
-      {
-        "text": "Every object is always called erosion.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Precise usage fits the word's field-specific meaning.",
-      "hint": "Check whether the sentence matches the definition."
+      "summary": "Rough bark gives the tree context. The other examples use an elephant's body part or a storage chest.",
+      "hint": "Try the given meaning in each sentence and choose the sentence where it fits."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1146,27 +1488,36 @@
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which vocabulary note would best help a reader of a geography article?",
-    "audio_prompt": "Which vocabulary note would best help a reader of a geography article?",
+    "skill": "applying_a_given_meaning",
+    "question": "Which sentence uses pitch to mean a playing field?",
+    "audio_prompt": "Which sentence uses pitch to mean a playing field?",
     "answers": [
       {
-        "text": "erosion: any word at all",
-        "is_correct": false
-      },
-      {
-        "text": "erosion: meaning not given",
-        "is_correct": false
-      },
-      {
-        "text": "erosion: earth material being worn away and moved",
+        "text": "The football pitch was ready for the match.",
         "is_correct": true
+      },
+      {
+        "text": "Please pitch the tent by the trees.",
+        "is_correct": false
+      },
+      {
+        "text": "He made a pitch for his new idea.",
+        "is_correct": false
+      },
+      {
+        "text": "The singer changed the pitch of the note.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A glossary-style note gives a clear contextual definition.",
-      "hint": "Choose the note that is specific and accurate."
+      "summary": "Football and match give the sporting-field context. The other senses are different.",
+      "hint": "Try the given meaning in each sentence and choose the sentence where it fits."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1176,27 +1527,348 @@
     "curriculum_code": "AC9E3LA10",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A writer replaces “erosion” with “nice thing” in a geography article. What is lost?",
-    "audio_prompt": "A writer replaces “erosion” with “nice thing” in a geography article. What is lost?",
+    "skill": "applying_a_given_meaning",
+    "question": "Which sentence uses current to mean moving water?",
+    "audio_prompt": "Which sentence uses current to mean moving water?",
     "answers": [
       {
-        "text": "The precise technical meaning.",
+        "text": "The river's current carried the leaf downstream.",
         "is_correct": true
       },
       {
-        "text": "Only the page decoration.",
+        "text": "The current flows through the wire.",
         "is_correct": false
       },
       {
-        "text": "The ability to use capital letters.",
+        "text": "Our current classroom is upstairs.",
+        "is_correct": false
+      },
+      {
+        "text": "This is the current price of milk.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Vague wording can weaken a subject explanation.",
-      "hint": "Compare how exactly each phrase names the concept."
+      "summary": "River and downstream identify a flow of water. The wire sentence describes electrical current.",
+      "hint": "Try the given meaning in each sentence and choose the sentence where it fits."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA10-P-041",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA10",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "applying_a_given_meaning",
+    "question": "Which sentence uses charge to mean a price asked for a service?",
+    "audio_prompt": "Which sentence uses charge to mean a price asked for a service?",
+    "answers": [
+      {
+        "text": "Please charge the tablet tonight.",
+        "is_correct": false
+      },
+      {
+        "text": "Mum is in charge of the stall.",
+        "is_correct": false
+      },
+      {
+        "text": "The bull began to charge across the field.",
+        "is_correct": false
+      },
+      {
+        "text": "There is a small charge to hire the canoe.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The cost of hiring a canoe is a service charge. The other meanings involve power, rushing or responsibility.",
+      "hint": "Try the given meaning in each sentence and choose the sentence where it fits."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA10-P-042",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA10",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "applying_a_given_meaning",
+    "question": "Which sentence uses letter to mean a written message?",
+    "audio_prompt": "Which sentence uses letter to mean a written message?",
+    "answers": [
+      {
+        "text": "The first letter of my name is M.",
+        "is_correct": false
+      },
+      {
+        "text": "Write the letter B in the box.",
+        "is_correct": false
+      },
+      {
+        "text": "I posted a letter to my cousin.",
+        "is_correct": true
+      },
+      {
+        "text": "Which letter comes after C?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Posting a letter to someone refers to a written message. The other examples refer to alphabet symbols.",
+      "hint": "Try the given meaning in each sentence and choose the sentence where it fits."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA10-P-043",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "precise_vocabulary_and_connotation",
+    "question": "Read: The rabbit moved quickly away from the noise. Which verb makes the movement more precise?",
+    "audio_prompt": "Read: The rabbit moved quickly away from the noise. Which verb makes the movement more precise?",
+    "answers": [
+      {
+        "text": "Darted",
+        "is_correct": true
+      },
+      {
+        "text": "Rested",
+        "is_correct": false
+      },
+      {
+        "text": "Belonged",
+        "is_correct": false
+      },
+      {
+        "text": "Remembered",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Darted describes a quick sudden movement, fitting the rabbit's response.",
+      "hint": "Choose a word that fits both the topic and the feeling or exact meaning of the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA10-P-044",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "precise_vocabulary_and_connotation",
+    "question": "A report says a plant 'got bigger'. Which replacement is more precise for an increase in height?",
+    "audio_prompt": "A report says a plant 'got bigger'. Which replacement is more precise for an increase in height?",
+    "answers": [
+      {
+        "text": "Became nicer",
+        "is_correct": false
+      },
+      {
+        "text": "Was interesting",
+        "is_correct": false
+      },
+      {
+        "text": "Grew taller",
+        "is_correct": true
+      },
+      {
+        "text": "Looked different",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Grew taller identifies the specific change in height. The other phrases do not.",
+      "hint": "Choose a word that fits both the topic and the feeling or exact meaning of the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA10-P-045",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA10",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "precise_vocabulary_and_connotation",
+    "question": "Which word best fits an approving description of someone who happily lends things?",
+    "audio_prompt": "Which word best fits an approving description of someone who happily lends things?",
+    "answers": [
+      {
+        "text": "Careless",
+        "is_correct": false
+      },
+      {
+        "text": "Greedy",
+        "is_correct": false
+      },
+      {
+        "text": "Boastful",
+        "is_correct": false
+      },
+      {
+        "text": "Generous",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Generous positively describes willingness to share. The other words give different, less approving meanings.",
+      "hint": "Choose a word that fits both the topic and the feeling or exact meaning of the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA10-P-046",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA10",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "precise_vocabulary_and_connotation",
+    "question": "A character calls a room 'cosy' instead of 'cramped'. What changes most?",
+    "audio_prompt": "A character calls a room 'cosy' instead of 'cramped'. What changes most?",
+    "answers": [
+      {
+        "text": "The room must have more windows.",
+        "is_correct": false
+      },
+      {
+        "text": "The room becomes a different measured size.",
+        "is_correct": false
+      },
+      {
+        "text": "The room sounds pleasant rather than uncomfortably small.",
+        "is_correct": true
+      },
+      {
+        "text": "The room is now described as outdoors.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Cosy has a warm, positive feeling; cramped suggests discomfort from too little space. The words can frame a small room differently.",
+      "hint": "Choose a word that fits both the topic and the feeling or exact meaning of the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA10-P-047",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA10",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "precise_vocabulary_and_connotation",
+    "question": "Read: The scientist measured the temperature. Why is temperature more useful here than the word thing?",
+    "audio_prompt": "Read: The scientist measured the temperature. Why is temperature more useful here than the word thing?",
+    "answers": [
+      {
+        "text": "It makes the measurement larger.",
+        "is_correct": false
+      },
+      {
+        "text": "It names exactly what was measured.",
+        "is_correct": true
+      },
+      {
+        "text": "It tells the name of the thermometer maker.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the scientist was outdoors.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A topic-specific word identifies the property measured. A vague word such as thing does not.",
+      "hint": "Choose a word that fits both the topic and the feeling or exact meaning of the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA10-P-048",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA10",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "precise_vocabulary_and_connotation",
+    "question": "An author wants a stronger word than pleased in 'I was pleased with the surprise'. Which word fits?",
+    "audio_prompt": "An author wants a stronger word than pleased in 'I was pleased with the surprise'. Which word fits?",
+    "answers": [
+      {
+        "text": "Tired",
+        "is_correct": false
+      },
+      {
+        "text": "Unsure",
+        "is_correct": false
+      },
+      {
+        "text": "Delighted",
+        "is_correct": true
+      },
+      {
+        "text": "Calm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Delighted expresses stronger pleasure while keeping a positive meaning.",
+      "hint": "Choose a word that fits both the topic and the feeling or exact meaning of the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1205,28 +1877,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which technical word precisely names how loud or soft a sound is in a music guide?",
-    "audio_prompt": "Which technical word precisely names how loud or soft a sound is in a music guide?",
+    "stage": "apply",
+    "skill": "meaning_from_explanations",
+    "question": "Read: The box was fragile, so we carried it gently to avoid breaking it. What does fragile mean?",
+    "audio_prompt": "Read: The box was fragile, so we carried it gently to avoid breaking it. What does fragile mean?",
     "answers": [
       {
-        "text": "thing",
-        "is_correct": false
-      },
-      {
-        "text": "volume",
+        "text": "Easy to damage",
         "is_correct": true
       },
       {
-        "text": "stuff",
+        "text": "Difficult to see",
+        "is_correct": false
+      },
+      {
+        "text": "Hard to lift",
+        "is_correct": false
+      },
+      {
+        "text": "Quick to open",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Technical vocabulary names ideas precisely within a field.",
-      "hint": "Choose the word a subject expert would use."
+      "summary": "The need to avoid breaking it shows that fragile means easily damaged.",
+      "hint": "Read nearby explanations and examples to work out an unfamiliar word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1235,28 +1916,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Technical Vocabulary and Context",
-    "question": "In a music guide, what does “volume” mean?",
-    "audio_prompt": "In a music guide, what does “volume” mean?",
+    "stage": "reason",
+    "skill": "meaning_from_explanations",
+    "question": "Read: The stream was shallow; the water only reached our ankles. What does shallow mean?",
+    "audio_prompt": "Read: The stream was shallow; the water only reached our ankles. What does shallow mean?",
     "answers": [
       {
-        "text": "a decorative page feature",
+        "text": "Not clean",
         "is_correct": false
       },
       {
-        "text": "a character's name with no subject meaning",
+        "text": "Not cold",
         "is_correct": false
       },
       {
-        "text": "how loud or soft a sound is",
+        "text": "Not deep",
         "is_correct": true
+      },
+      {
+        "text": "Not moving",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Context helps readers select the relevant meaning of a technical word.",
-      "hint": "Use the subject and surrounding idea."
+      "summary": "Water reaching only ankle height provides a clue about depth, not cleanliness, movement or temperature.",
+      "hint": "Read nearby explanations and examples to work out an unfamiliar word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1265,28 +1955,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “volume” stronger than “thing” in a music guide?",
-    "audio_prompt": "Why is “volume” stronger than “thing” in a music guide?",
+    "stage": "apply",
+    "skill": "evidence_for_word_meanings",
+    "question": "Read: The room was silent. We could hear no voices or other sounds. Which clue explains silent?",
+    "audio_prompt": "Read: The room was silent. We could hear no voices or other sounds. Which clue explains silent?",
     "answers": [
       {
-        "text": "It communicates the exact subject meaning.",
+        "text": "Being able to hear",
+        "is_correct": false
+      },
+      {
+        "text": "The word we",
+        "is_correct": false
+      },
+      {
+        "text": "The word room",
+        "is_correct": false
+      },
+      {
+        "text": "No voices or other sounds",
         "is_correct": true
-      },
-      {
-        "text": "It is longer, so it must always be better.",
-        "is_correct": false
-      },
-      {
-        "text": "It removes information from the explanation.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Precision, not word length, makes technical vocabulary useful.",
-      "hint": "Ask which word identifies the concept accurately."
+      "summary": "The absence of sound explains silent. The other words do not supply that meaning.",
+      "hint": "Choose the nearby detail that explains the word, not just any detail in the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1295,28 +1994,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A reader does not know “volume” in a music guide. Which clue is most useful?",
-    "audio_prompt": "A reader does not know “volume” in a music guide. Which clue is most useful?",
+    "stage": "reason",
+    "skill": "evidence_for_word_meanings",
+    "question": "Read: The track was slippery, and our shoes kept sliding. Which detail best explains slippery?",
+    "audio_prompt": "Read: The track was slippery, and our shoes kept sliding. Which detail best explains slippery?",
     "answers": [
       {
-        "text": "The colour of the page border.",
-        "is_correct": false
-      },
-      {
-        "text": "The nearby explanation “how loud or soft a sound is”.",
+        "text": "Our shoes kept sliding.",
         "is_correct": true
       },
       {
-        "text": "The number of letters in the heading.",
+        "text": "We were wearing shoes.",
+        "is_correct": false
+      },
+      {
+        "text": "There was a track.",
+        "is_correct": false
+      },
+      {
+        "text": "More than one person was there.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Definitions and surrounding information support word meaning.",
-      "hint": "Look for a clue that explains the idea."
+      "summary": "Sliding shows that it is difficult to keep a firm grip on the surface, which explains slippery.",
+      "hint": "Choose the nearby detail that explains the word, not just any detail in the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1325,28 +2033,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Technical Vocabulary and Context",
-    "question": "The word “note” can have more than one meaning. What should a reader check first?",
-    "audio_prompt": "The word “note” can have more than one meaning. What should a reader check first?",
+    "stage": "apply",
+    "skill": "science_topic_vocabulary",
+    "question": "Read: A mineral is a naturally occurring solid material found in Earth. Which word names that material in this sentence?",
+    "audio_prompt": "Read: A mineral is a naturally occurring solid material found in Earth. Which word names that material in this sentence?",
     "answers": [
       {
-        "text": "Only whether the word is short.",
+        "text": "Shadow",
         "is_correct": false
       },
       {
-        "text": "Only its position in the alphabet.",
-        "is_correct": false
-      },
-      {
-        "text": "The subject and surrounding sentence.",
+        "text": "Mineral",
         "is_correct": true
+      },
+      {
+        "text": "Weather",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Context determines which meaning is intended.",
-      "hint": "Read around the word before choosing a meaning."
+      "summary": "Mineral is the topic word being defined; the other terms describe different ideas.",
+      "hint": "Use the explanation in the science context to understand the topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1355,28 +2072,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which sentence uses “volume” precisely?",
-    "audio_prompt": "Which sentence uses “volume” precisely?",
+    "stage": "reason",
+    "skill": "science_topic_vocabulary",
+    "question": "Read: We observed the snail by watching it closely and noting what it did. What does observed mean in this investigation?",
+    "audio_prompt": "Read: We observed the snail by watching it closely and noting what it did. What does observed mean in this investigation?",
     "answers": [
       {
-        "text": "The a music guide explains volume as how loud or soft a sound is.",
+        "text": "Watched carefully",
         "is_correct": true
       },
       {
-        "text": "The volume was a random colour with no connection to a music guide.",
+        "text": "Forgot to record",
         "is_correct": false
       },
       {
-        "text": "Every object is always called volume.",
+        "text": "Guessed without looking",
+        "is_correct": false
+      },
+      {
+        "text": "Changed into something else",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Precise usage fits the word's field-specific meaning.",
-      "hint": "Check whether the sentence matches the definition."
+      "summary": "Watching closely and noting actions explains observed as careful watching in this context.",
+      "hint": "Use the explanation in the science context to understand the topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1385,28 +2111,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which vocabulary note would best help a reader of a music guide?",
-    "audio_prompt": "Which vocabulary note would best help a reader of a music guide?",
+    "stage": "apply",
+    "skill": "mathematics_and_geography_words",
+    "question": "Read: The equator is an imaginary line around Earth halfway between the North and South Poles. What is the equator here?",
+    "audio_prompt": "Read: The equator is an imaginary line around Earth halfway between the North and South Poles. What is the equator here?",
     "answers": [
       {
-        "text": "volume: any word at all",
+        "text": "A road between two towns",
         "is_correct": false
       },
       {
-        "text": "volume: how loud or soft a sound is",
+        "text": "A kind of mountain",
+        "is_correct": false
+      },
+      {
+        "text": "An imaginary line around Earth",
         "is_correct": true
       },
       {
-        "text": "volume: meaning not given",
+        "text": "A tool that measures wind",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A glossary-style note gives a clear contextual definition.",
-      "hint": "Choose the note that is specific and accurate."
+      "summary": "The context defines the equator as a geographical line, not a physical road or instrument.",
+      "hint": "Use the subject context to work out the precise meaning of a topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1415,28 +2150,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A writer replaces “volume” with “nice thing” in a music guide. What is lost?",
-    "audio_prompt": "A writer replaces “volume” with “nice thing” in a music guide. What is lost?",
+    "stage": "reason",
+    "skill": "mathematics_and_geography_words",
+    "question": "Read: The table has a column of names running from top to bottom. What does column mean here?",
+    "audio_prompt": "Read: The table has a column of names running from top to bottom. What does column mean here?",
     "answers": [
       {
-        "text": "Only the page decoration.",
+        "text": "The border around the page",
         "is_correct": false
       },
       {
-        "text": "The ability to use capital letters.",
+        "text": "The title of the whole page",
         "is_correct": false
       },
       {
-        "text": "The precise technical meaning.",
+        "text": "A horizontal row of entries",
+        "is_correct": false
+      },
+      {
+        "text": "A vertical group of entries",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Vague wording can weaken a subject explanation.",
-      "hint": "Compare how exactly each phrase names the concept."
+      "summary": "Running from top to bottom identifies a column, rather than a row running across.",
+      "hint": "Use the subject context to work out the precise meaning of a topic word."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1446,27 +2190,36 @@
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
     "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which technical word precisely names a basic unit of living things in a biology explanation?",
-    "audio_prompt": "Which technical word precisely names a basic unit of living things in a biology explanation?",
+    "skill": "technical_words_in_arts_and_procedures",
+    "question": "Read: The beat is the steady pulse in music that we can clap along with. What is beat here?",
+    "audio_prompt": "Read: The beat is the steady pulse in music that we can clap along with. What is beat here?",
     "answers": [
       {
-        "text": "cell",
+        "text": "The title of the song",
+        "is_correct": false
+      },
+      {
+        "text": "The place where a singer stands",
+        "is_correct": false
+      },
+      {
+        "text": "The colour of an instrument",
+        "is_correct": false
+      },
+      {
+        "text": "The steady musical pulse",
         "is_correct": true
-      },
-      {
-        "text": "thing",
-        "is_correct": false
-      },
-      {
-        "text": "stuff",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Technical vocabulary names ideas precisely within a field.",
-      "hint": "Choose the word a subject expert would use."
+      "summary": "The definition gives the musical meaning of beat, a regular pulse.",
+      "hint": "Specialist words can name tools, features or steps; use the given explanation."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1475,28 +2228,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "In a biology explanation, what does “cell” mean?",
-    "audio_prompt": "In a biology explanation, what does “cell” mean?",
+    "stage": "reason",
+    "skill": "technical_words_in_arts_and_procedures",
+    "question": "Read: A prop is an object an actor uses during a performance. Which is a prop?",
+    "audio_prompt": "Read: A prop is an object an actor uses during a performance. Which is a prop?",
     "answers": [
       {
-        "text": "a decorative page feature",
+        "text": "The actor's spoken greeting",
         "is_correct": false
       },
       {
-        "text": "a basic unit of living things",
+        "text": "A pretend key held by an actor",
         "is_correct": true
       },
       {
-        "text": "a character's name with no subject meaning",
+        "text": "The theatre's street address",
+        "is_correct": false
+      },
+      {
+        "text": "The audience's applause",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Context helps readers select the relevant meaning of a technical word.",
-      "hint": "Use the subject and surrounding idea."
+      "summary": "The key is an object used in the performance, fitting the given definition of prop.",
+      "hint": "Specialist words can name tools, features or steps; use the given explanation."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1506,27 +2268,36 @@
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
     "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Why is “cell” stronger than “thing” in a biology explanation?",
-    "audio_prompt": "Why is “cell” stronger than “thing” in a biology explanation?",
+    "skill": "multiple_meanings_in_context",
+    "question": "Read: The spring inside the toy stretched and bounced back. What is spring here?",
+    "audio_prompt": "Read: The spring inside the toy stretched and bounced back. What is spring here?",
     "answers": [
       {
-        "text": "It is longer, so it must always be better.",
+        "text": "The season after winter",
         "is_correct": false
       },
       {
-        "text": "It removes information from the explanation.",
+        "text": "A sudden jump",
         "is_correct": false
       },
       {
-        "text": "It communicates the exact subject meaning.",
+        "text": "A flexible coil",
         "is_correct": true
+      },
+      {
+        "text": "A place where water emerges",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Precision, not word length, makes technical vocabulary useful.",
-      "hint": "Ask which word identifies the concept accurately."
+      "summary": "Inside the toy, stretched and bounced back point to a flexible coil.",
+      "hint": "A familiar word can have different meanings. Choose the meaning that fits this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1535,28 +2306,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A reader does not know “cell” in a biology explanation. Which clue is most useful?",
-    "audio_prompt": "A reader does not know “cell” in a biology explanation. Which clue is most useful?",
+    "stage": "reason",
+    "skill": "multiple_meanings_in_context",
+    "question": "Compare: 'I can lift the light bag' and 'Switch on the light'. Which is true?",
+    "audio_prompt": "Compare: 'I can lift the light bag' and 'Switch on the light'. Which is true?",
     "answers": [
       {
-        "text": "The nearby explanation “a basic unit of living things”.",
+        "text": "Light describes weight in both sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "Light names a lamp in both sentences.",
+        "is_correct": false
+      },
+      {
+        "text": "The word has no meaning in the first sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Light describes weight first and names a lamp second.",
         "is_correct": true
-      },
-      {
-        "text": "The colour of the page border.",
-        "is_correct": false
-      },
-      {
-        "text": "The number of letters in the heading.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Definitions and surrounding information support word meaning.",
-      "hint": "Look for a clue that explains the idea."
+      "summary": "Bag and lift support not heavy; switch on supports a source of illumination.",
+      "hint": "A familiar word can have different meanings. Choose the meaning that fits this sentence."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1566,27 +2346,36 @@
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
     "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "The word “organ” can have more than one meaning. What should a reader check first?",
-    "audio_prompt": "The word “organ” can have more than one meaning. What should a reader check first?",
+    "skill": "applying_a_given_meaning",
+    "question": "Which sentence uses pupil to mean a student?",
+    "audio_prompt": "Which sentence uses pupil to mean a student?",
     "answers": [
       {
-        "text": "Only whether the word is short.",
+        "text": "Bright light made the pupil smaller.",
         "is_correct": false
       },
       {
-        "text": "The subject and surrounding sentence.",
+        "text": "Each pupil brought a notebook.",
         "is_correct": true
       },
       {
-        "text": "Only its position in the alphabet.",
+        "text": "The doctor checked the eye's pupil.",
+        "is_correct": false
+      },
+      {
+        "text": "The pupil in the eye looked dark.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Context determines which meaning is intended.",
-      "hint": "Read around the word before choosing a meaning."
+      "summary": "Bringing a notebook gives the student meaning. The other examples refer to part of the eye.",
+      "hint": "Try the given meaning in each sentence and choose the sentence where it fits."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1595,28 +2384,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which sentence uses “cell” precisely?",
-    "audio_prompt": "Which sentence uses “cell” precisely?",
+    "stage": "reason",
+    "skill": "applying_a_given_meaning",
+    "question": "Which sentence uses point to mean the sharp end of something?",
+    "audio_prompt": "Which sentence uses point to mean the sharp end of something?",
     "answers": [
       {
-        "text": "The cell was a random colour with no connection to a biology explanation.",
+        "text": "Please point towards the door.",
         "is_correct": false
       },
       {
-        "text": "Every object is always called cell.",
-        "is_correct": false
-      },
-      {
-        "text": "The a biology explanation explains cell as a basic unit of living things.",
+        "text": "The pencil's point snapped.",
         "is_correct": true
+      },
+      {
+        "text": "I scored a point in the game.",
+        "is_correct": false
+      },
+      {
+        "text": "That is a helpful point in your argument.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Precise usage fits the word's field-specific meaning.",
-      "hint": "Check whether the sentence matches the definition."
+      "summary": "The pencil context identifies a sharp tip rather than a score, gesture or idea.",
+      "hint": "Try the given meaning in each sentence and choose the sentence where it fits."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1626,27 +2424,36 @@
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
     "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "Which vocabulary note would best help a reader of a biology explanation?",
-    "audio_prompt": "Which vocabulary note would best help a reader of a biology explanation?",
+    "skill": "precise_vocabulary_and_connotation",
+    "question": "Read: The map shows our route to camp. Why does route fit better than stuff?",
+    "audio_prompt": "Read: The map shows our route to camp. Why does route fit better than stuff?",
     "answers": [
       {
-        "text": "cell: a basic unit of living things",
+        "text": "It precisely names the way we will travel.",
         "is_correct": true
       },
       {
-        "text": "cell: any word at all",
+        "text": "It tells us the weather at camp.",
         "is_correct": false
       },
       {
-        "text": "cell: meaning not given",
+        "text": "It gives the number of campers.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the camp is nearby.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A glossary-style note gives a clear contextual definition.",
-      "hint": "Choose the note that is specific and accurate."
+      "summary": "Route names the path of travel, whereas stuff is vague and does not identify that idea.",
+      "hint": "Choose a word that fits both the topic and the feeling or exact meaning of the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1655,28 +2462,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA10",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Technical Vocabulary and Context",
-    "question": "A writer replaces “cell” with “nice thing” in a biology explanation. What is lost?",
-    "audio_prompt": "A writer replaces “cell” with “nice thing” in a biology explanation. What is lost?",
+    "stage": "reason",
+    "skill": "precise_vocabulary_and_connotation",
+    "question": "Which description sounds approving of a child's many questions?",
+    "audio_prompt": "Which description sounds approving of a child's many questions?",
     "answers": [
       {
-        "text": "Only the page decoration.",
+        "text": "Irritating",
         "is_correct": false
       },
       {
-        "text": "The precise technical meaning.",
+        "text": "Nosy",
+        "is_correct": false
+      },
+      {
+        "text": "Curious",
         "is_correct": true
       },
       {
-        "text": "The ability to use capital letters.",
+        "text": "Annoying",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Vague wording can weaken a subject explanation.",
-      "hint": "Compare how exactly each phrase names the concept."
+      "summary": "Curious can praise an interest in learning. The other choices express criticism or annoyance.",
+      "hint": "Choose a word that fits both the topic and the feeling or exact meaning of the passage."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   }
 ]
