@@ -1,0 +1,346 @@
+[
+  {
+    "id": "AC9E3LE01-P-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Characters, events and settings in context",
+    "question": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nPeter and his family live in a sand-bank under a fir-tree. His mother warns him not to enter Mr McGregor’s garden. Peter squeezes under the garden gate anyway.\n\nWhich detail marks Peter’s move into the forbidden setting?",
+    "audio_prompt": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nPeter and his family live in a sand-bank under a fir-tree. His mother warns him not to enter Mr McGregor’s garden. Peter squeezes under the garden gate anyway.\n\nWhich detail marks Peter’s move into the forbidden setting?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "He squeezes under the garden gate.",
+        "is_correct": true
+      },
+      {
+        "text": "He lives beneath a fir-tree.",
+        "is_correct": false
+      },
+      {
+        "text": "His mother speaks to him.",
+        "is_correct": false
+      },
+      {
+        "text": "He has brothers and sisters.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The gate separates the garden from the land outside; crossing it takes Peter into the place his mother warned him about.",
+      "hint": "Use only the supplied story details; distinguish what happens from what you imagine."
+    },
+    "source": {
+      "title": "The Tale of Peter Rabbit",
+      "creator": "Beatrix Potter",
+      "url": "https://www.gutenberg.org/files/14838/14838-h/14838-h.htm",
+      "adaptation": "Original short retelling of the public-domain story; source text read in full. Illustrations not reviewed."
+    }
+  },
+  {
+    "id": "AC9E3LE01-P-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Characters, events and settings in context",
+    "question": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nPeter’s siblings go down the lane to gather blackberries. Peter goes into Mr McGregor’s garden and eats vegetables.\n\nHow do the characters’ choices lead them into different situations?",
+    "audio_prompt": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nPeter’s siblings go down the lane to gather blackberries. Peter goes into Mr McGregor’s garden and eats vegetables.\n\nHow do the characters’ choices lead them into different situations?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "They all follow the same path into the garden.",
+        "is_correct": false
+      },
+      {
+        "text": "The siblings use the lane; Peter enters the garden his mother has forbidden.",
+        "is_correct": true
+      },
+      {
+        "text": "Peter stays home while the siblings visit Mr McGregor.",
+        "is_correct": false
+      },
+      {
+        "text": "The siblings chase Peter away from the berries.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Their different choices of place separate the safe berry-gathering trip from Peter’s risky visit.",
+      "hint": "Use only the supplied story details; distinguish what happens from what you imagine."
+    },
+    "source": {
+      "title": "The Tale of Peter Rabbit",
+      "creator": "Beatrix Potter",
+      "url": "https://www.gutenberg.org/files/14838/14838-h/14838-h.htm",
+      "adaptation": "Original short retelling of the public-domain story; source text read in full. Illustrations not reviewed."
+    }
+  },
+  {
+    "id": "AC9E3LE01-P-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Characters, events and settings in context",
+    "question": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nWhile escaping through the garden, Peter’s jacket buttons catch in a gooseberry net. He frees himself by slipping out of the jacket.\n\nHow do the setting and Peter’s clothing combine to affect the event?",
+    "audio_prompt": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nWhile escaping through the garden, Peter’s jacket buttons catch in a gooseberry net. He frees himself by slipping out of the jacket.\n\nHow do the setting and Peter’s clothing combine to affect the event?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The jacket opens a locked garden door.",
+        "is_correct": false
+      },
+      {
+        "text": "The net helps him find the gate.",
+        "is_correct": false
+      },
+      {
+        "text": "The garden net catches his buttons and briefly traps him.",
+        "is_correct": true
+      },
+      {
+        "text": "The buttons frighten Mr McGregor away.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The net is a feature of this setting, and the buttons catch in it. The obstacle changes Peter’s escape.",
+      "hint": "Use only the supplied story details; distinguish what happens from what you imagine."
+    },
+    "source": {
+      "title": "The Tale of Peter Rabbit",
+      "creator": "Beatrix Potter",
+      "url": "https://www.gutenberg.org/files/14838/14838-h/14838-h.htm",
+      "adaptation": "Original short retelling of the public-domain story; source text read in full. Illustrations not reviewed."
+    }
+  },
+  {
+    "id": "AC9E3LE01-P-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Characters, events and settings in context",
+    "question": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nPeter hides inside a watering can in the tool-shed. The can contains water. When Peter sneezes, Mr McGregor hears him and rushes towards him.\n\nWhich event changes the hiding place from secret to discovered?",
+    "audio_prompt": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nPeter hides inside a watering can in the tool-shed. The can contains water. When Peter sneezes, Mr McGregor hears him and rushes towards him.\n\nWhich event changes the hiding place from secret to discovered?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Peter sees his own family.",
+        "is_correct": false
+      },
+      {
+        "text": "A mouse opens the tool-shed.",
+        "is_correct": false
+      },
+      {
+        "text": "The watering can rolls into the garden.",
+        "is_correct": false
+      },
+      {
+        "text": "Mr McGregor hears Peter sneeze.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The sound reveals Peter’s hiding place. The passage does not say that anyone sees him enter.",
+      "hint": "Use only the supplied story details; distinguish what happens from what you imagine."
+    },
+    "source": {
+      "title": "The Tale of Peter Rabbit",
+      "creator": "Beatrix Potter",
+      "url": "https://www.gutenberg.org/files/14838/14838-h/14838-h.htm",
+      "adaptation": "Original short retelling of the public-domain story; source text read in full. Illustrations not reviewed."
+    }
+  },
+  {
+    "id": "AC9E3LE01-P-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Characters, events and settings in context",
+    "question": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nPeter asks a mouse the way to the gate. She has a large pea in her mouth and cannot answer. She shakes her head, and Peter begins to cry.\n\nWhich explanation fits this encounter without inventing the mouse’s feelings?",
+    "audio_prompt": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nPeter asks a mouse the way to the gate. She has a large pea in her mouth and cannot answer. She shakes her head, and Peter begins to cry.\n\nWhich explanation fits this encounter without inventing the mouse’s feelings?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "She cannot speak because she is carrying a pea in her mouth.",
+        "is_correct": true
+      },
+      {
+        "text": "She wants Peter to be caught.",
+        "is_correct": false
+      },
+      {
+        "text": "She has forgotten where her own home is.",
+        "is_correct": false
+      },
+      {
+        "text": "She is angry because Peter ate her food.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The passage supplies a physical reason for her silence. It does not tell us that she dislikes Peter.",
+      "hint": "Use only the supplied story details; distinguish what happens from what you imagine."
+    },
+    "source": {
+      "title": "The Tale of Peter Rabbit",
+      "creator": "Beatrix Potter",
+      "url": "https://www.gutenberg.org/files/14838/14838-h/14838-h.htm",
+      "adaptation": "Original short retelling of the public-domain story; source text read in full. Illustrations not reviewed."
+    }
+  },
+  {
+    "id": "AC9E3LE01-P-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Characters, events and settings in context",
+    "question": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nMr McGregor has planted vegetables in his garden. Peter enters without permission and eats some. Mr McGregor chases him, calling him a thief.\n\nWhy does Mr McGregor describe Peter differently from a reader who feels sorry for him?",
+    "audio_prompt": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nMr McGregor has planted vegetables in his garden. Peter enters without permission and eats some. Mr McGregor chases him, calling him a thief.\n\nWhy does Mr McGregor describe Peter differently from a reader who feels sorry for him?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "He thinks Peter is lost at school.",
+        "is_correct": false
+      },
+      {
+        "text": "He sees Peter taking food from the garden he tends.",
+        "is_correct": true
+      },
+      {
+        "text": "He invited Peter to collect the vegetables.",
+        "is_correct": false
+      },
+      {
+        "text": "He has not noticed that Peter is in the garden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "From the gardener’s viewpoint, Peter is taking his food. A reader can understand that viewpoint while also noticing Peter’s fear.",
+      "hint": "Use only the supplied story details; distinguish what happens from what you imagine."
+    },
+    "source": {
+      "title": "The Tale of Peter Rabbit",
+      "creator": "Beatrix Potter",
+      "url": "https://www.gutenberg.org/files/14838/14838-h/14838-h.htm",
+      "adaptation": "Original short retelling of the public-domain story; source text read in full. Illustrations not reviewed."
+    }
+  },
+  {
+    "id": "AC9E3LE01-P-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Characters, events and settings in context",
+    "question": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nPeter climbs onto a wheelbarrow and sees the gate beyond Mr McGregor. Mr McGregor is facing away. Peter runs along a path and slips under the gate.\n\nWhich pair of setting details makes this escape possible?",
+    "audio_prompt": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nPeter climbs onto a wheelbarrow and sees the gate beyond Mr McGregor. Mr McGregor is facing away. Peter runs along a path and slips under the gate.\n\nWhich pair of setting details makes this escape possible?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The locked door opens, and the mouse carries him.",
+        "is_correct": false
+      },
+      {
+        "text": "The net becomes a bridge, and his jacket pulls him across.",
+        "is_correct": false
+      },
+      {
+        "text": "The wheelbarrow gives him a view, and the gate gives him a way out.",
+        "is_correct": true
+      },
+      {
+        "text": "The pond dries up, and the cat guides him.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The raised wheelbarrow helps Peter locate the exit. The gap under the gate is the route he actually uses.",
+      "hint": "Use only the supplied story details; distinguish what happens from what you imagine."
+    },
+    "source": {
+      "title": "The Tale of Peter Rabbit",
+      "creator": "Beatrix Potter",
+      "url": "https://www.gutenberg.org/files/14838/14838-h/14838-h.htm",
+      "adaptation": "Original short retelling of the public-domain story; source text read in full. Illustrations not reviewed."
+    }
+  },
+  {
+    "id": "AC9E3LE01-P-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Characters, events and settings in context",
+    "question": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nAt home, Peter is tired and unwell, so his mother puts him to bed. His siblings eat the blackberries they gathered, with bread and milk.\n\nHow does the ending connect with the siblings’ earlier event?",
+    "audio_prompt": "Based on The Tale of Peter Rabbit by Beatrix Potter. This short retelling supplies the details for the question.\n\nAt home, Peter is tired and unwell, so his mother puts him to bed. His siblings eat the blackberries they gathered, with bread and milk.\n\nHow does the ending connect with the siblings’ earlier event?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "They now enter the garden to search for Peter’s jacket.",
+        "is_correct": false
+      },
+      {
+        "text": "They give Mr McGregor the vegetables Peter ate.",
+        "is_correct": false
+      },
+      {
+        "text": "They become ill after hiding in the watering can.",
+        "is_correct": false
+      },
+      {
+        "text": "The blackberries at supper are the food they gathered on their trip.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The berries connect their earlier gathering with the ending. Peter’s return is different: he goes to bed instead of sharing their supper.",
+      "hint": "Use only the supplied story details; distinguish what happens from what you imagine."
+    },
+    "source": {
+      "title": "The Tale of Peter Rabbit",
+      "creator": "Beatrix Potter",
+      "url": "https://www.gutenberg.org/files/14838/14838-h/14838-h.htm",
+      "adaptation": "Original short retelling of the public-domain story; source text read in full. Illustrations not reviewed."
+    }
+  }
+]
