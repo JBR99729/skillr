@@ -1,0 +1,2818 @@
+[
+  {
+    "id": "AC9E3LA11-P-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "form_contraction",
+    "question": "Rewrite only “I am” as a contraction: “The note says that I am ready to begin.”",
+    "audio_prompt": "Rewrite only “I am” as a contraction: “The note says that I am ready to begin.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "I'm",
+        "is_correct": true
+      },
+      {
+        "text": "I'am",
+        "is_correct": false
+      },
+      {
+        "text": "Im'",
+        "is_correct": false
+      },
+      {
+        "text": "Im",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "I'm combines I am; the apostrophe marks the omitted letters.",
+      "hint": "Keep the letters that remain in their original order."
+    },
+    "audio_answers": [
+      "I [apostrophe] m",
+      "I [apostrophe] am",
+      "Im [apostrophe] ",
+      "Im"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "form_contraction",
+    "question": "Rewrite only “you are” as a contraction: “The note says that you are welcome to join us.”",
+    "audio_prompt": "Rewrite only “you are” as a contraction: “The note says that you are welcome to join us.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "your",
+        "is_correct": false
+      },
+      {
+        "text": "you're",
+        "is_correct": true
+      },
+      {
+        "text": "you'are",
+        "is_correct": false
+      },
+      {
+        "text": "youre'",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "you're combines you are; the apostrophe marks the omitted letters.",
+      "hint": "Keep the letters that remain in their original order."
+    },
+    "audio_answers": [
+      "your",
+      "you [apostrophe] re",
+      "you [apostrophe] are",
+      "youre [apostrophe] "
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "form_contraction",
+    "question": "Rewrite only “we have” as a contraction: “The note says that we have packed the picnic.”",
+    "audio_prompt": "Rewrite only “we have” as a contraction: “The note says that we have packed the picnic.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "we'ave",
+        "is_correct": false
+      },
+      {
+        "text": "weve'",
+        "is_correct": false
+      },
+      {
+        "text": "we've",
+        "is_correct": true
+      },
+      {
+        "text": "wev'e",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "we've combines we have; the apostrophe marks the omitted letters.",
+      "hint": "Keep the letters that remain in their original order."
+    },
+    "audio_answers": [
+      "we [apostrophe] ave",
+      "weve [apostrophe] ",
+      "we [apostrophe] ve",
+      "wev [apostrophe] e"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "form_contraction",
+    "question": "Rewrite only “she will” as a contraction: “The note says that she will bring the paints.”",
+    "audio_prompt": "Rewrite only “she will” as a contraction: “The note says that she will bring the paints.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "she'ill",
+        "is_correct": false
+      },
+      {
+        "text": "shell'",
+        "is_correct": false
+      },
+      {
+        "text": "shel'l",
+        "is_correct": false
+      },
+      {
+        "text": "she'll",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "she'll combines she will; the apostrophe marks the omitted letters.",
+      "hint": "Keep the letters that remain in their original order."
+    },
+    "audio_answers": [
+      "she [apostrophe] ill",
+      "shell [apostrophe] ",
+      "shel [apostrophe] l",
+      "she [apostrophe] ll"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "form_contraction",
+    "question": "Rewrite only “they are” as a contraction: “The note says that they are waiting at the gate.”",
+    "audio_prompt": "Rewrite only “they are” as a contraction: “The note says that they are waiting at the gate.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "they're",
+        "is_correct": true
+      },
+      {
+        "text": "their",
+        "is_correct": false
+      },
+      {
+        "text": "theyre'",
+        "is_correct": false
+      },
+      {
+        "text": "they'are",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "they're combines they are; the apostrophe marks the omitted letters.",
+      "hint": "Keep the letters that remain in their original order."
+    },
+    "audio_answers": [
+      "they [apostrophe] re",
+      "their",
+      "theyre [apostrophe] ",
+      "they [apostrophe] are"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "form_contraction",
+    "question": "Rewrite only “he is” as a contraction: “The note says that he is building a model.”",
+    "audio_prompt": "Rewrite only “he is” as a contraction: “The note says that he is building a model.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "h'es",
+        "is_correct": false
+      },
+      {
+        "text": "he's",
+        "is_correct": true
+      },
+      {
+        "text": "hes'",
+        "is_correct": false
+      },
+      {
+        "text": "heis'",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "he's combines he is; the apostrophe marks the omitted letters.",
+      "hint": "Keep the letters that remain in their original order."
+    },
+    "audio_answers": [
+      "h [apostrophe] es",
+      "he [apostrophe] s",
+      "hes [apostrophe] ",
+      "heis [apostrophe] "
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "expand_negative",
+    "question": "Write the two words represented by “don't”.",
+    "audio_prompt": "Write the two words represented by “don't”.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "does not",
+        "is_correct": false
+      },
+      {
+        "text": "did not",
+        "is_correct": false
+      },
+      {
+        "text": "do not",
+        "is_correct": true
+      },
+      {
+        "text": "will not",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "don't means do not. The contraction keeps the negative meaning.",
+      "hint": "Expand the whole contraction, not just its ending."
+    },
+    "audio_answers": [
+      "does not",
+      "did not",
+      "do not",
+      "will not"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "expand_negative",
+    "question": "Write the two words represented by “isn't”.",
+    "audio_prompt": "Write the two words represented by “isn't”.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "it is",
+        "is_correct": false
+      },
+      {
+        "text": "was not",
+        "is_correct": false
+      },
+      {
+        "text": "has not",
+        "is_correct": false
+      },
+      {
+        "text": "is not",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "isn't means is not. The contraction keeps the negative meaning.",
+      "hint": "Expand the whole contraction, not just its ending."
+    },
+    "audio_answers": [
+      "it is",
+      "was not",
+      "has not",
+      "is not"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "expand_negative",
+    "question": "Write the two words represented by “weren't”.",
+    "audio_prompt": "Write the two words represented by “weren't”.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "were not",
+        "is_correct": true
+      },
+      {
+        "text": "we are",
+        "is_correct": false
+      },
+      {
+        "text": "are not",
+        "is_correct": false
+      },
+      {
+        "text": "will not",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "weren't means were not. The contraction keeps the negative meaning.",
+      "hint": "Expand the whole contraction, not just its ending."
+    },
+    "audio_answers": [
+      "were not",
+      "we are",
+      "are not",
+      "will not"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "expand_negative",
+    "question": "Write the two words represented by “hasn't”.",
+    "audio_prompt": "Write the two words represented by “hasn't”.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "had not",
+        "is_correct": false
+      },
+      {
+        "text": "has not",
+        "is_correct": true
+      },
+      {
+        "text": "have not",
+        "is_correct": false
+      },
+      {
+        "text": "he is",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "hasn't means has not. The contraction keeps the negative meaning.",
+      "hint": "Expand the whole contraction, not just its ending."
+    },
+    "audio_answers": [
+      "had not",
+      "has not",
+      "have not",
+      "he is"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "expand_negative",
+    "question": "Write the two words represented by “couldn't”.",
+    "audio_prompt": "Write the two words represented by “couldn't”.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "can not",
+        "is_correct": false
+      },
+      {
+        "text": "would not",
+        "is_correct": false
+      },
+      {
+        "text": "could not",
+        "is_correct": true
+      },
+      {
+        "text": "could have",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "couldn't means could not. The contraction keeps the negative meaning.",
+      "hint": "Expand the whole contraction, not just its ending."
+    },
+    "audio_answers": [
+      "can not",
+      "would not",
+      "could not",
+      "could have"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "expand_negative",
+    "question": "Write the two words represented by “won't”.",
+    "audio_prompt": "Write the two words represented by “won't”.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "would not",
+        "is_correct": false
+      },
+      {
+        "text": "was not",
+        "is_correct": false
+      },
+      {
+        "text": "want not",
+        "is_correct": false
+      },
+      {
+        "text": "will not",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "won't means will not. Won’t has an unusual spelling; remember its full form.",
+      "hint": "Expand the whole contraction, not just its ending."
+    },
+    "audio_answers": [
+      "would not",
+      "was not",
+      "want not",
+      "will not"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "omitted_letters",
+    "question": "Compare “she is” with “she's”. Which letters does the apostrophe replace?",
+    "audio_prompt": "Compare “she is” with “she's”. Which letters does the apostrophe replace?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the i in is",
+        "is_correct": true
+      },
+      {
+        "text": "the s in she",
+        "is_correct": false
+      },
+      {
+        "text": "the h in she",
+        "is_correct": false
+      },
+      {
+        "text": "the s in is",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare the full form letter by letter: the i in is disappears; the other letters remain.",
+      "hint": "The apostrophe marks missing letters, not a space alone."
+    },
+    "audio_answers": [
+      "the i in is",
+      "the s in she",
+      "the h in she",
+      "the s in is"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "omitted_letters",
+    "question": "Compare “we are” with “we're”. Which letters does the apostrophe replace?",
+    "audio_prompt": "Compare “we are” with “we're”. Which letters does the apostrophe replace?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the e in we",
+        "is_correct": false
+      },
+      {
+        "text": "the a in are",
+        "is_correct": true
+      },
+      {
+        "text": "the r in are",
+        "is_correct": false
+      },
+      {
+        "text": "the w in we",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare the full form letter by letter: the a in are disappears; the other letters remain.",
+      "hint": "The apostrophe marks missing letters, not a space alone."
+    },
+    "audio_answers": [
+      "the e in we",
+      "the a in are",
+      "the r in are",
+      "the w in we"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "omitted_letters",
+    "question": "Compare “they have” with “they've”. Which letters does the apostrophe replace?",
+    "audio_prompt": "Compare “they have” with “they've”. Which letters does the apostrophe replace?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the v and e in have",
+        "is_correct": false
+      },
+      {
+        "text": "the t and h in they",
+        "is_correct": false
+      },
+      {
+        "text": "the h and a in have",
+        "is_correct": true
+      },
+      {
+        "text": "the e and y in they",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Compare the full form letter by letter: the h and a in have disappears; the other letters remain.",
+      "hint": "The apostrophe marks missing letters, not a space alone."
+    },
+    "audio_answers": [
+      "the v and e in have",
+      "the t and h in they",
+      "the h and a in have",
+      "the e and y in they"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "omitted_letters",
+    "question": "Compare “I will” with “I'll”. Which letters does the apostrophe replace?",
+    "audio_prompt": "Compare “I will” with “I'll”. Which letters does the apostrophe replace?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the two l letters in will",
+        "is_correct": false
+      },
+      {
+        "text": "the I at the start",
+        "is_correct": false
+      },
+      {
+        "text": "only the w in will",
+        "is_correct": false
+      },
+      {
+        "text": "the w and i in will",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Compare the full form letter by letter: the w and i in will disappears; the other letters remain.",
+      "hint": "The apostrophe marks missing letters, not a space alone."
+    },
+    "audio_answers": [
+      "the two l letters in will",
+      "the I at the start",
+      "only the w in will",
+      "the w and i in will"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-017",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "omitted_letters",
+    "question": "Compare “did not” with “didn't”. Which letters does the apostrophe replace?",
+    "audio_prompt": "Compare “did not” with “didn't”. Which letters does the apostrophe replace?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the o in not",
+        "is_correct": true
+      },
+      {
+        "text": "the n in not",
+        "is_correct": false
+      },
+      {
+        "text": "the t in not",
+        "is_correct": false
+      },
+      {
+        "text": "the i in did",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare the full form letter by letter: the o in not disappears; the other letters remain.",
+      "hint": "The apostrophe marks missing letters, not a space alone."
+    },
+    "audio_answers": [
+      "the o in not",
+      "the n in not",
+      "the t in not",
+      "the i in did"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-018",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "omitted_letters",
+    "question": "Compare “you are” with “you're”. Which letters does the apostrophe replace?",
+    "audio_prompt": "Compare “you are” with “you're”. Which letters does the apostrophe replace?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the u in you",
+        "is_correct": false
+      },
+      {
+        "text": "the a in are",
+        "is_correct": true
+      },
+      {
+        "text": "the r in are",
+        "is_correct": false
+      },
+      {
+        "text": "the e in are",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare the full form letter by letter: the a in are disappears; the other letters remain.",
+      "hint": "The apostrophe marks missing letters, not a space alone."
+    },
+    "audio_answers": [
+      "the u in you",
+      "the a in are",
+      "the r in are",
+      "the e in are"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-019",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "singular_possession",
+    "question": "One girl owns a helmet. Which phrase shows this ownership?",
+    "audio_prompt": "One girl owns a helmet. Which phrase shows this ownership?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the girls helmet",
+        "is_correct": false
+      },
+      {
+        "text": "the girls' helmet",
+        "is_correct": false
+      },
+      {
+        "text": "the girl's helmet",
+        "is_correct": true
+      },
+      {
+        "text": "the girl helmet's",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The owner is one girl. Add apostrophe-s to girl, not to helmet.",
+      "hint": "Find the owner before placing the apostrophe."
+    },
+    "audio_answers": [
+      "the girls helmet",
+      "the girls [apostrophe]  helmet",
+      "the girl [apostrophe] s helmet",
+      "the girl helmet [apostrophe] s"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-020",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "singular_possession",
+    "question": "One rabbit owns a hutch. Which phrase shows this ownership?",
+    "audio_prompt": "One rabbit owns a hutch. Which phrase shows this ownership?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the rabbits hutch",
+        "is_correct": false
+      },
+      {
+        "text": "the rabbits' hutch",
+        "is_correct": false
+      },
+      {
+        "text": "the rabbit hutch's",
+        "is_correct": false
+      },
+      {
+        "text": "the rabbit's hutch",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The owner is one rabbit. Add apostrophe-s to rabbit, not to hutch.",
+      "hint": "Find the owner before placing the apostrophe."
+    },
+    "audio_answers": [
+      "the rabbits hutch",
+      "the rabbits [apostrophe]  hutch",
+      "the rabbit hutch [apostrophe] s",
+      "the rabbit [apostrophe] s hutch"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-021",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "singular_possession",
+    "question": "One teacher owns a desk. Which phrase shows this ownership?",
+    "audio_prompt": "One teacher owns a desk. Which phrase shows this ownership?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the teacher's desk",
+        "is_correct": true
+      },
+      {
+        "text": "the teachers desk",
+        "is_correct": false
+      },
+      {
+        "text": "the teachers' desk",
+        "is_correct": false
+      },
+      {
+        "text": "the teacher desk's",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The owner is one teacher. Add apostrophe-s to teacher, not to desk.",
+      "hint": "Find the owner before placing the apostrophe."
+    },
+    "audio_answers": [
+      "the teacher [apostrophe] s desk",
+      "the teachers desk",
+      "the teachers [apostrophe]  desk",
+      "the teacher desk [apostrophe] s"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-022",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "singular_possession",
+    "question": "One dog owns a lead. Which phrase shows this ownership?",
+    "audio_prompt": "One dog owns a lead. Which phrase shows this ownership?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the dogs lead",
+        "is_correct": false
+      },
+      {
+        "text": "the dog's lead",
+        "is_correct": true
+      },
+      {
+        "text": "the dogs' lead",
+        "is_correct": false
+      },
+      {
+        "text": "the dog lead's",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The owner is one dog. Add apostrophe-s to dog, not to lead.",
+      "hint": "Find the owner before placing the apostrophe."
+    },
+    "audio_answers": [
+      "the dogs lead",
+      "the dog [apostrophe] s lead",
+      "the dogs [apostrophe]  lead",
+      "the dog lead [apostrophe] s"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-023",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "singular_possession",
+    "question": "One artist owns a brush. Which phrase shows this ownership?",
+    "audio_prompt": "One artist owns a brush. Which phrase shows this ownership?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the artists brush",
+        "is_correct": false
+      },
+      {
+        "text": "the artists' brush",
+        "is_correct": false
+      },
+      {
+        "text": "the artist's brush",
+        "is_correct": true
+      },
+      {
+        "text": "the artist brush's",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The owner is one artist. Add apostrophe-s to artist, not to brush.",
+      "hint": "Find the owner before placing the apostrophe."
+    },
+    "audio_answers": [
+      "the artists brush",
+      "the artists [apostrophe]  brush",
+      "the artist [apostrophe] s brush",
+      "the artist brush [apostrophe] s"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-024",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "singular_possession",
+    "question": "One bird owns a nest. Which phrase shows this ownership?",
+    "audio_prompt": "One bird owns a nest. Which phrase shows this ownership?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the birds nest",
+        "is_correct": false
+      },
+      {
+        "text": "the birds' nest",
+        "is_correct": false
+      },
+      {
+        "text": "the bird nest's",
+        "is_correct": false
+      },
+      {
+        "text": "the bird's nest",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The owner is one bird. Add apostrophe-s to bird, not to nest.",
+      "hint": "Find the owner before placing the apostrophe."
+    },
+    "audio_answers": [
+      "the birds nest",
+      "the birds [apostrophe]  nest",
+      "the bird nest [apostrophe] s",
+      "the bird [apostrophe] s nest"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-025",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "regular_plural_possession",
+    "question": "Show the ownership: the boots belonging to several players.",
+    "audio_prompt": "Show the ownership: the boots belonging to several players.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the players' boots",
+        "is_correct": true
+      },
+      {
+        "text": "the player's boots",
+        "is_correct": false
+      },
+      {
+        "text": "the players boots",
+        "is_correct": false
+      },
+      {
+        "text": "the players's boots",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Players already ends in s. Add an apostrophe after that s to show possession by more than one.",
+      "hint": "Write the plural owner first; then add the apostrophe."
+    },
+    "audio_answers": [
+      "the players [apostrophe]  boots",
+      "the player [apostrophe] s boots",
+      "the players boots",
+      "the players [apostrophe] s boots"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-026",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "regular_plural_possession",
+    "question": "Show the ownership: the paddock belonging to several horses.",
+    "audio_prompt": "Show the ownership: the paddock belonging to several horses.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the horse's paddock",
+        "is_correct": false
+      },
+      {
+        "text": "the horses' paddock",
+        "is_correct": true
+      },
+      {
+        "text": "the horses paddock",
+        "is_correct": false
+      },
+      {
+        "text": "the horses's paddock",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Horses already ends in s. Add an apostrophe after that s to show possession by more than one.",
+      "hint": "Write the plural owner first; then add the apostrophe."
+    },
+    "audio_answers": [
+      "the horse [apostrophe] s paddock",
+      "the horses [apostrophe]  paddock",
+      "the horses paddock",
+      "the horses [apostrophe] s paddock"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-027",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "regular_plural_possession",
+    "question": "Show the ownership: the bedroom belonging to several sisters.",
+    "audio_prompt": "Show the ownership: the bedroom belonging to several sisters.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the sister's bedroom",
+        "is_correct": false
+      },
+      {
+        "text": "the sisters bedroom",
+        "is_correct": false
+      },
+      {
+        "text": "the sisters' bedroom",
+        "is_correct": true
+      },
+      {
+        "text": "the sisters's bedroom",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Sisters already ends in s. Add an apostrophe after that s to show possession by more than one.",
+      "hint": "Write the plural owner first; then add the apostrophe."
+    },
+    "audio_answers": [
+      "the sister [apostrophe] s bedroom",
+      "the sisters bedroom",
+      "the sisters [apostrophe]  bedroom",
+      "the sisters [apostrophe] s bedroom"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-028",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "regular_plural_possession",
+    "question": "Show the ownership: the coats belonging to several visitors.",
+    "audio_prompt": "Show the ownership: the coats belonging to several visitors.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the visitor's coats",
+        "is_correct": false
+      },
+      {
+        "text": "the visitors coats",
+        "is_correct": false
+      },
+      {
+        "text": "the visitors's coats",
+        "is_correct": false
+      },
+      {
+        "text": "the visitors' coats",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Visitors already ends in s. Add an apostrophe after that s to show possession by more than one.",
+      "hint": "Write the plural owner first; then add the apostrophe."
+    },
+    "audio_answers": [
+      "the visitor [apostrophe] s coats",
+      "the visitors coats",
+      "the visitors [apostrophe] s coats",
+      "the visitors [apostrophe]  coats"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-029",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "regular_plural_possession",
+    "question": "Show the ownership: the hive belonging to several bees.",
+    "audio_prompt": "Show the ownership: the hive belonging to several bees.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the bees' hive",
+        "is_correct": true
+      },
+      {
+        "text": "the bee's hive",
+        "is_correct": false
+      },
+      {
+        "text": "the bees hive",
+        "is_correct": false
+      },
+      {
+        "text": "the bees's hive",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Bees already ends in s. Add an apostrophe after that s to show possession by more than one.",
+      "hint": "Write the plural owner first; then add the apostrophe."
+    },
+    "audio_answers": [
+      "the bees [apostrophe]  hive",
+      "the bee [apostrophe] s hive",
+      "the bees hive",
+      "the bees [apostrophe] s hive"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-030",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "regular_plural_possession",
+    "question": "Show the ownership: the aprons belonging to several bakers.",
+    "audio_prompt": "Show the ownership: the aprons belonging to several bakers.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the baker's aprons",
+        "is_correct": false
+      },
+      {
+        "text": "the bakers' aprons",
+        "is_correct": true
+      },
+      {
+        "text": "the bakers aprons",
+        "is_correct": false
+      },
+      {
+        "text": "the bakers's aprons",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Bakers already ends in s. Add an apostrophe after that s to show possession by more than one.",
+      "hint": "Write the plural owner first; then add the apostrophe."
+    },
+    "audio_answers": [
+      "the baker [apostrophe] s aprons",
+      "the bakers [apostrophe]  aprons",
+      "the bakers aprons",
+      "the bakers [apostrophe] s aprons"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-031",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "irregular_plural_possession",
+    "question": "The games belong to several children. How should the ownership phrase be written?",
+    "audio_prompt": "The games belong to several children. How should the ownership phrase be written?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the children' games",
+        "is_correct": false
+      },
+      {
+        "text": "the child's games",
+        "is_correct": false
+      },
+      {
+        "text": "the children's games",
+        "is_correct": true
+      },
+      {
+        "text": "the children games",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Children is plural but does not end in s. Its possessive form adds apostrophe-s.",
+      "hint": "Do not change an irregular plural back to a singular owner."
+    },
+    "audio_answers": [
+      "the children [apostrophe]  games",
+      "the child [apostrophe] s games",
+      "the children [apostrophe] s games",
+      "the children games"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-032",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "irregular_plural_possession",
+    "question": "The bags belong to several women. How should the ownership phrase be written?",
+    "audio_prompt": "The bags belong to several women. How should the ownership phrase be written?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the women' bags",
+        "is_correct": false
+      },
+      {
+        "text": "the woman's bags",
+        "is_correct": false
+      },
+      {
+        "text": "the women bags",
+        "is_correct": false
+      },
+      {
+        "text": "the women's bags",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Women is plural but does not end in s. Its possessive form adds apostrophe-s.",
+      "hint": "Do not change an irregular plural back to a singular owner."
+    },
+    "audio_answers": [
+      "the women [apostrophe]  bags",
+      "the woman [apostrophe] s bags",
+      "the women bags",
+      "the women [apostrophe] s bags"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-033",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "irregular_plural_possession",
+    "question": "The hats belong to several men. How should the ownership phrase be written?",
+    "audio_prompt": "The hats belong to several men. How should the ownership phrase be written?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the men's hats",
+        "is_correct": true
+      },
+      {
+        "text": "the men' hats",
+        "is_correct": false
+      },
+      {
+        "text": "the man's hats",
+        "is_correct": false
+      },
+      {
+        "text": "the men hats",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Men is plural but does not end in s. Its possessive form adds apostrophe-s.",
+      "hint": "Do not change an irregular plural back to a singular owner."
+    },
+    "audio_answers": [
+      "the men [apostrophe] s hats",
+      "the men [apostrophe]  hats",
+      "the man [apostrophe] s hats",
+      "the men hats"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-034",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "irregular_plural_possession",
+    "question": "The ideas belong to several people. How should the ownership phrase be written?",
+    "audio_prompt": "The ideas belong to several people. How should the ownership phrase be written?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the people' ideas",
+        "is_correct": false
+      },
+      {
+        "text": "the people's ideas",
+        "is_correct": true
+      },
+      {
+        "text": "the person's ideas",
+        "is_correct": false
+      },
+      {
+        "text": "the people ideas",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "People is plural but does not end in s. Its possessive form adds apostrophe-s.",
+      "hint": "Do not change an irregular plural back to a singular owner."
+    },
+    "audio_answers": [
+      "the people [apostrophe]  ideas",
+      "the people [apostrophe] s ideas",
+      "the person [apostrophe] s ideas",
+      "the people ideas"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-035",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "irregular_plural_possession",
+    "question": "The nests belong to several mice. How should the ownership phrase be written?",
+    "audio_prompt": "The nests belong to several mice. How should the ownership phrase be written?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the mice' nests",
+        "is_correct": false
+      },
+      {
+        "text": "the mouse's nests",
+        "is_correct": false
+      },
+      {
+        "text": "the mice's nests",
+        "is_correct": true
+      },
+      {
+        "text": "the mice nests",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Mice is plural but does not end in s. Its possessive form adds apostrophe-s.",
+      "hint": "Do not change an irregular plural back to a singular owner."
+    },
+    "audio_answers": [
+      "the mice [apostrophe]  nests",
+      "the mouse [apostrophe] s nests",
+      "the mice [apostrophe] s nests",
+      "the mice nests"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-036",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "irregular_plural_possession",
+    "question": "The feathers belong to several geese. How should the ownership phrase be written?",
+    "audio_prompt": "The feathers belong to several geese. How should the ownership phrase be written?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the geese' feathers",
+        "is_correct": false
+      },
+      {
+        "text": "the goose's feathers",
+        "is_correct": false
+      },
+      {
+        "text": "the geese feathers",
+        "is_correct": false
+      },
+      {
+        "text": "the geese's feathers",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Geese is plural but does not end in s. Its possessive form adds apostrophe-s.",
+      "hint": "Do not change an irregular plural back to a singular owner."
+    },
+    "audio_answers": [
+      "the geese [apostrophe]  feathers",
+      "the goose [apostrophe] s feathers",
+      "the geese feathers",
+      "the geese [apostrophe] s feathers"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-037",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "interpret_apostrophe",
+    "question": "Read: “Two cats slept by the door.” What does “cats” show here?",
+    "audio_prompt": "Read: “Two cats slept by the door.” What does “cats” show here?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "More than one cat; no ownership",
+        "is_correct": true
+      },
+      {
+        "text": "One cat owns something",
+        "is_correct": false
+      },
+      {
+        "text": "Several cats own something",
+        "is_correct": false
+      },
+      {
+        "text": "Missing letters in a contraction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Cats names two animals; it does not name an owner.",
+      "hint": "Try expanding a contraction or identifying the owner."
+    },
+    "audio_answers": [
+      "More than one cat; no ownership",
+      "One cat owns something",
+      "Several cats own something",
+      "Missing letters in a contraction"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-038",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "interpret_apostrophe",
+    "question": "Read: “The cat's bowl is empty.” What does “cat's” show here?",
+    "audio_prompt": "Read: “The cat's bowl is empty.” What does “cat's” show here?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Several cats own the bowl",
+        "is_correct": false
+      },
+      {
+        "text": "One cat owns the bowl",
+        "is_correct": true
+      },
+      {
+        "text": "More than one cat; no ownership",
+        "is_correct": false
+      },
+      {
+        "text": "Cat is is shortened",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The apostrophe before s marks one owner.",
+      "hint": "Try expanding a contraction or identifying the owner."
+    },
+    "audio_answers": [
+      "Several cats own the bowl",
+      "One cat owns the bowl",
+      "More than one cat; no ownership",
+      "Cat is is shortened"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-039",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "interpret_apostrophe",
+    "question": "Read: “The cats' bowls are empty.” What does “cats'” show here?",
+    "audio_prompt": "Read: “The cats' bowls are empty.” What does “cats'” show here?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "One cat owns the bowls",
+        "is_correct": false
+      },
+      {
+        "text": "More than one bowl; no ownership",
+        "is_correct": false
+      },
+      {
+        "text": "Several cats own the bowls",
+        "is_correct": true
+      },
+      {
+        "text": "Cats are is shortened",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The plural cats already ends in s; the apostrophe follows it.",
+      "hint": "Try expanding a contraction or identifying the owner."
+    },
+    "audio_answers": [
+      "One cat owns the bowls",
+      "More than one bowl; no ownership",
+      "Several cats own the bowls",
+      "Cats are is shortened"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-040",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "interpret_apostrophe",
+    "question": "Read: “She's carrying a basket.” What does “She's” show here?",
+    "audio_prompt": "Read: “She's carrying a basket.” What does “She's” show here?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "A basket belonging to she",
+        "is_correct": false
+      },
+      {
+        "text": "Several people called She",
+        "is_correct": false
+      },
+      {
+        "text": "A plural noun",
+        "is_correct": false
+      },
+      {
+        "text": "She is, with a missing letter",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "She is carrying can be shortened to She’s carrying.",
+      "hint": "Try expanding a contraction or identifying the owner."
+    },
+    "audio_answers": [
+      "A basket belonging to she",
+      "Several people called She",
+      "A plural noun",
+      "She is, with a missing letter"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-041",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "interpret_apostrophe",
+    "question": "Read: “The boys waved.” What does “boys” show here?",
+    "audio_prompt": "Read: “The boys waved.” What does “boys” show here?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "More than one boy; no apostrophe needed",
+        "is_correct": true
+      },
+      {
+        "text": "One boy owns the wave",
+        "is_correct": false
+      },
+      {
+        "text": "Several boys own something",
+        "is_correct": false
+      },
+      {
+        "text": "Boy is with a missing letter",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Boys is an ordinary plural subject, not a possessive form.",
+      "hint": "Try expanding a contraction or identifying the owner."
+    },
+    "audio_answers": [
+      "More than one boy; no apostrophe needed",
+      "One boy owns the wave",
+      "Several boys own something",
+      "Boy is with a missing letter"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-042",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "interpret_apostrophe",
+    "question": "Read: “The children's lunch is ready.” What does “children's” show here?",
+    "audio_prompt": "Read: “The children's lunch is ready.” What does “children's” show here?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Possession by one child",
+        "is_correct": false
+      },
+      {
+        "text": "Possession by several children",
+        "is_correct": true
+      },
+      {
+        "text": "A contraction of children is",
+        "is_correct": false
+      },
+      {
+        "text": "An ordinary plural without ownership",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Children is already plural; apostrophe-s marks its possession.",
+      "hint": "Try expanding a contraction or identifying the owner."
+    },
+    "audio_answers": [
+      "Possession by one child",
+      "Possession by several children",
+      "A contraction of children is",
+      "An ordinary plural without ownership"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-043",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "edit_in_context",
+    "question": "A shop sign means that it sells apples. Repair “Fresh apple’s for sale”.",
+    "audio_prompt": "A shop sign means that it sells apples. Repair “Fresh apple’s for sale”.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Fresh apples' for sale",
+        "is_correct": false
+      },
+      {
+        "text": "Fresh apple's for sale",
+        "is_correct": false
+      },
+      {
+        "text": "Fresh apples for sale",
+        "is_correct": true
+      },
+      {
+        "text": "Fresh apples's for sale",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Apples is an ordinary plural; it needs no apostrophe.",
+      "hint": "Check the intended meaning before changing punctuation."
+    },
+    "audio_answers": [
+      "Fresh apples [apostrophe]  for sale",
+      "Fresh apple [apostrophe] s for sale",
+      "Fresh apples for sale",
+      "Fresh apples [apostrophe] s for sale"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-044",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "edit_in_context",
+    "question": "There is one coach. Repair “The coaches whistle fell.”",
+    "audio_prompt": "There is one coach. Repair “The coaches whistle fell.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The coaches' whistle fell.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach whistle fell.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach whistle's fell.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach's whistle fell.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "One coach owns the whistle, so coach takes apostrophe-s.",
+      "hint": "Check the intended meaning before changing punctuation."
+    },
+    "audio_answers": [
+      "The coaches [apostrophe]  whistle fell.",
+      "The coach whistle fell.",
+      "The coach whistle [apostrophe] s fell.",
+      "The coach [apostrophe] s whistle fell."
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-045",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "edit_in_context",
+    "question": "There are several students. Repair “The student’s bags are here.”",
+    "audio_prompt": "There are several students. Repair “The student’s bags are here.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The students' bags are here.",
+        "is_correct": true
+      },
+      {
+        "text": "The student's bags are here.",
+        "is_correct": false
+      },
+      {
+        "text": "The students bags are here.",
+        "is_correct": false
+      },
+      {
+        "text": "The students's bags are here.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The owners are students, plural ending in s; add the apostrophe after s.",
+      "hint": "Check the intended meaning before changing punctuation."
+    },
+    "audio_answers": [
+      "The students [apostrophe]  bags are here.",
+      "The student [apostrophe] s bags are here.",
+      "The students bags are here.",
+      "The students [apostrophe] s bags are here."
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-046",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "edit_in_context",
+    "question": "Expand the contraction without changing meaning: “They’ll arrive after lunch.”",
+    "audio_prompt": "Expand the contraction without changing meaning: “They’ll arrive after lunch.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "They are arriving after lunch.",
+        "is_correct": false
+      },
+      {
+        "text": "They will arrive after lunch.",
+        "is_correct": true
+      },
+      {
+        "text": "They have arrived after lunch.",
+        "is_correct": false
+      },
+      {
+        "text": "They would arrive after lunch.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "They’ll is the contracted form of they will.",
+      "hint": "Check the intended meaning before changing punctuation."
+    },
+    "audio_answers": [
+      "They are arriving after lunch.",
+      "They will arrive after lunch.",
+      "They have arrived after lunch.",
+      "They would arrive after lunch."
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-047",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "edit_in_context",
+    "question": "The kitten licked the paw belonging to it. Complete “The kitten licked ___ paw.”",
+    "audio_prompt": "The kitten licked the paw belonging to it. Complete “The kitten licked ___ paw.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "it's",
+        "is_correct": false
+      },
+      {
+        "text": "its'",
+        "is_correct": false
+      },
+      {
+        "text": "its",
+        "is_correct": true
+      },
+      {
+        "text": "it",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Its shows possession. It’s means it is or it has, which does not fit before paw here.",
+      "hint": "Check the intended meaning before changing punctuation."
+    },
+    "audio_answers": [
+      "it [apostrophe] s",
+      "its [apostrophe] ",
+      "its",
+      "it"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-P-048",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "edit_in_context",
+    "question": "The sentence means “It is getting dark.” Choose its contracted form.",
+    "audio_prompt": "The sentence means “It is getting dark.” Choose its contracted form.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Its getting dark.",
+        "is_correct": false
+      },
+      {
+        "text": "Its' getting dark.",
+        "is_correct": false
+      },
+      {
+        "text": "It getting dark.",
+        "is_correct": false
+      },
+      {
+        "text": "It's getting dark.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "It’s expands to it is; its is the possessive word.",
+      "hint": "Check the intended meaning before changing punctuation."
+    },
+    "audio_answers": [
+      "Its getting dark.",
+      "Its [apostrophe]  getting dark.",
+      "It getting dark.",
+      "It [apostrophe] s getting dark."
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-001",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "form_contraction",
+    "question": "Rewrite only “we are” as a contraction: “The note says that we are walking to the oval.”",
+    "audio_prompt": "Rewrite only “we are” as a contraction: “The note says that we are walking to the oval.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "we're",
+        "is_correct": true
+      },
+      {
+        "text": "were",
+        "is_correct": false
+      },
+      {
+        "text": "wer'e",
+        "is_correct": false
+      },
+      {
+        "text": "we'are",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "we're combines we are; the apostrophe marks the omitted letters.",
+      "hint": "Keep the letters that remain in their original order."
+    },
+    "audio_answers": [
+      "we [apostrophe] re",
+      "were",
+      "wer [apostrophe] e",
+      "we [apostrophe] are"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-002",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "form_contraction",
+    "question": "Rewrite only “I have” as a contraction: “The note says that I have found the missing sock.”",
+    "audio_prompt": "Rewrite only “I have” as a contraction: “The note says that I have found the missing sock.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Iv'e",
+        "is_correct": false
+      },
+      {
+        "text": "I've",
+        "is_correct": true
+      },
+      {
+        "text": "Ive'",
+        "is_correct": false
+      },
+      {
+        "text": "I'ave",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "I've combines I have; the apostrophe marks the omitted letters.",
+      "hint": "Keep the letters that remain in their original order."
+    },
+    "audio_answers": [
+      "Iv [apostrophe] e",
+      "I [apostrophe] ve",
+      "Ive [apostrophe] ",
+      "I [apostrophe] ave"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-003",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "expand_negative",
+    "question": "Write the two words represented by “haven't”.",
+    "audio_prompt": "Write the two words represented by “haven't”.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "had not",
+        "is_correct": false
+      },
+      {
+        "text": "has not",
+        "is_correct": false
+      },
+      {
+        "text": "have not",
+        "is_correct": true
+      },
+      {
+        "text": "he has",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "haven't means have not. The contraction keeps the negative meaning.",
+      "hint": "Expand the whole contraction, not just its ending."
+    },
+    "audio_answers": [
+      "had not",
+      "has not",
+      "have not",
+      "he has"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-004",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "expand_negative",
+    "question": "Write the two words represented by “wouldn't”.",
+    "audio_prompt": "Write the two words represented by “wouldn't”.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "will not",
+        "is_correct": false
+      },
+      {
+        "text": "would have",
+        "is_correct": false
+      },
+      {
+        "text": "could not",
+        "is_correct": false
+      },
+      {
+        "text": "would not",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "wouldn't means would not. The contraction keeps the negative meaning.",
+      "hint": "Expand the whole contraction, not just its ending."
+    },
+    "audio_answers": [
+      "will not",
+      "would have",
+      "could not",
+      "would not"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-005",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "omitted_letters",
+    "question": "Compare “we have” with “we've”. Which letters does the apostrophe replace?",
+    "audio_prompt": "Compare “we have” with “we've”. Which letters does the apostrophe replace?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the h and a in have",
+        "is_correct": true
+      },
+      {
+        "text": "the v and e in have",
+        "is_correct": false
+      },
+      {
+        "text": "the w and e in we",
+        "is_correct": false
+      },
+      {
+        "text": "only the h in have",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare the full form letter by letter: the h and a in have disappears; the other letters remain.",
+      "hint": "The apostrophe marks missing letters, not a space alone."
+    },
+    "audio_answers": [
+      "the h and a in have",
+      "the v and e in have",
+      "the w and e in we",
+      "only the h in have"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-006",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "omitted_letters",
+    "question": "Compare “was not” with “wasn't”. Which letters does the apostrophe replace?",
+    "audio_prompt": "Compare “was not” with “wasn't”. Which letters does the apostrophe replace?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the a in was",
+        "is_correct": false
+      },
+      {
+        "text": "the o in not",
+        "is_correct": true
+      },
+      {
+        "text": "the s in was",
+        "is_correct": false
+      },
+      {
+        "text": "the n in not",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Compare the full form letter by letter: the o in not disappears; the other letters remain.",
+      "hint": "The apostrophe marks missing letters, not a space alone."
+    },
+    "audio_answers": [
+      "the a in was",
+      "the o in not",
+      "the s in was",
+      "the n in not"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-007",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "singular_possession",
+    "question": "One pilot owns a map. Which phrase shows this ownership?",
+    "audio_prompt": "One pilot owns a map. Which phrase shows this ownership?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the pilots map",
+        "is_correct": false
+      },
+      {
+        "text": "the pilots' map",
+        "is_correct": false
+      },
+      {
+        "text": "the pilot's map",
+        "is_correct": true
+      },
+      {
+        "text": "the pilot map's",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The owner is one pilot. Add apostrophe-s to pilot, not to map.",
+      "hint": "Find the owner before placing the apostrophe."
+    },
+    "audio_answers": [
+      "the pilots map",
+      "the pilots [apostrophe]  map",
+      "the pilot [apostrophe] s map",
+      "the pilot map [apostrophe] s"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-008",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "singular_possession",
+    "question": "One farmer owns a tractor. Which phrase shows this ownership?",
+    "audio_prompt": "One farmer owns a tractor. Which phrase shows this ownership?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the farmers tractor",
+        "is_correct": false
+      },
+      {
+        "text": "the farmers' tractor",
+        "is_correct": false
+      },
+      {
+        "text": "the farmer tractor's",
+        "is_correct": false
+      },
+      {
+        "text": "the farmer's tractor",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The owner is one farmer. Add apostrophe-s to farmer, not to tractor.",
+      "hint": "Find the owner before placing the apostrophe."
+    },
+    "audio_answers": [
+      "the farmers tractor",
+      "the farmers [apostrophe]  tractor",
+      "the farmer tractor [apostrophe] s",
+      "the farmer [apostrophe] s tractor"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-009",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "regular_plural_possession",
+    "question": "Show the ownership: the pond belonging to several ducks.",
+    "audio_prompt": "Show the ownership: the pond belonging to several ducks.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the ducks' pond",
+        "is_correct": true
+      },
+      {
+        "text": "the duck's pond",
+        "is_correct": false
+      },
+      {
+        "text": "the ducks pond",
+        "is_correct": false
+      },
+      {
+        "text": "the ducks's pond",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Ducks already ends in s. Add an apostrophe after that s to show possession by more than one.",
+      "hint": "Write the plural owner first; then add the apostrophe."
+    },
+    "audio_answers": [
+      "the ducks [apostrophe]  pond",
+      "the duck [apostrophe] s pond",
+      "the ducks pond",
+      "the ducks [apostrophe] s pond"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-010",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "regular_plural_possession",
+    "question": "Show the ownership: the keys belonging to several drivers.",
+    "audio_prompt": "Show the ownership: the keys belonging to several drivers.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the driver's keys",
+        "is_correct": false
+      },
+      {
+        "text": "the drivers' keys",
+        "is_correct": true
+      },
+      {
+        "text": "the drivers keys",
+        "is_correct": false
+      },
+      {
+        "text": "the drivers's keys",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Drivers already ends in s. Add an apostrophe after that s to show possession by more than one.",
+      "hint": "Write the plural owner first; then add the apostrophe."
+    },
+    "audio_answers": [
+      "the driver [apostrophe] s keys",
+      "the drivers [apostrophe]  keys",
+      "the drivers keys",
+      "the drivers [apostrophe] s keys"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-011",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "irregular_plural_possession",
+    "question": "The drawings belong to several children. How should the ownership phrase be written?",
+    "audio_prompt": "The drawings belong to several children. How should the ownership phrase be written?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the children' drawings",
+        "is_correct": false
+      },
+      {
+        "text": "the child's drawings",
+        "is_correct": false
+      },
+      {
+        "text": "the children's drawings",
+        "is_correct": true
+      },
+      {
+        "text": "the children drawings",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Children is plural but does not end in s. Its possessive form adds apostrophe-s.",
+      "hint": "Do not change an irregular plural back to a singular owner."
+    },
+    "audio_answers": [
+      "the children [apostrophe]  drawings",
+      "the child [apostrophe] s drawings",
+      "the children [apostrophe] s drawings",
+      "the children drawings"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-012",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "irregular_plural_possession",
+    "question": "The bicycles belong to several women. How should the ownership phrase be written?",
+    "audio_prompt": "The bicycles belong to several women. How should the ownership phrase be written?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the women' bicycles",
+        "is_correct": false
+      },
+      {
+        "text": "the woman's bicycles",
+        "is_correct": false
+      },
+      {
+        "text": "the women bicycles",
+        "is_correct": false
+      },
+      {
+        "text": "the women's bicycles",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Women is plural but does not end in s. Its possessive form adds apostrophe-s.",
+      "hint": "Do not change an irregular plural back to a singular owner."
+    },
+    "audio_answers": [
+      "the women [apostrophe]  bicycles",
+      "the woman [apostrophe] s bicycles",
+      "the women bicycles",
+      "the women [apostrophe] s bicycles"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-013",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "interpret_apostrophe",
+    "question": "Read: “We're planting seeds.” What does “We're” show here?",
+    "audio_prompt": "Read: “We're planting seeds.” What does “We're” show here?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "A contraction of we are",
+        "is_correct": true
+      },
+      {
+        "text": "A possessive form of we",
+        "is_correct": false
+      },
+      {
+        "text": "An ordinary plural noun",
+        "is_correct": false
+      },
+      {
+        "text": "A contraction of we were",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "We’re expands to we are in this sentence.",
+      "hint": "Try expanding a contraction or identifying the owner."
+    },
+    "audio_answers": [
+      "A contraction of we are",
+      "A possessive form of we",
+      "An ordinary plural noun",
+      "A contraction of we were"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-014",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "interpret_apostrophe",
+    "question": "Read: “The teachers' meeting starts soon.” What does “teachers'” show here?",
+    "audio_prompt": "Read: “The teachers' meeting starts soon.” What does “teachers'” show here?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "A meeting for one teacher",
+        "is_correct": false
+      },
+      {
+        "text": "A meeting for several teachers",
+        "is_correct": true
+      },
+      {
+        "text": "A contraction of teacher is",
+        "is_correct": false
+      },
+      {
+        "text": "An ordinary plural with no relationship",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The apostrophe follows plural teachers, showing the meeting belongs to that group.",
+      "hint": "Try expanding a contraction or identifying the owner."
+    },
+    "audio_answers": [
+      "A meeting for one teacher",
+      "A meeting for several teachers",
+      "A contraction of teacher is",
+      "An ordinary plural with no relationship"
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-015",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "edit_in_context",
+    "question": "Several foxes share a den. Repair “The foxe’s den was hidden.”",
+    "audio_prompt": "Several foxes share a den. Repair “The foxe’s den was hidden.”",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The fox's den was hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "The foxes's den was hidden.",
+        "is_correct": false
+      },
+      {
+        "text": "The foxes' den was hidden.",
+        "is_correct": true
+      },
+      {
+        "text": "The foxes den was hidden.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Foxes is the full plural owner; place an apostrophe after its final s.",
+      "hint": "Check the intended meaning before changing punctuation."
+    },
+    "audio_answers": [
+      "The fox [apostrophe] s den was hidden.",
+      "The foxes [apostrophe] s den was hidden.",
+      "The foxes [apostrophe]  den was hidden.",
+      "The foxes den was hidden."
+    ]
+  },
+  {
+    "id": "AC9E3LA11-T-016",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA11",
+    "bank": "test",
+    "stage": "apply",
+    "skill": "Apostrophes in Contractions and Possession",
+    "coverage_strand": "edit_in_context",
+    "question": "A writer shortened “We are sure it is safe.” Which revision keeps both meanings?",
+    "audio_prompt": "A writer shortened “We are sure it is safe.” Which revision keeps both meanings?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Were sure its safe.",
+        "is_correct": false
+      },
+      {
+        "text": "We're sure its safe.",
+        "is_correct": false
+      },
+      {
+        "text": "Were sure it's safe.",
+        "is_correct": false
+      },
+      {
+        "text": "We're sure it's safe.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "We’re means we are, and it’s means it is. Both contractions need their apostrophes.",
+      "hint": "Check the intended meaning before changing punctuation."
+    },
+    "audio_answers": [
+      "Were sure its safe.",
+      "We [apostrophe] re sure its safe.",
+      "Were sure it [apostrophe] s safe.",
+      "We [apostrophe] re sure it [apostrophe] s safe."
+    ]
+  }
+]
