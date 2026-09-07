@@ -3,7 +3,7 @@
   const root = document.querySelector('[data-product-detail]');
   const id = new URLSearchParams(location.search).get('id');
   const el = (tag, text, className) => { const node = document.createElement(tag); if (text) node.textContent = text; if (className) node.className = className; return node; };
-  fetch('/data/print-and-go-products.json').then(response => { if (!response.ok) throw new Error(); return response.json(); }).then(products => {
+  fetch('/data/print-and-go-products.json?v=20260907-multiplication', { cache: 'no-cache' }).then(response => { if (!response.ok) throw new Error(); return response.json(); }).then(products => {
     const product = products.find(item => item.available && item.id === id);
     if (!product) throw new Error();
     document.title = product.title + ' | SkillrHub';
