@@ -1,1 +1,475 @@
-[{"id":"year-3-time","title":"Year 3 Time Practice Pack","year":3,"yearLabel":"Year 3","subject":"maths","subjectLabel":"Maths","topics":["time","duration","analogue clocks","analog clocks","hours","minutes","seconds"],"curriculumCodes":["AC9M3M03","AC9M3M04"],"description":"Time units, duration and analogue clocks, with worked answers.","url":"/print-and-go/year-3/maths/time-practice-pack/","image":"/assets/year-3-time-pack-cover.png","price":"2.99","currency":"USD","available":true,"tptUrl":"https://www.teacherspayteachers.com/Product/Year-3-Time-Practice-Pack-Analogue-Clocks-Duration-AC9M3M03-AC9M3M04-17592266","resourceType":"worksheet"},{"id":"year-3-time-teaching-slides-sample","title":"Year 3 Time Teaching Slides","year":3,"yearLabel":"Year 3","subject":"maths","subjectLabel":"Maths","topics":["time","duration","analogue clocks","analog clocks","teaching slides","sample","hours","minutes","seconds"],"curriculumCodes":["AC9M3M03","AC9M3M04"],"description":"60 classroom-ready slides for analogue clocks, time units and duration, aligned to AC9M3M03 and AC9M3M04.","url":"/teach-and-explain/year-3/maths/time-teaching-slides-sample/","image":"/assets/year-3-time-slides-cover.svg","price":"6.99","currency":"USD","available":true,"resourceType":"teaching-slides","includes":["60 flattened classroom-ready teaching slides","Analogue clocks, hours, minutes and seconds","Elapsed time and duration worked examples","Guided questions for whole-class teaching"],"learningGoals":["Read analogue clocks to the minute","Connect seconds, minutes and hours","Calculate and explain elapsed time","Solve practical duration problems"],"format":"Flattened 60-slide PDF","tptUrl":"https://www.teacherspayteachers.com/Product/Year-3-Time-Teaching-Slides-Analogue-Clocks-Duration-60-Slide-Pack-17593166","bundleTptUrl":"https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Analogue-Clocks-Duration-Teaching-Slides-Worksheets-17593227","bundlePrice":"7.98","bundleListPrice":"9.98","bundleDiscount":20},{"id":"year-4-fractions-free","title":"Year 4 Fractions Mini Pack","year":4,"yearLabel":"Year 4","subject":"maths","subjectLabel":"Maths","topics":["fractions","equivalent fractions","fraction families","number lines","mixed numerals"],"curriculumCodes":["AC9M4N03","AC9M4N04"],"description":"Six printable pages with visual fraction models, reasoning, an exit ticket and answers.","url":"/blogs/free-year-4-fractions-equivalent-fractions-number-lines-australia.html","image":"/assets/free-resources/year-4-fractions-mini-pack-preview.png","price":"0","currency":"USD","available":true,"tptUrl":"https://www.teacherspayteachers.com/Product/Year-4-Fractions-FREE-Worksheet-Pack-Equivalent-Fractions-Number-Lines--17526065","resourceType":"worksheet","free":true},{"id":"year-5-decimals-free","title":"Year 5 Decimals Mini Pack","year":5,"yearLabel":"Year 5","subject":"maths","subjectLabel":"Maths","topics":["decimals","place value","compare decimals","rounding decimals"],"curriculumCodes":["AC9M5N01"],"description":"Free printable decimal practice covering place value, comparison and rounding.","url":"/blogs/year5-maths-curriculum-australia-guide.html","image":"/icons/skillrhub-mark.svg","price":"0","currency":"USD","available":true,"tptUrl":"https://www.teacherspayteachers.com/Product/FREE-Year-5-Decimals-Worksheets-Place-Value-Comparing-Rounding-Decimals-17567833","resourceType":"worksheet","free":true}]
+[
+  {
+    "id": "year-2-maths-workbook",
+    "title": "Year 2 Maths Workbook | Australian Curriculum Version 9.0 | Full-Year Resource",
+    "year": 2,
+    "yearLabel": "Year 2",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "full year",
+      "workbook",
+      "number",
+      "algebra",
+      "measurement",
+      "space",
+      "statistics"
+    ],
+    "curriculumCodes": [
+      "Australian Curriculum v9.0"
+    ],
+    "description": "A complete Year 2 teaching and practice workbook with explanations, visual models, worksheets, assessments and answers.",
+    "url": "/product.html?id=year-2-maths-workbook",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "20.00",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "workbook",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Maths-Workbook-Australian-Curriculum-Version-90-Full-Year-Resource-17273907"
+  },
+  {
+    "id": "year-1-science-bundle",
+    "title": "Year 1 Science Bundle | Australian Curriculum v9.0 | Teaching Slides + Worksheet",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "bundle",
+      "biology",
+      "earth",
+      "space",
+      "physical sciences",
+      "inquiry"
+    ],
+    "curriculumCodes": [
+      "Australian Curriculum v9.0"
+    ],
+    "description": "Six Year 1 Science products combining teacher explanations and matching student practice worksheets.",
+    "url": "/product.html?id=year-1-science-bundle",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "19.99",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Bundle-Australian-Curriculum-v90-Teaching-Slides-Worksheet-17205384",
+    "listPrice": "26.74"
+  },
+  {
+    "id": "year-1-science-inquiry-part-1",
+    "title": "Year 1 Science – Science Inquiry Skills | Australian Curriculum v9.0 | Part 1",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "inquiry",
+      "observing",
+      "recording",
+      "communicating"
+    ],
+    "curriculumCodes": [
+      "Australian Curriculum v9.0"
+    ],
+    "description": "Hands-on teaching and practice for observing, recording, analysing, evaluating and communicating.",
+    "url": "/product.html?id=year-1-science-inquiry-part-1",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "6.99",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "unit",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Science-Inquiry-Skills-Australian-Curriculum-v90-Part-1-17204859"
+  },
+  {
+    "id": "year-1-science-inquiry-part-2",
+    "title": "Year 1 Science Inquiry Skills | Questioning, Planning & Processing | Part 2",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "inquiry",
+      "questions",
+      "predictions",
+      "planning",
+      "processing"
+    ],
+    "curriculumCodes": [
+      "Australian Curriculum v9.0"
+    ],
+    "description": "Inquiry activities for asking questions, making predictions, planning investigations and processing findings.",
+    "url": "/product.html?id=year-1-science-inquiry-part-2",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "5.50",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "unit",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Inquiry-Skills-Questioning-Planning-Processing-Part-2-17204897"
+  },
+  {
+    "id": "year-1-science-earth-space",
+    "title": "Year 1 Science – Earth and Space Sciences | Australian Curriculum v9.0 | Lessons",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "earth",
+      "space",
+      "sun",
+      "weather",
+      "seasons"
+    ],
+    "curriculumCodes": [
+      "Australian Curriculum v9.0"
+    ],
+    "description": "Age-appropriate lessons, visuals and investigations exploring Earth, the Sun, weather and seasons.",
+    "url": "/product.html?id=year-1-science-earth-space",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "4.75",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "unit",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Earth-and-Space-Sciences-Australian-Curriculum-v90-Lessons-17204732"
+  },
+  {
+    "id": "year-1-science-physical",
+    "title": "Year 1 Science – Physical Sciences | Australian Curriculum v9.0 | Pushes & Pulls",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "physical sciences",
+      "forces",
+      "motion",
+      "pushes",
+      "pulls"
+    ],
+    "curriculumCodes": [
+      "Australian Curriculum v9.0"
+    ],
+    "description": "Visual lessons and investigations showing how pushes and pulls affect movement and shape.",
+    "url": "/product.html?id=year-1-science-physical",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "4.75",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "unit",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-Physical-Sciences-Australian-Curriculum-v90-Pushes-Pulls-17204675"
+  },
+  {
+    "id": "year-1-science-human-endeavour",
+    "title": "Year 1 – Science as a Human Endeavour | Australian Curriculum v9.0 | Lessons",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "human endeavour",
+      "everyday science",
+      "environment"
+    ],
+    "curriculumCodes": [
+      "Australian Curriculum v9.0"
+    ],
+    "description": "Lessons showing how people use science in daily life to care, decide and solve problems.",
+    "url": "/product.html?id=year-1-science-human-endeavour",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "4.75",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "unit",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Science-as-a-Human-Endeavour-Australian-Curriculum-v90-Lessons-17204777"
+  },
+  {
+    "id": "year-1-biological-sciences-free",
+    "title": "Year 1 Biological Sciences | Chapter 1: Introduction to Biological Sciences",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "science",
+    "subjectLabel": "Science",
+    "topics": [
+      "biology",
+      "living things",
+      "free sample"
+    ],
+    "curriculumCodes": [
+      "Australian Curriculum v9.0"
+    ],
+    "description": "A free introductory chapter about living things through observation, exploration and inquiry.",
+    "url": "/product.html?id=year-1-biological-sciences-free",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "0",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "unit",
+    "free": true,
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Biological-Sciences-Chapter-1-Introduction-to-Biological-Sciences-17204521"
+  },
+  {
+    "id": "year-2-numbers-1000-free",
+    "title": "Year 2 Numbers to 1000 Free Lesson | Place Value Worksheets | AC9M2N01",
+    "year": 2,
+    "yearLabel": "Year 2",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "numbers to 1000",
+      "place value",
+      "free"
+    ],
+    "curriculumCodes": [
+      "AC9M2N01"
+    ],
+    "description": "A free teaching and practice pack for reading, representing, comparing and ordering numbers to 1000.",
+    "url": "/product.html?id=year-2-numbers-1000-free",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "0",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "free": true,
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-2-Numbers-to-1000-Free-Lesson-Place-Value-Worksheets-AC9M2N01-17273749"
+  },
+  {
+    "id": "year-3-telling-time-free",
+    "title": "Year 3 Telling Time FREE Worksheets | Analog Clocks | AC9M3M04",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "telling time",
+      "analogue clocks",
+      "analog clocks",
+      "free"
+    ],
+    "curriculumCodes": [
+      "AC9M3M04"
+    ],
+    "description": "A free mini-pack for identifying clock hands and reading analogue and digital time to the minute.",
+    "url": "/product.html?id=year-3-telling-time-free",
+    "image": "/assets/year-3-time-pack-cover.png",
+    "price": "0",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "free": true,
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Telling-Time-FREE-Worksheets-Analog-Clocks-AC9M3M04-17492537"
+  },
+  {
+    "id": "year-4-fractions-free",
+    "title": "Year 4 Fractions FREE Worksheet Pack | Equivalent Fractions & Number Lines",
+    "year": 4,
+    "yearLabel": "Year 4",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "fractions",
+      "equivalent fractions",
+      "number lines"
+    ],
+    "curriculumCodes": [
+      "AC9M4N03",
+      "AC9M4N04"
+    ],
+    "description": "A free mini-pack with fraction models, number lines, reasoning, an exit ticket and answers.",
+    "url": "/product.html?id=year-4-fractions-free",
+    "image": "/assets/free-resources/year-4-fractions-mini-pack-preview.png",
+    "price": "0",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "free": true,
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-4-Fractions-FREE-Worksheet-Pack-Equivalent-Fractions-Number-Lines--17526065"
+  },
+  {
+    "id": "year-5-decimals-free",
+    "title": "FREE Year 5 Decimals Worksheets | Place Value, Comparing & Rounding Decimals",
+    "year": 5,
+    "yearLabel": "Year 5",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "decimals",
+      "place value",
+      "comparing",
+      "rounding"
+    ],
+    "curriculumCodes": [
+      "AC9M5N01"
+    ],
+    "description": "A free decimal pack covering place value, comparing, ordering and rounding, with answers.",
+    "url": "/product.html?id=year-5-decimals-free",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "0",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "free": true,
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-5-Decimals-Worksheets-Place-Value-Comparing-Rounding-Decimals-17567833"
+  },
+  {
+    "id": "year-3-time-bundle",
+    "title": "Year 3 Time Bundle | Analogue Clocks, Duration, Teaching Slides & Worksheets",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "time",
+      "duration",
+      "clocks",
+      "slides",
+      "worksheets"
+    ],
+    "curriculumCodes": [
+      "AC9M3M03",
+      "AC9M3M04"
+    ],
+    "description": "A complete bundle combining 60 teaching slides with printable time practice and worked answers.",
+    "url": "/product.html?id=year-3-time-bundle",
+    "image": "/assets/year-3-time-pack-cover.png",
+    "price": "7.98",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "bundle",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Bundle-Analogue-Clocks-Duration-Teaching-Slides-Worksheets-17593227",
+    "listPrice": "9.98"
+  },
+  {
+    "id": "year-3-time-slides-60",
+    "title": "Year 3 Time Teaching Slides | Analogue Clocks & Duration | 60-Slide Pack",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "time",
+      "duration",
+      "analogue clocks",
+      "slides"
+    ],
+    "curriculumCodes": [
+      "AC9M3M03",
+      "AC9M3M04"
+    ],
+    "description": "Sixty classroom-ready slides with visual explanations, worked examples and guided practice.",
+    "url": "/product.html?id=year-3-time-slides-60",
+    "image": "/assets/year-3-time-pack-cover.png",
+    "price": "6.99",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Teaching-Slides-Analogue-Clocks-Duration-60-Slide-Pack-17593166"
+  },
+  {
+    "id": "year-3-time-slides",
+    "title": "Year 3 Time Teaching Slides | Analogue Clocks & Duration",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "time",
+      "duration",
+      "analogue clocks",
+      "slides"
+    ],
+    "curriculumCodes": [
+      "AC9M3M03",
+      "AC9M3M04"
+    ],
+    "description": "A classroom-ready PDF for analogue clocks, comparing times, elapsed time and duration problems.",
+    "url": "/product.html?id=year-3-time-slides",
+    "image": "/assets/year-3-time-pack-cover.png",
+    "price": "6.98",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-slides",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Teaching-Slides-Analogue-Clocks-Duration-17593120"
+  },
+  {
+    "id": "year-3-time-slides-sample",
+    "title": "Year 3 Time Teaching Slides Sample Pack | Analogue Clocks & Duration",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "time",
+      "duration",
+      "clocks",
+      "sample"
+    ],
+    "curriculumCodes": [
+      "AC9M3M03",
+      "AC9M3M04"
+    ],
+    "description": "A free 12-slide sample covering time units, duration, analogue clocks and common mistakes.",
+    "url": "/product.html?id=year-3-time-slides-sample",
+    "image": "/assets/year-3-time-pack-cover.png",
+    "price": "0",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "teaching-sample",
+    "free": true,
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Teaching-Slides-Sample-Pack-Analogue-Clocks-Duration-17593083"
+  },
+  {
+    "id": "year-3-time-practice",
+    "title": "Year 3 Time Practice Pack | Analogue Clocks & Duration | AC9M3M03 AC9M3M04",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "time",
+      "duration",
+      "clocks",
+      "hours",
+      "minutes"
+    ],
+    "curriculumCodes": [
+      "AC9M3M03",
+      "AC9M3M04"
+    ],
+    "description": "Ready-to-print A4 practice for time units, duration and analogue clocks, with worked answers.",
+    "url": "/product.html?id=year-3-time-practice",
+    "image": "/assets/year-3-time-pack-cover.png",
+    "price": "2.99",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Time-Practice-Pack-Analogue-Clocks-Duration-AC9M3M03-AC9M3M04-17592266"
+  },
+  {
+    "id": "year-3-time-duration-free",
+    "title": "FREE Year 3 Time Duration Worksheets | Hours, Minutes, Seconds | AC9M3M03",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "time",
+      "duration",
+      "hours",
+      "minutes",
+      "seconds",
+      "timers"
+    ],
+    "curriculumCodes": [
+      "AC9M3M03"
+    ],
+    "description": "A free mini-pack for choosing time units, estimating and comparing duration, and reading timers.",
+    "url": "/product.html?id=year-3-time-duration-free",
+    "image": "/assets/year-3-time-pack-cover.png",
+    "price": "0",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "worksheet",
+    "free": true,
+    "tptUrl": "https://www.teacherspayteachers.com/Product/FREE-Year-3-Time-Duration-Worksheets-Hours-Minutes-Seconds-AC9M3M03-17592010"
+  }
+]

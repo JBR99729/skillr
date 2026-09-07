@@ -3,11 +3,11 @@
   function filterProducts(products, query, scope = {}) {
     const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
     return products.filter(product => {
-      const wantedType = scope.resourceType || 'worksheet';
+      const wantedType = scope.resourceType || 'all';
       const productType = product.resourceType || 'worksheet';
       if (wantedType === 'teaching-slides') {
         if (!['teaching-slides', 'teaching-sample'].includes(productType)) return false;
-      } else if (productType !== wantedType) return false;
+      } else if (wantedType !== 'all' && productType !== wantedType) return false;
       if (!product.available || (scope.year && String(product.year) !== String(scope.year)) || (scope.subject && product.subject !== scope.subject)) return false;
       const text = [product.title, product.yearLabel, product.subjectLabel, product.description, ...(product.topics || []), ...(product.curriculumCodes || [])].join(' ').toLowerCase();
       return terms.every(term => text.includes(term));
@@ -54,13 +54,13 @@
   function render() {
     const query = input.value.trim();
     results.replaceChildren(); results.hidden = true; pagination.hidden = true; browse.hidden = false;
-    if (!query) { status.textContent = ''; return; }
+    if (!query && !section.dataset.showAll) { status.textContent = ''; return; }
     if (failed) { status.textContent = 'Search is unavailable. Please browse the categories below or reload to try again.'; return; }
     if (!products) { status.textContent = isSlides ? 'Loading teaching slides...' : 'Loading printables...'; return; }
     const matches = filterProducts(products, query, document.body.dataset);
     const result = paginate(matches, page); page = result.page;
     browse.hidden = true; results.hidden = false;
-    status.textContent = matches.length ? matches.length + (isSlides ? (matches.length === 1 ? ' slide pack found' : ' slide packs found') : (matches.length === 1 ? ' printable found' : ' printables found')) : isSlides ? 'No matching slide packs. Try another topic or clear your search.' : 'No matching printables. Try another topic or clear your search.';
+    status.textContent = matches.length ? matches.length + (isSlides ? (matches.length === 1 ? ' slide pack found' : ' slide packs found') : (matches.length === 1 ? ' live product' : ' live products')) : isSlides ? 'No matching slide packs. Try another topic or clear your search.' : 'No matching products. Try another topic or clear your search.';
     results.append(...result.items.map(card));
     pagination.hidden = result.pages <= 1;
     previous.disabled = page === 1; next.disabled = page === result.pages;
