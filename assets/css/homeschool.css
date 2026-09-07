@@ -113,6 +113,117 @@
   line-height: 1.4;
 }
 
+.homeschool-pack-card strong {
+  font-size: 1.02rem;
+}
+
+.homeschool-inline-links {
+  margin: 14px 0 0;
+  color: var(--ux-muted);
+}
+
+.homeschool-inline-links a {
+  color: var(--ux-blue);
+  font-weight: 800;
+}
+
+.homeschool-subject-pack {
+  margin: 18px 0;
+  padding: 18px;
+  border: 1px solid var(--ux-line);
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: var(--ux-shadow);
+}
+
+.homeschool-subject-pack__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.homeschool-subject-pack__head h2 {
+  margin: 0;
+  font-size: 1.35rem;
+}
+
+.homeschool-pack-table td:first-child {
+  min-width: 340px;
+}
+
+.homeschool-pack-table td:first-child span {
+  display: block;
+  margin-top: 3px;
+  color: var(--ux-muted);
+  line-height: 1.35;
+}
+
+.homeschool-pack-table td a {
+  color: var(--ux-blue);
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.homeschool-pack-table td a:hover,
+.homeschool-pack-table td a:focus-visible {
+  text-decoration: underline;
+}
+
+.print-check {
+  min-width: 105px;
+  color: var(--ux-muted);
+  line-height: 1.55;
+}
+
+.homeschool-qr-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 18px;
+  margin: 18px 0;
+  padding: 18px;
+  border: 1px solid var(--ux-line);
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: var(--ux-shadow);
+}
+
+.homeschool-qr-card h2 {
+  margin: 0 0 8px;
+  font-size: 1.35rem;
+}
+
+.homeschool-qr-card p {
+  margin: 0 0 10px;
+  color: var(--ux-muted);
+}
+
+.homeschool-qr-card a {
+  color: var(--ux-blue);
+  font-weight: 800;
+  overflow-wrap: anywhere;
+}
+
+.homeschool-qr {
+  width: 172px;
+  min-height: 172px;
+  display: grid;
+  place-items: center;
+  padding: 8px;
+  border: 1px solid #d8e2ef;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.homeschool-qr canvas,
+.homeschool-qr img,
+.homeschool-qr svg {
+  width: 156px !important;
+  height: 156px !important;
+}
+
 .homeschool-record__head {
   display: flex;
   justify-content: space-between;
@@ -239,13 +350,17 @@
   .homeschool-grid,
   .homeschool-link-grid,
   .homeschool-controls,
+  .homeschool-subject-pack__head,
+  .homeschool-qr-card,
   .homeschool-record__head {
     display: block;
   }
 
   .homeschool-grid article + article,
   .homeschool-link-grid a + a,
-  .homeschool-controls label + label {
+  .homeschool-controls label + label,
+  .homeschool-qr,
+  .homeschool-subject-pack__head .ux-secondary {
     margin-top: 10px;
   }
 
@@ -260,6 +375,7 @@
   .homeschool-hero,
   .homeschool-grid,
   .homeschool-router,
+  .homeschool-qr-card,
   .homeschool-record-actions,
   footer {
     display: none !important;
@@ -276,6 +392,18 @@
     border: 0;
     margin: 0;
     padding: 0;
+  }
+
+  .homeschool-subject-pack {
+    break-inside: avoid;
+    border: 0;
+    box-shadow: none;
+    margin: 0 0 18px;
+    padding: 0;
+  }
+
+  .homeschool-subject-pack__head .ux-secondary {
+    display: none;
   }
 
   .homeschool-table-wrap {
