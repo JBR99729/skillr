@@ -175,11 +175,9 @@
         "Use known units to estimate"
       ],
       "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
-      "readinessStatus": "BLOCKED - prerequisite incomplete",
-      "remainingPrerequisites": [
-        "Complete relevant IXL skill inspection and representative progression evidence",
-        "Complete item-level coverage map and supported-assessment checks"
-      ]
+      "readinessStatus": "VALIDATED - published and live",
+      "remainingPrerequisites": [],
+      "validationReport": "NEXT-FOUR-VALIDATION.md"
     },
     "AC9M3M02": {
       "officialDescriptor": "measure and compare objects using familiar metric units of length, mass and capacity, and instruments with labelled markings",
@@ -267,11 +265,9 @@
         "Explain suitability of features for uses"
       ],
       "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
-      "readinessStatus": "BLOCKED - prerequisite incomplete",
-      "remainingPrerequisites": [
-        "Complete relevant IXL skill inspection and representative progression evidence",
-        "Complete item-level coverage map and supported-assessment checks"
-      ]
+      "readinessStatus": "VALIDATED - published and live",
+      "remainingPrerequisites": [],
+      "validationReport": "NEXT-FOUR-VALIDATION.md"
     },
     "AC9M3SP02": {
       "officialDescriptor": "interpret and create two-dimensional representations of familiar environments, locating key landmarks and objects relative to each other",
@@ -282,11 +278,9 @@
         "Locate landmarks and objects relative to each other"
       ],
       "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
-      "readinessStatus": "BLOCKED - prerequisite incomplete",
-      "remainingPrerequisites": [
-        "Complete relevant IXL skill inspection and representative progression evidence",
-        "Complete item-level coverage map and supported-assessment checks"
-      ]
+      "readinessStatus": "VALIDATED - published and live",
+      "remainingPrerequisites": [],
+      "validationReport": "NEXT-FOUR-VALIDATION.md"
     },
     "AC9M3ST01": {
       "officialDescriptor": "acquire data for categorical and discrete numerical variables to address a question of interest or purpose by observing, collecting and accessing data sets; record the data using appropriate methods including frequency tables and spreadsheets",
@@ -300,11 +294,9 @@
         "Record with appropriate methods including frequency tables and spreadsheets"
       ],
       "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
-      "readinessStatus": "BLOCKED - prerequisite incomplete",
-      "remainingPrerequisites": [
-        "Complete relevant IXL skill inspection and representative progression evidence",
-        "Complete item-level coverage map and supported-assessment checks"
-      ]
+      "readinessStatus": "VALIDATED - published and live",
+      "remainingPrerequisites": [],
+      "validationReport": "NEXT-FOUR-VALIDATION.md"
     },
     "AC9M3ST02": {
       "officialDescriptor": "create and compare different graphical representations of data sets including using software where appropriate; interpret the data in terms of the context",

@@ -2,13 +2,12 @@
 
 Last reconciled: 2026-09-07. See [the full 23-code audit](YEAR3-RECONCILED-AUDIT.md).
 
-**15/23 codes have reviewed replacement banks published:** AC9M3N01–N07, AC9M3A01–A03, AC9M3M02–M06.
+**19/23 codes have reviewed replacement banks published:** AC9M3N01–N07, AC9M3A01–A03, AC9M3M01–M06, AC9M3SP01–SP02 and AC9M3ST01.
 
-**8 codes have identified remaining content work:**
+**4 codes have identified remaining content work:**
 
-- AC9M3M01: 48 practice + 16 test already present, but substantive repetition repair still required.
-- AC9M3SP01–SP02, AC9M3ST01–ST03, AC9M3P01–P02: each currently 24 practice + 16 test; strict development and expansion remain pending.
+- AC9M3ST02–ST03 and AC9M3P01–P02: each currently 24 practice + 16 test; strict development and expansion remain pending.
 
-**Strict evidence closeout is a separate measure:** M02–M06 have explicit validation, deployment and live-QA closeouts (5/23). N01–N07 and A01–A03 have earlier published reviewed rewrites and IXL evidence; reconcile any missing steps individually. The previous headline of 5/23 must not be used to suggest that only five banks were written or published, or that eighteen banks need rebuilding.
+**Strict evidence closeout is a separate measure:** M01–M06, SP01–SP02 and ST01 have explicit validation, deployment and live-QA closeouts (9/23). N01–N07 and A01–A03 have earlier published reviewed rewrites and IXL evidence; reconcile any missing steps individually. The older 5/23 headline must not be used as the bank-publication count.
 
-Current totals: 16 banks at 48/16; seven banks at 24/16; 1304 questions present against a 1472-question target. The net shortfall is 168 practice questions. The legacy review ledger lists 16 codes but includes M01's still-repetitive bank.
+Current totals: 19 banks at 48/16; four banks at 24/16; 1376 questions present against a 1472-question target. The net shortfall is 96 practice questions. The review ledger lists all 19 published replacement banks.
