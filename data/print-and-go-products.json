@@ -548,5 +548,43 @@
       "Preview and purchase available on TPT",
       "These two resources are also sold individually; check previous purchases to avoid duplicates"
     ]
+  },
+  {
+    "id": "year-3-fractions-workbook",
+    "title": "Year 3 Fractions Workbook | 80 Questions & Answers | Australian Curriculum v9.0",
+    "year": 3,
+    "yearLabel": "Year 3",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "fractions",
+      "unit fractions",
+      "number lines",
+      "collections",
+      "equal parts",
+      "completing the whole",
+      "workbook"
+    ],
+    "curriculumCodes": [
+      "AC9M3N02"
+    ],
+    "description": "A 43-page printable fractions workbook with 80 questions, visual models, mastery checks and complete answers with worked methods and teaching tips.",
+    "url": "/products/year-3-fractions-workbook/",
+    "image": "/assets/year-3-fractions-workbook-cover.png",
+    "price": "3.49",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "workbook",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-3-Fractions-Workbook-80-Questions-Answers-Australian-Curriculum-v90-17594426",
+    "includes": [
+      "64 written-response practice questions plus 16 mastery and extension questions",
+      "Halves, thirds, quarters, fifths and tenths; unit fractions and their multiples",
+      "Fraction strips, area models, collections, lengths and number lines",
+      "Completing a whole, drawing models, explaining reasoning and correcting mistakes",
+      "Complete answer key with worked methods and teaching or checking tips",
+      "Focused on AC9M3N02; not a complete Year 3 mathematics program",
+      "43-page non-editable PDF; US Letter pages can be scaled to A4",
+      "Preview, purchase and file delivery available on TPT"
+    ]
   }
 ]
