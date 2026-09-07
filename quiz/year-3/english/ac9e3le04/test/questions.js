@@ -4,23 +4,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-001",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
     "type": "single",
-    "question": "In a poem about a quiet night, which word uses onomatopoeia?",
-    "audioPrompt": "In a poem about a quiet night, which word uses onomatopoeia?",
+    "question": "Poem: Push, glide! Push, glide! / Skates sweep smoothly side to side.\n\nRead the repeated pair with an even beat. What does it echo?",
+    "audioPrompt": "Poem: Push, glide! Push, glide! / Skates sweep smoothly side to side.\n\nRead the repeated pair with an even beat. What does it echo?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "splash",
-      "beautiful",
-      "slowly"
+      "The repeated effort and glide of skating.",
+      "A skater standing completely still.",
+      "One loud fall followed by silence.",
+      "The colour of the skates."
     ],
     "correct": 0,
-    "explanation": "splash This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "Each return to push and glide echoes another skating movement.\nHint: Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud.",
     "structuredExplanation": {
-      "summary": "splash This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Each return to push and glide echoes another skating movement.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +32,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-002",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
     "type": "single",
-    "question": "In a poem about a quiet night, what effect can repeated beats create?",
-    "audioPrompt": "In a poem about a quiet night, what effect can repeated beats create?",
+    "question": "Poem: We hurry down the winding lane; / Stop ... / Listen ... / Here comes the train.\n\nWhat effect do the two short paused lines create?",
+    "audioPrompt": "Poem: We hurry down the winding lane; / Stop ... / Listen ... / Here comes the train.\n\nWhat effect do the two short paused lines create?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "A list of character names",
-      "A strong rhythm and sense of movement",
-      "A change from past to future"
+      "They make the train disappear.",
+      "They interrupt the hurry to make room for careful listening.",
+      "They show the children never stop moving.",
+      "They tell us the journey lasts two days."
     ],
     "correct": 1,
-    "explanation": "A strong rhythm and sense of movement This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "The pauses after stop and listen break the earlier movement, making the change in action felt.\nHint: Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud.",
     "structuredExplanation": {
-      "summary": "A strong rhythm and sense of movement This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The pauses after stop and listen break the earlier movement, making the change in action felt.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +60,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-003",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
     "type": "single",
-    "question": "In a poem about a quiet night, why is crack more vivid than broke in a branch scene?",
-    "audioPrompt": "In a poem about a quiet night, why is crack more vivid than broke in a branch scene?",
+    "question": "Poem: Boom-ba, boom-ba, beat the drum; / Here the marching players come.\n\nWhich performance best supports the described marching?",
+    "audioPrompt": "Poem: Boom-ba, boom-ba, beat the drum; / Here the marching players come.\n\nWhich performance best supports the described marching?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "It explains the branch's colour",
-      "It makes the sentence formal",
-      "It imitates the sudden sound"
+      "Use long, random silences between every sound.",
+      "Whisper only the last word and omit the rest.",
+      "Keep a steady repeated beat through the first line.",
+      "Read the line backwards."
     ],
     "correct": 2,
-    "explanation": "It imitates the sudden sound This explanation follows the relevant Year 3 English evidence.\nHint: Use the story details and reader effect before choosing.",
+    "explanation": "A regular repeated beat matches marching; the poem does not require random stops.\nHint: Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud.",
     "structuredExplanation": {
-      "summary": "It imitates the sudden sound This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "A regular repeated beat matches marching; the poem does not require random stops.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +88,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-004",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
     "type": "single",
-    "question": "In a poem about a quiet night, which sound word best suits a gentle scene?",
-    "audioPrompt": "In a poem about a quiet night, which sound word best suits a gentle scene?",
+    "question": "Poem A: Drift ... float ... settle down. / Poem B: Jump! Dash! Race through town!\n\nWhich statement compares the effects of the marked pauses and exclamations?",
+    "audioPrompt": "Poem A: Drift ... float ... settle down. / Poem B: Jump! Dash! Race through town!\n\nWhich statement compares the effects of the marked pauses and exclamations?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "hush",
-      "clang",
-      "boom"
+      "Both poems demand the same hurried rhythm.",
+      "A suggests more sudden activity than B.",
+      "B is about resting quietly.",
+      "A invites a slower reading; B suggests energetic bursts."
     ],
-    "correct": 0,
-    "explanation": "hush This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 3,
+    "explanation": "The spaced verbs in A encourage slowing, while the short exclamations in B suggest lively action.\nHint: Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud.",
     "structuredExplanation": {
-      "summary": "hush This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The spaced verbs in A encourage slowing, while the short exclamations in B suggest lively action.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +116,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-005",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
     "type": "single",
-    "question": "In a poem about a quiet night, what does repeating clip-clop suggest?",
-    "audioPrompt": "In a poem about a quiet night, what does repeating clip-clop suggest?",
+    "question": "Prose: Plop! A pebble dropped into the deep bucket. Small circles spread across the water.\n\nWhat does the sound-word add to this event?",
+    "audioPrompt": "Prose: Plop! A pebble dropped into the deep bucket. Small circles spread across the water.\n\nWhat does the sound-word add to this event?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "A character whispering",
-      "Hoofbeats continuing in rhythm",
-      "A clock stopping"
+      "The sound of the pebble entering the water.",
+      "The number of circles in the bucket.",
+      "The colour of the pebble.",
+      "The name of the person holding the bucket."
     ],
-    "correct": 1,
-    "explanation": "Hoofbeats continuing in rhythm This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 0,
+    "explanation": "Plop imitates the small dropping-into-water sound, adding hearing to the visible ripples.\nHint: Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud.",
     "structuredExplanation": {
-      "summary": "Hoofbeats continuing in rhythm This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Plop imitates the small dropping-into-water sound, adding hearing to the visible ripples.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +144,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-006",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
     "type": "single",
-    "question": "In a poem about a quiet night, which line combines rhythm and meaning effectively?",
-    "audioPrompt": "In a poem about a quiet night, which line combines rhythm and meaning effectively?",
+    "question": "Poem: Crunch beneath each boot; / Dry leaves cover every root.\n\nWhy does “crunch” suit the setting?",
+    "audioPrompt": "Poem: Crunch beneath each boot; / Dry leaves cover every root.\n\nWhy does “crunch” suit the setting?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "The roof is a roof",
-      "Rain precipitation occurs",
-      "Drip, drop, rain on the rooftop"
+      "It suggests the boots are walking through deep water.",
+      "It evokes dry leaves being crushed underfoot.",
+      "It names the tree’s age.",
+      "It shows the leaves are silent and untouched."
     ],
-    "correct": 2,
-    "explanation": "Drip, drop, rain on the rooftop This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 1,
+    "explanation": "Crunch imitates the brittle sound of dry leaves breaking beneath boots.\nHint: Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud.",
     "structuredExplanation": {
-      "summary": "Drip, drop, rain on the rooftop This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Crunch imitates the brittle sound of dry leaves breaking beneath boots.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +172,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-007",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
     "type": "single",
-    "question": "In a poem about a quiet night, how can onomatopoeia affect a reader?",
-    "audioPrompt": "In a poem about a quiet night, how can onomatopoeia affect a reader?",
+    "question": "Prose: Ding! The lift doors opened. “Our floor,” said Nan.\n\nWhich change would remove the direct sound imitation while keeping the event?",
+    "audioPrompt": "Prose: Ding! The lift doors opened. “Our floor,” said Nan.\n\nWhich change would remove the direct sound imitation while keeping the event?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "It helps the reader imagine hearing the event",
-      "It guarantees the event is true",
-      "It identifies the narrator's age"
+      "Ding, ding! The lift doors opened.",
+      "DING! The lift doors opened wide.",
+      "The lift made a sound, and its doors opened.",
+      "A bright ding rang as the lift opened."
     ],
-    "correct": 0,
-    "explanation": "It helps the reader imagine hearing the event This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 2,
+    "explanation": "Saying made a sound reports the noise without imitating it; each other choice retains ding.\nHint: Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud.",
     "structuredExplanation": {
-      "summary": "It helps the reader imagine hearing the event This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Saying made a sound reports the noise without imitating it; each other choice retains ding.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +200,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-008",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
     "type": "single",
-    "question": "In a poem about a quiet night, which explanation evaluates the device?",
-    "audioPrompt": "In a poem about a quiet night, which explanation evaluates the device?",
+    "question": "Poem: Rattle, rattle, over stones; / The little cart shakes all my bones.\n\nHow does repeating “rattle” affect the journey?",
+    "audioPrompt": "Poem: Rattle, rattle, over stones; / The little cart shakes all my bones.\n\nHow does repeating “rattle” affect the journey?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "The word appears twice",
-      "The repeated thud makes the footsteps feel close and threatening",
-      "The sentence has letters"
+      "It shows a single silent step.",
+      "It tells us the cart has reached smooth water.",
+      "It gives the exact number of stones.",
+      "It makes the shaking sound seem to continue over the rough ground."
     ],
-    "correct": 1,
-    "explanation": "The repeated thud makes the footsteps feel close and threatening This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 3,
+    "explanation": "Repeated rattle evokes an ongoing series of noises as the cart travels across stones.\nHint: Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud.",
     "structuredExplanation": {
-      "summary": "The repeated thud makes the footsteps feel close and threatening This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Repeated rattle evokes an ongoing series of noises as the cart travels across stones.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +228,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-009",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
     "type": "single",
-    "question": "In a story about a crashing wave, which word uses onomatopoeia?",
-    "audioPrompt": "In a story about a crashing wave, which word uses onomatopoeia?",
+    "question": "Prose: The red balloon bobbed like a bright cherry above the crowd.\n\nWhich feature does the cherry comparison mainly highlight?",
+    "audioPrompt": "Prose: The red balloon bobbed like a bright cherry above the crowd.\n\nWhich feature does the cherry comparison mainly highlight?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "beautiful",
-      "slowly",
-      "splash"
+      "The balloon’s round, red appearance.",
+      "The balloon’s ability to grow on a tree.",
+      "The crowd’s sour taste.",
+      "The string’s length."
     ],
-    "correct": 2,
-    "explanation": "splash This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 0,
+    "explanation": "The shared colour and rounded shape help the reader picture the balloon; it is not literally fruit.\nHint: Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud.",
     "structuredExplanation": {
-      "summary": "splash This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The shared colour and rounded shape help the reader picture the balloon; it is not literally fruit.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +256,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-010",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
     "type": "single",
-    "question": "In a story about a crashing wave, what effect can repeated beats create?",
-    "audioPrompt": "In a story about a crashing wave, what effect can repeated beats create?",
+    "question": "Poem: Her whisper, light as falling snow, / Reached me softly, small and low.\n\nHow does the comparison shape the whisper?",
+    "audioPrompt": "Poem: Her whisper, light as falling snow, / Reached me softly, small and low.\n\nHow does the comparison shape the whisper?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "A strong rhythm and sense of movement",
-      "A list of character names",
-      "A change from past to future"
+      "It makes it seem loud and harsh.",
+      "It makes it seem delicate and gentle.",
+      "It proves the speaker is outdoors in winter.",
+      "It means no one can hear any words."
     ],
-    "correct": 0,
-    "explanation": "A strong rhythm and sense of movement This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 1,
+    "explanation": "Light falling snow supports the soft, delicate quality explicitly described in the next line.\nHint: Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud.",
     "structuredExplanation": {
-      "summary": "A strong rhythm and sense of movement This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Light falling snow supports the soft, delicate quality explicitly described in the next line.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +284,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-011",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
     "type": "single",
-    "question": "In a story about a crashing wave, why is crack more vivid than broke in a branch scene?",
-    "audioPrompt": "In a story about a crashing wave, why is crack more vivid than broke in a branch scene?",
+    "question": "Prose: The icy cup stung his fingers, but the cocoa smelled sweet.\n\nWhich pair of senses does the writer use?",
+    "audioPrompt": "Prose: The icy cup stung his fingers, but the cocoa smelled sweet.\n\nWhich pair of senses does the writer use?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "It explains the branch's colour",
-      "It imitates the sudden sound",
-      "It makes the sentence formal"
+      "Sight and hearing.",
+      "Taste and hearing.",
+      "Touch and smell.",
+      "Sight and taste."
     ],
-    "correct": 1,
-    "explanation": "It imitates the sudden sound This explanation follows the relevant Year 3 English evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 2,
+    "explanation": "Stinging icy fingers conveys touch; smelled sweet conveys smell. Drinking or tasting is not stated.\nHint: Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud.",
     "structuredExplanation": {
-      "summary": "It imitates the sudden sound This explanation follows the relevant Year 3 English evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Stinging icy fingers conveys touch; smelled sweet conveys smell. Drinking or tasting is not stated.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +312,27 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-012",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
     "type": "single",
-    "question": "In a story about a crashing wave, which sound word best suits a gentle scene?",
-    "audioPrompt": "In a story about a crashing wave, which sound word best suits a gentle scene?",
+    "question": "Poem: Golden crumbs on a blue plate; / A buttery smell makes breakfast great.\n\nHow do the two lines make breakfast vivid?",
+    "audioPrompt": "Poem: Golden crumbs on a blue plate; / A buttery smell makes breakfast great.\n\nHow do the two lines make breakfast vivid?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "clang",
-      "boom",
-      "hush"
+      "They give only facts about the time.",
+      "They describe a loud noise and a rough texture.",
+      "They tell us the exact recipe.",
+      "They combine a visible colour contrast with a smell."
     ],
-    "correct": 2,
-    "explanation": "hush This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "correct": 3,
+    "explanation": "Golden and blue create a visual contrast; buttery smell adds a second sensory detail.\nHint: Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud.",
     "structuredExplanation": {
-      "summary": "hush This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Golden and blue create a visual contrast; buttery smell adds a second sensory detail.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +340,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-013",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
-    "type": "single",
-    "question": "In a story about a crashing wave, what does repeating clip-clop suggest?",
-    "audioPrompt": "In a story about a crashing wave, what does repeating clip-clop suggest?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Repeating not yet holds the audience in anticipation before the change announced by then.",
+    "acceptanceNote": "Accept anticipation, impatience or waiting when tied to the repeated phrase and the later curtain rise. Do not prescribe a single feeling.",
+    "responseInstructions": "Share your response aloud with a partner or adult, or write two sentences. An adult checks the explanation against the supplied text.",
+    "completionLabel": "I shared my response aloud; an adult still needs to check it.",
+    "question": "Prose: “Not yet,” whispered the audience as the curtain shook. “Not yet.” Then it rose.\n\nExplain how repeating “Not yet” shapes the moment before the curtain rises. Give a reason from the passage.",
+    "audioPrompt": "Prose: “Not yet,” whispered the audience as the curtain shook. “Not yet.” Then it rose.\n\nExplain how repeating “Not yet” shapes the moment before the curtain rises. Give a reason from the passage.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "Hoofbeats continuing in rhythm",
-      "A character whispering",
-      "A clock stopping"
-    ],
-    "correct": 0,
-    "explanation": "Hoofbeats continuing in rhythm This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "Repeating not yet holds the audience in anticipation before the change announced by then.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Hoofbeats continuing in rhythm This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Repeating not yet holds the audience in anticipation before the change announced by then.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +369,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-014",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
-    "type": "single",
-    "question": "In a story about a crashing wave, which line combines rhythm and meaning effectively?",
-    "audioPrompt": "In a story about a crashing wave, which line combines rhythm and meaning effectively?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Thirsty and drank present plants taking up water through person-like needs and actions; walking is not in the poem.",
+    "acceptanceNote": "Accept a person-like need for water and taking in rain. Do not require the term personification, or accept a claim that the garden literally has a human mouth.",
+    "responseInstructions": "Share your response aloud with a partner or adult, or write two sentences. An adult checks the explanation against the supplied text.",
+    "completionLabel": "I shared my response aloud; an adult still needs to check it.",
+    "question": "Poem: The thirsty garden drank the rain; / Green heads lifted up again.\n\nExplain how “thirsty” and “drank” help you picture the garden receiving rain.",
+    "audioPrompt": "Poem: The thirsty garden drank the rain; / Green heads lifted up again.\n\nExplain how “thirsty” and “drank” help you picture the garden receiving rain.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "The roof is a roof",
-      "Drip, drop, rain on the rooftop",
-      "Rain precipitation occurs"
-    ],
-    "correct": 1,
-    "explanation": "Drip, drop, rain on the rooftop This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "Thirsty and drank present plants taking up water through person-like needs and actions; walking is not in the poem.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Drip, drop, rain on the rooftop This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "Thirsty and drank present plants taking up water through person-like needs and actions; walking is not in the poem.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +398,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-015",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
-    "type": "single",
-    "question": "In a story about a crashing wave, how can onomatopoeia affect a reader?",
-    "audioPrompt": "In a story about a crashing wave, how can onomatopoeia affect a reader?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The sound imitation fits scissors cutting, and the comparison describes the paper’s curled shape.",
+    "acceptanceNote": "Require cutting sound linked to snip and curled paper appearance linked to ribbon. No technical device labels are necessary.",
+    "responseInstructions": "Share your response aloud with a partner or adult, or write two sentences. An adult checks the explanation against the supplied text.",
+    "completionLabel": "I shared my response aloud; an adult still needs to check it.",
+    "question": "Poem: Snip, snip, the scissors sing; / Paper curls like ribbon string.\n\nDescribe the sound and picture created by the scissors poem. Refer to a different phrase for each.",
+    "audioPrompt": "Poem: Snip, snip, the scissors sing; / Paper curls like ribbon string.\n\nDescribe the sound and picture created by the scissors poem. Refer to a different phrase for each.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "It guarantees the event is true",
-      "It identifies the narrator's age",
-      "It helps the reader imagine hearing the event"
-    ],
-    "correct": 2,
-    "explanation": "It helps the reader imagine hearing the event This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The sound imitation fits scissors cutting, and the comparison describes the paper’s curled shape.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "It helps the reader imagine hearing the event This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The sound imitation fits scissors cutting, and the comparison describes the paper’s curled shape.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +427,28 @@ window.skillrTestQuestions = [
     "id": "ac9e3le04-t-016",
     "curriculumCode": "AC9E3LE04",
     "bank": "test",
-    "skill": "Rhythm, Onomatopoeia and Reader Response",
+    "skill": "Effects of literary devices",
     "printable": true,
-    "type": "single",
-    "question": "In a story about a crashing wave, which explanation evaluates the device?",
-    "audioPrompt": "In a story about a crashing wave, which explanation evaluates the device?",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The still opening contrasts with person-like waking and a sharp movement, emphasising the wind’s arrival.",
+    "acceptanceNote": "Look for limp as still or drooping, contrasted with woke or snapping as activity. Accept different reactions supported by this contrast.",
+    "responseInstructions": "Share your response aloud with a partner or adult, or write two sentences. An adult checks the explanation against the supplied text.",
+    "completionLabel": "I shared my response aloud; an adult still needs to check it.",
+    "question": "Prose: At first the flag hung limp. Then the wind woke it, snapping it high above the oval.\n\nDiscuss the flag before and after the wind arrives. Explain how two words help you notice the change.",
+    "audioPrompt": "Prose: At first the flag hung limp. Then the wind woke it, snapping it high above the oval.\n\nDiscuss the flag before and after the wind arrives. Explain how two words help you notice the change.",
     "visual": "",
     "visualHtml": "",
-    "answers": [
-      "The repeated thud makes the footsteps feel close and threatening",
-      "The word appears twice",
-      "The sentence has letters"
-    ],
-    "correct": 0,
-    "explanation": "The repeated thud makes the footsteps feel close and threatening This choice best fits the language, text or literacy evidence.\nHint: Use the story details and reader effect before choosing.",
+    "visualMeta": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct": "The still opening contrasts with person-like waking and a sharp movement, emphasising the wind’s arrival.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The repeated thud makes the footsteps feel close and threatening This choice best fits the language, text or literacy evidence.",
-      "hint": "Use the story details and reader effect before choosing."
+      "summary": "The still opening contrasts with person-like waking and a sharp movement, emphasising the wind’s arrival.",
+      "hint": "Connect the effect to the exact words in this passage. For rhythm questions, read the marked pattern aloud."
     },
     "qualitySchema": "production-v1"
   }
