@@ -7,25 +7,27 @@ window.skillrTestQuestions = [
     "skill": "read ruler",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, a line starts at 0 cm and ends at 14 cm. How long is the line? with a partner.",
-    "audioPrompt": "At a school activity, a line starts at 0 cm and ends at 14 cm. How long is the line? with a partner.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "What length does the strip show?",
+    "audioPrompt": "What length does the strip show?",
+    "visual": "Strip. Ruler labelled 0 to 12 cm; lower strip endpoints at 0 and 11. ",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Strip. Ruler labelled 0 to 12 cm; lower strip endpoints at 0 and 11. \"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02-v2.svg#t01\"></use></svg>",
     "visualMeta": {
-      "type": "none"
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02-v2.svg#t01",
+      "alt_text": "Strip. Ruler labelled 0 to 12 cm; lower strip endpoints at 0 and 11. "
     },
     "answers": [
-      "14 cm",
-      "7 cm",
-      "15 cm",
-      "14 m"
+      "10 cm",
+      "12 cm",
+      "11 cm",
+      "1 cm"
     ],
     "difficulty": 1,
-    "correct": 0,
-    "explanation": "The length is read from zero to the endpoint at 14 cm.\nHint: Start at zero and read the endpoint.",
+    "correct": 2,
+    "explanation": "The strip runs from 0 to 11 on the centimetre ruler.\nHint: Use the zero mark and far endpoint.",
     "structuredExplanation": {
-      "summary": "The length is read from zero to the endpoint at 14 cm.",
-      "hint": "Start at zero and read the endpoint."
+      "summary": "The strip runs from 0 to 11 on the centimetre ruler.",
+      "hint": "Use the zero mark and far endpoint."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,25 +38,27 @@ window.skillrTestQuestions = [
     "skill": "read ruler",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, an eraser starts at 2 cm and ends at 9 cm on a ruler. What is its length? from the labelled information.",
-    "audioPrompt": "At a school activity, an eraser starts at 2 cm and ends at 9 cm on a ruler. What is its length? from the labelled information.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Measure the strip shown on this ruler.",
+    "audioPrompt": "Measure the strip shown on this ruler.",
+    "visual": "Strip. Ruler labelled 0 to 12 cm; lower strip endpoints at 2 and 9. ",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Strip. Ruler labelled 0 to 12 cm; lower strip endpoints at 2 and 9. \"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02-v2.svg#t02\"></use></svg>",
     "visualMeta": {
-      "type": "none"
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02-v2.svg#t02",
+      "alt_text": "Strip. Ruler labelled 0 to 12 cm; lower strip endpoints at 2 and 9. "
     },
     "answers": [
-      "9 cm",
       "7 cm",
-      "11 cm",
-      "2 cm"
+      "9 cm",
+      "2 cm",
+      "11 cm"
     ],
-    "difficulty": 1,
-    "correct": 1,
-    "explanation": "Subtract the start reading from the end reading: 9 cm minus 2 cm is 7 cm.\nHint: When it does not start at zero, find the difference.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "9 − 2 = 7 cm.\nHint: Subtract the left reading from the right reading.",
     "structuredExplanation": {
-      "summary": "Subtract the start reading from the end reading: 9 cm minus 2 cm is 7 cm.",
-      "hint": "When it does not start at zero, find the difference."
+      "summary": "9 − 2 = 7 cm.",
+      "hint": "Subtract the left reading from the right reading."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,25 +69,25 @@ window.skillrTestQuestions = [
     "skill": "read ruler",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, a ribbon starts at 0 cm and reaches halfway between 18 cm and 19 cm. What is the best reading? before measuring.",
-    "audioPrompt": "At a school activity, a ribbon starts at 0 cm and reaches halfway between 18 cm and 19 cm. What is the best reading? before measuring.",
+    "question": "A measured red strip is 38 cm long and a blue strip is 26 cm long. How much must be cut from the red strip to make their lengths equal?",
+    "audioPrompt": "A measured red strip is 38 cm long and a blue strip is 26 cm long. How much must be cut from the red strip to make their lengths equal?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "18 cm",
-      "19.5 cm",
-      "18.5 cm",
-      "185 cm"
+      "64 cm",
+      "26 cm",
+      "14 cm",
+      "12 cm"
     ],
-    "difficulty": 1,
-    "correct": 2,
-    "explanation": "Halfway between 18 and 19 is 18.5 cm.\nHint: Read the interval between labelled marks.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The excess length is 38 − 26 = 12 cm.\nHint: Find the difference between their lengths.",
     "structuredExplanation": {
-      "summary": "Halfway between 18 and 19 is 18.5 cm.",
-      "hint": "Read the interval between labelled marks."
+      "summary": "The excess length is 38 − 26 = 12 cm.",
+      "hint": "Find the difference between their lengths."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,25 +98,25 @@ window.skillrTestQuestions = [
     "skill": "read ruler",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, a crayon is measured from 0 cm to 8 cm. Which measurement is recorded correctly? using the benchmark.",
-    "audioPrompt": "At a school activity, a crayon is measured from 0 cm to 8 cm. Which measurement is recorded correctly? using the benchmark.",
+    "question": "A line covers the spaces from 2 cm to 6 cm. Which explanation gives its length?",
+    "audioPrompt": "A line covers the spaces from 2 cm to 6 cm. Which explanation gives its length?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "8 g",
-      "8 mL",
-      "8 kg",
-      "8 cm"
+      "It is 6 cm because the last label is 6.",
+      "It is 4 cm because it covers four 1 cm spaces.",
+      "It is 5 cm because it touches five marks.",
+      "It is 8 cm because 2 + 6 = 8."
     ],
-    "difficulty": 1,
-    "correct": 3,
-    "explanation": "A crayon length measured on a ruler is recorded in centimetres.\nHint: Include the correct unit.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "Length is the distance between endpoints: 6 − 2 = 4 cm.\nHint: Count the intervals between the endpoints.",
     "structuredExplanation": {
-      "summary": "A crayon length measured on a ruler is recorded in centimetres.",
-      "hint": "Include the correct unit."
+      "summary": "Length is the distance between endpoints: 6 − 2 = 4 cm.",
+      "hint": "Count the intervals between the endpoints."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,25 +127,27 @@ window.skillrTestQuestions = [
     "skill": "read labelled scale",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, a jug scale is marked every 100 mL. The water level is at 600 mL. What is the reading? with a partner.",
-    "audioPrompt": "At a school activity, a jug scale is marked every 100 mL. The water level is at 600 mL. What is the reading? with a partner.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "What mass does this scale show?",
+    "audioPrompt": "What mass does this scale show?",
+    "visual": "Kitchen scale: g scale labelled from 0 to 250 in steps of 50; pointer aligns with 200.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Kitchen scale: g scale labelled from 0 to 250 in steps of 50; pointer aligns with 200.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02-v2.svg#t05\"></use></svg>",
     "visualMeta": {
-      "type": "none"
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02-v2.svg#t05",
+      "alt_text": "Kitchen scale: g scale labelled from 0 to 250 in steps of 50; pointer aligns with 200."
     },
     "answers": [
-      "600 mL",
-      "60 mL",
-      "700 mL",
-      "600 L"
+      "150 g",
+      "200 g",
+      "250 g",
+      "200 kg"
     ],
     "difficulty": 1,
-    "correct": 0,
-    "explanation": "The labelled scale shows the water level at 600 mL.\nHint: Check the value of each interval.",
+    "correct": 1,
+    "explanation": "The pointer aligns with 200 g.\nHint: Check the pointer and unit together.",
     "structuredExplanation": {
-      "summary": "The labelled scale shows the water level at 600 mL.",
-      "hint": "Check the value of each interval."
+      "summary": "The pointer aligns with 200 g.",
+      "hint": "Check the pointer and unit together."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,25 +158,25 @@ window.skillrTestQuestions = [
     "skill": "read labelled scale",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, a kitchen scale is marked every 50 g. The pointer is at 350 g. What is the reading? from the labelled information.",
-    "audioPrompt": "At a school activity, a kitchen scale is marked every 50 g. The pointer is at 350 g. What is the reading? from the labelled information.",
+    "question": "Parcels have masses of 1 kg, 950 g and 1050 g. Use 1 kg = 1000 g. Which parcel is heaviest?",
+    "audioPrompt": "Parcels have masses of 1 kg, 950 g and 1050 g. Use 1 kg = 1000 g. Which parcel is heaviest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "300 g",
-      "350 g",
-      "400 g",
-      "350 kg"
+      "1 kg",
+      "950 g",
+      "All three have equal masses.",
+      "1050 g"
     ],
-    "difficulty": 1,
-    "correct": 1,
-    "explanation": "Counting by 50 g reaches 350 g at the pointer.\nHint: Use the interval size.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "1050 g is greater than 1000 g and 950 g.\nHint: Compare all three in grams.",
     "structuredExplanation": {
-      "summary": "Counting by 50 g reaches 350 g at the pointer.",
-      "hint": "Use the interval size."
+      "summary": "1050 g is greater than 1000 g and 950 g.",
+      "hint": "Compare all three in grams."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,25 +187,25 @@ window.skillrTestQuestions = [
     "skill": "read labelled scale",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, a measuring jug shows 1 L and 200 mL. Which amount is this? before measuring.",
-    "audioPrompt": "At a school activity, a measuring jug shows 1 L and 200 mL. Which amount is this? before measuring.",
+    "question": "An empty tray has a mass of 120 g. The tray and apples have a combined mass of 870 g. What is the mass of the apples?",
+    "audioPrompt": "An empty tray has a mass of 120 g. The tray and apples have a combined mass of 870 g. What is the mass of the apples?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "102 mL",
-      "12 mL",
-      "1200 mL",
-      "120 L"
+      "750 g",
+      "990 g",
+      "870 g",
+      "120 g"
     ],
-    "difficulty": 1,
-    "correct": 2,
-    "explanation": "1 L is 1000 mL, plus 200 mL makes 1200 mL.\nHint: Connect litres and millilitres.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "870 − 120 = 750 g.\nHint: Remove the empty tray’s mass from the combined mass.",
     "structuredExplanation": {
-      "summary": "1 L is 1000 mL, plus 200 mL makes 1200 mL.",
-      "hint": "Connect litres and millilitres."
+      "summary": "870 − 120 = 750 g.",
+      "hint": "Remove the empty tray’s mass from the combined mass."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,25 +216,25 @@ window.skillrTestQuestions = [
     "skill": "read labelled scale",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, a parcel has a mass of 2 kg and 500 g. Which amount is this? using the benchmark.",
-    "audioPrompt": "At a school activity, a parcel has a mass of 2 kg and 500 g. Which amount is this? using the benchmark.",
+    "question": "A scale is labelled from 0 to 2 kg. Which object is beyond its measuring range?",
+    "audioPrompt": "A scale is labelled from 0 to 2 kg. Which object is beyond its measuring range?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "205 g",
-      "25 g",
-      "250 kg",
-      "2500 g"
+      "A 1 kg bag",
+      "A 500 g packet",
+      "A 3 kg bag",
+      "A 2 kg parcel"
     ],
     "difficulty": 1,
-    "correct": 3,
-    "explanation": "2 kg is 2000 g, plus 500 g makes 2500 g.\nHint: Connect kilograms and grams.",
+    "correct": 2,
+    "explanation": "3 kg is greater than the scale maximum of 2 kg.\nHint: A measurement must fit within the labelled range.",
     "structuredExplanation": {
-      "summary": "2 kg is 2000 g, plus 500 g makes 2500 g.",
-      "hint": "Connect kilograms and grams."
+      "summary": "3 kg is greater than the scale maximum of 2 kg.",
+      "hint": "A measurement must fit within the labelled range."
     },
     "qualitySchema": "production-v1"
   },
@@ -239,25 +245,27 @@ window.skillrTestQuestions = [
     "skill": "compare measurements",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, choose longer? with a partner.",
-    "audioPrompt": "At a school activity, choose longer? with a partner.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Read the water level. How much water is shown?",
+    "audioPrompt": "Read the water level. How much water is shown?",
+    "visual": "Measuring jug, mL; labelled marks 0 to 500 in steps of 100; liquid surface aligns with 300.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Measuring jug, mL; labelled marks 0 to 500 in steps of 100; liquid surface aligns with 300.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02-v2.svg#t09\"></use></svg>",
     "visualMeta": {
-      "type": "none"
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02-v2.svg#t09",
+      "alt_text": "Measuring jug, mL; labelled marks 0 to 500 in steps of 100; liquid surface aligns with 300."
     },
     "answers": [
-      "1 m",
-      "75 cm",
-      "50 cm",
-      "90 cm"
+      "400 mL",
+      "500 mL",
+      "300 mL",
+      "300 L"
     ],
     "difficulty": 1,
-    "correct": 0,
-    "explanation": "1 metre is 100 centimetres, which is longer than the other choices.\nHint: Use 100 cm equals 1 m.",
+    "correct": 2,
+    "explanation": "The water surface aligns with 300 mL.\nHint: Read at the surface, not the top of the jug.",
     "structuredExplanation": {
-      "summary": "1 metre is 100 centimetres, which is longer than the other choices.",
-      "hint": "Use 100 cm equals 1 m."
+      "summary": "The water surface aligns with 300 mL.",
+      "hint": "Read at the surface, not the top of the jug."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,25 +276,25 @@ window.skillrTestQuestions = [
     "skill": "compare measurements",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, choose the greatest mass? from the labelled information.",
-    "audioPrompt": "At a school activity, choose the greatest mass? from the labelled information.",
+    "question": "A container holds 900 mL when full. After 300 mL is poured out, what is its capacity?",
+    "audioPrompt": "A container holds 900 mL when full. After 300 mL is poured out, what is its capacity?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "900 g",
-      "2 kg",
-      "1500 g",
-      "750 g"
+      "900 mL",
+      "600 mL",
+      "300 mL",
+      "1200 mL"
     ],
-    "difficulty": 1,
-    "correct": 1,
-    "explanation": "2 kg is 2000 g, which is greater than 1500 g, 900 g and 750 g.\nHint: Convert to compare fairly.",
+    "difficulty": 2,
+    "correct": 0,
+    "explanation": "The container can still hold 900 mL. Pouring changes the contents, not the capacity.\nHint: Distinguish amount inside from amount it can hold.",
     "structuredExplanation": {
-      "summary": "2 kg is 2000 g, which is greater than 1500 g, 900 g and 750 g.",
-      "hint": "Convert to compare fairly."
+      "summary": "The container can still hold 900 mL. Pouring changes the contents, not the capacity.",
+      "hint": "Distinguish amount inside from amount it can hold."
     },
     "qualitySchema": "production-v1"
   },
@@ -297,25 +305,27 @@ window.skillrTestQuestions = [
     "skill": "compare measurements",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, which container has the greatest capacity? before measuring.",
-    "audioPrompt": "At a school activity, which container has the greatest capacity? before measuring.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "How much more water is in Jug B than in Jug A?",
+    "audioPrompt": "How much more water is in Jug B than in Jug A?",
+    "visual": "Jug A: scale 0–400 mL in steps of 100, liquid at 200. Jug B: scale 0–400 mL in steps of 100, liquid at 300.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Jug A: scale 0–400 mL in steps of 100, liquid at 200. Jug B: scale 0–400 mL in steps of 100, liquid at 300.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02-v2.svg#t11\"></use></svg>",
     "visualMeta": {
-      "type": "none"
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02-v2.svg#t11",
+      "alt_text": "Jug A: scale 0–400 mL in steps of 100, liquid at 200. Jug B: scale 0–400 mL in steps of 100, liquid at 300."
     },
     "answers": [
-      "600 mL",
-      "850 mL",
-      "1 L",
-      "400 mL"
+      "200 mL",
+      "300 mL",
+      "500 mL",
+      "100 mL"
     ],
-    "difficulty": 1,
-    "correct": 2,
-    "explanation": "1 L is 1000 mL, greater than the other capacities.\nHint: Use 1000 mL equals 1 L.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "Jug A holds 200 mL and Jug B holds 300 mL. Their difference is 100 mL.\nHint: Read both scales before subtracting.",
     "structuredExplanation": {
-      "summary": "1 L is 1000 mL, greater than the other capacities.",
-      "hint": "Use 1000 mL equals 1 L."
+      "summary": "Jug A holds 200 mL and Jug B holds 300 mL. Their difference is 100 mL.",
+      "hint": "Read both scales before subtracting."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,25 +336,27 @@ window.skillrTestQuestions = [
     "skill": "compare measurements",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, a plant is 42 cm tall and a book is 28 cm tall. How much taller is the plant? using the benchmark.",
-    "audioPrompt": "At a school activity, a plant is 42 cm tall and a book is 28 cm tall. How much taller is the plant? using the benchmark.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A recipe needs 400 mL. How much more liquid must be added to the amount shown?",
+    "audioPrompt": "A recipe needs 400 mL. How much more liquid must be added to the amount shown?",
+    "visual": "Measuring jug, mL; labelled marks 0 to 250 in steps of 50; liquid surface aligns with 150.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Measuring jug, mL; labelled marks 0 to 250 in steps of 50; liquid surface aligns with 150.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m02-v2.svg#t12\"></use></svg>",
     "visualMeta": {
-      "type": "none"
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m02-v2.svg#t12",
+      "alt_text": "Measuring jug, mL; labelled marks 0 to 250 in steps of 50; liquid surface aligns with 150."
     },
     "answers": [
-      "70 cm",
-      "24 cm",
-      "12 m",
-      "14 cm"
+      "150 mL",
+      "250 mL",
+      "400 mL",
+      "550 mL"
     ],
-    "difficulty": 1,
-    "correct": 3,
-    "explanation": "Subtract 28 from 42 to find the difference of 14 cm.\nHint: Compare measurements using subtraction.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "The jug shows 150 mL, so add 400 − 150 = 250 mL.\nHint: Find the difference between the target and the current amount.",
     "structuredExplanation": {
-      "summary": "Subtract 28 from 42 to find the difference of 14 cm.",
-      "hint": "Compare measurements using subtraction."
+      "summary": "The jug shows 150 mL, so add 400 − 150 = 250 mL.",
+      "hint": "Find the difference between the target and the current amount."
     },
     "qualitySchema": "production-v1"
   },
@@ -355,25 +367,25 @@ window.skillrTestQuestions = [
     "skill": "choose instrument",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, which instrument should you use to measure the length of a notebook? with a partner.",
-    "audioPrompt": "At a school activity, which instrument should you use to measure the length of a notebook? with a partner.",
+    "question": "Which method measures the distance around a round table in metric units?",
+    "audioPrompt": "Which method measures the distance around a round table in metric units?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "ruler",
-      "measuring jug",
-      "balance scale",
-      "clock"
+      "Place a ruler across the middle and call that the distance around.",
+      "Wrap a centimetre tape around the edge and record the length in cm.",
+      "Weigh the table and record the answer in cm.",
+      "Measure the height of one leg and double it."
     ],
-    "difficulty": 1,
-    "correct": 0,
-    "explanation": "A ruler measures length in centimetres.\nHint: Match the instrument to the attribute.",
+    "difficulty": 2,
+    "correct": 1,
+    "explanation": "The tape follows the complete curved edge being measured.\nHint: The measuring path must match the requested distance.",
     "structuredExplanation": {
-      "summary": "A ruler measures length in centimetres.",
-      "hint": "Match the instrument to the attribute."
+      "summary": "The tape follows the complete curved edge being measured.",
+      "hint": "The measuring path must match the requested distance."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,25 +396,25 @@ window.skillrTestQuestions = [
     "skill": "choose instrument",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, which instrument should you use to measure the capacity of a cup? from the labelled information.",
-    "audioPrompt": "At a school activity, which instrument should you use to measure the capacity of a cup? from the labelled information.",
+    "question": "A scale already reads 50 g with nothing on it. A packet is added and the display reads 350 g. What is the packet’s mass?",
+    "audioPrompt": "A scale already reads 50 g with nothing on it. A packet is added and the display reads 350 g. What is the packet’s mass?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "ruler",
-      "measuring jug",
-      "balance scale",
-      "thermometer"
+      "350 g",
+      "400 g",
+      "50 g",
+      "300 g"
     ],
-    "difficulty": 1,
-    "correct": 1,
-    "explanation": "A measuring jug measures how much liquid a cup can hold.\nHint: Capacity needs a container scale.",
+    "difficulty": 2,
+    "correct": 3,
+    "explanation": "The packet added 350 − 50 = 300 g. The empty scale should normally be reset to zero first.\nHint: Separate the starting error from the added mass.",
     "structuredExplanation": {
-      "summary": "A measuring jug measures how much liquid a cup can hold.",
-      "hint": "Capacity needs a container scale."
+      "summary": "The packet added 350 − 50 = 300 g. The empty scale should normally be reset to zero first.",
+      "hint": "Separate the starting error from the added mass."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,25 +425,25 @@ window.skillrTestQuestions = [
     "skill": "choose instrument",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, which instrument should you use to measure the mass of an orange? before measuring.",
-    "audioPrompt": "At a school activity, which instrument should you use to measure the mass of an orange? before measuring.",
+    "question": "A bottle holds 1 L when full. Three cups each hold 300 mL. Use 1 L = 1000 mL. After filling the three cups from the full bottle, how much remains?",
+    "audioPrompt": "A bottle holds 1 L when full. Three cups each hold 300 mL. Use 1 L = 1000 mL. After filling the three cups from the full bottle, how much remains?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "metre ruler",
-      "measuring jug",
-      "kitchen scale",
-      "calendar"
+      "100 mL",
+      "700 mL",
+      "900 mL",
+      "0 mL"
     ],
-    "difficulty": 1,
-    "correct": 2,
-    "explanation": "A kitchen scale measures mass in grams or kilograms.\nHint: Mass needs a scale.",
+    "difficulty": 3,
+    "correct": 0,
+    "explanation": "The cups take 3 × 300 = 900 mL. The bottle has 1000 − 900 = 100 mL left.\nHint: Find the total poured before subtracting.",
     "structuredExplanation": {
-      "summary": "A kitchen scale measures mass in grams or kilograms.",
-      "hint": "Mass needs a scale."
+      "summary": "The cups take 3 × 300 = 900 mL. The bottle has 1000 − 900 = 100 mL left.",
+      "hint": "Find the total poured before subtracting."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +454,25 @@ window.skillrTestQuestions = [
     "skill": "choose instrument",
     "printable": true,
     "type": "single",
-    "question": "At a school activity, a student measures a pencil from the ruler edge instead of the zero mark. What should they do? using the benchmark.",
-    "audioPrompt": "At a school activity, a student measures a pencil from the ruler edge instead of the zero mark. What should they do? using the benchmark.",
+    "question": "To compare two unmarked cups’ capacities fairly, which method should you use?",
+    "audioPrompt": "To compare two unmarked cups’ capacities fairly, which method should you use?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
       "type": "none"
     },
     "answers": [
-      "measure in litres",
-      "ignore the unit",
-      "start at 10 cm and read 10 cm",
-      "line up the pencil with 0 cm"
+      "Fill one cup fully and the other halfway.",
+      "Compare only their heights.",
+      "Fill each cup fully, then measure each amount separately in the same labelled jug.",
+      "Pour both full cups into one jug and record only the combined amount."
     ],
-    "difficulty": 1,
-    "correct": 3,
-    "explanation": "The zero mark is the correct starting point for a direct ruler measurement.\nHint: Accurate measuring starts at zero.",
+    "difficulty": 2,
+    "correct": 2,
+    "explanation": "Measuring each full cup separately gives comparable capacities in the same units.\nHint: Both cups need the same full-container procedure.",
     "structuredExplanation": {
-      "summary": "The zero mark is the correct starting point for a direct ruler measurement.",
-      "hint": "Accurate measuring starts at zero."
+      "summary": "Measuring each full cup separately gives comparable capacities in the same units.",
+      "hint": "Both cups need the same full-container procedure."
     },
     "qualitySchema": "production-v1"
   }
