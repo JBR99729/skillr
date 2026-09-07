@@ -5,36 +5,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "locate_position_using_landmark",
-    "question": "On the classroom map, the library is above the canteen on the map. Where is the library?",
-    "audio_prompt": "On the classroom map, the library is above the canteen on the map. Where is the library?",
+    "skill": "read_grid_reference",
+    "question": "On the park plan, gate A1, pond B4, playground E4, toilets E1. What is the grid reference for the playground?",
+    "audio_prompt": "On the park plan, gate A1, pond B4, playground E4, toilets E1. What is the grid reference for the playground?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-001",
-      "alt_text": "On the classroom map: Simple map with the library one grid square above the canteen."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-001",
+      "alt_text": "park grid: gate A1, pond B4, playground E4, toilets E1"
     },
     "answers": [
       {
-        "text": "below the canteen",
-        "is_correct": false
-      },
-      {
-        "text": "above the canteen",
+        "text": "E4",
         "is_correct": true
       },
       {
-        "text": "inside the canteen",
+        "text": "D5",
+        "is_correct": false
+      },
+      {
+        "text": "B4",
+        "is_correct": false
+      },
+      {
+        "text": "E1",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The library is higher on the map, so it is above the canteen.",
-      "hint": "Find the canteen first, then look directly higher."
+      "summary": "The playground is in column E, row 4.",
+      "hint": "Read the column first and then the row."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-002",
@@ -42,36 +47,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "follow_horizontal_path",
-    "question": "On the classroom map, start at the orange dot. Move 2 squares right. Where do you finish?",
-    "audio_prompt": "On the classroom map, start at the orange dot. Move 2 squares right. Where do you finish?",
+    "skill": "relative_position",
+    "question": "On the same park plan (gate A1, pond B4, playground E4, toilets E1), where is the playground relative to the pond?",
+    "audio_prompt": "On the same park plan (gate A1, pond B4, playground E4, toilets E1), where is the playground relative to the pond?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-002",
-      "alt_text": "On the classroom map: Grid map with an orange start dot and a path moving 2 squares right."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-002",
+      "alt_text": "park grid: gate A1, pond B4, playground E4, toilets E1"
     },
     "answers": [
       {
-        "text": "2 squares to the left",
+        "text": "below",
         "is_correct": false
       },
       {
-        "text": "2 squares up",
-        "is_correct": false
-      },
-      {
-        "text": "2 squares to the right",
+        "text": "right of",
         "is_correct": true
+      },
+      {
+        "text": "left of",
+        "is_correct": false
+      },
+      {
+        "text": "above",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Moving right keeps the same row and increases the column by 2.",
-      "hint": "Face the top of the map, then move toward your right hand."
+      "summary": "The playground is right of the pond.",
+      "hint": "Compare their columns and rows."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-003",
@@ -79,36 +89,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "follow_multi_step_path",
-    "question": "On the classroom map, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
-    "audio_prompt": "On the classroom map, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
+    "skill": "follow_route",
+    "question": "On the park plan (gate A1, pond B4, playground E4, toilets E1), which route goes from the gate to the toilets?",
+    "audio_prompt": "On the park plan (gate A1, pond B4, playground E4, toilets E1), which route goes from the gate to the toilets?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-003",
-      "alt_text": "On the classroom map: Grid map with a path moving down one square and then right two squares."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-003",
+      "alt_text": "park grid: gate A1, pond B4, playground E4, toilets E1"
     },
     "answers": [
       {
-        "text": "down 1, then right 2",
+        "text": "4 squares left and 0 squares up",
+        "is_correct": false
+      },
+      {
+        "text": "stay in the same square",
+        "is_correct": false
+      },
+      {
+        "text": "4 squares right and 0 squares up",
         "is_correct": true
       },
       {
-        "text": "right 1, then down 2",
-        "is_correct": false
-      },
-      {
-        "text": "up 1, then left 2",
+        "text": "4 squares right and 0 squares down",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Directions must be followed in order: down 1 first, then right 2.",
-      "hint": "Do one instruction at a time and mark each stop."
+      "summary": "The column change gives the horizontal move and the row change gives the vertical move.",
+      "hint": "Track horizontal and vertical movement separately."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-004",
@@ -116,36 +131,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "use_between_position_word",
-    "question": "On the classroom map, the tree is between the slide and the bench. Which object is in the middle?",
-    "audio_prompt": "On the classroom map, the tree is between the slide and the bench. Which object is in the middle?",
+    "skill": "use_legend",
+    "question": "A park plan uses ★ for the pond and ● for the toilets. Which legend entry is correct?",
+    "audio_prompt": "A park plan uses ★ for the pond and ● for the toilets. Which legend entry is correct?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-004",
-      "alt_text": "On the classroom map: A slide, tree and bench arranged in that order."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-004",
+      "alt_text": "park grid: gate A1, pond B4, playground E4, toilets E1"
     },
     "answers": [
       {
-        "text": "the slide",
+        "text": "★ toilets; ● pond",
         "is_correct": false
       },
       {
-        "text": "the tree",
+        "text": "★ means north; ● means south",
+        "is_correct": false
+      },
+      {
+        "text": "Both symbols mean gate",
+        "is_correct": false
+      },
+      {
+        "text": "★ pond; ● toilets",
         "is_correct": true
-      },
-      {
-        "text": "the bench",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Between means in the middle of two landmarks.",
-      "hint": "Name the object with one landmark on each side."
+      "summary": "A legend must match each symbol to the landmark it represents.",
+      "hint": "Read the symbol-to-place pairing exactly."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-005",
@@ -153,36 +173,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "interpret_map_view",
-    "question": "On the classroom map, what does a classroom map show?",
-    "audio_prompt": "On the classroom map, what does a classroom map show?",
+    "skill": "complete_plan",
+    "question": "The park plan already shows gate, pond and playground. What addition best makes the plan show all four listed landmarks?",
+    "audio_prompt": "The park plan already shows gate, pond and playground. What addition best makes the plan show all four listed landmarks?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-005",
-      "alt_text": "On the classroom map: Top-down classroom map with desks shown as rectangles on a grid."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-005",
+      "alt_text": "park grid: gate A1, pond B4, playground E4, toilets E1"
     },
     "answers": [
       {
-        "text": "how heavy the furniture is",
-        "is_correct": false
-      },
-      {
-        "text": "what time the class starts",
-        "is_correct": false
-      },
-      {
-        "text": "where things are from above",
+        "text": "add the toilets at E1",
         "is_correct": true
+      },
+      {
+        "text": "add the toilets at A1",
+        "is_correct": false
+      },
+      {
+        "text": "remove the pond",
+        "is_correct": false
+      },
+      {
+        "text": "replace every landmark with the same symbol and no legend",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A map is a two-dimensional view that shows positions from above.",
-      "hint": "Imagine looking down at the room from the ceiling."
+      "summary": "Adding the missing toilets at its stated grid reference completes the plan.",
+      "hint": "Check which listed landmark is absent and preserve its location."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-006",
@@ -190,36 +215,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "choose_precise_direction",
-    "question": "On the classroom map, which direction tells someone exactly where to go?",
-    "audio_prompt": "On the classroom map, which direction tells someone exactly where to go?",
+    "skill": "evaluate_representation",
+    "question": "Which feature would make this park plan (gate A1, pond B4, playground E4, toilets E1) easiest for a visitor to use?",
+    "audio_prompt": "Which feature would make this park plan (gate A1, pond B4, playground E4, toilets E1) easiest for a visitor to use?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-006",
-      "alt_text": "On the classroom map: Grid path moving two squares up from a start dot to a door."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-006",
+      "alt_text": "park grid: gate A1, pond B4, playground E4, toilets E1"
     },
     "answers": [
       {
-        "text": "Walk 2 squares up to the door",
+        "text": "removing all landmark names",
+        "is_correct": false
+      },
+      {
+        "text": "clear landmark labels, a direction arrow and a symbol legend",
         "is_correct": true
       },
       {
-        "text": "Go over there",
+        "text": "decorative pictures that cover the grid",
         "is_correct": false
       },
       {
-        "text": "Move somewhere near the wall",
+        "text": "a different scale for each row",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The first direction gives a distance, direction and landmark.",
-      "hint": "A useful direction should tell how far and which way."
+      "summary": "Labels, direction and a legend help another person interpret the representation.",
+      "hint": "Choose features that communicate position unambiguously."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-007",
@@ -227,36 +257,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "describe_path_endpoint",
-    "question": "On the classroom map, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
-    "audio_prompt": "On the classroom map, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
+    "skill": "read_grid_reference",
+    "question": "On the classroom plan, door A1, reading corner A4, tables D3, sink F1. What is the grid reference for the tables?",
+    "audio_prompt": "On the classroom plan, door A1, reading corner A4, tables D3, sink F1. What is the grid reference for the tables?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-007",
-      "alt_text": "On the classroom map: Grid path moving right, down, then right from the start."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-007",
+      "alt_text": "classroom grid: door A1, reading corner A4, tables D3, sink F1"
     },
     "answers": [
       {
-        "text": "1",
+        "text": "A4",
         "is_correct": false
       },
       {
-        "text": "2",
+        "text": "F1",
+        "is_correct": false
+      },
+      {
+        "text": "D3",
         "is_correct": true
       },
       {
-        "text": "3",
+        "text": "C4",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The robot makes two right moves, so it finishes 2 squares to the right.",
-      "hint": "Track horizontal and vertical moves separately."
+      "summary": "The tables is in column D, row 3.",
+      "hint": "Read the column first and then the row."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-008",
@@ -264,36 +299,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "explain_path_order",
-    "question": "On the classroom map, why must map directions be followed in order?",
-    "audio_prompt": "On the classroom map, why must map directions be followed in order?",
+    "skill": "relative_position",
+    "question": "On the same classroom plan (door A1, reading corner A4, tables D3, sink F1), where is the tables relative to the reading corner?",
+    "audio_prompt": "On the same classroom plan (door A1, reading corner A4, tables D3, sink F1), where is the tables relative to the reading corner?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-008",
-      "alt_text": "On the classroom map: Two grid pathways with the same moves in different orders and different routes."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-008",
+      "alt_text": "classroom grid: door A1, reading corner A4, tables D3, sink F1"
     },
     "answers": [
       {
-        "text": "The map changes colour",
+        "text": "left of",
         "is_correct": false
       },
       {
-        "text": "The landmarks disappear",
+        "text": "above",
         "is_correct": false
       },
       {
-        "text": "A different order can end at a different place",
+        "text": "below",
+        "is_correct": false
+      },
+      {
+        "text": "right of",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Changing the order can change the pathway and finishing position.",
-      "hint": "Try swapping the first two moves on the grid."
+      "summary": "The tables is right of the reading corner.",
+      "hint": "Compare their columns and rows."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-009",
@@ -301,35 +341,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "locate_position_using_landmark",
-    "question": "On the playground map, the library is above the canteen on the map. Where is the library?",
-    "audio_prompt": "On the playground map, the library is above the canteen on the map. Where is the library?",
+    "skill": "follow_route",
+    "question": "On the classroom plan (door A1, reading corner A4, tables D3, sink F1), which route goes from the door to the sink?",
+    "audio_prompt": "On the classroom plan (door A1, reading corner A4, tables D3, sink F1), which route goes from the door to the sink?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-009",
-      "alt_text": "On the playground map: Simple map with the library one grid square above the canteen."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-009",
+      "alt_text": "classroom grid: door A1, reading corner A4, tables D3, sink F1"
     },
     "answers": [
       {
-        "text": "above the canteen",
+        "text": "5 squares right and 0 squares up",
         "is_correct": true
       },
       {
-        "text": "below the canteen",
+        "text": "5 squares right and 0 squares down",
         "is_correct": false
       },
       {
-        "text": "inside the canteen",
+        "text": "5 squares left and 0 squares up",
+        "is_correct": false
+      },
+      {
+        "text": "stay in the same square",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The library is higher on the map, so it is above the canteen.",
-      "hint": "Find the canteen first, then look directly higher."
+      "summary": "The column change gives the horizontal move and the row change gives the vertical move.",
+      "hint": "Track horizontal and vertical movement separately."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "sequence_priority": 9,
+    "difficulty_tier": "confidence",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-010",
@@ -337,35 +383,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "follow_horizontal_path",
-    "question": "On the playground map, start at the orange dot. Move 2 squares right. Where do you finish?",
-    "audio_prompt": "On the playground map, start at the orange dot. Move 2 squares right. Where do you finish?",
+    "skill": "use_legend",
+    "question": "A classroom plan uses ★ for the reading corner and ● for the sink. Which legend entry is correct?",
+    "audio_prompt": "A classroom plan uses ★ for the reading corner and ● for the sink. Which legend entry is correct?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-010",
-      "alt_text": "On the playground map: Grid map with an orange start dot and a path moving 2 squares right."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-010",
+      "alt_text": "classroom grid: door A1, reading corner A4, tables D3, sink F1"
     },
     "answers": [
       {
-        "text": "2 squares to the left",
+        "text": "Both symbols mean door",
         "is_correct": false
       },
       {
-        "text": "2 squares to the right",
+        "text": "★ reading corner; ● sink",
         "is_correct": true
       },
       {
-        "text": "2 squares up",
+        "text": "★ sink; ● reading corner",
+        "is_correct": false
+      },
+      {
+        "text": "★ means north; ● means south",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Moving right keeps the same row and increases the column by 2.",
-      "hint": "Face the top of the map, then move toward your right hand."
+      "summary": "A legend must match each symbol to the landmark it represents.",
+      "hint": "Read the symbol-to-place pairing exactly."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "sequence_priority": 10,
+    "difficulty_tier": "confidence",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-011",
@@ -373,35 +425,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "follow_multi_step_path",
-    "question": "On the playground map, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
-    "audio_prompt": "On the playground map, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
+    "skill": "complete_plan",
+    "question": "The classroom plan already shows door, reading corner and tables. What addition best makes the plan show all four listed landmarks?",
+    "audio_prompt": "The classroom plan already shows door, reading corner and tables. What addition best makes the plan show all four listed landmarks?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-011",
-      "alt_text": "On the playground map: Grid map with a path moving down one square and then right two squares."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-011",
+      "alt_text": "classroom grid: door A1, reading corner A4, tables D3, sink F1"
     },
     "answers": [
       {
-        "text": "right 1, then down 2",
+        "text": "remove the reading corner",
         "is_correct": false
       },
       {
-        "text": "up 1, then left 2",
+        "text": "replace every landmark with the same symbol and no legend",
         "is_correct": false
       },
       {
-        "text": "down 1, then right 2",
+        "text": "add the sink at F1",
         "is_correct": true
+      },
+      {
+        "text": "add the sink at A1",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Directions must be followed in order: down 1 first, then right 2.",
-      "hint": "Do one instruction at a time and mark each stop."
+      "summary": "Adding the missing sink at its stated grid reference completes the plan.",
+      "hint": "Check which listed landmark is absent and preserve its location."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "sequence_priority": 11,
+    "difficulty_tier": "confidence",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-012",
@@ -409,35 +467,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "use_between_position_word",
-    "question": "On the playground map, the tree is between the slide and the bench. Which object is in the middle?",
-    "audio_prompt": "On the playground map, the tree is between the slide and the bench. Which object is in the middle?",
+    "skill": "evaluate_representation",
+    "question": "Which feature would make this classroom plan (door A1, reading corner A4, tables D3, sink F1) easiest for a visitor to use?",
+    "audio_prompt": "Which feature would make this classroom plan (door A1, reading corner A4, tables D3, sink F1) easiest for a visitor to use?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-012",
-      "alt_text": "On the playground map: A slide, tree and bench arranged in that order."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-012",
+      "alt_text": "classroom grid: door A1, reading corner A4, tables D3, sink F1"
     },
     "answers": [
       {
-        "text": "the tree",
+        "text": "decorative pictures that cover the grid",
+        "is_correct": false
+      },
+      {
+        "text": "a different scale for each row",
+        "is_correct": false
+      },
+      {
+        "text": "removing all landmark names",
+        "is_correct": false
+      },
+      {
+        "text": "clear landmark labels, a direction arrow and a symbol legend",
         "is_correct": true
-      },
-      {
-        "text": "the slide",
-        "is_correct": false
-      },
-      {
-        "text": "the bench",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Between means in the middle of two landmarks.",
-      "hint": "Name the object with one landmark on each side."
+      "summary": "Labels, direction and a legend help another person interpret the representation.",
+      "hint": "Choose features that communicate position unambiguously."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "sequence_priority": 12,
+    "difficulty_tier": "confidence",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-013",
@@ -445,35 +509,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "interpret_map_view",
-    "question": "On the playground map, what does a classroom map show?",
-    "audio_prompt": "On the playground map, what does a classroom map show?",
+    "skill": "read_grid_reference",
+    "question": "On the school plan, office A2, library C5, canteen E2, oval G5. What is the grid reference for the canteen?",
+    "audio_prompt": "On the school plan, office A2, library C5, canteen E2, oval G5. What is the grid reference for the canteen?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-013",
-      "alt_text": "On the playground map: Top-down classroom map with desks shown as rectangles on a grid."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-013",
+      "alt_text": "school grid: office A2, library C5, canteen E2, oval G5"
     },
     "answers": [
       {
-        "text": "how heavy the furniture is",
-        "is_correct": false
-      },
-      {
-        "text": "where things are from above",
+        "text": "E2",
         "is_correct": true
       },
       {
-        "text": "what time the class starts",
+        "text": "B5",
+        "is_correct": false
+      },
+      {
+        "text": "C5",
+        "is_correct": false
+      },
+      {
+        "text": "G5",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A map is a two-dimensional view that shows positions from above.",
-      "hint": "Imagine looking down at the room from the ceiling."
+      "summary": "The canteen is in column E, row 2.",
+      "hint": "Read the column first and then the row."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 13,
+    "difficulty_tier": "core",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-014",
@@ -481,35 +551,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "choose_precise_direction",
-    "question": "On the playground map, which direction tells someone exactly where to go?",
-    "audio_prompt": "On the playground map, which direction tells someone exactly where to go?",
+    "skill": "relative_position",
+    "question": "On the same school plan (office A2, library C5, canteen E2, oval G5), where is the canteen relative to the library?",
+    "audio_prompt": "On the same school plan (office A2, library C5, canteen E2, oval G5), where is the canteen relative to the library?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-014",
-      "alt_text": "On the playground map: Grid path moving two squares up from a start dot to a door."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-014",
+      "alt_text": "school grid: office A2, library C5, canteen E2, oval G5"
     },
     "answers": [
       {
-        "text": "Go over there",
+        "text": "above",
         "is_correct": false
       },
       {
-        "text": "Move somewhere near the wall",
-        "is_correct": false
-      },
-      {
-        "text": "Walk 2 squares up to the door",
+        "text": "below",
         "is_correct": true
+      },
+      {
+        "text": "left of",
+        "is_correct": false
+      },
+      {
+        "text": "right of",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The first direction gives a distance, direction and landmark.",
-      "hint": "A useful direction should tell how far and which way."
+      "summary": "The canteen is below the library.",
+      "hint": "Compare their columns and rows."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 14,
+    "difficulty_tier": "core",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-015",
@@ -517,35 +593,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "describe_path_endpoint",
-    "question": "On the playground map, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
-    "audio_prompt": "On the playground map, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
+    "skill": "follow_route",
+    "question": "On the school plan (office A2, library C5, canteen E2, oval G5), which route goes from the office to the oval?",
+    "audio_prompt": "On the school plan (office A2, library C5, canteen E2, oval G5), which route goes from the office to the oval?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-015",
-      "alt_text": "On the playground map: Grid path moving right, down, then right from the start."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-015",
+      "alt_text": "school grid: office A2, library C5, canteen E2, oval G5"
     },
     "answers": [
       {
-        "text": "2",
+        "text": "6 squares left and 3 squares up",
+        "is_correct": false
+      },
+      {
+        "text": "stay in the same square",
+        "is_correct": false
+      },
+      {
+        "text": "6 squares right and 3 squares up",
         "is_correct": true
       },
       {
-        "text": "1",
-        "is_correct": false
-      },
-      {
-        "text": "3",
+        "text": "6 squares right and 3 squares down",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The robot makes two right moves, so it finishes 2 squares to the right.",
-      "hint": "Track horizontal and vertical moves separately."
+      "summary": "The column change gives the horizontal move and the row change gives the vertical move.",
+      "hint": "Track horizontal and vertical movement separately."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 15,
+    "difficulty_tier": "core",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-016",
@@ -553,35 +635,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "explain_path_order",
-    "question": "On the playground map, why must map directions be followed in order?",
-    "audio_prompt": "On the playground map, why must map directions be followed in order?",
+    "skill": "use_legend",
+    "question": "A school plan uses ★ for the library and ● for the oval. Which legend entry is correct?",
+    "audio_prompt": "A school plan uses ★ for the library and ● for the oval. Which legend entry is correct?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-016",
-      "alt_text": "On the playground map: Two grid pathways with the same moves in different orders and different routes."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-016",
+      "alt_text": "school grid: office A2, library C5, canteen E2, oval G5"
     },
     "answers": [
       {
-        "text": "The map changes colour",
+        "text": "★ oval; ● library",
         "is_correct": false
       },
       {
-        "text": "A different order can end at a different place",
+        "text": "★ means north; ● means south",
+        "is_correct": false
+      },
+      {
+        "text": "Both symbols mean office",
+        "is_correct": false
+      },
+      {
+        "text": "★ library; ● oval",
         "is_correct": true
-      },
-      {
-        "text": "The landmarks disappear",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Changing the order can change the pathway and finishing position.",
-      "hint": "Try swapping the first two moves on the grid."
+      "summary": "A legend must match each symbol to the landmark it represents.",
+      "hint": "Read the symbol-to-place pairing exactly."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 16,
+    "difficulty_tier": "core",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-017",
@@ -589,35 +677,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "locate_position_using_landmark",
-    "question": "In the robot grid, the library is above the canteen on the map. Where is the library?",
-    "audio_prompt": "In the robot grid, the library is above the canteen on the map. Where is the library?",
+    "skill": "complete_plan",
+    "question": "The school plan already shows office, library and canteen. What addition best makes the plan show all four listed landmarks?",
+    "audio_prompt": "The school plan already shows office, library and canteen. What addition best makes the plan show all four listed landmarks?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-017",
-      "alt_text": "In the robot grid: Simple map with the library one grid square above the canteen."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-017",
+      "alt_text": "school grid: office A2, library C5, canteen E2, oval G5"
     },
     "answers": [
       {
-        "text": "below the canteen",
-        "is_correct": false
-      },
-      {
-        "text": "inside the canteen",
-        "is_correct": false
-      },
-      {
-        "text": "above the canteen",
+        "text": "add the oval at G5",
         "is_correct": true
+      },
+      {
+        "text": "add the oval at A2",
+        "is_correct": false
+      },
+      {
+        "text": "remove the library",
+        "is_correct": false
+      },
+      {
+        "text": "replace every landmark with the same symbol and no legend",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The library is higher on the map, so it is above the canteen.",
-      "hint": "Find the canteen first, then look directly higher."
+      "summary": "Adding the missing oval at its stated grid reference completes the plan.",
+      "hint": "Check which listed landmark is absent and preserve its location."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 17,
+    "difficulty_tier": "core",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-018",
@@ -625,35 +719,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "follow_horizontal_path",
-    "question": "In the robot grid, start at the orange dot. Move 2 squares right. Where do you finish?",
-    "audio_prompt": "In the robot grid, start at the orange dot. Move 2 squares right. Where do you finish?",
+    "skill": "evaluate_representation",
+    "question": "Which feature would make this school plan (office A2, library C5, canteen E2, oval G5) easiest for a visitor to use?",
+    "audio_prompt": "Which feature would make this school plan (office A2, library C5, canteen E2, oval G5) easiest for a visitor to use?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-018",
-      "alt_text": "In the robot grid: Grid map with an orange start dot and a path moving 2 squares right."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-018",
+      "alt_text": "school grid: office A2, library C5, canteen E2, oval G5"
     },
     "answers": [
       {
-        "text": "2 squares to the right",
+        "text": "removing all landmark names",
+        "is_correct": false
+      },
+      {
+        "text": "clear landmark labels, a direction arrow and a symbol legend",
         "is_correct": true
       },
       {
-        "text": "2 squares to the left",
+        "text": "decorative pictures that cover the grid",
         "is_correct": false
       },
       {
-        "text": "2 squares up",
+        "text": "a different scale for each row",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Moving right keeps the same row and increases the column by 2.",
-      "hint": "Face the top of the map, then move toward your right hand."
+      "summary": "Labels, direction and a legend help another person interpret the representation.",
+      "hint": "Choose features that communicate position unambiguously."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 18,
+    "difficulty_tier": "core",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-019",
@@ -661,35 +761,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "follow_multi_step_path",
-    "question": "In the robot grid, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
-    "audio_prompt": "In the robot grid, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
+    "skill": "read_grid_reference",
+    "question": "On the zoo plan, entrance A1, koalas B4, cafe E4, penguins F1. What is the grid reference for the cafe?",
+    "audio_prompt": "On the zoo plan, entrance A1, koalas B4, cafe E4, penguins F1. What is the grid reference for the cafe?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-019",
-      "alt_text": "In the robot grid: Grid map with a path moving down one square and then right two squares."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-019",
+      "alt_text": "zoo grid: entrance A1, koalas B4, cafe E4, penguins F1"
     },
     "answers": [
       {
-        "text": "right 1, then down 2",
+        "text": "B4",
         "is_correct": false
       },
       {
-        "text": "down 1, then right 2",
+        "text": "F1",
+        "is_correct": false
+      },
+      {
+        "text": "E4",
         "is_correct": true
       },
       {
-        "text": "up 1, then left 2",
+        "text": "D5",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Directions must be followed in order: down 1 first, then right 2.",
-      "hint": "Do one instruction at a time and mark each stop."
+      "summary": "The cafe is in column E, row 4.",
+      "hint": "Read the column first and then the row."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 19,
+    "difficulty_tier": "core",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-020",
@@ -697,35 +803,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "use_between_position_word",
-    "question": "In the robot grid, the tree is between the slide and the bench. Which object is in the middle?",
-    "audio_prompt": "In the robot grid, the tree is between the slide and the bench. Which object is in the middle?",
+    "skill": "relative_position",
+    "question": "On the same zoo plan (entrance A1, koalas B4, cafe E4, penguins F1), where is the cafe relative to the koalas?",
+    "audio_prompt": "On the same zoo plan (entrance A1, koalas B4, cafe E4, penguins F1), where is the cafe relative to the koalas?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-020",
-      "alt_text": "In the robot grid: A slide, tree and bench arranged in that order."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-020",
+      "alt_text": "zoo grid: entrance A1, koalas B4, cafe E4, penguins F1"
     },
     "answers": [
       {
-        "text": "the slide",
+        "text": "left of",
         "is_correct": false
       },
       {
-        "text": "the bench",
+        "text": "above",
         "is_correct": false
       },
       {
-        "text": "the tree",
+        "text": "below",
+        "is_correct": false
+      },
+      {
+        "text": "right of",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Between means in the middle of two landmarks.",
-      "hint": "Name the object with one landmark on each side."
+      "summary": "The cafe is right of the koalas.",
+      "hint": "Compare their columns and rows."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 20,
+    "difficulty_tier": "core",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-021",
@@ -733,35 +845,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "interpret_map_view",
-    "question": "In the robot grid, what does a classroom map show?",
-    "audio_prompt": "In the robot grid, what does a classroom map show?",
+    "skill": "follow_route",
+    "question": "On the zoo plan (entrance A1, koalas B4, cafe E4, penguins F1), which route goes from the entrance to the penguins?",
+    "audio_prompt": "On the zoo plan (entrance A1, koalas B4, cafe E4, penguins F1), which route goes from the entrance to the penguins?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-021",
-      "alt_text": "In the robot grid: Top-down classroom map with desks shown as rectangles on a grid."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-021",
+      "alt_text": "zoo grid: entrance A1, koalas B4, cafe E4, penguins F1"
     },
     "answers": [
       {
-        "text": "where things are from above",
+        "text": "5 squares right and 0 squares up",
         "is_correct": true
       },
       {
-        "text": "how heavy the furniture is",
+        "text": "5 squares right and 0 squares down",
         "is_correct": false
       },
       {
-        "text": "what time the class starts",
+        "text": "5 squares left and 0 squares up",
+        "is_correct": false
+      },
+      {
+        "text": "stay in the same square",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A map is a two-dimensional view that shows positions from above.",
-      "hint": "Imagine looking down at the room from the ceiling."
+      "summary": "The column change gives the horizontal move and the row change gives the vertical move.",
+      "hint": "Track horizontal and vertical movement separately."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 21,
+    "difficulty_tier": "core",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-022",
@@ -769,35 +887,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "choose_precise_direction",
-    "question": "In the robot grid, which direction tells someone exactly where to go?",
-    "audio_prompt": "In the robot grid, which direction tells someone exactly where to go?",
+    "skill": "use_legend",
+    "question": "A zoo plan uses ★ for the koalas and ● for the penguins. Which legend entry is correct?",
+    "audio_prompt": "A zoo plan uses ★ for the koalas and ● for the penguins. Which legend entry is correct?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-022",
-      "alt_text": "In the robot grid: Grid path moving two squares up from a start dot to a door."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-022",
+      "alt_text": "zoo grid: entrance A1, koalas B4, cafe E4, penguins F1"
     },
     "answers": [
       {
-        "text": "Go over there",
+        "text": "Both symbols mean entrance",
         "is_correct": false
       },
       {
-        "text": "Walk 2 squares up to the door",
+        "text": "★ koalas; ● penguins",
         "is_correct": true
       },
       {
-        "text": "Move somewhere near the wall",
+        "text": "★ penguins; ● koalas",
+        "is_correct": false
+      },
+      {
+        "text": "★ means north; ● means south",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The first direction gives a distance, direction and landmark.",
-      "hint": "A useful direction should tell how far and which way."
+      "summary": "A legend must match each symbol to the landmark it represents.",
+      "hint": "Read the symbol-to-place pairing exactly."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 22,
+    "difficulty_tier": "core",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-023",
@@ -805,35 +929,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "describe_path_endpoint",
-    "question": "In the robot grid, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
-    "audio_prompt": "In the robot grid, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
+    "skill": "complete_plan",
+    "question": "The zoo plan already shows entrance, koalas and cafe. What addition best makes the plan show all four listed landmarks?",
+    "audio_prompt": "The zoo plan already shows entrance, koalas and cafe. What addition best makes the plan show all four listed landmarks?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-023",
-      "alt_text": "In the robot grid: Grid path moving right, down, then right from the start."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-023",
+      "alt_text": "zoo grid: entrance A1, koalas B4, cafe E4, penguins F1"
     },
     "answers": [
       {
-        "text": "1",
+        "text": "remove the koalas",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "replace every landmark with the same symbol and no legend",
         "is_correct": false
       },
       {
-        "text": "2",
+        "text": "add the penguins at F1",
         "is_correct": true
+      },
+      {
+        "text": "add the penguins at A1",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The robot makes two right moves, so it finishes 2 squares to the right.",
-      "hint": "Track horizontal and vertical moves separately."
+      "summary": "Adding the missing penguins at its stated grid reference completes the plan.",
+      "hint": "Check which listed landmark is absent and preserve its location."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 23,
+    "difficulty_tier": "core",
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-P-024",
@@ -841,35 +971,1049 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "practice",
-    "skill": "explain_path_order",
-    "question": "In the robot grid, why must map directions be followed in order?",
-    "audio_prompt": "In the robot grid, why must map directions be followed in order?",
+    "skill": "evaluate_representation",
+    "question": "Which feature would make this zoo plan (entrance A1, koalas B4, cafe E4, penguins F1) easiest for a visitor to use?",
+    "audio_prompt": "Which feature would make this zoo plan (entrance A1, koalas B4, cafe E4, penguins F1) easiest for a visitor to use?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-p-024",
-      "alt_text": "In the robot grid: Two grid pathways with the same moves in different orders and different routes."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-024",
+      "alt_text": "zoo grid: entrance A1, koalas B4, cafe E4, penguins F1"
     },
     "answers": [
       {
-        "text": "A different order can end at a different place",
-        "is_correct": true
-      },
-      {
-        "text": "The map changes colour",
+        "text": "decorative pictures that cover the grid",
         "is_correct": false
       },
       {
-        "text": "The landmarks disappear",
+        "text": "a different scale for each row",
+        "is_correct": false
+      },
+      {
+        "text": "removing all landmark names",
+        "is_correct": false
+      },
+      {
+        "text": "clear landmark labels, a direction arrow and a symbol legend",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Labels, direction and a legend help another person interpret the representation.",
+      "hint": "Choose features that communicate position unambiguously."
+    },
+    "difficulty": 2,
+    "sequence_priority": 24,
+    "difficulty_tier": "core",
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-025",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "read_grid_reference",
+    "question": "On the town plan, station A2, bank D2, museum D5, hospital G5. What is the grid reference for the museum?",
+    "audio_prompt": "On the town plan, station A2, bank D2, museum D5, hospital G5. What is the grid reference for the museum?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-025",
+      "alt_text": "town grid: station A2, bank D2, museum D5, hospital G5"
+    },
+    "answers": [
+      {
+        "text": "D5",
+        "is_correct": true
+      },
+      {
+        "text": "E4",
+        "is_correct": false
+      },
+      {
+        "text": "D2",
+        "is_correct": false
+      },
+      {
+        "text": "G5",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Changing the order can change the pathway and finishing position.",
-      "hint": "Try swapping the first two moves on the grid."
+      "summary": "The museum is in column D, row 5.",
+      "hint": "Read the column first and then the row."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-026",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "relative_position",
+    "question": "On the same town plan (station A2, bank D2, museum D5, hospital G5), where is the museum relative to the bank?",
+    "audio_prompt": "On the same town plan (station A2, bank D2, museum D5, hospital G5), where is the museum relative to the bank?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-026",
+      "alt_text": "town grid: station A2, bank D2, museum D5, hospital G5"
+    },
+    "answers": [
+      {
+        "text": "below",
+        "is_correct": false
+      },
+      {
+        "text": "above",
+        "is_correct": true
+      },
+      {
+        "text": "left of",
+        "is_correct": false
+      },
+      {
+        "text": "right of",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The museum is above the bank.",
+      "hint": "Compare their columns and rows."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-027",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "follow_route",
+    "question": "On the town plan (station A2, bank D2, museum D5, hospital G5), which route goes from the station to the hospital?",
+    "audio_prompt": "On the town plan (station A2, bank D2, museum D5, hospital G5), which route goes from the station to the hospital?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-027",
+      "alt_text": "town grid: station A2, bank D2, museum D5, hospital G5"
+    },
+    "answers": [
+      {
+        "text": "6 squares left and 3 squares up",
+        "is_correct": false
+      },
+      {
+        "text": "stay in the same square",
+        "is_correct": false
+      },
+      {
+        "text": "6 squares right and 3 squares up",
+        "is_correct": true
+      },
+      {
+        "text": "6 squares right and 3 squares down",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The column change gives the horizontal move and the row change gives the vertical move.",
+      "hint": "Track horizontal and vertical movement separately."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-028",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "use_legend",
+    "question": "A town plan uses ★ for the bank and ● for the hospital. Which legend entry is correct?",
+    "audio_prompt": "A town plan uses ★ for the bank and ● for the hospital. Which legend entry is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-028",
+      "alt_text": "town grid: station A2, bank D2, museum D5, hospital G5"
+    },
+    "answers": [
+      {
+        "text": "★ hospital; ● bank",
+        "is_correct": false
+      },
+      {
+        "text": "★ means north; ● means south",
+        "is_correct": false
+      },
+      {
+        "text": "Both symbols mean station",
+        "is_correct": false
+      },
+      {
+        "text": "★ bank; ● hospital",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A legend must match each symbol to the landmark it represents.",
+      "hint": "Read the symbol-to-place pairing exactly."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-029",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "complete_plan",
+    "question": "The town plan already shows station, bank and museum. What addition best makes the plan show all four listed landmarks?",
+    "audio_prompt": "The town plan already shows station, bank and museum. What addition best makes the plan show all four listed landmarks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-029",
+      "alt_text": "town grid: station A2, bank D2, museum D5, hospital G5"
+    },
+    "answers": [
+      {
+        "text": "add the hospital at G5",
+        "is_correct": true
+      },
+      {
+        "text": "add the hospital at A2",
+        "is_correct": false
+      },
+      {
+        "text": "remove the bank",
+        "is_correct": false
+      },
+      {
+        "text": "replace every landmark with the same symbol and no legend",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding the missing hospital at its stated grid reference completes the plan.",
+      "hint": "Check which listed landmark is absent and preserve its location."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-030",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "evaluate_representation",
+    "question": "Which feature would make this town plan (station A2, bank D2, museum D5, hospital G5) easiest for a visitor to use?",
+    "audio_prompt": "Which feature would make this town plan (station A2, bank D2, museum D5, hospital G5) easiest for a visitor to use?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-030",
+      "alt_text": "town grid: station A2, bank D2, museum D5, hospital G5"
+    },
+    "answers": [
+      {
+        "text": "removing all landmark names",
+        "is_correct": false
+      },
+      {
+        "text": "clear landmark labels, a direction arrow and a symbol legend",
+        "is_correct": true
+      },
+      {
+        "text": "decorative pictures that cover the grid",
+        "is_correct": false
+      },
+      {
+        "text": "a different scale for each row",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Labels, direction and a legend help another person interpret the representation.",
+      "hint": "Choose features that communicate position unambiguously."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-031",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "read_grid_reference",
+    "question": "On the farm plan, gate A1, shed C1, dam C4, orchard F4. What is the grid reference for the dam?",
+    "audio_prompt": "On the farm plan, gate A1, shed C1, dam C4, orchard F4. What is the grid reference for the dam?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-031",
+      "alt_text": "farm grid: gate A1, shed C1, dam C4, orchard F4"
+    },
+    "answers": [
+      {
+        "text": "C1",
+        "is_correct": false
+      },
+      {
+        "text": "F4",
+        "is_correct": false
+      },
+      {
+        "text": "C4",
+        "is_correct": true
+      },
+      {
+        "text": "D3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The dam is in column C, row 4.",
+      "hint": "Read the column first and then the row."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-032",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "relative_position",
+    "question": "On the same farm plan (gate A1, shed C1, dam C4, orchard F4), where is the dam relative to the shed?",
+    "audio_prompt": "On the same farm plan (gate A1, shed C1, dam C4, orchard F4), where is the dam relative to the shed?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-032",
+      "alt_text": "farm grid: gate A1, shed C1, dam C4, orchard F4"
+    },
+    "answers": [
+      {
+        "text": "left of",
+        "is_correct": false
+      },
+      {
+        "text": "right of",
+        "is_correct": false
+      },
+      {
+        "text": "below",
+        "is_correct": false
+      },
+      {
+        "text": "above",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The dam is above the shed.",
+      "hint": "Compare their columns and rows."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-033",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "follow_route",
+    "question": "On the farm plan (gate A1, shed C1, dam C4, orchard F4), which route goes from the gate to the orchard?",
+    "audio_prompt": "On the farm plan (gate A1, shed C1, dam C4, orchard F4), which route goes from the gate to the orchard?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-033",
+      "alt_text": "farm grid: gate A1, shed C1, dam C4, orchard F4"
+    },
+    "answers": [
+      {
+        "text": "5 squares right and 3 squares up",
+        "is_correct": true
+      },
+      {
+        "text": "5 squares right and 3 squares down",
+        "is_correct": false
+      },
+      {
+        "text": "5 squares left and 3 squares up",
+        "is_correct": false
+      },
+      {
+        "text": "stay in the same square",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The column change gives the horizontal move and the row change gives the vertical move.",
+      "hint": "Track horizontal and vertical movement separately."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-034",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "use_legend",
+    "question": "A farm plan uses ★ for the shed and ● for the orchard. Which legend entry is correct?",
+    "audio_prompt": "A farm plan uses ★ for the shed and ● for the orchard. Which legend entry is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-034",
+      "alt_text": "farm grid: gate A1, shed C1, dam C4, orchard F4"
+    },
+    "answers": [
+      {
+        "text": "Both symbols mean gate",
+        "is_correct": false
+      },
+      {
+        "text": "★ shed; ● orchard",
+        "is_correct": true
+      },
+      {
+        "text": "★ orchard; ● shed",
+        "is_correct": false
+      },
+      {
+        "text": "★ means north; ● means south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A legend must match each symbol to the landmark it represents.",
+      "hint": "Read the symbol-to-place pairing exactly."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-035",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "complete_plan",
+    "question": "The farm plan already shows gate, shed and dam. What addition best makes the plan show all four listed landmarks?",
+    "audio_prompt": "The farm plan already shows gate, shed and dam. What addition best makes the plan show all four listed landmarks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-035",
+      "alt_text": "farm grid: gate A1, shed C1, dam C4, orchard F4"
+    },
+    "answers": [
+      {
+        "text": "remove the shed",
+        "is_correct": false
+      },
+      {
+        "text": "replace every landmark with the same symbol and no legend",
+        "is_correct": false
+      },
+      {
+        "text": "add the orchard at F4",
+        "is_correct": true
+      },
+      {
+        "text": "add the orchard at A1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Adding the missing orchard at its stated grid reference completes the plan.",
+      "hint": "Check which listed landmark is absent and preserve its location."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-036",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "evaluate_representation",
+    "question": "Which feature would make this farm plan (gate A1, shed C1, dam C4, orchard F4) easiest for a visitor to use?",
+    "audio_prompt": "Which feature would make this farm plan (gate A1, shed C1, dam C4, orchard F4) easiest for a visitor to use?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-036",
+      "alt_text": "farm grid: gate A1, shed C1, dam C4, orchard F4"
+    },
+    "answers": [
+      {
+        "text": "decorative pictures that cover the grid",
+        "is_correct": false
+      },
+      {
+        "text": "a different scale for each row",
+        "is_correct": false
+      },
+      {
+        "text": "removing all landmark names",
+        "is_correct": false
+      },
+      {
+        "text": "clear landmark labels, a direction arrow and a symbol legend",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Labels, direction and a legend help another person interpret the representation.",
+      "hint": "Choose features that communicate position unambiguously."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-037",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "read_grid_reference",
+    "question": "On the beach plan, car park A1, kiosk B3, flags E3, jetty F5. What is the grid reference for the flags?",
+    "audio_prompt": "On the beach plan, car park A1, kiosk B3, flags E3, jetty F5. What is the grid reference for the flags?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-037",
+      "alt_text": "beach grid: car park A1, kiosk B3, flags E3, jetty F5"
+    },
+    "answers": [
+      {
+        "text": "E3",
+        "is_correct": true
+      },
+      {
+        "text": "C5",
+        "is_correct": false
+      },
+      {
+        "text": "B3",
+        "is_correct": false
+      },
+      {
+        "text": "F5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The flags is in column E, row 3.",
+      "hint": "Read the column first and then the row."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "challenge",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-038",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "relative_position",
+    "question": "On the same beach plan (car park A1, kiosk B3, flags E3, jetty F5), where is the flags relative to the kiosk?",
+    "audio_prompt": "On the same beach plan (car park A1, kiosk B3, flags E3, jetty F5), where is the flags relative to the kiosk?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-038",
+      "alt_text": "beach grid: car park A1, kiosk B3, flags E3, jetty F5"
+    },
+    "answers": [
+      {
+        "text": "below",
+        "is_correct": false
+      },
+      {
+        "text": "right of",
+        "is_correct": true
+      },
+      {
+        "text": "left of",
+        "is_correct": false
+      },
+      {
+        "text": "above",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The flags is right of the kiosk.",
+      "hint": "Compare their columns and rows."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-039",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "follow_route",
+    "question": "On the beach plan (car park A1, kiosk B3, flags E3, jetty F5), which route goes from the car park to the jetty?",
+    "audio_prompt": "On the beach plan (car park A1, kiosk B3, flags E3, jetty F5), which route goes from the car park to the jetty?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-039",
+      "alt_text": "beach grid: car park A1, kiosk B3, flags E3, jetty F5"
+    },
+    "answers": [
+      {
+        "text": "5 squares left and 4 squares up",
+        "is_correct": false
+      },
+      {
+        "text": "stay in the same square",
+        "is_correct": false
+      },
+      {
+        "text": "5 squares right and 4 squares up",
+        "is_correct": true
+      },
+      {
+        "text": "5 squares right and 4 squares down",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The column change gives the horizontal move and the row change gives the vertical move.",
+      "hint": "Track horizontal and vertical movement separately."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-040",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "use_legend",
+    "question": "A beach plan uses ★ for the kiosk and ● for the jetty. Which legend entry is correct?",
+    "audio_prompt": "A beach plan uses ★ for the kiosk and ● for the jetty. Which legend entry is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-040",
+      "alt_text": "beach grid: car park A1, kiosk B3, flags E3, jetty F5"
+    },
+    "answers": [
+      {
+        "text": "★ jetty; ● kiosk",
+        "is_correct": false
+      },
+      {
+        "text": "★ means north; ● means south",
+        "is_correct": false
+      },
+      {
+        "text": "Both symbols mean car park",
+        "is_correct": false
+      },
+      {
+        "text": "★ kiosk; ● jetty",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A legend must match each symbol to the landmark it represents.",
+      "hint": "Read the symbol-to-place pairing exactly."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-041",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "complete_plan",
+    "question": "The beach plan already shows car park, kiosk and flags. What addition best makes the plan show all four listed landmarks?",
+    "audio_prompt": "The beach plan already shows car park, kiosk and flags. What addition best makes the plan show all four listed landmarks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-041",
+      "alt_text": "beach grid: car park A1, kiosk B3, flags E3, jetty F5"
+    },
+    "answers": [
+      {
+        "text": "add the jetty at F5",
+        "is_correct": true
+      },
+      {
+        "text": "add the jetty at A1",
+        "is_correct": false
+      },
+      {
+        "text": "remove the kiosk",
+        "is_correct": false
+      },
+      {
+        "text": "replace every landmark with the same symbol and no legend",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding the missing jetty at its stated grid reference completes the plan.",
+      "hint": "Check which listed landmark is absent and preserve its location."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 41,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-042",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "evaluate_representation",
+    "question": "Which feature would make this beach plan (car park A1, kiosk B3, flags E3, jetty F5) easiest for a visitor to use?",
+    "audio_prompt": "Which feature would make this beach plan (car park A1, kiosk B3, flags E3, jetty F5) easiest for a visitor to use?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-042",
+      "alt_text": "beach grid: car park A1, kiosk B3, flags E3, jetty F5"
+    },
+    "answers": [
+      {
+        "text": "removing all landmark names",
+        "is_correct": false
+      },
+      {
+        "text": "clear landmark labels, a direction arrow and a symbol legend",
+        "is_correct": true
+      },
+      {
+        "text": "decorative pictures that cover the grid",
+        "is_correct": false
+      },
+      {
+        "text": "a different scale for each row",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Labels, direction and a legend help another person interpret the representation.",
+      "hint": "Choose features that communicate position unambiguously."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 42,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-043",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "read_grid_reference",
+    "question": "On the library plan, entry A1, returns desk B2, computers E2, story area E5. What is the grid reference for the computers?",
+    "audio_prompt": "On the library plan, entry A1, returns desk B2, computers E2, story area E5. What is the grid reference for the computers?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-043",
+      "alt_text": "library grid: entry A1, returns desk B2, computers E2, story area E5"
+    },
+    "answers": [
+      {
+        "text": "B2",
+        "is_correct": false
+      },
+      {
+        "text": "E5",
+        "is_correct": false
+      },
+      {
+        "text": "E2",
+        "is_correct": true
+      },
+      {
+        "text": "B5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The computers is in column E, row 2.",
+      "hint": "Read the column first and then the row."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 43,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-044",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "relative_position",
+    "question": "On the same library plan (entry A1, returns desk B2, computers E2, story area E5), where is the computers relative to the returns desk?",
+    "audio_prompt": "On the same library plan (entry A1, returns desk B2, computers E2, story area E5), where is the computers relative to the returns desk?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-044",
+      "alt_text": "library grid: entry A1, returns desk B2, computers E2, story area E5"
+    },
+    "answers": [
+      {
+        "text": "left of",
+        "is_correct": false
+      },
+      {
+        "text": "above",
+        "is_correct": false
+      },
+      {
+        "text": "below",
+        "is_correct": false
+      },
+      {
+        "text": "right of",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The computers is right of the returns desk.",
+      "hint": "Compare their columns and rows."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-045",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "follow_route",
+    "question": "On the library plan (entry A1, returns desk B2, computers E2, story area E5), which route goes from the entry to the story area?",
+    "audio_prompt": "On the library plan (entry A1, returns desk B2, computers E2, story area E5), which route goes from the entry to the story area?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-045",
+      "alt_text": "library grid: entry A1, returns desk B2, computers E2, story area E5"
+    },
+    "answers": [
+      {
+        "text": "4 squares right and 4 squares up",
+        "is_correct": true
+      },
+      {
+        "text": "4 squares right and 4 squares down",
+        "is_correct": false
+      },
+      {
+        "text": "4 squares left and 4 squares up",
+        "is_correct": false
+      },
+      {
+        "text": "stay in the same square",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The column change gives the horizontal move and the row change gives the vertical move.",
+      "hint": "Track horizontal and vertical movement separately."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 45,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-046",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "use_legend",
+    "question": "A library plan uses ★ for the returns desk and ● for the story area. Which legend entry is correct?",
+    "audio_prompt": "A library plan uses ★ for the returns desk and ● for the story area. Which legend entry is correct?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-046",
+      "alt_text": "library grid: entry A1, returns desk B2, computers E2, story area E5"
+    },
+    "answers": [
+      {
+        "text": "Both symbols mean entry",
+        "is_correct": false
+      },
+      {
+        "text": "★ returns desk; ● story area",
+        "is_correct": true
+      },
+      {
+        "text": "★ story area; ● returns desk",
+        "is_correct": false
+      },
+      {
+        "text": "★ means north; ● means south",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A legend must match each symbol to the landmark it represents.",
+      "hint": "Read the symbol-to-place pairing exactly."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 46,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-047",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "complete_plan",
+    "question": "The library plan already shows entry, returns desk and computers. What addition best makes the plan show all four listed landmarks?",
+    "audio_prompt": "The library plan already shows entry, returns desk and computers. What addition best makes the plan show all four listed landmarks?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-047",
+      "alt_text": "library grid: entry A1, returns desk B2, computers E2, story area E5"
+    },
+    "answers": [
+      {
+        "text": "remove the returns desk",
+        "is_correct": false
+      },
+      {
+        "text": "replace every landmark with the same symbol and no legend",
+        "is_correct": false
+      },
+      {
+        "text": "add the story area at E5",
+        "is_correct": true
+      },
+      {
+        "text": "add the story area at A1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Adding the missing story area at its stated grid reference completes the plan.",
+      "hint": "Check which listed landmark is absent and preserve its location."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 47,
+    "quality_schema": "skillr-actual-v6"
+  },
+  {
+    "id": "AC9M3SP02-P-048",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3SP02",
+    "bank": "practice",
+    "skill": "evaluate_representation",
+    "question": "Which feature would make this library plan (entry A1, returns desk B2, computers E2, story area E5) easiest for a visitor to use?",
+    "audio_prompt": "Which feature would make this library plan (entry A1, returns desk B2, computers E2, story area E5) easiest for a visitor to use?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-p-048",
+      "alt_text": "library grid: entry A1, returns desk B2, computers E2, story area E5"
+    },
+    "answers": [
+      {
+        "text": "decorative pictures that cover the grid",
+        "is_correct": false
+      },
+      {
+        "text": "a different scale for each row",
+        "is_correct": false
+      },
+      {
+        "text": "removing all landmark names",
+        "is_correct": false
+      },
+      {
+        "text": "clear landmark labels, a direction arrow and a symbol legend",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Labels, direction and a legend help another person interpret the representation.",
+      "hint": "Choose features that communicate position unambiguously."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-001",
@@ -877,33 +2021,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "locate_position_using_landmark",
-    "question": "On the library map, the library is above the canteen on the map. Where is the library?",
-    "audio_prompt": "On the library map, the library is above the canteen on the map. Where is the library?",
+    "skill": "interpret_map",
+    "question": "Use this park plan: gate A1, pond B4, playground E4, toilets E1. Which landmark is farthest right?",
+    "audio_prompt": "Use this park plan: gate A1, pond B4, playground E4, toilets E1. Which landmark is farthest right?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-001",
-      "alt_text": "On the library map: Simple map with the library one grid square above the canteen."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-001",
+      "alt_text": "park grid: gate A1, pond B4, playground E4, toilets E1"
     },
     "answers": [
       {
-        "text": "below the canteen",
+        "text": "toilets",
         "is_correct": false
       },
       {
-        "text": "above the canteen",
+        "text": "playground",
         "is_correct": true
       },
       {
-        "text": "inside the canteen",
+        "text": "gate",
+        "is_correct": false
+      },
+      {
+        "text": "pond",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The library is higher on the map, so it is above the canteen.",
-      "hint": "Find the canteen first, then look directly higher."
-    }
+      "summary": "The farthest-right landmark has the greatest column position.",
+      "hint": "Compare columns before rows."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-002",
@@ -911,33 +2063,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "follow_horizontal_path",
-    "question": "On the library map, start at the orange dot. Move 2 squares right. Where do you finish?",
-    "audio_prompt": "On the library map, start at the orange dot. Move 2 squares right. Where do you finish?",
+    "skill": "relative_position",
+    "question": "Use this park plan: gate A1, pond B4, playground E4, toilets E1. Which statement is true?",
+    "audio_prompt": "Use this park plan: gate A1, pond B4, playground E4, toilets E1. Which statement is true?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-002",
-      "alt_text": "On the library map: Grid map with an orange start dot and a path moving 2 squares right."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-002",
+      "alt_text": "park grid: gate A1, pond B4, playground E4, toilets E1"
     },
     "answers": [
       {
-        "text": "2 squares to the left",
+        "text": "pond and playground share exactly the same square",
         "is_correct": false
       },
       {
-        "text": "2 squares up",
+        "text": "toilets is outside the plan",
         "is_correct": false
       },
       {
-        "text": "2 squares to the right",
+        "text": "toilets is right of gate",
         "is_correct": true
+      },
+      {
+        "text": "gate is right of toilets",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Moving right keeps the same row and increases the column by 2.",
-      "hint": "Face the top of the map, then move toward your right hand."
-    }
+      "summary": "Comparing the two grid positions shows that the toilets is right of the gate.",
+      "hint": "Locate both landmarks before choosing the relation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-003",
@@ -945,33 +2105,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "follow_multi_step_path",
-    "question": "On the library map, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
-    "audio_prompt": "On the library map, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
+    "skill": "create_representation",
+    "question": "A new first-aid point must be placed at E4 on the park plan. Which instruction records it clearly?",
+    "audio_prompt": "A new first-aid point must be placed at E4 on the park plan. Which instruction records it clearly?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-003",
-      "alt_text": "On the library map: Grid map with a path moving down one square and then right two squares."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-003",
+      "alt_text": "park grid: gate A1, pond B4, playground E4, toilets E1"
     },
     "answers": [
       {
-        "text": "down 1, then right 2",
+        "text": "write “first aid” outside the map with no position",
+        "is_correct": false
+      },
+      {
+        "text": "erase the grid labels",
+        "is_correct": false
+      },
+      {
+        "text": "place the symbol at D5 without a legend",
+        "is_correct": false
+      },
+      {
+        "text": "draw the first-aid symbol at E4 and add it to the legend",
         "is_correct": true
-      },
-      {
-        "text": "right 1, then down 2",
-        "is_correct": false
-      },
-      {
-        "text": "up 1, then left 2",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Directions must be followed in order: down 1 first, then right 2.",
-      "hint": "Do one instruction at a time and mark each stop."
-    }
+      "summary": "A symbol at the specified reference plus a legend makes the new feature interpretable.",
+      "hint": "A clear representation records both position and meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-004",
@@ -979,33 +2147,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "use_between_position_word",
-    "question": "On the library map, the tree is between the slide and the bench. Which object is in the middle?",
-    "audio_prompt": "On the library map, the tree is between the slide and the bench. Which object is in the middle?",
+    "skill": "route_reasoning",
+    "question": "Use this park plan: gate A1, pond B4, playground E4, toilets E1. A visitor moves from pond to playground. What should be checked to describe the route?",
+    "audio_prompt": "Use this park plan: gate A1, pond B4, playground E4, toilets E1. A visitor moves from pond to playground. What should be checked to describe the route?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-004",
-      "alt_text": "On the library map: A slide, tree and bench arranged in that order."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-004",
+      "alt_text": "park grid: gate A1, pond B4, playground E4, toilets E1"
     },
     "answers": [
       {
-        "text": "the slide",
-        "is_correct": false
-      },
-      {
-        "text": "the tree",
+        "text": "the change in columns and the change in rows",
         "is_correct": true
       },
       {
-        "text": "the bench",
+        "text": "only the colours of the symbols",
+        "is_correct": false
+      },
+      {
+        "text": "the order of names in the legend",
+        "is_correct": false
+      },
+      {
+        "text": "the size of the paper",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Between means in the middle of two landmarks.",
-      "hint": "Name the object with one landmark on each side."
-    }
+      "summary": "A grid route is described by horizontal and vertical changes.",
+      "hint": "Compare both coordinates."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-005",
@@ -1013,33 +2189,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "interpret_map_view",
-    "question": "On the library map, what does a classroom map show?",
-    "audio_prompt": "On the library map, what does a classroom map show?",
+    "skill": "interpret_map",
+    "question": "Use this classroom plan: door A1, reading corner A4, tables D3, sink F1. Which landmark is farthest right?",
+    "audio_prompt": "Use this classroom plan: door A1, reading corner A4, tables D3, sink F1. Which landmark is farthest right?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-005",
-      "alt_text": "On the library map: Top-down classroom map with desks shown as rectangles on a grid."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-005",
+      "alt_text": "classroom grid: door A1, reading corner A4, tables D3, sink F1"
     },
     "answers": [
       {
-        "text": "how heavy the furniture is",
+        "text": "tables",
         "is_correct": false
       },
       {
-        "text": "what time the class starts",
-        "is_correct": false
-      },
-      {
-        "text": "where things are from above",
+        "text": "sink",
         "is_correct": true
+      },
+      {
+        "text": "door",
+        "is_correct": false
+      },
+      {
+        "text": "reading corner",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A map is a two-dimensional view that shows positions from above.",
-      "hint": "Imagine looking down at the room from the ceiling."
-    }
+      "summary": "The farthest-right landmark has the greatest column position.",
+      "hint": "Compare columns before rows."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-006",
@@ -1047,33 +2231,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "choose_precise_direction",
-    "question": "On the library map, which direction tells someone exactly where to go?",
-    "audio_prompt": "On the library map, which direction tells someone exactly where to go?",
+    "skill": "relative_position",
+    "question": "Use this classroom plan: door A1, reading corner A4, tables D3, sink F1. Which statement is true?",
+    "audio_prompt": "Use this classroom plan: door A1, reading corner A4, tables D3, sink F1. Which statement is true?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-006",
-      "alt_text": "On the library map: Grid path moving two squares up from a start dot to a door."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-006",
+      "alt_text": "classroom grid: door A1, reading corner A4, tables D3, sink F1"
     },
     "answers": [
       {
-        "text": "Walk 2 squares up to the door",
+        "text": "reading corner and tables share exactly the same square",
+        "is_correct": false
+      },
+      {
+        "text": "sink is outside the plan",
+        "is_correct": false
+      },
+      {
+        "text": "sink is right of door",
         "is_correct": true
       },
       {
-        "text": "Go over there",
-        "is_correct": false
-      },
-      {
-        "text": "Move somewhere near the wall",
+        "text": "door is right of sink",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The first direction gives a distance, direction and landmark.",
-      "hint": "A useful direction should tell how far and which way."
-    }
+      "summary": "Comparing the two grid positions shows that the sink is right of the door.",
+      "hint": "Locate both landmarks before choosing the relation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-007",
@@ -1081,33 +2273,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "describe_path_endpoint",
-    "question": "On the library map, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
-    "audio_prompt": "On the library map, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
+    "skill": "create_representation",
+    "question": "A new first-aid point must be placed at D4 on the classroom plan. Which instruction records it clearly?",
+    "audio_prompt": "A new first-aid point must be placed at D4 on the classroom plan. Which instruction records it clearly?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-007",
-      "alt_text": "On the library map: Grid path moving right, down, then right from the start."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-007",
+      "alt_text": "classroom grid: door A1, reading corner A4, tables D3, sink F1"
     },
     "answers": [
       {
-        "text": "1",
+        "text": "write “first aid” outside the map with no position",
         "is_correct": false
       },
       {
-        "text": "2",
+        "text": "erase the grid labels",
+        "is_correct": false
+      },
+      {
+        "text": "place the symbol at D4 without a legend",
+        "is_correct": false
+      },
+      {
+        "text": "draw the first-aid symbol at D4 and add it to the legend",
         "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The robot makes two right moves, so it finishes 2 squares to the right.",
-      "hint": "Track horizontal and vertical moves separately."
-    }
+      "summary": "A symbol at the specified reference plus a legend makes the new feature interpretable.",
+      "hint": "A clear representation records both position and meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-008",
@@ -1115,33 +2315,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "explain_path_order",
-    "question": "On the library map, why must map directions be followed in order?",
-    "audio_prompt": "On the library map, why must map directions be followed in order?",
+    "skill": "route_reasoning",
+    "question": "Use this classroom plan: door A1, reading corner A4, tables D3, sink F1. A visitor moves from reading corner to tables. What should be checked to describe the route?",
+    "audio_prompt": "Use this classroom plan: door A1, reading corner A4, tables D3, sink F1. A visitor moves from reading corner to tables. What should be checked to describe the route?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-008",
-      "alt_text": "On the library map: Two grid pathways with the same moves in different orders and different routes."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-008",
+      "alt_text": "classroom grid: door A1, reading corner A4, tables D3, sink F1"
     },
     "answers": [
       {
-        "text": "The map changes colour",
-        "is_correct": false
-      },
-      {
-        "text": "The landmarks disappear",
-        "is_correct": false
-      },
-      {
-        "text": "A different order can end at a different place",
+        "text": "the change in columns and the change in rows",
         "is_correct": true
+      },
+      {
+        "text": "only the colours of the symbols",
+        "is_correct": false
+      },
+      {
+        "text": "the order of names in the legend",
+        "is_correct": false
+      },
+      {
+        "text": "the size of the paper",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Changing the order can change the pathway and finishing position.",
-      "hint": "Try swapping the first two moves on the grid."
-    }
+      "summary": "A grid route is described by horizontal and vertical changes.",
+      "hint": "Compare both coordinates."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-009",
@@ -1149,33 +2357,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "locate_position_using_landmark",
-    "question": "In the treasure-map challenge, the library is above the canteen on the map. Where is the library?",
-    "audio_prompt": "In the treasure-map challenge, the library is above the canteen on the map. Where is the library?",
+    "skill": "interpret_map",
+    "question": "Use this school plan: office A2, library C5, canteen E2, oval G5. Which landmark is farthest right?",
+    "audio_prompt": "Use this school plan: office A2, library C5, canteen E2, oval G5. Which landmark is farthest right?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-009",
-      "alt_text": "In the treasure-map challenge: Simple map with the library one grid square above the canteen."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-009",
+      "alt_text": "school grid: office A2, library C5, canteen E2, oval G5"
     },
     "answers": [
       {
-        "text": "above the canteen",
+        "text": "canteen",
+        "is_correct": false
+      },
+      {
+        "text": "oval",
         "is_correct": true
       },
       {
-        "text": "below the canteen",
+        "text": "office",
         "is_correct": false
       },
       {
-        "text": "inside the canteen",
+        "text": "library",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The library is higher on the map, so it is above the canteen.",
-      "hint": "Find the canteen first, then look directly higher."
-    }
+      "summary": "The farthest-right landmark has the greatest column position.",
+      "hint": "Compare columns before rows."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-010",
@@ -1183,33 +2399,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "follow_horizontal_path",
-    "question": "In the treasure-map challenge, start at the orange dot. Move 2 squares right. Where do you finish?",
-    "audio_prompt": "In the treasure-map challenge, start at the orange dot. Move 2 squares right. Where do you finish?",
+    "skill": "relative_position",
+    "question": "Use this school plan: office A2, library C5, canteen E2, oval G5. Which statement is true?",
+    "audio_prompt": "Use this school plan: office A2, library C5, canteen E2, oval G5. Which statement is true?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-010",
-      "alt_text": "In the treasure-map challenge: Grid map with an orange start dot and a path moving 2 squares right."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-010",
+      "alt_text": "school grid: office A2, library C5, canteen E2, oval G5"
     },
     "answers": [
       {
-        "text": "2 squares to the left",
+        "text": "library and canteen share exactly the same square",
         "is_correct": false
       },
       {
-        "text": "2 squares to the right",
+        "text": "oval is outside the plan",
+        "is_correct": false
+      },
+      {
+        "text": "oval is right of office",
         "is_correct": true
       },
       {
-        "text": "2 squares up",
+        "text": "office is right of oval",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Moving right keeps the same row and increases the column by 2.",
-      "hint": "Face the top of the map, then move toward your right hand."
-    }
+      "summary": "Comparing the two grid positions shows that the oval is right of the office.",
+      "hint": "Locate both landmarks before choosing the relation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-011",
@@ -1217,33 +2441,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "follow_multi_step_path",
-    "question": "In the treasure-map challenge, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
-    "audio_prompt": "In the treasure-map challenge, start at the orange dot. Move 1 square down, then 2 squares right. Which path is correct?",
+    "skill": "create_representation",
+    "question": "A new first-aid point must be placed at E5 on the school plan. Which instruction records it clearly?",
+    "audio_prompt": "A new first-aid point must be placed at E5 on the school plan. Which instruction records it clearly?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-011",
-      "alt_text": "In the treasure-map challenge: Grid map with a path moving down one square and then right two squares."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-011",
+      "alt_text": "school grid: office A2, library C5, canteen E2, oval G5"
     },
     "answers": [
       {
-        "text": "right 1, then down 2",
+        "text": "write “first aid” outside the map with no position",
         "is_correct": false
       },
       {
-        "text": "up 1, then left 2",
+        "text": "erase the grid labels",
         "is_correct": false
       },
       {
-        "text": "down 1, then right 2",
+        "text": "place the symbol at E5 without a legend",
+        "is_correct": false
+      },
+      {
+        "text": "draw the first-aid symbol at E5 and add it to the legend",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Directions must be followed in order: down 1 first, then right 2.",
-      "hint": "Do one instruction at a time and mark each stop."
-    }
+      "summary": "A symbol at the specified reference plus a legend makes the new feature interpretable.",
+      "hint": "A clear representation records both position and meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-012",
@@ -1251,33 +2483,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "use_between_position_word",
-    "question": "In the treasure-map challenge, the tree is between the slide and the bench. Which object is in the middle?",
-    "audio_prompt": "In the treasure-map challenge, the tree is between the slide and the bench. Which object is in the middle?",
+    "skill": "route_reasoning",
+    "question": "Use this school plan: office A2, library C5, canteen E2, oval G5. A visitor moves from library to canteen. What should be checked to describe the route?",
+    "audio_prompt": "Use this school plan: office A2, library C5, canteen E2, oval G5. A visitor moves from library to canteen. What should be checked to describe the route?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-012",
-      "alt_text": "In the treasure-map challenge: A slide, tree and bench arranged in that order."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-012",
+      "alt_text": "school grid: office A2, library C5, canteen E2, oval G5"
     },
     "answers": [
       {
-        "text": "the tree",
+        "text": "the change in columns and the change in rows",
         "is_correct": true
       },
       {
-        "text": "the slide",
+        "text": "only the colours of the symbols",
         "is_correct": false
       },
       {
-        "text": "the bench",
+        "text": "the order of names in the legend",
+        "is_correct": false
+      },
+      {
+        "text": "the size of the paper",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Between means in the middle of two landmarks.",
-      "hint": "Name the object with one landmark on each side."
-    }
+      "summary": "A grid route is described by horizontal and vertical changes.",
+      "hint": "Compare both coordinates."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-013",
@@ -1285,33 +2525,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "interpret_map_view",
-    "question": "In the treasure-map challenge, what does a classroom map show?",
-    "audio_prompt": "In the treasure-map challenge, what does a classroom map show?",
+    "skill": "interpret_map",
+    "question": "Use this zoo plan: entrance A1, koalas B4, cafe E4, penguins F1. Which landmark is farthest right?",
+    "audio_prompt": "Use this zoo plan: entrance A1, koalas B4, cafe E4, penguins F1. Which landmark is farthest right?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-013",
-      "alt_text": "In the treasure-map challenge: Top-down classroom map with desks shown as rectangles on a grid."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-013",
+      "alt_text": "zoo grid: entrance A1, koalas B4, cafe E4, penguins F1"
     },
     "answers": [
       {
-        "text": "how heavy the furniture is",
+        "text": "cafe",
         "is_correct": false
       },
       {
-        "text": "where things are from above",
+        "text": "penguins",
         "is_correct": true
       },
       {
-        "text": "what time the class starts",
+        "text": "entrance",
+        "is_correct": false
+      },
+      {
+        "text": "koalas",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A map is a two-dimensional view that shows positions from above.",
-      "hint": "Imagine looking down at the room from the ceiling."
-    }
+      "summary": "The farthest-right landmark has the greatest column position.",
+      "hint": "Compare columns before rows."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-014",
@@ -1319,33 +2567,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "choose_precise_direction",
-    "question": "In the treasure-map challenge, which direction tells someone exactly where to go?",
-    "audio_prompt": "In the treasure-map challenge, which direction tells someone exactly where to go?",
+    "skill": "relative_position",
+    "question": "Use this zoo plan: entrance A1, koalas B4, cafe E4, penguins F1. Which statement is true?",
+    "audio_prompt": "Use this zoo plan: entrance A1, koalas B4, cafe E4, penguins F1. Which statement is true?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-014",
-      "alt_text": "In the treasure-map challenge: Grid path moving two squares up from a start dot to a door."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-014",
+      "alt_text": "zoo grid: entrance A1, koalas B4, cafe E4, penguins F1"
     },
     "answers": [
       {
-        "text": "Go over there",
+        "text": "koalas and cafe share exactly the same square",
         "is_correct": false
       },
       {
-        "text": "Move somewhere near the wall",
+        "text": "penguins is outside the plan",
         "is_correct": false
       },
       {
-        "text": "Walk 2 squares up to the door",
+        "text": "penguins is right of entrance",
         "is_correct": true
+      },
+      {
+        "text": "entrance is right of penguins",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The first direction gives a distance, direction and landmark.",
-      "hint": "A useful direction should tell how far and which way."
-    }
+      "summary": "Comparing the two grid positions shows that the penguins is right of the entrance.",
+      "hint": "Locate both landmarks before choosing the relation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-015",
@@ -1353,33 +2609,41 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "describe_path_endpoint",
-    "question": "In the treasure-map challenge, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
-    "audio_prompt": "In the treasure-map challenge, a robot follows: right 1, down 1, right 1. How many squares right of the start does it finish?",
+    "skill": "create_representation",
+    "question": "A new first-aid point must be placed at E4 on the zoo plan. Which instruction records it clearly?",
+    "audio_prompt": "A new first-aid point must be placed at E4 on the zoo plan. Which instruction records it clearly?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-015",
-      "alt_text": "In the treasure-map challenge: Grid path moving right, down, then right from the start."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-015",
+      "alt_text": "zoo grid: entrance A1, koalas B4, cafe E4, penguins F1"
     },
     "answers": [
       {
-        "text": "2",
+        "text": "write “first aid” outside the map with no position",
+        "is_correct": false
+      },
+      {
+        "text": "erase the grid labels",
+        "is_correct": false
+      },
+      {
+        "text": "place the symbol at D5 without a legend",
+        "is_correct": false
+      },
+      {
+        "text": "draw the first-aid symbol at E4 and add it to the legend",
         "is_correct": true
-      },
-      {
-        "text": "1",
-        "is_correct": false
-      },
-      {
-        "text": "3",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The robot makes two right moves, so it finishes 2 squares to the right.",
-      "hint": "Track horizontal and vertical moves separately."
-    }
+      "summary": "A symbol at the specified reference plus a legend makes the new feature interpretable.",
+      "hint": "A clear representation records both position and meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3SP02-T-016",
@@ -1387,32 +2651,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3SP02",
     "bank": "test",
-    "skill": "explain_path_order",
-    "question": "In the treasure-map challenge, why must map directions be followed in order?",
-    "audio_prompt": "In the treasure-map challenge, why must map directions be followed in order?",
+    "skill": "route_reasoning",
+    "question": "Use this zoo plan: entrance A1, koalas B4, cafe E4, penguins F1. A visitor moves from koalas to cafe. What should be checked to describe the route?",
+    "audio_prompt": "Use this zoo plan: entrance A1, koalas B4, cafe E4, penguins F1. A visitor moves from koalas to cafe. What should be checked to describe the route?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02.svg#ac9m3sp02-t-016",
-      "alt_text": "In the treasure-map challenge: Two grid pathways with the same moves in different orders and different routes."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3sp02-v2.svg#ac9m3sp02-t-016",
+      "alt_text": "zoo grid: entrance A1, koalas B4, cafe E4, penguins F1"
     },
     "answers": [
       {
-        "text": "The map changes colour",
-        "is_correct": false
-      },
-      {
-        "text": "A different order can end at a different place",
+        "text": "the change in columns and the change in rows",
         "is_correct": true
       },
       {
-        "text": "The landmarks disappear",
+        "text": "only the colours of the symbols",
+        "is_correct": false
+      },
+      {
+        "text": "the order of names in the legend",
+        "is_correct": false
+      },
+      {
+        "text": "the size of the paper",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Changing the order can change the pathway and finishing position.",
-      "hint": "Try swapping the first two moves on the grid."
-    }
+      "summary": "A grid route is described by horizontal and vertical changes.",
+      "hint": "Compare both coordinates."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]

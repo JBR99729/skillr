@@ -4,28 +4,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-001",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "ask categorical survey question",
+    "skill": "question and purpose",
     "printable": true,
     "type": "single",
-    "question": "In the fruit survey, which question would collect data about favourite fruit?",
-    "audioPrompt": "In the fruit survey, which question would collect data about favourite fruit?",
-    "visual": "In the fruit survey: Three category bars ready to record answers about favourite fruit.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the fruit survey: Three category bars ready to record answers about favourite fruit.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-001\"></use></svg>",
+    "question": "A class wants data about favourite fruit. Which question or instruction best matches that purpose?",
+    "audioPrompt": "A class wants data about favourite fruit. Which question or instruction best matches that purpose?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-001",
-      "alt_text": "In the fruit survey: Three category bars ready to record answers about favourite fruit."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "How old is the school building?",
-      "Can you draw any picture?",
-      "What is your favourite fruit?"
+      "Collect one accurate response for each favourite fruit entry.",
+      "Record any fact you remember, even if unrelated.",
+      "Change the question for every participant.",
+      "Collect only answers that support a guess."
     ],
-    "correct": 2,
-    "explanation": "The question asks every person for one category about favourite fruit.\nHint: Choose a question whose answers can be sorted into named groups.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "The collection instruction must directly address favourite fruit.\nHint: Keep the variable and purpose aligned.",
     "structuredExplanation": {
-      "summary": "The question asks every person for one category about favourite fruit.",
-      "hint": "Choose a question whose answers can be sorted into named groups."
+      "summary": "The collection instruction must directly address favourite fruit.",
+      "hint": "Keep the variable and purpose aligned."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +36,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-002",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "recognise discrete numerical data",
+    "skill": "variable type",
     "printable": true,
     "type": "single",
-    "question": "In the fruit survey, a class records how many books each student read. What kind of data are the whole-number counts?",
-    "audioPrompt": "In the fruit survey, a class records how many books each student read. What kind of data are the whole-number counts?",
-    "visual": "In the fruit survey: A table of whole-number book counts such as 2, 6 and 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the fruit survey: A table of whole-number book counts such as 2, 6 and 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-002\"></use></svg>",
+    "question": "What type of variable is “favourite fruit”?",
+    "audioPrompt": "What type of variable is “favourite fruit”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-002",
-      "alt_text": "In the fruit survey: A table of whole-number book counts such as 2, 6 and 3."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Discrete numerical data",
-      "Categorical labels",
-      "Continuous length data"
+      "not data",
+      "categorical",
+      "continuous numerical",
+      "a measurement that can take any decimal value"
     ],
-    "correct": 0,
-    "explanation": "Book counts are numbers recorded in separate whole-number steps, so they are discrete numerical data.\nHint: Ask whether values are counted whole numbers or named groups.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Favourite fruit is categorical.\nHint: Categories are labels; discrete numerical values are countable whole-number results.",
     "structuredExplanation": {
-      "summary": "Book counts are numbers recorded in separate whole-number steps, so they are discrete numerical data.",
-      "hint": "Ask whether values are counted whole numbers or named groups."
+      "summary": "Favourite fruit is categorical.",
+      "hint": "Categories are labels; discrete numerical values are countable whole-number results."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +68,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-003",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "collect data accurately",
+    "skill": "choose method",
     "printable": true,
     "type": "single",
-    "question": "In the fruit survey, why should each student's answer be counted once?",
-    "audioPrompt": "In the fruit survey, why should each student's answer be counted once?",
-    "visual": "In the fruit survey: A checklist with one tick beside each student's response.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the fruit survey: A checklist with one tick beside each student's response.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-003\"></use></svg>",
+    "question": "Which acquisition method is most appropriate for data about favourite fruit?",
+    "audioPrompt": "Which acquisition method is most appropriate for data about favourite fruit?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-003",
-      "alt_text": "In the fruit survey: A checklist with one tick beside each student's response."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "so every total is the same",
-      "so the totals are accurate",
-      "so the survey has no labels"
+      "copy an unrelated graph",
+      "record only the largest result",
+      "ask each student one choice",
+      "guess from one example"
     ],
-    "correct": 1,
-    "explanation": "Counting each response once keeps the category totals correct.\nHint: Imagine what happens if one answer is marked twice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Ask each student one choice directly addresses the purpose.\nHint: Decide whether the data should be observed, asked for, or accessed from an existing set.",
     "structuredExplanation": {
-      "summary": "Counting each response once keeps the category totals correct.",
-      "hint": "Imagine what happens if one answer is marked twice."
+      "summary": "Ask each student one choice directly addresses the purpose.",
+      "hint": "Decide whether the data should be observed, asked for, or accessed from an existing set."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +100,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-004",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "record categories in table",
+    "skill": "frequency table",
     "printable": true,
     "type": "single",
-    "question": "In the fruit survey, which table correctly records 2 apples, 6 bananas and 3 oranges?",
-    "audioPrompt": "In the fruit survey, which table correctly records 2 apples, 6 bananas and 3 oranges?",
-    "visual": "In the fruit survey: Data display with apples 2, bananas 6 and oranges 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the fruit survey: Data display with apples 2, bananas 6 and oranges 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-004\"></use></svg>",
+    "question": "A frequency table for favourite fruit shows apple: 7, banana: 5, orange: 4. How many observations were recorded altogether?",
+    "audioPrompt": "A frequency table for favourite fruit shows apple: 7, banana: 5, orange: 4. How many observations were recorded altogether?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-004",
-      "alt_text": "In the fruit survey: Data display with apples 2, bananas 6 and oranges 3."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "apples 3, bananas 6, oranges 3",
-      "apples 2, bananas 6, oranges 4",
-      "apples 2, bananas 6, oranges 3"
+      "15",
+      "7",
+      "21",
+      "16"
     ],
-    "correct": 2,
-    "explanation": "Each category is matched to its correct count.\nHint: Read across one row at a time.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 4,
+    "correct": 3,
+    "explanation": "Adding all frequencies gives 7 + 5 + 4 = 16.\nHint: A total frequency includes every category or value.",
     "structuredExplanation": {
-      "summary": "Each category is matched to its correct count.",
-      "hint": "Read across one row at a time."
+      "summary": "Adding all frequencies gives 7 + 5 + 4 = 16.",
+      "hint": "A total frequency includes every category or value."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +132,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-005",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "identify most frequent category",
+    "skill": "check recording",
     "printable": true,
     "type": "single",
-    "question": "In the fruit survey, which category has the most responses?",
-    "audioPrompt": "In the fruit survey, which category has the most responses?",
-    "visual": "In the fruit survey: apples has 2, bananas has 6 and oranges has 3 responses.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the fruit survey: apples has 2, bananas has 6 and oranges has 3 responses.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-005\"></use></svg>",
+    "question": "For favourite fruit, the frequencies are apple: 7, banana: 5, orange: 4. Which check best tests whether the table was recorded accurately?",
+    "audioPrompt": "For favourite fruit, the frequencies are apple: 7, banana: 5, orange: 4. Which check best tests whether the table was recorded accurately?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-005",
-      "alt_text": "In the fruit survey: apples has 2, bananas has 6 and oranges has 3 responses."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "bananas",
-      "apples",
-      "oranges"
+      "compare each frequency with the original tallies or source records",
+      "change the smallest value to match the largest",
+      "delete the headings",
+      "sort the labels alphabetically and assume the numbers are correct"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 5,
     "correct": 0,
-    "explanation": "The bananas category has the largest count.\nHint: Compare the heights or the count numbers.",
+    "explanation": "Checking against the original records can reveal omitted or duplicated entries.\nHint: Accuracy is about matching the source, not making the table look even.",
     "structuredExplanation": {
-      "summary": "The bananas category has the largest count.",
-      "hint": "Compare the heights or the count numbers."
+      "summary": "Checking against the original records can reveal omitted or duplicated entries.",
+      "hint": "Accuracy is about matching the source, not making the table look even."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +164,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-006",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "choose nonoverlapping categories",
+    "skill": "spreadsheet structure",
     "printable": true,
     "type": "single",
-    "question": "In the fruit survey, which categories are clear and do not overlap for a pet survey?",
-    "audioPrompt": "In the fruit survey, which categories are clear and do not overlap for a pet survey?",
-    "visual": "In the fruit survey: Three labelled boxes: cat, dog and fish.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the fruit survey: Three labelled boxes: cat, dog and fish.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-006\"></use></svg>",
+    "question": "A spreadsheet will record favourite fruit. Which layout is clearest?",
+    "audioPrompt": "A spreadsheet will record favourite fruit. Which layout is clearest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-006",
-      "alt_text": "In the fruit survey: Three labelled boxes: cat, dog and fish."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "small, cute, dog",
-      "cat, dog, fish",
-      "pet, animal, cat"
+      "record pictures but no values or headings",
+      "one labelled column for the category or value and one labelled column for frequency",
+      "put every response in one cell with no heading",
+      "use a different meaning for each row without labels"
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 6,
     "correct": 1,
-    "explanation": "Cat, dog and fish are distinct groups, so each pet has one clear place.\nHint: Avoid categories where one answer could fit more than one group.",
+    "explanation": "Labelled columns make the variable values and their frequencies clear.\nHint: Readers should know what every row and column means.",
     "structuredExplanation": {
-      "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
-      "hint": "Avoid categories where one answer could fit more than one group."
+      "summary": "Labelled columns make the variable values and their frequencies clear.",
+      "hint": "Readers should know what every row and column means."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +196,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-007",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "select data collection method",
+    "skill": "question and purpose",
     "printable": true,
     "type": "single",
-    "question": "In the fruit survey, which method could collect data about birds visiting the playground?",
-    "audioPrompt": "In the fruit survey, which method could collect data about birds visiting the playground?",
-    "visual": "In the fruit survey: A bird observation sheet with tally marks.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the fruit survey: A bird observation sheet with tally marks.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-007\"></use></svg>",
+    "question": "A class wants data about number of siblings. Which question or instruction best matches that purpose?",
+    "audioPrompt": "A class wants data about number of siblings. Which question or instruction best matches that purpose?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-007",
-      "alt_text": "In the fruit survey: A bird observation sheet with tally marks."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "guess without looking",
-      "measure one desk",
-      "observe and tally each bird"
+      "Change the question for every participant.",
+      "Collect only answers that support a guess.",
+      "Collect one accurate response for each number of siblings entry.",
+      "Record any fact you remember, even if unrelated."
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 7,
     "correct": 2,
-    "explanation": "Observation and tally marks record each bird that visits.\nHint: Choose a method that directly watches the thing being counted.",
+    "explanation": "The collection instruction must directly address number of siblings.\nHint: Keep the variable and purpose aligned.",
     "structuredExplanation": {
-      "summary": "Observation and tally marks record each bird that visits.",
-      "hint": "Choose a method that directly watches the thing being counted."
+      "summary": "The collection instruction must directly address number of siblings.",
+      "hint": "Keep the variable and purpose aligned."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +228,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-008",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "answer question from table",
+    "skill": "variable type",
     "printable": true,
     "type": "single",
-    "question": "In the fruit survey, apples has 2 responses and bananas has 6. How many responses altogether?",
-    "audioPrompt": "In the fruit survey, apples has 2 responses and bananas has 6. How many responses altogether?",
-    "visual": "In the fruit survey: A data display showing apples with 2 and bananas with 6.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the fruit survey: A data display showing apples with 2 and bananas with 6.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-008\"></use></svg>",
+    "question": "What type of variable is “number of siblings”?",
+    "audioPrompt": "What type of variable is “number of siblings”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-008",
-      "alt_text": "In the fruit survey: A data display showing apples with 2 and bananas with 6."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "8",
-      "4",
-      "9"
+      "categorical",
+      "a measurement that can take any decimal value",
+      "not data",
+      "discrete numerical"
     ],
-    "correct": 0,
-    "explanation": "Add the two category counts: 2 + 6 = 8.\nHint: Altogether means combine both counts.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 8,
+    "correct": 3,
+    "explanation": "Number of siblings is discrete numerical.\nHint: Categories are labels; discrete numerical values are countable whole-number results.",
     "structuredExplanation": {
-      "summary": "Add the two category counts: 2 + 6 = 8.",
-      "hint": "Altogether means combine both counts."
+      "summary": "Number of siblings is discrete numerical.",
+      "hint": "Categories are labels; discrete numerical values are countable whole-number results."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +260,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-009",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "ask categorical survey question",
+    "skill": "choose method",
     "printable": true,
     "type": "single",
-    "question": "In the travel survey, which question would collect data about way to travel to school?",
-    "audioPrompt": "In the travel survey, which question would collect data about way to travel to school?",
-    "visual": "In the travel survey: Three category bars ready to record answers about way to travel to school.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the travel survey: Three category bars ready to record answers about way to travel to school.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-009\"></use></svg>",
+    "question": "Which acquisition method is most appropriate for data about number of siblings?",
+    "audioPrompt": "Which acquisition method is most appropriate for data about number of siblings?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-009",
-      "alt_text": "In the travel survey: Three category bars ready to record answers about way to travel to school."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "How old is the school building?",
-      "What is your way to travel to school?",
-      "Can you draw any picture?"
+      "ask each student for a whole-number count",
+      "guess from one example",
+      "copy an unrelated graph",
+      "record only the largest result"
     ],
-    "correct": 1,
-    "explanation": "The question asks every person for one category about way to travel to school.\nHint: Choose a question whose answers can be sorted into named groups.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "Ask each student for a whole-number count directly addresses the purpose.\nHint: Decide whether the data should be observed, asked for, or accessed from an existing set.",
     "structuredExplanation": {
-      "summary": "The question asks every person for one category about way to travel to school.",
-      "hint": "Choose a question whose answers can be sorted into named groups."
+      "summary": "Ask each student for a whole-number count directly addresses the purpose.",
+      "hint": "Decide whether the data should be observed, asked for, or accessed from an existing set."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +292,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-010",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "recognise discrete numerical data",
+    "skill": "frequency table",
     "printable": true,
     "type": "single",
-    "question": "In the travel survey, a class records how many books each student read. What kind of data are the whole-number counts?",
-    "audioPrompt": "In the travel survey, a class records how many books each student read. What kind of data are the whole-number counts?",
-    "visual": "In the travel survey: A table of whole-number book counts such as 3, 7 and 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the travel survey: A table of whole-number book counts such as 3, 7 and 4.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-010\"></use></svg>",
+    "question": "A frequency table for number of siblings shows 0: 3, 1: 8, 2: 5. How many observations were recorded altogether?",
+    "audioPrompt": "A frequency table for number of siblings shows 0: 3, 1: 8, 2: 5. How many observations were recorded altogether?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-010",
-      "alt_text": "In the travel survey: A table of whole-number book counts such as 3, 7 and 4."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Categorical labels",
-      "Continuous length data",
-      "Discrete numerical data"
+      "21",
+      "16",
+      "15",
+      "8"
     ],
-    "correct": 2,
-    "explanation": "Book counts are numbers recorded in separate whole-number steps, so they are discrete numerical data.\nHint: Ask whether values are counted whole numbers or named groups.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 10,
+    "correct": 1,
+    "explanation": "Adding all frequencies gives 3 + 8 + 5 = 16.\nHint: A total frequency includes every category or value.",
     "structuredExplanation": {
-      "summary": "Book counts are numbers recorded in separate whole-number steps, so they are discrete numerical data.",
-      "hint": "Ask whether values are counted whole numbers or named groups."
+      "summary": "Adding all frequencies gives 3 + 8 + 5 = 16.",
+      "hint": "A total frequency includes every category or value."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +324,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-011",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "collect data accurately",
+    "skill": "check recording",
     "printable": true,
     "type": "single",
-    "question": "In the travel survey, why should each student's answer be counted once?",
-    "audioPrompt": "In the travel survey, why should each student's answer be counted once?",
-    "visual": "In the travel survey: A checklist with one tick beside each student's response.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the travel survey: A checklist with one tick beside each student's response.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-011\"></use></svg>",
+    "question": "For number of siblings, the frequencies are 0: 3, 1: 8, 2: 5. Which check best tests whether the table was recorded accurately?",
+    "audioPrompt": "For number of siblings, the frequencies are 0: 3, 1: 8, 2: 5. Which check best tests whether the table was recorded accurately?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-011",
-      "alt_text": "In the travel survey: A checklist with one tick beside each student's response."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "so the totals are accurate",
-      "so every total is the same",
-      "so the survey has no labels"
+      "delete the headings",
+      "sort the labels alphabetically and assume the numbers are correct",
+      "compare each frequency with the original tallies or source records",
+      "change the smallest value to match the largest"
     ],
-    "correct": 0,
-    "explanation": "Counting each response once keeps the category totals correct.\nHint: Imagine what happens if one answer is marked twice.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "Checking against the original records can reveal omitted or duplicated entries.\nHint: Accuracy is about matching the source, not making the table look even.",
     "structuredExplanation": {
-      "summary": "Counting each response once keeps the category totals correct.",
-      "hint": "Imagine what happens if one answer is marked twice."
+      "summary": "Checking against the original records can reveal omitted or duplicated entries.",
+      "hint": "Accuracy is about matching the source, not making the table look even."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +356,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-012",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "record categories in table",
+    "skill": "spreadsheet structure",
     "printable": true,
     "type": "single",
-    "question": "In the travel survey, which table correctly records 3 walk, 7 car and 4 bus?",
-    "audioPrompt": "In the travel survey, which table correctly records 3 walk, 7 car and 4 bus?",
-    "visual": "In the travel survey: Data display with walk 3, car 7 and bus 4.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the travel survey: Data display with walk 3, car 7 and bus 4.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-012\"></use></svg>",
+    "question": "A spreadsheet will record number of siblings. Which layout is clearest?",
+    "audioPrompt": "A spreadsheet will record number of siblings. Which layout is clearest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-012",
-      "alt_text": "In the travel survey: Data display with walk 3, car 7 and bus 4."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "walk 4, car 7, bus 4",
-      "walk 3, car 7, bus 4",
-      "walk 3, car 7, bus 5"
+      "put every response in one cell with no heading",
+      "use a different meaning for each row without labels",
+      "record pictures but no values or headings",
+      "one labelled column for the category or value and one labelled column for frequency"
     ],
-    "correct": 1,
-    "explanation": "Each category is matched to its correct count.\nHint: Read across one row at a time.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 12,
+    "correct": 3,
+    "explanation": "Labelled columns make the variable values and their frequencies clear.\nHint: Readers should know what every row and column means.",
     "structuredExplanation": {
-      "summary": "Each category is matched to its correct count.",
-      "hint": "Read across one row at a time."
+      "summary": "Labelled columns make the variable values and their frequencies clear.",
+      "hint": "Readers should know what every row and column means."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +388,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-013",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "identify most frequent category",
+    "skill": "question and purpose",
     "printable": true,
     "type": "single",
-    "question": "In the travel survey, which category has the most responses?",
-    "audioPrompt": "In the travel survey, which category has the most responses?",
-    "visual": "In the travel survey: walk has 3, car has 7 and bus has 4 responses.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the travel survey: walk has 3, car has 7 and bus has 4 responses.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-013\"></use></svg>",
+    "question": "A class wants data about birds visiting the oval. Which question or instruction best matches that purpose?",
+    "audioPrompt": "A class wants data about birds visiting the oval. Which question or instruction best matches that purpose?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-013",
-      "alt_text": "In the travel survey: walk has 3, car has 7 and bus has 4 responses."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "walk",
-      "bus",
-      "car"
+      "Record the type of every bird seen on the oval during lunch.",
+      "Record any fact you remember, even if unrelated.",
+      "Change the question for every participant.",
+      "Collect only answers that support a guess."
     ],
-    "correct": 2,
-    "explanation": "The car category has the largest count.\nHint: Compare the heights or the count numbers.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "The collection instruction must directly address birds visiting the oval.\nHint: Keep the variable and purpose aligned.",
     "structuredExplanation": {
-      "summary": "The car category has the largest count.",
-      "hint": "Compare the heights or the count numbers."
+      "summary": "The collection instruction must directly address birds visiting the oval.",
+      "hint": "Keep the variable and purpose aligned."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +420,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-014",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "choose nonoverlapping categories",
+    "skill": "variable type",
     "printable": true,
     "type": "single",
-    "question": "In the travel survey, which categories are clear and do not overlap for a pet survey?",
-    "audioPrompt": "In the travel survey, which categories are clear and do not overlap for a pet survey?",
-    "visual": "In the travel survey: Three labelled boxes: cat, dog and fish.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the travel survey: Three labelled boxes: cat, dog and fish.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-014\"></use></svg>",
+    "question": "What type of variable is “birds visiting the oval”?",
+    "audioPrompt": "What type of variable is “birds visiting the oval”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-014",
-      "alt_text": "In the travel survey: Three labelled boxes: cat, dog and fish."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "cat, dog, fish",
-      "small, cute, dog",
-      "pet, animal, cat"
+      "not data",
+      "categorical",
+      "continuous numerical",
+      "a measurement that can take any decimal value"
     ],
-    "correct": 0,
-    "explanation": "Cat, dog and fish are distinct groups, so each pet has one clear place.\nHint: Avoid categories where one answer could fit more than one group.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Birds visiting the oval is categorical.\nHint: Categories are labels; discrete numerical values are countable whole-number results.",
     "structuredExplanation": {
-      "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
-      "hint": "Avoid categories where one answer could fit more than one group."
+      "summary": "Birds visiting the oval is categorical.",
+      "hint": "Categories are labels; discrete numerical values are countable whole-number results."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +452,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-015",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "select data collection method",
+    "skill": "choose method",
     "printable": true,
     "type": "single",
-    "question": "In the travel survey, which method could collect data about birds visiting the playground?",
-    "audioPrompt": "In the travel survey, which method could collect data about birds visiting the playground?",
-    "visual": "In the travel survey: A bird observation sheet with tally marks.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the travel survey: A bird observation sheet with tally marks.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-015\"></use></svg>",
+    "question": "Which acquisition method is most appropriate for data about birds visiting the oval?",
+    "audioPrompt": "Which acquisition method is most appropriate for data about birds visiting the oval?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-015",
-      "alt_text": "In the travel survey: A bird observation sheet with tally marks."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "guess without looking",
-      "observe and tally each bird",
-      "measure one desk"
+      "copy an unrelated graph",
+      "record only the largest result",
+      "observe and classify each bird seen",
+      "guess from one example"
     ],
-    "correct": 1,
-    "explanation": "Observation and tally marks record each bird that visits.\nHint: Choose a method that directly watches the thing being counted.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Observe and classify each bird seen directly addresses the purpose.\nHint: Decide whether the data should be observed, asked for, or accessed from an existing set.",
     "structuredExplanation": {
-      "summary": "Observation and tally marks record each bird that visits.",
-      "hint": "Choose a method that directly watches the thing being counted."
+      "summary": "Observe and classify each bird seen directly addresses the purpose.",
+      "hint": "Decide whether the data should be observed, asked for, or accessed from an existing set."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +484,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-016",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "answer question from table",
+    "skill": "frequency table",
     "printable": true,
     "type": "single",
-    "question": "In the travel survey, walk has 3 responses and car has 7. How many responses altogether?",
-    "audioPrompt": "In the travel survey, walk has 3 responses and car has 7. How many responses altogether?",
-    "visual": "In the travel survey: A data display showing walk with 3 and car with 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the travel survey: A data display showing walk with 3 and car with 7.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-016\"></use></svg>",
+    "question": "A frequency table for birds visiting the oval shows magpie: 6, galah: 4, crow: 2. How many observations were recorded altogether?",
+    "audioPrompt": "A frequency table for birds visiting the oval shows magpie: 6, galah: 4, crow: 2. How many observations were recorded altogether?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-016",
-      "alt_text": "In the travel survey: A data display showing walk with 3 and car with 7."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
       "11",
-      "10"
+      "6",
+      "17",
+      "12"
     ],
-    "correct": 2,
-    "explanation": "Add the two category counts: 3 + 7 = 10.\nHint: Altogether means combine both counts.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 16,
+    "correct": 3,
+    "explanation": "Adding all frequencies gives 6 + 4 + 2 = 12.\nHint: A total frequency includes every category or value.",
     "structuredExplanation": {
-      "summary": "Add the two category counts: 3 + 7 = 10.",
-      "hint": "Altogether means combine both counts."
+      "summary": "Adding all frequencies gives 6 + 4 + 2 = 12.",
+      "hint": "A total frequency includes every category or value."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +516,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-017",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "ask categorical survey question",
+    "skill": "check recording",
     "printable": true,
     "type": "single",
-    "question": "In the playground survey, which question would collect data about favourite playground game?",
-    "audioPrompt": "In the playground survey, which question would collect data about favourite playground game?",
-    "visual": "In the playground survey: Three category bars ready to record answers about favourite playground game.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground survey: Three category bars ready to record answers about favourite playground game.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-017\"></use></svg>",
+    "question": "For birds visiting the oval, the frequencies are magpie: 6, galah: 4, crow: 2. Which check best tests whether the table was recorded accurately?",
+    "audioPrompt": "For birds visiting the oval, the frequencies are magpie: 6, galah: 4, crow: 2. Which check best tests whether the table was recorded accurately?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-017",
-      "alt_text": "In the playground survey: Three category bars ready to record answers about favourite playground game."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "What is your favourite playground game?",
-      "How old is the school building?",
-      "Can you draw any picture?"
+      "compare each frequency with the original tallies or source records",
+      "change the smallest value to match the largest",
+      "delete the headings",
+      "sort the labels alphabetically and assume the numbers are correct"
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 17,
     "correct": 0,
-    "explanation": "The question asks every person for one category about favourite playground game.\nHint: Choose a question whose answers can be sorted into named groups.",
+    "explanation": "Checking against the original records can reveal omitted or duplicated entries.\nHint: Accuracy is about matching the source, not making the table look even.",
     "structuredExplanation": {
-      "summary": "The question asks every person for one category about favourite playground game.",
-      "hint": "Choose a question whose answers can be sorted into named groups."
+      "summary": "Checking against the original records can reveal omitted or duplicated entries.",
+      "hint": "Accuracy is about matching the source, not making the table look even."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +548,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-018",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "recognise discrete numerical data",
+    "skill": "spreadsheet structure",
     "printable": true,
     "type": "single",
-    "question": "In the playground survey, a class records how many books each student read. What kind of data are the whole-number counts?",
-    "audioPrompt": "In the playground survey, a class records how many books each student read. What kind of data are the whole-number counts?",
-    "visual": "In the playground survey: A table of whole-number book counts such as 4, 8 and 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground survey: A table of whole-number book counts such as 4, 8 and 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-018\"></use></svg>",
+    "question": "A spreadsheet will record birds visiting the oval. Which layout is clearest?",
+    "audioPrompt": "A spreadsheet will record birds visiting the oval. Which layout is clearest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-018",
-      "alt_text": "In the playground survey: A table of whole-number book counts such as 4, 8 and 3."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "Categorical labels",
-      "Discrete numerical data",
-      "Continuous length data"
+      "record pictures but no values or headings",
+      "one labelled column for the category or value and one labelled column for frequency",
+      "put every response in one cell with no heading",
+      "use a different meaning for each row without labels"
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 18,
     "correct": 1,
-    "explanation": "Book counts are numbers recorded in separate whole-number steps, so they are discrete numerical data.\nHint: Ask whether values are counted whole numbers or named groups.",
+    "explanation": "Labelled columns make the variable values and their frequencies clear.\nHint: Readers should know what every row and column means.",
     "structuredExplanation": {
-      "summary": "Book counts are numbers recorded in separate whole-number steps, so they are discrete numerical data.",
-      "hint": "Ask whether values are counted whole numbers or named groups."
+      "summary": "Labelled columns make the variable values and their frequencies clear.",
+      "hint": "Readers should know what every row and column means."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +580,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-019",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "collect data accurately",
+    "skill": "question and purpose",
     "printable": true,
     "type": "single",
-    "question": "In the playground survey, why should each student's answer be counted once?",
-    "audioPrompt": "In the playground survey, why should each student's answer be counted once?",
-    "visual": "In the playground survey: A checklist with one tick beside each student's response.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground survey: A checklist with one tick beside each student's response.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-019\"></use></svg>",
+    "question": "A class wants data about books borrowed each day. Which question or instruction best matches that purpose?",
+    "audioPrompt": "A class wants data about books borrowed each day. Which question or instruction best matches that purpose?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-019",
-      "alt_text": "In the playground survey: A checklist with one tick beside each student's response."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "so every total is the same",
-      "so the survey has no labels",
-      "so the totals are accurate"
+      "Change the question for every participant.",
+      "Collect only answers that support a guess.",
+      "Collect one accurate response for each books borrowed each day entry.",
+      "Record any fact you remember, even if unrelated."
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 19,
     "correct": 2,
-    "explanation": "Counting each response once keeps the category totals correct.\nHint: Imagine what happens if one answer is marked twice.",
+    "explanation": "The collection instruction must directly address books borrowed each day.\nHint: Keep the variable and purpose aligned.",
     "structuredExplanation": {
-      "summary": "Counting each response once keeps the category totals correct.",
-      "hint": "Imagine what happens if one answer is marked twice."
+      "summary": "The collection instruction must directly address books borrowed each day.",
+      "hint": "Keep the variable and purpose aligned."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +612,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-020",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "record categories in table",
+    "skill": "variable type",
     "printable": true,
     "type": "single",
-    "question": "In the playground survey, which table correctly records 4 chase, 8 swings and 3 ball?",
-    "audioPrompt": "In the playground survey, which table correctly records 4 chase, 8 swings and 3 ball?",
-    "visual": "In the playground survey: Data display with chase 4, swings 8 and ball 3.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground survey: Data display with chase 4, swings 8 and ball 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-020\"></use></svg>",
+    "question": "What type of variable is “books borrowed each day”?",
+    "audioPrompt": "What type of variable is “books borrowed each day”?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-020",
-      "alt_text": "In the playground survey: Data display with chase 4, swings 8 and ball 3."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "chase 4, swings 8, ball 3",
-      "chase 5, swings 8, ball 3",
-      "chase 4, swings 8, ball 4"
+      "categorical",
+      "a measurement that can take any decimal value",
+      "not data",
+      "discrete numerical"
     ],
-    "correct": 0,
-    "explanation": "Each category is matched to its correct count.\nHint: Read across one row at a time.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 20,
+    "correct": 3,
+    "explanation": "Books borrowed each day is discrete numerical.\nHint: Categories are labels; discrete numerical values are countable whole-number results.",
     "structuredExplanation": {
-      "summary": "Each category is matched to its correct count.",
-      "hint": "Read across one row at a time."
+      "summary": "Books borrowed each day is discrete numerical.",
+      "hint": "Categories are labels; discrete numerical values are countable whole-number results."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +644,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-021",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "identify most frequent category",
+    "skill": "choose method",
     "printable": true,
     "type": "single",
-    "question": "In the playground survey, which category has the most responses?",
-    "audioPrompt": "In the playground survey, which category has the most responses?",
-    "visual": "In the playground survey: chase has 4, swings has 8 and ball has 3 responses.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground survey: chase has 4, swings has 8 and ball has 3 responses.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-021\"></use></svg>",
+    "question": "Which acquisition method is most appropriate for data about books borrowed each day?",
+    "audioPrompt": "Which acquisition method is most appropriate for data about books borrowed each day?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-021",
-      "alt_text": "In the playground survey: chase has 4, swings has 8 and ball has 3 responses."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "chase",
-      "swings",
-      "ball"
+      "access the library loan dataset",
+      "guess from one example",
+      "copy an unrelated graph",
+      "record only the largest result"
     ],
-    "correct": 1,
-    "explanation": "The swings category has the largest count.\nHint: Compare the heights or the count numbers.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 21,
+    "correct": 0,
+    "explanation": "Access the library loan dataset directly addresses the purpose.\nHint: Decide whether the data should be observed, asked for, or accessed from an existing set.",
     "structuredExplanation": {
-      "summary": "The swings category has the largest count.",
-      "hint": "Compare the heights or the count numbers."
+      "summary": "Access the library loan dataset directly addresses the purpose.",
+      "hint": "Decide whether the data should be observed, asked for, or accessed from an existing set."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +676,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-022",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "choose nonoverlapping categories",
+    "skill": "frequency table",
     "printable": true,
     "type": "single",
-    "question": "In the playground survey, which categories are clear and do not overlap for a pet survey?",
-    "audioPrompt": "In the playground survey, which categories are clear and do not overlap for a pet survey?",
-    "visual": "In the playground survey: Three labelled boxes: cat, dog and fish.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground survey: Three labelled boxes: cat, dog and fish.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-022\"></use></svg>",
+    "question": "A frequency table for books borrowed each day shows Monday: 12, Tuesday: 15, Wednesday: 9. How many observations were recorded altogether?",
+    "audioPrompt": "A frequency table for books borrowed each day shows Monday: 12, Tuesday: 15, Wednesday: 9. How many observations were recorded altogether?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-022",
-      "alt_text": "In the playground survey: Three labelled boxes: cat, dog and fish."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "small, cute, dog",
-      "pet, animal, cat",
-      "cat, dog, fish"
+      "41",
+      "36",
+      "35",
+      "15"
     ],
-    "correct": 2,
-    "explanation": "Cat, dog and fish are distinct groups, so each pet has one clear place.\nHint: Avoid categories where one answer could fit more than one group.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 22,
+    "correct": 1,
+    "explanation": "Adding all frequencies gives 12 + 15 + 9 = 36.\nHint: A total frequency includes every category or value.",
     "structuredExplanation": {
-      "summary": "Cat, dog and fish are distinct groups, so each pet has one clear place.",
-      "hint": "Avoid categories where one answer could fit more than one group."
+      "summary": "Adding all frequencies gives 12 + 15 + 9 = 36.",
+      "hint": "A total frequency includes every category or value."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +708,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-023",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "select data collection method",
+    "skill": "check recording",
     "printable": true,
     "type": "single",
-    "question": "In the playground survey, which method could collect data about birds visiting the playground?",
-    "audioPrompt": "In the playground survey, which method could collect data about birds visiting the playground?",
-    "visual": "In the playground survey: A bird observation sheet with tally marks.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground survey: A bird observation sheet with tally marks.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-023\"></use></svg>",
+    "question": "For books borrowed each day, the frequencies are Monday: 12, Tuesday: 15, Wednesday: 9. Which check best tests whether the table was recorded accurately?",
+    "audioPrompt": "For books borrowed each day, the frequencies are Monday: 12, Tuesday: 15, Wednesday: 9. Which check best tests whether the table was recorded accurately?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-023",
-      "alt_text": "In the playground survey: A bird observation sheet with tally marks."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "observe and tally each bird",
-      "guess without looking",
-      "measure one desk"
+      "delete the headings",
+      "sort the labels alphabetically and assume the numbers are correct",
+      "compare each frequency with the original tallies or source records",
+      "change the smallest value to match the largest"
     ],
-    "correct": 0,
-    "explanation": "Observation and tally marks record each bird that visits.\nHint: Choose a method that directly watches the thing being counted.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 23,
+    "correct": 2,
+    "explanation": "Checking against the original records can reveal omitted or duplicated entries.\nHint: Accuracy is about matching the source, not making the table look even.",
     "structuredExplanation": {
-      "summary": "Observation and tally marks record each bird that visits.",
-      "hint": "Choose a method that directly watches the thing being counted."
+      "summary": "Checking against the original records can reveal omitted or duplicated entries.",
+      "hint": "Accuracy is about matching the source, not making the table look even."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +740,799 @@ window.skillrPracticeQuestions = [
     "id": "ac9m3st01-p-024",
     "curriculumCode": "AC9M3ST01",
     "bank": "practice",
-    "skill": "answer question from table",
+    "skill": "spreadsheet structure",
     "printable": true,
     "type": "single",
-    "question": "In the playground survey, chase has 4 responses and swings has 8. How many responses altogether?",
-    "audioPrompt": "In the playground survey, chase has 4 responses and swings has 8. How many responses altogether?",
-    "visual": "In the playground survey: A data display showing chase with 4 and swings with 8.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the playground survey: A data display showing chase with 4 and swings with 8.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-024\"></use></svg>",
+    "question": "A spreadsheet will record books borrowed each day. Which layout is clearest?",
+    "audioPrompt": "A spreadsheet will record books borrowed each day. Which layout is clearest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3st01.svg#ac9m3st01-p-024",
-      "alt_text": "In the playground survey: A data display showing chase with 4 and swings with 8."
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      "4",
-      "12",
-      "13"
+      "put every response in one cell with no heading",
+      "use a different meaning for each row without labels",
+      "record pictures but no values or headings",
+      "one labelled column for the category or value and one labelled column for frequency"
     ],
-    "correct": 1,
-    "explanation": "Add the two category counts: 4 + 8 = 12.\nHint: Altogether means combine both counts.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 24,
+    "correct": 3,
+    "explanation": "Labelled columns make the variable values and their frequencies clear.\nHint: Readers should know what every row and column means.",
     "structuredExplanation": {
-      "summary": "Add the two category counts: 4 + 8 = 12.",
-      "hint": "Altogether means combine both counts."
+      "summary": "Labelled columns make the variable values and their frequencies clear.",
+      "hint": "Readers should know what every row and column means."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-025",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "question and purpose",
+    "printable": true,
+    "type": "single",
+    "question": "A class wants data about ways students travel to school. Which question or instruction best matches that purpose?",
+    "audioPrompt": "A class wants data about ways students travel to school. Which question or instruction best matches that purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Collect one accurate response for each ways students travel to school entry.",
+      "Record any fact you remember, even if unrelated.",
+      "Change the question for every participant.",
+      "Collect only answers that support a guess."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 25,
+    "correct": 0,
+    "explanation": "The collection instruction must directly address ways students travel to school.\nHint: Keep the variable and purpose aligned.",
+    "structuredExplanation": {
+      "summary": "The collection instruction must directly address ways students travel to school.",
+      "hint": "Keep the variable and purpose aligned."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-026",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "variable type",
+    "printable": true,
+    "type": "single",
+    "question": "What type of variable is “ways students travel to school”?",
+    "audioPrompt": "What type of variable is “ways students travel to school”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "not data",
+      "categorical",
+      "continuous numerical",
+      "a measurement that can take any decimal value"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 26,
+    "correct": 1,
+    "explanation": "Ways students travel to school is categorical.\nHint: Categories are labels; discrete numerical values are countable whole-number results.",
+    "structuredExplanation": {
+      "summary": "Ways students travel to school is categorical.",
+      "hint": "Categories are labels; discrete numerical values are countable whole-number results."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-027",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "choose method",
+    "printable": true,
+    "type": "single",
+    "question": "Which acquisition method is most appropriate for data about ways students travel to school?",
+    "audioPrompt": "Which acquisition method is most appropriate for data about ways students travel to school?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "copy an unrelated graph",
+      "record only the largest result",
+      "survey each student once",
+      "guess from one example"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 27,
+    "correct": 2,
+    "explanation": "Survey each student once directly addresses the purpose.\nHint: Decide whether the data should be observed, asked for, or accessed from an existing set.",
+    "structuredExplanation": {
+      "summary": "Survey each student once directly addresses the purpose.",
+      "hint": "Decide whether the data should be observed, asked for, or accessed from an existing set."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-028",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "frequency table",
+    "printable": true,
+    "type": "single",
+    "question": "A frequency table for ways students travel to school shows walk: 8, bus: 6, car: 10. How many observations were recorded altogether?",
+    "audioPrompt": "A frequency table for ways students travel to school shows walk: 8, bus: 6, car: 10. How many observations were recorded altogether?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "23",
+      "10",
+      "29",
+      "24"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 28,
+    "correct": 3,
+    "explanation": "Adding all frequencies gives 8 + 6 + 10 = 24.\nHint: A total frequency includes every category or value.",
+    "structuredExplanation": {
+      "summary": "Adding all frequencies gives 8 + 6 + 10 = 24.",
+      "hint": "A total frequency includes every category or value."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-029",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "check recording",
+    "printable": true,
+    "type": "single",
+    "question": "For ways students travel to school, the frequencies are walk: 8, bus: 6, car: 10. Which check best tests whether the table was recorded accurately?",
+    "audioPrompt": "For ways students travel to school, the frequencies are walk: 8, bus: 6, car: 10. Which check best tests whether the table was recorded accurately?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "compare each frequency with the original tallies or source records",
+      "change the smallest value to match the largest",
+      "delete the headings",
+      "sort the labels alphabetically and assume the numbers are correct"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 29,
+    "correct": 0,
+    "explanation": "Checking against the original records can reveal omitted or duplicated entries.\nHint: Accuracy is about matching the source, not making the table look even.",
+    "structuredExplanation": {
+      "summary": "Checking against the original records can reveal omitted or duplicated entries.",
+      "hint": "Accuracy is about matching the source, not making the table look even."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-030",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "spreadsheet structure",
+    "printable": true,
+    "type": "single",
+    "question": "A spreadsheet will record ways students travel to school. Which layout is clearest?",
+    "audioPrompt": "A spreadsheet will record ways students travel to school. Which layout is clearest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "record pictures but no values or headings",
+      "one labelled column for the category or value and one labelled column for frequency",
+      "put every response in one cell with no heading",
+      "use a different meaning for each row without labels"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 30,
+    "correct": 1,
+    "explanation": "Labelled columns make the variable values and their frequencies clear.\nHint: Readers should know what every row and column means.",
+    "structuredExplanation": {
+      "summary": "Labelled columns make the variable values and their frequencies clear.",
+      "hint": "Readers should know what every row and column means."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-031",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "question and purpose",
+    "printable": true,
+    "type": "single",
+    "question": "A class wants data about goals scored in each game. Which question or instruction best matches that purpose?",
+    "audioPrompt": "A class wants data about goals scored in each game. Which question or instruction best matches that purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Change the question for every participant.",
+      "Collect only answers that support a guess.",
+      "Collect one accurate response for each goals scored in each game entry.",
+      "Record any fact you remember, even if unrelated."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 31,
+    "correct": 2,
+    "explanation": "The collection instruction must directly address goals scored in each game.\nHint: Keep the variable and purpose aligned.",
+    "structuredExplanation": {
+      "summary": "The collection instruction must directly address goals scored in each game.",
+      "hint": "Keep the variable and purpose aligned."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-032",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "variable type",
+    "printable": true,
+    "type": "single",
+    "question": "What type of variable is “goals scored in each game”?",
+    "audioPrompt": "What type of variable is “goals scored in each game”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "categorical",
+      "a measurement that can take any decimal value",
+      "not data",
+      "discrete numerical"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 32,
+    "correct": 3,
+    "explanation": "Goals scored in each game is discrete numerical.\nHint: Categories are labels; discrete numerical values are countable whole-number results.",
+    "structuredExplanation": {
+      "summary": "Goals scored in each game is discrete numerical.",
+      "hint": "Categories are labels; discrete numerical values are countable whole-number results."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-033",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "choose method",
+    "printable": true,
+    "type": "single",
+    "question": "Which acquisition method is most appropriate for data about goals scored in each game?",
+    "audioPrompt": "Which acquisition method is most appropriate for data about goals scored in each game?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "access the team results dataset",
+      "guess from one example",
+      "copy an unrelated graph",
+      "record only the largest result"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 33,
+    "correct": 0,
+    "explanation": "Access the team results dataset directly addresses the purpose.\nHint: Decide whether the data should be observed, asked for, or accessed from an existing set.",
+    "structuredExplanation": {
+      "summary": "Access the team results dataset directly addresses the purpose.",
+      "hint": "Decide whether the data should be observed, asked for, or accessed from an existing set."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-034",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "frequency table",
+    "printable": true,
+    "type": "single",
+    "question": "A frequency table for goals scored in each game shows game 1: 3, game 2: 1, game 3: 4. How many observations were recorded altogether?",
+    "audioPrompt": "A frequency table for goals scored in each game shows game 1: 3, game 2: 1, game 3: 4. How many observations were recorded altogether?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "13",
+      "8",
+      "7",
+      "4"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 34,
+    "correct": 1,
+    "explanation": "Adding all frequencies gives 3 + 1 + 4 = 8.\nHint: A total frequency includes every category or value.",
+    "structuredExplanation": {
+      "summary": "Adding all frequencies gives 3 + 1 + 4 = 8.",
+      "hint": "A total frequency includes every category or value."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-035",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "check recording",
+    "printable": true,
+    "type": "single",
+    "question": "For goals scored in each game, the frequencies are game 1: 3, game 2: 1, game 3: 4. Which check best tests whether the table was recorded accurately?",
+    "audioPrompt": "For goals scored in each game, the frequencies are game 1: 3, game 2: 1, game 3: 4. Which check best tests whether the table was recorded accurately?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "delete the headings",
+      "sort the labels alphabetically and assume the numbers are correct",
+      "compare each frequency with the original tallies or source records",
+      "change the smallest value to match the largest"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 35,
+    "correct": 2,
+    "explanation": "Checking against the original records can reveal omitted or duplicated entries.\nHint: Accuracy is about matching the source, not making the table look even.",
+    "structuredExplanation": {
+      "summary": "Checking against the original records can reveal omitted or duplicated entries.",
+      "hint": "Accuracy is about matching the source, not making the table look even."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-036",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "spreadsheet structure",
+    "printable": true,
+    "type": "single",
+    "question": "A spreadsheet will record goals scored in each game. Which layout is clearest?",
+    "audioPrompt": "A spreadsheet will record goals scored in each game. Which layout is clearest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "put every response in one cell with no heading",
+      "use a different meaning for each row without labels",
+      "record pictures but no values or headings",
+      "one labelled column for the category or value and one labelled column for frequency"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 36,
+    "correct": 3,
+    "explanation": "Labelled columns make the variable values and their frequencies clear.\nHint: Readers should know what every row and column means.",
+    "structuredExplanation": {
+      "summary": "Labelled columns make the variable values and their frequencies clear.",
+      "hint": "Readers should know what every row and column means."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-037",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "question and purpose",
+    "printable": true,
+    "type": "single",
+    "question": "A class wants data about weather type at noon. Which question or instruction best matches that purpose?",
+    "audioPrompt": "A class wants data about weather type at noon. Which question or instruction best matches that purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Record whether noon is sunny, cloudy or rainy each day.",
+      "Record any fact you remember, even if unrelated.",
+      "Change the question for every participant.",
+      "Collect only answers that support a guess."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 37,
+    "correct": 0,
+    "explanation": "The collection instruction must directly address weather type at noon.\nHint: Keep the variable and purpose aligned.",
+    "structuredExplanation": {
+      "summary": "The collection instruction must directly address weather type at noon.",
+      "hint": "Keep the variable and purpose aligned."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-038",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "variable type",
+    "printable": true,
+    "type": "single",
+    "question": "What type of variable is “weather type at noon”?",
+    "audioPrompt": "What type of variable is “weather type at noon”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "not data",
+      "categorical",
+      "continuous numerical",
+      "a measurement that can take any decimal value"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 38,
+    "correct": 1,
+    "explanation": "Weather type at noon is categorical.\nHint: Categories are labels; discrete numerical values are countable whole-number results.",
+    "structuredExplanation": {
+      "summary": "Weather type at noon is categorical.",
+      "hint": "Categories are labels; discrete numerical values are countable whole-number results."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-039",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "choose method",
+    "printable": true,
+    "type": "single",
+    "question": "Which acquisition method is most appropriate for data about weather type at noon?",
+    "audioPrompt": "Which acquisition method is most appropriate for data about weather type at noon?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "copy an unrelated graph",
+      "record only the largest result",
+      "observe at the same time each day",
+      "guess from one example"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 39,
+    "correct": 2,
+    "explanation": "Observe at the same time each day directly addresses the purpose.\nHint: Decide whether the data should be observed, asked for, or accessed from an existing set.",
+    "structuredExplanation": {
+      "summary": "Observe at the same time each day directly addresses the purpose.",
+      "hint": "Decide whether the data should be observed, asked for, or accessed from an existing set."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-040",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "frequency table",
+    "printable": true,
+    "type": "single",
+    "question": "A frequency table for weather type at noon shows sunny: 5, cloudy: 2, rainy: 1. How many observations were recorded altogether?",
+    "audioPrompt": "A frequency table for weather type at noon shows sunny: 5, cloudy: 2, rainy: 1. How many observations were recorded altogether?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "7",
+      "5",
+      "13",
+      "8"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 40,
+    "correct": 3,
+    "explanation": "Adding all frequencies gives 5 + 2 + 1 = 8.\nHint: A total frequency includes every category or value.",
+    "structuredExplanation": {
+      "summary": "Adding all frequencies gives 5 + 2 + 1 = 8.",
+      "hint": "A total frequency includes every category or value."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-041",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "check recording",
+    "printable": true,
+    "type": "single",
+    "question": "For weather type at noon, the frequencies are sunny: 5, cloudy: 2, rainy: 1. Which check best tests whether the table was recorded accurately?",
+    "audioPrompt": "For weather type at noon, the frequencies are sunny: 5, cloudy: 2, rainy: 1. Which check best tests whether the table was recorded accurately?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "compare each frequency with the original tallies or source records",
+      "change the smallest value to match the largest",
+      "delete the headings",
+      "sort the labels alphabetically and assume the numbers are correct"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 41,
+    "correct": 0,
+    "explanation": "Checking against the original records can reveal omitted or duplicated entries.\nHint: Accuracy is about matching the source, not making the table look even.",
+    "structuredExplanation": {
+      "summary": "Checking against the original records can reveal omitted or duplicated entries.",
+      "hint": "Accuracy is about matching the source, not making the table look even."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-042",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "spreadsheet structure",
+    "printable": true,
+    "type": "single",
+    "question": "A spreadsheet will record weather type at noon. Which layout is clearest?",
+    "audioPrompt": "A spreadsheet will record weather type at noon. Which layout is clearest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "record pictures but no values or headings",
+      "one labelled column for the category or value and one labelled column for frequency",
+      "put every response in one cell with no heading",
+      "use a different meaning for each row without labels"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 42,
+    "correct": 1,
+    "explanation": "Labelled columns make the variable values and their frequencies clear.\nHint: Readers should know what every row and column means.",
+    "structuredExplanation": {
+      "summary": "Labelled columns make the variable values and their frequencies clear.",
+      "hint": "Readers should know what every row and column means."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-043",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "question and purpose",
+    "printable": true,
+    "type": "single",
+    "question": "A class wants data about pets in each household. Which question or instruction best matches that purpose?",
+    "audioPrompt": "A class wants data about pets in each household. Which question or instruction best matches that purpose?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Change the question for every participant.",
+      "Collect only answers that support a guess.",
+      "Collect one accurate response for each pets in each household entry.",
+      "Record any fact you remember, even if unrelated."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 43,
+    "correct": 2,
+    "explanation": "The collection instruction must directly address pets in each household.\nHint: Keep the variable and purpose aligned.",
+    "structuredExplanation": {
+      "summary": "The collection instruction must directly address pets in each household.",
+      "hint": "Keep the variable and purpose aligned."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-044",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "variable type",
+    "printable": true,
+    "type": "single",
+    "question": "What type of variable is “pets in each household”?",
+    "audioPrompt": "What type of variable is “pets in each household”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "categorical",
+      "a measurement that can take any decimal value",
+      "not data",
+      "discrete numerical"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 44,
+    "correct": 3,
+    "explanation": "Pets in each household is discrete numerical.\nHint: Categories are labels; discrete numerical values are countable whole-number results.",
+    "structuredExplanation": {
+      "summary": "Pets in each household is discrete numerical.",
+      "hint": "Categories are labels; discrete numerical values are countable whole-number results."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-045",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "choose method",
+    "printable": true,
+    "type": "single",
+    "question": "Which acquisition method is most appropriate for data about pets in each household?",
+    "audioPrompt": "Which acquisition method is most appropriate for data about pets in each household?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "ask each household for a whole-number count",
+      "guess from one example",
+      "copy an unrelated graph",
+      "record only the largest result"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 45,
+    "correct": 0,
+    "explanation": "Ask each household for a whole-number count directly addresses the purpose.\nHint: Decide whether the data should be observed, asked for, or accessed from an existing set.",
+    "structuredExplanation": {
+      "summary": "Ask each household for a whole-number count directly addresses the purpose.",
+      "hint": "Decide whether the data should be observed, asked for, or accessed from an existing set."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-046",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "frequency table",
+    "printable": true,
+    "type": "single",
+    "question": "A frequency table for pets in each household shows 0 pets: 4, 1 pet: 7, 2 pets: 3. How many observations were recorded altogether?",
+    "audioPrompt": "A frequency table for pets in each household shows 0 pets: 4, 1 pet: 7, 2 pets: 3. How many observations were recorded altogether?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "19",
+      "14",
+      "13",
+      "7"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 46,
+    "correct": 1,
+    "explanation": "Adding all frequencies gives 4 + 7 + 3 = 14.\nHint: A total frequency includes every category or value.",
+    "structuredExplanation": {
+      "summary": "Adding all frequencies gives 4 + 7 + 3 = 14.",
+      "hint": "A total frequency includes every category or value."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-047",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "check recording",
+    "printable": true,
+    "type": "single",
+    "question": "For pets in each household, the frequencies are 0 pets: 4, 1 pet: 7, 2 pets: 3. Which check best tests whether the table was recorded accurately?",
+    "audioPrompt": "For pets in each household, the frequencies are 0 pets: 4, 1 pet: 7, 2 pets: 3. Which check best tests whether the table was recorded accurately?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "delete the headings",
+      "sort the labels alphabetically and assume the numbers are correct",
+      "compare each frequency with the original tallies or source records",
+      "change the smallest value to match the largest"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 47,
+    "correct": 2,
+    "explanation": "Checking against the original records can reveal omitted or duplicated entries.\nHint: Accuracy is about matching the source, not making the table look even.",
+    "structuredExplanation": {
+      "summary": "Checking against the original records can reveal omitted or duplicated entries.",
+      "hint": "Accuracy is about matching the source, not making the table look even."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m3st01-p-048",
+    "curriculumCode": "AC9M3ST01",
+    "bank": "practice",
+    "skill": "spreadsheet structure",
+    "printable": true,
+    "type": "single",
+    "question": "A spreadsheet will record pets in each household. Which layout is clearest?",
+    "audioPrompt": "A spreadsheet will record pets in each household. Which layout is clearest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "put every response in one cell with no heading",
+      "use a different meaning for each row without labels",
+      "record pictures but no values or headings",
+      "one labelled column for the category or value and one labelled column for frequency"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 48,
+    "correct": 3,
+    "explanation": "Labelled columns make the variable values and their frequencies clear.\nHint: Readers should know what every row and column means.",
+    "structuredExplanation": {
+      "summary": "Labelled columns make the variable values and their frequencies clear.",
+      "hint": "Readers should know what every row and column means."
     },
     "qualitySchema": "production-v1"
   }

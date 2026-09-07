@@ -5,11 +5,12 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_length_unit",
-    "question": "Which unit is most sensible for measuring the length of a glue stick?",
-    "audio_prompt": "Which unit is most sensible for measuring the length of a glue stick?",
+    "skill": "length_unit",
+    "question": "Which unit is most useful for stating the length of a new pencil?",
+    "audio_prompt": "Which unit is most useful for stating the length of a new pencil?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -21,7 +22,7 @@
         "is_correct": false
       },
       {
-        "text": "kilometres",
+        "text": "kilograms",
         "is_correct": false
       },
       {
@@ -31,10 +32,13 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A glue stick is a small length, so centimetres give a useful measurement.",
-      "hint": "Match the unit to the attribute and size."
+      "summary": "A pencil is a short length, so centimetres give a useful number.",
+      "hint": "Decide which attribute is measured, then consider the object’s size."
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-002",
@@ -42,15 +46,16 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_length_unit",
-    "question": "Which unit is most sensible for measuring the length of a school oval?",
-    "audio_prompt": "Which unit is most sensible for measuring the length of a school oval?",
+    "skill": "length_unit",
+    "question": "Which unit is most useful for stating the length of a classroom wall?",
+    "audio_prompt": "Which unit is most useful for stating the length of a classroom wall?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "centimetres",
+        "text": "millilitres",
         "is_correct": false
       },
       {
@@ -58,20 +63,23 @@
         "is_correct": true
       },
       {
-        "text": "grams",
+        "text": "centimetres",
         "is_correct": false
       },
       {
-        "text": "millilitres",
+        "text": "grams",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "An oval is a long distance around a field, so metres are sensible.",
-      "hint": "Think about whether the object is small or large."
+      "summary": "A classroom wall is several metres long.",
+      "hint": "Use metres for a length much larger than a small handheld object."
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-003",
@@ -79,36 +87,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_length_unit",
-    "question": "A desk is about 1 metre wide. Which estimate is sensible for a classroom whiteboard?",
-    "audio_prompt": "A desk is about 1 metre wide. Which estimate is sensible for a classroom whiteboard?",
+    "skill": "length_estimate",
+    "question": "Which is a reasonable length for a lunchbox?",
+    "audio_prompt": "Which is a reasonable length for a lunchbox?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "3 centimetres",
+        "text": "25 kilograms",
         "is_correct": false
       },
       {
-        "text": "3 kilograms",
+        "text": "25 litres",
         "is_correct": false
       },
       {
-        "text": "3 metres",
+        "text": "25 centimetres",
         "is_correct": true
       },
       {
-        "text": "3 millilitres",
+        "text": "25 metres",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A whiteboard is a few desk-widths across, so about 3 metres is sensible.",
-      "hint": "Use the desk width as a benchmark."
+      "summary": "A lunchbox is a few tens of centimetres long, not many metres.",
+      "hint": "Picture the object beside a 30 cm ruler."
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-004",
@@ -116,36 +128,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_length_unit",
-    "question": "A pencil is about 15 centimetres long. Which estimate is sensible for a lunchbox length?",
-    "audio_prompt": "A pencil is about 15 centimetres long. Which estimate is sensible for a lunchbox length?",
+    "skill": "length_estimate",
+    "question": "Which is a reasonable height for a classroom door?",
+    "audio_prompt": "Which is a reasonable height for a classroom door?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "25 metres",
+        "text": "2 centimetres",
         "is_correct": false
       },
       {
-        "text": "25 litres",
+        "text": "20 metres",
         "is_correct": false
       },
       {
-        "text": "25 kilograms",
+        "text": "2 litres",
         "is_correct": false
       },
       {
-        "text": "25 centimetres",
+        "text": "2 metres",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A lunchbox is a little longer than a pencil, so 25 centimetres is sensible.",
-      "hint": "Compare with a familiar object."
+      "summary": "A door is about as tall as a person, so about 2 metres is reasonable.",
+      "hint": "Compare the door with a familiar adult height."
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-005",
@@ -153,23 +169,24 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_mass_unit",
-    "question": "Which unit is most sensible for measuring the mass of a strawberry?",
-    "audio_prompt": "Which unit is most sensible for measuring the mass of a strawberry?",
+    "skill": "length_unit",
+    "question": "Mia wants to measure the width of her thumbnail. Which unit should she use?",
+    "audio_prompt": "Mia wants to measure the width of her thumbnail. Which unit should she use?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "grams",
+        "text": "centimetres",
         "is_correct": true
       },
       {
-        "text": "kilograms",
+        "text": "metres",
         "is_correct": false
       },
       {
-        "text": "metres",
+        "text": "grams",
         "is_correct": false
       },
       {
@@ -179,10 +196,13 @@
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strawberry has a small mass, so grams are sensible.",
-      "hint": "Mass uses grams or kilograms."
+      "summary": "A thumbnail is a very short length, so centimetres are suitable.",
+      "hint": "Choose a length unit small enough to describe the object."
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-006",
@@ -190,19 +210,20 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_mass_unit",
-    "question": "Which unit is most sensible for measuring the mass of a full school bag?",
-    "audio_prompt": "Which unit is most sensible for measuring the mass of a full school bag?",
+    "skill": "length_unit",
+    "question": "A groundskeeper measures the length of the school oval. Which unit is suitable?",
+    "audio_prompt": "A groundskeeper measures the length of the school oval. Which unit is suitable?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "grams",
+        "text": "kilograms",
         "is_correct": false
       },
       {
-        "text": "kilograms",
+        "text": "metres",
         "is_correct": true
       },
       {
@@ -216,10 +237,13 @@
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A full school bag is heavy enough to measure in kilograms.",
-      "hint": "Choose the larger mass unit for heavier objects."
+      "summary": "An oval is a long distance, so metres are suitable.",
+      "hint": "Think about whether the length is shorter or longer than a person."
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-007",
@@ -227,36 +251,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_mass_unit",
-    "question": "A can of beans is about 400 grams. Which estimate is sensible for an apple?",
-    "audio_prompt": "A can of beans is about 400 grams. Which estimate is sensible for an apple?",
+    "skill": "length_estimate",
+    "question": "A skipping rope is about as long as a child is tall. Which estimate is most sensible?",
+    "audio_prompt": "A skipping rope is about as long as a child is tall. Which estimate is most sensible?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "150 kilograms",
+        "text": "20 metres",
         "is_correct": false
       },
       {
-        "text": "150 metres",
+        "text": "200 metres",
         "is_correct": false
       },
       {
-        "text": "150 grams",
+        "text": "2 metres",
         "is_correct": true
       },
       {
-        "text": "150 litres",
+        "text": "2 centimetres",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "An apple is lighter than a can of beans, so 150 grams is sensible.",
-      "hint": "Use the known mass to judge the estimate."
+      "summary": "A skipping rope can be around 2 metres long; 2 cm is tiny and 20 m is far too long.",
+      "hint": "Compare it with a person about 1 to 2 metres tall."
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-008",
@@ -264,36 +292,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_mass_unit",
-    "question": "A bag of rice is labelled 5 kg. Which object would also be measured in kilograms?",
-    "audio_prompt": "A bag of rice is labelled 5 kg. Which object would also be measured in kilograms?",
+    "skill": "length_estimate",
+    "question": "A large paperclip is about 4 cm long. Which estimate is sensible for three paperclips placed end to end?",
+    "audio_prompt": "A large paperclip is about 4 cm long. Which estimate is sensible for three paperclips placed end to end?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "a paper clip",
+        "text": "about 3 centimetres",
         "is_correct": false
       },
       {
-        "text": "a sip of water",
+        "text": "about 4 metres",
         "is_correct": false
       },
       {
-        "text": "a pencil line",
+        "text": "about 12 metres",
         "is_correct": false
       },
       {
-        "text": "a small dog",
+        "text": "about 12 centimetres",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A small dog has a mass large enough for kilograms.",
-      "hint": "Kilograms suit heavier masses."
+      "summary": "Three lengths of about 4 cm make about 12 cm.",
+      "hint": "Use the benchmark three times."
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-009",
@@ -301,36 +333,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_capacity_unit",
-    "question": "Which unit is most sensible for measuring the capacity of a water bottle?",
-    "audio_prompt": "Which unit is most sensible for measuring the capacity of a water bottle?",
+    "skill": "length_estimate",
+    "question": "A metre ruler reaches from the floor to the top of a low table and a little higher. Which table-height estimate is sensible?",
+    "audio_prompt": "A metre ruler reaches from the floor to the top of a low table and a little higher. Which table-height estimate is sensible?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "millilitres",
+        "text": "about 80 centimetres",
         "is_correct": true
       },
       {
-        "text": "grams",
+        "text": "about 8 centimetres",
         "is_correct": false
       },
       {
-        "text": "metres",
+        "text": "about 8 metres",
         "is_correct": false
       },
       {
-        "text": "kilometres",
+        "text": "about 80 metres",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A water bottle holds liquid, and millilitres suit a small container.",
-      "hint": "Capacity is how much a container holds."
+      "summary": "A low table is somewhat shorter than 1 metre, so 80 cm is sensible.",
+      "hint": "Compare the height with 100 cm."
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-010",
@@ -338,36 +374,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_capacity_unit",
-    "question": "Which unit is most sensible for measuring the capacity of a bucket?",
-    "audio_prompt": "Which unit is most sensible for measuring the capacity of a bucket?",
+    "skill": "length_reason",
+    "question": "One student estimates a bus is 11 cm long; another estimates 11 m. Which reasoning is sound?",
+    "audio_prompt": "One student estimates a bus is 11 cm long; another estimates 11 m. Which reasoning is sound?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "centimetres",
+        "text": "Length should be measured in litres.",
         "is_correct": false
       },
       {
-        "text": "litres",
+        "text": "A bus is several metres long, so 11 m is sensible.",
         "is_correct": true
       },
       {
-        "text": "grams",
+        "text": "A bus is hand-sized, so 11 cm is sensible.",
         "is_correct": false
       },
       {
-        "text": "kilograms",
+        "text": "Both estimates are equally sensible.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A bucket holds several litres of liquid.",
-      "hint": "Choose litres for larger containers."
+      "summary": "A bus is much longer than a person, so a value in metres is appropriate.",
+      "hint": "Check both the unit and the size of the number."
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-011",
@@ -375,36 +415,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_capacity_unit",
-    "question": "A mug holds about 250 mL. Which estimate is sensible for a small juice box?",
-    "audio_prompt": "A mug holds about 250 mL. Which estimate is sensible for a small juice box?",
+    "skill": "mass_unit",
+    "question": "Which unit is most useful for stating the mass of one strawberry?",
+    "audio_prompt": "Which unit is most useful for stating the mass of one strawberry?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "200 L",
+        "text": "metres",
         "is_correct": false
       },
       {
-        "text": "200 kg",
+        "text": "litres",
         "is_correct": false
       },
       {
-        "text": "200 mL",
+        "text": "grams",
         "is_correct": true
       },
       {
-        "text": "200 m",
+        "text": "kilograms",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A juice box has a capacity close to a mug, so 200 mL is sensible.",
-      "hint": "Compare the container with the benchmark."
+      "summary": "One strawberry has a small mass, so grams are suitable.",
+      "hint": "First identify mass, then choose the smaller mass unit."
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-012",
@@ -412,11 +456,12 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_capacity_unit",
-    "question": "A bathtub holds much more than a cup. Which unit should be used for its capacity?",
-    "audio_prompt": "A bathtub holds much more than a cup. Which unit should be used for its capacity?",
+    "skill": "mass_unit",
+    "question": "Which unit is most useful for stating the mass of a Year 3 student?",
+    "audio_prompt": "Which unit is most useful for stating the mass of a Year 3 student?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -428,20 +473,23 @@
         "is_correct": false
       },
       {
-        "text": "seconds",
+        "text": "millilitres",
         "is_correct": false
       },
       {
-        "text": "litres",
+        "text": "kilograms",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A bathtub is a large container for water, so litres are sensible.",
-      "hint": "Use a capacity unit for liquid containers."
+      "summary": "A child’s mass is usually stated in kilograms.",
+      "hint": "Compare the person with a 1 kg bag of flour."
     },
-    "difficulty": 1
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-013",
@@ -449,36 +497,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "estimate_with_benchmark",
-    "question": "A classroom door is about 2 metres high. Which estimate is sensible for a teacher's desk length?",
-    "audio_prompt": "A classroom door is about 2 metres high. Which estimate is sensible for a teacher's desk length?",
+    "skill": "mass_estimate",
+    "question": "Which is a reasonable mass for an apple?",
+    "audio_prompt": "Which is a reasonable mass for an apple?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "1 metre",
+        "text": "180 grams",
         "is_correct": true
       },
       {
-        "text": "1 kilometre",
+        "text": "180 kilograms",
         "is_correct": false
       },
       {
-        "text": "1 gram",
+        "text": "18 kilograms",
         "is_correct": false
       },
       {
-        "text": "1 millilitre",
+        "text": "180 litres",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A desk is shorter than a door but still close to a metre long.",
-      "hint": "Use the door height as a length benchmark."
+      "summary": "An apple weighs much less than 1 kilogram, so a few hundred grams is reasonable.",
+      "hint": "A small piece of fruit is measured in grams."
     },
-    "difficulty": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-014",
@@ -486,36 +538,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "estimate_with_benchmark",
-    "question": "A paper clip is about 3 cm long. Which estimate is sensible for an eraser?",
-    "audio_prompt": "A paper clip is about 3 cm long. Which estimate is sensible for an eraser?",
+    "skill": "mass_estimate",
+    "question": "Which is a reasonable mass for a bicycle?",
+    "audio_prompt": "Which is a reasonable mass for a bicycle?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "5 m",
+        "text": "12 litres",
         "is_correct": false
       },
       {
-        "text": "5 cm",
+        "text": "12 kilograms",
         "is_correct": true
       },
       {
-        "text": "5 kg",
+        "text": "12 grams",
         "is_correct": false
       },
       {
-        "text": "5 L",
+        "text": "120 kilograms",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "An eraser is only a little longer than a paper clip, so 5 cm is sensible.",
-      "hint": "Choose a nearby length estimate."
+      "summary": "A bicycle can have a mass of about 12 kg; 12 g is far too light.",
+      "hint": "Compare it with several 1 kg bags."
     },
-    "difficulty": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-015",
@@ -523,36 +579,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "estimate_with_benchmark",
-    "question": "A litre bottle holds 1000 mL. Which estimate is sensible for a cup of water?",
-    "audio_prompt": "A litre bottle holds 1000 mL. Which estimate is sensible for a cup of water?",
+    "skill": "mass_unit",
+    "question": "A baker measures the mass of a spoonful of cocoa. Which unit is suitable?",
+    "audio_prompt": "A baker measures the mass of a spoonful of cocoa. Which unit is suitable?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "250 L",
+        "text": "metres",
         "is_correct": false
       },
       {
-        "text": "250 kg",
+        "text": "millilitres",
         "is_correct": false
       },
       {
-        "text": "250 mL",
+        "text": "grams",
         "is_correct": true
       },
       {
-        "text": "250 m",
+        "text": "kilograms",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A cup holds about a quarter of a litre bottle.",
-      "hint": "Use the bottle as a capacity benchmark."
+      "summary": "A spoonful has a small mass, so grams are suitable.",
+      "hint": "Choose between the small and large familiar mass units."
     },
-    "difficulty": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-016",
@@ -560,36 +620,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "estimate_with_benchmark",
-    "question": "A bag of flour is 1 kg. Which estimate is sensible for a packet of biscuits?",
-    "audio_prompt": "A bag of flour is 1 kg. Which estimate is sensible for a packet of biscuits?",
+    "skill": "mass_unit",
+    "question": "A vet records the mass of a large dog. Which unit is suitable?",
+    "audio_prompt": "A vet records the mass of a large dog. Which unit is suitable?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "250 kg",
+        "text": "grams",
         "is_correct": false
       },
       {
-        "text": "250 L",
+        "text": "centimetres",
         "is_correct": false
       },
       {
-        "text": "250 m",
+        "text": "litres",
         "is_correct": false
       },
       {
-        "text": "250 g",
+        "text": "kilograms",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A packet of biscuits is lighter than 1 kg, so a few hundred grams is sensible.",
-      "hint": "Think smaller than the kilogram benchmark."
+      "summary": "A large dog has a mass of many kilograms.",
+      "hint": "A dog is much heavier than a 1 g paperclip."
     },
-    "difficulty": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-017",
@@ -597,36 +661,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_length_unit",
-    "question": "During maths group, choose the most sensible unit for measuring the length of a glue stick? from the labelled information.",
-    "audio_prompt": "During maths group, choose the most sensible unit for measuring the length of a glue stick? from the labelled information.",
+    "skill": "mass_benchmark",
+    "question": "A full 1 kg flour bag is the benchmark. Which estimate is sensible for two similar full bags?",
+    "audio_prompt": "A full 1 kg flour bag is the benchmark. Which estimate is sensible for two similar full bags?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "centimetres",
+        "text": "about 2 kilograms",
         "is_correct": true
       },
       {
-        "text": "metres",
+        "text": "about 2 grams",
         "is_correct": false
       },
       {
-        "text": "kilometres",
+        "text": "about 20 grams",
         "is_correct": false
       },
       {
-        "text": "litres",
+        "text": "about 20 kilograms",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A glue stick is a small length, so centimetres give a useful measurement.",
-      "hint": "Match the unit to the attribute and size."
+      "summary": "Two bags of about 1 kg have a combined mass of about 2 kg.",
+      "hint": "Use the 1 kg benchmark twice."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-018",
@@ -634,36 +702,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_length_unit",
-    "question": "During maths group, choose the most sensible unit for measuring the length of a school oval? before measuring.",
-    "audio_prompt": "During maths group, choose the most sensible unit for measuring the length of a school oval? before measuring.",
+    "skill": "mass_benchmark",
+    "question": "A paperclip has a mass of about 1 g. Which estimate is sensible for a small eraser that feels like about 20 paperclips?",
+    "audio_prompt": "A paperclip has a mass of about 1 g. Which estimate is sensible for a small eraser that feels like about 20 paperclips?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "centimetres",
+        "text": "about 200 kilograms",
         "is_correct": false
       },
       {
-        "text": "metres",
+        "text": "about 20 grams",
         "is_correct": true
       },
       {
-        "text": "grams",
+        "text": "about 2 grams",
         "is_correct": false
       },
       {
-        "text": "millilitres",
+        "text": "about 20 kilograms",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "An oval is a long distance around a field, so metres are sensible.",
-      "hint": "Think about whether the object is small or large."
+      "summary": "Twenty 1 g benchmarks make about 20 g.",
+      "hint": "Use the stated 1 g benchmark."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-019",
@@ -671,36 +743,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_length_unit",
-    "question": "During maths group, a desk is about 1 metre wide. Which estimate is sensible for a classroom whiteboard? using the benchmark.",
-    "audio_prompt": "During maths group, a desk is about 1 metre wide. Which estimate is sensible for a classroom whiteboard? using the benchmark.",
+    "skill": "mass_estimate",
+    "question": "A loaf of bread is lighter than a 1 kg flour bag but much heavier than a 10 g coin. Which estimate is best?",
+    "audio_prompt": "A loaf of bread is lighter than a 1 kg flour bag but much heavier than a 10 g coin. Which estimate is best?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "3 centimetres",
+        "text": "7 kilograms",
         "is_correct": false
       },
       {
-        "text": "3 kilograms",
+        "text": "70 kilograms",
         "is_correct": false
       },
       {
-        "text": "3 metres",
+        "text": "700 grams",
         "is_correct": true
       },
       {
-        "text": "3 millilitres",
+        "text": "7 grams",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A whiteboard is a few desk-widths across, so about 3 metres is sensible.",
-      "hint": "Use the desk width as a benchmark."
+      "summary": "700 g is below 1 kg and well above 10 g, matching the comparison.",
+      "hint": "Eliminate estimates that contradict either benchmark."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-020",
@@ -708,36 +784,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_length_unit",
-    "question": "During maths group, a pencil is about 15 centimetres long. Which estimate is sensible for a lunchbox length? with a partner.",
-    "audio_prompt": "During maths group, a pencil is about 15 centimetres long. Which estimate is sensible for a lunchbox length? with a partner.",
+    "skill": "mass_reason",
+    "question": "Kai says a washing machine has a mass of 55 g. What is the clearest problem with this estimate?",
+    "audio_prompt": "Kai says a washing machine has a mass of 55 g. What is the clearest problem with this estimate?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "25 metres",
+        "text": "The estimate measures length instead of mass.",
         "is_correct": false
       },
       {
-        "text": "25 litres",
+        "text": "Every washing machine has exactly 55 kg.",
         "is_correct": false
       },
       {
-        "text": "25 kilograms",
+        "text": "Grams can never measure mass.",
         "is_correct": false
       },
       {
-        "text": "25 centimetres",
+        "text": "The number uses a small unit for a very heavy object.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A lunchbox is a little longer than a pencil, so 25 centimetres is sensible.",
-      "hint": "Compare with a familiar object."
+      "summary": "A washing machine is heavy and is sensibly described in kilograms, not a few grams.",
+      "hint": "Ask whether the stated amount could be held like 55 paperclips."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-021",
@@ -745,19 +825,20 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_mass_unit",
-    "question": "During maths group, choose the most sensible unit for measuring the mass of a strawberry? from the labelled information.",
-    "audio_prompt": "During maths group, choose the most sensible unit for measuring the mass of a strawberry? from the labelled information.",
+    "skill": "capacity_unit",
+    "question": "Which unit is most useful for stating how much medicine fits in a small spoon?",
+    "audio_prompt": "Which unit is most useful for stating how much medicine fits in a small spoon?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "grams",
+        "text": "millilitres",
         "is_correct": true
       },
       {
-        "text": "kilograms",
+        "text": "litres",
         "is_correct": false
       },
       {
@@ -765,16 +846,19 @@
         "is_correct": false
       },
       {
-        "text": "litres",
+        "text": "kilograms",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strawberry has a small mass, so grams are sensible.",
-      "hint": "Mass uses grams or kilograms."
+      "summary": "A spoon holds a small liquid volume, so millilitres are suitable.",
+      "hint": "Choose a capacity unit for a very small container."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-022",
@@ -782,36 +866,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_mass_unit",
-    "question": "During maths group, choose the most sensible unit for measuring the mass of a full school bag? before measuring.",
-    "audio_prompt": "During maths group, choose the most sensible unit for measuring the mass of a full school bag? before measuring.",
+    "skill": "capacity_unit",
+    "question": "Which unit is most useful for stating how much water fills a bucket?",
+    "audio_prompt": "Which unit is most useful for stating how much water fills a bucket?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
-      {
-        "text": "grams",
-        "is_correct": false
-      },
-      {
-        "text": "kilograms",
-        "is_correct": true
-      },
       {
         "text": "centimetres",
         "is_correct": false
       },
       {
+        "text": "litres",
+        "is_correct": true
+      },
+      {
         "text": "millilitres",
+        "is_correct": false
+      },
+      {
+        "text": "grams",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A full school bag is heavy enough to measure in kilograms.",
-      "hint": "Choose the larger mass unit for heavier objects."
+      "summary": "A bucket holds several litres of water.",
+      "hint": "Use litres for a container much larger than a cup."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 22,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-023",
@@ -819,36 +907,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_mass_unit",
-    "question": "During maths group, a can of beans is about 400 grams. Which estimate is sensible for an apple? using the benchmark.",
-    "audio_prompt": "During maths group, a can of beans is about 400 grams. Which estimate is sensible for an apple? using the benchmark.",
+    "skill": "capacity_estimate",
+    "question": "Which is a reasonable capacity for a juice box?",
+    "audio_prompt": "Which is a reasonable capacity for a juice box?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "150 kilograms",
+        "text": "25 litres",
         "is_correct": false
       },
       {
-        "text": "150 metres",
+        "text": "250 grams",
         "is_correct": false
       },
       {
-        "text": "150 grams",
+        "text": "250 millilitres",
         "is_correct": true
       },
       {
-        "text": "150 litres",
+        "text": "250 litres",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "An apple is lighter than a can of beans, so 150 grams is sensible.",
-      "hint": "Use the known mass to judge the estimate."
+      "summary": "A juice box holds a small drink, commonly a few hundred millilitres.",
+      "hint": "Picture a cup-sized container."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 23,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-024",
@@ -856,36 +948,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_mass_unit",
-    "question": "During maths group, a bag of rice is labelled 5 kg. Which object would also be measured in kilograms? with a partner.",
-    "audio_prompt": "During maths group, a bag of rice is labelled 5 kg. Which object would also be measured in kilograms? with a partner.",
+    "skill": "capacity_estimate",
+    "question": "Which is a reasonable capacity for a bathtub?",
+    "audio_prompt": "Which is a reasonable capacity for a bathtub?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "a paper clip",
+        "text": "150 millilitres",
         "is_correct": false
       },
       {
-        "text": "a sip of water",
+        "text": "15 millilitres",
         "is_correct": false
       },
       {
-        "text": "a pencil line",
+        "text": "150 kilograms",
         "is_correct": false
       },
       {
-        "text": "a small dog",
+        "text": "150 litres",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A small dog has a mass large enough for kilograms.",
-      "hint": "Kilograms suit heavier masses."
+      "summary": "A bathtub holds many litres, not a cup-sized number of millilitres.",
+      "hint": "Compare it with a 1 L bottle."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 24,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-025",
@@ -893,11 +989,12 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_capacity_unit",
-    "question": "During maths group, choose the most sensible unit for measuring the capacity of a water bottle? from the labelled information.",
-    "audio_prompt": "During maths group, choose the most sensible unit for measuring the capacity of a water bottle? from the labelled information.",
+    "skill": "capacity_unit",
+    "question": "A label states how much shampoo is in a travel bottle. Which unit is suitable?",
+    "audio_prompt": "A label states how much shampoo is in a travel bottle. Which unit is suitable?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
@@ -905,7 +1002,7 @@
         "is_correct": true
       },
       {
-        "text": "grams",
+        "text": "litres",
         "is_correct": false
       },
       {
@@ -913,16 +1010,19 @@
         "is_correct": false
       },
       {
-        "text": "kilometres",
+        "text": "grams",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A water bottle holds liquid, and millilitres suit a small container.",
-      "hint": "Capacity is how much a container holds."
+      "summary": "A travel bottle holds a small volume, so millilitres are suitable.",
+      "hint": "The question asks capacity, not mass or length."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 25,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-026",
@@ -930,15 +1030,16 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_capacity_unit",
-    "question": "During maths group, choose the most sensible unit for measuring the capacity of a bucket? before measuring.",
-    "audio_prompt": "During maths group, choose the most sensible unit for measuring the capacity of a bucket? before measuring.",
+    "skill": "capacity_unit",
+    "question": "A gardener records how much water is in a watering can. Which unit is suitable?",
+    "audio_prompt": "A gardener records how much water is in a watering can. Which unit is suitable?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "centimetres",
+        "text": "kilograms",
         "is_correct": false
       },
       {
@@ -946,20 +1047,23 @@
         "is_correct": true
       },
       {
-        "text": "grams",
+        "text": "millilitres",
         "is_correct": false
       },
       {
-        "text": "kilograms",
+        "text": "centimetres",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A bucket holds several litres of liquid.",
-      "hint": "Choose litres for larger containers."
+      "summary": "A watering can normally holds several litres.",
+      "hint": "Choose the larger familiar capacity unit."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-027",
@@ -967,36 +1071,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_capacity_unit",
-    "question": "During maths group, a mug holds about 250 mL. Which estimate is sensible for a small juice box? using the benchmark.",
-    "audio_prompt": "During maths group, a mug holds about 250 mL. Which estimate is sensible for a small juice box? using the benchmark.",
+    "skill": "capacity_benchmark",
+    "question": "A cup holds about 250 mL. Which estimate is sensible for four full cups?",
+    "audio_prompt": "A cup holds about 250 mL. Which estimate is sensible for four full cups?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "200 L",
+        "text": "about 4 litres",
         "is_correct": false
       },
       {
-        "text": "200 kg",
+        "text": "about 250 litres",
         "is_correct": false
       },
       {
-        "text": "200 mL",
+        "text": "about 1 litre",
         "is_correct": true
       },
       {
-        "text": "200 m",
+        "text": "about 1 millilitre",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A juice box has a capacity close to a mug, so 200 mL is sensible.",
-      "hint": "Compare the container with the benchmark."
+      "summary": "Four lots of 250 mL total 1000 mL, which is 1 L.",
+      "hint": "Combine four equal cup benchmarks."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 27,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-028",
@@ -1004,36 +1112,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_capacity_unit",
-    "question": "During maths group, a bathtub holds much more than a cup. Which unit should be used for its capacity? with a partner.",
-    "audio_prompt": "During maths group, a bathtub holds much more than a cup. Which unit should be used for its capacity? with a partner.",
+    "skill": "capacity_benchmark",
+    "question": "A 1 L bottle fills two equal drink bottles. What is a sensible capacity for each small bottle?",
+    "audio_prompt": "A 1 L bottle fills two equal drink bottles. What is a sensible capacity for each small bottle?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "grams",
+        "text": "about 2 millilitres",
         "is_correct": false
       },
       {
-        "text": "centimetres",
+        "text": "about 2 litres",
         "is_correct": false
       },
       {
-        "text": "seconds",
+        "text": "about 5 litres",
         "is_correct": false
       },
       {
-        "text": "litres",
+        "text": "about 500 millilitres",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A bathtub is a large container for water, so litres are sensible.",
-      "hint": "Use a capacity unit for liquid containers."
+      "summary": "Half of 1 L is 500 mL, so each equal bottle holds about 500 mL.",
+      "hint": "Split the litre benchmark into two equal parts."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 28,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-029",
@@ -1041,36 +1153,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "estimate_with_benchmark",
-    "question": "During maths group, a classroom door is about 2 metres high. Which estimate is sensible for a teacher's desk length? from the labelled information.",
-    "audio_prompt": "During maths group, a classroom door is about 2 metres high. Which estimate is sensible for a teacher's desk length? from the labelled information.",
+    "skill": "capacity_estimate",
+    "question": "A cereal bowl holds less than a 1 L jug but more than a 50 mL cup. Which estimate is best?",
+    "audio_prompt": "A cereal bowl holds less than a 1 L jug but more than a 50 mL cup. Which estimate is best?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "1 metre",
+        "text": "400 millilitres",
         "is_correct": true
       },
       {
-        "text": "1 kilometre",
+        "text": "4 millilitres",
         "is_correct": false
       },
       {
-        "text": "1 gram",
+        "text": "4 litres",
         "is_correct": false
       },
       {
-        "text": "1 millilitre",
+        "text": "40 litres",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A desk is shorter than a door but still close to a metre long.",
-      "hint": "Use the door height as a length benchmark."
+      "summary": "400 mL lies between the two stated benchmarks and suits a bowl.",
+      "hint": "Choose an amount between 50 mL and 1 L."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 29,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-030",
@@ -1078,36 +1194,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "estimate_with_benchmark",
-    "question": "During maths group, a paper clip is about 3 cm long. Which estimate is sensible for an eraser? before measuring.",
-    "audio_prompt": "During maths group, a paper clip is about 3 cm long. Which estimate is sensible for an eraser? before measuring.",
+    "skill": "capacity_reason",
+    "question": "A student estimates that a kitchen sink holds 20 mL. Why is the estimate unreasonable?",
+    "audio_prompt": "A student estimates that a kitchen sink holds 20 mL. Why is the estimate unreasonable?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "5 m",
+        "text": "Every sink holds exactly 20 L.",
         "is_correct": false
       },
       {
-        "text": "5 cm",
+        "text": "20 mL is only a small spoonful, far less than a sink holds.",
         "is_correct": true
       },
       {
-        "text": "5 kg",
+        "text": "20 mL is too large for any container.",
         "is_correct": false
       },
       {
-        "text": "5 L",
+        "text": "Sinks are measured in metres, not capacity units.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "An eraser is only a little longer than a paper clip, so 5 cm is sensible.",
-      "hint": "Choose a nearby length estimate."
+      "summary": "A sink holds many litres; 20 mL is a very small liquid amount.",
+      "hint": "Compare 20 mL with a medicine spoon."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 30,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-031",
@@ -1115,36 +1235,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "estimate_with_benchmark",
-    "question": "During maths group, a litre bottle holds 1000 mL. Which estimate is sensible for a cup of water? using the benchmark.",
-    "audio_prompt": "During maths group, a litre bottle holds 1000 mL. Which estimate is sensible for a cup of water? using the benchmark.",
+    "skill": "benchmark_length",
+    "question": "A crayon is about 9 cm long. A marker is a little longer. Which estimate is most sensible for the marker?",
+    "audio_prompt": "A crayon is about 9 cm long. A marker is a little longer. Which estimate is most sensible for the marker?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "250 L",
+        "text": "12 metres",
         "is_correct": false
       },
       {
-        "text": "250 kg",
+        "text": "90 metres",
         "is_correct": false
       },
       {
-        "text": "250 mL",
+        "text": "12 centimetres",
         "is_correct": true
       },
       {
-        "text": "250 m",
+        "text": "2 centimetres",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A cup holds about a quarter of a litre bottle.",
-      "hint": "Use the bottle as a capacity benchmark."
+      "summary": "12 cm is slightly longer than the 9 cm benchmark and remains a sensible handheld length.",
+      "hint": "Choose a value just above 9 cm in the same suitable unit."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 31,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-032",
@@ -1152,36 +1276,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "estimate_with_benchmark",
-    "question": "During maths group, a bag of flour is 1 kg. Which estimate is sensible for a packet of biscuits? with a partner.",
-    "audio_prompt": "During maths group, a bag of flour is 1 kg. Which estimate is sensible for a packet of biscuits? with a partner.",
+    "skill": "benchmark_length",
+    "question": "A guitar is about 1 m long. A child’s bed is nearly twice that length. Which estimate is most sensible?",
+    "audio_prompt": "A guitar is about 1 m long. A child’s bed is nearly twice that length. Which estimate is most sensible?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "250 kg",
+        "text": "about 2 centimetres",
         "is_correct": false
       },
       {
-        "text": "250 L",
+        "text": "about 20 metres",
         "is_correct": false
       },
       {
-        "text": "250 m",
+        "text": "about 200 metres",
         "is_correct": false
       },
       {
-        "text": "250 g",
+        "text": "about 2 metres",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A packet of biscuits is lighter than 1 kg, so a few hundred grams is sensible.",
-      "hint": "Think smaller than the kilogram benchmark."
+      "summary": "Nearly two guitar lengths is about 2 m.",
+      "hint": "Repeat the 1 m benchmark about twice."
     },
-    "difficulty": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 32,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-033",
@@ -1189,36 +1317,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_length_unit",
-    "question": "In a classroom check, choose the most sensible unit for measuring the length of a glue stick? before measuring.",
-    "audio_prompt": "In a classroom check, choose the most sensible unit for measuring the length of a glue stick? before measuring.",
+    "skill": "benchmark_length",
+    "question": "A standard sheet of paper is about 30 cm long. Which estimate is sensible for two sheets end to end?",
+    "audio_prompt": "A standard sheet of paper is about 30 cm long. Which estimate is sensible for two sheets end to end?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "centimetres",
+        "text": "about 60 centimetres",
         "is_correct": true
       },
       {
-        "text": "metres",
+        "text": "about 15 centimetres",
         "is_correct": false
       },
       {
-        "text": "kilometres",
+        "text": "about 6 metres",
         "is_correct": false
       },
       {
-        "text": "litres",
+        "text": "about 60 metres",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A glue stick is a small length, so centimetres give a useful measurement.",
-      "hint": "Match the unit to the attribute and size."
+      "summary": "Two lengths of about 30 cm make about 60 cm.",
+      "hint": "Double the familiar measurement."
     },
-    "difficulty": 3
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 33,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-034",
@@ -1226,36 +1358,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_length_unit",
-    "question": "In a classroom check, choose the most sensible unit for measuring the length of a school oval? using the benchmark.",
-    "audio_prompt": "In a classroom check, choose the most sensible unit for measuring the length of a school oval? using the benchmark.",
+    "skill": "benchmark_length",
+    "question": "A shoe is about 25 cm long. A desk is about four shoe-lengths wide. Which estimate is sensible?",
+    "audio_prompt": "A shoe is about 25 cm long. A desk is about four shoe-lengths wide. Which estimate is sensible?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "centimetres",
+        "text": "about 25 metres",
         "is_correct": false
       },
       {
-        "text": "metres",
+        "text": "about 1 metre",
         "is_correct": true
       },
       {
-        "text": "grams",
+        "text": "about 10 centimetres",
         "is_correct": false
       },
       {
-        "text": "millilitres",
+        "text": "about 4 metres",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "An oval is a long distance around a field, so metres are sensible.",
-      "hint": "Think about whether the object is small or large."
+      "summary": "Four lots of 25 cm make 100 cm, or about 1 m.",
+      "hint": "Use four equal 25 cm benchmarks."
     },
-    "difficulty": 3
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 34,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-035",
@@ -1263,36 +1399,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_length_unit",
-    "question": "In a classroom check, a desk is about 1 metre wide. Which estimate is sensible for a classroom whiteboard? with a partner.",
-    "audio_prompt": "In a classroom check, a desk is about 1 metre wide. Which estimate is sensible for a classroom whiteboard? with a partner.",
+    "skill": "benchmark_mass",
+    "question": "A 1 kg bag of rice balances two identical melons. What is a sensible mass for one melon?",
+    "audio_prompt": "A 1 kg bag of rice balances two identical melons. What is a sensible mass for one melon?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "3 centimetres",
+        "text": "about 2 kilograms",
         "is_correct": false
       },
       {
-        "text": "3 kilograms",
+        "text": "about 50 kilograms",
         "is_correct": false
       },
       {
-        "text": "3 metres",
+        "text": "about 500 grams",
         "is_correct": true
       },
       {
-        "text": "3 millilitres",
+        "text": "about 2 grams",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A whiteboard is a few desk-widths across, so about 3 metres is sensible.",
-      "hint": "Use the desk width as a benchmark."
+      "summary": "Two equal melons total about 1 kg, so each is about 500 g.",
+      "hint": "Split the benchmark equally."
     },
-    "difficulty": 3
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 35,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-036",
@@ -1300,36 +1440,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_length_unit",
-    "question": "In a classroom check, a pencil is about 15 centimetres long. Which estimate is sensible for a lunchbox length? from the labelled information.",
-    "audio_prompt": "In a classroom check, a pencil is about 15 centimetres long. Which estimate is sensible for a lunchbox length? from the labelled information.",
+    "skill": "benchmark_mass",
+    "question": "A teaspoon of sugar has a mass of about 4 g. Which estimate is sensible for five teaspoons?",
+    "audio_prompt": "A teaspoon of sugar has a mass of about 4 g. Which estimate is sensible for five teaspoons?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "25 metres",
+        "text": "about 5 grams",
         "is_correct": false
       },
       {
-        "text": "25 litres",
+        "text": "about 20 kilograms",
         "is_correct": false
       },
       {
-        "text": "25 kilograms",
+        "text": "about 400 grams",
         "is_correct": false
       },
       {
-        "text": "25 centimetres",
+        "text": "about 20 grams",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A lunchbox is a little longer than a pencil, so 25 centimetres is sensible.",
-      "hint": "Compare with a familiar object."
+      "summary": "Five lots of about 4 g make about 20 g.",
+      "hint": "Use the 4 g benchmark five times."
     },
-    "difficulty": 3
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 36,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-037",
@@ -1337,36 +1481,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_mass_unit",
-    "question": "In a classroom check, choose the most sensible unit for measuring the mass of a strawberry? before measuring.",
-    "audio_prompt": "In a classroom check, choose the most sensible unit for measuring the mass of a strawberry? before measuring.",
+    "skill": "benchmark_capacity",
+    "question": "A drink bottle holds 600 mL. A jug holds about three bottlefuls. Which estimate suits the jug?",
+    "audio_prompt": "A drink bottle holds 600 mL. A jug holds about three bottlefuls. Which estimate suits the jug?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "grams",
+        "text": "about 1800 millilitres",
         "is_correct": true
       },
       {
-        "text": "kilograms",
+        "text": "about 200 millilitres",
         "is_correct": false
       },
       {
-        "text": "metres",
+        "text": "about 3 millilitres",
         "is_correct": false
       },
       {
-        "text": "litres",
+        "text": "about 18 litres",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A strawberry has a small mass, so grams are sensible.",
-      "hint": "Mass uses grams or kilograms."
+      "summary": "Three lots of 600 mL make about 1800 mL.",
+      "hint": "Multiply the benchmark by three."
     },
-    "difficulty": 3
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 37,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-038",
@@ -1374,36 +1522,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_mass_unit",
-    "question": "In a classroom check, choose the most sensible unit for measuring the mass of a full school bag? using the benchmark.",
-    "audio_prompt": "In a classroom check, choose the most sensible unit for measuring the mass of a full school bag? using the benchmark.",
+    "skill": "benchmark_capacity",
+    "question": "A 1 L carton fills four equal glasses. Which estimate suits one glass?",
+    "audio_prompt": "A 1 L carton fills four equal glasses. Which estimate suits one glass?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "grams",
+        "text": "about 1000 litres",
         "is_correct": false
       },
       {
-        "text": "kilograms",
+        "text": "about 250 millilitres",
         "is_correct": true
       },
       {
-        "text": "centimetres",
+        "text": "about 4 millilitres",
         "is_correct": false
       },
       {
-        "text": "millilitres",
+        "text": "about 4 litres",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A full school bag is heavy enough to measure in kilograms.",
-      "hint": "Choose the larger mass unit for heavier objects."
+      "summary": "One quarter of 1 L is about 250 mL.",
+      "hint": "Split 1000 mL into four equal parts."
     },
-    "difficulty": 3
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 38,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-039",
@@ -1411,36 +1563,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_mass_unit",
-    "question": "In a classroom check, a can of beans is about 400 grams. Which estimate is sensible for an apple? with a partner.",
-    "audio_prompt": "In a classroom check, a can of beans is about 400 grams. Which estimate is sensible for an apple? with a partner.",
+    "skill": "benchmark_reason",
+    "question": "A stapler is about 15 cm long. Which new estimate is best supported by that benchmark?",
+    "audio_prompt": "A stapler is about 15 cm long. Which new estimate is best supported by that benchmark?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "150 kilograms",
+        "text": "A coin about 20 m wide",
         "is_correct": false
       },
       {
-        "text": "150 metres",
+        "text": "A backpack holding 20 L has a length of 20 L",
         "is_correct": false
       },
       {
-        "text": "150 grams",
+        "text": "A pencil case about 20 cm long",
         "is_correct": true
       },
       {
-        "text": "150 litres",
+        "text": "A school corridor about 20 cm long",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "An apple is lighter than a can of beans, so 150 grams is sensible.",
-      "hint": "Use the known mass to judge the estimate."
+      "summary": "A pencil case is a little longer than a 15 cm stapler, so 20 cm is plausible.",
+      "hint": "Match both the attribute and relative size."
     },
-    "difficulty": 3
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 39,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-040",
@@ -1448,36 +1604,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_mass_unit",
-    "question": "In a classroom check, a bag of rice is labelled 5 kg. Which object would also be measured in kilograms? from the labelled information.",
-    "audio_prompt": "In a classroom check, a bag of rice is labelled 5 kg. Which object would also be measured in kilograms? from the labelled information.",
+    "skill": "benchmark_reason",
+    "question": "A pair of sneakers has a mass of about 1 kg. Which estimate is best supported by that benchmark?",
+    "audio_prompt": "A pair of sneakers has a mass of about 1 kg. Which estimate is best supported by that benchmark?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "a paper clip",
+        "text": "A coin has a mass of about 4 kg.",
         "is_correct": false
       },
       {
-        "text": "a sip of water",
+        "text": "A car has a mass of about 4 g.",
         "is_correct": false
       },
       {
-        "text": "a pencil line",
+        "text": "A bottle holds about 4 kg of length.",
         "is_correct": false
       },
       {
-        "text": "a small dog",
+        "text": "A packed schoolbag has a mass of about 4 kg.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A small dog has a mass large enough for kilograms.",
-      "hint": "Kilograms suit heavier masses."
+      "summary": "A packed schoolbag can weigh several sneaker-pair benchmarks.",
+      "hint": "Use the benchmark only for the same attribute: mass."
     },
-    "difficulty": 3
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 40,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-041",
@@ -1485,36 +1645,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_capacity_unit",
-    "question": "In a classroom check, choose the most sensible unit for measuring the capacity of a water bottle? before measuring.",
-    "audio_prompt": "In a classroom check, choose the most sensible unit for measuring the capacity of a water bottle? before measuring.",
+    "skill": "mixed_attribute",
+    "question": "Which statement gives a sensible measurement for a classroom wall?",
+    "audio_prompt": "Which statement gives a sensible measurement for a classroom wall?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "millilitres",
+        "text": "A classroom wall is about 6 metres long.",
         "is_correct": true
       },
       {
-        "text": "grams",
+        "text": "A classroom wall has a mass of 6 metres.",
         "is_correct": false
       },
       {
-        "text": "metres",
+        "text": "A classroom wall holds 6 kilograms.",
         "is_correct": false
       },
       {
-        "text": "kilometres",
+        "text": "A classroom wall is about 6 centimetres long.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A water bottle holds liquid, and millilitres suit a small container.",
-      "hint": "Capacity is how much a container holds."
+      "summary": "Metres measure the long dimension of a classroom wall.",
+      "hint": "Check attribute, unit and magnitude together."
     },
-    "difficulty": 3
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 41,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-042",
@@ -1522,36 +1686,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_capacity_unit",
-    "question": "In a classroom check, choose the most sensible unit for measuring the capacity of a bucket? using the benchmark.",
-    "audio_prompt": "In a classroom check, choose the most sensible unit for measuring the capacity of a bucket? using the benchmark.",
+    "skill": "mixed_attribute",
+    "question": "Which statement gives a sensible measurement for a watermelon?",
+    "audio_prompt": "Which statement gives a sensible measurement for a watermelon?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "centimetres",
+        "text": "A watermelon has a mass of about 4 grams.",
         "is_correct": false
       },
       {
-        "text": "litres",
+        "text": "A watermelon has a mass of about 4 kilograms.",
         "is_correct": true
       },
       {
-        "text": "grams",
+        "text": "A watermelon has a length of 4 kilograms.",
         "is_correct": false
       },
       {
-        "text": "kilograms",
+        "text": "A watermelon holds 4 metres.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A bucket holds several litres of liquid.",
-      "hint": "Choose litres for larger containers."
+      "summary": "Kilograms measure the mass of a heavy fruit, and 4 kg is plausible.",
+      "hint": "Reject options with the wrong attribute or an implausible size."
     },
-    "difficulty": 3
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 42,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-043",
@@ -1559,36 +1727,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_capacity_unit",
-    "question": "In a classroom check, a mug holds about 250 mL. Which estimate is sensible for a small juice box? with a partner.",
-    "audio_prompt": "In a classroom check, a mug holds about 250 mL. Which estimate is sensible for a small juice box? with a partner.",
+    "skill": "mixed_attribute",
+    "question": "Which statement gives a sensible measurement for a large saucepan?",
+    "audio_prompt": "Which statement gives a sensible measurement for a large saucepan?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "200 L",
+        "text": "A large saucepan holds about 4 millilitres.",
         "is_correct": false
       },
       {
-        "text": "200 kg",
+        "text": "A large saucepan has a mass of 4 metres.",
         "is_correct": false
       },
       {
-        "text": "200 mL",
+        "text": "A large saucepan holds about 4 litres.",
         "is_correct": true
       },
       {
-        "text": "200 m",
+        "text": "A large saucepan has a length of 4 litres.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A juice box has a capacity close to a mug, so 200 mL is sensible.",
-      "hint": "Compare the container with the benchmark."
+      "summary": "Litres measure capacity, and several litres suit a large saucepan.",
+      "hint": "Look for a capacity unit and sensible amount."
     },
-    "difficulty": 3
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 43,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-044",
@@ -1596,36 +1768,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "choose_capacity_unit",
-    "question": "In a classroom check, a bathtub holds much more than a cup. Which unit should be used for its capacity? from the labelled information.",
-    "audio_prompt": "In a classroom check, a bathtub holds much more than a cup. Which unit should be used for its capacity? from the labelled information.",
+    "skill": "estimate_choice",
+    "question": "A desk is longer than a 30 cm ruler but shorter than two 1 m rulers. Which estimate is best?",
+    "audio_prompt": "A desk is longer than a 30 cm ruler but shorter than two 1 m rulers. Which estimate is best?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "grams",
+        "text": "12 centimetres",
         "is_correct": false
       },
       {
-        "text": "centimetres",
+        "text": "12 metres",
         "is_correct": false
       },
       {
-        "text": "seconds",
+        "text": "120 metres",
         "is_correct": false
       },
       {
-        "text": "litres",
+        "text": "120 centimetres",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A bathtub is a large container for water, so litres are sensible.",
-      "hint": "Use a capacity unit for liquid containers."
+      "summary": "120 cm is longer than 30 cm and shorter than 2 m.",
+      "hint": "Use both bounds, remembering that 2 m is 200 cm."
     },
-    "difficulty": 3
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-045",
@@ -1633,36 +1809,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "estimate_with_benchmark",
-    "question": "In a classroom check, a classroom door is about 2 metres high. Which estimate is sensible for a teacher's desk length? before measuring.",
-    "audio_prompt": "In a classroom check, a classroom door is about 2 metres high. Which estimate is sensible for a teacher's desk length? before measuring.",
+    "skill": "estimate_choice",
+    "question": "A parcel is heavier than a 500 g loaf but lighter than a 2 kg bag. Which estimate is best?",
+    "audio_prompt": "A parcel is heavier than a 500 g loaf but lighter than a 2 kg bag. Which estimate is best?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "1 metre",
+        "text": "1 kilogram",
         "is_correct": true
       },
       {
-        "text": "1 kilometre",
+        "text": "10 grams",
         "is_correct": false
       },
       {
-        "text": "1 gram",
+        "text": "5 kilograms",
         "is_correct": false
       },
       {
-        "text": "1 millilitre",
+        "text": "20 kilograms",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A desk is shorter than a door but still close to a metre long.",
-      "hint": "Use the door height as a length benchmark."
+      "summary": "1 kg lies between 500 g and 2 kg and is a sensible parcel mass.",
+      "hint": "Choose an estimate within both stated bounds."
     },
-    "difficulty": 3
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 45,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-046",
@@ -1670,36 +1850,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "estimate_with_benchmark",
-    "question": "In a classroom check, a paper clip is about 3 cm long. Which estimate is sensible for an eraser? using the benchmark.",
-    "audio_prompt": "In a classroom check, a paper clip is about 3 cm long. Which estimate is sensible for an eraser? using the benchmark.",
+    "skill": "estimate_choice",
+    "question": "A bottle holds more than a 250 mL cup but less than a 2 L jug. Which estimate is best?",
+    "audio_prompt": "A bottle holds more than a 250 mL cup but less than a 2 L jug. Which estimate is best?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "5 m",
+        "text": "75 litres",
         "is_correct": false
       },
       {
-        "text": "5 cm",
+        "text": "750 millilitres",
         "is_correct": true
       },
       {
-        "text": "5 kg",
+        "text": "75 millilitres",
         "is_correct": false
       },
       {
-        "text": "5 L",
+        "text": "7 litres",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "An eraser is only a little longer than a paper clip, so 5 cm is sensible.",
-      "hint": "Choose a nearby length estimate."
+      "summary": "750 mL is between 250 mL and 2 L.",
+      "hint": "Check the estimate against both capacity benchmarks."
     },
-    "difficulty": 3
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 46,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-047",
@@ -1707,36 +1891,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "estimate_with_benchmark",
-    "question": "In a classroom check, a litre bottle holds 1000 mL. Which estimate is sensible for a cup of water? with a partner.",
-    "audio_prompt": "In a classroom check, a litre bottle holds 1000 mL. Which estimate is sensible for a cup of water? with a partner.",
+    "skill": "explain_estimate",
+    "question": "Why is “a key is 6 cm long” more reasonable than “a key is 6 m long”?",
+    "audio_prompt": "Why is “a key is 6 cm long” more reasonable than “a key is 6 m long”?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "250 L",
+        "text": "Metres are always smaller than centimetres.",
         "is_correct": false
       },
       {
-        "text": "250 kg",
+        "text": "Every key is exactly 6 cm long.",
         "is_correct": false
       },
       {
-        "text": "250 mL",
+        "text": "A key is a small handheld object, so centimetres fit its size.",
         "is_correct": true
       },
       {
-        "text": "250 m",
+        "text": "Keys measure mass, so both length estimates are wrong.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A cup holds about a quarter of a litre bottle.",
-      "hint": "Use the bottle as a capacity benchmark."
+      "summary": "The estimate uses an appropriate length unit and a plausible magnitude.",
+      "hint": "Reason from the object’s familiar size, not from an exact fixed value."
     },
-    "difficulty": 3
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 47,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-P-048",
@@ -1744,36 +1932,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "practice",
-    "skill": "estimate_with_benchmark",
-    "question": "In a classroom check, a bag of flour is 1 kg. Which estimate is sensible for a packet of biscuits? from the labelled information.",
-    "audio_prompt": "In a classroom check, a bag of flour is 1 kg. Which estimate is sensible for a packet of biscuits? from the labelled information.",
+    "skill": "explain_estimate",
+    "question": "Why is “a full suitcase has a mass of 18 kg” more reasonable than “18 g”?",
+    "audio_prompt": "Why is “a full suitcase has a mass of 18 kg” more reasonable than “18 g”?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "250 kg",
+        "text": "Suitcases measure capacity only.",
         "is_correct": false
       },
       {
-        "text": "250 L",
+        "text": "Grams are larger than kilograms.",
         "is_correct": false
       },
       {
-        "text": "250 m",
+        "text": "Every suitcase has exactly the same mass.",
         "is_correct": false
       },
       {
-        "text": "250 g",
+        "text": "A full suitcase is heavy, so kilograms fit its mass.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "A packet of biscuits is lighter than 1 kg, so a few hundred grams is sensible.",
-      "hint": "Think smaller than the kilogram benchmark."
+      "summary": "A full suitcase is many times heavier than a gram-scale item.",
+      "hint": "Compare it with a 1 kg benchmark."
     },
-    "difficulty": 3
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-001",
@@ -1781,36 +1973,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "choose_length_unit",
-    "question": "At a school activity, choose the most sensible unit for measuring the length of a glue stick? using the benchmark.",
-    "audio_prompt": "At a school activity, choose the most sensible unit for measuring the length of a glue stick? using the benchmark.",
+    "skill": "length_unit",
+    "question": "Which estimate is most sensible for the height of a dining table?",
+    "audio_prompt": "Which estimate is most sensible for the height of a dining table?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "centimetres",
+        "text": "7 metres",
+        "is_correct": false
+      },
+      {
+        "text": "75 litres",
+        "is_correct": false
+      },
+      {
+        "text": "75 centimetres",
         "is_correct": true
       },
       {
-        "text": "metres",
-        "is_correct": false
-      },
-      {
-        "text": "kilometres",
-        "is_correct": false
-      },
-      {
-        "text": "litres",
+        "text": "75 metres",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A glue stick is a small length, so centimetres give a useful measurement.",
-      "hint": "Match the unit to the attribute and size."
+      "summary": "A dining table is less than 1 metre high, so 75 cm is sensible.",
+      "hint": "Compare it with a metre ruler."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 1,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-002",
@@ -1818,36 +2014,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "choose_length_unit",
-    "question": "At a school activity, choose the most sensible unit for measuring the length of a school oval? with a partner.",
-    "audio_prompt": "At a school activity, choose the most sensible unit for measuring the length of a school oval? with a partner.",
+    "skill": "length_benchmark",
+    "question": "A ribbon is about three 30 cm rulers long. Which estimate is best?",
+    "audio_prompt": "A ribbon is about three 30 cm rulers long. Which estimate is best?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "centimetres",
+        "text": "about 10 centimetres",
         "is_correct": false
       },
       {
-        "text": "metres",
+        "text": "about 3 metres",
+        "is_correct": false
+      },
+      {
+        "text": "about 90 metres",
+        "is_correct": false
+      },
+      {
+        "text": "about 90 centimetres",
         "is_correct": true
-      },
-      {
-        "text": "grams",
-        "is_correct": false
-      },
-      {
-        "text": "millilitres",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "An oval is a long distance around a field, so metres are sensible.",
-      "hint": "Think about whether the object is small or large."
+      "summary": "Three lots of 30 cm make about 90 cm.",
+      "hint": "Use the benchmark three times."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 2,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-003",
@@ -1855,36 +2055,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "choose_length_unit",
-    "question": "At a school activity, a desk is about 1 metre wide. Which estimate is sensible for a classroom whiteboard? from the labelled information.",
-    "audio_prompt": "At a school activity, a desk is about 1 metre wide. Which estimate is sensible for a classroom whiteboard? from the labelled information.",
+    "skill": "length_reason",
+    "question": "Which reasoning best supports an estimate of 8 m for a small bus?",
+    "audio_prompt": "Which reasoning best supports an estimate of 8 m for a small bus?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "3 centimetres",
-        "is_correct": false
-      },
-      {
-        "text": "3 kilograms",
-        "is_correct": false
-      },
-      {
-        "text": "3 metres",
+        "text": "A bus is several times longer than a 1 m guitar.",
         "is_correct": true
       },
       {
-        "text": "3 millilitres",
+        "text": "A bus is about eight paperclips long.",
+        "is_correct": false
+      },
+      {
+        "text": "A bus is smaller than a 1 cm staple.",
+        "is_correct": false
+      },
+      {
+        "text": "Metres measure the bus’s mass.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A whiteboard is a few desk-widths across, so about 3 metres is sensible.",
-      "hint": "Use the desk width as a benchmark."
+      "summary": "Several 1 m benchmarks can fit along a bus, so 8 m is plausible.",
+      "hint": "Use a comparable benchmark and the correct attribute."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 3,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-004",
@@ -1892,36 +2096,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "choose_length_unit",
-    "question": "At a school activity, a pencil is about 15 centimetres long. Which estimate is sensible for a lunchbox length? before measuring.",
-    "audio_prompt": "At a school activity, a pencil is about 15 centimetres long. Which estimate is sensible for a lunchbox length? before measuring.",
+    "skill": "mass_unit",
+    "question": "Which estimate is most sensible for the mass of a laptop computer?",
+    "audio_prompt": "Which estimate is most sensible for the mass of a laptop computer?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "25 metres",
+        "text": "2 litres",
         "is_correct": false
       },
       {
-        "text": "25 litres",
-        "is_correct": false
-      },
-      {
-        "text": "25 kilograms",
-        "is_correct": false
-      },
-      {
-        "text": "25 centimetres",
+        "text": "2 kilograms",
         "is_correct": true
+      },
+      {
+        "text": "2 grams",
+        "is_correct": false
+      },
+      {
+        "text": "20 kilograms",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A lunchbox is a little longer than a pencil, so 25 centimetres is sensible.",
-      "hint": "Compare with a familiar object."
+      "summary": "A laptop is much heavier than a gram-scale object and can weigh about 2 kg.",
+      "hint": "Compare it with 1 kg."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 4,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-005",
@@ -1929,36 +2137,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "choose_mass_unit",
-    "question": "At a school activity, choose the most sensible unit for measuring the mass of a strawberry? using the benchmark.",
-    "audio_prompt": "At a school activity, choose the most sensible unit for measuring the mass of a strawberry? using the benchmark.",
+    "skill": "mass_benchmark",
+    "question": "One orange has a mass of about 200 g. Which estimate suits a bag of five similar oranges?",
+    "audio_prompt": "One orange has a mass of about 200 g. Which estimate suits a bag of five similar oranges?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "grams",
+        "text": "about 200 kilograms",
+        "is_correct": false
+      },
+      {
+        "text": "about 10 kilograms",
+        "is_correct": false
+      },
+      {
+        "text": "about 1 kilogram",
         "is_correct": true
       },
       {
-        "text": "kilograms",
-        "is_correct": false
-      },
-      {
-        "text": "metres",
-        "is_correct": false
-      },
-      {
-        "text": "litres",
+        "text": "about 5 grams",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strawberry has a small mass, so grams are sensible.",
-      "hint": "Mass uses grams or kilograms."
+      "summary": "Five lots of 200 g make 1000 g, or about 1 kg.",
+      "hint": "Combine five equal benchmarks."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 5,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-006",
@@ -1966,36 +2178,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "choose_mass_unit",
-    "question": "At a school activity, choose the most sensible unit for measuring the mass of a full school bag? with a partner.",
-    "audio_prompt": "At a school activity, choose the most sensible unit for measuring the mass of a full school bag? with a partner.",
+    "skill": "mass_reason",
+    "question": "A chair is heavier than a 1 kg bag but light enough for a child to move. Which estimate is best?",
+    "audio_prompt": "A chair is heavier than a 1 kg bag but light enough for a child to move. Which estimate is best?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "grams",
+        "text": "5 grams",
         "is_correct": false
       },
       {
-        "text": "kilograms",
+        "text": "50 kilograms",
+        "is_correct": false
+      },
+      {
+        "text": "500 kilograms",
+        "is_correct": false
+      },
+      {
+        "text": "5 kilograms",
         "is_correct": true
-      },
-      {
-        "text": "centimetres",
-        "is_correct": false
-      },
-      {
-        "text": "millilitres",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A full school bag is heavy enough to measure in kilograms.",
-      "hint": "Choose the larger mass unit for heavier objects."
+      "summary": "5 kg is heavier than 1 kg without being implausibly heavy for a chair.",
+      "hint": "Use the comparison and the everyday context."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 6,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-007",
@@ -2003,36 +2219,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "choose_mass_unit",
-    "question": "At a school activity, a can of beans is about 400 grams. Which estimate is sensible for an apple? from the labelled information.",
-    "audio_prompt": "At a school activity, a can of beans is about 400 grams. Which estimate is sensible for an apple? from the labelled information.",
+    "skill": "capacity_unit",
+    "question": "Which estimate is most sensible for the capacity of an eyedropper?",
+    "audio_prompt": "Which estimate is most sensible for the capacity of an eyedropper?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "150 kilograms",
-        "is_correct": false
-      },
-      {
-        "text": "150 metres",
-        "is_correct": false
-      },
-      {
-        "text": "150 grams",
+        "text": "2 millilitres",
         "is_correct": true
       },
       {
-        "text": "150 litres",
+        "text": "2 litres",
+        "is_correct": false
+      },
+      {
+        "text": "20 litres",
+        "is_correct": false
+      },
+      {
+        "text": "2 kilograms",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "An apple is lighter than a can of beans, so 150 grams is sensible.",
-      "hint": "Use the known mass to judge the estimate."
+      "summary": "An eyedropper holds a very small liquid volume, so a few millilitres is sensible.",
+      "hint": "Choose the small capacity unit."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 7,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-008",
@@ -2040,36 +2260,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "choose_mass_unit",
-    "question": "At a school activity, a bag of rice is labelled 5 kg. Which object would also be measured in kilograms? before measuring.",
-    "audio_prompt": "At a school activity, a bag of rice is labelled 5 kg. Which object would also be measured in kilograms? before measuring.",
+    "skill": "capacity_benchmark",
+    "question": "A 2 L bottle fills eight equal cups. Which estimate suits each cup?",
+    "audio_prompt": "A 2 L bottle fills eight equal cups. Which estimate suits each cup?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "a paper clip",
+        "text": "16 litres",
         "is_correct": false
       },
       {
-        "text": "a sip of water",
-        "is_correct": false
-      },
-      {
-        "text": "a pencil line",
-        "is_correct": false
-      },
-      {
-        "text": "a small dog",
+        "text": "250 millilitres",
         "is_correct": true
+      },
+      {
+        "text": "25 millilitres",
+        "is_correct": false
+      },
+      {
+        "text": "2 litres",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A small dog has a mass large enough for kilograms.",
-      "hint": "Kilograms suit heavier masses."
+      "summary": "2 L is 2000 mL, and 2000 divided by 8 is 250 mL.",
+      "hint": "Split the benchmark equally."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 8,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-009",
@@ -2077,36 +2301,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "choose_capacity_unit",
-    "question": "At a school activity, choose the most sensible unit for measuring the capacity of a water bottle? using the benchmark.",
-    "audio_prompt": "At a school activity, choose the most sensible unit for measuring the capacity of a water bottle? using the benchmark.",
+    "skill": "capacity_reason",
+    "question": "Which reasoning best supports an estimate of 10 L for a bucket?",
+    "audio_prompt": "Which reasoning best supports an estimate of 10 L for a bucket?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "millilitres",
+        "text": "A bucket has a mass of exactly 10 L.",
+        "is_correct": false
+      },
+      {
+        "text": "A bucket holds less than one drop.",
+        "is_correct": false
+      },
+      {
+        "text": "A bucket can hold about ten 1 L bottles.",
         "is_correct": true
       },
       {
-        "text": "grams",
-        "is_correct": false
-      },
-      {
-        "text": "metres",
-        "is_correct": false
-      },
-      {
-        "text": "kilometres",
+        "text": "A bucket is about ten 1 cm staples long.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A water bottle holds liquid, and millilitres suit a small container.",
-      "hint": "Capacity is how much a container holds."
+      "summary": "Ten litre-bottle benchmarks give a plausible bucket capacity.",
+      "hint": "Use a benchmark for the same attribute."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 9,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-010",
@@ -2114,36 +2342,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "choose_capacity_unit",
-    "question": "At a school activity, choose the most sensible unit for measuring the capacity of a bucket? with a partner.",
-    "audio_prompt": "At a school activity, choose the most sensible unit for measuring the capacity of a bucket? with a partner.",
+    "skill": "mixed_attribute",
+    "question": "Which measurement is sensible?",
+    "audio_prompt": "Which measurement is sensible?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "centimetres",
+        "text": "A spoonful of yoghurt has a mass of 20 kilograms.",
         "is_correct": false
       },
       {
-        "text": "litres",
+        "text": "A spoonful of yoghurt is 20 metres long.",
+        "is_correct": false
+      },
+      {
+        "text": "A spoonful of yoghurt holds 20 litres.",
+        "is_correct": false
+      },
+      {
+        "text": "A spoonful of yoghurt has a mass of about 20 grams.",
         "is_correct": true
-      },
-      {
-        "text": "grams",
-        "is_correct": false
-      },
-      {
-        "text": "kilograms",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A bucket holds several litres of liquid.",
-      "hint": "Choose litres for larger containers."
+      "summary": "Twenty grams is a plausible small mass for a spoonful.",
+      "hint": "Check attribute, unit and scale."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 10,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-011",
@@ -2151,36 +2383,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "choose_capacity_unit",
-    "question": "At a school activity, a mug holds about 250 mL. Which estimate is sensible for a small juice box? from the labelled information.",
-    "audio_prompt": "At a school activity, a mug holds about 250 mL. Which estimate is sensible for a small juice box? from the labelled information.",
+    "skill": "bounds_length",
+    "question": "A bookshelf is taller than 1 m but shorter than 3 m. Which estimate is best?",
+    "audio_prompt": "A bookshelf is taller than 1 m but shorter than 3 m. Which estimate is best?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "200 L",
-        "is_correct": false
-      },
-      {
-        "text": "200 kg",
-        "is_correct": false
-      },
-      {
-        "text": "200 mL",
+        "text": "180 centimetres",
         "is_correct": true
       },
       {
-        "text": "200 m",
+        "text": "18 centimetres",
+        "is_correct": false
+      },
+      {
+        "text": "18 metres",
+        "is_correct": false
+      },
+      {
+        "text": "300 metres",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A juice box has a capacity close to a mug, so 200 mL is sensible.",
-      "hint": "Compare the container with the benchmark."
+      "summary": "180 cm is 1.8 m, which lies between 1 m and 3 m.",
+      "hint": "Convert mentally enough to check both bounds."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 11,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-012",
@@ -2188,36 +2424,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "choose_capacity_unit",
-    "question": "At a school activity, a bathtub holds much more than a cup. Which unit should be used for its capacity? before measuring.",
-    "audio_prompt": "At a school activity, a bathtub holds much more than a cup. Which unit should be used for its capacity? before measuring.",
+    "skill": "bounds_mass",
+    "question": "A pumpkin is heavier than 2 kg but lighter than 8 kg. Which estimate is best?",
+    "audio_prompt": "A pumpkin is heavier than 2 kg but lighter than 8 kg. Which estimate is best?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "grams",
+        "text": "15 kilograms",
         "is_correct": false
       },
       {
-        "text": "centimetres",
-        "is_correct": false
-      },
-      {
-        "text": "seconds",
-        "is_correct": false
-      },
-      {
-        "text": "litres",
+        "text": "5 kilograms",
         "is_correct": true
+      },
+      {
+        "text": "50 grams",
+        "is_correct": false
+      },
+      {
+        "text": "500 grams",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A bathtub is a large container for water, so litres are sensible.",
-      "hint": "Use a capacity unit for liquid containers."
+      "summary": "5 kg lies between the two stated mass benchmarks.",
+      "hint": "Select a value inside the interval."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 12,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-013",
@@ -2225,36 +2465,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "estimate_with_benchmark",
-    "question": "At a school activity, a classroom door is about 2 metres high. Which estimate is sensible for a teacher's desk length? using the benchmark.",
-    "audio_prompt": "At a school activity, a classroom door is about 2 metres high. Which estimate is sensible for a teacher's desk length? using the benchmark.",
+    "skill": "bounds_capacity",
+    "question": "A jug holds more than 500 mL but less than 2 L. Which estimate is best?",
+    "audio_prompt": "A jug holds more than 500 mL but less than 2 L. Which estimate is best?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "1 metre",
+        "text": "5 litres",
+        "is_correct": false
+      },
+      {
+        "text": "20 litres",
+        "is_correct": false
+      },
+      {
+        "text": "1 litre",
         "is_correct": true
       },
       {
-        "text": "1 kilometre",
-        "is_correct": false
-      },
-      {
-        "text": "1 gram",
-        "is_correct": false
-      },
-      {
-        "text": "1 millilitre",
+        "text": "100 millilitres",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A desk is shorter than a door but still close to a metre long.",
-      "hint": "Use the door height as a length benchmark."
+      "summary": "1 L is greater than 500 mL and less than 2 L.",
+      "hint": "Check both capacity bounds."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 13,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-014",
@@ -2262,36 +2506,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "estimate_with_benchmark",
-    "question": "At a school activity, a paper clip is about 3 cm long. Which estimate is sensible for an eraser? with a partner.",
-    "audio_prompt": "At a school activity, a paper clip is about 3 cm long. Which estimate is sensible for an eraser? with a partner.",
+    "skill": "error_analysis",
+    "question": "Lena estimates a drink bottle holds 600 L. What correction is most sensible?",
+    "audio_prompt": "Lena estimates a drink bottle holds 600 L. What correction is most sensible?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "5 m",
+        "text": "600 metres",
         "is_correct": false
       },
       {
-        "text": "5 cm",
+        "text": "600 kilograms",
+        "is_correct": false
+      },
+      {
+        "text": "6 millilitres",
+        "is_correct": false
+      },
+      {
+        "text": "600 millilitres",
         "is_correct": true
-      },
-      {
-        "text": "5 kg",
-        "is_correct": false
-      },
-      {
-        "text": "5 L",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "An eraser is only a little longer than a paper clip, so 5 cm is sensible.",
-      "hint": "Choose a nearby length estimate."
+      "summary": "A drink bottle commonly holds a few hundred millilitres, not hundreds of litres.",
+      "hint": "Keep the plausible number and correct the unit."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 14,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-015",
@@ -2299,36 +2547,40 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "estimate_with_benchmark",
-    "question": "At a school activity, a litre bottle holds 1000 mL. Which estimate is sensible for a cup of water? from the labelled information.",
-    "audio_prompt": "At a school activity, a litre bottle holds 1000 mL. Which estimate is sensible for a cup of water? from the labelled information.",
+    "skill": "error_analysis",
+    "question": "Noah estimates a coin has a mass of 6 kg. What correction is most sensible?",
+    "audio_prompt": "Noah estimates a coin has a mass of 6 kg. What correction is most sensible?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "250 L",
-        "is_correct": false
-      },
-      {
-        "text": "250 kg",
-        "is_correct": false
-      },
-      {
-        "text": "250 mL",
+        "text": "6 grams",
         "is_correct": true
       },
       {
-        "text": "250 m",
+        "text": "6 litres",
+        "is_correct": false
+      },
+      {
+        "text": "60 kilograms",
+        "is_correct": false
+      },
+      {
+        "text": "600 kilograms",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A cup holds about a quarter of a litre bottle.",
-      "hint": "Use the bottle as a capacity benchmark."
+      "summary": "A coin is light, so a few grams is plausible.",
+      "hint": "Compare the coin with a 1 g paperclip."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 15,
+    "quality_schema": "skillr-actual-v6"
   },
   {
     "id": "AC9M3M01-T-016",
@@ -2336,35 +2588,39 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9M3M01",
     "bank": "test",
-    "skill": "estimate_with_benchmark",
-    "question": "At a school activity, a bag of flour is 1 kg. Which estimate is sensible for a packet of biscuits? before measuring.",
-    "audio_prompt": "At a school activity, a bag of flour is 1 kg. Which estimate is sensible for a packet of biscuits? before measuring.",
+    "skill": "integrated",
+    "question": "A 1 m strip is cut into four equal pieces. Which estimate suits each piece?",
+    "audio_prompt": "A 1 m strip is cut into four equal pieces. Which estimate suits each piece?",
     "visual": {
-      "type": "none"
+      "type": "none",
+      "alt_text": ""
     },
     "answers": [
       {
-        "text": "250 kg",
+        "text": "250 metres",
         "is_correct": false
       },
       {
-        "text": "250 L",
-        "is_correct": false
-      },
-      {
-        "text": "250 m",
-        "is_correct": false
-      },
-      {
-        "text": "250 g",
+        "text": "25 centimetres",
         "is_correct": true
+      },
+      {
+        "text": "4 centimetres",
+        "is_correct": false
+      },
+      {
+        "text": "25 metres",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A packet of biscuits is lighter than 1 kg, so a few hundred grams is sensible.",
-      "hint": "Think smaller than the kilogram benchmark."
+      "summary": "One quarter of 1 m is 25 cm.",
+      "hint": "Use 100 cm as the familiar metre benchmark."
     },
-    "difficulty": 1
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "sequence_priority": 16,
+    "quality_schema": "skillr-actual-v6"
   }
 ]
