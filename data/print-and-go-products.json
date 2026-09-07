@@ -19,7 +19,7 @@
       "Australian Curriculum v9.0"
     ],
     "description": "A complete Year 2 teaching and practice workbook with explanations, visual models, worksheets, assessments and answers.",
-    "url": "/product.html?id=year-2-maths-workbook",
+    "url": "/products/year-2-maths-workbook/",
     "image": "/icons/skillrhub-mark.svg",
     "price": "20.00",
     "currency": "USD",
@@ -46,7 +46,7 @@
       "Australian Curriculum v9.0"
     ],
     "description": "Six Year 1 Science products combining teacher explanations and matching student practice worksheets.",
-    "url": "/product.html?id=year-1-science-bundle",
+    "url": "/products/year-1-science-bundle/",
     "image": "/icons/skillrhub-mark.svg",
     "price": "19.99",
     "currency": "USD",
@@ -72,7 +72,7 @@
       "Australian Curriculum v9.0"
     ],
     "description": "Hands-on teaching and practice for observing, recording, analysing, evaluating and communicating.",
-    "url": "/product.html?id=year-1-science-inquiry-part-1",
+    "url": "/products/year-1-science-inquiry-part-1/",
     "image": "/icons/skillrhub-mark.svg",
     "price": "6.99",
     "currency": "USD",
@@ -98,7 +98,7 @@
       "Australian Curriculum v9.0"
     ],
     "description": "Inquiry activities for asking questions, making predictions, planning investigations and processing findings.",
-    "url": "/product.html?id=year-1-science-inquiry-part-2",
+    "url": "/products/year-1-science-inquiry-part-2/",
     "image": "/icons/skillrhub-mark.svg",
     "price": "5.50",
     "currency": "USD",
@@ -124,7 +124,7 @@
       "Australian Curriculum v9.0"
     ],
     "description": "Age-appropriate lessons, visuals and investigations exploring Earth, the Sun, weather and seasons.",
-    "url": "/product.html?id=year-1-science-earth-space",
+    "url": "/products/year-1-science-earth-space/",
     "image": "/icons/skillrhub-mark.svg",
     "price": "4.75",
     "currency": "USD",
@@ -150,7 +150,7 @@
       "Australian Curriculum v9.0"
     ],
     "description": "Visual lessons and investigations showing how pushes and pulls affect movement and shape.",
-    "url": "/product.html?id=year-1-science-physical",
+    "url": "/products/year-1-science-physical/",
     "image": "/icons/skillrhub-mark.svg",
     "price": "4.75",
     "currency": "USD",
@@ -174,7 +174,7 @@
       "Australian Curriculum v9.0"
     ],
     "description": "Lessons showing how people use science in daily life to care, decide and solve problems.",
-    "url": "/product.html?id=year-1-science-human-endeavour",
+    "url": "/products/year-1-science-human-endeavour/",
     "image": "/icons/skillrhub-mark.svg",
     "price": "4.75",
     "currency": "USD",
@@ -198,7 +198,7 @@
       "Australian Curriculum v9.0"
     ],
     "description": "A free introductory chapter about living things through observation, exploration and inquiry.",
-    "url": "/product.html?id=year-1-biological-sciences-free",
+    "url": "/products/year-1-biological-sciences-free/",
     "image": "/icons/skillrhub-mark.svg",
     "price": "0",
     "currency": "USD",
@@ -223,7 +223,7 @@
       "AC9M2N01"
     ],
     "description": "A free teaching and practice pack for reading, representing, comparing and ordering numbers to 1000.",
-    "url": "/product.html?id=year-2-numbers-1000-free",
+    "url": "/products/year-2-numbers-1000-free/",
     "image": "/icons/skillrhub-mark.svg",
     "price": "0",
     "currency": "USD",
@@ -249,7 +249,7 @@
       "AC9M3M04"
     ],
     "description": "A free mini-pack for identifying clock hands and reading analogue and digital time to the minute.",
-    "url": "/product.html?id=year-3-telling-time-free",
+    "url": "/products/year-3-telling-time-free/",
     "image": "/assets/year-3-time-pack-cover.png",
     "price": "0",
     "currency": "USD",
@@ -275,7 +275,7 @@
       "AC9M4N04"
     ],
     "description": "A free mini-pack with fraction models, number lines, reasoning, an exit ticket and answers.",
-    "url": "/product.html?id=year-4-fractions-free",
+    "url": "/products/year-4-fractions-free/",
     "image": "/assets/free-resources/year-4-fractions-mini-pack-preview.png",
     "price": "0",
     "currency": "USD",
@@ -301,7 +301,7 @@
       "AC9M5N01"
     ],
     "description": "A free decimal pack covering place value, comparing, ordering and rounding, with answers.",
-    "url": "/product.html?id=year-5-decimals-free",
+    "url": "/products/year-5-decimals-free/",
     "image": "/icons/skillrhub-mark.svg",
     "price": "0",
     "currency": "USD",
@@ -329,7 +329,7 @@
       "AC9M3M04"
     ],
     "description": "A complete bundle combining 60 teaching slides with printable time practice and worked answers.",
-    "url": "/product.html?id=year-3-time-bundle",
+    "url": "/products/year-3-time-bundle/",
     "image": "/assets/year-3-time-pack-cover.png",
     "price": "7.98",
     "currency": "USD",
@@ -356,7 +356,7 @@
       "AC9M3M04"
     ],
     "description": "Sixty classroom-ready slides with visual explanations, worked examples and guided practice.",
-    "url": "/product.html?id=year-3-time-slides-60",
+    "url": "/products/year-3-time-slides-60/",
     "image": "/assets/year-3-time-pack-cover.png",
     "price": "6.99",
     "currency": "USD",
@@ -382,7 +382,7 @@
       "AC9M3M04"
     ],
     "description": "A classroom-ready PDF for analogue clocks, comparing times, elapsed time and duration problems.",
-    "url": "/product.html?id=year-3-time-slides",
+    "url": "/products/year-3-time-slides/",
     "image": "/assets/year-3-time-pack-cover.png",
     "price": "6.98",
     "currency": "USD",
@@ -408,7 +408,7 @@
       "AC9M3M04"
     ],
     "description": "A free 12-slide sample covering time units, duration, analogue clocks and common mistakes.",
-    "url": "/product.html?id=year-3-time-slides-sample",
+    "url": "/products/year-3-time-slides-sample/",
     "image": "/assets/year-3-time-pack-cover.png",
     "price": "0",
     "currency": "USD",
@@ -436,7 +436,7 @@
       "AC9M3M04"
     ],
     "description": "Ready-to-print A4 practice for time units, duration and analogue clocks, with worked answers.",
-    "url": "/product.html?id=year-3-time-practice",
+    "url": "/products/year-3-time-practice/",
     "image": "/assets/year-3-time-pack-cover.png",
     "price": "2.99",
     "currency": "USD",
@@ -463,7 +463,7 @@
       "AC9M3M03"
     ],
     "description": "A free mini-pack for choosing time units, estimating and comparing duration, and reading timers.",
-    "url": "/product.html?id=year-3-time-duration-free",
+    "url": "/products/year-3-time-duration-free/",
     "image": "/assets/year-3-time-pack-cover.png",
     "price": "0",
     "currency": "USD",
@@ -493,7 +493,7 @@
       "AC9M3N04"
     ],
     "description": "36 PowerPoint teaching slides covering the 3, 4, 5 and 10 times tables, related division facts, arrays, sharing, grouping and calculation strategies. Teaching presentation only; the companion workbook is sold separately.",
-    "url": "/product.html?id=year-3-multiplication-division-slides",
+    "url": "/products/year-3-multiplication-division-slides/",
     "image": "/assets/year-3-multiplication-division-slides-cover.png",
     "price": "6.99",
     "currency": "USD",
@@ -531,7 +531,7 @@
       "AC9M3N04"
     ],
     "description": "Combine a 144-question workbook with answers and 36 PowerPoint teaching slides. Focuses on the 3, 4, 5 and 10 times tables and related division facts. Save US$2.10 compared with buying separately.",
-    "url": "/product.html?id=year-3-multiplication-division-bundle",
+    "url": "/products/year-3-multiplication-division-bundle/",
     "image": "/assets/year-3-multiplication-division-slides-cover.png",
     "price": "8.38",
     "listPrice": "10.48",

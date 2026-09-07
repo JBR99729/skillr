@@ -6,6 +6,7 @@
   fetch('/data/print-and-go-products.json?v=20260907-bundle', { cache: 'no-cache' }).then(response => { if (!response.ok) throw new Error(); return response.json(); }).then(products => {
     const product = products.find(item => item.available && item.id === id);
     if (!product) throw new Error();
+    if (product.url && product.url.startsWith('/products/')) { location.replace(product.url); return; }
     document.title = product.title + ' | SkillrHub';
     document.querySelector('[data-crumb]').textContent = product.title;
     const detail = el('div', '', 'product-detail');
@@ -20,3 +21,4 @@
     detail.append(image, copy); root.replaceChildren(detail);
   }).catch(() => { root.replaceChildren(el('h1', 'Product not found'), el('p', 'This product may no longer be live. Please return to the current catalogue.')); });
 }());
+

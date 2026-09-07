@@ -63,7 +63,6 @@ Sitemap: https://skillrhub.com/sitemap.xml
 Sitemap: https://skillrhub.com/sitemap-ai.xml
 Sitemap: https://skillrhub.com/sitemap-seo-pillars.xml
 Sitemap: https://skillrhub.com/sitemap-worksheets.xml
-Sitemap: https://skillrhub.com/sitemap-practice.xml
 
 # AI-readable maps
 # https://skillrhub.com/ai-index.json
@@ -84,3 +83,4 @@ Sitemap: https://skillrhub.com/sitemap-practice.xml
 # https://skillrhub.com/ai-site-map.south-asia.md
 # https://skillrhub.com/ai-site-map.id.md
 # https://skillrhub.com/ai-site-map.ar.md
+

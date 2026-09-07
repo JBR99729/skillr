@@ -12,7 +12,7 @@ ROOT=Path(__file__).resolve().parents[1]; BASE="https://skillrhub.com"
 SKIP={"year1/maths/year-2-halves-quarters-and-eighths-in-everyday-life-activities-and-worksheets-ac9m2m02.html","quiz/grade-k/math/vocabulary/voabulary/index.html","quiz/year-2/math/addition-substraction-daily/index.html","year2/maths/addition-substraction-daily/index.html"}
 # Functional states have no independent search value. Keep the canonical learning entry points instead.
 FUNCTIONAL_PARTS={"result","results","review","retake"}
-EXCLUDED_FILES={"offline.html"}
+EXCLUDED_FILES={"offline.html","product.html"}
 EXCLUDED_PARTS={"teacher-slides"}
 EXCLUDED_ROOT_PARTS={"node_modules","playwright-report","test-results","screenshots"}
 PAUSED_PARTS={"daily-drills"}
@@ -218,3 +218,4 @@ def main():
  search_count=write_search_index(pages)
  print(f"Generated sitemap index with {len(sitemap_files)} child sitemaps, {len(pages)} canonical indexable URLs and {search_count} search entries.")
 if __name__=="__main__":main()
+

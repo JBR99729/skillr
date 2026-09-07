@@ -107,3 +107,6 @@ products.push({
 });
 fs.writeFileSync('data/print-and-go-products.json', JSON.stringify(products, null, 2) + '\n');
 console.log(`Wrote ${products.length} live products`);
+
+
+require('./build-product-pages.cjs');
