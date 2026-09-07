@@ -7,20 +7,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "Which option correctly explains how to shorten “they are”?",
-    "audioPrompt": "Which option correctly explains how to shorten “they are”?",
+    "question": "Rewrite only “we are” as a contraction: “The note says that we are walking to the oval.”",
+    "audioPrompt": "Rewrite only “we are” as a contraction: “The note says that we are walking to the oval.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Keep “they are” as two unshortened words.",
-      "Remove letters without marking where letters are missing.",
-      "Use “they're”, the accepted shortened form."
+      "we're (apostrophe after we)",
+      "were (no apostrophe)",
+      "wer'e (apostrophe after wer)",
+      "we'are (apostrophe after we)"
     ],
-    "correct": 2,
-    "explanation": "An apostrophe in a contraction marks omitted letters.\nHint: Say the full form, then find the accepted shortened form.",
+    "correct": 0,
+    "explanation": "we're combines we are; the apostrophe marks the omitted letters.\nHint: Keep the letters that remain in their original order.",
     "structuredExplanation": {
-      "summary": "An apostrophe in a contraction marks omitted letters.",
-      "hint": "Say the full form, then find the accepted shortened form."
+      "summary": "we're combines we are; the apostrophe marks the omitted letters.",
+      "hint": "Keep the letters that remain in their original order."
     },
     "qualitySchema": "production-v1"
   },
@@ -31,20 +35,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "What job does the apostrophe do in “they're”?",
-    "audioPrompt": "What job does the apostrophe do in “they're”?",
+    "question": "Rewrite only “I have” as a contraction: “The note says that I have found the missing sock.”",
+    "audioPrompt": "Rewrite only “I have” as a contraction: “The note says that I have found the missing sock.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "It marks letters omitted from the full form.",
-      "It makes the word plural.",
-      "It shows that several people own something."
+      "Iv'e (apostrophe after Iv)",
+      "I've (apostrophe after I)",
+      "Ive' (apostrophe after Ive)",
+      "I'ave (apostrophe after I)"
     ],
-    "correct": 0,
-    "explanation": "Contraction apostrophes show where letters have been left out.\nHint: Expand the contraction to find the missing letters.",
+    "correct": 1,
+    "explanation": "I've combines I have; the apostrophe marks the omitted letters.\nHint: Keep the letters that remain in their original order.",
     "structuredExplanation": {
-      "summary": "Contraction apostrophes show where letters have been left out.",
-      "hint": "Expand the contraction to find the missing letters."
+      "summary": "I've combines I have; the apostrophe marks the omitted letters.",
+      "hint": "Keep the letters that remain in their original order."
     },
     "qualitySchema": "production-v1"
   },
@@ -55,20 +63,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "Which option correctly explains the single owner in “the fox's den”?",
-    "audioPrompt": "Which option correctly explains the single owner in “the fox's den”?",
+    "question": "Write the two words represented by “haven't”.",
+    "audioPrompt": "Write the two words represented by “haven't”.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Use “the foxes' dens” to show several owners.",
-      "Use “the fox's den” to show one owner.",
-      "Use “the foxs den” with no ownership mark."
+      "had not",
+      "has not",
+      "have not",
+      "he has"
     ],
-    "correct": 1,
-    "explanation": "An apostrophe and s commonly show possession by one singular noun.\nHint: Identify whether the owner is one or more than one.",
+    "correct": 2,
+    "explanation": "haven't means have not. The contraction keeps the negative meaning.\nHint: Expand the whole contraction, not just its ending.",
     "structuredExplanation": {
-      "summary": "An apostrophe and s commonly show possession by one singular noun.",
-      "hint": "Identify whether the owner is one or more than one."
+      "summary": "haven't means have not. The contraction keeps the negative meaning.",
+      "hint": "Expand the whole contraction, not just its ending."
     },
     "qualitySchema": "production-v1"
   },
@@ -79,20 +91,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "Which option correctly explains the multiple owners in “the foxes' dens”?",
-    "audioPrompt": "Which option correctly explains the multiple owners in “the foxes' dens”?",
+    "question": "Write the two words represented by “wouldn't”.",
+    "audioPrompt": "Write the two words represented by “wouldn't”.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Use “the fox's den” to show one owner.",
-      "Use “the foxes dens” with no ownership mark.",
-      "Use “the foxes' dens” to show several owners."
+      "will not",
+      "would have",
+      "could not",
+      "would not"
     ],
-    "correct": 2,
-    "explanation": "For a regular plural ending in s, the possessive apostrophe follows the plural s.\nHint: First make the owner plural, then show possession.",
+    "correct": 3,
+    "explanation": "wouldn't means would not. The contraction keeps the negative meaning.\nHint: Expand the whole contraction, not just its ending.",
     "structuredExplanation": {
-      "summary": "For a regular plural ending in s, the possessive apostrophe follows the plural s.",
-      "hint": "First make the owner plural, then show possession."
+      "summary": "wouldn't means would not. The contraction keeps the negative meaning.",
+      "hint": "Expand the whole contraction, not just its ending."
     },
     "qualitySchema": "production-v1"
   },
@@ -103,20 +119,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "In “the fox's den”, what does the apostrophe show?",
-    "audioPrompt": "In “the fox's den”, what does the apostrophe show?",
+    "question": "Compare “we have” with “we've”. Which letters does the apostrophe replace?",
+    "audioPrompt": "Compare “we have” with “we've”. Which letters does the apostrophe replace?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "One noun owns or is connected with something.",
-      "The noun is shortened from two words.",
-      "The noun names several owners."
+      "the h and a in have",
+      "the v and e in have",
+      "the w and e in we",
+      "only the h in have"
     ],
     "correct": 0,
-    "explanation": "The apostrophe in a singular possessive marks ownership or connection.\nHint: Look at the noun immediately before the apostrophe.",
+    "explanation": "Compare the full form letter by letter: the h and a in have disappears; the other letters remain.\nHint: The apostrophe marks missing letters, not a space alone.",
     "structuredExplanation": {
-      "summary": "The apostrophe in a singular possessive marks ownership or connection.",
-      "hint": "Look at the noun immediately before the apostrophe."
+      "summary": "Compare the full form letter by letter: the h and a in have disappears; the other letters remain.",
+      "hint": "The apostrophe marks missing letters, not a space alone."
     },
     "qualitySchema": "production-v1"
   },
@@ -127,20 +147,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "In “the foxes' dens”, where is the apostrophe placed?",
-    "audioPrompt": "In “the foxes' dens”, where is the apostrophe placed?",
+    "question": "Compare “was not” with “wasn't”. Which letters does the apostrophe replace?",
+    "audioPrompt": "Compare “was not” with “wasn't”. Which letters does the apostrophe replace?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Before the plural s.",
-      "After the plural s.",
-      "At the start of the phrase."
+      "the a in was",
+      "the o in not",
+      "the s in was",
+      "the n in not"
     ],
     "correct": 1,
-    "explanation": "Regular plural possessives place the apostrophe after the plural s.\nHint: Find the plural owner before adding the possession mark.",
+    "explanation": "Compare the full form letter by letter: the o in not disappears; the other letters remain.\nHint: The apostrophe marks missing letters, not a space alone.",
     "structuredExplanation": {
-      "summary": "Regular plural possessives place the apostrophe after the plural s.",
-      "hint": "Find the plural owner before adding the possession mark."
+      "summary": "Compare the full form letter by letter: the o in not disappears; the other letters remain.",
+      "hint": "The apostrophe marks missing letters, not a space alone."
     },
     "qualitySchema": "production-v1"
   },
@@ -151,20 +175,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "Which explanation correctly compares “they're” and “the fox's den”?",
-    "audioPrompt": "Which explanation correctly compares “they're” and “the fox's den”?",
+    "question": "One pilot owns a map. Which phrase shows this ownership?",
+    "audioPrompt": "One pilot owns a map. Which phrase shows this ownership?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Both apostrophes make nouns plural.",
-      "Both apostrophes mark missing letters only.",
-      "In “they're” the apostrophe marks missing letters; in “the fox's den” it marks possession."
+      "the pilots map (no apostrophe)",
+      "the pilots' map (apostrophe after pilots)",
+      "the pilot's map (apostrophe after pilot)",
+      "the pilot map's (apostrophe after map)"
     ],
     "correct": 2,
-    "explanation": "Apostrophes have different jobs in contractions and possessives.\nHint: Expand the contraction, then identify the owner in the phrase.",
+    "explanation": "The owner is one pilot. Add apostrophe-s to pilot, not to map.\nHint: Find the owner before placing the apostrophe.",
     "structuredExplanation": {
-      "summary": "Apostrophes have different jobs in contractions and possessives.",
-      "hint": "Expand the contraction, then identify the owner in the phrase."
+      "summary": "The owner is one pilot. Add apostrophe-s to pilot, not to map.",
+      "hint": "Find the owner before placing the apostrophe."
     },
     "qualitySchema": "production-v1"
   },
@@ -175,20 +203,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "A student writes “the foxes dens\" for several owners. What edit is needed?",
-    "audioPrompt": "A student writes “the foxes dens\" for several owners. What edit is needed?",
+    "question": "One farmer owns a tractor. Which phrase shows this ownership?",
+    "audioPrompt": "One farmer owns a tractor. Which phrase shows this ownership?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Add an apostrophe after the plural s.",
-      "Add an apostrophe before the first letter.",
-      "Remove the plural s."
+      "the farmers tractor (no apostrophe)",
+      "the farmers' tractor (apostrophe after farmers)",
+      "the farmer tractor's (apostrophe after tractor)",
+      "the farmer's tractor (apostrophe after farmer)"
     ],
-    "correct": 0,
-    "explanation": "The apostrophe after a regular plural noun shows possession by several owners.\nHint: Keep the plural form and mark ownership after it.",
+    "correct": 3,
+    "explanation": "The owner is one farmer. Add apostrophe-s to farmer, not to tractor.\nHint: Find the owner before placing the apostrophe.",
     "structuredExplanation": {
-      "summary": "The apostrophe after a regular plural noun shows possession by several owners.",
-      "hint": "Keep the plural form and mark ownership after it."
+      "summary": "The owner is one farmer. Add apostrophe-s to farmer, not to tractor.",
+      "hint": "Find the owner before placing the apostrophe."
     },
     "qualitySchema": "production-v1"
   },
@@ -199,20 +231,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "Which option correctly explains how to shorten “we will”?",
-    "audioPrompt": "Which option correctly explains how to shorten “we will”?",
+    "question": "Show the ownership: the pond belonging to several ducks.",
+    "audioPrompt": "Show the ownership: the pond belonging to several ducks.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Keep “we will” as two unshortened words.",
-      "Use “we'll”, the accepted shortened form.",
-      "Remove letters without marking where letters are missing."
+      "the ducks' pond (apostrophe after ducks)",
+      "the duck's pond (apostrophe after duck)",
+      "the ducks pond (no apostrophe)",
+      "the ducks's pond (apostrophe after ducks)"
     ],
-    "correct": 1,
-    "explanation": "An apostrophe in a contraction marks omitted letters.\nHint: Say the full form, then find the accepted shortened form.",
+    "correct": 0,
+    "explanation": "Ducks already ends in s. Add an apostrophe after that s to show possession by more than one.\nHint: Write the plural owner first; then add the apostrophe.",
     "structuredExplanation": {
-      "summary": "An apostrophe in a contraction marks omitted letters.",
-      "hint": "Say the full form, then find the accepted shortened form."
+      "summary": "Ducks already ends in s. Add an apostrophe after that s to show possession by more than one.",
+      "hint": "Write the plural owner first; then add the apostrophe."
     },
     "qualitySchema": "production-v1"
   },
@@ -223,20 +259,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "What job does the apostrophe do in “we'll”?",
-    "audioPrompt": "What job does the apostrophe do in “we'll”?",
+    "question": "Show the ownership: the keys belonging to several drivers.",
+    "audioPrompt": "Show the ownership: the keys belonging to several drivers.",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "It makes the word plural.",
-      "It shows that several people own something.",
-      "It marks letters omitted from the full form."
+      "the driver's keys (apostrophe after driver)",
+      "the drivers' keys (apostrophe after drivers)",
+      "the drivers keys (no apostrophe)",
+      "the drivers's keys (apostrophe after drivers)"
     ],
-    "correct": 2,
-    "explanation": "Contraction apostrophes show where letters have been left out.\nHint: Expand the contraction to find the missing letters.",
+    "correct": 1,
+    "explanation": "Drivers already ends in s. Add an apostrophe after that s to show possession by more than one.\nHint: Write the plural owner first; then add the apostrophe.",
     "structuredExplanation": {
-      "summary": "Contraction apostrophes show where letters have been left out.",
-      "hint": "Expand the contraction to find the missing letters."
+      "summary": "Drivers already ends in s. Add an apostrophe after that s to show possession by more than one.",
+      "hint": "Write the plural owner first; then add the apostrophe."
     },
     "qualitySchema": "production-v1"
   },
@@ -247,20 +287,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "Which option correctly explains the single owner in “the player's boot”?",
-    "audioPrompt": "Which option correctly explains the single owner in “the player's boot”?",
+    "question": "The drawings belong to several children. How should the ownership phrase be written?",
+    "audioPrompt": "The drawings belong to several children. How should the ownership phrase be written?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Use “the player's boot” to show one owner.",
-      "Use “the players' boots” to show several owners.",
-      "Use “the players boot” with no ownership mark."
+      "the children' drawings (apostrophe after children)",
+      "the child's drawings (apostrophe after child)",
+      "the children's drawings (apostrophe after children)",
+      "the children drawings (no apostrophe)"
     ],
-    "correct": 0,
-    "explanation": "An apostrophe and s commonly show possession by one singular noun.\nHint: Identify whether the owner is one or more than one.",
+    "correct": 2,
+    "explanation": "Children is plural but does not end in s. Its possessive form adds apostrophe-s.\nHint: Do not change an irregular plural back to a singular owner.",
     "structuredExplanation": {
-      "summary": "An apostrophe and s commonly show possession by one singular noun.",
-      "hint": "Identify whether the owner is one or more than one."
+      "summary": "Children is plural but does not end in s. Its possessive form adds apostrophe-s.",
+      "hint": "Do not change an irregular plural back to a singular owner."
     },
     "qualitySchema": "production-v1"
   },
@@ -271,20 +315,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "Which option correctly explains the multiple owners in “the players' boots”?",
-    "audioPrompt": "Which option correctly explains the multiple owners in “the players' boots”?",
+    "question": "The bicycles belong to several women. How should the ownership phrase be written?",
+    "audioPrompt": "The bicycles belong to several women. How should the ownership phrase be written?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Use “the player's boot” to show one owner.",
-      "Use “the players' boots” to show several owners.",
-      "Use “the players boots” with no ownership mark."
+      "the women' bicycles (apostrophe after women)",
+      "the woman's bicycles (apostrophe after woman)",
+      "the women bicycles (no apostrophe)",
+      "the women's bicycles (apostrophe after women)"
     ],
-    "correct": 1,
-    "explanation": "For a regular plural ending in s, the possessive apostrophe follows the plural s.\nHint: First make the owner plural, then show possession.",
+    "correct": 3,
+    "explanation": "Women is plural but does not end in s. Its possessive form adds apostrophe-s.\nHint: Do not change an irregular plural back to a singular owner.",
     "structuredExplanation": {
-      "summary": "For a regular plural ending in s, the possessive apostrophe follows the plural s.",
-      "hint": "First make the owner plural, then show possession."
+      "summary": "Women is plural but does not end in s. Its possessive form adds apostrophe-s.",
+      "hint": "Do not change an irregular plural back to a singular owner."
     },
     "qualitySchema": "production-v1"
   },
@@ -295,20 +343,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "In “the player's boot”, what does the apostrophe show?",
-    "audioPrompt": "In “the player's boot”, what does the apostrophe show?",
+    "question": "Read: “We're planting seeds.” What does “We're” show here?",
+    "audioPrompt": "Read: “We're planting seeds.” What does “We're” show here?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "The noun is shortened from two words.",
-      "The noun names several owners.",
-      "One noun owns or is connected with something."
+      "A contraction of we are",
+      "A possessive form of we",
+      "An ordinary plural noun",
+      "A contraction of we were"
     ],
-    "correct": 2,
-    "explanation": "The apostrophe in a singular possessive marks ownership or connection.\nHint: Look at the noun immediately before the apostrophe.",
+    "correct": 0,
+    "explanation": "We’re expands to we are in this sentence.\nHint: Try expanding a contraction or identifying the owner.",
     "structuredExplanation": {
-      "summary": "The apostrophe in a singular possessive marks ownership or connection.",
-      "hint": "Look at the noun immediately before the apostrophe."
+      "summary": "We’re expands to we are in this sentence.",
+      "hint": "Try expanding a contraction or identifying the owner."
     },
     "qualitySchema": "production-v1"
   },
@@ -319,20 +371,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "In “the players' boots”, where is the apostrophe placed?",
-    "audioPrompt": "In “the players' boots”, where is the apostrophe placed?",
+    "question": "Read: “The teachers' meeting starts soon.” What does “teachers'” show here?",
+    "audioPrompt": "Read: “The teachers' meeting starts soon.” What does “teachers'” show here?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "After the plural s.",
-      "Before the plural s.",
-      "At the start of the phrase."
+      "A meeting for one teacher",
+      "A meeting for several teachers",
+      "A contraction of teacher is",
+      "An ordinary plural with no relationship"
     ],
-    "correct": 0,
-    "explanation": "Regular plural possessives place the apostrophe after the plural s.\nHint: Find the plural owner before adding the possession mark.",
+    "correct": 1,
+    "explanation": "The apostrophe follows plural teachers, showing the meeting belongs to that group.\nHint: Try expanding a contraction or identifying the owner.",
     "structuredExplanation": {
-      "summary": "Regular plural possessives place the apostrophe after the plural s.",
-      "hint": "Find the plural owner before adding the possession mark."
+      "summary": "The apostrophe follows plural teachers, showing the meeting belongs to that group.",
+      "hint": "Try expanding a contraction or identifying the owner."
     },
     "qualitySchema": "production-v1"
   },
@@ -343,20 +399,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "Which explanation correctly compares “we'll” and “the player's boot”?",
-    "audioPrompt": "Which explanation correctly compares “we'll” and “the player's boot”?",
+    "question": "Several foxes share a den. Repair “The foxe’s den was hidden.”",
+    "audioPrompt": "Several foxes share a den. Repair “The foxe’s den was hidden.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Both apostrophes make nouns plural.",
-      "In “we'll” the apostrophe marks missing letters; in “the player's boot” it marks possession.",
-      "Both apostrophes mark missing letters only."
+      "The fox's den was hidden. (apostrophe after fox)",
+      "The foxes's den was hidden. (apostrophe after foxes)",
+      "The foxes' den was hidden. (apostrophe after foxes)",
+      "The foxes den was hidden. (no apostrophe)"
     ],
-    "correct": 1,
-    "explanation": "Apostrophes have different jobs in contractions and possessives.\nHint: Expand the contraction, then identify the owner in the phrase.",
+    "correct": 2,
+    "explanation": "Foxes is the full plural owner; place an apostrophe after its final s.\nHint: Check the intended meaning before changing punctuation.",
     "structuredExplanation": {
-      "summary": "Apostrophes have different jobs in contractions and possessives.",
-      "hint": "Expand the contraction, then identify the owner in the phrase."
+      "summary": "Foxes is the full plural owner; place an apostrophe after its final s.",
+      "hint": "Check the intended meaning before changing punctuation."
     },
     "qualitySchema": "production-v1"
   },
@@ -367,20 +427,24 @@ window.skillrTestQuestions = [
     "skill": "Apostrophes in Contractions and Possession",
     "printable": true,
     "type": "single",
-    "question": "A student writes “the players boots\" for several owners. What edit is needed?",
-    "audioPrompt": "A student writes “the players boots\" for several owners. What edit is needed?",
+    "question": "A writer shortened “We are sure it is safe.” Which revision keeps both meanings?",
+    "audioPrompt": "A writer shortened “We are sure it is safe.” Which revision keeps both meanings?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none"
+    },
     "answers": [
-      "Add an apostrophe before the first letter.",
-      "Remove the plural s.",
-      "Add an apostrophe after the plural s."
+      "Were sure its safe. (no apostrophe)",
+      "We're sure its safe. (apostrophe after We)",
+      "Were sure it's safe. (apostrophe after it)",
+      "We're sure it's safe. (apostrophes after We and it)"
     ],
-    "correct": 2,
-    "explanation": "The apostrophe after a regular plural noun shows possession by several owners.\nHint: Keep the plural form and mark ownership after it.",
+    "correct": 3,
+    "explanation": "We’re means we are, and it’s means it is. Both contractions need their apostrophes.\nHint: Check the intended meaning before changing punctuation.",
     "structuredExplanation": {
-      "summary": "The apostrophe after a regular plural noun shows possession by several owners.",
-      "hint": "Keep the plural form and mark ownership after it."
+      "summary": "We’re means we are, and it’s means it is. Both contractions need their apostrophes.",
+      "hint": "Check the intended meaning before changing punctuation."
     },
     "qualitySchema": "production-v1"
   }
