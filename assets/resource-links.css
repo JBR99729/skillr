@@ -9,3 +9,13 @@
 #skillr-resource-links :focus-visible{outline:3px solid #d78c09;outline-offset:3px}
 body:has(>#skillr-resource-links){padding-bottom:calc(76px + env(safe-area-inset-bottom))}
 @media print{#skillr-resource-links{display:none!important}body:has(>#skillr-resource-links){padding-bottom:0}}
+
+@media(max-width:480px){
+#skillr-resource-links{right:max(10px,env(safe-area-inset-right));bottom:max(10px,env(safe-area-inset-bottom));max-width:calc(100vw - 20px)}
+#skillr-resource-links>summary{display:block;list-style:none;white-space:nowrap;min-height:40px;padding:9px 13px;border-radius:999px;font-size:13px;line-height:20px}
+#skillr-resource-links>summary::-webkit-details-marker{display:none}
+#skillr-resource-links>summary::before{content:"▸";margin-right:5px}
+#skillr-resource-links[open]>summary::before{content:"▾"}
+#skillr-resource-links nav{width:min(250px,calc(100vw - 20px));max-width:calc(100vw - 20px)}
+body:has(>#skillr-resource-links){padding-bottom:calc(62px + env(safe-area-inset-bottom))}
+}

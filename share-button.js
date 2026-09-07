@@ -177,7 +177,7 @@
     heading.style.lineHeight = "1.3";
 
     var supporting = document.createElement("p");
-    supporting.textContent = "Explore Teach & Explain for classroom teaching and explanations at home. Teachers can follow SkillrHub on TPT, then email us to request a free sample before buying.";
+    supporting.textContent = "Explore classroom-ready teaching slides and matching worksheets. Product previews and purchases are available securely through our TPT store."
     supporting.style.margin = "8px 0 0";
 
     var link = document.createElement("a");
