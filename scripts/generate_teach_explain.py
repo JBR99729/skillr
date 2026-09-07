@@ -41,7 +41,8 @@ def search():
 def card(p):
     label = 'View free sample' if p.get('resourceType') == 'teaching-sample' else 'View slide pack'
     price = 'Free sample' if p.get('resourceType') == 'teaching-sample' else f'US${float(p["price"]):.2f}'
-    return f'<article class="product-card"><a href="{e(p["url"])}"><img src="{e(p["image"])}" alt="{e(p["title"])} preview" loading="lazy"><h2>{e(p["title"])}</h2></a><p>{e(p["description"])}</p><p class="small">{e(" · ".join(p["curriculumCodes"]))}</p><p class="price">{e(price)}</p><a href="{e(p["url"])}">{e(label)}</a></article>'
+    paid = (f' <a class="button" href="{e(p["paidTptUrl"])}" target="_blank" rel="noopener noreferrer">Buy full pack — US$6.99</a>' if p.get('paidTptUrl') else '')
+    return f'<article class="product-card"><a href="{e(p["url"])}"><img src="{e(p["image"])}" alt="{e(p["title"])} preview" loading="lazy"><h2>{e(p["title"])}</h2></a><p>{e(p["description"])}</p><p class="small">{e(" · ".join(p["curriculumCodes"]))}</p><p class="price">{e(price)}' + (' · Full pack US$6.99' if p.get('paidTptUrl') else '') + f'</p><a href="{e(p["url"])}">{e(label)}</a>' + paid + '</article>'
 
 def build():
     products = json.loads((ROOT/'data/print-and-go-products.json').read_text())
@@ -71,7 +72,7 @@ def build():
     paths=[page(HOME,'Teach & Explain: Teaching Slides for Teachers and Parents','Browse optional SkillrHub teaching slides by year, subject and topic for classroom lessons and explanations at home. Request a free sample before buying.',crumbs,intro+empty+search()+'<section data-browse aria-label="Browse by year"><div class="category-grid">'+''.join(cards)+'</div></section>')]
     for year in sorted({p['year'] for p in slides}):
         year_products=[p for p in slides if p['year']==year]; yl=year_products[0]['yearLabel']; yp=f'{BASE}/year-{year}/'; yc=crumbs+[(yl,yp)]
-        subjects=''.join(f'<a class="category-card" href="{yp}{s}/"><h2>{label}</h2><span>Browse topics</span></a>' if any(p['subject']==s for p in year_products) else f'<div class="category-card unavailable" aria-disabled="true"><h2>{label}</h2><span>Coming soon</span></div>' for s,label in [('maths','Maths'),('science','Science'),('english','English')])
+        subjects=''.join(f'<a class="category-card" href="{yp}{s}/"><h2>{label}</h2><span>Browse topics</span></a>' if any(p['subject']==s for p in year_products) else f'<div class="category-card unavailable" aria-disabled="true"><h2>{label}</h2><span>Coming soon</span></div>' for s,label in [('maths','Maths'),('science','Science')])
         paths.append(page(yp,yl+' Teaching Slides','Browse '+yl+' slide packs for teachers and parents.',yc,f'<h1>{yl} teaching slides</h1>'+search()+'<section data-browse><div class="category-grid">'+subjects+'</div></section>',f'data-year="{year}"'))
         for subject in sorted({p['subject'] for p in year_products}):
             ps=[p for p in year_products if p['subject']==subject]; label=ps[0]['subjectLabel']; sp=yp+subject+'/'; sc=yc+[(label,sp)]
