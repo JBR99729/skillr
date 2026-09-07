@@ -1,0 +1,745 @@
+{
+  "status": "PASS",
+  "baseline": "4a808a4acae1aca0e2cc11ae9f48872b9b187a98",
+  "codes": 5,
+  "questions": 320,
+  "checks": [
+    "all production validators",
+    "identity and bank preservation",
+    "all legacy schema keys preserved",
+    "unique prompts",
+    "eight strands at 6 practice +2 test",
+    "actual HTML question-script ownership and order",
+    "source/runtime/feedback parity",
+    "practice mirror equality",
+    "result/review/retake route presence",
+    "English subject badge remains pending"
+  ],
+  "results": [
+    {
+      "code": "AC9E3LA01",
+      "status": "PASS",
+      "preservedSourceIds": 56,
+      "addedPracticeIds": 8,
+      "coverage": {
+        "sharing_speaking_turns": {
+          "practice": [
+            "AC9E3LA01-P-001",
+            "AC9E3LA01-P-002",
+            "AC9E3LA01-P-003",
+            "AC9E3LA01-P-004",
+            "AC9E3LA01-P-005",
+            "AC9E3LA01-P-006"
+          ],
+          "test": [
+            "AC9E3LA01-T-001",
+            "AC9E3LA01-T-002"
+          ]
+        },
+        "matching_formality_to_audience": {
+          "practice": [
+            "AC9E3LA01-P-007",
+            "AC9E3LA01-P-008",
+            "AC9E3LA01-P-009",
+            "AC9E3LA01-P-010",
+            "AC9E3LA01-P-011",
+            "AC9E3LA01-P-012"
+          ],
+          "test": [
+            "AC9E3LA01-T-003",
+            "AC9E3LA01-T-004"
+          ]
+        },
+        "building_shared_ideas": {
+          "practice": [
+            "AC9E3LA01-P-013",
+            "AC9E3LA01-P-014",
+            "AC9E3LA01-P-015",
+            "AC9E3LA01-P-016",
+            "AC9E3LA01-P-017",
+            "AC9E3LA01-P-018"
+          ],
+          "test": [
+            "AC9E3LA01-T-005",
+            "AC9E3LA01-T-006"
+          ]
+        },
+        "clarifying_shared_meaning": {
+          "practice": [
+            "AC9E3LA01-P-019",
+            "AC9E3LA01-P-020",
+            "AC9E3LA01-P-021",
+            "AC9E3LA01-P-022",
+            "AC9E3LA01-P-023",
+            "AC9E3LA01-P-024"
+          ],
+          "test": [
+            "AC9E3LA01-T-007",
+            "AC9E3LA01-T-008"
+          ]
+        },
+        "respectful_disagreement": {
+          "practice": [
+            "AC9E3LA01-P-025",
+            "AC9E3LA01-P-026",
+            "AC9E3LA01-P-027",
+            "AC9E3LA01-P-028",
+            "AC9E3LA01-P-029",
+            "AC9E3LA01-P-030"
+          ],
+          "test": [
+            "AC9E3LA01-T-009",
+            "AC9E3LA01-T-010"
+          ]
+        },
+        "giving_useful_feedback": {
+          "practice": [
+            "AC9E3LA01-P-031",
+            "AC9E3LA01-P-032",
+            "AC9E3LA01-P-033",
+            "AC9E3LA01-P-034",
+            "AC9E3LA01-P-035",
+            "AC9E3LA01-P-036"
+          ],
+          "test": [
+            "AC9E3LA01-T-011",
+            "AC9E3LA01-T-012"
+          ]
+        },
+        "agreeing_discussion_procedures": {
+          "practice": [
+            "AC9E3LA01-P-037",
+            "AC9E3LA01-P-038",
+            "AC9E3LA01-P-039",
+            "AC9E3LA01-P-040",
+            "AC9E3LA01-P-041",
+            "AC9E3LA01-P-042"
+          ],
+          "test": [
+            "AC9E3LA01-T-013",
+            "AC9E3LA01-T-014"
+          ]
+        },
+        "respecting_context_specific_conventions": {
+          "practice": [
+            "AC9E3LA01-P-043",
+            "AC9E3LA01-P-044",
+            "AC9E3LA01-P-045",
+            "AC9E3LA01-P-046",
+            "AC9E3LA01-P-047",
+            "AC9E3LA01-P-048"
+          ],
+          "test": [
+            "AC9E3LA01-T-015",
+            "AC9E3LA01-T-016"
+          ]
+        }
+      },
+      "stages": {
+        "apply": 35,
+        "recognise": 4,
+        "reason": 25
+      },
+      "routes": [
+        {
+          "bank": "practice",
+          "count": 48,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la01/practice/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 40
+        },
+        {
+          "bank": "test",
+          "count": 16,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la01/test/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 16
+        }
+      ]
+    },
+    {
+      "code": "AC9E3LA02",
+      "status": "PASS",
+      "preservedSourceIds": 56,
+      "addedPracticeIds": 8,
+      "coverage": {
+        "degrees_of_obligation": {
+          "practice": [
+            "AC9E3LA02-P-001",
+            "AC9E3LA02-P-002",
+            "AC9E3LA02-P-003",
+            "AC9E3LA02-P-004",
+            "AC9E3LA02-P-005",
+            "AC9E3LA02-P-006"
+          ],
+          "test": [
+            "AC9E3LA02-T-001",
+            "AC9E3LA02-T-002"
+          ]
+        },
+        "degrees_of_probability": {
+          "practice": [
+            "AC9E3LA02-P-007",
+            "AC9E3LA02-P-008",
+            "AC9E3LA02-P-009",
+            "AC9E3LA02-P-010",
+            "AC9E3LA02-P-011",
+            "AC9E3LA02-P-012"
+          ],
+          "test": [
+            "AC9E3LA02-T-003",
+            "AC9E3LA02-T-004"
+          ]
+        },
+        "emotional_intensity": {
+          "practice": [
+            "AC9E3LA02-P-013",
+            "AC9E3LA02-P-014",
+            "AC9E3LA02-P-015",
+            "AC9E3LA02-P-016",
+            "AC9E3LA02-P-017",
+            "AC9E3LA02-P-018"
+          ],
+          "test": [
+            "AC9E3LA02-T-005",
+            "AC9E3LA02-T-006"
+          ]
+        },
+        "evaluating_with_adjectives": {
+          "practice": [
+            "AC9E3LA02-P-019",
+            "AC9E3LA02-P-020",
+            "AC9E3LA02-P-021",
+            "AC9E3LA02-P-022",
+            "AC9E3LA02-P-023",
+            "AC9E3LA02-P-024"
+          ],
+          "test": [
+            "AC9E3LA02-T-007",
+            "AC9E3LA02-T-008"
+          ]
+        },
+        "evaluating_with_verbs": {
+          "practice": [
+            "AC9E3LA02-P-025",
+            "AC9E3LA02-P-026",
+            "AC9E3LA02-P-027",
+            "AC9E3LA02-P-028",
+            "AC9E3LA02-P-029",
+            "AC9E3LA02-P-030"
+          ],
+          "test": [
+            "AC9E3LA02-T-009",
+            "AC9E3LA02-T-010"
+          ]
+        },
+        "modifying_strength_with_adverbs": {
+          "practice": [
+            "AC9E3LA02-P-031",
+            "AC9E3LA02-P-032",
+            "AC9E3LA02-P-033",
+            "AC9E3LA02-P-034",
+            "AC9E3LA02-P-035",
+            "AC9E3LA02-P-036"
+          ],
+          "test": [
+            "AC9E3LA02-T-011",
+            "AC9E3LA02-T-012"
+          ]
+        },
+        "context_and_connotation": {
+          "practice": [
+            "AC9E3LA02-P-037",
+            "AC9E3LA02-P-038",
+            "AC9E3LA02-P-039",
+            "AC9E3LA02-P-040",
+            "AC9E3LA02-P-041",
+            "AC9E3LA02-P-042"
+          ],
+          "test": [
+            "AC9E3LA02-T-013",
+            "AC9E3LA02-T-014"
+          ]
+        },
+        "revising_force_in_context": {
+          "practice": [
+            "AC9E3LA02-P-043",
+            "AC9E3LA02-P-044",
+            "AC9E3LA02-P-045",
+            "AC9E3LA02-P-046",
+            "AC9E3LA02-P-047",
+            "AC9E3LA02-P-048"
+          ],
+          "test": [
+            "AC9E3LA02-T-015",
+            "AC9E3LA02-T-016"
+          ]
+        }
+      },
+      "stages": {
+        "recognise": 7,
+        "apply": 33,
+        "reason": 24
+      },
+      "routes": [
+        {
+          "bank": "practice",
+          "count": 48,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la02/practice/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 40
+        },
+        {
+          "bank": "test",
+          "count": 16,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la02/test/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 16
+        }
+      ]
+    },
+    {
+      "code": "AC9E3LA03",
+      "status": "PASS",
+      "preservedSourceIds": 56,
+      "addedPracticeIds": 8,
+      "coverage": {
+        "informative_report_features": {
+          "practice": [
+            "AC9E3LA03-P-001",
+            "AC9E3LA03-P-002",
+            "AC9E3LA03-P-003",
+            "AC9E3LA03-P-004",
+            "AC9E3LA03-P-005",
+            "AC9E3LA03-P-006"
+          ],
+          "test": [
+            "AC9E3LA03-T-001",
+            "AC9E3LA03-T-002"
+          ]
+        },
+        "recount_and_autobiography": {
+          "practice": [
+            "AC9E3LA03-P-007",
+            "AC9E3LA03-P-008",
+            "AC9E3LA03-P-009",
+            "AC9E3LA03-P-010",
+            "AC9E3LA03-P-011",
+            "AC9E3LA03-P-012"
+          ],
+          "test": [
+            "AC9E3LA03-T-003",
+            "AC9E3LA03-T-004"
+          ]
+        },
+        "narrative_structure_and_language": {
+          "practice": [
+            "AC9E3LA03-P-013",
+            "AC9E3LA03-P-014",
+            "AC9E3LA03-P-015",
+            "AC9E3LA03-P-016",
+            "AC9E3LA03-P-017",
+            "AC9E3LA03-P-018"
+          ],
+          "test": [
+            "AC9E3LA03-T-005",
+            "AC9E3LA03-T-006"
+          ]
+        },
+        "sequence_and_explanation": {
+          "practice": [
+            "AC9E3LA03-P-019",
+            "AC9E3LA03-P-020",
+            "AC9E3LA03-P-021",
+            "AC9E3LA03-P-022",
+            "AC9E3LA03-P-023",
+            "AC9E3LA03-P-024"
+          ],
+          "test": [
+            "AC9E3LA03-T-007",
+            "AC9E3LA03-T-008"
+          ]
+        },
+        "comparison_and_problem_solution": {
+          "practice": [
+            "AC9E3LA03-P-025",
+            "AC9E3LA03-P-026",
+            "AC9E3LA03-P-027",
+            "AC9E3LA03-P-028",
+            "AC9E3LA03-P-029",
+            "AC9E3LA03-P-030"
+          ],
+          "test": [
+            "AC9E3LA03-T-009",
+            "AC9E3LA03-T-010"
+          ]
+        },
+        "simple_argument_structure": {
+          "practice": [
+            "AC9E3LA03-P-031",
+            "AC9E3LA03-P-032",
+            "AC9E3LA03-P-033",
+            "AC9E3LA03-P-034",
+            "AC9E3LA03-P-035",
+            "AC9E3LA03-P-036"
+          ],
+          "test": [
+            "AC9E3LA03-T-011",
+            "AC9E3LA03-T-012"
+          ]
+        },
+        "reasoned_personal_response": {
+          "practice": [
+            "AC9E3LA03-P-037",
+            "AC9E3LA03-P-038",
+            "AC9E3LA03-P-039",
+            "AC9E3LA03-P-040",
+            "AC9E3LA03-P-041",
+            "AC9E3LA03-P-042"
+          ],
+          "test": [
+            "AC9E3LA03-T-013",
+            "AC9E3LA03-T-014"
+          ]
+        },
+        "verse_and_purpose_comparisons": {
+          "practice": [
+            "AC9E3LA03-P-043",
+            "AC9E3LA03-P-044",
+            "AC9E3LA03-P-045",
+            "AC9E3LA03-P-046",
+            "AC9E3LA03-P-047",
+            "AC9E3LA03-P-048"
+          ],
+          "test": [
+            "AC9E3LA03-T-015",
+            "AC9E3LA03-T-016"
+          ]
+        }
+      },
+      "stages": {
+        "recognise": 15,
+        "apply": 26,
+        "reason": 23
+      },
+      "routes": [
+        {
+          "bank": "practice",
+          "count": 48,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la03/practice/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 40
+        },
+        {
+          "bank": "test",
+          "count": 16,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la03/test/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 16
+        }
+      ]
+    },
+    {
+      "code": "AC9E3LA04",
+      "status": "PASS",
+      "preservedSourceIds": 56,
+      "addedPracticeIds": 8,
+      "coverage": {
+        "choosing_topic_sentence_breadth": {
+          "practice": [
+            "AC9E3LA04-P-001",
+            "AC9E3LA04-P-002",
+            "AC9E3LA04-P-003",
+            "AC9E3LA04-P-004",
+            "AC9E3LA04-P-005",
+            "AC9E3LA04-P-006"
+          ],
+          "test": [
+            "AC9E3LA04-T-001",
+            "AC9E3LA04-T-002"
+          ]
+        },
+        "selecting_supporting_details": {
+          "practice": [
+            "AC9E3LA04-P-007",
+            "AC9E3LA04-P-008",
+            "AC9E3LA04-P-009",
+            "AC9E3LA04-P-010",
+            "AC9E3LA04-P-011",
+            "AC9E3LA04-P-012"
+          ],
+          "test": [
+            "AC9E3LA04-T-003",
+            "AC9E3LA04-T-004"
+          ]
+        },
+        "grouping_related_information": {
+          "practice": [
+            "AC9E3LA04-P-013",
+            "AC9E3LA04-P-014",
+            "AC9E3LA04-P-015",
+            "AC9E3LA04-P-016",
+            "AC9E3LA04-P-017",
+            "AC9E3LA04-P-018"
+          ],
+          "test": [
+            "AC9E3LA04-T-005",
+            "AC9E3LA04-T-006"
+          ]
+        },
+        "choosing_paragraph_breaks": {
+          "practice": [
+            "AC9E3LA04-P-019",
+            "AC9E3LA04-P-020",
+            "AC9E3LA04-P-021",
+            "AC9E3LA04-P-022",
+            "AC9E3LA04-P-023",
+            "AC9E3LA04-P-024"
+          ],
+          "test": [
+            "AC9E3LA04-T-007",
+            "AC9E3LA04-T-008"
+          ]
+        },
+        "ordering_paragraphs": {
+          "practice": [
+            "AC9E3LA04-P-025",
+            "AC9E3LA04-P-026",
+            "AC9E3LA04-P-027",
+            "AC9E3LA04-P-028",
+            "AC9E3LA04-P-029",
+            "AC9E3LA04-P-030"
+          ],
+          "test": [
+            "AC9E3LA04-T-009",
+            "AC9E3LA04-T-010"
+          ]
+        },
+        "removing_or_moving_details": {
+          "practice": [
+            "AC9E3LA04-P-031",
+            "AC9E3LA04-P-032",
+            "AC9E3LA04-P-033",
+            "AC9E3LA04-P-034",
+            "AC9E3LA04-P-035",
+            "AC9E3LA04-P-036"
+          ],
+          "test": [
+            "AC9E3LA04-T-011",
+            "AC9E3LA04-T-012"
+          ]
+        },
+        "narrative_paragraph_variation": {
+          "practice": [
+            "AC9E3LA04-P-037",
+            "AC9E3LA04-P-038",
+            "AC9E3LA04-P-039",
+            "AC9E3LA04-P-040",
+            "AC9E3LA04-P-041",
+            "AC9E3LA04-P-042"
+          ],
+          "test": [
+            "AC9E3LA04-T-013",
+            "AC9E3LA04-T-014"
+          ]
+        },
+        "repairing_paragraph_cohesion": {
+          "practice": [
+            "AC9E3LA04-P-043",
+            "AC9E3LA04-P-044",
+            "AC9E3LA04-P-045",
+            "AC9E3LA04-P-046",
+            "AC9E3LA04-P-047",
+            "AC9E3LA04-P-048"
+          ],
+          "test": [
+            "AC9E3LA04-T-015",
+            "AC9E3LA04-T-016"
+          ]
+        }
+      },
+      "stages": {
+        "apply": 38,
+        "reason": 25,
+        "recognise": 1
+      },
+      "routes": [
+        {
+          "bank": "practice",
+          "count": 48,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la04/practice/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 40
+        },
+        {
+          "bank": "test",
+          "count": 16,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la04/test/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 16
+        }
+      ]
+    },
+    {
+      "code": "AC9E3LA05",
+      "status": "PASS",
+      "preservedSourceIds": 56,
+      "addedPracticeIds": 8,
+      "coverage": {
+        "titles_headings_and_subheadings": {
+          "practice": [
+            "AC9E3LA05-P-001",
+            "AC9E3LA05-P-002",
+            "AC9E3LA05-P-003",
+            "AC9E3LA05-P-004",
+            "AC9E3LA05-P-005",
+            "AC9E3LA05-P-006"
+          ],
+          "test": [
+            "AC9E3LA05-T-001",
+            "AC9E3LA05-T-002"
+          ]
+        },
+        "contents_and_page_navigation": {
+          "practice": [
+            "AC9E3LA05-P-007",
+            "AC9E3LA05-P-008",
+            "AC9E3LA05-P-009",
+            "AC9E3LA05-P-010",
+            "AC9E3LA05-P-011",
+            "AC9E3LA05-P-012"
+          ],
+          "test": [
+            "AC9E3LA05-T-003",
+            "AC9E3LA05-T-004"
+          ]
+        },
+        "chapter_headings_in_narratives": {
+          "practice": [
+            "AC9E3LA05-P-013",
+            "AC9E3LA05-P-014",
+            "AC9E3LA05-P-015",
+            "AC9E3LA05-P-016",
+            "AC9E3LA05-P-017",
+            "AC9E3LA05-P-018"
+          ],
+          "test": [
+            "AC9E3LA05-T-005",
+            "AC9E3LA05-T-006"
+          ]
+        },
+        "index_and_glossary": {
+          "practice": [
+            "AC9E3LA05-P-019",
+            "AC9E3LA05-P-020",
+            "AC9E3LA05-P-021",
+            "AC9E3LA05-P-022",
+            "AC9E3LA05-P-023",
+            "AC9E3LA05-P-024"
+          ],
+          "test": [
+            "AC9E3LA05-T-007",
+            "AC9E3LA05-T-008"
+          ]
+        },
+        "meaningful_hyperlink_words": {
+          "practice": [
+            "AC9E3LA05-P-025",
+            "AC9E3LA05-P-026",
+            "AC9E3LA05-P-027",
+            "AC9E3LA05-P-028",
+            "AC9E3LA05-P-029",
+            "AC9E3LA05-P-030"
+          ],
+          "test": [
+            "AC9E3LA05-T-009",
+            "AC9E3LA05-T-010"
+          ]
+        },
+        "menus_and_navigation_controls": {
+          "practice": [
+            "AC9E3LA05-P-031",
+            "AC9E3LA05-P-032",
+            "AC9E3LA05-P-033",
+            "AC9E3LA05-P-034",
+            "AC9E3LA05-P-035",
+            "AC9E3LA05-P-036"
+          ],
+          "test": [
+            "AC9E3LA05-T-011",
+            "AC9E3LA05-T-012"
+          ]
+        },
+        "comparing_print_and_digital_features": {
+          "practice": [
+            "AC9E3LA05-P-037",
+            "AC9E3LA05-P-038",
+            "AC9E3LA05-P-039",
+            "AC9E3LA05-P-040",
+            "AC9E3LA05-P-041",
+            "AC9E3LA05-P-042"
+          ],
+          "test": [
+            "AC9E3LA05-T-013",
+            "AC9E3LA05-T-014"
+          ]
+        },
+        "selecting_and_repairing_navigation": {
+          "practice": [
+            "AC9E3LA05-P-043",
+            "AC9E3LA05-P-044",
+            "AC9E3LA05-P-045",
+            "AC9E3LA05-P-046",
+            "AC9E3LA05-P-047",
+            "AC9E3LA05-P-048"
+          ],
+          "test": [
+            "AC9E3LA05-T-015",
+            "AC9E3LA05-T-016"
+          ]
+        }
+      },
+      "stages": {
+        "apply": 32,
+        "recognise": 8,
+        "reason": 24
+      },
+      "routes": [
+        {
+          "bank": "practice",
+          "count": 48,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la05/practice/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 40
+        },
+        {
+          "bank": "test",
+          "count": 16,
+          "questionScripts": [
+            "quiz/year-3/english/ac9e3la05/test/questions.js"
+          ],
+          "sourceRuntimeParity": true,
+          "preservedRuntimeIds": 16
+        }
+      ]
+    }
+  ]
+}

@@ -4,23 +4,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-001",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "degrees of obligation",
     "printable": true,
     "type": "single",
-    "question": "In the statement “the class might visit the zoo”, which word or phrase could make the message gentler?",
-    "audioPrompt": "In the statement “the class might visit the zoo”, which word or phrase could make the message gentler?",
+    "question": "A sign says, “Visitors must sign in.” What does “must” show here?",
+    "audioPrompt": "A sign says, “Visitors must sign in.” What does “must” show here?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "must",
-      "might",
-      "certainly without doubt"
+      "Signing in is required.",
+      "Signing in happened yesterday.",
+      "Signing in is only a possibility.",
+      "Signing in is the writer's favourite activity."
     ],
-    "correct": 1,
-    "explanation": "Modal and evaluative language can make a message gentler or stronger.\nHint: Choose the least certain or least intense wording.",
+    "correct": 0,
+    "explanation": "In this instruction, “must” expresses a requirement rather than a suggestion.\nHint: Distinguish a requirement from advice or a choice.",
     "structuredExplanation": {
-      "summary": "Modal and evaluative language can make a message gentler or stronger.",
-      "hint": "Choose the least certain or least intense wording."
+      "summary": "In this instruction, “must” expresses a requirement rather than a suggestion.",
+      "hint": "Distinguish a requirement from advice or a choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +34,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-002",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "degrees of obligation",
     "printable": true,
     "type": "single",
-    "question": "While discussing “the class might visit the zoo”, which sentence makes the need to act most forceful?",
-    "audioPrompt": "While discussing “the class might visit the zoo”, which sentence makes the need to act most forceful?",
+    "question": "A club allows members to bring a cushion, but it is optional. Which notice matches?",
+    "audioPrompt": "A club allows members to bring a cushion, but it is optional. Which notice matches?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "We might act now.",
-      "We could act now.",
-      "We must act now."
+      "“You must bring a cushion.”",
+      "“You may bring a cushion if you wish.”",
+      "“You are required to bring a cushion.”",
+      "“You have to bring a cushion.”"
     ],
-    "correct": 2,
-    "explanation": "Must expresses a stronger obligation than might or could.\nHint: Place the modal verbs on a scale from possible to necessary.",
+    "correct": 1,
+    "explanation": "“May” and “if you wish” allow a choice; the other notices make it compulsory.\nHint: Distinguish a requirement from advice or a choice.",
     "structuredExplanation": {
-      "summary": "Must expresses a stronger obligation than might or could.",
-      "hint": "Place the modal verbs on a scale from possible to necessary."
+      "summary": "“May” and “if you wish” allow a choice; the other notices make it compulsory.",
+      "hint": "Distinguish a requirement from advice or a choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +64,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-003",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "degrees of obligation",
     "printable": true,
     "type": "single",
-    "question": "Which sentence gives a cautious evaluation connected with “the class might visit the zoo”?",
-    "audioPrompt": "Which sentence gives a cautious evaluation connected with “the class might visit the zoo”?",
+    "question": "A teacher wants to give advice, not an order: “You [blank] check your spelling before handing this in.” Which word fits?",
+    "audioPrompt": "A teacher wants to give advice, not an order: “You [blank] check your spelling before handing this in.” Which word fits?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The evidence suggests that the class might visit the zoo.",
-      "The evidence proves forever that the class might visit the zoo.",
-      "Everyone knows without checking that the class might visit the zoo."
+      "will",
+      "must",
+      "did",
+      "should"
     ],
-    "correct": 0,
-    "explanation": "Cautious evaluation matches a claim to limited evidence.\nHint: Look for wording that leaves room for uncertainty.",
+    "correct": 3,
+    "explanation": "“Should” presents checking as advice here; “must” would make the requirement stronger.\nHint: Distinguish a requirement from advice or a choice.",
     "structuredExplanation": {
-      "summary": "Cautious evaluation matches a claim to limited evidence.",
-      "hint": "Look for wording that leaves room for uncertainty."
+      "summary": "“Should” presents checking as advice here; “must” would make the requirement stronger.",
+      "hint": "Distinguish a requirement from advice or a choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +94,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-004",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "degrees of obligation",
     "printable": true,
     "type": "single",
-    "question": "Which sentence expresses the strongest positive emotion about the class might visit the zoo?",
-    "audioPrompt": "Which sentence expresses the strongest positive emotion about the class might visit the zoo?",
+    "question": "A notice changes “Players should wear team shirts” to “Players must wear team shirts.” What changed?",
+    "audioPrompt": "A notice changes “Players should wear team shirts” to “Players must wear team shirts.” What changed?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "I am fairly pleased that the class might visit the zoo.",
-      "I am absolutely delighted that the class might visit the zoo.",
-      "I noticed that the class might visit the zoo."
+      "A requirement became a choice.",
+      "A past event became a future event.",
+      "A negative feeling became praise.",
+      "Advice became a requirement."
     ],
-    "correct": 1,
-    "explanation": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.\nHint: Compare the strength of the feeling words.",
+    "correct": 3,
+    "explanation": "“Must” makes wearing the shirts compulsory, while “should” offers a weaker expectation or advice.\nHint: Distinguish a requirement from advice or a choice.",
     "structuredExplanation": {
-      "summary": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
-      "hint": "Compare the strength of the feeling words."
+      "summary": "“Must” makes wearing the shirts compulsory, while “should” offers a weaker expectation or advice.",
+      "hint": "Distinguish a requirement from advice or a choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +124,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-005",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "degrees of obligation",
     "printable": true,
     "type": "single",
-    "question": "A writer has little evidence for the class might visit the zoo. Which modal verb is most responsible?",
-    "audioPrompt": "A writer has little evidence for the class might visit the zoo. Which modal verb is most responsible?",
+    "question": "Which sentence makes the request to return the kit least forceful while keeping it a request?",
+    "audioPrompt": "Which sentence makes the request to return the kit least forceful while keeping it a request?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "must",
-      "will",
-      "might"
+      "“You are required to return the kit.”",
+      "“Return the kit at once.”",
+      "“Could you return the kit, please?”",
+      "“You must return the kit.”"
     ],
     "correct": 2,
-    "explanation": "Might signals possibility rather than certainty.\nHint: Match the strength of the word to the strength of the evidence.",
+    "explanation": "“Could you” frames the action as a polite request instead of a firm instruction.\nHint: Distinguish a requirement from advice or a choice.",
     "structuredExplanation": {
-      "summary": "Might signals possibility rather than certainty.",
-      "hint": "Match the strength of the word to the strength of the evidence."
+      "summary": "“Could you” frames the action as a polite request instead of a firm instruction.",
+      "hint": "Distinguish a requirement from advice or a choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +154,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-006",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "degrees of obligation",
     "printable": true,
     "type": "single",
-    "question": "Which change makes “the class might visit the zoo” sound more certain?",
-    "audioPrompt": "Which change makes “the class might visit the zoo” sound more certain?",
+    "question": "A safety rule says a door must stay clear. Which rewrite wrongly weakens that requirement?",
+    "audioPrompt": "A safety rule says a door must stay clear. Which rewrite wrongly weakens that requirement?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Change the modal wording to “must”.",
-      "Change it to “might”.",
-      "Remove every verb."
+      "“You have to keep this doorway clear.”",
+      "“You could keep this doorway clear if you like.”",
+      "“Everyone is required to leave this doorway clear.”",
+      "“This doorway must stay clear.”"
     ],
-    "correct": 0,
-    "explanation": "More forceful modal language increases certainty or obligation.\nHint: Choose the change that strengthens the claim.",
+    "correct": 1,
+    "explanation": "Making the rule optional removes its intended force; the other versions retain the requirement.\nHint: Distinguish a requirement from advice or a choice.",
     "structuredExplanation": {
-      "summary": "More forceful modal language increases certainty or obligation.",
-      "hint": "Choose the change that strengthens the claim."
+      "summary": "Making the rule optional removes its intended force; the other versions retain the requirement.",
+      "hint": "Distinguish a requirement from advice or a choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +184,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-007",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "degrees of probability",
     "printable": true,
     "type": "single",
-    "question": "Which judgement is an evaluation rather than a plain fact about the class might visit the zoo?",
-    "audioPrompt": "Which judgement is an evaluation rather than a plain fact about the class might visit the zoo?",
+    "question": "“The parcel might arrive today.” How sure is the speaker?",
+    "audioPrompt": "“The parcel might arrive today.” How sure is the speaker?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The report says the class might visit the zoo.",
-      "It is an impressive result that the class might visit the zoo.",
-      "The sentence contains the words “the class might visit the zoo”."
+      "Arrival today is forbidden.",
+      "The parcel definitely arrived yesterday.",
+      "Arrival today is possible, but not certain.",
+      "Arrival today is guaranteed."
     ],
-    "correct": 1,
-    "explanation": "An evaluation judges quality or value.\nHint: Find the sentence that includes a judgement.",
+    "correct": 2,
+    "explanation": "“Might” expresses a possibility without promising that it will happen.\nHint: Ask how sure the speaker is, using the whole sentence.",
     "structuredExplanation": {
-      "summary": "An evaluation judges quality or value.",
-      "hint": "Find the sentence that includes a judgement."
+      "summary": "“Might” expresses a possibility without promising that it will happen.",
+      "hint": "Ask how sure the speaker is, using the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +214,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-008",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "degrees of probability",
     "printable": true,
     "type": "single",
-    "question": "Why might an author choose “might” instead of “must” when writing about the class might visit the zoo?",
-    "audioPrompt": "Why might an author choose “might” instead of “must” when writing about the class might visit the zoo?",
+    "question": "The team has not heard whether the concert is cancelled. Which message avoids pretending to know?",
+    "audioPrompt": "The team has not heard whether the concert is cancelled. Which message avoids pretending to know?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "To prove the claim is always true.",
-      "To remove all meaning from the sentence.",
-      "To show uncertainty or make the suggestion less forceful."
+      "“The concert cannot be cancelled.”",
+      "“The concert may be cancelled; we are waiting for news.”",
+      "“The concert certainly went ahead.”",
+      "“The concert is definitely cancelled.”"
     ],
-    "correct": 2,
-    "explanation": "Gentler modal language can signal uncertainty or politeness.\nHint: Think about how certain the author sounds.",
+    "correct": 1,
+    "explanation": "The first message marks uncertainty and explains that confirmation is still missing.\nHint: Ask how sure the speaker is, using the whole sentence.",
     "structuredExplanation": {
-      "summary": "Gentler modal language can signal uncertainty or politeness.",
-      "hint": "Think about how certain the author sounds."
+      "summary": "The first message marks uncertainty and explains that confirmation is still missing.",
+      "hint": "Ask how sure the speaker is, using the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +244,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-009",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "degrees of probability",
     "printable": true,
     "type": "single",
-    "question": "In the statement “students should bring hats”, which word or phrase could make the message gentler?",
-    "audioPrompt": "In the statement “students should bring hats”, which word or phrase could make the message gentler?",
+    "question": "Which sentence expresses the greatest certainty about tomorrow's delivery?",
+    "audioPrompt": "Which sentence expresses the greatest certainty about tomorrow's delivery?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "could",
-      "must",
-      "certainly without doubt"
+      "“The delivery might arrive tomorrow.”",
+      "“The delivery could arrive tomorrow.”",
+      "“Perhaps the delivery will arrive tomorrow.”",
+      "“The delivery will definitely arrive tomorrow.”"
     ],
-    "correct": 0,
-    "explanation": "Modal and evaluative language can make a message gentler or stronger.\nHint: Choose the least certain or least intense wording.",
+    "correct": 3,
+    "explanation": "“Definitely” makes the strongest claim of certainty among these choices.\nHint: Ask how sure the speaker is, using the whole sentence.",
     "structuredExplanation": {
-      "summary": "Modal and evaluative language can make a message gentler or stronger.",
-      "hint": "Choose the least certain or least intense wording."
+      "summary": "“Definitely” makes the strongest claim of certainty among these choices.",
+      "hint": "Ask how sure the speaker is, using the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +274,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-010",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "degrees of probability",
     "printable": true,
     "type": "single",
-    "question": "While discussing “students should bring hats”, which sentence makes the need to act most forceful?",
-    "audioPrompt": "While discussing “students should bring hats”, which sentence makes the need to act most forceful?",
+    "question": "“Perhaps we'll find the missing page” becomes “We'll certainly find the missing page.” What changes?",
+    "audioPrompt": "“Perhaps we'll find the missing page” becomes “We'll certainly find the missing page.” What changes?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "We might act now.",
-      "We must act now.",
-      "We could act now."
+      "The sentence becomes an instruction to lose the page.",
+      "The speaker sounds less certain.",
+      "The speaker sounds much more certain.",
+      "The page changes from missing to torn."
     ],
-    "correct": 1,
-    "explanation": "Must expresses a stronger obligation than might or could.\nHint: Place the modal verbs on a scale from possible to necessary.",
+    "correct": 2,
+    "explanation": "“Perhaps” allows doubt; “certainly” expresses confidence that the event will happen.\nHint: Ask how sure the speaker is, using the whole sentence.",
     "structuredExplanation": {
-      "summary": "Must expresses a stronger obligation than might or could.",
-      "hint": "Place the modal verbs on a scale from possible to necessary."
+      "summary": "“Perhaps” allows doubt; “certainly” expresses confidence that the event will happen.",
+      "hint": "Ask how sure the speaker is, using the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +304,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-011",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "degrees of probability",
     "printable": true,
     "type": "single",
-    "question": "Why is “The evidence suggests that students should bring hats.” the best answer here? Which sentence gives a cautious evaluation connected with “students should bring hats”?",
-    "audioPrompt": "Why is “The evidence suggests that students should bring hats.” the best answer here? Which sentence gives a cautious evaluation connected with “students should bring hats”?",
+    "question": "A character hears a faint noise but cannot see its source. Which thought matches that limited evidence?",
+    "audioPrompt": "A character hears a faint noise but cannot see its source. Which thought matches that limited evidence?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “The evidence proves forever that students should bring hats.” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "Cautious evaluation matches a claim to limited evidence."
+      "“It is certainly the same bird as yesterday.”",
+      "“There cannot be anything in the roof.”",
+      "“It is definitely a bird in the roof.”",
+      "“It could be a bird in the roof.”"
     ],
-    "correct": 2,
-    "explanation": "Cautious evaluation matches a claim to limited evidence.\nHint: Look for wording that leaves room for uncertainty.",
+    "correct": 3,
+    "explanation": "“Could be” marks a possible explanation without claiming the sound proves it.\nHint: Ask how sure the speaker is, using the whole sentence.",
     "structuredExplanation": {
-      "summary": "Cautious evaluation matches a claim to limited evidence.",
-      "hint": "Look for wording that leaves room for uncertainty."
+      "summary": "“Could be” marks a possible explanation without claiming the sound proves it.",
+      "hint": "Ask how sure the speaker is, using the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +334,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-012",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "degrees of probability",
     "printable": true,
     "type": "single",
-    "question": "Why is “I am absolutely delighted that students should bring hats.” the best answer here? Which sentence expresses the strongest positive emotion about students should bring hats?",
-    "audioPrompt": "Why is “I am absolutely delighted that students should bring hats.” the best answer here? Which sentence expresses the strongest positive emotion about students should bring hats?",
+    "question": "In “It must be nearly lunchtime; I can smell cooking,” is “must” giving an order?",
+    "audioPrompt": "In “It must be nearly lunchtime; I can smell cooking,” is “must” giving an order?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
-      "Because “I am fairly pleased that students should bring hats.” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
+      "No; it expresses the speaker's strong belief.",
+      "Yes; it orders lunch to begin immediately.",
+      "Yes; it tells someone to start cooking.",
+      "No; it describes an event last week."
     ],
     "correct": 0,
-    "explanation": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.\nHint: Compare the strength of the feeling words.",
+    "explanation": "Here “must” expresses a strong conclusion from a clue, not a requirement for someone's behaviour.\nHint: Ask how sure the speaker is, using the whole sentence.",
     "structuredExplanation": {
-      "summary": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
-      "hint": "Compare the strength of the feeling words."
+      "summary": "Here “must” expresses a strong conclusion from a clue, not a requirement for someone's behaviour.",
+      "hint": "Ask how sure the speaker is, using the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +364,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-013",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "emotional intensity",
     "printable": true,
     "type": "single",
-    "question": "Why is “might” the best answer here? A writer has little evidence for students should bring hats. Which modal verb is most responsible?",
-    "audioPrompt": "Why is “might” the best answer here? A writer has little evidence for students should bring hats. Which modal verb is most responsible?",
+    "question": "Which word shows a stronger feeling of fear than “worried”?",
+    "audioPrompt": "Which word shows a stronger feeling of fear than “worried”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “must” sounds familiar.",
-      "Might signals possibility rather than certainty.",
-      "Because the longest-looking option should always be chosen."
+      "curious",
+      "terrified",
+      "calm",
+      "pleased"
     ],
     "correct": 1,
-    "explanation": "Might signals possibility rather than certainty.\nHint: Match the strength of the word to the strength of the evidence.",
+    "explanation": "“Terrified” expresses intense fear; the other choices describe different feelings or calmness.\nHint: Compare words describing the same kind of feeling, not unrelated feelings.",
     "structuredExplanation": {
-      "summary": "Might signals possibility rather than certainty.",
-      "hint": "Match the strength of the word to the strength of the evidence."
+      "summary": "“Terrified” expresses intense fear; the other choices describe different feelings or calmness.",
+      "hint": "Compare words describing the same kind of feeling, not unrelated feelings."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +394,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-014",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "emotional intensity",
     "printable": true,
     "type": "single",
-    "question": "Why is “Change the modal wording to “must”.” the best answer here? Which change makes “students should bring hats” sound more certain?",
-    "audioPrompt": "Why is “Change the modal wording to “must”.” the best answer here? Which change makes “students should bring hats” sound more certain?",
+    "question": "Tess is pleased to see her cousin. Which revision makes the positive feeling stronger?",
+    "audioPrompt": "Tess is pleased to see her cousin. Which revision makes the positive feeling stronger?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Change it to “could”.” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "More forceful modal language increases certainty or obligation."
+      "“Tess is ready to see her cousin.”",
+      "“Tess is delighted to see her cousin.”",
+      "“Tess is unsure about seeing her cousin.”",
+      "“Tess is quiet when she sees her cousin.”"
     ],
-    "correct": 2,
-    "explanation": "More forceful modal language increases certainty or obligation.\nHint: Choose the change that strengthens the claim.",
+    "correct": 1,
+    "explanation": "“Delighted” strengthens the happiness expressed by “pleased”.\nHint: Compare words describing the same kind of feeling, not unrelated feelings.",
     "structuredExplanation": {
-      "summary": "More forceful modal language increases certainty or obligation.",
-      "hint": "Choose the change that strengthens the claim."
+      "summary": "“Delighted” strengthens the happiness expressed by “pleased”.",
+      "hint": "Compare words describing the same kind of feeling, not unrelated feelings."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +424,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-015",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "emotional intensity",
     "printable": true,
     "type": "single",
-    "question": "Why is “It is an impressive result that students should bring hats.” the best answer here? Which judgement is an evaluation rather than a plain fact about students should bring hats?",
-    "audioPrompt": "Why is “It is an impressive result that students should bring hats.” the best answer here? Which judgement is an evaluation rather than a plain fact about students should bring hats?",
+    "question": "The character feels a little annoyed, not extremely angry. Which word best fits?",
+    "audioPrompt": "The character feels a little annoyed, not extremely angry. Which word best fits?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "An evaluation judges quality or value.",
-      "Because “The report says students should bring hats.” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
+      "furious",
+      "enraged",
+      "irritated",
+      "outraged"
     ],
-    "correct": 0,
-    "explanation": "An evaluation judges quality or value.\nHint: Find the sentence that includes a judgement.",
+    "correct": 2,
+    "explanation": "“Irritated” can express a milder annoyance than the intense anger in the other choices.\nHint: Compare words describing the same kind of feeling, not unrelated feelings.",
     "structuredExplanation": {
-      "summary": "An evaluation judges quality or value.",
-      "hint": "Find the sentence that includes a judgement."
+      "summary": "“Irritated” can express a milder annoyance than the intense anger in the other choices.",
+      "hint": "Compare words describing the same kind of feeling, not unrelated feelings."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +454,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-016",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "emotional intensity",
     "printable": true,
     "type": "single",
-    "question": "Why is “To show uncertainty or make the suggestion less forceful.” the best answer here? Why might an author choose “could” instead of “must” when writing about students should bring hats?",
-    "audioPrompt": "Why is “To show uncertainty or make the suggestion less forceful.” the best answer here? Why might an author choose “could” instead of “must” when writing about students should bring hats?",
+    "question": "A story changes “Milo was sad” to “Milo was heartbroken.” What effect does this have?",
+    "audioPrompt": "A story changes “Milo was sad” to “Milo was heartbroken.” What effect does this have?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “To prove the claim is always true.” sounds familiar.",
-      "Gentler modal language can signal uncertainty or politeness.",
-      "Because the longest-looking option should always be chosen."
+      "It makes Milo's sadness seem much deeper.",
+      "It changes sadness into surprise.",
+      "It makes Milo's sadness disappear.",
+      "It tells exactly what caused the sadness."
     ],
-    "correct": 1,
-    "explanation": "Gentler modal language can signal uncertainty or politeness.\nHint: Think about how certain the author sounds.",
+    "correct": 0,
+    "explanation": "“Heartbroken” suggests deep emotional pain; it strengthens the feeling without naming its cause.\nHint: Compare words describing the same kind of feeling, not unrelated feelings.",
     "structuredExplanation": {
-      "summary": "Gentler modal language can signal uncertainty or politeness.",
-      "hint": "Think about how certain the author sounds."
+      "summary": "“Heartbroken” suggests deep emotional pain; it strengthens the feeling without naming its cause.",
+      "hint": "Compare words describing the same kind of feeling, not unrelated feelings."
     },
     "qualitySchema": "production-v1"
   },
@@ -388,23 +484,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-017",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "emotional intensity",
     "printable": true,
     "type": "single",
-    "question": "Why is “pleasant” the best answer here? In the statement “the film was enjoyable”, which word or phrase could make the message gentler?",
-    "audioPrompt": "Why is “pleasant” the best answer here? In the statement “the film was enjoyable”, which word or phrase could make the message gentler?",
+    "question": "Which pair moves from a weaker to a stronger expression of happiness?",
+    "audioPrompt": "Which pair moves from a weaker to a stronger expression of happiness?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “outstanding” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "Modal and evaluative language can make a message gentler or stronger."
+      "worried → curious",
+      "thrilled → pleased",
+      "pleased → thrilled",
+      "furious → calm"
     ],
     "correct": 2,
-    "explanation": "Modal and evaluative language can make a message gentler or stronger.\nHint: Choose the least certain or least intense wording.",
+    "explanation": "“Thrilled” conveys stronger excitement and pleasure than “pleased”.\nHint: Compare words describing the same kind of feeling, not unrelated feelings.",
     "structuredExplanation": {
-      "summary": "Modal and evaluative language can make a message gentler or stronger.",
-      "hint": "Choose the least certain or least intense wording."
+      "summary": "“Thrilled” conveys stronger excitement and pleasure than “pleased”.",
+      "hint": "Compare words describing the same kind of feeling, not unrelated feelings."
     },
     "qualitySchema": "production-v1"
   },
@@ -412,23 +514,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-018",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "emotional intensity",
     "printable": true,
     "type": "single",
-    "question": "Why is “We must act now.” the best answer here? While discussing “the film was enjoyable”, which sentence makes the need to act most forceful?",
-    "audioPrompt": "Why is “We must act now.” the best answer here? While discussing “the film was enjoyable”, which sentence makes the need to act most forceful?",
+    "question": "A child loses a pencil and says, “I am devastated.” Why might the writer choose this strong word in a funny story?",
+    "audioPrompt": "A child loses a pencil and says, “I am devastated.” Why might the writer choose this strong word in a funny story?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Must expresses a stronger obligation than might or could.",
-      "Because “We might act now.” sounds familiar.",
-      "Because the longest-looking option should always be chosen."
+      "To explain how pencils are manufactured.",
+      "To make the reaction seem much larger than the small problem.",
+      "To give the exact price of the pencil.",
+      "To show that the child has no reaction."
     ],
-    "correct": 0,
-    "explanation": "Must expresses a stronger obligation than might or could.\nHint: Place the modal verbs on a scale from possible to necessary.",
+    "correct": 1,
+    "explanation": "The very strong sadness contrasts with the small loss and can create humour.\nHint: Compare words describing the same kind of feeling, not unrelated feelings.",
     "structuredExplanation": {
-      "summary": "Must expresses a stronger obligation than might or could.",
-      "hint": "Place the modal verbs on a scale from possible to necessary."
+      "summary": "The very strong sadness contrasts with the small loss and can create humour.",
+      "hint": "Compare words describing the same kind of feeling, not unrelated feelings."
     },
     "qualitySchema": "production-v1"
   },
@@ -436,23 +544,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-019",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "evaluating with adjectives",
     "printable": true,
     "type": "single",
-    "question": "Why is “The evidence suggests that the film was enjoyable.” the best answer here? Which sentence gives a cautious evaluation connected with “the film was enjoyable”?",
-    "audioPrompt": "Why is “The evidence suggests that the film was enjoyable.” the best answer here? Which sentence gives a cautious evaluation connected with “the film was enjoyable”?",
+    "question": "Which sentence gives a positive judgement of a performance?",
+    "audioPrompt": "Which sentence gives a positive judgement of a performance?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “The evidence proves forever that the film was enjoyable.” sounds familiar.",
-      "Cautious evaluation matches a claim to limited evidence.",
-      "Because the longest-looking option should always be chosen."
+      "“The performance began at noon.”",
+      "“The performance was wonderful.”",
+      "“The performance lasted ten minutes.”",
+      "“The performance had four actors.”"
     ],
     "correct": 1,
-    "explanation": "Cautious evaluation matches a claim to limited evidence.\nHint: Look for wording that leaves room for uncertainty.",
+    "explanation": "“Wonderful” evaluates quality; time and actor counts provide factual details.\nHint: Find the judgement a describing word adds, rather than just a factual detail.",
     "structuredExplanation": {
-      "summary": "Cautious evaluation matches a claim to limited evidence.",
-      "hint": "Look for wording that leaves room for uncertainty."
+      "summary": "“Wonderful” evaluates quality; time and actor counts provide factual details.",
+      "hint": "Find the judgement a describing word adds, rather than just a factual detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -460,23 +574,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-020",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "evaluating with adjectives",
     "printable": true,
     "type": "single",
-    "question": "Why is “I am absolutely delighted that the film was enjoyable.” the best answer here? Which sentence expresses the strongest positive emotion about the film was enjoyable?",
-    "audioPrompt": "Why is “I am absolutely delighted that the film was enjoyable.” the best answer here? Which sentence expresses the strongest positive emotion about the film was enjoyable?",
+    "question": "A reviewer liked a book but did not think it was amazing. Which description best matches?",
+    "audioPrompt": "A reviewer liked a book but did not think it was amazing. Which description best matches?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “I am fairly pleased that the film was enjoyable.” sounds familiar.",
-      "Because the longest-looking option should always be chosen.",
-      "Absolutely delighted is more emotionally forceful than fairly pleased or noticed."
+      "“It was a good read.”",
+      "“It was completely dreadful.”",
+      "“It was an outstanding masterpiece.”",
+      "“It was the greatest book ever.”"
     ],
-    "correct": 2,
-    "explanation": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.\nHint: Compare the strength of the feeling words.",
+    "correct": 0,
+    "explanation": "“Good” gives moderate praise; the stronger praise and negative judgement do not match the reviewer's view.\nHint: Find the judgement a describing word adds, rather than just a factual detail.",
     "structuredExplanation": {
-      "summary": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
-      "hint": "Compare the strength of the feeling words."
+      "summary": "“Good” gives moderate praise; the stronger praise and negative judgement do not match the reviewer's view.",
+      "hint": "Find the judgement a describing word adds, rather than just a factual detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -484,23 +604,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-021",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "evaluating with adjectives",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “must” for this task: In the statement “the class might visit the zoo”, which word or phrase could make the message gentler? What should they check?",
-    "audioPrompt": "A student chooses “must” for this task: In the statement “the class might visit the zoo”, which word or phrase could make the message gentler? What should they check?",
+    "question": "Which change strengthens the criticism in “The ending was poor”?",
+    "audioPrompt": "Which change strengthens the criticism in “The ending was poor”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Choose the least certain or least intense wording.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
+      "Replace “poor” with “last”.",
+      "Replace “poor” with “dreadful”.",
+      "Replace “poor” with “short”.",
+      "Replace “poor” with “written”."
     ],
-    "correct": 0,
-    "explanation": "Choose the least certain or least intense wording. Modal and evaluative language can make a message gentler or stronger.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 1,
+    "explanation": "“Dreadful” intensifies the negative evaluation; the other words do not strengthen that judgement.\nHint: Find the judgement a describing word adds, rather than just a factual detail.",
     "structuredExplanation": {
-      "summary": "Choose the least certain or least intense wording. Modal and evaluative language can make a message gentler or stronger.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "“Dreadful” intensifies the negative evaluation; the other words do not strengthen that judgement.",
+      "hint": "Find the judgement a describing word adds, rather than just a factual detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,23 +634,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-022",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "evaluating with adjectives",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “We might act now.” for this task: While discussing “the class might visit the zoo”, which sentence makes the need to act most forceful? What should they check?",
-    "audioPrompt": "A student chooses “We might act now.” for this task: While discussing “the class might visit the zoo”, which sentence makes the need to act most forceful? What should they check?",
+    "question": "“The plan was simple” becomes “The plan was brilliant.” What new meaning is added?",
+    "audioPrompt": "“The plan was simple” becomes “The plan was brilliant.” What new meaning is added?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Place the modal verbs on a scale from possible to necessary.",
-      "Ignore the example and choose the remaining option."
+      "Strong praise for the plan's quality.",
+      "The exact number of steps in the plan.",
+      "The day the plan was written.",
+      "A rule that everyone must use the plan."
     ],
-    "correct": 1,
-    "explanation": "Place the modal verbs on a scale from possible to necessary. Must expresses a stronger obligation than might or could.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 0,
+    "explanation": "“Brilliant” evaluates the plan positively; it does not supply those factual details or a requirement.\nHint: Find the judgement a describing word adds, rather than just a factual detail.",
     "structuredExplanation": {
-      "summary": "Place the modal verbs on a scale from possible to necessary. Must expresses a stronger obligation than might or could.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "“Brilliant” evaluates the plan positively; it does not supply those factual details or a requirement.",
+      "hint": "Find the judgement a describing word adds, rather than just a factual detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -532,23 +664,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-023",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "evaluating with adjectives",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “The evidence proves forever that the class might visit the zoo.” for this task: Which sentence gives a cautious evaluation connected with “the class might visit the zoo”? What should they check?",
-    "audioPrompt": "A student chooses “The evidence proves forever that the class might visit the zoo.” for this task: Which sentence gives a cautious evaluation connected with “the class might visit the zoo”? What should they check?",
+    "question": "A character returns a lost wallet instead of keeping it. Which judgement is supported by this action?",
+    "audioPrompt": "A character returns a lost wallet instead of keeping it. Which judgement is supported by this action?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option.",
-      "Look for wording that leaves room for uncertainty."
+      "selfish",
+      "honest",
+      "dishonest",
+      "careless"
     ],
-    "correct": 2,
-    "explanation": "Look for wording that leaves room for uncertainty. Cautious evaluation matches a claim to limited evidence.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 1,
+    "explanation": "Returning what belongs to someone else supports a judgement of honesty in this situation.\nHint: Find the judgement a describing word adds, rather than just a factual detail.",
     "structuredExplanation": {
-      "summary": "Look for wording that leaves room for uncertainty. Cautious evaluation matches a claim to limited evidence.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Returning what belongs to someone else supports a judgement of honesty in this situation.",
+      "hint": "Find the judgement a describing word adds, rather than just a factual detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -556,23 +694,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-024",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "evaluating with adjectives",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “I am fairly pleased that the class might visit the zoo.” for this task: Which sentence expresses the strongest positive emotion about the class might visit the zoo? What should they check?",
-    "audioPrompt": "A student chooses “I am fairly pleased that the class might visit the zoo.” for this task: Which sentence expresses the strongest positive emotion about the class might visit the zoo? What should they check?",
+    "question": "“The room was tiny” replaces “The room was small.” What is the main effect?",
+    "audioPrompt": "“The room was tiny” replaces “The room was small.” What is the main effect?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Compare the strength of the feeling words.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
+      "It makes the room's small size sound more extreme.",
+      "It proves everyone disliked the room.",
+      "It makes the room sound much larger.",
+      "It tells the room's exact measurements."
     ],
     "correct": 0,
-    "explanation": "Compare the strength of the feeling words. Absolutely delighted is more emotionally forceful than fairly pleased or noticed.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "explanation": "“Tiny” strengthens the description of smallness without giving measurements or everyone's opinion.\nHint: Find the judgement a describing word adds, rather than just a factual detail.",
     "structuredExplanation": {
-      "summary": "Compare the strength of the feeling words. Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "“Tiny” strengthens the description of smallness without giving measurements or everyone's opinion.",
+      "hint": "Find the judgement a describing word adds, rather than just a factual detail."
     },
     "qualitySchema": "production-v1"
   },
@@ -580,23 +724,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-025",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "evaluating with verbs",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “must” for this task: A writer has little evidence for the class might visit the zoo. Which modal verb is most responsible? What should they check?",
-    "audioPrompt": "A student chooses “must” for this task: A writer has little evidence for the class might visit the zoo. Which modal verb is most responsible? What should they check?",
+    "question": "“I like that design” needs stronger approval. Which verb fits?",
+    "audioPrompt": "“I like that design” needs stronger approval. Which verb fits?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Match the strength of the word to the strength of the evidence.",
-      "Ignore the example and choose the remaining option."
+      "see",
+      "measure",
+      "notice",
+      "love"
     ],
-    "correct": 1,
-    "explanation": "Match the strength of the word to the strength of the evidence. Might signals possibility rather than certainty.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 3,
+    "explanation": "“Love” expresses stronger approval than “like”; the other verbs describe observing or measuring.\nHint: Notice how the action word changes the strength or attitude of the message.",
     "structuredExplanation": {
-      "summary": "Match the strength of the word to the strength of the evidence. Might signals possibility rather than certainty.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "“Love” expresses stronger approval than “like”; the other verbs describe observing or measuring.",
+      "hint": "Notice how the action word changes the strength or attitude of the message."
     },
     "qualitySchema": "production-v1"
   },
@@ -604,23 +754,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-026",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "evaluating with verbs",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “Change it to “might”.” for this task: Which change makes “the class might visit the zoo” sound more certain? What should they check?",
-    "audioPrompt": "A student chooses “Change it to “might”.” for this task: Which change makes “the class might visit the zoo” sound more certain? What should they check?",
+    "question": "Which sentence shows stronger dislike?",
+    "audioPrompt": "Which sentence shows stronger dislike?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option.",
-      "Choose the change that strengthens the claim."
+      "“I recognise the smell.”",
+      "“I notice the smell.”",
+      "“I dislike the smell a little.”",
+      "“I loathe the smell.”"
     ],
-    "correct": 2,
-    "explanation": "Choose the change that strengthens the claim. More forceful modal language increases certainty or obligation.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 3,
+    "explanation": "“Loathe” conveys very strong dislike, stronger than a little dislike.\nHint: Notice how the action word changes the strength or attitude of the message.",
     "structuredExplanation": {
-      "summary": "Choose the change that strengthens the claim. More forceful modal language increases certainty or obligation.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "“Loathe” conveys very strong dislike, stronger than a little dislike.",
+      "hint": "Notice how the action word changes the strength or attitude of the message."
     },
     "qualitySchema": "production-v1"
   },
@@ -628,23 +784,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-027",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "evaluating with verbs",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “The report says the class might visit the zoo.” for this task: Which judgement is an evaluation rather than a plain fact about the class might visit the zoo? What should they check?",
-    "audioPrompt": "A student chooses “The report says the class might visit the zoo.” for this task: Which judgement is an evaluation rather than a plain fact about the class might visit the zoo? What should they check?",
+    "question": "A character quietly asks for help. Which revision makes the request sound much more urgent?",
+    "audioPrompt": "A character quietly asks for help. Which revision makes the request sound much more urgent?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Find the sentence that includes a judgement.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
+      "“The character offers help.”",
+      "“The character notices help.”",
+      "“The character pleads for help.”",
+      "“The character mentions help.”"
     ],
-    "correct": 0,
-    "explanation": "Find the sentence that includes a judgement. An evaluation judges quality or value.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 2,
+    "explanation": "“Pleads” suggests an earnest, urgent request; offering help also changes who needs assistance.\nHint: Notice how the action word changes the strength or attitude of the message.",
     "structuredExplanation": {
-      "summary": "Find the sentence that includes a judgement. An evaluation judges quality or value.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "“Pleads” suggests an earnest, urgent request; offering help also changes who needs assistance.",
+      "hint": "Notice how the action word changes the strength or attitude of the message."
     },
     "qualitySchema": "production-v1"
   },
@@ -652,23 +814,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-028",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "evaluating with verbs",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “To prove the claim is always true.” for this task: Why might an author choose “might” instead of “must” when writing about the class might visit the zoo? What should they check?",
-    "audioPrompt": "A student chooses “To prove the claim is always true.” for this task: Why might an author choose “might” instead of “must” when writing about the class might visit the zoo? What should they check?",
+    "question": "“The crowd welcomed the player” becomes “The crowd cheered the player.” What does “cheered” make clearer?",
+    "audioPrompt": "“The crowd welcomed the player” becomes “The crowd cheered the player.” What does “cheered” make clearer?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Think about how certain the author sounds.",
-      "Ignore the example and choose the remaining option."
+      "The player arrived at an exact time.",
+      "The crowd disliked the player.",
+      "The player was required to leave.",
+      "The crowd expressed its approval aloud."
     ],
-    "correct": 1,
-    "explanation": "Think about how certain the author sounds. Gentler modal language can signal uncertainty or politeness.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 3,
+    "explanation": "“Cheered” describes an audible, enthusiastic expression of support.\nHint: Notice how the action word changes the strength or attitude of the message.",
     "structuredExplanation": {
-      "summary": "Think about how certain the author sounds. Gentler modal language can signal uncertainty or politeness.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "“Cheered” describes an audible, enthusiastic expression of support.",
+      "hint": "Notice how the action word changes the strength or attitude of the message."
     },
     "qualitySchema": "production-v1"
   },
@@ -676,23 +844,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-029",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "evaluating with verbs",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “must” for this task: In the statement “students should bring hats”, which word or phrase could make the message gentler? What should they check?",
-    "audioPrompt": "A student chooses “must” for this task: In the statement “students should bring hats”, which word or phrase could make the message gentler? What should they check?",
+    "question": "Which verb makes this character's response more forceful: “Leah [blank] that the plan was unfair”?",
+    "audioPrompt": "Which verb makes this character's response more forceful: “Leah [blank] that the plan was unfair”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option.",
-      "Choose the least certain or least intense wording."
+      "wondered",
+      "protested",
+      "noticed",
+      "remembered"
     ],
-    "correct": 2,
-    "explanation": "Choose the least certain or least intense wording. Modal and evaluative language can make a message gentler or stronger.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 1,
+    "explanation": "“Protested” shows active objection, stronger than noticing, wondering or remembering.\nHint: Notice how the action word changes the strength or attitude of the message.",
     "structuredExplanation": {
-      "summary": "Choose the least certain or least intense wording. Modal and evaluative language can make a message gentler or stronger.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "“Protested” shows active objection, stronger than noticing, wondering or remembering.",
+      "hint": "Notice how the action word changes the strength or attitude of the message."
     },
     "qualitySchema": "production-v1"
   },
@@ -700,23 +874,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-030",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "evaluating with verbs",
     "printable": true,
     "type": "single",
-    "question": "A student chooses “We might act now.” for this task: While discussing “students should bring hats”, which sentence makes the need to act most forceful? What should they check?",
-    "audioPrompt": "A student chooses “We might act now.” for this task: While discussing “students should bring hats”, which sentence makes the need to act most forceful? What should they check?",
+    "question": "“He said he wanted a turn” becomes “He demanded a turn.” What changes?",
+    "audioPrompt": "“He said he wanted a turn” becomes “He demanded a turn.” What changes?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Place the modal verbs on a scale from possible to necessary.",
-      "Keep the answer because it uses a familiar word.",
-      "Ignore the example and choose the remaining option."
+      "His request becomes less urgent.",
+      "His turn is described as already finished.",
+      "He offers his turn to someone else.",
+      "His request sounds more forceful and insistent."
     ],
-    "correct": 0,
-    "explanation": "Place the modal verbs on a scale from possible to necessary. Must expresses a stronger obligation than might or could.\nHint: Use the exact clue in the example to repair the mix-up.",
+    "correct": 3,
+    "explanation": "“Demanded” adds insistence that the request be met.\nHint: Notice how the action word changes the strength or attitude of the message.",
     "structuredExplanation": {
-      "summary": "Place the modal verbs on a scale from possible to necessary. Must expresses a stronger obligation than might or could.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "“Demanded” adds insistence that the request be met.",
+      "hint": "Notice how the action word changes the strength or attitude of the message."
     },
     "qualitySchema": "production-v1"
   },
@@ -724,23 +904,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-031",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "modifying strength with adverbs",
     "printable": true,
     "type": "single",
-    "question": "Which judgement is an evaluation rather than a plain fact about students should bring hats?",
-    "audioPrompt": "Which judgement is an evaluation rather than a plain fact about students should bring hats?",
+    "question": "Which phrase expresses the weakest concern?",
+    "audioPrompt": "Which phrase expresses the weakest concern?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The report says students should bring hats.",
-      "It is an impressive result that students should bring hats.",
-      "The sentence contains the words “students should bring hats”."
+      "slightly concerned",
+      "very concerned",
+      "extremely concerned",
+      "deeply concerned"
     ],
-    "correct": 1,
-    "explanation": "An evaluation judges quality or value.\nHint: Find the sentence that includes a judgement.",
+    "correct": 0,
+    "explanation": "“Slightly” limits the degree of concern; the other modifiers make it stronger.\nHint: Check how a degree word strengthens or softens the word beside it.",
     "structuredExplanation": {
-      "summary": "An evaluation judges quality or value.",
-      "hint": "Find the sentence that includes a judgement."
+      "summary": "“Slightly” limits the degree of concern; the other modifiers make it stronger.",
+      "hint": "Check how a degree word strengthens or softens the word beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -748,23 +934,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-032",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "modifying strength with adverbs",
     "printable": true,
     "type": "single",
-    "question": "Why might an author choose “could” instead of “must” when writing about students should bring hats?",
-    "audioPrompt": "Why might an author choose “could” instead of “must” when writing about students should bring hats?",
+    "question": "Complete the review with strong praise: “The ending was [blank] enjoyable.”",
+    "audioPrompt": "Complete the review with strong praise: “The ending was [blank] enjoyable.”",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "To prove the claim is always true.",
-      "To remove all meaning from the sentence.",
-      "To show uncertainty or make the suggestion less forceful."
+      "barely",
+      "slightly",
+      "extremely",
+      "not very"
     ],
     "correct": 2,
-    "explanation": "Gentler modal language can signal uncertainty or politeness.\nHint: Think about how certain the author sounds.",
+    "explanation": "“Extremely” strengthens “enjoyable”; the other choices weaken the praise.\nHint: Check how a degree word strengthens or softens the word beside it.",
     "structuredExplanation": {
-      "summary": "Gentler modal language can signal uncertainty or politeness.",
-      "hint": "Think about how certain the author sounds."
+      "summary": "“Extremely” strengthens “enjoyable”; the other choices weaken the praise.",
+      "hint": "Check how a degree word strengthens or softens the word beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -772,23 +964,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-033",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "modifying strength with adverbs",
     "printable": true,
     "type": "single",
-    "question": "In the statement “the film was enjoyable”, which word or phrase could make the message gentler?",
-    "audioPrompt": "In the statement “the film was enjoyable”, which word or phrase could make the message gentler?",
+    "question": "A writer removes “very” from “The game was very exciting.” What usually happens to the force?",
+    "audioPrompt": "A writer removes “very” from “The game was very exciting.” What usually happens to the force?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "pleasant",
-      "outstanding",
-      "certainly without doubt"
+      "The sentence says the game was boring.",
+      "The praise becomes a firm instruction.",
+      "The game becomes a past event for the first time.",
+      "The praise becomes less strong but stays positive."
     ],
-    "correct": 0,
-    "explanation": "Modal and evaluative language can make a message gentler or stronger.\nHint: Choose the least certain or least intense wording.",
+    "correct": 3,
+    "explanation": "Removing the intensifier weakens the degree of excitement without reversing the positive meaning.\nHint: Check how a degree word strengthens or softens the word beside it.",
     "structuredExplanation": {
-      "summary": "Modal and evaluative language can make a message gentler or stronger.",
-      "hint": "Choose the least certain or least intense wording."
+      "summary": "Removing the intensifier weakens the degree of excitement without reversing the positive meaning.",
+      "hint": "Check how a degree word strengthens or softens the word beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -796,23 +994,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-034",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "modifying strength with adverbs",
     "printable": true,
     "type": "single",
-    "question": "While discussing “the film was enjoyable”, which sentence makes the need to act most forceful?",
-    "audioPrompt": "While discussing “the film was enjoyable”, which sentence makes the need to act most forceful?",
+    "question": "In “The answer is probably right,” which word shows uncertainty?",
+    "audioPrompt": "In “The answer is probably right,” which word shows uncertainty?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "We might act now.",
-      "We must act now.",
-      "We could act now."
+      "probably",
+      "right",
+      "answer",
+      "is"
     ],
-    "correct": 1,
-    "explanation": "Must expresses a stronger obligation than might or could.\nHint: Place the modal verbs on a scale from possible to necessary.",
+    "correct": 0,
+    "explanation": "“Probably” suggests the speaker thinks it likely, without claiming complete certainty.\nHint: Check how a degree word strengthens or softens the word beside it.",
     "structuredExplanation": {
-      "summary": "Must expresses a stronger obligation than might or could.",
-      "hint": "Place the modal verbs on a scale from possible to necessary."
+      "summary": "“Probably” suggests the speaker thinks it likely, without claiming complete certainty.",
+      "hint": "Check how a degree word strengthens or softens the word beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -820,23 +1024,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-035",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "modifying strength with adverbs",
     "printable": true,
     "type": "single",
-    "question": "Which sentence gives a cautious evaluation connected with “the film was enjoyable”?",
-    "audioPrompt": "Which sentence gives a cautious evaluation connected with “the film was enjoyable”?",
+    "question": "Which version softens “I completely disagree” while keeping a disagreement?",
+    "audioPrompt": "Which version softens “I completely disagree” while keeping a disagreement?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "The evidence proves forever that the film was enjoyable.",
-      "Everyone knows without checking that the film was enjoyable.",
-      "The evidence suggests that the film was enjoyable."
+      "“I strongly disagree.”",
+      "“I totally disagree.”",
+      "“I disagree entirely.”",
+      "“I disagree a little.”"
     ],
-    "correct": 2,
-    "explanation": "Cautious evaluation matches a claim to limited evidence.\nHint: Look for wording that leaves room for uncertainty.",
+    "correct": 3,
+    "explanation": "“A little” reduces the degree of disagreement; the other modifiers keep it strong.\nHint: Check how a degree word strengthens or softens the word beside it.",
     "structuredExplanation": {
-      "summary": "Cautious evaluation matches a claim to limited evidence.",
-      "hint": "Look for wording that leaves room for uncertainty."
+      "summary": "“A little” reduces the degree of disagreement; the other modifiers keep it strong.",
+      "hint": "Check how a degree word strengthens or softens the word beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -844,23 +1054,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-036",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "modifying strength with adverbs",
     "printable": true,
     "type": "single",
-    "question": "Which sentence expresses the strongest positive emotion about the film was enjoyable?",
-    "audioPrompt": "Which sentence expresses the strongest positive emotion about the film was enjoyable?",
+    "question": "“The path is fairly steep” becomes “The path is extremely steep.” What changed?",
+    "audioPrompt": "“The path is fairly steep” becomes “The path is extremely steep.” What changed?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "I am absolutely delighted that the film was enjoyable.",
-      "I am fairly pleased that the film was enjoyable.",
-      "I noticed that the film was enjoyable."
+      "The degree of steepness expressed by the writer.",
+      "The exact length of the path.",
+      "The direction in which the path runs.",
+      "The number of people walking there."
     ],
     "correct": 0,
-    "explanation": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.\nHint: Compare the strength of the feeling words.",
+    "explanation": "The adverb changes how strongly the steepness is described, not those other features.\nHint: Check how a degree word strengthens or softens the word beside it.",
     "structuredExplanation": {
-      "summary": "Absolutely delighted is more emotionally forceful than fairly pleased or noticed.",
-      "hint": "Compare the strength of the feeling words."
+      "summary": "The adverb changes how strongly the steepness is described, not those other features.",
+      "hint": "Check how a degree word strengthens or softens the word beside it."
     },
     "qualitySchema": "production-v1"
   },
@@ -868,23 +1084,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-037",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "context and connotation",
     "printable": true,
     "type": "single",
-    "question": "A writer has little evidence for the film was enjoyable. Which modal verb is most responsible?",
-    "audioPrompt": "A writer has little evidence for the film was enjoyable. Which modal verb is most responsible?",
+    "question": "A child saves enough money for a gift and spends carefully. Which word gives a positive view of this behaviour?",
+    "audioPrompt": "A child saves enough money for a gift and spends carefully. Which word gives a positive view of this behaviour?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "must",
-      "might",
-      "will"
+      "mean",
+      "miserly",
+      "thrifty",
+      "stingy"
     ],
-    "correct": 1,
-    "explanation": "Might signals possibility rather than certainty.\nHint: Match the strength of the word to the strength of the evidence.",
+    "correct": 2,
+    "explanation": "“Thrifty” presents careful spending positively; the others suggest unwillingness to spend or share.\nHint: Use the context to distinguish approval, criticism and neutral description.",
     "structuredExplanation": {
-      "summary": "Might signals possibility rather than certainty.",
-      "hint": "Match the strength of the word to the strength of the evidence."
+      "summary": "“Thrifty” presents careful spending positively; the others suggest unwillingness to spend or share.",
+      "hint": "Use the context to distinguish approval, criticism and neutral description."
     },
     "qualitySchema": "production-v1"
   },
@@ -892,23 +1114,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-038",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "context and connotation",
     "printable": true,
     "type": "single",
-    "question": "Which change makes “the film was enjoyable” sound more certain?",
-    "audioPrompt": "Which change makes “the film was enjoyable” sound more certain?",
+    "question": "“The old chair looked worn” becomes “The old chair looked shabby.” How does the second description sound?",
+    "audioPrompt": "“The old chair looked worn” becomes “The old chair looked shabby.” How does the second description sound?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "Change it to “pleasant”.",
-      "Remove every verb.",
-      "Change the modal wording to “outstanding”."
+      "More critical of the chair's appearance.",
+      "More certain about the chair's price.",
+      "More admiring of the chair's beauty.",
+      "More exact about the chair's age."
     ],
-    "correct": 2,
-    "explanation": "More forceful modal language increases certainty or obligation.\nHint: Choose the change that strengthens the claim.",
+    "correct": 0,
+    "explanation": "“Shabby” carries a more negative judgement about poor appearance than simply being worn.\nHint: Use the context to distinguish approval, criticism and neutral description.",
     "structuredExplanation": {
-      "summary": "More forceful modal language increases certainty or obligation.",
-      "hint": "Choose the change that strengthens the claim."
+      "summary": "“Shabby” carries a more negative judgement about poor appearance than simply being worn.",
+      "hint": "Use the context to distinguish approval, criticism and neutral description."
     },
     "qualitySchema": "production-v1"
   },
@@ -916,23 +1144,29 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-039",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "context and connotation",
     "printable": true,
     "type": "single",
-    "question": "Which judgement is an evaluation rather than a plain fact about the film was enjoyable?",
-    "audioPrompt": "Which judgement is an evaluation rather than a plain fact about the film was enjoyable?",
+    "question": "Which description is the most neutral about a person asking questions?",
+    "audioPrompt": "Which description is the most neutral about a person asking questions?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "It is an impressive result that the film was enjoyable.",
-      "The report says the film was enjoyable.",
-      "The sentence contains the words “the film was enjoyable”."
+      "“She pestered us with questions.”",
+      "“She bored us with endless questions.”",
+      "“She delighted us with thoughtful questions.”",
+      "“She asked several questions.”"
     ],
-    "correct": 0,
-    "explanation": "An evaluation judges quality or value.\nHint: Find the sentence that includes a judgement.",
+    "correct": 3,
+    "explanation": "The neutral sentence reports the questioning without adding praise or criticism.\nHint: Use the context to distinguish approval, criticism and neutral description.",
     "structuredExplanation": {
-      "summary": "An evaluation judges quality or value.",
-      "hint": "Find the sentence that includes a judgement."
+      "summary": "The neutral sentence reports the questioning without adding praise or criticism.",
+      "hint": "Use the context to distinguish approval, criticism and neutral description."
     },
     "qualitySchema": "production-v1"
   },
@@ -940,23 +1174,269 @@ window.skillrPracticeQuestions = [
     "id": "ac9e3la02-p-040",
     "curriculumCode": "AC9E3LA02",
     "bank": "practice",
-    "skill": "Forceful and Gentle Language",
+    "skill": "context and connotation",
     "printable": true,
     "type": "single",
-    "question": "Why might an author choose “pleasant” instead of “outstanding” when writing about the film was enjoyable?",
-    "audioPrompt": "Why might an author choose “pleasant” instead of “outstanding” when writing about the film was enjoyable?",
+    "question": "“The child was curious” becomes “The child was nosy” after reading someone else's private note. Why does “nosy” fit the criticism?",
+    "audioPrompt": "“The child was curious” becomes “The child was nosy” after reading someone else's private note. Why does “nosy” fit the criticism?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
     "answers": [
-      "To prove the claim is always true.",
-      "To show uncertainty or make the suggestion less forceful.",
-      "To remove all meaning from the sentence."
+      "It means the child could not read.",
+      "It suggests an unwelcome interest in other people's affairs.",
+      "It praises the child's careful handwriting.",
+      "It means the note was very short."
     ],
     "correct": 1,
-    "explanation": "Gentler modal language can signal uncertainty or politeness.\nHint: Think about how certain the author sounds.",
+    "explanation": "“Nosy” expresses disapproval of intrusive curiosity in this context.\nHint: Use the context to distinguish approval, criticism and neutral description.",
     "structuredExplanation": {
-      "summary": "Gentler modal language can signal uncertainty or politeness.",
-      "hint": "Think about how certain the author sounds."
+      "summary": "“Nosy” expresses disapproval of intrusive curiosity in this context.",
+      "hint": "Use the context to distinguish approval, criticism and neutral description."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la02-p-041",
+    "curriculumCode": "AC9E3LA02",
+    "bank": "practice",
+    "skill": "context and connotation",
+    "printable": true,
+    "type": "single",
+    "question": "A reviewer wants to praise a small café as comfortable and welcoming. Which word fits?",
+    "audioPrompt": "A reviewer wants to praise a small café as comfortable and welcoming. Which word fits?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "cramped",
+      "cosy",
+      "stuffy",
+      "poky"
+    ],
+    "correct": 1,
+    "explanation": "“Cosy” gives a positive view of a small comfortable place; the others suggest discomfort.\nHint: Use the context to distinguish approval, criticism and neutral description.",
+    "structuredExplanation": {
+      "summary": "“Cosy” gives a positive view of a small comfortable place; the others suggest discomfort.",
+      "hint": "Use the context to distinguish approval, criticism and neutral description."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la02-p-042",
+    "curriculumCode": "AC9E3LA02",
+    "bank": "practice",
+    "skill": "context and connotation",
+    "printable": true,
+    "type": "single",
+    "question": "A coach calls a runner “determined”; an opponent calls the runner “stubborn”. What differs?",
+    "audioPrompt": "A coach calls a runner “determined”; an opponent calls the runner “stubborn”. What differs?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "The speakers' attitudes towards the runner's persistence.",
+      "The degree of certainty about whether the runner will finish.",
+      "The number of races in the event.",
+      "The runner's recorded finishing time."
+    ],
+    "correct": 0,
+    "explanation": "Both words can describe persistence, but “determined” usually approves while “stubborn” can criticise refusal to change.\nHint: Use the context to distinguish approval, criticism and neutral description.",
+    "structuredExplanation": {
+      "summary": "Both words can describe persistence, but “determined” usually approves while “stubborn” can criticise refusal to change.",
+      "hint": "Use the context to distinguish approval, criticism and neutral description."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la02-p-043",
+    "curriculumCode": "AC9E3LA02",
+    "bank": "practice",
+    "skill": "revising force in context",
+    "printable": true,
+    "type": "single",
+    "question": "A writer has only one clue that the gate is open. Which revision makes “The gate is certainly open” more cautious?",
+    "audioPrompt": "A writer has only one clue that the gate is open. Which revision makes “The gate is certainly open” more cautious?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "“The gate is definitely open.”",
+      "“The gate must be painted.”",
+      "“The gate might be open.”",
+      "“The gate is wider than the wall.”"
+    ],
+    "correct": 2,
+    "explanation": "“Might” reduces certainty while keeping the claim about whether the gate is open.\nHint: Keep the original topic and intended meaning while adjusting strength.",
+    "structuredExplanation": {
+      "summary": "“Might” reduces certainty while keeping the claim about whether the gate is open.",
+      "hint": "Keep the original topic and intended meaning while adjusting strength."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la02-p-044",
+    "curriculumCode": "AC9E3LA02",
+    "bank": "practice",
+    "skill": "revising force in context",
+    "printable": true,
+    "type": "single",
+    "question": "Make “I enjoyed the play” more enthusiastic without changing the activity.",
+    "audioPrompt": "Make “I enjoyed the play” more enthusiastic without changing the activity.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "“I absolutely loved the play.”",
+      "“I hardly enjoyed the play.”",
+      "“I enjoyed the painting.”",
+      "“I watched the play yesterday.”"
+    ],
+    "correct": 0,
+    "explanation": "“Absolutely loved” strengthens enjoyment and still refers to the same play.\nHint: Keep the original topic and intended meaning while adjusting strength.",
+    "structuredExplanation": {
+      "summary": "“Absolutely loved” strengthens enjoyment and still refers to the same play.",
+      "hint": "Keep the original topic and intended meaning while adjusting strength."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la02-p-045",
+    "curriculumCode": "AC9E3LA02",
+    "bank": "practice",
+    "skill": "revising force in context",
+    "printable": true,
+    "type": "single",
+    "question": "A pupil changes “We should try” to “We will win.” Why is this more than a change in force?",
+    "audioPrompt": "A pupil changes “We should try” to “We will win.” Why is this more than a change in force?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "It changes only the strength of the advice to try.",
+      "It keeps exactly the same action and message.",
+      "It changes advice about trying into a prediction about winning.",
+      "It turns a prediction into advice about trying."
+    ],
+    "correct": 2,
+    "explanation": "The revision changes both the action and the kind of message, not just its strength.\nHint: Keep the original topic and intended meaning while adjusting strength.",
+    "structuredExplanation": {
+      "summary": "The revision changes both the action and the kind of message, not just its strength.",
+      "hint": "Keep the original topic and intended meaning while adjusting strength."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la02-p-046",
+    "curriculumCode": "AC9E3LA02",
+    "bank": "practice",
+    "skill": "revising force in context",
+    "printable": true,
+    "type": "single",
+    "question": "A peer wants milder criticism of “Your explanation is terrible.” Which revision keeps a useful concern?",
+    "audioPrompt": "A peer wants milder criticism of “Your explanation is terrible.” Which revision keeps a useful concern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "“Your explanation is the worst one ever.”",
+      "“Your explanation is unbelievably terrible.”",
+      "“Your explanation is a little unclear in the last step.”",
+      "“Your explanation is completely hopeless.”"
+    ],
+    "correct": 2,
+    "explanation": "The revision softens the criticism and identifies the part needing attention.\nHint: Keep the original topic and intended meaning while adjusting strength.",
+    "structuredExplanation": {
+      "summary": "The revision softens the criticism and identifies the part needing attention.",
+      "hint": "Keep the original topic and intended meaning while adjusting strength."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la02-p-047",
+    "curriculumCode": "AC9E3LA02",
+    "bank": "practice",
+    "skill": "revising force in context",
+    "printable": true,
+    "type": "single",
+    "question": "A rule says “You must return borrowed books.” A pupil writes “You might return borrowed books.” Why does this fail to keep the rule?",
+    "audioPrompt": "A rule says “You must return borrowed books.” A pupil writes “You might return borrowed books.” Why does this fail to keep the rule?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "It says the books were returned yesterday.",
+      "It makes returning books more compulsory.",
+      "It changes books into a different object.",
+      "It changes a requirement into a possibility."
+    ],
+    "correct": 3,
+    "explanation": "“Might” no longer tells readers that returning the books is required.\nHint: Keep the original topic and intended meaning while adjusting strength.",
+    "structuredExplanation": {
+      "summary": "“Might” no longer tells readers that returning the books is required.",
+      "hint": "Keep the original topic and intended meaning while adjusting strength."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e3la02-p-048",
+    "curriculumCode": "AC9E3LA02",
+    "bank": "practice",
+    "skill": "revising force in context",
+    "printable": true,
+    "type": "single",
+    "question": "A character is relieved, but not wildly excited. Which sentence matches?",
+    "audioPrompt": "A character is relieved, but not wildly excited. Which sentence matches?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    },
+    "answers": [
+      "“I am furious that the search is over.”",
+      "“I am terrified that the search is over.”",
+      "“I am glad that the search is over.”",
+      "“I am bursting with joy that the search is over.”"
+    ],
+    "correct": 2,
+    "explanation": "“Glad” conveys a moderate positive feeling; the other versions are much stronger or change the emotion.\nHint: Keep the original topic and intended meaning while adjusting strength.",
+    "structuredExplanation": {
+      "summary": "“Glad” conveys a moderate positive feeling; the other versions are much stronger or change the emotion.",
+      "hint": "Keep the original topic and intended meaning while adjusting strength."
     },
     "qualitySchema": "production-v1"
   }

@@ -5,28 +5,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Layout and Navigation Features",
-    "question": "In a book about Australian animals, which feature helps a reader find a topic listed alphabetically?",
-    "audio_prompt": "In a book about Australian animals, which feature helps a reader find a topic listed alphabetically?",
+    "stage": "apply",
+    "skill": "titles_headings_and_subheadings",
+    "question": "A page is arranged like this:\nSCHOOL GARDEN\nGrowing areas\n• Vegetable beds\n• Flower beds\nVisiting the garden\n• Opening times\nWhich heading would help you find when you can enter?",
+    "audio_prompt": "A page is arranged like this:\nSCHOOL GARDEN\nGrowing areas\n• Vegetable beds\n• Flower beds\nVisiting the garden\n• Opening times\nWhich heading would help you find when you can enter?",
     "answers": [
       {
-        "text": "decorative border",
+        "text": "Growing areas",
         "is_correct": false
       },
       {
-        "text": "index",
+        "text": "Flower beds",
+        "is_correct": false
+      },
+      {
+        "text": "Opening times",
         "is_correct": true
       },
       {
-        "text": "background colour",
+        "text": "Vegetable beds",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Layout and navigation features help readers locate information.",
-      "hint": "Match the reader's need to the feature's purpose."
+      "summary": "“Opening times” names the section about when visits are possible.",
+      "hint": "Use the heading hierarchy to see what the whole text and each smaller section cover."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -36,27 +45,36 @@
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Layout and Navigation Features",
-    "question": "What is the main purpose of the index in a book about Australian animals?",
-    "audio_prompt": "What is the main purpose of the index in a book about Australian animals?",
+    "skill": "titles_headings_and_subheadings",
+    "question": "A report is titled “Our Local Pool”. Smaller headings include “Lessons” and “Facilities”. What do the smaller headings do?",
+    "audio_prompt": "A report is titled “Our Local Pool”. Smaller headings include “Lessons” and “Facilities”. What do the smaller headings do?",
     "answers": [
       {
-        "text": "To hide the topic from the reader.",
-        "is_correct": false
-      },
-      {
-        "text": "To replace every sentence in the text.",
-        "is_correct": false
-      },
-      {
-        "text": "To help the reader find a topic listed alphabetically.",
+        "text": "Identify the topics of sections within the report.",
         "is_correct": true
+      },
+      {
+        "text": "Show the page's printing date.",
+        "is_correct": false
+      },
+      {
+        "text": "List every word in alphabetical order.",
+        "is_correct": false
+      },
+      {
+        "text": "Give the name of the report's author.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Each navigation feature has a practical reading purpose.",
-      "hint": "Explain what the feature lets a reader do."
+      "summary": "Subheadings divide the wider pool topic into useful sections.",
+      "hint": "Use the heading hierarchy to see what the whole text and each smaller section cover."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -65,28 +83,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Layout and Navigation Features",
-    "question": "A reader wants a topic listed alphabetically in a book about Australian animals. What should the reader do first?",
-    "audio_prompt": "A reader wants a topic listed alphabetically in a book about Australian animals. What should the reader do first?",
+    "stage": "apply",
+    "skill": "titles_headings_and_subheadings",
+    "question": "Under the heading “Caring for the class pet”, which subheading best introduces food and water details?",
+    "audio_prompt": "Under the heading “Caring for the class pet”, which subheading best introduces food and water details?",
     "answers": [
       {
-        "text": "Use the index.",
+        "text": "Feeding and drinking",
         "is_correct": true
       },
       {
-        "text": "Read an unrelated page repeatedly.",
+        "text": "Our favourite pet stories",
         "is_correct": false
       },
       {
-        "text": "Ignore all navigation words.",
+        "text": "How the pet was named",
+        "is_correct": false
+      },
+      {
+        "text": "The pet's appearance",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Efficient readers select the most useful navigation path.",
-      "hint": "Choose the tool designed for that search."
+      "summary": "The label predicts the particular care information in that section.",
+      "hint": "Use the heading hierarchy to see what the whole text and each smaller section cover."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -95,28 +122,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Layout and Navigation Features",
-    "question": "Which word would be a clear navigation label in a book about Australian animals?",
-    "audio_prompt": "Which word would be a clear navigation label in a book about Australian animals?",
+    "stage": "reason",
+    "skill": "titles_headings_and_subheadings",
+    "question": "A page heading says “Getting to the hall”, but the section only lists ticket prices. What needs changing?",
+    "audio_prompt": "A page heading says “Getting to the hall”, but the section only lists ticket prices. What needs changing?",
     "answers": [
       {
-        "text": "Perhaps something",
+        "text": "Remove all spaces from the price list.",
         "is_correct": false
       },
       {
-        "text": "Next section",
+        "text": "Move the price details under a suitable heading or correct the heading.",
         "is_correct": true
       },
       {
-        "text": "Mystery place",
+        "text": "Add the same heading to every section.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the misleading heading larger.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Clear navigation words predict where an action will lead.",
-      "hint": "Choose the label whose destination is easy to understand."
+      "summary": "A heading should accurately guide readers to the information below it.",
+      "hint": "Use the heading hierarchy to see what the whole text and each smaller section cover."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -125,28 +161,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Layout and Navigation Features",
-    "question": "Why might a book about Australian animals use subheadings?",
-    "audio_prompt": "Why might a book about Australian animals use subheadings?",
+    "stage": "apply",
+    "skill": "titles_headings_and_subheadings",
+    "question": "A website page has “Sports Club” at the top, then “Training”, “Matches” and “Joining”. Which is the broadest heading?",
+    "audio_prompt": "A website page has “Sports Club” at the top, then “Training”, “Matches” and “Joining”. Which is the broadest heading?",
     "answers": [
       {
-        "text": "To make every section about the same detail.",
+        "text": "Joining",
         "is_correct": false
       },
       {
-        "text": "To stop readers from scanning the page.",
+        "text": "Training",
         "is_correct": false
       },
       {
-        "text": "To divide the information into smaller named topics.",
+        "text": "Matches",
+        "is_correct": false
+      },
+      {
+        "text": "Sports Club",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Subheadings signal the topic of each smaller section.",
-      "hint": "Think about how readers scan for a particular idea."
+      "summary": "“Sports Club” covers the whole page; the others name smaller parts of that topic.",
+      "hint": "Use the heading hierarchy to see what the whole text and each smaller section cover."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -155,28 +200,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Layout and Navigation Features",
-    "question": "What should a useful caption do in a book about Australian animals?",
-    "audio_prompt": "What should a useful caption do in a book about Australian animals?",
+    "stage": "reason",
+    "skill": "titles_headings_and_subheadings",
+    "question": "Why is “Equipment to bring” more helpful than “Things” above a camp packing list?",
+    "audio_prompt": "Why is “Equipment to bring” more helpful than “Things” above a camp packing list?",
     "answers": [
       {
-        "text": "Explain or add information about an image.",
+        "text": "It tells readers the price of every item.",
+        "is_correct": false
+      },
+      {
+        "text": "It turns every item into a clickable link.",
+        "is_correct": false
+      },
+      {
+        "text": "It tells readers exactly what kind of information the section contains.",
         "is_correct": true
       },
       {
-        "text": "Repeat the page number only.",
-        "is_correct": false
-      },
-      {
-        "text": "Give directions to an unrelated website.",
+        "text": "It guarantees that the list is in alphabetical order.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Captions connect images with relevant information.",
-      "hint": "Choose the description that helps interpret the image."
+      "summary": "The more specific wording helps readers recognise the section's purpose before reading the list.",
+      "hint": "Use the heading hierarchy to see what the whole text and each smaller section cover."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -185,28 +239,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Layout and Navigation Features",
-    "question": "The index in a book about Australian animals leads to the wrong place. What needs editing?",
-    "audio_prompt": "The index in a book about Australian animals leads to the wrong place. What needs editing?",
+    "stage": "apply",
+    "skill": "contents_and_page_navigation",
+    "question": "Contents:\nPlanning the trip — 3\nPacking your bag — 7\nAt the campsite — 12\nReturning home — 18\nWhich page begins the packing advice?",
+    "audio_prompt": "Contents:\nPlanning the trip — 3\nPacking your bag — 7\nAt the campsite — 12\nReturning home — 18\nWhich page begins the packing advice?",
     "answers": [
       {
-        "text": "Every fact in the whole text.",
-        "is_correct": false
-      },
-      {
-        "text": "The navigation link or reference.",
+        "text": "7",
         "is_correct": true
       },
       {
-        "text": "The reader's name.",
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "3",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Navigation must take readers to the promised location.",
-      "hint": "Check the connection between the label and destination."
+      "summary": "The contents entry pairs “Packing your bag” with page 7.",
+      "hint": "Match the section name to its page number; contents usually follows the text's order."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -215,28 +278,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Layout and Navigation Features",
-    "question": "Which layout choice would best support a reader using a book about Australian animals?",
-    "audio_prompt": "Which layout choice would best support a reader using a book about Australian animals?",
+    "stage": "apply",
+    "skill": "contents_and_page_navigation",
+    "question": "Contents:\nWelcome — 2\nMaking a frame — 5\nAdding the cover — 9\nDecorating — 14\nYou have finished the frame. Where does the next main section begin?",
+    "audio_prompt": "Contents:\nWelcome — 2\nMaking a frame — 5\nAdding the cover — 9\nDecorating — 14\nYou have finished the frame. Where does the next main section begin?",
     "answers": [
       {
-        "text": "Hide all labels behind images.",
+        "text": "Page 5.",
         "is_correct": false
       },
       {
-        "text": "Use identical labels for different destinations.",
-        "is_correct": false
-      },
-      {
-        "text": "Place the index where it is easy to notice and use.",
+        "text": "Page 9.",
         "is_correct": true
+      },
+      {
+        "text": "Page 2.",
+        "is_correct": false
+      },
+      {
+        "text": "Page 14.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Visible, specific features support navigation.",
-      "hint": "Consider whether readers can find and understand the tool."
+      "summary": "The next listed stage is “Adding the cover”, beginning on page 9.",
+      "hint": "Match the section name to its page number; contents usually follows the text's order."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -246,27 +318,36 @@
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Layout and Navigation Features",
-    "question": "In a webpage about weather, which feature helps a reader find a section of the site?",
-    "audio_prompt": "In a webpage about weather, which feature helps a reader find a section of the site?",
+    "skill": "contents_and_page_navigation",
+    "question": "A contents page lists chapter titles with page numbers. What is its main purpose?",
+    "audio_prompt": "A contents page lists chapter titles with page numbers. What is its main purpose?",
     "answers": [
       {
-        "text": "menu",
+        "text": "Name every person mentioned in the book alphabetically.",
+        "is_correct": false
+      },
+      {
+        "text": "Explain the meaning of every difficult word.",
+        "is_correct": false
+      },
+      {
+        "text": "Help readers locate the main parts of the book.",
         "is_correct": true
       },
       {
-        "text": "decorative border",
-        "is_correct": false
-      },
-      {
-        "text": "background colour",
+        "text": "Give feedback on a reader's answers.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Layout and navigation features help readers locate information.",
-      "hint": "Match the reader's need to the feature's purpose."
+      "summary": "The contents shows the text's main sections and where they begin.",
+      "hint": "Match the section name to its page number; contents usually follows the text's order."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -275,28 +356,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Layout and Navigation Features",
-    "question": "What is the main purpose of the menu in a webpage about weather?",
-    "audio_prompt": "What is the main purpose of the menu in a webpage about weather?",
+    "stage": "reason",
+    "skill": "contents_and_page_navigation",
+    "question": "A booklet adds two pages before “Games”, but its contents still gives the old page number. What should be checked?",
+    "audio_prompt": "A booklet adds two pages before “Games”, but its contents still gives the old page number. What should be checked?",
     "answers": [
       {
-        "text": "To hide the topic from the reader.",
+        "text": "Whether the booklet uses the same font everywhere.",
         "is_correct": false
       },
       {
-        "text": "To help the reader find a section of the site.",
+        "text": "Only the colour of the contents heading.",
+        "is_correct": false
+      },
+      {
+        "text": "The contents number against where “Games” now begins.",
         "is_correct": true
       },
       {
-        "text": "To replace every sentence in the text.",
+        "text": "Whether “Games” has five letters.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Each navigation feature has a practical reading purpose.",
-      "hint": "Explain what the feature lets a reader do."
+      "summary": "A navigation number must point to the actual location after pages change.",
+      "hint": "Match the section name to its page number; contents usually follows the text's order."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -305,28 +395,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Layout and Navigation Features",
-    "question": "Why is “Use the menu.” the best answer here? A reader wants a section of the site in a webpage about weather. What should the reader do first?",
-    "audio_prompt": "Why is “Use the menu.” the best answer here? A reader wants a section of the site in a webpage about weather. What should the reader do first?",
+    "stage": "apply",
+    "skill": "contents_and_page_navigation",
+    "question": "Contents:\nOur school — 1\nClassrooms — 4\nLibrary — 8\nPlay areas — 11\nWhich section begins immediately before “Library”?",
+    "audio_prompt": "Contents:\nOur school — 1\nClassrooms — 4\nLibrary — 8\nPlay areas — 11\nWhich section begins immediately before “Library”?",
     "answers": [
       {
-        "text": "Because “Read an unrelated page repeatedly.” sounds familiar.",
+        "text": "The back cover",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
-        "is_correct": false
-      },
-      {
-        "text": "Efficient readers select the most useful navigation path.",
+        "text": "Classrooms",
         "is_correct": true
+      },
+      {
+        "text": "Our school",
+        "is_correct": false
+      },
+      {
+        "text": "Play areas",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Efficient readers select the most useful navigation path.",
-      "hint": "Choose the tool designed for that search."
+      "summary": "The contents order places “Classrooms” directly before “Library”.",
+      "hint": "Match the section name to its page number; contents usually follows the text's order."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -335,28 +434,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Layout and Navigation Features",
-    "question": "Why is “Next section” the best answer here? Which word would be a clear navigation label in a webpage about weather?",
-    "audio_prompt": "Why is “Next section” the best answer here? Which word would be a clear navigation label in a webpage about weather?",
+    "stage": "reason",
+    "skill": "contents_and_page_navigation",
+    "question": "A reader wants an overview of the main sections before choosing what to read. Why start with the contents?",
+    "audio_prompt": "A reader wants an overview of the main sections before choosing what to read. Why start with the contents?",
     "answers": [
       {
-        "text": "Clear navigation words predict where an action will lead.",
+        "text": "It shows the main sections together in reading order.",
         "is_correct": true
       },
       {
-        "text": "Because “Perhaps something” sounds familiar.",
+        "text": "It always explains all technical words.",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "It replaces the need for section headings.",
+        "is_correct": false
+      },
+      {
+        "text": "It contains every sentence from the book.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Clear navigation words predict where an action will lead.",
-      "hint": "Choose the label whose destination is easy to understand."
+      "summary": "The contents provides a navigable overview without reproducing the whole text.",
+      "hint": "Match the section name to its page number; contents usually follows the text's order."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -365,28 +473,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Layout and Navigation Features",
-    "question": "Why is “To divide the information into smaller named topics.” the best answer here? Why might a webpage about weather use subheadings?",
-    "audio_prompt": "Why is “To divide the information into smaller named topics.” the best answer here? Why might a webpage about weather use subheadings?",
+    "stage": "apply",
+    "skill": "chapter_headings_in_narratives",
+    "question": "Story contents:\n1. The missing parcel — 3\n2. A trail through the park — 11\n3. Inside the old shed — 20\n4. Home with a surprise — 29\nWhich chapter would you check for the shed scene?",
+    "audio_prompt": "Story contents:\n1. The missing parcel — 3\n2. A trail through the park — 11\n3. Inside the old shed — 20\n4. Home with a surprise — 29\nWhich chapter would you check for the shed scene?",
     "answers": [
       {
-        "text": "Because “To make every section about the same detail.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Subheadings signal the topic of each smaller section.",
+        "text": "Chapter 3.",
         "is_correct": true
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Chapter 4.",
+        "is_correct": false
+      },
+      {
+        "text": "Chapter 2.",
+        "is_correct": false
+      },
+      {
+        "text": "Chapter 1.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Subheadings signal the topic of each smaller section.",
-      "hint": "Think about how readers scan for a particular idea."
+      "summary": "The chapter heading names the shed, providing the strongest navigation clue.",
+      "hint": "Use chapter titles as clues and landmarks, without assuming they reveal every event."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -395,28 +512,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Layout and Navigation Features",
-    "question": "Why is “Explain or add information about an image.” the best answer here? What should a useful caption do in a webpage about weather?",
-    "audio_prompt": "Why is “Explain or add information about an image.” the best answer here? What should a useful caption do in a webpage about weather?",
+    "stage": "recognise",
+    "skill": "chapter_headings_in_narratives",
+    "question": "What can a chapter heading such as “The Secret Door” do for a story reader?",
+    "audio_prompt": "What can a chapter heading such as “The Secret Door” do for a story reader?",
     "answers": [
       {
-        "text": "Because “Repeat the page number only.” sounds familiar.",
+        "text": "Replace all the sentences in the chapter.",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Guarantee that the reader knows the ending.",
         "is_correct": false
       },
       {
-        "text": "Captions connect images with relevant information.",
+        "text": "List every event in the story in full.",
+        "is_correct": false
+      },
+      {
+        "text": "Give a clue to that part of the story and help locate it.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Captions connect images with relevant information.",
-      "hint": "Choose the description that helps interpret the image."
+      "summary": "A title can suggest focus and act as a landmark without telling the whole chapter.",
+      "hint": "Use chapter titles as clues and landmarks, without assuming they reveal every event."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -425,28 +551,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Layout and Navigation Features",
-    "question": "Why is “The navigation link or reference.” the best answer here? The menu in a webpage about weather leads to the wrong place. What needs editing?",
-    "audio_prompt": "Why is “The navigation link or reference.” the best answer here? The menu in a webpage about weather leads to the wrong place. What needs editing?",
+    "stage": "apply",
+    "skill": "chapter_headings_in_narratives",
+    "question": "You stopped reading at the chapter “A New Plan”. Which feature helps you find it again in a printed story?",
+    "audio_prompt": "You stopped reading at the chapter “A New Plan”. Which feature helps you find it again in a printed story?",
     "answers": [
       {
-        "text": "Navigation must take readers to the promised location.",
+        "text": "The publisher's logo alone.",
+        "is_correct": false
+      },
+      {
+        "text": "The price printed on the back cover.",
+        "is_correct": false
+      },
+      {
+        "text": "The matching chapter entry in the contents.",
         "is_correct": true
       },
       {
-        "text": "Because “Every fact in the whole text.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "The author's photograph alone.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Navigation must take readers to the promised location.",
-      "hint": "Check the connection between the label and destination."
+      "summary": "The contents can connect the remembered chapter title to its starting page.",
+      "hint": "Use chapter titles as clues and landmarks, without assuming they reveal every event."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -455,28 +590,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Layout and Navigation Features",
-    "question": "Why is “Place the menu where it is easy to notice and use.” the best answer here? Which layout choice would best support a reader using a webpage about weather?",
-    "audio_prompt": "Why is “Place the menu where it is easy to notice and use.” the best answer here? Which layout choice would best support a reader using a webpage about weather?",
+    "stage": "reason",
+    "skill": "chapter_headings_in_narratives",
+    "question": "A chapter is called “The Race”. Can the heading alone tell you who wins?",
+    "audio_prompt": "A chapter is called “The Race”. Can the heading alone tell you who wins?",
     "answers": [
       {
-        "text": "Because “Hide all labels behind images.” sounds familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "Visible, specific features support navigation.",
+        "text": "No; it suggests the topic, but the chapter must supply the outcome.",
         "is_correct": true
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Yes; every chapter heading includes the winner.",
+        "is_correct": false
+      },
+      {
+        "text": "No; the heading proves there is no winner.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; the first name in the book always wins.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Visible, specific features support navigation.",
-      "hint": "Consider whether readers can find and understand the tool."
+      "summary": "A chapter title is a clue, not a complete account of its events.",
+      "hint": "Use chapter titles as clues and landmarks, without assuming they reveal every event."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -485,28 +629,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Layout and Navigation Features",
-    "question": "Why is “caption” the best answer here? In an article about coral reefs, which feature helps a reader find what a photograph shows?",
-    "audio_prompt": "Why is “caption” the best answer here? In an article about coral reefs, which feature helps a reader find what a photograph shows?",
+    "stage": "apply",
+    "skill": "chapter_headings_in_narratives",
+    "question": "A story page begins:\nChapter 5\nAcross the River\nThe friends checked the rope bridge.\nWhich words are the chapter heading?",
+    "audio_prompt": "A story page begins:\nChapter 5\nAcross the River\nThe friends checked the rope bridge.\nWhich words are the chapter heading?",
     "answers": [
       {
-        "text": "Because “decorative border” sounds familiar.",
+        "text": "The friends checked the rope bridge.",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Chapter 5",
         "is_correct": false
       },
       {
-        "text": "Layout and navigation features help readers locate information.",
+        "text": "The friends",
+        "is_correct": false
+      },
+      {
+        "text": "Across the River",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Layout and navigation features help readers locate information.",
-      "hint": "Match the reader's need to the feature's purpose."
+      "summary": "“Across the River” names this chapter; the following sentence begins the story text.",
+      "hint": "Use chapter titles as clues and landmarks, without assuming they reveal every event."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -515,28 +668,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Layout and Navigation Features",
-    "question": "Why is “To help the reader find what a photograph shows.” the best answer here? What is the main purpose of the caption in an article about coral reefs?",
-    "audio_prompt": "Why is “To help the reader find what a photograph shows.” the best answer here? What is the main purpose of the caption in an article about coral reefs?",
+    "stage": "reason",
+    "skill": "chapter_headings_in_narratives",
+    "question": "Why might a story use chapter titles rather than label every chapter only “More story”?",
+    "audio_prompt": "Why might a story use chapter titles rather than label every chapter only “More story”?",
     "answers": [
       {
-        "text": "Each navigation feature has a practical reading purpose.",
+        "text": "Distinct titles help readers recognise and revisit different parts.",
         "is_correct": true
       },
       {
-        "text": "Because “To hide the topic from the reader.” sounds familiar.",
+        "text": "Titles remove the need to read any story text.",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "Titles prove all the events are true.",
+        "is_correct": false
+      },
+      {
+        "text": "Distinct titles guarantee all chapters have equal length.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Each navigation feature has a practical reading purpose.",
-      "hint": "Explain what the feature lets a reader do."
+      "summary": "Specific titles give useful landmarks and hints about the different sections.",
+      "hint": "Use chapter titles as clues and landmarks, without assuming they reveal every event."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -545,28 +707,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Layout and Navigation Features",
-    "question": "Why is “Use the caption.” the best answer here? A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
-    "audio_prompt": "Why is “Use the caption.” the best answer here? A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
+    "stage": "apply",
+    "skill": "index_and_glossary",
+    "question": "Index:\nbridges — 6, 18\ncanals — 9\nroads — 4, 12\ntunnels — 15\nWhere could you find information about bridges?",
+    "audio_prompt": "Index:\nbridges — 6, 18\ncanals — 9\nroads — 4, 12\ntunnels — 15\nWhere could you find information about bridges?",
     "answers": [
       {
-        "text": "Because “Read an unrelated page repeatedly.” sounds familiar.",
+        "text": "Page 9 only.",
         "is_correct": false
       },
       {
-        "text": "Efficient readers select the most useful navigation path.",
+        "text": "Pages 4 and 12.",
+        "is_correct": false
+      },
+      {
+        "text": "Page 15 only.",
+        "is_correct": false
+      },
+      {
+        "text": "Pages 6 and 18.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest-looking option should always be chosen.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Efficient readers select the most useful navigation path.",
-      "hint": "Choose the tool designed for that search."
+      "summary": "The index lists both pages beside “bridges”, so either may contain relevant information.",
+      "hint": "An index locates topics; a glossary explains selected words."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -575,28 +746,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Layout and Navigation Features",
-    "question": "Why is “Next section” the best answer here? Which word would be a clear navigation label in an article about coral reefs?",
-    "audio_prompt": "Why is “Next section” the best answer here? Which word would be a clear navigation label in an article about coral reefs?",
+    "stage": "recognise",
+    "skill": "index_and_glossary",
+    "question": "A booklet's glossary says “habitat: the place where an animal or plant lives”. What does this feature provide?",
+    "audio_prompt": "A booklet's glossary says “habitat: the place where an animal or plant lives”. What does this feature provide?",
     "answers": [
       {
-        "text": "Because “Perhaps something” sounds familiar.",
+        "text": "The book's printing instructions.",
         "is_correct": false
       },
       {
-        "text": "Because the longest-looking option should always be chosen.",
+        "text": "A link back to the website's homepage.",
         "is_correct": false
       },
       {
-        "text": "Clear navigation words predict where an action will lead.",
+        "text": "The starting page of every chapter.",
+        "is_correct": false
+      },
+      {
+        "text": "The meaning of a selected word.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Clear navigation words predict where an action will lead.",
-      "hint": "Choose the label whose destination is easy to understand."
+      "summary": "A glossary explains words used in the text.",
+      "hint": "An index locates topics; a glossary explains selected words."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -605,28 +785,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Layout and Navigation Features",
-    "question": "A student chooses “decorative border” for this task: In a book about Australian animals, which feature helps a reader find a topic listed alphabetically? What should they check?",
-    "audio_prompt": "A student chooses “decorative border” for this task: In a book about Australian animals, which feature helps a reader find a topic listed alphabetically? What should they check?",
+    "stage": "apply",
+    "skill": "index_and_glossary",
+    "question": "You want pages that mention “shelters”, a topic inside several chapters. Which feature is most useful?",
+    "audio_prompt": "You want pages that mention “shelters”, a topic inside several chapters. Which feature is most useful?",
     "answers": [
       {
-        "text": "Match the reader's need to the feature's purpose.",
+        "text": "The title on the front cover alone.",
+        "is_correct": false
+      },
+      {
+        "text": "An index listing topics alphabetically with page numbers.",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "A decorative border around each page.",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The author's short biography alone.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Match the reader's need to the feature's purpose. Layout and navigation features help readers locate information.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "An index can locate a specific topic across different parts of a book.",
+      "hint": "An index locates topics; a glossary explains selected words."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -635,28 +824,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Layout and Navigation Features",
-    "question": "A student chooses “To hide the topic from the reader.” for this task: What is the main purpose of the index in a book about Australian animals? What should they check?",
-    "audio_prompt": "A student chooses “To hide the topic from the reader.” for this task: What is the main purpose of the index in a book about Australian animals? What should they check?",
+    "stage": "reason",
+    "skill": "index_and_glossary",
+    "question": "An index entry reads “wheels — 8, 19”. A pupil says wheels must mean eight to nineteen. What should they understand?",
+    "audio_prompt": "An index entry reads “wheels — 8, 19”. A pupil says wheels must mean eight to nineteen. What should they understand?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "The numbers state the price of the wheels.",
         "is_correct": false
       },
       {
-        "text": "Explain what the feature lets a reader do.",
+        "text": "The numbers locate two pages, rather than define the word.",
         "is_correct": true
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The numbers give the meaning of wheels.",
+        "is_correct": false
+      },
+      {
+        "text": "The numbers count every wheel ever mentioned.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Explain what the feature lets a reader do. Each navigation feature has a practical reading purpose.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Index numbers are navigation references, not definitions or necessarily a continuous range.",
+      "hint": "An index locates topics; a glossary explains selected words."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -665,28 +863,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Layout and Navigation Features",
-    "question": "A student chooses “Read an unrelated page repeatedly.” for this task: A reader wants a topic listed alphabetically in a book about Australian animals. What should the reader do first? What should they check?",
-    "audio_prompt": "A student chooses “Read an unrelated page repeatedly.” for this task: A reader wants a topic listed alphabetically in a book about Australian animals. What should the reader do first? What should they check?",
+    "stage": "apply",
+    "skill": "index_and_glossary",
+    "question": "Glossary:\nentrance: a way into a place\nroute: a way from one place to another\nshelter: a place giving protection\nWhich entry explains “route”?",
+    "audio_prompt": "Glossary:\nentrance: a way into a place\nroute: a way from one place to another\nshelter: a place giving protection\nWhich entry explains “route”?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "A way into a place.",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The page at the back of a book.",
         "is_correct": false
       },
       {
-        "text": "Choose the tool designed for that search.",
+        "text": "A place giving protection.",
+        "is_correct": false
+      },
+      {
+        "text": "A way from one place to another.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Choose the tool designed for that search. Efficient readers select the most useful navigation path.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The glossary explicitly connects “route” to its meaning.",
+      "hint": "An index locates topics; a glossary explains selected words."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -695,28 +902,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Layout and Navigation Features",
-    "question": "A student chooses “Perhaps something” for this task: Which word would be a clear navigation label in a book about Australian animals? What should they check?",
-    "audio_prompt": "A student chooses “Perhaps something” for this task: Which word would be a clear navigation label in a book about Australian animals? What should they check?",
+    "stage": "reason",
+    "skill": "index_and_glossary",
+    "question": "A reader knows what “nest” means but wants to find it in a long book. Why use the index rather than the glossary first?",
+    "audio_prompt": "A reader knows what “nest” means but wants to find it in a long book. Why use the index rather than the glossary first?",
     "answers": [
       {
-        "text": "Choose the label whose destination is easy to understand.",
+        "text": "The index contains longer stories than the book.",
+        "is_correct": false
+      },
+      {
+        "text": "The reader needs a location, not a definition.",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "The glossary always gives incorrect meanings.",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The reader needs to change the book's title.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Choose the label whose destination is easy to understand. Clear navigation words predict where an action will lead.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The choice depends on the task: finding where a topic occurs calls for the index.",
+      "hint": "An index locates topics; a glossary explains selected words."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -725,28 +941,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Layout and Navigation Features",
-    "question": "A student chooses “To make every section about the same detail.” for this task: Why might a book about Australian animals use subheadings? What should they check?",
-    "audio_prompt": "A student chooses “To make every section about the same detail.” for this task: Why might a book about Australian animals use subheadings? What should they check?",
+    "stage": "apply",
+    "skill": "meaningful_hyperlink_words",
+    "question": "A school webpage says, “For the weekly menu, select [Lunch menu].” The words in brackets are a link. What would you expect it to open?",
+    "audio_prompt": "A school webpage says, “For the weekly menu, select [Lunch menu].” The words in brackets are a link. What would you expect it to open?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "The school's sports results.",
         "is_correct": false
       },
       {
-        "text": "Think about how readers scan for a particular idea.",
+        "text": "Information about the lunches available.",
         "is_correct": true
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "Instructions for changing the page colour.",
+        "is_correct": false
+      },
+      {
+        "text": "A list of library books.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Think about how readers scan for a particular idea. Subheadings signal the topic of each smaller section.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The descriptive link wording predicts the food-menu destination.",
+      "hint": "Link wording should predict the information or destination it opens."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -755,28 +980,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Layout and Navigation Features",
-    "question": "A student chooses “Repeat the page number only.” for this task: What should a useful caption do in a book about Australian animals? What should they check?",
-    "audio_prompt": "A student chooses “Repeat the page number only.” for this task: What should a useful caption do in a book about Australian animals? What should they check?",
+    "stage": "apply",
+    "skill": "meaningful_hyperlink_words",
+    "question": "Which link label is clearest for a page showing bus departure times?",
+    "audio_prompt": "Which link label is clearest for a page showing bus departure times?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "A useful page",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "Click this",
         "is_correct": false
       },
       {
-        "text": "Choose the description that helps interpret the image.",
+        "text": "Bus timetable",
         "is_correct": true
+      },
+      {
+        "text": "More stuff",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Choose the description that helps interpret the image. Captions connect images with relevant information.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "“Bus timetable” names the information readers will find rather than using a vague label.",
+      "hint": "Link wording should predict the information or destination it opens."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -785,28 +1019,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Layout and Navigation Features",
-    "question": "A student chooses “Every fact in the whole text.” for this task: The index in a book about Australian animals leads to the wrong place. What needs editing? What should they check?",
-    "audio_prompt": "A student chooses “Every fact in the whole text.” for this task: The index in a book about Australian animals leads to the wrong place. What needs editing? What should they check?",
+    "stage": "reason",
+    "skill": "meaningful_hyperlink_words",
+    "question": "A link labelled “Opening hours” opens a page about membership fees. What is wrong?",
+    "audio_prompt": "A link labelled “Opening hours” opens a page about membership fees. What is wrong?",
     "answers": [
       {
-        "text": "Check the connection between the label and destination.",
+        "text": "Links must always be named “Click here”.",
+        "is_correct": false
+      },
+      {
+        "text": "The destination does not match the label's promise.",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "A webpage may have only one link.",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "The label contains too few letters to be a link.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Check the connection between the label and destination. Navigation must take readers to the promised location.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Navigation wording should accurately describe the destination so readers can choose confidently.",
+      "hint": "Link wording should predict the information or destination it opens."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -815,28 +1058,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Layout and Navigation Features",
-    "question": "A student chooses “Hide all labels behind images.” for this task: Which layout choice would best support a reader using a book about Australian animals? What should they check?",
-    "audio_prompt": "A student chooses “Hide all labels behind images.” for this task: Which layout choice would best support a reader using a book about Australian animals? What should they check?",
+    "stage": "recognise",
+    "skill": "meaningful_hyperlink_words",
+    "question": "A digital article says, “Read the [full interview]”. What is the link's likely purpose?",
+    "audio_prompt": "A digital article says, “Read the [full interview]”. What is the link's likely purpose?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "Show that the article must be a poem.",
         "is_correct": false
       },
       {
-        "text": "Consider whether readers can find and understand the tool.",
+        "text": "Count how many words the reader knows.",
+        "is_correct": false
+      },
+      {
+        "text": "Make the printed page automatically turn over.",
+        "is_correct": false
+      },
+      {
+        "text": "Take the reader to the complete interview.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the example and choose the remaining option.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Consider whether readers can find and understand the tool. Visible, specific features support navigation.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "The link offers movement to related content with more detail.",
+      "hint": "Link wording should predict the information or destination it opens."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -845,28 +1097,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Layout and Navigation Features",
-    "question": "A student chooses “decorative border” for this task: In a webpage about weather, which feature helps a reader find a section of the site? What should they check?",
-    "audio_prompt": "A student chooses “decorative border” for this task: In a webpage about weather, which feature helps a reader find a section of the site? What should they check?",
+    "stage": "apply",
+    "skill": "meaningful_hyperlink_words",
+    "question": "A class website has links [Our project], [Photo gallery], [Contact us] and [Term dates]. Which should you choose to find pictures of the project?",
+    "audio_prompt": "A class website has links [Our project], [Photo gallery], [Contact us] and [Term dates]. Which should you choose to find pictures of the project?",
     "answers": [
       {
-        "text": "Keep the answer because it uses a familiar word.",
+        "text": "Our project",
         "is_correct": false
       },
       {
-        "text": "Ignore the example and choose the remaining option.",
+        "text": "Term dates",
         "is_correct": false
       },
       {
-        "text": "Match the reader's need to the feature's purpose.",
+        "text": "Photo gallery",
         "is_correct": true
+      },
+      {
+        "text": "Contact us",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Match the reader's need to the feature's purpose. Layout and navigation features help readers locate information.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "“Photo gallery” directly names a collection of pictures.",
+      "hint": "Link wording should predict the information or destination it opens."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -875,28 +1136,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Layout and Navigation Features",
-    "question": "A student chooses “To hide the topic from the reader.” for this task: What is the main purpose of the menu in a webpage about weather? What should they check?",
-    "audio_prompt": "A student chooses “To hide the topic from the reader.” for this task: What is the main purpose of the menu in a webpage about weather? What should they check?",
+    "stage": "reason",
+    "skill": "meaningful_hyperlink_words",
+    "question": "Why is “Read our recycling guide” more helpful than “Click here” in a list of links?",
+    "audio_prompt": "Why is “Read our recycling guide” more helpful than “Click here” in a list of links?",
     "answers": [
       {
-        "text": "Explain what the feature lets a reader do.",
+        "text": "It makes the destination load without an internet connection.",
+        "is_correct": false
+      },
+      {
+        "text": "It means the guide cannot have sections.",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees the guide is correct without reading it.",
+        "is_correct": false
+      },
+      {
+        "text": "It tells readers what content the link opens.",
         "is_correct": true
-      },
-      {
-        "text": "Keep the answer because it uses a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the example and choose the remaining option.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Explain what the feature lets a reader do. Each navigation feature has a practical reading purpose.",
-      "hint": "Use the exact clue in the example to repair the mix-up."
+      "summary": "Descriptive wording helps navigation; it does not guarantee accuracy or offline access.",
+      "hint": "Link wording should predict the information or destination it opens."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -906,27 +1176,36 @@
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "The menu in a webpage about weather leads to the wrong place. What needs editing?",
-    "audio_prompt": "The menu in a webpage about weather leads to the wrong place. What needs editing?",
+    "skill": "menus_and_navigation_controls",
+    "question": "A website menu shows Home • Activities • Calendar • Contact. Which choice would help you find the date of the next event?",
+    "audio_prompt": "A website menu shows Home • Activities • Calendar • Contact. Which choice would help you find the date of the next event?",
     "answers": [
       {
-        "text": "Every fact in the whole text.",
-        "is_correct": false
-      },
-      {
-        "text": "The navigation link or reference.",
+        "text": "Calendar",
         "is_correct": true
       },
       {
-        "text": "The reader's name.",
+        "text": "Contact",
+        "is_correct": false
+      },
+      {
+        "text": "Home",
+        "is_correct": false
+      },
+      {
+        "text": "Activities",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Navigation must take readers to the promised location.",
-      "hint": "Check the connection between the label and destination."
+      "summary": "“Calendar” is the menu label for dates and scheduled events.",
+      "hint": "Choose the control whose label matches the destination or movement needed."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -935,28 +1214,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "Which layout choice would best support a reader using a webpage about weather?",
-    "audio_prompt": "Which layout choice would best support a reader using a webpage about weather?",
+    "stage": "recognise",
+    "skill": "menus_and_navigation_controls",
+    "question": "A long digital article includes a “Back to top” link. What is it designed to do?",
+    "audio_prompt": "A long digital article includes a “Back to top” link. What is it designed to do?",
     "answers": [
       {
-        "text": "Hide all labels behind images.",
-        "is_correct": false
-      },
-      {
-        "text": "Use identical labels for different destinations.",
-        "is_correct": false
-      },
-      {
-        "text": "Place the menu where it is easy to notice and use.",
+        "text": "Move the reader to the top of the page.",
         "is_correct": true
+      },
+      {
+        "text": "Erase the article's headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Print only the final sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Open the last chapter of every book.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Visible, specific features support navigation.",
-      "hint": "Consider whether readers can find and understand the tool."
+      "summary": "The label describes movement within the same page to its beginning.",
+      "hint": "Choose the control whose label matches the destination or movement needed."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -966,27 +1254,36 @@
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "In an article about coral reefs, which feature helps a reader find what a photograph shows?",
-    "audio_prompt": "In an article about coral reefs, which feature helps a reader find what a photograph shows?",
+    "skill": "menus_and_navigation_controls",
+    "question": "You are reading page 2 of an online booklet. Buttons say Previous and Next. Which button normally moves to page 3?",
+    "audio_prompt": "You are reading page 2 of an online booklet. Buttons say Previous and Next. Which button normally moves to page 3?",
     "answers": [
       {
-        "text": "caption",
+        "text": "The booklet's title",
+        "is_correct": false
+      },
+      {
+        "text": "Next",
         "is_correct": true
       },
       {
-        "text": "decorative border",
+        "text": "Previous",
         "is_correct": false
       },
       {
-        "text": "background colour",
+        "text": "The current page number alone",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Layout and navigation features help readers locate information.",
-      "hint": "Match the reader's need to the feature's purpose."
+      "summary": "“Next” moves forwards in the booklet's page sequence.",
+      "hint": "Choose the control whose label matches the destination or movement needed."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -995,28 +1292,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "What is the main purpose of the caption in an article about coral reefs?",
-    "audio_prompt": "What is the main purpose of the caption in an article about coral reefs?",
+    "stage": "reason",
+    "skill": "menus_and_navigation_controls",
+    "question": "A page offers both “Back” and “Home”. Why might these lead to different places?",
+    "audio_prompt": "A page offers both “Back” and “Home”. Why might these lead to different places?",
     "answers": [
       {
-        "text": "To hide the topic from the reader.",
+        "text": "Back can only change the text's colour.",
         "is_correct": false
       },
       {
-        "text": "To help the reader find what a photograph shows.",
+        "text": "Home always closes every browser tab.",
+        "is_correct": false
+      },
+      {
+        "text": "Back can return to the previous view; Home goes to the site's main page.",
         "is_correct": true
       },
       {
-        "text": "To replace every sentence in the text.",
+        "text": "Both words always mean print the document.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Each navigation feature has a practical reading purpose.",
-      "hint": "Explain what the feature lets a reader do."
+      "summary": "The labels represent different navigation destinations, depending on the site's design.",
+      "hint": "Choose the control whose label matches the destination or movement needed."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1026,27 +1332,36 @@
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
-    "audio_prompt": "A reader wants what a photograph shows in an article about coral reefs. What should the reader do first?",
+    "skill": "menus_and_navigation_controls",
+    "question": "A page shows the path Home > Clubs > Art Club. Which label would take you to the wider clubs section?",
+    "audio_prompt": "A page shows the path Home > Clubs > Art Club. Which label would take you to the wider clubs section?",
     "answers": [
       {
-        "text": "Read an unrelated page repeatedly.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore all navigation words.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the caption.",
+        "text": "Clubs",
         "is_correct": true
+      },
+      {
+        "text": "Art Club",
+        "is_correct": false
+      },
+      {
+        "text": "Home",
+        "is_correct": false
+      },
+      {
+        "text": "The Art Club page heading",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Efficient readers select the most useful navigation path.",
-      "hint": "Choose the tool designed for that search."
+      "summary": "The navigation path shows “Clubs” as the broader section containing this club page.",
+      "hint": "Choose the control whose label matches the destination or movement needed."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1055,28 +1370,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "Which word would be a clear navigation label in an article about coral reefs?",
-    "audio_prompt": "Which word would be a clear navigation label in an article about coral reefs?",
+    "stage": "reason",
+    "skill": "menus_and_navigation_controls",
+    "question": "A menu has three items all called “More”. What change would make it easier to navigate?",
+    "audio_prompt": "A menu has three items all called “More”. What change would make it easier to navigate?",
     "answers": [
       {
-        "text": "Next section",
+        "text": "Use three different colours but keep all labels “More”.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the menu titles until after selection.",
+        "is_correct": false
+      },
+      {
+        "text": "Rename them to match their destinations, such as Events, Resources and Contact.",
         "is_correct": true
       },
       {
-        "text": "Perhaps something",
-        "is_correct": false
-      },
-      {
-        "text": "Mystery place",
+        "text": "Repeat “More” twice on every item.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Clear navigation words predict where an action will lead.",
-      "hint": "Choose the label whose destination is easy to understand."
+      "summary": "Distinct descriptive labels let readers choose a destination before opening it.",
+      "hint": "Choose the control whose label matches the destination or movement needed."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1086,27 +1410,36 @@
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "Why might an article about coral reefs use subheadings?",
-    "audio_prompt": "Why might an article about coral reefs use subheadings?",
+    "skill": "comparing_print_and_digital_features",
+    "question": "A printed guide lists “Maps — page 12”. Its digital version offers a link called “Maps”. What purpose do they share?",
+    "audio_prompt": "A printed guide lists “Maps — page 12”. Its digital version offers a link called “Maps”. What purpose do they share?",
     "answers": [
       {
-        "text": "To make every section about the same detail.",
+        "text": "Explaining the meaning of every map symbol.",
         "is_correct": false
       },
       {
-        "text": "To divide the information into smaller named topics.",
+        "text": "Guaranteeing that every map is up to date.",
+        "is_correct": false
+      },
+      {
+        "text": "Showing who drew every map.",
+        "is_correct": false
+      },
+      {
+        "text": "Helping readers reach the maps section.",
         "is_correct": true
-      },
-      {
-        "text": "To stop readers from scanning the page.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Subheadings signal the topic of each smaller section.",
-      "hint": "Think about how readers scan for a particular idea."
+      "summary": "Both guide readers to a section, using page-turning in print and a link digitally.",
+      "hint": "Compare the purpose of features as well as the different way readers use them."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1115,28 +1448,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "What should a useful caption do in an article about coral reefs?",
-    "audio_prompt": "What should a useful caption do in an article about coral reefs?",
+    "stage": "recognise",
+    "skill": "comparing_print_and_digital_features",
+    "question": "Which action works with a hyperlink on a screen but not with ordinary printed link words on paper?",
+    "audio_prompt": "Which action works with a hyperlink on a screen but not with ordinary printed link words on paper?",
     "answers": [
       {
-        "text": "Repeat the page number only.",
+        "text": "Using the words as a clue to a topic.",
         "is_correct": false
       },
       {
-        "text": "Give directions to an unrelated website.",
-        "is_correct": false
-      },
-      {
-        "text": "Explain or add information about an image.",
+        "text": "Selecting the words to open another page.",
         "is_correct": true
+      },
+      {
+        "text": "Reading the words aloud.",
+        "is_correct": false
+      },
+      {
+        "text": "Noticing whether the words are clear.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Captions connect images with relevant information.",
-      "hint": "Choose the description that helps interpret the image."
+      "summary": "A digital hyperlink can open a destination; printed words alone cannot perform that action.",
+      "hint": "Compare the purpose of features as well as the different way readers use them."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1145,28 +1487,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "The caption in an article about coral reefs leads to the wrong place. What needs editing?",
-    "audio_prompt": "The caption in an article about coral reefs leads to the wrong place. What needs editing?",
+    "stage": "reason",
+    "skill": "comparing_print_and_digital_features",
+    "question": "A printed booklet and webpage both use “Opening hours” as a subheading. Why keep this wording clear in both?",
+    "audio_prompt": "A printed booklet and webpage both use “Opening hours” as a subheading. Why keep this wording clear in both?",
     "answers": [
       {
-        "text": "The navigation link or reference.",
+        "text": "Both formats must have the same page count.",
+        "is_correct": false
+      },
+      {
+        "text": "Printed headings automatically become working links.",
+        "is_correct": false
+      },
+      {
+        "text": "Only digital readers use headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Readers in either format need to recognise where the times are.",
         "is_correct": true
-      },
-      {
-        "text": "Every fact in the whole text.",
-        "is_correct": false
-      },
-      {
-        "text": "The reader's name.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Navigation must take readers to the promised location.",
-      "hint": "Check the connection between the label and destination."
+      "summary": "The shared purpose is locating a section, even though the formats differ.",
+      "hint": "Compare the purpose of features as well as the different way readers use them."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1176,27 +1527,348 @@
     "curriculum_code": "AC9E3LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "Which layout choice would best support a reader using an article about coral reefs?",
-    "audio_prompt": "Which layout choice would best support a reader using an article about coral reefs?",
+    "skill": "comparing_print_and_digital_features",
+    "question": "A print contents page and a digital menu both list sections. What important difference might a reader use?",
+    "audio_prompt": "A print contents page and a digital menu both list sections. What important difference might a reader use?",
     "answers": [
       {
-        "text": "Hide all labels behind images.",
+        "text": "The print contents always has moving pictures.",
         "is_correct": false
       },
       {
-        "text": "Place the caption where it is easy to notice and use.",
+        "text": "The digital menu can never show words.",
+        "is_correct": false
+      },
+      {
+        "text": "The digital menu can open a section directly when selected.",
         "is_correct": true
       },
       {
-        "text": "Use identical labels for different destinations.",
+        "text": "The print contents cannot name sections.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A menu can provide interactive navigation, while a printed contents guides page-turning.",
+      "hint": "Compare the purpose of features as well as the different way readers use them."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-041",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "comparing_print_and_digital_features",
+    "question": "A webpage is printed. Its “Next” button is now just ink on paper. What would help a reader continue?",
+    "audio_prompt": "A webpage is printed. Its “Next” button is now just ink on paper. What would help a reader continue?",
+    "answers": [
+      {
+        "text": "Pressing the printed word harder.",
+        "is_correct": false
+      },
+      {
+        "text": "Waiting for the paper to load a new screen.",
+        "is_correct": false
+      },
+      {
+        "text": "Changing the colour of the printed button.",
+        "is_correct": false
+      },
+      {
+        "text": "Printed page numbers and a clear continuation order.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A printed copy needs non-interactive navigation cues because the button no longer functions digitally.",
+      "hint": "Compare the purpose of features as well as the different way readers use them."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-042",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comparing_print_and_digital_features",
+    "question": "A digital book has a glossary link; a printed book has a glossary at the back. What do both help readers find?",
+    "audio_prompt": "A digital book has a glossary link; a printed book has a glossary at the back. What do both help readers find?",
+    "answers": [
+      {
+        "text": "Only the date the reader last opened the book.",
+        "is_correct": false
+      },
+      {
+        "text": "Every possible story ending.",
+        "is_correct": false
+      },
+      {
+        "text": "Meanings of selected words used in the book.",
+        "is_correct": true
+      },
+      {
+        "text": "The reader's personal score.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The glossary's explanatory purpose remains the same across formats.",
+      "hint": "Compare the purpose of features as well as the different way readers use them."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-043",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "selecting_and_repairing_navigation",
+    "question": "A visitor wants to find toilets in a large centre. Which feature would help most?",
+    "audio_prompt": "A visitor wants to find toilets in a large centre. Which feature would help most?",
+    "answers": [
+      {
+        "text": "A photograph of the founder without location labels.",
+        "is_correct": false
+      },
+      {
+        "text": "A paragraph about the centre's oldest painting.",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled floor plan showing the toilets.",
+        "is_correct": true
+      },
+      {
+        "text": "A list of the café's drink prices.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The floor plan connects named facilities to locations, matching the visitor's need.",
+      "hint": "Match the reader's specific goal to an accurate feature or label."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-044",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "selecting_and_repairing_navigation",
+    "question": "A page has sections on travel, tickets and food, all headed “Information”. Which repair best helps readers scan it?",
+    "audio_prompt": "A page has sections on travel, tickets and food, all headed “Information”. Which repair best helps readers scan it?",
+    "answers": [
+      {
+        "text": "Use the distinct headings Travel, Tickets and Food.",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the headings and join all sections.",
+        "is_correct": false
+      },
+      {
+        "text": "Make every heading “More information”.",
+        "is_correct": false
+      },
+      {
+        "text": "Put the headings in a random order after the text.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specific headings identify the different topics at a glance.",
+      "hint": "Match the reader's specific goal to an accurate feature or label."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-045",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "selecting_and_repairing_navigation",
+    "question": "A button says “View timetable”, but its destination has been removed. What is the useful repair?",
+    "audio_prompt": "A button says “View timetable”, but its destination has been removed. What is the useful repair?",
+    "answers": [
+      {
+        "text": "Copy the broken button onto every page.",
+        "is_correct": false
+      },
+      {
+        "text": "Rename it “Great timetable” without fixing it.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the broken destination and enlarge the button.",
+        "is_correct": false
+      },
+      {
+        "text": "Link it to the current timetable or clearly remove the unavailable option.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A useful navigation control needs an available, accurately described destination.",
+      "hint": "Match the reader's specific goal to an accurate feature or label."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-046",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "selecting_and_repairing_navigation",
+    "question": "A reader wants the meaning of a new word, then wants to return to the article. Which pair of digital features best supports this?",
+    "audio_prompt": "A reader wants the meaning of a new word, then wants to return to the article. Which pair of digital features best supports this?",
+    "answers": [
+      {
+        "text": "A glossary link and a clear return-to-article link.",
+        "is_correct": true
+      },
+      {
+        "text": "Two links both labelled “Something”.",
+        "is_correct": false
+      },
+      {
+        "text": "A weather menu and a larger title.",
+        "is_correct": false
+      },
+      {
+        "text": "A ticket-price link and a photo of the author.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The glossary supplies the meaning; the return link makes the reading path clear.",
+      "hint": "Match the reader's specific goal to an accurate feature or label."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-047",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "reason",
+    "skill": "selecting_and_repairing_navigation",
+    "question": "A reader says, “The heading promised equipment, but this section lists only meeting times.” Which check would fix the problem?",
+    "audio_prompt": "A reader says, “The heading promised equipment, but this section lists only meeting times.” Which check would fix the problem?",
+    "answers": [
+      {
+        "text": "Check that the page has a colourful border.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that headings match the content below them.",
+        "is_correct": true
+      },
+      {
+        "text": "Check that every heading has the same number of letters.",
+        "is_correct": false
+      },
+      {
+        "text": "Check only that each heading is bold.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Visible, specific features support navigation.",
-      "hint": "Consider whether readers can find and understand the tool."
+      "summary": "Accurate labels matter more for navigation than appearance alone.",
+      "hint": "Match the reader's specific goal to an accurate feature or label."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
+    }
+  },
+  {
+    "id": "AC9E3LA05-P-048",
+    "subject": "english",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9E3LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "selecting_and_repairing_navigation",
+    "question": "You need the instructions for assembling a kite, not the story of its inventor. Which contents entry is the best starting point?",
+    "audio_prompt": "You need the instructions for assembling a kite, not the story of its inventor. Which contents entry is the best starting point?",
+    "answers": [
+      {
+        "text": "The author's childhood — 21",
+        "is_correct": false
+      },
+      {
+        "text": "Building your kite — 14",
+        "is_correct": true
+      },
+      {
+        "text": "Kites in old photographs — 8",
+        "is_correct": false
+      },
+      {
+        "text": "Meet the inventor — 3",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The entry names the practical construction section that matches the reader's goal.",
+      "hint": "Match the reader's specific goal to an accurate feature or label."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1205,28 +1877,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Layout and Navigation Features",
-    "question": "In a digital museum guide, which feature helps a reader find a named object quickly?",
-    "audio_prompt": "In a digital museum guide, which feature helps a reader find a named object quickly?",
+    "stage": "apply",
+    "skill": "titles_headings_and_subheadings",
+    "question": "A museum page lists:\nPlan your visit\nOpening hours\nTicket prices\nAccess and parking\nWhich subheading would help someone check where to leave a car?",
+    "audio_prompt": "A museum page lists:\nPlan your visit\nOpening hours\nTicket prices\nAccess and parking\nWhich subheading would help someone check where to leave a car?",
     "answers": [
       {
-        "text": "decorative border",
+        "text": "Opening hours",
         "is_correct": false
       },
       {
-        "text": "background colour",
-        "is_correct": false
-      },
-      {
-        "text": "search box",
+        "text": "Access and parking",
         "is_correct": true
+      },
+      {
+        "text": "Plan your visit",
+        "is_correct": false
+      },
+      {
+        "text": "Ticket prices",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Layout and navigation features help readers locate information.",
-      "hint": "Match the reader's need to the feature's purpose."
+      "summary": "The subheading names the relevant travel and parking information.",
+      "hint": "Use the heading hierarchy to see what the whole text and each smaller section cover."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1235,28 +1916,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Layout and Navigation Features",
-    "question": "What is the main purpose of the search box in a digital museum guide?",
-    "audio_prompt": "What is the main purpose of the search box in a digital museum guide?",
+    "stage": "reason",
+    "skill": "titles_headings_and_subheadings",
+    "question": "A pupil gives a whole animal report the title “Food”, though it covers habitat, appearance and diet. Which title better represents the full text?",
+    "audio_prompt": "A pupil gives a whole animal report the title “Food”, though it covers habitat, appearance and diet. Which title better represents the full text?",
     "answers": [
       {
-        "text": "To help the reader find a named object quickly.",
+        "text": "Feeding Time",
+        "is_correct": false
+      },
+      {
+        "text": "What the Otter Eats",
+        "is_correct": false
+      },
+      {
+        "text": "Meet the River Otter",
         "is_correct": true
       },
       {
-        "text": "To hide the topic from the reader.",
-        "is_correct": false
-      },
-      {
-        "text": "To replace every sentence in the text.",
+        "text": "The Otter's Favourite Meal",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Each navigation feature has a practical reading purpose.",
-      "hint": "Explain what the feature lets a reader do."
+      "summary": "A whole-text title should cover the wider subject rather than only its food section.",
+      "hint": "Use the heading hierarchy to see what the whole text and each smaller section cover."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1265,28 +1955,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Layout and Navigation Features",
-    "question": "A reader wants a named object quickly in a digital museum guide. What should the reader do first?",
-    "audio_prompt": "A reader wants a named object quickly in a digital museum guide. What should the reader do first?",
+    "stage": "apply",
+    "skill": "contents_and_page_navigation",
+    "question": "Contents:\nMaking invitations — 4\nPreparing the room — 10\nWelcoming guests — 16\nCleaning up — 21\nWhere should you turn for room preparation?",
+    "audio_prompt": "Contents:\nMaking invitations — 4\nPreparing the room — 10\nWelcoming guests — 16\nCleaning up — 21\nWhere should you turn for room preparation?",
     "answers": [
       {
-        "text": "Read an unrelated page repeatedly.",
+        "text": "Page 4.",
         "is_correct": false
       },
       {
-        "text": "Use the search box.",
+        "text": "Page 10.",
         "is_correct": true
       },
       {
-        "text": "Ignore all navigation words.",
+        "text": "Page 21.",
+        "is_correct": false
+      },
+      {
+        "text": "Page 16.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Efficient readers select the most useful navigation path.",
-      "hint": "Choose the tool designed for that search."
+      "summary": "The required section is listed as beginning on page 10.",
+      "hint": "Match the section name to its page number; contents usually follows the text's order."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1295,28 +1994,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Layout and Navigation Features",
-    "question": "Which word would be a clear navigation label in a digital museum guide?",
-    "audio_prompt": "Which word would be a clear navigation label in a digital museum guide?",
+    "stage": "reason",
+    "skill": "contents_and_page_navigation",
+    "question": "A contents entry says “Animal homes — 15”. Does this mean the section has fifteen pages?",
+    "audio_prompt": "A contents entry says “Animal homes — 15”. Does this mean the section has fifteen pages?",
     "answers": [
       {
-        "text": "Perhaps something",
+        "text": "Yes; it counts the animals in the section.",
         "is_correct": false
       },
       {
-        "text": "Mystery place",
+        "text": "Yes; it always gives the section's length.",
         "is_correct": false
       },
       {
-        "text": "Next section",
+        "text": "No; it gives the number of the last word.",
+        "is_correct": false
+      },
+      {
+        "text": "No; it normally gives the page where that section begins.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Clear navigation words predict where an action will lead.",
-      "hint": "Choose the label whose destination is easy to understand."
+      "summary": "Contents page numbers locate sections rather than counting their pages or contents.",
+      "hint": "Match the section name to its page number; contents usually follows the text's order."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1325,28 +2033,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Layout and Navigation Features",
-    "question": "Why might a digital museum guide use subheadings?",
-    "audio_prompt": "Why might a digital museum guide use subheadings?",
+    "stage": "apply",
+    "skill": "chapter_headings_in_narratives",
+    "question": "Story contents:\nThe invitation — 2\nA difficult journey — 9\nAt the castle — 17\nThe return — 26\nWhich heading best helps locate the journey to the castle?",
+    "audio_prompt": "Story contents:\nThe invitation — 2\nA difficult journey — 9\nAt the castle — 17\nThe return — 26\nWhich heading best helps locate the journey to the castle?",
     "answers": [
       {
-        "text": "To divide the information into smaller named topics.",
+        "text": "The return",
+        "is_correct": false
+      },
+      {
+        "text": "A difficult journey",
         "is_correct": true
       },
       {
-        "text": "To make every section about the same detail.",
+        "text": "At the castle",
         "is_correct": false
       },
       {
-        "text": "To stop readers from scanning the page.",
+        "text": "The invitation",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Subheadings signal the topic of each smaller section.",
-      "hint": "Think about how readers scan for a particular idea."
+      "summary": "The journey heading is the most relevant clue to the travel section before arrival.",
+      "hint": "Use chapter titles as clues and landmarks, without assuming they reveal every event."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1355,28 +2072,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Layout and Navigation Features",
-    "question": "What should a useful caption do in a digital museum guide?",
-    "audio_prompt": "What should a useful caption do in a digital museum guide?",
+    "stage": "reason",
+    "skill": "chapter_headings_in_narratives",
+    "question": "A child looks for a remembered scene using its chapter title and page number. How are the two features working together?",
+    "audio_prompt": "A child looks for a remembered scene using its chapter title and page number. How are the two features working together?",
     "answers": [
       {
-        "text": "Repeat the page number only.",
+        "text": "The title counts the pages; the number tells the story's theme.",
         "is_correct": false
       },
       {
-        "text": "Explain or add information about an image.",
+        "text": "Both features give the author's address.",
+        "is_correct": false
+      },
+      {
+        "text": "Both features explain unfamiliar words.",
+        "is_correct": false
+      },
+      {
+        "text": "The title identifies the section; the number locates its start.",
         "is_correct": true
-      },
-      {
-        "text": "Give directions to an unrelated website.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Captions connect images with relevant information.",
-      "hint": "Choose the description that helps interpret the image."
+      "summary": "The heading tells what to look for, and the page number tells where to turn.",
+      "hint": "Use chapter titles as clues and landmarks, without assuming they reveal every event."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1385,28 +2111,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Layout and Navigation Features",
-    "question": "The search box in a digital museum guide leads to the wrong place. What needs editing?",
-    "audio_prompt": "The search box in a digital museum guide leads to the wrong place. What needs editing?",
+    "stage": "apply",
+    "skill": "index_and_glossary",
+    "question": "Index:\nboats — 5\nflags — 13\nmaps — 7, 16\nropes — 10\nWhich pages should you check for maps?",
+    "audio_prompt": "Index:\nboats — 5\nflags — 13\nmaps — 7, 16\nropes — 10\nWhich pages should you check for maps?",
     "answers": [
       {
-        "text": "Every fact in the whole text.",
+        "text": "5 and 10.",
         "is_correct": false
       },
       {
-        "text": "The reader's name.",
+        "text": "10 and 13.",
         "is_correct": false
       },
       {
-        "text": "The navigation link or reference.",
+        "text": "7 and 16.",
         "is_correct": true
+      },
+      {
+        "text": "5 and 13.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Navigation must take readers to the promised location.",
-      "hint": "Check the connection between the label and destination."
+      "summary": "Both numbers beside the topic identify pages where maps are discussed.",
+      "hint": "An index locates topics; a glossary explains selected words."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1415,28 +2150,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Layout and Navigation Features",
-    "question": "Which layout choice would best support a reader using a digital museum guide?",
-    "audio_prompt": "Which layout choice would best support a reader using a digital museum guide?",
+    "stage": "reason",
+    "skill": "index_and_glossary",
+    "question": "A glossary entry gives a page number but no meaning. If its purpose is to explain vocabulary, what is missing?",
+    "audio_prompt": "A glossary entry gives a page number but no meaning. If its purpose is to explain vocabulary, what is missing?",
     "answers": [
       {
-        "text": "Place the search box where it is easy to notice and use.",
+        "text": "A chapter's full story ending.",
+        "is_correct": false
+      },
+      {
+        "text": "A larger page-number font.",
+        "is_correct": false
+      },
+      {
+        "text": "A second copy of the same number.",
+        "is_correct": false
+      },
+      {
+        "text": "A clear definition of the word.",
         "is_correct": true
-      },
-      {
-        "text": "Hide all labels behind images.",
-        "is_correct": false
-      },
-      {
-        "text": "Use identical labels for different destinations.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Visible, specific features support navigation.",
-      "hint": "Consider whether readers can find and understand the tool."
+      "summary": "A page reference alone does not fulfil a glossary's main job of explaining meaning.",
+      "hint": "An index locates topics; a glossary explains selected words."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1446,27 +2190,36 @@
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
     "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "In a safety handbook, which feature helps a reader find the page where a section begins?",
-    "audio_prompt": "In a safety handbook, which feature helps a reader find the page where a section begins?",
+    "skill": "meaningful_hyperlink_words",
+    "question": "A museum article offers [See the floor plan]. What would you expect after selecting it?",
+    "audio_prompt": "A museum article offers [See the floor plan]. What would you expect after selecting it?",
     "answers": [
       {
-        "text": "decorative border",
+        "text": "A story about the museum's founder only.",
         "is_correct": false
       },
       {
-        "text": "contents page",
+        "text": "A glossary of music terms only.",
+        "is_correct": false
+      },
+      {
+        "text": "A plan showing where rooms or areas are located.",
         "is_correct": true
       },
       {
-        "text": "background colour",
+        "text": "A list of ticket payment methods only.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Layout and navigation features help readers locate information.",
-      "hint": "Match the reader's need to the feature's purpose."
+      "summary": "“Floor plan” names a spatial guide to the building's layout.",
+      "hint": "Link wording should predict the information or destination it opens."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1475,28 +2228,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "What is the main purpose of the contents page in a safety handbook?",
-    "audio_prompt": "What is the main purpose of the contents page in a safety handbook?",
+    "stage": "reason",
+    "skill": "meaningful_hyperlink_words",
+    "question": "A link called “Back to story contents” appears at the end of a digital chapter. What does its wording help the reader do?",
+    "audio_prompt": "A link called “Back to story contents” appears at the end of a digital chapter. What does its wording help the reader do?",
     "answers": [
       {
-        "text": "To hide the topic from the reader.",
-        "is_correct": false
-      },
-      {
-        "text": "To replace every sentence in the text.",
-        "is_correct": false
-      },
-      {
-        "text": "To help the reader find the page where a section begins.",
+        "text": "Return to the list of chapters.",
         "is_correct": true
+      },
+      {
+        "text": "Change the story's characters.",
+        "is_correct": false
+      },
+      {
+        "text": "Skip automatically to an unrelated website.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the chapter they just read.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Each navigation feature has a practical reading purpose.",
-      "hint": "Explain what the feature lets a reader do."
+      "summary": "The label tells readers both the direction of navigation and the destination.",
+      "hint": "Link wording should predict the information or destination it opens."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1506,27 +2268,36 @@
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
     "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "A reader wants the page where a section begins in a safety handbook. What should the reader do first?",
-    "audio_prompt": "A reader wants the page where a section begins in a safety handbook. What should the reader do first?",
+    "skill": "menus_and_navigation_controls",
+    "question": "A school site menu reads News • Enrolment • Library • Contact. Which label best helps you find how to contact the school?",
+    "audio_prompt": "A school site menu reads News • Enrolment • Library • Contact. Which label best helps you find how to contact the school?",
     "answers": [
       {
-        "text": "Use the contents page.",
+        "text": "Contact",
         "is_correct": true
       },
       {
-        "text": "Read an unrelated page repeatedly.",
+        "text": "News",
         "is_correct": false
       },
       {
-        "text": "Ignore all navigation words.",
+        "text": "Library",
+        "is_correct": false
+      },
+      {
+        "text": "Enrolment",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Efficient readers select the most useful navigation path.",
-      "hint": "Choose the tool designed for that search."
+      "summary": "“Contact” directly signals details for getting in touch.",
+      "hint": "Choose the control whose label matches the destination or movement needed."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1535,28 +2306,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "Which word would be a clear navigation label in a safety handbook?",
-    "audio_prompt": "Which word would be a clear navigation label in a safety handbook?",
+    "stage": "reason",
+    "skill": "menus_and_navigation_controls",
+    "question": "An online story offers “Chapter list” and “Next chapter”. You want to choose Chapter 2 while reading Chapter 5. Which is more useful?",
+    "audio_prompt": "An online story offers “Chapter list” and “Next chapter”. You want to choose Chapter 2 while reading Chapter 5. Which is more useful?",
     "answers": [
       {
-        "text": "Perhaps something",
+        "text": "Neither, because digital stories cannot revisit chapters.",
         "is_correct": false
       },
       {
-        "text": "Next section",
+        "text": "Either, because all navigation controls do the same thing.",
+        "is_correct": false
+      },
+      {
+        "text": "Chapter list, because it lets you choose another chapter.",
         "is_correct": true
       },
       {
-        "text": "Mystery place",
+        "text": "Next chapter, because it always moves backwards.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Clear navigation words predict where an action will lead.",
-      "hint": "Choose the label whose destination is easy to understand."
+      "summary": "A chapter list supports selecting a particular section, rather than only moving forwards.",
+      "hint": "Choose the control whose label matches the destination or movement needed."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1565,28 +2345,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "Why might a safety handbook use subheadings?",
-    "audio_prompt": "Why might a safety handbook use subheadings?",
+    "stage": "recognise",
+    "skill": "comparing_print_and_digital_features",
+    "question": "A printed chapter heading and the same heading in an online chapter can both act as what?",
+    "audio_prompt": "A printed chapter heading and the same heading in an online chapter can both act as what?",
     "answers": [
       {
-        "text": "To make every section about the same detail.",
+        "text": "A command to leave the text immediately.",
         "is_correct": false
       },
       {
-        "text": "To stop readers from scanning the page.",
+        "text": "A guarantee that every sentence is factual.",
         "is_correct": false
       },
       {
-        "text": "To divide the information into smaller named topics.",
+        "text": "A measurement of the screen's brightness.",
+        "is_correct": false
+      },
+      {
+        "text": "A landmark showing which part of the text the reader has reached.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Subheadings signal the topic of each smaller section.",
-      "hint": "Think about how readers scan for a particular idea."
+      "summary": "Headings identify sections and help readers orient themselves in either format.",
+      "hint": "Compare the purpose of features as well as the different way readers use them."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1595,28 +2384,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "What should a useful caption do in a safety handbook?",
-    "audio_prompt": "What should a useful caption do in a safety handbook?",
+    "stage": "reason",
+    "skill": "comparing_print_and_digital_features",
+    "question": "A digital contents list opens chapters, but a printed contents list gives page numbers. Why are both useful?",
+    "audio_prompt": "A digital contents list opens chapters, but a printed contents list gives page numbers. Why are both useful?",
     "answers": [
       {
-        "text": "Explain or add information about an image.",
+        "text": "Each provides a practical route to sections in its own format.",
         "is_correct": true
       },
       {
-        "text": "Repeat the page number only.",
+        "text": "They prove all chapters have identical lengths.",
         "is_correct": false
       },
       {
-        "text": "Give directions to an unrelated website.",
+        "text": "They remove the need for any chapter text.",
+        "is_correct": false
+      },
+      {
+        "text": "They ensure readers must begin at the last chapter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Captions connect images with relevant information.",
-      "hint": "Choose the description that helps interpret the image."
+      "summary": "Navigation methods differ, but both help readers locate the part they need.",
+      "hint": "Compare the purpose of features as well as the different way readers use them."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1626,27 +2424,36 @@
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
     "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "The contents page in a safety handbook leads to the wrong place. What needs editing?",
-    "audio_prompt": "The contents page in a safety handbook leads to the wrong place. What needs editing?",
+    "skill": "selecting_and_repairing_navigation",
+    "question": "A digital report is long. A list at the top names each section and links to it. How does this help?",
+    "audio_prompt": "A digital report is long. A list at the top names each section and links to it. How does this help?",
     "answers": [
       {
-        "text": "Every fact in the whole text.",
-        "is_correct": false
-      },
-      {
-        "text": "The navigation link or reference.",
+        "text": "Readers can go straight to a relevant section.",
         "is_correct": true
       },
       {
-        "text": "The reader's name.",
+        "text": "Every section becomes exactly one sentence long.",
+        "is_correct": false
+      },
+      {
+        "text": "Readers no longer need to understand any words.",
+        "is_correct": false
+      },
+      {
+        "text": "The report automatically becomes a printed book.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Navigation must take readers to the promised location.",
-      "hint": "Check the connection between the label and destination."
+      "summary": "Linked section names reduce the need to scroll through unrelated parts.",
+      "hint": "Match the reader's specific goal to an accurate feature or label."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   },
   {
@@ -1655,28 +2462,37 @@
     "year_level": "Year 3",
     "curriculum_code": "AC9E3LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Layout and Navigation Features",
-    "question": "Which layout choice would best support a reader using a safety handbook?",
-    "audio_prompt": "Which layout choice would best support a reader using a safety handbook?",
+    "stage": "reason",
+    "skill": "selecting_and_repairing_navigation",
+    "question": "A pupil labels a link “Results” but wants it to open the method used in a class investigation. Which label would be more accurate?",
+    "audio_prompt": "A pupil labels a link “Results” but wants it to open the method used in a class investigation. Which label would be more accurate?",
     "answers": [
       {
-        "text": "Hide all labels behind images.",
+        "text": "What we found",
         "is_correct": false
       },
       {
-        "text": "Use identical labels for different destinations.",
-        "is_correct": false
-      },
-      {
-        "text": "Place the contents page where it is easy to notice and use.",
+        "text": "How we investigated",
         "is_correct": true
+      },
+      {
+        "text": "Our findings table",
+        "is_correct": false
+      },
+      {
+        "text": "Our final results",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Visible, specific features support navigation.",
-      "hint": "Consider whether readers can find and understand the tool."
+      "summary": "The method explains how the investigation was carried out, whereas results labels promise findings.",
+      "hint": "Match the reader's specific goal to an accurate feature or label."
+    },
+    "visual": {
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     }
   }
 ]
