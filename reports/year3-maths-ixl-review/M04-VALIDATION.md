@@ -1,0 +1,13 @@
+# AC9M3M04 validation
+
+7 September 2026. **DRAFTED — content and repository checks passed; deployment and live validation pending.**
+
+Readiness was completed in M04-READINESS-COVERAGE.md before approving or repairing the older draft. Exact ACARA descriptor, all three assessable components, five actual IXL pages with expanded examples and fresh bounded samples are recorded. Clock writing reached 16 answered / score 82 with an actual individual-minute clock. Higher adaptive stages are explicitly unobserved; no exhaustive IXL claim.
+
+All 64 prompts, four options, answers, explanations and hints reviewed. Coverage includes real analogue readings to individual minutes, two-clock comparisons, digital field interpretation, past/to language, zero padding, continuous hour-hand movement, numbered interval versus minute value, reversed fields and next-hour misconceptions. The former repeated context prefixes and elapsed-time distractions were removed. Twelve practice and four test direct-reading items deliberately vary assessed tick/hour boundaries; the rest include representation comparison and reasoning. No name-swapping diversity or selectable review statuses.
+
+Exactly 48 practice + 16 test. All 40 original IDs, curriculum codes, bank assignments and read_time_to_minute tags preserved; P025–P048 added. Four correct-answer positions balanced 12 each practice and 4 each test. Production validator PASS. All diagrams rendered and visually inspected: 22 symbols with 28 clock faces. Six crowded four-clock panels replaced by two-clock comparisons; short/long hands, minute ticks and labels checked. Every hand angle independently decoded from SVG path coordinates to the expected time. All six comparison tasks have a unique answer, including valid both/neither choices. Alternative text describes hands/ticks without simply giving the digital answer. Fixed singular/plural wording and replaced mismatched generic hints with item-specific hints.
+
+All 64 generated quiz records executed in isolated Node VM contexts and compared with source for IDs, prompts, correct answers, summaries and hints. SVG targets resolve. Practice compatibility file is identical. Review-aware publisher and verification-status check passed; the legacy ledger now lists 16/23 but does not represent completion of this stricter sweep. Whole-year badge remains off.
+
+The local preview is inaccessible in the cloud browser; live diagrams, practice/test gates, marking and homepage will be checked after successful deployment. No product runtime or topic-guide/slide/worksheet changes are included. MCQ interpretation/reason selection does not establish unaided oral explanation or independent clock construction.

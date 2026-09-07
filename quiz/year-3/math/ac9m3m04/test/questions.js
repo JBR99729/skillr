@@ -7,25 +7,26 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At sport time, the minute hand is on minute 52 and the hour hand is just past 5. Which digital time matches?",
-    "audioPrompt": "At sport time, the minute hand is on minute 52 and the hour hand is just past 5. Which digital time matches?",
-    "visual": "At sport time: Analog clock showing 5:52.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At sport time: Analog clock showing 5:52.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-001\"></use></svg>",
+    "question": "What digital time matches this clock?",
+    "audioPrompt": "What digital time matches this clock?",
+    "visual": "Analogue clock with twelve numbered positions and sixty minute ticks: short hand between 5 and 6, closer to 5; long hand 3 small ticks clockwise after 3.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Analogue clock with twelve numbered positions and sixty minute ticks: short hand between 5 and 6, closer to 5; long hand 3 small ticks clockwise after 3.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04-v2.svg#ac9m3m04-t-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-001",
-      "alt_text": "At sport time: Analog clock showing 5:52."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04-v2.svg#ac9m3m04-t-001",
+      "alt_text": "Analogue clock with twelve numbered positions and sixty minute ticks: short hand between 5 and 6, closer to 5; long hand 3 small ticks clockwise after 3."
     },
     "answers": [
-      "5:52",
-      "5:57",
-      "6:52"
+      "5:18",
+      "6:18",
+      "5:23",
+      "5:17"
     ],
     "correct": 0,
-    "explanation": "The long hand shows 52 minutes past 5, so the time is 5:52.\nHint: Read the minute hand, then check which hour has just passed.",
+    "explanation": "The short hand has passed 5 but has not reached 6. Count 3 groups of five minutes and 3 extra minutes to get 18 minutes. The time is 5:18.\nHint: Find the hour most recently passed, then count groups of five and any extra minute ticks.",
     "structuredExplanation": {
-      "summary": "The long hand shows 52 minutes past 5, so the time is 5:52.",
-      "hint": "Read the minute hand, then check which hour has just passed."
+      "summary": "The short hand has passed 5 but has not reached 6. Count 3 groups of five minutes and 3 extra minutes to get 18 minutes. The time is 5:18.",
+      "hint": "Find the hour most recently passed, then count groups of five and any extra minute ticks."
     },
     "qualitySchema": "production-v1"
   },
@@ -36,25 +37,26 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At sport time, which description matches 5:52?",
-    "audioPrompt": "At sport time, which description matches 5:52?",
-    "visual": "At sport time: Analog clock showing 5:52.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At sport time: Analog clock showing 5:52.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-002\"></use></svg>",
+    "question": "What digital time matches this clock?",
+    "audioPrompt": "What digital time matches this clock?",
+    "visual": "Analogue clock with twelve numbered positions and sixty minute ticks: short hand between 9 and 10, closer to 10; long hand 4 small ticks clockwise after 6.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Analogue clock with twelve numbered positions and sixty minute ticks: short hand between 9 and 10, closer to 10; long hand 4 small ticks clockwise after 6.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04-v2.svg#ac9m3m04-t-002\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-002",
-      "alt_text": "At sport time: Analog clock showing 5:52."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04-v2.svg#ac9m3m04-t-002",
+      "alt_text": "Analogue clock with twelve numbered positions and sixty minute ticks: short hand between 9 and 10, closer to 10; long hand 4 small ticks clockwise after 6."
     },
     "answers": [
-      "5 minutes past 52",
-      "52 minutes past 5",
-      "8 minutes past 5"
+      "10:34",
+      "9:34",
+      "9:39",
+      "9:33"
     ],
     "correct": 1,
-    "explanation": "5:52 means 52 minutes have passed since 5 o'clock.\nHint: Digits after the colon show minutes past the hour.",
+    "explanation": "The short hand has passed 9 but has not reached 10. Count 6 groups of five minutes and 4 extra minutes to get 34 minutes. The time is 9:34.\nHint: Find the hour most recently passed, then count groups of five and any extra minute ticks.",
     "structuredExplanation": {
-      "summary": "5:52 means 52 minutes have passed since 5 o'clock.",
-      "hint": "Digits after the colon show minutes past the hour."
+      "summary": "The short hand has passed 9 but has not reached 10. Count 6 groups of five minutes and 4 extra minutes to get 34 minutes. The time is 9:34.",
+      "hint": "Find the hour most recently passed, then count groups of five and any extra minute ticks."
     },
     "qualitySchema": "production-v1"
   },
@@ -65,25 +67,26 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At sport time, where should the minute hand point at 5:52?",
-    "audioPrompt": "At sport time, where should the minute hand point at 5:52?",
-    "visual": "At sport time: Analog clock showing 5:52.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At sport time: Analog clock showing 5:52.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-003\"></use></svg>",
+    "question": "What digital time matches this clock?",
+    "audioPrompt": "What digital time matches this clock?",
+    "visual": "Analogue clock with twelve numbered positions and sixty minute ticks: short hand between 12 and 1, closer to 1; long hand 1 small tick clockwise after 11.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Analogue clock with twelve numbered positions and sixty minute ticks: short hand between 12 and 1, closer to 1; long hand 1 small tick clockwise after 11.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04-v2.svg#ac9m3m04-t-003\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-003",
-      "alt_text": "At sport time: Analog clock showing 5:52."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04-v2.svg#ac9m3m04-t-003",
+      "alt_text": "Analogue clock with twelve numbered positions and sixty minute ticks: short hand between 12 and 1, closer to 1; long hand 1 small tick clockwise after 11."
     },
     "answers": [
-      "At minute 5",
-      "At minute 8",
-      "At minute 52"
+      "1:56",
+      "12:01",
+      "12:56",
+      "12:55"
     ],
     "correct": 2,
-    "explanation": "The minute digits are 52, so the long hand marks minute 52.\nHint: Count minute marks clockwise from 12.",
+    "explanation": "The short hand has passed 12 but has not reached 1. Count 11 groups of five minutes and 1 extra minute to get 56 minutes. The time is 12:56.\nHint: Find the hour most recently passed, then count groups of five and any extra minute ticks.",
     "structuredExplanation": {
-      "summary": "The minute digits are 52, so the long hand marks minute 52.",
-      "hint": "Count minute marks clockwise from 12."
+      "summary": "The short hand has passed 12 but has not reached 1. Count 11 groups of five minutes and 1 extra minute to get 56 minutes. The time is 12:56.",
+      "hint": "Find the hour most recently passed, then count groups of five and any extra minute ticks."
     },
     "qualitySchema": "production-v1"
   },
@@ -94,25 +97,26 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At sport time, at 5:52, where should the hour hand be?",
-    "audioPrompt": "At sport time, at 5:52, where should the hour hand be?",
-    "visual": "At sport time: Analog clock showing 5:52.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At sport time: Analog clock showing 5:52.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-004\"></use></svg>",
+    "question": "What digital time matches this clock?",
+    "audioPrompt": "What digital time matches this clock?",
+    "visual": "Analogue clock with twelve numbered positions and sixty minute ticks: short hand between 7 and 8, closer to 7; long hand 1 small tick clockwise after 12.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Analogue clock with twelve numbered positions and sixty minute ticks: short hand between 7 and 8, closer to 7; long hand 1 small tick clockwise after 12.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04-v2.svg#ac9m3m04-t-004\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-004",
-      "alt_text": "At sport time: Analog clock showing 5:52."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04-v2.svg#ac9m3m04-t-004",
+      "alt_text": "Analogue clock with twelve numbered positions and sixty minute ticks: short hand between 7 and 8, closer to 7; long hand 1 small tick clockwise after 12."
     },
     "answers": [
-      "A little past 5",
-      "Exactly on 6",
-      "Exactly on 52"
+      "8:01",
+      "7:06",
+      "7:00",
+      "7:01"
     ],
-    "correct": 0,
-    "explanation": "The hour hand moves gradually from 5 toward 6 as minutes pass.\nHint: It should not stay exactly on the hour after minutes have passed.",
+    "correct": 3,
+    "explanation": "The short hand has passed 7 but has not reached 8. Count one individual minute tick clockwise from 12. The time is 7:01.\nHint: Find the hour most recently passed, then count groups of five and any extra minute ticks.",
     "structuredExplanation": {
-      "summary": "The hour hand moves gradually from 5 toward 6 as minutes pass.",
-      "hint": "It should not stay exactly on the hour after minutes have passed."
+      "summary": "The short hand has passed 7 but has not reached 8. Count one individual minute tick clockwise from 12. The time is 7:01.",
+      "hint": "Find the hour most recently passed, then count groups of five and any extra minute ticks."
     },
     "qualitySchema": "production-v1"
   },
@@ -123,25 +127,24 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At sport time, what time is 6 minutes after 5:52?",
-    "audioPrompt": "At sport time, what time is 6 minutes after 5:52?",
-    "visual": "At sport time: Analog clock showing 6 minutes after 5:52.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At sport time: Analog clock showing 6 minutes after 5:52.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-005\"></use></svg>",
+    "question": "Write fourteen minutes to three digitally.",
+    "audioPrompt": "Write fourteen minutes to three digitally.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-005",
-      "alt_text": "At sport time: Analog clock showing 6 minutes after 5:52."
+      "type": "none"
     },
     "answers": [
-      "5:46",
-      "5:58",
-      "6:52"
+      "2:46",
+      "3:14",
+      "2:14",
+      "3:46"
     ],
-    "correct": 1,
-    "explanation": "Count forward 6 minutes from 5:52.\nHint: Move one minute mark at a time and regroup at 60.",
+    "correct": 0,
+    "explanation": "Forty-six minutes past two leaves fourteen minutes until three.\nHint: Find the hour before three and subtract fourteen from sixty.",
     "structuredExplanation": {
-      "summary": "Count forward 6 minutes from 5:52.",
-      "hint": "Move one minute mark at a time and regroup at 60."
+      "summary": "Forty-six minutes past two leaves fourteen minutes until three.",
+      "hint": "Find the hour before three and subtract fourteen from sixty."
     },
     "qualitySchema": "production-v1"
   },
@@ -152,25 +155,24 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At sport time, what time is 5 minutes before 5:52?",
-    "audioPrompt": "At sport time, what time is 5 minutes before 5:52?",
-    "visual": "At sport time: Analog clock showing 5:52.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At sport time: Analog clock showing 5:52.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-006\"></use></svg>",
+    "question": "Which phrase matches 11:15?",
+    "audioPrompt": "Which phrase matches 11:15?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-006",
-      "alt_text": "At sport time: Analog clock showing 5:52."
+      "type": "none"
     },
     "answers": [
-      "5:57",
-      "4:52",
-      "5:47"
+      "quarter to eleven",
+      "quarter past eleven",
+      "half past eleven",
+      "quarter past twelve"
     ],
-    "correct": 2,
-    "explanation": "Count back 5 minutes from 5:52.\nHint: Move anticlockwise across the hour if needed.",
+    "correct": 1,
+    "explanation": "Fifteen minutes is a quarter-hour after eleven.\nHint: Fifteen minutes is one quarter of an hour.",
     "structuredExplanation": {
-      "summary": "Count back 5 minutes from 5:52.",
-      "hint": "Move anticlockwise across the hour if needed."
+      "summary": "Fifteen minutes is a quarter-hour after eleven.",
+      "hint": "Fifteen minutes is one quarter of an hour."
     },
     "qualitySchema": "production-v1"
   },
@@ -181,25 +183,24 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At sport time, a student reads 5:52 as 52:5. What was reversed?",
-    "audioPrompt": "At sport time, a student reads 5:52 as 52:5. What was reversed?",
-    "visual": "At sport time: Analog clock showing 5:52.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At sport time: Analog clock showing 5:52.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-007\"></use></svg>",
+    "question": "At 2:50, where is the short hand?",
+    "audioPrompt": "At 2:50, where is the short hand?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-007",
-      "alt_text": "At sport time: Analog clock showing 5:52."
+      "type": "none"
     },
     "answers": [
-      "The hour and minute parts",
-      "The clock direction",
-      "The number of days"
+      "exactly on 3",
+      "between 1 and 2",
+      "between 2 and 3, close to 3",
+      "exactly on 10"
     ],
-    "correct": 0,
-    "explanation": "Digital time writes hour before the colon and minutes after it.\nHint: Label the two sides of the colon.",
+    "correct": 2,
+    "explanation": "Fifty minutes have passed in the hour after two, so the hand is nearing three.\nHint: The short hand approaches the next hour as minutes pass.",
     "structuredExplanation": {
-      "summary": "Digital time writes hour before the colon and minutes after it.",
-      "hint": "Label the two sides of the colon."
+      "summary": "Fifty minutes have passed in the hour after two, so the hand is nearing three.",
+      "hint": "The short hand approaches the next hour as minutes pass."
     },
     "qualitySchema": "production-v1"
   },
@@ -210,25 +211,24 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At sport time, why is the hour hand not exactly on 5 at 5:52?",
-    "audioPrompt": "At sport time, why is the hour hand not exactly on 5 at 5:52?",
-    "visual": "At sport time: Analog clock showing 5:52.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At sport time: Analog clock showing 5:52.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-008\"></use></svg>",
+    "question": "The long hand is four small ticks after 5. What minute reading is shown?",
+    "audioPrompt": "The long hand is four small ticks after 5. What minute reading is shown?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-008",
-      "alt_text": "At sport time: Analog clock showing 5:52."
+      "type": "none"
     },
     "answers": [
-      "It only moves at midnight",
-      "It moves toward the next hour as minutes pass",
-      "The minute hand pushes it"
+      "9",
+      "21",
+      "54",
+      "29"
     ],
-    "correct": 1,
-    "explanation": "The hour hand moves continuously, so after 52 minutes it is between 5 and 6.\nHint: Use the fraction of the hour that has passed.",
+    "correct": 3,
+    "explanation": "Five marks twenty-five minutes; add four.\nHint: Find the minutes at 5, then add four ticks.",
     "structuredExplanation": {
-      "summary": "The hour hand moves continuously, so after 52 minutes it is between 5 and 6.",
-      "hint": "Use the fraction of the hour that has passed."
+      "summary": "Five marks twenty-five minutes; add four.",
+      "hint": "Find the minutes at 5, then add four ticks."
     },
     "qualitySchema": "production-v1"
   },
@@ -239,25 +239,24 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At home time, the minute hand is on minute 14 and the hour hand is just past 6. Which digital time matches?",
-    "audioPrompt": "At home time, the minute hand is on minute 14 and the hour hand is just past 6. Which digital time matches?",
-    "visual": "At home time: Analog clock showing 6:14.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At home time: Analog clock showing 6:14.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-009\"></use></svg>",
+    "question": "Which pair represents the same time?",
+    "audioPrompt": "Which pair represents the same time?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-009",
-      "alt_text": "At home time: Analog clock showing 6:14."
+      "type": "none"
     },
     "answers": [
-      "6:19",
-      "7:14",
-      "6:14"
+      "6:42 and eighteen to seven",
+      "6:42 and eighteen past six",
+      "6:42 and forty-two to seven",
+      "6:42 and eighteen to six"
     ],
-    "correct": 2,
-    "explanation": "The long hand shows 14 minutes past 6, so the time is 6:14.\nHint: Read the minute hand, then check which hour has just passed.",
+    "correct": 0,
+    "explanation": "Sixty minus forty-two is eighteen minutes until seven.\nHint: Find how many minutes remain after forty-two out of sixty.",
     "structuredExplanation": {
-      "summary": "The long hand shows 14 minutes past 6, so the time is 6:14.",
-      "hint": "Read the minute hand, then check which hour has just passed."
+      "summary": "Sixty minus forty-two is eighteen minutes until seven.",
+      "hint": "Find how many minutes remain after forty-two out of sixty."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,25 +267,24 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At home time, which description matches 6:14?",
-    "audioPrompt": "At home time, which description matches 6:14?",
-    "visual": "At home time: Analog clock showing 6:14.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At home time: Analog clock showing 6:14.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-010\"></use></svg>",
+    "question": "A clock's short hand is near 10 but still before it. The long hand shows 57 minutes. Which time is correct?",
+    "audioPrompt": "A clock's short hand is near 10 but still before it. The long hand shows 57 minutes. Which time is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-010",
-      "alt_text": "At home time: Analog clock showing 6:14."
+      "type": "none"
     },
     "answers": [
-      "14 minutes past 6",
-      "6 minutes past 14",
-      "46 minutes past 6"
+      "10:57",
+      "9:57",
+      "9:47",
+      "10:03"
     ],
-    "correct": 0,
-    "explanation": "6:14 means 14 minutes have passed since 6 o'clock.\nHint: Digits after the colon show minutes past the hour.",
+    "correct": 1,
+    "explanation": "The hour hand has not reached ten, so write nine as the hour.\nHint: Use the hour the short hand has already passed.",
     "structuredExplanation": {
-      "summary": "6:14 means 14 minutes have passed since 6 o'clock.",
-      "hint": "Digits after the colon show minutes past the hour."
+      "summary": "The hour hand has not reached ten, so write nine as the hour.",
+      "hint": "Use the hour the short hand has already passed."
     },
     "qualitySchema": "production-v1"
   },
@@ -297,25 +295,24 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At home time, where should the minute hand point at 6:14?",
-    "audioPrompt": "At home time, where should the minute hand point at 6:14?",
-    "visual": "At home time: Analog clock showing 6:14.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At home time: Analog clock showing 6:14.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-011\"></use></svg>",
+    "question": "At 12:30, where is the hour hand?",
+    "audioPrompt": "At 12:30, where is the hour hand?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-011",
-      "alt_text": "At home time: Analog clock showing 6:14."
+      "type": "none"
     },
     "answers": [
-      "At minute 6",
-      "At minute 14",
-      "At minute 46"
+      "exactly on 12",
+      "halfway between 11 and 12",
+      "halfway between 12 and 1",
+      "exactly on 6"
     ],
-    "correct": 1,
-    "explanation": "The minute digits are 14, so the long hand marks minute 14.\nHint: Count minute marks clockwise from 12.",
+    "correct": 2,
+    "explanation": "Half of the hour after twelve has passed.\nHint: Thirty minutes is half of an hour.",
     "structuredExplanation": {
-      "summary": "The minute digits are 14, so the long hand marks minute 14.",
-      "hint": "Count minute marks clockwise from 12."
+      "summary": "Half of the hour after twelve has passed.",
+      "hint": "Thirty minutes is half of an hour."
     },
     "qualitySchema": "production-v1"
   },
@@ -326,25 +323,24 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At home time, at 6:14, where should the hour hand be?",
-    "audioPrompt": "At home time, at 6:14, where should the hour hand be?",
-    "visual": "At home time: Analog clock showing 6:14.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At home time: Analog clock showing 6:14.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-012\"></use></svg>",
+    "question": "What does 04 mean after the colon in 8:04?",
+    "audioPrompt": "What does 04 mean after the colon in 8:04?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-012",
-      "alt_text": "At home time: Analog clock showing 6:14."
+      "type": "none"
     },
     "answers": [
-      "Exactly on 7",
-      "Exactly on 14",
-      "A little past 6"
+      "forty minutes",
+      "four hours",
+      "four seconds",
+      "four minutes"
     ],
-    "correct": 2,
-    "explanation": "The hour hand moves gradually from 6 toward 7 as minutes pass.\nHint: It should not stay exactly on the hour after minutes have passed.",
+    "correct": 3,
+    "explanation": "The field after the colon records the minutes with two digits.\nHint: Read the two digits after the colon.",
     "structuredExplanation": {
-      "summary": "The hour hand moves gradually from 6 toward 7 as minutes pass.",
-      "hint": "It should not stay exactly on the hour after minutes have passed."
+      "summary": "The field after the colon records the minutes with two digits.",
+      "hint": "Read the two digits after the colon."
     },
     "qualitySchema": "production-v1"
   },
@@ -355,25 +351,24 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At home time, what time is 6 minutes after 6:14?",
-    "audioPrompt": "At home time, what time is 6 minutes after 6:14?",
-    "visual": "At home time: Analog clock showing 6 minutes after 6:14.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At home time: Analog clock showing 6 minutes after 6:14.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-013\"></use></svg>",
+    "question": "A student says 1:45 is quarter to one. What is the correction?",
+    "audioPrompt": "A student says 1:45 is quarter to one. What is the correction?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-013",
-      "alt_text": "At home time: Analog clock showing 6 minutes after 6:14."
+      "type": "none"
     },
     "answers": [
-      "6:20",
-      "6:08",
-      "7:14"
+      "quarter to two",
+      "quarter past two",
+      "half past one",
+      "quarter past one"
     ],
     "correct": 0,
-    "explanation": "Count forward 6 minutes from 6:14.\nHint: Move one minute mark at a time and regroup at 60.",
+    "explanation": "At forty-five minutes past one, the next hour is two.\nHint: Quarter to names the next hour, not the hour just passed.",
     "structuredExplanation": {
-      "summary": "Count forward 6 minutes from 6:14.",
-      "hint": "Move one minute mark at a time and regroup at 60."
+      "summary": "At forty-five minutes past one, the next hour is two.",
+      "hint": "Quarter to names the next hour, not the hour just passed."
     },
     "qualitySchema": "production-v1"
   },
@@ -384,25 +379,24 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At home time, what time is 5 minutes before 6:14?",
-    "audioPrompt": "At home time, what time is 5 minutes before 6:14?",
-    "visual": "At home time: Analog clock showing 6:14.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At home time: Analog clock showing 6:14.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-014\"></use></svg>",
+    "question": "Which hand movement represents five minutes?",
+    "audioPrompt": "Which hand movement represents five minutes?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-014",
-      "alt_text": "At home time: Analog clock showing 6:14."
+      "type": "none"
     },
     "answers": [
-      "6:19",
-      "6:09",
-      "5:14"
+      "short hand makes a full turn",
+      "long hand moves from one number to the next",
+      "long hand makes a full turn",
+      "short hand moves through six numbers"
     ],
     "correct": 1,
-    "explanation": "Count back 5 minutes from 6:14.\nHint: Move anticlockwise across the hour if needed.",
+    "explanation": "Each numbered interval for the minute hand represents five minutes.\nHint: The long hand counts five minutes between adjacent numbers.",
     "structuredExplanation": {
-      "summary": "Count back 5 minutes from 6:14.",
-      "hint": "Move anticlockwise across the hour if needed."
+      "summary": "Each numbered interval for the minute hand represents five minutes.",
+      "hint": "The long hand counts five minutes between adjacent numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -413,25 +407,24 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At home time, a student reads 6:14 as 14:6. What was reversed?",
-    "audioPrompt": "At home time, a student reads 6:14 as 14:6. What was reversed?",
-    "visual": "At home time: Analog clock showing 6:14.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At home time: Analog clock showing 6:14.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-015\"></use></svg>",
+    "question": "Which time places the long hand one tick before 12?",
+    "audioPrompt": "Which time places the long hand one tick before 12?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-015",
-      "alt_text": "At home time: Analog clock showing 6:14."
+      "type": "none"
     },
     "answers": [
-      "The clock direction",
-      "The number of days",
-      "The hour and minute parts"
+      "10:11",
+      "10:01",
+      "10:59",
+      "10:55"
     ],
     "correct": 2,
-    "explanation": "Digital time writes hour before the colon and minutes after it.\nHint: Label the two sides of the colon.",
+    "explanation": "The tick immediately before the top marks fifty-nine minutes.\nHint: The final tick before the top is the final minute of the hour.",
     "structuredExplanation": {
-      "summary": "Digital time writes hour before the colon and minutes after it.",
-      "hint": "Label the two sides of the colon."
+      "summary": "The tick immediately before the top marks fifty-nine minutes.",
+      "hint": "The final tick before the top is the final minute of the hour."
     },
     "qualitySchema": "production-v1"
   },
@@ -442,25 +435,24 @@ window.skillrTestQuestions = [
     "skill": "read time to minute",
     "printable": true,
     "type": "single",
-    "question": "At home time, why is the hour hand not exactly on 6 at 6:14?",
-    "audioPrompt": "At home time, why is the hour hand not exactly on 6 at 6:14?",
-    "visual": "At home time: Analog clock showing 6:14.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At home time: Analog clock showing 6:14.\"><use href=\"/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-016\"></use></svg>",
+    "question": "Which two readings match?",
+    "audioPrompt": "Which two readings match?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m04.svg#ac9m3m04-t-016",
-      "alt_text": "At home time: Analog clock showing 6:14."
+      "type": "none"
     },
     "answers": [
-      "It moves toward the next hour as minutes pass",
-      "It only moves at midnight",
-      "The minute hand pushes it"
+      "3:08 and three minutes past eight",
+      "3:08 and eight minutes to three",
+      "3:08 and thirty-eight minutes past three",
+      "3:08 and eight minutes past three"
     ],
-    "correct": 0,
-    "explanation": "The hour hand moves continuously, so after 14 minutes it is between 6 and 7.\nHint: Use the fraction of the hour that has passed.",
+    "correct": 3,
+    "explanation": "Three names the hour and 08 names eight minutes past it.\nHint: Read the hour first, then the two-digit minute field.",
     "structuredExplanation": {
-      "summary": "The hour hand moves continuously, so after 14 minutes it is between 6 and 7.",
-      "hint": "Use the fraction of the hour that has passed."
+      "summary": "Three names the hour and 08 names eight minutes past it.",
+      "hint": "Read the hour first, then the two-digit minute field."
     },
     "qualitySchema": "production-v1"
   }
