@@ -1,0 +1,18 @@
+const assert = require('node:assert/strict');
+const {filterProducts, paginate} = require('../assets/print-and-go-search.js');
+const products = require('../data/print-and-go-products.json');
+assert.equal(filterProducts(products, 'AC9m3m04').length, 1);
+assert.equal(filterProducts(products, 'YEAR 3 clocks').length, 1);
+assert.equal(filterProducts(products, 'time', {year: 4}).length, 0);
+assert.equal(filterProducts(products, 'time', {year: 3, subject: 'maths'}).length, 1);
+assert.equal(filterProducts(products, 'time', {subject: 'english'}).length, 0);
+assert.equal(filterProducts(products, 'fractions').length, 0);
+assert.equal(filterProducts(products, '  ').length, products.length);
+assert.equal(filterProducts([{...products[0], available: false}], '').length, 0);
+const many = Array.from({length: 1001}, (_, id) => ({...products[0], id}));
+assert.equal(paginate(many).items.length, 24);
+assert.equal(paginate(many, 2).items[0].id, 24);
+assert.equal(paginate(many, 99).page, 42);
+assert.equal(paginate(many, 42).items.length, 17);
+assert.equal(paginate([], 2).page, 1);
+console.log('Print catalogue search and pagination tests passed.');
