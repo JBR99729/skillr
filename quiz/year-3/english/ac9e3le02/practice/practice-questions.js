@@ -345,7 +345,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: Learning a new fold took me several tries too. Unlike Mila, I was using paper rather than string.",
+    "modelAnswer": "Learning a new fold took me several tries too. Unlike Mila, I was using paper rather than string.",
     "acceptanceNote": "Look for a practising/retrying connection and one accurate story detail; a different experience can be contrasted. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -357,8 +357,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: Learning a new fold took me several tries too. Unlike Mila, I was using paper rather than string.",
-    "explanation": "Learning a new fold took me several tries too. Unlike Mila, I was using paper rather than string.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "Learning a new fold took me several tries too. Unlike Mila, I was using paper rather than string.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Learning a new fold took me several tries too. Unlike Mila, I was using paper rather than string.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -374,7 +374,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I like his action because moving the bag welcomes his friend. It reminds me of making space at a shared table.",
+    "modelAnswer": "I like his action because moving the bag welcomes his friend. It reminds me of making space at a shared table.",
     "acceptanceNote": "Require an opinion about the supplied action and an explained everyday connection, not the same example. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -386,8 +386,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I like his action because moving the bag welcomes his friend. It reminds me of making space at a shared table.",
-    "explanation": "I like his action because moving the bag welcomes his friend. It reminds me of making space at a shared table.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I like his action because moving the bag welcomes his friend. It reminds me of making space at a shared table.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I like his action because moving the bag welcomes his friend. It reminds me of making space at a shared table.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -403,7 +403,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I like the leaf sail because it turns an ordinary leaf into part of a tiny adventure.",
+    "modelAnswer": "I like the leaf sail because it turns an ordinary leaf into part of a tiny adventure.",
     "acceptanceNote": "Accept any chosen detail, or a explained lack of preference, with a reason that fits the text. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -415,8 +415,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I like the leaf sail because it turns an ordinary leaf into part of a tiny adventure.",
-    "explanation": "I like the leaf sail because it turns an ordinary leaf into part of a tiny adventure.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I like the leaf sail because it turns an ordinary leaf into part of a tiny adventure.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I like the leaf sail because it turns an ordinary leaf into part of a tiny adventure.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -432,7 +432,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: My model had an extra piece, so I turned it into a lookout. Like Jai, I used the unexpected part.",
+    "modelAnswer": "My model had an extra piece, so I turned it into a lookout. Like Jai, I used the unexpected part.",
     "acceptanceNote": "Check the unexpected-change connection; do not require the outcome to be described as positive. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -444,8 +444,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: My model had an extra piece, so I turned it into a lookout. Like Jai, I used the unexpected part.",
-    "explanation": "My model had an extra piece, so I turned it into a lookout. Like Jai, I used the unexpected part.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "My model had an extra piece, so I turned it into a lookout. Like Jai, I used the unexpected part.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "My model had an extra piece, so I turned it into a lookout. Like Jai, I used the unexpected part.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -461,7 +461,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I choose B because the footprints make me wonder where the toy went.",
+    "modelAnswer": "I choose B because the footprints make me wonder where the toy went.",
     "acceptanceNote": "Either preference is valid; require an actual feature from the chosen opening. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -473,8 +473,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I choose B because the footprints make me wonder where the toy went.",
-    "explanation": "I choose B because the footprints make me wonder where the toy went.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I choose B because the footprints make me wonder where the toy went.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I choose B because the footprints make me wonder where the toy went.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -490,7 +490,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I have waited for a game to start. I felt eager like Nina, but there was no bread smell.",
+    "modelAnswer": "I have waited for a game to start. I felt eager like Nina, but there was no bread smell.",
     "acceptanceNote": "Look for a feeling or situation connection and an accurate distinction if offered. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -502,8 +502,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I have waited for a game to start. I felt eager like Nina, but there was no bread smell.",
-    "explanation": "I have waited for a game to start. I felt eager like Nina, but there was no bread smell.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I have waited for a game to start. I felt eager like Nina, but there was no bread smell.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I have waited for a game to start. I felt eager like Nina, but there was no bread smell.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -519,7 +519,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: The towel reminds me of drying off after being outdoors in rain.",
+    "modelAnswer": "The towel reminds me of drying off after being outdoors in rain.",
     "acceptanceNote": "Accept any supported sensory or event connection; no need for an identical rainy experience. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -531,8 +531,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: The towel reminds me of drying off after being outdoors in rain.",
-    "explanation": "The towel reminds me of drying off after being outdoors in rain.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "The towel reminds me of drying off after being outdoors in rain.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "The towel reminds me of drying off after being outdoors in rain.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -548,7 +548,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: Yes, because I want to know how the child understands the robot’s bell.",
+    "modelAnswer": "Yes, because I want to know how the child understands the robot’s bell.",
     "acceptanceNote": "Yes or no can be justified; require reference to the communication situation or another supplied detail. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -560,8 +560,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: Yes, because I want to know how the child understands the robot’s bell.",
-    "explanation": "Yes, because I want to know how the child understands the robot’s bell.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "Yes, because I want to know how the child understands the robot’s bell.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Yes, because I want to know how the child understands the robot’s bell.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -577,7 +577,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I showed someone a game and they found a new strategy. We both learned, like Sam and the friend.",
+    "modelAnswer": "I showed someone a game and they found a new strategy. We both learned, like Sam and the friend.",
     "acceptanceNote": "Look for two-way learning or a explained contrast; do not claim Sam rejects the friend’s idea. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -589,8 +589,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I showed someone a game and they found a new strategy. We both learned, like Sam and the friend.",
-    "explanation": "I showed someone a game and they found a new strategy. We both learned, like Sam and the friend.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I showed someone a game and they found a new strategy. We both learned, like Sam and the friend.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I showed someone a game and they found a new strategy. We both learned, like Sam and the friend.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -606,7 +606,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: The carrot train interests me because I wonder what that make-believe journey is like.",
+    "modelAnswer": "The carrot train interests me because I wonder what that make-believe journey is like.",
     "acceptanceNote": "Accept a different reaction with the waistcoat, timetable or train as evidence; taste in stories is not a fixed key. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -618,8 +618,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: The carrot train interests me because I wonder what that make-believe journey is like.",
-    "explanation": "The carrot train interests me because I wonder what that make-believe journey is like.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "The carrot train interests me because I wonder what that make-believe journey is like.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "The carrot train interests me because I wonder what that make-believe journey is like.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -635,7 +635,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I might choose the heart shape too because its shape would remind me of the day, rather than choosing the largest.",
+    "modelAnswer": "I might choose the heart shape too because its shape would remind me of the day, rather than choosing the largest.",
     "acceptanceNote": "The text does not explicitly state Elsa’s full feelings; distinguish her observed choice from the reader’s own reason. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -647,8 +647,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I might choose the heart shape too because its shape would remind me of the day, rather than choosing the largest.",
-    "explanation": "I might choose the heart shape too because its shape would remind me of the day, rather than choosing the largest.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I might choose the heart shape too because its shape would remind me of the day, rather than choosing the largest.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I might choose the heart shape too because its shape would remind me of the day, rather than choosing the largest.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -664,7 +664,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I prefer B because finding a new path is an unexpected way to solve the problem.",
+    "modelAnswer": "I prefer B because finding a new path is an unexpected way to solve the problem.",
     "acceptanceNote": "Either solution can be preferred; require accurate reference to repair versus an alternative route. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -676,8 +676,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I prefer B because finding a new path is an unexpected way to solve the problem.",
-    "explanation": "I prefer B because finding a new path is an unexpected way to solve the problem.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I prefer B because finding a new path is an unexpected way to solve the problem.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I prefer B because finding a new path is an unexpected way to solve the problem.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -693,7 +693,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: Seeing a drawing improve after practice felt exciting to me, like noticing the new shoot.",
+    "modelAnswer": "Seeing a drawing improve after practice felt exciting to me, like noticing the new shoot.",
     "acceptanceNote": "Accept progress/discovery connections; do not require gardening experience or invent what the brother says. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -705,8 +705,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: Seeing a drawing improve after practice felt exciting to me, like noticing the new shoot.",
-    "explanation": "Seeing a drawing improve after practice felt exciting to me, like noticing the new shoot.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "Seeing a drawing improve after practice felt exciting to me, like noticing the new shoot.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Seeing a drawing improve after practice felt exciting to me, like noticing the new shoot.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -722,7 +722,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I enjoy it because the umbrella’s complaint makes me imagine a cupboard full of bored objects.",
+    "modelAnswer": "I enjoy it because the umbrella’s complaint makes me imagine a cupboard full of bored objects.",
     "acceptanceNote": "Positive, negative or mixed preferences are valid if tied to the person-like complaint. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -734,8 +734,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I enjoy it because the umbrella’s complaint makes me imagine a cupboard full of bored objects.",
-    "explanation": "I enjoy it because the umbrella’s complaint makes me imagine a cupboard full of bored objects.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I enjoy it because the umbrella’s complaint makes me imagine a cupboard full of bored objects.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I enjoy it because the umbrella’s complaint makes me imagine a cupboard full of bored objects.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -751,7 +751,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: When we could not finish a game, each person suggested one move. Small ideas helped us make progress too.",
+    "modelAnswer": "When we could not finish a game, each person suggested one move. Small ideas helped us make progress too.",
     "acceptanceNote": "Look for cooperation or shared contributions and an accurate story detail. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -763,8 +763,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: When we could not finish a game, each person suggested one move. Small ideas helped us make progress too.",
-    "explanation": "When we could not finish a game, each person suggested one move. Small ideas helped us make progress too.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "When we could not finish a game, each person suggested one move. Small ideas helped us make progress too.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "When we could not finish a game, each person suggested one move. Small ideas helped us make progress too.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -780,7 +780,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: B suits quiet reading because soft and sleepy sound calm. I prefer calm poems at bedtime.",
+    "modelAnswer": "B suits quiet reading because soft and sleepy sound calm. I prefer calm poems at bedtime.",
     "acceptanceNote": "Separate the supported quiet-reading choice from the learner’s personal preference, which can differ. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -792,8 +792,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: B suits quiet reading because soft and sleepy sound calm. I prefer calm poems at bedtime.",
-    "explanation": "B suits quiet reading because soft and sleepy sound calm. I prefer calm poems at bedtime.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "B suits quiet reading because soft and sleepy sound calm. I prefer calm poems at bedtime.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "B suits quiet reading because soft and sleepy sound calm. I prefer calm poems at bedtime.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -809,7 +809,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I have chosen a different game from a friend. We could still be friendly, like Rani waving.",
+    "modelAnswer": "I have chosen a different game from a friend. We could still be friendly, like Rani waving.",
     "acceptanceNote": "Accept a comfortable everyday difference or a contrast; do not demand disclosure of a difficult friendship event. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -821,8 +821,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I have chosen a different game from a friend. We could still be friendly, like Rani waving.",
-    "explanation": "I have chosen a different game from a friend. We could still be friendly, like Rani waving.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I have chosen a different game from a friend. We could still be friendly, like Rani waving.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I have chosen a different game from a friend. We could still be friendly, like Rani waving.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -838,7 +838,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I want to continue because I wonder who is playing behind the tiny door.",
+    "modelAnswer": "I want to continue because I wonder who is playing behind the tiny door.",
     "acceptanceNote": "Accept curiosity, disinterest or another reaction supported by the unusual door/music; no invented answer to the mystery is needed. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -850,8 +850,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I want to continue because I wonder who is playing behind the tiny door.",
-    "explanation": "I want to continue because I wonder who is playing behind the tiny door.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I want to continue because I wonder who is playing behind the tiny door.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I want to continue because I wonder who is playing behind the tiny door.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -867,7 +867,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I once forgot pencils for drawing and someone lent me one. Both situations involve help with a missing item.",
+    "modelAnswer": "I once forgot pencils for drawing and someone lent me one. Both situations involve help with a missing item.",
     "acceptanceNote": "Accept a similar incident or a difference; do not require embarrassment or blame as the feeling. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -879,8 +879,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I once forgot pencils for drawing and someone lent me one. Both situations involve help with a missing item.",
-    "explanation": "I once forgot pencils for drawing and someone lent me one. Both situations involve help with a missing item.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I once forgot pencils for drawing and someone lent me one. Both situations involve help with a missing item.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I once forgot pencils for drawing and someone lent me one. Both situations involve help with a missing item.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -896,7 +896,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I prefer B because I enjoy seeing characters solve problems together.",
+    "modelAnswer": "I prefer B because I enjoy seeing characters solve problems together.",
     "acceptanceNote": "Either is acceptable; connect the reason to independent cleverness or asking for help, without inventing how the gate opens. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -908,8 +908,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I prefer B because I enjoy seeing characters solve problems together.",
-    "explanation": "I prefer B because I enjoy seeing characters solve problems together.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I prefer B because I enjoy seeing characters solve problems together.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I prefer B because I enjoy seeing characters solve problems together.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -925,7 +925,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I became more comfortable explaining a game after trying it a few times. Bea also seems more confident on a later attempt.",
+    "modelAnswer": "I became more comfortable explaining a game after trying it a few times. Bea also seems more confident on a later attempt.",
     "acceptanceNote": "Require a link to growing comfort/practice; accept a different experience and avoid demanding public-speaking experience. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -937,8 +937,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I became more comfortable explaining a game after trying it a few times. Bea also seems more confident on a later attempt.",
-    "explanation": "I became more comfortable explaining a game after trying it a few times. Bea also seems more confident on a later attempt.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I became more comfortable explaining a game after trying it a few times. Bea also seems more confident on a later attempt.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I became more comfortable explaining a game after trying it a few times. Bea also seems more confident on a later attempt.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -954,7 +954,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I like it because it makes an ordinary falling leaf feel like a special message.",
+    "modelAnswer": "I like it because it makes an ordinary falling leaf feel like a special message.",
     "acceptanceNote": "Accept different reactions supported by the comparison, not a claim that the tree literally writes letters. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -966,8 +966,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I like it because it makes an ordinary falling leaf feel like a special message.",
-    "explanation": "I like it because it makes an ordinary falling leaf feel like a special message.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I like it because it makes an ordinary falling leaf feel like a special message.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I like it because it makes an ordinary falling leaf feel like a special message.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -983,7 +983,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: It reminds me of sharing paper and later borrowing a marker. Help can go both ways.",
+    "modelAnswer": "It reminds me of sharing paper and later borrowing a marker. Help can go both ways.",
     "acceptanceNote": "Look for reciprocal sharing or an explained contrast; not all connections must have the same materials. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -995,8 +995,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: It reminds me of sharing paper and later borrowing a marker. Help can go both ways.",
-    "explanation": "It reminds me of sharing paper and later borrowing a marker. Help can go both ways.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "It reminds me of sharing paper and later borrowing a marker. Help can go both ways.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "It reminds me of sharing paper and later borrowing a marker. Help can go both ways.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1012,7 +1012,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I would enjoy it because the flowers surprise me after expecting treasure.",
+    "modelAnswer": "I would enjoy it because the flowers surprise me after expecting treasure.",
     "acceptanceNote": "Positive or negative reactions are valid if the treasure/flower change is accurate. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1024,8 +1024,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I would enjoy it because the flowers surprise me after expecting treasure.",
-    "explanation": "I would enjoy it because the flowers surprise me after expecting treasure.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I would enjoy it because the flowers surprise me after expecting treasure.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I would enjoy it because the flowers surprise me after expecting treasure.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1041,7 +1041,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I like placing small model pieces slowly so they fit. That connects with Tess finding care more useful than rushing.",
+    "modelAnswer": "I like placing small model pieces slowly so they fit. That connects with Tess finding care more useful than rushing.",
     "acceptanceNote": "Accept a different preference about pace with a clear contrast; do not require the view that slow is always best. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1053,8 +1053,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I like placing small model pieces slowly so they fit. That connects with Tess finding care more useful than rushing.",
-    "explanation": "I like placing small model pieces slowly so they fit. That connects with Tess finding care more useful than rushing.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I like placing small model pieces slowly so they fit. That connects with Tess finding care more useful than rushing.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I like placing small model pieces slowly so they fit. That connects with Tess finding care more useful than rushing.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1070,7 +1070,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I like A because the rattling roar gives me a strong sound to imagine.",
+    "modelAnswer": "I like A because the rattling roar gives me a strong sound to imagine.",
     "acceptanceNote": "Either can be preferred; use fast/loud versus slow/soft evidence, not an unstated journey destination. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1082,8 +1082,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I like A because the rattling roar gives me a strong sound to imagine.",
-    "explanation": "I like A because the rattling roar gives me a strong sound to imagine.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I like A because the rattling roar gives me a strong sound to imagine.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I like A because the rattling roar gives me a strong sound to imagine.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1099,7 +1099,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: Sometimes I enjoy reading alone before joining a game. Jules also asks for time apart without ending the friendship.",
+    "modelAnswer": "Sometimes I enjoy reading alone before joining a game. Jules also asks for time apart without ending the friendship.",
     "acceptanceNote": "Accept a similar preference or a contrast; the story does not say the friend is angry. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1111,8 +1111,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: Sometimes I enjoy reading alone before joining a game. Jules also asks for time apart without ending the friendship.",
-    "explanation": "Sometimes I enjoy reading alone before joining a game. Jules also asks for time apart without ending the friendship.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "Sometimes I enjoy reading alone before joining a game. Jules also asks for time apart without ending the friendship.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "Sometimes I enjoy reading alone before joining a game. Jules also asks for time apart without ending the friendship.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1128,7 +1128,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I find it funny because the detective searches everywhere while carrying the spoon herself.",
+    "modelAnswer": "I find it funny because the detective searches everywhere while carrying the spoon herself.",
     "acceptanceNote": "Accept another reaction if linked to the hat discovery; no requirement to laugh. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1140,8 +1140,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I find it funny because the detective searches everywhere while carrying the spoon herself.",
-    "explanation": "I find it funny because the detective searches everywhere while carrying the spoon herself.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I find it funny because the detective searches everywhere while carrying the spoon herself.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I find it funny because the detective searches everywhere while carrying the spoon herself.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1157,7 +1157,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I like watching someone make a fold before trying it. Both involve seeing an example first.",
+    "modelAnswer": "I like watching someone make a fold before trying it. Both involve seeing an example first.",
     "acceptanceNote": "Accept observing, asking, reading or another method with a similarity or difference explained. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1169,8 +1169,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I like watching someone make a fold before trying it. Both involve seeing an example first.",
-    "explanation": "I like watching someone make a fold before trying it. Both involve seeing an example first.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I like watching someone make a fold before trying it. Both involve seeing an example first.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I like watching someone make a fold before trying it. Both involve seeing an example first.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1186,7 +1186,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I would choose this dragon because using an unusual ability to make people happy interests me.",
+    "modelAnswer": "I would choose this dragon because using an unusual ability to make people happy interests me.",
     "acceptanceNote": "Either preference is valid; refer to the supplied bubbles/role rather than inventing a fierce dragon’s events. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1198,8 +1198,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I would choose this dragon because using an unusual ability to make people happy interests me.",
-    "explanation": "I would choose this dragon because using an unusual ability to make people happy interests me.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I would choose this dragon because using an unusual ability to make people happy interests me.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I would choose this dragon because using an unusual ability to make people happy interests me.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1215,7 +1215,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: The smell of toast reminds me of breakfast at home. A familiar sound brings Lila a memory in the same way.",
+    "modelAnswer": "The smell of toast reminds me of breakfast at home. A familiar sound brings Lila a memory in the same way.",
     "acceptanceNote": "Accept any comfortable everyday association; no family disclosure is required and the sense can differ. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1227,8 +1227,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: The smell of toast reminds me of breakfast at home. A familiar sound brings Lila a memory in the same way.",
-    "explanation": "The smell of toast reminds me of breakfast at home. A familiar sound brings Lila a memory in the same way.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "The smell of toast reminds me of breakfast at home. A familiar sound brings Lila a memory in the same way.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "The smell of toast reminds me of breakfast at home. A familiar sound brings Lila a memory in the same way.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1244,7 +1244,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I prefer one clue left open because it gives me something to wonder about afterwards.",
+    "modelAnswer": "I prefer one clue left open because it gives me something to wonder about afterwards.",
     "acceptanceNote": "Accept either or a mixed preference, linked to resolution or continuing curiosity. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1256,8 +1256,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I prefer one clue left open because it gives me something to wonder about afterwards.",
-    "explanation": "I prefer one clue left open because it gives me something to wonder about afterwards.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I prefer one clue left open because it gives me something to wonder about afterwards.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I prefer one clue left open because it gives me something to wonder about afterwards.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1273,7 +1273,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: We changed the space in a game so another person could join. Finn also changes what he is doing to include someone.",
+    "modelAnswer": "We changed the space in a game so another person could join. Finn also changes what he is doing to include someone.",
     "acceptanceNote": "Look for an inclusion-related connection or contrast and the actual slowing down detail. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1285,8 +1285,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: We changed the space in a game so another person could join. Finn also changes what he is doing to include someone.",
-    "explanation": "We changed the space in a game so another person could join. Finn also changes what he is doing to include someone.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "We changed the space in a game so another person could join. Finn also changes what he is doing to include someone.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "We changed the space in a game so another person could join. Finn also changes what he is doing to include someone.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1302,7 +1302,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I would mention pockets of light because it makes me picture small bright windows in a dark town.",
+    "modelAnswer": "I would mention pockets of light because it makes me picture small bright windows in a dark town.",
     "acceptanceNote": "Accept any explained interpretation/opinion grounded in the words; windows are a possible imagined image, not a stated fact. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1314,8 +1314,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I would mention pockets of light because it makes me picture small bright windows in a dark town.",
-    "explanation": "I would mention pockets of light because it makes me picture small bright windows in a dark town.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I would mention pockets of light because it makes me picture small bright windows in a dark town.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I would mention pockets of light because it makes me picture small bright windows in a dark town.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1331,7 +1331,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I might choose the familiar route because I like knowing where I am going, unlike her wish to explore.",
+    "modelAnswer": "I might choose the familiar route because I like knowing where I am going, unlike her wish to explore.",
     "acceptanceNote": "The comparison can agree or differ; no instruction to take an unsafe route or disclose actual location. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1343,8 +1343,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I might choose the familiar route because I like knowing where I am going, unlike her wish to explore.",
-    "explanation": "I might choose the familiar route because I like knowing where I am going, unlike her wish to explore.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I might choose the familiar route because I like knowing where I am going, unlike her wish to explore.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I might choose the familiar route because I like knowing where I am going, unlike her wish to explore.",
       "hint": "Name a detail from the story and explain how it connects with your response."
@@ -1360,7 +1360,7 @@ window.skillrPracticeQuestions = [
     "type": "self-check",
     "gradingMode": "adult-review",
     "responseType": "short_answer",
-    "modelAnswer": "Example response: I choose B because I enjoy team games and want to know whether their practice helps.",
+    "modelAnswer": "I choose B because I enjoy team games and want to know whether their practice helps.",
     "acceptanceNote": "Accept either interest link, with the actual key or team detail as evidence. Accept different experiences and preferences when the connection is explained. Do not treat the model opinion as the only correct response.",
     "responseInstructions": "Share your response with a partner or adult, or write two or three sentences. An adult checks the connection to the supplied story. Use an everyday experience you are comfortable discussing.",
     "completionLabel": "I shared my response aloud; an adult still needs to check it.",
@@ -1372,8 +1372,8 @@ window.skillrPracticeQuestions = [
       "type": "none"
     },
     "answers": [],
-    "correct": "Example response: I choose B because I enjoy team games and want to know whether their practice helps.",
-    "explanation": "I choose B because I enjoy team games and want to know whether their practice helps.\nHint: Name a detail from the story and explain how it connects with your response.",
+    "correct": "I choose B because I enjoy team games and want to know whether their practice helps.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
       "summary": "I choose B because I enjoy team games and want to know whether their practice helps.",
       "hint": "Name a detail from the story and explain how it connects with your response."
