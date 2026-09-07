@@ -1,19 +1,14 @@
-# Year 3 Mathematics strict completion status
+# Year 3 Mathematics completion status
 
-Last updated: 2026-09-07
+Last reconciled: 2026-09-07. See [the full 23-code audit](YEAR3-RECONCILED-AUDIT.md).
 
-Strictly validated under the mandatory ACARA + IXL workflow: 5 of 23 codes.
+**15/23 codes have reviewed replacement banks published:** AC9M3N01–N07, AC9M3A01–A03, AC9M3M02–M06.
 
-Validated and live in this sweep:
+**8 codes have identified remaining content work:**
 
-- AC9M3M02 — metric instruments, measurement and comparison: validated and deployed live; practice/test marking and jug visual confirmed.
-- AC9M3M03 — formal units of time, duration estimates, comparisons and elapsed time: validated and deployed live.
-- AC9M3M04 — clocks to the nearest minute: validated live after route-loading repair.
-- AC9M3M05 — angles as measures of turn: validated live.
-- AC9M3M06 — Australian money: validated live.
+- AC9M3M01: 48 practice + 16 test already present, but substantive repetition repair still required.
+- AC9M3SP01–SP02, AC9M3ST01–ST03, AC9M3P01–P02: each currently 24 practice + 16 test; strict development and expansion remain pending.
 
-Pending strict validation: 18 of 23 codes.
+**Strict evidence closeout is a separate measure:** M02–M06 have explicit validation, deployment and live-QA closeouts (5/23). N01–N07 and A01–A03 have earlier published reviewed rewrites and IXL evidence; reconcile any missing steps individually. The previous headline of 5/23 must not be used to suggest that only five banks were written or published, or that eighteen banks need rebuilding.
 
-Counts after AC9M3M02 (existing 64-item bank replaced; total unchanged): 16 banks have 64 questions; 7 banks still have 40 questions. Total Year 3 Mathematics bank size remains 1304 questions against the 1472-question target if every code carries 48 practice and 16 test questions. The remaining shortfall is 168 practice questions across the seven 40-question banks.
-
-The legacy content ledger may show more reviewed codes. This strict status only counts codes that have passed the current per-code ACARA descriptor, IXL actual-skill inspection, evidence map, original rewrite, validation and publication workflow.
+Current totals: 16 banks at 48/16; seven banks at 24/16; 1304 questions present against a 1472-question target. The net shortfall is 168 practice questions. The legacy review ledger lists 16 codes but includes M01's still-repetitive bank.
