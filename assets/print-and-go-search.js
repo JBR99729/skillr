@@ -40,14 +40,15 @@
   }
   function card(product) {
     const article = element('article', '', 'product-card');
-    const link = element('a');
-    link.href = product.url;
-    const image = element('img');
-    image.src = product.image; image.alt = product.title + ' cover';
-    image.width = 637; image.height = 900; image.loading = 'lazy';
+    const link = element('a'); link.href = product.url;
+    const image = element('img'); image.src = product.image; image.alt = product.title + ' cover'; image.width = 637; image.height = 900; image.loading = 'lazy';
     link.append(image, element('h2', product.title));
     const details = element('a', 'View pack details'); details.href = product.url;
-    const priceText = product.paidTptUrl ? 'Free preview · Full pack US
+    const priceText = product.resourceType === 'teaching-sample' ? 'Free sample' : new Intl.NumberFormat('en-AU', {style: 'currency', currency: product.currency}).format(Number(product.price));
+    article.append(link, element('p', product.curriculumCodes.join(' · '), 'small'), element('p', product.description), element('p', priceText, 'price'), details);
+    const buyUrl = product.paidTptUrl || (isSlides ? product.tptUrl : null);
+    if (buyUrl) { const buy = element('a', 'Preview and buy — US$' + Number(product.paidPrice || product.price || 0).toFixed(2), 'button'); buy.href = buyUrl; buy.target = '_blank'; buy.rel = 'noopener noreferrer'; article.append(buy); }
+    if (product.bundleTptUrl) { const offer = element('a', 'Best value bundle — US$' + Number(product.bundlePrice || 0).toFixed(2) + ' (save 20%)', 'button'); offer.href = product.bundleTptUrl; offer.target = '_blank'; offer.rel = 'noopener noreferrer'; article.append(offer); }
     return article;
   }
   function render() {
