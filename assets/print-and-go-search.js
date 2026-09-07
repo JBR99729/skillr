@@ -47,8 +47,8 @@
     const priceText = product.resourceType === 'teaching-sample' ? 'Free sample' : new Intl.NumberFormat('en-AU', {style: 'currency', currency: product.currency}).format(Number(product.price));
     article.append(link, element('p', product.curriculumCodes.join(' · '), 'small'), element('p', product.description), element('p', priceText, 'price'), details);
     const buyUrl = product.paidTptUrl || (isSlides ? product.tptUrl : null);
-    if (buyUrl) { const buy = element('a', 'Preview and buy — US$' + Number(product.paidPrice || product.price || 0).toFixed(2), 'button'); buy.href = buyUrl; buy.target = '_blank'; buy.rel = 'noopener noreferrer'; article.append(buy); }
-    if (product.bundleTptUrl) { const offer = element('a', 'Best value bundle — US$' + Number(product.bundlePrice || 0).toFixed(2) + ' (save 20%)', 'button'); offer.href = product.bundleTptUrl; offer.target = '_blank'; offer.rel = 'noopener noreferrer'; article.append(offer); }
+    if (buyUrl) { const buy = element('a', 'Buy slides — US$' + Number(product.paidPrice || product.price || 0).toFixed(2), 'button'); buy.href = buyUrl; buy.target = '_blank'; buy.rel = 'noopener noreferrer'; article.append(buy); }
+    if (product.bundleTptUrl) { const offer = element('a', 'Bundle — US$' + Number(product.bundlePrice || 0).toFixed(2) + ' (save 20%)', 'button'); offer.href = product.bundleTptUrl; offer.target = '_blank'; offer.rel = 'noopener noreferrer'; article.append(offer); }
     return article;
   }
   function render() {
