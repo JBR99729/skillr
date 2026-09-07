@@ -6,10 +6,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which representation is best for organising bird counts from four locations?",
-    "audio_prompt": "Which representation is best for organising bird counts from four locations?",
-    "audioPrompt": "Which representation is best for organising bird counts from four locations?",
+    "skill": "tables",
+    "question": "A class counts birds: garden 6, oval 9, pond 4. Which row correctly records the pond count?",
+    "audio_prompt": "A class counts birds: garden 6, oval 9, pond 4. Which row correctly records the pond count?",
+    "audioPrompt": "A class counts birds: garden 6, oval 9, pond 4. Which row correctly records the pond count?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -17,37 +17,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A table",
+        "text": "Pond: 6 birds",
+        "is_correct": false
+      },
+      {
+        "text": "Pond: 9 birds",
+        "is_correct": false
+      },
+      {
+        "text": "Pond: 4 birds",
         "is_correct": true
       },
       {
-        "text": "A story",
-        "is_correct": false
-      },
-      {
-        "text": "A joke",
-        "is_correct": false
-      },
-      {
-        "text": "A random drawing",
+        "text": "Pond: 19 birds",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A table",
-      "A story",
-      "A joke",
-      "A random drawing"
+      "Pond: 6 birds",
+      "Pond: 9 birds",
+      "Pond: 4 birds",
+      "Pond: 19 birds"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A table can organise categories and counts clearly.",
-      "hint": "Choose the format that lines up data."
+      "summary": "The pond observation is 4 birds. The other counts belong to different places, and 19 is the total.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "A table can organise categories and counts clearly.",
-      "hint": "Choose the format that lines up data."
+      "summary": "The pond observation is 4 birds. The other counts belong to different places, and 19 is the total.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -67,10 +67,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which graph is suitable for comparing the number of insects found in four habitats?",
-    "audio_prompt": "Which graph is suitable for comparing the number of insects found in four habitats?",
-    "audioPrompt": "Which graph is suitable for comparing the number of insects found in four habitats?",
+    "skill": "tables",
+    "question": "Soil samples are described as sandy, sticky or crumbly. Which pair of table headings will organise these observations?",
+    "audio_prompt": "Soil samples are described as sandy, sticky or crumbly. Which pair of table headings will organise these observations?",
+    "audioPrompt": "Soil samples are described as sandy, sticky or crumbly. Which pair of table headings will organise these observations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -78,37 +78,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A paragraph only",
+        "text": "Texture; temperature",
         "is_correct": false
       },
       {
-        "text": "A photograph without labels",
+        "text": "Sample; melting time",
         "is_correct": false
       },
       {
-        "text": "A map with no counts",
-        "is_correct": false
-      },
-      {
-        "text": "A simple column graph",
+        "text": "Sample; texture",
         "is_correct": true
+      },
+      {
+        "text": "Sample; number of birds",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A paragraph only",
-      "A photograph without labels",
-      "A map with no counts",
-      "A simple column graph"
+      "Texture; temperature",
+      "Sample; melting time",
+      "Sample; texture",
+      "Sample; number of birds"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A column graph clearly compares amounts across categories.",
-      "hint": "Compare categories with bars."
+      "summary": "A sample label identifies the soil and the texture column records how it feels.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "A column graph clearly compares amounts across categories.",
-      "hint": "Compare categories with bars."
+      "summary": "A sample label identifies the soil and the texture column records how it feels.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -128,48 +128,50 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "In a column graph, what does the height of each column show?",
-    "audio_prompt": "In a column graph, what does the height of each column show?",
-    "audioPrompt": "In a column graph, what does the height of each column show?",
+    "skill": "tables",
+    "question": "A table records sprouted seeds: tray A 8, tray B 5, tray C 7. How many seeds sprouted in trays A and C together?",
+    "audio_prompt": "A table records sprouted seeds: tray A 8, tray B 5, tray C 7. How many seeds sprouted in trays A and C together?",
+    "audioPrompt": "A table records sprouted seeds: tray A 8, tray B 5, tray C 7. How many seeds sprouted in trays A and C together?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p003",
+      "alt_text": "Sprouted seeds. Tray, Number; A, 8; B, 5; C, 7."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Sprouted seeds. Tray, Number; A, 8; B, 5; C, 7.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p003\"/></svg>",
     "answers": [
       {
-        "text": "The colour choice",
+        "text": "12",
         "is_correct": false
       },
       {
-        "text": "The order of the alphabet",
+        "text": "13",
         "is_correct": false
       },
       {
-        "text": "The value for that category",
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "15",
         "is_correct": true
-      },
-      {
-        "text": "The title length",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The colour choice",
-      "The order of the alphabet",
-      "The value for that category",
-      "The title length"
+      "12",
+      "13",
+      "20",
+      "15"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Column height represents the measured or counted value.",
-      "hint": "Read the scale."
+      "summary": "Use only A and C: 8 plus 7 is 15 sprouted seeds.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "Column height represents the measured or counted value.",
-      "hint": "Read the scale."
+      "summary": "Use only A and C: 8 plus 7 is 15 sprouted seeds.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -189,48 +191,50 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which feature must a graph have so values can be understood?",
-    "audio_prompt": "Which feature must a graph have so values can be understood?",
-    "audioPrompt": "Which feature must a graph have so values can be understood?",
+    "skill": "tables",
+    "question": "A class records ants: Monday 12, Tuesday 17, Wednesday 14. How many more ants were counted on Tuesday than Monday?",
+    "audio_prompt": "A class records ants: Monday 12, Tuesday 17, Wednesday 14. How many more ants were counted on Tuesday than Monday?",
+    "audioPrompt": "A class records ants: Monday 12, Tuesday 17, Wednesday 14. How many more ants were counted on Tuesday than Monday?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p004",
+      "alt_text": "Ant observations. Day, Number; Monday, 12; Tuesday, 17; Wednesday, 14."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Ant observations. Day, Number; Monday, 12; Tuesday, 17; Wednesday, 14.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p004\"/></svg>",
     "answers": [
       {
-        "text": "A rhyme",
+        "text": "3",
         "is_correct": false
       },
       {
-        "text": "A labelled scale",
+        "text": "29",
+        "is_correct": false
+      },
+      {
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "Decorative stickers",
-        "is_correct": false
-      },
-      {
-        "text": "A border colour",
+        "text": "17",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A rhyme",
-      "A labelled scale",
-      "Decorative stickers",
-      "A border colour"
+      "3",
+      "29",
+      "5",
+      "17"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A scale tells what the bar heights mean.",
-      "hint": "Without a scale, numbers cannot be read."
+      "summary": "Compare the Tuesday and Monday rows: 17 minus 12 is 5.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "A scale tells what the bar heights mean.",
-      "hint": "Without a scale, numbers cannot be read."
+      "summary": "Compare the Tuesday and Monday rows: 17 minus 12 is 5.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -250,53 +254,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "A model of the water cycle with arrows is mainly used to:",
-    "audio_prompt": "A model of the water cycle with arrows is mainly used to:",
-    "audioPrompt": "A model of the water cycle with arrows is mainly used to:",
+    "skill": "tables",
+    "question": "A seedling has 2 leaves on day 1, 4 on day 4 and 6 on day 7. Which statement describes the recorded pattern?",
+    "audio_prompt": "A seedling has 2 leaves on day 1, 4 on day 4 and 6 on day 7. Which statement describes the recorded pattern?",
+    "audioPrompt": "A seedling has 2 leaves on day 1, 4 on day 4 and 6 on day 7. Which statement describes the recorded pattern?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p005",
+      "alt_text": "Seedling leaves. Day, Leaves; 1, 2; 4, 4; 7, 6."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Seedling leaves. Day, Leaves; 1, 2; 4, 4; 7, 6.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p005\"/></svg>",
     "answers": [
       {
-        "text": "show relationships and movement between parts",
+        "text": "The leaf count rose by 2 at each check.",
         "is_correct": true
       },
       {
-        "text": "measure exact rainfall",
+        "text": "The leaf count doubled at every check.",
         "is_correct": false
       },
       {
-        "text": "replace all observations",
+        "text": "The leaf count stayed at 2.",
         "is_correct": false
       },
       {
-        "text": "prove every weather event",
+        "text": "The leaf count fell by 2 at each check.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "show relationships and movement between parts",
-      "measure exact rainfall",
-      "replace all observations",
-      "prove every weather event"
+      "The leaf count rose by 2 at each check.",
+      "The leaf count doubled at every check.",
+      "The leaf count stayed at 2.",
+      "The leaf count fell by 2 at each check."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Models can represent processes and relationships.",
-      "hint": "What does the model help show?"
+      "summary": "The counts are 2, 4 and 6, so each later count is 2 greater than the previous one.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "Models can represent processes and relationships.",
-      "hint": "What does the model help show?"
+      "summary": "The counts are 2, 4 and 6, so each later count is 2 greater than the previous one.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 5,
     "sequencePriority": 5,
     "quality_schema": "skillr-actual-v6",
@@ -311,53 +317,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which table heading is clearest?",
-    "audio_prompt": "Which table heading is clearest?",
-    "audioPrompt": "Which table heading is clearest?",
+    "skill": "tables",
+    "question": "A cup is 34°C at the start, 29°C after 5 minutes and 25°C after 10 minutes. Which time belongs beside 29°C in the table?",
+    "audio_prompt": "A cup is 34°C at the start, 29°C after 5 minutes and 25°C after 10 minutes. Which time belongs beside 29°C in the table?",
+    "audioPrompt": "A cup is 34°C at the start, 29°C after 5 minutes and 25°C after 10 minutes. Which time belongs beside 29°C in the table?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p006",
+      "alt_text": "Cooling cup. Time (minutes), Temperature (°C); 0, 34; 5, 29; 10, 25."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Cooling cup. Time (minutes), Temperature (°C); 0, 34; 5, 29; 10, 25.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p006\"/></svg>",
     "answers": [
       {
-        "text": "Stuff | Result",
-        "is_correct": false
-      },
-      {
-        "text": "Thing | Number",
-        "is_correct": false
-      },
-      {
-        "text": "Test | Good",
-        "is_correct": false
-      },
-      {
-        "text": "Soil type | Water drained (mL)",
+        "text": "5 minutes",
         "is_correct": true
+      },
+      {
+        "text": "0 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "10 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "29 minutes",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Stuff | Result",
-      "Thing | Number",
-      "Test | Good",
-      "Soil type | Water drained (mL)"
+      "5 minutes",
+      "0 minutes",
+      "10 minutes",
+      "29 minutes"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Clear headings name the variables and units.",
-      "hint": "Labels should say what the data mean."
+      "summary": "The observation pairs 29°C with the check after 5 minutes.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "Clear headings name the variables and units.",
-      "hint": "Labels should say what the data mean."
+      "summary": "The observation pairs 29°C with the check after 5 minutes.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 6,
     "sequencePriority": 6,
     "quality_schema": "skillr-actual-v6",
@@ -372,10 +380,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "A graph shows plant heights of 8, 12 and 15 cm. Which column should be tallest?",
-    "audio_prompt": "A graph shows plant heights of 8, 12 and 15 cm. Which column should be tallest?",
-    "audioPrompt": "A graph shows plant heights of 8, 12 and 15 cm. Which column should be tallest?",
+    "skill": "tables",
+    "question": "A rock survey records smooth rocks: creek 7, garden 3, path 5. Which location has the fewest smooth rocks?",
+    "audio_prompt": "A rock survey records smooth rocks: creek 7, garden 3, path 5. Which location has the fewest smooth rocks?",
+    "audioPrompt": "A rock survey records smooth rocks: creek 7, garden 3, path 5. Which location has the fewest smooth rocks?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -383,42 +391,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "8 cm",
+        "text": "Path",
         "is_correct": false
       },
       {
-        "text": "All equal",
+        "text": "Creek",
         "is_correct": false
       },
       {
-        "text": "15 cm",
+        "text": "All three locations",
+        "is_correct": false
+      },
+      {
+        "text": "Garden",
         "is_correct": true
-      },
-      {
-        "text": "12 cm",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "8 cm",
-      "All equal",
-      "15 cm",
-      "12 cm"
+      "Path",
+      "Creek",
+      "All three locations",
+      "Garden"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The largest value is represented by the tallest column.",
-      "hint": "Tallest bar = greatest value."
+      "summary": "The garden count is 3, smaller than 5 and 7.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "The largest value is represented by the tallest column.",
-      "hint": "Tallest bar = greatest value."
+      "summary": "The garden count is 3, smaller than 5 and 7.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 7,
     "sequencePriority": 7,
     "quality_schema": "skillr-actual-v6",
@@ -433,10 +441,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which representation is best for showing the parts of a flower and their positions?",
-    "audio_prompt": "Which representation is best for showing the parts of a flower and their positions?",
-    "audioPrompt": "Which representation is best for showing the parts of a flower and their positions?",
+    "skill": "tables",
+    "question": "Mia measures water draining through soil in mL. Her table headings are Soil sample and Water collected. What should she add to the second heading?",
+    "audio_prompt": "Mia measures water draining through soil in mL. Her table headings are Soil sample and Water collected. What should she add to the second heading?",
+    "audioPrompt": "Mia measures water draining through soil in mL. Her table headings are Soil sample and Water collected. What should she add to the second heading?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -444,42 +452,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A stopwatch",
+        "text": "The unit minutes",
         "is_correct": false
       },
       {
-        "text": "A labelled diagram or model",
+        "text": "The unit mL",
         "is_correct": true
       },
       {
-        "text": "A column graph",
+        "text": "The unit °C",
         "is_correct": false
       },
       {
-        "text": "A tally only",
+        "text": "The colour of the cup",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A stopwatch",
-      "A labelled diagram or model",
-      "A column graph",
-      "A tally only"
+      "The unit minutes",
+      "The unit mL",
+      "The unit °C",
+      "The colour of the cup"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "A labelled diagram or model shows structure and relative position.",
-      "hint": "Think parts and location."
+      "summary": "The heading should say Water collected (mL), because the numbers measure water volume.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "A labelled diagram or model shows structure and relative position.",
-      "hint": "Think parts and location."
+      "summary": "The heading should say Water collected (mL), because the numbers measure water volume.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 8,
     "sequencePriority": 8,
     "quality_schema": "skillr-actual-v6",
@@ -494,10 +502,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which statement describes a pattern?",
-    "audio_prompt": "Which statement describes a pattern?",
-    "audioPrompt": "Which statement describes a pattern?",
+    "skill": "tables",
+    "question": "A notebook says sample A is rough and grey; sample B is smooth and white. A table lists B as rough and white. Which entry needs correcting?",
+    "audio_prompt": "A notebook says sample A is rough and grey; sample B is smooth and white. A table lists B as rough and white. Which entry needs correcting?",
+    "audioPrompt": "A notebook says sample A is rough and grey; sample B is smooth and white. A table lists B as rough and white. Which entry needs correcting?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -505,42 +513,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "As ramp height increased, car distance generally increased",
+        "text": "B's colour to grey",
+        "is_correct": false
+      },
+      {
+        "text": "A's colour to white",
+        "is_correct": false
+      },
+      {
+        "text": "A's texture to smooth",
+        "is_correct": false
+      },
+      {
+        "text": "B's texture to smooth",
         "is_correct": true
-      },
-      {
-        "text": "The graph uses blue bars",
-        "is_correct": false
-      },
-      {
-        "text": "The table has five rows",
-        "is_correct": false
-      },
-      {
-        "text": "The title is centred",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "As ramp height increased, car distance generally increased",
-      "The graph uses blue bars",
-      "The table has five rows",
-      "The title is centred"
+      "B's colour to grey",
+      "A's colour to white",
+      "A's texture to smooth",
+      "B's texture to smooth"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A pattern is a relationship or repeated trend in the data.",
-      "hint": "Look for how values change together."
+      "summary": "The notebook describes B as smooth. Its white colour is already recorded correctly.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "A pattern is a relationship or repeated trend in the data.",
-      "hint": "Look for how values change together."
+      "summary": "The notebook describes B as smooth. Its white colour is already recorded correctly.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 9,
     "sequencePriority": 9,
     "quality_schema": "skillr-actual-v6",
@@ -555,53 +563,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which is a model rather than a measurement tool?",
-    "audio_prompt": "Which is a model rather than a measurement tool?",
-    "audioPrompt": "Which is a model rather than a measurement tool?",
+    "skill": "tables",
+    "question": "A melting table lists ice cubes: small 4 minutes, medium 7 minutes, large 11 minutes. What relationship does it show in this test?",
+    "audio_prompt": "A melting table lists ice cubes: small 4 minutes, medium 7 minutes, large 11 minutes. What relationship does it show in this test?",
+    "audioPrompt": "A melting table lists ice cubes: small 4 minutes, medium 7 minutes, large 11 minutes. What relationship does it show in this test?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p010",
+      "alt_text": "Melting ice. Cube size, Time (minutes); Small, 4; Medium, 7; Large, 11."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Melting ice. Cube size, Time (minutes); Small, 4; Medium, 7; Large, 11.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p010\"/></svg>",
     "answers": [
       {
-        "text": "A ruler",
+        "text": "The small cube did not melt.",
         "is_correct": false
       },
       {
-        "text": "A thermometer",
-        "is_correct": false
-      },
-      {
-        "text": "A balance",
-        "is_correct": false
-      },
-      {
-        "text": "A clay model of Earth layers",
+        "text": "Larger cubes took longer to melt.",
         "is_correct": true
+      },
+      {
+        "text": "All cubes melted in the same time.",
+        "is_correct": false
+      },
+      {
+        "text": "Larger cubes melted in less time.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A ruler",
-      "A thermometer",
-      "A balance",
-      "A clay model of Earth layers"
+      "The small cube did not melt.",
+      "Larger cubes took longer to melt.",
+      "All cubes melted in the same time.",
+      "Larger cubes melted in less time."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A model represents an idea or structure; the other tools measure.",
-      "hint": "Representation versus instrument."
+      "summary": "The times increase from 4 to 7 to 11 minutes as cube size increases.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "A model represents an idea or structure; the other tools measure.",
-      "hint": "Representation versus instrument."
+      "summary": "The times increase from 4 to 7 to 11 minutes as cube size increases.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 10,
     "sequencePriority": 10,
     "quality_schema": "skillr-actual-v6",
@@ -616,10 +626,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Why transfer table data carefully to a graph?",
-    "audio_prompt": "Why transfer table data carefully to a graph?",
-    "audioPrompt": "Why transfer table data carefully to a graph?",
+    "skill": "tables",
+    "question": "A table has columns Day and Plant height (cm). Which row correctly records a height of 9 cm on day 6?",
+    "audio_prompt": "A table has columns Day and Plant height (cm). Which row correctly records a height of 9 cm on day 6?",
+    "audioPrompt": "A table has columns Day and Plant height (cm). Which row correctly records a height of 9 cm on day 6?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -627,42 +637,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Tables are always wrong",
+        "text": "Day 6; 6",
         "is_correct": false
       },
       {
-        "text": "Bar colours determine accuracy",
+        "text": "Day 9; 9",
         "is_correct": false
       },
       {
-        "text": "A graph must match the source data or it can create a false pattern",
+        "text": "Day 6; 9",
         "is_correct": true
       },
       {
-        "text": "Graphs are only decorations",
+        "text": "Day 9; 6",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Tables are always wrong",
-      "Bar colours determine accuracy",
-      "A graph must match the source data or it can create a false pattern",
-      "Graphs are only decorations"
+      "Day 6; 6",
+      "Day 9; 9",
+      "Day 6; 9",
+      "Day 9; 6"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Incorrectly copied values change the evidence being represented.",
-      "hint": "Source data and graph should agree."
+      "summary": "The first column needs the day, 6. The second needs the measured height, 9 cm.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "Incorrectly copied values change the evidence being represented.",
-      "hint": "Source data and graph should agree."
+      "summary": "The first column needs the day, 6. The second needs the measured height, 9 cm.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 11,
     "sequencePriority": 11,
     "quality_schema": "skillr-actual-v6",
@@ -677,10 +687,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Why label graph axes?",
-    "audio_prompt": "Why label graph axes?",
-    "audioPrompt": "Why label graph axes?",
+    "skill": "tables",
+    "question": "Two observations say sandy soil drained 40 mL and clay soil drained 15 mL. Which table entry preserves both pairs?",
+    "audio_prompt": "Two observations say sandy soil drained 40 mL and clay soil drained 15 mL. Which table entry preserves both pairs?",
+    "audioPrompt": "Two observations say sandy soil drained 40 mL and clay soil drained 15 mL. Which table entry preserves both pairs?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -688,42 +698,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Labels prove the conclusion",
+        "text": "Sandy: 25 mL; clay: 15 mL",
         "is_correct": false
       },
       {
-        "text": "Labels tell what each direction and scale represent",
+        "text": "Sandy: 40 mL; clay: 15 mL",
         "is_correct": true
       },
       {
-        "text": "Labels make bars taller",
+        "text": "Sandy: 15 mL; clay: 40 mL",
         "is_correct": false
       },
       {
-        "text": "Axes cannot be read without colours",
+        "text": "Sandy: 55 mL; clay: 55 mL",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Labels prove the conclusion",
-      "Labels tell what each direction and scale represent",
-      "Labels make bars taller",
-      "Axes cannot be read without colours"
+      "Sandy: 25 mL; clay: 15 mL",
+      "Sandy: 40 mL; clay: 15 mL",
+      "Sandy: 15 mL; clay: 40 mL",
+      "Sandy: 55 mL; clay: 55 mL"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Axis labels give meaning to the categories and values.",
-      "hint": "What does each axis stand for?"
+      "summary": "Keep each soil label attached to its own reading: sandy 40 mL and clay 15 mL.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "Axis labels give meaning to the categories and values.",
-      "hint": "What does each axis stand for?"
+      "summary": "Keep each soil label attached to its own reading: sandy 40 mL and clay 15 mL.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 12,
     "sequencePriority": 12,
     "quality_schema": "skillr-actual-v6",
@@ -738,10 +748,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Why use equal spacing on a numerical scale?",
-    "audio_prompt": "Why use equal spacing on a numerical scale?",
-    "audioPrompt": "Why use equal spacing on a numerical scale?",
+    "skill": "tables",
+    "question": "A class sorts objects by their state at room temperature. Which row is correctly placed under Liquid?",
+    "audio_prompt": "A class sorts objects by their state at room temperature. Which row is correctly placed under Liquid?",
+    "audioPrompt": "A class sorts objects by their state at room temperature. Which row is correctly placed under Liquid?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -749,42 +759,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Equal intervals let bar heights represent values consistently",
+        "text": "Cooking oil",
         "is_correct": true
       },
       {
-        "text": "Unequal spacing makes graphs more exciting",
+        "text": "Ice cube",
         "is_correct": false
       },
       {
-        "text": "Spacing never affects interpretation",
+        "text": "Wooden block",
         "is_correct": false
       },
       {
-        "text": "The largest value should get more space",
+        "text": "Metal spoon",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Equal intervals let bar heights represent values consistently",
-      "Unequal spacing makes graphs more exciting",
-      "Spacing never affects interpretation",
-      "The largest value should get more space"
+      "Cooking oil",
+      "Ice cube",
+      "Wooden block",
+      "Metal spoon"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A consistent scale prevents distortion.",
-      "hint": "10 to 20 should use the same distance as 20 to 30."
+      "summary": "Cooking oil flows and takes the shape of its container at room temperature.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "A consistent scale prevents distortion.",
-      "hint": "10 to 20 should use the same distance as 20 to 30."
+      "summary": "Cooking oil flows and takes the shape of its container at room temperature.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 13,
     "sequencePriority": 13,
     "quality_schema": "skillr-actual-v6",
@@ -799,10 +809,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Why might a physical model be useful when a real object is too large to bring into class?",
-    "audio_prompt": "Why might a physical model be useful when a real object is too large to bring into class?",
-    "audioPrompt": "Why might a physical model be useful when a real object is too large to bring into class?",
+    "skill": "tables",
+    "question": "A table lists seedlings with 3 leaves: pot A; 5 leaves: pot B; 5 leaves: pot C. Which pots have equal leaf counts?",
+    "audio_prompt": "A table lists seedlings with 3 leaves: pot A; 5 leaves: pot B; 5 leaves: pot C. Which pots have equal leaf counts?",
+    "audioPrompt": "A table lists seedlings with 3 leaves: pot A; 5 leaves: pot B; 5 leaves: pot C. Which pots have equal leaf counts?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -810,42 +820,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It becomes the real object",
+        "text": "A, B and C",
         "is_correct": false
       },
       {
-        "text": "It always contains every detail",
+        "text": "A and B",
         "is_correct": false
       },
       {
-        "text": "It removes the need for explanation",
+        "text": "A and C",
         "is_correct": false
       },
       {
-        "text": "It can represent important features at a manageable size",
+        "text": "B and C",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "It becomes the real object",
-      "It always contains every detail",
-      "It removes the need for explanation",
-      "It can represent important features at a manageable size"
+      "A, B and C",
+      "A and B",
+      "A and C",
+      "B and C"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Models simplify and represent selected features of real things.",
-      "hint": "Useful representation, not exact copy."
+      "summary": "Both B and C have 5 leaves. A has 3.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "Models simplify and represent selected features of real things.",
-      "hint": "Useful representation, not exact copy."
+      "summary": "Both B and C have 5 leaves. A has 3.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 14,
     "sequencePriority": 14,
     "quality_schema": "skillr-actual-v6",
@@ -860,10 +870,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Why is a table useful before making a graph?",
-    "audio_prompt": "Why is a table useful before making a graph?",
-    "audioPrompt": "Why is a table useful before making a graph?",
+    "skill": "tables",
+    "question": "A class records the same rock's colour before and after wetting. Which headings keep the comparison clear?",
+    "audio_prompt": "A class records the same rock's colour before and after wetting. Which headings keep the comparison clear?",
+    "audioPrompt": "A class records the same rock's colour before and after wetting. Which headings keep the comparison clear?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -871,42 +881,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Tables automatically find conclusions",
+        "text": "Wet colour; melting time; day",
         "is_correct": false
       },
       {
-        "text": "Tables make units unnecessary",
-        "is_correct": false
-      },
-      {
-        "text": "It organises the original values so they can be checked and plotted accurately",
+        "text": "Sample; dry colour; wet colour",
         "is_correct": true
       },
       {
-        "text": "A graph cannot exist without a table",
+        "text": "Sample; colour; favourite colour",
+        "is_correct": false
+      },
+      {
+        "text": "Sample; dry colour; plant height",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Tables automatically find conclusions",
-      "Tables make units unnecessary",
-      "It organises the original values so they can be checked and plotted accurately",
-      "A graph cannot exist without a table"
+      "Wet colour; melting time; day",
+      "Sample; dry colour; wet colour",
+      "Sample; colour; favourite colour",
+      "Sample; dry colour; plant height"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Organised source data helps reduce plotting mistakes.",
-      "hint": "Record first, represent second."
+      "summary": "Separate dry-colour and wet-colour columns keep the two observations distinct.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "Organised source data helps reduce plotting mistakes.",
-      "hint": "Record first, represent second."
+      "summary": "Separate dry-colour and wet-colour columns keep the two observations distinct.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 15,
     "sequencePriority": 15,
     "quality_schema": "skillr-actual-v6",
@@ -921,10 +931,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Why should a model include only relevant detail?",
-    "audio_prompt": "Why should a model include only relevant detail?",
-    "audioPrompt": "Why should a model include only relevant detail?",
+    "skill": "tables",
+    "question": "A table records ice remaining after 5 minutes: no wrap 1 cube, paper wrap 2 cubes, cloth wrap 3 cubes. Which statement is supported?",
+    "audio_prompt": "A table records ice remaining after 5 minutes: no wrap 1 cube, paper wrap 2 cubes, cloth wrap 3 cubes. Which statement is supported?",
+    "audioPrompt": "A table records ice remaining after 5 minutes: no wrap 1 cube, paper wrap 2 cubes, cloth wrap 3 cubes. Which statement is supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -932,42 +942,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Every model must be identical",
-        "is_correct": false
-      },
-      {
-        "text": "Too much unrelated detail can make the scientific idea harder to see",
+        "text": "The cloth-wrapped container had the most cubes left.",
         "is_correct": true
       },
       {
-        "text": "Models must be plain",
+        "text": "The unwrapped container had the most ice left.",
         "is_correct": false
       },
       {
-        "text": "Detail is never useful",
+        "text": "The paper-wrapped container had no ice left.",
+        "is_correct": false
+      },
+      {
+        "text": "All containers had the same ice left.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Every model must be identical",
-      "Too much unrelated detail can make the scientific idea harder to see",
-      "Models must be plain",
-      "Detail is never useful"
+      "The cloth-wrapped container had the most cubes left.",
+      "The unwrapped container had the most ice left.",
+      "The paper-wrapped container had no ice left.",
+      "All containers had the same ice left."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A model is useful when its features support the purpose.",
-      "hint": "Keep what helps explain the idea."
+      "summary": "The recorded counts are 1, 2 and 3. Cloth has the greatest count at this check.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "A model is useful when its features support the purpose.",
-      "hint": "Keep what helps explain the idea."
+      "summary": "The recorded counts are 1, 2 and 3. Cloth has the greatest count at this check.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 16,
     "sequencePriority": 16,
     "quality_schema": "skillr-actual-v6",
@@ -982,53 +992,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Why is a column graph better than a paragraph for comparing four counts quickly?",
-    "audio_prompt": "Why is a column graph better than a paragraph for comparing four counts quickly?",
-    "audioPrompt": "Why is a column graph better than a paragraph for comparing four counts quickly?",
+    "skill": "column graphs",
+    "question": "Read the column graph of seedlings. How many seedlings are in tray B?",
+    "audio_prompt": "Read the column graph of seedlings. How many seedlings are in tray B?",
+    "audioPrompt": "Read the column graph of seedlings. How many seedlings are in tray B?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p017",
+      "alt_text": "Seedlings in trays. Vertical scale: 0 to 9 Number of seedlings, in steps of 1. A: 3; B: 6; C: 9."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Seedlings in trays. Vertical scale: 0 to 9 Number of seedlings, in steps of 1. A: 3; B: 6; C: 9.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p017\"/></svg>",
     "answers": [
       {
-        "text": "Bar heights make relative amounts easy to compare visually",
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "6",
         "is_correct": true
-      },
-      {
-        "text": "Paragraphs are never scientific",
-        "is_correct": false
-      },
-      {
-        "text": "Graphs always prove cause",
-        "is_correct": false
-      },
-      {
-        "text": "Words cannot contain data",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Bar heights make relative amounts easy to compare visually",
-      "Paragraphs are never scientific",
-      "Graphs always prove cause",
-      "Words cannot contain data"
+      "9",
+      "18",
+      "3",
+      "6"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Visual comparison can make differences and patterns more obvious.",
-      "hint": "Look across categories quickly."
+      "summary": "Tray B's column reaches 6 on the Number of seedlings scale.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "Visual comparison can make differences and patterns more obvious.",
-      "hint": "Look across categories quickly."
+      "summary": "Tray B's column reaches 6 on the Number of seedlings scale.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 17,
     "sequencePriority": 17,
     "quality_schema": "skillr-actual-v6",
@@ -1043,53 +1055,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Why should a graph title name what was measured?",
-    "audio_prompt": "Why should a graph title name what was measured?",
-    "audioPrompt": "Why should a graph title name what was measured?",
+    "skill": "column graphs",
+    "question": "Read the column graph of rocks collected. Which place has the largest count?",
+    "audio_prompt": "Read the column graph of rocks collected. Which place has the largest count?",
+    "audioPrompt": "Read the column graph of rocks collected. Which place has the largest count?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p018",
+      "alt_text": "Rocks collected. Vertical scale: 0 to 8 Number of rocks, in steps of 1. Garden: 4; Creek: 8; Path: 6."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Rocks collected. Vertical scale: 0 to 8 Number of rocks, in steps of 1. Garden: 4; Creek: 8; Path: 6.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p018\"/></svg>",
     "answers": [
       {
-        "text": "Titles change the data",
-        "is_correct": false
-      },
-      {
-        "text": "Titles make axes optional",
-        "is_correct": false
-      },
-      {
-        "text": "A title is only decoration",
-        "is_correct": false
-      },
-      {
-        "text": "It helps the reader know what the data set is about",
+        "text": "Creek",
         "is_correct": true
+      },
+      {
+        "text": "Garden",
+        "is_correct": false
+      },
+      {
+        "text": "Path",
+        "is_correct": false
+      },
+      {
+        "text": "All places have the same count.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Titles change the data",
-      "Titles make axes optional",
-      "A title is only decoration",
-      "It helps the reader know what the data set is about"
+      "Creek",
+      "Garden",
+      "Path",
+      "All places have the same count."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A clear title gives context for interpreting the graph.",
-      "hint": "What question does the graph answer?"
+      "summary": "The creek column is tallest and reaches 8 rocks, compared with 4 and 6.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "A clear title gives context for interpreting the graph.",
-      "hint": "What question does the graph answer?"
+      "summary": "The creek column is tallest and reaches 8 rocks, compared with 4 and 6.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 18,
     "sequencePriority": 18,
     "quality_schema": "skillr-actual-v6",
@@ -1104,53 +1118,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Why can a model be useful even though it is not exactly like the real thing?",
-    "audio_prompt": "Why can a model be useful even though it is not exactly like the real thing?",
-    "audioPrompt": "Why can a model be useful even though it is not exactly like the real thing?",
+    "skill": "column graphs",
+    "question": "The table gives leaf counts: A 4, B 7, C 5. What height should complete the missing B column?",
+    "audio_prompt": "The table gives leaf counts: A 4, B 7, C 5. What height should complete the missing B column?",
+    "audioPrompt": "The table gives leaf counts: A 4, B 7, C 5. What height should complete the missing B column?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p019",
+      "alt_text": "Leaf counts. Vertical scale: 0 to 7 Number of leaves, in steps of 1. A: 4; B: column missing; C: 5."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Leaf counts. Vertical scale: 0 to 7 Number of leaves, in steps of 1. A: 4; B: column missing; C: 5.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p019\"/></svg>",
     "answers": [
       {
-        "text": "A model is always a toy",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "Models replace evidence",
+        "text": "16",
         "is_correct": false
       },
       {
-        "text": "It can simplify features to make a relationship easier to understand",
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "7",
         "is_correct": true
-      },
-      {
-        "text": "Models are useful only if perfect",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A model is always a toy",
-      "Models replace evidence",
-      "It can simplify features to make a relationship easier to understand",
-      "Models are useful only if perfect"
+      "4",
+      "16",
+      "5",
+      "7"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Models are purposeful simplifications, not exact replicas.",
-      "hint": "Simplify to explain."
+      "summary": "The B row records 7 leaves, so B's column must reach 7.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "Models are purposeful simplifications, not exact replicas.",
-      "hint": "Simplify to explain."
+      "summary": "The B row records 7 leaves, so B's column must reach 7.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 19,
     "sequencePriority": 19,
     "quality_schema": "skillr-actual-v6",
@@ -1165,53 +1181,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "A graph shows a steady rise across five trials. What should a student do before claiming a pattern?",
-    "audio_prompt": "A graph shows a steady rise across five trials. What should a student do before claiming a pattern?",
-    "audioPrompt": "A graph shows a steady rise across five trials. What should a student do before claiming a pattern?",
+    "skill": "column graphs",
+    "question": "Read the column graph of melting times. Which ice cube melted fastest?",
+    "audio_prompt": "Read the column graph of melting times. Which ice cube melted fastest?",
+    "audioPrompt": "Read the column graph of melting times. Which ice cube melted fastest?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p020",
+      "alt_text": "Time for ice to melt. Vertical scale: 0 to 9 Time (minutes), in steps of 1. Small: 3; Medium: 6; Large: 9."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Time for ice to melt. Vertical scale: 0 to 9 Time (minutes), in steps of 1. Small: 3; Medium: 6; Large: 9.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p020\"/></svg>",
     "answers": [
       {
-        "text": "Ignore the table",
+        "text": "Medium",
         "is_correct": false
       },
       {
-        "text": "Check that the plotted values match the recorded data",
+        "text": "All melted equally fast.",
+        "is_correct": false
+      },
+      {
+        "text": "Small",
         "is_correct": true
       },
       {
-        "text": "Assume any rising line is true",
-        "is_correct": false
-      },
-      {
-        "text": "Change low values",
+        "text": "Large",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Ignore the table",
-      "Check that the plotted values match the recorded data",
-      "Assume any rising line is true",
-      "Change low values"
+      "Medium",
+      "All melted equally fast.",
+      "Small",
+      "Large"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Patterns should be based on accurate representation of source data.",
-      "hint": "Verify the graph first."
+      "summary": "The small cube has the shortest time, 3 minutes. Less time means it melted faster.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "Patterns should be based on accurate representation of source data.",
-      "hint": "Verify the graph first."
+      "summary": "The small cube has the shortest time, 3 minutes. Less time means it melted faster.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 20,
     "sequencePriority": 20,
     "quality_schema": "skillr-actual-v6",
@@ -1226,10 +1244,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which graph has a misleading scale?",
-    "audio_prompt": "Which graph has a misleading scale?",
-    "audioPrompt": "Which graph has a misleading scale?",
+    "skill": "column graphs",
+    "question": "A graph's equally spaced marks read 0, 2, 4, ?, 8. What number belongs at the missing mark?",
+    "audio_prompt": "A graph's equally spaced marks read 0, 2, 4, ?, 8. What number belongs at the missing mark?",
+    "audioPrompt": "A graph's equally spaced marks read 0, 2, 4, ?, 8. What number belongs at the missing mark?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1237,42 +1255,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "One where equal value intervals are shown with unequal distances",
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "6",
         "is_correct": true
-      },
-      {
-        "text": "One with equal 5-unit intervals",
-        "is_correct": false
-      },
-      {
-        "text": "One with labelled categories",
-        "is_correct": false
-      },
-      {
-        "text": "One with a clear title",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "One where equal value intervals are shown with unequal distances",
-      "One with equal 5-unit intervals",
-      "One with labelled categories",
-      "One with a clear title"
+      "5",
+      "7",
+      "10",
+      "6"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Unequal spacing for equal numerical intervals can distort visual comparison.",
-      "hint": "Check the scale spacing."
+      "summary": "Each equal step adds 2, so the mark between 4 and 8 is 6.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "Unequal spacing for equal numerical intervals can distort visual comparison.",
-      "hint": "Check the scale spacing."
+      "summary": "Each equal step adds 2, so the mark between 4 and 8 is 6.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 21,
     "sequencePriority": 21,
     "quality_schema": "skillr-actual-v6",
@@ -1287,53 +1305,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which table is easiest to use?",
-    "audio_prompt": "Which table is easiest to use?",
-    "audioPrompt": "Which table is easiest to use?",
+    "skill": "column graphs",
+    "question": "Read the bird-count column graph. How many more birds were counted at the pond than the oval?",
+    "audio_prompt": "Read the bird-count column graph. How many more birds were counted at the pond than the oval?",
+    "audioPrompt": "Read the bird-count column graph. How many more birds were counted at the pond than the oval?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p022",
+      "alt_text": "Bird counts. Vertical scale: 0 to 10 Number of birds, in steps of 2. Oval: 6; Pond: 10."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Bird counts. Vertical scale: 0 to 10 Number of birds, in steps of 2. Oval: 6; Pond: 10.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p022\"/></svg>",
     "answers": [
       {
-        "text": "One with no headings",
+        "text": "2",
         "is_correct": false
       },
       {
-        "text": "One with values scattered randomly",
+        "text": "16",
         "is_correct": false
       },
       {
-        "text": "One with only colours",
+        "text": "6",
         "is_correct": false
       },
       {
-        "text": "One with clear headings and units",
+        "text": "4",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "One with no headings",
-      "One with values scattered randomly",
-      "One with only colours",
-      "One with clear headings and units"
+      "2",
+      "16",
+      "6",
+      "4"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Clear structure helps readers understand and compare data.",
-      "hint": "Organisation matters."
+      "summary": "The pond has 10 birds and the oval has 6. The difference is 4.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "Clear structure helps readers understand and compare data.",
-      "hint": "Organisation matters."
+      "summary": "The pond has 10 birds and the oval has 6. The difference is 4.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 22,
     "sequencePriority": 22,
     "quality_schema": "skillr-actual-v6",
@@ -1348,53 +1368,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which statement is supported by bars of 4, 8, 12 and 16?",
-    "audio_prompt": "Which statement is supported by bars of 4, 8, 12 and 16?",
-    "audioPrompt": "Which statement is supported by bars of 4, 8, 12 and 16?",
+    "skill": "column graphs",
+    "question": "The snail-count graph includes the path, but its column has zero height. What does this show?",
+    "audio_prompt": "The snail-count graph includes the path, but its column has zero height. What does this show?",
+    "audioPrompt": "The snail-count graph includes the path, but its column has zero height. What does this show?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p023",
+      "alt_text": "Snails counted. Vertical scale: 0 to 7 Number of snails, in steps of 1. Garden: 4; Path: 0; Pond: 7."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Snails counted. Vertical scale: 0 to 7 Number of snails, in steps of 1. Garden: 4; Path: 0; Pond: 7.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p023\"/></svg>",
     "answers": [
       {
-        "text": "The second value is largest",
+        "text": "The path was not included in the survey.",
         "is_correct": false
       },
       {
-        "text": "There is no pattern",
+        "text": "The path had 4 snails.",
         "is_correct": false
       },
       {
-        "text": "The values increase by 4 each category",
+        "text": "No snails were counted on the path.",
         "is_correct": true
       },
       {
-        "text": "The values are all equal",
+        "text": "The path had 7 snails.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The second value is largest",
-      "There is no pattern",
-      "The values increase by 4 each category",
-      "The values are all equal"
+      "The path was not included in the survey.",
+      "The path had 4 snails.",
+      "No snails were counted on the path.",
+      "The path had 7 snails."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Each value is 4 more than the previous one.",
-      "hint": "Compare consecutive bars."
+      "summary": "The path is a labelled category with a recorded count of zero. Zero is a result, not missing data.",
+      "hint": "Check whether the category is labelled and read its column height."
     },
     "structuredExplanation": {
-      "summary": "Each value is 4 more than the previous one.",
-      "hint": "Compare consecutive bars."
+      "summary": "The path is a labelled category with a recorded count of zero. Zero is a result, not missing data.",
+      "hint": "Check whether the category is labelled and read its column height."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 23,
     "sequencePriority": 23,
     "quality_schema": "skillr-actual-v6",
@@ -1409,53 +1431,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which representation is best for showing stages of a frog life cycle in order?",
-    "audio_prompt": "Which representation is best for showing stages of a frog life cycle in order?",
-    "audioPrompt": "Which representation is best for showing stages of a frog life cycle in order?",
+    "skill": "column graphs",
+    "question": "Read the graph of ice melting time with different wraps. Which wrap kept the ice solid for the longest time?",
+    "audio_prompt": "Read the graph of ice melting time with different wraps. Which wrap kept the ice solid for the longest time?",
+    "audioPrompt": "Read the graph of ice melting time with different wraps. Which wrap kept the ice solid for the longest time?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p024",
+      "alt_text": "Time for wrapped ice to melt. Vertical scale: 0 to 12 Time (minutes), in steps of 2. No wrap: 4; Paper: 8; Cloth: 12."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Time for wrapped ice to melt. Vertical scale: 0 to 12 Time (minutes), in steps of 2. No wrap: 4; Paper: 8; Cloth: 12.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p024\"/></svg>",
     "answers": [
       {
-        "text": "A balance",
+        "text": "All three equally",
         "is_correct": false
       },
       {
-        "text": "A labelled sequence diagram",
+        "text": "Cloth",
         "is_correct": true
       },
       {
-        "text": "A column graph of random numbers",
+        "text": "No wrap",
         "is_correct": false
       },
       {
-        "text": "A table of colours only",
+        "text": "Paper",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A balance",
-      "A labelled sequence diagram",
-      "A column graph of random numbers",
-      "A table of colours only"
+      "All three equally",
+      "Cloth",
+      "No wrap",
+      "Paper"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "A sequence diagram shows order and change through stages.",
-      "hint": "Think ordered stages."
+      "summary": "Cloth has the tallest time column, 12 minutes. This means the ice took longest to melt.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "A sequence diagram shows order and change through stages.",
-      "hint": "Think ordered stages."
+      "summary": "Cloth has the tallest time column, 12 minutes. This means the ice took longest to melt.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 24,
     "sequencePriority": 24,
     "quality_schema": "skillr-actual-v6",
@@ -1470,53 +1494,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which model would best show how a lever works?",
-    "audio_prompt": "Which model would best show how a lever works?",
-    "audioPrompt": "Which model would best show how a lever works?",
+    "skill": "column graphs",
+    "question": "The graph shows water collected from soils. The vertical axis says Water collected. Which unit completes this label?",
+    "audio_prompt": "The graph shows water collected from soils. The vertical axis says Water collected. Which unit completes this label?",
+    "audioPrompt": "The graph shows water collected from soils. The vertical axis says Water collected. Which unit completes this label?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p025",
+      "alt_text": "Water drained from soil. Vertical scale: 0 to 40 Water collected, in steps of 10. A: 20; B: 40; C: 30."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Water drained from soil. Vertical scale: 0 to 40 Water collected, in steps of 10. A: 20; B: 40; C: 30.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p025\"/></svg>",
     "answers": [
       {
-        "text": "A physical model with a beam and pivot",
+        "text": "°C",
+        "is_correct": false
+      },
+      {
+        "text": "cm",
+        "is_correct": false
+      },
+      {
+        "text": "mL",
         "is_correct": true
       },
       {
-        "text": "A list of unrelated words",
-        "is_correct": false
-      },
-      {
-        "text": "A temperature graph",
-        "is_correct": false
-      },
-      {
-        "text": "A soil tally",
+        "text": "minutes",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A physical model with a beam and pivot",
-      "A list of unrelated words",
-      "A temperature graph",
-      "A soil tally"
+      "°C",
+      "cm",
+      "mL",
+      "minutes"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A physical model can show moving parts and relationships directly.",
-      "hint": "Show the mechanism."
+      "summary": "The graph records a volume of collected water, measured in millilitres.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "A physical model can show moving parts and relationships directly.",
-      "hint": "Show the mechanism."
+      "summary": "The graph records a volume of collected water, measured in millilitres.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 25,
     "sequencePriority": 25,
     "quality_schema": "skillr-actual-v6",
@@ -1531,10 +1557,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which statement confuses a model with reality?",
-    "audio_prompt": "Which statement confuses a model with reality?",
-    "audioPrompt": "Which statement confuses a model with reality?",
+    "skill": "column graphs",
+    "question": "A graph of plant heights has equally spaced marks 0, 5, 10, 15. Where should a 10 cm column end?",
+    "audio_prompt": "A graph of plant heights has equally spaced marks 0, 5, 10, 15. Where should a 10 cm column end?",
+    "audioPrompt": "A graph of plant heights has equally spaced marks 0, 5, 10, 15. Where should a 10 cm column end?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1542,42 +1568,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "“The model shows selected Earth features.”",
+        "text": "At the third mark above zero",
         "is_correct": false
       },
       {
-        "text": "“The model is smaller than Earth.”",
-        "is_correct": false
-      },
-      {
-        "text": "“The model helps explain layers.”",
-        "is_correct": false
-      },
-      {
-        "text": "“The model proves Earth is exactly this size.”",
+        "text": "At the second mark above zero",
         "is_correct": true
+      },
+      {
+        "text": "Halfway between 0 and 5",
+        "is_correct": false
+      },
+      {
+        "text": "At the first mark above zero",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "“The model shows selected Earth features.”",
-      "“The model is smaller than Earth.”",
-      "“The model helps explain layers.”",
-      "“The model proves Earth is exactly this size.”"
+      "At the third mark above zero",
+      "At the second mark above zero",
+      "Halfway between 0 and 5",
+      "At the first mark above zero"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Models are representations and usually differ in scale or detail from reality.",
-      "hint": "Representation is not the real object."
+      "summary": "The first mark is 5 and the second is 10. Count the scale values, not just the lines.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "Models are representations and usually differ in scale or detail from reality.",
-      "hint": "Representation is not the real object."
+      "summary": "The first mark is 5 and the second is 10. Count the scale values, not just the lines.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 26,
     "sequencePriority": 26,
     "quality_schema": "skillr-actual-v6",
@@ -1592,53 +1618,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which graph-reading statement is wrong if the tallest bar is 18 and the shortest is 6?",
-    "audio_prompt": "Which graph-reading statement is wrong if the tallest bar is 18 and the shortest is 6?",
-    "audioPrompt": "Which graph-reading statement is wrong if the tallest bar is 18 and the shortest is 6?",
+    "skill": "column graphs",
+    "question": "Read the seed-count graph. Which trays have the same number of sprouted seeds?",
+    "audio_prompt": "Read the seed-count graph. Which trays have the same number of sprouted seeds?",
+    "audioPrompt": "Read the seed-count graph. Which trays have the same number of sprouted seeds?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p027",
+      "alt_text": "Sprouted seeds. Vertical scale: 0 to 8 Number of seeds, in steps of 2. A: 8; B: 4; C: 8."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Sprouted seeds. Vertical scale: 0 to 8 Number of seeds, in steps of 2. A: 8; B: 4; C: 8.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p027\"/></svg>",
     "answers": [
       {
-        "text": "The shortest category has value 6",
-        "is_correct": false
-      },
-      {
-        "text": "The difference is 12",
-        "is_correct": false
-      },
-      {
-        "text": "The shortest category has the greatest value",
+        "text": "A and C",
         "is_correct": true
       },
       {
-        "text": "The tallest category has value 18",
+        "text": "All three trays",
+        "is_correct": false
+      },
+      {
+        "text": "A and B",
+        "is_correct": false
+      },
+      {
+        "text": "B and C",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The shortest category has value 6",
-      "The difference is 12",
-      "The shortest category has the greatest value",
-      "The tallest category has value 18"
+      "A and C",
+      "All three trays",
+      "A and B",
+      "B and C"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The shortest bar represents the smallest value, not the greatest.",
-      "hint": "Match bar height to value."
+      "summary": "A and C both reach 8. B reaches 4.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "The shortest bar represents the smallest value, not the greatest.",
-      "hint": "Match bar height to value."
+      "summary": "A and C both reach 8. B reaches 4.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 27,
     "sequencePriority": 27,
     "quality_schema": "skillr-actual-v6",
@@ -1653,10 +1681,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which choice would improve a graph with unlabeled bars?",
-    "audio_prompt": "Which choice would improve a graph with unlabeled bars?",
-    "audioPrompt": "Which choice would improve a graph with unlabeled bars?",
+    "skill": "column graphs",
+    "question": "The table gives insect counts: ants 9, beetles 3, moths 6. Which set of column heights matches it?",
+    "audio_prompt": "The table gives insect counts: ants 9, beetles 3, moths 6. Which set of column heights matches it?",
+    "audioPrompt": "The table gives insect counts: ants 9, beetles 3, moths 6. Which set of column heights matches it?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1664,42 +1692,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Change every value",
+        "text": "Ants 9; beetles 6; moths 3",
         "is_correct": false
       },
       {
-        "text": "Add category names beneath each bar",
+        "text": "Ants 9; beetles 3; moths 6",
         "is_correct": true
       },
       {
-        "text": "Make the bars decorative",
+        "text": "Ants 6; beetles 3; moths 9",
         "is_correct": false
       },
       {
-        "text": "Remove the scale too",
+        "text": "Ants 3; beetles 9; moths 6",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Change every value",
-      "Add category names beneath each bar",
-      "Make the bars decorative",
-      "Remove the scale too"
+      "Ants 9; beetles 6; moths 3",
+      "Ants 9; beetles 3; moths 6",
+      "Ants 6; beetles 3; moths 9",
+      "Ants 3; beetles 9; moths 6"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Category labels show what each bar represents.",
-      "hint": "Readers need to know which bar is which."
+      "summary": "Every column must match its own category in the table.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "Category labels show what each bar represents.",
-      "hint": "Readers need to know which bar is which."
+      "summary": "Every column must match its own category in the table.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 28,
     "sequencePriority": 28,
     "quality_schema": "skillr-actual-v6",
@@ -1714,53 +1742,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which representation best helps identify whether temperature changes over time?",
-    "audio_prompt": "Which representation best helps identify whether temperature changes over time?",
-    "audioPrompt": "Which representation best helps identify whether temperature changes over time?",
+    "skill": "column graphs",
+    "question": "Read the graph of soil temperatures. Which statement matches the data?",
+    "audio_prompt": "Read the graph of soil temperatures. Which statement matches the data?",
+    "audioPrompt": "Read the graph of soil temperatures. Which statement matches the data?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p029",
+      "alt_text": "Soil temperatures. Vertical scale: 0 to 32 Temperature (°C), in steps of 8. Sunny: 32; Shaded: 24."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Soil temperatures. Vertical scale: 0 to 32 Temperature (°C), in steps of 8. Sunny: 32; Shaded: 24.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p029\"/></svg>",
     "answers": [
       {
-        "text": "A table or graph with time and temperature values",
+        "text": "Both soils are 24°C.",
+        "is_correct": false
+      },
+      {
+        "text": "Sunny soil is 56°C.",
+        "is_correct": false
+      },
+      {
+        "text": "Sunny soil is 8°C warmer than shaded soil.",
         "is_correct": true
       },
       {
-        "text": "A photo of the thermometer case",
-        "is_correct": false
-      },
-      {
-        "text": "A list of students",
-        "is_correct": false
-      },
-      {
-        "text": "A map of the room",
+        "text": "Shaded soil is 8°C warmer than sunny soil.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A table or graph with time and temperature values",
-      "A photo of the thermometer case",
-      "A list of students",
-      "A map of the room"
+      "Both soils are 24°C.",
+      "Sunny soil is 56°C.",
+      "Sunny soil is 8°C warmer than shaded soil.",
+      "Shaded soil is 8°C warmer than sunny soil."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Organising paired time and temperature data reveals changes over time.",
-      "hint": "Show two related variables."
+      "summary": "Sunny soil is 32°C and shaded soil is 24°C. The difference is 8°C.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "Organising paired time and temperature data reveals changes over time.",
-      "hint": "Show two related variables."
+      "summary": "Sunny soil is 32°C and shaded soil is 24°C. The difference is 8°C.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 29,
     "sequencePriority": 29,
     "quality_schema": "skillr-actual-v6",
@@ -1775,10 +1805,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "A student copies 25 mL from a table as 52 mL on a graph. What is the main problem?",
-    "audio_prompt": "A student copies 25 mL from a table as 52 mL on a graph. What is the main problem?",
-    "audioPrompt": "A student copies 25 mL from a table as 52 mL on a graph. What is the main problem?",
+    "skill": "column graphs",
+    "question": "A class draws columns for 2, 4 and 6 leaves. The axis marks are equally spaced but labelled 0, 2, 3, 6. What needs repair?",
+    "audio_prompt": "A class draws columns for 2, 4 and 6 leaves. The axis marks are equally spaced but labelled 0, 2, 3, 6. What needs repair?",
+    "audioPrompt": "A class draws columns for 2, 4 and 6 leaves. The axis marks are equally spaced but labelled 0, 2, 3, 6. What needs repair?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1786,42 +1816,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The graph needs more colour",
+        "text": "The tallest column must be removed.",
         "is_correct": false
       },
       {
-        "text": "The table should be deleted",
-        "is_correct": false
-      },
-      {
-        "text": "52 is always a better number",
-        "is_correct": false
-      },
-      {
-        "text": "The representation no longer matches the source data",
+        "text": "The scale labels must increase by equal amounts.",
         "is_correct": true
+      },
+      {
+        "text": "Every column must reach 6.",
+        "is_correct": false
+      },
+      {
+        "text": "The category names must be numbers.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The graph needs more colour",
-      "The table should be deleted",
-      "52 is always a better number",
-      "The representation no longer matches the source data"
+      "The tallest column must be removed.",
+      "The scale labels must increase by equal amounts.",
+      "Every column must reach 6.",
+      "The category names must be numbers."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A transcription error changes the evidence shown.",
-      "hint": "Check the copied value."
+      "summary": "Equally spaced scale marks must represent equal increases. The current steps are 2, 1 and 3.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "A transcription error changes the evidence shown.",
-      "hint": "Check the copied value."
+      "summary": "Equally spaced scale marks must represent equal increases. The current steps are 2, 1 and 3.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 30,
     "sequencePriority": 30,
     "quality_schema": "skillr-actual-v6",
@@ -1836,51 +1866,53 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Data show shade temperatures of 22°C, 23°C and 22°C and sun temperatures of 31°C, 30°C and 32°C. Which representation would best compare the two groups?",
-    "audio_prompt": "Data show shade temperatures of 22°C, 23°C and 22°C and sun temperatures of 31°C, 30°C and 32°C. Which representation would best compare the two groups?",
-    "audioPrompt": "Data show shade temperatures of 22°C, 23°C and 22°C and sun temperatures of 31°C, 30°C and 32°C. Which representation would best compare the two groups?",
+    "skill": "column graphs",
+    "question": "Read the graph of melting time for 1, 2 and 3 layers of cloth. What pattern is shown?",
+    "audio_prompt": "Read the graph of melting time for 1, 2 and 3 layers of cloth. What pattern is shown?",
+    "audioPrompt": "Read the graph of melting time for 1, 2 and 3 layers of cloth. What pattern is shown?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p031",
+      "alt_text": "Cloth layers and melting time. Vertical scale: 0 to 11 Time (minutes), in steps of 1. 1 layer: 5; 2 layers: 8; 3 layers: 11."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Cloth layers and melting time. Vertical scale: 0 to 11 Time (minutes), in steps of 1. 1 layer: 5; 2 layers: 8; 3 layers: 11.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p031\"/></svg>",
     "answers": [
       {
-        "text": "A picture of the Sun",
-        "is_correct": false
-      },
-      {
-        "text": "A list of days without values",
-        "is_correct": false
-      },
-      {
-        "text": "A table or column graph showing the recorded temperatures for shade and sun",
+        "text": "More layers were linked with longer melting times.",
         "is_correct": true
       },
       {
-        "text": "A paragraph saying “sun was hot” only",
+        "text": "Three layers made the ice melt immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "More layers were linked with shorter melting times.",
+        "is_correct": false
+      },
+      {
+        "text": "Every layer count had the same melting time.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A picture of the Sun",
-      "A list of days without values",
-      "A table or column graph showing the recorded temperatures for shade and sun",
-      "A paragraph saying “sun was hot” only"
+      "More layers were linked with longer melting times.",
+      "Three layers made the ice melt immediately.",
+      "More layers were linked with shorter melting times.",
+      "Every layer count had the same melting time."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Structured numerical representation allows the two groups to be compared.",
-      "hint": "Keep the measurements visible."
+      "summary": "The times rise from 5 to 8 to 11 minutes as the layer count rises.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "Structured numerical representation allows the two groups to be compared.",
-      "hint": "Keep the measurements visible."
+      "summary": "The times rise from 5 to 8 to 11 minutes as the layer count rises.",
+      "hint": "Read the category label and the scale from zero."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 31,
@@ -1897,10 +1929,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "A class counts litter types: paper 12, plastic 18, metal 5. Which statement should a graph make easiest to see?",
-    "audio_prompt": "A class counts litter types: paper 12, plastic 18, metal 5. Which statement should a graph make easiest to see?",
-    "audioPrompt": "A class counts litter types: paper 12, plastic 18, metal 5. Which statement should a graph make easiest to see?",
+    "skill": "column graphs",
+    "question": "A table records 6 worms, 4 beetles and 2 snails. A digital graph shows 6, 4 and 12. What should be corrected first?",
+    "audio_prompt": "A table records 6 worms, 4 beetles and 2 snails. A digital graph shows 6, 4 and 12. What should be corrected first?",
+    "audioPrompt": "A table records 6 worms, 4 beetles and 2 snails. A digital graph shows 6, 4 and 12. What should be corrected first?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1908,40 +1940,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "There were no differences",
-        "is_correct": false
-      },
-      {
-        "text": "Plastic was the most common category",
+        "text": "Change the snail column from 12 to 2.",
         "is_correct": true
       },
       {
-        "text": "Paper and plastic were equal",
+        "text": "Change the worm column from 6 to 12.",
         "is_correct": false
       },
       {
-        "text": "Metal was most common",
+        "text": "Change the beetle column from 4 to 2.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the graph colours.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "There were no differences",
-      "Plastic was the most common category",
-      "Paper and plastic were equal",
-      "Metal was most common"
+      "Change the snail column from 12 to 2.",
+      "Change the worm column from 6 to 12.",
+      "Change the beetle column from 4 to 2.",
+      "Change the graph colours."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A column graph would show the 18-count bar as tallest.",
-      "hint": "Compare the category counts."
+      "summary": "The snail value does not match the recorded count. Fix the data before changing decoration.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "A column graph would show the 18-count bar as tallest.",
-      "hint": "Compare the category counts."
+      "summary": "The snail value does not match the recorded count. Fix the data before changing decoration.",
+      "hint": "Read the category label and the scale from zero."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 32,
@@ -1958,53 +1990,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "A table shows car distance increasing as ramp height increases. What conclusion is safest?",
-    "audio_prompt": "A table shows car distance increasing as ramp height increases. What conclusion is safest?",
-    "audioPrompt": "A table shows car distance increasing as ramp height increases. What conclusion is safest?",
+    "skill": "models",
+    "question": "A model shows seed → seedling → adult flowering plant → seeds. What do the arrows show?",
+    "audio_prompt": "A model shows seed → seedling → adult flowering plant → seeds. What do the arrows show?",
+    "audioPrompt": "A model shows seed → seedling → adult flowering plant → seeds. What do the arrows show?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p033",
+      "alt_text": "Plant life stages. Seed then Seedling then Adult flowering plant then Seeds."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plant life stages. Seed then Seedling then Adult flowering plant then Seeds.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p033\"/></svg>",
     "answers": [
       {
-        "text": "In this investigation, higher ramps were associated with greater travel distance",
+        "text": "The height of each plant",
+        "is_correct": false
+      },
+      {
+        "text": "The order of life-cycle stages",
         "is_correct": true
       },
       {
-        "text": "Higher ramps always make every car travel farther",
+        "text": "The exact time each stage lasts",
         "is_correct": false
       },
       {
-        "text": "Ramp height is the only factor that ever matters",
-        "is_correct": false
-      },
-      {
-        "text": "The graph proves a universal law",
+        "text": "The direction wind always blows",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "In this investigation, higher ramps were associated with greater travel distance",
-      "Higher ramps always make every car travel farther",
-      "Ramp height is the only factor that ever matters",
-      "The graph proves a universal law"
+      "The height of each plant",
+      "The order of life-cycle stages",
+      "The exact time each stage lasts",
+      "The direction wind always blows"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The conclusion should stay within the evidence collected.",
-      "hint": "Describe this data set, not every future case."
+      "summary": "The arrows connect one life-cycle stage to the next; no durations or heights are shown.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "The conclusion should stay within the evidence collected.",
-      "hint": "Describe this data set, not every future case."
+      "summary": "The arrows connect one life-cycle stage to the next; no durations or heights are shown.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 33,
     "sequencePriority": 33,
     "quality_schema": "skillr-actual-v6",
@@ -2019,53 +2053,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "You are building a model of a flower to show where pollen is produced. What should the model emphasise?",
-    "audio_prompt": "You are building a model of a flower to show where pollen is produced. What should the model emphasise?",
-    "audioPrompt": "You are building a model of a flower to show where pollen is produced. What should the model emphasise?",
+    "skill": "models",
+    "question": "A frog model is missing a stage: eggs → ? → young frog → adult frog. Which model piece belongs in the gap?",
+    "audio_prompt": "A frog model is missing a stage: eggs → ? → young frog → adult frog. Which model piece belongs in the gap?",
+    "audioPrompt": "A frog model is missing a stage: eggs → ? → young frog → adult frog. Which model piece belongs in the gap?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p034",
+      "alt_text": "Frog life stages. Eggs then ? then Young frog then Adult frog."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Frog life stages. Eggs then ? then Young frog then Adult frog.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p034\"/></svg>",
     "answers": [
       {
-        "text": "The colour of the classroom",
+        "text": "Chick",
         "is_correct": false
       },
       {
-        "text": "Every cell in the flower",
+        "text": "Adult butterfly",
         "is_correct": false
       },
       {
-        "text": "Unrelated decorations",
-        "is_correct": false
-      },
-      {
-        "text": "The relevant flower structures and labels",
+        "text": "Tadpole",
         "is_correct": true
+      },
+      {
+        "text": "Seedling",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The colour of the classroom",
-      "Every cell in the flower",
-      "Unrelated decorations",
-      "The relevant flower structures and labels"
+      "Chick",
+      "Adult butterfly",
+      "Tadpole",
+      "Seedling"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A useful model highlights features needed for the explanation.",
-      "hint": "Match model detail to purpose."
+      "summary": "A frog hatches as a tadpole before developing into a young frog.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "A useful model highlights features needed for the explanation.",
-      "hint": "Match model detail to purpose."
+      "summary": "A frog hatches as a tadpole before developing into a young frog.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 34,
     "sequencePriority": 34,
     "quality_schema": "skillr-actual-v6",
@@ -2080,10 +2116,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "A graph has values 10, 20, 30 but the axis uses 0, 10, 50, 60 at equal spacing. What should be fixed?",
-    "audio_prompt": "A graph has values 10, 20, 30 but the axis uses 0, 10, 50, 60 at equal spacing. What should be fixed?",
-    "audioPrompt": "A graph has values 10, 20, 30 but the axis uses 0, 10, 50, 60 at equal spacing. What should be fixed?",
+    "skill": "models",
+    "question": "A clay tadpole is much larger than a real tadpole. What can the labelled model still help show?",
+    "audio_prompt": "A clay tadpole is much larger than a real tadpole. What can the labelled model still help show?",
+    "audioPrompt": "A clay tadpole is much larger than a real tadpole. What can the labelled model still help show?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2091,42 +2127,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Change the title colour",
+        "text": "Its exact real-life mass",
         "is_correct": false
       },
       {
-        "text": "Remove the axis",
+        "text": "Its true swimming speed",
         "is_correct": false
       },
       {
-        "text": "Use equal numerical intervals at equal visual spacing",
+        "text": "Its tail and developing legs",
         "is_correct": true
       },
       {
-        "text": "Make bars wider",
+        "text": "The exact number of days it will live",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Change the title colour",
-      "Remove the axis",
-      "Use equal numerical intervals at equal visual spacing",
-      "Make bars wider"
+      "Its exact real-life mass",
+      "Its true swimming speed",
+      "Its tail and developing legs",
+      "The exact number of days it will live"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "The scale should progress consistently so values are represented honestly.",
-      "hint": "Fix the scale sequence."
+      "summary": "An enlarged model can show body features even when its size is not realistic.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "The scale should progress consistently so values are represented honestly.",
-      "hint": "Fix the scale sequence."
+      "summary": "An enlarged model can show body features even when its size is not realistic.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 35,
     "sequencePriority": 35,
     "quality_schema": "skillr-actual-v6",
@@ -2141,10 +2177,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "A class wants to show how Moon phases follow one another. Which representation is strongest?",
-    "audio_prompt": "A class wants to show how Moon phases follow one another. Which representation is strongest?",
-    "audioPrompt": "A class wants to show how Moon phases follow one another. Which representation is strongest?",
+    "skill": "models",
+    "question": "A diagram shows a warmer cup touching a cooler spoon. Which arrow represents heat transfer at first?",
+    "audio_prompt": "A diagram shows a warmer cup touching a cooler spoon. Which arrow represents heat transfer at first?",
+    "audioPrompt": "A diagram shows a warmer cup touching a cooler spoon. Which arrow represents heat transfer at first?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2152,42 +2188,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A ruler",
+        "text": "From the spoon to the cup",
         "is_correct": false
       },
       {
-        "text": "An ordered visual model showing the phase sequence",
+        "text": "From the cup to the spoon",
         "is_correct": true
       },
       {
-        "text": "A bar graph of unrelated masses",
+        "text": "From the cooler spoon to the warmer cup until the cup is hotter",
         "is_correct": false
       },
       {
-        "text": "A table with no images or labels",
+        "text": "No heat transfer because both objects are solid",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A ruler",
-      "An ordered visual model showing the phase sequence",
-      "A bar graph of unrelated masses",
-      "A table with no images or labels"
+      "From the spoon to the cup",
+      "From the cup to the spoon",
+      "From the cooler spoon to the warmer cup until the cup is hotter",
+      "No heat transfer because both objects are solid"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "An ordered model can show the sequence and relationship among phases.",
-      "hint": "Use a representation suited to sequence."
+      "summary": "Heat transfers from the warmer object to the cooler one while they are at different temperatures.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "An ordered model can show the sequence and relationship among phases.",
-      "hint": "Use a representation suited to sequence."
+      "summary": "Heat transfers from the warmer object to the cooler one while they are at different temperatures.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 36,
     "sequencePriority": 36,
     "quality_schema": "skillr-actual-v6",
@@ -2202,10 +2238,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "A student says, “My model is wrong because it is smaller than the real volcano.” What is the best response?",
-    "audio_prompt": "A student says, “My model is wrong because it is smaller than the real volcano.” What is the best response?",
-    "audioPrompt": "A student says, “My model is wrong because it is smaller than the real volcano.” What is the best response?",
+    "skill": "models",
+    "question": "A model map uses dots for sandy soil and stripes for clay soil. What does its key explain?",
+    "audio_prompt": "A model map uses dots for sandy soil and stripes for clay soil. What does its key explain?",
+    "audioPrompt": "A model map uses dots for sandy soil and stripes for clay soil. What does its key explain?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2213,42 +2249,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Models can use a different scale while still representing important features",
+        "text": "How old every soil grain is",
+        "is_correct": false
+      },
+      {
+        "text": "The exact mass of all the soil",
+        "is_correct": false
+      },
+      {
+        "text": "How fast every plant grows",
+        "is_correct": false
+      },
+      {
+        "text": "Which soil type each pattern represents",
         "is_correct": true
-      },
-      {
-        "text": "All models must be full size",
-        "is_correct": false
-      },
-      {
-        "text": "A smaller model is useless",
-        "is_correct": false
-      },
-      {
-        "text": "Scale is never relevant",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Models can use a different scale while still representing important features",
-      "All models must be full size",
-      "A smaller model is useless",
-      "Scale is never relevant"
+      "How old every soil grain is",
+      "The exact mass of all the soil",
+      "How fast every plant grows",
+      "Which soil type each pattern represents"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Models often change scale so large systems can be studied.",
-      "hint": "A model represents; it does not duplicate."
+      "summary": "A map key tells the reader what each symbol or pattern stands for.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "Models often change scale so large systems can be studied.",
-      "hint": "A model represents; it does not duplicate."
+      "summary": "A map key tells the reader what each symbol or pattern stands for.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 37,
     "sequencePriority": 37,
     "quality_schema": "skillr-actual-v6",
@@ -2263,53 +2299,55 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "A results table has temperatures but no units. What is the best revision?",
-    "audio_prompt": "A results table has temperatures but no units. What is the best revision?",
-    "audioPrompt": "A results table has temperatures but no units. What is the best revision?",
+    "skill": "models",
+    "question": "A state-change model reads ice → liquid water. Which arrow label fits?",
+    "audio_prompt": "A state-change model reads ice → liquid water. Which arrow label fits?",
+    "audioPrompt": "A state-change model reads ice → liquid water. Which arrow label fits?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p038",
+      "alt_text": "Change of state. Ice then Liquid water."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Change of state. Ice then Liquid water.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p038\"/></svg>",
     "answers": [
       {
-        "text": "Add more rows only",
+        "text": "Removing heat: growing",
         "is_correct": false
       },
       {
-        "text": "Change all numbers",
-        "is_correct": false
-      },
-      {
-        "text": "Remove the heading",
-        "is_correct": false
-      },
-      {
-        "text": "Label the heading “Temperature (°C)”",
+        "text": "Adding heat: melting",
         "is_correct": true
+      },
+      {
+        "text": "Removing heat: melting",
+        "is_correct": false
+      },
+      {
+        "text": "Adding heat: freezing",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Add more rows only",
-      "Change all numbers",
-      "Remove the heading",
-      "Label the heading “Temperature (°C)”"
+      "Removing heat: growing",
+      "Adding heat: melting",
+      "Removing heat: melting",
+      "Adding heat: freezing"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Units make the values interpretable and comparable.",
-      "hint": "Add the unit to the heading."
+      "summary": "Ice changes from solid to liquid as it gains heat and melts.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "Units make the values interpretable and comparable.",
-      "hint": "Add the unit to the heading."
+      "summary": "Ice changes from solid to liquid as it gains heat and melts.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 38,
     "sequencePriority": 38,
     "quality_schema": "skillr-actual-v6",
@@ -2324,10 +2362,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "A graph suggests one plant grew much taller, but the table shows similar heights. What should you do?",
-    "audio_prompt": "A graph suggests one plant grew much taller, but the table shows similar heights. What should you do?",
-    "audioPrompt": "A graph suggests one plant grew much taller, but the table shows similar heights. What should you do?",
+    "skill": "models",
+    "question": "A class makes plant models from craft materials. Which feature matters for showing a seedling?",
+    "audio_prompt": "A class makes plant models from craft materials. Which feature matters for showing a seedling?",
+    "audioPrompt": "A class makes plant models from craft materials. Which feature matters for showing a seedling?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2335,42 +2373,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Delete the table",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the more dramatic result",
-        "is_correct": false
-      },
-      {
-        "text": "Check for a plotting or scale error before interpreting the graph",
+        "text": "Roots and a young shoot are labelled.",
         "is_correct": true
       },
       {
-        "text": "Trust the graph automatically",
+        "text": "The pot is larger than all other models.",
+        "is_correct": false
+      },
+      {
+        "text": "Only a fully open flower is labelled.",
+        "is_correct": false
+      },
+      {
+        "text": "Only fruit and seeds are labelled.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Delete the table",
-      "Choose the more dramatic result",
-      "Check for a plotting or scale error before interpreting the graph",
-      "Trust the graph automatically"
+      "Roots and a young shoot are labelled.",
+      "The pot is larger than all other models.",
+      "Only a fully open flower is labelled.",
+      "Only fruit and seeds are labelled."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Conflicting representations should be checked against the original data.",
-      "hint": "Return to the source values."
+      "summary": "Roots and a young shoot help the model represent the seedling stage.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "Conflicting representations should be checked against the original data.",
-      "hint": "Return to the source values."
+      "summary": "Roots and a young shoot help the model represent the seedling stage.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 39,
     "sequencePriority": 39,
     "quality_schema": "skillr-actual-v6",
@@ -2385,10 +2423,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "practice",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which statement best uses both a model and data?",
-    "audio_prompt": "Which statement best uses both a model and data?",
-    "audioPrompt": "Which statement best uses both a model and data?",
+    "skill": "models",
+    "question": "A diagram places a seed after a mature plant but has no arrow back to a seedling. What would make the cycle clearer?",
+    "audio_prompt": "A diagram places a seed after a mature plant but has no arrow back to a seedling. What would make the cycle clearer?",
+    "audioPrompt": "A diagram places a seed after a mature plant but has no arrow back to a seedling. What would make the cycle clearer?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2396,44 +2434,534 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "“Models and data are the same thing.”",
-        "is_correct": false
-      },
-      {
-        "text": "“The model shows the pathway, while our measurements show how much water moved.”",
+        "text": "Add an arrow from seed to seedling.",
         "is_correct": true
       },
       {
-        "text": "“The model replaces the measurements.”",
+        "text": "Reverse the arrow from adult plant to seed.",
         "is_correct": false
       },
       {
-        "text": "“The data prove the model is perfect.”",
+        "text": "Remove the mature plant.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace every label with a number.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "“Models and data are the same thing.”",
-      "“The model shows the pathway, while our measurements show how much water moved.”",
-      "“The model replaces the measurements.”",
-      "“The data prove the model is perfect.”"
+      "Add an arrow from seed to seedling.",
+      "Reverse the arrow from adult plant to seed.",
+      "Remove the mature plant.",
+      "Replace every label with a number."
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A life-cycle diagram should show that a seed can grow into a new seedling, continuing the cycle.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "structuredExplanation": {
+      "summary": "A life-cycle diagram should show that a seed can grow into a new seedling, continuing the cycle.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 40,
+    "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-041",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "models",
+    "question": "A model sorts a stone and wooden block under Solid, and water and oil under Liquid. Which label describes the liquid group?",
+    "audio_prompt": "A model sorts a stone and wooden block under Solid, and water and oil under Liquid. Which label describes the liquid group?",
+    "audioPrompt": "A model sorts a stone and wooden block under Solid, and water and oil under Liquid. Which label describes the liquid group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Always has a square shape",
+        "is_correct": false
+      },
+      {
+        "text": "Cannot be poured",
+        "is_correct": false
+      },
+      {
+        "text": "Flows and takes the container's shape",
+        "is_correct": true
+      },
+      {
+        "text": "Always feels cold",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Always has a square shape",
+      "Cannot be poured",
+      "Flows and takes the container's shape",
+      "Always feels cold"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Liquids flow and take the shape of their container; temperature and colour do not define them.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "structuredExplanation": {
+      "summary": "Liquids flow and take the shape of their container; temperature and colour do not define them.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 41,
+    "sequencePriority": 41,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-042",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "models",
+    "question": "A model shows water → ice. Which change should its caption describe?",
+    "audio_prompt": "A model shows water → ice. Which change should its caption describe?",
+    "audioPrompt": "A model shows water → ice. Which change should its caption describe?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "p042",
+      "alt_text": "Change of state. Liquid water then Ice."
+    },
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Change of state. Liquid water then Ice.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#p042\"/></svg>",
+    "answers": [
+      {
+        "text": "Ice forms when water gains heat.",
+        "is_correct": false
+      },
+      {
+        "text": "Water grows into a living thing.",
+        "is_correct": false
+      },
+      {
+        "text": "Liquid water melts when heat is removed.",
+        "is_correct": false
+      },
+      {
+        "text": "Liquid water freezes when enough heat is removed.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Ice forms when water gains heat.",
+      "Water grows into a living thing.",
+      "Liquid water melts when heat is removed.",
+      "Liquid water freezes when enough heat is removed."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Freezing is a liquid-to-solid change caused by removing enough heat.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "structuredExplanation": {
+      "summary": "Freezing is a liquid-to-solid change caused by removing enough heat.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 42,
+    "sequencePriority": 42,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-043",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "models",
+    "question": "A chicken life-cycle model has egg, chick and adult chicken. Which feature shows it is a cycle?",
+    "audio_prompt": "A chicken life-cycle model has egg, chick and adult chicken. Which feature shows it is a cycle?",
+    "audioPrompt": "A chicken life-cycle model has egg, chick and adult chicken. Which feature shows it is a cycle?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "An arrow from the adult to a new egg",
+        "is_correct": true
+      },
+      {
+        "text": "Giving each piece a different colour",
+        "is_correct": false
+      },
+      {
+        "text": "Making the egg the largest piece",
+        "is_correct": false
+      },
+      {
+        "text": "Removing the chick stage",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "An arrow from the adult to a new egg",
+      "Giving each piece a different colour",
+      "Making the egg the largest piece",
+      "Removing the chick stage"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The adult can produce eggs, linking the end of one sequence to the start of another.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "structuredExplanation": {
+      "summary": "The adult can produce eggs, linking the end of one sequence to the start of another.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 43,
+    "sequencePriority": 43,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-044",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "models",
+    "question": "A labelled drawing shows soil around roots. Which detail helps explain where the plant takes in water?",
+    "audio_prompt": "A labelled drawing shows soil around roots. Which detail helps explain where the plant takes in water?",
+    "audioPrompt": "A labelled drawing shows soil around roots. Which detail helps explain where the plant takes in water?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Arrows from roots into a dry rock only",
+        "is_correct": false
+      },
+      {
+        "text": "Arrows from water in the soil into the roots",
+        "is_correct": true
+      },
+      {
+        "text": "Arrows showing water moving only from leaves to soil",
+        "is_correct": false
+      },
+      {
+        "text": "A label giving only the colour of the leaves",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Arrows from roots into a dry rock only",
+      "Arrows from water in the soil into the roots",
+      "Arrows showing water moving only from leaves to soil",
+      "A label giving only the colour of the leaves"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Models explain relationships; data provide observations or measurements.",
-      "hint": "Use each for its purpose."
+      "summary": "Water in the soil enters through the roots. The arrows show that relationship.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "Models explain relationships; data provide observations or measurements.",
-      "hint": "Use each for its purpose."
+      "summary": "Water in the soil enters through the roots. The arrows show that relationship.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
-    "sequence_priority": 40,
-    "sequencePriority": 40,
+    "sequence_priority": 44,
+    "sequencePriority": 44,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-045",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "models",
+    "question": "A plastic flower model has labelled petals but no seeds. Can it show the whole flowering-plant life cycle?",
+    "audio_prompt": "A plastic flower model has labelled petals but no seeds. Can it show the whole flowering-plant life cycle?",
+    "audioPrompt": "A plastic flower model has labelled petals but no seeds. Can it show the whole flowering-plant life cycle?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Yes; plastic flowers grow new seeds.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; petals show every stage.",
+        "is_correct": false
+      },
+      {
+        "text": "No; all models must be life-sized.",
+        "is_correct": false
+      },
+      {
+        "text": "No; it shows a flower's parts, not all life stages.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Yes; plastic flowers grow new seeds.",
+      "Yes; petals show every stage.",
+      "No; all models must be life-sized.",
+      "No; it shows a flower's parts, not all life stages."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A model of one part is useful for that part, but it does not represent every life-cycle stage.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "structuredExplanation": {
+      "summary": "A model of one part is useful for that part, but it does not represent every life-cycle stage.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 45,
+    "sequencePriority": 45,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-046",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "models",
+    "question": "A school map marks sandy soil at the sandpit and clay soil near the gate. What question can this model answer?",
+    "audio_prompt": "A school map marks sandy soil at the sandpit and clay soil near the gate. What question can this model answer?",
+    "audioPrompt": "A school map marks sandy soil at the sandpit and clay soil near the gate. What question can this model answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "How much water will fall next month?",
+        "is_correct": false
+      },
+      {
+        "text": "Which soil is always best for every plant?",
+        "is_correct": false
+      },
+      {
+        "text": "Where were those soil types observed?",
+        "is_correct": true
+      },
+      {
+        "text": "How many years old is the school?",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "How much water will fall next month?",
+      "Which soil is always best for every plant?",
+      "Where were those soil types observed?",
+      "How many years old is the school?"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The map connects observed soil types with their locations. It does not supply ages or future weather.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "structuredExplanation": {
+      "summary": "The map connects observed soil types with their locations. It does not supply ages or future weather.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 46,
+    "sequencePriority": 46,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-047",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "models",
+    "question": "Two models show the same butterfly life cycle. One is a drawing; one uses clay pieces and arrows. What must both show correctly?",
+    "audio_prompt": "Two models show the same butterfly life cycle. One is a drawing; one uses clay pieces and arrows. What must both show correctly?",
+    "audioPrompt": "Two models show the same butterfly life cycle. One is a drawing; one uses clay pieces and arrows. What must both show correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The order of the stages",
+        "is_correct": true
+      },
+      {
+        "text": "Exactly the same colours",
+        "is_correct": false
+      },
+      {
+        "text": "Exactly the same size",
+        "is_correct": false
+      },
+      {
+        "text": "Exactly the same materials",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The order of the stages",
+      "Exactly the same colours",
+      "Exactly the same size",
+      "Exactly the same materials"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Different kinds of models can represent the same cycle if the stages and their links are accurate.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "structuredExplanation": {
+      "summary": "Different kinds of models can represent the same cycle if the stages and their links are accurate.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 47,
+    "sequencePriority": 47,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i04-p-048",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I04",
+    "curriculumCode": "AC9S3I04",
+    "bank": "practice",
+    "skill": "models",
+    "question": "A diagram labels an ice cube Solid and a puddle Liquid, with an arrow between them. What extra label would explain the change?",
+    "audio_prompt": "A diagram labels an ice cube Solid and a puddle Liquid, with an arrow between them. What extra label would explain the change?",
+    "audioPrompt": "A diagram labels an ice cube Solid and a puddle Liquid, with an arrow between them. What extra label would explain the change?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Freezing as heat is added",
+        "is_correct": false
+      },
+      {
+        "text": "Growing as soil is added",
+        "is_correct": false
+      },
+      {
+        "text": "Melting as heat is removed",
+        "is_correct": false
+      },
+      {
+        "text": "Melting as heat is added",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Freezing as heat is added",
+      "Growing as soil is added",
+      "Melting as heat is removed",
+      "Melting as heat is added"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The cube becomes liquid water by melting as heat is transferred into it.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "structuredExplanation": {
+      "summary": "The cube becomes liquid water by melting as heat is transferred into it.",
+      "hint": "Use the labels and arrows to work out what each part represents."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 48,
+    "sequencePriority": 48,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
@@ -2446,58 +2974,61 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which representation best compares rainfall totals for four months?",
-    "audio_prompt": "Which representation best compares rainfall totals for four months?",
-    "audioPrompt": "Which representation best compares rainfall totals for four months?",
+    "skill": "tables",
+    "question": "A table lists beetles: under log 8, in grass 5, near path 2. How many were under the log and in the grass together?",
+    "audio_prompt": "A table lists beetles: under log 8, in grass 5, near path 2. How many were under the log and in the grass together?",
+    "audioPrompt": "A table lists beetles: under log 8, in grass 5, near path 2. How many were under the log and in the grass together?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "t001",
+      "alt_text": "Beetle observations. Place, Number; Under log, 8; Grass, 5; Near path, 2."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Beetle observations. Place, Number; Under log, 8; Grass, 5; Near path, 2.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#t001\"/></svg>",
     "answers": [
       {
-        "text": "A stopwatch",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "A narrative only",
+        "text": "15",
         "is_correct": false
       },
       {
-        "text": "A column graph",
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "13",
         "is_correct": true
-      },
-      {
-        "text": "A labelled flower diagram",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A stopwatch",
-      "A narrative only",
-      "A column graph",
-      "A labelled flower diagram"
+      "10",
+      "15",
+      "7",
+      "13"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A column graph compares category values clearly.",
-      "hint": "Think bars for categories."
+      "summary": "Add the two requested rows: 8 plus 5 is 13 beetles.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "A column graph compares category values clearly.",
-      "hint": "Think bars for categories."
+      "summary": "Add the two requested rows: 8 plus 5 is 13 beetles.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 1,
     "sequencePriority": 1,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i04-t-002",
@@ -2506,10 +3037,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "Why must a graph scale use equal intervals?",
-    "audio_prompt": "Why must a graph scale use equal intervals?",
-    "audioPrompt": "Why must a graph scale use equal intervals?",
+    "skill": "tables",
+    "question": "A table has headings Sample and Texture. Which entry belongs in the Texture column for a rough rock?",
+    "audio_prompt": "A table has headings Sample and Texture. Which entry belongs in the Texture column for a rough rock?",
+    "audioPrompt": "A table has headings Sample and Texture. Which entry belongs in the Texture column for a rough rock?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2517,47 +3048,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "To remove the need for labels",
+        "text": "4 minutes",
         "is_correct": false
       },
       {
-        "text": "So visual distances represent numerical differences consistently",
+        "text": "Rough",
         "is_correct": true
       },
       {
-        "text": "To make it colourful",
+        "text": "12 cm",
         "is_correct": false
       },
       {
-        "text": "To increase values",
+        "text": "Sample C",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "To remove the need for labels",
-      "So visual distances represent numerical differences consistently",
-      "To make it colourful",
-      "To increase values"
+      "4 minutes",
+      "Rough",
+      "12 cm",
+      "Sample C"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Consistent intervals prevent misleading comparisons.",
-      "hint": "Same numerical jump, same spacing."
+      "summary": "Texture describes the surface, so rough belongs in that column.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "Consistent intervals prevent misleading comparisons.",
-      "hint": "Same numerical jump, same spacing."
+      "summary": "Texture describes the surface, so rough belongs in that column.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 2,
     "sequencePriority": 2,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i04-t-003",
@@ -2566,58 +3098,61 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "A student records temperature each day. Which table heading is clearest?",
-    "audio_prompt": "A student records temperature each day. Which table heading is clearest?",
-    "audioPrompt": "A student records temperature each day. Which table heading is clearest?",
+    "skill": "tables",
+    "question": "A cup's recorded temperatures are 36°C at 0 minutes, 30°C at 5 minutes and 26°C at 10 minutes. Which pattern is shown?",
+    "audio_prompt": "A cup's recorded temperatures are 36°C at 0 minutes, 30°C at 5 minutes and 26°C at 10 minutes. Which pattern is shown?",
+    "audioPrompt": "A cup's recorded temperatures are 36°C at 0 minutes, 30°C at 5 minutes and 26°C at 10 minutes. Which pattern is shown?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "t003",
+      "alt_text": "Cooling cup. Time (minutes), Temperature (°C); 0, 36; 5, 30; 10, 26."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Cooling cup. Time (minutes), Temperature (°C); 0, 36; 5, 30; 10, 26.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#t003\"/></svg>",
     "answers": [
       {
-        "text": "Day | Temperature (°C)",
+        "text": "The cup cooled by exactly 6°C each time.",
+        "is_correct": false
+      },
+      {
+        "text": "The temperature stayed at 30°C.",
+        "is_correct": false
+      },
+      {
+        "text": "The cup warmed at each check.",
+        "is_correct": false
+      },
+      {
+        "text": "The cup cooled at each check.",
         "is_correct": true
-      },
-      {
-        "text": "Thing | Number",
-        "is_correct": false
-      },
-      {
-        "text": "Test | Stuff",
-        "is_correct": false
-      },
-      {
-        "text": "Data | Good",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Day | Temperature (°C)",
-      "Thing | Number",
-      "Test | Stuff",
-      "Data | Good"
+      "The cup cooled by exactly 6°C each time.",
+      "The temperature stayed at 30°C.",
+      "The cup warmed at each check.",
+      "The cup cooled at each check."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The heading names the variable and unit.",
-      "hint": "Be specific."
+      "summary": "The temperatures fall from 36 to 30 to 26°C, but the two drops are not equal.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "The heading names the variable and unit.",
-      "hint": "Be specific."
+      "summary": "The temperatures fall from 36 to 30 to 26°C, but the two drops are not equal.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 3,
     "sequencePriority": 3,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i04-t-004",
@@ -2626,10 +3161,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "A bar graph has heights 3, 9 and 6. Which category has the greatest value?",
-    "audio_prompt": "A bar graph has heights 3, 9 and 6. Which category has the greatest value?",
-    "audioPrompt": "A bar graph has heights 3, 9 and 6. Which category has the greatest value?",
+    "skill": "tables",
+    "question": "A notebook records soil A: 25 mL and soil B: 45 mL. Which table has copied the readings correctly?",
+    "audio_prompt": "A notebook records soil A: 25 mL and soil B: 45 mL. Which table has copied the readings correctly?",
+    "audioPrompt": "A notebook records soil A: 25 mL and soil B: 45 mL. Which table has copied the readings correctly?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2637,47 +3172,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The 6-unit bar",
-        "is_correct": false
-      },
-      {
-        "text": "The 3-unit bar",
-        "is_correct": false
-      },
-      {
-        "text": "All are equal",
-        "is_correct": false
-      },
-      {
-        "text": "The 9-unit bar",
+        "text": "A: 25 mL; B: 45 mL",
         "is_correct": true
+      },
+      {
+        "text": "A: 20 mL; B: 45 mL",
+        "is_correct": false
+      },
+      {
+        "text": "A: 45 mL; B: 25 mL",
+        "is_correct": false
+      },
+      {
+        "text": "A: 70 mL; B: 70 mL",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The 6-unit bar",
-      "The 3-unit bar",
-      "All are equal",
-      "The 9-unit bar"
+      "A: 25 mL; B: 45 mL",
+      "A: 20 mL; B: 45 mL",
+      "A: 45 mL; B: 25 mL",
+      "A: 70 mL; B: 70 mL"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The tallest bar represents the greatest value.",
-      "hint": "Tallest bar."
+      "summary": "Each sample must keep its own measured volume.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "The tallest bar represents the greatest value.",
-      "hint": "Tallest bar."
+      "summary": "Each sample must keep its own measured volume.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 4,
     "sequencePriority": 4,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i04-t-005",
@@ -2686,10 +3222,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which is the best model for showing how gears interact?",
-    "audio_prompt": "Which is the best model for showing how gears interact?",
-    "audioPrompt": "Which is the best model for showing how gears interact?",
+    "skill": "tables",
+    "question": "A class records the colour and texture of three rocks. Which headings will organise both observations?",
+    "audio_prompt": "A class records the colour and texture of three rocks. Which headings will organise both observations?",
+    "audioPrompt": "A class records the colour and texture of three rocks. Which headings will organise both observations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2697,47 +3233,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A mass table",
+        "text": "Rock; height; leaf count",
         "is_correct": false
       },
       {
-        "text": "A colour list",
+        "text": "Rock; colour; melting time",
         "is_correct": false
       },
       {
-        "text": "A working physical gear model",
+        "text": "Rock; colour; texture",
         "is_correct": true
       },
       {
-        "text": "A rainfall graph",
+        "text": "Colour; temperature; day",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A mass table",
-      "A colour list",
-      "A working physical gear model",
-      "A rainfall graph"
+      "Rock; height; leaf count",
+      "Rock; colour; melting time",
+      "Rock; colour; texture",
+      "Colour; temperature; day"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "A physical model can represent motion and interaction.",
-      "hint": "Show moving relationships."
+      "summary": "A rock label plus separate colour and texture columns keeps the observations clear.",
+      "hint": "Match each heading to its row before comparing the values."
     },
     "structuredExplanation": {
-      "summary": "A physical model can represent motion and interaction.",
-      "hint": "Show moving relationships."
+      "summary": "A rock label plus separate colour and texture columns keeps the observations clear.",
+      "hint": "Match each heading to its row before comparing the values."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 5,
     "sequencePriority": 5,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "apply"
   },
   {
     "id": "ac9s3i04-t-006",
@@ -2746,58 +3283,61 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "What should you do if graph values do not match the table?",
-    "audio_prompt": "What should you do if graph values do not match the table?",
-    "audioPrompt": "What should you do if graph values do not match the table?",
+    "skill": "column graphs",
+    "question": "Read the column graph of leaf counts. How many leaves does plant C have?",
+    "audio_prompt": "Read the column graph of leaf counts. How many leaves does plant C have?",
+    "audioPrompt": "Read the column graph of leaf counts. How many leaves does plant C have?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "t006",
+      "alt_text": "Leaf counts. Vertical scale: 0 to 8 Number of leaves, in steps of 2. A: 4; B: 6; C: 8."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Leaf counts. Vertical scale: 0 to 8 Number of leaves, in steps of 2. A: 4; B: 6; C: 8.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#t006\"/></svg>",
     "answers": [
       {
-        "text": "Ignore the mismatch",
+        "text": "6",
         "is_correct": false
       },
       {
-        "text": "Correct the graph using the source data",
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "8",
         "is_correct": true
       },
       {
-        "text": "Change the table to match the graph",
-        "is_correct": false
-      },
-      {
-        "text": "Keep whichever looks better",
+        "text": "4",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Ignore the mismatch",
-      "Correct the graph using the source data",
-      "Change the table to match the graph",
-      "Keep whichever looks better"
+      "6",
+      "18",
+      "8",
+      "4"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The representation should accurately reflect recorded evidence.",
-      "hint": "Source data first."
+      "summary": "Plant C's column reaches 8 on the leaf-count scale.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "The representation should accurately reflect recorded evidence.",
-      "hint": "Source data first."
+      "summary": "Plant C's column reaches 8 on the leaf-count scale.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 6,
     "sequencePriority": 6,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "apply"
   },
   {
     "id": "ac9s3i04-t-007",
@@ -2806,58 +3346,61 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "A graph shows bird counts rising from 2 to 4 to 6 to 8. What pattern is shown?",
-    "audio_prompt": "A graph shows bird counts rising from 2 to 4 to 6 to 8. What pattern is shown?",
-    "audioPrompt": "A graph shows bird counts rising from 2 to 4 to 6 to 8. What pattern is shown?",
+    "skill": "column graphs",
+    "question": "Read the column graph of melting times. Which ice cube took the longest to melt?",
+    "audio_prompt": "Read the column graph of melting times. Which ice cube took the longest to melt?",
+    "audioPrompt": "Read the column graph of melting times. Which ice cube took the longest to melt?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "t007",
+      "alt_text": "Time for ice to melt. Vertical scale: 0 to 12 Time (minutes), in steps of 2. Small: 4; Medium: 8; Large: 12."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Time for ice to melt. Vertical scale: 0 to 12 Time (minutes), in steps of 2. Small: 4; Medium: 8; Large: 12.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#t007\"/></svg>",
     "answers": [
       {
-        "text": "An increase of 2 each time",
+        "text": "Medium",
+        "is_correct": false
+      },
+      {
+        "text": "Small",
+        "is_correct": false
+      },
+      {
+        "text": "All three",
+        "is_correct": false
+      },
+      {
+        "text": "Large",
         "is_correct": true
-      },
-      {
-        "text": "A decrease of 2",
-        "is_correct": false
-      },
-      {
-        "text": "No pattern",
-        "is_correct": false
-      },
-      {
-        "text": "All values equal",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "An increase of 2 each time",
-      "A decrease of 2",
-      "No pattern",
-      "All values equal"
+      "Medium",
+      "Small",
+      "All three",
+      "Large"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Each successive count is 2 higher.",
-      "hint": "Compare consecutive values."
+      "summary": "The large cube has the highest time, 12 minutes.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "Each successive count is 2 higher.",
-      "hint": "Compare consecutive values."
+      "summary": "The large cube has the highest time, 12 minutes.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 7,
     "sequencePriority": 7,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "apply"
   },
   {
     "id": "ac9s3i04-t-008",
@@ -2866,58 +3409,61 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "Why add a title to a graph?",
-    "audio_prompt": "Why add a title to a graph?",
-    "audioPrompt": "Why add a title to a graph?",
+    "skill": "column graphs",
+    "question": "A table records seedlings: A 3, B 8, C 6. What height should the missing B column reach?",
+    "audio_prompt": "A table records seedlings: A 3, B 8, C 6. What height should the missing B column reach?",
+    "audioPrompt": "A table records seedlings: A 3, B 8, C 6. What height should the missing B column reach?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "t008",
+      "alt_text": "Seedlings in trays. Vertical scale: 0 to 8 Number of seedlings, in steps of 1. A: 3; B: column missing; C: 6."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Seedlings in trays. Vertical scale: 0 to 8 Number of seedlings, in steps of 1. A: 3; B: column missing; C: 6.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#t008\"/></svg>",
     "answers": [
       {
-        "text": "To make bars taller",
+        "text": "6",
         "is_correct": false
       },
       {
-        "text": "To change units",
-        "is_correct": false
-      },
-      {
-        "text": "To prove a claim",
-        "is_correct": false
-      },
-      {
-        "text": "To tell readers what data are being shown",
+        "text": "8",
         "is_correct": true
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "To make bars taller",
-      "To change units",
-      "To prove a claim",
-      "To tell readers what data are being shown"
+      "6",
+      "8",
+      "17",
+      "3"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A title provides context.",
-      "hint": "What is the graph about?"
+      "summary": "The B row records 8 seedlings, so its column reaches 8.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "A title provides context.",
-      "hint": "What is the graph about?"
+      "summary": "The B row records 8 seedlings, so its column reaches 8.",
+      "hint": "Read the category label and the scale from zero."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 8,
     "sequencePriority": 8,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "apply"
   },
   {
     "id": "ac9s3i04-t-009",
@@ -2926,10 +3472,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which representation is best for stages of seed germination?",
-    "audio_prompt": "Which representation is best for stages of seed germination?",
-    "audioPrompt": "Which representation is best for stages of seed germination?",
+    "skill": "column graphs",
+    "question": "A graph scale has equally spaced labels 0, 5, 10, ?, 20. What is the missing label?",
+    "audio_prompt": "A graph scale has equally spaced labels 0, 5, 10, ?, 20. What is the missing label?",
+    "audioPrompt": "A graph scale has equally spaced labels 0, 5, 10, ?, 20. What is the missing label?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2937,47 +3483,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A thermometer",
+        "text": "11",
         "is_correct": false
       },
       {
-        "text": "A mass scale",
+        "text": "12",
         "is_correct": false
       },
       {
-        "text": "An ordered labelled diagram",
+        "text": "15",
         "is_correct": true
       },
       {
-        "text": "A bar graph of shoe sizes",
+        "text": "25",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A thermometer",
-      "A mass scale",
-      "An ordered labelled diagram",
-      "A bar graph of shoe sizes"
+      "11",
+      "12",
+      "15",
+      "25"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "An ordered diagram shows sequence and visible changes.",
-      "hint": "Think stages."
+      "summary": "The labels increase by 5 each time, making the missing value 15.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "An ordered diagram shows sequence and visible changes.",
-      "hint": "Think stages."
+      "summary": "The labels increase by 5 each time, making the missing value 15.",
+      "hint": "Read the category label and the scale from zero."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 9,
     "sequencePriority": 9,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   },
   {
     "id": "ac9s3i04-t-010",
@@ -2986,58 +3533,61 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "A model leaves out many real-world details. Is that always a problem?",
-    "audio_prompt": "A model leaves out many real-world details. Is that always a problem?",
-    "audioPrompt": "A model leaves out many real-world details. Is that always a problem?",
+    "skill": "column graphs",
+    "question": "Read the graph of bird counts. How many more birds were at the garden than the path?",
+    "audio_prompt": "Read the graph of bird counts. How many more birds were at the garden than the path?",
+    "audioPrompt": "Read the graph of bird counts. How many more birds were at the garden than the path?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "t010",
+      "alt_text": "Bird counts. Vertical scale: 0 to 8 Number of birds, in steps of 1. Garden: 8; Path: 5."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Bird counts. Vertical scale: 0 to 8 Number of birds, in steps of 1. Garden: 8; Path: 5.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#t010\"/></svg>",
     "answers": [
       {
-        "text": "No; detail never matters",
+        "text": "8",
         "is_correct": false
       },
       {
-        "text": "No; models often simplify to focus on relevant features",
+        "text": "3",
         "is_correct": true
       },
       {
-        "text": "Yes; every model must include everything",
+        "text": "13",
         "is_correct": false
       },
       {
-        "text": "Yes; simplification makes models false",
+        "text": "5",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "No; detail never matters",
-      "No; models often simplify to focus on relevant features",
-      "Yes; every model must include everything",
-      "Yes; simplification makes models false"
+      "8",
+      "3",
+      "13",
+      "5"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Purposeful simplification can make a model clearer.",
-      "hint": "Match detail to purpose."
+      "summary": "The garden has 8 and the path has 5. The difference is 3 birds.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "Purposeful simplification can make a model clearer.",
-      "hint": "Match detail to purpose."
+      "summary": "The garden has 8 and the path has 5. The difference is 3 birds.",
+      "hint": "Read the category label and the scale from zero."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 10,
     "sequencePriority": 10,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   },
   {
     "id": "ac9s3i04-t-011",
@@ -3046,10 +3596,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which graph feature identifies what each bar stands for?",
-    "audio_prompt": "Which graph feature identifies what each bar stands for?",
-    "audioPrompt": "Which graph feature identifies what each bar stands for?",
+    "skill": "column graphs",
+    "question": "A table says cloth wrap 10 minutes and paper wrap 6 minutes. The graph has both columns at 10. What repair is needed?",
+    "audio_prompt": "A table says cloth wrap 10 minutes and paper wrap 6 minutes. The graph has both columns at 10. What repair is needed?",
+    "audioPrompt": "A table says cloth wrap 10 minutes and paper wrap 6 minutes. The graph has both columns at 10. What repair is needed?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3057,47 +3607,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Category labels",
+        "text": "Lower paper to 6 minutes.",
         "is_correct": true
       },
       {
-        "text": "Border thickness",
+        "text": "Remove the time label.",
         "is_correct": false
       },
       {
-        "text": "Background colour",
+        "text": "Raise both to 16 minutes.",
         "is_correct": false
       },
       {
-        "text": "Page size",
+        "text": "Lower cloth to 6 minutes.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Category labels",
-      "Border thickness",
-      "Background colour",
-      "Page size"
+      "Lower paper to 6 minutes.",
+      "Remove the time label.",
+      "Raise both to 16 minutes.",
+      "Lower cloth to 6 minutes."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Category labels name each bar.",
-      "hint": "What is each bar?"
+      "summary": "The cloth value is correct. Only the paper column must change to match its recorded 6 minutes.",
+      "hint": "Read the category label and the scale from zero."
     },
     "structuredExplanation": {
-      "summary": "Category labels name each bar.",
-      "hint": "What is each bar?"
+      "summary": "The cloth value is correct. Only the paper column must change to match its recorded 6 minutes.",
+      "hint": "Read the category label and the scale from zero."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 11,
     "sequencePriority": 11,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   },
   {
     "id": "ac9s3i04-t-012",
@@ -3106,58 +3657,61 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which statement is safest from a graph of one classroom experiment?",
-    "audio_prompt": "Which statement is safest from a graph of one classroom experiment?",
-    "audioPrompt": "Which statement is safest from a graph of one classroom experiment?",
+    "skill": "models",
+    "question": "A plant model reads seed → seedling → adult plant → seeds. What relationship does it show?",
+    "audio_prompt": "A plant model reads seed → seedling → adult plant → seeds. What relationship does it show?",
+    "audioPrompt": "A plant model reads seed → seedling → adult plant → seeds. What relationship does it show?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "t012",
+      "alt_text": "Plant life stages. Seed then Seedling then Adult plant then Seeds."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Plant life stages. Seed then Seedling then Adult plant then Seeds.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#t012\"/></svg>",
     "answers": [
       {
-        "text": "All warm liquids everywhere always cool faster.",
+        "text": "Plants become animals as they grow.",
         "is_correct": false
       },
       {
-        "text": "The graph proves every future result.",
-        "is_correct": false
-      },
-      {
-        "text": "No other factor can matter.",
-        "is_correct": false
-      },
-      {
-        "text": "In our test, the warmer cup cooled faster at first.",
+        "text": "New seeds can start another plant life cycle.",
         "is_correct": true
+      },
+      {
+        "text": "Seeds are made by rocks.",
+        "is_correct": false
+      },
+      {
+        "text": "Every stage takes one day.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "All warm liquids everywhere always cool faster.",
-      "The graph proves every future result.",
-      "No other factor can matter.",
-      "In our test, the warmer cup cooled faster at first."
+      "Plants become animals as they grow.",
+      "New seeds can start another plant life cycle.",
+      "Seeds are made by rocks.",
+      "Every stage takes one day."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Conclusions should remain within the evidence collected.",
-      "hint": "Avoid universal claims."
+      "summary": "The sequence returns to seeds that can grow into new plants.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "Conclusions should remain within the evidence collected.",
-      "hint": "Avoid universal claims."
+      "summary": "The sequence returns to seeds that can grow into new plants.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 12,
     "sequencePriority": 12,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   },
   {
     "id": "ac9s3i04-t-013",
@@ -3166,10 +3720,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "A student plots 14 as 41. What kind of problem is this?",
-    "audio_prompt": "A student plots 14 as 41. What kind of problem is this?",
-    "audioPrompt": "A student plots 14 as 41. What kind of problem is this?",
+    "skill": "models",
+    "question": "A diagram shows a warmer metal spoon touching a cooler bowl. Which arrow shows the initial heat transfer?",
+    "audio_prompt": "A diagram shows a warmer metal spoon touching a cooler bowl. Which arrow shows the initial heat transfer?",
+    "audioPrompt": "A diagram shows a warmer metal spoon touching a cooler bowl. Which arrow shows the initial heat transfer?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3177,47 +3731,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A better model",
+        "text": "Heat moves only out of the cooler bowl.",
         "is_correct": false
       },
       {
-        "text": "A safety issue",
+        "text": "No transfer can occur between touching objects.",
         "is_correct": false
       },
       {
-        "text": "A data transcription error",
+        "text": "Bowl → spoon",
+        "is_correct": false
+      },
+      {
+        "text": "Spoon → bowl",
         "is_correct": true
-      },
-      {
-        "text": "A new pattern",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A better model",
-      "A safety issue",
-      "A data transcription error",
-      "A new pattern"
+      "Heat moves only out of the cooler bowl.",
+      "No transfer can occur between touching objects.",
+      "Bowl → spoon",
+      "Spoon → bowl"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The value was copied incorrectly.",
-      "hint": "Check source data."
+      "summary": "Heat transfers from the warmer spoon to the cooler bowl.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "The value was copied incorrectly.",
-      "hint": "Check source data."
+      "summary": "Heat transfers from the warmer spoon to the cooler bowl.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 13,
     "sequencePriority": 13,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i04-t-014",
@@ -3226,10 +3781,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "Which representation best shows where roots, stem and leaves are located?",
-    "audio_prompt": "Which representation best shows where roots, stem and leaves are located?",
-    "audioPrompt": "Which representation best shows where roots, stem and leaves are located?",
+    "skill": "models",
+    "question": "A clay frog model has labelled legs and eyes. Which claim about it is reasonable?",
+    "audio_prompt": "A clay frog model has labelled legs and eyes. Which claim about it is reasonable?",
+    "audioPrompt": "A clay frog model has labelled legs and eyes. Which claim about it is reasonable?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3237,47 +3792,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A tally only",
-        "is_correct": false
-      },
-      {
-        "text": "A labelled plant diagram",
+        "text": "It shows body parts but cannot show real growth by itself.",
         "is_correct": true
       },
       {
-        "text": "A column graph",
+        "text": "It proves every frog has the same size.",
         "is_correct": false
       },
       {
-        "text": "A stopwatch reading",
+        "text": "It must weigh the same as a real frog.",
+        "is_correct": false
+      },
+      {
+        "text": "It will grow because it has legs.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A tally only",
-      "A labelled plant diagram",
-      "A column graph",
-      "A stopwatch reading"
+      "It shows body parts but cannot show real growth by itself.",
+      "It proves every frog has the same size.",
+      "It must weigh the same as a real frog.",
+      "It will grow because it has legs."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A labelled diagram shows spatial relationships.",
-      "hint": "Show parts and positions."
+      "summary": "A model represents selected features. Clay does not undergo a frog's living growth.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "A labelled diagram shows spatial relationships.",
-      "hint": "Show parts and positions."
+      "summary": "A model represents selected features. Clay does not undergo a frog's living growth.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 14,
     "sequencePriority": 14,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i04-t-015",
@@ -3286,10 +3842,10 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "Why might scientists use both tables and graphs?",
-    "audio_prompt": "Why might scientists use both tables and graphs?",
-    "audioPrompt": "Why might scientists use both tables and graphs?",
+    "skill": "models",
+    "question": "A soil map uses triangles for sandy soil and circles for clay soil. What should be added so readers understand the symbols?",
+    "audio_prompt": "A soil map uses triangles for sandy soil and circles for clay soil. What should be added so readers understand the symbols?",
+    "audioPrompt": "A soil map uses triangles for sandy soil and circles for clay soil. What should be added so readers understand the symbols?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3297,47 +3853,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Tables preserve exact values; graphs can make patterns easier to see",
+        "text": "A temperature scale without readings",
+        "is_correct": false
+      },
+      {
+        "text": "An arrow labelled melting",
+        "is_correct": false
+      },
+      {
+        "text": "A key linking each symbol to a soil type",
         "is_correct": true
       },
       {
-        "text": "Graphs always replace tables",
-        "is_correct": false
-      },
-      {
-        "text": "Tables cannot contain measurements",
-        "is_correct": false
-      },
-      {
-        "text": "Both are only decorations",
+        "text": "A list of soil names without their symbols",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Tables preserve exact values; graphs can make patterns easier to see",
-      "Graphs always replace tables",
-      "Tables cannot contain measurements",
-      "Both are only decorations"
+      "A temperature scale without readings",
+      "An arrow labelled melting",
+      "A key linking each symbol to a soil type",
+      "A list of soil names without their symbols"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Different representations support different reading tasks.",
-      "hint": "Exact values versus visual pattern."
+      "summary": "A key explains the meaning of each map symbol.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "Different representations support different reading tasks.",
-      "hint": "Exact values versus visual pattern."
+      "summary": "A key explains the meaning of each map symbol.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 15,
     "sequencePriority": 15,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i04-t-016",
@@ -3346,57 +3903,60 @@
     "curriculum_code": "AC9S3I04",
     "curriculumCode": "AC9S3I04",
     "bank": "test",
-    "skill": "tables, graphs and scientific models",
-    "question": "A scale jumps 0, 5, 10, 30 at equal spacing. What should be changed?",
-    "audio_prompt": "A scale jumps 0, 5, 10, 30 at equal spacing. What should be changed?",
-    "audioPrompt": "A scale jumps 0, 5, 10, 30 at equal spacing. What should be changed?",
+    "skill": "models",
+    "question": "A model shows liquid water becoming ice in a freezer. Which label belongs on the arrow?",
+    "audio_prompt": "A model shows liquid water becoming ice in a freezer. Which label belongs on the arrow?",
+    "audioPrompt": "A model shows liquid water becoming ice in a freezer. Which label belongs on the arrow?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-banks/year3/science/strict-i04-diagrams.svg",
+      "symbol_id": "t016",
+      "alt_text": "In a freezer. Liquid water then Ice."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a freezer. Liquid water then Ice.\"><use href=\"/assets/assessment-banks/year3/science/strict-i04-diagrams.svg#t016\"/></svg>",
     "answers": [
       {
-        "text": "Use more colours",
-        "is_correct": false
-      },
-      {
-        "text": "Remove all numbers",
-        "is_correct": false
-      },
-      {
-        "text": "Make the last bar taller",
-        "is_correct": false
-      },
-      {
-        "text": "Use consistent numerical intervals",
+        "text": "Heat removed: freezing",
         "is_correct": true
+      },
+      {
+        "text": "Heat removed: melting",
+        "is_correct": false
+      },
+      {
+        "text": "Heat added: growing",
+        "is_correct": false
+      },
+      {
+        "text": "Heat added: freezing",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Use more colours",
-      "Remove all numbers",
-      "Make the last bar taller",
-      "Use consistent numerical intervals"
+      "Heat removed: freezing",
+      "Heat removed: melting",
+      "Heat added: growing",
+      "Heat added: freezing"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The scale should progress evenly.",
-      "hint": "Check the interval pattern."
+      "summary": "Removing enough heat changes liquid water to solid ice by freezing.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
     "structuredExplanation": {
-      "summary": "The scale should progress evenly.",
-      "hint": "Check the interval pattern."
+      "summary": "Removing enough heat changes liquid water to solid ice by freezing.",
+      "hint": "Use the labels and arrows to work out what each part represents."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 16,
     "sequencePriority": 16,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   }
 ]

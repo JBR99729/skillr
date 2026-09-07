@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-001",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "compare findings",
     "printable": true,
     "type": "single",
-    "question": "Two groups get nearly the same cooling results. What does this suggest?",
-    "audioPrompt": "Two groups get nearly the same cooling results. What does this suggest?",
+    "question": "Groups A and B test wrapped ice. Their melting times are 9 and 10 minutes with matching setups. Which comparison fits?",
+    "audioPrompt": "Groups A and B test wrapped ice. Their melting times are 9 and 10 minutes with matching setups. Which comparison fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,19 +16,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The prediction is proven forever",
-      "The test was automatically perfect",
-      "The finding may be consistent",
-      "One group copied"
+      "Both results are exactly equal.",
+      "The results are similar but not identical.",
+      "One result must be wrong.",
+      "The ice in B never melted."
     ],
-    "correct": 2,
-    "explanation": "Similar independent findings can strengthen confidence in the pattern.\nHint: Compare evidence.",
+    "correct": 1,
+    "explanation": "The two times differ by only one minute; both should remain in the record.\nHint: Compare results for the same conditions in both groups.",
     "structuredExplanation": {
-      "summary": "Similar independent findings can strengthen confidence in the pattern.",
-      "hint": "Compare evidence."
+      "summary": "The two times differ by only one minute; both should remain in the record.",
+      "hint": "Compare results for the same conditions in both groups."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 1,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -36,11 +36,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-002",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "compare findings",
     "printable": true,
     "type": "single",
-    "question": "Which question checks fairness?",
-    "audioPrompt": "Which question checks fairness?",
+    "question": "One group counts 8 snails in a garden and another counts 2 near a path. What should they consider before treating the findings as a disagreement?",
+    "audioPrompt": "One group counts 8 snails in a garden and another counts 2 near a path. What should they consider before treating the findings as a disagreement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -48,19 +48,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Did the prediction win?",
-      "Were important conditions kept the same apart from the tested factor?",
-      "Did the class enjoy the test?",
-      "Was the graph colourful?"
+      "They surveyed different places.",
+      "A larger count is always more accurate.",
+      "Snails can only live in gardens.",
+      "Only the first count should be used."
     ],
-    "correct": 1,
-    "explanation": "Fairness depends on controlled conditions.\nHint: What changed?",
+    "correct": 0,
+    "explanation": "Different places may contain different numbers of snails.\nHint: Compare results for the same conditions in both groups.",
     "structuredExplanation": {
-      "summary": "Fairness depends on controlled conditions.",
-      "hint": "What changed?"
+      "summary": "Different places may contain different numbers of snails.",
+      "hint": "Compare results for the same conditions in both groups."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 2,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -68,11 +68,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-003",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "compare findings",
     "printable": true,
     "type": "single",
-    "question": "Which is a careful conclusion?",
-    "audioPrompt": "Which is a careful conclusion?",
+    "question": "Two groups get different cooling results. Which comparison is useful?",
+    "audioPrompt": "Two groups get different cooling results. Which comparison is useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -80,19 +80,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "In our trials, the larger spinner fell more slowly",
-      "Larger spinners always fall slowly",
-      "The spinner was best",
-      "The data were fun"
+      "Only their final temperatures",
+      "Only their predictions",
+      "Their starting temperatures and reading times",
+      "Only which group finished first"
     ],
-    "correct": 0,
-    "explanation": "The first statement stays within the evidence.\nHint: Avoid universal claims.",
+    "correct": 2,
+    "explanation": "Relevant test conditions can help explain differences in the findings.\nHint: Compare results for the same conditions in both groups.",
     "structuredExplanation": {
-      "summary": "The first statement stays within the evidence.",
-      "hint": "Avoid universal claims."
+      "summary": "Relevant test conditions can help explain differences in the findings.",
+      "hint": "Compare results for the same conditions in both groups."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 3,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -100,11 +100,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-004",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "compare findings",
     "printable": true,
     "type": "single",
-    "question": "Another group gets a different result. What should you do?",
-    "audioPrompt": "Another group gets a different result. What should you do?",
+    "question": "Both groups see seeds sprout before leaves unfold, but the dates differ. What finding do they share?",
+    "audioPrompt": "Both groups see seeds sprout before leaves unfold, but the dates differ. What finding do they share?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -112,19 +112,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Say they are wrong",
-      "Delete their result",
-      "Choose your own automatically",
-      "Compare methods and data"
+      "Exactly the same final height",
+      "The same order of the observed stages",
+      "The same date for every change",
+      "Exactly the same number of leaves"
     ],
-    "correct": 3,
-    "explanation": "Different findings should be investigated rather than dismissed.\nHint: Method may explain difference.",
+    "correct": 1,
+    "explanation": "Both recorded sprouting before unfolded leaves, even though the timing differed.\nHint: Compare results for the same conditions in both groups.",
     "structuredExplanation": {
-      "summary": "Different findings should be investigated rather than dismissed.",
-      "hint": "Method may explain difference."
+      "summary": "Both recorded sprouting before unfolded leaves, even though the timing differed.",
+      "hint": "Compare results for the same conditions in both groups."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 4,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -132,11 +132,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-005",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "fairness",
     "printable": true,
     "type": "single",
-    "question": "Which is a good further question after finding wet soil held more worms?",
-    "audioPrompt": "Which is a good further question after finding wet soil held more worms?",
+    "question": "A soil-drainage test changes soil type but uses different amounts of soil too. What is the problem?",
+    "audioPrompt": "A soil-drainage test changes soil type but uses different amounts of soil too. What is the problem?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -144,19 +144,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which group likes worms?",
-      "Why is soil brown?",
-      "Does soil moisture level affect worm numbers?",
-      "Are worms cute?"
+      "Changing soil type is never allowed.",
+      "All soils must have the same colour.",
+      "Measuring water makes the test unfair.",
+      "Both soil type and soil amount could affect the result."
     ],
-    "correct": 2,
-    "explanation": "The question extends the observed relationship.\nHint: Build on the finding.",
+    "correct": 3,
+    "explanation": "The extra difference makes it hard to judge the effect of soil type alone.\nHint: Find what is being tested and check what else changed.",
     "structuredExplanation": {
-      "summary": "The question extends the observed relationship.",
-      "hint": "Build on the finding."
+      "summary": "The extra difference makes it hard to judge the effect of soil type alone.",
+      "hint": "Find what is being tested and check what else changed."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 5,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -164,11 +164,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-006",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "fairness",
     "printable": true,
     "type": "single",
-    "question": "Which is an outlier?",
-    "audioPrompt": "Which is an outlier?",
+    "question": "A class tests two wraps around matching cups. Which condition should also match?",
+    "audioPrompt": "A class tests two wraps around matching cups. Which condition should also match?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -176,19 +176,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "5, 5, 6, 5",
-      "11, 12, 12, 45",
-      "11, 12, 12, 13",
-      "20, 21, 20, 22"
+      "The amount and starting temperature of the water",
+      "The final temperature of both cups",
+      "The material of the two wraps",
+      "The students' predictions"
     ],
-    "correct": 1,
-    "explanation": "45 is far from the other values.\nHint: Find the unusual number.",
+    "correct": 0,
+    "explanation": "The wraps are the intended difference. Water amount and starting temperature should be alike.\nHint: Find what is being tested and check what else changed.",
     "structuredExplanation": {
-      "summary": "45 is far from the other values.",
-      "hint": "Find the unusual number."
+      "summary": "The wraps are the intended difference. Water amount and starting temperature should be alike.",
+      "hint": "Find what is being tested and check what else changed."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 6,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -196,11 +196,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-007",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "fairness",
     "printable": true,
     "type": "single",
-    "question": "Why keep an unusual result?",
-    "audioPrompt": "Why keep an unusual result?",
+    "question": "A test compares plant growth with 10 mL and 20 mL of water each day. Which statement about fairness is correct?",
+    "audioPrompt": "A test compares plant growth with 10 mL and 20 mL of water each day. Which statement about fairness is correct?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -208,19 +208,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It may be real evidence or reveal something to check",
-      "All unusual results are wrong",
-      "It weakens the graph",
-      "Only averages matter"
+      "Both plants must receive 20 mL for any fair test.",
+      "Pot size and plant type can also be changed freely.",
+      "Both plants must end at the same height.",
+      "Different water amounts are appropriate because water amount is being tested."
     ],
-    "correct": 0,
-    "explanation": "Outliers should be investigated, not hidden.\nHint: Keep and check.",
+    "correct": 3,
+    "explanation": "A fair test changes the tested factor and keeps relevant other conditions alike.\nHint: Find what is being tested and check what else changed.",
     "structuredExplanation": {
-      "summary": "Outliers should be investigated, not hidden.",
-      "hint": "Keep and check."
+      "summary": "A fair test changes the tested factor and keeps relevant other conditions alike.",
+      "hint": "Find what is being tested and check what else changed."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 7,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -228,11 +228,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-008",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "fairness",
     "printable": true,
     "type": "single",
-    "question": "Which statement overclaims?",
-    "audioPrompt": "Which statement overclaims?",
+    "question": "One ice cube is timed immediately and another 2 minutes after being put out. What should be improved?",
+    "audioPrompt": "One ice cube is timed immediately and another 2 minutes after being put out. What should be improved?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -240,19 +240,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Foil worked best in this test",
-      "We could repeat the test",
-      "Our result suggests material matters",
-      "One test showed foil worked best, so foil is always the best insulator"
+      "Use the same timing starting point for both.",
+      "Use different cube sizes too.",
+      "Measure only the faster cube.",
+      "Remove the minute unit."
     ],
-    "correct": 3,
-    "explanation": "One test cannot justify “always”.\nHint: Watch for certainty.",
+    "correct": 0,
+    "explanation": "The timing procedure must match so the melting times can be compared fairly.\nHint: Find what is being tested and check what else changed.",
     "structuredExplanation": {
-      "summary": "One test cannot justify “always”.",
-      "hint": "Watch for certainty."
+      "summary": "The timing procedure must match so the melting times can be compared fairly.",
+      "hint": "Find what is being tested and check what else changed."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 8,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -260,11 +260,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-009",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "further questions",
     "printable": true,
     "type": "single",
-    "question": "Why compare procedures?",
-    "audioPrompt": "Why compare procedures?",
+    "question": "A thicker cloth wrap kept ice solid longer in a test. Which new question follows?",
+    "audioPrompt": "A thicker cloth wrap kept ice solid longer in a test. Which new question follows?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -272,19 +272,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Only conclusions matter",
-      "Longer methods are better",
-      "Method differences can explain result differences",
-      "Procedures never matter"
+      "How many leaves grow on a seedling?",
+      "Which rocks are roughest?",
+      "Would adding another layer change the melting time?",
+      "Which soil has the largest grains?"
     ],
     "correct": 2,
-    "explanation": "How the investigation was done can affect the findings.\nHint: Compare methods.",
+    "explanation": "The number of layers is a related factor that can be investigated.\nHint: Choose a new question that follows from the observations.",
     "structuredExplanation": {
-      "summary": "How the investigation was done can affect the findings.",
-      "hint": "Compare methods."
+      "summary": "The number of layers is a related factor that can be investigated.",
+      "hint": "Choose a new question that follows from the observations."
     },
     "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficultyTier": "reason",
     "sequencePriority": 9,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -292,11 +292,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-010",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "further questions",
     "printable": true,
     "type": "single",
-    "question": "A prediction is not supported. What should happen?",
-    "audioPrompt": "A prediction is not supported. What should happen?",
+    "question": "Two types of soil held different amounts of water. Which question extends the comparison?",
+    "audioPrompt": "Two types of soil held different amounts of water. Which question extends the comparison?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -304,19 +304,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Call the test a failure",
-      "Report that the evidence did not support it",
-      "Change the result",
-      "Hide the prediction"
+      "How long does wrapped ice take to melt?",
+      "How much water would a mixture of these soils hold?",
+      "How quickly does a warm spoon cool?",
+      "What stages appear in a frog life cycle?"
     ],
     "correct": 1,
-    "explanation": "Scientific conclusions reflect evidence, not expectations.\nHint: Evidence first.",
+    "explanation": "Testing a mixture explores a new condition related to the original finding.\nHint: Choose a new question that follows from the observations.",
     "structuredExplanation": {
-      "summary": "Scientific conclusions reflect evidence, not expectations.",
-      "hint": "Evidence first."
+      "summary": "Testing a mixture explores a new condition related to the original finding.",
+      "hint": "Choose a new question that follows from the observations."
     },
     "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficultyTier": "reason",
     "sequencePriority": 10,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -324,11 +324,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-011",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "further questions",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion is strongest if three trials are 8.1, 8.0 and 8.2 s?",
-    "audioPrompt": "Which conclusion is strongest if three trials are 8.1, 8.0 and 8.2 s?",
+    "question": "Shaded soil was cooler at lunchtime. Which follow-up is relevant?",
+    "audioPrompt": "Shaded soil was cooler at lunchtime. Which follow-up is relevant?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -336,19 +336,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The result was very consistent across the three trials",
-      "The result was exactly identical",
-      "The test proves every future value",
-      "Only 8.2 matters"
+      "How many leaves does a seedling have?",
+      "What shape does liquid take in a cup?",
+      "Which rocks have a smooth texture?",
+      "Is shaded soil also cooler early in the morning?"
     ],
-    "correct": 0,
-    "explanation": "Closely grouped values indicate consistency.\nHint: Look at variation.",
+    "correct": 3,
+    "explanation": "Measuring at another time checks the observed temperature relationship further.\nHint: Choose a new question that follows from the observations.",
     "structuredExplanation": {
-      "summary": "Closely grouped values indicate consistency.",
-      "hint": "Look at variation."
+      "summary": "Measuring at another time checks the observed temperature relationship further.",
+      "hint": "Choose a new question that follows from the observations."
     },
     "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficultyTier": "reason",
     "sequencePriority": 11,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -356,11 +356,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-012",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "further questions",
     "printable": true,
     "type": "single",
-    "question": "One group changed two factors at once. What is the problem?",
-    "audioPrompt": "One group changed two factors at once. What is the problem?",
+    "question": "A class observes that some rocks darken when wet. Which further investigation fits?",
+    "audioPrompt": "A class observes that some rocks darken when wet. Which further investigation fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -368,19 +368,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Two changes prove more",
-      "The test is automatically unsafe",
-      "Graphs cannot be made",
-      "The effect of each factor cannot be separated clearly"
+      "Measure drainage through different soils.",
+      "Observe the stages of a seedling as it grows.",
+      "Compare dry and wet colours of more rock types.",
+      "Compare the melting times of equal ice cubes."
     ],
-    "correct": 3,
-    "explanation": "Multiple changes weaken causal conclusions.\nHint: One tested factor at a time.",
+    "correct": 2,
+    "explanation": "More rock types can show whether the wet-colour pattern occurs in other samples.\nHint: Choose a new question that follows from the observations.",
     "structuredExplanation": {
-      "summary": "Multiple changes weaken causal conclusions.",
-      "hint": "One tested factor at a time."
+      "summary": "More rock types can show whether the wet-colour pattern occurs in other samples.",
+      "hint": "Choose a new question that follows from the observations."
     },
     "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficultyTier": "reason",
     "sequencePriority": 12,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -388,11 +388,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-013",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "conclusions",
     "printable": true,
     "type": "single",
-    "question": "Which evidence best compares two groups?",
-    "audioPrompt": "Which evidence best compares two groups?",
+    "question": "A cup cools from 38°C to 30°C in 10 minutes. Which conclusion follows from these readings?",
+    "audioPrompt": "A cup cools from 38°C to 30°C in 10 minutes. Which conclusion follows from these readings?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -400,19 +400,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Who had better handwriting",
-      "Whose graph used more colours",
-      "Their recorded measurements using the same units",
-      "Who finished first"
+      "Every cup cools by 8°C in 10 minutes.",
+      "Its temperature fell by 8°C during the test.",
+      "It lost 30°C during the test.",
+      "Its temperature rose by 8°C."
     ],
-    "correct": 2,
-    "explanation": "Comparable measurements are relevant scientific evidence.\nHint: Use data.",
+    "correct": 1,
+    "explanation": "Subtract 30 from 38 to find the 8°C decrease in this test.\nHint: Say what the recorded findings support, within this investigation.",
     "structuredExplanation": {
-      "summary": "Comparable measurements are relevant scientific evidence.",
-      "hint": "Use data."
+      "summary": "Subtract 30 from 38 to find the 8°C decrease in this test.",
+      "hint": "Say what the recorded findings support, within this investigation."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 13,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -420,11 +420,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-014",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "conclusions",
     "printable": true,
     "type": "single",
-    "question": "Why repeat after groups disagree?",
-    "audioPrompt": "Why repeat after groups disagree?",
+    "question": "A group predicted faster melting in shade, but all three fair trials melted faster in sun. What should it report?",
+    "audioPrompt": "A group predicted faster melting in shade, but all three fair trials melted faster in sun. What should it report?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -432,19 +432,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Only one group should repeat until it matches",
-      "More trials can reveal whether one result was unusual",
-      "Repeating forces agreement",
-      "The larger number must win"
+      "The results did not support the prediction.",
+      "The prediction proves the sun results are wrong.",
+      "The shaded result should be changed.",
+      "The investigation cannot teach anything."
     ],
-    "correct": 1,
-    "explanation": "Repeats add evidence and show consistency or variation.\nHint: Collect more evidence.",
+    "correct": 0,
+    "explanation": "The repeated evidence supports faster melting in sun under these conditions.\nHint: Say what the recorded findings support, within this investigation.",
     "structuredExplanation": {
-      "summary": "Repeats add evidence and show consistency or variation.",
-      "hint": "Collect more evidence."
+      "summary": "The repeated evidence supports faster melting in sun under these conditions.",
+      "hint": "Say what the recorded findings support, within this investigation."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 14,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -452,11 +452,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-015",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "conclusions",
     "printable": true,
     "type": "single",
-    "question": "Which further question follows from “higher ramps gave longer travel distances”?",
-    "audioPrompt": "Which further question follows from “higher ramps gave longer travel distances”?",
+    "question": "A group changes both pot size and soil type and finds greater growth. Which conclusion is careful?",
+    "audioPrompt": "A group changes both pot size and soil type and finds greater growth. Which conclusion is careful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -464,19 +464,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Does the pattern continue at even greater ramp heights?",
-      "Which car is coolest?",
-      "Why are ramps fun?",
-      "Who likes racing?"
+      "Both changes had exactly equal effects.",
+      "Soil type alone definitely explains it.",
+      "The test cannot tell which change explains the greater growth.",
+      "Pot size alone definitely explains it."
     ],
-    "correct": 0,
-    "explanation": "The question extends the observed relationship.\nHint: Stay on the same scientific idea.",
+    "correct": 2,
+    "explanation": "Both factors changed together, so their effects cannot be separated by this test.\nHint: Say what the recorded findings support, within this investigation.",
     "structuredExplanation": {
-      "summary": "The question extends the observed relationship.",
-      "hint": "Stay on the same scientific idea."
+      "summary": "Both factors changed together, so their effects cannot be separated by this test.",
+      "hint": "Say what the recorded findings support, within this investigation."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 15,
     "qualitySchema": "skillr-actual-v6"
   },
@@ -484,11 +484,11 @@ window.skillrTestQuestions = [
     "id": "ac9s3i05-t-016",
     "curriculumCode": "AC9S3I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "conclusions",
     "printable": true,
     "type": "single",
-    "question": "Which wording is most scientifically cautious?",
-    "audioPrompt": "Which wording is most scientifically cautious?",
+    "question": "Three melting times are 7, 8 and 25 minutes. What should happen before a firm conclusion?",
+    "audioPrompt": "Three melting times are 7, 8 and 25 minutes. What should happen before a firm conclusion?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -496,19 +496,19 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The results prove this always happens",
-      "The result cannot ever change",
-      "No other factor matters",
-      "The results support the idea under the conditions we tested"
+      "Replace 25 with 8.",
+      "Use only 25 and ignore the others.",
+      "Erase 25 without checking.",
+      "Keep all readings and check the 25-minute trial."
     ],
     "correct": 3,
-    "explanation": "Cautious wording matches the limits of the evidence.\nHint: Support, not universal proof.",
+    "explanation": "The different reading needs investigation; changing or hiding it would misrepresent the evidence.\nHint: Say what the recorded findings support, within this investigation.",
     "structuredExplanation": {
-      "summary": "Cautious wording matches the limits of the evidence.",
-      "hint": "Support, not universal proof."
+      "summary": "The different reading needs investigation; changing or hiding it would misrepresent the evidence.",
+      "hint": "Say what the recorded findings support, within this investigation."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 16,
     "qualitySchema": "skillr-actual-v6"
   }

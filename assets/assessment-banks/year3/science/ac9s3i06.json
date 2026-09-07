@@ -6,10 +6,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which sentence communicates a scientific finding clearly?",
-    "audio_prompt": "Which sentence communicates a scientific finding clearly?",
-    "audioPrompt": "Which sentence communicates a scientific finding clearly?",
+    "skill": "reports",
+    "question": "A report records soil temperatures at 2 pm: sun 31°C, shade 24°C. Which sentence accurately reports the finding?",
+    "audio_prompt": "A report records soil temperatures at 2 pm: sun 31°C, shade 24°C. Which sentence accurately reports the finding?",
+    "audioPrompt": "A report records soil temperatures at 2 pm: sun 31°C, shade 24°C. Which sentence accurately reports the finding?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -17,37 +17,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The shaded soil was 7°C cooler than the sunny soil at 2 pm",
+        "text": "Shade always makes soil exactly 7°C cooler.",
+        "is_correct": false
+      },
+      {
+        "text": "At 2 pm, sunny soil was 7°C cooler than shaded soil.",
+        "is_correct": false
+      },
+      {
+        "text": "At 2 pm, shaded soil was 7°C cooler than sunny soil.",
         "is_correct": true
       },
       {
-        "text": "Shade was better",
-        "is_correct": false
-      },
-      {
-        "text": "The soil did stuff",
-        "is_correct": false
-      },
-      {
-        "text": "I liked the shaded tray",
+        "text": "Both soils were 24°C at 2 pm.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The shaded soil was 7°C cooler than the sunny soil at 2 pm",
-      "Shade was better",
-      "The soil did stuff",
-      "I liked the shaded tray"
+      "Shade always makes soil exactly 7°C cooler.",
+      "At 2 pm, sunny soil was 7°C cooler than shaded soil.",
+      "At 2 pm, shaded soil was 7°C cooler than sunny soil.",
+      "Both soils were 24°C at 2 pm."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A clear finding states the measured result.",
-      "hint": "Use evidence, not preference."
+      "summary": "The difference is 31 minus 24, or 7°C. State the time and avoid making an always claim.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "A clear finding states the measured result.",
-      "hint": "Use evidence, not preference."
+      "summary": "The difference is 31 minus 24, or 7°C. State the time and avoid making an always claim.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -67,10 +67,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which word is scientific vocabulary for how hot or cold something is?",
-    "audio_prompt": "Which word is scientific vocabulary for how hot or cold something is?",
-    "audioPrompt": "Which word is scientific vocabulary for how hot or cold something is?",
+    "skill": "reports",
+    "question": "A report's method says to measure water temperature every 5 minutes. Which sentence belongs in its Results section?",
+    "audio_prompt": "A report's method says to measure water temperature every 5 minutes. Which sentence belongs in its Results section?",
+    "audioPrompt": "A report's method says to measure water temperature every 5 minutes. Which sentence belongs in its Results section?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -78,37 +78,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "niceness",
+        "text": "Use two matching cups.",
         "is_correct": false
       },
       {
-        "text": "colourfulness",
-        "is_correct": false
-      },
-      {
-        "text": "speediness",
-        "is_correct": false
-      },
-      {
-        "text": "temperature",
+        "text": "The water was 32°C after 5 minutes.",
         "is_correct": true
+      },
+      {
+        "text": "We predicted that the water would cool.",
+        "is_correct": false
+      },
+      {
+        "text": "Read the thermometer every 5 minutes.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "niceness",
-      "colourfulness",
-      "speediness",
-      "temperature"
+      "Use two matching cups.",
+      "The water was 32°C after 5 minutes.",
+      "We predicted that the water would cool.",
+      "Read the thermometer every 5 minutes."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Temperature is the scientific term for measured hotness or coldness.",
-      "hint": "Use precise vocabulary."
+      "summary": "A results sentence states an observation. The other sentences describe a method, equipment or prediction.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "Temperature is the scientific term for measured hotness or coldness.",
-      "hint": "Use precise vocabulary."
+      "summary": "A results sentence states an observation. The other sentences describe a method, equipment or prediction.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -128,10 +128,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which audience would most need a simple labelled diagram?",
-    "audio_prompt": "Which audience would most need a simple labelled diagram?",
-    "audioPrompt": "Which audience would most need a simple labelled diagram?",
+    "skill": "reports",
+    "question": "A class compares how much water drains through sand and clay in 5 minutes. Which report title names this investigation most clearly?",
+    "audio_prompt": "A class compares how much water drains through sand and clay in 5 minutes. Which report title names this investigation most clearly?",
+    "audioPrompt": "A class compares how much water drains through sand and clay in 5 minutes. Which report title names this investigation most clearly?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -139,37 +139,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A calculator",
+        "text": "The Temperature of Garden Soil",
         "is_correct": false
       },
       {
-        "text": "A results table",
+        "text": "How Plants Grow in Different Soils",
         "is_correct": false
       },
       {
-        "text": "Younger students learning the parts of a flower",
+        "text": "The Colours of Sand and Clay",
+        "is_correct": false
+      },
+      {
+        "text": "Water Drainage Through Sand and Clay",
         "is_correct": true
-      },
-      {
-        "text": "A thermometer",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A calculator",
-      "A results table",
-      "Younger students learning the parts of a flower",
-      "A thermometer"
+      "The Temperature of Garden Soil",
+      "How Plants Grow in Different Soils",
+      "The Colours of Sand and Clay",
+      "Water Drainage Through Sand and Clay"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A labelled visual can help a younger audience understand structure.",
-      "hint": "Match the communication form to the audience."
+      "summary": "The title identifies both the measured process, drainage, and the soil types compared.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "A labelled visual can help a younger audience understand structure.",
-      "hint": "Match the communication form to the audience."
+      "summary": "The title identifies both the measured process, drainage, and the soil types compared.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -189,10 +189,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which title best suits a report about soil drainage?",
-    "audio_prompt": "Which title best suits a report about soil drainage?",
-    "audioPrompt": "Which title best suits a report about soil drainage?",
+    "skill": "reports",
+    "question": "A seedling was 7 cm tall at the start and 12 cm after one week. Complete the report: In one week, its height increased by ___.",
+    "audio_prompt": "A seedling was 7 cm tall at the start and 12 cm after one week. Complete the report: In one week, its height increased by ___.",
+    "audioPrompt": "A seedling was 7 cm tall at the start and 12 cm after one week. Complete the report: In one week, its height increased by ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -200,37 +200,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The Best Group",
+        "text": "12 cm",
         "is_correct": false
       },
       {
-        "text": "How Different Soils Drained Water",
+        "text": "19 cm",
+        "is_correct": false
+      },
+      {
+        "text": "5 cm",
         "is_correct": true
       },
       {
-        "text": "Our Fun Science Day",
-        "is_correct": false
-      },
-      {
-        "text": "Stuff We Did",
+        "text": "7 cm",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The Best Group",
-      "How Different Soils Drained Water",
-      "Our Fun Science Day",
-      "Stuff We Did"
+      "12 cm",
+      "19 cm",
+      "5 cm",
+      "7 cm"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A scientific title should identify the investigation topic clearly.",
-      "hint": "Name the science idea."
+      "summary": "The increase is the final height minus the starting height: 12 minus 7 equals 5 cm.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "A scientific title should identify the investigation topic clearly.",
-      "hint": "Name the science idea."
+      "summary": "The increase is the final height minus the starting height: 12 minus 7 equals 5 cm.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -250,10 +250,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which item belongs in a results section?",
-    "audio_prompt": "Which item belongs in a results section?",
-    "audioPrompt": "Which item belongs in a results section?",
+    "skill": "reports",
+    "question": "A class counted 9 birds at the pond and 4 at the oval. Which results sentence preserves both observations?",
+    "audio_prompt": "A class counted 9 birds at the pond and 4 at the oval. Which results sentence preserves both observations?",
+    "audioPrompt": "A class counted 9 birds at the pond and 4 at the oval. Which results sentence preserves both observations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -261,42 +261,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The measured values from each trial",
+        "text": "Every pond always has more birds than every oval.",
+        "is_correct": false
+      },
+      {
+        "text": "We counted 4 birds at the pond and 9 at the oval.",
+        "is_correct": false
+      },
+      {
+        "text": "We counted 13 birds at each place.",
+        "is_correct": false
+      },
+      {
+        "text": "We counted 9 birds at the pond and 4 at the oval.",
         "is_correct": true
-      },
-      {
-        "text": "A personal thank-you note",
-        "is_correct": false
-      },
-      {
-        "text": "A joke about soil",
-        "is_correct": false
-      },
-      {
-        "text": "A list of favourite colours",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The measured values from each trial",
-      "A personal thank-you note",
-      "A joke about soil",
-      "A list of favourite colours"
+      "Every pond always has more birds than every oval.",
+      "We counted 4 birds at the pond and 9 at the oval.",
+      "We counted 13 birds at each place.",
+      "We counted 9 birds at the pond and 4 at the oval."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Results present the evidence collected.",
-      "hint": "What data were recorded?"
+      "summary": "Each count must stay with its recorded location. These observations do not describe every pond or oval.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "Results present the evidence collected.",
-      "hint": "What data were recorded?"
+      "summary": "Each count must stay with its recorded location. These observations do not describe every pond or oval.",
+      "hint": "Match the sentence to the recorded method or result."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 5,
     "sequencePriority": 5,
     "quality_schema": "skillr-actual-v6",
@@ -311,10 +311,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which visual would best support a talk comparing bird counts?",
-    "audio_prompt": "Which visual would best support a talk comparing bird counts?",
-    "audioPrompt": "Which visual would best support a talk comparing bird counts?",
+    "skill": "reports",
+    "question": "A report has a question, a method, a results table and a conclusion. Where should the sentence We added 50 mL of water to each soil sample go?",
+    "audio_prompt": "A report has a question, a method, a results table and a conclusion. Where should the sentence We added 50 mL of water to each soil sample go?",
+    "audioPrompt": "A report has a question, a method, a results table and a conclusion. Where should the sentence We added 50 mL of water to each soil sample go?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -322,42 +322,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "An unrelated cartoon",
+        "text": "Question",
         "is_correct": false
       },
       {
-        "text": "A blank slide",
+        "text": "Results table",
         "is_correct": false
       },
       {
-        "text": "A long paragraph in tiny text",
-        "is_correct": false
-      },
-      {
-        "text": "A labelled column graph",
+        "text": "Method",
         "is_correct": true
+      },
+      {
+        "text": "Conclusion",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "An unrelated cartoon",
-      "A blank slide",
-      "A long paragraph in tiny text",
-      "A labelled column graph"
+      "Question",
+      "Results table",
+      "Method",
+      "Conclusion"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A graph makes category counts easy to compare.",
-      "hint": "Use the mode that shows the data."
+      "summary": "The sentence describes a step carried out, so it belongs in the method.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "A graph makes category counts easy to compare.",
-      "hint": "Use the mode that shows the data."
+      "summary": "The sentence describes a step carried out, so it belongs in the method.",
+      "hint": "Match the sentence to the recorded method or result."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 6,
     "sequencePriority": 6,
     "quality_schema": "skillr-actual-v6",
@@ -372,10 +372,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which conclusion sentence is strongest?",
-    "audio_prompt": "Which conclusion sentence is strongest?",
-    "audioPrompt": "Which conclusion sentence is strongest?",
+    "skill": "reports",
+    "question": "Ice melted in 4 minutes without a wrap and 9 minutes with paper. Which sentence completes the conclusion accurately?",
+    "audio_prompt": "Ice melted in 4 minutes without a wrap and 9 minutes with paper. Which sentence completes the conclusion accurately?",
+    "audioPrompt": "Ice melted in 4 minutes without a wrap and 9 minutes with paper. Which sentence completes the conclusion accurately?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -383,42 +383,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Everyone should love foil",
+        "text": "Paper stopped the ice from ever melting.",
         "is_correct": false
       },
       {
-        "text": "The experiment was cool",
-        "is_correct": false
-      },
-      {
-        "text": "In our test, foil kept the water warmest for 20 minutes",
+        "text": "Paper-wrapped ice took longer to melt in this test.",
         "is_correct": true
       },
       {
-        "text": "Foil is amazing",
+        "text": "Both cubes melted in 4 minutes.",
+        "is_correct": false
+      },
+      {
+        "text": "Paper-wrapped ice melted 9 minutes sooner.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Everyone should love foil",
-      "The experiment was cool",
-      "In our test, foil kept the water warmest for 20 minutes",
-      "Foil is amazing"
+      "Paper stopped the ice from ever melting.",
+      "Paper-wrapped ice took longer to melt in this test.",
+      "Both cubes melted in 4 minutes.",
+      "Paper-wrapped ice melted 9 minutes sooner."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The first sentence reports the finding precisely.",
-      "hint": "Say what the evidence showed."
+      "summary": "The wrapped ice took 9 minutes compared with 4 minutes, so it lasted longer in this test.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "The first sentence reports the finding precisely.",
-      "hint": "Say what the evidence showed."
+      "summary": "The wrapped ice took 9 minutes compared with 4 minutes, so it lasted longer in this test.",
+      "hint": "Match the sentence to the recorded method or result."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 7,
     "sequencePriority": 7,
     "quality_schema": "skillr-actual-v6",
@@ -433,10 +433,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "What should a caption under a scientific image do?",
-    "audio_prompt": "What should a caption under a scientific image do?",
-    "audioPrompt": "What should a caption under a scientific image do?",
+    "skill": "reports",
+    "question": "A report says The plant grew 6. The measured increase was six centimetres. Which revision supplies the missing information?",
+    "audio_prompt": "A report says The plant grew 6. The measured increase was six centimetres. Which revision supplies the missing information?",
+    "audioPrompt": "A report says The plant grew 6. The measured increase was six centimetres. Which revision supplies the missing information?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -444,42 +444,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Describe the page colour",
-        "is_correct": false
-      },
-      {
-        "text": "Explain what the image shows and why it matters",
+        "text": "The plant grew 6 cm.",
         "is_correct": true
       },
       {
-        "text": "Repeat the title only",
+        "text": "The plant grew 6 mL.",
         "is_correct": false
       },
       {
-        "text": "Add unrelated facts",
+        "text": "The plant grew for 6 minutes.",
+        "is_correct": false
+      },
+      {
+        "text": "The plant grew 6°C.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Describe the page colour",
-      "Explain what the image shows and why it matters",
-      "Repeat the title only",
-      "Add unrelated facts"
+      "The plant grew 6 cm.",
+      "The plant grew 6 mL.",
+      "The plant grew for 6 minutes.",
+      "The plant grew 6°C."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A useful caption guides the reader to the scientific meaning of the image.",
-      "hint": "Connect image and idea."
+      "summary": "The measurement is length, so centimetres supplies the correct missing unit.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "A useful caption guides the reader to the scientific meaning of the image.",
-      "hint": "Connect image and idea."
+      "summary": "The measurement is length, so centimetres supplies the correct missing unit.",
+      "hint": "Match the sentence to the recorded method or result."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 8,
     "sequencePriority": 8,
     "quality_schema": "skillr-actual-v6",
@@ -494,10 +494,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which is a digital tool for communicating findings?",
-    "audio_prompt": "Which is a digital tool for communicating findings?",
-    "audioPrompt": "Which is a digital tool for communicating findings?",
+    "skill": "reports",
+    "question": "A report needs to separate prediction from result. Which sentence clearly labels a prediction?",
+    "audio_prompt": "A report needs to separate prediction from result. Which sentence clearly labels a prediction?",
+    "audioPrompt": "A report needs to separate prediction from result. Which sentence clearly labels a prediction?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -505,42 +505,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A slideshow with graphs and labels",
+        "text": "We thought the covered cup would cool more slowly.",
         "is_correct": true
       },
       {
-        "text": "A spoon",
+        "text": "The covered cup was 30°C after 10 minutes.",
         "is_correct": false
       },
       {
-        "text": "A ruler alone",
+        "text": "We read each thermometer at the same time.",
         "is_correct": false
       },
       {
-        "text": "A plastic cup",
+        "text": "Both cups started at 40°C.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A slideshow with graphs and labels",
-      "A spoon",
-      "A ruler alone",
-      "A plastic cup"
+      "We thought the covered cup would cool more slowly.",
+      "The covered cup was 30°C after 10 minutes.",
+      "We read each thermometer at the same time.",
+      "Both cups started at 40°C."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A slideshow can combine text, images and data for an audience.",
-      "hint": "Think communication technology."
+      "summary": "We thought introduces what the group expected before testing. The other sentences report observations or actions.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "A slideshow can combine text, images and data for an audience.",
-      "hint": "Think communication technology."
+      "summary": "We thought introduces what the group expected before testing. The other sentences report observations or actions.",
+      "hint": "Match the sentence to the recorded method or result."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 9,
     "sequencePriority": 9,
     "quality_schema": "skillr-actual-v6",
@@ -555,10 +555,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which statement is appropriate for a scientific report?",
-    "audio_prompt": "Which statement is appropriate for a scientific report?",
-    "audioPrompt": "Which statement is appropriate for a scientific report?",
+    "skill": "reports",
+    "question": "A class predicted that cup A would stay warmer, but cup B stayed warmer at every check. Which sentence belongs in the final report?",
+    "audio_prompt": "A class predicted that cup A would stay warmer, but cup B stayed warmer at every check. Which sentence belongs in the final report?",
+    "audioPrompt": "A class predicted that cup A would stay warmer, but cup B stayed warmer at every check. Which sentence belongs in the final report?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -566,42 +566,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The plant was awesome",
+        "text": "Our prediction was supported because we preferred cup A.",
         "is_correct": false
       },
       {
-        "text": "The plant tried really hard",
-        "is_correct": false
-      },
-      {
-        "text": "Our group deserved to win",
-        "is_correct": false
-      },
-      {
-        "text": "The plant grew 5 cm over seven days",
+        "text": "Our prediction was not supported; cup B stayed warmer during the test.",
         "is_correct": true
+      },
+      {
+        "text": "Both cups must have had the same temperature.",
+        "is_correct": false
+      },
+      {
+        "text": "We changed cup B's readings to match our prediction.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The plant was awesome",
-      "The plant tried really hard",
-      "Our group deserved to win",
-      "The plant grew 5 cm over seven days"
+      "Our prediction was supported because we preferred cup A.",
+      "Our prediction was not supported; cup B stayed warmer during the test.",
+      "Both cups must have had the same temperature.",
+      "We changed cup B's readings to match our prediction."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Scientific reporting focuses on evidence rather than human-like or competitive judgement.",
-      "hint": "Use observable evidence."
+      "summary": "The report must describe the measured result even when it differs from the prediction.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "Scientific reporting focuses on evidence rather than human-like or competitive judgement.",
-      "hint": "Use observable evidence."
+      "summary": "The report must describe the measured result even when it differs from the prediction.",
+      "hint": "Match the sentence to the recorded method or result."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 10,
     "sequencePriority": 10,
     "quality_schema": "skillr-actual-v6",
@@ -616,10 +616,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Why should a graph in a report have labels and units?",
-    "audio_prompt": "Why should a graph in a report have labels and units?",
-    "audioPrompt": "Why should a graph in a report have labels and units?",
+    "skill": "reports",
+    "question": "A report lists soil A 20 mL and soil B 35 mL of drained water. Which sentence links the evidence to a finding?",
+    "audio_prompt": "A report lists soil A 20 mL and soil B 35 mL of drained water. Which sentence links the evidence to a finding?",
+    "audioPrompt": "A report lists soil A 20 mL and soil B 35 mL of drained water. Which sentence links the evidence to a finding?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -627,42 +627,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Units are only decoration",
-        "is_correct": false
-      },
-      {
-        "text": "Graphs without labels are more scientific",
-        "is_correct": false
-      },
-      {
-        "text": "Readers need them to interpret the data correctly",
+        "text": "Soil B drained 15 mL more water than soil A in our test.",
         "is_correct": true
       },
       {
-        "text": "Labels make results more true",
+        "text": "Soil B is the best soil for every plant.",
+        "is_correct": false
+      },
+      {
+        "text": "Both soils drained 55 mL each.",
+        "is_correct": false
+      },
+      {
+        "text": "Soil A drained 15 mL more than soil B.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Units are only decoration",
-      "Graphs without labels are more scientific",
-      "Readers need them to interpret the data correctly",
-      "Labels make results more true"
+      "Soil B drained 15 mL more water than soil A in our test.",
+      "Soil B is the best soil for every plant.",
+      "Both soils drained 55 mL each.",
+      "Soil A drained 15 mL more than soil B."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Labels and units explain what the values represent.",
-      "hint": "Help the reader understand the evidence."
+      "summary": "The difference is 35 minus 20, or 15 mL. Drainage alone does not establish the best soil for all plants.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "Labels and units explain what the values represent.",
-      "hint": "Help the reader understand the evidence."
+      "summary": "The difference is 35 minus 20, or 15 mL. Drainage alone does not establish the best soil for all plants.",
+      "hint": "Match the sentence to the recorded method or result."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 11,
     "sequencePriority": 11,
     "quality_schema": "skillr-actual-v6",
@@ -677,10 +677,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Why might the same finding be explained differently to a scientist and a Year 1 class?",
-    "audio_prompt": "Why might the same finding be explained differently to a scientist and a Year 1 class?",
-    "audioPrompt": "Why might the same finding be explained differently to a scientist and a Year 1 class?",
+    "skill": "reports",
+    "question": "A short report is missing its opening sentence. It contains ice-melting times for sun and shade. Which opening introduces its purpose?",
+    "audio_prompt": "A short report is missing its opening sentence. It contains ice-melting times for sun and shade. Which opening introduces its purpose?",
+    "audioPrompt": "A short report is missing its opening sentence. It contains ice-melting times for sun and shade. Which opening introduces its purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -688,42 +688,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Young students cannot learn science",
-        "is_correct": false
-      },
-      {
-        "text": "Different audiences may need different vocabulary and detail",
+        "text": "We investigated whether location affected the time taken for equal ice cubes to melt.",
         "is_correct": true
       },
       {
-        "text": "The finding changes depending on audience",
+        "text": "We proved that all ice melts at the same speed.",
         "is_correct": false
       },
       {
-        "text": "Scientists do not use evidence",
+        "text": "We investigated how many birds live near the pond.",
+        "is_correct": false
+      },
+      {
+        "text": "We measured how tall seedlings grew in different soils.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Young students cannot learn science",
-      "Different audiences may need different vocabulary and detail",
-      "The finding changes depending on audience",
-      "Scientists do not use evidence"
+      "We investigated whether location affected the time taken for equal ice cubes to melt.",
+      "We proved that all ice melts at the same speed.",
+      "We investigated how many birds live near the pond.",
+      "We measured how tall seedlings grew in different soils."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Communication should suit the audience while preserving the same scientific meaning.",
-      "hint": "Adjust language, not the evidence."
+      "summary": "The opening should name the question investigated by the recorded melting times.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "Communication should suit the audience while preserving the same scientific meaning.",
-      "hint": "Adjust language, not the evidence."
+      "summary": "The opening should name the question investigated by the recorded melting times.",
+      "hint": "Match the sentence to the recorded method or result."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 12,
     "sequencePriority": 12,
     "quality_schema": "skillr-actual-v6",
@@ -738,10 +738,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Why should a conclusion refer back to evidence?",
-    "audio_prompt": "Why should a conclusion refer back to evidence?",
-    "audioPrompt": "Why should a conclusion refer back to evidence?",
+    "skill": "audience and purpose",
+    "question": "A Year 3 class explains melting to Year 1 pupils. Which sentence is accurate and easy to follow?",
+    "audio_prompt": "A Year 3 class explains melting to Year 1 pupils. Which sentence is accurate and easy to follow?",
+    "audioPrompt": "A Year 3 class explains melting to Year 1 pupils. Which sentence is accurate and easy to follow?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -749,42 +749,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It shows how the claim is supported by the results",
+        "text": "Ice stays solid whenever its shape changes.",
+        "is_correct": false
+      },
+      {
+        "text": "Ice changes from solid to liquid water when it gains heat.",
         "is_correct": true
       },
       {
-        "text": "Conclusions should be guesses",
+        "text": "Ice gains heat because water always feels hot.",
         "is_correct": false
       },
       {
-        "text": "Evidence belongs only in tables",
-        "is_correct": false
-      },
-      {
-        "text": "A conclusion makes evidence unnecessary",
+        "text": "Ice changes from liquid to solid when it gains heat.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It shows how the claim is supported by the results",
-      "Conclusions should be guesses",
-      "Evidence belongs only in tables",
-      "A conclusion makes evidence unnecessary"
+      "Ice stays solid whenever its shape changes.",
+      "Ice changes from solid to liquid water when it gains heat.",
+      "Ice gains heat because water always feels hot.",
+      "Ice changes from liquid to solid when it gains heat."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Linking claim and evidence makes the reasoning clear.",
-      "hint": "Finding + supporting result."
+      "summary": "The explanation uses familiar state words and connects melting to gaining heat.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "Linking claim and evidence makes the reasoning clear.",
-      "hint": "Finding + supporting result."
+      "summary": "The explanation uses familiar state words and connects melting to gaining heat.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 13,
     "sequencePriority": 13,
     "quality_schema": "skillr-actual-v6",
@@ -799,10 +799,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Why is “the water got colder” weaker than “the temperature fell from 50°C to 38°C”?",
-    "audio_prompt": "Why is “the water got colder” weaker than “the temperature fell from 50°C to 38°C”?",
-    "audioPrompt": "Why is “the water got colder” weaker than “the temperature fell from 50°C to 38°C”?",
+    "skill": "audience and purpose",
+    "question": "Families need a short message about a wrap test: cloth 11 minutes to melt, paper 7 minutes. Which message uses the evidence clearly?",
+    "audio_prompt": "Families need a short message about a wrap test: cloth 11 minutes to melt, paper 7 minutes. Which message uses the evidence clearly?",
+    "audioPrompt": "Families need a short message about a wrap test: cloth 11 minutes to melt, paper 7 minutes. Which message uses the evidence clearly?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -810,42 +810,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The first statement is always wrong",
+        "text": "All wraps worked exactly the same.",
         "is_correct": false
       },
       {
-        "text": "Numbers make every claim true",
+        "text": "Paper kept the ice solid longer because 7 is less than 11.",
         "is_correct": false
       },
       {
-        "text": "Temperature cannot be described with words",
-        "is_correct": false
-      },
-      {
-        "text": "The second statement is more precise and uses measured evidence",
+        "text": "Our ice lasted longer with cloth: 11 minutes compared with 7 minutes for paper.",
         "is_correct": true
+      },
+      {
+        "text": "Cloth keeps all food cold forever.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The first statement is always wrong",
-      "Numbers make every claim true",
-      "Temperature cannot be described with words",
-      "The second statement is more precise and uses measured evidence"
+      "All wraps worked exactly the same.",
+      "Paper kept the ice solid longer because 7 is less than 11.",
+      "Our ice lasted longer with cloth: 11 minutes compared with 7 minutes for paper.",
+      "Cloth keeps all food cold forever."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Precise numerical evidence makes the change easier to understand and compare.",
-      "hint": "Use the measurement."
+      "summary": "The message explains the relevant result simply and includes both times without overclaiming.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "Precise numerical evidence makes the change easier to understand and compare.",
-      "hint": "Use the measurement."
+      "summary": "The message explains the relevant result simply and includes both times without overclaiming.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 14,
     "sequencePriority": 14,
     "quality_schema": "skillr-actual-v6",
@@ -860,10 +860,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Why can a diagram be better than a paragraph for showing where plant parts are?",
-    "audio_prompt": "Why can a diagram be better than a paragraph for showing where plant parts are?",
-    "audioPrompt": "Why can a diagram be better than a paragraph for showing where plant parts are?",
+    "skill": "audience and purpose",
+    "question": "A class is making a poster to help younger pupils recognise seedlings. Which caption suits the purpose?",
+    "audio_prompt": "A class is making a poster to help younger pupils recognise seedlings. Which caption suits the purpose?",
+    "audioPrompt": "A class is making a poster to help younger pupils recognise seedlings. Which caption suits the purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -871,42 +871,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Pictures always prove claims",
+        "text": "Every seedling already has flowers.",
         "is_correct": false
       },
       {
-        "text": "Words cannot name parts",
+        "text": "A seedling is a non-living seed-shaped rock.",
         "is_correct": false
       },
       {
-        "text": "A diagram shows spatial relationships directly",
+        "text": "A seedling is an adult plant producing fruit.",
+        "is_correct": false
+      },
+      {
+        "text": "A seedling is a young plant with a growing root and shoot.",
         "is_correct": true
-      },
-      {
-        "text": "Paragraphs are never scientific",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Pictures always prove claims",
-      "Words cannot name parts",
-      "A diagram shows spatial relationships directly",
-      "Paragraphs are never scientific"
+      "Every seedling already has flowers.",
+      "A seedling is a non-living seed-shaped rock.",
+      "A seedling is an adult plant producing fruit.",
+      "A seedling is a young plant with a growing root and shoot."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Visual layout can make location and structure clearer.",
-      "hint": "Show where parts are."
+      "summary": "The caption explains the stage using observable features and familiar language.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "Visual layout can make location and structure clearer.",
-      "hint": "Show where parts are."
+      "summary": "The caption explains the stage using observable features and familiar language.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 15,
     "sequencePriority": 15,
     "quality_schema": "skillr-actual-v6",
@@ -921,10 +921,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Why should an oral presentation avoid putting every sentence on the slide?",
-    "audio_prompt": "Why should an oral presentation avoid putting every sentence on the slide?",
-    "audioPrompt": "Why should an oral presentation avoid putting every sentence on the slide?",
+    "skill": "audience and purpose",
+    "question": "A school garden club wants to know where clay soil was found. Which message answers that purpose?",
+    "audio_prompt": "A school garden club wants to know where clay soil was found. Which message answers that purpose?",
+    "audioPrompt": "A school garden club wants to know where clay soil was found. Which message answers that purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -932,42 +932,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "More text always reduces accuracy",
+        "text": "Clay soil can be different colours.",
         "is_correct": false
       },
       {
-        "text": "The audience should be able to listen while the slide highlights key evidence",
+        "text": "We used pencils to label all our drawings.",
+        "is_correct": false
+      },
+      {
+        "text": "We found clay soil beside the gate and marked it on the map.",
         "is_correct": true
       },
       {
-        "text": "Slides must contain no words",
-        "is_correct": false
-      },
-      {
-        "text": "Reading is not scientific",
+        "text": "Clay soil was darker after wetting.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "More text always reduces accuracy",
-      "The audience should be able to listen while the slide highlights key evidence",
-      "Slides must contain no words",
-      "Reading is not scientific"
+      "Clay soil can be different colours.",
+      "We used pencils to label all our drawings.",
+      "We found clay soil beside the gate and marked it on the map.",
+      "Clay soil was darker after wetting."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Slides work best when they support rather than duplicate the spoken explanation.",
-      "hint": "Use visuals for key points."
+      "summary": "The club needs the observed location, so the message names it and points to the map.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "Slides work best when they support rather than duplicate the spoken explanation.",
-      "hint": "Use visuals for key points."
+      "summary": "The club needs the observed location, so the message names it and points to the map.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 16,
     "sequencePriority": 16,
     "quality_schema": "skillr-actual-v6",
@@ -982,10 +982,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Why use scientific vocabulary such as “evaporation” when it fits?",
-    "audio_prompt": "Why use scientific vocabulary such as “evaporation” when it fits?",
-    "audioPrompt": "Why use scientific vocabulary such as “evaporation” when it fits?",
+    "skill": "audience and purpose",
+    "question": "A pupil rewrites a finding for younger children. What must stay the same?",
+    "audio_prompt": "A pupil rewrites a finding for younger children. What must stay the same?",
+    "audioPrompt": "A pupil rewrites a finding for younger children. What must stay the same?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -993,42 +993,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Precise terms communicate the process clearly",
+        "text": "The scientific meaning and recorded result",
         "is_correct": true
       },
       {
-        "text": "Long words are automatically better",
+        "text": "The original font and colour",
         "is_correct": false
       },
       {
-        "text": "Vocabulary replaces evidence",
+        "text": "The exact number of long words",
         "is_correct": false
       },
       {
-        "text": "Scientific terms should confuse readers",
+        "text": "The size of the original paragraph",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Precise terms communicate the process clearly",
-      "Long words are automatically better",
-      "Vocabulary replaces evidence",
-      "Scientific terms should confuse readers"
+      "The scientific meaning and recorded result",
+      "The original font and colour",
+      "The exact number of long words",
+      "The size of the original paragraph"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Scientific vocabulary names ideas accurately and efficiently.",
-      "hint": "Choose precise terms the audience can understand."
+      "summary": "Words and presentation can change for the audience, but the evidence and scientific meaning must remain accurate.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "Scientific vocabulary names ideas accurately and efficiently.",
-      "hint": "Choose precise terms the audience can understand."
+      "summary": "Words and presentation can change for the audience, but the evidence and scientific meaning must remain accurate.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 17,
     "sequencePriority": 17,
     "quality_schema": "skillr-actual-v6",
@@ -1043,10 +1043,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Why should a report distinguish results from opinions?",
-    "audio_prompt": "Why should a report distinguish results from opinions?",
-    "audioPrompt": "Why should a report distinguish results from opinions?",
+    "skill": "audience and purpose",
+    "question": "A class invites families to view a plant-growth display. Which invitation explains the science purpose?",
+    "audio_prompt": "A class invites families to view a plant-growth display. Which invitation explains the science purpose?",
+    "audioPrompt": "A class invites families to view a plant-growth display. Which invitation explains the science purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1054,42 +1054,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Opinions are always forbidden everywhere",
+        "text": "Visit because every plant needs exactly the same water.",
         "is_correct": false
       },
       {
-        "text": "Results must be positive",
-        "is_correct": false
-      },
-      {
-        "text": "Scientific reports cannot include explanations",
-        "is_correct": false
-      },
-      {
-        "text": "Readers need to know which statements come from evidence",
+        "text": "Visit our display to see how our seedlings changed over three weeks.",
         "is_correct": true
+      },
+      {
+        "text": "Visit to learn that seedlings are fully grown plants.",
+        "is_correct": false
+      },
+      {
+        "text": "Visit to compare the colours of our empty pots.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Opinions are always forbidden everywhere",
-      "Results must be positive",
-      "Scientific reports cannot include explanations",
-      "Readers need to know which statements come from evidence"
+      "Visit because every plant needs exactly the same water.",
+      "Visit our display to see how our seedlings changed over three weeks.",
+      "Visit to learn that seedlings are fully grown plants.",
+      "Visit to compare the colours of our empty pots."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Separating evidence from personal judgement supports clear communication.",
-      "hint": "What was measured versus what was liked."
+      "summary": "The invitation tells families what the display will show without adding unsupported claims.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "Separating evidence from personal judgement supports clear communication.",
-      "hint": "What was measured versus what was liked."
+      "summary": "The invitation tells families what the display will show without adding unsupported claims.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 18,
     "sequencePriority": 18,
     "quality_schema": "skillr-actual-v6",
@@ -1104,10 +1104,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Why might a digital photo series help communicate plant growth?",
-    "audio_prompt": "Why might a digital photo series help communicate plant growth?",
-    "audioPrompt": "Why might a digital photo series help communicate plant growth?",
+    "skill": "audience and purpose",
+    "question": "Year 1 pupils need to understand a heat-transfer arrow between a warm cup and a cooler spoon. Which caption helps?",
+    "audio_prompt": "Year 1 pupils need to understand a heat-transfer arrow between a warm cup and a cooler spoon. Which caption helps?",
+    "audioPrompt": "Year 1 pupils need to understand a heat-transfer arrow between a warm cup and a cooler spoon. Which caption helps?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1115,42 +1115,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Images make tables unnecessary",
+        "text": "The arrow shows the spoon growing longer.",
         "is_correct": false
       },
       {
-        "text": "Photos prove why growth happened",
+        "text": "Cold moves from the spoon to fill the cup.",
         "is_correct": false
       },
       {
-        "text": "It shows visible changes across time that can support the measurements",
+        "text": "Heat moves from the warmer cup to the cooler spoon.",
         "is_correct": true
       },
       {
-        "text": "Photos measure height automatically",
+        "text": "The arrow shows that both objects started equally warm.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Images make tables unnecessary",
-      "Photos prove why growth happened",
-      "It shows visible changes across time that can support the measurements",
-      "Photos measure height automatically"
+      "The arrow shows the spoon growing longer.",
+      "Cold moves from the spoon to fill the cup.",
+      "Heat moves from the warmer cup to the cooler spoon.",
+      "The arrow shows that both objects started equally warm."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Images can provide visual evidence alongside numerical data.",
-      "hint": "Use different evidence types together."
+      "summary": "The caption explains the arrow with a simple, accurate direction of heat transfer.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "Images can provide visual evidence alongside numerical data.",
-      "hint": "Use different evidence types together."
+      "summary": "The caption explains the arrow with a simple, accurate direction of heat transfer.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 19,
     "sequencePriority": 19,
     "quality_schema": "skillr-actual-v6",
@@ -1165,10 +1165,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Why should a scientific explanation avoid claiming more than the data show?",
-    "audio_prompt": "Why should a scientific explanation avoid claiming more than the data show?",
-    "audioPrompt": "Why should a scientific explanation avoid claiming more than the data show?",
+    "skill": "audience and purpose",
+    "question": "A science-night poster recommends a container only for the conditions tested. Which sentence is suitable?",
+    "audio_prompt": "A science-night poster recommends a container only for the conditions tested. Which sentence is suitable?",
+    "audioPrompt": "A science-night poster recommends a container only for the conditions tested. Which sentence is suitable?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1176,42 +1176,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A report should always use “proves”",
+        "text": "This container is best in every place and season.",
         "is_correct": false
       },
       {
-        "text": "Overclaiming can mislead the audience about the strength of the evidence",
+        "text": "This container never lets any heat pass.",
+        "is_correct": false
+      },
+      {
+        "text": "This container keeps every drink at exactly 40°C.",
+        "is_correct": false
+      },
+      {
+        "text": "This container kept our water warmer for 15 minutes in our classroom test.",
         "is_correct": true
-      },
-      {
-        "text": "Strong wording makes weak evidence stronger",
-        "is_correct": false
-      },
-      {
-        "text": "Audiences prefer certainty",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A report should always use “proves”",
-      "Overclaiming can mislead the audience about the strength of the evidence",
-      "Strong wording makes weak evidence stronger",
-      "Audiences prefer certainty"
+      "This container is best in every place and season.",
+      "This container never lets any heat pass.",
+      "This container keeps every drink at exactly 40°C.",
+      "This container kept our water warmer for 15 minutes in our classroom test."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Communication should reflect the limits of the evidence.",
-      "hint": "Match certainty to data."
+      "summary": "The sentence describes what was actually tested and avoids promises the evidence cannot support.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "Communication should reflect the limits of the evidence.",
-      "hint": "Match certainty to data."
+      "summary": "The sentence describes what was actually tested and avoids promises the evidence cannot support.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 20,
     "sequencePriority": 20,
     "quality_schema": "skillr-actual-v6",
@@ -1226,10 +1226,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which sentence is most suitable for a younger audience?",
-    "audio_prompt": "Which sentence is most suitable for a younger audience?",
-    "audioPrompt": "Which sentence is most suitable for a younger audience?",
+    "skill": "audience and purpose",
+    "question": "Classmates need to repeat a soil-drainage method. Which instruction gives useful detail?",
+    "audio_prompt": "Classmates need to repeat a soil-drainage method. Which instruction gives useful detail?",
+    "audioPrompt": "Classmates need to repeat a soil-drainage method. Which instruction gives useful detail?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1237,42 +1237,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The ice melted because heat energy moved into it from warmer surroundings",
+        "text": "Stop each test whenever its result seems right.",
+        "is_correct": false
+      },
+      {
+        "text": "Use whichever soil amount looks best.",
+        "is_correct": false
+      },
+      {
+        "text": "Add some water and wait a while.",
+        "is_correct": false
+      },
+      {
+        "text": "Pour 50 mL into each equal soil sample and collect drainage for 5 minutes.",
         "is_correct": true
-      },
-      {
-        "text": "Thermal transfer produced a phase transition via enthalpy increase",
-        "is_correct": false
-      },
-      {
-        "text": "Ice did magic",
-        "is_correct": false
-      },
-      {
-        "text": "Heat is complicated",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The ice melted because heat energy moved into it from warmer surroundings",
-      "Thermal transfer produced a phase transition via enthalpy increase",
-      "Ice did magic",
-      "Heat is complicated"
+      "Stop each test whenever its result seems right.",
+      "Use whichever soil amount looks best.",
+      "Add some water and wait a while.",
+      "Pour 50 mL into each equal soil sample and collect drainage for 5 minutes."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The first sentence is accurate but accessible.",
-      "hint": "Keep the science correct and understandable."
+      "summary": "Amounts and times make the instruction clear enough to follow consistently.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "The first sentence is accurate but accessible.",
-      "hint": "Keep the science correct and understandable."
+      "summary": "Amounts and times make the instruction clear enough to follow consistently.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 21,
     "sequencePriority": 21,
     "quality_schema": "skillr-actual-v6",
@@ -1287,10 +1287,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which graph caption is strongest?",
-    "audio_prompt": "Which graph caption is strongest?",
-    "audioPrompt": "Which graph caption is strongest?",
+    "skill": "audience and purpose",
+    "question": "A class writes a life-cycle story for younger pupils from a frog's point of view. Which sentence is scientifically accurate?",
+    "audio_prompt": "A class writes a life-cycle story for younger pupils from a frog's point of view. Which sentence is scientifically accurate?",
+    "audioPrompt": "A class writes a life-cycle story for younger pupils from a frog's point of view. Which sentence is scientifically accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1298,42 +1298,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Graph picture",
-        "is_correct": false
-      },
-      {
-        "text": "Our nice chart",
-        "is_correct": false
-      },
-      {
-        "text": "Plants are cool",
-        "is_correct": false
-      },
-      {
-        "text": "Figure 1. Plant height increased from 9 cm to 15 cm over two weeks",
+        "text": "I hatch from an egg as a tadpole, then develop legs as I grow.",
         "is_correct": true
+      },
+      {
+        "text": "I hatch from a seed and grow petals.",
+        "is_correct": false
+      },
+      {
+        "text": "I turn from a tadpole into a butterfly.",
+        "is_correct": false
+      },
+      {
+        "text": "I begin as an adult frog, then grow into an egg.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Graph picture",
-      "Our nice chart",
-      "Plants are cool",
-      "Figure 1. Plant height increased from 9 cm to 15 cm over two weeks"
+      "I hatch from an egg as a tadpole, then develop legs as I grow.",
+      "I hatch from a seed and grow petals.",
+      "I turn from a tadpole into a butterfly.",
+      "I begin as an adult frog, then grow into an egg."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A strong caption identifies the figure and its relevant pattern.",
-      "hint": "Explain what the reader should notice."
+      "summary": "A story can use a character's voice while preserving the correct frog life-cycle sequence.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "A strong caption identifies the figure and its relevant pattern.",
-      "hint": "Explain what the reader should notice."
+      "summary": "A story can use a character's voice while preserving the correct frog life-cycle sequence.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 22,
     "sequencePriority": 22,
     "quality_schema": "skillr-actual-v6",
@@ -1348,10 +1348,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which statement belongs in a conclusion rather than a method?",
-    "audio_prompt": "Which statement belongs in a conclusion rather than a method?",
-    "audioPrompt": "Which statement belongs in a conclusion rather than a method?",
+    "skill": "audience and purpose",
+    "question": "A family asks what the class learned, rather than which equipment it used. Which response meets that purpose?",
+    "audio_prompt": "A family asks what the class learned, rather than which equipment it used. Which response meets that purpose?",
+    "audioPrompt": "A family asks what the class learned, rather than which equipment it used. Which response meets that purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1359,42 +1359,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Measure every five minutes",
-        "is_correct": false
-      },
-      {
-        "text": "Use two thermometers",
-        "is_correct": false
-      },
-      {
-        "text": "The darker surface warmed more in our test",
+        "text": "The shaded soil stayed cooler than the sunny soil at each check.",
         "is_correct": true
       },
       {
-        "text": "Place each tray in sunlight",
+        "text": "We wrote our names on the cups.",
+        "is_correct": false
+      },
+      {
+        "text": "Our table had three columns.",
+        "is_correct": false
+      },
+      {
+        "text": "We used two thermometers and a notebook.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Measure every five minutes",
-      "Use two thermometers",
-      "The darker surface warmed more in our test",
-      "Place each tray in sunlight"
+      "The shaded soil stayed cooler than the sunny soil at each check.",
+      "We wrote our names on the cups.",
+      "Our table had three columns.",
+      "We used two thermometers and a notebook."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A conclusion states what the evidence showed.",
-      "hint": "Result versus procedure."
+      "summary": "The question asks for a finding, so the response should describe the observed temperature pattern.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "A conclusion states what the evidence showed.",
-      "hint": "Result versus procedure."
+      "summary": "The question asks for a finding, so the response should describe the observed temperature pattern.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 23,
     "sequencePriority": 23,
     "quality_schema": "skillr-actual-v6",
@@ -1409,10 +1409,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which slide is best designed for presenting three category counts?",
-    "audio_prompt": "Which slide is best designed for presenting three category counts?",
-    "audioPrompt": "Which slide is best designed for presenting three category counts?",
+    "skill": "audience and purpose",
+    "question": "A student explains freezing to classmates. Which sentence gives an accurate explanation using familiar words?",
+    "audio_prompt": "A student explains freezing to classmates. Which sentence gives an accurate explanation using familiar words?",
+    "audioPrompt": "A student explains freezing to classmates. Which sentence gives an accurate explanation using familiar words?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1420,42 +1420,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A decorative animation with no data",
+        "text": "Ice is a liquid that cannot be poured.",
         "is_correct": false
       },
       {
-        "text": "A simple labelled graph with a short spoken explanation",
+        "text": "Liquid water can become solid ice when enough heat is removed.",
         "is_correct": true
       },
       {
-        "text": "A full page of tiny numbers",
+        "text": "Liquid water becomes ice because heat is added.",
         "is_correct": false
       },
       {
-        "text": "An unrelated photo",
+        "text": "Freezing means water has disappeared.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A decorative animation with no data",
-      "A simple labelled graph with a short spoken explanation",
-      "A full page of tiny numbers",
-      "An unrelated photo"
+      "Ice is a liquid that cannot be poured.",
+      "Liquid water can become solid ice when enough heat is removed.",
+      "Liquid water becomes ice because heat is added.",
+      "Freezing means water has disappeared."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "A clear graph supports the spoken message and reduces overload.",
-      "hint": "Show the evidence simply."
+      "summary": "The sentence correctly links the liquid-to-solid change with removing heat.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "A clear graph supports the spoken message and reduces overload.",
-      "hint": "Show the evidence simply."
+      "summary": "The sentence correctly links the liquid-to-solid change with removing heat.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 24,
     "sequencePriority": 24,
     "quality_schema": "skillr-actual-v6",
@@ -1470,10 +1470,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which wording is too strong?",
-    "audio_prompt": "Which wording is too strong?",
-    "audioPrompt": "Which wording is too strong?",
+    "skill": "scientific wording",
+    "question": "Complete the label: A thermometer measures ___.",
+    "audio_prompt": "Complete the label: A thermometer measures ___.",
+    "audioPrompt": "Complete the label: A thermometer measures ___.",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1481,42 +1481,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Our test proves this happens every time everywhere",
+        "text": "length",
+        "is_correct": false
+      },
+      {
+        "text": "volume",
+        "is_correct": false
+      },
+      {
+        "text": "mass",
+        "is_correct": false
+      },
+      {
+        "text": "temperature",
         "is_correct": true
-      },
-      {
-        "text": "Our test suggests the pattern under these conditions",
-        "is_correct": false
-      },
-      {
-        "text": "The results support the idea",
-        "is_correct": false
-      },
-      {
-        "text": "We observed the pattern in four trials",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Our test proves this happens every time everywhere",
-      "Our test suggests the pattern under these conditions",
-      "The results support the idea",
-      "We observed the pattern in four trials"
+      "length",
+      "volume",
+      "mass",
+      "temperature"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A classroom investigation rarely justifies a universal claim.",
-      "hint": "Watch for “every time everywhere”."
+      "summary": "Temperature describes how hot or cold something is and is measured with a thermometer.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "A classroom investigation rarely justifies a universal claim.",
-      "hint": "Watch for “every time everywhere”."
+      "summary": "Temperature describes how hot or cold something is and is measured with a thermometer.",
+      "hint": "Use a precise science word that matches the observation."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 25,
     "sequencePriority": 25,
     "quality_schema": "skillr-actual-v6",
@@ -1531,10 +1531,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which report sentence uses scientific vocabulary correctly?",
-    "audio_prompt": "Which report sentence uses scientific vocabulary correctly?",
-    "audioPrompt": "Which report sentence uses scientific vocabulary correctly?",
+    "skill": "scientific wording",
+    "question": "A report describes an ice cube becoming liquid water. Which word names this change?",
+    "audio_prompt": "A report describes an ice cube becoming liquid water. Which word names this change?",
+    "audioPrompt": "A report describes an ice cube becoming liquid water. Which word names this change?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1542,42 +1542,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The water disappeared because it wanted to",
-        "is_correct": false
-      },
-      {
-        "text": "The water vanished magically",
-        "is_correct": false
-      },
-      {
-        "text": "Evaporation means freezing",
-        "is_correct": false
-      },
-      {
-        "text": "Water evaporated faster from the wider dish",
+        "text": "Melting",
         "is_correct": true
+      },
+      {
+        "text": "Sprouting",
+        "is_correct": false
+      },
+      {
+        "text": "Freezing",
+        "is_correct": false
+      },
+      {
+        "text": "Draining",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The water disappeared because it wanted to",
-      "The water vanished magically",
-      "Evaporation means freezing",
-      "Water evaporated faster from the wider dish"
+      "Melting",
+      "Sprouting",
+      "Freezing",
+      "Draining"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Evaporation correctly describes liquid water changing into water vapour.",
-      "hint": "Use the right science term."
+      "summary": "Melting is the change from solid to liquid.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "Evaporation correctly describes liquid water changing into water vapour.",
-      "hint": "Use the right science term."
+      "summary": "Melting is the change from solid to liquid.",
+      "hint": "Use a precise science word that matches the observation."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 26,
     "sequencePriority": 26,
     "quality_schema": "skillr-actual-v6",
@@ -1592,10 +1592,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which visual is least useful for showing temperature change over time?",
-    "audio_prompt": "Which visual is least useful for showing temperature change over time?",
-    "audioPrompt": "Which visual is least useful for showing temperature change over time?",
+    "skill": "scientific wording",
+    "question": "A report describes liquid water becoming solid ice. Which word should be used?",
+    "audio_prompt": "A report describes liquid water becoming solid ice. Which word should be used?",
+    "audioPrompt": "A report describes liquid water becoming solid ice. Which word should be used?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1603,42 +1603,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A table of time and temperature",
-        "is_correct": false
-      },
-      {
-        "text": "A labelled sequence of readings",
-        "is_correct": false
-      },
-      {
-        "text": "An unrelated animal photo",
+        "text": "Freezing",
         "is_correct": true
       },
       {
-        "text": "A line or column display of time and temperature",
+        "text": "Growing",
+        "is_correct": false
+      },
+      {
+        "text": "Melting",
+        "is_correct": false
+      },
+      {
+        "text": "Flowing",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A table of time and temperature",
-      "A labelled sequence of readings",
-      "An unrelated animal photo",
-      "A line or column display of time and temperature"
+      "Freezing",
+      "Growing",
+      "Melting",
+      "Flowing"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "An unrelated image does not communicate the temperature evidence.",
-      "hint": "Does it support the finding?"
+      "summary": "Freezing names a liquid-to-solid change.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "An unrelated image does not communicate the temperature evidence.",
-      "hint": "Does it support the finding?"
+      "summary": "Freezing names a liquid-to-solid change.",
+      "hint": "Use a precise science word that matches the observation."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 27,
     "sequencePriority": 27,
     "quality_schema": "skillr-actual-v6",
@@ -1653,10 +1653,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which sentence best links evidence to a finding?",
-    "audio_prompt": "Which sentence best links evidence to a finding?",
-    "audioPrompt": "Which sentence best links evidence to a finding?",
+    "skill": "scientific wording",
+    "question": "A pupil writes This rock feels bumpy. Which property is being described?",
+    "audio_prompt": "A pupil writes This rock feels bumpy. Which property is being described?",
+    "audioPrompt": "A pupil writes This rock feels bumpy. Which property is being described?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1664,42 +1664,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "I expected shade to work",
+        "text": "Volume",
         "is_correct": false
       },
       {
-        "text": "Because the shaded tray stayed 5–7°C cooler in every reading, shade reduced warming in our test",
+        "text": "Temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Texture",
         "is_correct": true
       },
       {
-        "text": "Shade is good",
-        "is_correct": false
-      },
-      {
-        "text": "The graph has four bars",
+        "text": "Life stage",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "I expected shade to work",
-      "Because the shaded tray stayed 5–7°C cooler in every reading, shade reduced warming in our test",
-      "Shade is good",
-      "The graph has four bars"
+      "Volume",
+      "Temperature",
+      "Texture",
+      "Life stage"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The sentence connects the repeated measurements directly to the conclusion.",
-      "hint": "Evidence → finding."
+      "summary": "Texture describes how a surface feels, such as rough, smooth or bumpy.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "The sentence connects the repeated measurements directly to the conclusion.",
-      "hint": "Evidence → finding."
+      "summary": "Texture describes how a surface feels, such as rough, smooth or bumpy.",
+      "hint": "Use a precise science word that matches the observation."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 28,
     "sequencePriority": 28,
     "quality_schema": "skillr-actual-v6",
@@ -1714,10 +1714,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which audience adaptation changes style without changing the science?",
-    "audio_prompt": "Which audience adaptation changes style without changing the science?",
-    "audioPrompt": "Which audience adaptation changes style without changing the science?",
+    "skill": "scientific wording",
+    "question": "A report says water passed through the soil and was collected below. Which phrase describes what was measured?",
+    "audio_prompt": "A report says water passed through the soil and was collected below. Which phrase describes what was measured?",
+    "audioPrompt": "A report says water passed through the soil and was collected below. Which phrase describes what was measured?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1725,42 +1725,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Replacing technical wording with a simple accurate explanation for younger students",
+        "text": "Animal growth",
+        "is_correct": false
+      },
+      {
+        "text": "Water drainage",
         "is_correct": true
       },
       {
-        "text": "Changing the result to make it easier",
+        "text": "Rock melting",
         "is_correct": false
       },
       {
-        "text": "Removing the evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Adding a claim the data do not support",
+        "text": "Plant germination",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Replacing technical wording with a simple accurate explanation for younger students",
-      "Changing the result to make it easier",
-      "Removing the evidence",
-      "Adding a claim the data do not support"
+      "Animal growth",
+      "Water drainage",
+      "Rock melting",
+      "Plant germination"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Audience adaptation should preserve scientific accuracy.",
-      "hint": "Simplify language, not truth."
+      "summary": "Water drainage refers to water moving through and out of the soil.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "Audience adaptation should preserve scientific accuracy.",
-      "hint": "Simplify language, not truth."
+      "summary": "Water drainage refers to water moving through and out of the soil.",
+      "hint": "Use a precise science word that matches the observation."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 29,
     "sequencePriority": 29,
     "quality_schema": "skillr-actual-v6",
@@ -1775,10 +1775,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which report title is most specific?",
-    "audio_prompt": "Which report title is most specific?",
-    "audioPrompt": "Which report title is most specific?",
+    "skill": "scientific wording",
+    "question": "A pupil writes The ice got heat from the warmer room. Which revision keeps the science accurate?",
+    "audio_prompt": "A pupil writes The ice got heat from the warmer room. Which revision keeps the science accurate?",
+    "audioPrompt": "A pupil writes The ice got heat from the warmer room. Which revision keeps the science accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1786,42 +1786,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Science Report",
-        "is_correct": false
-      },
-      {
-        "text": "Our Experiment",
-        "is_correct": false
-      },
-      {
-        "text": "Cars",
-        "is_correct": false
-      },
-      {
-        "text": "Effect of Ramp Height on Toy-Car Travel Distance",
+        "text": "Heat transferred from the warmer surroundings into the ice.",
         "is_correct": true
+      },
+      {
+        "text": "Cold transferred from the room into the ice.",
+        "is_correct": false
+      },
+      {
+        "text": "The ice made all of its own heat.",
+        "is_correct": false
+      },
+      {
+        "text": "Heat transferred only from the ice into the warmer room.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Science Report",
-      "Our Experiment",
-      "Cars",
-      "Effect of Ramp Height on Toy-Car Travel Distance"
+      "Heat transferred from the warmer surroundings into the ice.",
+      "Cold transferred from the room into the ice.",
+      "The ice made all of its own heat.",
+      "Heat transferred only from the ice into the warmer room."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The title names both the tested factor and measured outcome.",
-      "hint": "Be specific."
+      "summary": "The room was warmer, so heat transferred into the colder ice.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "The title names both the tested factor and measured outcome.",
-      "hint": "Be specific."
+      "summary": "The room was warmer, so heat transferred into the colder ice.",
+      "hint": "Use a precise science word that matches the observation."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 30,
     "sequencePriority": 30,
     "quality_schema": "skillr-actual-v6",
@@ -1836,10 +1836,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "You need to explain a soil-drainage test to families at a school science night. What is the best format?",
-    "audio_prompt": "You need to explain a soil-drainage test to families at a school science night. What is the best format?",
-    "audioPrompt": "You need to explain a soil-drainage test to families at a school science night. What is the best format?",
+    "skill": "scientific wording",
+    "question": "A record says a seed began to grow and a root appeared. Which sentence uses the right science word?",
+    "audio_prompt": "A record says a seed began to grow and a root appeared. Which sentence uses the right science word?",
+    "audioPrompt": "A record says a seed began to grow and a root appeared. Which sentence uses the right science word?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1847,40 +1847,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A technical paper with no visuals",
+        "text": "The seed drained into an adult plant.",
         "is_correct": false
       },
       {
-        "text": "A poster of unrelated soil colours",
+        "text": "The seed melted into a root.",
         "is_correct": false
       },
       {
-        "text": "A short explanation with a labelled setup photo and simple results graph",
+        "text": "The seed froze and a root began to grow.",
+        "is_correct": false
+      },
+      {
+        "text": "The seed germinated and a root began to grow.",
         "is_correct": true
-      },
-      {
-        "text": "A page of raw numbers only",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A technical paper with no visuals",
-      "A poster of unrelated soil colours",
-      "A short explanation with a labelled setup photo and simple results graph",
-      "A page of raw numbers only"
+      "The seed drained into an adult plant.",
+      "The seed melted into a root.",
+      "The seed froze and a root began to grow.",
+      "The seed germinated and a root began to grow."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A mixed format can make the method and findings accessible to a general audience.",
-      "hint": "Match purpose and audience."
+      "summary": "Germination is the beginning of a seed's growth into a new plant.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "A mixed format can make the method and findings accessible to a general audience.",
-      "hint": "Match purpose and audience."
+      "summary": "Germination is the beginning of a seed's growth into a new plant.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 31,
@@ -1897,10 +1897,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "A class found plastic warmed fastest in sunlight. Which sentence should go on the final slide?",
-    "audio_prompt": "A class found plastic warmed fastest in sunlight. Which sentence should go on the final slide?",
-    "audioPrompt": "A class found plastic warmed fastest in sunlight. Which sentence should go on the final slide?",
+    "skill": "scientific wording",
+    "question": "A pupil describes water as solid because it is in a square container. Which revision is accurate?",
+    "audio_prompt": "A pupil describes water as solid because it is in a square container. Which revision is accurate?",
+    "audioPrompt": "A pupil describes water as solid because it is in a square container. Which revision is accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1908,40 +1908,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Our favourite sample was plastic",
+        "text": "Water is solid whenever it is still.",
         "is_correct": false
       },
       {
-        "text": "In our test, the plastic sample had the greatest temperature increase",
+        "text": "Water becomes solid in every square container.",
+        "is_correct": false
+      },
+      {
+        "text": "All square objects are liquids.",
+        "is_correct": false
+      },
+      {
+        "text": "Water is liquid and takes the container's shape.",
         "is_correct": true
-      },
-      {
-        "text": "Plastic always gets hottest everywhere",
-        "is_correct": false
-      },
-      {
-        "text": "Plastic is bad",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Our favourite sample was plastic",
-      "In our test, the plastic sample had the greatest temperature increase",
-      "Plastic always gets hottest everywhere",
-      "Plastic is bad"
+      "Water is solid whenever it is still.",
+      "Water becomes solid in every square container.",
+      "All square objects are liquids.",
+      "Water is liquid and takes the container's shape."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The first sentence communicates the finding without overclaiming.",
-      "hint": "Stay within the test."
+      "summary": "The container's shape does not determine the state. Liquid water takes its container's shape.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "The first sentence communicates the finding without overclaiming.",
-      "hint": "Stay within the test."
+      "summary": "The container's shape does not determine the state. Liquid water takes its container's shape.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 32,
@@ -1958,10 +1958,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "A graph has no units. How should it be revised?",
-    "audio_prompt": "A graph has no units. How should it be revised?",
-    "audioPrompt": "A graph has no units. How should it be revised?",
+    "skill": "scientific wording",
+    "question": "A report records 45 mL collected under a soil sample. Which sentence uses the unit correctly?",
+    "audio_prompt": "A report records 45 mL collected under a soil sample. Which sentence uses the unit correctly?",
+    "audioPrompt": "A report records 45 mL collected under a soil sample. Which sentence uses the unit correctly?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1969,42 +1969,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Add the measurement unit to the relevant axis label",
+        "text": "The water was 45 degrees Celsius in volume.",
+        "is_correct": false
+      },
+      {
+        "text": "We collected 45 millilitres of water.",
         "is_correct": true
       },
       {
-        "text": "Make bars brighter",
+        "text": "We collected 45 centimetres of water.",
         "is_correct": false
       },
       {
-        "text": "Remove the title",
-        "is_correct": false
-      },
-      {
-        "text": "Add more decorations",
+        "text": "The water took 45 grams to drain.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Add the measurement unit to the relevant axis label",
-      "Make bars brighter",
-      "Remove the title",
-      "Add more decorations"
+      "The water was 45 degrees Celsius in volume.",
+      "We collected 45 millilitres of water.",
+      "We collected 45 centimetres of water.",
+      "The water took 45 grams to drain."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Units are needed to interpret numerical values.",
-      "hint": "Tell the reader what the numbers mean."
+      "summary": "mL means millilitres, a unit of volume.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "Units are needed to interpret numerical values.",
-      "hint": "Tell the reader what the numbers mean."
+      "summary": "mL means millilitres, a unit of volume.",
+      "hint": "Use a precise science word that matches the observation."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 33,
     "sequencePriority": 33,
     "quality_schema": "skillr-actual-v6",
@@ -2019,10 +2019,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "A student says, “Our water disappeared.” What is the better scientific wording if the water level fell in an open dish?",
-    "audio_prompt": "A student says, “Our water disappeared.” What is the better scientific wording if the water level fell in an open dish?",
-    "audioPrompt": "A student says, “Our water disappeared.” What is the better scientific wording if the water level fell in an open dish?",
+    "skill": "scientific wording",
+    "question": "A student writes Our soil was best. Which revision describes an observable property instead?",
+    "audio_prompt": "A student writes Our soil was best. Which revision describes an observable property instead?",
+    "audioPrompt": "A student writes Our soil was best. Which revision describes an observable property instead?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2030,42 +2030,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The water was destroyed",
+        "text": "Our soil was better than every other soil.",
         "is_correct": false
       },
       {
-        "text": "The water froze",
+        "text": "Our soil was the nicest in the class.",
         "is_correct": false
       },
       {
-        "text": "The dish absorbed all matter",
-        "is_correct": false
-      },
-      {
-        "text": "Some liquid water evaporated into the air",
+        "text": "Our soil felt crumbly when dry.",
         "is_correct": true
+      },
+      {
+        "text": "Everyone should prefer our soil.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The water was destroyed",
-      "The water froze",
-      "The dish absorbed all matter",
-      "Some liquid water evaporated into the air"
+      "Our soil was better than every other soil.",
+      "Our soil was the nicest in the class.",
+      "Our soil felt crumbly when dry.",
+      "Everyone should prefer our soil."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Evaporation names the observed change more accurately.",
-      "hint": "Use the science term for liquid to gas."
+      "summary": "Crumbly when dry describes an observed texture. Best and nicest are preferences unless a criterion is stated.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "Evaporation names the observed change more accurately.",
-      "hint": "Use the science term for liquid to gas."
+      "summary": "Crumbly when dry describes an observed texture. Best and nicest are preferences unless a criterion is stated.",
+      "hint": "Use a precise science word that matches the observation."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 34,
     "sequencePriority": 34,
     "quality_schema": "skillr-actual-v6",
@@ -2080,10 +2080,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "A report is for Year 3 classmates. Which explanation is best?",
-    "audio_prompt": "A report is for Year 3 classmates. Which explanation is best?",
-    "audioPrompt": "A report is for Year 3 classmates. Which explanation is best?",
+    "skill": "scientific wording",
+    "question": "A labelled diagram calls an adult butterfly a tadpole. Which correction is needed?",
+    "audio_prompt": "A labelled diagram calls an adult butterfly a tadpole. Which correction is needed?",
+    "audioPrompt": "A labelled diagram calls an adult butterfly a tadpole. Which correction is needed?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2091,42 +2091,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Only emojis",
+        "text": "Replace tadpole with egg.",
         "is_correct": false
       },
       {
-        "text": "A result with no explanation",
-        "is_correct": false
-      },
-      {
-        "text": "A clear sentence using taught vocabulary plus a simple labelled diagram",
+        "text": "Replace tadpole with adult butterfly.",
         "is_correct": true
       },
       {
-        "text": "A dense university-level paragraph",
+        "text": "Replace tadpole with seedling.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep tadpole because both are animals.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Only emojis",
-      "A result with no explanation",
-      "A clear sentence using taught vocabulary plus a simple labelled diagram",
-      "A dense university-level paragraph"
+      "Replace tadpole with egg.",
+      "Replace tadpole with adult butterfly.",
+      "Replace tadpole with seedling.",
+      "Keep tadpole because both are animals."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The communication should be accurate, accessible and supported.",
-      "hint": "Use the audience’s level."
+      "summary": "Tadpole names a young frog stage, not an adult butterfly.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "The communication should be accurate, accessible and supported.",
-      "hint": "Use the audience’s level."
+      "summary": "Tadpole names a young frog stage, not an adult butterfly.",
+      "hint": "Use a precise science word that matches the observation."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 35,
     "sequencePriority": 35,
     "quality_schema": "skillr-actual-v6",
@@ -2141,10 +2141,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "A class wants to communicate that two groups got similar results. Which visual helps most?",
-    "audio_prompt": "A class wants to communicate that two groups got similar results. Which visual helps most?",
-    "audioPrompt": "A class wants to communicate that two groups got similar results. Which visual helps most?",
+    "skill": "scientific wording",
+    "question": "A student writes The cup's temperature fell from 35°C to 28°C. Which shorter sentence preserves the meaning?",
+    "audio_prompt": "A student writes The cup's temperature fell from 35°C to 28°C. Which shorter sentence preserves the meaning?",
+    "audioPrompt": "A student writes The cup's temperature fell from 35°C to 28°C. Which shorter sentence preserves the meaning?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2152,42 +2152,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A drawing of the equipment box",
+        "text": "The cup warmed by 7°C.",
         "is_correct": false
       },
       {
-        "text": "A side-by-side table or graph of both groups’ values",
+        "text": "The cup stayed at 35°C.",
+        "is_correct": false
+      },
+      {
+        "text": "The cup cooled by 7°C.",
         "is_correct": true
       },
       {
-        "text": "A photo of the classroom door",
-        "is_correct": false
-      },
-      {
-        "text": "A list of student names",
+        "text": "The cup cooled by 28°C.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A drawing of the equipment box",
-      "A side-by-side table or graph of both groups’ values",
-      "A photo of the classroom door",
-      "A list of student names"
+      "The cup warmed by 7°C.",
+      "The cup stayed at 35°C.",
+      "The cup cooled by 7°C.",
+      "The cup cooled by 28°C."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Side-by-side values make agreement and variation easy to compare.",
-      "hint": "Show both data sets."
+      "summary": "The temperature decreased by 35 minus 28, or 7°C.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "Side-by-side values make agreement and variation easy to compare.",
-      "hint": "Show both data sets."
+      "summary": "The temperature decreased by 35 minus 28, or 7°C.",
+      "hint": "Use a precise science word that matches the observation."
     },
-    "stage": "apply",
+    "stage": "reason",
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 36,
     "sequencePriority": 36,
     "quality_schema": "skillr-actual-v6",
@@ -2202,10 +2202,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "A student has a photo, table and conclusion. What order is most logical in a short report?",
-    "audio_prompt": "A student has a photo, table and conclusion. What order is most logical in a short report?",
-    "audioPrompt": "A student has a photo, table and conclusion. What order is most logical in a short report?",
+    "skill": "visual and digital communication",
+    "question": "A class will show bird counts for three places during a short talk. Which slide best communicates the comparison?",
+    "audio_prompt": "A class will show bird counts for three places during a short talk. Which slide best communicates the comparison?",
+    "audioPrompt": "A class will show bird counts for three places during a short talk. Which slide best communicates the comparison?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2213,42 +2213,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Introduce the investigation, present evidence, then state the conclusion",
+        "text": "A graph with unnamed columns",
+        "is_correct": false
+      },
+      {
+        "text": "A photo of one bird with no counts",
+        "is_correct": false
+      },
+      {
+        "text": "A list of equipment without results",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled column graph with each place and its count",
         "is_correct": true
-      },
-      {
-        "text": "Conclusion first, then unrelated photo, then title",
-        "is_correct": false
-      },
-      {
-        "text": "Random order",
-        "is_correct": false
-      },
-      {
-        "text": "Evidence after the final page only",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Introduce the investigation, present evidence, then state the conclusion",
-      "Conclusion first, then unrelated photo, then title",
-      "Random order",
-      "Evidence after the final page only"
+      "A graph with unnamed columns",
+      "A photo of one bird with no counts",
+      "A list of equipment without results",
+      "A labelled column graph with each place and its count"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A logical sequence helps readers follow question, evidence and finding.",
-      "hint": "Build toward the conclusion."
+      "summary": "The graph lets the audience compare all three recorded counts and identify their locations.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
     "structuredExplanation": {
-      "summary": "A logical sequence helps readers follow question, evidence and finding.",
-      "hint": "Build toward the conclusion."
+      "summary": "The graph lets the audience compare all three recorded counts and identify their locations.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 37,
     "sequencePriority": 37,
     "quality_schema": "skillr-actual-v6",
@@ -2263,10 +2263,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "You need to present a life-cycle sequence. Which digital choice is strongest?",
-    "audio_prompt": "You need to present a life-cycle sequence. Which digital choice is strongest?",
-    "audioPrompt": "You need to present a life-cycle sequence. Which digital choice is strongest?",
+    "skill": "visual and digital communication",
+    "question": "A digital graph has the numbers 10, 20 and 30 but no unit on its water-volume axis. What should be added?",
+    "audio_prompt": "A digital graph has the numbers 10, 20 and 30 but no unit on its water-volume axis. What should be added?",
+    "audioPrompt": "A digital graph has the numbers 10, 20 and 30 but no unit on its water-volume axis. What should be added?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2274,42 +2274,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A graph of unrelated temperatures",
+        "text": "°C beside the water-volume label",
         "is_correct": false
       },
       {
-        "text": "A blank slide",
+        "text": "minutes beside the water-volume label",
         "is_correct": false
       },
       {
-        "text": "A list of random animals",
+        "text": "cm beside the water-volume label",
         "is_correct": false
       },
       {
-        "text": "A labelled slide sequence or animation showing each stage in order",
+        "text": "mL beside the water-volume label",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "A graph of unrelated temperatures",
-      "A blank slide",
-      "A list of random animals",
-      "A labelled slide sequence or animation showing each stage in order"
+      "°C beside the water-volume label",
+      "minutes beside the water-volume label",
+      "cm beside the water-volume label",
+      "mL beside the water-volume label"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A sequence visual suits a process that changes through ordered stages.",
-      "hint": "Match the mode to sequence."
+      "summary": "Millilitres tells the reader that the numbers describe water volume.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
     "structuredExplanation": {
-      "summary": "A sequence visual suits a process that changes through ordered stages.",
-      "hint": "Match the mode to sequence."
+      "summary": "Millilitres tells the reader that the numbers describe water volume.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 38,
     "sequencePriority": 38,
     "quality_schema": "skillr-actual-v6",
@@ -2324,10 +2324,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "A student writes “The experiment proved plants need exactly 25 mL every day.” Their test compared only 10 and 25 mL. How should this be revised?",
-    "audio_prompt": "A student writes “The experiment proved plants need exactly 25 mL every day.” Their test compared only 10 and 25 mL. How should this be revised?",
-    "audioPrompt": "A student writes “The experiment proved plants need exactly 25 mL every day.” Their test compared only 10 and 25 mL. How should this be revised?",
+    "skill": "visual and digital communication",
+    "question": "A class photographs a seedling on days 1, 7 and 14. Which captions make the sequence useful?",
+    "audio_prompt": "A class photographs a seedling on days 1, 7 and 14. Which captions make the sequence useful?",
+    "audioPrompt": "A class photographs a seedling on days 1, 7 and 14. Which captions make the sequence useful?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2335,42 +2335,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The test proves the exact need",
-        "is_correct": false
-      },
-      {
-        "text": "No revision is needed",
-        "is_correct": false
-      },
-      {
-        "text": "In our test, plants given 25 mL grew taller than those given 10 mL",
+        "text": "The date and measured height for each photo",
         "is_correct": true
       },
       {
-        "text": "25 mL is perfect for all plants",
+        "text": "Only the photographer's favourite colour",
+        "is_correct": false
+      },
+      {
+        "text": "A claim that each photo proves why growth happened",
+        "is_correct": false
+      },
+      {
+        "text": "The same day label on every photo",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The test proves the exact need",
-      "No revision is needed",
-      "In our test, plants given 25 mL grew taller than those given 10 mL",
-      "25 mL is perfect for all plants"
+      "The date and measured height for each photo",
+      "Only the photographer's favourite colour",
+      "A claim that each photo proves why growth happened",
+      "The same day label on every photo"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The revised statement stays within the tested comparison.",
-      "hint": "Do not claim an exact universal need from two conditions."
+      "summary": "Dates and heights link visible changes to recorded observations. Photos alone do not prove their cause.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
     "structuredExplanation": {
-      "summary": "The revised statement stays within the tested comparison.",
-      "hint": "Do not claim an exact universal need from two conditions."
+      "summary": "Dates and heights link visible changes to recorded observations. Photos alone do not prove their cause.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 39,
     "sequencePriority": 39,
     "quality_schema": "skillr-actual-v6",
@@ -2385,10 +2385,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "practice",
-    "skill": "communicating scientific findings",
-    "question": "Which final communication best combines evidence and explanation?",
-    "audio_prompt": "Which final communication best combines evidence and explanation?",
-    "audioPrompt": "Which final communication best combines evidence and explanation?",
+    "skill": "visual and digital communication",
+    "question": "A report compares two groups' melting times. Which display makes their findings easy to compare?",
+    "audio_prompt": "A report compares two groups' melting times. Which display makes their findings easy to compare?",
+    "audioPrompt": "A report compares two groups' melting times. Which display makes their findings easy to compare?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2396,44 +2396,532 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Raw data with no message",
+        "text": "Two graphs with no labels or units",
         "is_correct": false
       },
       {
-        "text": "A labelled graph plus a sentence explaining the pattern it shows",
+        "text": "A table with matching conditions and a column for each group's time",
         "is_correct": true
       },
       {
-        "text": "A graph with no labels",
+        "text": "A list of student names without times",
         "is_correct": false
       },
       {
-        "text": "A conclusion with no data",
+        "text": "A photo of one empty container",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Raw data with no message",
-      "A labelled graph plus a sentence explaining the pattern it shows",
-      "A graph with no labels",
-      "A conclusion with no data"
+      "Two graphs with no labels or units",
+      "A table with matching conditions and a column for each group's time",
+      "A list of student names without times",
+      "A photo of one empty container"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "The combination helps the audience see both the evidence and its meaning.",
-      "hint": "Show and explain."
+      "summary": "Side-by-side times for the same conditions allow a clear comparison between groups.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
     "structuredExplanation": {
-      "summary": "The combination helps the audience see both the evidence and its meaning.",
-      "hint": "Show and explain."
+      "summary": "Side-by-side times for the same conditions allow a clear comparison between groups.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 40,
     "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-041",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "visual and digital communication",
+    "question": "A pupil makes a digital heat-transfer drawing. What would help explain what happens?",
+    "audio_prompt": "A pupil makes a digital heat-transfer drawing. What would help explain what happens?",
+    "audioPrompt": "A pupil makes a digital heat-transfer drawing. What would help explain what happens?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Use an arrow with no labels between two blank circles.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the temperatures with decorative stars.",
+        "is_correct": false
+      },
+      {
+        "text": "Add only the names of the drawing tools.",
+        "is_correct": false
+      },
+      {
+        "text": "Label the warmer and cooler objects and add a heat-direction arrow.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Use an arrow with no labels between two blank circles.",
+      "Replace the temperatures with decorative stars.",
+      "Add only the names of the drawing tools.",
+      "Label the warmer and cooler objects and add a heat-direction arrow."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Labels and an arrow connect the objects' temperatures with the direction of heat transfer.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "structuredExplanation": {
+      "summary": "Labels and an arrow connect the objects' temperatures with the direction of heat transfer.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 41,
+    "sequencePriority": 41,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-042",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "visual and digital communication",
+    "question": "A life-cycle slideshow has egg, tadpole, young frog and adult frog images. Which organisation communicates the idea?",
+    "audio_prompt": "A life-cycle slideshow has egg, tadpole, young frog and adult frog images. Which organisation communicates the idea?",
+    "audioPrompt": "A life-cycle slideshow has egg, tadpole, young frog and adult frog images. Which organisation communicates the idea?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Show only the adult frog repeatedly.",
+        "is_correct": false
+      },
+      {
+        "text": "Put stages in order with labels and link the adult to new eggs.",
+        "is_correct": true
+      },
+      {
+        "text": "Put the pictures in alphabetical order only.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the stage names and arrows.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Show only the adult frog repeatedly.",
+      "Put stages in order with labels and link the adult to new eggs.",
+      "Put the pictures in alphabetical order only.",
+      "Remove the stage names and arrows."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Ordered, labelled stages and the link to new eggs show the repeating life cycle.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "structuredExplanation": {
+      "summary": "Ordered, labelled stages and the link to new eggs show the repeating life cycle.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 42,
+    "sequencePriority": 42,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-043",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "visual and digital communication",
+    "question": "A student records an explanation of a soil test as a video. What should the video include?",
+    "audio_prompt": "A student records an explanation of a soil test as a video. What should the video include?",
+    "audioPrompt": "A student records an explanation of a soil test as a video. What should the video include?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A claim that all soils behave identically",
+        "is_correct": false
+      },
+      {
+        "text": "Only music over an empty results table",
+        "is_correct": false
+      },
+      {
+        "text": "Only a close-up of the student's name label",
+        "is_correct": false
+      },
+      {
+        "text": "The question, key results and a clear explanation of the finding",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A claim that all soils behave identically",
+      "Only music over an empty results table",
+      "Only a close-up of the student's name label",
+      "The question, key results and a clear explanation of the finding"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The video should communicate the science question and evidence, not just show equipment or decoration.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "structuredExplanation": {
+      "summary": "The video should communicate the science question and evidence, not just show equipment or decoration.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 43,
+    "sequencePriority": 43,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-044",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "visual and digital communication",
+    "question": "A poster graph shows sun 30°C and shade 23°C. Which caption explains it accurately?",
+    "audio_prompt": "A poster graph shows sun 30°C and shade 23°C. Which caption explains it accurately?",
+    "audioPrompt": "A poster graph shows sun 30°C and shade 23°C. Which caption explains it accurately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The graph proves shade is always exactly 7°C cooler.",
+        "is_correct": false
+      },
+      {
+        "text": "Both soils had the same temperature.",
+        "is_correct": false
+      },
+      {
+        "text": "The shaded soil was 7°C cooler at this check.",
+        "is_correct": true
+      },
+      {
+        "text": "The sunny soil was 7°C cooler at this check.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The graph proves shade is always exactly 7°C cooler.",
+      "Both soils had the same temperature.",
+      "The shaded soil was 7°C cooler at this check.",
+      "The sunny soil was 7°C cooler at this check."
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The caption describes the 7°C difference shown, limited to this check.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "structuredExplanation": {
+      "summary": "The caption describes the 7°C difference shown, limited to this check.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 44,
+    "sequencePriority": 44,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-045",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "visual and digital communication",
+    "question": "A pupil wants to show where soil samples were collected around school. Which digital product fits?",
+    "audio_prompt": "A pupil wants to show where soil samples were collected around school. Which digital product fits?",
+    "audioPrompt": "A pupil wants to show where soil samples were collected around school. Which digital product fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A list of temperatures with no places",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled school map with a key for the sample locations",
+        "is_correct": true
+      },
+      {
+        "text": "An unlabelled close-up of one stone",
+        "is_correct": false
+      },
+      {
+        "text": "A graph of unrelated leaf counts",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A list of temperatures with no places",
+      "A labelled school map with a key for the sample locations",
+      "An unlabelled close-up of one stone",
+      "A graph of unrelated leaf counts"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A map links the samples with their locations; labels and a key make it understandable.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "structuredExplanation": {
+      "summary": "A map links the samples with their locations; labels and a key make it understandable.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 45,
+    "sequencePriority": 45,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-046",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "visual and digital communication",
+    "question": "A student prepares a slide for an oral explanation. Which design helps classmates follow the evidence?",
+    "audio_prompt": "A student prepares a slide for an oral explanation. Which design helps classmates follow the evidence?",
+    "audioPrompt": "A student prepares a slide for an oral explanation. Which design helps classmates follow the evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Four unrelated photos covering the graph",
+        "is_correct": false
+      },
+      {
+        "text": "The conclusion with all measurements removed",
+        "is_correct": false
+      },
+      {
+        "text": "One clear graph with readable labels and a short finding",
+        "is_correct": true
+      },
+      {
+        "text": "The whole speech in very small text",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Four unrelated photos covering the graph",
+      "The conclusion with all measurements removed",
+      "One clear graph with readable labels and a short finding",
+      "The whole speech in very small text"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Readable evidence and a short finding support the spoken explanation without overwhelming the slide.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "structuredExplanation": {
+      "summary": "Readable evidence and a short finding support the spoken explanation without overwhelming the slide.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 46,
+    "sequencePriority": 46,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-047",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "visual and digital communication",
+    "question": "A table says tray A 5 seedlings and tray B 9. A digital graph shows A 9 and B 5. What should be fixed before sharing?",
+    "audio_prompt": "A table says tray A 5 seedlings and tray B 9. A digital graph shows A 9 and B 5. What should be fixed before sharing?",
+    "audioPrompt": "A table says tray A 5 seedlings and tray B 9. A digital graph shows A 9 and B 5. What should be fixed before sharing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Change the table to match the mistaken graph.",
+        "is_correct": false
+      },
+      {
+        "text": "Make both columns 14.",
+        "is_correct": false
+      },
+      {
+        "text": "Correct the swapped graph values to match the table.",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the tray labels.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Change the table to match the mistaken graph.",
+      "Make both columns 14.",
+      "Correct the swapped graph values to match the table.",
+      "Remove the tray labels."
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The original observations must guide the graph. Correct the copied values before publishing it.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "structuredExplanation": {
+      "summary": "The original observations must guide the graph. Correct the copied values before publishing it.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 47,
+    "sequencePriority": 47,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "ac9s3i06-p-048",
+    "subject": "science",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9S3I06",
+    "curriculumCode": "AC9S3I06",
+    "bank": "practice",
+    "skill": "visual and digital communication",
+    "question": "A class makes a book of rock photos for younger pupils. Which page best communicates a property?",
+    "audio_prompt": "A class makes a book of rock photos for younger pupils. Which page best communicates a property?",
+    "audioPrompt": "A class makes a book of rock photos for younger pupils. Which page best communicates a property?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A clear rock photo labelled rough surface, with a short explanation of texture",
+        "is_correct": true
+      },
+      {
+        "text": "A blurred photo labelled our favourite",
+        "is_correct": false
+      },
+      {
+        "text": "A clear photo labelled with an unrelated melting time",
+        "is_correct": false
+      },
+      {
+        "text": "A page of rock names with no link to the photos",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A clear rock photo labelled rough surface, with a short explanation of texture",
+      "A blurred photo labelled our favourite",
+      "A clear photo labelled with an unrelated melting time",
+      "A page of rock names with no link to the photos"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A relevant label and simple explanation help the audience connect the visible surface with the property.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "structuredExplanation": {
+      "summary": "A relevant label and simple explanation help the audience connect the visible surface with the property.",
+      "hint": "Choose labels, images and data that help explain the finding."
+    },
+    "stage": "reason",
+    "difficulty": 3,
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
+    "sequence_priority": 48,
+    "sequencePriority": 48,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
@@ -2446,10 +2934,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Which sentence best communicates a finding?",
-    "audio_prompt": "Which sentence best communicates a finding?",
-    "audioPrompt": "Which sentence best communicates a finding?",
+    "skill": "reports",
+    "question": "A report records a spoon at 21°C initially and 30°C after 5 minutes. Which sentence states the result accurately?",
+    "audio_prompt": "A report records a spoon at 21°C initially and 30°C after 5 minutes. Which sentence states the result accurately?",
+    "audioPrompt": "A report records a spoon at 21°C initially and 30°C after 5 minutes. Which sentence states the result accurately?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2457,47 +2945,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Metal is awesome",
-        "is_correct": false
-      },
-      {
-        "text": "We liked the test",
-        "is_correct": false
-      },
-      {
-        "text": "The metal spoon warmed from 20°C to 31°C in five minutes",
+        "text": "The spoon warmed by 9°C in 5 minutes.",
         "is_correct": true
       },
       {
-        "text": "The spoon got nice",
+        "text": "The spoon cooled by 9°C in 5 minutes.",
+        "is_correct": false
+      },
+      {
+        "text": "The spoon warmed by 30°C in 5 minutes.",
+        "is_correct": false
+      },
+      {
+        "text": "Every spoon warms by 9°C in 5 minutes.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Metal is awesome",
-      "We liked the test",
-      "The metal spoon warmed from 20°C to 31°C in five minutes",
-      "The spoon got nice"
+      "The spoon warmed by 9°C in 5 minutes.",
+      "The spoon cooled by 9°C in 5 minutes.",
+      "The spoon warmed by 30°C in 5 minutes.",
+      "Every spoon warms by 9°C in 5 minutes."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The first sentence reports measured evidence.",
-      "hint": "Use the data."
+      "summary": "The increase is 30 minus 21, or 9°C, during this test.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "The first sentence reports measured evidence.",
-      "hint": "Use the data."
+      "summary": "The increase is 30 minus 21, or 9°C, during this test.",
+      "hint": "Match the sentence to the recorded method or result."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 1,
     "sequencePriority": 1,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i06-t-002",
@@ -2506,10 +2995,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Why use scientific vocabulary?",
-    "audio_prompt": "Why use scientific vocabulary?",
-    "audioPrompt": "Why use scientific vocabulary?",
+    "skill": "reports",
+    "question": "A soil report needs a Method sentence. Which belongs there?",
+    "audio_prompt": "A soil report needs a Method sentence. Which belongs there?",
+    "audioPrompt": "A soil report needs a Method sentence. Which belongs there?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2517,47 +3006,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It replaces evidence",
+        "text": "We predicted that sand would drain faster.",
         "is_correct": false
       },
       {
-        "text": "It names ideas precisely",
+        "text": "Sample B drained more water than A.",
+        "is_correct": false
+      },
+      {
+        "text": "Sample A drained 25 mL.",
+        "is_correct": false
+      },
+      {
+        "text": "We poured 40 mL of water into each sample.",
         "is_correct": true
-      },
-      {
-        "text": "It makes every claim true",
-        "is_correct": false
-      },
-      {
-        "text": "It should confuse readers",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "It replaces evidence",
-      "It names ideas precisely",
-      "It makes every claim true",
-      "It should confuse readers"
+      "We predicted that sand would drain faster.",
+      "Sample B drained more water than A.",
+      "Sample A drained 25 mL.",
+      "We poured 40 mL of water into each sample."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Precise terms improve clarity.",
-      "hint": "Accuracy in words."
+      "summary": "The sentence describes an action taken during the investigation.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "Precise terms improve clarity.",
-      "hint": "Accuracy in words."
+      "summary": "The sentence describes an action taken during the investigation.",
+      "hint": "Match the sentence to the recorded method or result."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 2,
     "sequencePriority": 2,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i06-t-003",
@@ -2566,10 +3056,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Which visual best compares three masses?",
-    "audio_prompt": "Which visual best compares three masses?",
-    "audioPrompt": "Which visual best compares three masses?",
+    "skill": "reports",
+    "question": "A class compared ice melting times for one and two cloth layers. Which title clearly identifies the report?",
+    "audio_prompt": "A class compared ice melting times for one and two cloth layers. Which title clearly identifies the report?",
+    "audioPrompt": "A class compared ice melting times for one and two cloth layers. Which title clearly identifies the report?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2577,47 +3067,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A labelled column graph",
+        "text": "The Colours of Cloth",
+        "is_correct": false
+      },
+      {
+        "text": "Cloth Layers and Ice Melting Time",
         "is_correct": true
       },
       {
-        "text": "An unrelated photo",
+        "text": "Rock Shapes Near Our School",
         "is_correct": false
       },
       {
-        "text": "A blank slide",
-        "is_correct": false
-      },
-      {
-        "text": "A poem",
+        "text": "How Tall Seedlings Grow",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A labelled column graph",
-      "An unrelated photo",
-      "A blank slide",
-      "A poem"
+      "The Colours of Cloth",
+      "Cloth Layers and Ice Melting Time",
+      "Rock Shapes Near Our School",
+      "How Tall Seedlings Grow"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A column graph makes category values easy to compare.",
-      "hint": "Use the data visually."
+      "summary": "The title identifies the factor compared and the measured outcome.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "A column graph makes category values easy to compare.",
-      "hint": "Use the data visually."
+      "summary": "The title identifies the factor compared and the measured outcome.",
+      "hint": "Match the sentence to the recorded method or result."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 3,
     "sequencePriority": 3,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i06-t-004",
@@ -2626,10 +3117,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Which title is strongest?",
-    "audio_prompt": "Which title is strongest?",
-    "audioPrompt": "Which title is strongest?",
+    "skill": "reports",
+    "question": "A result says The plant grew 4. Its height increased by four centimetres. Which revision is accurate?",
+    "audio_prompt": "A result says The plant grew 4. Its height increased by four centimetres. Which revision is accurate?",
+    "audioPrompt": "A result says The plant grew 4. Its height increased by four centimetres. Which revision is accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2637,47 +3128,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Our Science",
-        "is_correct": false
-      },
-      {
-        "text": "Results",
-        "is_correct": false
-      },
-      {
-        "text": "Fun Day",
-        "is_correct": false
-      },
-      {
-        "text": "How Water Temperature Affected Dissolving Time",
+        "text": "The plant grew 4 cm.",
         "is_correct": true
+      },
+      {
+        "text": "The plant grew 4 grams.",
+        "is_correct": false
+      },
+      {
+        "text": "The plant grew 4°C.",
+        "is_correct": false
+      },
+      {
+        "text": "The plant grew 4 mL.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Our Science",
-      "Results",
-      "Fun Day",
-      "How Water Temperature Affected Dissolving Time"
+      "The plant grew 4 cm.",
+      "The plant grew 4 grams.",
+      "The plant grew 4°C.",
+      "The plant grew 4 mL."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The title identifies the relationship investigated.",
-      "hint": "Name factors and outcome."
+      "summary": "Centimetres is the appropriate unit for the measured increase in height.",
+      "hint": "Match the sentence to the recorded method or result."
     },
     "structuredExplanation": {
-      "summary": "The title identifies the relationship investigated.",
-      "hint": "Name factors and outcome."
+      "summary": "Centimetres is the appropriate unit for the measured increase in height.",
+      "hint": "Match the sentence to the recorded method or result."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 4,
     "sequencePriority": 4,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i06-t-005",
@@ -2686,10 +3178,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Why include units on a graph?",
-    "audio_prompt": "Why include units on a graph?",
-    "audioPrompt": "Why include units on a graph?",
+    "skill": "audience and purpose",
+    "question": "A class explains melting to younger children. Which sentence is accurate?",
+    "audio_prompt": "A class explains melting to younger children. Which sentence is accurate?",
+    "audioPrompt": "A class explains melting to younger children. Which sentence is accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2697,47 +3189,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "To prove the result",
-        "is_correct": false
-      },
-      {
-        "text": "To add decoration",
-        "is_correct": false
-      },
-      {
-        "text": "So readers know what the numerical scale measures",
+        "text": "A solid ice cube melts into liquid water as it gains heat.",
         "is_correct": true
       },
       {
-        "text": "To make bars taller",
+        "text": "Melting means liquid water becomes solid ice.",
+        "is_correct": false
+      },
+      {
+        "text": "Ice melts because liquid water is always hot.",
+        "is_correct": false
+      },
+      {
+        "text": "A solid ice cube freezes into liquid as it gains heat.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "To prove the result",
-      "To add decoration",
-      "So readers know what the numerical scale measures",
-      "To make bars taller"
+      "A solid ice cube melts into liquid water as it gains heat.",
+      "Melting means liquid water becomes solid ice.",
+      "Ice melts because liquid water is always hot.",
+      "A solid ice cube freezes into liquid as it gains heat."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Units give meaning to values.",
-      "hint": "What do the numbers mean?"
+      "summary": "The sentence uses simple words and correctly names the solid-to-liquid change.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "Units give meaning to values.",
-      "hint": "What do the numbers mean?"
+      "summary": "The sentence uses simple words and correctly names the solid-to-liquid change.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 5,
     "sequencePriority": 5,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "apply"
   },
   {
     "id": "ac9s3i06-t-006",
@@ -2746,10 +3239,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Which conclusion is appropriately cautious?",
-    "audio_prompt": "Which conclusion is appropriately cautious?",
-    "audioPrompt": "Which conclusion is appropriately cautious?",
+    "skill": "audience and purpose",
+    "question": "Families ask what a wrap test found. Which response gives a finding rather than a method?",
+    "audio_prompt": "Families ask what a wrap test found. Which response gives a finding rather than a method?",
+    "audioPrompt": "Families ask what a wrap test found. Which response gives a finding rather than a method?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2757,47 +3250,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Every future result must match",
+        "text": "We started both timers together.",
         "is_correct": false
       },
       {
-        "text": "Our results support the pattern in the conditions tested",
+        "text": "We labelled the cups before starting.",
+        "is_correct": false
+      },
+      {
+        "text": "The cloth-wrapped ice lasted 4 minutes longer in our test.",
         "is_correct": true
       },
       {
-        "text": "This proves it always happens",
-        "is_correct": false
-      },
-      {
-        "text": "No other factor can matter",
+        "text": "We put ice cubes into two cups.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Every future result must match",
-      "Our results support the pattern in the conditions tested",
-      "This proves it always happens",
-      "No other factor can matter"
+      "We started both timers together.",
+      "We labelled the cups before starting.",
+      "The cloth-wrapped ice lasted 4 minutes longer in our test.",
+      "We put ice cubes into two cups."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The first wording matches the evidence limits.",
-      "hint": "Support, not universal proof."
+      "summary": "The response states the observed comparison; the other sentences describe actions.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "The first wording matches the evidence limits.",
-      "hint": "Support, not universal proof."
+      "summary": "The response states the observed comparison; the other sentences describe actions.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 6,
     "sequencePriority": 6,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "apply"
   },
   {
     "id": "ac9s3i06-t-007",
@@ -2806,10 +3300,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Which report section should contain the measurements?",
-    "audio_prompt": "Which report section should contain the measurements?",
-    "audioPrompt": "Which report section should contain the measurements?",
+    "skill": "audience and purpose",
+    "question": "A life-cycle story is for Year 1 pupils. Which sentence keeps the science correct?",
+    "audio_prompt": "A life-cycle story is for Year 1 pupils. Which sentence keeps the science correct?",
+    "audioPrompt": "A life-cycle story is for Year 1 pupils. Which sentence keeps the science correct?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2817,47 +3311,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Results",
+        "text": "I hatched as an adult chicken and then became a chick.",
+        "is_correct": false
+      },
+      {
+        "text": "I began as an egg and grew feathers before hatching.",
+        "is_correct": false
+      },
+      {
+        "text": "I began as an egg, hatched as a chick and grew into a chicken.",
         "is_correct": true
       },
       {
-        "text": "Title",
-        "is_correct": false
-      },
-      {
-        "text": "Acknowledgements only",
-        "is_correct": false
-      },
-      {
-        "text": "Personal opinion",
+        "text": "I hatched as a chick and then grew back into an egg.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Results",
-      "Title",
-      "Acknowledgements only",
-      "Personal opinion"
+      "I hatched as an adult chicken and then became a chick.",
+      "I began as an egg and grew feathers before hatching.",
+      "I began as an egg, hatched as a chick and grew into a chicken.",
+      "I hatched as a chick and then grew back into an egg."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Results present the collected evidence.",
-      "hint": "Where does data go?"
+      "summary": "A creative voice can still describe the correct chicken life-cycle stages.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "Results present the collected evidence.",
-      "hint": "Where does data go?"
+      "summary": "A creative voice can still describe the correct chicken life-cycle stages.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 7,
     "sequencePriority": 7,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "apply"
   },
   {
     "id": "ac9s3i06-t-008",
@@ -2866,10 +3361,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "A Year 1 audience needs an explanation of evaporation. Which is best?",
-    "audio_prompt": "A Year 1 audience needs an explanation of evaporation. Which is best?",
-    "audioPrompt": "A Year 1 audience needs an explanation of evaporation. Which is best?",
+    "skill": "audience and purpose",
+    "question": "A garden club needs to know where sandy soil was observed. Which message is most useful?",
+    "audio_prompt": "A garden club needs to know where sandy soil was observed. Which message is most useful?",
+    "audioPrompt": "A garden club needs to know where sandy soil was observed. Which message is most useful?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2877,47 +3372,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Evaporation is thermodynamic phase transition driven by molecular kinetics",
+        "text": "Sand can contain many tiny grains.",
         "is_correct": false
       },
       {
-        "text": "Water disappears by magic",
+        "text": "We used two pencils during the survey.",
         "is_correct": false
       },
       {
-        "text": "No explanation is possible",
+        "text": "Our class enjoyed drawing the map.",
         "is_correct": false
       },
       {
-        "text": "Water can change from liquid into water vapour and move into the air",
+        "text": "Our map marks sandy soil beside the sandpit.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Evaporation is thermodynamic phase transition driven by molecular kinetics",
-      "Water disappears by magic",
-      "No explanation is possible",
-      "Water can change from liquid into water vapour and move into the air"
+      "Sand can contain many tiny grains.",
+      "We used two pencils during the survey.",
+      "Our class enjoyed drawing the map.",
+      "Our map marks sandy soil beside the sandpit."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "The first sentence is accurate and age-appropriate.",
-      "hint": "Simple but correct."
+      "summary": "The club's purpose is locating the soil, so the message must identify the observed place.",
+      "hint": "Think about who will read it and what they need to learn."
     },
     "structuredExplanation": {
-      "summary": "The first sentence is accurate and age-appropriate.",
-      "hint": "Simple but correct."
+      "summary": "The club's purpose is locating the soil, so the message must identify the observed place.",
+      "hint": "Think about who will read it and what they need to learn."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 8,
     "sequencePriority": 8,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "apply"
   },
   {
     "id": "ac9s3i06-t-009",
@@ -2926,10 +3422,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Which caption is useful?",
-    "audio_prompt": "Which caption is useful?",
-    "audioPrompt": "Which caption is useful?",
+    "skill": "scientific wording",
+    "question": "Which word completes this report sentence: Liquid water became ice by ___?",
+    "audio_prompt": "Which word completes this report sentence: Liquid water became ice by ___?",
+    "audioPrompt": "Which word completes this report sentence: Liquid water became ice by ___?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2937,47 +3433,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Cool picture",
+        "text": "melting",
         "is_correct": false
       },
       {
-        "text": "Our best work",
-        "is_correct": false
-      },
-      {
-        "text": "Figure 2. The taller ramp produced longer car travel distances in all three trials",
+        "text": "freezing",
         "is_correct": true
       },
       {
-        "text": "Graph",
+        "text": "germinating",
+        "is_correct": false
+      },
+      {
+        "text": "draining",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Cool picture",
-      "Our best work",
-      "Figure 2. The taller ramp produced longer car travel distances in all three trials",
-      "Graph"
+      "melting",
+      "freezing",
+      "germinating",
+      "draining"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A useful caption tells what the reader should notice.",
-      "hint": "Image + meaning."
+      "summary": "Freezing is the change from liquid water to solid ice.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "A useful caption tells what the reader should notice.",
-      "hint": "Image + meaning."
+      "summary": "Freezing is the change from liquid water to solid ice.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 9,
     "sequencePriority": 9,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   },
   {
     "id": "ac9s3i06-t-010",
@@ -2986,10 +3483,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Which slide design is strongest for an oral presentation?",
-    "audio_prompt": "Which slide design is strongest for an oral presentation?",
-    "audioPrompt": "Which slide design is strongest for an oral presentation?",
+    "skill": "scientific wording",
+    "question": "A rock feels smooth. Which property should its report label name?",
+    "audio_prompt": "A rock feels smooth. Which property should its report label name?",
+    "audioPrompt": "A rock feels smooth. Which property should its report label name?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2997,47 +3494,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "No evidence",
+        "text": "Life cycle",
         "is_correct": false
       },
       {
-        "text": "One clear graph with a few key labels while the speaker explains it",
+        "text": "Temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Texture",
         "is_correct": true
       },
       {
-        "text": "Every sentence of the script in tiny text",
-        "is_correct": false
-      },
-      {
-        "text": "Unrelated animation",
+        "text": "Volume",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "No evidence",
-      "One clear graph with a few key labels while the speaker explains it",
-      "Every sentence of the script in tiny text",
-      "Unrelated animation"
+      "Life cycle",
+      "Temperature",
+      "Texture",
+      "Volume"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Slides should support, not overwhelm, the spoken message.",
-      "hint": "Highlight key evidence."
+      "summary": "Smooth describes a surface texture.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "Slides should support, not overwhelm, the spoken message.",
-      "hint": "Highlight key evidence."
+      "summary": "Smooth describes a surface texture.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 10,
     "sequencePriority": 10,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   },
   {
     "id": "ac9s3i06-t-011",
@@ -3046,10 +3544,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Which statement belongs in the method?",
-    "audio_prompt": "Which statement belongs in the method?",
-    "audioPrompt": "Which statement belongs in the method?",
+    "skill": "scientific wording",
+    "question": "A thermometer reading is 27°C. Which sentence records it correctly?",
+    "audio_prompt": "A thermometer reading is 27°C. Which sentence records it correctly?",
+    "audioPrompt": "A thermometer reading is 27°C. Which sentence records it correctly?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3057,47 +3555,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Measure the water temperature every two minutes",
+        "text": "The mass was 27 grams.",
+        "is_correct": false
+      },
+      {
+        "text": "The temperature was 27 degrees Celsius.",
         "is_correct": true
       },
       {
-        "text": "The water cooled by 12°C",
+        "text": "The length was 27 centimetres.",
         "is_correct": false
       },
       {
-        "text": "The results support the prediction",
-        "is_correct": false
-      },
-      {
-        "text": "The graph shows a decrease",
+        "text": "The volume was 27 millilitres.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Measure the water temperature every two minutes",
-      "The water cooled by 12°C",
-      "The results support the prediction",
-      "The graph shows a decrease"
+      "The mass was 27 grams.",
+      "The temperature was 27 degrees Celsius.",
+      "The length was 27 centimetres.",
+      "The volume was 27 millilitres."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A method explains what was done.",
-      "hint": "Procedure versus finding."
+      "summary": "The symbol °C names degrees Celsius, a temperature unit.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "A method explains what was done.",
-      "hint": "Procedure versus finding."
+      "summary": "The symbol °C names degrees Celsius, a temperature unit.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 11,
     "sequencePriority": 11,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   },
   {
     "id": "ac9s3i06-t-012",
@@ -3106,10 +3605,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Which wording is opinion rather than scientific evidence?",
-    "audio_prompt": "Which wording is opinion rather than scientific evidence?",
-    "audioPrompt": "Which wording is opinion rather than scientific evidence?",
+    "skill": "scientific wording",
+    "question": "A pupil writes The water was destroyed when the ice melted. Which revision is correct?",
+    "audio_prompt": "A pupil writes The water was destroyed when the ice melted. Which revision is correct?",
+    "audioPrompt": "A pupil writes The water was destroyed when the ice melted. Which revision is correct?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3117,47 +3616,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "This soil drained 45 mL",
+        "text": "The ice changed into a living thing.",
         "is_correct": false
       },
       {
-        "text": "This soil had coarse particles",
+        "text": "Melting made the water stop existing.",
         "is_correct": false
       },
       {
-        "text": "This soil was dark brown",
-        "is_correct": false
-      },
-      {
-        "text": "This was the best soil",
+        "text": "The water changed from solid ice to liquid water.",
         "is_correct": true
+      },
+      {
+        "text": "The water froze into a liquid.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "This soil drained 45 mL",
-      "This soil had coarse particles",
-      "This soil was dark brown",
-      "This was the best soil"
+      "The ice changed into a living thing.",
+      "Melting made the water stop existing.",
+      "The water changed from solid ice to liquid water.",
+      "The water froze into a liquid."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "“Best” is a judgement unless criteria are defined.",
-      "hint": "Preference versus observation."
+      "summary": "Melting changes the state of water; it does not destroy the water.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "structuredExplanation": {
-      "summary": "“Best” is a judgement unless criteria are defined.",
-      "hint": "Preference versus observation."
+      "summary": "Melting changes the state of water; it does not destroy the water.",
+      "hint": "Use a precise science word that matches the observation."
     },
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "reason",
+    "difficultyTier": "reason",
     "sequence_priority": 12,
     "sequencePriority": 12,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "reason"
   },
   {
     "id": "ac9s3i06-t-013",
@@ -3166,10 +3666,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Why might a photo series be useful?",
-    "audio_prompt": "Why might a photo series be useful?",
-    "audioPrompt": "Why might a photo series be useful?",
+    "skill": "visual and digital communication",
+    "question": "A class shares counts from three habitats. Which display helps readers compare them?",
+    "audio_prompt": "A class shares counts from three habitats. Which display helps readers compare them?",
+    "audioPrompt": "A class shares counts from three habitats. Which display helps readers compare them?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3177,47 +3677,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It proves cause",
+        "text": "A photo of only one habitat without counts",
         "is_correct": false
       },
       {
-        "text": "It replaces all data",
+        "text": "A table listing only the students' names",
         "is_correct": false
       },
       {
-        "text": "It can show visible change over time",
+        "text": "A graph with all habitat labels removed",
+        "is_correct": false
+      },
+      {
+        "text": "A column graph with habitat labels and a number scale",
         "is_correct": true
-      },
-      {
-        "text": "It automatically measures temperature",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "It proves cause",
-      "It replaces all data",
-      "It can show visible change over time",
-      "It automatically measures temperature"
+      "A photo of only one habitat without counts",
+      "A table listing only the students' names",
+      "A graph with all habitat labels removed",
+      "A column graph with habitat labels and a number scale"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Photos provide visual evidence of change.",
-      "hint": "Visual record."
+      "summary": "The labelled graph shows both the categories and their measured counts.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
     "structuredExplanation": {
-      "summary": "Photos provide visual evidence of change.",
-      "hint": "Visual record."
+      "summary": "The labelled graph shows both the categories and their measured counts.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 13,
     "sequencePriority": 13,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i06-t-014",
@@ -3226,10 +3727,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "A report says “The plant grew 6.” What is missing?",
-    "audio_prompt": "A report says “The plant grew 6.” What is missing?",
-    "audioPrompt": "A report says “The plant grew 6.” What is missing?",
+    "skill": "visual and digital communication",
+    "question": "A seedling photo series has no dates. What addition best shows change over time?",
+    "audio_prompt": "A seedling photo series has no dates. What addition best shows change over time?",
+    "audioPrompt": "A seedling photo series has no dates. What addition best shows change over time?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3237,47 +3738,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A student name",
-        "is_correct": false
-      },
-      {
-        "text": "A unit such as cm",
+        "text": "Label each photo with its observation day.",
         "is_correct": true
       },
       {
-        "text": "A graph colour",
+        "text": "Give every photo the same caption, Plant.",
         "is_correct": false
       },
       {
-        "text": "A prediction",
+        "text": "Replace the photos with unrelated flowers.",
+        "is_correct": false
+      },
+      {
+        "text": "Arrange photos only by their background colour.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A student name",
-      "A unit such as cm",
-      "A graph colour",
-      "A prediction"
+      "Label each photo with its observation day.",
+      "Give every photo the same caption, Plant.",
+      "Replace the photos with unrelated flowers.",
+      "Arrange photos only by their background colour."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The number needs a unit to be meaningful.",
-      "hint": "6 what?"
+      "summary": "Observation days make the time sequence clear.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
     "structuredExplanation": {
-      "summary": "The number needs a unit to be meaningful.",
-      "hint": "6 what?"
+      "summary": "Observation days make the time sequence clear.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 14,
     "sequencePriority": 14,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i06-t-015",
@@ -3286,10 +3788,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "Which format best shows a frog life cycle?",
-    "audio_prompt": "Which format best shows a frog life cycle?",
-    "audioPrompt": "Which format best shows a frog life cycle?",
+    "skill": "visual and digital communication",
+    "question": "A digital graph records water volume but its axis says Temperature (°C). What needs correction?",
+    "audio_prompt": "A digital graph records water volume but its axis says Temperature (°C). What needs correction?",
+    "audioPrompt": "A digital graph records water volume but its axis says Temperature (°C). What needs correction?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3297,47 +3799,48 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "An ordered labelled diagram",
+        "text": "Remove all the numbers.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the label to Water volume (mL).",
         "is_correct": true
       },
       {
-        "text": "A column graph of masses",
+        "text": "Change every volume into a temperature without measuring.",
         "is_correct": false
       },
       {
-        "text": "A stopwatch",
-        "is_correct": false
-      },
-      {
-        "text": "A random list",
+        "text": "Keep the label because both use numbers.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "An ordered labelled diagram",
-      "A column graph of masses",
-      "A stopwatch",
-      "A random list"
+      "Remove all the numbers.",
+      "Change the label to Water volume (mL).",
+      "Change every volume into a temperature without measuring.",
+      "Keep the label because both use numbers."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A sequence diagram communicates stages clearly.",
-      "hint": "Think ordered stages."
+      "summary": "The axis label must describe the quantity and unit actually measured.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
     "structuredExplanation": {
-      "summary": "A sequence diagram communicates stages clearly.",
-      "hint": "Think ordered stages."
+      "summary": "The axis label must describe the quantity and unit actually measured.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 15,
     "sequencePriority": 15,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   },
   {
     "id": "ac9s3i06-t-016",
@@ -3346,10 +3849,10 @@
     "curriculum_code": "AC9S3I06",
     "curriculumCode": "AC9S3I06",
     "bank": "test",
-    "skill": "communicating scientific findings",
-    "question": "What should happen if the evidence is uncertain?",
-    "audio_prompt": "What should happen if the evidence is uncertain?",
-    "audioPrompt": "What should happen if the evidence is uncertain?",
+    "skill": "visual and digital communication",
+    "question": "A class compares two groups' results in a talk. Which slide supports that purpose?",
+    "audio_prompt": "A class compares two groups' results in a talk. Which slide supports that purpose?",
+    "audioPrompt": "A class compares two groups' results in a talk. Which slide supports that purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3357,46 +3860,47 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "State a stronger claim anyway",
+        "text": "Only a list of the groups' favourite colours",
         "is_correct": false
       },
       {
-        "text": "Hide the uncertainty",
+        "text": "A conclusion that hides one group's different result",
         "is_correct": false
       },
       {
-        "text": "Invent extra data",
+        "text": "An unlabelled picture of a cup",
         "is_correct": false
       },
       {
-        "text": "Use cautious wording and explain the limits",
+        "text": "A readable table of both groups' values under matching conditions",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "State a stronger claim anyway",
-      "Hide the uncertainty",
-      "Invent extra data",
-      "Use cautious wording and explain the limits"
+      "Only a list of the groups' favourite colours",
+      "A conclusion that hides one group's different result",
+      "An unlabelled picture of a cup",
+      "A readable table of both groups' values under matching conditions"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Scientific communication should reflect the actual strength of the evidence.",
-      "hint": "Match confidence to evidence."
+      "summary": "Showing both sets under matching conditions lets the audience compare the evidence fairly.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
     "structuredExplanation": {
-      "summary": "Scientific communication should reflect the actual strength of the evidence.",
-      "hint": "Match confidence to evidence."
+      "summary": "Showing both sets under matching conditions lets the audience compare the evidence fairly.",
+      "hint": "Choose labels, images and data that help explain the finding."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 16,
     "sequencePriority": 16,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
-    "type": "single"
+    "type": "single",
+    "stage": "recognise"
   }
 ]

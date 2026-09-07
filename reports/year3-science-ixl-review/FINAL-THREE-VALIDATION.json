@@ -1,0 +1,48 @@
+{
+  "baseline": "5545220024556b8ca076ea7212b5d32dec1bad43",
+  "checks": [
+    {
+      "code": "AC9S3I04",
+      "bank": "practice",
+      "count": 48,
+      "visuals": 20,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3I04",
+      "bank": "test",
+      "count": 16,
+      "visuals": 8,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3I05",
+      "bank": "practice",
+      "count": 48,
+      "visuals": 0,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3I05",
+      "bank": "test",
+      "count": 16,
+      "visuals": 0,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3I06",
+      "bank": "practice",
+      "count": 48,
+      "visuals": 0,
+      "status": "PASS"
+    },
+    {
+      "code": "AC9S3I06",
+      "bank": "test",
+      "count": 16,
+      "visuals": 0,
+      "status": "PASS"
+    }
+  ],
+  "status": "PASS"
+}
