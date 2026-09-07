@@ -12,3 +12,9 @@ Coverage: relevant ideas; accurate sharing; missing-detail questions; turn-takin
 Editorial pass checked all scenarios, choices, models and acceptance notes for source support and feasible Year 3 demands. Main runtime is unchanged. Scoped pages reuse existing adult-review helper, bank version and fail-closed support flag as in LE04. Submitted spoken tasks remain pending; learner confirmation is not an automatic correct answer. Models are not exposed during Test. Parent/teacher marking occurs in Review. No topic/classroom/worksheet or print/PDF regeneration.
 
 Required production validation, complete-tree integrity, ledger-current check and source/runtime parity are release gates. Current local reviewed ledger becomes 13/28 Year 3 English; whole-subject verification remains inactive.
+
+## Publication and route QA
+
+Published main 73128c6bce8d0a298ab042d9f40e39245378b472, complete tree f19cbccd20c92cd870a0ac1e97ee3df538c2b392, matched locally validated tree. Integrity 18,236 →18,239 files, zero deletions, core/domain preserved; remote base reread and non-force update. All seven Actions including Pages succeeded.
+
+Live Practice and Test loaded the new tasks and existing adult-response controls. Model-generated QA simulation text was saved (not an observed child/partner conversation). Both left score 0 and pending review. Practice exposed the example and acceptance note after submission; Test withheld them until review. Deployed homepage loaded. Full mixed-result/adult-marking/retake behaviour was exercised for LE04 immediately before this release using the same unchanged helper; this code's complete five-task path was not separately repeated. Speech playback untested.
