@@ -2,7 +2,7 @@
 
 ## Current status — 7 September 2026
 
-All four codes: **DRAFTED and content VALIDATED**; runtime VALIDATED; release integrity and publication pending. Each source bank has 48 practice +16 test. This status is based on the official descriptor, per-skill direct progression/worked-help records, pre-draft allocation and substantive review, not counts alone. The historical BLOCKED entries below are retained as provenance and do not describe the current prerequisite status.
+All four codes: **DRAFTED, VALIDATED and PUBLISHED**. Content, runtime, release integrity and live QA passed. Content commit: `fdd31d1d60e6f490e24590b06c70d8479bd7d44f`. Each source bank has 48 practice +16 test. This status is based on the official descriptor, per-skill direct progression/worked-help records, pre-draft allocation and substantive review, not counts alone. The historical BLOCKED entries below are retained as provenance and do not describe the current prerequisite status.
 
 ## Historical opening-question checkpoint (superseded by resume evidence below)
 
@@ -237,3 +237,28 @@ The specialised publisher preserves the original source fields, runtime keys and
 The focused validator executes the actual production filter and shared loader, checks all 256 runtime records against source, verifies preserved original IDs/assignments/schema, all referenced SVG symbols, compatibility copies, script order, cache version and review/retake route resolution. PASS for all eight banks. The mandatory verification-status --check is CURRENT; review ledger is 4/12 Year 3 Science and its full-subject badge remains inactive.
 
 Latest-main refresh found 78f12a1a7903f733f14caac06e7ca46d0d25c250, with unrelated catalogue/slides changes. Those will be preserved by building the release on its complete tree (or a newer main if it advances again). No unrelated files from other worktrees are staged.
+
+## Publication and live QA — confirmed 7 September 2026
+
+| Code | Drafted | Validated | Publication | Bank size |
+| --- | --- | --- | --- | --- |
+| AC9S3U01 | Yes | Content + runtime | Published; live QA PASS | 48 practice +16 test |
+| AC9S3U02 | Yes | Content + runtime | Published; live QA PASS | 48 practice +16 test |
+| AC9S3U03 | Yes | Content + runtime | Published; live QA PASS | 48 practice +16 test |
+| AC9S3U04 | Yes | Content + runtime | Published; live QA PASS | 48 practice +16 test |
+
+No remaining blocker for this first-four release. Unobserved IXL stages remain unobserved; publication does not convert them into direct evidence or claim exhaustive mastery.
+
+- Published content commit: [fdd31d1d60e6f490e24590b06c70d8479bd7d44f](https://github.com/JBR99729/skillr/commit/fdd31d1d60e6f490e24590b06c70d8479bd7d44f).
+- Exact remote base: `9dc532cbe57972d05d2ac787f2fb88f42f3d9232`. All newer catalogue/product fixes were preserved. The GitHub tree was based on the complete base tree; every uploaded blob hash matched local Git, and the resulting full tree matched local `1ac5a220dd985fef81261ceda1ef882448e58ada` exactly. Main was re-read immediately before a non-forced update.
+- Complete-tree release integrity: 18,135 →18,142 files, zero deleted paths, unchanged CNAME and preserved core site. Repeated against the fetched published commit: PASS.
+- [Pages build and deployment 34108012600](https://github.com/JBR99729/skillr/actions/runs/34108012600): completed, **success**, for the content commit. Build, deploy and report-build-status jobs all succeeded.
+- Repository workflows for the same commit: Release integrity, question-bank quality, Year 3 Science static topic pages, Foundation–Year 4 complete rollout, F–10 topic layout, static curriculum audit and IndexNow all succeeded.
+- Live homepage loaded normally. All eight affected practice/test routes started and displayed newly authored questions; a correct response on each returned its matching explanation and hint. This directly confirms the new runtime content, beyond source counts.
+- Live SVG observation displays and state-change diagrams rendered with readable labels and arrows. Read-aloud controls and visual descriptions were present; speech output itself was not audited.
+- Completed U04 test with one intentional wrong response: correct/incorrect feedback worked, result showed 4/5 and 80%, Review answers retained all five responses with correct keys/explanations, and Retake test resolved to the correct AC9S3U04 route.
+- Attempt length remains the existing five-question shuffled set; 48/16 describe the full banks, not a single attempt. No shared runtime behaviour was changed.
+- The unrelated `tmp_rebuild_m01.mjs` remains untracked and untouched in the prior worktree. Other local branches/checkouts were preserved. The earlier local `fe7fd639` report evidence was recovered, not assumed published.
+- Year 3 Science review ledger is 4/12, so the full-subject Content Verified badge remains inactive. This release makes no new full-subject or Year 3 Maths completion claim.
+
+The accompanying `FIRST-FOUR-VALIDATION.json` records the focused source/runtime checks. The historical checkpoints above are retained to distinguish earlier blocks from observed evidence and the final release outcome.
