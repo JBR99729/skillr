@@ -3,7 +3,11 @@
   function filterProducts(products, query, scope = {}) {
     const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
     return products.filter(product => {
-      if ((product.resourceType || 'worksheet') !== (scope.resourceType || 'worksheet')) return false;
+      const wantedType = scope.resourceType || 'worksheet';
+      const productType = product.resourceType || 'worksheet';
+      if (wantedType === 'teaching-slides') {
+        if (!['teaching-slides', 'teaching-sample'].includes(productType)) return false;
+      } else if (productType !== wantedType) return false;
       if (!product.available || (scope.year && String(product.year) !== String(scope.year)) || (scope.subject && product.subject !== scope.subject)) return false;
       const text = [product.title, product.yearLabel, product.subjectLabel, product.description, ...(product.topics || []), ...(product.curriculumCodes || [])].join(' ').toLowerCase();
       return terms.every(term => text.includes(term));

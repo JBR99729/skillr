@@ -11,7 +11,8 @@ assert.equal(filterProducts(products, '  ').length, products.filter(p => p.avail
 const slide = {...products[0], resourceType: 'teaching-slides'};
 assert.equal(filterProducts([slide], 'time').length, 0);
 assert.equal(filterProducts([slide], 'time', {resourceType: 'teaching-slides'}).length, 1);
-assert.equal(filterProducts(products, 'time', {resourceType: 'teaching-slides'}).length, 0);
+assert.equal(filterProducts(products, 'time', {resourceType: 'teaching-slides'}).length, 1);
+assert.equal(filterProducts(products, 'sample', {resourceType: 'teaching-slides'}).length, 1);
 assert.equal(filterProducts([{...products[0], available: false}], '').length, 0);
 const many = Array.from({length: 1001}, (_, id) => ({...products[0], id}));
 assert.equal(paginate(many).items.length, 24);
