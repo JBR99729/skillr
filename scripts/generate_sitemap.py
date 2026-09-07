@@ -17,10 +17,10 @@ EXCLUDED_PARTS={"teacher-slides"}
 EXCLUDED_ROOT_PARTS={"node_modules","playwright-report","test-results","screenshots"}
 PAUSED_PARTS={"daily-drills"}
 SECTION_LABELS={"site":"Start here","learn":"Learn by year","teach":"Teach by year","products":"Products","foundation":"Foundation","year1":"Year 1","year2":"Year 2","year3":"Year 3","year4":"Year 4","year5":"Year 5","year6":"Year 6","year7":"Year 7","year8":"Year 8","year9":"Year 9","year10":"Year 10","mappings":"Curriculum mappings","help":"Help and information","quiz":"Practice, tests and worksheets","blogs":"Blogs","worksheets":"Worksheets"}
-HUMAN_SITE_LINKS={"/","/learn/","/teach/","/products/","/worksheets/","/blogs/","/updates.html","/why-skillrhub.html","/how-to-use-skillr.html"}
+HUMAN_SITE_LINKS={"/","/learn/","/teach/","/products/","/homeschooling-australia/","/worksheets/","/blogs/","/updates.html","/why-skillrhub.html","/how-to-use-skillr.html"}
 HUMAN_HELP_LINKS={"/faq.html","/about.html","/contact.html","/support-skillrhub.html","/privacy-policy.html"}
 HUMAN_MAPPING_LINKS={"/nsw/mathematics/","/nsw/stage-5/mathematics/","/victoria/mathematics/","/victoria/year-10/mathematics/"}
-HUMAN_SITE_ORDER=["/","/learn/","/teach/","/products/","/worksheets/","/blogs/","/updates.html","/why-skillrhub.html","/how-to-use-skillr.html"]
+HUMAN_SITE_ORDER=["/","/learn/","/teach/","/products/","/homeschooling-australia/","/worksheets/","/blogs/","/updates.html","/why-skillrhub.html","/how-to-use-skillr.html"]
 HUMAN_HELP_ORDER=["/faq.html","/about.html","/contact.html","/support-skillrhub.html","/privacy-policy.html"]
 HUMAN_MAPPING_ORDER=["/nsw/mathematics/","/nsw/stage-5/mathematics/","/victoria/mathematics/","/victoria/year-10/mathematics/"]
 HUMAN_LINK_LABELS={
@@ -28,6 +28,7 @@ HUMAN_LINK_LABELS={
  "/learn/":"Learn by year",
  "/teach/":"Teach by year",
  "/products/":"Products and downloads",
+ "/homeschooling-australia/":"Homeschooling Australia planner and progress record",
  "/worksheets/":"Free worksheets and homework",
  "/blogs/":"Australian Curriculum guides and learning articles",
  "/updates.html":"Latest SkillrHub updates",
