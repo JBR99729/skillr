@@ -6,31 +6,33 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the class shop, how many cents equal $2?",
-    "audio_prompt": "At the class shop, how many cents equal $2?",
+    "question": "How many cents have the same value as one Australian dollar?",
+    "audio_prompt": "How many cents have the same value as one Australian dollar?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-001",
-      "alt_text": "At the class shop: A 2-dollar amount beside a cents conversion."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "20",
+        "text": "10 cents",
         "is_correct": false
       },
       {
-        "text": "210",
-        "is_correct": false
-      },
-      {
-        "text": "200",
+        "text": "100 cents",
         "is_correct": true
+      },
+      {
+        "text": "50 cents",
+        "is_correct": false
+      },
+      {
+        "text": "200 cents",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Each dollar is 100 cents, so $2 is 200 cents.",
-      "hint": "Multiply the dollars by 100."
+      "summary": "One dollar and 100 cents are two ways to name the same value.",
+      "hint": "Use the dollar-to-cent relationship."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -43,35 +45,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the class shop, which amount is 2 dollars and 15 cents?",
-    "audio_prompt": "At the class shop, which amount is 2 dollars and 15 cents?",
+    "question": "A price is four dollars and six cents. Which label shows this price?",
+    "audio_prompt": "A price is four dollars and six cents. Which label shows this price?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-002",
-      "alt_text": "At the class shop: Separate dollar and cent amounts ready to combine."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$2.15",
+        "text": "$4.60",
+        "is_correct": false
+      },
+      {
+        "text": "$0.46",
+        "is_correct": false
+      },
+      {
+        "text": "$4.06",
         "is_correct": true
       },
       {
-        "text": "$17.00",
-        "is_correct": false
-      },
-      {
-        "text": "$2.015",
+        "text": "$4.16",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Money notation uses two digits for cents.",
-      "hint": "Write dollars before the decimal point and cents after it."
+      "summary": "The six cents must be written as 06 after the decimal point: $4.06. $4.60 would mean sixty cents.",
+      "hint": "Write two digits for the cents."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-P-003",
@@ -80,35 +84,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the class shop, how many cents are in $2.15?",
-    "audio_prompt": "At the class shop, how many cents are in $2.15?",
+    "question": "A counter shows 375 cents. What is this in dollars and cents?",
+    "audio_prompt": "A counter shows 375 cents. What is this in dollars and cents?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-003",
-      "alt_text": "At the class shop: A money amount of 2 dollars and 15 cents."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "350",
+        "text": "37 dollars and 5 cents",
         "is_correct": false
       },
       {
-        "text": "215",
+        "text": "3 dollars and 5 cents",
+        "is_correct": false
+      },
+      {
+        "text": "3 dollars and 75 cents",
         "is_correct": true
       },
       {
-        "text": "17",
+        "text": "3 dollars and 57 cents",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "$2 is 200 cents; add 15 cents to get 215.",
-      "hint": "Convert dollars first, then add the cents."
+      "summary": "Three groups of 100 cents make $3, with 75 cents left.",
+      "hint": "Separate complete groups of 100 cents."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3
   },
   {
     "id": "AC9M3M06-P-004",
@@ -117,35 +123,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the class shop, which collection has the same value as 125 cents?",
-    "audio_prompt": "At the class shop, which collection has the same value as 125 cents?",
+    "question": "What does the zero in $2.08 tell you?",
+    "audio_prompt": "What does the zero in $2.08 tell you?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-004",
-      "alt_text": "At the class shop: A cent amount ready to exchange into dollars and cents."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$125 and 1 cent",
+        "text": "There are no cents.",
         "is_correct": false
       },
       {
-        "text": "12 cents",
+        "text": "There are no dollars.",
         "is_correct": false
       },
       {
-        "text": "$1 and 25 cents",
+        "text": "There are no tens of cents.",
         "is_correct": true
+      },
+      {
+        "text": "There are eight tens of cents.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "125 cents is 1 dollar and 25 cents.",
-      "hint": "Trade each group of 100 cents for one dollar."
+      "summary": "The cents part is 08: zero tens of cents and eight single cents. The amount is two dollars and eight cents.",
+      "hint": "Read the two digits after the decimal point together."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4
   },
   {
     "id": "AC9M3M06-P-005",
@@ -154,35 +162,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the class shop, a book costs $2.15 and a pencil costs $1.00. What is the total?",
-    "audio_prompt": "At the class shop, a book costs $2.15 and a pencil costs $1.00. What is the total?",
+    "question": "Which pair of labels names the same amount?",
+    "audio_prompt": "Which pair of labels names the same amount?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-005",
-      "alt_text": "At the class shop: Two prices shown on a receipt."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$3.15",
+        "text": "$0.07 and 70c",
+        "is_correct": false
+      },
+      {
+        "text": "$7.00 and 70c",
+        "is_correct": false
+      },
+      {
+        "text": "$0.70 and 70c",
         "is_correct": true
       },
       {
-        "text": "$2.16",
-        "is_correct": false
-      },
-      {
-        "text": "$3.00",
+        "text": "$0.70 and 7c",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Adding one dollar increases the dollars by 1 while cents stay 15.",
-      "hint": "Line up dollars with dollars and cents with cents."
+      "summary": "Seventy cents is less than one dollar and is written $0.70.",
+      "hint": "Convert each dollar label into cents."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 5
   },
   {
     "id": "AC9M3M06-P-006",
@@ -191,35 +201,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the class shop, you pay $4.00 for an item costing $2.15. Which operation finds the change?",
-    "audio_prompt": "At the class shop, you pay $4.00 for an item costing $2.15. Which operation finds the change?",
+    "question": "You have 2 dollars and another 140 cents. What is the total value?",
+    "audio_prompt": "You have 2 dollars and another 140 cents. What is the total value?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-006",
-      "alt_text": "At the class shop: A payment and lower item price shown for a change calculation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Multiplication",
+        "text": "$2.40",
         "is_correct": false
       },
       {
-        "text": "Subtraction",
+        "text": "$3.40",
         "is_correct": true
       },
       {
-        "text": "Measurement",
+        "text": "$2.14",
+        "is_correct": false
+      },
+      {
+        "text": "$4.20",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Change is the amount paid minus the cost.",
-      "hint": "Start with the larger paid amount."
+      "summary": "140 cents is $1.40. Together with $2, that makes $3.40.",
+      "hint": "Trade 100 of the 140 cents for another dollar."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 6
   },
   {
     "id": "AC9M3M06-P-007",
@@ -228,35 +240,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the class shop, which is greater: 215 cents or $2.00?",
-    "audio_prompt": "At the class shop, which is greater: 215 cents or $2.00?",
+    "question": "Sam says $6.30 is 63 cents. Which correction explains the mistake?",
+    "audio_prompt": "Sam says $6.30 is 63 cents. Which correction explains the mistake?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-007",
-      "alt_text": "At the class shop: A cents amount compared with a whole-dollar amount."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$2.00",
+        "text": "It is 603 cents: the 3 means three cents.",
         "is_correct": false
       },
       {
-        "text": "They are equal",
+        "text": "It is 6300 cents: each cent is worth 100.",
         "is_correct": false
       },
       {
-        "text": "215 cents",
+        "text": "It is 630 cents: $6 is 600 cents.",
         "is_correct": true
+      },
+      {
+        "text": "It is 60 cents: leave out the 30.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "215 cents is $2.15, which is more than $2.00.",
-      "hint": "Convert both amounts to cents."
+      "summary": "$6 contributes 600 cents and $0.30 contributes 30 cents, so the total is 630 cents.",
+      "hint": "Convert the dollars and cents separately, then combine them."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 7
   },
   {
     "id": "AC9M3M06-P-008",
@@ -265,35 +279,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the class shop, a label shows $2.15. What should be checked?",
-    "audio_prompt": "At the class shop, a label shows $2.15. What should be checked?",
+    "question": "Complete the equal value: $4.75 = $4 + ___ cents.",
+    "audio_prompt": "Complete the equal value: $4.75 = $4 + ___ cents.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-008",
-      "alt_text": "At the class shop: A price label being checked for correct money notation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Cents should use exactly two digits",
+        "text": "75",
         "is_correct": true
       },
       {
-        "text": "Dollars must use three digits",
+        "text": "475",
         "is_correct": false
       },
       {
-        "text": "The decimal point should be removed",
+        "text": "47",
+        "is_correct": false
+      },
+      {
+        "text": "5",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Standard money notation writes the cents with two digits.",
-      "hint": "Count the digits after the decimal point."
+      "summary": "Four dollars are already included. The remaining part of $4.75 is 75 cents.",
+      "hint": "Only the cents part is missing."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 8
   },
   {
     "id": "AC9M3M06-P-009",
@@ -302,34 +318,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the market stall, how many cents equal $3?",
-    "audio_prompt": "At the market stall, how many cents equal $3?",
+    "question": "Which split has the same value as 520 cents?",
+    "audio_prompt": "Which split has the same value as 520 cents?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-009",
-      "alt_text": "At the market stall: A 3-dollar amount beside a cents conversion."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "30",
-        "is_correct": false
-      },
-      {
-        "text": "300",
+        "text": "4 dollars and 120 cents",
         "is_correct": true
       },
       {
-        "text": "310",
+        "text": "5 dollars and 2 cents",
+        "is_correct": false
+      },
+      {
+        "text": "5 dollars and 200 cents",
+        "is_correct": false
+      },
+      {
+        "text": "4 dollars and 20 cents",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Each dollar is 100 cents, so $3 is 300 cents.",
-      "hint": "Multiply the dollars by 100."
+      "summary": "Four dollars is 400 cents; 400 + 120 = 520. A value can be split without using the greatest possible number of whole dollars.",
+      "hint": "Convert the whole-dollar part of each split to cents."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M3M06-P-010",
@@ -338,34 +357,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the market stall, which amount is 3 dollars and 22 cents?",
-    "audio_prompt": "At the market stall, which amount is 3 dollars and 22 cents?",
+    "question": "Which amount is worth more: 95 cents or $1.05?",
+    "audio_prompt": "Which amount is worth more: 95 cents or $1.05?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-010",
-      "alt_text": "At the market stall: Separate dollar and cent amounts ready to combine."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$25.00",
+        "text": "95 cents, by 10 cents",
         "is_correct": false
       },
       {
-        "text": "$3.022",
+        "text": "$1.05, by 90 cents",
         "is_correct": false
       },
       {
-        "text": "$3.22",
+        "text": "They are equal.",
+        "is_correct": false
+      },
+      {
+        "text": "$1.05, by 10 cents",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Money notation uses two digits for cents.",
-      "hint": "Write dollars before the decimal point and cents after it."
+      "summary": "$1.05 is 105 cents. It is 10 cents more than 95 cents.",
+      "hint": "Write both amounts in cents before comparing."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M3M06-P-011",
@@ -374,34 +396,39 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the market stall, how many cents are in $3.22?",
-    "audio_prompt": "At the market stall, how many cents are in $3.22?",
+    "question": "Count the coins shown. What is their total value?",
+    "audio_prompt": "Count the coins shown. What is their total value?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-011",
-      "alt_text": "At the market stall: A money amount of 3 dollars and 22 cents."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06-v2.svg#ac9m3m06-p-011",
+      "alt_text": "$2 coin, 10c coin, 50c coin, 5c coin, 20c coin"
     },
     "answers": [
       {
-        "text": "322",
+        "text": "$2.35",
+        "is_correct": false
+      },
+      {
+        "text": "$3.05",
+        "is_correct": false
+      },
+      {
+        "text": "$2.80",
+        "is_correct": false
+      },
+      {
+        "text": "$2.85",
         "is_correct": true
-      },
-      {
-        "text": "520",
-        "is_correct": false
-      },
-      {
-        "text": "25",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "$3 is 300 cents; add 22 cents to get 322.",
-      "hint": "Convert dollars first, then add the cents."
+      "summary": "The $2 coin is 200c. Add 50c, 20c, 10c and 5c: 200 + 50 + 20 + 10 + 5 = 285c.",
+      "hint": "Start with the largest denomination."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M3M06-P-012",
@@ -410,34 +437,39 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the market stall, which collection has the same value as 160 cents?",
-    "audio_prompt": "At the market stall, which collection has the same value as 160 cents?",
+    "question": "The picture shows one note and some coins. How much money is there?",
+    "audio_prompt": "The picture shows one note and some coins. How much money is there?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-012",
-      "alt_text": "At the market stall: A cent amount ready to exchange into dollars and cents."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06-v2.svg#ac9m3m06-p-012",
+      "alt_text": "$5 note, $2 coin, 50c coin, 10c coin, 5c coin"
     },
     "answers": [
       {
-        "text": "$160 and 1 cent",
+        "text": "$6.65",
         "is_correct": false
       },
       {
-        "text": "$1 and 60 cents",
+        "text": "$7.15",
+        "is_correct": false
+      },
+      {
+        "text": "$7.65",
         "is_correct": true
       },
       {
-        "text": "16 cents",
+        "text": "$8.15",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "160 cents is 1 dollar and 60 cents.",
-      "hint": "Trade each group of 100 cents for one dollar."
+      "summary": "$5 + $2 makes $7. The 50c, 10c and 5c coins add another 65c.",
+      "hint": "Count the dollars first, then the cents."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M3M06-P-013",
@@ -446,34 +478,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the market stall, a book costs $3.22 and a pencil costs $1.00. What is the total?",
-    "audio_prompt": "At the market stall, a book costs $3.22 and a pencil costs $1.00. What is the total?",
+    "question": "There are six 20-cent coins. What is their value in dollars and cents?",
+    "audio_prompt": "There are six 20-cent coins. What is their value in dollars and cents?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-013",
-      "alt_text": "At the market stall: Two prices shown on a receipt."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$3.23",
+        "text": "$0.60",
         "is_correct": false
       },
       {
-        "text": "$4.00",
+        "text": "$0.26",
         "is_correct": false
       },
       {
-        "text": "$4.22",
+        "text": "$1.20",
         "is_correct": true
+      },
+      {
+        "text": "$1.02",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Adding one dollar increases the dollars by 1 while cents stay 22.",
-      "hint": "Line up dollars with dollars and cents with cents."
+      "summary": "Five 20c coins make 100c, or $1. The sixth adds 20c, making $1.20.",
+      "hint": "Group enough coins to make one dollar."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 13
   },
   {
     "id": "AC9M3M06-P-014",
@@ -482,34 +517,39 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the market stall, you pay $5.00 for an item costing $3.22. Which operation finds the change?",
-    "audio_prompt": "At the market stall, you pay $5.00 for an item costing $3.22. Which operation finds the change?",
+    "question": "The coins shown total less than $2. Which ONE coin completes exactly $2?",
+    "audio_prompt": "The coins shown total less than $2. Which ONE coin completes exactly $2?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-014",
-      "alt_text": "At the market stall: A payment and lower item price shown for a change calculation."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06-v2.svg#ac9m3m06-p-014",
+      "alt_text": "$1 coin, 50c coin, 20c coin, 10c coin"
     },
     "answers": [
       {
-        "text": "Subtraction",
+        "text": "20c",
         "is_correct": true
       },
       {
-        "text": "Multiplication",
+        "text": "10c",
         "is_correct": false
       },
       {
-        "text": "Measurement",
+        "text": "50c",
+        "is_correct": false
+      },
+      {
+        "text": "$1",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Change is the amount paid minus the cost.",
-      "hint": "Start with the larger paid amount."
+      "summary": "The shown $1, 50c, 20c and 10c total $1.80. Another 20c makes $2.",
+      "hint": "Count the collection, then count on to $2."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 14
   },
   {
     "id": "AC9M3M06-P-015",
@@ -518,34 +558,39 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the market stall, which is greater: 322 cents or $3.00?",
-    "audio_prompt": "At the market stall, which is greater: 322 cents or $3.00?",
+    "question": "Compare the two rows of coins. Which has the greater value?",
+    "audio_prompt": "Compare the two rows of coins. Which has the greater value?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-015",
-      "alt_text": "At the market stall: A cents amount compared with a whole-dollar amount."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06-v2.svg#ac9m3m06-p-015",
+      "alt_text": "Row A: 50c coin, 50c coin, 50c coin; Row B: $1 coin, 50c coin, 20c coin, 10c coin"
     },
     "answers": [
       {
-        "text": "$3.00",
-        "is_correct": false
-      },
-      {
-        "text": "322 cents",
+        "text": "Row B, by 30c",
         "is_correct": true
       },
       {
-        "text": "They are equal",
+        "text": "Row A, by 30c",
+        "is_correct": false
+      },
+      {
+        "text": "They have equal value.",
+        "is_correct": false
+      },
+      {
+        "text": "Row B, by 70c",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "322 cents is $3.22, which is more than $3.00.",
-      "hint": "Convert both amounts to cents."
+      "summary": "Row A is 50c + 50c + 50c = $1.50. Row B is $1 + 50c + 20c + 10c = $1.80, which is 30c more.",
+      "hint": "Count the value in each row, not just the coins."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 15
   },
   {
     "id": "AC9M3M06-P-016",
@@ -554,34 +599,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "At the market stall, a label shows $3.22. What should be checked?",
-    "audio_prompt": "At the market stall, a label shows $3.22. What should be checked?",
+    "question": "Ava has four 20c coins. Ben has one $1 coin. Who has more money?",
+    "audio_prompt": "Ava has four 20c coins. Ben has one $1 coin. Who has more money?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-016",
-      "alt_text": "At the market stall: A price label being checked for correct money notation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Dollars must use three digits",
+        "text": "Ava, by 60c",
         "is_correct": false
       },
       {
-        "text": "The decimal point should be removed",
-        "is_correct": false
-      },
-      {
-        "text": "Cents should use exactly two digits",
+        "text": "Ben, by 20c",
         "is_correct": true
+      },
+      {
+        "text": "Ava, by 3c",
+        "is_correct": false
+      },
+      {
+        "text": "They have equal value.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Standard money notation writes the cents with two digits.",
-      "hint": "Count the digits after the decimal point."
+      "summary": "Four 20c coins are worth 80c. One $1 coin is worth 100c, so Ben has 20c more.",
+      "hint": "More coins do not always mean more money."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 16
   },
   {
     "id": "AC9M3M06-P-017",
@@ -590,34 +638,39 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "During the book fair, how many cents equal $4?",
-    "audio_prompt": "During the book fair, how many cents equal $4?",
+    "question": "Count both notes and all the coins shown. What is the total?",
+    "audio_prompt": "Count both notes and all the coins shown. What is the total?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-017",
-      "alt_text": "During the book fair: A 4-dollar amount beside a cents conversion."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06-v2.svg#ac9m3m06-p-017",
+      "alt_text": "$5 note, $5 note, $2 coin, 20c coin, 5c coin"
     },
     "answers": [
       {
-        "text": "400",
+        "text": "$7.25",
+        "is_correct": false
+      },
+      {
+        "text": "$11.25",
+        "is_correct": false
+      },
+      {
+        "text": "$12.25",
         "is_correct": true
       },
       {
-        "text": "40",
-        "is_correct": false
-      },
-      {
-        "text": "410",
+        "text": "$12.70",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Each dollar is 100 cents, so $4 is 400 cents.",
-      "hint": "Multiply the dollars by 100."
+      "summary": "Two $5 notes make $10. Add the $2 coin, 20c and 5c to get $12.25.",
+      "hint": "Check how many notes are shown."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 17
   },
   {
     "id": "AC9M3M06-P-018",
@@ -626,34 +679,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "During the book fair, which amount is 4 dollars and 29 cents?",
-    "audio_prompt": "During the book fair, which amount is 4 dollars and 29 cents?",
+    "question": "A coin record says: $2 coins: 2; 50c coins: 3; 10c coins: 1. What is the value?",
+    "audio_prompt": "A coin record says: $2 coins: 2; 50c coins: 3; 10c coins: 1. What is the value?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-018",
-      "alt_text": "During the book fair: Separate dollar and cent amounts ready to combine."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$33.00",
+        "text": "$4.60",
         "is_correct": false
       },
       {
-        "text": "$4.29",
+        "text": "$5.60",
         "is_correct": true
       },
       {
-        "text": "$4.029",
+        "text": "$5.30",
+        "is_correct": false
+      },
+      {
+        "text": "$6.10",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Money notation uses two digits for cents.",
-      "hint": "Write dollars before the decimal point and cents after it."
+      "summary": "Two $2 coins make $4; three 50c coins make $1.50; one 10c coin adds 10c. Total: $5.60.",
+      "hint": "Find the value of each group, then add."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 18
   },
   {
     "id": "AC9M3M06-P-019",
@@ -662,34 +718,39 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "During the book fair, how many cents are in $4.29?",
-    "audio_prompt": "During the book fair, how many cents are in $4.29?",
+    "question": "The picture shows a collection. Remove the 50c coin. What value remains?",
+    "audio_prompt": "The picture shows a collection. Remove the 50c coin. What value remains?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-019",
-      "alt_text": "During the book fair: A money amount of 4 dollars and 29 cents."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06-v2.svg#ac9m3m06-p-019",
+      "alt_text": "$2 coin, 50c coin, 20c coin, 10c coin"
     },
     "answers": [
       {
-        "text": "690",
+        "text": "$2.80",
         "is_correct": false
       },
       {
-        "text": "33",
+        "text": "$1.80",
         "is_correct": false
       },
       {
-        "text": "429",
+        "text": "$2.25",
+        "is_correct": false
+      },
+      {
+        "text": "$2.30",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "$4 is 400 cents; add 29 cents to get 429.",
-      "hint": "Convert dollars first, then add the cents."
+      "summary": "The coins left are $2, 20c and 10c. Together they are $2.30.",
+      "hint": "Count only the coins that remain."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 19
   },
   {
     "id": "AC9M3M06-P-020",
@@ -698,34 +759,39 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "During the book fair, which collection has the same value as 195 cents?",
-    "audio_prompt": "During the book fair, which collection has the same value as 195 cents?",
+    "question": "A child counts the pictured $2 coin as $1 and says the total is $1.50. What is the actual total?",
+    "audio_prompt": "A child counts the pictured $2 coin as $1 and says the total is $1.50. What is the actual total?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-020",
-      "alt_text": "During the book fair: A cent amount ready to exchange into dollars and cents."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06-v2.svg#ac9m3m06-p-020",
+      "alt_text": "$2 coin, 20c coin, 20c coin, 10c coin"
     },
     "answers": [
       {
-        "text": "$1 and 95 cents",
+        "text": "$2.50",
         "is_correct": true
       },
       {
-        "text": "$195 and 1 cent",
+        "text": "$1.50",
         "is_correct": false
       },
       {
-        "text": "19 cents",
+        "text": "$3.50",
+        "is_correct": false
+      },
+      {
+        "text": "$2.05",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "195 cents is 1 dollar and 95 cents.",
-      "hint": "Trade each group of 100 cents for one dollar."
+      "summary": "The collection has a $2 coin, two 20c coins and a 10c coin. The smaller coins total 50c, so it is $2.50.",
+      "hint": "Read each denomination label before adding."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 20
   },
   {
     "id": "AC9M3M06-P-021",
@@ -734,34 +800,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "During the book fair, a book costs $4.29 and a pencil costs $1.00. What is the total?",
-    "audio_prompt": "During the book fair, a book costs $4.29 and a pencil costs $1.00. What is the total?",
+    "question": "Exchange one 50c coin for 5c coins of equal total value. How many 5c coins are needed?",
+    "audio_prompt": "Exchange one 50c coin for 5c coins of equal total value. How many 5c coins are needed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-021",
-      "alt_text": "During the book fair: Two prices shown on a receipt."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$4.30",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "$5.29",
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "10",
         "is_correct": true
       },
       {
-        "text": "$5.00",
+        "text": "50",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Adding one dollar increases the dollars by 1 while cents stay 29.",
-      "hint": "Line up dollars with dollars and cents with cents."
+      "summary": "Ten groups of 5c make 50c, so ten 5c coins replace one 50c coin.",
+      "hint": "Count by fives until you reach 50."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 21
   },
   {
     "id": "AC9M3M06-P-022",
@@ -770,34 +839,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "During the book fair, you pay $6.00 for an item costing $4.29. Which operation finds the change?",
-    "audio_prompt": "During the book fair, you pay $6.00 for an item costing $4.29. Which operation finds the change?",
+    "question": "How many $1 coins have the same value as fifteen 20c coins?",
+    "audio_prompt": "How many $1 coins have the same value as fifteen 20c coins?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-022",
-      "alt_text": "During the book fair: A payment and lower item price shown for a change calculation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Multiplication",
+        "text": "15",
         "is_correct": false
       },
       {
-        "text": "Measurement",
-        "is_correct": false
-      },
-      {
-        "text": "Subtraction",
+        "text": "3",
         "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Change is the amount paid minus the cost.",
-      "hint": "Start with the larger paid amount."
+      "summary": "Five 20c coins make $1. Fifteen coins make three such groups, or $3.",
+      "hint": "Group the 20c coins in fives."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 22
   },
   {
     "id": "AC9M3M06-P-023",
@@ -806,34 +878,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "During the book fair, which is greater: 429 cents or $4.00?",
-    "audio_prompt": "During the book fair, which is greater: 429 cents or $4.00?",
+    "question": "Which collection replaces one $2 coin with exactly four coins, without using $1 coins?",
+    "audio_prompt": "Which collection replaces one $2 coin with exactly four coins, without using $1 coins?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-023",
-      "alt_text": "During the book fair: A cents amount compared with a whole-dollar amount."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "429 cents",
+        "text": "Four 20c coins",
+        "is_correct": false
+      },
+      {
+        "text": "Four 50c coins",
         "is_correct": true
       },
       {
-        "text": "$4.00",
+        "text": "Two 50c and two 20c coins",
         "is_correct": false
       },
       {
-        "text": "They are equal",
+        "text": "Three 50c and one 20c coin",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "429 cents is $4.29, which is more than $4.00.",
-      "hint": "Convert both amounts to cents."
+      "summary": "Four 50c coins total 200c, equal to $2. The other four-coin collections total less than $2.",
+      "hint": "Both the number of coins and their value must match."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 23
   },
   {
     "id": "AC9M3M06-P-024",
@@ -842,34 +917,973 @@
     "curriculum_code": "AC9M3M06",
     "bank": "practice",
     "skill": "money",
-    "question": "During the book fair, a label shows $4.29. What should be checked?",
-    "audio_prompt": "During the book fair, a label shows $4.29. What should be checked?",
+    "question": "Which collection has the same value as two $1 coins and one 20c coin?",
+    "audio_prompt": "Which collection has the same value as two $1 coins and one 20c coin?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-p-024",
-      "alt_text": "During the book fair: A price label being checked for correct money notation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Dollars must use three digits",
+        "text": "Four 50c coins and one 10c coin",
         "is_correct": false
       },
       {
-        "text": "Cents should use exactly two digits",
+        "text": "Four 50c coins and two 10c coins",
         "is_correct": true
       },
       {
-        "text": "The decimal point should be removed",
+        "text": "Two 50c coins and two 10c coins",
+        "is_correct": false
+      },
+      {
+        "text": "One $2 coin and two 20c coins",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Standard money notation writes the cents with two digits.",
-      "hint": "Count the digits after the decimal point."
+      "summary": "Two $1 coins and 20c make $2.20. Four 50c coins make $2, and two 10c coins add 20c.",
+      "hint": "Write the target value before checking collections."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 24
+  },
+  {
+    "id": "AC9M3M06-P-025",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "Replace a 20c coin with exactly TWO coins of equal total value. Which coins work?",
+    "audio_prompt": "Replace a 20c coin with exactly TWO coins of equal total value. Which coins work?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "5c and 5c",
+        "is_correct": false
+      },
+      {
+        "text": "20c and 5c",
+        "is_correct": false
+      },
+      {
+        "text": "10c and 5c",
+        "is_correct": false
+      },
+      {
+        "text": "10c and 10c",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "10c + 10c = 20c. The replacement changes the coin count but keeps the value.",
+      "hint": "Add the two replacement values."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 25
+  },
+  {
+    "id": "AC9M3M06-P-026",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "A purse contains a $2 coin, a 50c coin and a 20c coin. Only the 50c coin is exchanged for five 10c coins. What is the purse worth now?",
+    "audio_prompt": "A purse contains a $2 coin, a 50c coin and a 20c coin. Only the 50c coin is exchanged for five 10c coins. What is the purse worth now?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "$2.20",
+        "is_correct": false
+      },
+      {
+        "text": "$2.70",
+        "is_correct": true
+      },
+      {
+        "text": "$3.20",
+        "is_correct": false
+      },
+      {
+        "text": "$2.25",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Five 10c coins are still worth 50c. The purse remains worth $2 + 50c + 20c = $2.70.",
+      "hint": "An equal-value exchange does not add money."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 26
+  },
+  {
+    "id": "AC9M3M06-P-027",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "One $1 coin and a missing coin equal one 50c coin and three 20c coins. What is the missing coin?",
+    "audio_prompt": "One $1 coin and a missing coin equal one 50c coin and three 20c coins. What is the missing coin?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "20c",
+        "is_correct": false
+      },
+      {
+        "text": "50c",
+        "is_correct": false
+      },
+      {
+        "text": "$2",
+        "is_correct": false
+      },
+      {
+        "text": "10c",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "50c + 20c + 20c + 20c = 110c. The $1 coin provides 100c, so the missing coin is 10c.",
+      "hint": "Count the right-hand collection first."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 27
+  },
+  {
+    "id": "AC9M3M06-P-028",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "Make $1.10 using exactly THREE Australian coins. Which collection works?",
+    "audio_prompt": "Make $1.10 using exactly THREE Australian coins. Which collection works?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "$1, 10c and 5c",
+        "is_correct": false
+      },
+      {
+        "text": "50c, 20c and 20c",
+        "is_correct": false
+      },
+      {
+        "text": "50c, 50c and 10c",
+        "is_correct": true
+      },
+      {
+        "text": "$1, 5c and 10c",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "50c + 50c + 10c = 110c. This is $1.10 using exactly three coins.",
+      "hint": "Check both the total and the number of coins."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 28
+  },
+  {
+    "id": "AC9M3M06-P-029",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "Three of these collections equal $1. Which one has a different value?",
+    "audio_prompt": "Three of these collections equal $1. Which one has a different value?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Two 50c coins",
+        "is_correct": false
+      },
+      {
+        "text": "Five 20c coins",
+        "is_correct": false
+      },
+      {
+        "text": "Ten 10c coins",
+        "is_correct": false
+      },
+      {
+        "text": "Three 20c coins and one 50c coin",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Three 20c coins make 60c; adding 50c gives $1.10. Each other collection equals 100c.",
+      "hint": "Convert every collection to cents."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 29
+  },
+  {
+    "id": "AC9M3M06-P-030",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "A $5 note is exchanged for two $2 coins and some 20c coins. How many 20c coins are needed?",
+    "audio_prompt": "A $5 note is exchanged for two $2 coins and some 20c coins. How many 20c coins are needed?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Two $2 coins make $4. The remaining $1 is equal to five 20c coins.",
+      "hint": "Find the value still needed after the $2 coins."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 30
+  },
+  {
+    "id": "AC9M3M06-P-031",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "One $1 coin is exchanged for two 50c coins. What changes?",
+    "audio_prompt": "One $1 coin is exchanged for two 50c coins. What changes?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Both the number of coins and the value increase.",
+        "is_correct": false
+      },
+      {
+        "text": "The number of coins stays the same; the value decreases.",
+        "is_correct": false
+      },
+      {
+        "text": "The number of coins decreases; the value stays the same.",
+        "is_correct": false
+      },
+      {
+        "text": "The number of coins increases; the value stays the same.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "There were one coin and now there are two, but both collections are worth 100c.",
+      "hint": "Compare coin count separately from money value."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 31
+  },
+  {
+    "id": "AC9M3M06-P-032",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "Use only 50c and 20c coins to make $1.40 with exactly FOUR coins. Which collection works?",
+    "audio_prompt": "Use only 50c and 20c coins to make $1.40 with exactly FOUR coins. Which collection works?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "One 50c coin and three 20c coins",
+        "is_correct": false
+      },
+      {
+        "text": "Three 50c coins and one 20c coin",
+        "is_correct": false
+      },
+      {
+        "text": "Four 20c coins",
+        "is_correct": false
+      },
+      {
+        "text": "Two 50c coins and two 20c coins",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "100c from the two 50c coins plus 40c from the two 20c coins makes 140c. There are four coins.",
+      "hint": "Check the two constraints separately."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 32
+  },
+  {
+    "id": "AC9M3M06-P-033",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "Using Australian coins, what is the fewest number needed to make 75c?",
+    "audio_prompt": "Using Australian coins, what is the fewest number needed to make 75c?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "50c + 20c + 5c makes 75c with three coins. No pair of Australian coin denominations totals 75c.",
+      "hint": "Try the largest coin that does not exceed 75c."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 33
+  },
+  {
+    "id": "AC9M3M06-P-034",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "What is the fewest number of Australian coins needed to make $4.60?",
+    "audio_prompt": "What is the fewest number of Australian coins needed to make $4.60?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Two $2 coins, a 50c coin and a 10c coin make $4.60 using four coins. Three coins cannot make this amount.",
+      "hint": "Use large coins for the dollars, then make the remaining cents."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 34
+  },
+  {
+    "id": "AC9M3M06-P-035",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "You may use $1, 50c, 20c, 10c and 5c coins, but no $2 coins. What is the fewest number needed for $2.50?",
+    "audio_prompt": "You may use $1, 50c, 20c, 10c and 5c coins, but no $2 coins. What is the fewest number needed for $2.50?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Two $1 coins and one 50c coin make $2.50. With no $2 coin, two available coins cannot total more than $2.",
+      "hint": "Use only the denominations allowed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 35
+  },
+  {
+    "id": "AC9M3M06-P-036",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "Both collections equal 60c: A has three 20c coins; B has one 50c coin and one 10c coin. Which uses fewer coins?",
+    "audio_prompt": "Both collections equal 60c: A has three 20c coins; B has one 50c coin and one 10c coin. Which uses fewer coins?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "B uses one fewer coin.",
+        "is_correct": true
+      },
+      {
+        "text": "A uses one fewer coin.",
+        "is_correct": false
+      },
+      {
+        "text": "B uses two fewer coins.",
+        "is_correct": false
+      },
+      {
+        "text": "They use the same number.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A has three coins and B has two. Their values are equal, but B uses one fewer coin.",
+      "hint": "Count coins after checking the values."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 36
+  },
+  {
+    "id": "AC9M3M06-P-037",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "You have one $1 coin, one 50c coin, two 20c coins and one 10c coin. What is the fewest coins you can use to pay exactly $1.40?",
+    "audio_prompt": "You have one $1 coin, one 50c coin, two 20c coins and one 10c coin. What is the fewest coins you can use to pay exactly $1.40?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Two: $1, 50c",
+        "is_correct": false
+      },
+      {
+        "text": "Four: 50c, 20c, 20c, 10c",
+        "is_correct": false
+      },
+      {
+        "text": "Three: $1, 20c, 10c",
+        "is_correct": false
+      },
+      {
+        "text": "Three: $1, 20c, 20c",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "$1 + 20c + 20c = $1.40. No available pair makes $1.40.",
+      "hint": "The payment must be exact and use coins you have."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 37
+  },
+  {
+    "id": "AC9M3M06-P-038",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "A collection of six 10c coins is worth 60c. Which replacement keeps the value and uses the fewest coins?",
+    "audio_prompt": "A collection of six 10c coins is worth 60c. Which replacement keeps the value and uses the fewest coins?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Three 20c coins",
+        "is_correct": false
+      },
+      {
+        "text": "One 50c coin and one 10c coin",
+        "is_correct": true
+      },
+      {
+        "text": "Two 20c coins and two 10c coins",
+        "is_correct": false
+      },
+      {
+        "text": "One 50c coin and two 5c coins",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "All four replacements make 60c. The 50c and 10c pair uses two coins; the others use three or four.",
+      "hint": "Compare coin counts only after confirming equal value."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 38
+  },
+  {
+    "id": "AC9M3M06-P-039",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "Can you make exactly 65c using only 20c coins?",
+    "audio_prompt": "Can you make exactly 65c using only 20c coins?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "No; totals go 20c, 40c, 60c, 80c, so 65c is skipped.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes; three coins make 65c.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; four coins make 65c.",
+        "is_correct": false
+      },
+      {
+        "text": "No; 20c coins cannot make any total above 20c.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Adding 20c coins gives multiples of 20c. The totals jump from 60c to 80c without reaching 65c.",
+      "hint": "List successive totals using only the allowed coin."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 39
+  },
+  {
+    "id": "AC9M3M06-P-040",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "You have $1.85. Which ONE Australian coin makes the total at least $2, with the smallest amount over $2?",
+    "audio_prompt": "You have $1.85. Which ONE Australian coin makes the total at least $2, with the smallest amount over $2?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "10c",
+        "is_correct": false
+      },
+      {
+        "text": "50c",
+        "is_correct": false
+      },
+      {
+        "text": "$1",
+        "is_correct": false
+      },
+      {
+        "text": "20c",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Adding 20c gives $2.05. A 10c coin leaves only $1.95, and 50c or $1 would go further over $2.",
+      "hint": "The new total must reach $2 before you compare the excess."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9M3M06-P-041",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "Which comparison is correct?",
+    "audio_prompt": "Which comparison is correct?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "305c = $3.50",
+        "is_correct": false
+      },
+      {
+        "text": "305c = $3.05",
+        "is_correct": true
+      },
+      {
+        "text": "305c < $3.00",
+        "is_correct": false
+      },
+      {
+        "text": "305c > $3.50",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "305c is three groups of 100c plus 5c, so it equals $3.05.",
+      "hint": "Convert the mixed amount into cents."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9M3M06-P-042",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "Which list is ordered from smallest to largest?",
+    "audio_prompt": "Which list is ordered from smallest to largest?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "85c, 150c, $1.05",
+        "is_correct": false
+      },
+      {
+        "text": "85c, $1.05, 150c",
+        "is_correct": true
+      },
+      {
+        "text": "$1.05, 85c, 150c",
+        "is_correct": false
+      },
+      {
+        "text": "150c, $1.05, 85c",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The amounts in cents are 85, 105 and 150, so this is increasing order.",
+      "hint": "Use the same unit for all three amounts."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9M3M06-P-043",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "Which list is ordered from largest to smallest?",
+    "audio_prompt": "Which list is ordered from largest to smallest?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "$3.90, $3.09, $2.95",
+        "is_correct": true
+      },
+      {
+        "text": "$3.09, $3.90, $2.95",
+        "is_correct": false
+      },
+      {
+        "text": "$2.95, $3.09, $3.90",
+        "is_correct": false
+      },
+      {
+        "text": "$3.90, $2.95, $3.09",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Both $3 amounts exceed $2.95. Between them, 90c is more than 9c.",
+      "hint": "Compare dollars first, then cents."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9M3M06-P-044",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "A list should run from smallest to largest: $1.10, 95c, $1.25. Which move fixes it?",
+    "audio_prompt": "A list should run from smallest to largest: $1.10, 95c, $1.25. Which move fixes it?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Move 95c before $1.10.",
+        "is_correct": true
+      },
+      {
+        "text": "Move $1.25 before $1.10.",
+        "is_correct": false
+      },
+      {
+        "text": "Move 95c after $1.25.",
+        "is_correct": false
+      },
+      {
+        "text": "Leave the list unchanged.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "95c is below one dollar. It belongs before $1.10 and $1.25.",
+      "hint": "Identify the amount below $1."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9M3M06-P-045",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "A ticket costs $2.40. Which collection pays the exact price?",
+    "audio_prompt": "A ticket costs $2.40. Which collection pays the exact price?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "One $2 coin and two 20c coins",
+        "is_correct": true
+      },
+      {
+        "text": "Two $1 coins and one 20c coin",
+        "is_correct": false
+      },
+      {
+        "text": "One $2 coin and one 50c coin",
+        "is_correct": false
+      },
+      {
+        "text": "Four 50c coins and one 20c coin",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "$2 + 20c + 20c = $2.40. The other collections total $2.20 or $2.50.",
+      "hint": "Exact payment must equal the price, not merely exceed it."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9M3M06-P-046",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "A sticker costs $1.35. You have one $1 coin and one 20c coin. Why can you not pay for it yet?",
+    "audio_prompt": "A sticker costs $1.35. You have one $1 coin and one 20c coin. Why can you not pay for it yet?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "You have $1.20 and need 15c more.",
+        "is_correct": true
+      },
+      {
+        "text": "You have $1.02 and need 33c more.",
+        "is_correct": false
+      },
+      {
+        "text": "You have $1.20 and need 35c more.",
+        "is_correct": false
+      },
+      {
+        "text": "You have $1.50 and need 15c more.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The coins total $1.20. Count on 15c to reach the $1.35 price.",
+      "hint": "Count the value of the collection first."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9M3M06-P-047",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "You should receive 85c change. Which collection has that value?",
+    "audio_prompt": "You should receive 85c change. Which collection has that value?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "50c, 20c and 10c",
+        "is_correct": false
+      },
+      {
+        "text": "50c, 20c, 20c and 5c",
+        "is_correct": false
+      },
+      {
+        "text": "20c, 20c, 20c and 5c",
+        "is_correct": false
+      },
+      {
+        "text": "50c, 20c, 10c and 5c",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "50 + 20 + 10 + 5 = 85 cents.",
+      "hint": "Add each denomination in cents."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9M3M06-P-048",
+    "subject": "math",
+    "year_level": "Year 3",
+    "curriculum_code": "AC9M3M06",
+    "bank": "practice",
+    "skill": "money",
+    "question": "A 50c coin is physically larger than a $2 coin. Which coin has greater value, and why?",
+    "audio_prompt": "A 50c coin is physically larger than a $2 coin. Which coin has greater value, and why?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The 50c coin, because it is larger.",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal, because both are one coin.",
+        "is_correct": false
+      },
+      {
+        "text": "The $2 coin, because it equals 200c.",
+        "is_correct": true
+      },
+      {
+        "text": "The 50c coin, because 50 is greater than 2.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "$2 is 200 cents, which exceeds 50 cents. Physical size does not determine the value.",
+      "hint": "Compare both denominations in the same unit."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 48
   },
   {
     "id": "AC9M3M06-T-001",
@@ -878,32 +1892,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "At the canteen, how many cents equal $5?",
-    "audio_prompt": "At the canteen, how many cents equal $5?",
+    "question": "Which price label means seven dollars and nine cents?",
+    "audio_prompt": "Which price label means seven dollars and nine cents?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-001",
-      "alt_text": "At the canteen: A 5-dollar amount beside a cents conversion."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "50",
+        "text": "$7.90",
         "is_correct": false
       },
       {
-        "text": "510",
-        "is_correct": false
-      },
-      {
-        "text": "500",
+        "text": "$7.09",
         "is_correct": true
+      },
+      {
+        "text": "$0.79",
+        "is_correct": false
+      },
+      {
+        "text": "$7.19",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Each dollar is 100 cents, so $5 is 500 cents.",
-      "hint": "Multiply the dollars by 100."
-    }
+      "summary": "Nine cents is written 09 after the decimal point, so the price is $7.09.",
+      "hint": "Keep the cents part as two digits."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M3M06-T-002",
@@ -912,32 +1931,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "At the canteen, which amount is 5 dollars and 36 cents?",
-    "audio_prompt": "At the canteen, which amount is 5 dollars and 36 cents?",
+    "question": "A savings record shows 3 dollars and 225 cents. What is the total?",
+    "audio_prompt": "A savings record shows 3 dollars and 225 cents. What is the total?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-002",
-      "alt_text": "At the canteen: Separate dollar and cent amounts ready to combine."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$5.36",
+        "text": "$5.25",
         "is_correct": true
       },
       {
-        "text": "$41.00",
+        "text": "$3.25",
         "is_correct": false
       },
       {
-        "text": "$5.036",
+        "text": "$3.225",
+        "is_correct": false
+      },
+      {
+        "text": "$6.25",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Money notation uses two digits for cents.",
-      "hint": "Write dollars before the decimal point and cents after it."
-    }
+      "summary": "225c equals $2.25; adding $3 gives $5.25.",
+      "hint": "Exchange complete hundreds of cents for dollars."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2
   },
   {
     "id": "AC9M3M06-T-003",
@@ -946,32 +1970,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "At the canteen, how many cents are in $5.36?",
-    "audio_prompt": "At the canteen, how many cents are in $5.36?",
+    "question": "A label says $8.04. A child reads it as 840c. What should the cents label say?",
+    "audio_prompt": "A label says $8.04. A child reads it as 840c. What should the cents label say?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-003",
-      "alt_text": "At the canteen: A money amount of 5 dollars and 36 cents."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "860",
-        "is_correct": false
-      },
-      {
-        "text": "536",
+        "text": "804c",
         "is_correct": true
       },
       {
-        "text": "41",
+        "text": "84c",
+        "is_correct": false
+      },
+      {
+        "text": "8400c",
+        "is_correct": false
+      },
+      {
+        "text": "408c",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "$5 is 500 cents; add 36 cents to get 536.",
-      "hint": "Convert dollars first, then add the cents."
-    }
+      "summary": "$8 is 800c and the remaining amount is 4c, giving 804c.",
+      "hint": "Separate the dollar part and cent part."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 3
   },
   {
     "id": "AC9M3M06-T-004",
@@ -980,32 +2009,39 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "At the canteen, which collection has the same value as 230 cents?",
-    "audio_prompt": "At the canteen, which collection has the same value as 230 cents?",
+    "question": "Find the total value of the note and coins shown.",
+    "audio_prompt": "Find the total value of the note and coins shown.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-004",
-      "alt_text": "At the canteen: A cent amount ready to exchange into dollars and cents."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06-v2.svg#ac9m3m06-t-004",
+      "alt_text": "$5 note, $2 coin, $1 coin, 20c coin, 20c coin, 5c coin"
     },
     "answers": [
       {
-        "text": "$230 and 1 cent",
+        "text": "$7.45",
         "is_correct": false
       },
       {
-        "text": "23 cents",
+        "text": "$8.40",
         "is_correct": false
       },
       {
-        "text": "$2 and 30 cents",
+        "text": "$8.45",
         "is_correct": true
+      },
+      {
+        "text": "$9.45",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "230 cents is 2 dollar and 30 cents.",
-      "hint": "Trade each group of 100 cents for one dollar."
-    }
+      "summary": "$5 + $2 + $1 = $8; 20c + 20c + 5c = 45c. Total: $8.45.",
+      "hint": "Count all dollar denominations before adding cents."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 4
   },
   {
     "id": "AC9M3M06-T-005",
@@ -1014,32 +2050,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "At the canteen, a book costs $5.36 and a pencil costs $1.00. What is the total?",
-    "audio_prompt": "At the canteen, a book costs $5.36 and a pencil costs $1.00. What is the total?",
+    "question": "A purse has a $2 coin, a 20c coin and one hidden coin. Its total is $2.70. What is the hidden coin?",
+    "audio_prompt": "A purse has a $2 coin, a 20c coin and one hidden coin. Its total is $2.70. What is the hidden coin?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-005",
-      "alt_text": "At the canteen: Two prices shown on a receipt."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$6.36",
+        "text": "50c",
         "is_correct": true
       },
       {
-        "text": "$5.37",
+        "text": "20c",
         "is_correct": false
       },
       {
-        "text": "$6.00",
+        "text": "10c",
+        "is_correct": false
+      },
+      {
+        "text": "$1",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Adding one dollar increases the dollars by 1 while cents stay 36.",
-      "hint": "Line up dollars with dollars and cents with cents."
-    }
+      "summary": "The visible coins total $2.20. Another 50c is needed to reach $2.70.",
+      "hint": "Find the difference between the visible total and the full total."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 5
   },
   {
     "id": "AC9M3M06-T-006",
@@ -1048,32 +2089,39 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "At the canteen, you pay $7.00 for an item costing $5.36. Which operation finds the change?",
-    "audio_prompt": "At the canteen, you pay $7.00 for an item costing $5.36. Which operation finds the change?",
+    "question": "Which row in the picture has more money?",
+    "audio_prompt": "Which row in the picture has more money?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-006",
-      "alt_text": "At the canteen: A payment and lower item price shown for a change calculation."
+      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06-v2.svg#ac9m3m06-t-006",
+      "alt_text": "Row A: $2 coin, 5c coin; Row B: $1 coin, 50c coin, 20c coin, 20c coin"
     },
     "answers": [
       {
-        "text": "Multiplication",
+        "text": "Row B, by 15c",
         "is_correct": false
       },
       {
-        "text": "Subtraction",
+        "text": "They are equal.",
+        "is_correct": false
+      },
+      {
+        "text": "Row A, by 5c",
+        "is_correct": false
+      },
+      {
+        "text": "Row A, by 15c",
         "is_correct": true
-      },
-      {
-        "text": "Measurement",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Change is the amount paid minus the cost.",
-      "hint": "Start with the larger paid amount."
-    }
+      "summary": "Row A is $2 + 5c = $2.05. Row B is $1 + 50c + 20c + 20c = $1.90. A has 15c more.",
+      "hint": "More coins can still have a lower total."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 6
   },
   {
     "id": "AC9M3M06-T-007",
@@ -1082,32 +2130,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "At the canteen, which is greater: 536 cents or $5.00?",
-    "audio_prompt": "At the canteen, which is greater: 536 cents or $5.00?",
+    "question": "How many 50c coins replace eight 20c coins and four 10c coins with equal value?",
+    "audio_prompt": "How many 50c coins replace eight 20c coins and four 10c coins with equal value?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-007",
-      "alt_text": "At the canteen: A cents amount compared with a whole-dollar amount."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$5.00",
+        "text": "12",
         "is_correct": false
       },
       {
-        "text": "They are equal",
+        "text": "3",
         "is_correct": false
       },
       {
-        "text": "536 cents",
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "536 cents is $5.36, which is more than $5.00.",
-      "hint": "Convert both amounts to cents."
-    }
+      "summary": "Eight 20c coins make 160c and four 10c coins make 40c. Their 200c total equals four 50c coins.",
+      "hint": "Find the original total before exchanging it."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 7
   },
   {
     "id": "AC9M3M06-T-008",
@@ -1116,32 +2169,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "At the canteen, a label shows $5.36. What should be checked?",
-    "audio_prompt": "At the canteen, a label shows $5.36. What should be checked?",
+    "question": "You have $3.80. You exchange its four 20c coins for other coins of equal value and keep the $3. Which replacement works?",
+    "audio_prompt": "You have $3.80. You exchange its four 20c coins for other coins of equal value and keep the $3. Which replacement works?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-008",
-      "alt_text": "At the canteen: A price label being checked for correct money notation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Cents should use exactly two digits",
+        "text": "One 50c coin and two 10c coins",
+        "is_correct": false
+      },
+      {
+        "text": "Two 50c coins",
+        "is_correct": false
+      },
+      {
+        "text": "One 50c coin and three 10c coins",
         "is_correct": true
       },
       {
-        "text": "Dollars must use three digits",
-        "is_correct": false
-      },
-      {
-        "text": "The decimal point should be removed",
+        "text": "Three 20c coins and one 10c coin",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Standard money notation writes the cents with two digits.",
-      "hint": "Count the digits after the decimal point."
-    }
+      "summary": "Four 20c coins are worth 80c. A 50c coin plus three 10c coins also makes 80c, leaving the full value at $3.80.",
+      "hint": "Only replace the 80c part."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 8
   },
   {
     "id": "AC9M3M06-T-009",
@@ -1150,32 +2208,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "In the savings challenge, how many cents equal $6?",
-    "audio_prompt": "In the savings challenge, how many cents equal $6?",
+    "question": "Which collection makes $2.10 with exactly FOUR coins?",
+    "audio_prompt": "Which collection makes $2.10 with exactly FOUR coins?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-009",
-      "alt_text": "In the savings challenge: A 6-dollar amount beside a cents conversion."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "60",
+        "text": "$2, 10c",
         "is_correct": false
       },
       {
-        "text": "600",
+        "text": "$1, 50c, 20c, 20c",
+        "is_correct": false
+      },
+      {
+        "text": "$2, 10c, 5c, 5c",
+        "is_correct": false
+      },
+      {
+        "text": "$1, 50c, 50c, 10c",
         "is_correct": true
-      },
-      {
-        "text": "610",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Each dollar is 100 cents, so $6 is 600 cents.",
-      "hint": "Multiply the dollars by 100."
-    }
+      "summary": "100c + 50c + 50c + 10c = 210c, and there are four coins. The two-coin choice has the right value but fails the coin-count rule.",
+      "hint": "Check both conditions before choosing."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M3M06-T-010",
@@ -1184,32 +2247,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "In the savings challenge, which amount is 6 dollars and 43 cents?",
-    "audio_prompt": "In the savings challenge, which amount is 6 dollars and 43 cents?",
+    "question": "A $5 note and one 50c coin are exchanged. Which collection has the same value?",
+    "audio_prompt": "A $5 note and one 50c coin are exchanged. Which collection has the same value?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-010",
-      "alt_text": "In the savings challenge: Separate dollar and cent amounts ready to combine."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$49.00",
+        "text": "Two $2 coins and two 50c coins",
         "is_correct": false
       },
       {
-        "text": "$6.043",
-        "is_correct": false
-      },
-      {
-        "text": "$6.43",
+        "text": "Two $2 coins and three 50c coins",
         "is_correct": true
+      },
+      {
+        "text": "Five $1 coins and one 5c coin",
+        "is_correct": false
+      },
+      {
+        "text": "Three $2 coins and one 50c coin",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Money notation uses two digits for cents.",
-      "hint": "Write dollars before the decimal point and cents after it."
-    }
+      "summary": "Two $2 coins are $4 and three 50c coins are $1.50, making $5.50.",
+      "hint": "The replacement must total five dollars and fifty cents."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M3M06-T-011",
@@ -1218,32 +2286,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "In the savings challenge, how many cents are in $6.43?",
-    "audio_prompt": "In the savings challenge, how many cents are in $6.43?",
+    "question": "Using Australian coins, what is the fewest number needed for $3.70?",
+    "audio_prompt": "Using Australian coins, what is the fewest number needed for $3.70?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-011",
-      "alt_text": "In the savings challenge: A money amount of 6 dollars and 43 cents."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "643",
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
         "is_correct": true
       },
       {
-        "text": "1030",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "49",
+        "text": "6",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "$6 is 600 cents; add 43 cents to get 643.",
-      "hint": "Convert dollars first, then add the cents."
-    }
+      "summary": "$2 + $1 + 50c + 20c = $3.70 using four coins. No three available denominations make $3.70.",
+      "hint": "After making $3, consider how to make 70c."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M3M06-T-012",
@@ -1252,32 +2325,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "In the savings challenge, which collection has the same value as 265 cents?",
-    "audio_prompt": "In the savings challenge, which collection has the same value as 265 cents?",
+    "question": "You may use only 20c, 10c and 5c coins. What is the fewest number needed to make 50c?",
+    "audio_prompt": "You may use only 20c, 10c and 5c coins. What is the fewest number needed to make 50c?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-012",
-      "alt_text": "In the savings challenge: A cent amount ready to exchange into dollars and cents."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$265 and 1 cent",
+        "text": "2",
         "is_correct": false
       },
       {
-        "text": "$2 and 65 cents",
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "3",
         "is_correct": true
-      },
-      {
-        "text": "26 cents",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "265 cents is 2 dollar and 65 cents.",
-      "hint": "Trade each group of 100 cents for one dollar."
-    }
+      "summary": "Two 20c coins and one 10c coin make 50c with three coins. Two allowed coins can total at most 40c.",
+      "hint": "The largest available coin is 20c."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M3M06-T-013",
@@ -1286,32 +2364,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "In the savings challenge, a book costs $6.43 and a pencil costs $1.00. What is the total?",
-    "audio_prompt": "In the savings challenge, a book costs $6.43 and a pencil costs $1.00. What is the total?",
+    "question": "You can choose any number of 10c and 20c coins. Which total cannot be made exactly?",
+    "audio_prompt": "You can choose any number of 10c and 20c coins. Which total cannot be made exactly?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-013",
-      "alt_text": "In the savings challenge: Two prices shown on a receipt."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$6.44",
-        "is_correct": false
-      },
-      {
-        "text": "$7.00",
-        "is_correct": false
-      },
-      {
-        "text": "$7.43",
+        "text": "55c",
         "is_correct": true
+      },
+      {
+        "text": "50c",
+        "is_correct": false
+      },
+      {
+        "text": "60c",
+        "is_correct": false
+      },
+      {
+        "text": "70c",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Adding one dollar increases the dollars by 1 while cents stay 43.",
-      "hint": "Line up dollars with dollars and cents with cents."
-    }
+      "summary": "Every sum of 10c and 20c coins ends in zero cents. 55c cannot be made; 50c, 60c and 70c can.",
+      "hint": "Look at the last digit of each possible total."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 13
   },
   {
     "id": "AC9M3M06-T-014",
@@ -1320,32 +2403,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "In the savings challenge, you pay $8.00 for an item costing $6.43. Which operation finds the change?",
-    "audio_prompt": "In the savings challenge, you pay $8.00 for an item costing $6.43. Which operation finds the change?",
+    "question": "Which sequence goes from least to greatest value?",
+    "audio_prompt": "Which sequence goes from least to greatest value?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-014",
-      "alt_text": "In the savings challenge: A payment and lower item price shown for a change calculation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Subtraction",
+        "text": "270c, $2.07, $3.00",
+        "is_correct": false
+      },
+      {
+        "text": "$2.07, $3.00, 270c",
+        "is_correct": false
+      },
+      {
+        "text": "$2.07, 270c, $3.00",
         "is_correct": true
       },
       {
-        "text": "Multiplication",
-        "is_correct": false
-      },
-      {
-        "text": "Measurement",
+        "text": "$3.00, 270c, $2.07",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Change is the amount paid minus the cost.",
-      "hint": "Start with the larger paid amount."
-    }
+      "summary": "In cents the values are 207, 270 and 300, in increasing order.",
+      "hint": "Rewrite all three amounts using cents."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 14
   },
   {
     "id": "AC9M3M06-T-015",
@@ -1354,32 +2442,37 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "In the savings challenge, which is greater: 643 cents or $6.00?",
-    "audio_prompt": "In the savings challenge, which is greater: 643 cents or $6.00?",
+    "question": "You have one $2 coin, two 50c coins and three 20c coins. Which payment uses available coins to make exactly $2.60?",
+    "audio_prompt": "You have one $2 coin, two 50c coins and three 20c coins. Which payment uses available coins to make exactly $2.60?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-015",
-      "alt_text": "In the savings challenge: A cents amount compared with a whole-dollar amount."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "$6.00",
+        "text": "The $2 coin and one 50c coin",
         "is_correct": false
       },
       {
-        "text": "643 cents",
+        "text": "Both 50c coins and all three 20c coins",
+        "is_correct": false
+      },
+      {
+        "text": "The $2 coin and all three 20c coins",
         "is_correct": true
       },
       {
-        "text": "They are equal",
+        "text": "The $2 coin, one 50c coin and one 20c coin",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "643 cents is $6.43, which is more than $6.00.",
-      "hint": "Convert both amounts to cents."
-    }
+      "summary": "The $2 coin and three 20c coins total $2.60. The other choices make $2.50, $1.60 or $2.70.",
+      "hint": "Count the value of each proposed payment."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 15
   },
   {
     "id": "AC9M3M06-T-016",
@@ -1388,31 +2481,36 @@
     "curriculum_code": "AC9M3M06",
     "bank": "test",
     "skill": "money",
-    "question": "In the savings challenge, a label shows $6.43. What should be checked?",
-    "audio_prompt": "In the savings challenge, a label shows $6.43. What should be checked?",
+    "question": "You pay $5 for an item costing $3.65. The change is a $1 coin, a 20c coin and a 10c coin. What should happen?",
+    "audio_prompt": "You pay $5 for an item costing $3.65. The change is a $1 coin, a 20c coin and a 10c coin. What should happen?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year3/math/ac9m3m06.svg#ac9m3m06-t-016",
-      "alt_text": "In the savings challenge: A price label being checked for correct money notation."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Dollars must use three digits",
+        "text": "Return 5c.",
         "is_correct": false
       },
       {
-        "text": "The decimal point should be removed",
-        "is_correct": false
-      },
-      {
-        "text": "Cents should use exactly two digits",
+        "text": "Receive another 5c.",
         "is_correct": true
+      },
+      {
+        "text": "Receive another 35c.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep it as it is; the change is correct.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Standard money notation writes the cents with two digits.",
-      "hint": "Count the digits after the decimal point."
-    }
+      "summary": "The correct change is $1.35. The coins total $1.30, so another 5c is needed.",
+      "hint": "Count on from the cost to $5, then compare with the coins."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 16
   }
 ]

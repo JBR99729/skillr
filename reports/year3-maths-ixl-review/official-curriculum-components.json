@@ -1,0 +1,380 @@
+{
+  "sourceUrl": "https://www.australiancurriculum.edu.au/content/dam/en/curriculum/ac-version-9/downloads/curriculum-workbook.xlsx",
+  "sourceLandingPage": "https://www.australiancurriculum.edu.au/downloads",
+  "retrievedDate": "2026-09-07",
+  "sourceSha256": "db446882d2c00cf7c085a03e250e2442fda6c44011fc114680c46c1dc7a822c3",
+  "note": "Exact descriptors extracted from the official ACARA workbook. Curriculum verification alone does not pass the readiness gate. Elaborations are illustrative, not additional mandatory descriptors.",
+  "codes": {
+    "AC9M3N01": {
+      "officialDescriptor": "recognise, represent and order natural numbers using naming and writing conventions for numerals beyond 10\u2009000",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Recognise natural numbers beyond 10 000",
+        "Represent these numbers",
+        "Order these numbers",
+        "Use numeral naming and writing conventions"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3N02": {
+      "officialDescriptor": "recognise and represent unit fractions including \\(\\frac12\\), \\(\\frac13\\), \\(\\frac14\\), \\(\\frac15\\)  and \\(\\frac1{10}\\) and their multiples in different ways; combine fractions with the same denominator to complete the whole",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Recognise unit fractions: halves, thirds, quarters, fifths and tenths",
+        "Represent unit fractions in different ways",
+        "Recognise and represent their multiples",
+        "Combine same-denominator fractions to complete a whole"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3N03": {
+      "officialDescriptor": "add and subtract two- and three-digit numbers using place value to partition, rearrange and regroup numbers to assist in calculations without a calculator",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Add two- and three-digit numbers",
+        "Subtract two- and three-digit numbers",
+        "Partition using place value",
+        "Rearrange and regroup to assist calculation",
+        "Calculate without a calculator"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3N04": {
+      "officialDescriptor": "multiply and divide one- and two-digit numbers, representing problems using number sentences, diagrams and arrays, and using a variety of calculation strategies",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Multiply one- and two-digit numbers",
+        "Divide one- and two-digit numbers",
+        "Represent problems with number sentences",
+        "Represent problems with diagrams and arrays",
+        "Use varied calculation strategies"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3N05": {
+      "officialDescriptor": "estimate the quantity of objects in collections and make estimates when solving problems to determine the reasonableness of calculations",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Estimate quantities in collections",
+        "Estimate when solving problems",
+        "Use estimates to judge reasonableness of calculations"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3N06": {
+      "officialDescriptor": "use mathematical modelling to solve practical problems involving additive and multiplicative situations including financial contexts; formulate problems using number sentences and choose calculation strategies, using digital tools where appropriate; interpret and communicate solutions in terms of the situation",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Model practical additive situations",
+        "Model practical multiplicative situations",
+        "Include financial contexts",
+        "Formulate number sentences",
+        "Choose calculation strategies",
+        "Use digital tools where appropriate",
+        "Interpret and communicate solutions in context"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3N07": {
+      "officialDescriptor": "follow and create algorithms involving a sequence of steps and decisions to investigate numbers; describe any emerging patterns",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Follow algorithms with sequential steps and decisions",
+        "Create algorithms to investigate numbers",
+        "Describe emerging patterns"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3A01": {
+      "officialDescriptor": "recognise and explain the connection between addition and subtraction as inverse operations, apply to partition numbers and find unknown values in number sentences",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Recognise inverse addition/subtraction connection",
+        "Explain the connection",
+        "Apply it to partition numbers",
+        "Find unknown values in number sentences"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3A02": {
+      "officialDescriptor": "extend and apply knowledge of addition and subtraction facts to 20 to develop efficient mental strategies for computation with larger numbers without a calculator",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Extend addition and subtraction facts to 20",
+        "Develop and apply efficient mental strategies for larger numbers",
+        "Calculate without a calculator"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3A03": {
+      "officialDescriptor": "recall and demonstrate proficiency with multiplication facts for \\(3, 4, 5\\) and \\(10\\); extend and apply facts to develop the related division facts",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Recall multiplication facts for 3, 4, 5 and 10",
+        "Demonstrate proficiency with those facts",
+        "Extend and apply facts to related division facts"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3M01": {
+      "officialDescriptor": "identify which metric units are used to measure everyday items; use measurements of familiar items and known units to make estimates",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Identify appropriate metric units for everyday items",
+        "Use familiar measurements as estimation benchmarks",
+        "Use known units to estimate"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3M02": {
+      "officialDescriptor": "measure and compare objects using familiar metric units of length, mass and capacity, and instruments with labelled markings",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Measure length with familiar metric units",
+        "Measure mass with familiar metric units",
+        "Measure capacity with familiar metric units",
+        "Read instruments with labelled markings",
+        "Compare measured objects"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3M03": {
+      "officialDescriptor": "recognise and use the relationship between formal units of time including days, hours, minutes and seconds to estimate and compare the duration of events",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Recognise relationships between days, hours, minutes and seconds",
+        "Use time-unit relationships",
+        "Estimate event durations",
+        "Compare event durations"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3M04": {
+      "officialDescriptor": "describe the relationship between the hours and minutes on analog and digital clocks, and read the time to the nearest minute",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Describe hours/minutes relationship on analog clocks",
+        "Describe hours/minutes relationship on digital clocks",
+        "Read analog and digital times to nearest minute"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3M05": {
+      "officialDescriptor": "identify angles as measures of turn and compare angles with right angles in everyday situations",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Identify angles as measures of turn",
+        "Compare angles with right angles",
+        "Apply in everyday situations"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3M06": {
+      "officialDescriptor": "recognise the relationships between dollars and cents and represent money values in different ways",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Recognise dollar/cent relationships",
+        "Represent equivalent money values in different ways"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3SP01": {
+      "officialDescriptor": "make, compare and classify objects, identifying key features and explaining why these features make them suited to their uses",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Make objects",
+        "Compare objects",
+        "Classify objects",
+        "Identify key features",
+        "Explain suitability of features for uses"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3SP02": {
+      "officialDescriptor": "interpret and create two-dimensional representations of familiar environments, locating key landmarks and objects relative to each other",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Interpret two-dimensional representations of familiar environments",
+        "Create two-dimensional representations",
+        "Locate landmarks and objects relative to each other"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3ST01": {
+      "officialDescriptor": "acquire data for categorical and discrete numerical variables to address a question of interest or purpose by observing, collecting and accessing data sets; record the data using appropriate methods including frequency tables and spreadsheets",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Acquire categorical data",
+        "Acquire discrete numerical data",
+        "Address a question or purpose",
+        "Observe and collect data",
+        "Access existing data sets",
+        "Record with appropriate methods including frequency tables and spreadsheets"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3ST02": {
+      "officialDescriptor": "create and compare different graphical representations of data sets including using software where appropriate; interpret the data in terms of the context",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Create different graphical representations",
+        "Compare different representations of data sets",
+        "Use software where appropriate",
+        "Interpret data in context"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3ST03": {
+      "officialDescriptor": "conduct guided statistical investigations involving the collection, representation and interpretation of data for categorical and discrete numerical variables with respect to questions of interest",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Conduct guided statistical investigations",
+        "Collect data",
+        "Represent data",
+        "Interpret data",
+        "Include categorical and discrete numerical variables",
+        "Connect investigation to questions of interest"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3P01": {
+      "officialDescriptor": "identify practical activities and everyday events involving chance; describe possible outcomes and events as \u2018likely\u2019 or \u2018unlikely\u2019 and identify some events as \u2018certain\u2019 or \u2018impossible\u2019 explaining reasoning",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Identify practical activities and everyday chance events",
+        "Describe possible outcomes",
+        "Classify likely and unlikely events",
+        "Identify certain and impossible events",
+        "Explain reasoning"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    },
+    "AC9M3P02": {
+      "officialDescriptor": "conduct repeated chance experiments; identify and describe possible outcomes, record the results, recognise and discuss the variation",
+      "sourceSheet": "Learning areas",
+      "assessableComponents": [
+        "Conduct repeated chance experiments",
+        "Identify and describe possible outcomes",
+        "Record results",
+        "Recognise variation",
+        "Discuss variation"
+      ],
+      "componentBasis": "Analyst decomposition of the exact official descriptor, not an ACARA quotation.",
+      "readinessStatus": "BLOCKED - prerequisite incomplete",
+      "remainingPrerequisites": [
+        "Complete relevant IXL skill inspection and representative progression evidence",
+        "Complete item-level coverage map and supported-assessment checks"
+      ]
+    }
+  }
+}
