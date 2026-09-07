@@ -1,0 +1,201 @@
+/* Screen-only presentation: authored paper layouts and PDF engines are unchanged. */
+@media screen {
+  .skillr-sheet {
+    margin: 0;
+    background: #f4f7fb;
+    color: #203047;
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    letter-spacing: 0;
+  }
+
+  .skillr-sheet .resource-sheet-shell {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 980px;
+    margin-inline: auto;
+    padding: 20px 24px 40px;
+  }
+
+  .skillr-sheet .lesson-support,
+  .skillr-sheet .resource-sheet-breadcrumb {
+    box-sizing: border-box;
+    max-width: 932px;
+    margin: 16px auto;
+    border-radius: 8px;
+  }
+
+  .skillr-sheet .resource-sheet-header {
+    margin: 16px 0 24px;
+    padding: 24px 0;
+    border: 0;
+    border-bottom: 2px solid #d7e3f2;
+    border-radius: 0;
+    background: transparent;
+    color: #203047;
+    box-shadow: none;
+    text-align: left;
+  }
+
+  .skillr-sheet .resource-sheet-header h1 {
+    max-width: 38ch;
+    margin: 8px 0 12px;
+    color: #173968;
+    font-size: 1.875rem;
+    line-height: 1.25;
+    letter-spacing: 0;
+    overflow-wrap: break-word;
+    text-wrap: balance;
+  }
+
+  .skillr-sheet .resource-sheet-header > p {
+    max-width: 75ch;
+    line-height: 1.6;
+  }
+
+  .skillr-sheet .resource-sheet-header :is(.eyebrow, .hw-kicker, .k) {
+    color: #173968;
+    font-size: .875rem;
+    letter-spacing: 0;
+  }
+
+  .skillr-sheet .resource-sheet-controls {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    gap: 8px;
+    margin: 16px 0;
+    padding: 0;
+  }
+
+  .skillr-sheet .resource-sheet-controls > :is(a, button),
+  .skillr-sheet .resource-sheet-header > :is(a.button, button) {
+    box-sizing: border-box;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 0;
+    min-height: 44px;
+    max-width: 100%;
+    padding: 10px 14px;
+    border: 1px solid #d7e3f2;
+    border-radius: 8px;
+    background: #fff;
+    color: #173968;
+    font: 700 .9375rem/1.4 "Segoe UI", Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    white-space: normal;
+    overflow-wrap: anywhere;
+    box-shadow: none;
+    cursor: pointer;
+  }
+
+  .skillr-sheet .resource-sheet-header > :is(a.button, button) {
+    margin: 8px 8px 0 0;
+  }
+
+  .skillr-sheet .resource-sheet-controls > button,
+  .skillr-sheet .resource-sheet-header > button {
+    border-color: #2457d6;
+    background: #2457d6;
+    color: #fff;
+  }
+
+  .skillr-sheet .resource-sheet-controls > :is(a, button):hover,
+  .skillr-sheet .resource-sheet-header > :is(a.button, button):hover {
+    border-color: #2457d6;
+    background: #eaf1ff;
+    color: #173968;
+    transform: none;
+  }
+
+  .skillr-sheet :is(a, button, summary):focus-visible {
+    outline: 3px solid #2457d6;
+    outline-offset: 3px;
+  }
+
+  .skillr-sheet .resource-sheet-header :is(.brandbar, .worksheet-print-tip) {
+    border-color: #d7e3f2;
+    border-radius: 8px;
+    background: #fff;
+    color: #203047;
+  }
+
+  .skillr-sheet .resource-sheet-header :is(.brandmark, .brandmark span, .brandbar small) {
+    color: #173968;
+  }
+
+  .skillr-sheet .worksheet-meta span {
+    border-color: #d7e3f2;
+    border-radius: 8px;
+    background: #fff;
+    color: #203047;
+  }
+
+  .skillr-sheet .resource-sheet-header :is(.hw-meta, .meta, .m) {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 10px;
+  }
+
+  .skillr-sheet .resource-sheet-header :is(.hw-meta, .meta, .m) > div {
+    min-width: 0;
+    padding: 12px;
+    border: 0;
+    border-radius: 0;
+    border-left: 3px solid #d7e3f2;
+    background: transparent;
+    overflow-wrap: break-word;
+  }
+
+  .skillr-sheet :is(.hw-brand, .skillr-homework-brand) {
+    border-radius: 8px;
+    box-shadow: none;
+  }
+
+  .skillr-sheet .resource-sheet-section {
+    margin: 16px 0;
+    padding: 20px;
+    border: 1px solid #d7e3f2;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: none;
+  }
+
+  .skillr-sheet .resource-sheet-section > h2 {
+    margin-top: 0;
+    color: #173968;
+    font-size: 1.375rem;
+    line-height: 1.4;
+    letter-spacing: 0;
+    overflow-wrap: break-word;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .skillr-sheet .resource-sheet-shell {
+    padding: 12px 16px 28px;
+  }
+
+  .skillr-sheet > :is(.lesson-support, .resource-sheet-breadcrumb) {
+    margin-inline: 16px;
+  }
+
+  .skillr-sheet .resource-sheet-header {
+    padding: 16px 0;
+  }
+
+  .skillr-sheet .resource-sheet-header h1 {
+    font-size: 1.5rem;
+  }
+
+  .skillr-sheet .resource-sheet-header :is(.hw-meta, .meta, .m) {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .skillr-sheet .resource-sheet-section {
+    padding: 16px;
+  }
+}
