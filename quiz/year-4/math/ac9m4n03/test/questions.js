@@ -4,28 +4,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-001",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "equivalent fractions",
+    "skill": "equivalence models",
     "printable": true,
     "type": "single",
-    "question": "At a coastal station, which fraction is equivalent to 6/10?",
-    "audioPrompt": "At a coastal station, which fraction is equivalent to 6/10?",
-    "visual": "At a coastal station: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-001\"></use></svg>",
+    "question": "Which fraction in twelfths equals the coloured one third?",
+    "audioPrompt": "Which fraction in twelfths equals the coloured one third?",
+    "visual": "Two equal bars: one has 1 of 3 parts coloured, and the other has 4 of 12 parts coloured.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two equal bars: one has 1 of 3 parts coloured, and the other has 4 of 12 parts coloured.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03/t-001.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-001",
-      "alt_text": "At a coastal station: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03/t-001.svg#model",
+      "alt_text": "Two equal bars: one has 1 of 3 parts coloured, and the other has 4 of 12 parts coloured."
     },
     "answers": [
-      "8/20",
-      "12/10",
-      "12/20"
+      "3/12",
+      "6/12",
+      "8/12",
+      "4/12"
     ],
-    "correct": 2,
-    "explanation": "Multiply numerator and denominator by the same number.\nHint: The whole and amount must stay unchanged.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "One third of the whole covers four of twelve equal parts, so 1/3 = 4/12.\nHint: Count the twelfths inside one third.",
     "structuredExplanation": {
-      "summary": "Multiply numerator and denominator by the same number.",
-      "hint": "The whole and amount must stay unchanged."
+      "summary": "One third of the whole covers four of twelve equal parts, so 1/3 = 4/12.",
+      "hint": "Count the twelfths inside one third."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +37,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-002",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "fractions and decimals",
+    "skill": "missing related denominator",
     "printable": true,
     "type": "single",
-    "question": "During a museum challenge, which decimal equals 1/10?",
-    "audioPrompt": "During a museum challenge, which decimal equals 1/10?",
-    "visual": "During a museum challenge: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-002\"></use></svg>",
+    "question": "Complete: 3/4 = 12/__.",
+    "audioPrompt": "Complete: 3/4 = 12/__.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-002",
-      "alt_text": "During a museum challenge: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "0.1",
-      "0.01",
-      "1.0"
+      "8",
+      "12",
+      "16",
+      "20"
     ],
-    "correct": 0,
-    "explanation": "Tenths connect directly to decimal notation.\nHint: Put the numerator in the tenths place.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "The numerator was multiplied by 4. The denominator must also be multiplied by 4: 4 × 4 = 16.\nHint: Apply one scale factor to both numbers.",
     "structuredExplanation": {
-      "summary": "Tenths connect directly to decimal notation.",
-      "hint": "Put the numerator in the tenths place."
+      "summary": "The numerator was multiplied by 4. The denominator must also be multiplied by 4: 4 × 4 = 16.",
+      "hint": "Apply one scale factor to both numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +68,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-003",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "decimal fraction connection",
+    "skill": "reduce fraction collection",
     "printable": true,
     "type": "single",
-    "question": "At a charity event, which fraction equals 0.50?",
-    "audioPrompt": "At a charity event, which fraction equals 0.50?",
-    "visual": "At a charity event: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-003\"></use></svg>",
+    "question": "A collection contains 24 counters, 18 blue. What fraction in quarters is blue?",
+    "audioPrompt": "A collection contains 24 counters, 18 blue. What fraction in quarters is blue?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-003",
-      "alt_text": "At a charity event: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "1/5",
-      "1/2",
-      "2/3"
+      "3/4",
+      "1/4",
+      "2/4",
+      "4/4"
     ],
-    "correct": 1,
-    "explanation": "Hundredths can be simplified to an equivalent fraction.\nHint: Write the decimal over 100, then simplify.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "Six counters make one of four equal groups. Eighteen blue counters fill three groups, so 18/24 = 3/4.\nHint: Divide both 18 and 24 by 6.",
     "structuredExplanation": {
-      "summary": "Hundredths can be simplified to an equivalent fraction.",
-      "hint": "Write the decimal over 100, then simplify."
+      "summary": "Six counters make one of four equal groups. Eighteen blue counters fill three groups, so 18/24 = 3/4.",
+      "hint": "Divide both 18 and 24 by 6."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +99,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-004",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "equivalent fractions",
+    "skill": "capacity related parts",
     "printable": true,
     "type": "single",
-    "question": "In an engineering workshop, which fraction is equivalent to 9/10?",
-    "audioPrompt": "In an engineering workshop, which fraction is equivalent to 9/10?",
-    "visual": "In an engineering workshop: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-004\"></use></svg>",
+    "question": "A jug contains 3/5 litre. How many 1/10-litre portions make the same amount?",
+    "audioPrompt": "A jug contains 3/5 litre. How many 1/10-litre portions make the same amount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "11/20",
-      "18/10",
-      "18/20"
+      "3 portions",
+      "6 portions",
+      "5 portions",
+      "8 portions"
     ],
-    "correct": 2,
-    "explanation": "Multiply numerator and denominator by the same number.\nHint: The whole and amount must stay unchanged.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "Each fifth is two tenths, so three fifths contain six tenths.\nHint: Rename fifths as tenths.",
     "structuredExplanation": {
-      "summary": "Multiply numerator and denominator by the same number.",
-      "hint": "The whole and amount must stay unchanged."
+      "summary": "Each fifth is two tenths, so three fifths contain six tenths.",
+      "hint": "Rename fifths as tenths."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +130,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-005",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "fractions and decimals",
+    "skill": "tenths hundredths equivalence",
     "printable": true,
     "type": "single",
-    "question": "At a regional carnival, which decimal equals 1/10?",
-    "audioPrompt": "At a regional carnival, which decimal equals 1/10?",
-    "visual": "At a regional carnival: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-005\"></use></svg>",
+    "question": "What fills the gap: 8/10 = __/100?",
+    "audioPrompt": "What fills the gap: 8/10 = __/100?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-005",
-      "alt_text": "At a regional carnival: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "0.1",
-      "0.01",
-      "1.0"
+      "8",
+      "18",
+      "800",
+      "80"
     ],
-    "correct": 0,
-    "explanation": "Tenths connect directly to decimal notation.\nHint: Put the numerator in the tenths place.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 5,
+    "correct": 3,
+    "explanation": "Eight tenths contain eighty hundredths. Multiplying both parts of 8/10 by 10 gives 80/100.\nHint: One tenth contains ten hundredths.",
     "structuredExplanation": {
-      "summary": "Tenths connect directly to decimal notation.",
-      "hint": "Put the numerator in the tenths place."
+      "summary": "Eight tenths contain eighty hundredths. Multiplying both parts of 8/10 by 10 gives 80/100.",
+      "hint": "One tenth contains ten hundredths."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +161,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-006",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "decimal fraction connection",
+    "skill": "decimal hundred grid",
     "printable": true,
     "type": "single",
-    "question": "During a farm study, which fraction equals 0.50?",
-    "audioPrompt": "During a farm study, which fraction equals 0.50?",
-    "visual": "During a farm study: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-006\"></use></svg>",
+    "question": "Which decimal names the coloured part of the grid?",
+    "audioPrompt": "Which decimal names the coloured part of the grid?",
+    "visual": "A 10 by 10 grid with the first four rows and seven squares in the fifth row coloured.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A 10 by 10 grid with the first four rows and seven squares in the fifth row coloured.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03/t-006.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-006",
-      "alt_text": "During a farm study: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03/t-006.svg#model",
+      "alt_text": "A 10 by 10 grid with the first four rows and seven squares in the fifth row coloured."
     },
     "answers": [
-      "1/5",
-      "1/2",
-      "2/3"
+      "0.74",
+      "0.47",
+      "4.7",
+      "0.07"
     ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 6,
     "correct": 1,
-    "explanation": "Hundredths can be simplified to an equivalent fraction.\nHint: Write the decimal over 100, then simplify.",
+    "explanation": "There are four coloured rows of ten and seven extra coloured squares: 47 hundredths, or 0.47.\nHint: Count the complete rows, then the remaining coloured squares.",
     "structuredExplanation": {
-      "summary": "Hundredths can be simplified to an equivalent fraction.",
-      "hint": "Write the decimal over 100, then simplify."
+      "summary": "There are four coloured rows of ten and seven extra coloured squares: 47 hundredths, or 0.47.",
+      "hint": "Count the complete rows, then the remaining coloured squares."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +194,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-007",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "equivalent fractions",
+    "skill": "hundredths to fraction",
     "printable": true,
     "type": "single",
-    "question": "While reading a trail guide, which fraction is equivalent to 3/10?",
-    "audioPrompt": "While reading a trail guide, which fraction is equivalent to 3/10?",
-    "visual": "While reading a trail guide: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-007\"></use></svg>",
+    "question": "Which fraction equals 0.09?",
+    "audioPrompt": "Which fraction equals 0.09?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "5/20",
-      "6/10",
-      "6/20"
+      "9/10",
+      "9/100",
+      "90/10",
+      "19/100"
     ],
-    "correct": 2,
-    "explanation": "Multiply numerator and denominator by the same number.\nHint: The whole and amount must stay unchanged.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 7,
+    "correct": 1,
+    "explanation": "0.09 is nine hundredths, so it is 9/100.\nHint: Read the place of the digit 9.",
     "structuredExplanation": {
-      "summary": "Multiply numerator and denominator by the same number.",
-      "hint": "The whole and amount must stay unchanged."
+      "summary": "0.09 is nine hundredths, so it is 9/100.",
+      "hint": "Read the place of the digit 9."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +225,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-008",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "fractions and decimals",
+    "skill": "metres decimal fraction",
     "printable": true,
     "type": "single",
-    "question": "In an architecture studio, which decimal equals 1/10?",
-    "audioPrompt": "In an architecture studio, which decimal equals 1/10?",
-    "visual": "In an architecture studio: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-008\"></use></svg>",
+    "question": "A cord is 75 cm long. Which pair names that same length in metres?",
+    "audioPrompt": "A cord is 75 cm long. Which pair names that same length in metres?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-008",
-      "alt_text": "In an architecture studio: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "0.1",
-      "0.01",
-      "1.0"
+      "3/4 m and 0.75 m",
+      "3/5 m and 0.60 m",
+      "1/4 m and 0.25 m",
+      "7/10 m and 0.70 m"
     ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 8,
     "correct": 0,
-    "explanation": "Tenths connect directly to decimal notation.\nHint: Put the numerator in the tenths place.",
+    "explanation": "Seventy-five centimetres are 75/100 of a metre. Divide both fraction parts by 25 to get 3/4, and write 75 hundredths as 0.75.\nHint: Use 100 cm as the whole metre.",
     "structuredExplanation": {
-      "summary": "Tenths connect directly to decimal notation.",
-      "hint": "Put the numerator in the tenths place."
+      "summary": "Seventy-five centimetres are 75/100 of a metre. Divide both fraction parts by 25 to get 3/4, and write 75 hundredths as 0.75.",
+      "hint": "Use 100 cm as the whole metre."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +256,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-009",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "decimal fraction connection",
+    "skill": "fiftieths decimal",
     "printable": true,
     "type": "single",
-    "question": "During a food-truck project, which fraction equals 0.50?",
-    "audioPrompt": "During a food-truck project, which fraction equals 0.50?",
-    "visual": "During a food-truck project: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-009\"></use></svg>",
+    "question": "What decimal equals 9/50?",
+    "audioPrompt": "What decimal equals 9/50?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-009",
-      "alt_text": "During a food-truck project: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "1/5",
-      "1/2",
-      "2/3"
+      "0.9",
+      "0.09",
+      "0.18",
+      "0.45"
     ],
-    "correct": 1,
-    "explanation": "Hundredths can be simplified to an equivalent fraction.\nHint: Write the decimal over 100, then simplify.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Two hundredths fit in one fiftieth. Multiplying both 9 and 50 by 2 gives 18/100 = 0.18.\nHint: Change the denominator from 50 to 100.",
     "structuredExplanation": {
-      "summary": "Hundredths can be simplified to an equivalent fraction.",
-      "hint": "Write the decimal over 100, then simplify."
+      "summary": "Two hundredths fit in one fiftieth. Multiplying both 9 and 50 by 2 gives 18/100 = 0.18.",
+      "hint": "Change the denominator from 50 to 100."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +287,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-010",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "equivalent fractions",
+    "skill": "mixed decimal fraction",
     "printable": true,
     "type": "single",
-    "question": "At a festival, which fraction is equivalent to 6/10?",
-    "audioPrompt": "At a festival, which fraction is equivalent to 6/10?",
-    "visual": "At a festival: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-010\"></use></svg>",
+    "question": "Which mixed numeral equals 2.75?",
+    "audioPrompt": "Which mixed numeral equals 2.75?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-010",
-      "alt_text": "At a festival: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "8/20",
-      "12/10",
-      "12/20"
+      "2 3/4",
+      "2 1/4",
+      "2 3/5",
+      "3 1/4"
     ],
-    "correct": 2,
-    "explanation": "Multiply numerator and denominator by the same number.\nHint: The whole and amount must stay unchanged.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "The whole part is 2. The remaining 0.75 is 75/100 = 3/4, so the number is 2 3/4.\nHint: Rename the decimal part using quarters.",
     "structuredExplanation": {
-      "summary": "Multiply numerator and denominator by the same number.",
-      "hint": "The whole and amount must stay unchanged."
+      "summary": "The whole part is 2. The remaining 0.75 is 75/100 = 3/4, so the number is 2 3/4.",
+      "hint": "Rename the decimal part using quarters."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +318,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-011",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "fractions and decimals",
+    "skill": "equivalent numberline points",
     "printable": true,
     "type": "single",
-    "question": "While organising a collection, which decimal equals 1/10?",
-    "audioPrompt": "While organising a collection, which decimal equals 1/10?",
-    "visual": "While organising a collection: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-011\"></use></svg>",
+    "question": "The points align. Which equality is shown?",
+    "audioPrompt": "The points align. Which equality is shown?",
+    "visual": "Two aligned number lines from 0 to 1. The first has fifth-intervals and a point at its second tick; the second has tenth-intervals and a point at its fourth tick.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two aligned number lines from 0 to 1. The first has fifth-intervals and a point at its second tick; the second has tenth-intervals and a point at its fourth tick.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03/t-011.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-011",
-      "alt_text": "While organising a collection: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03/t-011.svg#model",
+      "alt_text": "Two aligned number lines from 0 to 1. The first has fifth-intervals and a point at its second tick; the second has tenth-intervals and a point at its fourth tick."
     },
     "answers": [
-      "0.1",
-      "0.01",
-      "1.0"
+      "2/5 = 2/10",
+      "3/5 = 4/10",
+      "2/5 = 4/10",
+      "2/5 = 6/10"
     ],
-    "correct": 0,
-    "explanation": "Tenths connect directly to decimal notation.\nHint: Put the numerator in the tenths place.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "The upper point is two fifth-intervals from zero. The lower is four tenth-intervals from zero. They occupy the same position.\nHint: Count the intervals from zero on both lines.",
     "structuredExplanation": {
-      "summary": "Tenths connect directly to decimal notation.",
-      "hint": "Put the numerator in the tenths place."
+      "summary": "The upper point is two fifth-intervals from zero. The lower is four tenth-intervals from zero. They occupy the same position.",
+      "hint": "Count the intervals from zero on both lines."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +351,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-012",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "decimal fraction connection",
+    "skill": "equivalence error reasoning",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, which fraction equals 0.50?",
-    "audioPrompt": "In an environmental study, which fraction equals 0.50?",
-    "visual": "In an environmental study: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-012\"></use></svg>",
+    "question": "Arun writes 3/5 = 6/10 = 6/100. Which final fraction fixes the chain?",
+    "audioPrompt": "Arun writes 3/5 = 6/10 = 6/100. Which final fraction fixes the chain?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-012",
-      "alt_text": "In an environmental study: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "1/5",
-      "1/2",
-      "2/3"
+      "3/100",
+      "30/100",
+      "65/100",
+      "60/100"
     ],
-    "correct": 1,
-    "explanation": "Hundredths can be simplified to an equivalent fraction.\nHint: Write the decimal over 100, then simplify.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 12,
+    "correct": 3,
+    "explanation": "Six tenths are sixty hundredths, so the final fraction must be 60/100. The change from denominator 10 to 100 multiplies both parts by 10.\nHint: Use the same multiplier for numerator and denominator.",
     "structuredExplanation": {
-      "summary": "Hundredths can be simplified to an equivalent fraction.",
-      "hint": "Write the decimal over 100, then simplify."
+      "summary": "Six tenths are sixty hundredths, so the final fraction must be 60/100. The change from denominator 10 to 100 multiplies both parts by 10.",
+      "hint": "Use the same multiplier for numerator and denominator."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +382,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-013",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "equivalent fractions",
+    "skill": "construct thirds sixths",
     "printable": true,
-    "type": "single",
-    "question": "During a transport survey, which fraction is equivalent to 9/10?",
-    "audioPrompt": "During a transport survey, which fraction is equivalent to 9/10?",
-    "visual": "During a transport survey: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-013\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Two thirds cover four sixths. The equality is 2/3 = 4/6 because both the selected part count and total part count double while the amount remains unchanged.",
+    "acceptanceNote": "Inspect equal whole sizes, equal parts, 2/3 and 4/6 coloured and an explanation that each third becomes two sixths. Require drawings, not only a written equality.",
+    "responseInstructions": "Show your work on paper. Ask an adult to check the actual drawing, labels and explanation against the model answer.",
+    "completionLabel": "My written work and drawing are ready for an adult to check.",
+    "question": "Draw two equal bars. Divide one into thirds and the other into sixths. Colour 2/3 of the first and the same amount of the second. Label both fractions and explain the equivalence.",
+    "audioPrompt": "Draw two equal bars. Divide one into thirds and the other into sixths. Colour 2/3 of the first and the same amount of the second. Label both fractions and explain the equivalence.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-013",
-      "alt_text": "During a transport survey: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "11/20",
-      "18/10",
-      "18/20"
-    ],
-    "correct": 2,
-    "explanation": "Multiply numerator and denominator by the same number.\nHint: The whole and amount must stay unchanged.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 13,
+    "correct": "Two thirds cover four sixths. The equality is 2/3 = 4/6 because both the selected part count and total part count double while the amount remains unchanged.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Multiply numerator and denominator by the same number.",
-      "hint": "The whole and amount must stay unchanged."
+      "summary": "Two thirds cover four sixths. The equality is 2/3 = 4/6 because both the selected part count and total part count double while the amount remains unchanged.",
+      "hint": "Line up the outside edges and the ends of the coloured regions."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +414,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-014",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "fractions and decimals",
+    "skill": "construct fraction metre",
     "printable": true,
-    "type": "single",
-    "question": "At a strategy tournament, which decimal equals 1/10?",
-    "audioPrompt": "At a strategy tournament, which decimal equals 1/10?",
-    "visual": "At a strategy tournament: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-014\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "One metre is 100 cm, so each quarter is 25 cm. Three quarters are 75 cm = 75/100 m = 0.75 m.",
+    "acceptanceNote": "Check four equal quarter-sections, three selected from one end, and labels 75 cm and 0.75 m. The explanation must link one metre to 100 cm and one quarter to 25 cm.",
+    "responseInstructions": "Show your work on paper. Ask an adult to check the actual drawing, labels and explanation against the model answer.",
+    "completionLabel": "My written work and drawing are ready for an adult to check.",
+    "question": "Sketch a strip representing 1 metre, divided into four equal parts. Mark the length of 3/4 metre from one end. Label that length in centimetres and decimal metres, and explain your labels.",
+    "audioPrompt": "Sketch a strip representing 1 metre, divided into four equal parts. Mark the length of 3/4 metre from one end. Label that length in centimetres and decimal metres, and explain your labels.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 fractions and decimals reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "0.1",
-      "0.01",
-      "1.0"
-    ],
-    "correct": 0,
-    "explanation": "Tenths connect directly to decimal notation.\nHint: Put the numerator in the tenths place.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 14,
+    "correct": "One metre is 100 cm, so each quarter is 25 cm. Three quarters are 75 cm = 75/100 m = 0.75 m.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Tenths connect directly to decimal notation.",
-      "hint": "Put the numerator in the tenths place."
+      "summary": "One metre is 100 cm, so each quarter is 25 cm. Three quarters are 75 cm = 75/100 m = 0.75 m.",
+      "hint": "Find one quarter of 100 cm before taking three parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +446,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-015",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "decimal fraction connection",
+    "skill": "construct fraction decimal numberline",
     "printable": true,
-    "type": "single",
-    "question": "While planning a community garden, which fraction equals 0.50?",
-    "audioPrompt": "While planning a community garden, which fraction equals 0.50?",
-    "visual": "While planning a community garden: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Four fifths are eight tenths. Both points represent 4/5 = 8/10 = 0.8. The same number has different fraction and decimal names.",
+    "acceptanceNote": "Require equal scales and endpoints, a point four fifth-intervals from 0 and eight tenth-intervals from 0, aligned positions and labels 8/10 and 0.8 (or 0.80).",
+    "responseInstructions": "Show your work on paper. Ask an adult to check the actual drawing, labels and explanation against the model answer.",
+    "completionLabel": "My written work and drawing are ready for an adult to check.",
+    "question": "Draw aligned number lines from 0 to 1, one in fifths and one in tenths. Mark 4/5 on the first and the same point on the second. Label that point as tenths and as a decimal.",
+    "audioPrompt": "Draw aligned number lines from 0 to 1, one in fifths and one in tenths. Mark 4/5 on the first and the same point on the second. Label that point as tenths and as a decimal.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-015",
-      "alt_text": "While planning a community garden: a Year 4 decimal fraction connection reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "1/5",
-      "1/2",
-      "2/3"
-    ],
-    "correct": 1,
-    "explanation": "Hundredths can be simplified to an equivalent fraction.\nHint: Write the decimal over 100, then simplify.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 15,
+    "correct": "Four fifths are eight tenths. Both points represent 4/5 = 8/10 = 0.8. The same number has different fraction and decimal names.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Hundredths can be simplified to an equivalent fraction.",
-      "hint": "Write the decimal over 100, then simplify."
+      "summary": "Four fifths are eight tenths. Both points represent 4/5 = 8/10 = 0.8. The same number has different fraction and decimal names.",
+      "hint": "Each fifth spans two tenth-intervals."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +478,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4n03-t-016",
     "curriculumCode": "AC9M4N03",
     "bank": "test",
-    "skill": "equivalent fractions",
+    "skill": "construct array equivalence",
     "printable": true,
-    "type": "single",
-    "question": "In a design exhibition, which fraction is equivalent to 3/10?",
-    "audioPrompt": "In a design exhibition, which fraction is equivalent to 3/10?",
-    "visual": "In a design exhibition: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Three rows of four contain 12 counters: 3 × 4 = 12. The coloured fraction is 12/20 = 3/5 = 6/10 = 0.6.",
+    "acceptanceNote": "Check five rows of four counters, twelve coloured, 12/20 = 3/5 = 0.6 (or 0.60), and a suitable multiplication fact such as 3 × 4 = 12 or 4 × 3 = 12. The actual array must support all labels.",
+    "responseInstructions": "Show your work on paper. Ask an adult to check the actual drawing, labels and explanation against the model answer.",
+    "completionLabel": "My written work and drawing are ready for an adult to check.",
+    "question": "Draw 20 counters in 5 equal rows. Colour 3 full rows. Write the coloured fraction in twentieths and fifths, then as a decimal. Include a multiplication fact for the coloured count.",
+    "audioPrompt": "Draw 20 counters in 5 equal rows. Colour 3 full rows. Write the coloured fraction in twentieths and fifths, then as a decimal. Include a multiplication fact for the coloured count.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n03.svg#ac9m4n03-t-016",
-      "alt_text": "In a design exhibition: a Year 4 equivalent fractions reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "5/20",
-      "6/10",
-      "6/20"
-    ],
-    "correct": 2,
-    "explanation": "Multiply numerator and denominator by the same number.\nHint: The whole and amount must stay unchanged.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 16,
+    "correct": "Three rows of four contain 12 counters: 3 × 4 = 12. The coloured fraction is 12/20 = 3/5 = 6/10 = 0.6.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Multiply numerator and denominator by the same number.",
-      "hint": "The whole and amount must stay unchanged."
+      "summary": "Three rows of four contain 12 counters: 3 × 4 = 12. The coloured fraction is 12/20 = 3/5 = 6/10 = 0.6.",
+      "hint": "Each row is one of five equal parts of the collection."
     },
     "qualitySchema": "production-v1"
   }
