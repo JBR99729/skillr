@@ -1,0 +1,53 @@
+{
+  "code": "AC9S4U01",
+  "descriptor": "explain the roles and interactions of consumers, producers and decomposers within a habitat and how food chains represent feeding relationships",
+  "elaborations": [
+    {
+      "id": "E1",
+      "wording": "describing how animals, including humans, obtain their food from plants and other animals"
+    },
+    {
+      "id": "E2",
+      "wording": "observing living things in a local habitat and categorising them as producers, consumers or decomposers"
+    },
+    {
+      "id": "E3",
+      "wording": "researching the different types of decomposers and their importance within a habitat"
+    },
+    {
+      "id": "E4",
+      "wording": "representing feeding relationships of producers and consumers as a food chain and comparing food chains across different habitats"
+    },
+    {
+      "id": "E5",
+      "wording": "recognising how First Nations Australians perceive themselves as being an integral part of the environment"
+    },
+    {
+      "id": "E6",
+      "wording": "investigating the impact of introduced predators such as foxes on small mammal species in Australia"
+    },
+    {
+      "id": "E7",
+      "wording": "researching how the removal of a food source from within a habitat, such as through an insect or rodent infestation, affected other living things within that habitat"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.scootle.edu.au/ec/search?accContentId=AC9S4U01",
+      "observed": "Exact descriptor and all seven elaborations; government curriculum distribution."
+    },
+    {
+      "url": "https://www.australiancurriculum.edu.au/support-resources/background-information/science_teacher_background_information_AC9S4U01_E5",
+      "observed": "Official descriptor, E5 and attributed Noonuccal scholar account of connected environmental relationships."
+    },
+    {
+      "url": "https://www.dcceew.gov.au/environment/invasive-species/feral-animals-australia",
+      "observed": "Introduced grazers reduce vegetation resources; fox/cat predation affects native animals."
+    },
+    {
+      "url": "https://www.dcceew.gov.au/environment/invasive-species/publications/factsheet-european-red-fox-vulpes-vulpes",
+      "observed": "Fox introduction and native animal decline."
+    }
+  ],
+  "externalBenchmarkStatus": "No Year4 evidence in retrieved research log; root conducts fresh IXL/Khan observations. Author has not independently observed IXL progression."
+}

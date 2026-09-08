@@ -3,6 +3,7 @@
 
   const match = location.pathname.match(/^\/quiz\/year-4\/(science|english)\/(ac9[se]4[a-z0-9]+)\/worksheet\/?$/i);
   if (!match) return;
+  if (/\/science\/ac9s4u0[123]\//i.test(location.pathname) && document.body?.getAttribute("data-skillr-authored-worksheet") === "true") return;
   const subject = match[1].toLowerCase();
   const subjectName = subject === "science" ? "Science" : "English";
   const code = match[2].toUpperCase();

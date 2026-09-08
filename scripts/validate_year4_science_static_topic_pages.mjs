@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+const hasClass = (html, token) => [...html.matchAll(/\bclass=["']([^"']*)["']/g)].some((match) => match[1].split(/\s+/).includes(token));
 import fs from 'node:fs';
 import path from 'node:path';
 
@@ -55,7 +56,7 @@ for (const unit of units) {
     if (!viewer.includes(`<link rel="canonical" href="${expectedCanonical}">`)) failures.push(`${code}: teacher-slides viewer must canonicalise to parent topic URL`);
     if (!viewer.includes('Teacher Display Page')) failures.push(`${code}: teacher-slides viewer must be the plain HTML Teacher Display Page`);
     if (!viewer.includes('data-single-open')) failures.push(`${code}: teacher display page must use single-open collapsible sections`);
-    if (!viewer.includes('class="example-board"') || !viewer.includes('class="example-card"')) failures.push(`${code}: teacher display page must include readable visual example cards`);
+    if (!hasClass(viewer, 'example-board') || !hasClass(viewer, 'example-card')) failures.push(`${code}: teacher display page must include readable visual example cards`);
     if (/class=["'][^"']*\bexample-icon\b[^"']*["']/i.test(viewer)) failures.push(`${code}: teacher display page must not include generated filler example icons`);
     if (!viewer.includes('skillrhublearning@gmail.com')) failures.push(`${code}: teacher display page must include SkillrHub contact ending`);
     if (/teacher-slide-viewer|fixed-slide-viewer|data-fixed-slide-viewer|data-slide-previous|data-slide-next|data-slide-fullscreen|id=["']prev["']|id=["']next["']|@media\s+print/i.test(viewer)) failures.push(`${code}: teacher display page must not expose legacy slide navigation or print styling`);
