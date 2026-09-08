@@ -1,0 +1,74 @@
+name: Audit Foundation-Year 2 alignment
+on: push
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Scan Topic, Worksheet and Classroom surfaces
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re, json
+          root=Path('.')
+          year_roots=[('Foundation','foundation','grade-k'),('Year 1','year1','year-1'),('Year 2','year2','year-2')]
+          rows=[]
+          def text(p):
+            try:return p.read_text(errors='ignore')
+            except:return ''
+          for label,yr,qyr in year_roots:
+            for subject in ['maths','science','english']:
+              base=root/yr/subject
+              if not base.exists(): continue
+              for d in sorted([p for p in base.iterdir() if p.is_dir()]):
+                topic=d/'index.html'; classroom=d/'teacher-slides'/'index.html'
+                if not topic.exists(): continue
+                t=text(topic); c=text(classroom) if classroom.exists() else ''
+                m=re.search(r'\b(AC9[A-Z0-9]+)\b',t,re.I)
+                code=m.group(1).upper() if m else d.name.split('-')[0].upper()
+                qsub='math' if subject=='maths' else subject
+                w=root/'quiz'/qyr/qsub/code.lower()/'worksheet'/'index.html'
+                if not w.exists() and yr=='foundation':
+                  w=root/'quiz'/'grade-k'/qsub/code.lower()/'worksheet'/'index.html'
+                ws=text(w) if w.exists() else ''
+                flags=[]
+                if not classroom.exists(): flags.append('missing-classroom')
+                if not w.exists(): flags.append('missing-worksheet')
+                if 'What is the key idea when learning about' in c: flags.append('generic-classroom-qa')
+                if 'Copied content' in c: flags.append('copied-content-label')
+                if c.count('<svg')+c.count('<img')==0 and subject in ('maths','science'): flags.append('classroom-no-visual')
+                if t.count('<svg')+t.count('<img')==0 and subject in ('maths','science'): flags.append('topic-no-visual')
+                if ws and code not in ws.upper(): flags.append('worksheet-code-mismatch')
+                if c and code not in c.upper(): flags.append('classroom-code-mismatch')
+                # flag thin topic instruction only when genuinely sparse
+                instructional=sum(t.lower().count(k) for k in ['worked example','teacher model','guided check','success criteria','misconception','common mistake','try it','you do'])
+                if instructional<2: flags.append('thin-topic-teaching')
+                # classroom stronger if has real teach/check structure
+                strong_c=sum(c.lower().count(k) for k in ['teacher talk','teaching guidance','show answer','exit ticket','worked example','model the skill','learning intention'])
+                if c and strong_c<3: flags.append('thin-classroom-teaching')
+                rows.append({'year':label,'subject':subject,'code':code,'topic':str(topic),'classroom':str(classroom) if classroom.exists() else '', 'worksheet':str(w) if w.exists() else '', 'flags':flags})
+          Path('reports').mkdir(exist_ok=True)
+          out=['# Foundation–Year 2 Topic / Worksheet / Classroom alignment audit','', 'Heuristic triage only. A flag means inspect; it is not by itself a reason to rewrite a strong page.','']
+          for label in ['Foundation','Year 1','Year 2']:
+            subset=[r for r in rows if r['year']==label]
+            out += [f'## {label}', '', f'Total codes scanned: {len(subset)}', f'Flagged for manual review: {sum(bool(r["flags"]) for r in subset)}', '']
+            for r in subset:
+              status='REVIEW' if r['flags'] else 'SKIP-CANDIDATE'
+              out.append(f'- **{r["code"]} · {r["subject"]} · {status}** — ' + (', '.join(r['flags']) if r['flags'] else 'no obvious alignment weakness'))
+            out.append('')
+          Path('reports/foundation-year2-alignment-audit-20260908.md').write_text('\n'.join(out))
+          Path('reports/foundation-year2-alignment-audit-20260908.json').write_text(json.dumps(rows,indent=2))
+          print(f'scanned={len(rows)} flagged={sum(bool(r["flags"]) for r in rows)}')
+          PY
+      - name: Commit audit and remove workflow
+        run: |
+          rm .github/workflows/audit-foundation-year2-alignment.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reports .github/workflows/audit-foundation-year2-alignment.yml
+          git commit -m 'audit: triage Foundation-Year 2 learning surface alignment'
+          git push origin HEAD:${{ github.ref_name }}
