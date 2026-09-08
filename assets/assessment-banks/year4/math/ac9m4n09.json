@@ -5,36 +5,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "follow_algorithms",
-    "question": "In a class project, an algorithm starts at 6, doubles, then adds 3. What is the output?",
-    "audio_prompt": "In a class project, an algorithm starts at 6, doubles, then adds 3. What is the output?",
+    "skill": "follow_ordered_steps",
+    "question": "Start with 5. Add 3, then multiply the result by 2. What is the output?",
+    "audio_prompt": "Start with 5. Add 3, then multiply the result by 2. What is the output?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-001",
-      "alt_text": "In a class project: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1,
     "answers": [
       {
-        "text": "14",
+        "text": "8",
         "is_correct": false
       },
       {
-        "text": "17",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "15",
+        "text": "16",
         "is_correct": true
+      },
+      {
+        "text": "13",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "First 5 + 3 = 8. Then 8 × 2 = 16. Doubling before adding would follow a different order.",
+      "hint": "Write the value after each step."
+    }
   },
   {
     "id": "AC9M4N09-P-002",
@@ -42,36 +44,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "design_algorithms",
-    "question": "At the school market, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "At the school market, which rule generates multiples of 6 below 40?",
+    "skill": "follow_multiply_then_add",
+    "question": "An input of 8 is multiplied by 3, then 4 is added. What is the output?",
+    "audio_prompt": "An input of 8 is multiplied by 3, then 4 is added. What is the output?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-002",
-      "alt_text": "At the school market: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "Start at 6, add 6, stop before 40",
-        "is_correct": true
-      },
-      {
-        "text": "Start at 1, add 6 forever",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 6, multiply by 6 twice",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2,
+    "answers": [
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "28",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiplication gives 8 × 3 = 24. Adding 4 to that result gives 28.",
+      "hint": "Finish the first operation before starting the second."
+    }
   },
   {
     "id": "AC9M4N09-P-003",
@@ -79,36 +83,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "follow_algorithms",
-    "question": "While planning a garden, an algorithm starts at 3, doubles, then adds 3. What is the output?",
-    "audio_prompt": "While planning a garden, an algorithm starts at 3, doubles, then adds 3. What is the output?",
+    "skill": "input_output_rule",
+    "question": "The rule is “multiply the input by 5, then add 2”. What output belongs with input 4?",
+    "audio_prompt": "The rule is “multiply the input by 5, then add 2”. What output belongs with input 4?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-003",
-      "alt_text": "While planning a garden: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09/p-003.svg#model",
+      "alt_text": "Input/output table for multiply by 5 then add 2: inputs 1, 2, 3 have outputs 7, 12, 17; input 4 has unknown output."
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 3,
     "answers": [
       {
-        "text": "8",
+        "text": "20",
         "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
       },
       {
         "text": "11",
         "is_correct": false
+      },
+      {
+        "text": "22",
+        "is_correct": true
+      },
+      {
+        "text": "30",
+        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Each new input follows the same two steps. For 4, calculate 4 × 5 + 2 = 20 + 2 = 22.",
+      "hint": "Apply the rule to input 4, rather than reusing the last output."
+    }
   },
   {
     "id": "AC9M4N09-P-004",
@@ -116,36 +124,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "design_algorithms",
-    "question": "During a sports challenge, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "During a sports challenge, which rule generates multiples of 6 below 40?",
+    "skill": "trace_both_branches",
+    "question": "Use the flowchart once for each input. What are the outputs for input 6 and input 7, in that order?",
+    "audio_prompt": "Use the flowchart once for each input. What are the outputs for input 6 and input 7, in that order?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-004",
-      "alt_text": "During a sports challenge: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09/p-004.svg#model",
+      "alt_text": "Flowchart: input; if even, multiply by 3; if not even, add 5; the two branches join at record output."
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
     "answers": [
       {
-        "text": "Start at 1, add 6 forever",
+        "text": "11, 21",
         "is_correct": false
       },
       {
-        "text": "Start at 6, multiply by 6 twice",
+        "text": "18, 21",
         "is_correct": false
       },
       {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "18, 12",
         "is_correct": true
+      },
+      {
+        "text": "33, 36",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Six is even, so its branch gives 6 × 3 = 18. Seven is odd, so its branch gives 7 + 5 = 12. Use only the chosen branch.",
+      "hint": "Answer the decision separately for each input."
+    }
   },
   {
     "id": "AC9M4N09-P-005",
@@ -153,36 +165,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "follow_algorithms",
-    "question": "At the wildlife centre, an algorithm starts at 5, doubles, then adds 3. What is the output?",
-    "audio_prompt": "At the wildlife centre, an algorithm starts at 5, doubles, then adds 3. What is the output?",
+    "skill": "decision_after_change",
+    "question": "Start with 3 and add 2. If the NEW number is even, multiply it by 3; otherwise add 4. What is the output?",
+    "audio_prompt": "Start with 3 and add 2. If the NEW number is even, multiply it by 3; otherwise add 4. What is the output?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-005",
-      "alt_text": "At the wildlife centre: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
     "answers": [
       {
-        "text": "13",
-        "is_correct": true
-      },
-      {
-        "text": "12",
+        "text": "7",
         "is_correct": false
       },
       {
         "text": "15",
         "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "After adding 2, the number is 5. It is odd, so follow the otherwise branch: 5 + 4 = 9.",
+      "hint": "Test the number after the first step, not a different value."
+    }
   },
   {
     "id": "AC9M4N09-P-006",
@@ -190,36 +204,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "design_algorithms",
-    "question": "In the makerspace, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "In the makerspace, which rule generates multiples of 6 below 40?",
+    "skill": "inclusive_decision_boundary",
+    "question": "For each input: if it is at least 5, double it; otherwise add 3. What are the outputs for inputs 4 and 5?",
+    "audio_prompt": "For each input: if it is at least 5, double it; otherwise add 3. What are the outputs for inputs 4 and 5?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-006",
-      "alt_text": "In the makerspace: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 6,
     "answers": [
       {
-        "text": "Start at 1, add 6 forever",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "7, 10",
         "is_correct": true
       },
       {
-        "text": "Start at 6, multiply by 6 twice",
+        "text": "8, 10",
+        "is_correct": false
+      },
+      {
+        "text": "7, 8",
+        "is_correct": false
+      },
+      {
+        "text": "8, 8",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Four is less than 5, so add 3 to get 7. Five meets “at least 5”, so double it to get 10.",
+      "hint": "“At least 5” includes 5 itself."
+    }
   },
   {
     "id": "AC9M4N09-P-007",
@@ -227,36 +243,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "follow_algorithms",
-    "question": "While checking a map, an algorithm starts at 2, doubles, then adds 3. What is the output?",
-    "audio_prompt": "While checking a map, an algorithm starts at 2, doubles, then adds 3. What is the output?",
+    "skill": "generate_branch_output_list",
+    "question": "For inputs 1, 2, 3 and 4, double each even input and add 4 to each odd input. Which output list keeps the same input order?",
+    "audio_prompt": "For inputs 1, 2, 3 and 4, double each even input and add 4 to each odd input. Which output list keeps the same input order?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-007",
-      "alt_text": "While checking a map: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
     "answers": [
       {
-        "text": "6",
+        "text": "2, 4, 6, 8",
         "is_correct": false
       },
       {
-        "text": "9",
+        "text": "5, 6, 7, 8",
         "is_correct": false
       },
       {
-        "text": "7",
+        "text": "5, 4, 7, 8",
         "is_correct": true
+      },
+      {
+        "text": "2, 6, 6, 8",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The odd inputs 1 and 3 become 5 and 7. The even inputs 2 and 4 become 4 and 8. Record each result beside its own input.",
+      "hint": "Choose a branch separately for each of the four inputs."
+    }
   },
   {
     "id": "AC9M4N09-P-008",
@@ -264,36 +282,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "design_algorithms",
-    "question": "During a cooking task, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "During a cooking task, which rule generates multiples of 6 below 40?",
+    "skill": "identify_decision_rule",
+    "question": "Inputs 1, 2, 3, 4 produce outputs 4, 4, 6, 8. Which stated rule matches every pair?",
+    "audio_prompt": "Inputs 1, 2, 3, 4 produce outputs 4, 4, 6, 8. Which stated rule matches every pair?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-008",
-      "alt_text": "During a cooking task: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09/p-008.svg#model",
+      "alt_text": "Input/output pairs: 1 to 4, 2 to 4, 3 to 6, and 4 to 8."
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 8,
     "answers": [
       {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "If the input is even, double it; otherwise add 3",
         "is_correct": true
       },
       {
-        "text": "Start at 1, add 6 forever",
+        "text": "Double every input",
         "is_correct": false
       },
       {
-        "text": "Start at 6, multiply by 6 twice",
+        "text": "If the input is even, add 3; otherwise double it",
+        "is_correct": false
+      },
+      {
+        "text": "Add 3 to every input",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The odd inputs become 1 + 3 = 4 and 3 + 3 = 6. The even inputs become 2 × 2 = 4 and 4 × 2 = 8. All four pairs fit.",
+      "hint": "Test both an odd input and an even input."
+    }
   },
   {
     "id": "AC9M4N09-P-009",
@@ -301,35 +323,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "follow_algorithms",
-    "question": "At the community fair, an algorithm starts at 4, doubles, then adds 3. What is the output?",
-    "audio_prompt": "At the community fair, an algorithm starts at 4, doubles, then adds 3. What is the output?",
+    "skill": "repair_missing_branch",
+    "question": "A rule says, “If the input is even, double it. Record the answer.” Which addition explicitly gives an operation for odd inputs?",
+    "audio_prompt": "A rule says, “If the input is even, double it. Record the answer.” Which addition explicitly gives an operation for odd inputs?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-009",
-      "alt_text": "At the community fair: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
     "answers": [
       {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "11",
+        "text": "Otherwise add 1 to the input, then record that result",
         "is_correct": true
       },
       {
-        "text": "13",
+        "text": "Double even inputs twice",
+        "is_correct": false
+      },
+      {
+        "text": "Record an answer before reading the input",
+        "is_correct": false
+      },
+      {
+        "text": "Add 1 after doubling every even input",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The original rule gives no operation for odd inputs. An otherwise branch defines what to do when the even test is false.",
+      "hint": "Find the branch used when the even test is false."
+    }
   },
   {
     "id": "AC9M4N09-P-010",
@@ -337,35 +362,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "design_algorithms",
-    "question": "In a library display, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "In a library display, which rule generates multiples of 6 below 40?",
+    "skill": "use_one_branch_only",
+    "question": "A rule says: if the input is less than 10, add 5; otherwise multiply by 2. With input 7, Zara adds 5 and then doubles. What should the output be?",
+    "audio_prompt": "A rule says: if the input is less than 10, add 5; otherwise multiply by 2. With input 7, Zara adds 5 and then doubles. What should the output be?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-010",
-      "alt_text": "In a library display: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "Start at 1, add 6 forever",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 6, multiply by 6 twice",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 6, add 6, stop before 40",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
+      "type": "none"
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 10,
+    "answers": [
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "19",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Input 7 meets the less-than-10 test, so only the add-5 branch runs: 7 + 5 = 12. The multiply branch is an alternative, not the next step.",
+      "hint": "Do not run both alternatives for the same decision."
+    }
   },
   {
     "id": "AC9M4N09-P-011",
@@ -373,35 +401,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "follow_algorithms",
-    "question": "During a science activity, an algorithm starts at 6, doubles, then adds 3. What is the output?",
-    "audio_prompt": "During a science activity, an algorithm starts at 6, doubles, then adds 3. What is the output?",
+    "skill": "generate_multiples_ten",
+    "question": "Start at 10. Record the number, then add 10. Keep recording while the current number is at most 50. Stop before recording a larger number. Which list is produced?",
+    "audio_prompt": "Start at 10. Record the number, then add 10. Keep recording while the current number is at most 50. Stop before recording a larger number. Which list is produced?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-011",
-      "alt_text": "During a science activity: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 11,
     "answers": [
       {
-        "text": "15",
+        "text": "0, 10, 20, 30, 40",
+        "is_correct": false
+      },
+      {
+        "text": "10, 100, 1,000",
+        "is_correct": false
+      },
+      {
+        "text": "10, 20, 30, 40, 50",
         "is_correct": true
       },
       {
-        "text": "14",
-        "is_correct": false
-      },
-      {
-        "text": "17",
+        "text": "10, 20, 30, 40, 50, 60",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The recorded values rise by ten and include 50 because it is allowed. The next value, 60, fails the at-most-50 test.",
+      "hint": "Check the start and whether the endpoint is included."
+    }
   },
   {
     "id": "AC9M4N09-P-012",
@@ -409,35 +440,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "design_algorithms",
-    "question": "At the school canteen, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "At the school canteen, which rule generates multiples of 6 below 40?",
+    "skill": "strict_stop_boundary",
+    "question": "Follow the flowchart. Which numbers are recorded?",
+    "audio_prompt": "Follow the flowchart. Which numbers are recorded?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-012",
-      "alt_text": "At the school canteen: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09/p-012.svg#model",
+      "alt_text": "Flowchart: start at 4; test whether the number is less than 20; yes, record it then add 4 and return to the test; no, stop."
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
     "answers": [
       {
-        "text": "Start at 1, add 6 forever",
+        "text": "8, 12, 16",
         "is_correct": false
       },
       {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "4, 8, 12, 16, 20",
+        "is_correct": false
+      },
+      {
+        "text": "4, 16",
+        "is_correct": false
+      },
+      {
+        "text": "4, 8, 12, 16",
         "is_correct": true
-      },
-      {
-        "text": "Start at 6, multiply by 6 twice",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The test occurs before recording. Four, eight, twelve and sixteen are less than 20; twenty is not, so it is not recorded.",
+      "hint": "“Less than” does not include the boundary number."
+    }
   },
   {
     "id": "AC9M4N09-P-013",
@@ -445,35 +481,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "follow_algorithms",
-    "question": "While organising an excursion, an algorithm starts at 3, doubles, then adds 3. What is the output?",
-    "audio_prompt": "While organising an excursion, an algorithm starts at 3, doubles, then adds 3. What is the output?",
+    "skill": "inclusive_stop_boundary",
+    "question": "Follow the flowchart. What is the last recorded number?",
+    "audio_prompt": "Follow the flowchart. What is the last recorded number?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-013",
-      "alt_text": "While organising an excursion: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09/p-013.svg#model",
+      "alt_text": "Flowchart: start at 5; if the number is at most 20, record it then add 5 and repeat the test; otherwise stop."
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 13,
     "answers": [
       {
-        "text": "8",
+        "text": "15",
         "is_correct": false
       },
       {
-        "text": "11",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "9",
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "20",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The test allows numbers equal to 20. The outputs are 5, 10, 15 and 20; after adding 5 again, 25 fails the test.",
+      "hint": "The symbol ≤ means less than or equal to."
+    }
   },
   {
     "id": "AC9M4N09-P-014",
@@ -481,35 +522,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "design_algorithms",
-    "question": "In a games club, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "In a games club, which rule generates multiples of 6 below 40?",
+    "skill": "output_timing",
+    "question": "Start with 2. Add 5, then record the result. Repeat those two steps until THREE results have been recorded. What is the list?",
+    "audio_prompt": "Start with 2. Add 5, then record the result. Repeat those two steps until THREE results have been recorded. What is the list?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-014",
-      "alt_text": "In a games club: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 14,
     "answers": [
       {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "7, 10, 15",
+        "is_correct": false
+      },
+      {
+        "text": "7, 12, 17",
         "is_correct": true
       },
       {
-        "text": "Start at 1, add 6 forever",
+        "text": "2, 7, 12",
         "is_correct": false
       },
       {
-        "text": "Start at 6, multiply by 6 twice",
+        "text": "2, 5, 10",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Adding happens before recording, so the first result is 7. The next two additions give 12 and 17. The starting 2 is not recorded.",
+      "hint": "Read exactly when the record step occurs."
+    }
   },
   {
     "id": "AC9M4N09-P-015",
@@ -517,35 +561,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "follow_algorithms",
-    "question": "During an art project, an algorithm starts at 5, doubles, then adds 3. What is the output?",
-    "audio_prompt": "During an art project, an algorithm starts at 5, doubles, then adds 3. What is the output?",
+    "skill": "unreachable_stopping_value",
+    "question": "Start at 1, record it, then repeatedly add 4 and record. Stop only if the number is exactly 10. What happens?",
+    "audio_prompt": "Start at 1, record it, then repeatedly add 4 and record. Stop only if the number is exactly 10. What happens?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-015",
-      "alt_text": "During an art project: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 15,
     "answers": [
       {
-        "text": "12",
+        "text": "It stops at 10",
         "is_correct": false
       },
       {
-        "text": "13",
+        "text": "The rule never reaches 10, so that stop test is never met",
         "is_correct": true
       },
       {
-        "text": "15",
+        "text": "It stops at 9",
+        "is_correct": false
+      },
+      {
+        "text": "It stops at 13 automatically",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The outputs are 1, 5, 9, 13 and so on. The rule jumps over 10, and later values are larger. A stop test such as greater than 10 would need to be stated separately.",
+      "hint": "Trace the values around 10 and apply the exact test."
+    }
   },
   {
     "id": "AC9M4N09-P-016",
@@ -553,35 +600,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "design_algorithms",
-    "question": "At the recycling station, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "At the recycling station, which rule generates multiples of 6 below 40?",
+    "skill": "count_recorded_values",
+    "question": "Start at 2 and record it. Multiply the current number by 2 and record again, stopping after FOUR numbers in total. What is the fourth number?",
+    "audio_prompt": "Start at 2 and record it. Multiply the current number by 2 and record again, stopping after FOUR numbers in total. What is the fourth number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-016",
-      "alt_text": "At the recycling station: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 16,
     "answers": [
       {
-        "text": "Start at 1, add 6 forever",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 6, multiply by 6 twice",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "16",
         "is_correct": true
+      },
+      {
+        "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The recorded numbers are 2, 4, 8 and 16. The starting 2 counts as the first recorded number.",
+      "hint": "Number the recorded outputs from one to four."
+    }
   },
   {
     "id": "AC9M4N09-P-017",
@@ -589,35 +639,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "follow_algorithms",
-    "question": "While planning a survey, an algorithm starts at 2, doubles, then adds 3. What is the output?",
-    "audio_prompt": "While planning a survey, an algorithm starts at 2, doubles, then adds 3. What is the output?",
+    "skill": "constant_multiplication_loop",
+    "question": "Follow the flowchart. Which output list is correct?",
+    "audio_prompt": "Follow the flowchart. Which output list is correct?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-017",
-      "alt_text": "While planning a survey: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09/p-017.svg#model",
+      "alt_text": "Flowchart: start at 1; if the number is at most 30, record it then multiply by 3 and repeat; otherwise stop."
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 17,
     "answers": [
       {
-        "text": "7",
+        "text": "1, 3, 9, 27",
         "is_correct": true
       },
       {
-        "text": "6",
+        "text": "3, 6, 9, 12",
         "is_correct": false
       },
       {
-        "text": "9",
+        "text": "1, 3, 9, 27, 81",
+        "is_correct": false
+      },
+      {
+        "text": "1, 4, 7, 10",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Multiply the current value by 3 after each record. The values 1, 3, 9 and 27 pass the at-most-30 test; 81 does not.",
+      "hint": "This rule triples the previous value, rather than adding three."
+    }
   },
   {
     "id": "AC9M4N09-P-018",
@@ -625,35 +680,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "design_algorithms",
-    "question": "In a coding lesson, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "In a coding lesson, which rule generates multiples of 6 below 40?",
+    "skill": "repeated_multiplication_growth",
+    "question": "A rule starts at 2 and multiplies the previous number by 4 each time: 2, 8, 32, 128, __. What is next?",
+    "audio_prompt": "A rule starts at 2 and multiplies the previous number by 4 each time: 2, 8, 32, 128, __. What is next?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-018",
-      "alt_text": "In a coding lesson: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 18,
     "answers": [
       {
-        "text": "Start at 1, add 6 forever",
+        "text": "256",
         "is_correct": false
       },
       {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "512",
         "is_correct": true
       },
       {
-        "text": "Start at 6, multiply by 6 twice",
+        "text": "384",
+        "is_correct": false
+      },
+      {
+        "text": "132",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The same multiplication applies at every step. After 128 comes 128 × 4 = 512.",
+      "hint": "Use the stated generating rule, not the last difference."
+    }
   },
   {
     "id": "AC9M4N09-P-019",
@@ -661,35 +719,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "follow_algorithms",
-    "question": "During a building task, an algorithm starts at 4, doubles, then adds 3. What is the output?",
-    "audio_prompt": "During a building task, an algorithm starts at 4, doubles, then adds 3. What is the output?",
+    "skill": "compare_addition_and_multiplication",
+    "question": "Both rules start by recording 4. Rule A repeatedly adds 4. Rule B repeatedly doubles. What is the THIRD output of each?",
+    "audio_prompt": "Both rules start by recording 4. Rule A repeatedly adds 4. Rule B repeatedly doubles. What is the THIRD output of each?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-019",
-      "alt_text": "During a building task: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "11",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
+      "type": "none"
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 19,
+    "answers": [
+      {
+        "text": "A: 12; B: 16",
+        "is_correct": true
+      },
+      {
+        "text": "A: 16; B: 12",
+        "is_correct": false
+      },
+      {
+        "text": "A: 8; B: 8",
+        "is_correct": false
+      },
+      {
+        "text": "A: 16; B: 32",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rule A records 4, 8, 12. Rule B records 4, 8, 16. Matching first and second outputs do not make the rules identical.",
+      "hint": "Include the starting value when counting outputs."
+    }
   },
   {
     "id": "AC9M4N09-P-020",
@@ -697,35 +758,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "design_algorithms",
-    "question": "At the local pool, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "At the local pool, which rule generates multiples of 6 below 40?",
+    "skill": "test_before_first_output",
+    "question": "Start at 12. If the number is less than 10, record it and add 2, then test again. Otherwise stop. Which numbers are recorded?",
+    "audio_prompt": "Start at 12. If the number is less than 10, record it and add 2, then test again. Otherwise stop. Which numbers are recorded?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-020",
-      "alt_text": "At the local pool: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 20,
     "answers": [
       {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "None",
         "is_correct": true
       },
       {
-        "text": "Start at 1, add 6 forever",
+        "text": "12, 14",
         "is_correct": false
       },
       {
-        "text": "Start at 6, multiply by 6 twice",
+        "text": "12 only",
+        "is_correct": false
+      },
+      {
+        "text": "2, 4, 6, 8",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The first test is already false because 12 is not less than 10. The algorithm stops before its record step.",
+      "hint": "Check the decision before assuming the start will be recorded."
+    }
   },
   {
     "id": "AC9M4N09-P-021",
@@ -733,35 +797,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "follow_algorithms",
-    "question": "While preparing a camp, an algorithm starts at 6, doubles, then adds 3. What is the output?",
-    "audio_prompt": "While preparing a camp, an algorithm starts at 6, doubles, then adds 3. What is the output?",
+    "skill": "choose_multiples_algorithm",
+    "question": "Which algorithm records exactly the positive multiples of 7 below 30?",
+    "audio_prompt": "Which algorithm records exactly the positive multiples of 7 below 30?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-021",
-      "alt_text": "While preparing a camp: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 21,
     "answers": [
       {
-        "text": "14",
+        "text": "Start at 1; while below 30, record, add 7 and test again; otherwise stop",
         "is_correct": false
       },
       {
-        "text": "15",
+        "text": "Start at 7; record, multiply by 7 and record once more",
+        "is_correct": false
+      },
+      {
+        "text": "Start at 7; while below 30, record, add 7 and test again; otherwise stop",
         "is_correct": true
       },
       {
-        "text": "17",
+        "text": "Start at 7; add 7 before the first record, then stop at 28",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Starting at 7 and repeatedly adding 7 records 7, 14, 21 and 28. The next value is 35 and fails the test.",
+      "hint": "Check the first output, step and stopping decision."
+    }
   },
   {
     "id": "AC9M4N09-P-022",
@@ -769,35 +836,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "design_algorithms",
-    "question": "In a music project, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "In a music project, which rule generates multiples of 6 below 40?",
+    "skill": "multiples_nine_pattern",
+    "question": "Multiply each input from 1 to 6 by 9. The outputs are 9, 18, 27, 36, 45, 54. What happens to the ones digit across THESE six outputs?",
+    "audio_prompt": "Multiply each input from 1 to 6 by 9. The outputs are 9, 18, 27, 36, 45, 54. What happens to the ones digit across THESE six outputs?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-022",
-      "alt_text": "In a music project: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 22,
     "answers": [
       {
-        "text": "Start at 1, add 6 forever",
+        "text": "It increases by 1 each time",
         "is_correct": false
       },
       {
-        "text": "Start at 6, multiply by 6 twice",
+        "text": "It is always even",
         "is_correct": false
       },
       {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "It decreases by 1 each time",
         "is_correct": true
+      },
+      {
+        "text": "It stays at 9",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The ones digits shown are 9, 8, 7, 6, 5 and 4. They decrease by one across this sample; a later wrap from 0 to 9 would need to be described too.",
+      "hint": "Compare only the ones digits in the stated six outputs."
+    }
   },
   {
     "id": "AC9M4N09-P-023",
@@ -805,35 +875,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "follow_algorithms",
-    "question": "At a playground redesign, an algorithm starts at 3, doubles, then adds 3. What is the output?",
-    "audio_prompt": "At a playground redesign, an algorithm starts at 3, doubles, then adds 3. What is the output?",
+    "skill": "multiples_five_pattern",
+    "question": "Multiply inputs 1, 2, 3, 4, 5 and 6 by 5. What ones-digit pattern do the outputs follow?",
+    "audio_prompt": "Multiply inputs 1, 2, 3, 4, 5 and 6 by 5. What ones-digit pattern do the outputs follow?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-023",
-      "alt_text": "At a playground redesign: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 23,
     "answers": [
       {
-        "text": "9",
+        "text": "5, 5, 5, 5, 5, 5",
+        "is_correct": false
+      },
+      {
+        "text": "0, 5, 0, 5, 0, 5",
+        "is_correct": false
+      },
+      {
+        "text": "1, 2, 3, 4, 5, 6",
+        "is_correct": false
+      },
+      {
+        "text": "5, 0, 5, 0, 5, 0",
         "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "11",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The outputs are 5, 10, 15, 20, 25 and 30. Adding five switches the ones digit between 5 and 0.",
+      "hint": "List the products, then look at their final digits."
+    }
   },
   {
     "id": "AC9M4N09-P-024",
@@ -841,35 +914,928 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "practice",
-    "skill": "design_algorithms",
-    "question": "During a book drive, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "During a book drive, which rule generates multiples of 6 below 40?",
+    "skill": "explain_even_output_pattern",
+    "question": "A rule starts at 2 and keeps adding 4. Why is every output even?",
+    "audio_prompt": "A rule starts at 2 and keeps adding 4. Why is every output even?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-p-024",
-      "alt_text": "During a book drive: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 24,
     "answers": [
       {
-        "text": "Start at 1, add 6 forever",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "The start is even and adding an even number keeps it even",
         "is_correct": true
       },
       {
-        "text": "Start at 6, multiply by 6 twice",
+        "text": "The outputs all end in 2",
+        "is_correct": false
+      },
+      {
+        "text": "Adding any number always makes an even result",
+        "is_correct": false
+      },
+      {
+        "text": "Every output is a multiple of 4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The sequence begins 2, 6, 10, 14, 18. An even starting value plus another even amount remains even at each step.",
+      "hint": "Explain the pattern from the start and the repeated operation."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-025",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "explain_alternating_pattern",
+    "question": "The outputs from inputs 1, 2, 3, 4, 5 under “multiply by 3” are 3, 6, 9, 12, 15. Why do odd and even outputs alternate?",
+    "audio_prompt": "The outputs from inputs 1, 2, 3, 4, 5 under “multiply by 3” are 3, 6, 9, 12, 15. Why do odd and even outputs alternate?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 25,
+    "answers": [
+      {
+        "text": "Every input is odd",
+        "is_correct": false
+      },
+      {
+        "text": "Each next output adds the odd number 3, switching between odd and even",
+        "is_correct": true
+      },
+      {
+        "text": "The rule alternates adding 2 and adding 4",
+        "is_correct": false
+      },
+      {
+        "text": "Multiplication always produces an even number",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
+      "summary": "Increasing the input by 1 adds one more group of 3 to the output. Adding an odd amount changes even to odd or odd to even.",
+      "hint": "Compare consecutive outputs and connect the difference to the rule."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-026",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "check_pattern_claim",
+    "question": "A rule multiplies inputs 1, 2, 3, 4 by 6. Which statement is true of all four outputs?",
+    "audio_prompt": "A rule multiplies inputs 1, 2, 3, 4 by 6. Which statement is true of all four outputs?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 26,
+    "answers": [
+      {
+        "text": "Every output is less than 20",
+        "is_correct": false
+      },
+      {
+        "text": "Each output is 6 more than its own input",
+        "is_correct": false
+      },
+      {
+        "text": "All outputs end in 6",
+        "is_correct": false
+      },
+      {
+        "text": "Each is a multiple of 6 and is even",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The outputs are 6, 12, 18 and 24. Each contains a whole number of groups of 6 and is even. The other statements fail for at least one input.",
+      "hint": "Test the claim against every stated output."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-027",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "indefinite_pattern_extension",
+    "question": "A learner writes the first six positive multiples of 4. Why does the mathematical pattern have no last number?",
+    "audio_prompt": "A learner writes the first six positive multiples of 4. Why does the mathematical pattern have no last number?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 27,
+    "answers": [
+      {
+        "text": "Another multiple can always be made by adding 4",
+        "is_correct": true
+      },
+      {
+        "text": "A calculator can store every number",
+        "is_correct": false
+      },
+      {
+        "text": "The sixth multiple must be repeated forever",
+        "is_correct": false
+      },
+      {
+        "text": "The numbers eventually stop increasing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Whatever multiple has been reached, adding one more group of 4 makes another. A written list or device may stop, but the mathematical rule can continue.",
+      "hint": "Separate the length of a recorded list from the rule’s possible continuation."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-028",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "finite_list_needs_rule",
+    "question": "A list begins 2, 4, 8, but no generating rule is given. Max says the next value must be 16. Which response is best?",
+    "audio_prompt": "A list begins 2, 4, 8, but no generating rule is given. Max says the next value must be 16. Which response is best?",
+    "visual": {
+      "type": "none"
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 28,
+    "answers": [
+      {
+        "text": "The next value must always be 10",
+        "is_correct": false
+      },
+      {
+        "text": "Any list of three numbers must double",
+        "is_correct": false
+      },
+      {
+        "text": "Three listed numbers prove every later number",
+        "is_correct": false
+      },
+      {
+        "text": "A generating rule is needed to make one intended next value certain",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Doubling would give 16, but other rules can begin with the same three values. A precise rule removes the uncertainty.",
+      "hint": "Do the given numbers state every step of an algorithm?"
+    }
+  },
+  {
+    "id": "AC9M4N09-P-029",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "debug_addition_sequence",
+    "question": "The instruction is “start at 8 and keep adding 8”. A learner records 8, 16, 24, 31, 40. Which replacement repairs the incorrect entry?",
+    "audio_prompt": "The instruction is “start at 8 and keep adding 8”. A learner records 8, 16, 24, 31, 40. Which replacement repairs the incorrect entry?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 29,
+    "answers": [
+      {
+        "text": "Replace 24 with 23",
+        "is_correct": false
+      },
+      {
+        "text": "Replace 40 with 39",
+        "is_correct": false
+      },
+      {
+        "text": "Replace 16 with 15",
+        "is_correct": false
+      },
+      {
+        "text": "Replace 31 with 32",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Adding 8 to 24 gives 32. The intended list is 8, 16, 24, 32, 40.",
+      "hint": "Apply the stated rule to the value before the suspected error."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-030",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "debug_multiplication_sequence",
+    "question": "The rule starts at 2 and triples the previous number. A learner records 2, 6, 18, 56, 162. Which entry should replace 56?",
+    "audio_prompt": "The rule starts at 2 and triples the previous number. A learner records 2, 6, 18, 56, 162. Which entry should replace 56?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "answers": [
+      {
+        "text": "168",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "54",
+        "is_correct": true
+      },
+      {
+        "text": "60",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The correct fourth value is 18 × 3 = 54. Tripling 54 then gives the listed next value 162.",
+      "hint": "Check both the product from the previous term and the following term."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-031",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "repair_recording_order",
+    "question": "The wanted list is 3, 6, 12. A learner starts at 3, doubles, then records, so the first output is 6. Which repair includes the wanted first output?",
+    "audio_prompt": "The wanted list is 3, 6, 12. A learner starts at 3, doubles, then records, so the first output is 6. Which repair includes the wanted first output?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "answers": [
+      {
+        "text": "Double twice before recording",
+        "is_correct": false
+      },
+      {
+        "text": "Start at 6 instead",
+        "is_correct": false
+      },
+      {
+        "text": "Record 3 before the first doubling",
+        "is_correct": true
+      },
+      {
+        "text": "Add 3 after every doubling",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The initial value belongs in the wanted list. Recording it first, then repeatedly doubling, gives 3, 6 and 12.",
+      "hint": "Compare the wanted first value with the first record step."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-032",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "choose_loop_decision",
+    "question": "Start at 2. Test a condition before each record; if true, record and add 2, then test again. Which condition produces 2, 4, 6, 8, 10 and then stops?",
+    "audio_prompt": "Start at 2. Test a condition before each record; if true, record and add 2, then test again. Which condition produces 2, 4, 6, 8, 10 and then stops?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 32,
+    "answers": [
+      {
+        "text": "The number is less than 10",
+        "is_correct": false
+      },
+      {
+        "text": "The number is at least 10",
+        "is_correct": false
+      },
+      {
+        "text": "The number is exactly 2",
+        "is_correct": false
+      },
+      {
+        "text": "The number is at most 10",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The condition must allow all five wanted values, including 10, and reject the next value 12. At most 10 does this.",
+      "hint": "Test both the final wanted value and the first unwanted value."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-033",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "input_rule_versus_previous_output",
+    "question": "Which list results from multiplying EACH input 1, 2, 3, 4 by 4?",
+    "audio_prompt": "Which list results from multiplying EACH input 1, 2, 3, 4 by 4?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09/p-033.svg#model",
+      "alt_text": "Table maps inputs 1, 2, 3, 4 to outputs 4, 8, 12, 16 by multiplying each input by 4."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "answers": [
+      {
+        "text": "4, 16, 64, 256",
+        "is_correct": false
+      },
+      {
+        "text": "4, 8, 12, 16",
+        "is_correct": true
+      },
+      {
+        "text": "5, 6, 7, 8",
+        "is_correct": false
+      },
+      {
+        "text": "1, 4, 16, 64",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each separate input is multiplied by 4. Repeatedly multiplying the previous output is a different algorithm.",
+      "hint": "Return to the next input for each new calculation."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-034",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "spreadsheet_input_series",
+    "question": "A1 contains 1. A2 contains =A1+1, and that formula is filled down through A5 with changing row references. What value is in A5?",
+    "audio_prompt": "A1 contains 1. A2 contains =A1+1, and that formula is filled down through A5 with changing row references. What value is in A5?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "answers": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A2 is 2, A3 is 3, A4 is 4 and A5 is 5. Each row adds one to the value directly above it.",
+      "hint": "Trace the row reference as the formula moves down."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-035",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "relative_formula_fill_down",
+    "question": "A1:A4 contain 1, 2, 3, 4. B1 contains =A1*4. When filled down normally, which formula belongs in B3?",
+    "audio_prompt": "A1:A4 contain 1, 2, 3, 4. B1 contains =A1*4. When filled down normally, which formula belongs in B3?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "answers": [
+      {
+        "text": "=A1*4",
+        "is_correct": false
+      },
+      {
+        "text": "=A3+4",
+        "is_correct": false
+      },
+      {
+        "text": "=A3*4",
+        "is_correct": true
+      },
+      {
+        "text": "=B2*4",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Moving the formula two rows down changes its relative reference from A1 to A3. With A3 equal to 3, B3 evaluates to 12.",
+      "hint": "The input reference follows the current row."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-036",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "spreadsheet_hundredth_output",
+    "question": "Column A contains the integers 1 to 100 in rows 1 to 100. Column B multiplies the input in the same row by 4. What is B100?",
+    "audio_prompt": "Column A contains the integers 1 to 100 in rows 1 to 100. Column B multiplies the input in the same row by 4. What is B100?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "answers": [
+      {
+        "text": "400",
+        "is_correct": true
+      },
+      {
+        "text": "4,000",
+        "is_correct": false
+      },
+      {
+        "text": "104",
+        "is_correct": false
+      },
+      {
+        "text": "100",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Row 100 contains input 100. Multiplying that input by 4 gives 400. This is not multiplying the previous output by four a hundred times.",
+      "hint": "Identify the input in row 100 before applying the rule."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-037",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "debug_copied_input_column",
+    "question": "A learner copies the value 1 into EVERY cell A1:A100. The formula =A1*4 is then filled down column B. Why is every result 4?",
+    "audio_prompt": "A learner copies the value 1 into EVERY cell A1:A100. The formula =A1*4 is then filled down column B. Why is every result 4?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 37,
+    "answers": [
+      {
+        "text": "A row number automatically replaces its cell’s value",
+        "is_correct": false
+      },
+      {
+        "text": "Every row’s input is 1",
+        "is_correct": true
+      },
+      {
+        "text": "Four times any input is 4",
+        "is_correct": false
+      },
+      {
+        "text": "Multiplication formulas cannot be filled down",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Every formula refers to an A cell containing 1, so every product is 1 × 4. To list successive multiples, the inputs must actually be 1, 2, 3 and so on.",
+      "hint": "Check the cell values as well as the formula."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-038",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "debug_previous_output_formula",
+    "question": "A1:A3 contain 1, 2, 3. B1 is =A1*4, giving 4. B2 is incorrectly set to =B1*4, giving 16. Which replacement restores the rule that multiplies the input in the same row by 4?",
+    "audio_prompt": "A1:A3 contain 1, 2, 3. B1 is =A1*4, giving 4. B2 is incorrectly set to =B1*4, giving 16. Which replacement restores the rule that multiplies the input in the same row by 4?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 38,
+    "answers": [
+      {
+        "text": "=A1*4",
+        "is_correct": false
+      },
+      {
+        "text": "=A2*4",
+        "is_correct": true
+      },
+      {
+        "text": "=A2+4",
+        "is_correct": false
+      },
+      {
+        "text": "=B1+1",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The intended rule multiplies the input in the same row by 4. A2 is 2, so =A2*4 gives 8 instead of repeatedly multiplying the previous output.",
+      "hint": "Use column A as the source of each new input."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-039",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "calculator_check_of_rule",
+    "question": "A calculator is used to check “start at 4, then multiply the previous value by 3”. Which recorded list agrees with the rule?",
+    "audio_prompt": "A calculator is used to check “start at 4, then multiply the previous value by 3”. Which recorded list agrees with the rule?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "answers": [
+      {
+        "text": "4, 7, 10, 13",
+        "is_correct": false
+      },
+      {
+        "text": "4, 12, 36, 108",
+        "is_correct": true
+      },
+      {
+        "text": "4, 12, 24, 48",
+        "is_correct": false
+      },
+      {
+        "text": "4, 8, 16, 32",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The products are 4 × 3 = 12, 12 × 3 = 36 and 36 × 3 = 108. Each step applies the same multiplier to the previous value.",
+      "hint": "Check every recorded step, not only the first product."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-040",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "appropriate_digital_check",
+    "question": "Which way of using a calculator best checks a multiplication algorithm?",
+    "audio_prompt": "Which way of using a calculator best checks a multiplication algorithm?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 40,
+    "answers": [
+      {
+        "text": "Accept any display because calculators cannot receive a wrong input",
+        "is_correct": false
+      },
+      {
+        "text": "Change the multiplier whenever the numbers become large",
+        "is_correct": false
+      },
+      {
+        "text": "Record only the final display and omit the steps",
+        "is_correct": false
+      },
+      {
+        "text": "Predict the first products, enter each stated multiplication, and compare the outputs",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A calculator can perform repeated calculations, but inputs and operations can still be entered incorrectly. Predictions and a recorded sequence help locate mistakes.",
+      "hint": "Use the tool to follow and verify a precise rule."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-041",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "repeated_outputs_in_a_set",
+    "question": "For inputs 1, 2, 3, 4: double even inputs and add 3 to odd inputs. The output list is 4, 4, 6, 8. Which set lists the DIFFERENT output values once each?",
+    "audio_prompt": "For inputs 1, 2, 3, 4: double even inputs and add 3 to odd inputs. The output list is 4, 4, 6, 8. Which set lists the DIFFERENT output values once each?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 41,
+    "answers": [
+      {
+        "text": "4, 6, 8",
+        "is_correct": true
+      },
+      {
+        "text": "1, 2, 3, 4",
+        "is_correct": false
+      },
+      {
+        "text": "4, 6, 8, 10",
+        "is_correct": false
+      },
+      {
+        "text": "4, 4, 6, 8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Inputs 1 and 2 both produce 4. Listing distinct output values removes the repeated 4 but keeps 6 and 8.",
+      "hint": "Different inputs are allowed to have the same output."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-042",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "multiples_one_and_rule",
+    "question": "Inputs 1, 2, 3, 4 are each multiplied by 1. What are the outputs?",
+    "audio_prompt": "Inputs 1, 2, 3, 4 are each multiplied by 1. What are the outputs?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 42,
+    "answers": [
+      {
+        "text": "0, 0, 0, 0",
+        "is_correct": false
+      },
+      {
+        "text": "2, 3, 4, 5",
+        "is_correct": false
+      },
+      {
+        "text": "1, 1, 1, 1",
+        "is_correct": false
+      },
+      {
+        "text": "1, 2, 3, 4",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Multiplying each input by 1 preserves that input. This differs from repeatedly multiplying one fixed starting value by 1.",
+      "hint": "Apply the rule separately to the changing inputs."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-043",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "explain_output_difference",
+    "question": "For consecutive whole-number inputs, a rule multiplies each input by 8. Why are consecutive outputs 8 apart?",
+    "audio_prompt": "For consecutive whole-number inputs, a rule multiplies each input by 8. Why are consecutive outputs 8 apart?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 43,
+    "answers": [
+      {
+        "text": "The outputs double every time",
+        "is_correct": false
+      },
+      {
+        "text": "The rule adds 8 to the input only once",
+        "is_correct": false
+      },
+      {
+        "text": "Every output equals 8",
+        "is_correct": false
+      },
+      {
+        "text": "The next input adds one more group of 8",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Going from an input to the next whole number adds one group to the product. That extra group contains 8, so the output increases by 8.",
+      "hint": "Compare two neighbouring input values and the groups they represent."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-044",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "choose_runnable_algorithm",
+    "question": "Which algorithm records exactly 5, 10, 15, 20, 25 and stops?",
+    "audio_prompt": "Which algorithm records exactly 5, 10, 15, 20, 25 and stops?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 44,
+    "answers": [
+      {
+        "text": "Start at 0; record; add 5; stop after five records",
+        "is_correct": false
+      },
+      {
+        "text": "Start at 5; record; add 5; if the number is at most 25 return to record, otherwise stop",
+        "is_correct": true
+      },
+      {
+        "text": "Start at 5; add 5; record; stop after five records",
+        "is_correct": false
+      },
+      {
+        "text": "Start at 5; record; add 5; stop only when the number equals 26",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The algorithm that starts at 5 and records before adding has the required first output. Its decision allows 25 but rejects the next value 30, so all five wanted outputs appear once.",
+      "hint": "Check the first value, record timing and reachable stopping test."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-045",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "create_additive_algorithm",
+    "question": "Create a written algorithm or flowchart that records the positive multiples of 6 from 6 to 36 inclusive, then stops. Follow it and record every output. Describe a pattern and explain why it happens.",
+    "audio_prompt": "Create a written algorithm or flowchart that records the positive multiples of 6 from 6 to 36 inclusive, then stops. Follow it and record every output. Describe a pattern and explain why it happens.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 45,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "One algorithm is: start at 6; if the current number is at most 36, record it, add 6 and return to the test; otherwise stop. Outputs are 6,12,18,24,30,36. They are multiples of 6 and even because each new output adds another even group of 6.",
+    "acceptance_note": "Inspect an actual runnable algorithm with a precise start, generating steps, recording point and clear continue/stop destinations. Require exactly 6, 12, 18, 24, 30, 36 and a justified pattern such as gaps of 6 or all outputs even. Accept repeated addition of 6 or a counter taking inputs 1 through 6 and multiplying each by 6. Accept another correct generating method or step order that includes 36 and excludes later outputs.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
+    "explanation": {
+      "summary": "One algorithm is: start at 6; if the current number is at most 36, record it, add 6 and return to the test; otherwise stop. Outputs are 6,12,18,24,30,36. They are multiples of 6 and even because each new output adds another even group of 6.",
+      "hint": "Test your rule at 36 and at the next value, 42."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-046",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "create_multiplication_flowchart",
+    "question": "Draw a flowchart starting at 2 that records each value, then multiplies it by 3, and stops before recording a value greater than 100. Include a yes/no decision. Use a calculator to follow your chart, record the outputs and check one product another way.",
+    "audio_prompt": "Draw a flowchart starting at 2 that records each value, then multiplies it by 3, and stops before recording a value greater than 100. Include a yes/no decision. Use a calculator to follow your chart, record the outputs and check one product another way.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 46,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "Test whether the current number is at most 100. If yes, record it, multiply by 3 and repeat; if no, stop. The recorded list is 2,6,18,54. The next value is 162, so it is excluded. Each recorded value after the first is three times the previous value.",
+    "acceptance_note": "Require a real flowchart with start 2, a record step, multiplication by 3, a limit test, a return arrow and both labelled decision paths. Outputs must be 2, 6, 18, 54, excluding 162. Accept testing before every record, or safely recording the initial 2 first and testing every later value before it can be recorded. Inspect the actual calculator-generated record and an independent check such as 18 × 3 = 18 + 18 + 18 = 54. A diagram that runs both alternative branches in one chain does not pass.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Test whether the current number is at most 100. If yes, record it, multiply by 3 and repeat; if no, stop. The recorded list is 2,6,18,54. The next value is 162, so it is excluded. Each recorded value after the first is three times the previous value.",
+      "hint": "Draw arrows showing where each decision answer leads; do not assume the calculator chooses the rule."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-047",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "create_branch_algorithm",
+    "question": "Create a flowchart or precise written algorithm for inputs 1 through 6 in order. If the input is even, double it; otherwise add 5. Record each output and then move to the next input, stopping after input 6. Explain a pattern in the outputs.",
+    "audio_prompt": "Create a flowchart or precise written algorithm for inputs 1 through 6 in order. If the input is even, double it; otherwise add 5. Record each output and then move to the next input, stopping after input 6. Explain a pattern in the outputs.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 47,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "For inputs 1,2,3,4,5,6 the outputs are 6,4,8,8,10,12. Even inputs are doubled, giving even outputs. Odd inputs plus 5 also give even outputs. The algorithm must return for the next input and stop after processing 6.",
+    "acceptance_note": "Inspect both branches, one output per input and an explicit advance/stop instruction. Require the ordered list 6, 4, 8, 8, 10, 12; duplicates are valid. Accept any correct justified pattern, such as all outputs being even because an even input is doubled and an odd input has odd 5 added. Also accept a branch-specific pattern: outputs from odd inputs rise by 2, while outputs from even inputs rise by 4, because consecutive inputs within each branch differ by 2. A claim that the full output list always increases is false.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
+    "explanation": {
+      "summary": "For inputs 1,2,3,4,5,6 the outputs are 6,4,8,8,10,12. Even inputs are doubled, giving even outputs. Odd inputs plus 5 also give even outputs. The algorithm must return for the next input and stop after processing 6.",
+      "hint": "Check one odd and one even input, then test the final-input stopping step."
+    }
+  },
+  {
+    "id": "AC9M4N09-P-048",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N09",
+    "bank": "practice",
+    "skill": "create_spreadsheet_sequence",
+    "question": "Use an available spreadsheet with your parent or teacher. Put 1 in A1 and =A1+1 in A2; fill A2’s formula down through A100. Put =A1*7 in B1 and fill it down through B100. Record B1, B2, B10 and B100, then explain the pattern and check one formula in a later row.",
+    "audio_prompt": "Use an available spreadsheet with your parent or teacher. Put 1 in A1 and =A1+1 in A2; fill A2’s formula down through A100. Put =A1*7 in B1 and fill it down through B100. Record B1, B2, B10 and B100, then explain the pattern and check one formula in a later row.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 48,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "Column A contains 1,2,3,…,100. Column B is 7,14,21,…,700, so B1=7, B2=14, B10=70 and B100=700. Each later input adds one more group of 7. Formula B10 is =A10*7, not a reference to the previous output.",
+    "acceptance_note": "Inspect the actual spreadsheet or a saved image showing inputs increasing from 1, formulas with changing row references and the requested outputs 7,14,70,700. Check a later formula such as B10 =A10*7. Require a justified difference of 7 between consecutive outputs. A paper plan rehearses the rule but does not by itself demonstrate the requested digital fill-down.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Column A contains 1,2,3,…,100. Column B is 7,14,21,…,700, so B1=7, B2=14, B10=70 and B100=700. Each later input adds one more group of 7. Formula B10 is =A10*7, not a reference to the previous output.",
+      "hint": "Check that A100 is 100, then inspect both a formula and its calculated result."
+    }
   },
   {
     "id": "AC9M4N09-T-001",
@@ -877,32 +1843,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "follow_algorithms",
-    "question": "At a coastal station, an algorithm starts at 3, doubles, then adds 3. What is the output?",
-    "audio_prompt": "At a coastal station, an algorithm starts at 3, doubles, then adds 3. What is the output?",
+    "skill": "ordered_steps",
+    "question": "Start at 6. Add 4, then multiply the result by 3. What is recorded?",
+    "audio_prompt": "Start at 6. Add 4, then multiply the result by 3. What is recorded?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-001",
-      "alt_text": "At a coastal station: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 1,
     "answers": [
       {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "9",
+        "text": "30",
         "is_correct": true
+      },
+      {
+        "text": "42",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "22",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
+      "summary": "Adding gives 10, and multiplying that result by 3 gives 30. Reordering the steps would change the output.",
+      "hint": "Calculate each intermediate value in order."
     }
   },
   {
@@ -911,32 +1882,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "design_algorithms",
-    "question": "During a museum challenge, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "During a museum challenge, which rule generates multiples of 6 below 40?",
+    "skill": "strict_branch_boundary",
+    "question": "Follow the flowchart for input 5. What is the output?",
+    "audio_prompt": "Follow the flowchart for input 5. What is the output?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-002",
-      "alt_text": "During a museum challenge: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09/t-002.svg#model",
+      "alt_text": "Flowchart: if the input is greater than 5, multiply by 2; otherwise add 3; record the resulting output."
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2,
     "answers": [
       {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "8",
         "is_correct": true
       },
       {
-        "text": "Start at 1, add 6 forever",
+        "text": "13",
         "is_correct": false
       },
       {
-        "text": "Start at 6, multiply by 6 twice",
+        "text": "15",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
+      "summary": "Five is not greater than five, so the No branch adds 3: 5 + 3 = 8.",
+      "hint": "A strict greater-than test does not include equality."
     }
   },
   {
@@ -945,32 +1923,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "follow_algorithms",
-    "question": "At a charity event, an algorithm starts at 5, doubles, then adds 3. What is the output?",
-    "audio_prompt": "At a charity event, an algorithm starts at 5, doubles, then adds 3. What is the output?",
+    "skill": "loop_endpoint",
+    "question": "Follow the flowchart. Which list is recorded?",
+    "audio_prompt": "Follow the flowchart. Which list is recorded?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-003",
-      "alt_text": "At a charity event: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09/t-003.svg#model",
+      "alt_text": "Flowchart: start at 4; if the number is at most 16, record it, add 4 and repeat the test; otherwise stop."
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 3,
     "answers": [
       {
-        "text": "12",
+        "text": "8, 12, 16",
         "is_correct": false
       },
       {
-        "text": "13",
+        "text": "4, 8, 12, 16",
         "is_correct": true
       },
       {
-        "text": "15",
+        "text": "4, 8, 12",
+        "is_correct": false
+      },
+      {
+        "text": "4, 8, 12, 16, 20",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
+      "summary": "The loop records numbers at most 16, including its start 4 and boundary 16. After adding four again, 20 fails the test.",
+      "hint": "Check the decision before every record."
     }
   },
   {
@@ -979,32 +1964,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "design_algorithms",
-    "question": "In an engineering workshop, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "In an engineering workshop, which rule generates multiples of 6 below 40?",
+    "skill": "multiplication_record_count",
+    "question": "Start at 1 and record it. Repeatedly multiply the current number by 5 and record, stopping after four numbers total. What is the fourth number?",
+    "audio_prompt": "Start at 1 and record it. Repeatedly multiply the current number by 5 and record, stopping after four numbers total. What is the fourth number?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
     "answers": [
       {
-        "text": "Start at 1, add 6 forever",
+        "text": "20",
         "is_correct": false
       },
       {
-        "text": "Start at 6, multiply by 6 twice",
+        "text": "625",
         "is_correct": false
       },
       {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "125",
         "is_correct": true
+      },
+      {
+        "text": "25",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
+      "summary": "The four recorded values are 1, 5, 25 and 125. The starting 1 counts as the first.",
+      "hint": "Label the first, second, third and fourth outputs."
     }
   },
   {
@@ -1013,32 +2003,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "follow_algorithms",
-    "question": "At a regional carnival, an algorithm starts at 2, doubles, then adds 3. What is the output?",
-    "audio_prompt": "At a regional carnival, an algorithm starts at 2, doubles, then adds 3. What is the output?",
+    "skill": "updated_value_decision",
+    "question": "Start with 4 and add 1. If the new number is even, double it; otherwise add 3. What output follows?",
+    "audio_prompt": "Start with 4 and add 1. If the new number is even, double it; otherwise add 3. What output follows?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-005",
-      "alt_text": "At a regional carnival: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
     "answers": [
       {
-        "text": "7",
-        "is_correct": true
-      },
-      {
-        "text": "6",
+        "text": "10",
         "is_correct": false
       },
       {
         "text": "9",
         "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "13",
+        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
+      "summary": "The new number is 5, which is odd. The otherwise branch gives 5 + 3 = 8.",
+      "hint": "Test the changed value, rather than the original input."
     }
   },
   {
@@ -1047,32 +2042,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "design_algorithms",
-    "question": "During a farm study, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "During a farm study, which rule generates multiples of 6 below 40?",
+    "skill": "record_after_multiplication",
+    "question": "Start at 3. Multiply by 2 and then record. Repeat these two steps until three outputs have been recorded. Which list results?",
+    "audio_prompt": "Start at 3. Multiply by 2 and then record. Repeat these two steps until three outputs have been recorded. Which list results?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-006",
-      "alt_text": "During a farm study: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 6,
     "answers": [
       {
-        "text": "Start at 1, add 6 forever",
+        "text": "6, 9, 12",
         "is_correct": false
       },
       {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "3, 6, 12",
+        "is_correct": false
+      },
+      {
+        "text": "3, 9, 27",
+        "is_correct": false
+      },
+      {
+        "text": "6, 12, 24",
         "is_correct": true
-      },
-      {
-        "text": "Start at 6, multiply by 6 twice",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
+      "summary": "The first record happens after doubling, giving 6. Repeating produces 12 and 24.",
+      "hint": "The initial 3 is a starting value, not a recorded output."
     }
   },
   {
@@ -1081,32 +2081,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "follow_algorithms",
-    "question": "While reading a trail guide, an algorithm starts at 4, doubles, then adds 3. What is the output?",
-    "audio_prompt": "While reading a trail guide, an algorithm starts at 4, doubles, then adds 3. What is the output?",
+    "skill": "spreadsheet_row_value",
+    "question": "Cells A1 through A100 contain inputs 1 through 100 in order. Each B cell multiplies the A input in the same row by 8. What is B25?",
+    "audio_prompt": "Cells A1 through A100 contain inputs 1 through 100 in order. Each B cell multiplies the A input in the same row by 8. What is B25?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
     "answers": [
       {
-        "text": "10",
+        "text": "100",
         "is_correct": false
       },
       {
-        "text": "13",
+        "text": "33",
         "is_correct": false
       },
       {
-        "text": "11",
+        "text": "200",
         "is_correct": true
+      },
+      {
+        "text": "800",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
+      "summary": "Input A25 is 25, so B25 is 25 × 8 = 200.",
+      "hint": "Read the specified row’s input before applying the rule."
     }
   },
   {
@@ -1115,32 +2120,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "design_algorithms",
-    "question": "In an architecture studio, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "In an architecture studio, which rule generates multiples of 6 below 40?",
+    "skill": "spreadsheet_relative_formula",
+    "question": "B1 contains =A1*9. It is filled down with relative references. Which formula should appear in B5?",
+    "audio_prompt": "B1 contains =A1*9. It is filled down with relative references. Which formula should appear in B5?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-008",
-      "alt_text": "In an architecture studio: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 8,
     "answers": [
       {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "=A5*9",
         "is_correct": true
       },
       {
-        "text": "Start at 1, add 6 forever",
+        "text": "=A1*9",
         "is_correct": false
       },
       {
-        "text": "Start at 6, multiply by 6 twice",
+        "text": "=A5+9",
+        "is_correct": false
+      },
+      {
+        "text": "=B4*9",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
+      "summary": "The input reference moves down with the formula to the same row: A5. The multiplier remains 9.",
+      "hint": "The row changes; the operation and multiplier stay the same."
     }
   },
   {
@@ -1149,32 +2159,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "follow_algorithms",
-    "question": "During a food-truck project, an algorithm starts at 6, doubles, then adds 3. What is the output?",
-    "audio_prompt": "During a food-truck project, an algorithm starts at 6, doubles, then adds 3. What is the output?",
+    "skill": "debug_doubling_list",
+    "question": "A rule starts at 5 and doubles the previous value. A learner records 5, 10, 20, 41, 80. Which correction is needed?",
+    "audio_prompt": "A rule starts at 5 and doubles the previous value. A learner records 5, 10, 20, 41, 80. Which correction is needed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-009",
-      "alt_text": "During a food-truck project: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
     "answers": [
       {
-        "text": "14",
+        "text": "Change 20 to 21",
         "is_correct": false
       },
       {
-        "text": "15",
+        "text": "Change 10 to 15",
+        "is_correct": false
+      },
+      {
+        "text": "Change 80 to 81",
+        "is_correct": false
+      },
+      {
+        "text": "Change 41 to 40",
         "is_correct": true
-      },
-      {
-        "text": "17",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
+      "summary": "Doubling 20 gives 40, and doubling 40 gives 80. This repairs the one incorrect entry.",
+      "hint": "Check the value against both neighbouring correct steps."
     }
   },
   {
@@ -1183,32 +2198,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "design_algorithms",
-    "question": "At a festival, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "At a festival, which rule generates multiples of 6 below 40?",
+    "skill": "explain_input_output_pattern",
+    "question": "Each input is multiplied by 3 and then 1 is added. What describes the change between consecutive outputs for inputs 1, 2, 3, 4, 5?",
+    "audio_prompt": "Each input is multiplied by 3 and then 1 is added. What describes the change between consecutive outputs for inputs 1, 2, 3, 4, 5?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-010",
-      "alt_text": "At a festival: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09/t-010.svg#model",
+      "alt_text": "Inputs 1 through 5 have outputs 4, 7, 10, 13, 16 under multiply by 3 then add 1."
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
     "answers": [
       {
-        "text": "Start at 1, add 6 forever",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 6, multiply by 6 twice",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "Each output is 3 more than the previous output",
         "is_correct": true
+      },
+      {
+        "text": "Each output is 1 more than the previous output",
+        "is_correct": false
+      },
+      {
+        "text": "All outputs are odd",
+        "is_correct": false
+      },
+      {
+        "text": "Each output doubles",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
+      "summary": "The outputs are 4, 7, 10, 13 and 16. Increasing an input by 1 adds one more group of 3; the extra 1 is added once to every product.",
+      "hint": "Separate the fixed extra 1 from the increase caused by the next input."
     }
   },
   {
@@ -1217,32 +2239,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "follow_algorithms",
-    "question": "While organising a collection, an algorithm starts at 3, doubles, then adds 3. What is the output?",
-    "audio_prompt": "While organising a collection, an algorithm starts at 3, doubles, then adds 3. What is the output?",
+    "skill": "constant_multiplier_one",
+    "question": "Start at 5 and repeatedly multiply the PREVIOUS value by 1. What pattern is recorded?",
+    "audio_prompt": "Start at 5 and repeatedly multiply the PREVIOUS value by 1. What pattern is recorded?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-011",
-      "alt_text": "While organising a collection: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 11,
     "answers": [
       {
-        "text": "9",
+        "text": "Every recorded value becomes 1",
+        "is_correct": false
+      },
+      {
+        "text": "Every recorded value remains 5",
         "is_correct": true
       },
       {
-        "text": "8",
+        "text": "The values are 5, 6, 7, 8",
         "is_correct": false
       },
       {
-        "text": "11",
+        "text": "The values double each time",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
+      "summary": "Multiplying 5 by 1 gives 5, and repeating keeps the same value. A multiplication rule does not always make values increase.",
+      "hint": "Distinguish a fixed starting value from a list of changing inputs."
     }
   },
   {
@@ -1251,32 +2278,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "design_algorithms",
-    "question": "In an environmental study, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "In an environmental study, which rule generates multiples of 6 below 40?",
+    "skill": "multiplication_stop_test",
+    "question": "Start at 3. Test before recording; if the test passes, record, double and return to the test. Which condition records exactly 3, 6, 12, 24?",
+    "audio_prompt": "Start at 3. Test before recording; if the test passes, record, double and return to the test. Which condition records exactly 3, 6, 12, 24?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-012",
-      "alt_text": "In an environmental study: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 12,
     "answers": [
       {
-        "text": "Start at 1, add 6 forever",
+        "text": "The number is at least 24",
         "is_correct": false
       },
       {
-        "text": "Start at 6, add 6, stop before 40",
+        "text": "The number is less than 24",
+        "is_correct": false
+      },
+      {
+        "text": "The number equals 3",
+        "is_correct": false
+      },
+      {
+        "text": "The number is at most 24",
         "is_correct": true
-      },
-      {
-        "text": "Start at 6, multiply by 6 twice",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
+      "summary": "At most 24 includes all four wanted values and rejects the next value 48. The strict less-than test would omit 24.",
+      "hint": "Test both 24 and the value produced after it."
     }
   },
   {
@@ -1285,32 +2317,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "follow_algorithms",
-    "question": "During a transport survey, an algorithm starts at 5, doubles, then adds 3. What is the output?",
-    "audio_prompt": "During a transport survey, an algorithm starts at 5, doubles, then adds 3. What is the output?",
+    "skill": "create_multiples_algorithm",
+    "question": "Create an algorithm that records exactly the positive multiples of 8 from 8 to 48 inclusive. Include a clear continue/stop decision, follow it, and explain one pattern using the generating rule.",
+    "audio_prompt": "Create an algorithm that records exactly the positive multiples of 8 from 8 to 48 inclusive. Include a clear continue/stop decision, follow it, and explain one pattern using the generating rule.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-013",
-      "alt_text": "During a transport survey: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": false
-      },
-      {
-        "text": "13",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 13,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "Start at 8. If the current value is at most 48, record it, add 8 and repeat the test; otherwise stop. The six outputs are 8,16,24,32,40,48. Each new term adds one equal group of 8.",
+    "acceptance_note": "Require a precise start, generating steps, record timing and both continue/stop destinations. The list must be exactly 8, 16, 24, 32, 40, 48. Accept repeated addition of 8, an input counter from 1 through 6 multiplied by 8, or another equivalent runnable method. Later values must not be recorded. Inspect a justified pattern such as equal gaps of 8 or all outputs even.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
+      "summary": "Start at 8. If the current value is at most 48, record it, add 8 and repeat the test; otherwise stop. The six outputs are 8,16,24,32,40,48. Each new term adds one equal group of 8.",
+      "hint": "Run your instructions yourself, including the decision after 48."
     }
   },
   {
@@ -1319,32 +2344,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "design_algorithms",
-    "question": "At a strategy tournament, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "At a strategy tournament, which rule generates multiples of 6 below 40?",
+    "skill": "create_and_trace_branches",
+    "question": "For inputs 2, 3, 4 and 5 in order, create a flowchart or written algorithm: if the input is less than 4, add 6; otherwise multiply it by 3. Include recording and a stop after the last input. Trace all outputs and describe how outputs change within each branch.",
+    "audio_prompt": "For inputs 2, 3, 4 and 5 in order, create a flowchart or written algorithm: if the input is less than 4, add 6; otherwise multiply it by 3. Include recording and a stop after the last input. Trace all outputs and describe how outputs change within each branch.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "Start at 6, add 6, stop before 40",
-        "is_correct": true
-      },
-      {
-        "text": "Start at 1, add 6 forever",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 6, multiply by 6 twice",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 14,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "The outputs are 2+6=8, 3+6=9, 4×3=12 and 5×3=15. Within the add-6 branch, increasing the input by 1 increases the output by 1. Within the multiply-3 branch, increasing the input by 1 increases the output by 3. After input 5, stop.",
+    "acceptance_note": "Inspect two correctly labelled branches with one output per input and an explicit final-input stop. Require outputs 8,9,12,15. For the add-6 branch, inputs 2 and 3 give outputs one apart; for the multiply-3 branch, inputs 4 and 5 give outputs three apart. Accept equivalent plain-language explanations; do not require formal algebra.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
+      "summary": "The outputs are 2+6=8, 3+6=9, 4×3=12 and 5×3=15. Within the add-6 branch, increasing the input by 1 increases the output by 1. Within the multiply-3 branch, increasing the input by 1 increases the output by 3. After input 5, stop.",
+      "hint": "Equality with 4 follows the otherwise branch because the test says less than 4."
     }
   },
   {
@@ -1353,32 +2371,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "follow_algorithms",
-    "question": "While planning a community garden, an algorithm starts at 2, doubles, then adds 3. What is the output?",
-    "audio_prompt": "While planning a community garden, an algorithm starts at 2, doubles, then adds 3. What is the output?",
+    "skill": "create_constant_product_flowchart",
+    "question": "Draw a flowchart that starts at 1, multiplies the current value by 4 after each record, and stops before recording a value greater than 100. Include both decision paths. Use a calculator to follow it and check one product by another strategy.",
+    "audio_prompt": "Draw a flowchart that starts at 1, multiplies the current value by 4 after each record, and stops before recording a value greater than 100. Include both decision paths. Use a calculator to follow it and check one product by another strategy.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-015",
-      "alt_text": "While planning a community garden: a Year 4 follow algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": true
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 15,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "Record 1,4,16,64. After 64 the rule produces 256, which fails the at-most-100 test and is not recorded. Each output after the first is four times the previous value. A check is 16 doubled twice: 32 then 64.",
+    "acceptance_note": "Inspect a real flowchart containing start 1, a limit test, a record step, multiplication by 4, a loop arrow and a stop branch. The recorded list must be 1, 4, 16, 64, excluding 256. Accept a test before every record, or safely recording the initial 1 first and checking all later values before recording them. Require a calculator-generated record and an independent check such as 16 × 4 = 16 + 16 + 16 + 16 = 64 or two doublings.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
     "explanation": {
-      "summary": "Follow the instructions in order.",
-      "hint": "Record each intermediate value."
+      "summary": "Record 1,4,16,64. After 64 the rule produces 256, which fails the at-most-100 test and is not recorded. Each output after the first is four times the previous value. A check is 16 doubled twice: 32 then 64.",
+      "hint": "Your stop decision must prevent the too-large value from being recorded."
     }
   },
   {
@@ -1387,32 +2398,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N09",
     "bank": "test",
-    "skill": "design_algorithms",
-    "question": "In a design exhibition, which rule generates multiples of 6 below 40?",
-    "audio_prompt": "In a design exhibition, which rule generates multiples of 6 below 40?",
+    "skill": "create_spreadsheet_two_step_rule",
+    "question": "Use an available spreadsheet to put the inputs 1 to 100 in column A. In B1 enter =A1*3+2 and fill it down through B100. Record B1, B2, B10 and B100, inspect the formula in B10 and explain the change between consecutive outputs.",
+    "audio_prompt": "Use an available spreadsheet to put the inputs 1 to 100 in column A. In B1 enter =A1*3+2 and fill it down through B100. Record B1, B2, B10 and B100, inspect the formula in B10 and explain the change between consecutive outputs.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n09.svg#ac9m4n09-t-016",
-      "alt_text": "In a design exhibition: a Year 4 design algorithms reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "Start at 1, add 6 forever",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 6, multiply by 6 twice",
-        "is_correct": false
-      },
-      {
-        "text": "Start at 6, add 6, stop before 40",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 16,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "The outputs are 5,8,11,…,302. The requested entries are 5,8,32,302, and B10 contains =A10*3+2. Consecutive inputs differ by 1, so their products differ by 3; adding the same 2 to each preserves that gap.",
+    "acceptance_note": "Inspect actual inputs 1…100 and filled formulas referring to the matching A row. Require B1=5, B2=8, B10=32, B100=302, with B10 =A10*3+2. Require an explanation of gaps of 3 because each next input adds one more group of 3 while the added 2 stays fixed. A paper-only prediction does not demonstrate digital fill-down.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
     "explanation": {
-      "summary": "The rule repeats addition and includes a stopping condition.",
-      "hint": "Check every output and the stopping point."
+      "summary": "The outputs are 5,8,11,…,302. The requested entries are 5,8,32,302, and B10 contains =A10*3+2. Consecutive inputs differ by 1, so their products differ by 3; adding the same 2 to each preserves that gap.",
+      "hint": "Generate the inputs first, then check a later formula as well as its displayed value."
     }
   }
 ]

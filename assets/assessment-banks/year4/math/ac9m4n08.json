@@ -5,36 +5,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "model_practical_problems",
-    "question": "In a class project, 6 packs cost $5 each. Which equation models the cost?",
-    "audio_prompt": "In a class project, 6 packs cost $5 each. Which equation models the cost?",
+    "skill": "model_missing_whole",
+    "question": "A club collected 120 blue lids and 85 red lids. How many lids does the whole bar represent?",
+    "audio_prompt": "A club collected 120 blue lids and 85 red lids. How many lids does the whole bar represent?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-001",
-      "alt_text": "In a class project: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "6 + 5 = 11",
-        "is_correct": false
-      },
-      {
-        "text": "6 × 5 = 30",
-        "is_correct": true
-      },
-      {
-        "text": "30 − 5 = 25",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08/p-001.svg#model",
+      "alt_text": "A whole bar labelled ? lids altogether is split into parts labelled 120 blue and 85 red."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 1,
+    "answers": [
+      {
+        "text": "205 lids",
+        "is_correct": true
+      },
+      {
+        "text": "195 lids",
+        "is_correct": false
+      },
+      {
+        "text": "35 lids",
+        "is_correct": false
+      },
+      {
+        "text": "215 lids",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The two parts join to make the whole: 120 + 85 = 205. Both numbers count lids, so the answer is 205 lids.",
+      "hint": "Add the two labelled parts; the question asks for their combined amount."
+    }
   },
   {
     "id": "AC9M4N08-P-002",
@@ -42,36 +46,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "interpret_money_problems",
-    "question": "At the school market, $52 is paid for items costing $42. Which operation finds the change?",
-    "audio_prompt": "At the school market, $52 is paid for items costing $42. Which operation finds the change?",
+    "skill": "model_missing_part",
+    "question": "There are 72 seedlings altogether. Forty-five are tomato seedlings; the rest are beans. How many are bean seedlings?",
+    "audio_prompt": "There are 72 seedlings altogether. Forty-five are tomato seedlings; the rest are beans. How many are bean seedlings?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-002",
-      "alt_text": "At the school market: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "52 + 42",
-        "is_correct": false
-      },
-      {
-        "text": "42 ÷ 7",
-        "is_correct": false
-      },
-      {
-        "text": "52 − 42",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08/p-002.svg#model",
+      "alt_text": "A 72-seedling whole bar has a part labelled 45 tomatoes and a part labelled ? beans."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2,
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "117",
+        "is_correct": false
+      },
+      {
+        "text": "37",
+        "is_correct": false
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The whole is 72 and one part is 45. The missing part is 72 − 45 = 27 bean seedlings; 45 + 27 checks the whole.",
+      "hint": "Subtract the known part from the whole."
+    }
   },
   {
     "id": "AC9M4N08-P-003",
@@ -79,36 +87,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "model_practical_problems",
-    "question": "While planning a garden, 8 packs cost $7 each. Which equation models the cost?",
-    "audio_prompt": "While planning a garden, 8 packs cost $7 each. Which equation models the cost?",
+    "skill": "model_unknown_start",
+    "question": "A library adds 45 donated books to its display, which then has 112 books. How many were on the display before the donation?",
+    "audio_prompt": "A library adds 45 donated books to its display, which then has 112 books. How many were on the display before the donation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-003",
-      "alt_text": "While planning a garden: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "8 × 7 = 56",
-        "is_correct": true
-      },
-      {
-        "text": "8 + 7 = 15",
-        "is_correct": false
-      },
-      {
-        "text": "56 − 7 = 49",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3,
+    "answers": [
+      {
+        "text": "57 books",
+        "is_correct": false
+      },
+      {
+        "text": "67 books",
+        "is_correct": true
+      },
+      {
+        "text": "157 books",
+        "is_correct": false
+      },
+      {
+        "text": "77 books",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The starting amount plus the donation makes 112: ? + 45 = 112. Subtract 45 from 112 to find 67 books.",
+      "hint": "The 45 books were added to the unknown starting collection."
+    }
   },
   {
     "id": "AC9M4N08-P-004",
@@ -116,36 +126,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "interpret_money_problems",
-    "question": "During a sports challenge, $34 is paid for items costing $24. Which operation finds the change?",
-    "audio_prompt": "During a sports challenge, $34 is paid for items costing $24. Which operation finds the change?",
+    "skill": "additive_comparison",
+    "question": "Room A collected 168 cans and Room B collected 135 cans. How many more did Room A collect?",
+    "audio_prompt": "Room A collected 168 cans and Room B collected 135 cans. How many more did Room A collect?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-004",
-      "alt_text": "During a sports challenge: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "34 + 24",
-        "is_correct": false
-      },
-      {
-        "text": "34 − 24",
-        "is_correct": true
-      },
-      {
-        "text": "24 ÷ 3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4,
+    "answers": [
+      {
+        "text": "33 cans",
+        "is_correct": true
+      },
+      {
+        "text": "303 cans",
+        "is_correct": false
+      },
+      {
+        "text": "23 cans",
+        "is_correct": false
+      },
+      {
+        "text": "43 cans",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Compare the two amounts with subtraction: 168 − 135 = 33. Room A collected 33 more cans.",
+      "hint": "Find the difference, rather than joining the collections."
+    }
   },
   {
     "id": "AC9M4N08-P-005",
@@ -153,36 +165,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "model_practical_problems",
-    "question": "At the wildlife centre, 4 packs cost $9 each. Which equation models the cost?",
-    "audio_prompt": "At the wildlife centre, 4 packs cost $9 each. Which equation models the cost?",
+    "skill": "interpret_number_sentence",
+    "question": "A teacher writes 63 + 27 = 90 for 63 children and 27 adults visiting a museum. What does 27 measure?",
+    "audio_prompt": "A teacher writes 63 + 27 = 90 for 63 children and 27 adults visiting a museum. What does 27 measure?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-005",
-      "alt_text": "At the wildlife centre: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "4 + 9 = 13",
-        "is_correct": false
-      },
-      {
-        "text": "36 − 9 = 27",
-        "is_correct": false
-      },
-      {
-        "text": "4 × 9 = 36",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 5,
+    "answers": [
+      {
+        "text": "The number of children",
+        "is_correct": false
+      },
+      {
+        "text": "The number of adults",
+        "is_correct": true
+      },
+      {
+        "text": "The total visitors",
+        "is_correct": false
+      },
+      {
+        "text": "How many more children than adults",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The number sentence adds two visitor groups. The 27 represents adults; 90 is the total number of visitors.",
+      "hint": "Match each number to the quantity stated in the story."
+    }
   },
   {
     "id": "AC9M4N08-P-006",
@@ -190,36 +204,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "interpret_money_problems",
-    "question": "In the makerspace, $60 is paid for items costing $50. Which operation finds the change?",
-    "audio_prompt": "In the makerspace, $60 is paid for items costing $50. Which operation finds the change?",
+    "skill": "formulate_unknown_part",
+    "question": "An art shelf holds 86 paint pots. Twenty-nine are used in a lesson; the others stay on the shelf. Which number sentence models the number still on the shelf?",
+    "audio_prompt": "An art shelf holds 86 paint pots. Twenty-nine are used in a lesson; the others stay on the shelf. Which number sentence models the number still on the shelf?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-006",
-      "alt_text": "In the makerspace: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 6,
     "answers": [
       {
-        "text": "60 − 50",
+        "text": "29 + ? = 86",
         "is_correct": true
       },
       {
-        "text": "60 + 50",
+        "text": "86 + 29 = ?",
         "is_correct": false
       },
       {
-        "text": "50 ÷ 5",
+        "text": "29 − ? = 86",
+        "is_correct": false
+      },
+      {
+        "text": "86 + ? = 29",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The 29 used pots and the remaining pots are the two parts of the original 86. Thus 29 + ? = 86, and the missing part is 57.",
+      "hint": "The used and remaining amounts must add back to the starting amount."
+    }
   },
   {
     "id": "AC9M4N08-P-007",
@@ -227,36 +243,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "model_practical_problems",
-    "question": "While checking a map, 6 packs cost $11 each. Which equation models the cost?",
-    "audio_prompt": "While checking a map, 6 packs cost $11 each. Which equation models the cost?",
+    "skill": "division_number_of_groups",
+    "question": "There are 48 seeds. Each packet must hold 6 seeds. How many full packets can be made?",
+    "audio_prompt": "There are 48 seeds. Each packet must hold 6 seeds. How many full packets can be made?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-007",
-      "alt_text": "While checking a map: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 7,
     "answers": [
       {
-        "text": "6 + 11 = 17",
+        "text": "42 packets",
         "is_correct": false
       },
       {
-        "text": "6 × 11 = 66",
+        "text": "8 packets",
         "is_correct": true
       },
       {
-        "text": "66 − 11 = 55",
+        "text": "6 packets",
+        "is_correct": false
+      },
+      {
+        "text": "288 packets",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "The unknown is the number of groups of 6. Since 8 × 6 = 48, the model 48 ÷ 6 = 8 gives 8 packets.",
+      "hint": "Count groups of six until all 48 seeds are used."
+    }
   },
   {
     "id": "AC9M4N08-P-008",
@@ -264,36 +282,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "interpret_money_problems",
-    "question": "During a cooking task, $38 is paid for items costing $28. Which operation finds the change?",
-    "audio_prompt": "During a cooking task, $38 is paid for items costing $28. Which operation finds the change?",
+    "skill": "division_size_of_groups",
+    "question": "Forty-eight seeds are shared equally among 8 pots. In 48 ÷ 8 = 6, what does the divisor 8 represent?",
+    "audio_prompt": "Forty-eight seeds are shared equally among 8 pots. In 48 ÷ 8 = 6, what does the divisor 8 represent?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-008",
-      "alt_text": "During a cooking task: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 8,
     "answers": [
       {
-        "text": "38 + 28",
-        "is_correct": false
-      },
-      {
-        "text": "28 ÷ 7",
-        "is_correct": false
-      },
-      {
-        "text": "38 − 28",
+        "text": "The number of pots",
         "is_correct": true
+      },
+      {
+        "text": "The total number of seeds",
+        "is_correct": false
+      },
+      {
+        "text": "The seeds left over",
+        "is_correct": false
+      },
+      {
+        "text": "The seeds in each pot",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "There are 8 equal groups because there are 8 pots. The answer 6 is the number of seeds in each pot.",
+      "hint": "Identify whether the story gives the number of groups or the amount in each group."
+    }
   },
   {
     "id": "AC9M4N08-P-009",
@@ -301,35 +321,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "model_practical_problems",
-    "question": "At the community fair, 8 packs cost $5 each. Which equation models the cost?",
-    "audio_prompt": "At the community fair, 8 packs cost $5 each. Which equation models the cost?",
+    "skill": "array_division_model",
+    "question": "Each row in the model is one box holding 6 apples. How many boxes are shown?",
+    "audio_prompt": "Each row in the model is one box holding 6 apples. How many boxes are shown?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-009",
-      "alt_text": "At the community fair: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08/p-009.svg#model",
+      "alt_text": "Twenty-four apples arranged in 4 rows of 6, with one row representing each box."
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9,
     "answers": [
       {
-        "text": "8 × 5 = 40",
+        "text": "24 boxes",
+        "is_correct": false
+      },
+      {
+        "text": "18 boxes",
+        "is_correct": false
+      },
+      {
+        "text": "6 boxes",
+        "is_correct": false
+      },
+      {
+        "text": "4 boxes",
         "is_correct": true
-      },
-      {
-        "text": "8 + 5 = 13",
-        "is_correct": false
-      },
-      {
-        "text": "40 − 5 = 35",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The 24 apples are arranged in four rows of six. Each row is a box, so 24 ÷ 6 = 4 boxes.",
+      "hint": "Use the stated meaning of a row."
+    }
   },
   {
     "id": "AC9M4N08-P-010",
@@ -337,35 +362,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "interpret_money_problems",
-    "question": "In a library display, $28 is paid for items costing $18. Which operation finds the change?",
-    "audio_prompt": "In a library display, $28 is paid for items costing $18. Which operation finds the change?",
+    "skill": "efficient_division_strategy",
+    "question": "Seventy-two badges are shared equally among 6 teams. Which working correctly finds the badges per team?",
+    "audio_prompt": "Seventy-two badges are shared equally among 6 teams. Which working correctly finds the badges per team?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-010",
-      "alt_text": "In a library display: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
     "answers": [
       {
-        "text": "28 + 18",
+        "text": "60 ÷ 6 + 12 = 22",
         "is_correct": false
       },
       {
-        "text": "28 − 18",
+        "text": "60 ÷ 6 + 12 ÷ 6 = 12",
         "is_correct": true
       },
       {
-        "text": "18 ÷ 3",
+        "text": "72 − 6 = 66",
+        "is_correct": false
+      },
+      {
+        "text": "72 × 6 = 432",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Split 72 into 60 and 12. Sharing both parts among the same 6 teams gives 10 + 2 = 12 badges per team.",
+      "hint": "Both parts of the total must be shared among all six teams."
+    }
   },
   {
     "id": "AC9M4N08-P-011",
@@ -373,35 +401,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "model_practical_problems",
-    "question": "During a science activity, 4 packs cost $7 each. Which equation models the cost?",
-    "audio_prompt": "During a science activity, 4 packs cost $7 each. Which equation models the cost?",
+    "skill": "equal_groups_equation",
+    "question": "Seven tables each need 6 name cards. Which equation models the total cards needed?",
+    "audio_prompt": "Seven tables each need 6 name cards. Which equation models the total cards needed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-011",
-      "alt_text": "During a science activity: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 11,
     "answers": [
       {
-        "text": "4 + 7 = 11",
-        "is_correct": false
-      },
-      {
-        "text": "28 − 7 = 21",
-        "is_correct": false
-      },
-      {
-        "text": "4 × 7 = 28",
+        "text": "7 × 6 = 42",
         "is_correct": true
+      },
+      {
+        "text": "42 − 6 = 36",
+        "is_correct": false
+      },
+      {
+        "text": "7 × 7 = 49",
+        "is_correct": false
+      },
+      {
+        "text": "7 + 6 = 13",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "There are 7 equal groups with 6 cards in each, so multiplication gives 42 name cards.",
+      "hint": "Use number of groups multiplied by amount per group."
+    }
   },
   {
     "id": "AC9M4N08-P-012",
@@ -409,35 +440,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "interpret_money_problems",
-    "question": "At the school canteen, $50 is paid for items costing $40. Which operation finds the change?",
-    "audio_prompt": "At the school canteen, $50 is paid for items costing $40. Which operation finds the change?",
+    "skill": "multiplicative_comparison_model",
+    "question": "Noor read 18 pages. Ari read 3 times as many. How many pages did Ari read?",
+    "audio_prompt": "Noor read 18 pages. Ari read 3 times as many. How many pages did Ari read?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-012",
-      "alt_text": "At the school canteen: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08/p-012.svg#model",
+      "alt_text": "Noor has one bar labelled 18. Ari has a bar made of three equal parts, each labelled 18."
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
     "answers": [
       {
-        "text": "50 − 40",
+        "text": "6 pages",
+        "is_correct": false
+      },
+      {
+        "text": "36 pages",
+        "is_correct": false
+      },
+      {
+        "text": "54 pages",
         "is_correct": true
       },
       {
-        "text": "50 + 40",
-        "is_correct": false
-      },
-      {
-        "text": "40 ÷ 5",
+        "text": "21 pages",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The comparison bar contains three equal 18-page parts: 3 × 18 = 54 pages. “Three times as many” does not mean three more.",
+      "hint": "Add the three equal parts, or multiply 18 by 3."
+    }
   },
   {
     "id": "AC9M4N08-P-013",
@@ -445,35 +481,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "model_practical_problems",
-    "question": "While organising an excursion, 6 packs cost $9 each. Which equation models the cost?",
-    "audio_prompt": "While organising an excursion, 6 packs cost $9 each. Which equation models the cost?",
+    "skill": "additive_versus_multiplicative",
+    "question": "Luca has 14 stickers. Bo has 4 more than Luca. Priya has 4 times as many as Luca. How many stickers does each of Bo and Priya have?",
+    "audio_prompt": "Luca has 14 stickers. Bo has 4 more than Luca. Priya has 4 times as many as Luca. How many stickers does each of Bo and Priya have?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-013",
-      "alt_text": "While organising an excursion: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 13,
     "answers": [
       {
-        "text": "6 + 9 = 15",
+        "text": "Bo 56; Priya 18",
         "is_correct": false
       },
       {
-        "text": "6 × 9 = 54",
+        "text": "Bo 10; Priya 56",
+        "is_correct": false
+      },
+      {
+        "text": "Bo 18; Priya 42",
+        "is_correct": false
+      },
+      {
+        "text": "Bo 18; Priya 56",
         "is_correct": true
-      },
-      {
-        "text": "54 − 9 = 45",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Four more means 14 + 4 = 18. Four times as many means 4 × 14 = 56. The two relationships use different operations.",
+      "hint": "Separate “more than” from “times as many”."
+    }
   },
   {
     "id": "AC9M4N08-P-014",
@@ -481,35 +520,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "interpret_money_problems",
-    "question": "In a games club, $80 is paid for items costing $70. Which operation finds the change?",
-    "audio_prompt": "In a games club, $80 is paid for items costing $70. Which operation finds the change?",
+    "skill": "unknown_comparison_base",
+    "question": "Maya has 56 shells, which is 4 times the number Sam has. Which calculation finds Sam’s number of shells?",
+    "audio_prompt": "Maya has 56 shells, which is 4 times the number Sam has. Which calculation finds Sam’s number of shells?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-014",
-      "alt_text": "In a games club: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 14,
     "answers": [
       {
-        "text": "80 + 70",
-        "is_correct": false
-      },
-      {
-        "text": "70 ÷ 7",
-        "is_correct": false
-      },
-      {
-        "text": "80 − 70",
+        "text": "56 ÷ 4 = 14",
         "is_correct": true
+      },
+      {
+        "text": "56 + 4 = 60",
+        "is_correct": false
+      },
+      {
+        "text": "56 − 4 = 52",
+        "is_correct": false
+      },
+      {
+        "text": "56 × 4 = 224",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Maya’s 56 shells make four groups the size of Sam’s collection. Dividing 56 into four equal parts gives 14 shells for Sam.",
+      "hint": "The smaller collection is one of four equal parts."
+    }
   },
   {
     "id": "AC9M4N08-P-015",
@@ -517,35 +559,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "model_practical_problems",
-    "question": "During an art project, 8 packs cost $11 each. Which equation models the cost?",
-    "audio_prompt": "During an art project, 8 packs cost $11 each. Which equation models the cost?",
+    "skill": "interpret_capacity_constraint",
+    "question": "A trip includes 38 children and 4 adults. Which listed bus has enough seats and the lowest total hire cost?",
+    "audio_prompt": "A trip includes 38 children and 4 adults. Which listed bus has enough seats and the lowest total hire cost?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-015",
-      "alt_text": "During an art project: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08/p-015.svg#model",
+      "alt_text": "Bus options: 40 seats for $250; 48 for $290; 50 for $310; 60 for $340."
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 15,
     "answers": [
       {
-        "text": "8 × 11 = 88",
+        "text": "50-seat bus for $310",
+        "is_correct": false
+      },
+      {
+        "text": "40-seat bus for $250",
+        "is_correct": false
+      },
+      {
+        "text": "48-seat bus for $290",
         "is_correct": true
       },
       {
-        "text": "8 + 11 = 19",
-        "is_correct": false
-      },
-      {
-        "text": "88 − 11 = 77",
+        "text": "60-seat bus for $340",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The group has 38 + 4 = 42 people. The 40-seat bus cannot carry them all. Of the buses that fit, the $290 bus costs least.",
+      "hint": "First find the total people, then compare only buses with enough seats."
+    }
   },
   {
     "id": "AC9M4N08-P-016",
@@ -553,35 +600,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "interpret_money_problems",
-    "question": "At the recycling station, $22 is paid for items costing $12. Which operation finds the change?",
-    "audio_prompt": "At the recycling station, $22 is paid for items costing $12. Which operation finds the change?",
+    "skill": "share_financial_cost",
+    "question": "Eight teams share a $96 equipment bill equally. How much does each team pay?",
+    "audio_prompt": "Eight teams share a $96 equipment bill equally. How much does each team pay?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-016",
-      "alt_text": "At the recycling station: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 16,
     "answers": [
       {
-        "text": "22 + 12",
+        "text": "$8",
         "is_correct": false
       },
       {
-        "text": "22 − 12",
+        "text": "$768",
+        "is_correct": false
+      },
+      {
+        "text": "$88",
+        "is_correct": false
+      },
+      {
+        "text": "$12",
         "is_correct": true
-      },
-      {
-        "text": "12 ÷ 3",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The bill is the whole amount and there are 8 equal shares. Since 8 × 12 = 96, each team pays $12.",
+      "hint": "Divide the whole cost by the number of teams."
+    }
   },
   {
     "id": "AC9M4N08-P-017",
@@ -589,35 +639,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "model_practical_problems",
-    "question": "While planning a survey, 4 packs cost $5 each. Which equation models the cost?",
-    "audio_prompt": "While planning a survey, 4 packs cost $5 each. Which equation models the cost?",
+    "skill": "model_change_two_items",
+    "question": "Tahlia pays with $20 for a book costing $7.60 and a pen set costing $5.40. What change should she receive?",
+    "audio_prompt": "Tahlia pays with $20 for a book costing $7.60 and a pen set costing $5.40. What change should she receive?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-017",
-      "alt_text": "While planning a survey: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 17,
     "answers": [
       {
-        "text": "4 + 5 = 9",
+        "text": "$12.40",
         "is_correct": false
       },
       {
-        "text": "20 − 5 = 15",
+        "text": "$13.00",
         "is_correct": false
       },
       {
-        "text": "4 × 5 = 20",
+        "text": "$6.00",
+        "is_correct": false
+      },
+      {
+        "text": "$7.00",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Add the prices: $7.60 + $5.40 = $13.00. Subtract the total cost from $20.00 to get $7.00 change.",
+      "hint": "Combine both costs before finding the change."
+    }
   },
   {
     "id": "AC9M4N08-P-018",
@@ -625,35 +678,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "interpret_money_problems",
-    "question": "In a coding lesson, $40 is paid for items costing $30. Which operation finds the change?",
-    "audio_prompt": "In a coding lesson, $40 is paid for items costing $30. Which operation finds the change?",
+    "skill": "unknown_price",
+    "question": "A customer pays $20 and receives $6.75 change for one item. What was the item’s price?",
+    "audio_prompt": "A customer pays $20 and receives $6.75 change for one item. What was the item’s price?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-018",
-      "alt_text": "In a coding lesson: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 18,
     "answers": [
       {
-        "text": "40 − 30",
+        "text": "$6.75",
+        "is_correct": false
+      },
+      {
+        "text": "$26.75",
+        "is_correct": false
+      },
+      {
+        "text": "$14.25",
+        "is_correct": false
+      },
+      {
+        "text": "$13.25",
         "is_correct": true
-      },
-      {
-        "text": "40 + 30",
-        "is_correct": false
-      },
-      {
-        "text": "30 ÷ 5",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The price and change together make the $20 paid. Therefore $20.00 − $6.75 = $13.25.",
+      "hint": "The price is the paid amount minus the returned change."
+    }
   },
   {
     "id": "AC9M4N08-P-019",
@@ -661,35 +717,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "model_practical_problems",
-    "question": "During a building task, 6 packs cost $7 each. Which equation models the cost?",
-    "audio_prompt": "During a building task, 6 packs cost $7 each. Which equation models the cost?",
+    "skill": "unknown_amount_paid",
+    "question": "A meal costs $12.80. The cashier gives $7.20 change. How much money was handed to the cashier?",
+    "audio_prompt": "A meal costs $12.80. The cashier gives $7.20 change. How much money was handed to the cashier?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-019",
-      "alt_text": "During a building task: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 19,
     "answers": [
       {
-        "text": "6 + 7 = 13",
+        "text": "$12.80",
         "is_correct": false
       },
       {
-        "text": "6 × 7 = 42",
+        "text": "$20.00",
         "is_correct": true
       },
       {
-        "text": "42 − 7 = 35",
+        "text": "$19.00",
+        "is_correct": false
+      },
+      {
+        "text": "$5.60",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The amount paid covers the meal and the money returned: $12.80 + $7.20 = $20.00.",
+      "hint": "Join the price and the change to reconstruct the amount paid."
+    }
   },
   {
     "id": "AC9M4N08-P-020",
@@ -697,35 +756,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "interpret_money_problems",
-    "question": "At the local pool, $66 is paid for items costing $56. Which operation finds the change?",
-    "audio_prompt": "At the local pool, $66 is paid for items costing $56. Which operation finds the change?",
+    "skill": "combine_money_costs",
+    "question": "A card costs $2.35 and an envelope pack costs $1.45. How much money is needed to buy both?",
+    "audio_prompt": "A card costs $2.35 and an envelope pack costs $1.45. How much money is needed to buy both?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-020",
-      "alt_text": "At the local pool: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 20,
     "answers": [
       {
-        "text": "66 + 56",
+        "text": "$4.80",
         "is_correct": false
       },
       {
-        "text": "56 ÷ 7",
+        "text": "$3.70",
         "is_correct": false
       },
       {
-        "text": "66 − 56",
+        "text": "$3.80",
         "is_correct": true
+      },
+      {
+        "text": "$0.90",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Add dollars to dollars and cents to cents: $2 + $1 = $3 and 35c + 45c = 80c. The total is $3.80.",
+      "hint": "The word “both” asks for the combined cost."
+    }
   },
   {
     "id": "AC9M4N08-P-021",
@@ -733,35 +795,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "model_practical_problems",
-    "question": "While preparing a camp, 8 packs cost $9 each. Which equation models the cost?",
-    "audio_prompt": "While preparing a camp, 8 packs cost $9 each. Which equation models the cost?",
+    "skill": "price_list_budget",
+    "question": "A notebook costs $2.40, a pencil set $1.85 and a ruler $1.20. Elle buys only the notebook and pencil set with $5. How much remains?",
+    "audio_prompt": "A notebook costs $2.40, a pencil set $1.85 and a ruler $1.20. Elle buys only the notebook and pencil set with $5. How much remains?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-021",
-      "alt_text": "While preparing a camp: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08/p-021.svg#model",
+      "alt_text": "Price list: notebook $2.40, pencil set $1.85, ruler $1.20."
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 21,
     "answers": [
       {
-        "text": "8 × 9 = 72",
+        "text": "$4.25",
+        "is_correct": false
+      },
+      {
+        "text": "$0.55",
+        "is_correct": false
+      },
+      {
+        "text": "$1.40",
+        "is_correct": false
+      },
+      {
+        "text": "$0.75",
         "is_correct": true
-      },
-      {
-        "text": "8 + 9 = 17",
-        "is_correct": false
-      },
-      {
-        "text": "72 − 9 = 63",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Use only the two purchased items: $2.40 + $1.85 = $4.25. The remaining budget is $5.00 − $4.25 = $0.75.",
+      "hint": "Do not include the ruler’s price."
+    }
   },
   {
     "id": "AC9M4N08-P-022",
@@ -769,35 +836,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "interpret_money_problems",
-    "question": "In a music project, $40 is paid for items costing $30. Which operation finds the change?",
-    "audio_prompt": "In a music project, $40 is paid for items costing $30. Which operation finds the change?",
+    "skill": "formulate_multistep_cost",
+    "question": "A class orders 12 sandwiches for $4 each and one fruit tray for $18. What is the total cost?",
+    "audio_prompt": "A class orders 12 sandwiches for $4 each and one fruit tray for $18. What is the total cost?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-022",
-      "alt_text": "In a music project: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 22,
     "answers": [
       {
-        "text": "40 + 30",
+        "text": "$48",
         "is_correct": false
       },
       {
-        "text": "40 − 30",
+        "text": "$216",
+        "is_correct": false
+      },
+      {
+        "text": "$66",
         "is_correct": true
       },
       {
-        "text": "30 ÷ 3",
+        "text": "$34",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The sandwiches cost 12 × $4 = $48. Add the one $18 tray: $48 + $18 = $66.",
+      "hint": "The tray is bought once, whereas the sandwich price repeats twelve times."
+    }
   },
   {
     "id": "AC9M4N08-P-023",
@@ -805,35 +875,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "model_practical_problems",
-    "question": "At a playground redesign, 4 packs cost $11 each. Which equation models the cost?",
-    "audio_prompt": "At a playground redesign, 4 packs cost $11 each. Which equation models the cost?",
+    "skill": "revenue_and_cost",
+    "question": "A play sells 27 tickets for $4 each. Its only expense is $36 for materials. How much ticket money is left after paying this expense?",
+    "audio_prompt": "A play sells 27 tickets for $4 each. Its only expense is $36 for materials. How much ticket money is left after paying this expense?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-023",
-      "alt_text": "At a playground redesign: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 23,
     "answers": [
       {
-        "text": "4 + 11 = 15",
-        "is_correct": false
-      },
-      {
-        "text": "44 − 11 = 33",
-        "is_correct": false
-      },
-      {
-        "text": "4 × 11 = 44",
+        "text": "$72",
         "is_correct": true
+      },
+      {
+        "text": "$9",
+        "is_correct": false
+      },
+      {
+        "text": "$108",
+        "is_correct": false
+      },
+      {
+        "text": "$144",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Ticket income is 27 × $4 = $108. Subtract the $36 expense: $108 − $36 = $72 remains.",
+      "hint": "Keep the money received separate from the cost."
+    }
   },
   {
     "id": "AC9M4N08-P-024",
@@ -841,35 +914,932 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "practice",
-    "skill": "interpret_money_problems",
-    "question": "During a book drive, $30 is paid for items costing $20. Which operation finds the change?",
-    "audio_prompt": "During a book drive, $30 is paid for items costing $20. Which operation finds the change?",
+    "skill": "shared_combined_cost",
+    "question": "Six clubs share a hall bill of $150 and a materials bill of $54 equally. What does each club pay?",
+    "audio_prompt": "Six clubs share a hall bill of $150 and a materials bill of $54 equally. What does each club pay?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-p-024",
-      "alt_text": "During a book drive: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 24,
     "answers": [
       {
-        "text": "30 − 20",
-        "is_correct": true
-      },
-      {
-        "text": "30 + 20",
+        "text": "$204",
         "is_correct": false
       },
       {
-        "text": "20 ÷ 5",
+        "text": "$25",
+        "is_correct": false
+      },
+      {
+        "text": "$79",
+        "is_correct": false
+      },
+      {
+        "text": "$34",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The combined bill is $150 + $54 = $204. Sharing it among six clubs gives $204 ÷ 6 = $34 each.",
+      "hint": "Join the two costs, then share the total."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-025",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "select_relevant_information",
+    "question": "Thirty-five drink bottles are packed into boxes of 7. Each bottle holds 500 mL. Which information is needed to find the number of boxes?",
+    "audio_prompt": "Thirty-five drink bottles are packed into boxes of 7. Each bottle holds 500 mL. Which information is needed to find the number of boxes?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 25,
+    "answers": [
+      {
+        "text": "Only the 500 mL bottle size",
+        "is_correct": false
+      },
+      {
+        "text": "35 bottles and 500 mL per bottle",
+        "is_correct": false
+      },
+      {
+        "text": "7 bottles per box and 500 mL per bottle",
+        "is_correct": false
+      },
+      {
+        "text": "35 bottles and 7 bottles per box",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The unknown is box count, so use total bottles divided by bottles in each box: 35 ÷ 7 = 5. Capacity is irrelevant to that question.",
+      "hint": "Match the units needed for the question."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-026",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "recognise_missing_information",
+    "question": "A family buys 3 identical entry tickets and waits 14 minutes in a queue. What extra information is needed to calculate the ticket cost?",
+    "audio_prompt": "A family buys 3 identical entry tickets and waits 14 minutes in a queue. What extra information is needed to calculate the ticket cost?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 26,
+    "answers": [
+      {
+        "text": "The family’s arrival time",
+        "is_correct": false
+      },
+      {
+        "text": "The price of one ticket",
+        "is_correct": true
+      },
+      {
+        "text": "The colour of the tickets",
+        "is_correct": false
+      },
+      {
+        "text": "The length of the queue",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The cost model is 3 × price per ticket. The price is missing, so the total cost cannot yet be calculated.",
+      "hint": "A time in minutes cannot replace a price."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-027",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "compare_purchase_models",
+    "question": "A pack of 6 paintbrushes costs $18. A single brush costs $4. A club needs exactly 12 brushes. How much cheaper are two packs than 12 single brushes?",
+    "audio_prompt": "A pack of 6 paintbrushes costs $18. A single brush costs $4. A club needs exactly 12 brushes. How much cheaper are two packs than 12 single brushes?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 27,
+    "answers": [
+      {
+        "text": "$18 cheaper",
+        "is_correct": false
+      },
+      {
+        "text": "$30 cheaper",
+        "is_correct": false
+      },
+      {
+        "text": "$6 cheaper",
+        "is_correct": false
+      },
+      {
+        "text": "$12 cheaper",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Two packs cost 2 × $18 = $36. Twelve singles cost 12 × $4 = $48. The difference is $48 − $36 = $12.",
+      "hint": "Compare two complete plans that both supply twelve brushes."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-028",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "money_compensation_model",
+    "question": "Four helmets cost $98 each. Which compensation calculation gives the exact total?",
+    "audio_prompt": "Four helmets cost $98 each. Which compensation calculation gives the exact total?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "answers": [
+      {
+        "text": "$400 + $8 = $408",
+        "is_correct": false
+      },
+      {
+        "text": "$400 − $2 = $398",
+        "is_correct": false
+      },
+      {
+        "text": "$400 − $8 = $392",
+        "is_correct": true
+      },
+      {
+        "text": "$100 − $8 = $92",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Round each $98 price to $100, making $400. Each of four prices was increased by $2, so remove 4 × $2 = $8.",
+      "hint": "Correct the rounding for every helmet, not just once."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-029",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "partitioned_multiplication_model",
+    "question": "Four lamps cost $47 each. The model splits each price into $40 and $7. What total does it show?",
+    "audio_prompt": "Four lamps cost $47 each. The model splits each price into $40 and $7. What total does it show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08/p-029.svg#model",
+      "alt_text": "A product model has 4 rows and columns split into 40 and 7. The two regions are labelled 4 × 40 and 4 × 7."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "answers": [
+      {
+        "text": "$167",
+        "is_correct": false
+      },
+      {
+        "text": "$208",
+        "is_correct": false
+      },
+      {
+        "text": "$180",
+        "is_correct": false
+      },
+      {
+        "text": "$188",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Four lots of $40 cost $160 and four lots of $7 cost $28. Combining the partial totals gives $188.",
+      "hint": "Multiply both parts of each price by four."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-030",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "justify_compensation",
+    "question": "To price 5 books at $19 each, Raj calculates 5 × $20 − $5. Why does he subtract $5?",
+    "audio_prompt": "To price 5 books at $19 each, Raj calculates 5 × $20 − $5. Why does he subtract $5?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "answers": [
+      {
+        "text": "Only one price was increased by $5",
+        "is_correct": false
+      },
+      {
+        "text": "The original books cost $5 each",
+        "is_correct": false
+      },
+      {
+        "text": "Each of five prices was increased by $1",
+        "is_correct": true
+      },
+      {
+        "text": "Five books must be removed from the order",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Rounding $19 to $20 adds $1 per book. Across five books this adds $5, so subtracting $5 restores the exact $95 cost.",
+      "hint": "Track the adjustment per item and the number of items."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-031",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "choose_digital_tool_purpose",
+    "question": "A fundraiser compares 20 orders with different quantities and prices. Which plan uses a spreadsheet appropriately?",
+    "audio_prompt": "A fundraiser compares 20 orders with different quantities and prices. Which plan uses a spreadsheet appropriately?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 31,
+    "answers": [
+      {
+        "text": "Model quantity × price, enter the data, then check a few totals mentally",
+        "is_correct": true
+      },
+      {
+        "text": "Enter all numbers and accept any displayed total",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the cost calculation with the number of spreadsheet rows",
+        "is_correct": false
+      },
+      {
+        "text": "Use the ticket number as the price for every order",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
+      "summary": "The relationship must be correct before using a digital tool. Quantity × price calculates each order cost, and mental checks can reveal entry or formula errors.",
+      "hint": "A tool helps repeat a correct model; it does not choose the model for you."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-032",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "interpret_digital_cost_table",
+    "question": "A spreadsheet shows 3 rolls at $8.50 each and 4 rolls at $6.00 each. What is the combined cost of both rows?",
+    "audio_prompt": "A spreadsheet shows 3 rolls at $8.50 each and 4 rolls at $6.00 each. What is the combined cost of both rows?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08/p-032.svg#model",
+      "alt_text": "Table columns show quantity, price each and row cost: 3, $8.50, $25.50; and 4, $6.00, $24.00."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "answers": [
+      {
+        "text": "$59.50",
+        "is_correct": false
+      },
+      {
+        "text": "$49.50",
+        "is_correct": true
+      },
+      {
+        "text": "$14.50",
+        "is_correct": false
+      },
+      {
+        "text": "$43.50",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The row totals are 3 × $8.50 = $25.50 and 4 × $6.00 = $24.00. Together they cost $49.50.",
+      "hint": "Work out each row’s quantity × price before adding."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-033",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "communicate_group_count",
+    "question": "A librarian puts 63 books on shelves with 7 books on each shelf. She calculates 63 ÷ 7 = 9. Which conclusion answers her question about shelves needed?",
+    "audio_prompt": "A librarian puts 63 books on shelves with 7 books on each shelf. She calculates 63 ÷ 7 = 9. Which conclusion answers her question about shelves needed?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "answers": [
+      {
+        "text": "Each shelf holds nine books",
+        "is_correct": false
+      },
+      {
+        "text": "Seven shelves are needed",
+        "is_correct": false
+      },
+      {
+        "text": "Nine shelves are needed",
+        "is_correct": true
+      },
+      {
+        "text": "Nine books are needed altogether",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The given group size is 7 books per shelf. Dividing 63 books by that size finds the number of shelves: 9.",
+      "hint": "Keep the answer’s unit connected to the unknown."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-034",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "interpret_capacity_without_fractional_groups",
+    "question": "Forty-six children need seats in vans. Each van has 8 passenger seats, all available for the children. What is the fewest vans needed?",
+    "audio_prompt": "Forty-six children need seats in vans. Each van has 8 passenger seats, all available for the children. What is the fewest vans needed?",
+    "visual": {
+      "type": "none"
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 34,
+    "answers": [
+      {
+        "text": "5 vans",
+        "is_correct": false
+      },
+      {
+        "text": "7 vans",
+        "is_correct": false
+      },
+      {
+        "text": "8 vans",
+        "is_correct": false
+      },
+      {
+        "text": "6 vans",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Five vans provide 5 × 8 = 40 seats, too few. Six vans provide 48 seats, enough for all 46 children.",
+      "hint": "Test whole numbers of vans against the number of children."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-035",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "validate_budget_conclusion",
+    "question": "A club has $70. It buys 6 tickets at $9 each and a book for $12. Which conclusion is correct?",
+    "audio_prompt": "A club has $70. It buys 6 tickets at $9 each and a book for $12. Which conclusion is correct?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "answers": [
+      {
+        "text": "The total is $66, leaving $4",
+        "is_correct": true
+      },
+      {
+        "text": "The total is $70, leaving nothing",
+        "is_correct": false
+      },
+      {
+        "text": "The total is $54, leaving $16",
+        "is_correct": false
+      },
+      {
+        "text": "The total is $126, so the club is $56 short",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The tickets cost $54 and the book adds $12, making $66. The budget has $70 − $66 = $4 left.",
+      "hint": "Include both costs and compare the exact total with the budget."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-036",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "multistep_number_sentence",
+    "question": "Pia has $100. She buys 3 games at $18 each and one bag for $12. Which number sentence finds the money left?",
+    "audio_prompt": "Pia has $100. She buys 3 games at $18 each and one bag for $12. Which number sentence finds the money left?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 36,
+    "answers": [
+      {
+        "text": "$100 − 3 × ($18 + $12) = $10",
+        "is_correct": false
+      },
+      {
+        "text": "$100 − (3 × $18 + $12) = $34",
+        "is_correct": true
+      },
+      {
+        "text": "$100 − (3 + $18 + $12) = $67",
+        "is_correct": false
+      },
+      {
+        "text": "$100 + 3 × $18 + $12 = $166",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only the games repeat three times. Their $54 cost plus the $12 bag makes $66, so $34 remains.",
+      "hint": "The brackets should contain the total cost of exactly what Pia buys."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-037",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "distinguish_division_unknowns",
+    "question": "Which story uses 48 ÷ 6 to find the NUMBER of groups?",
+    "audio_prompt": "Which story uses 48 ÷ 6 to find the NUMBER of groups?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 37,
+    "answers": [
+      {
+        "text": "6 crayons added to a collection of 48",
+        "is_correct": false
+      },
+      {
+        "text": "48 boxes each containing 6 crayons",
+        "is_correct": false
+      },
+      {
+        "text": "48 crayons packed with 6 crayons in each box",
+        "is_correct": true
+      },
+      {
+        "text": "48 crayons shared equally among 6 boxes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Packing 6 crayons per box makes the number of boxes unknown. The same calculation can also find group size in a sharing story, but that is a different unknown.",
+      "hint": "Ask whether six names a group size or a group count."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-038",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "repair_multiplicative_model",
+    "question": "A team has 4 times as many flags as a group with 13 flags. Lee writes 13 + 4 = 17. What repair matches the situation?",
+    "audio_prompt": "A team has 4 times as many flags as a group with 13 flags. Lee writes 13 + 4 = 17. What repair matches the situation?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "answers": [
+      {
+        "text": "Use 13 − 4 = 9 flags",
+        "is_correct": false
+      },
+      {
+        "text": "Use 13 + 13 = 26 flags",
+        "is_correct": false
+      },
+      {
+        "text": "Use 4 × 13 = 52 flags",
+        "is_correct": true
+      },
+      {
+        "text": "Keep 17 because “times” means add",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Four times as many is four equal groups of thirteen. Multiplication gives 4 × 13 = 52 flags.",
+      "hint": "Draw four copies of the 13-flag amount."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-039",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "unknown_unit_price_equation",
+    "question": "Five identical bags cost $75 altogether. Which equation models the price of one bag?",
+    "audio_prompt": "Five identical bags cost $75 altogether. Which equation models the price of one bag?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "answers": [
+      {
+        "text": "75 + 5 = ?",
+        "is_correct": false
+      },
+      {
+        "text": "5 × ? = 75",
+        "is_correct": true
+      },
+      {
+        "text": "75 × ? = 5",
+        "is_correct": false
+      },
+      {
+        "text": "5 + ? = 75",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Five equal prices make the $75 whole. The missing price is $75 ÷ 5 = $15 per bag.",
+      "hint": "The unknown is repeated once for each of five bags."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-040",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "budget_constraint_exact",
+    "question": "A lunch budget is $80. Six platters cost $11 each and drinks cost $14 altogether. Does the plan fit the budget?",
+    "audio_prompt": "A lunch budget is $80. Six platters cost $11 each and drinks cost $14 altogether. Does the plan fit the budget?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "answers": [
+      {
+        "text": "No; it costs $94",
+        "is_correct": false
+      },
+      {
+        "text": "No; it costs $150",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; it costs exactly $80",
+        "is_correct": true
+      },
+      {
+        "text": "Yes; it leaves $14",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Six platters cost $66. Adding the one $14 drinks bill makes $80, exactly the available budget.",
+      "hint": "Do not repeat the drinks bill for every platter."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-041",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "efficient_money_strategy",
+    "question": "Six bags cost $98 each. What is the exact cost using a near-hundred strategy?",
+    "audio_prompt": "Six bags cost $98 each. What is the exact cost using a near-hundred strategy?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 41,
+    "answers": [
+      {
+        "text": "$588",
+        "is_correct": true
+      },
+      {
+        "text": "$612",
+        "is_correct": false
+      },
+      {
+        "text": "$528",
+        "is_correct": false
+      },
+      {
+        "text": "$598",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Six lots of $100 make $600. Each bag was increased by $2, so subtract 6 × $2 = $12: $600 − $12 = $588.",
+      "hint": "Subtract the full repeated adjustment from six hundreds."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-042",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "financial_shortfall",
+    "question": "A school needs $160 for materials and has already collected $125. How much more must it collect?",
+    "audio_prompt": "A school needs $160 for materials and has already collected $125. How much more must it collect?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08/p-042.svg#model",
+      "alt_text": "A $160 target bar is divided into $125 already collected and an unknown amount still needed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 42,
+    "answers": [
+      {
+        "text": "$285",
+        "is_correct": false
+      },
+      {
+        "text": "$35",
+        "is_correct": true
+      },
+      {
+        "text": "$45",
+        "is_correct": false
+      },
+      {
+        "text": "$25",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The target is the whole and the money already collected is one part. $125 + ? = $160 gives a missing $35.",
+      "hint": "Find the gap between the collected amount and the target."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-043",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "one_time_charge_model",
+    "question": "A shop sends 3 paint sets at $7 each. Delivery is a single $5 charge for the whole order. Which calculation finds the total?",
+    "audio_prompt": "A shop sends 3 paint sets at $7 each. Delivery is a single $5 charge for the whole order. Which calculation finds the total?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 43,
+    "answers": [
+      {
+        "text": "3 × $7 − $5 = $16",
+        "is_correct": false
+      },
+      {
+        "text": "3 + $7 + $5 = $15",
+        "is_correct": false
+      },
+      {
+        "text": "3 × $7 + $5 = $26",
+        "is_correct": true
+      },
+      {
+        "text": "3 × ($7 + $5) = $36",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The $7 price repeats for three sets, but delivery is charged once. Thus $21 + $5 = $26.",
+      "hint": "Separate repeated prices from one-time charges."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-044",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "repair_contextual_conclusion",
+    "question": "Fifty-four cupcakes are shared equally among 6 tables. Eli calculates 54 ÷ 6 = 9 and says, “There are 9 cupcakes altogether.” What should he say?",
+    "audio_prompt": "Fifty-four cupcakes are shared equally among 6 tables. Eli calculates 54 ÷ 6 = 9 and says, “There are 9 cupcakes altogether.” What should he say?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 44,
+    "answers": [
+      {
+        "text": "There are 6 cupcakes altogether",
+        "is_correct": false
+      },
+      {
+        "text": "There are 9 cupcakes on each table",
+        "is_correct": true
+      },
+      {
+        "text": "There are 54 cupcakes on each table",
+        "is_correct": false
+      },
+      {
+        "text": "There are 9 tables",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The total remains 54 cupcakes. The division result tells the equal amount on each of the 6 tables: 9 cupcakes per table.",
+      "hint": "The calculation is correct; repair what its answer measures."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-045",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "create_additive_model",
+    "question": "A museum has 245 visitors: 158 adults and some children. Draw a labelled part-part-whole or bar model. Write a number sentence, solve it efficiently and state how many children are visiting.",
+    "audio_prompt": "A museum has 245 visitors: 158 adults and some children. Draw a labelled part-part-whole or bar model. Write a number sentence, solve it efficiently and state how many children are visiting.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 45,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "The missing part is 245 − 158 = 87. One strategy is 245 − 160 + 2 = 87. The model joins 158 adults and 87 children to make 245 visitors. There are 87 children.",
+    "acceptance_note": "Inspect a model with whole 245 and parts 158 and 87. Require a suitable sentence such as 158 + ? = 245 or 245 − 158 = 87, correct working and the conclusion 87 children. Accept any valid mental or written strategy and equivalent labelled model; a final numeral alone is insufficient.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The missing part is 245 − 158 = 87. One strategy is 245 − 160 + 2 = 87. The model joins 158 adults and 87 children to make 245 visitors. There are 87 children.",
+      "hint": "Identify the whole and known part before choosing a calculation."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-046",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "create_two_division_models",
+    "question": "Use 36 counters or draw dots. First share them equally among 6 bags. Then arrange them in bags holding 4 counters each. Draw or label both arrangements, write each number sentence and explain what each answer counts.",
+    "audio_prompt": "Use 36 counters or draw dots. First share them equally among 6 bags. Then arrange them in bags holding 4 counters each. Draw or label both arrangements, write each number sentence and explain what each answer counts.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 46,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "Sharing among 6 bags gives 36 ÷ 6 = 6 counters per bag. Packing 4 counters per bag gives 36 ÷ 4 = 9 bags. The first unknown is the amount in each group; the second is the number of groups.",
+    "acceptance_note": "Require two actual arrangements or labelled models. First: 6 groups of 6, 36 ÷ 6 = 6 counters per bag. Second: 9 groups of 4, 36 ÷ 4 = 9 bags. Inspect total 36 in both, equal group sizes and different answer units. Accept counters or diagrams photographed/shown to the adult.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Sharing among 6 bags gives 36 ÷ 6 = 6 counters per bag. Packing 4 counters per bag gives 36 ÷ 4 = 9 bags. The first unknown is the amount in each group; the second is the number of groups.",
+      "hint": "Label both what is given and what you are finding."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-047",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "create_financial_budget_model",
+    "question": "A gardening club has $180. It plans to buy 4 pots at $28 each, compost for $35 and labels for $13. Make a cost model or table, write number sentences, choose an efficient strategy and explain whether the plan fits the budget.",
+    "audio_prompt": "A gardening club has $180. It plans to buy 4 pots at $28 each, compost for $35 and labels for $13. Make a cost model or table, write number sentences, choose an efficient strategy and explain whether the plan fits the budget.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 47,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "Four pots cost 4 × $28 = $112; for example, 4 × $30 − 4 × $2 = $112. Total cost is $112 + $35 + $13 = $160. The plan fits the $180 budget and leaves $20.",
+    "acceptance_note": "Inspect the actual cost model or table and the connected number sentences. Require all three costs with correct quantities: pots $112, compost $35, labels $13. Inspect a total of $160, a $20 remaining budget, a justified calculation strategy and a contextual conclusion. Accept partitioning, compensation or checked written/digital working; do not accept a cost-only answer without interpreting the budget.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Four pots cost 4 × $28 = $112; for example, 4 × $30 − 4 × $2 = $112. Total cost is $112 + $35 + $13 = $160. The plan fits the $180 budget and leaves $20.",
+      "hint": "Find the repeated pot cost first and add each other cost once."
+    }
+  },
+  {
+    "id": "AC9M4N08-P-048",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4N08",
+    "bank": "practice",
+    "skill": "create_comparison_model",
+    "question": "Jo read 17 books. Mia read 3 times as many. Draw a comparison bar or array, write a number sentence and use partitioning to calculate Mia’s books. Explain how your model shows “3 times as many”.",
+    "audio_prompt": "Jo read 17 books. Mia read 3 times as many. Draw a comparison bar or array, write a number sentence and use partitioning to calculate Mia’s books. Explain how your model shows “3 times as many”.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 48,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "Mia’s model contains three copies of 17. Partition 17 into 10 and 7: 3 × 10 + 3 × 7 = 30 + 21 = 51. Mia read 51 books.",
+    "acceptance_note": "Inspect one 17-book unit for Jo and three equal units for Mia, or an equivalent array. Require 3 × 17 = 51 with partitioning such as 3 × 10 + 3 × 7 = 30 + 21. The conclusion must be 51 books for Mia, with an explanation of three equal groups.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Mia’s model contains three copies of 17. Partition 17 into 10 and 7: 3 × 10 + 3 × 7 = 30 + 21 = 51. Mia read 51 books.",
+      "hint": "Keep the size of Jo’s collection unchanged in each repeated part."
+    }
   },
   {
     "id": "AC9M4N08-T-001",
@@ -877,32 +1847,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "model_practical_problems",
-    "question": "At a coastal station, 8 packs cost $5 each. Which equation models the cost?",
-    "audio_prompt": "At a coastal station, 8 packs cost $5 each. Which equation models the cost?",
+    "skill": "missing_part_bar",
+    "question": "A collection has 169 shells, including 72 white shells. All the others are brown. How many brown shells are there?",
+    "audio_prompt": "A collection has 169 shells, including 72 white shells. All the others are brown. How many brown shells are there?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-001",
-      "alt_text": "At a coastal station: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08/t-001.svg#model",
+      "alt_text": "A bar labelled 169 shells is divided into 72 white shells and an unknown number of brown shells."
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 1,
     "answers": [
       {
-        "text": "8 + 5 = 13",
+        "text": "87",
         "is_correct": false
       },
       {
-        "text": "8 × 5 = 40",
+        "text": "107",
+        "is_correct": false
+      },
+      {
+        "text": "97",
         "is_correct": true
       },
       {
-        "text": "40 − 5 = 35",
+        "text": "241",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
+      "summary": "The missing part is 169 − 72 = 97 brown shells. Adding 72 and 97 checks the whole.",
+      "hint": "Subtract the known part from the whole."
     }
   },
   {
@@ -911,32 +1888,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "interpret_money_problems",
-    "question": "During a museum challenge, $28 is paid for items costing $18. Which operation finds the change?",
-    "audio_prompt": "During a museum challenge, $28 is paid for items costing $18. Which operation finds the change?",
+    "skill": "division_group_count",
+    "question": "Ninety-six flowers are tied into bunches with 8 flowers in each. How many bunches are made?",
+    "audio_prompt": "Ninety-six flowers are tied into bunches with 8 flowers in each. How many bunches are made?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-002",
-      "alt_text": "During a museum challenge: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 2,
     "answers": [
       {
-        "text": "28 + 18",
-        "is_correct": false
-      },
-      {
-        "text": "18 ÷ 3",
-        "is_correct": false
-      },
-      {
-        "text": "28 − 18",
+        "text": "12 bunches",
         "is_correct": true
+      },
+      {
+        "text": "8 bunches",
+        "is_correct": false
+      },
+      {
+        "text": "88 bunches",
+        "is_correct": false
+      },
+      {
+        "text": "768 bunches",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
+      "summary": "The unknown is the number of eight-flower groups. Since 12 × 8 = 96, there are 12 bunches.",
+      "hint": "Use the amount per bunch to group the whole collection."
     }
   },
   {
@@ -945,32 +1927,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "model_practical_problems",
-    "question": "At a charity event, 4 packs cost $7 each. Which equation models the cost?",
-    "audio_prompt": "At a charity event, 4 packs cost $7 each. Which equation models the cost?",
+    "skill": "money_multistep_change",
+    "question": "Omar pays $50 for 4 tickets at $9.50 each and one programme costing $6. What change does he receive?",
+    "audio_prompt": "Omar pays $50 for 4 tickets at $9.50 each and one programme costing $6. What change does he receive?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-003",
-      "alt_text": "At a charity event: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 3,
     "answers": [
       {
-        "text": "4 × 7 = 28",
+        "text": "$44.00",
+        "is_correct": false
+      },
+      {
+        "text": "$6.00",
         "is_correct": true
       },
       {
-        "text": "4 + 7 = 11",
+        "text": "$12.00",
         "is_correct": false
       },
       {
-        "text": "28 − 7 = 21",
+        "text": "$38.00",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
+      "summary": "The tickets cost 4 × $9.50 = $38.00. With the $6 programme, the total is $44, leaving $6 change.",
+      "hint": "Add all costs before subtracting from the money paid."
     }
   },
   {
@@ -979,32 +1966,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "interpret_money_problems",
-    "question": "In an engineering workshop, $50 is paid for items costing $40. Which operation finds the change?",
-    "audio_prompt": "In an engineering workshop, $50 is paid for items costing $40. Which operation finds the change?",
+    "skill": "comparison_partitioning",
+    "question": "Tess collected 23 pine cones. Jin collected 4 times as many. Which calculation correctly models Jin’s collection?",
+    "audio_prompt": "Tess collected 23 pine cones. Jin collected 4 times as many. Which calculation correctly models Jin’s collection?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 4,
     "answers": [
       {
-        "text": "50 + 40",
+        "text": "23 − 4 = 19",
         "is_correct": false
       },
       {
-        "text": "50 − 40",
+        "text": "23 + 4 = 27",
+        "is_correct": false
+      },
+      {
+        "text": "4 × 20 + 3 = 83",
+        "is_correct": false
+      },
+      {
+        "text": "4 × 20 + 4 × 3 = 92",
         "is_correct": true
-      },
-      {
-        "text": "40 ÷ 5",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
+      "summary": "Four equal 23-cone groups contain four twenties and four threes: 80 + 12 = 92 pine cones.",
+      "hint": "Apply the factor four to both parts of 23."
     }
   },
   {
@@ -1013,32 +2005,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "model_practical_problems",
-    "question": "At a regional carnival, 6 packs cost $9 each. Which equation models the cost?",
-    "audio_prompt": "At a regional carnival, 6 packs cost $9 each. Which equation models the cost?",
+    "skill": "budget_formulation",
+    "question": "A club has $250. Hall hire costs $90 and 5 activity tables cost $24 each. How much money is left?",
+    "audio_prompt": "A club has $250. Hall hire costs $90 and 5 activity tables cost $24 each. How much money is left?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-005",
-      "alt_text": "At a regional carnival: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
     "answers": [
       {
-        "text": "6 + 9 = 15",
+        "text": "$136",
         "is_correct": false
       },
       {
-        "text": "54 − 9 = 45",
+        "text": "$160",
         "is_correct": false
       },
       {
-        "text": "6 × 9 = 54",
+        "text": "$40",
         "is_correct": true
+      },
+      {
+        "text": "$120",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
+      "summary": "The tables cost 5 × $24 = $120. Total costs are $90 + $120 = $210, so $250 − $210 = $40 remains.",
+      "hint": "Separate the one hire fee from the five equal table costs."
     }
   },
   {
@@ -1047,32 +2044,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "interpret_money_problems",
-    "question": "During a farm study, $80 is paid for items costing $70. Which operation finds the change?",
-    "audio_prompt": "During a farm study, $80 is paid for items costing $70. Which operation finds the change?",
+    "skill": "missing_price_information",
+    "question": "A school buys 8 identical rolls of ribbon, each 10 metres long. What extra information is needed to find the total purchase cost?",
+    "audio_prompt": "A school buys 8 identical rolls of ribbon, each 10 metres long. What extra information is needed to find the total purchase cost?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-006",
-      "alt_text": "During a farm study: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 6,
     "answers": [
       {
-        "text": "80 − 70",
+        "text": "The number of classrooms",
+        "is_correct": false
+      },
+      {
+        "text": "The price of one roll",
         "is_correct": true
       },
       {
-        "text": "80 + 70",
+        "text": "The colour of the ribbon",
         "is_correct": false
       },
       {
-        "text": "70 ÷ 7",
+        "text": "The total ribbon length only",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
+      "summary": "The purchase-cost model is 8 × price per roll. The roll length does not supply the missing price.",
+      "hint": "Check the units: metres measure length, while dollars measure cost."
     }
   },
   {
@@ -1081,32 +2083,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "model_practical_problems",
-    "question": "While reading a trail guide, 8 packs cost $11 each. Which equation models the cost?",
-    "audio_prompt": "While reading a trail guide, 8 packs cost $11 each. Which equation models the cost?",
+    "skill": "money_compensation",
+    "question": "Seven headsets cost $49 each. Which exact total follows from rounding each price to $50 and adjusting?",
+    "audio_prompt": "Seven headsets cost $49 each. Which exact total follows from rounding each price to $50 and adjusting?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
     "answers": [
       {
-        "text": "8 + 11 = 19",
-        "is_correct": false
-      },
-      {
-        "text": "8 × 11 = 88",
+        "text": "$343",
         "is_correct": true
       },
       {
-        "text": "88 − 11 = 77",
+        "text": "$349",
+        "is_correct": false
+      },
+      {
+        "text": "$357",
+        "is_correct": false
+      },
+      {
+        "text": "$350",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
+      "summary": "Seven $50 prices total $350. Each price was increased by $1, so subtract $7: $350 − $7 = $343.",
+      "hint": "Repeat the one-dollar adjustment seven times."
     }
   },
   {
@@ -1115,32 +2122,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "interpret_money_problems",
-    "question": "In an architecture studio, $22 is paid for items costing $12. Which operation finds the change?",
-    "audio_prompt": "In an architecture studio, $22 is paid for items costing $12. Which operation finds the change?",
+    "skill": "interpret_equal_groups",
+    "question": "A venue needs 72 chairs. Each trolley carries exactly 36 chairs. Which conclusion follows from 72 ÷ 36 = 2?",
+    "audio_prompt": "A venue needs 72 chairs. Each trolley carries exactly 36 chairs. Which conclusion follows from 72 ÷ 36 = 2?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-008",
-      "alt_text": "In an architecture studio: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 8,
     "answers": [
       {
-        "text": "22 + 12",
+        "text": "Seventy-two trolley loads are needed",
         "is_correct": false
       },
       {
-        "text": "12 ÷ 3",
+        "text": "Thirty-six trolley loads are needed",
         "is_correct": false
       },
       {
-        "text": "22 − 12",
+        "text": "Two full trolley loads are needed",
         "is_correct": true
+      },
+      {
+        "text": "Two chairs are needed per trolley",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
+      "summary": "The divisor is chairs per load. The quotient 2 is the number of loads that together carry 72 chairs.",
+      "hint": "Use the unit of the unknown to interpret the answer."
     }
   },
   {
@@ -1149,32 +2161,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "model_practical_problems",
-    "question": "During a food-truck project, 4 packs cost $5 each. Which equation models the cost?",
-    "audio_prompt": "During a food-truck project, 4 packs cost $5 each. Which equation models the cost?",
+    "skill": "digital_cost_formula",
+    "question": "A spreadsheet row lists 7 boxes in its quantity cell and $16 in its price-per-box cell. Which formula relationship should calculate that row’s total cost?",
+    "audio_prompt": "A spreadsheet row lists 7 boxes in its quantity cell and $16 in its price-per-box cell. Which formula relationship should calculate that row’s total cost?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-009",
-      "alt_text": "During a food-truck project: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
     "answers": [
       {
-        "text": "4 × 5 = 20",
+        "text": "Quantity × price per box",
         "is_correct": true
       },
       {
-        "text": "4 + 5 = 9",
+        "text": "Quantity + price per box",
         "is_correct": false
       },
       {
-        "text": "20 − 5 = 15",
+        "text": "Price per box − quantity",
+        "is_correct": false
+      },
+      {
+        "text": "Quantity ÷ price per box",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
+      "summary": "Each of the seven boxes has the same $16 price. Multiplication gives $112; adding the unrelated measures would not model the purchase.",
+      "hint": "Decide the mathematical relationship before using a spreadsheet."
     }
   },
   {
@@ -1183,32 +2200,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "interpret_money_problems",
-    "question": "At a festival, $40 is paid for items costing $30. Which operation finds the change?",
-    "audio_prompt": "At a festival, $40 is paid for items costing $30. Which operation finds the change?",
+    "skill": "shared_financial_amount",
+    "question": "Nine players share a $135 team fee equally. How much does each player pay?",
+    "audio_prompt": "Nine players share a $135 team fee equally. How much does each player pay?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-010",
-      "alt_text": "At a festival: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
     "answers": [
       {
-        "text": "40 + 30",
+        "text": "$1,215",
         "is_correct": false
       },
       {
-        "text": "40 − 30",
+        "text": "$9",
+        "is_correct": false
+      },
+      {
+        "text": "$126",
+        "is_correct": false
+      },
+      {
+        "text": "$15",
         "is_correct": true
-      },
-      {
-        "text": "30 ÷ 5",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
+      "summary": "The total cost is divided into nine equal shares. Since 9 × 15 = 135, each player pays $15.",
+      "hint": "The unknown is money per player, not the number of players."
     }
   },
   {
@@ -1217,32 +2239,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "model_practical_problems",
-    "question": "While organising a collection, 6 packs cost $7 each. Which equation models the cost?",
-    "audio_prompt": "While organising a collection, 6 packs cost $7 each. Which equation models the cost?",
+    "skill": "compare_feasible_plans",
+    "question": "A group of 46 people has a $400 bus budget. Which listed bus fits everyone and stays within budget?",
+    "audio_prompt": "A group of 46 people has a $400 bus budget. Which listed bus fits everyone and stays within budget?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-011",
-      "alt_text": "While organising a collection: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08/t-011.svg#model",
+      "alt_text": "Bus options: 45 seats for $300; 50 seats for $350; 60 seats for $450; 40 seats for $280."
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 11,
     "answers": [
       {
-        "text": "6 + 7 = 13",
+        "text": "40 seats for $280",
         "is_correct": false
       },
       {
-        "text": "42 − 7 = 35",
+        "text": "45 seats for $300",
         "is_correct": false
       },
       {
-        "text": "6 × 7 = 42",
+        "text": "60 seats for $450",
+        "is_correct": false
+      },
+      {
+        "text": "50 seats for $350",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
+      "summary": "The 45-seat and 40-seat buses have too few seats. The 60-seat bus costs too much. The 50-seat bus satisfies both constraints.",
+      "hint": "Test both capacity and cost for every option."
     }
   },
   {
@@ -1251,32 +2280,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "interpret_money_problems",
-    "question": "In an environmental study, $66 is paid for items costing $56. Which operation finds the change?",
-    "audio_prompt": "In an environmental study, $66 is paid for items costing $56. Which operation finds the change?",
+    "skill": "additive_comparison_context",
+    "question": "A class read 132 books in Term 2 and 98 books in Term 1. How many more books did it read in Term 2?",
+    "audio_prompt": "A class read 132 books in Term 2 and 98 books in Term 1. How many more books did it read in Term 2?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-012",
-      "alt_text": "In an environmental study: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
     "answers": [
       {
-        "text": "66 − 56",
+        "text": "44 books",
+        "is_correct": false
+      },
+      {
+        "text": "34 books",
         "is_correct": true
       },
       {
-        "text": "66 + 56",
+        "text": "230 books",
         "is_correct": false
       },
       {
-        "text": "56 ÷ 7",
+        "text": "24 books",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
+      "summary": "The comparison asks for the difference: 132 − 98 = 132 − 100 + 2 = 34 books.",
+      "hint": "Use a near-hundred subtraction and interpret the difference."
     }
   },
   {
@@ -1285,32 +2319,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "model_practical_problems",
-    "question": "During a transport survey, 8 packs cost $9 each. Which equation models the cost?",
-    "audio_prompt": "During a transport survey, 8 packs cost $9 each. Which equation models the cost?",
+    "skill": "construct_whole_model",
+    "question": "A school orders 168 red badges and 192 blue badges. Draw a part-part-whole or bar model, write a number sentence and solve efficiently. State what the total counts.",
+    "audio_prompt": "A school orders 168 red badges and 192 blue badges. Draw a part-part-whole or bar model, write a number sentence and solve efficiently. State what the total counts.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-013",
-      "alt_text": "During a transport survey: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "8 + 9 = 17",
-        "is_correct": false
-      },
-      {
-        "text": "8 × 9 = 72",
-        "is_correct": true
-      },
-      {
-        "text": "72 − 9 = 63",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 13,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "The whole is 168 + 192 = 360. One strategy is 168 + 200 − 8 = 360. The school orders 360 badges altogether.",
+    "acceptance_note": "Require both labelled parts and the combined whole 360. Accept 168 + 192 = 360 or an equivalent addition sentence, with a valid strategy such as 168 + 200 − 8. The final statement must name 360 badges; a model with labels inconsistent with the stated quantities or whole, or with omitted parts, does not pass.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
+      "summary": "The whole is 168 + 192 = 360. One strategy is 168 + 200 − 8 = 360. The school orders 360 badges altogether.",
+      "hint": "Both colours contribute to the total, so they are joined."
     }
   },
   {
@@ -1319,32 +2346,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "interpret_money_problems",
-    "question": "At a strategy tournament, $40 is paid for items costing $30. Which operation finds the change?",
-    "audio_prompt": "At a strategy tournament, $40 is paid for items costing $30. Which operation finds the change?",
+    "skill": "construct_financial_model",
+    "question": "A class sells 35 tickets for $6 each. Its only costs are $86 for equipment and $29 for printing. Model the income and costs, write number sentences, calculate the money left and give a checked conclusion.",
+    "audio_prompt": "A class sells 35 tickets for $6 each. Its only costs are $86 for equipment and $29 for printing. Model the income and costs, write number sentences, calculate the money left and give a checked conclusion.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "40 + 30",
-        "is_correct": false
-      },
-      {
-        "text": "30 ÷ 3",
-        "is_correct": false
-      },
-      {
-        "text": "40 − 30",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 14,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "Income is 35 × $6 = $210. Costs total $86 + $29 = $115. The class has $210 − $115 = $95 left. Check $115 + $95 = $210.",
+    "acceptance_note": "Inspect ticket income $210, combined costs $115 and $95 left. Require quantity/price labels, connected number sentences, calculation or checking evidence and a statement that $95 remains after both costs. Accept any accurate table, bar model or other clear representation.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
+      "summary": "Income is 35 × $6 = $210. Costs total $86 + $29 = $115. The class has $210 − $115 = $95 left. Check $115 + $95 = $210.",
+      "hint": "Treat money collected and money spent as different parts of the model."
     }
   },
   {
@@ -1353,32 +2373,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "model_practical_problems",
-    "question": "While planning a community garden, 4 packs cost $11 each. Which equation models the cost?",
-    "audio_prompt": "While planning a community garden, 4 packs cost $11 each. Which equation models the cost?",
+    "skill": "create_compensation_budget_explanation",
+    "question": "A school has $500 for 5 stools costing $97 each. Model the purchase and use compensation from $100 to find the cost. Explain whether the budget is enough and how much remains.",
+    "audio_prompt": "A school has $500 for 5 stools costing $97 each. Model the purchase and use compensation from $100 to find the cost. Explain whether the budget is enough and how much remains.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-015",
-      "alt_text": "While planning a community garden: a Year 4 model practical problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "4 × 11 = 44",
-        "is_correct": true
-      },
-      {
-        "text": "4 + 11 = 15",
-        "is_correct": false
-      },
-      {
-        "text": "44 − 11 = 33",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 15,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "Five $100 prices total $500. Each stool’s price was increased by $3, so remove 5 × $3 = $15. The actual cost is $485, and the $500 budget leaves $15.",
+    "acceptance_note": "Require 5 × $97 = $485, with $500 − 5 × $3 or equivalent exact compensation. Check an explanation that each of five prices was raised by $3. The conclusion must state the budget is enough and $15 remains. A calculator-only result without the requested compensation explanation is insufficient.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
     "explanation": {
-      "summary": "Equal groups are represented by multiplication.",
-      "hint": "Identify groups and amount per group."
+      "summary": "Five $100 prices total $500. Each stool’s price was increased by $3, so remove 5 × $3 = $15. The actual cost is $485, and the $500 budget leaves $15.",
+      "hint": "The total adjustment is the number of stools multiplied by the change to each price."
     }
   },
   {
@@ -1387,32 +2400,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4N08",
     "bank": "test",
-    "skill": "interpret_money_problems",
-    "question": "In a design exhibition, $30 is paid for items costing $20. Which operation finds the change?",
-    "audio_prompt": "In a design exhibition, $30 is paid for items costing $20. Which operation finds the change?",
+    "skill": "create_division_situations",
+    "question": "Write two different practical stories for 54 ÷ 6 = 9. In one, 9 must count the number of groups. In the other, 9 must give the amount in each group. Draw or label a model for each and state both answers with units.",
+    "audio_prompt": "Write two different practical stories for 54 ÷ 6 = 9. In one, 9 must count the number of groups. In the other, 9 must give the amount in each group. Draw or label a model for each and state both answers with units.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n08.svg#ac9m4n08-t-016",
-      "alt_text": "In a design exhibition: a Year 4 interpret money problems reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "30 + 20",
-        "is_correct": false
-      },
-      {
-        "text": "30 − 20",
-        "is_correct": true
-      },
-      {
-        "text": "20 ÷ 5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 16,
+    "grading_mode": "adult-review",
+    "answers": [],
+    "correct_index": null,
+    "model_answer": "Example: pack 54 crayons with 6 in each box: 9 boxes. Alternatively, share 54 crayons equally among 6 boxes: 9 crayons per box. Both use 54 ÷ 6 = 9 but the unknown quantities differ.",
+    "acceptance_note": "Require two meaningful stories, each using total 54 and divisor 6. Group-count story must give 6 objects per group and find 9 groups; group-size story must give 6 groups and find 9 objects per group. Inspect actual models or labelled diagrams with total 54, equal groups and correct answer units. Accept any familiar sensible context.",
+    "response_instructions": "Complete the written work, model or algorithm requested. Ask an adult to inspect it against the model answer and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check.",
     "explanation": {
-      "summary": "Change is the amount left after subtracting cost.",
-      "hint": "Start with the amount paid."
+      "summary": "Example: pack 54 crayons with 6 in each box: 9 boxes. Alternatively, share 54 crayons equally among 6 boxes: 9 crayons per box. Both use 54 ÷ 6 = 9 but the unknown quantities differ.",
+      "hint": "Decide whether six describes the number of groups or the amount inside each group."
     }
   }
 ]

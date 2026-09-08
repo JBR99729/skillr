@@ -1,0 +1,122 @@
+{
+  "environment": "Offline jsdom with actual repository runtime; this is not live browser verification",
+  "results": [
+    {
+      "code": "ac9m4n06",
+      "mode": "practice",
+      "kind": "mcq",
+      "item": "ac9m4n06-p-002",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4n06",
+      "mode": "test",
+      "kind": "mcq",
+      "item": "ac9m4n06-t-007",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4n07",
+      "mode": "practice",
+      "kind": "mcq",
+      "item": "ac9m4n07-p-001",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4n07",
+      "mode": "test",
+      "kind": "mcq",
+      "item": "ac9m4n07-t-006",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4n08",
+      "mode": "practice",
+      "kind": "mcq",
+      "item": "ac9m4n08-p-001",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4n08",
+      "mode": "practice",
+      "kind": "adult",
+      "item": "ac9m4n08-p-045",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4n08",
+      "mode": "test",
+      "kind": "mcq",
+      "item": "ac9m4n08-t-001",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4n08",
+      "mode": "test",
+      "kind": "adult",
+      "item": "ac9m4n08-t-013",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4n09",
+      "mode": "practice",
+      "kind": "mcq",
+      "item": "ac9m4n09-p-003",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4n09",
+      "mode": "practice",
+      "kind": "adult",
+      "item": "ac9m4n09-p-045",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4n09",
+      "mode": "test",
+      "kind": "mcq",
+      "item": "ac9m4n09-t-002",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4n09",
+      "mode": "test",
+      "kind": "adult",
+      "item": "ac9m4n09-t-013",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4a01",
+      "mode": "practice",
+      "kind": "mcq",
+      "item": "ac9m4a01-p-016",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4a01",
+      "mode": "test",
+      "kind": "mcq",
+      "item": "ac9m4a01-t-006",
+      "status": "PASS"
+    }
+  ],
+  "sourceCommitAtExecution": "6190d5120a0ecc5e6d1f11280e2b1e8726a8b192",
+  "uncommittedDraftAtExecution": true,
+  "artifacts": {
+    "quiz/assets/script-runtime-v115.js": "cec2900af4c21d950dd97b7b21e981abc95f3c2375ba69e15397b07ef32d33a5",
+    "quiz/assets/production-question-ui.js": "2015730b0045ee57f10ad32171020673e14e7d5cf1e7eb5beea24c4aaa94ef8e",
+    "quiz/assets/year1-maths-support.js": "220bc7a4b8b4fa82b01771f3ca0fc60649705e0097a96a9cef5616d289663803",
+    "assets/year4-maths-practice-quick-read.js": "d5daa920f8a39eaae76a9643ef637c1234b00222e5f5bcfe8a79d209185aa5ed",
+    "quiz/year-4/math/reviewed-number-visuals.js": "f75860be9c493f3c465030856c7f2db19a1f8052c0dd0fb8e1e007aebeeb6834",
+    "quiz/year-4/math/ac9m4n06/practice/questions.js": "c38852b7ba26de85129ba7333a51911df32bfa81f0891607749ef31723f05ae9",
+    "quiz/year-4/math/ac9m4n06/test/questions.js": "98e42392ce65dce3962d6a2ac3d236d73680738cbd85a65674a30c14565c3661",
+    "quiz/year-4/math/ac9m4n07/practice/questions.js": "9af5e0bb300bd600d5754f0de0f10e4912ba972ffeb5eeb0dd52b67572fc608d",
+    "quiz/year-4/math/ac9m4n07/test/questions.js": "06f3facdb590cbc8e220057c1d98b118b0bb8cf7f75a99e72e552b778822f7b7",
+    "quiz/year-4/math/ac9m4n08/practice/questions.js": "d94ef10774f0234ed4c4e9280c3e5977dcd112776d0efa596b521d6b78c0c7ba",
+    "quiz/year-4/math/ac9m4n08/test/questions.js": "7c72ef5c725f35ed4740dd3d7836203ef0882ccee506528684456102f0db6261",
+    "quiz/year-4/math/ac9m4n09/practice/questions.js": "a4de8922469ec4bb7fbebbc75e68802d572d89ec2076f1a87eedf6fbbe1a4174",
+    "quiz/year-4/math/ac9m4n09/test/questions.js": "c0de1b9d234370732881471787cd61f9177758358764c23526b9cfc61924d642",
+    "quiz/year-4/math/ac9m4a01/practice/questions.js": "eb968a1782cf90fd5ec3b087655c3d1982cadae1aa9b00e345290b6d7d35ece0",
+    "quiz/year-4/math/ac9m4a01/test/questions.js": "fcfeb62c63d15402af86a51b51c1d7482b80b6b1db7b9508bf462333550fb3e6"
+  }
+}

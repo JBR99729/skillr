@@ -27,5 +27,11 @@ for(const source of ['/assets/assessment-visuals/year4/math/ac9m4n05/one.svg#mod
 assert.equal(render([first],null).length,0);
 assert.equal(render([first],'{broken').length,0);
 assert.equal(render([first],current([response(first)]),'/quiz/year-4/math/ac9m4n06/practice/review/').length,0);
+for(const code of ['ac9m4n06','ac9m4n07','ac9m4n08','ac9m4n09','ac9m4a01']){
+  const q={...first,id:`${code}-p-001`,visualMeta:{...first.visualMeta,asset_path:`/assets/assessment-visuals/year4/math/${code}/model.svg#model`}};
+  assert.equal(render([q],current([response(q)]),`/quiz/year-4/math/${code}/practice/review/`).length,1,`${code}: retain the matching reviewed model`);
+}
+const unreviewed={...first,visualMeta:{...first.visualMeta,asset_path:'/assets/assessment-visuals/year4/math/ac9m4a02/model.svg#model'}};
+assert.equal(render([unreviewed],current([response(unreviewed)]),'/quiz/year-4/math/ac9m4a02/practice/review/').length,0,'Do not extend the adapter beyond reviewed release scope');
 assert.equal(render([{...first,visualMeta:{type:'none'}}],current([response(first)])).length,0);
 console.log('PASS reviewed Year 4 response models: saved identity, version, answer/explanation, source isolation and missing-data regression checks.');

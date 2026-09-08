@@ -5,36 +5,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "find_unknown_values",
-    "question": "In a class project, a missing number plus 32 equals 154. What is the missing number?",
-    "audio_prompt": "In a class project, a missing number plus 32 equals 154. What is the missing number?",
+    "skill": "meaning_of_equality",
+    "question": "Why is 18 + 7 = 20 + 5 a true equation?",
+    "audio_prompt": "Why is 18 + 7 = 20 + 5 a true equation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-001",
-      "alt_text": "In a class project: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "122",
-        "is_correct": true
-      },
-      {
-        "text": "186",
-        "is_correct": false
-      },
-      {
-        "text": "132",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
+      "summary": "18 + 7 is 25 and 20 + 5 is also 25. The equals sign states that the two expressions have the same value.",
+      "hint": "Work out the value on each side of the equals sign."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 1,
+    "answers": [
+      {
+        "text": "Both sides have the value 25.",
+        "is_correct": true
+      },
+      {
+        "text": "An equation is true whenever both sides use addition.",
+        "is_correct": false
+      },
+      {
+        "text": "The right side must be the answer 5.",
+        "is_correct": false
+      },
+      {
+        "text": "The numbers must be in the same order.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
   },
   {
     "id": "AC9M4A01-P-002",
@@ -42,36 +44,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "balanced_equations",
-    "question": "At the school market, 160 minus a missing number equals 33. What is the missing number?",
-    "audio_prompt": "At the school market, 160 minus a missing number equals 33. What is the missing number?",
+    "skill": "unknown_result",
+    "question": "What number makes 18 + 27 = □ true?",
+    "audio_prompt": "What number makes 18 + 27 = □ true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-002",
-      "alt_text": "At the school market: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "193",
-        "is_correct": false
-      },
-      {
-        "text": "127",
-        "is_correct": true
-      },
-      {
-        "text": "117",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
+      "summary": "18 + 27 = 18 + 20 + 7 = 45. The box is the sum, so 18 + 27 and 45 have equal value.",
+      "hint": "Add the tens, then the remaining ones."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2,
+    "answers": [
+      {
+        "text": "45",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "55",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
   },
   {
     "id": "AC9M4A01-P-003",
@@ -79,36 +83,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "find_unknown_values",
-    "question": "While planning a garden, a missing number plus 34 equals 166. What is the missing number?",
-    "audio_prompt": "While planning a garden, a missing number plus 34 equals 166. What is the missing number?",
+    "skill": "unknown_result_left",
+    "question": "What number makes □ = 73 − 28 true?",
+    "audio_prompt": "What number makes □ = 73 − 28 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-003",
-      "alt_text": "While planning a garden: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "200",
-        "is_correct": false
-      },
-      {
-        "text": "142",
-        "is_correct": false
-      },
-      {
-        "text": "132",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
+      "summary": "73 − 28 = 73 − 20 − 8 = 45. An equation can have the result on either side of the equals sign.",
+      "hint": "Find the value of the expression on the right."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3,
+    "answers": [
+      {
+        "text": "55",
+        "is_correct": false
+      },
+      {
+        "text": "51",
+        "is_correct": false
+      },
+      {
+        "text": "101",
+        "is_correct": false
+      },
+      {
+        "text": "45",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3
   },
   {
     "id": "AC9M4A01-P-004",
@@ -116,36 +122,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "balanced_equations",
-    "question": "During a sports challenge, 172 minus a missing number equals 35. What is the missing number?",
-    "audio_prompt": "During a sports challenge, 172 minus a missing number equals 35. What is the missing number?",
+    "skill": "missing_second_addend",
+    "question": "What number makes 36 + □ = 61 true?",
+    "audio_prompt": "What number makes 36 + □ = 61 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-004",
-      "alt_text": "During a sports challenge: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "137",
-        "is_correct": true
-      },
-      {
-        "text": "207",
-        "is_correct": false
-      },
-      {
-        "text": "127",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
+      "summary": "The total is 61 and one part is 36. The other part is 61 − 36 = 25. Check: 36 + 25 = 61.",
+      "hint": "Find the difference between the total and the known part."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4,
+    "answers": [
+      {
+        "text": "25",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "97",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
   },
   {
     "id": "AC9M4A01-P-005",
@@ -153,36 +161,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "find_unknown_values",
-    "question": "At the wildlife centre, a missing number plus 36 equals 178. What is the missing number?",
-    "audio_prompt": "At the wildlife centre, a missing number plus 36 equals 178. What is the missing number?",
+    "skill": "missing_first_addend",
+    "question": "What number makes □ + 48 = 80 true?",
+    "audio_prompt": "What number makes □ + 48 = 80 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-005",
-      "alt_text": "At the wildlife centre: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "214",
-        "is_correct": false
-      },
-      {
-        "text": "142",
-        "is_correct": true
-      },
-      {
-        "text": "152",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
+      "summary": "80 − 48 = 32 finds the missing addend. Check: 32 + 48 = 80.",
+      "hint": "Count on from 48 to 80, or subtract the known part from the total."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 5,
+    "answers": [
+      {
+        "text": "28",
+        "is_correct": false
+      },
+      {
+        "text": "42",
+        "is_correct": false
+      },
+      {
+        "text": "128",
+        "is_correct": false
+      },
+      {
+        "text": "32",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3
   },
   {
     "id": "AC9M4A01-P-006",
@@ -190,36 +200,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "balanced_equations",
-    "question": "In the makerspace, 184 minus a missing number equals 37. What is the missing number?",
-    "audio_prompt": "In the makerspace, 184 minus a missing number equals 37. What is the missing number?",
+    "skill": "missing_minuend",
+    "question": "What number makes □ − 26 = 47 true?",
+    "audio_prompt": "What number makes □ − 26 = 47 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-006",
-      "alt_text": "In the makerspace: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "221",
-        "is_correct": false
-      },
-      {
-        "text": "137",
-        "is_correct": false
-      },
-      {
-        "text": "147",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
+      "summary": "The starting amount must include the 26 taken away and the 47 left. 26 + 47 = 73. Check: 73 − 26 = 47.",
+      "hint": "Put the removed part and the remaining part back together."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 6,
+    "answers": [
+      {
+        "text": "63",
+        "is_correct": false
+      },
+      {
+        "text": "83",
+        "is_correct": false
+      },
+      {
+        "text": "73",
+        "is_correct": true
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2
   },
   {
     "id": "AC9M4A01-P-007",
@@ -227,36 +239,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "find_unknown_values",
-    "question": "While checking a map, a missing number plus 38 equals 190. What is the missing number?",
-    "audio_prompt": "While checking a map, a missing number plus 38 equals 190. What is the missing number?",
+    "skill": "missing_subtrahend",
+    "question": "What number makes 90 − □ = 38 true?",
+    "audio_prompt": "What number makes 90 − □ = 38 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-007",
-      "alt_text": "While checking a map: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "152",
-        "is_correct": true
-      },
-      {
-        "text": "228",
-        "is_correct": false
-      },
-      {
-        "text": "162",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
+      "summary": "The amount removed is 90 − 38 = 52. Check: 90 − 52 = 38.",
+      "hint": "Find the difference between the starting amount and the amount left."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 7,
+    "answers": [
+      {
+        "text": "52",
+        "is_correct": true
+      },
+      {
+        "text": "128",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "62",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
   },
   {
     "id": "AC9M4A01-P-008",
@@ -264,36 +278,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "balanced_equations",
-    "question": "During a cooking task, 196 minus a missing number equals 39. What is the missing number?",
-    "audio_prompt": "During a cooking task, 196 minus a missing number equals 39. What is the missing number?",
+    "skill": "missing_addend_right",
+    "question": "What number makes 64 = □ + 29 true?",
+    "audio_prompt": "What number makes 64 = □ + 29 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-008",
-      "alt_text": "During a cooking task: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "235",
-        "is_correct": false
-      },
-      {
-        "text": "157",
-        "is_correct": true
-      },
-      {
-        "text": "147",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
+      "summary": "The total is still 64 even though it is written first. 64 − 29 = 35, and 35 + 29 = 64.",
+      "hint": "Identify the total before choosing an operation."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 8,
+    "answers": [
+      {
+        "text": "93",
+        "is_correct": false
+      },
+      {
+        "text": "45",
+        "is_correct": false
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "35",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3
   },
   {
     "id": "AC9M4A01-P-009",
@@ -301,35 +317,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "find_unknown_values",
-    "question": "At the community fair, a missing number plus 40 equals 202. What is the missing number?",
-    "audio_prompt": "At the community fair, a missing number plus 40 equals 202. What is the missing number?",
+    "skill": "missing_subtrahend_right",
+    "question": "What number makes 42 = 75 − □ true?",
+    "audio_prompt": "What number makes 42 = 75 − □ true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-009",
-      "alt_text": "At the community fair: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "75 must be reduced by 33 to leave 42. Check both sides: 75 − 33 = 42.",
+      "hint": "How much must be taken from 75 to leave 42?"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9,
     "answers": [
       {
-        "text": "242",
+        "text": "43",
         "is_correct": false
       },
       {
-        "text": "172",
+        "text": "117",
         "is_correct": false
       },
       {
-        "text": "162",
+        "text": "37",
+        "is_correct": false
+      },
+      {
+        "text": "33",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 3
   },
   {
     "id": "AC9M4A01-P-010",
@@ -337,35 +356,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "balanced_equations",
-    "question": "In a library display, 208 minus a missing number equals 41. What is the missing number?",
-    "audio_prompt": "In a library display, 208 minus a missing number equals 41. What is the missing number?",
+    "skill": "additive_identity",
+    "question": "What number makes 0 + □ = 56 true?",
+    "audio_prompt": "What number makes 0 + □ = 56 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-010",
-      "alt_text": "In a library display: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "Adding zero does not change a number. The missing addend is 56 because 0 + 56 = 56.",
+      "hint": "Think about what adding zero does to an amount."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10,
     "answers": [
       {
-        "text": "167",
+        "text": "55",
+        "is_correct": false
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "56",
         "is_correct": true
       },
       {
-        "text": "249",
-        "is_correct": false
-      },
-      {
-        "text": "157",
+        "text": "57",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 2
   },
   {
     "id": "AC9M4A01-P-011",
@@ -373,35 +395,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "find_unknown_values",
-    "question": "During a science activity, a missing number plus 42 equals 214. What is the missing number?",
-    "audio_prompt": "During a science activity, a missing number plus 42 equals 214. What is the missing number?",
+    "skill": "subtract_zero",
+    "question": "What number makes 83 − □ = 83 true?",
+    "audio_prompt": "What number makes 83 − □ = 83 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-011",
-      "alt_text": "During a science activity: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "The amount stays at 83, so nothing is taken away. 83 − 0 = 83.",
+      "hint": "Compare the starting amount with the amount left."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 11,
     "answers": [
       {
-        "text": "256",
+        "text": "83",
         "is_correct": false
       },
       {
-        "text": "172",
+        "text": "0",
         "is_correct": true
       },
       {
-        "text": "182",
+        "text": "166",
+        "is_correct": false
+      },
+      {
+        "text": "1",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 1
   },
   {
     "id": "AC9M4A01-P-012",
@@ -409,35 +434,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "balanced_equations",
-    "question": "At the school canteen, 220 minus a missing number equals 23. What is the missing number?",
-    "audio_prompt": "At the school canteen, 220 minus a missing number equals 23. What is the missing number?",
+    "skill": "equal_start_and_removed",
+    "question": "What number makes □ − 18 = 0 true?",
+    "audio_prompt": "What number makes □ − 18 = 0 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-012",
-      "alt_text": "At the school canteen: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "To have nothing left after removing 18, the starting amount must be 18. Check: 18 − 18 = 0.",
+      "hint": "If the whole amount is taken away, how much was there at the start?"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 12,
     "answers": [
       {
-        "text": "243",
+        "text": "19",
         "is_correct": false
       },
       {
-        "text": "187",
+        "text": "36",
         "is_correct": false
       },
       {
-        "text": "197",
+        "text": "18",
         "is_correct": true
+      },
+      {
+        "text": "0",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 2
   },
   {
     "id": "AC9M4A01-P-013",
@@ -445,35 +473,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "find_unknown_values",
-    "question": "While organising an excursion, a missing number plus 24 equals 226. What is the missing number?",
-    "audio_prompt": "While organising an excursion, a missing number plus 24 equals 226. What is the missing number?",
+    "skill": "commutative_addition",
+    "question": "Use the order of the addends to complete 28 + 17 = 17 + □.",
+    "audio_prompt": "Use the order of the addends to complete 28 + 17 = 17 + □.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-013",
-      "alt_text": "While organising an excursion: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "The same two addends can be added in either order. 28 + 17 and 17 + 28 are both 45.",
+      "hint": "Match the two addends on the left with those on the right."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
     "answers": [
       {
-        "text": "202",
+        "text": "45",
+        "is_correct": false
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "28",
         "is_correct": true
-      },
-      {
-        "text": "250",
-        "is_correct": false
-      },
-      {
-        "text": "212",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 3
   },
   {
     "id": "AC9M4A01-P-014",
@@ -481,35 +512,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "balanced_equations",
-    "question": "In a games club, 232 minus a missing number equals 25. What is the missing number?",
-    "audio_prompt": "In a games club, 232 minus a missing number equals 25. What is the missing number?",
+    "skill": "commute_three_addends",
+    "question": "What number makes 14 + 9 + 6 = 6 + 14 + □ true?",
+    "audio_prompt": "What number makes 14 + 9 + 6 = 6 + 14 + □ true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-014",
-      "alt_text": "In a games club: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "The left side adds 14, 9 and 6. The right side already has 6 and 14, so it needs 9. Both totals are 29.",
+      "hint": "The order may change, but each addend must still be included once."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
     "answers": [
       {
-        "text": "257",
-        "is_correct": false
-      },
-      {
-        "text": "207",
+        "text": "9",
         "is_correct": true
       },
       {
-        "text": "197",
+        "text": "29",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "6",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 0
   },
   {
     "id": "AC9M4A01-P-015",
@@ -517,35 +551,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "find_unknown_values",
-    "question": "During an art project, a missing number plus 26 equals 238. What is the missing number?",
-    "audio_prompt": "During an art project, a missing number plus 26 equals 238. What is the missing number?",
+    "skill": "friendly_grouping",
+    "question": "Use a friendly pair to find the box in 38 + □ + 62 = 146.",
+    "audio_prompt": "Use a friendly pair to find the box in 38 + □ + 62 = 146.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-015",
-      "alt_text": "During an art project: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "Reorder the addition so 38 + 62 = 100 is found first. Then 100 + □ = 146, so □ = 46. Check: 38 + 46 + 62 = 146.",
+      "hint": "Which two known addends make a multiple of 100?"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
     "answers": [
       {
-        "text": "264",
+        "text": "36",
         "is_correct": false
       },
       {
-        "text": "222",
-        "is_correct": false
-      },
-      {
-        "text": "212",
+        "text": "46",
         "is_correct": true
+      },
+      {
+        "text": "108",
+        "is_correct": false
+      },
+      {
+        "text": "84",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 1
   },
   {
     "id": "AC9M4A01-P-016",
@@ -553,35 +590,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "balanced_equations",
-    "question": "At the recycling station, 244 minus a missing number equals 27. What is the missing number?",
-    "audio_prompt": "At the recycling station, 244 minus a missing number equals 27. What is the missing number?",
+    "skill": "commutative_number_line",
+    "question": "Both journeys start at 0 and finish at 11. What is the length of the missing jump in the second journey?",
+    "audio_prompt": "Both journeys start at 0 and finish at 11. What is the length of the missing jump in the second journey?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-016",
-      "alt_text": "At the recycling station: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01/p016.svg#model",
+      "alt_text": "Two number lines from 0 to 11. The first has jumps of 4 then 7. The second has a jump of 7 then an unlabelled jump to 11."
     },
+    "explanation": {
+      "summary": "The first journey is 4 + 7. Reversing those two jumps gives 7 + 4 and reaches the same point, 11.",
+      "hint": "Compare the jump lengths used in the two journeys."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
     "answers": [
       {
-        "text": "217",
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
         "is_correct": true
       },
       {
-        "text": "271",
+        "text": "11",
         "is_correct": false
       },
       {
-        "text": "207",
+        "text": "7",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 1
   },
   {
     "id": "AC9M4A01-P-017",
@@ -589,35 +631,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "find_unknown_values",
-    "question": "While planning a survey, a missing number plus 28 equals 250. What is the missing number?",
-    "audio_prompt": "While planning a survey, a missing number plus 28 equals 250. What is the missing number?",
+    "skill": "efficient_reordering",
+    "question": "Which arrangement lets you find 67 + 8 + 33 by making 100 with the first two addends?",
+    "audio_prompt": "Which arrangement lets you find 67 + 8 + 33 by making 100 with the first two addends?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-017",
-      "alt_text": "While planning a survey: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "67 and 33 are a friendly pair: 67 + 33 = 100. Then add 8 to get 108. Reordering the same three addends preserves the total.",
+      "hint": "Choose the arrangement whose first two numbers add to 100."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
     "answers": [
       {
-        "text": "278",
-        "is_correct": false
-      },
-      {
-        "text": "222",
+        "text": "67 + 33 + 8",
         "is_correct": true
       },
       {
-        "text": "232",
+        "text": "33 + 8 + 67",
+        "is_correct": false
+      },
+      {
+        "text": "8 + 33 + 67",
+        "is_correct": false
+      },
+      {
+        "text": "67 + 8 + 33",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 0
   },
   {
     "id": "AC9M4A01-P-018",
@@ -625,35 +670,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "balanced_equations",
-    "question": "In a coding lesson, 256 minus a missing number equals 29. What is the missing number?",
-    "audio_prompt": "In a coding lesson, 256 minus a missing number equals 29. What is the missing number?",
+    "skill": "preserve_sum",
+    "question": "Why does changing 31 + 19 to 30 + 20 preserve the sum?",
+    "audio_prompt": "Why does changing 31 + 19 to 30 + 20 preserve the sum?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-018",
-      "alt_text": "In a coding lesson: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "Taking 1 from 31 and adding it to 19 redistributes the same total. Both expressions equal 50.",
+      "hint": "Track the change to each addend separately."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
     "answers": [
       {
-        "text": "285",
-        "is_correct": false
-      },
-      {
-        "text": "217",
-        "is_correct": false
-      },
-      {
-        "text": "227",
+        "text": "One addend decreases by 1 and the other increases by 1.",
         "is_correct": true
+      },
+      {
+        "text": "Both addends decrease by 1.",
+        "is_correct": false
+      },
+      {
+        "text": "Changing either addend never changes a sum.",
+        "is_correct": false
+      },
+      {
+        "text": "Both addends increase by 1.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 0
   },
   {
     "id": "AC9M4A01-P-019",
@@ -661,35 +709,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "find_unknown_values",
-    "question": "During a building task, a missing number plus 30 equals 262. What is the missing number?",
-    "audio_prompt": "During a building task, a missing number plus 30 equals 262. What is the missing number?",
+    "skill": "subtraction_not_commutative",
+    "question": "Mia says, “I can swap the numbers in 52 − 17 because addition can be done in either order.” Which response explains the problem?",
+    "audio_prompt": "Mia says, “I can swap the numbers in 52 − 17 because addition can be done in either order.” Which response explains the problem?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-019",
-      "alt_text": "During a building task: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "In 52 − 17, 52 is the starting amount and 17 is removed. Reversing those roles describes a different subtraction. The commutative property of addition does not apply to subtraction.",
+      "hint": "Think about the different roles of the two numbers in subtraction."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
     "answers": [
       {
-        "text": "232",
+        "text": "The claim is wrong because 52 − 17 equals 17.",
+        "is_correct": false
+      },
+      {
+        "text": "Swapping addends preserves a sum, but swapping the numbers in subtraction changes what is taken from what.",
         "is_correct": true
       },
       {
-        "text": "292",
+        "text": "The claim is correct whenever the starting number is greater.",
         "is_correct": false
       },
       {
-        "text": "242",
+        "text": "Subtraction can always be done in either order.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 1
   },
   {
     "id": "AC9M4A01-P-020",
@@ -697,35 +748,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "balanced_equations",
-    "question": "At the local pool, 268 minus a missing number equals 31. What is the missing number?",
-    "audio_prompt": "At the local pool, 268 minus a missing number equals 31. What is the missing number?",
+    "skill": "equivalent_sum",
+    "question": "Which expression has the same sum as 48 + 26?",
+    "audio_prompt": "Which expression has the same sum as 48 + 26?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-020",
-      "alt_text": "At the local pool: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "49 is 1 more than 48 and 25 is 1 less than 26. These changes balance, so 49 + 25 and 48 + 26 both equal 74.",
+      "hint": "Look for one addend increasing by the same amount that the other decreases."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
     "answers": [
       {
-        "text": "299",
+        "text": "49 + 26",
         "is_correct": false
       },
       {
-        "text": "237",
+        "text": "48 + 25",
+        "is_correct": false
+      },
+      {
+        "text": "49 + 25",
         "is_correct": true
       },
       {
-        "text": "227",
+        "text": "47 + 25",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 2
   },
   {
     "id": "AC9M4A01-P-021",
@@ -733,35 +787,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "find_unknown_values",
-    "question": "While preparing a camp, a missing number plus 32 equals 274. What is the missing number?",
-    "audio_prompt": "While preparing a camp, a missing number plus 32 equals 274. What is the missing number?",
+    "skill": "uniform_unit_balance",
+    "question": "All counters have equal mass. How many counters belong in the covered group to keep the scale balanced?",
+    "audio_prompt": "All counters have equal mass. How many counters belong in the covered group to keep the scale balanced?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-021",
-      "alt_text": "While preparing a camp: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01/p021.svg#model",
+      "alt_text": "A level balance scale. The left pan has groups of 5 and 9 identical counters. The right pan has 8 identical counters and a covered group labelled unknown counters."
     },
+    "explanation": {
+      "summary": "The left pan has 5 + 9 = 14 equal counters. The right pan already has 8, so the covered group needs 14 − 8 = 6 counters. Check: 5 + 9 = 8 + 6.",
+      "hint": "Compare the total number of equal counters on each pan."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21,
     "answers": [
       {
-        "text": "306",
+        "text": "22",
         "is_correct": false
       },
       {
-        "text": "252",
+        "text": "8",
         "is_correct": false
       },
       {
-        "text": "242",
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "6",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 3
   },
   {
     "id": "AC9M4A01-P-022",
@@ -769,35 +828,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "balanced_equations",
-    "question": "In a music project, 280 minus a missing number equals 33. What is the missing number?",
-    "audio_prompt": "In a music project, 280 minus a missing number equals 33. What is the missing number?",
+    "skill": "balance_addition",
+    "question": "What number makes 47 + 26 = 50 + □ true?",
+    "audio_prompt": "What number makes 47 + 26 = 50 + □ true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-022",
-      "alt_text": "In a music project: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "The first addend increases from 47 to 50 by 3, so the other addend must decrease from 26 by 3. The box is 23. Both sides equal 73.",
+      "hint": "Compare 47 with 50 and keep the sum unchanged."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 22,
     "answers": [
       {
-        "text": "247",
+        "text": "73",
+        "is_correct": false
+      },
+      {
+        "text": "23",
         "is_correct": true
       },
       {
-        "text": "313",
+        "text": "29",
         "is_correct": false
       },
       {
-        "text": "237",
+        "text": "26",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 1
   },
   {
     "id": "AC9M4A01-P-023",
@@ -805,35 +867,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "find_unknown_values",
-    "question": "At a playground redesign, a missing number plus 34 equals 286. What is the missing number?",
-    "audio_prompt": "At a playground redesign, a missing number plus 34 equals 286. What is the missing number?",
+    "skill": "balance_addition_unknown_first",
+    "question": "What number makes □ + 38 = 61 + 24 true?",
+    "audio_prompt": "What number makes □ + 38 = 61 + 24 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-023",
-      "alt_text": "At a playground redesign: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "61 + 24 = 85. The missing part of 85 is 85 − 38 = 47. Check: 47 + 38 = 85.",
+      "hint": "Find the known total on the right, then find its missing part."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 23,
     "answers": [
       {
-        "text": "320",
+        "text": "123",
         "is_correct": false
       },
       {
-        "text": "252",
+        "text": "37",
+        "is_correct": false
+      },
+      {
+        "text": "85",
+        "is_correct": false
+      },
+      {
+        "text": "47",
         "is_correct": true
-      },
-      {
-        "text": "262",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "correct_index": 3
   },
   {
     "id": "AC9M4A01-P-024",
@@ -841,35 +906,982 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "practice",
-    "skill": "balanced_equations",
-    "question": "During a book drive, 292 minus a missing number equals 35. What is the missing number?",
-    "audio_prompt": "During a book drive, 292 minus a missing number equals 35. What is the missing number?",
+    "skill": "balance_addition_three_digit",
+    "question": "What number makes 125 + □ = 80 + 90 true?",
+    "audio_prompt": "What number makes 125 + □ = 80 + 90 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-p-024",
-      "alt_text": "During a book drive: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "The right side is 170. 170 − 125 = 45 finds the missing addend. Check: 125 + 45 = 170.",
+      "hint": "The box is a missing part of the total on the right."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 24,
     "answers": [
       {
-        "text": "327",
+        "text": "295",
         "is_correct": false
       },
       {
-        "text": "247",
+        "text": "55",
         "is_correct": false
       },
       {
-        "text": "257",
+        "text": "45",
+        "is_correct": true
+      },
+      {
+        "text": "170",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "AC9M4A01-P-025",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "balance_subtraction",
+    "question": "What number makes 68 − 21 = 70 − □ true?",
+    "audio_prompt": "What number makes 68 − 21 = 70 − □ true?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "The starting number increases by 2, from 68 to 70. Remove 2 more to keep the difference unchanged: 21 + 2 = 23. Both sides equal 47.",
+      "hint": "If the starting amount increases, what must happen to the amount removed to keep the result?"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 25,
+    "answers": [
+      {
+        "text": "23",
+        "is_correct": true
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "19",
+        "is_correct": false
+      },
+      {
+        "text": "47",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "AC9M4A01-P-026",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "balance_subtraction_unknown_removed",
+    "question": "What number makes 95 − □ = 85 − 27 true?",
+    "audio_prompt": "What number makes 95 − □ = 85 − 27 true?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "85 − 27 = 58, so 95 − □ must also equal 58. The removed amount is 95 − 58 = 37. Check: 95 − 37 = 58.",
+      "hint": "Find the value of the known subtraction, then the amount removed on the left."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26,
+    "answers": [
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "37",
+        "is_correct": true
+      },
+      {
+        "text": "122",
+        "is_correct": false
+      },
+      {
+        "text": "58",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "AC9M4A01-P-027",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "balance_subtraction_unknown_start",
+    "question": "What number makes □ − 36 = 72 − 18 true?",
+    "audio_prompt": "What number makes □ − 36 = 72 − 18 true?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "72 − 18 = 54. The starting amount must contain the 36 removed and the 54 left, so it is 90. Check: 90 − 36 = 54.",
+      "hint": "After finding the right side, put the removed and remaining parts together."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 27,
+    "answers": [
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "126",
+        "is_correct": false
+      },
+      {
+        "text": "90",
+        "is_correct": true
+      },
+      {
+        "text": "54",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "AC9M4A01-P-028",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "balance_mixed_operations",
+    "question": "What number makes 53 + 17 = 94 − □ true?",
+    "audio_prompt": "What number makes 53 + 17 = 94 − □ true?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "53 + 17 = 70. To leave 70 from 94, remove 24. Check: 94 − 24 = 70.",
+      "hint": "Find the addition total, then use it as the amount left in the subtraction."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 28,
+    "answers": [
+      {
+        "text": "70",
+        "is_correct": false
+      },
+      {
+        "text": "34",
+        "is_correct": false
+      },
+      {
+        "text": "164",
+        "is_correct": false
+      },
+      {
+        "text": "24",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3
+  },
+  {
+    "id": "AC9M4A01-P-029",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "balance_mixed_missing_addend",
+    "question": "What number makes 120 − 45 = □ + 28 true?",
+    "audio_prompt": "What number makes 120 − 45 = □ + 28 true?",
+    "visual": {
+      "type": "none"
+    },
     "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
+      "summary": "120 − 45 = 75. The missing addend is 75 − 28 = 47. Check: 47 + 28 = 75.",
+      "hint": "Work out the left side before finding the missing part on the right."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 29,
+    "answers": [
+      {
+        "text": "47",
+        "is_correct": true
+      },
+      {
+        "text": "103",
+        "is_correct": false
+      },
+      {
+        "text": "57",
+        "is_correct": false
+      },
+      {
+        "text": "75",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "AC9M4A01-P-030",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "balance_mixed_right_difference",
+    "question": "What number makes 26 + □ = 83 − 19 true?",
+    "audio_prompt": "What number makes 26 + □ = 83 − 19 true?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "83 − 19 = 64. Then 26 + □ = 64, so □ = 64 − 26 = 38. Both sides equal 64.",
+      "hint": "The known subtraction tells you the total needed on the left."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 30,
+    "answers": [
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "64",
+        "is_correct": false
+      },
+      {
+        "text": "38",
+        "is_correct": true
+      },
+      {
+        "text": "90",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "AC9M4A01-P-031",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "relational_three_digit_sum",
+    "question": "What number makes 215 + 178 = 225 + □ true?",
+    "audio_prompt": "What number makes 215 + 178 = 225 + □ true?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "225 is 10 more than 215. Decrease the other addend by 10: 178 − 10 = 168. Both sums equal 393.",
+      "hint": "Compare the first addends instead of calculating the whole sum first."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "challenge",
+    "sequence_priority": 31,
+    "answers": [
+      {
+        "text": "393",
+        "is_correct": false
+      },
+      {
+        "text": "178",
+        "is_correct": false
+      },
+      {
+        "text": "168",
+        "is_correct": true
+      },
+      {
+        "text": "188",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "AC9M4A01-P-032",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "constant_difference_number_lines",
+    "question": "Why do the two highlighted intervals have the same length?",
+    "audio_prompt": "Why do the two highlighted intervals have the same length?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01/p032.svg#model",
+      "alt_text": "Two number lines on the same scale from 0 to 40. One highlights the interval 12 to 31. The other highlights 17 to 36. Arrows show both endpoints shifting 5 places right."
+    },
+    "explanation": {
+      "summary": "The first interval runs from 12 to 31. The second runs from 17 to 36. Adding 5 to both endpoints shifts the interval without changing its length: both differences are 19.",
+      "hint": "Compare each endpoint of the first interval with the matching endpoint of the second."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 32,
+    "answers": [
+      {
+        "text": "Only the larger endpoint moves 5 places.",
+        "is_correct": false
+      },
+      {
+        "text": "The second interval is 5 longer because it starts later.",
+        "is_correct": false
+      },
+      {
+        "text": "Both endpoints move 5 places to the right, so the gap stays the same.",
+        "is_correct": true
+      },
+      {
+        "text": "Any two intervals on number lines have equal length.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "AC9M4A01-P-033",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "relational_difference_truth",
+    "question": "Is 64 − 29 = 60 − 25 true? Choose the correct explanation.",
+    "audio_prompt": "Is 64 − 29 = 60 − 25 true? Choose the correct explanation.",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "64 − 29 = 35 and 60 − 25 = 35. Moving both endpoints 4 places left preserves their gap.",
+      "hint": "Compare the change to the starting number and the change to the number removed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 33,
+    "answers": [
+      {
+        "text": "No. The right side is 4 less than the left side.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes. Subtraction can be done in either order.",
+        "is_correct": false
+      },
+      {
+        "text": "No. Any change to a number must change the difference.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes. Both numbers decrease by 4, so the difference stays 35.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "id": "AC9M4A01-P-034",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "partition_subtrahend",
+    "question": "What number makes 83 − 47 = 83 − 40 − □ true?",
+    "audio_prompt": "What number makes 83 − 47 = 83 − 40 − □ true?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "47 is 40 + 7. Removing 47 is the same as removing 40 and then 7. Both sides equal 36.",
+      "hint": "Split the amount removed, 47, into tens and ones."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 34,
+    "answers": [
+      {
+        "text": "47",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "AC9M4A01-P-035",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "choose_true_equation",
+    "question": "Which equation is true?",
+    "audio_prompt": "Which equation is true?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "34 + 18 and 35 + 17 both equal 52 because one addend increases by 1 while the other decreases by 1. This preserves the total.",
+      "hint": "Check how each change affects the sum or difference."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 35,
+    "answers": [
+      {
+        "text": "34 − 18 = 35 − 17",
+        "is_correct": false
+      },
+      {
+        "text": "34 + 18 = 35 + 17",
+        "is_correct": true
+      },
+      {
+        "text": "34 − 18 = 34 − 17",
+        "is_correct": false
+      },
+      {
+        "text": "34 + 18 = 34 + 17",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "AC9M4A01-P-036",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "efficient_constant_difference",
+    "question": "Why can 74 − 38 be calculated as 76 − 40?",
+    "audio_prompt": "Why can 74 − 38 be calculated as 76 − 40?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "Both endpoints move 2 places right. Their gap remains 36, and 76 − 40 is easier to calculate mentally.",
+      "hint": "Track the same change to the starting amount and the amount removed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 36,
+    "answers": [
+      {
+        "text": "The numbers in any subtraction can be swapped.",
+        "is_correct": false
+      },
+      {
+        "text": "Adding 2 to both numbers keeps their difference unchanged.",
+        "is_correct": true
+      },
+      {
+        "text": "Subtracting a multiple of 10 always gives the same answer.",
+        "is_correct": false
+      },
+      {
+        "text": "Adding 2 to just the starting number keeps the difference unchanged.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "AC9M4A01-P-037",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "bar_inverse_equation",
+    "question": "The bar shows a whole of 92 and one part of 37. Which equation directly finds the missing part?",
+    "audio_prompt": "The bar shows a whole of 92 and one part of 37. Which equation directly finds the missing part?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01/p037.svg#model",
+      "alt_text": "A bar with whole 92. It is partitioned into a known part labelled 37 and an unknown part labelled with a box."
+    },
+    "explanation": {
+      "summary": "The two parts combine to make 92. Subtracting the known part, 37, leaves the unknown part: 92 − 37 = 55. Check: 37 + 55 = 92.",
+      "hint": "Use whole minus known part to find the other part."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 37,
+    "answers": [
+      {
+        "text": "□ − 92 = 37",
+        "is_correct": false
+      },
+      {
+        "text": "92 + 37 = □",
+        "is_correct": false
+      },
+      {
+        "text": "37 − □ = 92",
+        "is_correct": false
+      },
+      {
+        "text": "92 − 37 = □",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "id": "AC9M4A01-P-038",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "count_on_inverse",
+    "question": "Use the jumps to find the box in 46 + □ = 103.",
+    "audio_prompt": "Use the jumps to find the box in 46 + □ = 103.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01/p038.svg#model",
+      "alt_text": "A number line from 46 to 103 shows jumps from 46 to 50 labelled +4, from 50 to 100 labelled +50, and from 100 to 103 labelled +3."
+    },
+    "explanation": {
+      "summary": "Count on from 46 to 103: add 4 to reach 50, then 50 to reach 100, then 3 to reach 103. The total increase is 4 + 50 + 3 = 57. Check: 46 + 57 = 103.",
+      "hint": "Combine all the increases between the known part and the total."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 38,
+    "answers": [
+      {
+        "text": "57",
+        "is_correct": true
+      },
+      {
+        "text": "53",
+        "is_correct": false
+      },
+      {
+        "text": "67",
+        "is_correct": false
+      },
+      {
+        "text": "149",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "AC9M4A01-P-039",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "substitution_check",
+    "question": "A student proposes 124 for the box in □ − 48 = 76. Which check uses the original equation?",
+    "audio_prompt": "A student proposes 124 for the box in □ − 48 = 76. Which check uses the original equation?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "Replace the box where it appears, keeping the operation and order unchanged. 124 − 48 = 76 confirms that 124 is the starting amount.",
+      "hint": "Put 124 in the position of the box and keep the rest of the equation the same."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 39,
+    "answers": [
+      {
+        "text": "124 + 48 = 76",
+        "is_correct": false
+      },
+      {
+        "text": "48 − 124 = 76",
+        "is_correct": false
+      },
+      {
+        "text": "76 − 48 = 124",
+        "is_correct": false
+      },
+      {
+        "text": "124 − 48 = 76",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3
+  },
+  {
+    "id": "AC9M4A01-P-040",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "error_unknown_start",
+    "question": "To solve □ − 35 = 62, Leo calculates 62 − 35 = 27. What should he do instead?",
+    "audio_prompt": "To solve □ − 35 = 62, Leo calculates 62 − 35 = 27. What should he do instead?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "The box is the whole before 35 is removed. Put the removed part and the remaining part together: 35 + 62 = 97. Check: 97 − 35 = 62.",
+      "hint": "Decide whether the unknown is the starting amount or a missing part."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 40,
+    "answers": [
+      {
+        "text": "Use 62 because it is already the result.",
+        "is_correct": false
+      },
+      {
+        "text": "Add 35 and 62 to find the starting amount, 97.",
+        "is_correct": true
+      },
+      {
+        "text": "Subtract 62 from 35 to find the starting amount.",
+        "is_correct": false
+      },
+      {
+        "text": "Use 27 because every missing value is found by subtraction.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "AC9M4A01-P-041",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "error_missing_addend",
+    "question": "A student chooses 92 for □ + 27 = 65. Which correction is right?",
+    "audio_prompt": "A student chooses 92 for □ + 27 = 65. Which correction is right?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "92 + 27 = 119, so 92 does not make the equation true. The missing part is 65 − 27 = 38.",
+      "hint": "Substitute the proposed value and compare it with the required total."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 41,
+    "answers": [
+      {
+        "text": "Keep 92, because 65 + 27 = 92.",
+        "is_correct": false
+      },
+      {
+        "text": "Use 65, because the box always equals the total.",
+        "is_correct": false
+      },
+      {
+        "text": "Use 38, because 38 + 27 = 65.",
+        "is_correct": true
+      },
+      {
+        "text": "Use 27, because an addend must match the known addend.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "AC9M4A01-P-042",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "context_unknown_start",
+    "question": "After 58 books are taken from a box, 147 books remain. How many books were in the box at the start?",
+    "audio_prompt": "After 58 books are taken from a box, 147 books remain. How many books were in the box at the start?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "Let the box stand for the starting number: □ − 58 = 147. Add the removed and remaining parts: 58 + 147 = 205. Check: 205 − 58 = 147.",
+      "hint": "The starting collection includes the books taken away and the books left."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 42,
+    "answers": [
+      {
+        "text": "205",
+        "is_correct": true
+      },
+      {
+        "text": "215",
+        "is_correct": false
+      },
+      {
+        "text": "89",
+        "is_correct": false
+      },
+      {
+        "text": "195",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "AC9M4A01-P-043",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "context_missing_addend",
+    "question": "Amira has saved $68 towards a $125 bicycle. In 68 + □ = 125, how much more money does the box represent?",
+    "audio_prompt": "Amira has saved $68 towards a $125 bicycle. In 68 + □ = 125, how much more money does the box represent?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "The missing amount is $125 − $68 = $57. Check: $68 + $57 = $125.",
+      "hint": "Find the gap between the money saved and the target."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 43,
+    "answers": [
+      {
+        "text": "$47",
+        "is_correct": false
+      },
+      {
+        "text": "$57",
+        "is_correct": true
+      },
+      {
+        "text": "$67",
+        "is_correct": false
+      },
+      {
+        "text": "$193",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "AC9M4A01-P-044",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "context_comparison",
+    "question": "Team A has 156 points. Team B has 37 more points than Team A. What value makes □ − 156 = 37 true for Team B’s score?",
+    "audio_prompt": "Team A has 156 points. Team B has 37 more points than Team A. What value makes □ − 156 = 37 true for Team B’s score?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "Team B’s score is the greater amount. Add the difference to Team A’s score: 156 + 37 = 193. Check: 193 − 156 = 37.",
+      "hint": "The unknown is the greater score, not the difference."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "answers": [
+      {
+        "text": "183",
+        "is_correct": false
+      },
+      {
+        "text": "119",
+        "is_correct": false
+      },
+      {
+        "text": "193",
+        "is_correct": true
+      },
+      {
+        "text": "203",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "AC9M4A01-P-045",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "context_removed_part",
+    "question": "A class starts with 84 seedlings and gives some away. There are 29 left. What number makes 84 − □ = 29 true?",
+    "audio_prompt": "A class starts with 84 seedlings and gives some away. There are 29 left. What number makes 84 − □ = 29 true?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "The number given away is the starting amount minus the amount left: 84 − 29 = 55. Check: 84 − 55 = 29.",
+      "hint": "Separate the starting collection into the part given away and the part left."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 45,
+    "answers": [
+      {
+        "text": "55",
+        "is_correct": true
+      },
+      {
+        "text": "113",
+        "is_correct": false
+      },
+      {
+        "text": "65",
+        "is_correct": false
+      },
+      {
+        "text": "45",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0
+  },
+  {
+    "id": "AC9M4A01-P-046",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "context_equal_totals",
+    "question": "A ribbon is made from pieces of 28 cm and 37 cm. Another ribbon of equal total length has pieces of 40 cm and □ cm. What is the missing length?",
+    "audio_prompt": "A ribbon is made from pieces of 28 cm and 37 cm. Another ribbon of equal total length has pieces of 40 cm and □ cm. What is the missing length?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "The first ribbon is 28 + 37 = 65 cm long. The second needs 65 − 40 = 25 cm more. Check: 40 + 25 = 65.",
+      "hint": "Write an equation equating the two total ribbon lengths."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 46,
+    "answers": [
+      {
+        "text": "65 cm",
+        "is_correct": false
+      },
+      {
+        "text": "35 cm",
+        "is_correct": false
+      },
+      {
+        "text": "25 cm",
+        "is_correct": true
+      },
+      {
+        "text": "105 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2
+  },
+  {
+    "id": "AC9M4A01-P-047",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "paired_inverse_equations",
+    "question": "Which pair of equations describes the missing part of this bar?",
+    "audio_prompt": "Which pair of equations describes the missing part of this bar?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01/p047.svg#model",
+      "alt_text": "A bar with whole 150. Its two parts are labelled 68 and unknown."
+    },
+    "explanation": {
+      "summary": "68 and the unknown part combine to make the whole, 150. Subtracting 68 from 150 finds that same unknown part, 82. Addition and subtraction describe the same part-part-whole relationship.",
+      "hint": "Identify the whole before matching the related equations."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 47,
+    "answers": [
+      {
+        "text": "68 + 150 = □ and □ − 68 = 150",
+        "is_correct": false
+      },
+      {
+        "text": "68 + □ = 150 and 150 − 68 = □",
+        "is_correct": true
+      },
+      {
+        "text": "150 + □ = 68 and 68 − 150 = □",
+        "is_correct": false
+      },
+      {
+        "text": "68 − □ = 150 and 150 + □ = 68",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1
+  },
+  {
+    "id": "AC9M4A01-P-048",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4A01",
+    "bank": "practice",
+    "skill": "repair_inverse_reasoning",
+    "question": "For 46 + □ = 80, a student says, “I will add 80 and 46.” Which explanation repairs the method?",
+    "audio_prompt": "For 46 + □ = 80, a student says, “I will add 80 and 46.” Which explanation repairs the method?",
+    "visual": {
+      "type": "none"
+    },
+    "explanation": {
+      "summary": "46 and the unknown are parts of 80. The missing part is 80 − 46 = 34. Check: 46 + 34 = 80.",
+      "hint": "Ask which number represents the whole and which represents one part."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "answers": [
+      {
+        "text": "46 is the whole, so subtract 80.",
+        "is_correct": false
+      },
+      {
+        "text": "Adding the total and a part always finds the other part.",
+        "is_correct": false
+      },
+      {
+        "text": "The box is 80 because it is beside the equals sign.",
+        "is_correct": false
+      },
+      {
+        "text": "80 is the whole, so subtract the known part 46 to find 34.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3
   },
   {
     "id": "AC9M4A01-T-001",
@@ -877,33 +1889,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "find_unknown_values",
-    "question": "At a coastal station, a missing number plus 24 equals 346. What is the missing number?",
-    "audio_prompt": "At a coastal station, a missing number plus 24 equals 346. What is the missing number?",
+    "skill": "missing_addend_right",
+    "question": "What number makes 95 = □ + 37 true?",
+    "audio_prompt": "What number makes 95 = □ + 37 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-001",
-      "alt_text": "At a coastal station: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "95 is the total. 95 − 37 = 58, and 58 + 37 = 95.",
+      "hint": "Find the missing part of the total."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1,
     "answers": [
       {
-        "text": "322",
+        "text": "58",
         "is_correct": true
       },
       {
-        "text": "370",
+        "text": "68",
         "is_correct": false
       },
       {
-        "text": "332",
+        "text": "132",
+        "is_correct": false
+      },
+      {
+        "text": "48",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    }
+    "correct_index": 0
   },
   {
     "id": "AC9M4A01-T-002",
@@ -911,33 +1928,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "balanced_equations",
-    "question": "During a museum challenge, 352 minus a missing number equals 25. What is the missing number?",
-    "audio_prompt": "During a museum challenge, 352 minus a missing number equals 25. What is the missing number?",
+    "skill": "missing_minuend",
+    "question": "What number makes □ − 48 = 86 true?",
+    "audio_prompt": "What number makes □ − 48 = 86 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-002",
-      "alt_text": "During a museum challenge: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "The starting amount is the removed part plus the part left: 48 + 86 = 134. Check: 134 − 48 = 86.",
+      "hint": "Combine the removed and remaining amounts."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 2,
     "answers": [
       {
-        "text": "377",
+        "text": "144",
         "is_correct": false
       },
       {
-        "text": "327",
+        "text": "124",
+        "is_correct": false
+      },
+      {
+        "text": "134",
         "is_correct": true
       },
       {
-        "text": "317",
+        "text": "38",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    }
+    "correct_index": 2
   },
   {
     "id": "AC9M4A01-T-003",
@@ -945,33 +1967,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "find_unknown_values",
-    "question": "At a charity event, a missing number plus 26 equals 358. What is the missing number?",
-    "audio_prompt": "At a charity event, a missing number plus 26 equals 358. What is the missing number?",
+    "skill": "missing_subtrahend",
+    "question": "What number makes 140 − □ = 75 true?",
+    "audio_prompt": "What number makes 140 − □ = 75 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-003",
-      "alt_text": "At a charity event: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "140 − 75 = 65 finds the part removed. Check: 140 − 65 = 75.",
+      "hint": "Compare the starting amount with the amount left."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 3,
     "answers": [
       {
-        "text": "384",
+        "text": "215",
         "is_correct": false
       },
       {
-        "text": "342",
+        "text": "75",
         "is_correct": false
       },
       {
-        "text": "332",
+        "text": "65",
         "is_correct": true
+      },
+      {
+        "text": "55",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    }
+    "correct_index": 2
   },
   {
     "id": "AC9M4A01-T-004",
@@ -979,33 +2006,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "balanced_equations",
-    "question": "In an engineering workshop, 364 minus a missing number equals 27. What is the missing number?",
-    "audio_prompt": "In an engineering workshop, 364 minus a missing number equals 27. What is the missing number?",
+    "skill": "friendly_grouping",
+    "question": "What number makes 26 + □ + 74 = 163 true?",
+    "audio_prompt": "What number makes 26 + □ + 74 = 163 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "26 + 74 = 100. The missing addend is 163 − 100 = 63. Check: 26 + 63 + 74 = 163.",
+      "hint": "Group the known addends into a friendly total."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 4,
     "answers": [
       {
-        "text": "337",
+        "text": "137",
+        "is_correct": false
+      },
+      {
+        "text": "89",
+        "is_correct": false
+      },
+      {
+        "text": "53",
+        "is_correct": false
+      },
+      {
+        "text": "63",
         "is_correct": true
-      },
-      {
-        "text": "391",
-        "is_correct": false
-      },
-      {
-        "text": "327",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    }
+    "correct_index": 3
   },
   {
     "id": "AC9M4A01-T-005",
@@ -1013,33 +2045,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "find_unknown_values",
-    "question": "At a regional carnival, a missing number plus 28 equals 370. What is the missing number?",
-    "audio_prompt": "At a regional carnival, a missing number plus 28 equals 370. What is the missing number?",
+    "skill": "commutative_addition",
+    "question": "What number makes 29 + 18 = □ + 29 true?",
+    "audio_prompt": "What number makes 29 + 18 = □ + 29 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-005",
-      "alt_text": "At a regional carnival: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "Reordering the two addends preserves the sum. 29 + 18 = 18 + 29 = 47.",
+      "hint": "Match the same two addends on both sides."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 5,
     "answers": [
       {
-        "text": "398",
-        "is_correct": false
-      },
-      {
-        "text": "342",
+        "text": "18",
         "is_correct": true
       },
       {
-        "text": "352",
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "47",
+        "is_correct": false
+      },
+      {
+        "text": "29",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    }
+    "correct_index": 0
   },
   {
     "id": "AC9M4A01-T-006",
@@ -1047,33 +2084,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "balanced_equations",
-    "question": "During a farm study, 376 minus a missing number equals 29. What is the missing number?",
-    "audio_prompt": "During a farm study, 376 minus a missing number equals 29. What is the missing number?",
+    "skill": "uniform_unit_balance",
+    "question": "All counters have equal mass. How many counters are in the covered group on this balanced scale?",
+    "audio_prompt": "All counters have equal mass. How many counters are in the covered group on this balanced scale?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-006",
-      "alt_text": "During a farm study: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01/t006.svg#model",
+      "alt_text": "A level balance with groups of 9 and 7 identical counters on the left. On the right are 12 identical counters and a covered group labelled unknown counters."
     },
+    "explanation": {
+      "summary": "The left pan has 9 + 7 = 16 equal counters. The right needs 16 − 12 = 4 more counters. Check: 9 + 7 = 12 + 4.",
+      "hint": "The equal masses mean the total number of counters must match."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 6,
     "answers": [
       {
-        "text": "405",
+        "text": "12",
         "is_correct": false
       },
       {
-        "text": "337",
-        "is_correct": false
-      },
-      {
-        "text": "347",
+        "text": "4",
         "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "28",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    }
+    "correct_index": 1
   },
   {
     "id": "AC9M4A01-T-007",
@@ -1081,33 +2125,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "find_unknown_values",
-    "question": "While reading a trail guide, a missing number plus 30 equals 382. What is the missing number?",
-    "audio_prompt": "While reading a trail guide, a missing number plus 30 equals 382. What is the missing number?",
+    "skill": "balance_subtraction",
+    "question": "What number makes 86 − 32 = 90 − □ true?",
+    "audio_prompt": "What number makes 86 − 32 = 90 − □ true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "The starting amount increases by 4, so the removed amount must also increase by 4. 32 + 4 = 36. Both differences are 54.",
+      "hint": "Keep the difference unchanged while the starting number increases."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 7,
     "answers": [
       {
-        "text": "352",
+        "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "36",
         "is_correct": true
       },
       {
-        "text": "412",
+        "text": "54",
         "is_correct": false
       },
       {
-        "text": "362",
+        "text": "28",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    }
+    "correct_index": 1
   },
   {
     "id": "AC9M4A01-T-008",
@@ -1115,33 +2164,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "balanced_equations",
-    "question": "In an architecture studio, 388 minus a missing number equals 31. What is the missing number?",
-    "audio_prompt": "In an architecture studio, 388 minus a missing number equals 31. What is the missing number?",
+    "skill": "balance_mixed_operations",
+    "question": "What number makes □ + 47 = 120 − 28 true?",
+    "audio_prompt": "What number makes □ + 47 = 120 − 28 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-008",
-      "alt_text": "In an architecture studio: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "120 − 28 = 92. The missing addend is 92 − 47 = 45. Check: 45 + 47 = 92.",
+      "hint": "Find the known side, then the missing part of the equal total."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 8,
     "answers": [
       {
-        "text": "419",
+        "text": "92",
         "is_correct": false
       },
       {
-        "text": "357",
+        "text": "139",
+        "is_correct": false
+      },
+      {
+        "text": "55",
+        "is_correct": false
+      },
+      {
+        "text": "45",
         "is_correct": true
-      },
-      {
-        "text": "347",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    }
+    "correct_index": 3
   },
   {
     "id": "AC9M4A01-T-009",
@@ -1149,33 +2203,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "find_unknown_values",
-    "question": "During a food-truck project, a missing number plus 32 equals 394. What is the missing number?",
-    "audio_prompt": "During a food-truck project, a missing number plus 32 equals 394. What is the missing number?",
+    "skill": "relational_three_digit_sum",
+    "question": "What number makes 137 + 89 = 147 + □ true?",
+    "audio_prompt": "What number makes 137 + 89 = 147 + □ true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-009",
-      "alt_text": "During a food-truck project: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "The first addend increases by 10. Decrease the other addend by 10 to preserve the sum: 89 − 10 = 79. Both sides equal 226.",
+      "hint": "Compare the first addends and make a balancing change."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 9,
     "answers": [
       {
-        "text": "426",
+        "text": "226",
         "is_correct": false
       },
       {
-        "text": "372",
-        "is_correct": false
-      },
-      {
-        "text": "362",
+        "text": "79",
         "is_correct": true
+      },
+      {
+        "text": "99",
+        "is_correct": false
+      },
+      {
+        "text": "89",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    }
+    "correct_index": 1
   },
   {
     "id": "AC9M4A01-T-010",
@@ -1183,33 +2242,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "balanced_equations",
-    "question": "At a festival, 400 minus a missing number equals 33. What is the missing number?",
-    "audio_prompt": "At a festival, 400 minus a missing number equals 33. What is the missing number?",
+    "skill": "constant_difference_truth",
+    "question": "Which explanation shows that 71 − 26 = 66 − 21 is true?",
+    "audio_prompt": "Which explanation shows that 71 − 26 = 66 − 21 is true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-010",
-      "alt_text": "At a festival: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "The pair 71 and 26 shifts down by 5 to 66 and 21. Their gap is unchanged: 71 − 26 = 45 and 66 − 21 = 45.",
+      "hint": "Compare both pairs of corresponding numbers."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 10,
     "answers": [
       {
-        "text": "367",
+        "text": "Subtraction can always be done in either order.",
+        "is_correct": false
+      },
+      {
+        "text": "Both numbers decrease by 5, so the difference remains 45.",
         "is_correct": true
       },
       {
-        "text": "433",
+        "text": "Only the number removed decreases by 5.",
         "is_correct": false
       },
       {
-        "text": "357",
+        "text": "The right-hand difference is 5 less.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    }
+    "correct_index": 1
   },
   {
     "id": "AC9M4A01-T-011",
@@ -1217,33 +2281,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "find_unknown_values",
-    "question": "While organising a collection, a missing number plus 34 equals 406. What is the missing number?",
-    "audio_prompt": "While organising a collection, a missing number plus 34 equals 406. What is the missing number?",
+    "skill": "bar_unknown_part",
+    "question": "What is the unknown part in the bar?",
+    "audio_prompt": "What is the unknown part in the bar?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-011",
-      "alt_text": "While organising a collection: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01/t011.svg#model",
+      "alt_text": "A bar with whole 185. It is split into a part labelled 79 and an unknown part."
     },
+    "explanation": {
+      "summary": "Whole minus known part gives the unknown: 185 − 79 = 106. Check: 79 + 106 = 185.",
+      "hint": "Use the labelled whole and known part."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11,
     "answers": [
       {
-        "text": "440",
+        "text": "96",
         "is_correct": false
       },
       {
-        "text": "372",
+        "text": "116",
+        "is_correct": false
+      },
+      {
+        "text": "264",
+        "is_correct": false
+      },
+      {
+        "text": "106",
         "is_correct": true
-      },
-      {
-        "text": "382",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    }
+    "correct_index": 3
   },
   {
     "id": "AC9M4A01-T-012",
@@ -1251,33 +2322,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "balanced_equations",
-    "question": "In an environmental study, 412 minus a missing number equals 35. What is the missing number?",
-    "audio_prompt": "In an environmental study, 412 minus a missing number equals 35. What is the missing number?",
+    "skill": "substitution_check",
+    "question": "Which check shows that 62 makes 108 − □ = 46 true?",
+    "audio_prompt": "Which check shows that 62 makes 108 − □ = 46 true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-012",
-      "alt_text": "In an environmental study: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "Substitute 62 for the box without changing the rest of the equation. The left side is then 108 − 62 = 46, equal to the right side.",
+      "hint": "Replace only the box, keeping the original operation and order."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12,
     "answers": [
       {
-        "text": "447",
+        "text": "62 − 46 = 108",
         "is_correct": false
       },
       {
-        "text": "367",
+        "text": "46 − 62 = 108",
         "is_correct": false
       },
       {
-        "text": "377",
+        "text": "108 − 62 = 46",
         "is_correct": true
+      },
+      {
+        "text": "108 + 62 = 46",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    }
+    "correct_index": 2
   },
   {
     "id": "AC9M4A01-T-013",
@@ -1285,33 +2361,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "find_unknown_values",
-    "question": "During a transport survey, a missing number plus 36 equals 418. What is the missing number?",
-    "audio_prompt": "During a transport survey, a missing number plus 36 equals 418. What is the missing number?",
+    "skill": "context_unknown_start_addition",
+    "question": "A player gains 38 points and now has 97 points. How many points did the player have before the gain?",
+    "audio_prompt": "A player gains 38 points and now has 97 points. How many points did the player have before the gain?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-013",
-      "alt_text": "During a transport survey: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "The starting score is a missing addend: □ + 38 = 97. Subtract the gain from the final score: 97 − 38 = 59. Check: 59 + 38 = 97.",
+      "hint": "Decide which score is the whole after the points are added."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
     "answers": [
       {
-        "text": "382",
+        "text": "135",
+        "is_correct": false
+      },
+      {
+        "text": "69",
+        "is_correct": false
+      },
+      {
+        "text": "59",
         "is_correct": true
       },
       {
-        "text": "454",
-        "is_correct": false
-      },
-      {
-        "text": "392",
+        "text": "49",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    }
+    "correct_index": 2
   },
   {
     "id": "AC9M4A01-T-014",
@@ -1319,33 +2400,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "balanced_equations",
-    "question": "At a strategy tournament, 424 minus a missing number equals 37. What is the missing number?",
-    "audio_prompt": "At a strategy tournament, 424 minus a missing number equals 37. What is the missing number?",
+    "skill": "context_balance_totals",
+    "question": "Two teams finish with equal scores. One team has 88 points before gaining an unknown number. The other has 105 points before gaining 23. How many points did the first team gain?",
+    "audio_prompt": "Two teams finish with equal scores. One team has 88 points before gaining an unknown number. The other has 105 points before gaining 23. How many points did the first team gain?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "Equal scores give 88 + □ = 105 + 23. The final score is 128, so the first team gained 128 − 88 = 40 points.",
+      "hint": "Write an equation for the equal final scores."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 14,
     "answers": [
       {
-        "text": "461",
+        "text": "216",
         "is_correct": false
       },
       {
-        "text": "387",
+        "text": "128",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "40",
         "is_correct": true
-      },
-      {
-        "text": "377",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    }
+    "correct_index": 3
   },
   {
     "id": "AC9M4A01-T-015",
@@ -1353,33 +2439,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "find_unknown_values",
-    "question": "While planning a community garden, a missing number plus 38 equals 430. What is the missing number?",
-    "audio_prompt": "While planning a community garden, a missing number plus 38 equals 430. What is the missing number?",
+    "skill": "identity_generalisation",
+    "question": "The two boxes represent the same whole number in □ + 18 = 18 + □. Which statement is true?",
+    "audio_prompt": "The two boxes represent the same whole number in □ + 18 = 18 + □. Which statement is true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-015",
-      "alt_text": "While planning a community garden: a Year 4 find unknown values reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "Each side adds the same two numbers in a different order. The commutative property makes the equation true for any whole number used in both boxes.",
+      "hint": "Try two different numbers, then explain what reordering addition preserves."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 15,
     "answers": [
       {
-        "text": "468",
-        "is_correct": false
-      },
-      {
-        "text": "402",
-        "is_correct": false
-      },
-      {
-        "text": "392",
+        "text": "Any whole number in both boxes makes the equation true.",
         "is_correct": true
+      },
+      {
+        "text": "Only 0 can go in both boxes.",
+        "is_correct": false
+      },
+      {
+        "text": "Only 18 can go in both boxes.",
+        "is_correct": false
+      },
+      {
+        "text": "No whole number can go in both boxes.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The missing addend is found by subtraction.",
-      "hint": "Keep both sides equal."
-    }
+    "correct_index": 0
   },
   {
     "id": "AC9M4A01-T-016",
@@ -1387,32 +2478,37 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4A01",
     "bank": "test",
-    "skill": "balanced_equations",
-    "question": "In a design exhibition, 436 minus a missing number equals 39. What is the missing number?",
-    "audio_prompt": "In a design exhibition, 436 minus a missing number equals 39. What is the missing number?",
+    "skill": "error_unknown_removed",
+    "question": "A student adds 83 and 29 to solve 83 − □ = 29. Which correction is right?",
+    "audio_prompt": "A student adds 83 and 29 to solve 83 − □ = 29. Which correction is right?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a01.svg#ac9m4a01-t-016",
-      "alt_text": "In a design exhibition: a Year 4 balanced equations reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "explanation": {
+      "summary": "The unknown is the part removed from 83. The remaining part is 29, so the removed part is 83 − 29 = 54. The check must replace the box, not the starting number.",
+      "hint": "Identify the role of the unknown before choosing the operation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 16,
     "answers": [
       {
-        "text": "397",
+        "text": "Find 83 − 29 = 54, then check 83 − 54 = 29.",
         "is_correct": true
       },
       {
-        "text": "475",
+        "text": "Use 29 because it is already on the right.",
         "is_correct": false
       },
       {
-        "text": "387",
+        "text": "Find 83 − 29 = 54, then put 54 in place of 83.",
+        "is_correct": false
+      },
+      {
+        "text": "Use 112 because adding always finds a missing value.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Subtracting the missing amount leaves the stated value.",
-      "hint": "Use the inverse addition fact."
-    }
+    "correct_index": 0
   }
 ]

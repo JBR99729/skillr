@@ -1,0 +1,32 @@
+[
+  {
+    "path": "year4/maths/ac9m4n06-develop-efficient-strategies-and-use-appropriate-digital-tools/index.html",
+    "authoredSha256": "8d418bcde4cae86491db59a0736d42c1d8823b675d36a82cae815d1a9344a02e",
+    "integratedSha256": "44e676999895387fc57963d1916d91e1a3e175868d6b152c974f5b6f24fdfadb",
+    "preservedVideoSha256": "a058e78857110f9f42868ae06670f471f5a902b86eebdf0bf209e1313aa89603"
+  },
+  {
+    "path": "year4/maths/ac9m4n07-choose-and-use-estimation-and-rounding-to-check-and-explain/index.html",
+    "authoredSha256": "1b96d281f175c76ccb45350f2da7c29c15d39b6bbee0f184f0ce72c349fb111a",
+    "integratedSha256": "e72e6f5cb2e0bac01b8646cee702e374a151bdbc3a588129bfff0edbb4188ee9",
+    "preservedVideoSha256": "097266c433525d1ac6f13a1b11e1d5b20a8c32f9159057aa59b4f02c8fba1598"
+  },
+  {
+    "path": "year4/maths/ac9m4n08-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+    "authoredSha256": "10e31a68ed6c277dee9a8a76fae1bebb795b65774eba6cd3f1949d77a358e815",
+    "integratedSha256": "2455a0f60d0361835fd9d50e43bbb541cde0d61f70e2bd7633a773c2171eabfb",
+    "preservedVideoSha256": "1fe2291e2a14e8dd06da13aecc91ac23c86aff695a4a2c18fc648964ff7824cc"
+  },
+  {
+    "path": "year4/maths/ac9m4n09-follow-and-create-algorithms-involving-a-sequence-of-steps-and/index.html",
+    "authoredSha256": "5af1642e6c6044130fadc8e7cbc6eb23dcfdb033e2bd17faa51082d57db71edf",
+    "integratedSha256": "d3f531e1bf675ab993c36c9d6c8788e7877a0c93187aef422b7071128211e2e9",
+    "preservedVideoSha256": "011d36ccd90d6b6a07782208d865d3c356d0f436abd5a9a9967e421afbfc405e"
+  },
+  {
+    "path": "year4/maths/ac9m4a01-find-unknown-values-in-numerical-equations-involving-addition/index.html",
+    "authoredSha256": "a8de39e6a9da1a1d750fef64c533473ff62663009487fcdb7554013efc1f26e9",
+    "integratedSha256": "257643abe46e40b63cafaf5f932b562439c7a79de1e935a9d5bb417c9ede97a0",
+    "preservedVideoSha256": "d7c8c3a6f236f2f04f233c568e2bcb01b133fc9dbc71bdc369facdd9c7980604"
+  }
+]

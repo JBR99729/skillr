@@ -165,7 +165,7 @@ This content approval is eligible for the review-aware publisher/ledger. The rel
 
 ## Authored preparation compatibility review — 8 September 2026
 
-The reviewer independently read both revised launch panels, their new model captions, alternative labels, SVG references and script order. The reused P001 model was rendered again and inspected: 0 to1 contains four equal intervals, and A is the third interval after0, so A = 3/4. Caption and alt label agree. The separate quarter-counting sequence across1, equal-unit guidance and adult drawing checks remain sound.
+The reviewer independently read both revised launch panels, their new model captions, alternative labels, SVG references and script order. The reused P001 model was rendered again and inspected: 0 to 1 contains four equal intervals, and A is the third interval after 0, so A = 3/4. Caption and alt label agree. The separate quarter-counting sequence across 1, equal-unit guidance and adult drawing checks remain sound.
 
 The shared quick-read helper now recognises the explicit authored-preparation marker only for N01–N09/A01 and the two stated reviewed bank versions, retaining the existing brand/card styling and approved teaching section. Both launch pages load the versioned helper after the activity script and before PWA registration. This static content/integration reading does not substitute for root’s load-order and live browser checks. No bank question, key or assessment SVG was changed by this compatibility fix.
 

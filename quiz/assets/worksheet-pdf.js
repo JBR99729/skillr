@@ -1,7 +1,7 @@
 "use strict";
 
 /* =========================================================
-   SKILLRHUB WORKSHEET PDF - DIRECT PDF v18
+   SKILLRHUB WORKSHEET PDF - DIRECT PDF v18.1
    File path: /quiz/assets/worksheet-pdf.js
 
    IMPORTANT
@@ -14,7 +14,7 @@
    ========================================================= */
 
 (() => {
-  const VERSION = "18";
+  const VERSION = "18.1";
   const JSPDF_URL =
     "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js";
 
@@ -503,7 +503,14 @@
       const stem = `${index + 1}. ${question.question || ""}`;
       font(12,true);
       const stemHeight = wrap(doc,stem,width).length * 5.93;
-      ensure(Math.min(stemHeight + (images.has(question) ? 60 : 28), bottom - 35));
+      // These authored Year 4 tasks need all four writing lines
+      // beside their prompt, even when the worksheet order is shuffled.
+      const keepWrittenWorkspace = question.type === "self-check"
+        && /^AC9M4(?:N0[6-9]|A01)$/.test(getSkillCode())
+        && question.curriculumCode === getSkillCode()
+        && new RegExp(`^${getSkillCode().toLowerCase()}-w-\\d{3}$`).test(question.id || "");
+      const writingAllowance = keepWrittenWorkspace ? 46 : 28;
+      ensure(Math.min(stemHeight + (images.has(question) ? 60 : writingAllowance), bottom - 35));
       activeQuestion = `Question ${index + 1}`;
       paragraph(stem, {bold:true});
       const picture = images.get(question);
