@@ -53,9 +53,15 @@
 }
 
 .skillr-resource :is(.curriculum-hero__lead, .static-topic-hero__lead, .page-hero p) {
+  color: var(--resource-ink);
   max-width: 75ch;
   font-size: 1rem;
   line-height: 1.6;
+}
+
+/* White topic headers must override the pale labels from the blue hero theme. */
+.skillr-resource .static-topic-hero .curriculum-eyebrow {
+  color: var(--resource-heading);
 }
 
 .skillr-resource :where(.eyebrow, .curriculum-eyebrow, .display-eyebrow) {
