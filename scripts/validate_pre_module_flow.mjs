@@ -469,6 +469,7 @@ async function validateRoute({
       readButtonVisible: visible(screen.querySelector(".pre-module-actions .button-secondary")),
       continueLabel: continueButton?.textContent.trim(),
       horizontalOverflow: Math.max(document.documentElement.scrollWidth, document.body.scrollWidth) > document.documentElement.clientWidth + 1,
+      overflowDetails: [...document.querySelectorAll('body *')].filter(e => { const r=e.getBoundingClientRect(); return r.width && r.right > document.documentElement.clientWidth + 1; }).slice(0,20).map(e => ({tag:e.tagName,cls:e.className,text:e.textContent.slice(0,80),right:e.getBoundingClientRect().right,width:e.getBoundingClientRect().width})),
       cardOutsideViewport: cardRect.left < -1 || cardRect.right > innerWidth + 1,
       continueOutsideViewport: continueRect.left < -1 || continueRect.right > innerWidth + 1,
       clipped
@@ -490,7 +491,7 @@ async function validateRoute({
   assertRouteState(gate.preReadSeconds === 0 && !gate.timerPresent, code, mode, "an artificial countdown is present");
   assertRouteState(gate.readButtonVisible, code, mode, "read-aloud control is unavailable");
   assertRouteState(gate.continueLabel === `Continue to ${mode === "practice" ? "Practice" : "Test"}`, code, mode, "Continue control is incorrectly labelled");
-  assertRouteState(!gate.horizontalOverflow && !gate.cardOutsideViewport && !gate.continueOutsideViewport, code, mode, `${label} layout overflows horizontally`);
+  assertRouteState(!gate.horizontalOverflow && !gate.cardOutsideViewport && !gate.continueOutsideViewport, code, mode, `${label} layout overflows horizontally: ${JSON.stringify(gate.overflowDetails)}`);
   assertRouteState(gate.clipped.length === 0, code, mode, `${label} layout clips or truncates: ${gate.clipped.join(", ")}`);
 
   await evaluate(client, sessionId, `document.querySelector("#preModuleScreen .button-secondary").click()`);
