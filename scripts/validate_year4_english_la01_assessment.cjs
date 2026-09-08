@@ -25,7 +25,7 @@ const { parseHTML } = require(dependency.startsWith(".") ? path.resolve(dependen
 const output = option("--output");
 const ROOT = path.resolve(__dirname, "..");
 const CODE = option("--code") || "AC9E4LA01";
-assert(/^AC9E4LA(?:0[1-9]|1[0-2])$/.test(CODE), "Only authored LA01–LA12 supported.");
+assert(/^AC9E4(?:LA(?:0[1-9]|1[0-2])|LE0[1-5]|LY01)$/.test(CODE), "Only authored LA01–LA12, LE01–LE05 and LY01 supported.");
 const BASE = `/quiz/year-4/english/${CODE.toLowerCase()}/`;
 const rows = [];
 const touched = new Set();
@@ -89,6 +89,9 @@ function published(mode) {
 
 function boot(mode, question, helper = true) {
   const env = environment(BASE + mode + "/");
+  const preparation = env.document.querySelector('[data-skillr-authored-preparation="true"]');
+  assert(preparation, "Actual wrapper must contain authored preparation before scripts execute");
+  const preparationHTML = preparation.innerHTML;
   const config = env.html.match(/window\.quizConfig\s*=\s*(\{[\s\S]*?\});/);
   assert(config, `${mode}: actual page config missing`);
   env.ctx.quizConfig = JSON.parse(config[1]);
@@ -108,6 +111,10 @@ function boot(mode, question, helper = true) {
     if (file === "/quiz/assets/script.js") env.run("/quiz/assets/script-runtime-v115.js");
   }
   env.ready();
+  const retained = env.document.querySelector('#startScreen .start-card [data-skillr-authored-preparation="true"]');
+  assert.equal(retained, preparation, "Production initialisation must retain the exact authored preparation node");
+  assert.equal(retained.innerHTML, preparationHTML, "Production initialisation must preserve complete preparation and media");
+  assert.equal(env.document.querySelectorAll('[data-skillr-authored-preparation="true"]').length, 1, "No duplicate preparation after initialisation");
   return env;
 }
 

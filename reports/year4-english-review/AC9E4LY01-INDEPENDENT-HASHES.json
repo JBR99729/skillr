@@ -1,0 +1,14 @@
+{
+  "status": "PASS-content-only",
+  "reviewer": "author_le01_le02",
+  "artifacts": {
+    "assets/assessment-banks/year4/english/ac9e4ly01.json": "49f356cccfd323f320090cefa5c8424bec1f6ba5ea40905425879d7631f2f3a5",
+    "year4/english/ac9e4ly01-texts-from-different-times-with-similar-purposes-and-audiences/index.html": "04bab8c241aa41f65debb567a1898c34decc8716c435e114738aa65e1a134496",
+    "year4/english/ac9e4ly01-texts-from-different-times-with-similar-purposes-and-audiences/teacher-slides/index.html": "ee49b1843d8386e731418cd07d83f05ce9c45e7b569734c419532d1db1197fd2",
+    "quiz/year-4/english/ac9e4ly01/worksheet/worksheet-questions.js": "3931c90d31b169f839b5848f8534617c44db890ea7d3ab8233027f9a4adc9c21",
+    "reports/year4-english-review/AC9E4LY01-WORKSHEET-CONTENT.html": "a8229369ad2bcd722ff1844c6de38584d959cca3704ab6414ef50c4aa76f68cf",
+    "reports/year4-english-review/AC9E4LY01-PREPARATION-PRACTICE.html": "ea301951014264b7a451b072844dffe35aefa4f9f1ea8367c3e1f2844eb10fd7",
+    "reports/year4-english-review/AC9E4LY01-PREPARATION-HUB.html": "567df2cdb5c84dd0b7d01be1b3ef83b48d1dbf16280e5b604a951054ca9fbd62",
+    "reports/year4-english-review/AC9E4LY01-PREPARATION-TEST.html": "b9e698e67c190cefa93d2977b851e0f8d588814bcc70cbb0a899716337ea1063"
+  }
+}

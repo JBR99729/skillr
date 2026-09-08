@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Wordplay and Literary Language",
-    "question": "In the pun “The bicycle was two-tired to continue”, which option best demonstrates the skill?",
-    "audio_prompt": "In the pun “The bicycle was two-tired to continue”, which option best demonstrates the skill?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Bicycle Break\nMy bicycle rested beside the wire.\n“I cannot go on. I am two-tyred!”\nTwo wheels stood still in the afternoon sun;\nthe rider laughed and parked the fun.\n\nWhich two meanings make the joke work?",
+    "audio_prompt": "Original poem: Bicycle Break\nMy bicycle rested beside the wire.\n“I cannot go on. I am two-tyred!”\nTwo wheels stood still in the afternoon sun;\nthe rider laughed and parked the fun.\n\nWhich two meanings make the joke work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+        "text": "Two tyres on a bicycle and feeling too tired to continue.",
         "is_correct": true
       },
       {
-        "text": "The humour comes from the sentence being factual.",
+        "text": "A bicycle with two tyres and a rider with two bicycles.",
         "is_correct": false
       },
       {
-        "text": "Two-tired is a standard scientific term.",
+        "text": "Two tyres on the bicycle and a tyre that needs air.",
+        "is_correct": false
+      },
+      {
+        "text": "A rider who is tired and a bicycle that has been sold.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
-      "hint": "Look for the double meaning."
-    }
+      "summary": "“Two-tyred” sounds like “too tired”; the bicycle context supports the tyre meaning.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LE04-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which choice fits the pun “The bicycle was two-tired to continue” most accurately?",
-    "audio_prompt": "Which choice fits the pun “The bicycle was two-tired to continue” most accurately?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Bicycle Break\nMy bicycle rested beside the wire.\n“I cannot go on. I am two-tyred!”\nTwo wheels stood still in the afternoon sun;\nthe rider laughed and parked the fun.\n\nWhat effect does the pun have here?",
+    "audio_prompt": "Original poem: Bicycle Break\nMy bicycle rested beside the wire.\n“I cannot go on. I am two-tyred!”\nTwo wheels stood still in the afternoon sun;\nthe rider laughed and parked the fun.\n\nWhat effect does the pun have here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The humour comes from the sentence being factual.",
+        "text": "It removes the connection with its wheels.",
         "is_correct": false
       },
       {
-        "text": "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+        "text": "It gives the bicycle’s rest a playful explanation.",
         "is_correct": true
       },
       {
-        "text": "Two-tired is a standard scientific term.",
+        "text": "It provides a precise repair instruction.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the bicycle seem frightening.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
-      "hint": "Look for the double meaning."
-    }
+      "summary": "The sound overlap turns an ordinary rest into a joke.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LE04-P-003",
@@ -66,28 +92,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which choice fits the invented word “splish-splashy” in a beach poem most accurately?",
-    "audio_prompt": "Which choice fits the invented word “splish-splashy” in a beach poem most accurately?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Bicycle Break\nMy bicycle rested beside the wire.\n“I cannot go on. I am two-tyred!”\nTwo wheels stood still in the afternoon sun;\nthe rider laughed and parked the fun.\n\nWhy is this more than an accidental spelling mistake?",
+    "audio_prompt": "Original poem: Bicycle Break\nMy bicycle rested beside the wire.\n“I cannot go on. I am two-tyred!”\nTwo wheels stood still in the afternoon sun;\nthe rider laughed and parked the fun.\n\nWhy is this more than an accidental spelling mistake?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The word has no effect because it is not in every dictionary.",
+        "text": "Tyred is the standard spelling of tired.",
         "is_correct": false
       },
       {
-        "text": "Invented words can only be spelling mistakes.",
+        "text": "The poem tells us tyres can feel pain.",
         "is_correct": false
       },
       {
-        "text": "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+        "text": "The spelling deliberately links the familiar sound to the bike’s two tyres.",
         "is_correct": true
+      },
+      {
+        "text": "Every unusual spelling is always a pun.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Writers can create new words to produce a particular sound, image or mood.",
-      "hint": "Ask what the new word makes you hear or imagine."
-    }
+      "summary": "Intent and the two fitting meanings distinguish the wordplay from a random error.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LE04-P-004",
@@ -96,28 +135,42 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Wordplay and Literary Language",
-    "question": "Look closely at the invented word “splish-splashy” in a beach poem. Which response or wording works best?",
-    "audio_prompt": "Look closely at the invented word “splish-splashy” in a beach poem. Which response or wording works best?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: The Library Tree\nA sapling asked for books to read.\n“I want to branch out,” said the tree.\nIt reached beyond its usual shelf,\nand found a tale unlike itself.\n\nHow does “branch out” work as a pun?",
+    "audio_prompt": "Original poem: The Library Tree\nA sapling asked for books to read.\n“I want to branch out,” said the tree.\nIt reached beyond its usual shelf,\nand found a tale unlike itself.\n\nHow does “branch out” work as a pun?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+        "text": "Growing branches and refusing to read outside.",
+        "is_correct": false
+      },
+      {
+        "text": "Borrowing books and putting them back on the same shelf.",
+        "is_correct": false
+      },
+      {
+        "text": "Turning pages and turning around to go home.",
+        "is_correct": false
+      },
+      {
+        "text": "It means try something new and also brings to mind a tree growing branches.",
         "is_correct": true
-      },
-      {
-        "text": "The word has no effect because it is not in every dictionary.",
-        "is_correct": false
-      },
-      {
-        "text": "Invented words can only be spelling mistakes.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Writers can create new words to produce a particular sound, image or mood.",
-      "hint": "Ask what the new word makes you hear or imagine."
-    }
+      "summary": "A familiar phrase about trying new things gains a second tree-related meaning.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LE04-P-005",
@@ -126,28 +179,42 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Wordplay and Literary Language",
-    "question": "Look closely at the line “The wind whispered through the grass”. Which response or wording works best?",
-    "audio_prompt": "Look closely at the line “The wind whispered through the grass”. Which response or wording works best?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: The Library Tree\nA sapling asked for books to read.\n“I want to branch out,” said the tree.\nIt reached beyond its usual shelf,\nand found a tale unlike itself.\n\nWhich line is the strongest evidence that the tree actually chooses something unfamiliar to read?",
+    "audio_prompt": "Original poem: The Library Tree\nA sapling asked for books to read.\n“I want to branch out,” said the tree.\nIt reached beyond its usual shelf,\nand found a tale unlike itself.\n\nWhich line is the strongest evidence that the tree actually chooses something unfamiliar to read?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The line reports an exact weather measurement.",
-        "is_correct": false
-      },
-      {
-        "text": "Personification gives the wind a human action and creates a gentle sound image.",
+        "text": "“and found a tale unlike itself”",
         "is_correct": true
       },
       {
-        "text": "Whispered means the grass is speaking literally.",
+        "text": "“A sapling asked for books to read”",
+        "is_correct": false
+      },
+      {
+        "text": "“I want to branch out,” said the tree",
+        "is_correct": false
+      },
+      {
+        "text": "“its usual shelf”",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Personification can make a natural element feel alive and shape mood.",
-      "hint": "Identify the human action and its effect."
-    }
+      "summary": "Finding an unlike tale shows movement beyond the familiar.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LE04-P-006",
@@ -156,28 +223,42 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Wordplay and Literary Language",
-    "question": "For the line “The wind whispered through the grass”, which option is the strongest match?",
-    "audio_prompt": "For the line “The wind whispered through the grass”, which option is the strongest match?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: The Library Tree\nA sapling asked for books to read.\n“I want to branch out,” said the tree.\nIt reached beyond its usual shelf,\nand found a tale unlike itself.\n\nWhat makes the scene playful besides the pun?",
+    "audio_prompt": "Original poem: The Library Tree\nA sapling asked for books to read.\n“I want to branch out,” said the tree.\nIt reached beyond its usual shelf,\nand found a tale unlike itself.\n\nWhat makes the scene playful besides the pun?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The line reports an exact weather measurement.",
+        "text": "The tree grows naturally taller while the speaker watches.",
         "is_correct": false
       },
       {
-        "text": "Whispered means the grass is speaking literally.",
-        "is_correct": false
-      },
-      {
-        "text": "Personification gives the wind a human action and creates a gentle sound image.",
+        "text": "A young tree asks for reading material.",
         "is_correct": true
+      },
+      {
+        "text": "The tree stays within its familiar reading choices.",
+        "is_correct": false
+      },
+      {
+        "text": "The speaker gives a literal instruction to plant a tree.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Personification can make a natural element feel alive and shape mood.",
-      "hint": "Identify the human action and its effect."
-    }
+      "summary": "Giving the tree human speech and reading interests helps create an imaginative scene.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LE04-P-007",
@@ -186,28 +267,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Wordplay and Literary Language",
-    "question": "For the phrase “a mountain of homework”, which option is the strongest match?",
-    "audio_prompt": "For the phrase “a mountain of homework”, which option is the strongest match?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Puddle Morning\nI call this game a splishquest:\nwe hunt for puddles, east and west.\nEach tiny splash becomes a clue;\nour soggy socks know what to do.\n\nWhat does the invented word “splishquest” suggest?",
+    "audio_prompt": "Original poem: Puddle Morning\nI call this game a splishquest:\nwe hunt for puddles, east and west.\nEach tiny splash becomes a clue;\nour soggy socks know what to do.\n\nWhat does the invented word “splishquest” suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The exaggeration emphasises that the amount feels very large.",
+        "text": "A race to dry wet socks after the game.",
+        "is_correct": false
+      },
+      {
+        "text": "A search for the quietest place beside a puddle.",
+        "is_correct": false
+      },
+      {
+        "text": "A playful splash-filled search or adventure.",
         "is_correct": true
       },
       {
-        "text": "The phrase proves the homework is physically a mountain.",
-        "is_correct": false
-      },
-      {
-        "text": "The phrase makes the amount smaller.",
+        "text": "A splash that ends the search before it starts.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
-      "hint": "Check whether the image is meant literally."
-    }
+      "summary": "The splash-like “splish” and “quest”, meaning search or adventure, fit the puddle game.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LE04-P-008",
@@ -216,28 +310,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which example should you choose for the phrase “a mountain of homework”?",
-    "audio_prompt": "Which example should you choose for the phrase “a mountain of homework”?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Puddle Morning\nI call this game a splishquest:\nwe hunt for puddles, east and west.\nEach tiny splash becomes a clue;\nour soggy socks know what to do.\n\nWhy might the poet invent this word?",
+    "audio_prompt": "Original poem: Puddle Morning\nI call this game a splishquest:\nwe hunt for puddles, east and west.\nEach tiny splash becomes a clue;\nour soggy socks know what to do.\n\nWhy might the poet invent this word?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The phrase proves the homework is physically a mountain.",
+        "text": "To make the poem a factual weather record.",
         "is_correct": false
       },
       {
-        "text": "The exaggeration emphasises that the amount feels very large.",
+        "text": "To prove ordinary words cannot describe rain.",
+        "is_correct": false
+      },
+      {
+        "text": "To correct the standard spelling of quest.",
+        "is_correct": false
+      },
+      {
+        "text": "To give the familiar puddle game a fresh, adventurous name.",
         "is_correct": true
-      },
-      {
-        "text": "The phrase makes the amount smaller.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
-      "hint": "Check whether the image is meant literally."
-    }
+      "summary": "The invention makes an everyday game sound imaginative and new.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LE04-P-009",
@@ -246,28 +353,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which example should you choose for the emotive phrase “helpless joey” in a rescue appeal?",
-    "audio_prompt": "Which example should you choose for the emotive phrase “helpless joey” in a rescue appeal?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Puddle Morning\nI call this game a splishquest:\nwe hunt for puddles, east and west.\nEach tiny splash becomes a clue;\nour soggy socks know what to do.\n\nWhich statement best describes this neologism?",
+    "audio_prompt": "Original poem: Puddle Morning\nI call this game a splishquest:\nwe hunt for puddles, east and west.\nEach tiny splash becomes a clue;\nour soggy socks know what to do.\n\nWhich statement best describes this neologism?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The word gives only a measurement.",
-        "is_correct": false
-      },
-      {
-        "text": "Emotive language removes all viewpoint.",
-        "is_correct": false
-      },
-      {
-        "text": "Helpless encourages concern and makes readers feel the animal needs protection.",
+        "text": "It is deliberately coined for this playful context.",
         "is_correct": true
+      },
+      {
+        "text": "It must be a spelling error because it is unfamiliar.",
+        "is_correct": false
+      },
+      {
+        "text": "It is automatically a pun with two established meanings.",
+        "is_correct": false
+      },
+      {
+        "text": "It is the only correct name for playing in puddles.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Emotive words are chosen partly for the feelings they encourage.",
-      "hint": "Notice the feeling carried by the adjective."
-    }
+      "summary": "A neologism is a new word or use; here its purpose and meaning are supported by context.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LE04-P-010",
@@ -276,28 +396,42 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Wordplay and Literary Language",
-    "question": "In the emotive phrase “helpless joey” in a rescue appeal, which option best demonstrates the skill?",
-    "audio_prompt": "In the emotive phrase “helpless joey” in a rescue appeal, which option best demonstrates the skill?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Blanket Weather\nThe house grew quiet, lamps burned low.\nWe made a snugglestorm of pillows, row on row.\nOutside, cold raindrops tapped the pane;\ninside, we laughed at all that rain.\n\nWhat meaning does “snugglestorm” create here?",
+    "audio_prompt": "Original poem: Blanket Weather\nThe house grew quiet, lamps burned low.\nWe made a snugglestorm of pillows, row on row.\nOutside, cold raindrops tapped the pane;\ninside, we laughed at all that rain.\n\nWhat meaning does “snugglestorm” create here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Helpless encourages concern and makes readers feel the animal needs protection.",
+        "text": "An argument about switching on lamps.",
+        "is_correct": false
+      },
+      {
+        "text": "A large, lively pile of cosy cushions and comfort.",
         "is_correct": true
       },
       {
-        "text": "The word gives only a measurement.",
+        "text": "A dangerous storm entering the house.",
         "is_correct": false
       },
       {
-        "text": "Emotive language removes all viewpoint.",
+        "text": "A scientific name for freezing rain.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Emotive words are chosen partly for the feelings they encourage.",
-      "hint": "Notice the feeling carried by the adjective."
-    }
+      "summary": "The cosy indoor pillows turn the storm idea into playful abundance.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LE04-P-011",
@@ -305,29 +439,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Wordplay and Literary Language",
-    "question": "Why does “The humour comes from two-tired sounding like too tired while also referring to two tyres.” work well for the pun “The bicycle was two-tired to continue”?",
-    "audio_prompt": "Why does “The humour comes from two-tired sounding like too tired while also referring to two tyres.” work well for the pun “The bicycle was two-tired to continue”?",
+    "stage": "recognise",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Blanket Weather\nThe house grew quiet, lamps burned low.\nWe made a snugglestorm of pillows, row on row.\nOutside, cold raindrops tapped the pane;\ninside, we laughed at all that rain.\n\nWhich nearby words help you understand the new word?",
+    "audio_prompt": "Original poem: Blanket Weather\nThe house grew quiet, lamps burned low.\nWe made a snugglestorm of pillows, row on row.\nOutside, cold raindrops tapped the pane;\ninside, we laughed at all that rain.\n\nWhich nearby words help you understand the new word?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The humour comes from the sentence being factual.” is always acceptable in this situation.",
+        "text": "“pane” meaning only a window sheet",
         "is_correct": false
       },
       {
-        "text": "A pun depends on two meanings or similar sounds being activated at once.",
+        "text": "The poem’s title alone says all pillows are wet.",
+        "is_correct": false
+      },
+      {
+        "text": "“pillows, row on row” and “inside, we laughed”",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "“outside” without the other lines",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
-      "hint": "Look for the double meaning."
-    }
+      "summary": "The pile and enjoyment support the comforting invented meaning.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LE04-P-012",
@@ -335,29 +483,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Wordplay and Literary Language",
-    "question": "What makes “The humour comes from two-tired sounding like too tired while also referring to two tyres.” a better choice in the pun “The bicycle was two-tired to continue”?",
-    "audio_prompt": "What makes “The humour comes from two-tired sounding like too tired while also referring to two tyres.” a better choice in the pun “The bicycle was two-tired to continue”?",
+    "stage": "recognise",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Blanket Weather\nThe house grew quiet, lamps burned low.\nWe made a snugglestorm of pillows, row on row.\nOutside, cold raindrops tapped the pane;\ninside, we laughed at all that rain.\n\nWhat contrast helps the poem feel cosy?",
+    "audio_prompt": "Original poem: Blanket Weather\nThe house grew quiet, lamps burned low.\nWe made a snugglestorm of pillows, row on row.\nOutside, cold raindrops tapped the pane;\ninside, we laughed at all that rain.\n\nWhat contrast helps the poem feel cosy?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The humour comes from the sentence being factual.” is always acceptable in this situation.",
+        "text": "Hot sunshine outside contrasts with an empty house.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The speaker dislikes both pillows and laughter.",
         "is_correct": false
       },
       {
-        "text": "A pun depends on two meanings or similar sounds being activated at once.",
+        "text": "The poem compares two identical outdoor storms.",
+        "is_correct": false
+      },
+      {
+        "text": "Cold rain outside contrasts with shared comfort inside.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
-      "hint": "Look for the double meaning."
-    }
+      "summary": "The different indoor and outdoor conditions sharpen the sense of shelter.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LE04-P-013",
@@ -365,29 +527,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Wordplay and Literary Language",
-    "question": "What makes “The neologism blends familiar sound patterns to make the water feel lively and playful.” a better choice in the invented word “splish-splashy” in a beach poem?",
-    "audio_prompt": "What makes “The neologism blends familiar sound patterns to make the water feel lively and playful.” a better choice in the invented word “splish-splashy” in a beach poem?",
+    "stage": "recognise",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: The Rescue Box\nA shivering joey in a worn-out box,\na gentle hand beside the locks.\nThe lonely night began to fade;\na sheltered bed was softly made.\n\nWhich adjective most directly presents the night as emotionally difficult?",
+    "audio_prompt": "Original poem: The Rescue Box\nA shivering joey in a worn-out box,\na gentle hand beside the locks.\nThe lonely night began to fade;\na sheltered bed was softly made.\n\nWhich adjective most directly presents the night as emotionally difficult?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Writers can create new words to produce a particular sound, image or mood.",
+        "text": "lonely",
         "is_correct": true
       },
       {
-        "text": "Because “The word has no effect because it is not in every dictionary.” is always acceptable in this situation.",
+        "text": "gentle",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "sheltered",
+        "is_correct": false
+      },
+      {
+        "text": "softly",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Writers can create new words to produce a particular sound, image or mood.",
-      "hint": "Ask what the new word makes you hear or imagine."
-    }
+      "summary": "“Lonely” suggests isolation; softly is an adverb and the other choices create care or safety.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LE04-P-014",
@@ -395,29 +570,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which explanation best justifies “The neologism blends familiar sound patterns to make the water feel lively and playful.” for the invented word “splish-splashy” in a beach poem?",
-    "audio_prompt": "Which explanation best justifies “The neologism blends familiar sound patterns to make the water feel lively and playful.” for the invented word “splish-splashy” in a beach poem?",
+    "stage": "recognise",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: The Rescue Box\nA shivering joey in a worn-out box,\na gentle hand beside the locks.\nThe lonely night began to fade;\na sheltered bed was softly made.\n\nWhat movement in feeling does the poem suggest?",
+    "audio_prompt": "Original poem: The Rescue Box\nA shivering joey in a worn-out box,\na gentle hand beside the locks.\nThe lonely night began to fade;\na sheltered bed was softly made.\n\nWhat movement in feeling does the poem suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The word has no effect because it is not in every dictionary.” is always acceptable in this situation.",
+        "text": "From safety towards certain abandonment.",
         "is_correct": false
       },
       {
-        "text": "Writers can create new words to produce a particular sound, image or mood.",
+        "text": "From vulnerability towards comfort and care.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "From celebration towards deliberate cruelty.",
+        "is_correct": false
+      },
+      {
+        "text": "From boredom towards a noisy race.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Writers can create new words to produce a particular sound, image or mood.",
-      "hint": "Ask what the new word makes you hear or imagine."
-    }
+      "summary": "Shivering and lonely introduce need; gentle, sheltered and softly suggest care.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LE04-P-015",
@@ -425,29 +613,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which explanation best justifies “Personification gives the wind a human action and creates a gentle sound image.” for the line “The wind whispered through the grass”?",
-    "audio_prompt": "Which explanation best justifies “Personification gives the wind a human action and creates a gentle sound image.” for the line “The wind whispered through the grass”?",
+    "stage": "recognise",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: The Rescue Box\nA shivering joey in a worn-out box,\na gentle hand beside the locks.\nThe lonely night began to fade;\na sheltered bed was softly made.\n\nIf “gentle hand” became “rough hand”, what would likely change?",
+    "audio_prompt": "Original poem: The Rescue Box\nA shivering joey in a worn-out box,\na gentle hand beside the locks.\nThe lonely night began to fade;\na sheltered bed was softly made.\n\nIf “gentle hand” became “rough hand”, what would likely change?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The line reports an exact weather measurement.” is always acceptable in this situation.",
+        "text": "The joey would certainly escape at once.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The scene would have exactly the same tone.",
         "is_correct": false
       },
       {
-        "text": "Personification can make a natural element feel alive and shape mood.",
+        "text": "The care would seem less reassuring.",
         "is_correct": true
+      },
+      {
+        "text": "The hand would automatically become larger.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Personification can make a natural element feel alive and shape mood.",
-      "hint": "Identify the human action and its effect."
-    }
+      "summary": "Rough suggests a different manner of handling, changing the emotional impression without fixing an outcome.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LE04-P-016",
@@ -455,29 +656,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Wordplay and Literary Language",
-    "question": "What should you notice about “Personification gives the wind a human action and creates a gentle sound image.” in the line “The wind whispered through the grass”?",
-    "audio_prompt": "What should you notice about “Personification gives the wind a human action and creates a gentle sound image.” in the line “The wind whispered through the grass”?",
+    "stage": "recognise",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: The Creek\nThe creek lay like a silver ribbon\nthreaded through the grass.\nOne leaf turned slowly in its light,\nthen let the quiet water pass.\n\nWhat does the simile help us picture?",
+    "audio_prompt": "Original poem: The Creek\nThe creek lay like a silver ribbon\nthreaded through the grass.\nOne leaf turned slowly in its light,\nthen let the quiet water pass.\n\nWhat does the simile help us picture?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Personification can make a natural element feel alive and shape mood.",
+        "text": "A creek made from actual sewing material.",
+        "is_correct": false
+      },
+      {
+        "text": "A sudden flood covering every house.",
+        "is_correct": false
+      },
+      {
+        "text": "A ribbon lying beside a dry channel.",
+        "is_correct": false
+      },
+      {
+        "text": "A narrow, shining line of water through the grass.",
         "is_correct": true
-      },
-      {
-        "text": "Because “The line reports an exact weather measurement.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Personification can make a natural element feel alive and shape mood.",
-      "hint": "Identify the human action and its effect."
-    }
+      "summary": "Like links the creek to the ribbon’s shape and shine without making it literal cloth.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LE04-P-017",
@@ -486,28 +700,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Wordplay and Literary Language",
-    "question": "What should you notice about “The exaggeration emphasises that the amount feels very large.” in the phrase “a mountain of homework”?",
-    "audio_prompt": "What should you notice about “The exaggeration emphasises that the amount feels very large.” in the phrase “a mountain of homework”?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: The Creek\nThe creek lay like a silver ribbon\nthreaded through the grass.\nOne leaf turned slowly in its light,\nthen let the quiet water pass.\n\nWhich detail strengthens the calm effect?",
+    "audio_prompt": "Original poem: The Creek\nThe creek lay like a silver ribbon\nthreaded through the grass.\nOne leaf turned slowly in its light,\nthen let the quiet water pass.\n\nWhich detail strengthens the calm effect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The phrase proves the homework is physically a mountain.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+        "text": "The leaf turns slowly in quiet water.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The silver ribbon image emphasises brightness, suggesting a dazzling rather than quiet scene.",
+        "is_correct": false
+      },
+      {
+        "text": "Threaded suggests the water is tied down and cannot move.",
+        "is_correct": false
+      },
+      {
+        "text": "The leaf turning suggests a sudden rapid spin.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
-      "hint": "Check whether the image is meant literally."
-    }
+      "summary": "Slow movement and quiet directly support the calm scene.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LE04-P-018",
@@ -516,28 +743,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which reason explains why “The exaggeration emphasises that the amount feels very large.” suits the phrase “a mountain of homework”?",
-    "audio_prompt": "Which reason explains why “The exaggeration emphasises that the amount feels very large.” suits the phrase “a mountain of homework”?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: The Creek\nThe creek lay like a silver ribbon\nthreaded through the grass.\nOne leaf turned slowly in its light,\nthen let the quiet water pass.\n\nWhich replacement would keep a simile but change the mood most?",
+    "audio_prompt": "Original poem: The Creek\nThe creek lay like a silver ribbon\nthreaded through the grass.\nOne leaf turned slowly in its light,\nthen let the quiet water pass.\n\nWhich replacement would keep a simile but change the mood most?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The phrase proves the homework is physically a mountain.” is always acceptable in this situation.",
+        "text": "The creek gleamed like a silver thread.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
+        "text": "The creek snapped like a whip against the bank.",
         "is_correct": true
+      },
+      {
+        "text": "The creek shone like a ribbon through the grass.",
+        "is_correct": false
+      },
+      {
+        "text": "The creek curved like a ribbon in the field.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
-      "hint": "Check whether the image is meant literally."
-    }
+      "summary": "Snapped and whip suggest force, unlike the gentle ribbon or thread comparisons.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LE04-P-019",
@@ -546,28 +786,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which reason explains why “Helpless encourages concern and makes readers feel the animal needs protection.” suits the emotive phrase “helpless joey” in a rescue appeal?",
-    "audio_prompt": "Which reason explains why “Helpless encourages concern and makes readers feel the animal needs protection.” suits the emotive phrase “helpless joey” in a rescue appeal?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Wind Visitor\nThe wind knocked fiercely at our door,\nthen muttered down the lane.\nWe pulled our chairs a little closer\nand listened to the rain.\n\nHow is the wind personified?",
+    "audio_prompt": "Original poem: Wind Visitor\nThe wind knocked fiercely at our door,\nthen muttered down the lane.\nWe pulled our chairs a little closer\nand listened to the rain.\n\nHow is the wind personified?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Emotive words are chosen partly for the feelings they encourage.",
+        "text": "It is described as air that moves.",
+        "is_correct": false
+      },
+      {
+        "text": "It is compared using the word like.",
+        "is_correct": false
+      },
+      {
+        "text": "It is given human-like knocking and muttering actions.",
         "is_correct": true
       },
       {
-        "text": "Because “The word gives only a measurement.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "It is measured by a weather instrument.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Emotive words are chosen partly for the feelings they encourage.",
-      "hint": "Notice the feeling carried by the adjective."
-    }
+      "summary": "Muttering is human-style speech; the visitor-like actions give the wind a character.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LE04-P-020",
@@ -576,28 +829,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Wordplay and Literary Language",
-    "question": "Why does “Helpless encourages concern and makes readers feel the animal needs protection.” work well for the emotive phrase “helpless joey” in a rescue appeal?",
-    "audio_prompt": "Why does “Helpless encourages concern and makes readers feel the animal needs protection.” work well for the emotive phrase “helpless joey” in a rescue appeal?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Wind Visitor\nThe wind knocked fiercely at our door,\nthen muttered down the lane.\nWe pulled our chairs a little closer\nand listened to the rain.\n\nWhat does “fiercely” contribute?",
+    "audio_prompt": "Original poem: Wind Visitor\nThe wind knocked fiercely at our door,\nthen muttered down the lane.\nWe pulled our chairs a little closer\nand listened to the rain.\n\nWhat does “fiercely” contribute?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The word gives only a measurement.” is always acceptable in this situation.",
+        "text": "It establishes the wind’s exact speed.",
         "is_correct": false
       },
       {
-        "text": "Emotive words are chosen partly for the feelings they encourage.",
+        "text": "It means the wind is inviting everyone to play.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the door has broken.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the knocking seem forceful or threatening.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Emotive words are chosen partly for the feelings they encourage.",
-      "hint": "Notice the feeling carried by the adjective."
-    }
+      "summary": "The manner of knocking shapes the mood; no measurement or broken door is given.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LE04-P-021",
@@ -605,29 +871,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which revision best fixes the problem in “The humour comes from the sentence being factual.” for the pun “The bicycle was two-tired to continue”?",
-    "audio_prompt": "Which revision best fixes the problem in “The humour comes from the sentence being factual.” for the pun “The bicycle was two-tired to continue”?",
+    "stage": "explain",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Wind Visitor\nThe wind knocked fiercely at our door,\nthen muttered down the lane.\nWe pulled our chairs a little closer\nand listened to the rain.\n\nWhich claim goes beyond the poem?",
+    "audio_prompt": "Original poem: Wind Visitor\nThe wind knocked fiercely at our door,\nthen muttered down the lane.\nWe pulled our chairs a little closer\nand listened to the rain.\n\nWhich claim goes beyond the poem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The humour comes from the sentence being factual.",
-        "is_correct": false
-      },
-      {
-        "text": "Two-tired is a standard scientific term.",
-        "is_correct": false
-      },
-      {
-        "text": "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+        "text": "The wind is a real person outside the house.",
         "is_correct": true
+      },
+      {
+        "text": "The speaker hears wind and rain.",
+        "is_correct": false
+      },
+      {
+        "text": "People pull their chairs closer.",
+        "is_correct": false
+      },
+      {
+        "text": "The wind’s actions may make the outdoors seem unsettling.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A pun depends on two meanings or similar sounds being activated at once. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for the double meaning."
-    }
+      "summary": "Personification invites an imaginative reading, not a literal human identity.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LE04-P-022",
@@ -635,29 +914,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Wordplay and Literary Language",
-    "question": "Compare the choices for the pun “The bicycle was two-tired to continue”. Which one avoids the mistake in “The humour comes from the sentence being factual.”?",
-    "audio_prompt": "Compare the choices for the pun “The bicycle was two-tired to continue”. Which one avoids the mistake in “The humour comes from the sentence being factual.”?",
+    "stage": "explain",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Homework Mountain\nA mountain of sums leaned over my chair.\nI sharpened my pencil and stared at the air.\nThen one little answer appeared on the page;\nthe mountain grew smaller at every stage.\n\nWhat does “a mountain of sums” suggest?",
+    "audio_prompt": "Original poem: Homework Mountain\nA mountain of sums leaned over my chair.\nI sharpened my pencil and stared at the air.\nThen one little answer appeared on the page;\nthe mountain grew smaller at every stage.\n\nWhat does “a mountain of sums” suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+        "text": "The child knows the mountain’s height.",
+        "is_correct": false
+      },
+      {
+        "text": "The work feels large and difficult to begin.",
         "is_correct": true
       },
       {
-        "text": "The humour comes from the sentence being factual.",
+        "text": "The page is located on a real mountain.",
         "is_correct": false
       },
       {
-        "text": "Two-tired is a standard scientific term.",
+        "text": "The sums are written on climbing equipment.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A pun depends on two meanings or similar sounds being activated at once. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for the double meaning."
-    }
+      "summary": "The metaphor conveys the speaker’s impression of the workload.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LE04-P-023",
@@ -665,29 +957,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Wordplay and Literary Language",
-    "question": "Compare the choices for the invented word “splish-splashy” in a beach poem. Which one avoids the mistake in “The word has no effect because it is not in every dictionary.”?",
-    "audio_prompt": "Compare the choices for the invented word “splish-splashy” in a beach poem. Which one avoids the mistake in “The word has no effect because it is not in every dictionary.”?",
+    "stage": "explain",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Homework Mountain\nA mountain of sums leaned over my chair.\nI sharpened my pencil and stared at the air.\nThen one little answer appeared on the page;\nthe mountain grew smaller at every stage.\n\nWhat does the mountain getting smaller represent?",
+    "audio_prompt": "Original poem: Homework Mountain\nA mountain of sums leaned over my chair.\nI sharpened my pencil and stared at the air.\nThen one little answer appeared on the page;\nthe mountain grew smaller at every stage.\n\nWhat does the mountain getting smaller represent?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The word has no effect because it is not in every dictionary.",
+        "text": "The child making the chair shorter.",
         "is_correct": false
       },
       {
-        "text": "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+        "text": "The sums disappearing before any attempt.",
+        "is_correct": false
+      },
+      {
+        "text": "Progress as the speaker completes the work.",
         "is_correct": true
       },
       {
-        "text": "Invented words can only be spelling mistakes.",
+        "text": "A real landslide outside the room.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Writers can create new words to produce a particular sound, image or mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what the new word makes you hear or imagine."
-    }
+      "summary": "An answer appears and the task gradually reduces; the continuing image represents progress.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LE04-P-024",
@@ -695,29 +1000,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Wordplay and Literary Language",
-    "question": "If “The word has no effect because it is not in every dictionary.” does not work in the invented word “splish-splashy” in a beach poem, what should replace it?",
-    "audio_prompt": "If “The word has no effect because it is not in every dictionary.” does not work in the invented word “splish-splashy” in a beach poem, what should replace it?",
+    "stage": "explain",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Homework Mountain\nA mountain of sums leaned over my chair.\nI sharpened my pencil and stared at the air.\nThen one little answer appeared on the page;\nthe mountain grew smaller at every stage.\n\nWhy would a literal reading miss the point?",
+    "audio_prompt": "Original poem: Homework Mountain\nA mountain of sums leaned over my chair.\nI sharpened my pencil and stared at the air.\nThen one little answer appeared on the page;\nthe mountain grew smaller at every stage.\n\nWhy would a literal reading miss the point?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The word has no effect because it is not in every dictionary.",
+        "text": "The poem gives the exact number of sums.",
         "is_correct": false
       },
       {
-        "text": "Invented words can only be spelling mistakes.",
+        "text": "Every word in poems must be nonliteral.",
         "is_correct": false
       },
       {
-        "text": "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+        "text": "Mountains never occur in factual writing.",
+        "is_correct": false
+      },
+      {
+        "text": "It would ignore the comparison between effort and climbing something large.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Writers can create new words to produce a particular sound, image or mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what the new word makes you hear or imagine."
-    }
+      "summary": "Some details are literal, but the central image expresses how the task feels.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LE04-P-025",
@@ -725,29 +1043,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Wordplay and Literary Language",
-    "question": "If “The line reports an exact weather measurement.” does not work in the line “The wind whispered through the grass”, what should replace it?",
-    "audio_prompt": "If “The line reports an exact weather measurement.” does not work in the line “The wind whispered through the grass”, what should replace it?",
+    "stage": "explain",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Campfire\nSoft sparks settle; sleepy shadows sway.\nWe fold the noisy games away.\nThe tired fire gives one small glow;\nthe night speaks gently, low and slow.\n\nWhich sound is repeated at the start of several nearby words in line one?",
+    "audio_prompt": "Original poem: Campfire\nSoft sparks settle; sleepy shadows sway.\nWe fold the noisy games away.\nThe tired fire gives one small glow;\nthe night speaks gently, low and slow.\n\nWhich sound is repeated at the start of several nearby words in line one?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Personification gives the wind a human action and creates a gentle sound image.",
+        "text": "The s sound.",
         "is_correct": true
       },
       {
-        "text": "The line reports an exact weather measurement.",
+        "text": "The b sound.",
         "is_correct": false
       },
       {
-        "text": "Whispered means the grass is speaking literally.",
+        "text": "The hard k sound.",
+        "is_correct": false
+      },
+      {
+        "text": "The m sound.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Personification can make a natural element feel alive and shape mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Identify the human action and its effect."
-    }
+      "summary": "Soft, sparks, settle, sleepy, shadows and sway begin with related s/sh sounds; soft, sparks, settle, sleepy and sway share s.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LE04-P-026",
@@ -755,29 +1086,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which option corrects the meaning or form needed for the line “The wind whispered through the grass”?",
-    "audio_prompt": "Which option corrects the meaning or form needed for the line “The wind whispered through the grass”?",
+    "stage": "explain",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Campfire\nSoft sparks settle; sleepy shadows sway.\nWe fold the noisy games away.\nThe tired fire gives one small glow;\nthe night speaks gently, low and slow.\n\nHow do sound and meaning work together here?",
+    "audio_prompt": "Original poem: Campfire\nSoft sparks settle; sleepy shadows sway.\nWe fold the noisy games away.\nThe tired fire gives one small glow;\nthe night speaks gently, low and slow.\n\nHow do sound and meaning work together here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The line reports an exact weather measurement.",
+        "text": "The repeated sounds make the scene seem hurried, despite the slow actions.",
         "is_correct": false
       },
       {
-        "text": "Personification gives the wind a human action and creates a gentle sound image.",
+        "text": "Repeated soft sounds join sleepy and gently to support a quiet mood.",
         "is_correct": true
       },
       {
-        "text": "Whispered means the grass is speaking literally.",
+        "text": "The noisy games remain the main mood because they are mentioned once.",
+        "is_correct": false
+      },
+      {
+        "text": "The rhyme gives the poem a joking mood, despite its restful words.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Personification can make a natural element feel alive and shape mood. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Identify the human action and its effect."
-    }
+      "summary": "Sound contributes alongside the words’ meaning; it does not establish facts absent from the text.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LE04-P-027",
@@ -785,29 +1129,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which option corrects the meaning or form needed for the phrase “a mountain of homework”?",
-    "audio_prompt": "Which option corrects the meaning or form needed for the phrase “a mountain of homework”?",
+    "stage": "explain",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Campfire\nSoft sparks settle; sleepy shadows sway.\nWe fold the noisy games away.\nThe tired fire gives one small glow;\nthe night speaks gently, low and slow.\n\nWhich phrase personifies something non-human?",
+    "audio_prompt": "Original poem: Campfire\nSoft sparks settle; sleepy shadows sway.\nWe fold the noisy games away.\nThe tired fire gives one small glow;\nthe night speaks gently, low and slow.\n\nWhich phrase personifies something non-human?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The phrase proves the homework is physically a mountain.",
+        "text": "“one small glow” by itself",
         "is_correct": false
       },
       {
-        "text": "The phrase makes the amount smaller.",
+        "text": "“low and slow” by itself",
         "is_correct": false
       },
       {
-        "text": "The exaggeration emphasises that the amount feels very large.",
+        "text": "“the night speaks gently, low and slow”",
         "is_correct": true
+      },
+      {
+        "text": "“We fold the noisy games away”",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check whether the image is meant literally."
-    }
+      "summary": "Speaking gives the night a human-like action, helping present the quiet surroundings as a gentle voice.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LE04-P-028",
@@ -815,29 +1172,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which choice is the clearest correction for the phrase “a mountain of homework”?",
-    "audio_prompt": "Which choice is the clearest correction for the phrase “a mountain of homework”?",
+    "stage": "explain",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: The Queue\nMy five-minute wait felt a thousand winters long;\nmy ice-cream dream was almost mine.\nAt last I reached the ice-cream stand;\na dripping cone was in my hand.\n\nHow do we know “a thousand winters” is exaggeration here?",
+    "audio_prompt": "Original poem: The Queue\nMy five-minute wait felt a thousand winters long;\nmy ice-cream dream was almost mine.\nAt last I reached the ice-cream stand;\na dripping cone was in my hand.\n\nHow do we know “a thousand winters” is exaggeration here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The exaggeration emphasises that the amount feels very large.",
+        "text": "Ice cream makes the speaker forget how much time has passed.",
+        "is_correct": false
+      },
+      {
+        "text": "The speaker mentions winter, so the queue must have lasted a season.",
+        "is_correct": false
+      },
+      {
+        "text": "The cone is dripping, so the wait must have lasted all day.",
+        "is_correct": false
+      },
+      {
+        "text": "The first line contrasts a real five-minute wait with a thousand winters.",
         "is_correct": true
-      },
-      {
-        "text": "The phrase proves the homework is physically a mountain.",
-        "is_correct": false
-      },
-      {
-        "text": "The phrase makes the amount smaller.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check whether the image is meant literally."
-    }
+      "summary": "The explicitly five-minute wait is compared with a huge duration, showing how long it feels rather than a measured thousand winters.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LE04-P-029",
@@ -845,29 +1215,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which choice is the clearest correction for the emotive phrase “helpless joey” in a rescue appeal?",
-    "audio_prompt": "Which choice is the clearest correction for the emotive phrase “helpless joey” in a rescue appeal?",
+    "stage": "explain",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: The Queue\nMy five-minute wait felt a thousand winters long;\nmy ice-cream dream was almost mine.\nAt last I reached the ice-cream stand;\na dripping cone was in my hand.\n\nWhat does the exaggeration communicate?",
+    "audio_prompt": "Original poem: The Queue\nMy five-minute wait felt a thousand winters long;\nmy ice-cream dream was almost mine.\nAt last I reached the ice-cream stand;\na dripping cone was in my hand.\n\nWhat does the exaggeration communicate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The word gives only a measurement.",
-        "is_correct": false
-      },
-      {
-        "text": "Helpless encourages concern and makes readers feel the animal needs protection.",
+        "text": "The wait feels extremely long to the eager speaker.",
         "is_correct": true
       },
       {
-        "text": "Emotive language removes all viewpoint.",
+        "text": "The speaker is remembering a winter journey while waiting.",
+        "is_correct": false
+      },
+      {
+        "text": "The speaker reports the queue’s actual measured duration.",
+        "is_correct": false
+      },
+      {
+        "text": "The speaker has decided never to return to the stand.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Emotive words are chosen partly for the feelings they encourage. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Notice the feeling carried by the adjective."
-    }
+      "summary": "Hyperbole makes the impatience vivid rather than reporting a measured time.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LE04-P-030",
@@ -875,29 +1258,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which revision best fixes the problem in “The word gives only a measurement.” for the emotive phrase “helpless joey” in a rescue appeal?",
-    "audio_prompt": "Which revision best fixes the problem in “The word gives only a measurement.” for the emotive phrase “helpless joey” in a rescue appeal?",
+    "stage": "explain",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: The Queue\nMy five-minute wait felt a thousand winters long;\nmy ice-cream dream was almost mine.\nAt last I reached the ice-cream stand;\na dripping cone was in my hand.\n\nWhich revision removes the hyperbole while keeping the event?",
+    "audio_prompt": "Original poem: The Queue\nMy five-minute wait felt a thousand winters long;\nmy ice-cream dream was almost mine.\nAt last I reached the ice-cream stand;\na dripping cone was in my hand.\n\nWhich revision removes the hyperbole while keeping the event?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The word gives only a measurement.",
+        "text": "I waited for every mountain to fall.",
         "is_correct": false
       },
       {
-        "text": "Emotive language removes all viewpoint.",
-        "is_correct": false
-      },
-      {
-        "text": "Helpless encourages concern and makes readers feel the animal needs protection.",
+        "text": "I waited five minutes in line.",
         "is_correct": true
+      },
+      {
+        "text": "I waited through a million moons in line.",
+        "is_correct": false
+      },
+      {
+        "text": "I waited longer than the stars in line.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Emotive words are chosen partly for the feelings they encourage. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Notice the feeling carried by the adjective."
-    }
+      "summary": "Five minutes is explicitly the wait’s length; the other choices keep enormous exaggerated times.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LE04-P-031",
@@ -905,29 +1301,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "You now need to handle the pun “The bicycle was two-tired to continue” independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle the pun “The bicycle was two-tired to continue” independently. Which choice should you use?",
+    "stage": "explain",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Seal of Approval\nThe seal examined every dish\nand clapped its flippers at the fish.\nThe cook declared, “Our meal is fine;\nit has a seal of approval this time!”\n\nWhich two meanings meet in the final line?",
+    "audio_prompt": "Original poem: Seal of Approval\nThe seal examined every dish\nand clapped its flippers at the fish.\nThe cook declared, “Our meal is fine;\nit has a seal of approval this time!”\n\nWhich two meanings meet in the final line?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+        "text": "A seal closing something tightly and a meal being kept warm.",
+        "is_correct": false
+      },
+      {
+        "text": "The animal’s flippers and the cook’s hands preparing fish.",
+        "is_correct": false
+      },
+      {
+        "text": "An animal called a seal and an expression meaning official approval.",
         "is_correct": true
       },
       {
-        "text": "Two-tired is a standard scientific term.",
-        "is_correct": false
-      },
-      {
-        "text": "The humour comes from the sentence being factual.",
+        "text": "A seal swimming and the cook finishing a dish.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
-      "hint": "Look for the double meaning."
-    }
+      "summary": "The approving animal makes the familiar expression work as a literal animal joke too.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LE04-P-032",
@@ -935,29 +1344,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Apply the same idea to the pun “The bicycle was two-tired to continue”. Which option is best?",
-    "audio_prompt": "Apply the same idea to the pun “The bicycle was two-tired to continue”. Which option is best?",
+    "stage": "explain",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Seal of Approval\nThe seal examined every dish\nand clapped its flippers at the fish.\nThe cook declared, “Our meal is fine;\nit has a seal of approval this time!”\n\nWhich action helps the pun fit the scene?",
+    "audio_prompt": "Original poem: Seal of Approval\nThe seal examined every dish\nand clapped its flippers at the fish.\nThe cook declared, “Our meal is fine;\nit has a seal of approval this time!”\n\nWhich action helps the pun fit the scene?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Two-tired is a standard scientific term.",
+        "text": "The cook never serves anything.",
         "is_correct": false
       },
       {
-        "text": "The humour comes from two-tired sounding like too tired while also referring to two tyres.",
+        "text": "The seal swims away before seeing food.",
+        "is_correct": false
+      },
+      {
+        "text": "The fish is described by its weight only.",
+        "is_correct": false
+      },
+      {
+        "text": "The seal claps at the fish.",
         "is_correct": true
-      },
-      {
-        "text": "The humour comes from the sentence being factual.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A pun depends on two meanings or similar sounds being activated at once.",
-      "hint": "Look for the double meaning."
-    }
+      "summary": "Clapping supplies approval, linking the animal to the expression.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LE04-P-033",
@@ -966,28 +1388,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Apply the same idea to the invented word “splish-splashy” in a beach poem. Which option is best?",
-    "audio_prompt": "Apply the same idea to the invented word “splish-splashy” in a beach poem. Which option is best?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Seal of Approval\nThe seal examined every dish\nand clapped its flippers at the fish.\nThe cook declared, “Our meal is fine;\nit has a seal of approval this time!”\n\nWhich explanation best describes the effect?",
+    "audio_prompt": "Original poem: Seal of Approval\nThe seal examined every dish\nand clapped its flippers at the fish.\nThe cook declared, “Our meal is fine;\nit has a seal of approval this time!”\n\nWhich explanation best describes the effect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Invented words can only be spelling mistakes.",
-        "is_correct": false
-      },
-      {
-        "text": "The word has no effect because it is not in every dictionary.",
-        "is_correct": false
-      },
-      {
-        "text": "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+        "text": "The phrase creates a joke by joining two fitting meanings.",
         "is_correct": true
+      },
+      {
+        "text": "The phrase stresses only that the food has been covered and stored.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase explains why the cook is disappointed in the dish.",
+        "is_correct": false
+      },
+      {
+        "text": "The phrase describes an ordinary job without using a second meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Writers can create new words to produce a particular sound, image or mood.",
-      "hint": "Ask what the new word makes you hear or imagine."
-    }
+      "summary": "Wordplay uses meaning and context rather than providing factual animal behaviour.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LE04-P-034",
@@ -996,28 +1431,42 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which decision would produce the clearest result in the invented word “splish-splashy” in a beach poem?",
-    "audio_prompt": "Which decision would produce the clearest result in the invented word “splish-splashy” in a beach poem?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Mooncrumbs\nAcross the lake the moonlight broke\ninto mooncrumbs bright and small.\nI watched each tiny shining piece\nand wished to keep them all.\n\nWhat are “mooncrumbs” in this poem?",
+    "audio_prompt": "Original poem: Mooncrumbs\nAcross the lake the moonlight broke\ninto mooncrumbs bright and small.\nI watched each tiny shining piece\nand wished to keep them all.\n\nWhat are “mooncrumbs” in this poem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The neologism blends familiar sound patterns to make the water feel lively and playful.",
+        "text": "Raindrops falling into a dark room.",
+        "is_correct": false
+      },
+      {
+        "text": "Small patches of reflected moonlight on water.",
         "is_correct": true
       },
       {
-        "text": "Invented words can only be spelling mistakes.",
+        "text": "Pieces of rock the speaker collected from the Moon.",
         "is_correct": false
       },
       {
-        "text": "The word has no effect because it is not in every dictionary.",
+        "text": "Crumbs from a biscuit shaped like a lake.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Writers can create new words to produce a particular sound, image or mood.",
-      "hint": "Ask what the new word makes you hear or imagine."
-    }
+      "summary": "The surrounding moonlight, lake and shining pieces support the invented image.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LE04-P-035",
@@ -1026,28 +1475,42 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which decision would produce the clearest result in the line “The wind whispered through the grass”?",
-    "audio_prompt": "Which decision would produce the clearest result in the line “The wind whispered through the grass”?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Mooncrumbs\nAcross the lake the moonlight broke\ninto mooncrumbs bright and small.\nI watched each tiny shining piece\nand wished to keep them all.\n\nWhat does the new word add beyond “light”?",
+    "audio_prompt": "Original poem: Mooncrumbs\nAcross the lake the moonlight broke\ninto mooncrumbs bright and small.\nI watched each tiny shining piece\nand wished to keep them all.\n\nWhat does the new word add beyond “light”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Whispered means the grass is speaking literally.",
+        "text": "It means the speaker has eaten the Moon.",
         "is_correct": false
       },
       {
-        "text": "Personification gives the wind a human action and creates a gentle sound image.",
+        "text": "It proves the water has become solid.",
+        "is_correct": false
+      },
+      {
+        "text": "It suggests many small pieces in a fresh, playful way.",
         "is_correct": true
       },
       {
-        "text": "The line reports an exact weather measurement.",
+        "text": "It tells us an exact scientific unit of brightness.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Personification can make a natural element feel alive and shape mood.",
-      "hint": "Identify the human action and its effect."
-    }
+      "summary": "Crumbs evokes small pieces, giving the reflected light a concrete imaginative quality.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LE04-P-036",
@@ -1056,28 +1519,42 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Choose the option that applies the skill correctly in the line “The wind whispered through the grass”.",
-    "audio_prompt": "Choose the option that applies the skill correctly in the line “The wind whispered through the grass”.",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Mooncrumbs\nAcross the lake the moonlight broke\ninto mooncrumbs bright and small.\nI watched each tiny shining piece\nand wished to keep them all.\n\nIs “mooncrumbs” necessarily a spelling mistake?",
+    "audio_prompt": "Original poem: Mooncrumbs\nAcross the lake the moonlight broke\ninto mooncrumbs bright and small.\nI watched each tiny shining piece\nand wished to keep them all.\n\nIs “mooncrumbs” necessarily a spelling mistake?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Whispered means the grass is speaking literally.",
+        "text": "Yes; all unfamiliar words are mistakes.",
         "is_correct": false
       },
       {
-        "text": "The line reports an exact weather measurement.",
+        "text": "Yes; new words cannot be used in poetry.",
         "is_correct": false
       },
       {
-        "text": "Personification gives the wind a human action and creates a gentle sound image.",
+        "text": "No; it must be the official scientific term.",
+        "is_correct": false
+      },
+      {
+        "text": "No; the poem deliberately gives a new name to a visible effect.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Personification can make a natural element feel alive and shape mood.",
-      "hint": "Identify the human action and its effect."
-    }
+      "summary": "Intent and understandable context support deliberate coinage, without claiming official terminology.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LE04-P-037",
@@ -1086,28 +1563,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Choose the option that applies the skill correctly in the phrase “a mountain of homework”.",
-    "audio_prompt": "Choose the option that applies the skill correctly in the phrase “a mountain of homework”.",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Two Gardens\nVersion A: Proud sunflowers lift their golden heads.\nVersion B: Weary sunflowers lower their faded heads.\n\nWhich adjective in Version B most directly suggests tiredness?",
+    "audio_prompt": "Original poem: Two Gardens\nVersion A: Proud sunflowers lift their golden heads.\nVersion B: Weary sunflowers lower their faded heads.\n\nWhich adjective in Version B most directly suggests tiredness?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The exaggeration emphasises that the amount feels very large.",
+        "text": "weary",
         "is_correct": true
       },
       {
-        "text": "The phrase makes the amount smaller.",
+        "text": "proud",
         "is_correct": false
       },
       {
-        "text": "The phrase proves the homework is physically a mountain.",
+        "text": "golden",
+        "is_correct": false
+      },
+      {
+        "text": "their",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
-      "hint": "Check whether the image is meant literally."
-    }
+      "summary": "Weary means tired; it encourages a different emotional response from proud.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LE04-P-038",
@@ -1116,28 +1606,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "What would be the most effective choice for the phrase “a mountain of homework”?",
-    "audio_prompt": "What would be the most effective choice for the phrase “a mountain of homework”?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Two Gardens\nVersion A: Proud sunflowers lift their golden heads.\nVersion B: Weary sunflowers lower their faded heads.\n\nHow do the two versions differ in likely mood?",
+    "audio_prompt": "Original poem: Two Gardens\nVersion A: Proud sunflowers lift their golden heads.\nVersion B: Weary sunflowers lower their faded heads.\n\nHow do the two versions differ in likely mood?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The phrase makes the amount smaller.",
+        "text": "A suggests tiredness; B suggests recovery and confidence.",
         "is_correct": false
       },
       {
-        "text": "The exaggeration emphasises that the amount feels very large.",
+        "text": "A suggests vigour; B suggests tiredness or decline.",
         "is_correct": true
       },
       {
-        "text": "The phrase proves the homework is physically a mountain.",
+        "text": "Both focus mainly on playful humour rather than the flowers’ condition.",
+        "is_correct": false
+      },
+      {
+        "text": "A suggests sadness; B suggests determination because the heads move.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Hyperbole exaggerates for emphasis rather than literal accuracy.",
-      "hint": "Check whether the image is meant literally."
-    }
+      "summary": "Proud/lift/golden contrasts with weary/lower/faded; several choices work together.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LE04-P-039",
@@ -1146,28 +1649,41 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "What would be the most effective choice for the emotive phrase “helpless joey” in a rescue appeal?",
-    "audio_prompt": "What would be the most effective choice for the emotive phrase “helpless joey” in a rescue appeal?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Two Gardens\nVersion A: Proud sunflowers lift their golden heads.\nVersion B: Weary sunflowers lower their faded heads.\n\nWhy can two readers respond a little differently?",
+    "audio_prompt": "Original poem: Two Gardens\nVersion A: Proud sunflowers lift their golden heads.\nVersion B: Weary sunflowers lower their faded heads.\n\nWhy can two readers respond a little differently?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Emotive language removes all viewpoint.",
+        "text": "Every interpretation is equally supported by every line.",
         "is_correct": false
       },
       {
-        "text": "The word gives only a measurement.",
+        "text": "Adjectives never affect a poem’s meaning.",
         "is_correct": false
       },
       {
-        "text": "Helpless encourages concern and makes readers feel the animal needs protection.",
+        "text": "They can bring different experiences while still explaining their response with the words.",
         "is_correct": true
+      },
+      {
+        "text": "There are no words to use as evidence.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Emotive words are chosen partly for the feelings they encourage.",
-      "hint": "Notice the feeling carried by the adjective."
-    }
+      "summary": "Responses can vary, but a strong explanation remains grounded in the actual wording.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LE04-P-040",
@@ -1176,28 +1692,290 @@
     "curriculum_code": "AC9E4LE04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "You now need to handle the emotive phrase “helpless joey” in a rescue appeal independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle the emotive phrase “helpless joey” in a rescue appeal independently. Which choice should you use?",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original miniature: “Lettuce celebrate!” said the rabbit, raising a crunchy leaf.\n\nWhat makes this a pun?",
+    "audio_prompt": "Original miniature: “Lettuce celebrate!” said the rabbit, raising a crunchy leaf.\n\nWhat makes this a pun?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Helpless encourages concern and makes readers feel the animal needs protection.",
+        "text": "The joke depends only on the rabbit speaking like a person.",
+        "is_correct": false
+      },
+      {
+        "text": "The word celebrate has two different meanings in the scene.",
+        "is_correct": false
+      },
+      {
+        "text": "Crunchy is a new word invented to sound like a laugh.",
+        "is_correct": false
+      },
+      {
+        "text": "“Lettuce” sounds like “let us”, and a rabbit is holding an actual leaf.",
         "is_correct": true
-      },
-      {
-        "text": "Emotive language removes all viewpoint.",
-        "is_correct": false
-      },
-      {
-        "text": "The word gives only a measurement.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Emotive words are chosen partly for the feelings they encourage.",
-      "hint": "Notice the feeling carried by the adjective."
-    }
+      "summary": "Sound overlap plus the rabbit’s food context creates the two linked meanings.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LE04-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Original poem: The Gate\nA hopeful small face at the gate,\none patient hand upon the rail.\nA distant wave; the waiting ends,\na happy shout floats down the trail.\nChoose two words that shape feeling and explain how the mood develops.",
+    "audio_prompt": "Original poem: The Gate\nA hopeful small face at the gate,\none patient hand upon the rail.\nA distant wave; the waiting ends,\na happy shout floats down the trail.\nChoose two words that shape feeling and explain how the mood develops.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Hopeful and patient present anticipation while waiting; happy shows joy when the distant wave arrives.",
+    "acceptance_note": "Require two precise words and a reasonable connection to the change from waiting to arrival. Alternative supported emotional readings accepted.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
+    "explanation": {
+      "summary": "Hopeful and patient present anticipation while waiting; happy shows joy when the distant wave arrives.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LE04-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Create a two-line poem about a familiar activity using one deliberately invented word. Underline the new word and explain its meaning and the playful or fresh effect you want.",
+    "audio_prompt": "Create a two-line poem about a familiar activity using one deliberately invented word. Underline the new word and explain its meaning and the playful or fresh effect you want.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Our paper boats begin their floatabout; / round puddle islands they sail out. Floatabout is a playful name for sailing and wandering around.",
+    "acceptance_note": "Require original two-line text, a deliberate intelligible new word or new usage, contextual meaning and intended effect. Do not credit an unexplained spelling error.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
+    "explanation": {
+      "summary": "Our paper boats begin their floatabout; / round puddle islands they sail out. Floatabout is a playful name for sailing and wandering around.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LE04-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Original scene: The gardener looked at the bare flowerbed. “I need to turn over a new leaf,” she said, planting a seedling. Explain the phrase’s usual meaning and the plant-related meaning that makes it playful here.",
+    "audio_prompt": "Original scene: The gardener looked at the bare flowerbed. “I need to turn over a new leaf,” she said, planting a seedling. Explain the phrase’s usual meaning and the plant-related meaning that makes it playful here.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "To turn over a new leaf usually means make a fresh start or improve. In the garden, leaf also brings to mind the new plant, making the fresh start plant-related and playful.",
+    "acceptance_note": "Require the fresh-start meaning and the plant leaf connection supported by the seedling context. Accept explanation that the leaf need not literally be flipped for the pun to work.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
+    "explanation": {
+      "summary": "To turn over a new leaf usually means make a fresh start or improve. In the garden, leaf also brings to mind the new plant, making the fresh start plant-related and playful.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LE04-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Original poem: The Cloud\nA cloud was a pillow above the town;\nthe rooftops settled as dusk came down.\nExplain the comparison. Rewrite the first line to give the cloud a threatening effect, then explain one changed word.",
+    "audio_prompt": "Original poem: The Cloud\nA cloud was a pillow above the town;\nthe rooftops settled as dusk came down.\nExplain the comparison. Rewrite the first line to give the cloud a threatening effect, then explain one changed word.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The pillow suggests softness and rest. “A cloud was a fist above the town” suggests force or threat because a fist can strike.",
+    "acceptance_note": "Require original metaphor or simile, clear change of intended effect and word-linked explanation. Accept many suitable images; no universal effect claims.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
+    "explanation": {
+      "summary": "The pillow suggests softness and rest. “A cloud was a fist above the town” suggests force or threat because a fist can strike.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LE04-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "With the reading link in preparation, read “Wildflower” by Kirli Saunders on Red Room Poetry. Choose one word that shows difficulty and one that shows value or care. Explain how their contrast shapes the poem’s message. Discuss your explanation with an adult.",
+    "audio_prompt": "With the reading link in preparation, read “Wildflower” by Kirli Saunders on Red Room Poetry. Choose one word that shows difficulty and one that shows value or care. Explain how their contrast shapes the poem’s message. Discuss your explanation with an adult.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“struggles” suggests difficulty, while “precious” shows value. Flowers growing despite a difficult place can suggest hope or encouragement through hardship.",
+    "acceptance_note": "Require the actual poem to be read and two precise words linked to a supported contrast and message. Accept other well-supported emotional responses. Kirli Saunders is a Gunai author; discuss her specific poem rather than treating it as a voice for all First Nations Peoples. If source is inaccessible, leave pending. External full poem is linked, not reproduced.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
+    "explanation": {
+      "summary": "“struggles” suggests difficulty, while “precious” shows value. Flowers growing despite a difficult place can suggest hope or encouragement through hardship.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E2",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LE04-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Original poem: Rain Talk\nTap-tap, the raindrops drum the tin;\nwe count the beats and settle in.\nRead aloud if you wish. Explain how the sound words and one action create the scene.",
+    "audio_prompt": "Original poem: Rain Talk\nTap-tap, the raindrops drum the tin;\nwe count the beats and settle in.\nRead aloud if you wish. Explain how the sound words and one action create the scene.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Tap-tap imitates light repeated tapping; drum links the rain to a beat. Counting and settling in suggest people listening comfortably indoors.",
+    "acceptance_note": "Require actual sound wording plus meaning in this scene. Oral reading is optional; do not assume sound alone creates an identical feeling for all readers.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
+    "explanation": {
+      "summary": "Tap-tap imitates light repeated tapping; drum links the rain to a beat. Counting and settling in suggest people listening comfortably indoors.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LE04-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Original scene: “This is un-bear-able!” groaned the bear, carrying a very heavy picnic basket. Explain the sound and meaning that make the wordplay fit. Then rewrite the sentence plainly without the joke.",
+    "audio_prompt": "Original scene: “This is un-bear-able!” groaned the bear, carrying a very heavy picnic basket. Explain the sound and meaning that make the wordplay fit. Then rewrite the sentence plainly without the joke.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Un-bear-able sounds like unbearable, meaning too difficult to tolerate, but also highlights bear, the animal speaking. Plainly: “This basket is too heavy!” the bear groaned.",
+    "acceptance_note": "Require both meanings/sound relationship and a plain rewrite that keeps the complaint. Accept consistent spelling variants used deliberately for the joke.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
+    "explanation": {
+      "summary": "Un-bear-able sounds like unbearable, meaning too difficult to tolerate, but also highlights bear, the animal speaking. Plainly: “This basket is too heavy!” the bear groaned.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LE04-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Original poem: After the Match\nOur muddy, weary boots stood still;\na proud small smile climbed up the hill.\nWhich words allow tiredness and satisfaction to exist together? Explain why the speaker need not feel only one emotion.",
+    "audio_prompt": "Original poem: After the Match\nOur muddy, weary boots stood still;\na proud small smile climbed up the hill.\nWhich words allow tiredness and satisfaction to exist together? Explain why the speaker need not feel only one emotion.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Weary suggests tiredness, while proud and smile suggest satisfaction. A person can feel tired after effort and pleased with what they did.",
+    "acceptance_note": "Require at least one clue for each feeling and an explanation of their compatibility. The poem does not establish winning, so do not require or assume a victory.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
+    "explanation": {
+      "summary": "Weary suggests tiredness, while proud and smile suggest satisfaction. A person can feel tired after effort and pleased with what they did.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LE04-T-001",
@@ -1205,29 +1983,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Wordplay and Literary Language",
-    "question": "New context: the simile “the creek glittered like scattered coins”. Which option is correct?",
-    "audio_prompt": "New context: the simile “the creek glittered like scattered coins”. Which option is correct?",
+    "stage": "independent",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Breadwinner\nThe baker entered the running race\nand reached the tape in first place.\n“A breadwinner!” called the crowd with glee;\nhe bowed, still dusted flour-white to the knee.\n\nWhich meanings make “breadwinner” playful here?",
+    "audio_prompt": "Original poem: Breadwinner\nThe baker entered the running race\nand reached the tape in first place.\n“A breadwinner!” called the crowd with glee;\nhe bowed, still dusted flour-white to the knee.\n\nWhich meanings make “breadwinner” playful here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The creek contains actual coins.",
-        "is_correct": false
-      },
-      {
-        "text": "The comparison helps the reader picture bright flashes of light on the water.",
+        "text": "Someone who earns a living and a baker who wins the race.",
         "is_correct": true
       },
       {
-        "text": "The simile explains the creek’s depth exactly.",
+        "text": "The baker’s daily income and the crowd’s daily income.",
+        "is_correct": false
+      },
+      {
+        "text": "Winning a loaf as a prize and giving that loaf away.",
+        "is_correct": false
+      },
+      {
+        "text": "Kneading bread and needing to run faster.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A simile connects one image to another to create a vivid picture.",
-      "hint": "Ask what shared quality links the two things."
-    }
+      "summary": "The familiar earning-a-living meaning meets the literal baker-as-winner context.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LE04-T-002",
@@ -1235,29 +2026,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Wordplay and Literary Language",
-    "question": "What is the best choice for the simile “the creek glittered like scattered coins”?",
-    "audio_prompt": "What is the best choice for the simile “the creek glittered like scattered coins”?",
+    "stage": "independent",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Breadwinner\nThe baker entered the running race\nand reached the tape in first place.\n“A breadwinner!” called the crowd with glee;\nhe bowed, still dusted flour-white to the knee.\n\nWhich detail makes “breadwinner” refer playfully to winning a race?",
+    "audio_prompt": "Original poem: Breadwinner\nThe baker entered the running race\nand reached the tape in first place.\n“A breadwinner!” called the crowd with glee;\nhe bowed, still dusted flour-white to the knee.\n\nWhich detail makes “breadwinner” refer playfully to winning a race?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The creek contains actual coins.",
+        "text": "The crowd calls out with glee.",
         "is_correct": false
       },
       {
-        "text": "The simile explains the creek’s depth exactly.",
-        "is_correct": false
-      },
-      {
-        "text": "The comparison helps the reader picture bright flashes of light on the water.",
+        "text": "The baker reaches the tape first.",
         "is_correct": true
+      },
+      {
+        "text": "The baker is dusted with flour.",
+        "is_correct": false
+      },
+      {
+        "text": "The baker bows to the crowd.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A simile connects one image to another to create a vivid picture.",
-      "hint": "Ask what shared quality links the two things."
-    }
+      "summary": "Winning the race makes the baker a winner, activating the playful reading.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LE04-T-003",
@@ -1265,29 +2069,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which explanation best supports “The comparison helps the reader picture bright flashes of light on the water.” in the simile “the creek glittered like scattered coins”?",
-    "audio_prompt": "Which explanation best supports “The comparison helps the reader picture bright flashes of light on the water.” in the simile “the creek glittered like scattered coins”?",
+    "stage": "independent",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Breadwinner\nThe baker entered the running race\nand reached the tape in first place.\n“A breadwinner!” called the crowd with glee;\nhe bowed, still dusted flour-white to the knee.\n\nWhat is the likely tone of the crowd’s remark?",
+    "audio_prompt": "Original poem: Breadwinner\nThe baker entered the running race\nand reached the tape in first place.\n“A breadwinner!” called the crowd with glee;\nhe bowed, still dusted flour-white to the knee.\n\nWhat is the likely tone of the crowd’s remark?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "A simile connects one image to another to create a vivid picture.",
+        "text": "Strictly scientific.",
+        "is_correct": false
+      },
+      {
+        "text": "Regretful about a stated injury.",
+        "is_correct": false
+      },
+      {
+        "text": "Celebratory and playful.",
         "is_correct": true
       },
       {
-        "text": "Because “The creek contains actual coins.” is always a safe choice.",
-        "is_correct": false
-      },
-      {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "Threatening and secretive.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A simile connects one image to another to create a vivid picture.",
-      "hint": "Ask what shared quality links the two things."
-    }
+      "summary": "First place, glee and the wordplay support a joyful tone.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LE04-T-004",
@@ -1295,29 +2112,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which clue should guide your decision in the simile “the creek glittered like scattered coins”?",
-    "audio_prompt": "Which clue should guide your decision in the simile “the creek glittered like scattered coins”?",
+    "stage": "independent",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Starsteps\nAt night I make my starsteps slow,\nfrom paving square to square I go.\nEach wet tile holds a tiny light;\nI walk across the scattered night.\n\nWhat does the invented “starsteps” most likely refer to?",
+    "audio_prompt": "Original poem: Starsteps\nAt night I make my starsteps slow,\nfrom paving square to square I go.\nEach wet tile holds a tiny light;\nI walk across the scattered night.\n\nWhat does the invented “starsteps” most likely refer to?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "Steps on the actual surface of a star.",
         "is_correct": false
       },
       {
-        "text": "Ask what shared quality links the two things.",
+        "text": "A spelling correction for staircases.",
+        "is_correct": false
+      },
+      {
+        "text": "A count of planets made by a scientist.",
+        "is_correct": false
+      },
+      {
+        "text": "Steps across paving that reflects points of light.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A simile connects one image to another to create a vivid picture.",
-      "hint": "Ask what shared quality links the two things."
-    }
+      "summary": "Paving, wet tiles and reflected light give the coined word meaning.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LE04-T-005",
@@ -1325,29 +2156,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which option would you reject first in the simile “the creek glittered like scattered coins”?",
-    "audio_prompt": "Which option would you reject first in the simile “the creek glittered like scattered coins”?",
+    "stage": "independent",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Starsteps\nAt night I make my starsteps slow,\nfrom paving square to square I go.\nEach wet tile holds a tiny light;\nI walk across the scattered night.\n\nHow does the invention shape this ordinary walk?",
+    "audio_prompt": "Original poem: Starsteps\nAt night I make my starsteps slow,\nfrom paving square to square I go.\nEach wet tile holds a tiny light;\nI walk across the scattered night.\n\nHow does the invention shape this ordinary walk?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The comparison helps the reader picture bright flashes of light on the water.",
-        "is_correct": false
-      },
-      {
-        "text": "The simile explains the creek’s depth exactly.",
-        "is_correct": false
-      },
-      {
-        "text": "The creek contains actual coins.",
+        "text": "It makes the walk seem imaginative and special.",
         "is_correct": true
+      },
+      {
+        "text": "It provides a new official astronomy term.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the walker has left Earth.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes every image from the scene.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A simile connects one image to another to create a vivid picture.",
-      "hint": "Ask what shared quality links the two things."
-    }
+      "summary": "The word connects everyday movement to shining stars without a literal space journey.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LE04-T-006",
@@ -1355,29 +2200,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which correction should replace “The creek contains actual coins.” in the simile “the creek glittered like scattered coins”?",
-    "audio_prompt": "Which correction should replace “The creek contains actual coins.” in the simile “the creek glittered like scattered coins”?",
+    "stage": "independent",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Starsteps\nAt night I make my starsteps slow,\nfrom paving square to square I go.\nEach wet tile holds a tiny light;\nI walk across the scattered night.\n\nWhich phrase most clearly supports the light-reflection interpretation?",
+    "audio_prompt": "Original poem: Starsteps\nAt night I make my starsteps slow,\nfrom paving square to square I go.\nEach wet tile holds a tiny light;\nI walk across the scattered night.\n\nWhich phrase most clearly supports the light-reflection interpretation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The comparison helps the reader picture bright flashes of light on the water.",
+        "text": "“slow” tells us the tile colour.",
+        "is_correct": false
+      },
+      {
+        "text": "“Each wet tile holds a tiny light”",
         "is_correct": true
       },
       {
-        "text": "The creek contains actual coins.",
+        "text": "“At night” alone establishes wet tiles.",
         "is_correct": false
       },
       {
-        "text": "The simile explains the creek’s depth exactly.",
+        "text": "“I go” proves the sky is cloudless.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A simile connects one image to another to create a vivid picture.",
-      "hint": "Ask what shared quality links the two things."
-    }
+      "summary": "The tile and light appear together, grounding the image in visible reflections.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LE04-T-007",
@@ -1385,29 +2244,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Apply the skill to the simile “the creek glittered like scattered coins”: what should you choose?",
-    "audio_prompt": "Apply the skill to the simile “the creek glittered like scattered coins”: what should you choose?",
+    "stage": "independent",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Empty Nest\nA frail nest rocks in the leafless tree,\na silent cup where songs should be.\nThen from the hedge, a bright call springs;\nthe garden lifts its hidden wings.\n\nWhich opening adjective makes the nest seem delicate or vulnerable?",
+    "audio_prompt": "Original poem: Empty Nest\nA frail nest rocks in the leafless tree,\na silent cup where songs should be.\nThen from the hedge, a bright call springs;\nthe garden lifts its hidden wings.\n\nWhich opening adjective makes the nest seem delicate or vulnerable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The creek contains actual coins.",
+        "text": "hidden",
         "is_correct": false
       },
       {
-        "text": "The comparison helps the reader picture bright flashes of light on the water.",
+        "text": "its",
+        "is_correct": false
+      },
+      {
+        "text": "frail",
         "is_correct": true
       },
       {
-        "text": "The simile explains the creek’s depth exactly.",
+        "text": "bright",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A simile connects one image to another to create a vivid picture.",
-      "hint": "Ask what shared quality links the two things."
-    }
+      "summary": "Frail suggests weakness or delicacy, shaping the opening image.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LE04-T-008",
@@ -1415,29 +2287,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which final choice gives the clearest and most accurate result for the simile “the creek glittered like scattered coins”?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for the simile “the creek glittered like scattered coins”?",
+    "stage": "independent",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Empty Nest\nA frail nest rocks in the leafless tree,\na silent cup where songs should be.\nThen from the hedge, a bright call springs;\nthe garden lifts its hidden wings.\n\nHow does the call affect the poem’s mood?",
+    "audio_prompt": "Original poem: Empty Nest\nA frail nest rocks in the leafless tree,\na silent cup where songs should be.\nThen from the hedge, a bright call springs;\nthe garden lifts its hidden wings.\n\nHow does the call affect the poem’s mood?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The creek contains actual coins.",
+        "text": "It makes the opening’s sense of emptiness stronger.",
         "is_correct": false
       },
       {
-        "text": "The simile explains the creek’s depth exactly.",
+        "text": "It shifts the focus toward danger approaching the nest.",
         "is_correct": false
       },
       {
-        "text": "The comparison helps the reader picture bright flashes of light on the water.",
+        "text": "It keeps the mood unchanged because the nest remains in the tree.",
+        "is_correct": false
+      },
+      {
+        "text": "It introduces life and hope after the quiet opening.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A simile connects one image to another to create a vivid picture.",
-      "hint": "Ask what shared quality links the two things."
-    }
+      "summary": "Bright call contrasts with silent and leafless, suggesting renewal without a numerical claim.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LE04-T-009",
@@ -1445,29 +2330,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Wordplay and Literary Language",
-    "question": "New context: the alliterative phrase “crackling campfire”. Which option is correct?",
-    "audio_prompt": "New context: the alliterative phrase “crackling campfire”. Which option is correct?",
+    "stage": "independent",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Empty Nest\nA frail nest rocks in the leafless tree,\na silent cup where songs should be.\nThen from the hedge, a bright call springs;\nthe garden lifts its hidden wings.\n\nWhat does “the garden lifts its hidden wings” do?",
+    "audio_prompt": "Original poem: Empty Nest\nA frail nest rocks in the leafless tree,\na silent cup where songs should be.\nThen from the hedge, a bright call springs;\nthe garden lifts its hidden wings.\n\nWhat does “the garden lifts its hidden wings” do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.",
+        "text": "It imaginatively presents the garden as becoming lively.",
         "is_correct": true
       },
       {
-        "text": "Alliteration changes the campfire into a person.",
+        "text": "It tells us a single bird is literally named Garden.",
         "is_correct": false
       },
       {
-        "text": "Repeated sounds have no effect on rhythm.",
+        "text": "It suggests the plants hide the birds so completely that all life has vanished.",
+        "is_correct": false
+      },
+      {
+        "text": "It shifts from the quiet garden to a dream of leaving the place.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Sound patterns can reinforce an image and make wording memorable.",
-      "hint": "Listen for repeated starting sounds and connect them to meaning."
-    }
+      "summary": "The nonliteral image combines the garden with bird-like movement to suggest renewed life.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LE04-T-010",
@@ -1475,29 +2373,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Wordplay and Literary Language",
-    "question": "What is the best choice for the alliterative phrase “crackling campfire”?",
-    "audio_prompt": "What is the best choice for the alliterative phrase “crackling campfire”?",
+    "stage": "independent",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Lunch Bell\nThe bell burst like a shout through the hall;\na hundred hungry footsteps answered its call.\nI could eat the whole kitchen today!\nI laughed as I hurried away.\n\nWhat does the simile in line one emphasise?",
+    "audio_prompt": "Original poem: Lunch Bell\nThe bell burst like a shout through the hall;\na hundred hungry footsteps answered its call.\nI could eat the whole kitchen today!\nI laughed as I hurried away.\n\nWhat does the simile in line one emphasise?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Alliteration changes the campfire into a person.",
+        "text": "The bell’s friendly conversation with each runner.",
         "is_correct": false
       },
       {
-        "text": "The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.",
+        "text": "The bell’s loud, attention-grabbing sound.",
         "is_correct": true
       },
       {
-        "text": "Repeated sounds have no effect on rhythm.",
+        "text": "The bell’s quiet echo fading into the distance.",
+        "is_correct": false
+      },
+      {
+        "text": "The bell’s steady rhythm resembling a whispered rhyme.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Sound patterns can reinforce an image and make wording memorable.",
-      "hint": "Listen for repeated starting sounds and connect them to meaning."
-    }
+      "summary": "Like a shout compares the sound to a loud human call.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LE04-T-011",
@@ -1505,29 +2416,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which explanation best supports “The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.” in the alliterative phrase “crackling campfire”?",
-    "audio_prompt": "Which explanation best supports “The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.” in the alliterative phrase “crackling campfire”?",
+    "stage": "independent",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Lunch Bell\nThe bell burst like a shout through the hall;\na hundred hungry footsteps answered its call.\nI could eat the whole kitchen today!\nI laughed as I hurried away.\n\nWhat does “eat the whole kitchen” communicate?",
+    "audio_prompt": "Original poem: Lunch Bell\nThe bell burst like a shout through the hall;\na hundred hungry footsteps answered its call.\nI could eat the whole kitchen today!\nI laughed as I hurried away.\n\nWhat does “eat the whole kitchen” communicate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Alliteration changes the campfire into a person.” is always a safe choice.",
+        "text": "The kitchen has exactly one small apple.",
         "is_correct": false
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "The school has no food left.",
         "is_correct": false
       },
       {
-        "text": "Sound patterns can reinforce an image and make wording memorable.",
+        "text": "The speaker feels extremely hungry.",
         "is_correct": true
+      },
+      {
+        "text": "The speaker intends to eat bricks and cupboards.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Sound patterns can reinforce an image and make wording memorable.",
-      "hint": "Listen for repeated starting sounds and connect them to meaning."
-    }
+      "summary": "The exaggerated appetite is hyperbole, supported by the playful laugh.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LE04-T-012",
@@ -1535,29 +2459,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which clue should guide your decision in the alliterative phrase “crackling campfire”?",
-    "audio_prompt": "Which clue should guide your decision in the alliterative phrase “crackling campfire”?",
+    "stage": "independent",
+    "skill": "literary_devices_and_wordplay",
+    "question": "Original poem: Lunch Bell\nThe bell burst like a shout through the hall;\na hundred hungry footsteps answered its call.\nI could eat the whole kitchen today!\nI laughed as I hurried away.\n\nWhich revision keeps hunger but removes the hyperbole?",
+    "audio_prompt": "Original poem: Lunch Bell\nThe bell burst like a shout through the hall;\na hundred hungry footsteps answered its call.\nI could eat the whole kitchen today!\nI laughed as I hurried away.\n\nWhich revision keeps hunger but removes the hyperbole?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Listen for repeated starting sounds and connect them to meaning.",
+        "text": "I could swallow the town today.",
+        "is_correct": false
+      },
+      {
+        "text": "I could eat a mountain of sandwiches.",
+        "is_correct": false
+      },
+      {
+        "text": "I could empty every kitchen on Earth.",
+        "is_correct": false
+      },
+      {
+        "text": "I am hungry for a large lunch today.",
         "is_correct": true
-      },
-      {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Sound patterns can reinforce an image and make wording memorable.",
-      "hint": "Listen for repeated starting sounds and connect them to meaning."
-    }
+      "summary": "A large lunch is a plausible literal description; the other choices remain extreme.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LE04-T-013",
@@ -1565,29 +2502,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which option would you reject first in the alliterative phrase “crackling campfire”?",
-    "audio_prompt": "Which option would you reject first in the alliterative phrase “crackling campfire”?",
-    "answers": [
-      {
-        "text": "The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.",
-        "is_correct": false
-      },
-      {
-        "text": "Alliteration changes the campfire into a person.",
-        "is_correct": true
-      },
-      {
-        "text": "Repeated sounds have no effect on rhythm.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Original poem: The Dock\nThe boats whispered against the rope;\na tired lamp kept watch.\nExplain one personification and its likely effect here. Use the actual words rather than just naming the device.",
+    "audio_prompt": "Original poem: The Dock\nThe boats whispered against the rope;\na tired lamp kept watch.\nExplain one personification and its likely effect here. Use the actual words rather than just naming the device.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“A tired lamp kept watch” gives the lamp a human-like state and duty, making the dock seem quiet and watchful late at night.",
+    "acceptance_note": "Require an exact example, human-like quality/action and contextual effect. “Boats whispered” can support soft sound. Accept justified alternatives; avoid claims that every personification has the same effect.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Sound patterns can reinforce an image and make wording memorable.",
-      "hint": "Listen for repeated starting sounds and connect them to meaning."
-    }
+      "summary": "“A tired lamp kept watch” gives the lamp a human-like state and duty, making the dock seem quiet and watchful late at night.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LE04-T-014",
@@ -1595,29 +2533,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which correction should replace “Alliteration changes the campfire into a person.” in the alliterative phrase “crackling campfire”?",
-    "audio_prompt": "Which correction should replace “Alliteration changes the campfire into a person.” in the alliterative phrase “crackling campfire”?",
-    "answers": [
-      {
-        "text": "Alliteration changes the campfire into a person.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeated sounds have no effect on rhythm.",
-        "is_correct": false
-      },
-      {
-        "text": "The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Invent a short literary joke using “sole” (a fish or the bottom of a shoe) and “soul” (someone’s inner self), or another pair of words with a similar sound. Explain both meanings and how your scene makes the wordplay understandable.",
+    "audio_prompt": "Invent a short literary joke using “sole” (a fish or the bottom of a shoe) and “soul” (someone’s inner self), or another pair of words with a similar sound. Explain both meanings and how your scene makes the wordplay understandable.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The fish sang with all its sole. Sole names the fish and sounds like soul, so the singing phrase becomes a playful fish joke.",
+    "acceptance_note": "Require two identifiable meanings/sounds and a scene linking them. Accept a different valid pun. Do not award full evidence for two unrelated words without a shared meaning or sound.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
     "explanation": {
-      "summary": "Sound patterns can reinforce an image and make wording memorable.",
-      "hint": "Listen for repeated starting sounds and connect them to meaning."
-    }
+      "summary": "The fish sang with all its sole. Sole names the fish and sounds like soul, so the singing phrase becomes a playful fish joke.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LE04-T-015",
@@ -1625,29 +2564,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Apply the skill to the alliterative phrase “crackling campfire”: what should you choose?",
-    "audio_prompt": "Apply the skill to the alliterative phrase “crackling campfire”: what should you choose?",
-    "answers": [
-      {
-        "text": "The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.",
-        "is_correct": true
-      },
-      {
-        "text": "Alliteration changes the campfire into a person.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeated sounds have no effect on rhythm.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Original poem: Return\nA battered suitcase at the door,\na treasured scarf upon the chair.\nExplain how “battered” and “treasured” make different contributions. Then replace one adjective to change the feeling and explain your choice.",
+    "audio_prompt": "Original poem: Return\nA battered suitcase at the door,\na treasured scarf upon the chair.\nExplain how “battered” and “treasured” make different contributions. Then replace one adjective to change the feeling and explain your choice.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Battered suggests wear or a difficult journey; treasured suggests affection and value. Replacing treasured with forgotten may suggest neglect instead.",
+    "acceptance_note": "Require distinct effects supported by both words and a purposeful adjective revision. Different plausible responses accepted; the suitcase alone cannot prove a specific journey.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
     "explanation": {
-      "summary": "Sound patterns can reinforce an image and make wording memorable.",
-      "hint": "Listen for repeated starting sounds and connect them to meaning."
-    }
+      "summary": "Battered suggests wear or a difficult journey; treasured suggests affection and value. Replacing treasured with forgotten may suggest neglect instead.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LE04-T-016",
@@ -1655,28 +2595,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Wordplay and Literary Language",
-    "question": "Which final choice gives the clearest and most accurate result for the alliterative phrase “crackling campfire”?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for the alliterative phrase “crackling campfire”?",
-    "answers": [
-      {
-        "text": "Alliteration changes the campfire into a person.",
-        "is_correct": false
-      },
-      {
-        "text": "The repeated hard c sound draws attention to the phrase and echoes the sharp sound of fire.",
-        "is_correct": true
-      },
-      {
-        "text": "Repeated sounds have no effect on rhythm.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Read “Wildflower” by Kirli Saunders using the authorised link in preparation. Explain how the place where the flowers grow contributes to the poem’s encouragement. Would the image have the same effect if growing were easy? Explain your view using a detail from the actual poem.",
+    "audio_prompt": "Read “Wildflower” by Kirli Saunders using the authorised link in preparation. Explain how the place where the flowers grow contributes to the poem’s encouragement. Would the image have the same effect if growing were easy? Explain your view using a detail from the actual poem.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The flowers grow from a difficult place, so their growth can suggest hope despite hardship. An easy growing place would make overcoming difficulty less noticeable. A response should connect the actual growing-place image with the poem’s encouragement.",
+    "acceptance_note": "Require actual reading, one precise image detail from the poem, an explanation of its link to encouragement, and a reasoned comparison with easier growth. Accept other supported responses. This is an independent response to a named shared source, not an unseen-text claim. If unavailable, leave pending. Discuss this particular Gunai author’s poem without generalising to all First Nations Peoples.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
     "explanation": {
-      "summary": "Sound patterns can reinforce an image and make wording memorable.",
-      "hint": "Listen for repeated starting sounds and connect them to meaning."
-    }
+      "summary": "The flowers grow from a difficult place, so their growth can suggest hope despite hardship. An easy growing place would make overcoming difficulty less noticeable. A response should connect the actual growing-place image with the poem’s encouragement.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E2",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]
