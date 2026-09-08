@@ -1,9 +1,9 @@
 "use strict";
 
-// Keep the reviewed number models visible when a learner revisits an answer.
-// This adapter is loaded only by the reviewed AC9M4N01–N09 and A01 review pages.
+// Keep the authored mathematics models visible when a learner revisits an answer.
+// This adapter is loaded only by the scoped N01–N09, A01–A02 and M01–M04 pages.
 document.addEventListener("DOMContentLoaded", () => {
-  const code = location.pathname.match(/\/math\/(ac9m4(?:n0[1-9]|a01))\//)?.[1];
+  const code = location.pathname.match(/\/math\/(ac9m4(?:n0[1-9]|a0[12]|m0[1-4]))\//)?.[1];
   const bank = window.quizQuestions;
   if (!code || !Array.isArray(bank)) return;
   let result;

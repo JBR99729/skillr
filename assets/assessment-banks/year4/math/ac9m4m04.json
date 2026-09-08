@@ -6,31 +6,35 @@
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
     "skill": "classify_angles",
-    "question": "In a class project, an angle is 270°. Which description is correct?",
-    "audio_prompt": "In a class project, an angle is 270°. Which description is correct?",
+    "question": "Name the orange-marked angle. Compare its opening with the right-angle benchmark.",
+    "audio_prompt": "Name the orange-marked angle. Compare its opening with the right-angle benchmark.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-001",
-      "alt_text": "In a class project: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "Two blue arms slope to the right. An orange arc marks the opening. A separate green square corner is the right-angle benchmark."
     },
     "answers": [
       {
-        "text": "acute",
+        "text": "Right",
         "is_correct": false
       },
       {
-        "text": "right",
+        "text": "Obtuse",
         "is_correct": false
       },
       {
-        "text": "reflex",
+        "text": "Acute",
         "is_correct": true
+      },
+      {
+        "text": "Straight",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
+      "summary": "The marked opening is smaller than one right angle, so it is acute.",
+      "hint": "Compare the amount of opening, not the arm lengths."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -42,36 +46,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "compare_turns",
-    "question": "At the school market, how many right-angle turns make a full revolution?",
-    "audio_prompt": "At the school market, how many right-angle turns make a full revolution?",
+    "skill": "classify_angles",
+    "question": "The whole diagram is tilted. What is the name of the orange-marked angle?",
+    "audio_prompt": "The whole diagram is tilted. What is the name of the orange-marked angle?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-002",
-      "alt_text": "At the school market: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "Two arms point up and right and up and left, with an orange arc between them. A square-corner benchmark is shown separately."
     },
     "answers": [
       {
-        "text": "4",
+        "text": "Right",
         "is_correct": true
       },
       {
-        "text": "2",
+        "text": "Acute",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "Obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "Reflex",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
+      "summary": "The opening matches one right angle even though neither arm is horizontal.",
+      "hint": "Mentally rotate the square-corner benchmark to fit one arm."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4M04-P-003",
@@ -80,35 +88,39 @@
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
     "skill": "classify_angles",
-    "question": "While planning a garden, an angle is 90°. Which description is correct?",
-    "audio_prompt": "While planning a garden, an angle is 90°. Which description is correct?",
+    "question": "Which name fits the orange-marked angle?",
+    "audio_prompt": "Which name fits the orange-marked angle?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-003",
-      "alt_text": "While planning a garden: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "An orange arc marks the upper opening between a rightward arm and an upper-left arm. A right-angle benchmark is shown."
     },
     "answers": [
       {
-        "text": "acute",
+        "text": "Acute",
         "is_correct": false
       },
       {
-        "text": "right",
+        "text": "Straight",
+        "is_correct": false
+      },
+      {
+        "text": "Reflex",
+        "is_correct": false
+      },
+      {
+        "text": "Obtuse",
         "is_correct": true
-      },
-      {
-        "text": "obtuse",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
+      "summary": "It is greater than one right angle but smaller than a straight angle, so it is obtuse.",
+      "hint": "Use one right angle and two right angles as boundaries."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3
   },
   {
     "id": "AC9M4M04-P-004",
@@ -116,36 +128,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "compare_turns",
-    "question": "During a sports challenge, how many right-angle turns make a full revolution?",
-    "audio_prompt": "During a sports challenge, how many right-angle turns make a full revolution?",
+    "skill": "classify_angles",
+    "question": "Two arms point in opposite directions. Name the marked half-turn angle.",
+    "audio_prompt": "Two arms point in opposite directions. Name the marked half-turn angle.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-004",
-      "alt_text": "During a sports challenge: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "Two opposite blue arms make a diagonal line. An orange semicircular arc identifies the half-turn angle."
     },
     "answers": [
       {
-        "text": "2",
+        "text": "Right",
         "is_correct": false
       },
       {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "4",
+        "text": "Straight",
         "is_correct": true
+      },
+      {
+        "text": "Obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "Revolution",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
+      "summary": "A half turn makes a straight angle. It is equal to two right angles.",
+      "hint": "Follow the orange arc from one arm to the other."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4
   },
   {
     "id": "AC9M4M04-P-005",
@@ -154,35 +170,39 @@
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
     "skill": "classify_angles",
-    "question": "At the wildlife centre, an angle is 180°. Which description is correct?",
-    "audio_prompt": "At the wildlife centre, an angle is 180°. Which description is correct?",
+    "question": "Follow the larger orange arc. What kind of angle does it mark?",
+    "audio_prompt": "Follow the larger orange arc. What kind of angle does it mark?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-005",
-      "alt_text": "At the wildlife centre: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "The orange arrow follows the long route around the vertex between the two arms. A green right-angle benchmark is shown."
     },
     "answers": [
       {
-        "text": "straight",
+        "text": "Reflex",
         "is_correct": true
       },
       {
-        "text": "acute",
+        "text": "Acute",
         "is_correct": false
       },
       {
-        "text": "right",
+        "text": "Right",
+        "is_correct": false
+      },
+      {
+        "text": "Obtuse",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
+      "summary": "The marked turn is greater than a straight angle but less than one complete revolution. It is reflex.",
+      "hint": "Do not choose the unmarked smaller opening between the arms."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 5
   },
   {
     "id": "AC9M4M04-P-006",
@@ -191,35 +211,39 @@
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
     "skill": "compare_turns",
-    "question": "In the makerspace, how many right-angle turns make a full revolution?",
-    "audio_prompt": "In the makerspace, how many right-angle turns make a full revolution?",
+    "question": "The orange arrow makes one complete turn back to its starting arm. What is this turn called?",
+    "audio_prompt": "The orange arrow makes one complete turn back to its starting arm. What is this turn called?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-006",
-      "alt_text": "In the makerspace: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "One blue arm points up. An orange circular arrow goes all the way round the vertex back to that arm."
     },
     "answers": [
       {
-        "text": "2",
+        "text": "A right angle",
         "is_correct": false
       },
       {
-        "text": "4",
+        "text": "A straight angle",
+        "is_correct": false
+      },
+      {
+        "text": "A revolution",
         "is_correct": true
       },
       {
-        "text": "3",
+        "text": "An acute angle",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
+      "summary": "A revolution is one complete turn, equal to four right angles. The final arm points in its starting direction.",
+      "hint": "Trace all the way around the orange circle."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 6
   },
   {
     "id": "AC9M4M04-P-007",
@@ -227,36 +251,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "classify_angles",
-    "question": "While checking a map, an angle is 45°. Which description is correct?",
-    "audio_prompt": "While checking a map, an angle is 45°. Which description is correct?",
+    "skill": "compare_angles",
+    "question": "Which orange-marked angle has the larger opening?",
+    "audio_prompt": "Which orange-marked angle has the larger opening?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-007",
-      "alt_text": "While checking a map: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "Angle A has two rightward arms. Angle B has one upward and one upper-right arm. Orange arcs identify both openings."
     },
     "answers": [
       {
-        "text": "right",
+        "text": "A",
         "is_correct": false
       },
       {
-        "text": "obtuse",
-        "is_correct": false
-      },
-      {
-        "text": "acute",
+        "text": "B",
         "is_correct": true
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "Longer arms are needed to decide",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
+      "summary": "B has the wider opening. Both angles are acute, but acute angles can have different sizes.",
+      "hint": "Imagine fitting A inside B with their vertices and one arm aligned."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 7
   },
   {
     "id": "AC9M4M04-P-008",
@@ -264,36 +292,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "compare_turns",
-    "question": "During a cooking task, how many right-angle turns make a full revolution?",
-    "audio_prompt": "During a cooking task, how many right-angle turns make a full revolution?",
+    "skill": "compare_angles",
+    "question": "Both marked angles are obtuse. Which one is smaller?",
+    "audio_prompt": "Both marked angles are obtuse. Which one is smaller?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-008",
-      "alt_text": "During a cooking task: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "In A, the arms point upper left and slightly above right. In B, the arms point upper left and slightly below right. Orange arcs mark the upper opening at each vertex."
     },
     "answers": [
       {
-        "text": "4",
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "All obtuse angles have one size",
+        "is_correct": false
+      },
+      {
+        "text": "A",
         "is_correct": true
-      },
-      {
-        "text": "2",
-        "is_correct": false
-      },
-      {
-        "text": "3",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
+      "summary": "A is closer to one right angle; B opens farther towards a straight angle. A is smaller.",
+      "hint": "An angle name describes a range; compare the actual openings."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 8
   },
   {
     "id": "AC9M4M04-P-009",
@@ -301,35 +333,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "classify_angles",
-    "question": "At the community fair, an angle is 120°. Which description is correct?",
-    "audio_prompt": "At the community fair, an angle is 120°. Which description is correct?",
+    "skill": "angle_invariance",
+    "question": "Angle B is a turned copy of A with longer arms. Compare the marked angles.",
+    "audio_prompt": "Angle B is a turned copy of A with longer arms. Compare the marked angles.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-009",
-      "alt_text": "At the community fair: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A has short arms pointing right and upper right. B has longer arms pointing upper left and left. Orange arcs mark the openings."
     },
     "answers": [
       {
-        "text": "acute",
+        "text": "A is larger because its arms are shorter",
         "is_correct": false
       },
       {
-        "text": "obtuse",
+        "text": "B is larger because its arms are longer",
+        "is_correct": false
+      },
+      {
+        "text": "They have the same size",
         "is_correct": true
       },
       {
-        "text": "right",
+        "text": "B becomes a right angle when turned",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
+      "summary": "Turning the diagram and extending its arms do not change the opening. The angle sizes remain equal.",
+      "hint": "Compare the turns between the arms."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M4M04-P-010",
@@ -337,35 +374,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "compare_turns",
-    "question": "In a library display, how many right-angle turns make a full revolution?",
-    "audio_prompt": "In a library display, how many right-angle turns make a full revolution?",
+    "skill": "estimate_angles",
+    "question": "Which estimate best describes the orange-marked opening?",
+    "audio_prompt": "Which estimate best describes the orange-marked opening?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-010",
-      "alt_text": "In a library display: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "An orange arc joins a rightward and an upper-right arm. A separate green square-corner benchmark is shown."
     },
     "answers": [
       {
-        "text": "2",
-        "is_correct": false
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "4",
+        "text": "About half of a right angle",
         "is_correct": true
+      },
+      {
+        "text": "About one right angle",
+        "is_correct": false
+      },
+      {
+        "text": "About two right angles",
+        "is_correct": false
+      },
+      {
+        "text": "About three right angles",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
+      "summary": "The opening is roughly halfway from no turn to a square corner: about half of a right angle.",
+      "hint": "Compare the opening to the green benchmark."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M4M04-P-011",
@@ -373,35 +415,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "classify_angles",
-    "question": "During a science activity, an angle is 270°. Which description is correct?",
-    "audio_prompt": "During a science activity, an angle is 270°. Which description is correct?",
+    "skill": "estimate_angles",
+    "question": "Estimate the marked angle using right-angle turns.",
+    "audio_prompt": "Estimate the marked angle using right-angle turns.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-011",
-      "alt_text": "During a science activity: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "An orange arc marks the opening between a lower-right arm and an upper-left arm. A green square-corner benchmark is separate."
     },
     "answers": [
       {
-        "text": "reflex",
+        "text": "About half a right angle",
+        "is_correct": false
+      },
+      {
+        "text": "About one and a half right angles",
         "is_correct": true
       },
       {
-        "text": "acute",
+        "text": "About two and a half right angles",
         "is_correct": false
       },
       {
-        "text": "right",
+        "text": "About four right angles",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
+      "summary": "The opening is about halfway between one right angle and a straight angle of two right angles.",
+      "hint": "First decide whether the opening is below or above one right angle."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M4M04-P-012",
@@ -409,35 +456,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "compare_turns",
-    "question": "At the school canteen, how many right-angle turns make a full revolution?",
-    "audio_prompt": "At the school canteen, how many right-angle turns make a full revolution?",
+    "skill": "estimate_angles",
+    "question": "How many right-angle turns are shown by the orange arrow?",
+    "audio_prompt": "How many right-angle turns are shown by the orange arrow?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-012",
-      "alt_text": "At the school canteen: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "The orange arrow starts at the upward arm and goes anticlockwise through three quarters of a circle to the rightward arm."
     },
     "answers": [
       {
-        "text": "2",
+        "text": "One",
         "is_correct": false
       },
       {
-        "text": "4",
+        "text": "Two",
+        "is_correct": false
+      },
+      {
+        "text": "Four",
+        "is_correct": false
+      },
+      {
+        "text": "Three",
         "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
+      "summary": "The arrow goes through three quarter turns. Three right-angle turns form this reflex angle.",
+      "hint": "A complete revolution has four equal quarter turns."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M4M04-P-013",
@@ -446,34 +498,39 @@
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
     "skill": "classify_angles",
-    "question": "While organising an excursion, an angle is 90°. Which description is correct?",
-    "audio_prompt": "While organising an excursion, an angle is 90°. Which description is correct?",
+    "question": "The marked opening is a little greater than the right-angle benchmark. It is still less than a straight angle. Name it.",
+    "audio_prompt": "The marked opening is a little greater than the right-angle benchmark. It is still less than a straight angle. Name it.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-013",
-      "alt_text": "While organising an excursion: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "An orange arc marks the opening between a rightward arm and a nearly upward arm. A green square-corner benchmark is separate."
     },
     "answers": [
       {
-        "text": "acute",
-        "is_correct": false
-      },
-      {
-        "text": "obtuse",
-        "is_correct": false
-      },
-      {
-        "text": "right",
+        "text": "Obtuse",
         "is_correct": true
+      },
+      {
+        "text": "Acute",
+        "is_correct": false
+      },
+      {
+        "text": "Right",
+        "is_correct": false
+      },
+      {
+        "text": "Reflex",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
+      "summary": "An angle greater than one right angle and less than two right angles is obtuse.",
+      "hint": "Exactly one right angle and greater than one right angle are different."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 13
   },
   {
     "id": "AC9M4M04-P-014",
@@ -481,35 +538,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "compare_turns",
-    "question": "In a games club, how many right-angle turns make a full revolution?",
-    "audio_prompt": "In a games club, how many right-angle turns make a full revolution?",
+    "skill": "estimate_angles",
+    "question": "Which range contains the larger orange-marked turn?",
+    "audio_prompt": "Which range contains the larger orange-marked turn?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-014",
-      "alt_text": "In a games club: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "An orange arrow makes most of a circle around the vertex, leaving only a small unmarked gap."
     },
     "answers": [
       {
-        "text": "4",
+        "text": "Less than one right angle",
+        "is_correct": false
+      },
+      {
+        "text": "Between one and two right angles",
+        "is_correct": false
+      },
+      {
+        "text": "Between three and four right angles",
         "is_correct": true
       },
       {
-        "text": "2",
-        "is_correct": false
-      },
-      {
-        "text": "3",
+        "text": "Exactly two right angles",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
+      "summary": "The marked turn passes three quarter turns but stops before a complete revolution.",
+      "hint": "Trace the marked long turn rather than the small gap."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 14
   },
   {
     "id": "AC9M4M04-P-015",
@@ -517,35 +579,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "classify_angles",
-    "question": "During an art project, an angle is 180°. Which description is correct?",
-    "audio_prompt": "During an art project, an angle is 180°. Which description is correct?",
+    "skill": "interior_angles",
+    "question": "Name the orange-marked angle inside the triangle.",
+    "audio_prompt": "Name the orange-marked angle inside the triangle.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-015",
-      "alt_text": "During an art project: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A tilted triangle is shaded pale blue. The top interior corner is marked with an orange arc."
     },
     "answers": [
       {
-        "text": "acute",
+        "text": "Right",
         "is_correct": false
       },
       {
-        "text": "straight",
+        "text": "Obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "Reflex",
+        "is_correct": false
+      },
+      {
+        "text": "Acute",
         "is_correct": true
-      },
-      {
-        "text": "right",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
+      "summary": "The marked interior opening is smaller than a square corner, so it is acute.",
+      "hint": "Look inside the shaded triangle at the marked vertex."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 15
   },
   {
     "id": "AC9M4M04-P-016",
@@ -553,35 +620,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "compare_turns",
-    "question": "At the recycling station, how many right-angle turns make a full revolution?",
-    "audio_prompt": "At the recycling station, how many right-angle turns make a full revolution?",
+    "skill": "interior_angles",
+    "question": "This rectangle has been rotated. Name its marked interior angle.",
+    "audio_prompt": "This rectangle has been rotated. Name its marked interior angle.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-016",
-      "alt_text": "At the recycling station: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A rotated rectangle is shaded pale blue. Its upper interior corner is marked orange."
     },
     "answers": [
       {
-        "text": "2",
+        "text": "Acute",
         "is_correct": false
       },
       {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "4",
+        "text": "Right",
         "is_correct": true
+      },
+      {
+        "text": "Obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "Straight",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
+      "summary": "Each rectangle corner is a right angle. Rotating the rectangle preserves its corner openings.",
+      "hint": "Match a square corner to the marked corner, turning the template if needed."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 16
   },
   {
     "id": "AC9M4M04-P-017",
@@ -589,35 +661,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "classify_angles",
-    "question": "While planning a survey, an angle is 45°. Which description is correct?",
-    "audio_prompt": "While planning a survey, an angle is 45°. Which description is correct?",
+    "skill": "interior_angles",
+    "question": "What name fits the marked interior angle of this sloping quadrilateral?",
+    "audio_prompt": "What name fits the marked interior angle of this sloping quadrilateral?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-017",
-      "alt_text": "While planning a survey: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A sloping four-sided shape is shaded blue. Its upper-left interior angle is marked orange."
     },
     "answers": [
       {
-        "text": "acute",
+        "text": "Acute",
+        "is_correct": false
+      },
+      {
+        "text": "Right",
+        "is_correct": false
+      },
+      {
+        "text": "Obtuse",
         "is_correct": true
       },
       {
-        "text": "right",
-        "is_correct": false
-      },
-      {
-        "text": "obtuse",
+        "text": "Reflex",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
+      "summary": "The marked inside corner is wider than one right angle and narrower than a straight angle. It is obtuse.",
+      "hint": "Use the orange arc inside the shaded region."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 17
   },
   {
     "id": "AC9M4M04-P-018",
@@ -625,35 +702,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "compare_turns",
-    "question": "In a coding lesson, how many right-angle turns make a full revolution?",
-    "audio_prompt": "In a coding lesson, how many right-angle turns make a full revolution?",
+    "skill": "interior_angles",
+    "question": "At the inward corner, name the orange-marked angle inside the shaded shape.",
+    "audio_prompt": "At the inward corner, name the orange-marked angle inside the shaded shape.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-018",
-      "alt_text": "In a coding lesson: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "An L-shaped polygon is shaded pale blue. At its inward corner, a long orange arc lies inside the blue shape, leaving the unshaded gap unmarked."
     },
     "answers": [
       {
-        "text": "2",
-        "is_correct": false
-      },
-      {
-        "text": "4",
+        "text": "Reflex",
         "is_correct": true
       },
       {
-        "text": "3",
+        "text": "Right",
+        "is_correct": false
+      },
+      {
+        "text": "Acute",
+        "is_correct": false
+      },
+      {
+        "text": "Obtuse",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
+      "summary": "The inside of the shape goes around the larger opening at this inward corner. The marked angle is greater than two right angles and less than four.",
+      "hint": "The small unshaded corner is outside the shape."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 18
   },
   {
     "id": "AC9M4M04-P-019",
@@ -661,35 +743,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "classify_angles",
-    "question": "During a building task, an angle is 120°. Which description is correct?",
-    "audio_prompt": "During a building task, an angle is 120°. Which description is correct?",
+    "skill": "interior_angles",
+    "question": "Which labelled interior angle is a right angle?",
+    "audio_prompt": "Which labelled interior angle is a right angle?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-019",
-      "alt_text": "During a building task: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A triangle has a horizontal lower side and a vertical left side. A labels their lower-left meeting point; B labels the lower-right corner; C labels the upper-left corner."
     },
     "answers": [
       {
-        "text": "acute",
+        "text": "B",
         "is_correct": false
       },
       {
-        "text": "right",
-        "is_correct": false
-      },
-      {
-        "text": "obtuse",
+        "text": "A",
         "is_correct": true
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      },
+      {
+        "text": "All three",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
+      "summary": "The two sides meeting at A form a square corner. B and C are smaller openings.",
+      "hint": "Compare each marked inside corner with a right-angle template."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 19
   },
   {
     "id": "AC9M4M04-P-020",
@@ -697,35 +784,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "compare_turns",
-    "question": "At the local pool, how many right-angle turns make a full revolution?",
-    "audio_prompt": "At the local pool, how many right-angle turns make a full revolution?",
+    "skill": "interior_angles",
+    "question": "Compare the marked interior angles A and B.",
+    "audio_prompt": "Compare the marked interior angles A and B.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-020",
-      "alt_text": "At the local pool: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A diamond-shaped quadrilateral has orange arcs at the left corner A and top corner B."
     },
     "answers": [
       {
-        "text": "4",
+        "text": "A is larger than B",
+        "is_correct": false
+      },
+      {
+        "text": "A and B are equal",
+        "is_correct": false
+      },
+      {
+        "text": "Both are reflex angles",
+        "is_correct": false
+      },
+      {
+        "text": "B is larger than A",
         "is_correct": true
-      },
-      {
-        "text": "2",
-        "is_correct": false
-      },
-      {
-        "text": "3",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
+      "summary": "A is an acute corner and B is an obtuse corner, so B has the larger opening.",
+      "hint": "Compare the openings at the labelled vertices, not the side lengths."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 20
   },
   {
     "id": "AC9M4M04-P-021",
@@ -733,35 +825,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "classify_angles",
-    "question": "While preparing a camp, an angle is 270°. Which description is correct?",
-    "audio_prompt": "While preparing a camp, an angle is 270°. Which description is correct?",
+    "skill": "environment_angles",
+    "question": "The orange arc marks the opening between the scissors blades. Name the angle.",
+    "audio_prompt": "The orange arc marks the opening between the scissors blades. Name the angle.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-021",
-      "alt_text": "While preparing a camp: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "Scissors have two blades opening upward and right from one pivot. Orange marks only the opening between the blades."
     },
     "answers": [
       {
-        "text": "acute",
+        "text": "Right",
         "is_correct": false
       },
       {
-        "text": "reflex",
+        "text": "Acute",
         "is_correct": true
       },
       {
-        "text": "right",
+        "text": "Obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "Straight",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
+      "summary": "The marked opening between the blades is smaller than a right angle.",
+      "hint": "The handles are not the angle being asked about."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 21
   },
   {
     "id": "AC9M4M04-P-022",
@@ -769,35 +866,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "compare_turns",
-    "question": "In a music project, how many right-angle turns make a full revolution?",
-    "audio_prompt": "In a music project, how many right-angle turns make a full revolution?",
+    "skill": "environment_angles",
+    "question": "The diagram shows an open door from above. Name the marked turn from its closed position.",
+    "audio_prompt": "The diagram shows an open door from above. Name the marked turn from its closed position.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-022",
-      "alt_text": "In a music project: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A top-view door diagram has a rightward closed-position line and an upper-left open-door arm. Orange marks the opening between them."
     },
     "answers": [
       {
-        "text": "2",
+        "text": "Acute",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "Right",
         "is_correct": false
       },
       {
-        "text": "4",
+        "text": "Reflex",
+        "is_correct": false
+      },
+      {
+        "text": "Obtuse",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
+      "summary": "The door has turned more than a right angle but less than a half turn. The marked opening is obtuse.",
+      "hint": "Follow the orange arc from the closed-position arm to the open door."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 22
   },
   {
     "id": "AC9M4M04-P-023",
@@ -805,35 +907,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "classify_angles",
-    "question": "At a playground redesign, an angle is 90°. Which description is correct?",
-    "audio_prompt": "At a playground redesign, an angle is 90°. Which description is correct?",
+    "skill": "environment_angles",
+    "question": "A robot follows the orange arrow at a path junction. It turns left through three right angles. Name that marked turn.",
+    "audio_prompt": "A robot follows the orange arrow at a path junction. It turns left through three right angles. Name that marked turn.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-023",
-      "alt_text": "At a playground redesign: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "The robot starts facing up. An orange arrow follows the long anticlockwise route to a right-pointing final arm."
     },
     "answers": [
       {
-        "text": "right",
+        "text": "Reflex",
         "is_correct": true
       },
       {
-        "text": "acute",
+        "text": "Acute",
         "is_correct": false
       },
       {
-        "text": "obtuse",
+        "text": "Obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "Revolution",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
+      "summary": "Three right angles are more than a straight half turn and less than a complete revolution, so the turn is reflex.",
+      "hint": "The final direction alone does not show whether the robot took the long or short turn."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 23
   },
   {
     "id": "AC9M4M04-P-024",
@@ -841,35 +948,916 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "practice",
-    "skill": "compare_turns",
-    "question": "During a book drive, how many right-angle turns make a full revolution?",
-    "audio_prompt": "During a book drive, how many right-angle turns make a full revolution?",
+    "skill": "environment_angles",
+    "question": "Name the marked inside corner of the rectangular book cover.",
+    "audio_prompt": "Name the marked inside corner of the rectangular book cover.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-024",
-      "alt_text": "During a book drive: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A rectangular book cover is tilted. A small orange arc marks its upper-left interior corner."
     },
     "answers": [
       {
-        "text": "2",
+        "text": "Acute",
         "is_correct": false
       },
       {
-        "text": "4",
+        "text": "Obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "Right",
         "is_correct": true
       },
       {
-        "text": "3",
+        "text": "Reflex",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A rectangular cover has square corners. Tilting the book does not change a corner from a right angle.",
+      "hint": "Focus on the inside corner, not the way the book is placed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 24
+  },
+  {
+    "id": "AC9M4M04-P-025",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "environment_angles",
+    "question": "An open laptop lid makes an angle greater than a right angle but smaller than a straight angle with its base. What name fits that opening?",
+    "audio_prompt": "An open laptop lid makes an angle greater than a right angle but smaller than a straight angle with its base. What name fits that opening?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Acute",
+        "is_correct": false
+      },
+      {
+        "text": "Right",
+        "is_correct": false
+      },
+      {
+        "text": "Revolution",
+        "is_correct": false
+      },
+      {
+        "text": "Obtuse",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "An obtuse angle is greater than one right angle and less than two right angles.",
+      "hint": "Use both limits in the description."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 25
+  },
+  {
+    "id": "AC9M4M04-P-026",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "right_angle_template",
+    "question": "The green template is aligned with the vertex and lower arm. Compare the orange angle with its square corner.",
+    "audio_prompt": "The green template is aligned with the vertex and lower arm. Compare the orange angle with its square corner.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-026",
+      "alt_text": "A green dashed template shares its lower-left corner and lower edge with the blue vertex and horizontal arm. The other blue arm slopes upward across the template."
+    },
+    "answers": [
+      {
+        "text": "The orange angle is equal to a right angle",
+        "is_correct": false
+      },
+      {
+        "text": "The orange angle is smaller than a right angle",
+        "is_correct": true
+      },
+      {
+        "text": "The orange angle is greater than a right angle",
+        "is_correct": false
+      },
+      {
+        "text": "The template cannot be used when an arm slopes",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
+      "summary": "The second blue arm stays inside the template’s right-angle opening. The orange angle is smaller than a right angle.",
+      "hint": "Check the second arm after aligning the corner and first edge."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 26
+  },
+  {
+    "id": "AC9M4M04-P-027",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "right_angle_template",
+    "question": "You made a cardboard right-angle template. How should you place it to compare an angle?",
+    "audio_prompt": "You made a cardboard right-angle template. How should you place it to compare an angle?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Put it near the angle without touching the vertex",
+        "is_correct": false
+      },
+      {
+        "text": "Line up only the ends of the two arms",
+        "is_correct": false
+      },
+      {
+        "text": "Put its square corner on the vertex and one edge along one arm",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the template horizontal even when the angle is tilted",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Matching the vertex and one arm makes the other arm’s position a fair comparison with the template’s second edge.",
+      "hint": "Two alignments matter: the corner and one edge."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 27
+  },
+  {
+    "id": "AC9M4M04-P-028",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "right_angle_template",
+    "question": "You fold paper once to make a straight folded edge. To create a right-angle corner, how should you make the second fold?",
+    "audio_prompt": "You fold paper once to make a straight folded edge. To create a right-angle corner, how should you make the second fold?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Fold so that the first folded edge lies exactly on itself",
+        "is_correct": true
+      },
+      {
+        "text": "Make any second fold without aligning an edge",
+        "is_correct": false
+      },
+      {
+        "text": "Roll the paper into a tube",
+        "is_correct": false
+      },
+      {
+        "text": "Tear a curved corner off the paper",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Bringing the first folded edge exactly onto itself makes the new fold meet that edge at a right angle. The corner where the folds meet is the template.",
+      "hint": "The two parts of the first folded edge must match."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 28
+  },
+  {
+    "id": "AC9M4M04-P-029",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "right_angle_template",
+    "question": "The template’s corner and lower edge are aligned. How does the orange-marked opening compare with a right angle?",
+    "audio_prompt": "The template’s corner and lower edge are aligned. How does the orange-marked opening compare with a right angle?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-029",
+      "alt_text": "A green square-corner template shares its lower-left corner and lower edge with the blue vertex and horizontal arm. The other blue arm slopes upper left."
+    },
+    "answers": [
+      {
+        "text": "It is smaller than a right angle",
+        "is_correct": false
+      },
+      {
+        "text": "It is exactly a right angle",
+        "is_correct": false
+      },
+      {
+        "text": "It is greater than a right angle",
+        "is_correct": true
+      },
+      {
+        "text": "It is a complete revolution",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The second blue arm opens beyond the template’s other edge. The orange angle is greater than one right angle and is obtuse.",
+      "hint": "Look at the arm that is not already lined up."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 29
+  },
+  {
+    "id": "AC9M4M04-P-030",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "right_angle_template",
+    "question": "You turn your paper template to match a tilted corner. Both edges fit the corner exactly. What can you conclude?",
+    "audio_prompt": "You turn your paper template to match a tilted corner. Both edges fit the corner exactly. What can you conclude?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The corner is acute because the template is tilted",
+        "is_correct": false
+      },
+      {
+        "text": "The corner is obtuse because it faces left",
+        "is_correct": false
+      },
+      {
+        "text": "No angle can be checked after rotating a template",
+        "is_correct": false
+      },
+      {
+        "text": "The corner is a right angle",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A template keeps its square corner when it rotates. If both edges fit, the angle matches a right angle.",
+      "hint": "Turning a template does not change its opening."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 30
+  },
+  {
+    "id": "AC9M4M04-P-031",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "compare_turns",
+    "question": "An angle is greater than two right angles and less than four right angles. Which name must fit it?",
+    "audio_prompt": "An angle is greater than two right angles and less than four right angles. Which name must fit it?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Acute",
+        "is_correct": false
+      },
+      {
+        "text": "Reflex",
+        "is_correct": true
+      },
+      {
+        "text": "Obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "Straight",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Two right angles make a straight angle and four make a revolution. Angles strictly between them are reflex.",
+      "hint": "Both ends of the range are excluded."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 31
+  },
+  {
+    "id": "AC9M4M04-P-032",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "compare_turns",
+    "question": "How many right-angle turns together make one straight angle?",
+    "audio_prompt": "How many right-angle turns together make one straight angle?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Two",
+        "is_correct": true
+      },
+      {
+        "text": "One",
+        "is_correct": false
+      },
+      {
+        "text": "Three",
+        "is_correct": false
+      },
+      {
+        "text": "Four",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each right angle is a quarter turn. Two quarter turns make the half turn of a straight angle.",
+      "hint": "Picture turning halfway around."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 32
+  },
+  {
+    "id": "AC9M4M04-P-033",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "compare_turns",
+    "question": "Leah turns through three right angles in the same direction. How many more right-angle turns complete one revolution?",
+    "audio_prompt": "Leah turns through three right angles in the same direction. How many more right-angle turns complete one revolution?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Two",
+        "is_correct": false
+      },
+      {
+        "text": "Three",
+        "is_correct": false
+      },
+      {
+        "text": "Four",
+        "is_correct": false
+      },
+      {
+        "text": "One",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A revolution contains four right-angle turns. Leah has made three, so one more completes it.",
+      "hint": "Count on from three quarter turns to four."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 33
+  },
+  {
+    "id": "AC9M4M04-P-034",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "compare_turns",
+    "question": "A pointer turns through two right angles in the same direction. Which description matches the whole turn?",
+    "audio_prompt": "A pointer turns through two right angles in the same direction. Which description matches the whole turn?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "A right angle; a quarter revolution",
+        "is_correct": false
+      },
+      {
+        "text": "A reflex angle; three quarters of a revolution",
+        "is_correct": false
+      },
+      {
+        "text": "A straight angle; half a revolution",
+        "is_correct": true
+      },
+      {
+        "text": "A revolution; a complete turn",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Two right angles make a half turn, called a straight angle.",
+      "hint": "Count the whole turn from the starting position."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 34
+  },
+  {
+    "id": "AC9M4M04-P-035",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "square_and_perpendicular",
+    "question": "Ari wants to check whether two drawn lines meet at a right angle. Which tool and action suit the job?",
+    "audio_prompt": "Ari wants to check whether two drawn lines meet at a right angle. Which tool and action suit the job?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Place the square corner of a set square at their meeting point and check both edges",
+        "is_correct": true
+      },
+      {
+        "text": "Put a kitchen scale on the paper",
+        "is_correct": false
+      },
+      {
+        "text": "Use a spirit-level bubble anywhere on the page",
+        "is_correct": false
+      },
+      {
+        "text": "Measure only the length of one line with a ruler",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A set square has a right-angle corner. Aligning both edges tests whether the two lines are perpendicular.",
+      "hint": "The tool must compare the opening between both lines."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 35
+  },
+  {
+    "id": "AC9M4M04-P-036",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "level_and_square",
+    "question": "The spirit level rests correctly on the shelf, with the bubble centred in its horizontal vial. What does this reading show?",
+    "audio_prompt": "The spirit level rests correctly on the shelf, with the bubble centred in its horizontal vial. What does this reading show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-036",
+      "alt_text": "A horizontal spirit level rests on a shelf. The bubble in the horizontal vial is centred between the two marked lines."
+    },
+    "answers": [
+      {
+        "text": "Every corner of the shelf is a right angle",
+        "is_correct": false
+      },
+      {
+        "text": "The shelf is level in the direction checked",
+        "is_correct": true
+      },
+      {
+        "text": "The shelf and every nearby post are perpendicular",
+        "is_correct": false
+      },
+      {
+        "text": "The shelf has no curved edges anywhere",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The horizontal vial checks level along the direction the tool rests. It does not by itself test the angle between two objects.",
+      "hint": "Separate a level reading from a square-corner check."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 36
+  },
+  {
+    "id": "AC9M4M04-P-037",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "straight_lines",
+    "question": "A pencil line might have a bend. How can you check whether the drawn part is straight?",
+    "audio_prompt": "A pencil line might have a bend. How can you check whether the drawn part is straight?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Check only that the line is long",
+        "is_correct": false
+      },
+      {
+        "text": "Put a level on a different table",
+        "is_correct": false
+      },
+      {
+        "text": "Place a straightedge along it and look for any part that leaves the edge",
+        "is_correct": true
+      },
+      {
+        "text": "Check whether the page has a square corner",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A straightedge provides a straight reference along the drawn line. A line that bends away does not match it.",
+      "hint": "Check along the whole part of the line you are judging."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 37
+  },
+  {
+    "id": "AC9M4M04-P-038",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "square_and_perpendicular",
+    "question": "Both edges at the set square’s square corner fit the blue lines. How are the blue lines related?",
+    "audio_prompt": "Both edges at the set square’s square corner fit the blue lines. How are the blue lines related?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-038",
+      "alt_text": "A green set square sits with its square corner at the intersection of a horizontal and a vertical blue line; both adjacent edges align."
+    },
+    "answers": [
+      {
+        "text": "They form an acute angle",
+        "is_correct": false
+      },
+      {
+        "text": "They form an obtuse angle",
+        "is_correct": false
+      },
+      {
+        "text": "They never meet",
+        "is_correct": false
+      },
+      {
+        "text": "They are perpendicular",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The lines meet at the set square’s right-angle corner. Lines that meet at a right angle are perpendicular.",
+      "hint": "Check both edges next to the square corner."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 38
+  },
+  {
+    "id": "AC9M4M04-P-039",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "square_and_perpendicular",
+    "question": "One set-square edge fits a blue line. Its other square-corner edge misses the second line. What does the diagram show?",
+    "audio_prompt": "One set-square edge fits a blue line. Its other square-corner edge misses the second line. What does the diagram show?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-039",
+      "alt_text": "The horizontal edge of a green set square fits the lower blue line. The second blue line slopes and does not fit the vertical square-corner edge."
+    },
+    "answers": [
+      {
+        "text": "The lines must be perpendicular because a set square is nearby",
+        "is_correct": false
+      },
+      {
+        "text": "The lines do not meet at a right angle",
+        "is_correct": true
+      },
+      {
+        "text": "The lines are perpendicular because one edge fits",
+        "is_correct": false
+      },
+      {
+        "text": "The second line must be curved",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A right-angle check requires both adjacent edges to fit. Here only one fits, so the lines are not perpendicular.",
+      "hint": "A tool is useful only when the relevant edges align."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 39
+  },
+  {
+    "id": "AC9M4M04-P-040",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "level_and_square",
+    "question": "A shelf is level. Its side support has not been checked. Noor says they must meet at a right angle. What check is still needed?",
+    "audio_prompt": "A shelf is level. Its side support has not been checked. Noor says they must meet at a right angle. What check is still needed?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Use a set square at the join and check both edges",
+        "is_correct": true
+      },
+      {
+        "text": "Count the books on the shelf",
+        "is_correct": false
+      },
+      {
+        "text": "Check the same level reading again and ignore the support",
+        "is_correct": false
+      },
+      {
+        "text": "Measure the shelf’s length",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The shelf’s level reading gives no angle information about the unchecked support. A set square can test the join directly.",
+      "hint": "An angle comparison involves two directions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9M4M04-P-041",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "compare_angles",
+    "question": "Which list orders these angle types from smallest to largest?",
+    "audio_prompt": "Which list orders these angle types from smallest to largest?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Right, acute, obtuse, straight, reflex, revolution",
+        "is_correct": false
+      },
+      {
+        "text": "Acute, right, straight, obtuse, reflex, revolution",
+        "is_correct": false
+      },
+      {
+        "text": "Acute, right, obtuse, straight, reflex, revolution",
+        "is_correct": true
+      },
+      {
+        "text": "Acute, right, obtuse, reflex, straight, revolution",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Acute is below one right angle; right is one; obtuse is between one and two; straight is two; reflex is between two and four; revolution is four.",
+      "hint": "Place the exact benchmarks first, then put the angle types between them."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9M4M04-P-042",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "intended_angle",
+    "question": "A and B use the same two arms. Which statement matches the marked arcs?",
+    "audio_prompt": "A and B use the same two arms. Which statement matches the marked arcs?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-042",
+      "alt_text": "Two blue arms share a vertex. A labels the small orange arc; B labels the larger orange arrow around the rest of the vertex."
+    },
+    "answers": [
+      {
+        "text": "Both are acute because they share arms",
+        "is_correct": false
+      },
+      {
+        "text": "A is acute and B is reflex",
+        "is_correct": true
+      },
+      {
+        "text": "A is reflex and B is acute",
+        "is_correct": false
+      },
+      {
+        "text": "Both are right angles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A marks the small opening, below a right angle. B marks the long turn, greater than a straight angle but less than a revolution.",
+      "hint": "The marked arc decides which angle between the arms is intended."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9M4M04-P-043",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "construct_and_use_template",
+    "question": "Make a paper right-angle template: fold once, then fold so the first folded edge lies exactly on itself. Mark the corner where the folds meet. Use your template on two safe, flat angles in your surroundings. For each, draw and mark the intended angle, record an estimate before checking, show how the template fitted, then write smaller than, equal to or greater than a right angle. Name each angle if you can.",
+    "audio_prompt": "Make a paper right-angle template: fold once, then fold so the first folded edge lies exactly on itself. Mark the corner where the folds meet. Use your template on two safe, flat angles in your surroundings. For each, draw and mark the intended angle, record an estimate before checking, show how the template fitted, then write smaller than, equal to or greater than a right angle. Name each angle if you can.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "One valid record might show a book-cover corner estimated right and checked equal to a right angle, and a partly opened card estimated acute and checked smaller. The folded template is physically made; its vertex and one edge are matched to each angle.",
+    "acceptance_note": "Inspect the actual double-folded template and its square corner, not only a written description. Require two distinct real angle records, marked intended angles, an estimate before checking, evidence of corner-and-edge placement, and correct comparison after checking. Angle names are optional; check any names supplied for accuracy. Accept any safe flat examples; greater than a right angle alone is not enough to distinguish obtuse from reflex. If an estimate changes after checking, accept a clear correction.",
+    "response_instructions": "Complete the drawing or practical task on separate paper. Keep the actual construction and written record for an adult to check. Arrange access to any named tool before completing the task.",
+    "completion_label": "My practical work and written record are ready for an adult to check.",
+    "explanation": {
+      "summary": "One valid record might show a book-cover corner estimated right and checked equal to a right angle, and a partly opened card estimated acute and checked smaller. The folded template is physically made; its vertex and one edge are matched to each angle.",
+      "hint": "For the second fold, make the two parts of the first folded edge match exactly."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9M4M04-P-044",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "draw_and_compare_angles",
+    "question": "On separate paper, use a right-angle template to help draw one acute angle and one obtuse angle. Mark the intended opening of each with an arc. Trace the template’s square corner beside each drawing, label both angles, and explain how each compares with one and two right angles.",
+    "audio_prompt": "On separate paper, use a right-angle template to help draw one acute angle and one obtuse angle. Mark the intended opening of each with an arc. Trace the template’s square corner beside each drawing, label both angles, and explain how each compares with one and two right angles.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The acute angle has a marked opening smaller than one right angle. The obtuse angle has a marked opening greater than one but less than two right angles. The traced square corners provide a comparison.",
+    "acceptance_note": "Inspect two actual drawings with shared-vertex arms and clear arcs, a traced right-angle benchmark beside each, correct labels and both stated comparisons. Accept varied arm lengths, orientations and any valid acute or obtuse opening. Do not require degree measurements.",
+    "response_instructions": "Complete the drawing or practical task on separate paper. Keep the actual construction and written record for an adult to check. Arrange access to any named tool before completing the task.",
+    "completion_label": "My practical work and written record are ready for an adult to check.",
+    "explanation": {
+      "summary": "The acute angle has a marked opening smaller than one right angle. The obtuse angle has a marked opening greater than one but less than two right angles. The traced square corners provide a comparison.",
+      "hint": "An obtuse angle must stay smaller than a straight angle."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9M4M04-P-045",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "construct_interior_angles",
+    "question": "Draw a closed straight-sided shape with an inward corner, such as an L-shaped outline. Shade its inside. At one inward corner, mark the interior reflex angle with a long arc and label it. Explain its size using right angles. Use separate paper for a large drawing.",
+    "audio_prompt": "Draw a closed straight-sided shape with an inward corner, such as an L-shaped outline. Shade its inside. At one inward corner, mark the interior reflex angle with a long arc and label it. Explain its size using right angles. Use separate paper for a large drawing.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "An L-shaped polygon is one valid construction. At its inward corner, the marked inside angle goes through three right angles, so it is reflex: greater than two and less than four right angles.",
+    "acceptance_note": "Inspect a closed non-self-crossing polygon with an inward corner, a clearly shaded inside and an arc inside that shape marking a reflex angle. Require the reflex label and comparison greater than two and less than four right angles. Accept other valid concave polygons and reflex angles that are not exactly three right angles.",
+    "response_instructions": "Complete the drawing or practical task on separate paper. Keep the actual construction and written record for an adult to check. Arrange access to any named tool before completing the task.",
+    "completion_label": "My practical work and written record are ready for an adult to check.",
+    "explanation": {
+      "summary": "An L-shaped polygon is one valid construction. At its inward corner, the marked inside angle goes through three right angles, so it is reflex: greater than two and less than four right angles.",
+      "hint": "The small gap at an inward corner is outside the shape; mark the larger inside angle."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9M4M04-P-046",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "use_set_square",
+    "question": "Use a set square to draw two perpendicular lines on separate paper. Show the set square placed at their meeting point so both edges at its square corner fit. Mark the right angle. Rotate the paper, check again and explain whether the angle changed.",
+    "audio_prompt": "Use a set square to draw two perpendicular lines on separate paper. Show the set square placed at their meeting point so both edges at its square corner fit. Mark the right angle. Rotate the paper, check again and explain whether the angle changed.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The two lines meet at a right angle and both adjacent set-square edges align with them. After the paper rotates, the lines are still perpendicular because their opening has not changed.",
+    "acceptance_note": "Inspect an actual pair of lines created with a set square, correct placement of the tool at the join, both edges aligned, a right-angle mark and a written explanation after rotation. Accept any page orientation and line lengths. A picture of an unused set square or a claim without checked lines is insufficient.",
+    "response_instructions": "Complete the drawing or practical task on separate paper. Keep the actual construction and written record for an adult to check. Arrange access to any named tool before completing the task.",
+    "completion_label": "My practical work and written record are ready for an adult to check.",
+    "explanation": {
+      "summary": "The two lines meet at a right angle and both adjacent set-square edges align with them. After the paper rotates, the lines are still perpendicular because their opening has not changed.",
+      "hint": "Rotate the set square too so its corner and edges can fit the rotated lines."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9M4M04-P-047",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "use_spirit_level",
+    "question": "With an adult and a spirit level, check a safe reachable shelf or tabletop along one chosen direction. Place the tool’s measuring face on the surface and read the horizontal vial. Draw the setup, sketch where the bubble sits and write level or not level in the direction checked. Explain why this reading alone cannot show whether a side support meets it at a right angle, and describe how to check that join.",
+    "audio_prompt": "With an adult and a spirit level, check a safe reachable shelf or tabletop along one chosen direction. Place the tool’s measuring face on the surface and read the horizontal vial. Draw the setup, sketch where the bubble sits and write level or not level in the direction checked. Explain why this reading alone cannot show whether a side support meets it at a right angle, and describe how to check that join.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "A centred bubble between the vial marks indicates level in the checked direction; an off-centre bubble indicates not level. This reading does not check the side support. A set square placed at their join could check whether both directions form a right angle.",
+    "acceptance_note": "Require actual supervised spirit-level use, correct measuring-face contact and horizontal vial, a setup sketch including the bubble position, and a conclusion consistent with that observation. Require the explanation that the support direction is untested and a square-corner check would involve both directions. Accept either level or not-level outcomes. If no level is available, arrange the task with the teacher before marking it complete.",
+    "response_instructions": "Complete the drawing or practical task on separate paper. Keep the actual construction and written record for an adult to check. Arrange access to any named tool before completing the task.",
+    "completion_label": "My practical work and written record are ready for an adult to check.",
+    "explanation": {
+      "summary": "A centred bubble between the vial marks indicates level in the checked direction; an off-centre bubble indicates not level. This reading does not check the side support. A set square placed at their join could check whether both directions form a right angle.",
+      "hint": "Use the horizontal vial for level; do not read a vertical vial by mistake."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9M4M04-P-048",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M04",
+    "bank": "practice",
+    "skill": "create_angle_cards",
+    "question": "Create six labelled angle cards on separate paper: acute, right, obtuse, straight, reflex and revolution. On each, draw arms or a rotating arrow, clearly mark the intended angle or turn and write its relationship to a right angle. Use at least two different orientations.",
+    "audio_prompt": "Create six labelled angle cards on separate paper: acute, right, obtuse, straight, reflex and revolution. On each, draw arms or a rotating arrow, clearly mark the intended angle or turn and write its relationship to a right angle. Use at least two different orientations.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Acute: less than one right angle. Right: one. Obtuse: greater than one and less than two. Straight: two. Reflex: greater than two and less than four. Revolution: one full turn, four right angles.",
+    "acceptance_note": "Inspect all six actual diagrams and labels, clear intended arcs (including the long reflex arc and complete revolution), correct written comparisons and at least two orientations. Accept all valid examples within each type and varied lengths. A revolution must show the completed turn, not just an unmarked single arm.",
+    "response_instructions": "Complete the drawing or practical task on separate paper. Keep the actual construction and written record for an adult to check. Arrange access to any named tool before completing the task.",
+    "completion_label": "My practical work and written record are ready for an adult to check.",
+    "explanation": {
+      "summary": "Acute: less than one right angle. Right: one. Obtuse: greater than one and less than two. Straight: two. Reflex: greater than two and less than four. Revolution: one full turn, four right angles.",
+      "hint": "A reflex angle is not always exactly three right angles; it can be any turn between two and four."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 48
   },
   {
     "id": "AC9M4M04-T-001",
@@ -878,32 +1866,39 @@
     "curriculum_code": "AC9M4M04",
     "bank": "test",
     "skill": "classify_angles",
-    "question": "At a coastal station, an angle is 90°. Which description is correct?",
-    "audio_prompt": "At a coastal station, an angle is 90°. Which description is correct?",
+    "question": "Name the orange-marked angle in this tilted diagram.",
+    "audio_prompt": "Name the orange-marked angle in this tilted diagram.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-001",
-      "alt_text": "At a coastal station: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "Two leftward arms have an orange arc marking the opening between them. A separate green square-corner benchmark is shown."
     },
     "answers": [
       {
-        "text": "acute",
+        "text": "Right",
         "is_correct": false
       },
       {
-        "text": "obtuse",
-        "is_correct": false
-      },
-      {
-        "text": "right",
+        "text": "Acute",
         "is_correct": true
+      },
+      {
+        "text": "Obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "Reflex",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
-    }
+      "summary": "Its marked opening is smaller than a right angle, even though both arms point towards the left.",
+      "hint": "Turn the benchmark mentally to compare openings."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4M04-T-002",
@@ -912,32 +1907,39 @@
     "curriculum_code": "AC9M4M04",
     "bank": "test",
     "skill": "compare_turns",
-    "question": "During a museum challenge, how many right-angle turns make a full revolution?",
-    "audio_prompt": "During a museum challenge, how many right-angle turns make a full revolution?",
+    "question": "The orange arc joins opposite arms through a half turn. Name the angle.",
+    "audio_prompt": "The orange arc joins opposite arms through a half turn. Name the angle.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-002",
-      "alt_text": "During a museum challenge: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "Two opposite arms form a diagonal straight line. An orange semicircular arc marks a half turn."
     },
     "answers": [
       {
-        "text": "4",
+        "text": "Right",
+        "is_correct": false
+      },
+      {
+        "text": "Reflex",
+        "is_correct": false
+      },
+      {
+        "text": "Revolution",
+        "is_correct": false
+      },
+      {
+        "text": "Straight",
         "is_correct": true
-      },
-      {
-        "text": "2",
-        "is_correct": false
-      },
-      {
-        "text": "3",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
-    }
+      "summary": "A half turn is a straight angle, equal to two right angles.",
+      "hint": "Look at the amount of turn, not the line’s slope."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4M04-T-003",
@@ -946,32 +1948,39 @@
     "curriculum_code": "AC9M4M04",
     "bank": "test",
     "skill": "classify_angles",
-    "question": "At a charity event, an angle is 180°. Which description is correct?",
-    "audio_prompt": "At a charity event, an angle is 180°. Which description is correct?",
+    "question": "Name the larger turn followed by the orange arrow.",
+    "audio_prompt": "Name the larger turn followed by the orange arrow.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-003",
-      "alt_text": "At a charity event: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "Two blue arms are close together, but the orange arrow follows the long route around the vertex."
     },
     "answers": [
       {
-        "text": "acute",
-        "is_correct": false
-      },
-      {
-        "text": "straight",
+        "text": "Reflex",
         "is_correct": true
       },
       {
-        "text": "right",
+        "text": "Acute",
+        "is_correct": false
+      },
+      {
+        "text": "Obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "Straight",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
-    }
+      "summary": "The arrow turns more than two right angles and less than four, so it marks a reflex angle.",
+      "hint": "Follow the arrow all the way around the marked route."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 3
   },
   {
     "id": "AC9M4M04-T-004",
@@ -979,33 +1988,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "test",
-    "skill": "compare_turns",
-    "question": "In an engineering workshop, how many right-angle turns make a full revolution?",
-    "audio_prompt": "In an engineering workshop, how many right-angle turns make a full revolution?",
+    "skill": "interior_angles",
+    "question": "Name the marked interior angle at the leftmost corner of this pentagon.",
+    "audio_prompt": "Name the marked interior angle at the leftmost corner of this pentagon.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A five-sided polygon is shaded blue. Orange marks its leftmost interior corner, between its upper-left and lower-left sides."
     },
     "answers": [
       {
-        "text": "2",
+        "text": "Acute",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "Right",
         "is_correct": false
       },
       {
-        "text": "4",
+        "text": "Obtuse",
         "is_correct": true
+      },
+      {
+        "text": "Reflex",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
-    }
+      "summary": "The inside opening at the marked corner is greater than one right angle and less than two.",
+      "hint": "The orange arc is inside the blue shape."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 4
   },
   {
     "id": "AC9M4M04-T-005",
@@ -1013,33 +2029,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "test",
-    "skill": "classify_angles",
-    "question": "At a regional carnival, an angle is 45°. Which description is correct?",
-    "audio_prompt": "At a regional carnival, an angle is 45°. Which description is correct?",
+    "skill": "interior_angles",
+    "question": "This square is tilted. What is the marked interior angle called?",
+    "audio_prompt": "This square is tilted. What is the marked interior angle called?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-005",
-      "alt_text": "At a regional carnival: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A square is tilted so its corners point up, right, down and left. Orange marks the inside of the rightmost corner."
     },
     "answers": [
       {
-        "text": "acute",
+        "text": "Right",
         "is_correct": true
       },
       {
-        "text": "right",
+        "text": "Acute",
         "is_correct": false
       },
       {
-        "text": "obtuse",
+        "text": "Obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "Straight",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
-    }
+      "summary": "A square has right-angle corners in every orientation.",
+      "hint": "A square-corner template can also be rotated."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 5
   },
   {
     "id": "AC9M4M04-T-006",
@@ -1047,33 +2070,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "test",
-    "skill": "compare_turns",
-    "question": "During a farm study, how many right-angle turns make a full revolution?",
-    "audio_prompt": "During a farm study, how many right-angle turns make a full revolution?",
+    "skill": "angle_invariance",
+    "question": "B was made by tracing A, rotating the trace and extending its arms. Compare the marked openings.",
+    "audio_prompt": "B was made by tracing A, rotating the trace and extending its arms. Compare the marked openings.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-006",
-      "alt_text": "During a farm study: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A has short arms pointing upper left and upper right. B has long arms pointing upper right and lower right. Both orange arcs are marked."
     },
     "answers": [
       {
-        "text": "2",
+        "text": "A is larger",
         "is_correct": false
       },
       {
-        "text": "4",
+        "text": "B is larger",
+        "is_correct": false
+      },
+      {
+        "text": "The angles are equal",
         "is_correct": true
       },
       {
-        "text": "3",
+        "text": "Only B is obtuse",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
-    }
+      "summary": "Tracing preserves the opening, and rotating or extending the arms does not change it.",
+      "hint": "The amount of turn is independent of arm length."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 6
   },
   {
     "id": "AC9M4M04-T-007",
@@ -1081,33 +2111,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "test",
-    "skill": "classify_angles",
-    "question": "While reading a trail guide, an angle is 120°. Which description is correct?",
-    "audio_prompt": "While reading a trail guide, an angle is 120°. Which description is correct?",
+    "skill": "compare_angles",
+    "question": "Which marked angle is larger?",
+    "audio_prompt": "Which marked angle is larger?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A is marked by an upper orange opening. B is marked by a long orange arc around most of its vertex."
     },
     "answers": [
       {
-        "text": "acute",
+        "text": "A, because an obtuse angle is always largest",
         "is_correct": false
       },
       {
-        "text": "right",
+        "text": "They are equal because each has two arms",
         "is_correct": false
       },
       {
-        "text": "obtuse",
+        "text": "A, because its arms point upwards",
+        "is_correct": false
+      },
+      {
+        "text": "B, because its marked turn is reflex",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
-    }
+      "summary": "A is obtuse, between one and two right angles. B is reflex, between two and four right angles, so B is larger.",
+      "hint": "Follow each orange-marked angle, especially B’s long route."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 7
   },
   {
     "id": "AC9M4M04-T-008",
@@ -1115,33 +2152,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "test",
-    "skill": "compare_turns",
-    "question": "In an architecture studio, how many right-angle turns make a full revolution?",
-    "audio_prompt": "In an architecture studio, how many right-angle turns make a full revolution?",
+    "skill": "estimate_angles",
+    "question": "Which estimate is closest to the orange-marked angle?",
+    "audio_prompt": "Which estimate is closest to the orange-marked angle?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-008",
-      "alt_text": "In an architecture studio: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "An orange arc runs above the vertex between an upper-right and an upper-left arm. A green square-corner benchmark is shown."
     },
     "answers": [
       {
-        "text": "4",
+        "text": "Half a right angle",
+        "is_correct": false
+      },
+      {
+        "text": "One and a half right angles",
         "is_correct": true
       },
       {
-        "text": "2",
+        "text": "Two and a half right angles",
         "is_correct": false
       },
       {
-        "text": "3",
+        "text": "Four right angles",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
-    }
+      "summary": "The opening is about halfway between a right angle and a straight angle.",
+      "hint": "Compare with one square corner, then with a half turn."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 8
   },
   {
     "id": "AC9M4M04-T-009",
@@ -1149,33 +2193,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "test",
-    "skill": "classify_angles",
-    "question": "During a food-truck project, an angle is 270°. Which description is correct?",
-    "audio_prompt": "During a food-truck project, an angle is 270°. Which description is correct?",
+    "skill": "environment_angles",
+    "question": "From above, a small gate has turned from closed through the marked opening. What kind of angle is shown?",
+    "audio_prompt": "From above, a small gate has turned from closed through the marked opening. What kind of angle is shown?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-009",
-      "alt_text": "During a food-truck project: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "A gate’s closed position points right. Its open arm points upward and right. Orange marks the smaller opening from closed to open."
     },
     "answers": [
       {
-        "text": "acute",
+        "text": "Right",
         "is_correct": false
       },
       {
-        "text": "reflex",
+        "text": "Obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "Acute",
         "is_correct": true
       },
       {
-        "text": "right",
+        "text": "Reflex",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
-    }
+      "summary": "The marked turn is smaller than one right angle, so it is acute.",
+      "hint": "Use the marked opening from the closed-position arm."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M4M04-T-010",
@@ -1183,33 +2234,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "test",
-    "skill": "compare_turns",
-    "question": "At a festival, how many right-angle turns make a full revolution?",
-    "audio_prompt": "At a festival, how many right-angle turns make a full revolution?",
+    "skill": "right_angle_template",
+    "question": "Sam holds a template near a corner but leaves a gap between the template’s square corner and the angle’s vertex. How should Sam fix the check?",
+    "audio_prompt": "Sam holds a template near a corner but leaves a gap between the template’s square corner and the angle’s vertex. How should Sam fix the check?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-010",
-      "alt_text": "At a festival: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "2",
-        "is_correct": false
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "4",
+        "text": "Match the corners and align one template edge with one arm",
         "is_correct": true
+      },
+      {
+        "text": "Keep the gap and compare the ends of the arms",
+        "is_correct": false
+      },
+      {
+        "text": "Fold the template smaller until it fits nearby",
+        "is_correct": false
+      },
+      {
+        "text": "Decide from the colour of the paper",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
-    }
+      "summary": "A fair comparison requires the template vertex to match the angle vertex and one edge to align with one arm.",
+      "hint": "The template is a reference opening at the same vertex."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M4M04-T-011",
@@ -1217,33 +2273,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "test",
-    "skill": "classify_angles",
-    "question": "While organising a collection, an angle is 90°. Which description is correct?",
-    "audio_prompt": "While organising a collection, an angle is 90°. Which description is correct?",
+    "skill": "level_and_square",
+    "question": "Which pair of checks suits these jobs: (1) is a shelf level, and (2) do two lines meet at a right angle?",
+    "audio_prompt": "Which pair of checks suits these jobs: (1) is a shelf level, and (2) do two lines meet at a right angle?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-011",
-      "alt_text": "While organising a collection: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "right",
+        "text": "(1) Measure the shelf’s length; (2) weigh the paper",
+        "is_correct": false
+      },
+      {
+        "text": "(1) Use the horizontal vial of a spirit level; (2) fit both edges at a set square’s square corner",
         "is_correct": true
       },
       {
-        "text": "acute",
+        "text": "(1) Fit a set square to any corner; (2) use a bubble anywhere on the page",
         "is_correct": false
       },
       {
-        "text": "obtuse",
+        "text": "(1) Read any vial without checking its direction; (2) align only one set-square edge",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
-    }
+      "summary": "The horizontal vial checks level. A set square compares the opening between the two lines with a right angle.",
+      "hint": "Each tool must test the relationship asked about."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M4M04-T-012",
@@ -1252,32 +2313,37 @@
     "curriculum_code": "AC9M4M04",
     "bank": "test",
     "skill": "compare_turns",
-    "question": "In an environmental study, how many right-angle turns make a full revolution?",
-    "audio_prompt": "In an environmental study, how many right-angle turns make a full revolution?",
+    "question": "How many right-angle turns are in a half revolution and a full revolution, in that order?",
+    "audio_prompt": "How many right-angle turns are in a half revolution and a full revolution, in that order?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-012",
-      "alt_text": "In an environmental study: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "2",
+        "text": "One, then two",
         "is_correct": false
       },
       {
-        "text": "4",
+        "text": "Two, then three",
+        "is_correct": false
+      },
+      {
+        "text": "Four, then two",
+        "is_correct": false
+      },
+      {
+        "text": "Two, then four",
         "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
-    }
+      "summary": "A half revolution is two quarter turns; a full revolution is four. Each quarter turn is one right angle.",
+      "hint": "Start by splitting a full turn into four equal quarter turns."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M4M04-T-013",
@@ -1285,33 +2351,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "test",
-    "skill": "classify_angles",
-    "question": "During a transport survey, an angle is 180°. Which description is correct?",
-    "audio_prompt": "During a transport survey, an angle is 180°. Which description is correct?",
+    "skill": "interior_angles",
+    "question": "At the inward corner, why is the orange-marked interior angle reflex?",
+    "audio_prompt": "At the inward corner, why is the orange-marked interior angle reflex?",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-013",
-      "alt_text": "During a transport survey: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "alt_text": "An L-shaped polygon is shaded blue. At its inward corner, an orange long arc lies inside the shape; the small lower-right gap is outside."
     },
     "answers": [
       {
-        "text": "acute",
-        "is_correct": false
-      },
-      {
-        "text": "right",
-        "is_correct": false
-      },
-      {
-        "text": "straight",
+        "text": "It follows the larger opening inside the shape, greater than two right angles",
         "is_correct": true
+      },
+      {
+        "text": "Every angle in a six-sided shape is reflex",
+        "is_correct": false
+      },
+      {
+        "text": "It follows the small unshaded gap outside the shape",
+        "is_correct": false
+      },
+      {
+        "text": "Its arms are longer than those at the other corners",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
-    }
+      "summary": "The orange arc identifies the inside of the shape at the inward corner. This inside opening is greater than a straight angle and less than a full turn.",
+      "hint": "Check which region belongs to the inside of the shape."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 13
   },
   {
     "id": "AC9M4M04-T-014",
@@ -1319,33 +2392,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "test",
-    "skill": "compare_turns",
-    "question": "At a strategy tournament, how many right-angle turns make a full revolution?",
-    "audio_prompt": "At a strategy tournament, how many right-angle turns make a full revolution?",
+    "skill": "construct_and_use_template",
+    "question": "Make a right-angle template from cardboard by tracing a checked square corner, or from paper folded once and then folded so its first folded edge lies exactly on itself. Use it to check one safe flat angle in your surroundings. On separate paper, draw and mark the angle, record your estimate before checking, show how you placed the template, and write the checked comparison with a right angle.",
+    "audio_prompt": "Make a right-angle template from cardboard by tracing a checked square corner, or from paper folded once and then folded so its first folded edge lies exactly on itself. Use it to check one safe flat angle in your surroundings. On separate paper, draw and mark the angle, record your estimate before checking, show how you placed the template, and write the checked comparison with a right angle.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "4",
-        "is_correct": true
-      },
-      {
-        "text": "2",
-        "is_correct": false
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "One example is a cardboard template traced from a checked set-square corner. Placed at a picture-frame corner with one edge aligned, the other edge fits; the checked angle is equal to one right angle. A valid double-folded paper template and a different safe angle also meet the task.",
+    "acceptance_note": "Inspect an actual correctly constructed right-angle template, a real chosen angle, a marked drawing, an estimate made before checking, placement evidence matching the vertex and one arm, and an observation-based smaller/equal/greater comparison. Accept either construction method and any accurate safe example. Do not require the estimate to be correct if it is checked and revised.",
+    "response_instructions": "Complete the drawing or practical task on separate paper. Keep the actual construction and written record for an adult to check. Arrange access to any named tool before completing the task.",
+    "completion_label": "My practical work and written record are ready for an adult to check.",
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
-    }
+      "summary": "One example is a cardboard template traced from a checked set-square corner. Placed at a picture-frame corner with one edge aligned, the other edge fits; the checked angle is equal to one right angle. A valid double-folded paper template and a different safe angle also meet the task.",
+      "hint": "A template checks the opening only when its vertex and one edge are aligned."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 14
   },
   {
     "id": "AC9M4M04-T-015",
@@ -1353,33 +2419,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "test",
-    "skill": "classify_angles",
-    "question": "While planning a community garden, an angle is 45°. Which description is correct?",
-    "audio_prompt": "While planning a community garden, an angle is 45°. Which description is correct?",
+    "skill": "construct_angle_examples",
+    "question": "On separate paper draw four angles: acute, right, obtuse and reflex. Use a right-angle template to help compare them. Mark each intended angle with an arc, label it and write its relationship to one, two or four right angles as appropriate.",
+    "audio_prompt": "On separate paper draw four angles: acute, right, obtuse and reflex. Use a right-angle template to help compare them. Mark each intended angle with an arc, label it and write its relationship to one, two or four right angles as appropriate.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-015",
-      "alt_text": "While planning a community garden: a Year 4 classify angles reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "right",
-        "is_correct": false
-      },
-      {
-        "text": "acute",
-        "is_correct": true
-      },
-      {
-        "text": "obtuse",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Acute is smaller than one right angle; right is equal to one; obtuse is greater than one and less than two; reflex is greater than two and less than four. Each arc identifies the intended opening.",
+    "acceptance_note": "Inspect four actual and correctly named drawings, template use or traced benchmark evidence, accurate written comparisons and a long arc for the reflex angle. Accept different orientations and arm lengths and any valid opening within each range. No degree labels are required.",
+    "response_instructions": "Complete the drawing or practical task on separate paper. Keep the actual construction and written record for an adult to check. Arrange access to any named tool before completing the task.",
+    "completion_label": "My practical work and written record are ready for an adult to check.",
     "explanation": {
-      "summary": "Angle type depends on turn size.",
-      "hint": "Compare with a right and straight angle."
-    }
+      "summary": "Acute is smaller than one right angle; right is equal to one; obtuse is greater than one and less than two; reflex is greater than two and less than four. Each arc identifies the intended opening.",
+      "hint": "At the reflex example, two arms alone do not identify the intended angle: mark the long opening."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 15
   },
   {
     "id": "AC9M4M04-T-016",
@@ -1387,32 +2446,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M04",
     "bank": "test",
-    "skill": "compare_turns",
-    "question": "In a design exhibition, how many right-angle turns make a full revolution?",
-    "audio_prompt": "In a design exhibition, how many right-angle turns make a full revolution?",
+    "skill": "draw_and_check_perpendicular",
+    "question": "Draw a first line on separate paper. Use a set square to draw a second line perpendicular to it, show both adjacent tool edges fitting, and mark the right angle. Then draw a third line meeting the first at an acute angle and mark that opening. Explain why the second line is perpendicular to the first and the third is not.",
+    "audio_prompt": "Draw a first line on separate paper. Use a set square to draw a second line perpendicular to it, show both adjacent tool edges fitting, and mark the right angle. Then draw a third line meeting the first at an acute angle and mark that opening. Explain why the second line is perpendicular to the first and the third is not.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-t-016",
-      "alt_text": "In a design exhibition: a Year 4 compare turns reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "2",
-        "is_correct": false
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "4",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The second line matches the other edge at the set square’s square corner, making a right angle with the first line. The third line’s marked opening is less than one right angle, so it is not perpendicular to the first.",
+    "acceptance_note": "Require actual set-square use, three identifiable lines, a right-angle mark at the first/second pair, an acute arc at the first/third pair and a correct comparison-based explanation for each pair. Both adjacent edges must align for the perpendicular check. Accept separate meeting points or a shared point, any orientation and any valid acute angle.",
+    "response_instructions": "Complete the drawing or practical task on separate paper. Keep the actual construction and written record for an adult to check. Arrange access to any named tool before completing the task.",
+    "completion_label": "My practical work and written record are ready for an adult to check.",
     "explanation": {
-      "summary": "Four quarter-turns complete 360 degrees.",
-      "hint": "Imagine turning through four corners of a square."
-    }
+      "summary": "The second line matches the other edge at the set square’s square corner, making a right angle with the first line. The third line’s marked opening is less than one right angle, so it is not perpendicular to the first.",
+      "hint": "Make clear which two lines each marked angle belongs to."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 16
   }
 ]
