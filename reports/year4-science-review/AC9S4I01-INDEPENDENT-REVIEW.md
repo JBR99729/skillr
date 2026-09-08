@@ -72,7 +72,7 @@ SHA-256 hashes below identify the authored resources at independent approval. La
 | Artifact | SHA-256 |
 | --- | --- |
 | `assets/assessment-banks/year4/science/ac9s4i01.json` | `a9357abb2f16e1c78a14b6b37e09a1d80d8dc7e4ec7462e09ae5ecb109e959aa` |
-| `year4/science/ac9s4i01-questions-to-explore-observed-patterns-and-relationships-and/index.html` | `2b2e0a63036cb1837b6f581f2d2bb10e5caabb876300a5c0aa93b57858148b84` |
+| `year4/science/ac9s4i01-questions-to-explore-observed-patterns-and-relationships-and/index.html` | `7ce37f64cfebc9213fbf07827edfbc6a420c2efbd50c110f417721cb24b47305` |
 | `year4/science/ac9s4i01-questions-to-explore-observed-patterns-and-relationships-and/teacher-slides/index.html` | `12caf910b8a22fa1c6fff7d2b422e20f223fb3d2c25526995ab783db0ac6feae` |
 | `quiz/year-4/science/ac9s4i01/worksheet/index.html` | `09208315f39040a6fe578087cd5e87ff0d9b4e5939e427c0b242afc248b4c6a5` |
 | `quiz/year-4/science/ac9s4i01/worksheet/worksheet-questions.js` | `082d95ee2175ccd3173533409306b6b6158dfea44546255014fd4fbd1746ccf1` |
@@ -93,3 +93,8 @@ quiz/year-4/science/ac9s4i01/practice/index.html SHA-256: `e578de4e6218c24ecdaac
 quiz/year-4/science/ac9s4i01/test/index.html SHA-256: `e8c4dd63152cc6779eb8452e0bd83a43ccfe6aecc8aa46b7c5cc862a3216d34d`.
 
 Worksheet wrapper integration recheck: all eight rendered prompts, answers and adult criteria remain exact matches to the approved worksheet bank. Root added the fresh scoped helper scripts and cache versions; the worksheet HTML hash above is refreshed to that integrated wrapper.
+
+
+## Source-link follow-up after PR audit
+
+Independently verified the Topic Guide changed only the SA Water citation href, from the inspected PDF to the official [Anangu Water Wisdom program page](https://www.sawater.com.au/education-and-community/education/the-well/for-teachers/anangu-water-wisdom). The landing page describes APY co-design and community-specific learning and directly links the same teacher-guide PDF. The source title remains accurate and the primary evidence remains discoverable. The exact inspected PDF and page evidence remain recorded above. No teaching text, diagram, question or review criterion changed. This scoped citation correction is approved; the Topic Guide SHA-256 above is refreshed. The global Teacher Slides export checks remain unchanged.

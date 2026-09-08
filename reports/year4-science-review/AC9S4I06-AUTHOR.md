@@ -46,10 +46,16 @@ Shared worked model: Write a material recommendation (Practice031, materials.svg
 ## Authored artifact SHA-256
 
 - `assets/assessment-banks/year4/science/ac9s4i06.json`: `c2148b373faf4c95f334b4117e58989a06149d82b55d5261d1b6caac1242de50`
-- `year4/science/ac9s4i06-and-create-texts-to-communicate-findings-and-ideas-for/index.html`: `e0ad645674818a4db84f65d1b31e46bfdd9a9a265df0adfceabb7e9f47633555`
-- `year4/science/ac9s4i06-and-create-texts-to-communicate-findings-and-ideas-for/teacher-slides/index.html`: `c627cd57b7a58e6dff9f772a5dfda39590faa9055368ca74facee31ca44f446f`
+- `year4/science/ac9s4i06-and-create-texts-to-communicate-findings-and-ideas-for/index.html`: `c6b93e9298d63c9fb42dba8bc229872fdeab5b7aa4aabda76c457b8d67eedd74`
+- `year4/science/ac9s4i06-and-create-texts-to-communicate-findings-and-ideas-for/teacher-slides/index.html`: `172fe5f89007eb40ac2ad32e58fb90908f81485b3ac8aa1486775d894d214dea`
 - `quiz/year-4/science/ac9s4i06/worksheet/index.html`: `cd710e51d566e8afdd25b62278d9d74d52ffe5bd557b48d7c12b80068eb29b0e`
 - `quiz/year-4/science/ac9s4i06/worksheet/worksheet-questions.js`: `7f8f5386a1af7a8795aaa8ee8528be2caa4e3774761beb639da1c6d4ed0ae411`
 - `assets/assessment-visuals/year4/science/ac9s4i06/campaign.svg`: `32c088c293dd2760aaacdbbe382213c506c138f7a4aee2744d039f4821b8f573`
 - `assets/assessment-visuals/year4/science/ac9s4i06/feeding.svg`: `1386c0b93cb67e0bd7ea6a8307bf08a9db1f4a5c934d12cf84f57388ee05937c`
 - `assets/assessment-visuals/year4/science/ac9s4i06/materials.svg`: `eebbbfc86b7c97e8b0b938ad7968403cc93c3501f7f42c1492f30c20fd2e2d0a`
+
+## CI follow-up: explicit guided teaching stage
+
+The existing report-reconstruction activity now says “We do” and identifies the teacher and class working together. Both static pages also place a curriculum-mapping anchor on the existing official descriptor. This preserves the lesson sections and restores recognisable native Classroom View teaching landmarks. No validator or runtime changes. Static Curriculum Architecture v2 and Year4Science static topic checks both pass after the change.
+
+PR-base recheck: `GITHUB_BASE_REF=main node scripts/validate_static_curriculum_architecture.mjs` PASS, inspecting151 changed files against main. Year4Science static pages12/12 and diff whitespace checks also pass.

@@ -36,3 +36,7 @@ Supplementary reading:
 - Review-aware publisher recorded all six approvals. Verification generator reports Year 4 Science 12/12 and generates the badge and public verification summaries. `--check` passes; no manual badge claim.
 
 Release integrity, remote-tree equality, PR/main CI, Pages and actual live checks are final publishing gates. Do not interpret this pre-release record as proof that deployment has already occurred.
+
+## CI correction checkpoint
+
+Initial PR826 CI passed all 26 real Chrome pre-module launch checks (24 desktop plus two mobile), question read-aloud and bank quality. Architecture checks identified an external SA Water teacher-guide PDF citation as a slide download. The Topic reference now links to SA Water’s verified Anangu Water Wisdom programme page, which offers the same guide and context; the exact PDF remains in source-review evidence. No audit exemption was added. I06’s existing guided activity restores its meaningful We do label and curriculum mapping anchor so its native Classroom View is correctly recognised. These limited corrections receive independent recheck before the CI rerun.

@@ -46,10 +46,16 @@ Shared worked model: Compare group findings (Practice025, groups.svg).
 ## Authored artifact SHA-256
 
 - `assets/assessment-banks/year4/science/ac9s4i05.json`: `95409aa58108fc0c355f72da5553faad60b062a960052b1be3111ee3bfd00d6e`
-- `year4/science/ac9s4i05-findings-with-those-of-others-consider-if-investigations-were/index.html`: `ac83049595f2c536cecc850cb7d71123be02b9d59d7fc991ec89bffac797c015`
-- `year4/science/ac9s4i05-findings-with-those-of-others-consider-if-investigations-were/teacher-slides/index.html`: `267a482c245605856e91e46b0b8fe8029df0aba88bd5d0453fdf447c05a516ea`
+- `year4/science/ac9s4i05-findings-with-those-of-others-consider-if-investigations-were/index.html`: `e63f0d160c522de7f0330e8c7e64094d1bfc1c46cec2c2af7a7461e334d4f839`
+- `year4/science/ac9s4i05-findings-with-those-of-others-consider-if-investigations-were/teacher-slides/index.html`: `ead42dcdc97abc25e5177d79ba9665e82751075abbd020c1332fcee868163b4e`
 - `quiz/year-4/science/ac9s4i05/worksheet/index.html`: `b83b3991ff29e5f900fe9625cbbcd34d2b66d6e8594344269cb27dff587e7759`
 - `quiz/year-4/science/ac9s4i05/worksheet/worksheet-questions.js`: `86be62d8efa0ebddf5ed6ab6062e87093f3016e2e7d076b3192ff037a6603b0e`
 - `assets/assessment-visuals/year4/science/ac9s4i05/groups.svg`: `f1190fa76bd3bbb724a89243589d3d3b59e826d5b6a067e55c1e046582da8eba`
 - `assets/assessment-visuals/year4/science/ac9s4i05/roofs.svg`: `8a847fb34555d24a420f4bf92001f751b5deaa26ca05f8fe5af359210e6e9dd8`
 - `assets/assessment-visuals/year4/science/ac9s4i05/survey.svg`: `1b854a3f4187f95c309076acd6ecbe7c938e6f7183f14c464d84e0ba3fb8c621`
+
+## CI follow-up: explicit guided teaching stage
+
+The existing method-detective activity now identifies a “We do” stage: teacher and class identify and explain the method difference together, before partners draft a repeat plan. Both static pages place the curriculum-mapping anchor on the existing official descriptor. This restores recognisable native Classroom View landmarks while retaining content and section IDs. No questions, PDF tasks, validators or runtime were changed.
+
+PR-base recheck: `GITHUB_BASE_REF=main node scripts/validate_static_curriculum_architecture.mjs` PASS, inspecting151 changed files against main. Year4Science static pages12/12 and diff whitespace checks also pass.
