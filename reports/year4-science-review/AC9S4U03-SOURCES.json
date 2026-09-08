@@ -1,0 +1,57 @@
+{
+  "code": "AC9S4U03",
+  "checked": "2026-09-08",
+  "descriptor": "identify how forces can be exerted by one object on another and investigate the effect of frictional, gravitational and magnetic forces on the motion of objects",
+  "elaborations": [
+    {
+      "id": "E1",
+      "text": "exploring the effect of magnets on other magnets and how magnetic forces can pull objects from a distance"
+    },
+    {
+      "id": "E2",
+      "text": "exploring the positive and negative effects of friction on their everyday experiences, such as how friction causes objects to slow down and stop"
+    },
+    {
+      "id": "E3",
+      "text": "recognising that gravity is the force that pulls all objects to towards the centre of Earth and that gravitational force acts on an object regardless of whether it is moving or not moving"
+    },
+    {
+      "id": "E4",
+      "text": "observing how the pushing force of a liquid enables an object to float"
+    },
+    {
+      "id": "E5",
+      "text": "investigating the effect of forces on the movement of objects in traditional First Nations Australians’ children’s instructive toys and games"
+    },
+    {
+      "id": "E6",
+      "text": "examining shoe sole design and identifying patterns in sole design and use related to friction"
+    },
+    {
+      "id": "E7",
+      "text": "watching a video of astronauts walking on the moon or dropping objects on its surface, and discussing the force they are observing"
+    },
+    {
+      "id": "E8",
+      "text": "exploring how force arrows can be used to represent the direction and magnitude of forces acting on an object"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.scootle.edu.au/ec/search?accContentId=AC9S4U03",
+      "role": "ESA official curriculum distribution: full descriptor and all8 elaborations opened"
+    },
+    {
+      "url": "https://www.australiancurriculum.edu.au/support-resources/background-information/science_teacher_background_information_AC9S4U03_E5",
+      "role": "ACARA primary descriptor and specific cultural context opened"
+    },
+    {
+      "url": "https://science.nasa.gov/resource/the-apollo-15-hammer-feather-drop/",
+      "role": "NASA primary demonstration account opened; video playback not claimed"
+    }
+  ],
+  "limits": [
+    "Direct ACARA Year4 curriculum route returned error through web tool; exact wording cross-checked against ESA distribution and ACARA E5 descriptor.",
+    "IXL/Khan browser comparison owned by root; not claimed complete by author."
+  ]
+}

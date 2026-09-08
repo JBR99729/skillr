@@ -9,6 +9,8 @@ const errors = [];
 const assert = (condition, message) => { if (!condition) errors.push(message); };
 const wordCount = (value) => (String(value || "").match(/[\p{L}\p{N}]+(?:[’'-][\p{L}\p{N}]+)*/gu) || []).length;
 const proseFor = (notes) => [notes.big_idea, ...(notes.key_rules || []), notes.memory_clue].join(" ");
+const reviewedStaticCodes = new Set(["AC9S4U01", "AC9S4U02", "AC9S4U03"]);
+const reviewedModels = {"AC9S4U01": ["Read a feeding arrow", "Decomposers connect to every feeding level", "Compare two habitats"], "AC9S4U02": ["Make and test a water-cycle model (E4–E5)"], "AC9S4U03": ["E1 · Magnets pull and push", "E4 · Water can support an object", "E8 · Draw the force, not the journey"]};
 const requiredSlideRoles = [
   "Learning intention and success criteria",
   "Concept refresher and visual clues",
@@ -71,8 +73,21 @@ for (const code of codes) {
   seenBigIdeas.add(normalisedBigIdea);
   seenMemoryClues.add(normalisedMemoryClue);
 
-  assert(JSON.stringify(record.source?.teacher_slide_ids) === JSON.stringify(requiredSlideRoles), `${code}: sources must identify all four final visible Teacher Slide roles in order`);
-  assert(JSON.stringify(record.source?.model_ids) === JSON.stringify([unit.workedExamples?.[0]?.title]), `${code}: source model must be the worked example actually shown in the final deck`);
+  if (reviewedStaticCodes.has(code)) {
+    const topicPath = `year4/science/${unit.slug}/index.html`;
+    const classroomPath = `year4/science/${unit.slug}/teacher-slides/index.html`;
+    assert(record.source?.topic_path === topicPath, `${code}: exact static topic source required`);
+    assert(record.source?.classroom_path === classroomPath, `${code}: exact static Classroom View source required`);
+    assert(JSON.stringify(record.source?.static_section_ids) === JSON.stringify(reviewedModels[code]), `${code}: reviewed static sections changed`);
+    assert(JSON.stringify(record.source?.model_ids) === JSON.stringify(reviewedModels[code]), `${code}: reviewed model provenance changed`);
+    for (const sourcePath of [topicPath, classroomPath]) {
+      const visible = read(sourcePath).replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi, "").replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, "").replace(/<[^>]+>/g, " ");
+      for (const title of reviewedModels[code]) assert(visible.includes(title), `${code}: cited static model missing from ${sourcePath}: ${title}`);
+    }
+  } else {
+    assert(JSON.stringify(record.source?.teacher_slide_ids) === JSON.stringify(requiredSlideRoles), `${code}: sources must identify all four final visible Teacher Slide roles in order`);
+    assert(JSON.stringify(record.source?.model_ids) === JSON.stringify([unit.workedExamples?.[0]?.title]), `${code}: source model must be the worked example actually shown in the final deck`);
+  }
 
   for (const mode of ["practice", "test"]) {
     const route = `quiz/year-4/science/${code.toLowerCase()}/${mode}/index.html`;
@@ -89,7 +104,8 @@ for (const code of codes) {
     assert(config.maxQuestions === expectedQuestionCount, `${code} ${mode}: expected ${expectedQuestionCount}-question launch`);
     assert(config.shuffleQuestions === true && config.shuffleAnswers === true && config.questionCycle === false, `${code} ${mode}: bank selection changed`);
     assert(config.requireStudentName === !isPractice, `${code} ${mode}: student-name flow changed`);
-    assert((html.match(/year4-science-pre-module-notes\.js\?v=20260814-1/g) || []).length === 1, `${code} ${mode}: shared source must load exactly once`);
+    const noteVersion = reviewedStaticCodes.has(code) ? "20260908-science-first-three" : "20260814-1";
+    assert((html.match(/year4-science-pre-module-notes\.js\?v=[^"\s]+/g) || []).join("") === `year4-science-pre-module-notes.js?v=${noteVersion}`, `${code} ${mode}: shared source must load exactly once`);
     assert(html.indexOf("year4-science-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=117"), `${code} ${mode}: note source must load before engine`);
     assert(html.includes("/quiz/assets/style.css?v=115"), `${code} ${mode}: responsive style version missing`);
     assert(html.includes("pre-read-notes"), `${code} ${mode}: existing Quick Read landing was removed`);
@@ -98,10 +114,10 @@ for (const code of codes) {
     const questionWindow = { location:{ pathname:`/${questionFile}` } };
     new vm.Script(read(questionFile), { filename:questionFile }).runInNewContext({ window:questionWindow });
     const bank = isPractice ? questionWindow.skillrPracticeQuestions : questionWindow.skillrTestQuestions;
-    const expectedBankLength = isPractice ? 40 : 16;
+    const expectedBankLength = isPractice ? (reviewedStaticCodes.has(code) ? 48 : 40) : 16;
     assert(Array.isArray(bank) && bank.length === expectedBankLength, `${code} ${mode}: expected actual ${expectedBankLength}-question bank`);
     assert(bank?.every((question) => question.curriculumCode === code), `${code} ${mode}: bank contains another code`);
-    assert(new Set((bank || []).map((question) => question.id)).size === expectedBankLength, `${code} ${mode}: question IDs must stay unique`);
+    assert(new Set((bank || []).map((question) => question.id)).size === bank?.length, `${code} ${mode}: question IDs must stay unique`);
   }
 
   const worksheetRoot = `quiz/year-4/science/${code.toLowerCase()}/worksheet`;

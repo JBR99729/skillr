@@ -17,21 +17,20 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Force",
-      "Shadow",
-      "Temperature",
-      "Volume"
+      "Speed",
+      "Distance",
+      "Direction"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "A force is a push or pull that can affect motion or shape.\nHint: Push or pull.",
     "structuredExplanation": {
       "summary": "A force is a push or pull that can affect motion or shape.",
       "hint": "Push or pull."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-002",
@@ -49,22 +48,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Light",
-      "Sound",
-      "Evaporation",
+      "Gravity pulling straight down",
+      "Magnetism from the carpet",
+      "The original forward push",
       "Friction"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 2,
     "correct": 3,
     "explanation": "Friction is a contact force that resists sliding motion.\nHint: Contact with surface.",
     "structuredExplanation": {
       "summary": "Friction is a contact force that resists sliding motion.",
       "hint": "Contact with surface."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-003",
@@ -82,22 +80,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Sound",
-      "Heat",
+      "Magnetism",
+      "A support force",
       "Gravity",
       "Friction"
     ],
-    "correct": 2,
-    "explanation": "Gravity is the attraction that pulls objects toward Earth.\nHint: Downward pull.",
-    "structuredExplanation": {
-      "summary": "Gravity is the attraction that pulls objects toward Earth.",
-      "hint": "Downward pull."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Near Earth, gravity pulls objects towards the centre of Earth, whether they are moving or still.\nHint: Downward pull.",
+    "structuredExplanation": {
+      "summary": "Near Earth, gravity pulls objects towards the centre of Earth, whether they are moving or still.",
+      "hint": "Downward pull."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-004",
@@ -120,17 +117,16 @@ window.skillrPracticeQuestions = [
       "Friction",
       "A hand push"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 4,
     "correct": 1,
     "explanation": "Magnetic forces can attract or repel across a gap.\nHint: No contact needed.",
     "structuredExplanation": {
       "summary": "Magnetic forces can attract or repel across a gap.",
       "hint": "No contact needed."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-005",
@@ -149,21 +145,20 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Bike brakes rubbing to slow a wheel",
-      "A magnet pulling a paperclip",
-      "A ball falling from a table",
-      "A light switching on"
+      "A magnet pulling a paperclip across a gap",
+      "Earth pulling a falling ball down",
+      "Two magnets repelling across a gap"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 0,
     "explanation": "Brakes use contact friction to slow motion.\nHint: Rubbing surfaces.",
     "structuredExplanation": {
       "summary": "Brakes use contact friction to slow motion.",
       "hint": "Rubbing surfaces."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-006",
@@ -183,20 +178,19 @@ window.skillrPracticeQuestions = [
     "answers": [
       "Plastic ruler",
       "Wooden pencil",
-      "Aluminium foil in every case",
+      "Aluminium foil",
       "Steel paperclip"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 3,
     "explanation": "Common magnets strongly attract iron and many steels.\nHint: Look for iron or steel.",
     "structuredExplanation": {
       "summary": "Common magnets strongly attract iron and many steels.",
       "hint": "Look for iron or steel."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-007",
@@ -214,22 +208,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Remove all gravity",
-      "Turn it into light",
+      "It can only speed the object up",
+      "It can only slow the object down",
       "Change its speed or direction",
-      "Make it stop being matter"
+      "It cannot affect direction"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 7,
     "correct": 2,
     "explanation": "Forces can start, stop, speed up, slow down or change direction.\nHint: Motion can change.",
     "structuredExplanation": {
       "summary": "Forces can start, stop, speed up, slow down or change direction.",
       "hint": "Motion can change."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-008",
@@ -252,17 +245,16 @@ window.skillrPracticeQuestions = [
       "Different cars on different ramps",
       "Push harder on each surface"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
     "correct": 1,
     "explanation": "A fair surface test changes the surface while keeping other important factors the same.\nHint: One changed factor.",
     "structuredExplanation": {
       "summary": "A fair surface test changes the surface while keeping other important factors the same.",
       "hint": "One changed factor."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-009",
@@ -281,21 +273,20 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Friction and gravity",
-      "Light and colour",
-      "Sound and temperature",
-      "Shape and mass"
+      "Gravity and magnetic attraction",
+      "Magnetic repulsion and gravity",
+      "A hand push and friction"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
     "correct": 0,
     "explanation": "Friction requires contact, while gravity can act without contact.\nHint: Touch versus no touch.",
     "structuredExplanation": {
       "summary": "Friction requires contact, while gravity can act without contact.",
       "hint": "Touch versus no touch."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-010",
@@ -313,22 +304,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The colour of the notebook only",
-      "The answer before measuring",
-      "The question wording only",
+      "Trials with a new object every time",
+      "Trials using a harder push each time",
+      "Only trials agreeing with the prediction",
       "Trials under the same condition"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 10,
     "correct": 3,
     "explanation": "Repeated trials help check whether results are reliable.\nHint: Repeat measurements.",
     "structuredExplanation": {
       "summary": "Repeated trials help check whether results are reliable.",
       "hint": "Repeat measurements."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-011",
@@ -346,22 +336,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The ball uses up all matter",
-      "The grass becomes magnetic",
+      "The original kick must still push it forward",
+      "Gravity pulls it backwards along the grass",
       "Friction from the grass acts against the motion",
-      "Gravity stops acting once it rolls"
+      "Friction stops acting once the ball rolls"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
     "correct": 2,
     "explanation": "Friction between the ball and grass resists the rolling motion.\nHint: Surface resists movement.",
     "structuredExplanation": {
       "summary": "Friction between the ball and grass resists the rolling motion.",
       "hint": "Surface resists movement."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-012",
@@ -379,22 +368,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Books have no mass on desks",
+      "Gravity acts only on moving books",
       "Gravity still pulls downward even when the desk supports the book",
-      "Gravity only acts when objects fall",
-      "The desk switches gravity off"
+      "Only the desk force acts on the book",
+      "Gravity points upward while the book rests"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 12,
     "correct": 1,
     "explanation": "Gravity acts on objects near Earth whether they are falling or supported.\nHint: Supported does not mean no gravity.",
     "structuredExplanation": {
       "summary": "Gravity acts on objects near Earth whether they are falling or supported.",
       "hint": "Supported does not mean no gravity."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-013",
@@ -413,21 +401,20 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Only some metals and alloys are strongly attracted to common magnets",
-      "Plastic is the only magnetic material",
-      "Every shiny object is magnetic",
-      "Magnets attract only paper"
+      "Every metal is strongly attracted if it is shiny",
+      "A metal is magnetic only when it is heavy",
+      "A metal becomes magnetic just by being smooth"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 13,
     "correct": 0,
     "explanation": "Common magnets attract materials such as iron and many steels, not every metal.\nHint: Metal is not enough.",
     "structuredExplanation": {
       "summary": "Common magnets attract materials such as iron and many steels, not every metal.",
       "hint": "Metal is not enough."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-014",
@@ -445,22 +432,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Different cars always give identical results",
-      "The car colour is the measured variable",
-      "The surface would stop being a surface",
+      "Different cars cannot affect travel distance",
+      "Changing two factors shows which one caused the result",
+      "Car size matters only when testing magnets",
       "Changing the car and the surface together would make the test unfair"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
     "correct": 3,
     "explanation": "Keeping the car the same helps show whether the surface caused the difference.\nHint: Control other factors.",
     "structuredExplanation": {
       "summary": "Keeping the car the same helps show whether the surface caused the difference.",
       "hint": "Control other factors."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-015",
@@ -478,22 +464,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The paperclip is pushed by light",
-      "Gravity only works sideways",
+      "The magnet must touch it before any force acts",
+      "The paperclip is pulled by friction across the gap",
       "Magnetic force can act across a small distance",
-      "Friction travels through air to pull it"
+      "Gravity pulls the paperclip sideways toward any object"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
     "correct": 2,
     "explanation": "Magnetic attraction can act without direct contact between the magnet and paperclip.\nHint: Non-contact force.",
     "structuredExplanation": {
       "summary": "Magnetic attraction can act without direct contact between the magnet and paperclip.",
       "hint": "Non-contact force."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-016",
@@ -502,8 +487,8 @@ window.skillrPracticeQuestions = [
     "skill": "frictional gravitational and magnetic forces",
     "printable": true,
     "type": "single",
-    "question": "Why does a rough surface usually produce more friction than a smooth surface?",
-    "audioPrompt": "Why does a rough surface usually produce more friction than a smooth surface?",
+    "question": "The same block released in the same way slides a shorter distance on a rough mat than on a smooth board. What do these results suggest?",
+    "audioPrompt": "The same block released in the same way slides a shorter distance on a rough mat than on a smooth board. What do these results suggest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -511,22 +496,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Friction only happens in water",
-      "Rough surfaces catch and resist motion more",
-      "Rough surfaces remove gravity",
-      "Smooth surfaces create magnets"
+      "The rough surface has removed the weight of the block",
+      "The results suggest more friction on that surface in this test",
+      "A longer slide always means more friction",
+      "Every rough material must give the same distance"
     ],
-    "correct": 1,
-    "explanation": "More surface interaction can increase friction and reduce sliding distance.\nHint: More resistance.",
-    "structuredExplanation": {
-      "summary": "More surface interaction can increase friction and reduce sliding distance.",
-      "hint": "More resistance."
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Under these controlled conditions, the mat provides greater resistance to sliding. Friction depends on both surfaces; roughness alone is not a rule for every material.\nHint: More resistance.",
+    "structuredExplanation": {
+      "summary": "Under these controlled conditions, the mat provides greater resistance to sliding. Friction depends on both surfaces; roughness alone is not a rule for every material.",
+      "hint": "More resistance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-017",
@@ -549,17 +533,16 @@ window.skillrPracticeQuestions = [
       "A result is guessed before the test",
       "They are the same word"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
     "correct": 0,
     "explanation": "Predictions are based on prior ideas, while results come from collected evidence.\nHint: Before versus after.",
     "structuredExplanation": {
       "summary": "Predictions are based on prior ideas, while results come from collected evidence.",
       "hint": "Before versus after."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-018",
@@ -577,22 +560,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A forward push must stay attached forever",
-      "Gravity disappears during motion",
-      "The object becomes a magnet",
+      "A forward push must stay attached throughout the motion",
+      "No forces can act once a push ends",
+      "Motion itself is a continuing hand push",
       "It may continue moving, while forces such as friction gradually slow it"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 18,
     "correct": 3,
     "explanation": "Motion can continue after a push, but other forces can change it.\nHint: No continuous push required.",
     "structuredExplanation": {
       "summary": "Motion can continue after a push, but other forces can change it.",
       "hint": "No continuous push required."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-019",
@@ -610,22 +592,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "So friction is removed from Earth",
-      "So all metals become magnetic",
+      "So the measured distance cannot change",
+      "So all trials must match the prediction",
       "So distance is the main changed factor being tested",
-      "So every result is guessed"
+      "So the paperclip never needs to be reset"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
     "correct": 2,
     "explanation": "Controlling the magnet and paperclip makes the comparison fairer.\nHint: Keep materials same.",
     "structuredExplanation": {
       "summary": "Controlling the magnet and paperclip makes the comparison fairer.",
       "hint": "Keep materials same."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-020",
@@ -643,22 +624,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Attraction is caused by evaporation",
+      "Unlike poles must touch before attracting",
       "Magnetic poles can interact by pulling toward each other",
-      "Opposite poles always turn into wood",
-      "Magnets only work when touching"
+      "Opposite poles always push away from each other",
+      "All poles pull together in every orientation"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 20,
     "correct": 1,
     "explanation": "Unlike magnetic poles can attract; like poles can repel.\nHint: Magnet pole rule.",
     "structuredExplanation": {
       "summary": "Unlike magnetic poles can attract; like poles can repel.",
       "hint": "Magnet pole rule."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-021",
@@ -681,17 +661,16 @@ window.skillrPracticeQuestions = [
       "Gravity can act without contact",
       "Magnets can attract some steel objects"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 21,
     "correct": 0,
     "explanation": "Objects can continue moving after a push; friction and other forces may then change the motion.\nHint: Movement does not always mean a continuing push.",
     "structuredExplanation": {
       "summary": "Objects can continue moving after a push; friction and other forces may then change the motion.",
       "hint": "Movement does not always mean a continuing push."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-022",
@@ -714,17 +693,16 @@ window.skillrPracticeQuestions = [
       "A shoe gripping the ground",
       "A magnet attracting a paperclip across a gap"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 22,
     "correct": 3,
     "explanation": "The magnet acts without touching the paperclip.\nHint: No touching.",
     "structuredExplanation": {
       "summary": "The magnet acts without touching the paperclip.",
       "hint": "No touching."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-023",
@@ -747,17 +725,16 @@ window.skillrPracticeQuestions = [
       "Friction between tyres and road",
       "Gravity pulling a dropped ball"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
     "correct": 2,
     "explanation": "Friction happens when surfaces are in contact.\nHint: Touching surfaces.",
     "structuredExplanation": {
       "summary": "Friction happens when surfaces are in contact.",
       "hint": "Touching surfaces."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-024",
@@ -780,17 +757,16 @@ window.skillrPracticeQuestions = [
       "Use a heavy truck on carpet and a light car on tiles",
       "Push harder on the carpet trial"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
     "correct": 1,
     "explanation": "A fair comparison changes surface and controls other important factors.\nHint: Same car, ramp and release.",
     "structuredExplanation": {
       "summary": "A fair comparison changes surface and controls other important factors.",
       "hint": "Same car, ramp and release."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-025",
@@ -799,8 +775,8 @@ window.skillrPracticeQuestions = [
     "skill": "frictional gravitational and magnetic forces",
     "printable": true,
     "type": "single",
-    "question": "Which result would suggest more friction?",
-    "audioPrompt": "Which result would suggest more friction?",
+    "question": "The same block is released from the same ramp point onto different level surfaces. Which result suggests more friction?",
+    "audioPrompt": "The same block is released from the same ramp point onto different level surfaces. Which result suggests more friction?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -809,21 +785,20 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "The same block travels a shorter distance on the surface",
-      "The block changes colour",
-      "The timer is a different brand",
-      "The surface has a longer name"
+      "The same block travels a longer distance on the surface",
+      "The block travels exactly the same distance each time",
+      "Only the colour of the surface changes"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
     "correct": 0,
     "explanation": "Greater friction can reduce the distance travelled under the same starting conditions.\nHint: More resistance, less travel.",
     "structuredExplanation": {
       "summary": "Greater friction can reduce the distance travelled under the same starting conditions.",
       "hint": "More resistance, less travel."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-026",
@@ -846,17 +821,16 @@ window.skillrPracticeQuestions = [
       "Some steel wool",
       "Wood"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 26,
     "correct": 3,
     "explanation": "Wood is not strongly attracted to magnets.\nHint: Not a magnetic metal.",
     "structuredExplanation": {
       "summary": "Wood is not strongly attracted to magnets.",
       "hint": "Not a magnetic metal."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-027",
@@ -874,22 +848,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Magnetism always pulls it north",
-      "Sound pushes it sideways",
+      "Gravity acts upward as the ball falls",
+      "Gravity acts only after the ball lands",
       "Gravity acts downward",
-      "Friction pushes the ball upward from the table"
+      "Gravity acts only while a hand holds the ball"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 27,
     "correct": 2,
     "explanation": "Near Earth, gravity pulls falling objects downward.\nHint: Downward force.",
     "structuredExplanation": {
       "summary": "Near Earth, gravity pulls falling objects downward.",
       "hint": "Downward force."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-028",
@@ -907,22 +880,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Friction turns the book into air",
+      "Only the table pushes up; no other force acts",
       "Gravity pulls down while the table pushes up on the book",
       "No forces act because it is still",
-      "Only magnetic force acts"
+      "Gravity pulls up while the table pushes down"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
     "correct": 1,
     "explanation": "A supported object can have balanced forces acting on it.\nHint: Still does not mean no forces.",
     "structuredExplanation": {
       "summary": "A supported object can have balanced forces acting on it.",
       "hint": "Still does not mean no forces."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-029",
@@ -941,21 +913,20 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Gap between magnet and paperclip",
-      "Colour of the student’s pencil",
-      "Name of the data table",
-      "Day of the week only"
+      "Mass of the paperclip at each gap",
+      "Type of magnet at each gap",
+      "Material of the paperclip at each gap"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
     "correct": 0,
     "explanation": "The tested variable is the distance between the magnet and paperclip.\nHint: Changed gap.",
     "structuredExplanation": {
       "summary": "The tested variable is the distance between the magnet and paperclip.",
       "hint": "Changed gap."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-030",
@@ -973,22 +944,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Tile is always best everywhere after one try",
-      "The carpet was boring",
-      "The car liked the tile",
+      "Tile must produce less friction for every object",
+      "Only the longest tile trial should be reported",
+      "One carpet trial proves the pattern for every surface",
       "The car usually travelled farther on tile than carpet under the same conditions"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 30,
     "correct": 3,
     "explanation": "Repeated measurements under controlled conditions support a cautious comparison.\nHint: Use evidence, not preference.",
     "structuredExplanation": {
       "summary": "Repeated measurements under controlled conditions support a cautious comparison.",
       "hint": "Use evidence, not preference."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-031",
@@ -1006,22 +976,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The car stopped being matter on carpet",
-      "Tile made the car magnetic",
+      "Carpet switched off the original push instantly",
+      "The car had less gravity on the tile",
       "Carpet produced more friction and slowed the car sooner",
-      "Gravity was absent on the tile"
+      "Longer travel on tile means tile had more friction"
     ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 31,
     "correct": 2,
     "explanation": "The shorter travel distance on carpet suggests greater friction.\nHint: Same test, different surface.",
     "structuredExplanation": {
       "summary": "The shorter travel distance on carpet suggests greater friction.",
       "hint": "Same test, different surface."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-032",
@@ -1039,22 +1008,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Gravity is a contact push",
+      "Gravity acted only while the rubber was held",
       "Gravity acted before and after release; the hand was supporting the rubber before release",
-      "Gravity only works in air",
-      "The hand created gravity"
+      "Gravity stopped as soon as the rubber moved",
+      "The hand supplied all the downward force after release"
     ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
     "correct": 1,
     "explanation": "Gravity acts on the rubber while held and while falling, but support changes its motion.\nHint: Support does not switch gravity off.",
     "structuredExplanation": {
       "summary": "Gravity acts on the rubber while held and while falling, but support changes its motion.",
       "hint": "Support does not switch gravity off."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-033",
@@ -1077,17 +1045,16 @@ window.skillrPracticeQuestions = [
       "Distance travelled and colour",
       "All variables including the one being tested"
     ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 33,
     "correct": 0,
     "explanation": "A fair test changes ramp height and controls other relevant factors.\nHint: Keep non-tested factors same.",
     "structuredExplanation": {
       "summary": "A fair test changes ramp height and controls other relevant factors.",
       "hint": "Keep non-tested factors same."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-034",
@@ -1105,22 +1072,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "All materials are magnetic",
-      "Plastic is a stronger magnet",
-      "Friction caused the attraction",
+      "All metals must respond in the same way",
+      "A larger plastic button must always be attracted",
+      "Any object can be attracted if it is shiny",
       "Magnetic force depends on the material"
     ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 34,
     "correct": 3,
     "explanation": "Common magnets attract some materials but not others.\nHint: Material matters.",
     "structuredExplanation": {
       "summary": "Common magnets attract some materials but not others.",
       "hint": "Material matters."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-035",
@@ -1129,8 +1095,8 @@ window.skillrPracticeQuestions = [
     "skill": "frictional gravitational and magnetic forces",
     "printable": true,
     "type": "single",
-    "question": "A skateboard slows on rough concrete. Which force is most responsible?",
-    "audioPrompt": "A skateboard slows on rough concrete. Which force is most responsible?",
+    "question": "A wooden block slides across rough concrete and slows. Which force opposes its sliding motion?",
+    "audioPrompt": "A wooden block slides across rough concrete and slows. Which force opposes its sliding motion?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1138,22 +1104,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Precipitation under the wheels",
-      "Light pushing backward",
+      "The original push acting forward",
+      "Gravity pulling directly backwards",
       "Friction opposing the motion",
-      "Magnetism from the sky"
+      "A support force pushing directly backwards"
     ],
-    "correct": 2,
-    "explanation": "Friction between wheels and concrete resists motion.\nHint: Contact resistance.",
-    "structuredExplanation": {
-      "summary": "Friction between wheels and concrete resists motion.",
-      "hint": "Contact resistance."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Friction between the block and concrete acts against their relative sliding motion.\nHint: Contact resistance.",
+    "structuredExplanation": {
+      "summary": "Friction between the block and concrete acts against their relative sliding motion.",
+      "hint": "Contact resistance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-036",
@@ -1171,22 +1136,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Repeats prove the prediction before testing",
+      "Repeats guarantee that the prediction is correct",
       "Repeated trials help judge the usual result despite small variations",
-      "Repeats make gravity stronger",
-      "Repeats remove the need to measure"
+      "Repeats allow the object to change each time",
+      "Only the largest repeated measurement should be kept"
     ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
     "correct": 1,
     "explanation": "Motion tests can vary, so repeats improve confidence in the pattern.\nHint: Check reliability.",
     "structuredExplanation": {
       "summary": "Motion tests can vary, so repeats improve confidence in the pattern.",
       "hint": "Check reliability."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-037",
@@ -1205,21 +1169,20 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Like poles can repel without touching",
-      "Friction between the magnets pulls them together",
-      "Gravity changes into sound",
-      "All poles attract only"
+      "Friction across the gap pushes them apart",
+      "Unlike poles always repel",
+      "A magnetic force can only pull"
     ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 37,
     "correct": 0,
     "explanation": "Like magnetic poles can exert a repelling force across a gap.\nHint: Repel across distance.",
     "structuredExplanation": {
       "summary": "Like magnetic poles can exert a repelling force across a gap.",
       "hint": "Repel across distance."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-038",
@@ -1237,22 +1200,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The box became a producer",
-      "Gravity stopped on lino",
-      "The push changed into heat only",
+      "The mass of the box must have changed",
+      "Gravity acted only on carpet",
+      "The box no longer touched the floor",
       "The surface, which affected friction"
     ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 38,
     "correct": 3,
     "explanation": "The carpet surface likely increased friction compared with lino.\nHint: Surface affects resistance.",
     "structuredExplanation": {
       "summary": "The carpet surface likely increased friction compared with lino.",
       "hint": "Surface affects resistance."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-039",
@@ -1270,22 +1232,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It proves all metals are magnetic",
-      "It removes the changed variable",
+      "It guarantees all the results are equal",
+      "It makes distance the only changing factor",
       "Changing the paperclip could affect the result, so the comparison is less fair",
-      "Different paperclips make the test safer automatically"
+      "Paperclip size can never affect attraction"
     ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 39,
     "correct": 2,
     "explanation": "Uncontrolled material differences can influence magnet tests.\nHint: Control the object being attracted.",
     "structuredExplanation": {
       "summary": "Uncontrolled material differences can influence magnet tests.",
       "hint": "Control the object being attracted."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u03-p-040",
@@ -1294,8 +1255,8 @@ window.skillrPracticeQuestions = [
     "skill": "frictional gravitational and magnetic forces",
     "printable": true,
     "type": "single",
-    "question": "A ball rolls to the right while slowing down. Which force direction best represents friction?",
-    "audioPrompt": "A ball rolls to the right while slowing down. Which force direction best represents friction?",
+    "question": "A block slides to the right on a level table while slowing down. Which direction represents friction on the block?",
+    "audioPrompt": "A block slides to the right on a level table while slowing down. Which direction represents friction on the block?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1303,21 +1264,282 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "No direction because it is invisible",
+      "Upward, because the table supports it",
       "To the left, opposite the motion",
       "To the right, speeding it up",
-      "Straight upward as gravity"
+      "Downward, because gravity acts on it"
     ],
-    "correct": 1,
-    "explanation": "Friction commonly acts opposite the direction of sliding or rolling motion.\nHint: Opposes motion.",
-    "structuredExplanation": {
-      "summary": "Friction commonly acts opposite the direction of sliding or rolling motion.",
-      "hint": "Opposes motion."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Friction on the sliding block acts to the left, opposite its sliding motion across the table.\nHint: Opposes motion.",
+    "structuredExplanation": {
+      "summary": "Friction on the sliding block acts to the left, opposite its sliding motion across the table.",
+      "hint": "Opposes motion."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4u03-p-041",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional gravitational and magnetic forces",
+    "printable": true,
+    "type": "single",
+    "question": "A cork floats without moving up or down in still water. Which explanation fits?",
+    "audioPrompt": "A cork floats without moving up or down in still water. Which explanation fits?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Water pushes up on the cork while gravity pulls down.",
+      "Gravity has stopped acting on the cork.",
+      "Only an upward force acts on the cork.",
+      "Water pulls the cork down while gravity pushes up."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 41,
+    "correct": 0,
+    "explanation": "The water’s upward push balances the downward pull of gravity while the cork remains at the same height. Floating does not mean no gravity.\nHint: Identify both vertical forces.",
+    "structuredExplanation": {
+      "summary": "The water’s upward push balances the downward pull of gravity while the cork remains at the same height. Floating does not mean no gravity.",
+      "hint": "Identify both vertical forces."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4u03-p-042",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional gravitational and magnetic forces",
+    "printable": true,
+    "type": "single",
+    "question": "Which pair shows a helpful effect and an unwanted effect of friction?",
+    "audioPrompt": "Which pair shows a helpful effect and an unwanted effect of friction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Gravity brings a ball down; a magnet attracts steel.",
+      "Friction helps shoes grip; gravity makes shoes magnetic.",
+      "Magnets hold a door; a hand opens it.",
+      "Shoe grip prevents slipping; rubbing wears away a sole."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 42,
+    "correct": 3,
+    "explanation": "Friction can provide useful grip while repeated rubbing can wear materials away. Its usefulness depends on the situation.\nHint: Think about grip and wear.",
+    "structuredExplanation": {
+      "summary": "Friction can provide useful grip while repeated rubbing can wear materials away. Its usefulness depends on the situation.",
+      "hint": "Think about grip and wear."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4u03-p-043",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional gravitational and magnetic forces",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "A worn pattern may provide different grip, but this must be tested on the named surface. Keep the load and surface condition the same and use an adult pulling the shoes, not children walking on slippery ground.",
+    "acceptanceNote": "Inspect two labelled sole sketches, a conditional prediction, a named surface and a safe comparison controlling two relevant factors.",
+    "responseInstructions": "Complete the actual investigation or written work. Keep the evidence and ask an adult to inspect it against these checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "An adult gives you pictures or actual examples of a new and a worn sole from the same shoe design. Make labelled sketches, predict how wear might affect grip on one named surface, and plan a safe test with two controlled conditions.",
+    "audioPrompt": "An adult gives you pictures or actual examples of a new and a worn sole from the same shoe design. Make labelled sketches, predict how wear might affect grip on one named surface, and plan a safe test with two controlled conditions.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 43,
+    "correct": "A worn pattern may provide different grip, but this must be tested on the named surface. Keep the load and surface condition the same and use an adult pulling the shoes, not children walking on slippery ground.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "A worn pattern may provide different grip, but this must be tested on the named surface. Keep the load and surface condition the same and use an adult pulling the shoes, not children walking on slippery ground.",
+      "hint": "Complete the actual task and retain the observations or drawings."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4u03-p-044",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional gravitational and magnetic forces",
+    "printable": true,
+    "type": "single",
+    "question": "In footage from the Moon, a released tool falls to the surface. What does this show?",
+    "audioPrompt": "In footage from the Moon, a released tool falls to the surface. What does this show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Gravity exists only on Earth.",
+      "Air must push the tool down.",
+      "The Moon exerts a gravitational pull on the tool.",
+      "The astronaut must keep touching the tool to make it fall."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 44,
+    "correct": 2,
+    "explanation": "The Moon has gravity. A tool falling after release is evidence of a pull towards the lunar surface; a numerical force calculation is unnecessary.\nHint: What pulls a released object down?",
+    "structuredExplanation": {
+      "summary": "The Moon has gravity. A tool falling after release is evidence of a pull towards the lunar surface; a numerical force calculation is unnecessary.",
+      "hint": "What pulls a released object down?"
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4u03-p-045",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional gravitational and magnetic forces",
+    "printable": true,
+    "type": "single",
+    "question": "Two arrows on the same force-diagram scale point right. Arrow A is longer than arrow B. What does A represent?",
+    "audioPrompt": "Two arrows on the same force-diagram scale point right. Arrow A is longer than arrow B. What does A represent?",
+    "visual": "Two force arrows on the same scale, with different lengths; arrowheads show their directions.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two force arrows on the same scale, with different lengths; arrowheads show their directions.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u03/force-arrows-right.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u03/force-arrows-right.svg#model",
+      "alt_text": "Two force arrows on the same scale, with different lengths; arrowheads show their directions."
+    },
+    "answers": [
+      "A force acting for a longer time.",
+      "A stronger force in the same direction as B.",
+      "A greater travel distance but equal force.",
+      "A force in the opposite direction."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 45,
+    "correct": 1,
+    "explanation": "Arrow direction shows force direction; relative length on the same scale shows relative strength, not travel distance or duration.\nHint: Read direction and relative length.",
+    "structuredExplanation": {
+      "summary": "Arrow direction shows force direction; relative length on the same scale shows relative strength, not travel distance or duration.",
+      "hint": "Read direction and relative length."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4u03-p-046",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional gravitational and magnetic forces",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Gravity starts the classroom disc moving down the ramp after release. A hand push starts the disc in the documented game. Contact resistance can slow the disc on the level surface. Compare all six measurements and limit the conclusion to this setup. The foam-disc task is a classroom forces model, not an authentic recreation of the game.",
+    "acceptanceNote": "Inspect six actual distances with units, same disc/ramp/release point, specific source attribution and clear distinction between gravity on the ramp, the documented hand push and later surface resistance.",
+    "responseInstructions": "Complete the actual investigation or written work. Keep the evidence and ask an adult to inspect it against these checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Read the topic guide’s ACARA account of the Pitjantjatjara rolling-disc context. With an adult, release a foam disc without pushing from the same point on a low ramp onto two level surfaces. Record three distances per surface. Explain what starts this disc down the ramp, what started the disc in the documented game, and what slows the classroom disc later. Do not use throwing implements.",
+    "audioPrompt": "Read the topic guide’s ACARA account of the Pitjantjatjara rolling-disc context. With an adult, release a foam disc without pushing from the same point on a low ramp onto two level surfaces. Record three distances per surface. Explain what starts this disc down the ramp, what started the disc in the documented game, and what slows the classroom disc later. Do not use throwing implements.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 46,
+    "correct": "Gravity starts the classroom disc moving down the ramp after release. A hand push starts the disc in the documented game. Contact resistance can slow the disc on the level surface. Compare all six measurements and limit the conclusion to this setup. The foam-disc task is a classroom forces model, not an authentic recreation of the game.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Gravity starts the classroom disc moving down the ramp after release. A hand push starts the disc in the documented game. Contact resistance can slow the disc on the level surface. Compare all six measurements and limit the conclusion to this setup. The foam-disc task is a classroom forces model, not an authentic recreation of the game.",
+      "hint": "Complete the actual task and retain the observations or drawings."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4u03-p-047",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional gravitational and magnetic forces",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Results vary. State the gaps at which the clip moved, using both trials. Keep magnet, clip and tabletop unchanged; do not claim an exact force cutoff between untested gaps.",
+    "acceptanceNote": "Inspect six observations at three measured gaps, controlled materials and a conclusion consistent with every result. A plan alone does not meet the investigation task.",
+    "responseInstructions": "Complete the actual investigation or written work. Keep the evidence and ask an adult to inspect it against these checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "With an adult and a large classroom magnet, test the same steel paperclip at three measured gaps on the same tabletop. Reset the clip and conduct two trials at each gap. Make a six-observation table and write a conclusion about where attraction was observed.",
+    "audioPrompt": "With an adult and a large classroom magnet, test the same steel paperclip at three measured gaps on the same tabletop. Reset the clip and conduct two trials at each gap. Make a six-observation table and write a conclusion about where attraction was observed.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 47,
+    "correct": "Results vary. State the gaps at which the clip moved, using both trials. Keep magnet, clip and tabletop unchanged; do not claim an exact force cutoff between untested gaps.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Results vary. State the gaps at which the clip moved, using both trials. Keep magnet, clip and tabletop unchanged; do not claim an exact force cutoff between untested gaps.",
+      "hint": "Complete the actual task and retain the observations or drawings."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4u03-p-048",
+    "curriculumCode": "AC9S4U03",
+    "bank": "practice",
+    "skill": "frictional gravitational and magnetic forces",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Water pushes upward and gravity pulls downward. At steady floating height the forces balance, so show equal opposite arrows. Gravity has not disappeared.",
+    "acceptanceNote": "Inspect the actual observation, labelled drawing with equal upward/downward arrows, and an explanation naming both forces. Use shallow water and wipe spills.",
+    "responseInstructions": "Complete the actual investigation or written work. Keep the evidence and ask an adult to inspect it against these checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "With an adult, place a sealed toy boat in shallow water. Observe it floating steadily, then draw and label the upward and downward forces. Explain why remaining still does not mean no forces act.",
+    "audioPrompt": "With an adult, place a sealed toy boat in shallow water. Observe it floating steadily, then draw and label the upward and downward forces. Explain why remaining still does not mean no forces act.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 48,
+    "correct": "Water pushes upward and gravity pulls downward. At steady floating height the forces balance, so show equal opposite arrows. Gravity has not disappeared.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Water pushes upward and gravity pulls downward. At steady floating height the forces balance, so show equal opposite arrows. Gravity has not disappeared.",
+      "hint": "Complete the actual task and retain the observations or drawings."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

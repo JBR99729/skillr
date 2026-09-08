@@ -214,14 +214,17 @@
     "code": "AC9S4U01",
     "topic": "Producers, Consumers, Decomposers and Food Chains",
     "source": {
-      "teacher_slide_ids": [
-        "Learning intention and success criteria",
-        "Concept refresher and visual clues",
-        "Guided worked example",
-        "60-second Quick Check / Turn and Talk"
+      "topic_path": "year4/science/ac9s4u01-explain-the-roles-and-interactions-of-consumers-producers-and/index.html",
+      "classroom_path": "year4/science/ac9s4u01-explain-the-roles-and-interactions-of-consumers-producers-and/teacher-slides/index.html",
+      "static_section_ids": [
+        "Read a feeding arrow",
+        "Decomposers connect to every feeding level",
+        "Compare two habitats"
       ],
       "model_ids": [
-        "Trace energy through a food chain"
+        "Read a feeding arrow",
+        "Decomposers connect to every feeding level",
+        "Compare two habitats"
       ]
     },
     "pre_module_notes": {
@@ -233,21 +236,20 @@
         "Read each link between organisms from the food source toward the eater. The Sun supplies energy to the producer; the link does not show which organism chases another.",
         "Real habitats contain connected food webs, not one isolated chain. When something changes, trace direct feeding links first, then consider indirect effects and say when more evidence is needed."
       ],
-      "memory_clue": "Picture the teacher deck’s linked boxes: sunlight reaches grass, grass feeds a grasshopper, the grasshopper feeds a frog, and the frog feeds a snake. Follow the links in that direction. Now imagine decomposers beside every level, ready to break down dead material."
+      "memory_clue": "Picture the Classroom View’s three linked boxes: grass → grasshopper → frog. Grass makes food using sunlight; each feeding arrow points from food to eater. Decomposers break down dead material from producers and consumers at every level."
     }
   },
   "AC9S4U02": {
     "code": "AC9S4U02",
     "topic": "Water Sources and the Water Cycle",
     "source": {
-      "teacher_slide_ids": [
-        "Learning intention and success criteria",
-        "Concept refresher and visual clues",
-        "Guided worked example",
-        "60-second Quick Check / Turn and Talk"
+      "topic_path": "year4/science/ac9s4u02-sources-of-water-and-describe-key-processes-in-the-water/index.html",
+      "classroom_path": "year4/science/ac9s4u02-sources-of-water-and-describe-key-processes-in-the-water/teacher-slides/index.html",
+      "static_section_ids": [
+        "Make and test a water-cycle model (E4–E5)"
       ],
       "model_ids": [
-        "Follow one water particle through the cycle"
+        "Make and test a water-cycle model (E4–E5)"
       ]
     },
     "pre_module_notes": {
@@ -266,14 +268,17 @@
     "code": "AC9S4U03",
     "topic": "Frictional, Gravitational and Magnetic Forces",
     "source": {
-      "teacher_slide_ids": [
-        "Learning intention and success criteria",
-        "Concept refresher and visual clues",
-        "Guided worked example",
-        "60-second Quick Check / Turn and Talk"
+      "topic_path": "year4/science/ac9s4u03-how-forces-can-be-exerted-by-one-object-on-another/index.html",
+      "classroom_path": "year4/science/ac9s4u03-how-forces-can-be-exerted-by-one-object-on-another/teacher-slides/index.html",
+      "static_section_ids": [
+        "E1 · Magnets pull and push",
+        "E4 · Water can support an object",
+        "E8 · Draw the force, not the journey"
       ],
       "model_ids": [
-        "Compare three forces acting on motion"
+        "E1 · Magnets pull and push",
+        "E4 · Water can support an object",
+        "E8 · Draw the force, not the journey"
       ]
     },
     "pre_module_notes": {
@@ -285,7 +290,7 @@
         "Magnetic force acts without contact between suitable magnets or materials; it can attract or repel. Not every metal responds strongly to an ordinary magnet.",
         "A force has a direction and an effect: it can start, stop, speed up, slow down or turn motion. For a fair comparison, change one factor, measure consistently, control other conditions and repeat trials."
       ],
-      "memory_clue": "Picture the teacher deck’s three comparison cards. Friction touches and opposes sliding, gravity reaches without contact and pulls toward Earth, and magnetic force reaches without contact to pull or push. Keep each force’s contact type, direction and effect together in your mind."
+      "memory_clue": "Picture the Classroom View models: unlike magnet poles pull together and like poles push apart; water pushes up on a floating cork while gravity pulls down. Force arrows show direction and relative strength on the same scale. Friction acts between touching surfaces and resists sliding."
     }
   },
   "AC9S4U04": {

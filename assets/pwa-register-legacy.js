@@ -287,7 +287,7 @@
     if (!document.querySelector(".skillr-site-header")) {
       const css = document.createElement("link");
       css.rel = "stylesheet";
-      css.href = "/assets/site-navigation.css?v=20260908-responsive2";
+      css.href = "/assets/site-navigation.css?v=20260908-responsive3";
       document.head.appendChild(css);
 
       const items = [

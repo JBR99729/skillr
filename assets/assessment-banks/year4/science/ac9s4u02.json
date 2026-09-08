@@ -103,11 +103,11 @@
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Condensation happens when water vapour cools and forms liquid droplets or ice crystals.",
+      "summary": "Condensation changes water vapour into tiny liquid droplets when moist air cools. Clouds may also contain ice crystals, but forming ice is not condensation.",
       "hint": "Think vapour cooling."
     },
     "structuredExplanation": {
-      "summary": "Condensation happens when water vapour cools and forms liquid droplets or ice crystals.",
+      "summary": "Condensation changes water vapour into tiny liquid droplets when moist air cools. Clouds may also contain ice crystals, but forming ice is not condensation.",
       "hint": "Think vapour cooling."
     },
     "stage": "recognise",
@@ -139,11 +139,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Water vapour becoming invisible",
+        "text": "Water flowing along a river",
         "is_correct": false
       },
       {
-        "text": "Ocean water turning into sand",
+        "text": "Water changing from liquid to gas",
         "is_correct": false
       },
       {
@@ -151,15 +151,15 @@
         "is_correct": true
       },
       {
-        "text": "Water soaking only into rocks",
+        "text": "Water vapour changing into liquid droplets",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Water vapour becoming invisible",
-      "Ocean water turning into sand",
+      "Water flowing along a river",
+      "Water changing from liquid to gas",
       "Water falling from clouds as rain, hail, sleet or snow",
-      "Water soaking only into rocks"
+      "Water vapour changing into liquid droplets"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -200,7 +200,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A metal chair",
+        "text": "Evaporation from a lake",
         "is_correct": false
       },
       {
@@ -208,19 +208,19 @@
         "is_correct": true
       },
       {
-        "text": "A dry plastic ruler",
+        "text": "Condensation in cooling air",
         "is_correct": false
       },
       {
-        "text": "A shadow on a wall",
+        "text": "Runoff after a storm",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A metal chair",
+      "Evaporation from a lake",
       "Groundwater below the surface",
-      "A dry plastic ruler",
-      "A shadow on a wall"
+      "Condensation in cooling air",
+      "Runoff after a storm"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -265,23 +265,23 @@
         "is_correct": true
       },
       {
-        "text": "Moonlight only",
+        "text": "Evaporation from the stream",
         "is_correct": false
       },
       {
-        "text": "Magnetism",
+        "text": "Condensation above the hill",
         "is_correct": false
       },
       {
-        "text": "Sound",
+        "text": "Water soaking into soil",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Gravity",
-      "Moonlight only",
-      "Magnetism",
-      "Sound"
+      "Evaporation from the stream",
+      "Condensation above the hill",
+      "Water soaking into soil"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -322,27 +322,27 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It is always a white cloud",
+        "text": "It is the visible droplets in fog",
         "is_correct": false
       },
       {
-        "text": "It is the same as dust",
+        "text": "It is liquid water falling as rain",
         "is_correct": false
       },
       {
-        "text": "It only exists in boiling kettles",
+        "text": "It occurs only at boiling temperature",
         "is_correct": false
       },
       {
-        "text": "It is invisible in the air",
+        "text": "It is an invisible gas in the air",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "It is always a white cloud",
-      "It is the same as dust",
-      "It only exists in boiling kettles",
-      "It is invisible in the air"
+      "It is the visible droplets in fog",
+      "It is liquid water falling as rain",
+      "It occurs only at boiling temperature",
+      "It is an invisible gas in the air"
     ],
     "correct_index": 3,
     "correct": 3,
@@ -509,23 +509,23 @@
         "is_correct": true
       },
       {
-        "text": "Classroom sinks",
+        "text": "Rivers",
         "is_correct": false
       },
       {
-        "text": "Backyard puddles",
+        "text": "Freshwater lakes",
         "is_correct": false
       },
       {
-        "text": "Drink bottles",
+        "text": "Groundwater",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Oceans",
-      "Classroom sinks",
-      "Backyard puddles",
-      "Drink bottles"
+      "Rivers",
+      "Freshwater lakes",
+      "Groundwater"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -566,15 +566,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "All water instantly becomes clouds",
+        "text": "All the rain must run straight to the sea",
         "is_correct": false
       },
       {
-        "text": "Water stops being matter",
+        "text": "Water soaking in has left the water cycle",
         "is_correct": false
       },
       {
-        "text": "Rain always stays on leaves forever",
+        "text": "The rain must evaporate before entering soil",
         "is_correct": false
       },
       {
@@ -583,9 +583,9 @@
       }
     ],
     "answer_texts": [
-      "All water instantly becomes clouds",
-      "Water stops being matter",
-      "Rain always stays on leaves forever",
+      "All the rain must run straight to the sea",
+      "Water soaking in has left the water cycle",
+      "The rain must evaporate before entering soil",
       "Some water can soak underground as infiltration"
     ],
     "correct_index": 3,
@@ -627,11 +627,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The puddle turns into soil",
+        "text": "Evaporation starts only when bubbles appear",
         "is_correct": false
       },
       {
-        "text": "Wind changes water into sunlight",
+        "text": "All drying must be caused by runoff",
         "is_correct": false
       },
       {
@@ -644,8 +644,8 @@
       }
     ],
     "answer_texts": [
-      "The puddle turns into soil",
-      "Wind changes water into sunlight",
+      "Evaporation starts only when bubbles appear",
+      "All drying must be caused by runoff",
       "Water can evaporate from the surface below boiling point",
       "Only boiling water can enter the air"
     ],
@@ -688,7 +688,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The drink pushes water through the table",
+        "text": "The droplets are rain from clouds in the room",
         "is_correct": false
       },
       {
@@ -696,19 +696,19 @@
         "is_correct": true
       },
       {
-        "text": "Water leaks through solid glass",
+        "text": "Water always leaks through the solid glass",
         "is_correct": false
       },
       {
-        "text": "The glass makes new water from nothing",
+        "text": "The cold glass turns the surrounding air into ice",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The drink pushes water through the table",
+      "The droplets are rain from clouds in the room",
       "Water vapour in the air cools and condenses on the glass",
-      "Water leaks through solid glass",
-      "The glass makes new water from nothing"
+      "Water always leaks through the solid glass",
+      "The cold glass turns the surrounding air into ice"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -810,15 +810,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Condensation pushes water uphill",
+        "text": "Condensation draws surface water uphill",
         "is_correct": false
       },
       {
-        "text": "Sunlight pulls water into drains",
+        "text": "Evaporation pushes liquid through the gutter",
         "is_correct": false
       },
       {
-        "text": "Groundwater floats above clouds",
+        "text": "All rain must soak in before it can flow",
         "is_correct": false
       },
       {
@@ -827,9 +827,9 @@
       }
     ],
     "answer_texts": [
-      "Condensation pushes water uphill",
-      "Sunlight pulls water into drains",
-      "Groundwater floats above clouds",
+      "Condensation draws surface water uphill",
+      "Evaporation pushes liquid through the gutter",
+      "All rain must soak in before it can flow",
       "Gravity moves water downhill as runoff"
     ],
     "correct_index": 3,
@@ -871,11 +871,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Groundwater is not water",
+        "text": "Underground water cannot return to the surface",
         "is_correct": false
       },
       {
-        "text": "Groundwater can never move",
+        "text": "Only rain and clouds belong to the cycle",
         "is_correct": false
       },
       {
@@ -883,15 +883,15 @@
         "is_correct": true
       },
       {
-        "text": "Groundwater is outside Earth",
+        "text": "Water becomes groundwater only by evaporation",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Groundwater is not water",
-      "Groundwater can never move",
+      "Underground water cannot return to the surface",
+      "Only rain and clouds belong to the cycle",
       "Water can soak into the ground, be stored there and later move to springs, wells or rivers",
-      "Groundwater is outside Earth"
+      "Water becomes groundwater only by evaporation"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -997,23 +997,23 @@
         "is_correct": true
       },
       {
-        "text": "It makes gravity switch off",
+        "text": "It pulls river water downhill instead of gravity",
         "is_correct": false
       },
       {
-        "text": "It turns clouds into rocks",
+        "text": "It directly changes all cloud droplets into rain",
         "is_correct": false
       },
       {
-        "text": "It stops oceans from storing water",
+        "text": "It makes water evaporate only when it boils",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "It provides energy that increases evaporation from surfaces",
-      "It makes gravity switch off",
-      "It turns clouds into rocks",
-      "It stops oceans from storing water"
+      "It pulls river water downhill instead of gravity",
+      "It directly changes all cloud droplets into rain",
+      "It makes water evaporate only when it boils"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -1054,15 +1054,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It must evaporate into a fish first",
+        "text": "It must first become water vapour",
         "is_correct": false
       },
       {
-        "text": "It condenses into soil forever",
+        "text": "It condenses while still solid snow",
         "is_correct": false
       },
       {
-        "text": "It stops being water when white",
+        "text": "It can only remain frozen or evaporate",
         "is_correct": false
       },
       {
@@ -1071,9 +1071,9 @@
       }
     ],
     "answer_texts": [
-      "It must evaporate into a fish first",
-      "It condenses into soil forever",
-      "It stops being water when white",
+      "It must first become water vapour",
+      "It condenses while still solid snow",
+      "It can only remain frozen or evaporate",
       "It can melt, then flow downhill as runoff"
     ],
     "correct_index": 3,
@@ -1115,11 +1115,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Stored water is no longer matter",
+        "text": "Every store releases water after the same time",
         "is_correct": false
       },
       {
-        "text": "Only clouds can store water",
+        "text": "Only the atmosphere can store water",
         "is_correct": false
       },
       {
@@ -1127,15 +1127,15 @@
         "is_correct": true
       },
       {
-        "text": "The water cycle stops in every store",
+        "text": "Water stored for a long time is outside the cycle",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Stored water is no longer matter",
-      "Only clouds can store water",
+      "Every store releases water after the same time",
+      "Only the atmosphere can store water",
       "Water can be stored for different lengths of time before moving on",
-      "The water cycle stops in every store"
+      "Water stored for a long time is outside the cycle"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -1227,9 +1227,9 @@
     "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "Which statement is a misconception?",
-    "audio_prompt": "Which statement is a misconception?",
-    "audioPrompt": "Which statement is a misconception?",
+    "question": "A teacher cools moist air in a clear bottle and a mist appears. Which observation supports cloud formation?",
+    "audio_prompt": "A teacher cools moist air in a clear bottle and a mist appears. Which observation supports cloud formation?",
+    "audioPrompt": "A teacher cools moist air in a clear bottle and a mist appears. Which observation supports cloud formation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1237,37 +1237,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Clouds are made only of invisible water vapour",
+        "text": "Tiny liquid droplets have formed in the air",
         "is_correct": true
       },
       {
-        "text": "Evaporation changes liquid water to vapour",
+        "text": "Invisible vapour has become a visible gas",
         "is_correct": false
       },
       {
-        "text": "Precipitation can include rain or hail",
+        "text": "All the water has fallen out as rain",
         "is_correct": false
       },
       {
-        "text": "Runoff moves across land",
+        "text": "The air no longer contains water",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Clouds are made only of invisible water vapour",
-      "Evaporation changes liquid water to vapour",
-      "Precipitation can include rain or hail",
-      "Runoff moves across land"
+      "Tiny liquid droplets have formed in the air",
+      "Invisible vapour has become a visible gas",
+      "All the water has fallen out as rain",
+      "The air no longer contains water"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Visible clouds contain tiny droplets or ice crystals, not only invisible vapour.",
-      "hint": "Vapour itself cannot be seen."
+      "summary": "Cooling moist air can produce tiny liquid droplets suspended in air. These droplets make the mist visible; vapour itself is invisible.",
+      "hint": "Distinguish liquid droplets from invisible gas."
     },
     "structuredExplanation": {
-      "summary": "Visible clouds contain tiny droplets or ice crystals, not only invisible vapour.",
-      "hint": "Vapour itself cannot be seen."
+      "summary": "Cooling moist air can produce tiny liquid droplets suspended in air. These droplets make the mist visible; vapour itself is invisible.",
+      "hint": "Distinguish liquid droplets from invisible gas."
     },
     "stage": "discriminate",
     "difficulty": 2,
@@ -1349,9 +1349,9 @@
     "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "Which observation best shows condensation?",
-    "audio_prompt": "Which observation best shows condensation?",
-    "audioPrompt": "Which observation best shows condensation?",
+    "question": "A class compares a dry cold can with a dry room-temperature can. Drops form only on the cold can. What does this suggest?",
+    "audio_prompt": "A class compares a dry cold can with a dry room-temperature can. Drops form only on the cold can. What does this suggest?",
+    "audioPrompt": "A class compares a dry cold can with a dry room-temperature can. Drops form only on the cold can. What does this suggest?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1359,37 +1359,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Water flowing down a creek",
+        "text": "Both cans are leaking from inside",
         "is_correct": false
       },
       {
-        "text": "Rain soaking into soil",
+        "text": "The cold can is evaporating into drops",
         "is_correct": false
       },
       {
-        "text": "Mist forming on a cold window",
+        "text": "Cooling air near a surface can cause condensation",
         "is_correct": true
       },
       {
-        "text": "A dam level dropping in hot weather",
+        "text": "Room-temperature air contains no water",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Water flowing down a creek",
-      "Rain soaking into soil",
-      "Mist forming on a cold window",
-      "A dam level dropping in hot weather"
+      "Both cans are leaking from inside",
+      "The cold can is evaporating into drops",
+      "Cooling air near a surface can cause condensation",
+      "Room-temperature air contains no water"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Condensation forms liquid droplets when vapour cools.",
-      "hint": "Droplets after cooling."
+      "summary": "The difference supports condensation on the colder surface. Water vapour in surrounding air cools and becomes liquid drops.",
+      "hint": "Which condition changed?"
     },
     "structuredExplanation": {
-      "summary": "Condensation forms liquid droplets when vapour cools.",
-      "hint": "Droplets after cooling."
+      "summary": "The difference supports condensation on the colder surface. Water vapour in surrounding air cools and becomes liquid drops.",
+      "hint": "Which condition changed?"
     },
     "stage": "discriminate",
     "difficulty": 2,
@@ -1410,9 +1410,9 @@
     "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "Which observation best shows evaporation?",
-    "audio_prompt": "Which observation best shows evaporation?",
-    "audioPrompt": "Which observation best shows evaporation?",
+    "question": "A class marks the water edge in a shallow waterproof tray. Later the edge is smaller; there was no spill. Which observation would help check evaporation?",
+    "audio_prompt": "A class marks the water edge in a shallow waterproof tray. Later the edge is smaller; there was no spill. Which observation would help check evaporation?",
+    "audioPrompt": "A class marks the water edge in a shallow waterproof tray. Later the edge is smaller; there was no spill. Which observation would help check evaporation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1420,37 +1420,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Dew forms on grass overnight",
+        "text": "Whether the tray changed colour",
         "is_correct": false
       },
       {
-        "text": "A wet playground dries after lunch",
+        "text": "Whether the water level also fell over time",
         "is_correct": true
       },
       {
-        "text": "Rain falls from dark clouds",
+        "text": "Whether nearby clouds look white",
         "is_correct": false
       },
       {
-        "text": "Water trickles down a slope",
+        "text": "Whether the tray has a circular shape",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Dew forms on grass overnight",
-      "A wet playground dries after lunch",
-      "Rain falls from dark clouds",
-      "Water trickles down a slope"
+      "Whether the tray changed colour",
+      "Whether the water level also fell over time",
+      "Whether nearby clouds look white",
+      "Whether the tray has a circular shape"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Drying happens as liquid water evaporates into the air.",
-      "hint": "Liquid leaving surface."
+      "summary": "A falling water level in a tray with no spill or leak is evidence that liquid water has left its surface. Record the change over time.",
+      "hint": "Measure the water, not the container colour."
     },
     "structuredExplanation": {
-      "summary": "Drying happens as liquid water evaporates into the air.",
-      "hint": "Liquid leaving surface."
+      "summary": "A falling water level in a tray with no spill or leak is evidence that liquid water has left its surface. Record the change over time.",
+      "hint": "Measure the water, not the container colour."
     },
     "stage": "discriminate",
     "difficulty": 2,
@@ -1471,9 +1471,9 @@
     "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "Which choice is freshwater stored below ground?",
-    "audio_prompt": "Which choice is freshwater stored below ground?",
-    "audioPrompt": "Which choice is freshwater stored below ground?",
+    "question": "Which term means water stored below the ground?",
+    "audio_prompt": "Which term means water stored below the ground?",
+    "audioPrompt": "Which term means water stored below the ground?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1485,32 +1485,32 @@
         "is_correct": true
       },
       {
-        "text": "Ocean water",
+        "text": "Surface runoff",
         "is_correct": false
       },
       {
-        "text": "Water vapour only",
+        "text": "Cloud droplets",
         "is_correct": false
       },
       {
-        "text": "Cloud shadow",
+        "text": "Ocean currents",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Groundwater",
-      "Ocean water",
-      "Water vapour only",
-      "Cloud shadow"
+      "Surface runoff",
+      "Cloud droplets",
+      "Ocean currents"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Groundwater is water stored beneath Earth’s surface.",
+      "summary": "Groundwater fills spaces in soil and rock below the surface. Some groundwater is fresh and some is salty.",
       "hint": "Below the surface."
     },
     "structuredExplanation": {
-      "summary": "Groundwater is water stored beneath Earth’s surface.",
+      "summary": "Groundwater fills spaces in soil and rock below the surface. Some groundwater is fresh and some is salty.",
       "hint": "Below the surface."
     },
     "stage": "discriminate",
@@ -1542,15 +1542,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "ocean → runoff → sunlight → rock → animal",
+        "text": "ocean → condensation → evaporation → rain",
         "is_correct": false
       },
       {
-        "text": "cloud → producer → magnet → river",
+        "text": "ocean → precipitation → evaporation → cloud",
         "is_correct": false
       },
       {
-        "text": "groundwater → cloud shadow → plastic → hail",
+        "text": "ocean → infiltration → cloud → condensation",
         "is_correct": false
       },
       {
@@ -1559,19 +1559,19 @@
       }
     ],
     "answer_texts": [
-      "ocean → runoff → sunlight → rock → animal",
-      "cloud → producer → magnet → river",
-      "groundwater → cloud shadow → plastic → hail",
+      "ocean → condensation → evaporation → rain",
+      "ocean → precipitation → evaporation → cloud",
+      "ocean → infiltration → cloud → condensation",
       "ocean → evaporation → condensation → precipitation → runoff"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "The first pathway uses connected water-cycle processes and stores.",
+      "summary": "Ocean water evaporates; vapour can condense into cloud droplets, fall as precipitation and flow across land as runoff. This is one possible pathway.",
       "hint": "Follow real processes."
     },
     "structuredExplanation": {
-      "summary": "The first pathway uses connected water-cycle processes and stores.",
+      "summary": "Ocean water evaporates; vapour can condense into cloud droplets, fall as precipitation and flow across land as runoff. This is one possible pathway.",
       "hint": "Follow real processes."
     },
     "stage": "discriminate",
@@ -1593,9 +1593,9 @@
     "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "Which explanation avoids the cold-glass misconception?",
-    "audio_prompt": "Which explanation avoids the cold-glass misconception?",
-    "audioPrompt": "Which explanation avoids the cold-glass misconception?",
+    "question": "A water-cycle game tells every player to return from a cloud straight to the ocean. What improvement makes the model more realistic?",
+    "audio_prompt": "A water-cycle game tells every player to return from a cloud straight to the ocean. What improvement makes the model more realistic?",
+    "audioPrompt": "A water-cycle game tells every player to return from a cloud straight to the ocean. What improvement makes the model more realistic?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1603,37 +1603,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The cold glass creates water from nothing",
+        "text": "Make every journey take the same number of turns",
         "is_correct": false
       },
       {
-        "text": "The drink pushes drops through the cup",
+        "text": "Remove water stored in lakes",
         "is_correct": false
       },
       {
-        "text": "Droplets come from water vapour in the surrounding air",
+        "text": "Add routes to land, rivers and groundwater",
         "is_correct": true
       },
       {
-        "text": "Water leaks through the glass wall",
+        "text": "Remove evaporation from the game",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The cold glass creates water from nothing",
-      "The drink pushes drops through the cup",
-      "Droplets come from water vapour in the surrounding air",
-      "Water leaks through the glass wall"
+      "Make every journey take the same number of turns",
+      "Remove water stored in lakes",
+      "Add routes to land, rivers and groundwater",
+      "Remove evaporation from the game"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Condensation on the outside comes from air, not leaking from inside.",
-      "hint": "Outside droplets start in air."
+      "summary": "Precipitation can fall on land or ocean. Branching routes and storage stops represent more of the real water cycle.",
+      "hint": "Can rain fall in only one place?"
     },
     "structuredExplanation": {
-      "summary": "Condensation on the outside comes from air, not leaking from inside.",
-      "hint": "Outside droplets start in air."
+      "summary": "Precipitation can fall on land or ocean. Branching routes and storage stops represent more of the real water cycle.",
+      "hint": "Can rain fall in only one place?"
     },
     "stage": "discriminate",
     "difficulty": 2,
@@ -1654,9 +1654,9 @@
     "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "Which statement about precipitation is most accurate?",
-    "audio_prompt": "Which statement about precipitation is most accurate?",
-    "audioPrompt": "Which statement about precipitation is most accurate?",
+    "question": "Cloud droplets can be tiny and remain suspended in air. What can happen as droplets join and grow?",
+    "audio_prompt": "Cloud droplets can be tiny and remain suspended in air. What can happen as droplets join and grow?",
+    "audioPrompt": "Cloud droplets can be tiny and remain suspended in air. What can happen as droplets join and grow?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1664,37 +1664,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It is the same as groundwater",
+        "text": "They must all evaporate immediately",
         "is_correct": false
       },
       {
-        "text": "It returns water from clouds to Earth’s surface",
+        "text": "They can become large enough to fall as rain",
         "is_correct": true
       },
       {
-        "text": "It only means water disappears",
+        "text": "They become invisible gas simply by joining",
         "is_correct": false
       },
       {
-        "text": "It only happens as snow in Australia",
+        "text": "They turn into groundwater while still in the cloud",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It is the same as groundwater",
-      "It returns water from clouds to Earth’s surface",
-      "It only means water disappears",
-      "It only happens as snow in Australia"
+      "They must all evaporate immediately",
+      "They can become large enough to fall as rain",
+      "They become invisible gas simply by joining",
+      "They turn into groundwater while still in the cloud"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Precipitation includes forms such as rain, snow, sleet and hail falling from clouds.",
-      "hint": "Water falls from clouds."
+      "summary": "Small droplets can join into larger drops. When they are large enough to fall from the cloud, rain is precipitation.",
+      "hint": "Compare cloud droplets with falling raindrops."
     },
     "structuredExplanation": {
-      "summary": "Precipitation includes forms such as rain, snow, sleet and hail falling from clouds.",
-      "hint": "Water falls from clouds."
+      "summary": "Small droplets can join into larger drops. When they are large enough to fall from the cloud, rain is precipitation.",
+      "hint": "Compare cloud droplets with falling raindrops."
     },
     "stage": "discriminate",
     "difficulty": 2,
@@ -1715,9 +1715,9 @@
     "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "Which claim is too fixed for the water cycle?",
-    "audio_prompt": "Which claim is too fixed for the water cycle?",
-    "audioPrompt": "Which claim is too fixed for the water cycle?",
+    "question": "A water-cycle game leaves one counter in groundwater for several turns while another reaches a river. Is the model necessarily wrong?",
+    "audio_prompt": "A water-cycle game leaves one counter in groundwater for several turns while another reaches a river. Is the model necessarily wrong?",
+    "audioPrompt": "A water-cycle game leaves one counter in groundwater for several turns while another reaches a river. Is the model necessarily wrong?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1725,37 +1725,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Every water drop follows the same circle at the same speed",
+        "text": "No; water can stay in different stores for different lengths of time",
         "is_correct": true
       },
       {
-        "text": "Some water soaks into soil",
+        "text": "Yes; every drop must travel at the same speed",
         "is_correct": false
       },
       {
-        "text": "Some water evaporates from oceans",
+        "text": "Yes; groundwater is outside the cycle",
         "is_correct": false
       },
       {
-        "text": "Gravity can move water downhill",
+        "text": "No; groundwater can never move again",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Every water drop follows the same circle at the same speed",
-      "Some water soaks into soil",
-      "Some water evaporates from oceans",
-      "Gravity can move water downhill"
+      "No; water can stay in different stores for different lengths of time",
+      "Yes; every drop must travel at the same speed",
+      "Yes; groundwater is outside the cycle",
+      "No; groundwater can never move again"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Water can take many routes and spend different times in different stores.",
-      "hint": "Avoid one identical circle."
+      "summary": "Different storage times are realistic. The model must still show that water can move between connected stores.",
+      "hint": "A cycle does not mean every journey has the same timing."
     },
     "structuredExplanation": {
-      "summary": "Water can take many routes and spend different times in different stores.",
-      "hint": "Avoid one identical circle."
+      "summary": "Different storage times are realistic. The model must still show that water can move between connected stores.",
+      "hint": "A cycle does not mean every journey has the same timing."
     },
     "stage": "discriminate",
     "difficulty": 2,
@@ -1847,11 +1847,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Freezing",
+        "text": "Evaporation",
         "is_correct": false
       },
       {
-        "text": "Magnetism",
+        "text": "Infiltration",
         "is_correct": false
       },
       {
@@ -1864,8 +1864,8 @@
       }
     ],
     "answer_texts": [
-      "Freezing",
-      "Magnetism",
+      "Evaporation",
+      "Infiltration",
       "Runoff",
       "Condensation"
     ],
@@ -1898,9 +1898,9 @@
     "curriculumCode": "AC9S4U02",
     "bank": "practice",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A student says a cold drink bottle is leaking because drops are outside it. What is the best correction?",
-    "audio_prompt": "A student says a cold drink bottle is leaking because drops are outside it. What is the best correction?",
-    "audioPrompt": "A student says a cold drink bottle is leaking because drops are outside it. What is the best correction?",
+    "question": "A creek is shallow on Monday and flowing faster after Tuesday rain. Which explanation uses the observations?",
+    "audio_prompt": "A creek is shallow on Monday and flowing faster after Tuesday rain. Which explanation uses the observations?",
+    "audioPrompt": "A creek is shallow on Monday and flowing faster after Tuesday rain. Which explanation uses the observations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1908,37 +1908,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The bottle made water from sunlight",
+        "text": "Clouds have stopped storing water",
         "is_correct": false
       },
       {
-        "text": "Water vapour from the air condensed on the cold bottle",
+        "text": "Rain added water, including runoff from nearby land",
         "is_correct": true
       },
       {
-        "text": "The plastic turned into rain",
+        "text": "All groundwater has evaporated at once",
         "is_correct": false
       },
       {
-        "text": "Water passed through the sealed bottle every time",
+        "text": "The faster creek proves all rain ran off",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The bottle made water from sunlight",
-      "Water vapour from the air condensed on the cold bottle",
-      "The plastic turned into rain",
-      "Water passed through the sealed bottle every time"
+      "Clouds have stopped storing water",
+      "Rain added water, including runoff from nearby land",
+      "All groundwater has evaporated at once",
+      "The faster creek proves all rain ran off"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "The outside droplets form when air near the cold bottle cools.",
-      "hint": "The water came from air."
+      "summary": "Rain can add water directly and through runoff. These observations do not show that all rain followed the same route.",
+      "hint": "Make only the claim the evidence supports."
     },
     "structuredExplanation": {
-      "summary": "The outside droplets form when air near the cold bottle cools.",
-      "hint": "The water came from air."
+      "summary": "Rain can add water directly and through runoff. These observations do not show that all rain followed the same route.",
+      "hint": "Make only the claim the evidence supports."
     },
     "stage": "apply",
     "difficulty": 3,
@@ -1973,23 +1973,23 @@
         "is_correct": true
       },
       {
-        "text": "Condensation into the dam",
+        "text": "Condensation adding droplets to the dam",
         "is_correct": false
       },
       {
-        "text": "Runoff uphill into clouds",
+        "text": "Rainfall entering the dam",
         "is_correct": false
       },
       {
-        "text": "Groundwater becoming sunlight",
+        "text": "Runoff flowing into the dam",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Evaporation from the water surface",
-      "Condensation into the dam",
-      "Runoff uphill into clouds",
-      "Groundwater becoming sunlight"
+      "Condensation adding droplets to the dam",
+      "Rainfall entering the dam",
+      "Runoff flowing into the dam"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -2152,7 +2152,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Cloud droplets inside the pump",
+        "text": "Surface water in a stream",
         "is_correct": false
       },
       {
@@ -2160,19 +2160,19 @@
         "is_correct": true
       },
       {
-        "text": "Only precipitation in the sky",
+        "text": "Cloud droplets",
         "is_correct": false
       },
       {
-        "text": "Ocean waves",
+        "text": "Seawater moving as waves",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Cloud droplets inside the pump",
+      "Surface water in a stream",
       "Groundwater",
-      "Only precipitation in the sky",
-      "Ocean waves"
+      "Cloud droplets",
+      "Seawater moving as waves"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -2217,23 +2217,23 @@
         "is_correct": true
       },
       {
-        "text": "Condensation is stronger inside soil",
+        "text": "Cloud condensation is the movement of the mud",
         "is_correct": false
       },
       {
-        "text": "Evaporation makes mud flow uphill",
+        "text": "The muddy flow must be groundwater only",
         "is_correct": false
       },
       {
-        "text": "Groundwater always prevents surface flow",
+        "text": "All rain must evaporate from bare ground",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Runoff can increase when water flows across exposed ground",
-      "Condensation is stronger inside soil",
-      "Evaporation makes mud flow uphill",
-      "Groundwater always prevents surface flow"
+      "Cloud condensation is the movement of the mud",
+      "The muddy flow must be groundwater only",
+      "All rain must evaporate from bare ground"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -2274,15 +2274,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Precipitation from a real cloud inside the room",
+        "text": "Evaporation directly making liquid droplets",
         "is_correct": false
       },
       {
-        "text": "Runoff through the plastic",
+        "text": "Runoff passing through the sealed plastic",
         "is_correct": false
       },
       {
-        "text": "Groundwater rising into the bag",
+        "text": "Liquid water soaking through the plastic",
         "is_correct": false
       },
       {
@@ -2291,9 +2291,9 @@
       }
     ],
     "answer_texts": [
-      "Precipitation from a real cloud inside the room",
-      "Runoff through the plastic",
-      "Groundwater rising into the bag",
+      "Evaporation directly making liquid droplets",
+      "Runoff passing through the sealed plastic",
+      "Liquid water soaking through the plastic",
       "Condensation after evaporated water vapour cooled"
     ],
     "correct_index": 3,
@@ -2335,11 +2335,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Rivers are not part of the water cycle",
+        "text": "All rain goes straight along rivers",
         "is_correct": false
       },
       {
-        "text": "Groundwater cannot connect to rivers",
+        "text": "Water underground can never rejoin surface water",
         "is_correct": false
       },
       {
@@ -2347,15 +2347,15 @@
         "is_correct": true
       },
       {
-        "text": "Soil arrows show water becoming rocks only",
+        "text": "The arrows into soil must mean evaporation",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Rivers are not part of the water cycle",
-      "Groundwater cannot connect to rivers",
+      "All rain goes straight along rivers",
+      "Water underground can never rejoin surface water",
       "Some precipitation infiltrates to groundwater while some moves as runoff",
-      "Soil arrows show water becoming rocks only"
+      "The arrows into soil must mean evaporation"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -2434,6 +2434,495 @@
     "difficultyTier": "apply",
     "sequence_priority": 40,
     "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-041",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "A town supplies taps from a reservoir. Which sequence should its water follow before people drink it?",
+    "audio_prompt": "A town supplies taps from a reservoir. Which sequence should its water follow before people drink it?",
+    "audioPrompt": "A town supplies taps from a reservoir. Which sequence should its water follow before people drink it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "reservoir → treatment → supply pipes → tap",
+        "is_correct": true
+      },
+      {
+        "text": "reservoir → kitchen drain → tap",
+        "is_correct": false
+      },
+      {
+        "text": "reservoir → tap without checking water",
+        "is_correct": false
+      },
+      {
+        "text": "tap → reservoir → untreated drain",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "reservoir → treatment → supply pipes → tap",
+      "reservoir → kitchen drain → tap",
+      "reservoir → tap without checking water",
+      "tap → reservoir → untreated drain"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Source water is treated and checked before travelling through supply pipes. Other places use different sources, so investigate the local system.",
+      "hint": "Trace source, treatment and delivery."
+    },
+    "structuredExplanation": {
+      "summary": "Source water is treated and checked before travelling through supply pipes. Other places use different sources, so investigate the local system.",
+      "hint": "Trace source, treatment and delivery."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 41,
+    "sequencePriority": 41,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-042",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "In a town with separate sewer and stormwater pipes, where should used shower water go?",
+    "audio_prompt": "In a town with separate sewer and stormwater pipes, where should used shower water go?",
+    "audioPrompt": "In a town with separate sewer and stormwater pipes, where should used shower water go?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Straight into the nearest stormwater gutter",
+        "is_correct": false
+      },
+      {
+        "text": "Through the sewer to wastewater treatment",
+        "is_correct": true
+      },
+      {
+        "text": "Back into the drinking-water pipe without treatment",
+        "is_correct": false
+      },
+      {
+        "text": "Only into clouds by evaporation",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Straight into the nearest stormwater gutter",
+      "Through the sewer to wastewater treatment",
+      "Back into the drinking-water pipe without treatment",
+      "Only into clouds by evaporation"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Used shower water enters the sewer for treatment. Street stormwater follows a separate system in this example.",
+      "hint": "Distinguish indoor wastewater from street runoff."
+    },
+    "structuredExplanation": {
+      "summary": "Used shower water enters the sewer for treatment. Street stormwater follows a separate system in this example.",
+      "hint": "Distinguish indoor wastewater from street runoff."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 42,
+    "sequencePriority": 42,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-043",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "Two equal containers each start with 100 mL. After a warm day, the open one has 76 mL and the covered one 96 mL. Neither leaked. What is supported?",
+    "audio_prompt": "Two equal containers each start with 100 mL. After a warm day, the open one has 76 mL and the covered one 96 mL. Neither leaked. What is supported?",
+    "audioPrompt": "Two equal containers each start with 100 mL. After a warm day, the open one has 76 mL and the covered one 96 mL. Neither leaked. What is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02/evaporation-comparison.svg#model",
+      "alt_text": "Equal containers start with 100 mL. Open: 76 mL left. Covered: 96 mL left. Same place and time, no leaks."
+    },
+    "visualHtml": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Equal containers start with 100 mL. Open: 76 mL left. Covered: 96 mL left. Same place and time, no leaks.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02/evaporation-comparison.svg#model\"></use></svg>",
+    "answers": [
+      {
+        "text": "The cover produced new water",
+        "is_correct": false
+      },
+      {
+        "text": "The open container lost less water",
+        "is_correct": false
+      },
+      {
+        "text": "The cover reduced water loss in this comparison",
+        "is_correct": true
+      },
+      {
+        "text": "Covering stops the water cycle everywhere",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The cover produced new water",
+      "The open container lost less water",
+      "The cover reduced water loss in this comparison",
+      "Covering stops the water cycle everywhere"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The open container lost 24 mL and the covered one 4 mL. The cover reduced loss under these conditions; the result does not prove zero evaporation.",
+      "hint": "Compare each final amount with its starting amount."
+    },
+    "structuredExplanation": {
+      "summary": "The open container lost 24 mL and the covered one 4 mL. The cover reduced loss under these conditions; the result does not prove zero evaporation.",
+      "hint": "Compare each final amount with its starting amount."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 43,
+    "sequencePriority": 43,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-044",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "ACARA describes Baiyungu People covering water in rock cavities with limestone lids. How can a cover help conserve this water?",
+    "audio_prompt": "ACARA describes Baiyungu People covering water in rock cavities with limestone lids. How can a cover help conserve this water?",
+    "audioPrompt": "ACARA describes Baiyungu People covering water in rock cavities with limestone lids. How can a cover help conserve this water?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It makes gravity pull upwards",
+        "is_correct": false
+      },
+      {
+        "text": "It changes all the water into ice",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees new rainfall",
+        "is_correct": false
+      },
+      {
+        "text": "It reduces exposure of the water surface and slows evaporation",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "It makes gravity pull upwards",
+      "It changes all the water into ice",
+      "It guarantees new rainfall",
+      "It reduces exposure of the water surface and slows evaporation"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The documented covering practice reduces evaporation from stored water. It is a specific example of water knowledge, not a claim about every First Nations community.",
+      "hint": "Think about the exposed water surface."
+    },
+    "structuredExplanation": {
+      "summary": "The documented covering practice reduces evaporation from stored water. It is a specific example of water knowledge, not a claim about every First Nations community.",
+      "hint": "Think about the exposed water surface."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 44,
+    "sequencePriority": 44,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-045",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "ACARA explains that First Nations water management considers people and ecosystems downstream. Why can changing a water flow upstream matter?",
+    "audio_prompt": "ACARA explains that First Nations water management considers people and ecosystems downstream. Why can changing a water flow upstream matter?",
+    "audioPrompt": "ACARA explains that First Nations water management considers people and ecosystems downstream. Why can changing a water flow upstream matter?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Waterways connect places, so less flow can affect people and living things downstream",
+        "is_correct": true
+      },
+      {
+        "text": "Each place has a completely separate water cycle",
+        "is_correct": false
+      },
+      {
+        "text": "Upstream water can never reach downstream places",
+        "is_correct": false
+      },
+      {
+        "text": "Only the amount of salt changes downstream",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Waterways connect places, so less flow can affect people and living things downstream",
+      "Each place has a completely separate water cycle",
+      "Upstream water can never reach downstream places",
+      "Only the amount of salt changes downstream"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Connected waterways carry water between places. Managing a flow requires considering those who depend on it downstream.",
+      "hint": "Follow the connected water pathway."
+    },
+    "structuredExplanation": {
+      "summary": "Connected waterways carry water between places. Managing a flow requires considering those who depend on it downstream.",
+      "hint": "Follow the connected water pathway."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 45,
+    "sequencePriority": 45,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-046",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "A school uses treated recycled water approved for garden irrigation. Which conclusion is appropriate?",
+    "audio_prompt": "A school uses treated recycled water approved for garden irrigation. Which conclusion is appropriate?",
+    "audioPrompt": "A school uses treated recycled water approved for garden irrigation. Which conclusion is appropriate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "All recycled water is automatically drinking water",
+        "is_correct": false
+      },
+      {
+        "text": "Using suitable recycled water can reduce demand on drinking-water supplies",
+        "is_correct": true
+      },
+      {
+        "text": "Recycling means no treatment is needed",
+        "is_correct": false
+      },
+      {
+        "text": "Recycled water cannot be used by plants",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "All recycled water is automatically drinking water",
+      "Using suitable recycled water can reduce demand on drinking-water supplies",
+      "Recycling means no treatment is needed",
+      "Recycled water cannot be used by plants"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Water is treated to suit its intended use. Irrigation-approved water should not be assumed safe to drink.",
+      "hint": "The intended use matters."
+    },
+    "structuredExplanation": {
+      "summary": "Water is treated to suit its intended use. Irrigation-approved water should not be assumed safe to drink.",
+      "hint": "The intended use matters."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 46,
+    "sequencePriority": 46,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-047",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "Water moves through the water cycle, so why should a household repair a dripping tap?",
+    "audio_prompt": "Water moves through the water cycle, so why should a household repair a dripping tap?",
+    "audioPrompt": "Water moves through the water cycle, so why should a household repair a dripping tap?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The water cycle will stop unless every tap is fixed",
+        "is_correct": false
+      },
+      {
+        "text": "All water on Earth is immediately ready to drink",
+        "is_correct": false
+      },
+      {
+        "text": "Clean local supplies and treatment take resources; leaks waste that supply",
+        "is_correct": true
+      },
+      {
+        "text": "Evaporation makes water disappear from Earth forever",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The water cycle will stop unless every tap is fixed",
+      "All water on Earth is immediately ready to drink",
+      "Clean local supplies and treatment take resources; leaks waste that supply",
+      "Evaporation makes water disappear from Earth forever"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The cycle continues, but safe water is not always available where and when needed. Avoiding leaks conserves treated supplies.",
+      "hint": "Think about usable local water, not total water on Earth."
+    },
+    "structuredExplanation": {
+      "summary": "The cycle continues, but safe water is not always available where and when needed. Avoiding leaks conserves treated supplies.",
+      "hint": "Think about usable local water, not total water on Earth."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 47,
+    "sequencePriority": 47,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U02-P-048",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U02",
+    "curriculumCode": "AC9S4U02",
+    "bank": "practice",
+    "skill": "water_sources_and_the_water_cycle",
+    "question": "A class wants to test whether a cover reduces evaporation. Which plan makes the comparison fairest?",
+    "audio_prompt": "A class wants to test whether a cover reduces evaporation. Which plan makes the comparison fairest?",
+    "audioPrompt": "A class wants to test whether a cover reduces evaporation. Which plan makes the comparison fairest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Use a large open bowl and a small covered cup in different rooms",
+        "is_correct": false
+      },
+      {
+        "text": "Start one container full and the other empty",
+        "is_correct": false
+      },
+      {
+        "text": "Put only the covered container in a freezer",
+        "is_correct": false
+      },
+      {
+        "text": "Use matching containers with equal water, same location and time; change only the cover",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Use a large open bowl and a small covered cup in different rooms",
+      "Start one container full and the other empty",
+      "Put only the covered container in a freezer",
+      "Use matching containers with equal water, same location and time; change only the cover"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Keeping the containers, starting water, location and time alike helps isolate the effect of the cover.",
+      "hint": "Change one factor and compare measured water loss."
+    },
+    "structuredExplanation": {
+      "summary": "Keeping the containers, starting water, location and time alike helps isolate the effect of the cover.",
+      "hint": "Change one factor and compare measured water loss."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 48,
+    "sequencePriority": 48,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
@@ -2567,9 +3056,9 @@
     "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A birdbath slowly loses water during a warm afternoon. Which process is most likely?",
-    "audio_prompt": "A birdbath slowly loses water during a warm afternoon. Which process is most likely?",
-    "audioPrompt": "A birdbath slowly loses water during a warm afternoon. Which process is most likely?",
+    "question": "A student claims a smaller birdbath water level proves evaporation. What information makes the explanation stronger?",
+    "audio_prompt": "A student claims a smaller birdbath water level proves evaporation. What information makes the explanation stronger?",
+    "audioPrompt": "A student claims a smaller birdbath water level proves evaporation. What information makes the explanation stronger?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2577,37 +3066,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Evaporation",
+        "text": "There was no rain, leak, spill or animal drinking during the observation",
         "is_correct": true
       },
       {
-        "text": "Precipitation",
+        "text": "The birdbath was painted blue",
         "is_correct": false
       },
       {
-        "text": "Infiltration through metal",
+        "text": "A cloud passed overhead",
         "is_correct": false
       },
       {
-        "text": "Condensation into the birdbath",
+        "text": "The birdbath was round",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Evaporation",
-      "Precipitation",
-      "Infiltration through metal",
-      "Condensation into the birdbath"
+      "There was no rain, leak, spill or animal drinking during the observation",
+      "The birdbath was painted blue",
+      "A cloud passed overhead",
+      "The birdbath was round"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Liquid water can evaporate from the birdbath surface.",
-      "hint": "Liquid to vapour."
+      "summary": "Other ways water can enter or leave need considering. With these excluded, a falling level supports evaporation.",
+      "hint": "Consider other causes of a changing water level."
     },
     "structuredExplanation": {
-      "summary": "Liquid water can evaporate from the birdbath surface.",
-      "hint": "Liquid to vapour."
+      "summary": "Other ways water can enter or leave need considering. With these excluded, a falling level supports evaporation.",
+      "hint": "Consider other causes of a changing water level."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2637,15 +3126,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Sunlight",
+        "text": "Evaporation",
         "is_correct": false
       },
       {
-        "text": "A cloud shadow",
+        "text": "Surface runoff",
         "is_correct": false
       },
       {
-        "text": "Dry sand only",
+        "text": "Cloud droplets",
         "is_correct": false
       },
       {
@@ -2654,9 +3143,9 @@
       }
     ],
     "answer_texts": [
-      "Sunlight",
-      "A cloud shadow",
-      "Dry sand only",
+      "Evaporation",
+      "Surface runoff",
+      "Cloud droplets",
       "Groundwater"
     ],
     "correct_index": 3,
@@ -2697,11 +3186,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Condensation makes it magnetic",
+        "text": "Evaporation pushes it downstream",
         "is_correct": false
       },
       {
-        "text": "Evaporation turns it solid",
+        "text": "The water must first become vapour",
         "is_correct": false
       },
       {
@@ -2709,15 +3198,15 @@
         "is_correct": true
       },
       {
-        "text": "Clouds push it with light",
+        "text": "Condensation draws water towards the ocean",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Condensation makes it magnetic",
-      "Evaporation turns it solid",
+      "Evaporation pushes it downstream",
+      "The water must first become vapour",
       "Gravity pulls water downhill",
-      "Clouds push it with light"
+      "Condensation draws water towards the ocean"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -2807,47 +3296,48 @@
     "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "A sealed cold metal lunchbox has droplets on the outside. Where did the water most likely come from?",
-    "audio_prompt": "A sealed cold metal lunchbox has droplets on the outside. Where did the water most likely come from?",
-    "audioPrompt": "A sealed cold metal lunchbox has droplets on the outside. Where did the water most likely come from?",
+    "question": "A local supply diagram shows bore → treatment → tank → homes. Which source provides this town with water?",
+    "audio_prompt": "A local supply diagram shows bore → treatment → tank → homes. Which source provides this town with water?",
+    "audioPrompt": "A local supply diagram shows bore → treatment → tank → homes. Which source provides this town with water?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u02/bore-supply.svg#model",
+      "alt_text": "A town supply diagram shows bore to treatment to tank to homes."
     },
-    "visualHtml": "",
+    "visualHtml": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A town supply diagram shows bore to treatment to tank to homes.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u02/bore-supply.svg#model\"></use></svg>",
     "answers": [
       {
-        "text": "Water vapour in the surrounding air",
+        "text": "Groundwater",
         "is_correct": true
       },
       {
-        "text": "Food leaking through metal",
+        "text": "Rain already inside the home pipes",
         "is_correct": false
       },
       {
-        "text": "The table making water",
+        "text": "Untreated kitchen wastewater",
         "is_correct": false
       },
       {
-        "text": "Sunlight changing into drops",
+        "text": "Cloud droplets in the tank",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Water vapour in the surrounding air",
-      "Food leaking through metal",
-      "The table making water",
-      "Sunlight changing into drops"
+      "Groundwater",
+      "Rain already inside the home pipes",
+      "Untreated kitchen wastewater",
+      "Cloud droplets in the tank"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Condensation can form on the outside from air touching the cold surface.",
-      "hint": "Air around it."
+      "summary": "A bore draws groundwater. The diagram also shows treatment before the water reaches homes.",
+      "hint": "A bore reaches below the surface."
     },
     "structuredExplanation": {
-      "summary": "Condensation can form on the outside from air touching the cold surface.",
-      "hint": "Air around it."
+      "summary": "A bore draws groundwater. The diagram also shows treatment before the water reaches homes.",
+      "hint": "A bore reaches below the surface."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2877,15 +3367,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "meltwater → magnet → cloud shadow",
+        "text": "meltwater → condensation → river",
         "is_correct": false
       },
       {
-        "text": "meltwater → plastic → sunlight",
+        "text": "meltwater → ocean → uphill stream",
         "is_correct": false
       },
       {
-        "text": "meltwater → tadpole → rock",
+        "text": "meltwater → evaporation → liquid river directly",
         "is_correct": false
       },
       {
@@ -2894,9 +3384,9 @@
       }
     ],
     "answer_texts": [
-      "meltwater → magnet → cloud shadow",
-      "meltwater → plastic → sunlight",
-      "meltwater → tadpole → rock",
+      "meltwater → condensation → river",
+      "meltwater → ocean → uphill stream",
+      "meltwater → evaporation → liquid river directly",
       "meltwater → stream → river → ocean"
     ],
     "correct_index": 3,
@@ -2937,11 +3427,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It immediately becomes hail",
+        "text": "It immediately becomes cloud droplets",
         "is_correct": false
       },
       {
-        "text": "It turns into sunlight",
+        "text": "It can only flow over the surface",
         "is_correct": false
       },
       {
@@ -2949,15 +3439,15 @@
         "is_correct": true
       },
       {
-        "text": "It stops being water forever",
+        "text": "It can never return to a stream",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It immediately becomes hail",
-      "It turns into sunlight",
+      "It immediately becomes cloud droplets",
+      "It can only flow over the surface",
       "It may infiltrate and add to groundwater",
-      "It stops being water forever"
+      "It can never return to a stream"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -3107,9 +3597,9 @@
     "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "Which example is precipitation?",
-    "audio_prompt": "Which example is precipitation?",
-    "audioPrompt": "Which example is precipitation?",
+    "question": "A covered tray loses 3 mL and an equal open tray loses 19 mL in the same place and time. Which conclusion is supported?",
+    "audio_prompt": "A covered tray loses 3 mL and an equal open tray loses 19 mL in the same place and time. Which conclusion is supported?",
+    "audioPrompt": "A covered tray loses 3 mL and an equal open tray loses 19 mL in the same place and time. Which conclusion is supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3117,37 +3607,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Fog forming on a window",
+        "text": "The covered tray gained water",
         "is_correct": false
       },
       {
-        "text": "A puddle shrinking",
+        "text": "The cover removed all evaporation everywhere",
         "is_correct": false
       },
       {
-        "text": "Water soaking into soil",
+        "text": "The open tray conserved more water",
         "is_correct": false
       },
       {
-        "text": "Hail falling during a storm",
+        "text": "The cover reduced water loss in this test",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Fog forming on a window",
-      "A puddle shrinking",
-      "Water soaking into soil",
-      "Hail falling during a storm"
+      "The covered tray gained water",
+      "The cover removed all evaporation everywhere",
+      "The open tray conserved more water",
+      "The cover reduced water loss in this test"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Hail is water falling from clouds, so it is precipitation.",
-      "hint": "Falls from clouds."
+      "summary": "Both lost water, but the covered tray lost less. This supports a reduction, not complete prevention.",
+      "hint": "Compare losses of 3 mL and 19 mL."
     },
     "structuredExplanation": {
-      "summary": "Hail is water falling from clouds, so it is precipitation.",
-      "hint": "Falls from clouds."
+      "summary": "Both lost water, but the covered tray lost less. This supports a reduction, not complete prevention.",
+      "hint": "Compare losses of 3 mL and 19 mL."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -3227,9 +3717,9 @@
     "curriculumCode": "AC9S4U02",
     "bank": "test",
     "skill": "water_sources_and_the_water_cycle",
-    "question": "Which explanation best fits fogging on a bathroom mirror?",
-    "audio_prompt": "Which explanation best fits fogging on a bathroom mirror?",
-    "audioPrompt": "Which explanation best fits fogging on a bathroom mirror?",
+    "question": "A council uses treated recycled water suitable for flushing toilets. Why can this conserve water?",
+    "audio_prompt": "A council uses treated recycled water suitable for flushing toilets. Why can this conserve water?",
+    "audioPrompt": "A council uses treated recycled water suitable for flushing toilets. Why can this conserve water?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3237,37 +3727,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Runoff climbs the wall",
+        "text": "All recycled water needs no treatment",
         "is_correct": false
       },
       {
-        "text": "Water vapour cools on the mirror and condenses",
+        "text": "It reduces the amount of drinking-water supply used for flushing",
         "is_correct": true
       },
       {
-        "text": "Mirror glass leaks water",
+        "text": "It makes new water outside the water cycle",
         "is_correct": false
       },
       {
-        "text": "Reflections make water",
+        "text": "It means leaking taps no longer matter",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Runoff climbs the wall",
-      "Water vapour cools on the mirror and condenses",
-      "Mirror glass leaks water",
-      "Reflections make water"
+      "All recycled water needs no treatment",
+      "It reduces the amount of drinking-water supply used for flushing",
+      "It makes new water outside the water cycle",
+      "It means leaking taps no longer matter"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Warm moist air can cool on the mirror and form tiny droplets.",
-      "hint": "Vapour cools."
+      "summary": "Water treated for a suitable non-drinking use can replace drinking-water supplies for that use.",
+      "hint": "Match the water quality to the job."
     },
     "structuredExplanation": {
-      "summary": "Warm moist air can cool on the mirror and form tiny droplets.",
-      "hint": "Vapour cools."
+      "summary": "Water treated for a suitable non-drinking use can replace drinking-water supplies for that use.",
+      "hint": "Match the water quality to the job."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -3365,7 +3855,7 @@
         "is_correct": false
       },
       {
-        "text": "Condensation turning into rocks",
+        "text": "Only evaporation and condensation",
         "is_correct": false
       },
       {
@@ -3376,7 +3866,7 @@
     "answer_texts": [
       "A fixed path for every water drop",
       "Water leaving the cycle forever",
-      "Condensation turning into rocks",
+      "Only evaporation and condensation",
       "A possible water pathway through storage and movement"
     ],
     "correct_index": 3,

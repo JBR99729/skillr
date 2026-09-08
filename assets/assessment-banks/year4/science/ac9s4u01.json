@@ -68,9 +68,9 @@
     "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "Which organism is a consumer?",
-    "audio_prompt": "Which organism is a consumer?",
-    "audioPrompt": "Which organism is a consumer?",
+    "question": "Which example shows an animal acting as a consumer?",
+    "audio_prompt": "Which example shows an animal acting as a consumer?",
+    "audioPrompt": "Which example shows an animal acting as a consumer?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -194,10 +194,11 @@
     "audio_prompt": "In the chain grass → grasshopper → frog, what does the arrow from grass to grasshopper show?",
     "audioPrompt": "In the chain grass → grasshopper → frog, what does the arrow from grass to grasshopper show?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "grass → grasshopper → frog",
+      "asset_path": "/assets/science-models/year4/ac9s4u01/woodland-chain.svg#model"
     },
-    "visualHtml": "",
+    "visualHtml": "<figure><img src=\"/assets/science-models/year4/ac9s4u01/woodland-chain.svg\" alt=\"grass → grasshopper → frog\" width=\"600\" height=\"170\" style=\"max-width:100%;height:auto\"><figcaption>grass → grasshopper → frog</figcaption></figure>",
     "answers": [
       {
         "text": "The frog gives food to the grass",
@@ -265,23 +266,23 @@
         "is_correct": true
       },
       {
-        "text": "Only a food-chain arrow",
+        "text": "Its complete food chain",
         "is_correct": false
       },
       {
-        "text": "A non-living organism",
+        "text": "Only its food source",
         "is_correct": false
       },
       {
-        "text": "A producer making food",
+        "text": "A single organism",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "A habitat where it lives and interacts",
-      "Only a food-chain arrow",
-      "A non-living organism",
-      "A producer making food"
+      "Its complete food chain",
+      "Only its food source",
+      "A single organism"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -373,9 +374,9 @@
     "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "Which option lists only consumers?",
-    "audio_prompt": "Which option lists only consumers?",
-    "audioPrompt": "Which option lists only consumers?",
+    "question": "Which option lists only animal consumers?",
+    "audio_prompt": "Which option lists only animal consumers?",
+    "audioPrompt": "Which option lists only animal consumers?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -509,23 +510,23 @@
         "is_correct": true
       },
       {
-        "text": "Consumer — sunlight",
+        "text": "Consumer — grass plant",
         "is_correct": false
       },
       {
-        "text": "Decomposer — kangaroo",
+        "text": "Decomposer — kangaroo grazing",
         "is_correct": false
       },
       {
-        "text": "Habitat — food arrow",
+        "text": "Producer — fungus on dead wood",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Producer — wattle tree",
-      "Consumer — sunlight",
-      "Decomposer — kangaroo",
-      "Habitat — food arrow"
+      "Consumer — grass plant",
+      "Decomposer — kangaroo grazing",
+      "Producer — fungus on dead wood"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -566,15 +567,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Sunlight from animals",
+        "text": "Energy as fresh sunlight",
         "is_correct": false
       },
       {
-        "text": "Plastic from water",
+        "text": "Only water from living plants",
         "is_correct": false
       },
       {
-        "text": "New rocks from frogs",
+        "text": "Whole leaves unchanged",
         "is_correct": false
       },
       {
@@ -583,9 +584,9 @@
       }
     ],
     "answer_texts": [
-      "Sunlight from animals",
-      "Plastic from water",
-      "New rocks from frogs",
+      "Energy as fresh sunlight",
+      "Only water from living plants",
+      "Whole leaves unchanged",
       "Nutrients from dead material"
     ],
     "correct_index": 3,
@@ -627,11 +628,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It breaks down dead animals",
+        "text": "It breaks down dead material for food",
         "is_correct": false
       },
       {
-        "text": "It hunts other plants",
+        "text": "It absorbs ready-made food from soil",
         "is_correct": false
       },
       {
@@ -639,15 +640,15 @@
         "is_correct": true
       },
       {
-        "text": "It eats insects from its leaves",
+        "text": "It obtains all its food by eating insects",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It breaks down dead animals",
-      "It hunts other plants",
+      "It breaks down dead material for food",
+      "It absorbs ready-made food from soil",
       "It makes its own food using energy from sunlight",
-      "It eats insects from its leaves"
+      "It obtains all its food by eating insects"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -696,19 +697,19 @@
         "is_correct": true
       },
       {
-        "text": "It makes food from sunlight",
+        "text": "It makes its food using sunlight",
         "is_correct": false
       },
       {
-        "text": "It turns into soil",
+        "text": "It obtains all its energy from drinking water",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "It is larger than many plants",
       "It gets energy by eating plant material",
-      "It makes food from sunlight",
-      "It turns into soil"
+      "It makes its food using sunlight",
+      "It obtains all its energy from drinking water"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -753,23 +754,23 @@
         "is_correct": true
       },
       {
-        "text": "They stop all animals from eating",
+        "text": "They supply all energy directly from the Sun",
         "is_correct": false
       },
       {
-        "text": "They make sunlight for plants",
+        "text": "They eat only living animals",
         "is_correct": false
       },
       {
-        "text": "They turn every consumer into a producer",
+        "text": "They prevent any dead material from entering soil",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "They break down dead material so nutrients can be reused",
-      "They stop all animals from eating",
-      "They make sunlight for plants",
-      "They turn every consumer into a producer"
+      "They supply all energy directly from the Sun",
+      "They eat only living animals",
+      "They prevent any dead material from entering soil"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -810,11 +811,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The leaf is running away from the caterpillar",
+        "text": "The leaf gains food from the caterpillar",
         "is_correct": false
       },
       {
-        "text": "The caterpillar gives sunlight to the leaf",
+        "text": "The arrow points towards the food being eaten",
         "is_correct": false
       },
       {
@@ -827,8 +828,8 @@
       }
     ],
     "answer_texts": [
-      "The leaf is running away from the caterpillar",
-      "The caterpillar gives sunlight to the leaf",
+      "The leaf gains food from the caterpillar",
+      "The arrow points towards the food being eaten",
       "The leaf eats the caterpillar",
       "The caterpillar obtains food and energy from the gum leaf"
     ],
@@ -871,11 +872,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Habitats have no living things",
+        "text": "Every habitat contains only one feeding path",
         "is_correct": false
       },
       {
-        "text": "Only decomposers can be in habitats",
+        "text": "A habitat contains consumers but no producers",
         "is_correct": false
       },
       {
@@ -883,15 +884,15 @@
         "is_correct": true
       },
       {
-        "text": "A food chain never includes animals",
+        "text": "A food chain includes all interactions between organisms",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Habitats have no living things",
-      "Only decomposers can be in habitats",
+      "Every habitat contains only one feeding path",
+      "A habitat contains consumers but no producers",
       "A food chain shows one feeding path, not all interactions",
-      "A food chain never includes animals"
+      "A food chain includes all interactions between organisms"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -932,7 +933,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Decomposers would disappear immediately",
+        "text": "Grasshoppers would have more grass to eat",
         "is_correct": false
       },
       {
@@ -940,19 +941,19 @@
         "is_correct": true
       },
       {
-        "text": "Grasshoppers would become producers",
+        "text": "Grasshoppers would no longer need food",
         "is_correct": false
       },
       {
-        "text": "Frogs would make more sunlight",
+        "text": "Every grasshopper would certainly die at once",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Decomposers would disappear immediately",
+      "Grasshoppers would have more grass to eat",
       "Grasshoppers would have less food available",
-      "Grasshoppers would become producers",
-      "Frogs would make more sunlight"
+      "Grasshoppers would no longer need food",
+      "Every grasshopper would certainly die at once"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -997,11 +998,11 @@
         "is_correct": true
       },
       {
-        "text": "It only eats living kangaroos",
+        "text": "It can only use material from the last predator",
         "is_correct": false
       },
       {
-        "text": "It makes all the sunlight",
+        "text": "It supplies sunlight to every producer",
         "is_correct": false
       },
       {
@@ -1011,8 +1012,8 @@
     ],
     "answer_texts": [
       "It can break down dead material from many organisms",
-      "It only eats living kangaroos",
-      "It makes all the sunlight",
+      "It can only use material from the last predator",
+      "It supplies sunlight to every producer",
       "It must be the first organism in every chain"
     ],
     "correct_index": 0,
@@ -1058,11 +1059,11 @@
         "is_correct": false
       },
       {
-        "text": "Eating insects makes it a producer",
+        "text": "Birds are producers because they lay eggs",
         "is_correct": false
       },
       {
-        "text": "Predators are not part of food chains",
+        "text": "Predators are separate from consumers",
         "is_correct": false
       },
       {
@@ -1072,8 +1073,8 @@
     ],
     "answer_texts": [
       "Only plant eaters are consumers",
-      "Eating insects makes it a producer",
-      "Predators are not part of food chains",
+      "Birds are producers because they lay eggs",
+      "Predators are separate from consumers",
       "Consumers can eat plants, animals or other consumers"
     ],
     "correct_index": 3,
@@ -1115,11 +1116,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It eats the top predator",
+        "text": "It gets all its food from predators",
         "is_correct": false
       },
       {
-        "text": "It has no connection to sunlight",
+        "text": "It needs no external energy source",
         "is_correct": false
       },
       {
@@ -1127,15 +1128,15 @@
         "is_correct": true
       },
       {
-        "text": "It breaks down every animal first",
+        "text": "It must first decompose every animal",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It eats the top predator",
-      "It has no connection to sunlight",
+      "It gets all its food from predators",
+      "It needs no external energy source",
       "It captures energy that can be passed to consumers",
-      "It breaks down every animal first"
+      "It must first decompose every animal"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -1176,7 +1177,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It stops all food chains",
+        "text": "It provides new sunlight for leaves",
         "is_correct": false
       },
       {
@@ -1184,19 +1185,19 @@
         "is_correct": true
       },
       {
-        "text": "It becomes sunlight at night",
+        "text": "It continues making food after dying",
         "is_correct": false
       },
       {
-        "text": "It eats small animals",
+        "text": "It can only be used by a top predator",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It stops all food chains",
+      "It provides new sunlight for leaves",
       "Decomposers can break it down and recycle nutrients",
-      "It becomes sunlight at night",
-      "It eats small animals"
+      "It continues making food after dying",
+      "It can only be used by a top predator"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -1532,9 +1533,9 @@
     "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "Which food-chain part is missing from roo grass → dingo?",
-    "audio_prompt": "Which food-chain part is missing from roo grass → dingo?",
-    "audioPrompt": "Which food-chain part is missing from roo grass → dingo?",
+    "question": "A kangaroo eats grass and a dingo eats the kangaroo. A student draws grass → dingo. Which feeding step is missing?",
+    "audio_prompt": "A kangaroo eats grass and a dingo eats the kangaroo. A student draws grass → dingo. Which feeding step is missing?",
+    "audioPrompt": "A kangaroo eats grass and a dingo eats the kangaroo. A student draws grass → dingo. Which feeding step is missing?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1542,36 +1543,36 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A decomposer eating sunlight first",
+        "text": "A decomposer between the grass and kangaroo",
         "is_correct": false
       },
       {
-        "text": "A rock between every organism",
+        "text": "An arrow from the dingo to the grass",
         "is_correct": false
       },
       {
-        "text": "The dingo as the producer",
+        "text": "An arrow from the kangaroo to the grass",
         "is_correct": false
       },
       {
-        "text": "A clearer arrow from grass to kangaroo before dingo",
+        "text": "Grass → kangaroo before kangaroo → dingo",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "A decomposer eating sunlight first",
-      "A rock between every organism",
-      "The dingo as the producer",
-      "A clearer arrow from grass to kangaroo before dingo"
+      "A decomposer between the grass and kangaroo",
+      "An arrow from the dingo to the grass",
+      "An arrow from the kangaroo to the grass",
+      "Grass → kangaroo before kangaroo → dingo"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "The kangaroo or roo is the consumer that eats the grass before energy may pass to a dingo.",
+      "summary": "The kangaroo eats the grass. The complete feeding chain is grass → kangaroo → dingo.",
       "hint": "Check the feeding order."
     },
     "structuredExplanation": {
-      "summary": "The kangaroo or roo is the consumer that eats the grass before energy may pass to a dingo.",
+      "summary": "The kangaroo eats the grass. The complete feeding chain is grass → kangaroo → dingo.",
       "hint": "Check the feeding order."
     },
     "stage": "discriminate",
@@ -1597,17 +1598,18 @@
     "audio_prompt": "Which prediction best follows grass → grasshopper → frog?",
     "audioPrompt": "Which prediction best follows grass → grasshopper → frog?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "grass → grasshopper → frog",
+      "asset_path": "/assets/science-models/year4/ac9s4u01/woodland-chain.svg#model"
     },
-    "visualHtml": "",
+    "visualHtml": "<figure><img src=\"/assets/science-models/year4/ac9s4u01/woodland-chain.svg\" alt=\"grass → grasshopper → frog\" width=\"600\" height=\"170\" style=\"max-width:100%;height:auto\"><figcaption>grass → grasshopper → frog</figcaption></figure>",
     "answers": [
       {
-        "text": "If frogs increase, grass makes more sunlight",
+        "text": "Frogs never depend on plants indirectly",
         "is_correct": false
       },
       {
-        "text": "If grasshoppers decrease, grass must vanish first",
+        "text": "Fewer grasshoppers must mean less uneaten grass",
         "is_correct": false
       },
       {
@@ -1615,15 +1617,15 @@
         "is_correct": true
       },
       {
-        "text": "If grass decreases, grasshoppers must become frogs",
+        "text": "Less grass always means more food for grasshoppers",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "If frogs increase, grass makes more sunlight",
-      "If grasshoppers decrease, grass must vanish first",
+      "Frogs never depend on plants indirectly",
+      "Fewer grasshoppers must mean less uneaten grass",
       "If grass decreases, grasshoppers may decrease because food is reduced",
-      "If grass decreases, grasshoppers must become frogs"
+      "Less grass always means more food for grasshoppers"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -1729,23 +1731,23 @@
         "is_correct": true
       },
       {
-        "text": "The Sun eats producers",
+        "text": "The Sun feeds by consuming plants",
         "is_correct": false
       },
       {
-        "text": "The Sun is a decomposer",
+        "text": "The Sun only breaks down dead material",
         "is_correct": false
       },
       {
-        "text": "The Sun is a consumer in every habitat",
+        "text": "Every food source must be a consumer",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "The Sun is not an organism, even though it provides energy",
-      "The Sun eats producers",
-      "The Sun is a decomposer",
-      "The Sun is a consumer in every habitat"
+      "The Sun feeds by consuming plants",
+      "The Sun only breaks down dead material",
+      "Every food source must be a consumer"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -1776,9 +1778,9 @@
     "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "Which example includes an interaction within a habitat?",
-    "audio_prompt": "Which example includes an interaction within a habitat?",
-    "audioPrompt": "Which example includes an interaction within a habitat?",
+    "question": "Which example shows a feeding interaction between two living organisms?",
+    "audio_prompt": "Which example shows a feeding interaction between two living organisms?",
+    "audioPrompt": "Which example shows a feeding interaction between two living organisms?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1786,15 +1788,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A pencil lies on a desk",
+        "text": "A spider and a fly are drawn on separate cards",
         "is_correct": false
       },
       {
-        "text": "A rock is painted blue",
+        "text": "A rock lies under a shrub",
         "is_correct": false
       },
       {
-        "text": "A ruler is placed beside paper",
+        "text": "A leaf falls onto bare ground",
         "is_correct": false
       },
       {
@@ -1803,9 +1805,9 @@
       }
     ],
     "answer_texts": [
-      "A pencil lies on a desk",
-      "A rock is painted blue",
-      "A ruler is placed beside paper",
+      "A spider and a fly are drawn on separate cards",
+      "A rock lies under a shrub",
+      "A leaf falls onto bare ground",
       "A spider catches a fly on a garden shrub"
     ],
     "correct_index": 3,
@@ -1908,7 +1910,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The habitat loses all decomposers instantly",
+        "text": "All decomposers leave the tree immediately",
         "is_correct": false
       },
       {
@@ -1916,19 +1918,19 @@
         "is_correct": true
       },
       {
-        "text": "The caterpillars become producers",
+        "text": "The tree gains leaf material from each bite",
         "is_correct": false
       },
       {
-        "text": "The leaves start eating birds",
+        "text": "The caterpillars no longer depend on the tree",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The habitat loses all decomposers instantly",
+      "All decomposers leave the tree immediately",
       "The tree may lose leaf material used for making food",
-      "The caterpillars become producers",
-      "The leaves start eating birds"
+      "The tree gains leaf material from each bite",
+      "The caterpillars no longer depend on the tree"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -1973,32 +1975,32 @@
         "is_correct": true
       },
       {
-        "text": "Consumers making sunlight",
+        "text": "Producers making food from sunlight",
         "is_correct": false
       },
       {
-        "text": "Producers eating insects",
+        "text": "Predators feeding on living prey",
         "is_correct": false
       },
       {
-        "text": "Predators building a food chain arrow",
+        "text": "Consumers pollinating living flowers",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Decomposers breaking down dead plant material",
-      "Consumers making sunlight",
-      "Producers eating insects",
-      "Predators building a food chain arrow"
+      "Producers making food from sunlight",
+      "Predators feeding on living prey",
+      "Consumers pollinating living flowers"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Fungi, bacteria and small decomposers can break down fallen leaves.",
+      "summary": "Fungi and bacteria decompose dead leaves. Small animals can help by breaking leaves into smaller pieces.",
       "hint": "Dead leaves are decomposed."
     },
     "structuredExplanation": {
-      "summary": "Fungi, bacteria and small decomposers can break down fallen leaves.",
+      "summary": "Fungi and bacteria decompose dead leaves. Small animals can help by breaking leaves into smaller pieces.",
       "hint": "Dead leaves are decomposed."
     },
     "stage": "apply",
@@ -2030,15 +2032,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Grasshoppers stopped being consumers",
+        "text": "Grasshoppers no longer needed to eat",
         "is_correct": false
       },
       {
-        "text": "Frogs turned grass into soil",
+        "text": "The dry season increased all grass growth",
         "is_correct": false
       },
       {
-        "text": "Food-chain arrows changed into weather arrows",
+        "text": "The grasshoppers received more food from less grass",
         "is_correct": false
       },
       {
@@ -2047,9 +2049,9 @@
       }
     ],
     "answer_texts": [
-      "Grasshoppers stopped being consumers",
-      "Frogs turned grass into soil",
-      "Food-chain arrows changed into weather arrows",
+      "Grasshoppers no longer needed to eat",
+      "The dry season increased all grass growth",
+      "The grasshoppers received more food from less grass",
       "Less producer growth meant less food for grasshoppers"
     ],
     "correct_index": 3,
@@ -2152,7 +2154,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It removes all feeding relationships",
+        "text": "It contains no living organisms",
         "is_correct": false
       },
       {
@@ -2160,19 +2162,19 @@
         "is_correct": true
       },
       {
-        "text": "It shows producers hunting worms",
+        "text": "It shows that vegetable scraps make sunlight",
         "is_correct": false
       },
       {
-        "text": "It proves dead matter is not matter",
+        "text": "It proves decomposers need only living prey",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It removes all feeding relationships",
+      "It contains no living organisms",
       "It shows organisms breaking down dead material and recycling nutrients",
-      "It shows producers hunting worms",
-      "It proves dead matter is not matter"
+      "It shows that vegetable scraps make sunlight",
+      "It proves decomposers need only living prey"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -2203,9 +2205,9 @@
     "curriculumCode": "AC9S4U01",
     "bank": "practice",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "If foxes increase in an area where they eat rabbits, which direct effect is reasonable to predict?",
-    "audio_prompt": "If foxes increase in an area where they eat rabbits, which direct effect is reasonable to predict?",
-    "audioPrompt": "If foxes increase in an area where they eat rabbits, which direct effect is reasonable to predict?",
+    "question": "Foxes are introduced predators in Australia. If foxes hunt more small native mammals in an area, what direct effect is reasonable to predict?",
+    "audio_prompt": "Foxes are introduced predators in Australia. If foxes hunt more small native mammals in an area, what direct effect is reasonable to predict?",
+    "audioPrompt": "Foxes are introduced predators in Australia. If foxes hunt more small native mammals in an area, what direct effect is reasonable to predict?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2213,36 +2215,36 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Rabbit numbers may come under more feeding pressure",
+        "text": "More small native mammals may be eaten",
         "is_correct": true
       },
       {
-        "text": "Rabbits will become producers",
+        "text": "Native mammals will have more food because foxes are producers",
         "is_correct": false
       },
       {
-        "text": "Grass must disappear overnight",
+        "text": "Predation on small mammals will always decrease",
         "is_correct": false
       },
       {
-        "text": "Foxes will make sunlight for grass",
+        "text": "Every native mammal will certainly disappear immediately",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Rabbit numbers may come under more feeding pressure",
-      "Rabbits will become producers",
-      "Grass must disappear overnight",
-      "Foxes will make sunlight for grass"
+      "More small native mammals may be eaten",
+      "Native mammals will have more food because foxes are producers",
+      "Predation on small mammals will always decrease",
+      "Every native mammal will certainly disappear immediately"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "More predators can increase feeding pressure on prey such as rabbits.",
+      "summary": "Fox predation can reduce small native mammal populations. The size of a change also depends on other conditions; it is not certain that every animal disappears.",
       "hint": "Use the feeding link."
     },
     "structuredExplanation": {
-      "summary": "More predators can increase feeding pressure on prey such as rabbits.",
+      "summary": "Fox predation can reduce small native mammal populations. The size of a change also depends on other conditions; it is not certain that every animal disappears.",
       "hint": "Use the feeding link."
     },
     "stage": "apply",
@@ -2274,15 +2276,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Top animals are always producers",
+        "text": "Energy always returns to plants as sunlight",
         "is_correct": false
       },
       {
-        "text": "Plants eat the top animal directly in every chain",
+        "text": "Plants receive ready-made food directly from every predator",
         "is_correct": false
       },
       {
-        "text": "Food chains have no energy movement",
+        "text": "Energy stays in one organism and never passes on",
         "is_correct": false
       },
       {
@@ -2291,9 +2293,9 @@
       }
     ],
     "answer_texts": [
-      "Top animals are always producers",
-      "Plants eat the top animal directly in every chain",
-      "Food chains have no energy movement",
+      "Energy always returns to plants as sunlight",
+      "Plants receive ready-made food directly from every predator",
+      "Energy stays in one organism and never passes on",
       "Energy shown by arrows moves from food to eater; decomposers recycle nutrients from dead material"
     ],
     "correct_index": 3,
@@ -2396,7 +2398,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Only snakes live in habitats",
+        "text": "Every wetland organism feeds on the same food",
         "is_correct": false
       },
       {
@@ -2404,19 +2406,19 @@
         "is_correct": true
       },
       {
-        "text": "Food chains cannot include wetlands",
+        "text": "A chain must include every organism in the habitat",
         "is_correct": false
       },
       {
-        "text": "Fungi are never connected to other organisms",
+        "text": "Fungi can only interact with snakes",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Only snakes live in habitats",
+      "Every wetland organism feeds on the same food",
       "The habitat has several organisms and interactions beyond one feeding path",
-      "Food chains cannot include wetlands",
-      "Fungi are never connected to other organisms"
+      "A chain must include every organism in the habitat",
+      "Fungi can only interact with snakes"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -2440,6 +2442,494 @@
     "type": "single"
   },
   {
+    "id": "AC9S4U01-P-041",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "human_food_sources",
+    "question": "A person eats rice and fish. Where did these foods come from?",
+    "audio_prompt": "A person eats rice and fish. Where did these foods come from?",
+    "audioPrompt": "A person eats rice and fish. Where did these foods come from?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Rice from a plant and fish from an animal",
+        "is_correct": true
+      },
+      {
+        "text": "Both foods from decomposers only",
+        "is_correct": false
+      },
+      {
+        "text": "Both foods made by the person using sunlight",
+        "is_correct": false
+      },
+      {
+        "text": "Rice from an animal and fish from a plant",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Rice from a plant and fish from an animal",
+      "Both foods from decomposers only",
+      "Both foods made by the person using sunlight",
+      "Rice from an animal and fish from a plant"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Humans are consumers. Rice is plant food and fish is animal food.",
+      "hint": "Trace each food to a living source."
+    },
+    "structuredExplanation": {
+      "summary": "Humans are consumers. Rice is plant food and fish is animal food.",
+      "hint": "Trace each food to a living source."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 41,
+    "sequencePriority": 41,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-042",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "observed_habitat_roles",
+    "question": "A class records: grass makes food in sunlight; a snail eats leaves; fungus breaks down dead leaves. Which role order matches these observations?",
+    "audio_prompt": "A class records: grass makes food in sunlight; a snail eats leaves; fungus breaks down dead leaves. Which role order matches these observations?",
+    "audioPrompt": "A class records: grass makes food in sunlight; a snail eats leaves; fungus breaks down dead leaves. Which role order matches these observations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Consumer, producer, decomposer",
+        "is_correct": false
+      },
+      {
+        "text": "Producer, consumer, decomposer",
+        "is_correct": true
+      },
+      {
+        "text": "Producer, decomposer, consumer",
+        "is_correct": false
+      },
+      {
+        "text": "Decomposer, consumer, producer",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Consumer, producer, decomposer",
+      "Producer, consumer, decomposer",
+      "Producer, decomposer, consumer",
+      "Decomposer, consumer, producer"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Making food identifies the producer, feeding on leaves identifies the animal consumer, and decay identifies the decomposer.",
+      "hint": "Use the recorded action, not size or colour."
+    },
+    "structuredExplanation": {
+      "summary": "Making food identifies the producer, feeding on leaves identifies the animal consumer, and decay identifies the decomposer.",
+      "hint": "Use the recorded action, not size or colour."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 42,
+    "sequencePriority": 42,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-043",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "decomposer_diversity",
+    "question": "Which research finding best explains why both fungi and bacteria matter in leaf litter?",
+    "audio_prompt": "Which research finding best explains why both fungi and bacteria matter in leaf litter?",
+    "audioPrompt": "Which research finding best explains why both fungi and bacteria matter in leaf litter?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "They only hunt living insects",
+        "is_correct": false
+      },
+      {
+        "text": "They keep nutrients locked in dead leaves forever",
+        "is_correct": false
+      },
+      {
+        "text": "They break down dead matter and help return nutrients to the habitat",
+        "is_correct": true
+      },
+      {
+        "text": "They replace sunlight as the energy source for all plants",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "They only hunt living insects",
+      "They keep nutrients locked in dead leaves forever",
+      "They break down dead matter and help return nutrients to the habitat",
+      "They replace sunlight as the energy source for all plants"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Different fungi and bacteria act as decomposers. Their breakdown of dead matter helps recycle nutrients.",
+      "hint": "What happens to dead material?"
+    },
+    "structuredExplanation": {
+      "summary": "Different fungi and bacteria act as decomposers. Their breakdown of dead matter helps recycle nutrients.",
+      "hint": "What happens to dead material?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 43,
+    "sequencePriority": 43,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-044",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "compare_habitat_chains",
+    "question": "Compare grass → rabbit → fox with algae → water flea → small fish. What do both chains show?",
+    "audio_prompt": "Compare grass → rabbit → fox with algae → water flea → small fish. What do both chains show?",
+    "audioPrompt": "Compare grass → rabbit → fox with algae → water flea → small fish. What do both chains show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The same organisms in the same habitat",
+        "is_correct": false
+      },
+      {
+        "text": "A predator supplying food to the producer",
+        "is_correct": false
+      },
+      {
+        "text": "Every decomposer in each habitat",
+        "is_correct": false
+      },
+      {
+        "text": "A producer feeding a consumer that is eaten by another consumer",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The same organisms in the same habitat",
+      "A predator supplying food to the producer",
+      "Every decomposer in each habitat",
+      "A producer feeding a consumer that is eaten by another consumer"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "The organisms and habitats differ, but both show food passing from a producer through two consumers.",
+      "hint": "Compare roles rather than names."
+    },
+    "structuredExplanation": {
+      "summary": "The organisms and habitats differ, but both show food passing from a producer through two consumers.",
+      "hint": "Compare roles rather than names."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 44,
+    "sequencePriority": 44,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-045",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "country_place_connections",
+    "question": "ACARA describes First Nations Australians as integral to Country/Place. Which explanation respects this idea?",
+    "audio_prompt": "ACARA describes First Nations Australians as integral to Country/Place. Which explanation respects this idea?",
+    "audioPrompt": "ACARA describes First Nations Australians as integral to Country/Place. Which explanation respects this idea?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "People are part of connected relationships with land, waters and living things",
+        "is_correct": true
+      },
+      {
+        "text": "People are separate from every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "All First Nations communities have identical practices",
+        "is_correct": false
+      },
+      {
+        "text": "Only animals can be part of an environment",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "People are part of connected relationships with land, waters and living things",
+      "People are separate from every habitat",
+      "All First Nations communities have identical practices",
+      "Only animals can be part of an environment"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Being integral means belonging within connected relationships, not being separate from the environment. Specific knowledges and practices belong to particular communities.",
+      "hint": "Think about connection and belonging."
+    },
+    "structuredExplanation": {
+      "summary": "Being integral means belonging within connected relationships, not being separate from the environment. Specific knowledges and practices belong to particular communities.",
+      "hint": "Think about connection and belonging."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 45,
+    "sequencePriority": 45,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-046",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "introduced_predator_evidence",
+    "question": "A night camera records foxes catching native mice near their burrows. Which conclusion is supported?",
+    "audio_prompt": "A night camera records foxes catching native mice near their burrows. Which conclusion is supported?",
+    "audioPrompt": "A night camera records foxes catching native mice near their burrows. Which conclusion is supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Foxes cannot affect native animals",
+        "is_correct": false
+      },
+      {
+        "text": "Foxes can prey on small native mammals at this site",
+        "is_correct": true
+      },
+      {
+        "text": "Every missing mouse was certainly killed by a fox",
+        "is_correct": false
+      },
+      {
+        "text": "Native mice obtain food from foxes in this observation",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Foxes cannot affect native animals",
+      "Foxes can prey on small native mammals at this site",
+      "Every missing mouse was certainly killed by a fox",
+      "Native mice obtain food from foxes in this observation"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The observation supports a predator–prey link at this site. It does not identify the cause of every missing mouse.",
+      "hint": "Keep the claim within the evidence."
+    },
+    "structuredExplanation": {
+      "summary": "The observation supports a predator–prey link at this site. It does not identify the cause of every missing mouse.",
+      "hint": "Keep the claim within the evidence."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 46,
+    "sequencePriority": 46,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-047",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "food_removal_infestation",
+    "question": "A model paddock has seed-eating native birds. Introduced mice eat most available seeds. What should the class predict and check?",
+    "audio_prompt": "A model paddock has seed-eating native birds. Introduced mice eat most available seeds. What should the class predict and check?",
+    "audioPrompt": "A model paddock has seed-eating native birds. Introduced mice eat most available seeds. What should the class predict and check?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Birds have more seed food because mice ate it",
+        "is_correct": false
+      },
+      {
+        "text": "Birds no longer need food",
+        "is_correct": false
+      },
+      {
+        "text": "Birds may have less seed food; check seed supply and bird feeding",
+        "is_correct": true
+      },
+      {
+        "text": "The mice must become producers",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Birds have more seed food because mice ate it",
+      "Birds no longer need food",
+      "Birds may have less seed food; check seed supply and bird feeding",
+      "The mice must become producers"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Removing a shared food source can leave less for other consumers. Observations are needed to test the predicted effect.",
+      "hint": "Which resource is shared?"
+    },
+    "structuredExplanation": {
+      "summary": "Removing a shared food source can leave less for other consumers. Observations are needed to test the predicted effect.",
+      "hint": "Which resource is shared?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 47,
+    "sequencePriority": 47,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U01-P-048",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U01",
+    "curriculumCode": "AC9S4U01",
+    "bank": "practice",
+    "skill": "repair_food_chain",
+    "question": "A student draws grass → grasshopper ← frog to mean that a frog eats a grasshopper. What correction is needed?",
+    "audio_prompt": "A student draws grass → grasshopper ← frog to mean that a frog eats a grasshopper. What correction is needed?",
+    "audioPrompt": "A student draws grass → grasshopper ← frog to mean that a frog eats a grasshopper. What correction is needed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Reverse the arrow from grass to grasshopper",
+        "is_correct": false
+      },
+      {
+        "text": "Remove grass because plants cannot be food",
+        "is_correct": false
+      },
+      {
+        "text": "Add the Sun as an animal consumer",
+        "is_correct": false
+      },
+      {
+        "text": "Reverse the frog arrow so it points from grasshopper to frog",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Reverse the arrow from grass to grasshopper",
+      "Remove grass because plants cannot be food",
+      "Add the Sun as an animal consumer",
+      "Reverse the frog arrow so it points from grasshopper to frog"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Food-chain arrows point from food to eater: grass → grasshopper → frog.",
+      "hint": "Which animal receives food from the grasshopper?"
+    },
+    "structuredExplanation": {
+      "summary": "Food-chain arrows point from food to eater: grass → grasshopper → frog.",
+      "hint": "Which animal receives food from the grasshopper?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 48,
+    "sequencePriority": 48,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
     "id": "AC9S4U01-T-001",
     "subject": "science",
     "year_level": "Year 4",
@@ -2451,10 +2941,11 @@
     "audio_prompt": "In a coastal dune, spinifex grass is eaten by a beetle, and the beetle is eaten by a skink. Which chain is shown?",
     "audioPrompt": "In a coastal dune, spinifex grass is eaten by a beetle, and the beetle is eaten by a skink. Which chain is shown?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "spinifex grass → beetle → skink",
+      "asset_path": "/assets/science-models/year4/ac9s4u01/dune-chain.svg#model"
     },
-    "visualHtml": "",
+    "visualHtml": "<figure><img src=\"/assets/science-models/year4/ac9s4u01/dune-chain.svg\" alt=\"spinifex grass → beetle → skink\" width=\"600\" height=\"170\" style=\"max-width:100%;height:auto\"><figcaption>spinifex grass → beetle → skink</figcaption></figure>",
     "answers": [
       {
         "text": "beetle → spinifex grass → skink",
@@ -2567,9 +3058,9 @@
     "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "Which role is shown by termites breaking down fallen wood?",
-    "audio_prompt": "Which role is shown by termites breaking down fallen wood?",
-    "audioPrompt": "Which role is shown by termites breaking down fallen wood?",
+    "question": "Which role is shown by fungi breaking down fallen wood?",
+    "audio_prompt": "Which role is shown by fungi breaking down fallen wood?",
+    "audioPrompt": "Which role is shown by fungi breaking down fallen wood?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2585,28 +3076,28 @@
         "is_correct": false
       },
       {
-        "text": "Sunlight transfer only",
+        "text": "Predation on living prey",
         "is_correct": false
       },
       {
-        "text": "Habitat removal",
+        "text": "Pollination of a plant",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Decomposer action",
       "Producer action",
-      "Sunlight transfer only",
-      "Habitat removal"
+      "Predation on living prey",
+      "Pollination of a plant"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Breaking down dead wood is a decomposer role.",
+      "summary": "Fungi that break down dead wood are decomposers. Animals such as termites help break wood into smaller material, but are not the same as fungi and bacteria.",
       "hint": "Dead material being broken down."
     },
     "structuredExplanation": {
-      "summary": "Breaking down dead wood is a decomposer role.",
+      "summary": "Fungi that break down dead wood are decomposers. Animals such as termites help break wood into smaller material, but are not the same as fungi and bacteria.",
       "hint": "Dead material being broken down."
     },
     "difficulty": 3,
@@ -2637,15 +3128,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It makes nectar from sunlight",
+        "text": "It makes its own food using sunlight",
         "is_correct": false
       },
       {
-        "text": "It is a plant in the habitat",
+        "text": "It receives food only from soil",
         "is_correct": false
       },
       {
-        "text": "It turns banksia flowers into rocks",
+        "text": "It breaks down only dead plant material",
         "is_correct": false
       },
       {
@@ -2654,9 +3145,9 @@
       }
     ],
     "answer_texts": [
-      "It makes nectar from sunlight",
-      "It is a plant in the habitat",
-      "It turns banksia flowers into rocks",
+      "It makes its own food using sunlight",
+      "It receives food only from soil",
+      "It breaks down only dead plant material",
       "It obtains energy from food made by another organism"
     ],
     "correct_index": 3,
@@ -2757,7 +3248,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Locusts produce sunlight",
+        "text": "Sheep would gain pasture from every locust bite",
         "is_correct": false
       },
       {
@@ -2765,19 +3256,19 @@
         "is_correct": true
       },
       {
-        "text": "Sheep become decomposers",
+        "text": "Sheep would stop needing plant material",
         "is_correct": false
       },
       {
-        "text": "The pasture becomes a predator",
+        "text": "Locust feeding would never affect other plant eaters",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Locusts produce sunlight",
+      "Sheep would gain pasture from every locust bite",
       "Sheep may have less grass available to eat",
-      "Sheep become decomposers",
-      "The pasture becomes a predator"
+      "Sheep would stop needing plant material",
+      "Locust feeding would never affect other plant eaters"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -2881,11 +3372,11 @@
         "is_correct": false
       },
       {
-        "text": "A chain includes every organism on Earth",
+        "text": "A chain includes every organism in one habitat",
         "is_correct": false
       },
       {
-        "text": "Only webs have living things",
+        "text": "A web shows only the largest animals",
         "is_correct": false
       },
       {
@@ -2895,8 +3386,8 @@
     ],
     "answer_texts": [
       "A web has no producers",
-      "A chain includes every organism on Earth",
-      "Only webs have living things",
+      "A chain includes every organism in one habitat",
+      "A web shows only the largest animals",
       "A simple chain shows one path, while a web includes many connected feeding paths"
     ],
     "correct_index": 3,
@@ -3061,23 +3552,23 @@
         "is_correct": true
       },
       {
-        "text": "Plants immediately become consumers",
+        "text": "Dead material always breaks down faster",
         "is_correct": false
       },
       {
-        "text": "Sunlight stops reaching Earth",
+        "text": "Producers immediately gain more recycled nutrients",
         "is_correct": false
       },
       {
-        "text": "All animals become producers",
+        "text": "No living thing uses nutrients again",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Dead material can build up and nutrients recycle more slowly",
-      "Plants immediately become consumers",
-      "Sunlight stops reaching Earth",
-      "All animals become producers"
+      "Dead material always breaks down faster",
+      "Producers immediately gain more recycled nutrients",
+      "No living thing uses nutrients again"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -3107,9 +3598,9 @@
     "curriculumCode": "AC9S4U01",
     "bank": "test",
     "skill": "producers_consumers_decomposers_and_food_chains",
-    "question": "Which claim needs the strongest feeding evidence?",
-    "audio_prompt": "Which claim needs the strongest feeding evidence?",
-    "audioPrompt": "Which claim needs the strongest feeding evidence?",
+    "question": "Which observation most directly supports the claim that owls eat mice in this paddock?",
+    "audio_prompt": "Which observation most directly supports the claim that owls eat mice in this paddock?",
+    "audioPrompt": "Which observation most directly supports the claim that owls eat mice in this paddock?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3117,36 +3608,36 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The Moon is visible tonight",
+        "text": "Owls perch on a fence in the paddock",
         "is_correct": false
       },
       {
-        "text": "The paddock has a fence",
+        "text": "Mice leave tracks in the soil",
         "is_correct": false
       },
       {
-        "text": "The soil is dry",
+        "text": "Grass seeds are found near a mouse burrow",
         "is_correct": false
       },
       {
-        "text": "Owls are eating mice in this paddock",
+        "text": "A night camera records an owl catching and eating a mouse",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "The Moon is visible tonight",
-      "The paddock has a fence",
-      "The soil is dry",
-      "Owls are eating mice in this paddock"
+      "Owls perch on a fence in the paddock",
+      "Mice leave tracks in the soil",
+      "Grass seeds are found near a mouse burrow",
+      "A night camera records an owl catching and eating a mouse"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A feeding claim needs observations or other evidence of the interaction.",
+      "summary": "The camera records the feeding interaction itself. Seeing both animals nearby does not prove that one eats the other.",
       "hint": "Which is a food-chain claim?"
     },
     "structuredExplanation": {
-      "summary": "A feeding claim needs observations or other evidence of the interaction.",
+      "summary": "The camera records the feeding interaction itself. Seeing both animals nearby does not prove that one eats the other.",
       "hint": "Which is a food-chain claim?"
     },
     "difficulty": 3,
@@ -3177,11 +3668,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The echidna gives sunlight to the ant",
+        "text": "The ant receives food from the echidna",
         "is_correct": false
       },
       {
-        "text": "The acacia seed eats the ant",
+        "text": "The echidna supplies energy to the acacia",
         "is_correct": false
       },
       {
@@ -3189,15 +3680,15 @@
         "is_correct": true
       },
       {
-        "text": "The ant makes the echidna",
+        "text": "The arrow points towards the food being eaten",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The echidna gives sunlight to the ant",
-      "The acacia seed eats the ant",
+      "The ant receives food from the echidna",
+      "The echidna supplies energy to the acacia",
       "The echidna gets food and energy from the ant",
-      "The ant makes the echidna"
+      "The arrow points towards the food being eaten"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -3301,23 +3792,23 @@
         "is_correct": true
       },
       {
-        "text": "A producer making food",
+        "text": "Production of food using sunlight",
         "is_correct": false
       },
       {
-        "text": "A predator chasing prey",
+        "text": "Predation on a living fish",
         "is_correct": false
       },
       {
-        "text": "Sunlight being eaten",
+        "text": "Pollination between water plants",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Decomposition of dead material",
-      "A producer making food",
-      "A predator chasing prey",
-      "Sunlight being eaten"
+      "Production of food using sunlight",
+      "Predation on a living fish",
+      "Pollination between water plants"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -3357,15 +3848,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Frogs are producers",
+        "text": "Frogs make their own food from sunlight",
         "is_correct": false
       },
       {
-        "text": "Insects are not living things",
+        "text": "Fewer insects always give frogs more food",
         "is_correct": false
       },
       {
-        "text": "Billabongs cannot have food chains",
+        "text": "Frogs never depend on other organisms",
         "is_correct": false
       },
       {
@@ -3374,9 +3865,9 @@
       }
     ],
     "answer_texts": [
-      "Frogs are producers",
-      "Insects are not living things",
-      "Billabongs cannot have food chains",
+      "Frogs make their own food from sunlight",
+      "Fewer insects always give frogs more food",
+      "Frogs never depend on other organisms",
       "Frogs often rely on insects as food"
     ],
     "correct_index": 3,

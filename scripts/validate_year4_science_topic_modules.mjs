@@ -80,8 +80,24 @@ for (const code of codes) {
   const teacherPage = path.join(ROOT, "year4", "science", unit.slug, "teacher-slides", "index.html");
   const topicHtml = fs.existsSync(topic) ? fs.readFileSync(topic, "utf8") : "";
   const worksheetHtml = fs.existsSync(worksheet) ? fs.readFileSync(worksheet, "utf8") : "";
+  if (["AC9S4U01", "AC9S4U02", "AC9S4U03"].includes(code)) {
+    const classroomHtml = fs.readFileSync(teacherPage, "utf8");
+    for (const [label, html] of [["topic", topicHtml], ["classroom", classroomHtml]]) {
+      expect(!/<script[^>]+src=["'][^"']*year4-science-(?:data|topic-modules|topic-render|slide)\.js/.test(html), `${code}: ${label} must own static teaching content`);
+      expect(html.includes(code) && html.includes("Success looks like"), `${code}: ${label} static instruction missing`);
+    }
+    const worksheetWindow = {};
+    vm.runInNewContext(fs.readFileSync(path.join(path.dirname(worksheet), "worksheet-questions.js"), "utf8"), { window:worksheetWindow });
+    const written = worksheetWindow.skillrWorksheetQuestions;
+    expect(Array.isArray(written) && written.length === 8, `${code}: static written worksheet requires eight tasks`);
+    expect(new Set((written || []).map((q) => q.id)).size === written?.length, `${code}: written task IDs must be unique`);
+    expect(written?.every((q) => q.curriculumCode === code && q.question && q.correct && q.explanation), `${code}: written tasks need matching code, prompt, answer and rubric`);
+    expect(worksheetHtml.includes("worksheet-pdf.js") && worksheetHtml.includes("questions.js"), `${code}: worksheet must use reviewed task bank and production PDF generator`);
+    expect(!/year4-science-topic-modules\.js/.test(worksheetHtml) && worksheetHtml.includes('data-skillr-authored-worksheet="true"'), `${code}: authored worksheet guard must prevent legacy content replacement`);
+  } else {
   expect(topicHtml.includes("year4-science-topic-modules.js?v=2") && topicHtml.includes("year4-science-topic-render.js?v=2") && !/year4-science-(?:topic-modules|topic-render)\.js\?v=1\b/.test(topicHtml), `${code}: topic route cache version is stale or mixed`);
   expect(worksheetHtml.includes("year4-science-topic-modules.js?v=2") && worksheetHtml.includes("year4-science-worksheet.js?v=2") && !/year4-science-(?:topic-modules|worksheet)\.js\?v=1\b/.test(worksheetHtml), `${code}: worksheet route cache version is stale or mixed`);
+  }
   expect(fs.existsSync(practice), `${code}: Practice target missing`);
   expect(fs.existsSync(test), `${code}: Test target missing`);
   expect(fs.existsSync(teacherPage), `${code}: static teacher display page missing`);
@@ -121,4 +137,4 @@ expect(typeof pwa === "string" && pwa.length > 0, "Progressive loader missing");
 const liveSlide = fs.readFileSync(path.join(ROOT, "worksheets/year4/science/teacher-slides/live.html"), "utf8");
 expect(liveSlide.includes("teacherDisplayPages") && liveSlide.includes("location.replace(target)"), "Live teacher slide route must redirect to static teacher display pages");
 if (errors.length) { console.error(errors.join("\n")); process.exit(1); }
-console.log(`PASS: Year 4 Science topic modules ${codes.length}/12; 12 topic pages, 48 core slides, 24 Topic Practice sheet views and 108 uniquely partitioned worksheet questions.`);
+console.log(`PASS: Year 4 Science ${codes.length}/12: first three static topic/Classroom sources and eight authored worksheet tasks each; other nine legacy routes; retained legacy exports with 108 unique prompts.`);

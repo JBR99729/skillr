@@ -1,0 +1,88 @@
+{
+  "code": "AC9S4U02",
+  "source_url": "https://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/export/MRAC/2024/04/LA/SCI.jsonld",
+  "source_sha256": "50c24e93a6b099111d058cf296022f6575dc4d92592b3406440e5831bf56bd53",
+  "descriptor": "identify sources of water and describe key processes in the water cycle, including movement of water through the sky, landscape and ocean; precipitation; evaporation; and condensation",
+  "elaborations": [
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/c547c516-67c3-415a-b05d-4d0e982f105a",
+      "text": "identifying everyday examples of precipitation (rain or snow), evaporation (wet washing or paint drying) and condensation of water (water droplets on a cold water bottle)",
+      "notation": [
+        {
+          "@language": "en-au",
+          "@value": "AC9S4U02_E1"
+        }
+      ]
+    },
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/533b2dbc-38d6-4442-b943-e312130d218f",
+      "text": "identifying local water sources and exploring how they change over time, such as rain puddles that evaporate or a local creek that flows faster after rain",
+      "notation": [
+        {
+          "@language": "en-au",
+          "@value": "AC9S4U02_E2"
+        }
+      ]
+    },
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/ecc7c2c9-fecd-4fa5-b153-292c39f05c5b",
+      "text": "exploring where tap water comes from and predicting what happens to water that goes down the drain",
+      "notation": [
+        {
+          "@language": "en-au",
+          "@value": "AC9S4U02_E3"
+        }
+      ]
+    },
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/95fd9080-cdce-434b-82bb-76368800a359",
+      "text": "exploring a game or simulation of the water cycle, identifying key processes and creating their own representation of the water cycle",
+      "notation": [
+        {
+          "@language": "en-au",
+          "@value": "AC9S4U02_E4"
+        }
+      ]
+    },
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/ad0582e4-0006-4d33-b4ae-4a0fa4e00b08",
+      "text": "recognising that clouds are tiny water droplets suspended in air, observing a ‘cloud in a bottle’ demonstrated by a teacher and discussing what conditions are needed for clouds to form and for rain or snow to fall",
+      "notation": [
+        {
+          "@language": "en-au",
+          "@value": "AC9S4U02_E5"
+        }
+      ]
+    },
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/89a16ab0-3c7c-4217-946d-7feb076c43fc",
+      "text": "exploring First Nations Australians’ connections with and valuing of water and water resource management",
+      "notation": [
+        {
+          "@language": "en-au",
+          "@value": "AC9S4U02_E6"
+        }
+      ]
+    },
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/790c04d9-77ed-4cfc-a782-532ceb2409e8",
+      "text": "recognising First Nations Australians’ knowledges and understandings of evaporation and how the effect of evaporation can be reduced to conserve water, such as by covering surfaces",
+      "notation": [
+        {
+          "@language": "en-au",
+          "@value": "AC9S4U02_E7"
+        }
+      ]
+    },
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/a758e0a9-eca8-42ab-8320-abac49e594ed",
+      "text": "considering why we are encouraged to save and recycle water, and actions people can take to reduce water consumption and waste",
+      "notation": [
+        {
+          "@language": "en-au",
+          "@value": "AC9S4U02_E8"
+        }
+      ]
+    }
+  ]
+}

@@ -9,11 +9,12 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "In a coastal dune, spinifex grass is eaten by a beetle, and the beetle is eaten by a skink. Which chain is shown?",
     "audioPrompt": "In a coastal dune, spinifex grass is eaten by a beetle, and the beetle is eaten by a skink. Which chain is shown?",
-    "visual": "",
-    "visualHtml": "",
+    "visual": "spinifex grass → beetle → skink",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"spinifex grass → beetle → skink\"><use href=\"/assets/science-models/year4/ac9s4u01/dune-chain.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "alt_text": "spinifex grass → beetle → skink",
+      "asset_path": "/assets/science-models/year4/ac9s4u01/dune-chain.svg#model"
     },
     "answers": [
       "beetle → spinifex grass → skink",
@@ -21,16 +22,16 @@ window.skillrTestQuestions = [
       "spinifex grass → beetle → skink",
       "skink → beetle → spinifex grass"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "The producer is eaten by the beetle, and the beetle is eaten by the skink.\nHint: Food to eater.",
     "structuredExplanation": {
       "summary": "The producer is eaten by the beetle, and the beetle is eaten by the skink.",
       "hint": "Food to eater."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-002",
@@ -53,16 +54,16 @@ window.skillrTestQuestions = [
       "It eats small fish",
       "It breaks down dead crabs only"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Seaweed is a producer because it uses light to make food.\nHint: Producer makes food.",
     "structuredExplanation": {
       "summary": "Seaweed is a producer because it uses light to make food.",
       "hint": "Producer makes food."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-003",
@@ -71,8 +72,8 @@ window.skillrTestQuestions = [
     "skill": "producers consumers decomposers and food chains",
     "printable": true,
     "type": "single",
-    "question": "Which role is shown by termites breaking down fallen wood?",
-    "audioPrompt": "Which role is shown by termites breaking down fallen wood?",
+    "question": "Which role is shown by fungi breaking down fallen wood?",
+    "audioPrompt": "Which role is shown by fungi breaking down fallen wood?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -82,19 +83,19 @@ window.skillrTestQuestions = [
     "answers": [
       "Decomposer action",
       "Producer action",
-      "Sunlight transfer only",
-      "Habitat removal"
+      "Predation on living prey",
+      "Pollination of a plant"
     ],
-    "correct": 0,
-    "explanation": "Breaking down dead wood is a decomposer role.\nHint: Dead material being broken down.",
-    "structuredExplanation": {
-      "summary": "Breaking down dead wood is a decomposer role.",
-      "hint": "Dead material being broken down."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Fungi that break down dead wood are decomposers. Animals such as termites help break wood into smaller material, but are not the same as fungi and bacteria.\nHint: Dead material being broken down.",
+    "structuredExplanation": {
+      "summary": "Fungi that break down dead wood are decomposers. Animals such as termites help break wood into smaller material, but are not the same as fungi and bacteria.",
+      "hint": "Dead material being broken down."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-004",
@@ -112,21 +113,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes nectar from sunlight",
-      "It is a plant in the habitat",
-      "It turns banksia flowers into rocks",
+      "It makes its own food using sunlight",
+      "It receives food only from soil",
+      "It breaks down only dead plant material",
       "It obtains energy from food made by another organism"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
     "correct": 3,
     "explanation": "The honeyeater gets energy by feeding on nectar from the plant.\nHint: It eats or drinks organism material.",
     "structuredExplanation": {
       "summary": "The honeyeater gets energy by feeding on nectar from the plant.",
       "hint": "It eats or drinks organism material."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-005",
@@ -149,16 +150,16 @@ window.skillrTestQuestions = [
       "They point from the food source to the organism that gets energy",
       "They point from predator to prey every time"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
     "correct": 2,
     "explanation": "Arrows show the direction of food and energy transfer.\nHint: Food to eater.",
     "structuredExplanation": {
       "summary": "Arrows show the direction of food and energy transfer.",
       "hint": "Food to eater."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-006",
@@ -176,21 +177,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Locusts produce sunlight",
+      "Sheep would gain pasture from every locust bite",
       "Sheep may have less grass available to eat",
-      "Sheep become decomposers",
-      "The pasture becomes a predator"
+      "Sheep would stop needing plant material",
+      "Locust feeding would never affect other plant eaters"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
     "correct": 1,
     "explanation": "Both locusts and sheep can rely on plant material, so heavy feeding can reduce available pasture.\nHint: Less producer material.",
     "structuredExplanation": {
       "summary": "Both locusts and sheep can rely on plant material, so heavy feeding can reduce available pasture.",
       "hint": "Less producer material."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-007",
@@ -213,16 +214,16 @@ window.skillrTestQuestions = [
       "Vine using sunlight",
       "Butterfly drinking nectar"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
     "correct": 0,
     "explanation": "Fungus breaking down fallen wood is acting as a decomposer.\nHint: Look for dead material decay.",
     "structuredExplanation": {
       "summary": "Fungus breaking down fallen wood is acting as a decomposer.",
       "hint": "Look for dead material decay."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-008",
@@ -241,20 +242,20 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "A web has no producers",
-      "A chain includes every organism on Earth",
-      "Only webs have living things",
+      "A chain includes every organism in one habitat",
+      "A web shows only the largest animals",
       "A simple chain shows one path, while a web includes many connected feeding paths"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
     "correct": 3,
     "explanation": "A habitat can contain many feeding relationships connected together.\nHint: One path versus many paths.",
     "structuredExplanation": {
       "summary": "A habitat can contain many feeding relationships connected together.",
       "hint": "One path versus many paths."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-009",
@@ -277,16 +278,16 @@ window.skillrTestQuestions = [
       "phytoplankton in sunlight",
       "small fish eating plankton"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
     "correct": 2,
     "explanation": "Phytoplankton can make food using sunlight, so they are producers.\nHint: Tiny producers can start aquatic chains.",
     "structuredExplanation": {
       "summary": "Phytoplankton can make food using sunlight, so they are producers.",
       "hint": "Tiny producers can start aquatic chains."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-010",
@@ -309,16 +310,16 @@ window.skillrTestQuestions = [
       "Grass",
       "Dingo"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
     "correct": 1,
     "explanation": "The wallaby is the first consumer because it eats the producer.\nHint: Who eats the plant?",
     "structuredExplanation": {
       "summary": "The wallaby is the first consumer because it eats the producer.",
       "hint": "Who eats the plant?"
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-011",
@@ -337,20 +338,20 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Dead material can build up and nutrients recycle more slowly",
-      "Plants immediately become consumers",
-      "Sunlight stops reaching Earth",
-      "All animals become producers"
+      "Dead material always breaks down faster",
+      "Producers immediately gain more recycled nutrients",
+      "No living thing uses nutrients again"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
     "correct": 0,
     "explanation": "Fewer decomposers can slow breakdown and nutrient recycling.\nHint: Think dead matter and nutrients.",
     "structuredExplanation": {
       "summary": "Fewer decomposers can slow breakdown and nutrient recycling.",
       "hint": "Think dead matter and nutrients."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-012",
@@ -359,8 +360,8 @@ window.skillrTestQuestions = [
     "skill": "producers consumers decomposers and food chains",
     "printable": true,
     "type": "single",
-    "question": "Which claim needs the strongest feeding evidence?",
-    "audioPrompt": "Which claim needs the strongest feeding evidence?",
+    "question": "Which observation most directly supports the claim that owls eat mice in this paddock?",
+    "audioPrompt": "Which observation most directly supports the claim that owls eat mice in this paddock?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -368,21 +369,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The Moon is visible tonight",
-      "The paddock has a fence",
-      "The soil is dry",
-      "Owls are eating mice in this paddock"
+      "Owls perch on a fence in the paddock",
+      "Mice leave tracks in the soil",
+      "Grass seeds are found near a mouse burrow",
+      "A night camera records an owl catching and eating a mouse"
     ],
-    "correct": 3,
-    "explanation": "A feeding claim needs observations or other evidence of the interaction.\nHint: Which is a food-chain claim?",
-    "structuredExplanation": {
-      "summary": "A feeding claim needs observations or other evidence of the interaction.",
-      "hint": "Which is a food-chain claim?"
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The camera records the feeding interaction itself. Seeing both animals nearby does not prove that one eats the other.\nHint: Which is a food-chain claim?",
+    "structuredExplanation": {
+      "summary": "The camera records the feeding interaction itself. Seeing both animals nearby does not prove that one eats the other.",
+      "hint": "Which is a food-chain claim?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-013",
@@ -400,21 +401,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The echidna gives sunlight to the ant",
-      "The acacia seed eats the ant",
+      "The ant receives food from the echidna",
+      "The echidna supplies energy to the acacia",
       "The echidna gets food and energy from the ant",
-      "The ant makes the echidna"
+      "The arrow points towards the food being eaten"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
     "correct": 2,
     "explanation": "The arrow means the echidna eats, or gains energy from, the ant.\nHint: Food source to eater.",
     "structuredExplanation": {
       "summary": "The arrow means the echidna eats, or gains energy from, the ant.",
       "hint": "Food source to eater."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-014",
@@ -437,16 +438,16 @@ window.skillrTestQuestions = [
       "Consumers only eat producers",
       "Consumers make their own food"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
     "correct": 1,
     "explanation": "Consumers are grouped by getting energy from eating, not by one diet type.\nHint: Consumer has several diet types.",
     "structuredExplanation": {
       "summary": "Consumers are grouped by getting energy from eating, not by one diet type.",
       "hint": "Consumer has several diet types."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-015",
@@ -465,20 +466,20 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Decomposition of dead material",
-      "A producer making food",
-      "A predator chasing prey",
-      "Sunlight being eaten"
+      "Production of food using sunlight",
+      "Predation on a living fish",
+      "Pollination between water plants"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
     "correct": 0,
     "explanation": "Bacteria can act as decomposers when they break down dead remains.\nHint: Dead organism broken down.",
     "structuredExplanation": {
       "summary": "Bacteria can act as decomposers when they break down dead remains.",
       "hint": "Dead organism broken down."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u01-t-016",
@@ -496,20 +497,22 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Frogs are producers",
-      "Insects are not living things",
-      "Billabongs cannot have food chains",
+      "Frogs make their own food from sunlight",
+      "Fewer insects always give frogs more food",
+      "Frogs never depend on other organisms",
       "Frogs often rely on insects as food"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
     "correct": 3,
     "explanation": "A decrease in a food source can affect consumers that eat it.\nHint: Follow insect to frog.",
     "structuredExplanation": {
       "summary": "A decrease in a food source can affect consumers that eat it.",
       "hint": "Follow insect to frog."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;
