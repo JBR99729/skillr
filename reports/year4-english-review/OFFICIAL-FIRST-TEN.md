@@ -241,4 +241,3 @@ Independent coverage implications (not quoted curriculum): Use actual original c
 ## Release limitation
 
 This report verifies official scope for the first ten codes only. Each code still needs primary IXL evidence or an explicitly documented genuine match/access gap, source-informed original drafting, separate independent review of every final bank item and all five resource surfaces, actual production PDF render review, artifact hashes, runtime checks and review-aware publication. No English code or badge is approved by this evidence-only report.
-

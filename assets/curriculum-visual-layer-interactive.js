@@ -22,6 +22,12 @@
       (document.querySelector('[data-skillr-authored-preparation="true"]') ||
        document.body?.getAttribute("data-skillr-authored-worksheet") === "true")) return;
 
+  // Only the authored AC9E4LA01 activity resources replace their legacy models.
+  if (quizMatch?.[1]?.toLowerCase() === "year-4" && quizMatch[2].toLowerCase() === "english" &&
+      /^ac9e4la01$/i.test(quizMatch[3]) &&
+      (document.querySelector('[data-skillr-authored-preparation="true"]') ||
+       document.body?.getAttribute("data-skillr-authored-worksheet") === "true")) return;
+
   const normaliseSubject = (value) => value === "math" ? "maths" : String(value || "").toLowerCase();
   const subject = normaliseSubject(topicMatch?.[2] || quizMatch?.[2] || slideMatch?.[2]);
   const code = (topicMatch?.[3] || quizMatch?.[3] || new URLSearchParams(location.search).get("code") || "").toUpperCase();

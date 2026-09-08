@@ -54,3 +54,45 @@ Target 48 meaningful Practice items and 16 independent Test items, with original
 Eight distinct homework tasks should span comparing two requests, changing group talk into a report, expertise/role-sensitive questions, inclusive invitation repair, respectful disagreement, audience-specific message writing, a brief rehearsed spoken interaction, and a source-limited protocol/permission decision. These are planning categories, not completed authored tasks or verified source observations. They must not duplicate bank questions.
 
 Pending: verified source brief; authored resources; independent every-item/content review; actual exported-PDF all-page review; artifact hashes; runtime/resource-flow QA; publication and live verification.
+
+## Source-informed authored draft checkpoint
+
+The preceding preservation-only status is superseded by this checkpoint, not by a publication approval. Read the complete root source brief `AC9E4LA01-SOURCES.md`, official evidence `OFFICIAL-FIRST-TEN.md`, runtime audit `RUNTIME-AUDIT.md`, independent mapping report `AC9E4LA01-MAPPING-REVIEW.md`, and both English-specific authoring/Topic standards before drafting. Root alone conducted IXL research. No author browsing, IXL interaction, commit, push or review-ledger mutation occurred.
+
+Saved original draft resources:
+
+- Canonical **48 Practice +16 Test**, comprising **36 selected-response +12 adult-reviewed Practice** and **12 selected-response +4 adult-reviewed Test**. Four-option keys are balanced **9/9/9/9** and **3/3/3/3** respectively. Every prompt has identical visible/audio wording; adult work has task-specific models and acceptance criteria.
+- Eight distinct code-owned homework prompts, example responses and adult checks in `worksheet/worksheet-questions.js`, mirrored in static worksheet HTML with eight response areas. The page uses the production PDF exporter, a dedicated question bank and the authored worksheet marker. All **24 prompt/model/check strings** match between data and HTML.
+- Static Topic and Classroom teaching: learning goals, vocabulary, comparison/repair models, all four elaborations, modelled group-discussion to report transformation, roles/expertise, inclusion, cultural-source limits, a practical four-step sequence, support/core/extend, misconceptions, actual Q&A and an original exit ticket. The twelve core/mapping bodies match exactly between Topic and Classroom after DOM parsing. Existing metadata, video block and related-resource journey remain; hash links resolve.
+- Root assigned code-owned Practice/Test/Review/Result/Retake/activity-hub HTML to the runtime author to work alongside this teaching/content author. Those integrations are not claimed as this author's work or independently approved here.
+
+### Coverage and performance
+
+| Scope | Teaching and original evidence |
+| --- | --- |
+| E1 — contexts/formality, discussion to report | Paired-request models; preserve-information report transformations; precision/idiom/contraction distinctions; adult requests and reports, including a same-friend role/audience transfer in T013 |
+| E2 — age, expertise, familiarity, culture | Game-captain role; younger expert/older beginner; clear requests for unfamiliar listeners; names and non-verbal conventions; actual rehearsed or written exchanges with accessible communication alternatives |
+| E3 — inclusion | Family/carer invitations, meaningful roles, quiet contributors, names, gender assumptions and respectful disagreement; original dialogue and invitation revision work |
+| E4 — First Nations Elders/greetings | Teacher-supported consultation, invited address, source/community scope, separate recording/sharing permission and no invented cultural authority; authentic preparation-note reasoning. A newly verified First Nations-led source account is being added before final teaching freeze. |
+
+### Independent corrections applied and self-checked
+
+- P023 now supplies a four-member group and two heard views, so the correct response does not invent a count.
+- P046 now identifies the visitor as a bridge engineer, supporting the model's bridge question.
+- P048 requires time consistency only if the learner includes a time; it no longer demands an unrequested detail.
+- T004/T006/T008/T011 now use closer alternatives testing contextual precision, evidence of preferred address, disagreement that preserves the actual concern, and source/permission limits. These four are marked apply/difficulty 3 rather than all Test selected-response items being recognition/difficulty 1.
+- T013 now requires authentic planning/report language for a familiar person whose audience/role context changes, rather than a ruler-for-paper noun swap.
+- W005 now has an actual four-line model dialogue and a four-line evidence check, not only a summary of what to write. JS/HTML parity was rechecked.
+- The repair model now preserves both the checking action and before-lunch deadline. The poster example states the shared large-letter/back-of-room scene before expanding the group's shorthand.
+- IXL is labelled the closest inspected Year 5 benchmark, with an explicit Year 4 boundary; Khan/other sources remain supplementary.
+- Verified mapping corrections include precise US contextual-language references, broad KS2 rather than unique Year 5, British Columbia rather than unverified Ontario, current New Zealand Phase 2 and an explicitly unverified broad India planning reference.
+
+Self-check evidence: `validate_production_question_bank.mjs` PASS for all 64 items, unique IDs and balanced positions; worksheet parity 24/24; no unresolved Topic/Classroom hash anchors; twelve mirrored teaching/mapping bodies. These do not replace independent item/content/PDF/runtime review. Final artifact hashes and approval belong in the independent review after the remaining source addition and integration settle.
+
+### Author content freeze
+
+Read `AC9E4LA01-E4-SOURCE-REVIEW.md` completely and added the verified Common Ground account to both static teaching pages. The attributed discussion explains the account's context-dependent address and connection-building examples without imposing a greeting script or personal-identity disclosure. IXL remains primary; this First Nations-published source supplies supplementary cultural evidence outside the inspected IXL skill's scope. No author claims to have conducted the independent source retrieval or any local consultation.
+
+W005's four model dialogue turns now use actual newline characters in the data and matching `white-space:pre-line` static HTML so the four turns remain visually distinct. The wording of the independently reviewed model is unchanged. After this final formatting correction, worksheet prompt/model/check parity is still 24/24, and all twelve core/mapping Topic bodies exactly match their Classroom copies. `git diff --check` is clean.
+
+Canonical bank, worksheet and teaching content are now frozen for independent final teaching/PDF recheck. The independent reviewer has separately rechecked the bank corrections and all eight homework tasks; this author does not self-approve them. Root owns final production-PDF regeneration, runtime/visual QA, reviewed publication and live verification. No English publication or Content Verified claim is made by this author checkpoint.

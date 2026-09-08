@@ -1,8 +1,8 @@
 # Year 4 English continuation queue
 
-Inventory date: 2026-09-08. Scope: **all 28 Year 4 English hub codes, sequentially one code at a time, with no five-code stopping cap**. This is an inventory and continuation plan only. Do not begin English source research or authoring until the root has verified the Science release.
+Inventory date: 2026-09-08. Long-term scope: **all 28 Year 4 English hub codes, with no five-code stopping cap**. Latest direct user priority: **start the first ten (AC9E4LA01–LA10), using multiple threads**. The current foreground owner and source/artifact checkpoint below take precedence over historical Science-hold notes. LA01 content, worksheet PDFs and scoped local integration are independently approved; main publication and live verification remain pending.
 
-## Repository evidence and baseline
+## Repository evidence and historical baseline
 
 - Current repository hub: `year4/curriculum/english/index.html`; its 28-code order agrees with the source order in `data/curriculum-units.json`.
 - Inventory metadata was read at local commit `015bd7b99256d043e71bfa7f3dd46fba9cdb7738`. Canonical banks and published Practice/Test files were counted from exact repository base `ebd9062db6928c30820fb6db4f8c003531cb1f76`; a path-scoped comparison confirms these English banks, activities, topic resources and curriculum-unit records are unchanged between those commits. The English hub had a generated metadata update, so the current working-tree hub was used for queue order.
@@ -19,7 +19,7 @@ All status columns describe this new full-resource review programme. “Pending�
 
 | Order | Code | Topic slug under `/year4/english/` | Existing Practice / Test | Repo elaborations | Research | Authoring | Independent review | Release |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | AC9E4LA01 | [ac9e4la01-language-used-to-develop-relationships-in-formal-and-informal](/year4/english/ac9e4la01-language-used-to-develop-relationships-in-formal-and-informal/) | 40 / 16 | 4 | Pending | Pending | Pending | Pending |
+| 1 | AC9E4LA01 | [ac9e4la01-language-used-to-develop-relationships-in-formal-and-informal](/year4/english/ac9e4la01-language-used-to-develop-relationships-in-formal-and-informal/) | 48 / 16 final draft | 4 | Bounded primary + supplements recorded, log v19 | Topic/Classroom + 8 homework + 64 bank items frozen | Content, all 10 PDF pages, local integration PASS | Latest-main compatibility and release pending |
 | 2 | AC9E4LA02 | [ac9e4la02-the-subjective-language-of-opinion-and-feeling-and-the-objective](/year4/english/ac9e4la02-the-subjective-language-of-opinion-and-feeling-and-the-objective/) | 40 / 16 | 2 | Pending | Pending | Pending | Pending |
 | 3 | AC9E4LA03 | [ac9e4la03-how-texts-across-the-curriculum-have-different-language](/year4/english/ac9e4la03-how-texts-across-the-curriculum-have-different-language/) | 40 / 16 | 4 | Pending | Pending | Pending | Pending |
 | 4 | AC9E4LA04 | [ac9e4la04-how-text-connectives-including-temporal-and-conditional-words](/year4/english/ac9e4la04-how-text-connectives-including-temporal-and-conditional-words/) | 40 / 16 | 3 | Pending | Pending | Pending | Pending |
@@ -50,7 +50,7 @@ All status columns describe this new full-resource review programme. “Pending�
 
 ## Required framework for every code
 
-1. After Science release verification, start with **AC9E4LA01**. Refresh repository status and retrieve the latest `svgSkillrHub-IXL-Research-Log.md` before actual English research. Reuse previous evidence only with its observed scope and date preserved.
+1. Resume the first unfinished step for **AC9E4LA01** under the active checkpoint. Refresh repository status and retrieve the latest `svgSkillrHub-IXL-Research-Log.md` before additional English research. Reuse previous evidence only with its observed scope and date preserved.
 2. Verify the exact ACARA v9 descriptor and **every elaboration**. Repository flags such as `questionEligible: false` do not make an elaboration optional for teaching coverage; choose a suitable respectful teaching/assessment form within the year boundary.
 3. Use **IXL as the primary external teaching benchmark**, in **one human-paced IXL tab**. Inspect relevant actual skill pages, opened help/worked examples and representative progression. A skill-plan listing alone is not a completed comparison. Record inaccessible or uninspected sections honestly. This inventory has not opened or verified any new English IXL source.
 4. Use Khan Academy and other suitable free resources only as **supplementary** support. Do not substitute them silently for missing IXL comparison or claim an uninspected source match. ACARA remains the curriculum authority.
@@ -69,11 +69,19 @@ Maintain this table as the durable continuation record. A completed row must poi
 
 ## Current release checkpoint — 2026-09-08
 
+### Retry checkpoint — final artifacts frozen
+
+Root remains the active foreground owner. LA01 is ready for release integration, not yet published. Independent approvals: `AC9E4LA01-INDEPENDENT-REVIEW.md`, `AC9E4LA01-PDF-INDEPENDENT.md`, `LA01-RUNTIME-INDEPENDENT.md`. All eight initial bank corrections, five teaching corrections and the four-line worksheet dialogue presentation repair have been rechecked. Canonical bank SHA-256 `2e7d171d2c19fb80e70bbd942033a3f951a6398759f911dd577f883eb5415097`. Final worksheet HTML/data/PDF identities are in the PDF report. Root reran 132 scoped safeguards and 55 actual shared-script simulated-DOM assessment cases successfully. These are not live-browser results.
+
+Research log is saved at version 19, including Parent-mode IXL progress 3 questions/SmartScore36 and the bounded Common Ground E4 account. No LA02 skill interaction has started; keep the existing single IXL tab paused. Next: preserve latest main `a72586289d1d1459c7a7931d8ce102e7e7a280bb` (complete tree `f7d59e3b45cd35a95320b0556a4076c38ac0e897`), independently recheck its new revision-card/PWA layer against LA01, run the reviewed publisher/ledger only after that compatibility gate, commit the complete tree, pass CI/Pages and live resource flow, then continue LA02. Re-read main immediately before release. LA06 has a separately independently approved narrow official-E1 factual correction only; do not record LA06 as fully reviewed.
+
+The following paragraphs preserve the earlier drafting checkpoint and are superseded by this final-artifact checkpoint where status differs.
+
 ### Latest user direction and foreground ownership
 
 The user's subsequent direct instruction is **“Start English first 10 codes same framework”**, followed by **“Use ixl, khan and other supplimentary free resources learn from example and prepare skillrhub”**. This clears the earlier Science-first hold for the first ten English codes (AC9E4LA01–LA10). The Science PDF download confirmation remains separately unresolved; it is not falsely marked complete and does not block this newly authorised English work.
 
-Foreground owner: root, workspace `/workspace/scratch/1b8e561832f8`, existing repository `/workspace/scratch/c0dec7faa19d/year4-sweep`, branch `codex/year4-english-full-review`. Active code: **AC9E4LA01**, research/pre-authoring audit. Author role: `english_la01_author`; independent curriculum/reviewer role: `english_curriculum_reviewer`. Root alone operates existing IXL tab 64. A concurrent continuation run must not research, edit these files, or open another IXL tab while this owner is active.
+Foreground owner: root, workspace `/workspace/scratch/1b8e561832f8`, existing repository `/workspace/scratch/c0dec7faa19d/year4-sweep`, branch `codex/year4-english-full-review`. Active code: **AC9E4LA01**, drafting resources and independently reviewing the saved 64-question canonical bank. Author role: `english_la01_author`; independent curriculum/reviewer role: `english_curriculum_reviewer`. Root alone operates existing IXL tab 64. A concurrent continuation run must not research, edit these files, or open another IXL tab while this owner is active.
 
 Latest source state: full source log version17 read and actual LA01 observations saved to the same log as version18. IXL's live Year4 v9 alignment plan has no LA01 link; Australian Year5 C.2 formality was inspected as a limited benchmark (worked help, correct response and deliberately incorrect Parent-mode response with corrective explanation). User restored login; Parent mode verified. Complete Khan formality transcript and relevant NSW oral-language guidance read. Exact first-ten ACARA descriptors and all 22 elaborations verified in OFFICIAL-FIRST-TEN.md. Source scope and limitations: AC9E4LA01-SOURCES.md.
 

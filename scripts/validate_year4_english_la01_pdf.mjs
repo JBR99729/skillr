@@ -77,7 +77,11 @@ assert.equal(results.length, 1);
 // A second order explicitly challenges layout with the longest stems first.
 await context.la01PdfQA.createPdf([...context.skillrWorksheetQuestions].sort((a, b) => b.question.length - a.question.length));
 for (const record of results) {
-  const printed = context.la01PdfQA.normaliseText(record.drawn.map(x => x.text).join(' ')).replace(/\s+/g, ' ');
+  // Continuation headers may legitimately interrupt a paragraph across pages.
+  // Exclude only the production running header/footer, never task/body text.
+  const bodyLines = record.drawn.filter(x => !(x.y === 17 && String(x.text).startsWith('SkillrHub · '))
+    && x.text !== 'www.skillrhub.com' && !/^Page \d+ of \d+$/.test(x.text));
+  const printed = context.la01PdfQA.normaliseText(bodyLines.map(x => x.text).join(' ')).replace(/\s+/g, ' ');
   for (const task of context.skillrWorksheetQuestions) {
     for (const field of ['question', 'correct', 'explanation']) {
       const expected = context.la01PdfQA.normaliseText(task[field]).replace(/\s+/g, ' ');

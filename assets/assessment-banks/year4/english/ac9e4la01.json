@@ -953,8 +953,8 @@
     "bank": "practice",
     "stage": "reason",
     "skill": "language_for_formal_and_informal_relationships",
-    "question": "A group leader says, “We all agree,” but two members have not been asked. Which sentence is more inclusive and accurate?",
-    "audio_prompt": "A group leader says, “We all agree,” but two members have not been asked. Which sentence is more inclusive and accurate?",
+    "question": "A group of four has heard two members’ views. The other two have not been asked. The leader says, “We all agree.” Which sentence is more inclusive and accurate?",
+    "audio_prompt": "A group of four has heard two members’ views. The other two have not been asked. The leader says, “We all agree.” Which sentence is more inclusive and accurate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1837,8 +1837,8 @@
     "bank": "practice",
     "stage": "independent",
     "skill": "language_for_formal_and_informal_relationships",
-    "question": "An adult will play a visitor who has asked to be called Dr Patel. Rehearse a greeting, a clear question about their work and a closing thanks. You may write the exchange instead. Explain one choice.",
-    "audio_prompt": "An adult will play a visitor who has asked to be called Dr Patel. Rehearse a greeting, a clear question about their work and a closing thanks. You may write the exchange instead. Explain one choice.",
+    "question": "An adult will play a bridge engineer who has asked to be called Dr Patel. Rehearse a greeting, a clear question about their work and a closing thanks. You may write the exchange instead. Explain one choice.",
+    "audio_prompt": "An adult will play a bridge engineer who has asked to be called Dr Patel. Rehearse a greeting, a clear question about their work and a closing thanks. You may write the exchange instead. Explain one choice.",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1909,7 +1909,7 @@
     "correct_index": null,
     "grading_mode": "adult-review",
     "model_answer": "Friend: “Could you help me pack these books after lunch?” Volunteer: “Hello, would you be able to help pack books after lunch? Thank you.” Clarity and the relationship matter more than word count.",
-    "acceptance_note": "Check the same book-packing task and time, two suitable messages and a context-based explanation rather than a rule that formal means long.",
+    "acceptance_note": "Check the same book-packing task, two suitable messages and a context-based explanation rather than a rule that formal means long. If a time or other detail is included, it should stay consistent between the versions.",
     "response_instructions": "Complete the actual task in writing, aloud with an adult, or using your usual communication support. An adult checks the completed evidence against the guidance.",
     "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
@@ -2058,41 +2058,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA01",
     "bank": "test",
-    "stage": "recognise",
+    "stage": "apply",
     "skill": "language_for_formal_and_informal_relationships",
-    "question": "A visitor notice replaces “The show starts pretty early” with “The show starts at 9 am.” What improves?",
-    "audio_prompt": "A visitor notice replaces “The show starts pretty early” with “The show starts at 9 am.” What improves?",
+    "question": "A visitor notice replaces “The show starts pretty early” with “The show starts at 9 am.” Which explanation is supported by this revision?",
+    "audio_prompt": "A visitor notice replaces “The show starts pretty early” with “The show starts at 9 am.” Which explanation is supported by this revision?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The notice becomes respectful only because it has a number.",
+        "text": "It tells visitors the show has moved to an earlier time.",
         "is_correct": false
       },
       {
-        "text": "The show must now start earlier than before.",
+        "text": "It makes the notice friendlier by removing an instruction.",
         "is_correct": false
       },
       {
-        "text": "The notice proves informal language is always wrong.",
+        "text": "It changes a request for information into an invitation.",
         "is_correct": false
       },
       {
-        "text": "The starting time becomes precise.",
+        "text": "It replaces a vague judgement with a precise starting time.",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The new wording gives the exact time instead of a vague judgement. It does not by itself change the event.",
-      "hint": "Compare the information, not the event."
+      "summary": "“Pretty early” is a judgement; “9 am” gives a precise time. Nothing says the event changed, and neither sentence is a request or invitation.",
+      "hint": "Check what changed in the wording, without inventing an event change."
     },
     "curriculum_coverage": [
       "E1"
     ],
-    "difficulty": 1,
+    "difficulty": 3,
     "sequence_priority": 4
   },
   {
@@ -2144,17 +2144,17 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA01",
     "bank": "test",
-    "stage": "recognise",
+    "stage": "apply",
     "skill": "language_for_formal_and_informal_relationships",
-    "question": "Your new music tutor introduces herself as Ms Chen. You do not know another preferred name. Which greeting uses the information given?",
-    "audio_prompt": "Your new music tutor introduces herself as Ms Chen. You do not know another preferred name. Which greeting uses the information given?",
+    "question": "Your new music tutor introduces herself to the class as Ms Chen. A friend says her given name is Mei. Which greeting follows the preference you have actually heard from the tutor?",
+    "audio_prompt": "Your new music tutor introduces herself to the class as Ms Chen. A friend says her given name is Mei. Which greeting follows the preference you have actually heard from the tutor?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Hello, Chen, because all titles should be removed.",
+        "text": "Hello, Mei, because my friend knows your given name.",
         "is_correct": false
       },
       {
@@ -2162,23 +2162,23 @@
         "is_correct": true
       },
       {
-        "text": "Hello, Aunty Chen, because every adult uses that title.",
+        "text": "Hello, Chen, because a surname alone must be your preference.",
         "is_correct": false
       },
       {
-        "text": "Hello, bestie, because all teachers are close friends.",
+        "text": "Hello, Ms Mei, because I can combine both introductions.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Ms Chen follows the tutor’s introduction. Do not invent familiarity or a different title.",
-      "hint": "Use the introduction actually given."
+      "summary": "The tutor introduced herself as Ms Chen. Knowing a given name does not establish permission or preference to use it; you can ask if another form is preferred.",
+      "hint": "Separate the person’s introduction from a friend’s information."
     },
     "curriculum_coverage": [
       "E2"
     ],
-    "difficulty": 1,
+    "difficulty": 3,
     "sequence_priority": 6
   },
   {
@@ -2230,41 +2230,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA01",
     "bank": "test",
-    "stage": "recognise",
+    "stage": "apply",
     "skill": "language_for_formal_and_informal_relationships",
-    "question": "A teammate proposes cardboard wheels, but you think they may bend. Which reply expresses your concern respectfully?",
-    "audio_prompt": "A teammate proposes cardboard wheels, but you think they may bend. Which reply expresses your concern respectfully?",
+    "question": "Your teammate proposes cardboard wheels. You are concerned that they may bend. Which reply keeps that concern clear while inviting a shared solution?",
+    "audio_prompt": "Your teammate proposes cardboard wheels. You are concerned that they may bend. Which reply keeps that concern clear while inviting a shared solution?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "You always choose the wrong material.",
+        "text": "Could we paint the wheels blue? I like that colour more.",
         "is_correct": false
       },
       {
-        "text": "Your idea is silly even if I say please.",
+        "text": "I’m worried the wheels may bend, so I have changed them without asking you.",
         "is_correct": false
       },
       {
-        "text": "No one should listen to you again.",
+        "text": "Could we keep the cardboard wheels because I do not want to disagree?",
         "is_correct": false
       },
       {
-        "text": "I think the wheels may bend. Could we test a stronger material?",
+        "text": "I’m worried the cardboard wheels may bend. Could we test a stronger material?",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The response discusses the material and a possible test instead of judging the person.",
-      "hint": "Disagree with the idea using a reason."
+      "summary": "The selected reply names the actual bending concern and invites a shared test. The others change the issue, act without discussion or conceal the concern.",
+      "hint": "Keep the specific concern and leave room for another view."
     },
     "curriculum_coverage": [
       "E3"
     ],
-    "difficulty": 1,
+    "difficulty": 3,
     "sequence_priority": 8
   },
   {
@@ -2359,21 +2359,21 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA01",
     "bank": "test",
-    "stage": "recognise",
+    "stage": "apply",
     "skill": "language_for_formal_and_informal_relationships",
-    "question": "An approved resource describes greetings in a named First Nations community. A classmate writes, “All First Nations Australians greet each other this way.” What revision fits the source?",
-    "audio_prompt": "An approved resource describes greetings in a named First Nations community. A classmate writes, “All First Nations Australians greet each other this way.” What revision fits the source?",
+    "question": "An approved resource describes greetings between people in one named First Nations community. A classmate writes, “All First Nations Australians greet one another this way.” Which revision best preserves what the source supports?",
+    "audio_prompt": "An approved resource describes greetings between people in one named First Nations community. A classmate writes, “All First Nations Australians greet one another this way.” Which revision best preserves what the source supports?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "This resource proves no other greetings exist.",
+        "text": "This resource describes a First Nations greeting, so the community’s name is unnecessary.",
         "is_correct": false
       },
       {
-        "text": "All communities must change to match this resource.",
+        "text": "This resource describes greetings in the named community, so it gives us permission to record every greeting.",
         "is_correct": false
       },
       {
@@ -2381,19 +2381,19 @@
         "is_correct": true
       },
       {
-        "text": "The name of the community is unimportant and should be removed.",
+        "text": "This resource describes greetings in the named community, so its convention must suit any other community we visit.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The revision preserves the source’s local scope instead of treating one account as universal.",
-      "hint": "Keep the named community and the limit of the evidence."
+      "summary": "Name the source’s community and keep its local scope. An account does not establish universal conventions or recording permission.",
+      "hint": "Keep the claim inside the evidence and permission actually given."
     },
     "curriculum_coverage": [
       "E4"
     ],
-    "difficulty": 1,
+    "difficulty": 3,
     "sequence_priority": 11
   },
   {
@@ -2447,8 +2447,8 @@
     "bank": "test",
     "stage": "independent",
     "skill": "language_for_formal_and_informal_relationships",
-    "question": "Write two requests to borrow a ruler: one to a familiar classmate and one to an unfamiliar workshop leader. Explain one change you made for the listener.",
-    "audio_prompt": "Write two requests to borrow a ruler: one to a familiar classmate and one to an unfamiliar workshop leader. Explain one change you made for the listener.",
+    "question": "Your close friend helps you plan a display, then listens while you report the group’s decision to the class. The decision is to put three labels along the bottom. Write one friendly request for help during planning and one report sentence. Explain why your language may change even though your friend is still listening.",
+    "audio_prompt": "Your close friend helps you plan a display, then listens while you report the group’s decision to the class. The decision is to put three labels along the bottom. Write one friendly request for help during planning and one report sentence. Explain why your language may change even though your friend is still listening.",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2456,13 +2456,13 @@
     "answers": [],
     "correct_index": null,
     "grading_mode": "adult-review",
-    "model_answer": "Classmate: “Can I borrow your ruler, please?” Leader: “Hello, could I please borrow a ruler for this task?” I added a greeting and purpose for the unfamiliar leader.",
-    "acceptance_note": "Require two respectful requests with the same ruler purpose and an explained audience-sensitive choice. Suitable alternative wording is valid.",
+    "model_answer": "Planning: “Could you help me line up these labels?” Report: “Our group decided to place three labels along the bottom of the display.” The report gives the whole class the decision; my role and audience changed even though my friend is there.",
+    "acceptance_note": "Require an actual cooperative planning request, a report preserving the group decision of three labels along the bottom, and an explanation based on changed purpose, role or wider audience rather than changed friendship.",
     "response_instructions": "Complete the actual task in writing, aloud with an adult, or using your usual communication support. An adult checks the completed evidence against the guidance.",
     "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Classmate: “Can I borrow your ruler, please?” Leader: “Hello, could I please borrow a ruler for this task?” I added a greeting and purpose for the unfamiliar leader.",
-      "hint": "Identify each listener and preserve the request."
+      "summary": "Planning: “Could you help me line up these labels?” Report: “Our group decided to place three labels along the bottom of the display.” The report gives the whole class the decision; my role and audience changed even though my friend is there.",
+      "hint": "Consider your role and everyone who needs to understand the report."
     },
     "curriculum_coverage": [
       "E1",
