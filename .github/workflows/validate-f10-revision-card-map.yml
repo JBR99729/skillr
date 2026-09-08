@@ -1,0 +1,36 @@
+name: Validate F-10 revision-card map
+on: push
+permissions:
+  contents: write
+jobs:
+  validate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Validate JavaScript and coverage
+        run: |
+          node --check assets/f10-revision-card.js
+          node --check assets/f10-revision-cards-data.js
+          python3 - <<'PY'
+          import json,re
+          from pathlib import Path
+          report=json.loads(Path('reports/f10-revision-card-coverage.json').read_text())
+          assert report['totalUniqueCodes']==676, report['totalUniqueCodes']
+          assert report['withExamples']==676
+          assert report['missingExamples']==0
+          js=Path('assets/f10-revision-card.js').read_text()
+          assert 'f10-revision-cards-data.js' in js
+          assert 'Remember this:' in js and 'Worked example:' in js and 'Don’t lose marks here:' in js
+          print('validated', report['totalUniqueCodes'], 'codes')
+          PY
+      - name: Remove temporary workflow
+        run: |
+          rm .github/workflows/validate-f10-revision-card-map.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add .github/workflows/validate-f10-revision-card-map.yml
+          git commit -m 'chore: remove revision-card validation workflow'
+          git push origin HEAD:${{ github.ref_name }}
