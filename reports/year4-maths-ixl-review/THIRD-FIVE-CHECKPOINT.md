@@ -2,6 +2,18 @@
 
 Date: 2026-09-08. Codes: AC9M4A02 and AC9M4M01–M04. This is a draft checkpoint, not a fully verified main release. The previous five codes were published to main at `c3a1073ccf167a3153c1528a079125a7c144cf48` under the owner's subsequent instruction; their source audit remains pending as recorded separately.
 
+## Resume status — 8 September 2026
+
+PR #819 remains a draft. Latest fetched main is `348109b09c055ee54a56abf74ef77b3f27d6ba1c`; original remote draft head is `a37a42d6454aa8623a68eced97ad4c51ae9683b3`. The current Library research log remains version 17 (43,357 bytes); its historical Year 3 queue is superseded by the owner's explicit Year 4 request.
+
+**Newly completed:** independent original ALFA PDF download, text and visual inspection confirms the narrow Mimal Ranger context. It exposed the printed-page citation error **58–59 → 56–57**. Root corrected only the Topic/Classroom citations and source-observation record; the independent source reviewer rechecked exact final bytes. See `AC9M4M02-ALFA-INDEPENDENT-RESUME.md`. The older ALFA HOLD statements below and in earlier reports are historical and superseded by this narrow PASS.
+
+**Still blocked:** actual IXL worked help and representative progression, supplementary Khan lesson content, and live-browser interaction. Browser selection and tab listing succeeded; reading an existing IXL tab and one fresh-tab recovery each failed with `CDP operation get tabs timed out after 20000ms`, before IXL page content or a sign-in form was reached. No expired-login, IXL outage, rate limit or bot-block diagnosis is established. Public IXL retrieval exposed only navigation for A02, M03 and M04; M01/M02 retrieval failed. Five Khan primary opens returned zero readable lesson lines. Neither public retrieval establishes the user's browser login state.
+
+See `THIRD-FIVE-KHAN-RESUME.md` for exact supplementary continuation targets and `THIRD-FIVE-RESUME-RELEASE-AUDIT.md` for independent artifact/release checks. All five original banks, homework tasks and PDF identities are unchanged. No reviewed-publisher/ledger action is taken while the source holds remain; Year 4 Maths stays at five of 23 recorded codes, badge off. Year 3 English and unrelated complete-main content are preserved. The next five remain queued until this batch is finished, as requested.
+
+This continuation is saved on the existing draft branch, with complete-tree integrity and current draft Actions checked separately. It is not a main release, Pages deployment or live-browser sign-off.
+
 Three parallel authors and three separate independent reviewers completed this batch's local content work. Each bank has 48 Practice and 16 Test items: 320 total, including 39 tasks requiring actual written or practical work and adult review. Every question, choice, key, explanation, hint, audio field and model was inspected and corrections rechecked. All 281 multiple-choice items have four choices. The independent reports identify the final bank and resource bytes; counts and structural passes are not used as content approval.
 
 All five Topic Guides and native Classroom Views have substantive teaching, worked models, complete curriculum elaboration coverage, guided tasks with answers, misconceptions, support/extension and exit checks. Each code has eight separately authored, self-contained homework tasks with complete answer criteria. The established free, no-account resource flow and shared design are preserved. An existing local adult-response helper keeps practical work pending and unscored until an adult checks it.
