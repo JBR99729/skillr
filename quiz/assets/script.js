@@ -29,3 +29,13 @@ if (window.quizConfig && /\/(?:practice|test)(?:\/index\.html|\/?)$/i.test(windo
 }
 
   document.write('<script src="/quiz/assets/script-runtime-v115.js?v=20260906-five-item-shuffle-v1"><\/script>');
+
+// skillr-companions: shared brand and optional learning navigation
+(function () {
+  if (window.__skillrCompanionLoaderRequested) return;
+  window.__skillrCompanionLoaderRequested = true;
+  var script = document.createElement('script');
+  script.src = '/assets/companions/loader.js?v=20260909-1';
+  script.defer = true;
+  document.head.appendChild(script);
+}());

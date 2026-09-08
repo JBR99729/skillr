@@ -1,5 +1,5 @@
-const CACHE_NAME = "skillrhub-pwa-v21";
-const STATIC_CACHE_NAME = "skillrhub-static-v19";
+const CACHE_NAME = "skillrhub-pwa-v22";
+const STATIC_CACHE_NAME = "skillrhub-static-v20";
 
 const OFFLINE_FILES = [
   "/offline.html",
@@ -115,6 +115,7 @@ self.addEventListener("fetch", (event) => {
     url.origin === self.location.origin &&
     (
       url.pathname === "/assets/unavailable-activity-paths.json" ||
+      url.pathname.startsWith("/assets/companions/") ||
       request.destination === "script" &&
       (
       url.pathname === "/pwa-register.js" ||
@@ -124,6 +125,8 @@ self.addEventListener("fetch", (event) => {
       url.pathname === "/assets/lower-materials-lessons.js" ||
       url.pathname === "/assets/lower-materials-render.js" ||
       url.pathname === "/share-button.js" ||
+      url.pathname === "/assets/resource-links.js" ||
+      url.pathname === "/assets/homework-page-runtime.js" ||
       url.pathname === "/assets/home-search.js" ||
       url.pathname === "/assets/progress-store.js" ||
       url.pathname === "/dashboard/script.js" ||

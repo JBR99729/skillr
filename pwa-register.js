@@ -127,3 +127,13 @@
   script.defer = true;
   document.head.appendChild(script);
 }());
+
+// skillr-companions: shared brand and optional learning navigation
+(function () {
+  if (window.__skillrCompanionLoaderRequested) return;
+  window.__skillrCompanionLoaderRequested = true;
+  var script = document.createElement('script');
+  script.src = '/assets/companions/loader.js?v=20260909-1';
+  script.defer = true;
+  document.head.appendChild(script);
+}());
