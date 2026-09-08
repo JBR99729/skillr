@@ -15,6 +15,16 @@
 
 ## Remaining publication gates
 
+### PR827 CI hold
+
+PR827 is open and not merged. Initial head `e000d20917170fe311722065b529eb95e532f0fc` and latest-main-preserving head `b1cdd4d23d1d7a7ed767344611bb073a21b50939` both passed seven of nine workflows: release integrity, static curriculum architecture, question-bank quality, progressive ordering, topic layout, static-site audit and Years1–7 resource audit. The English static workflow fails on 118 pre-existing Year6–10 `Homework` labels, with no Year4 failures in its full-tree CI log. Those topic pages and the validator are not changed by this PR. First evidence: https://github.com/JBR99729/skillr/actions/runs/34243171719/job/102118278747 . Fixing those118 pages exceeds this Year4 code batch; no bypass or unrelated edits are authorised here.
+
+The optional-video workflow's separate one-page drift is LA01's Quick Learning read link. Adding the reviewed `id="topic-guide"` made that the shared builder's preferred anchor. Root corrected only that href from `#skillr-written-lesson` to `#topic-guide`, without changing teaching text or video content. Final Topic hash and independent correction verification are in `AC9E4LA01-VIDEO-LINK-RECHECK.md`; all other content/PDF hashes remain unchanged. A fresh CI run will verify the full-tree video output.
+
+The release is paused before main merge/Pages/live verification. No English main release or live download success is claimed. Preserve the complete draft and request owner direction for the existing out-of-batch label failures. Resume at this publication gate, then proceed to LA02 only after the current code's release is completed.
+
+The existing scheduled continuation was paused after this non-transient scope blocker was confirmed, preventing repeated blocked runs or a duplicate researcher. It is not marked complete. Resume after the owner authorises/resolves the out-of-batch label check and preserves this checkpoint.
+
 Latest-main refresh: `cec61bbafcfa350fa3ca629033bf61eea408be36`, complete tree `82123dccdfb3692a6e8cd123eeff551833c81d1b`, is now merged and its later revision-card map changes preserved. Independent final six-case compatibility PASS is appended to `LA01-RUNTIME-INDEPENDENT.md`; unrelated map contents are not claimed as reviewed by this English release. The final candidate includes this release report, so its file count is 18,696 against latest-main 18,675, with zero deletions.
 
 Save the complete candidate tree to the existing non-forced branch, verify expected head and latest main, pass required CI, merge through the normal PR workflow, verify Pages, then exercise live homepage and LA01 Topic → Classroom → Worksheet → Practice → Test journey. Record actual live observations, including any download-event limitation without treating a timeout as success. Only then mark release complete and advance to LA02's first unreviewed primary-source interaction in the existing single IXL tab.
