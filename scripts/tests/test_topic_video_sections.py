@@ -84,9 +84,36 @@ class VideoSections(unittest.TestCase):
 
     def test_damaged_markers_stop_the_update(self):
         for source in (builder.START, builder.END + builder.START,
-                       builder.START + builder.START + builder.END + builder.END):
+                       builder.START + builder.START + builder.END + builder.END,
+                       builder.SHORTCUT_START, builder.SHORTCUT_END + builder.SHORTCUT_START):
             with self.assertRaises(ValueError):
                 builder.update_source(source, "new")
+
+    def test_redirects_resolve_to_the_same_lesson_without_changing_files(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            alias = root / "year9/science/ac9s9u01-old/index.html"
+            target = root / "year9/science/ac9s9u01-new/index.html"
+            alias.parent.mkdir(parents=True)
+            target.parent.mkdir(parents=True)
+            original = '<html><head></head><body><h1>Keep this lesson</h1></body></html>'
+            target.write_text(original)
+            unit = {"code": "AC9S9U01", "url": "/year9/science/ac9s9u01-old/"}
+            def redirect(destination):
+                return (f'<link rel="canonical" href="https://skillrhub.com{destination}">'
+                        f'<meta http-equiv="refresh" content="0; url={destination}">')
+            alias_text = redirect('/year9/science/ac9s9u01-new/')
+            alias.write_text(alias_text)
+            with patch.object(builder, "ROOT", root):
+                self.assertEqual([p for p, _ in builder.topic_sources(unit)], [alias, target])
+                self.assertEqual(alias.read_text(), alias_text)
+                self.assertEqual(target.read_text(), original)
+                alias.write_text(redirect('/year9/science/ac9s9u02-other/'))
+                with self.assertRaises(ValueError):
+                    builder.topic_sources(unit)
+                alias.write_text(redirect('/year9/science/ac9s9u01-old/'))
+                with self.assertRaises(ValueError):
+                    builder.topic_sources(unit)
 
     def test_player_is_optional_static_and_does_not_preload_youtube(self):
         _, videos = self.load([{**self.row, "title": '<script>alert("test")</script>'}])

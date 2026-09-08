@@ -1,9 +1,14 @@
-/* Optional video resources. No layout rules outside the video section. */
+/* Optional video resources and their supporting in-page navigation. */
+.skillr-video-shortcut { display: flex; flex-wrap: wrap; align-items: baseline; gap: .25rem .5rem; margin: .8rem 0 0; font-size: .95rem; line-height: 1.6; }
+.skillr-video-shortcut a { color: #0756a4; font-weight: 650; text-decoration: underline; text-underline-offset: .15em; }
+#skillr-written-lesson, #skillr-video-explanation { scroll-margin-top: 1.5rem; }
 .skillr-topic-videos { grid-column: 1 / -1; }
 .skillr-video-card { margin: 1rem 0; border: 1px solid #cddbe8; border-radius: .65rem; padding: .85rem; }
 .skillr-video-card > summary { cursor: pointer; font-weight: 650; }
 .skillr-video-card > summary:focus-visible,
 .skillr-video-notice > summary:focus-visible,
+.skillr-video-shortcut a:focus-visible,
+.skillr-topic-videos a:focus-visible,
 .skillr-video-load:focus-visible { outline: 3px solid #0756a4; outline-offset: 4px; }
 .skillr-video-card p { line-height: 1.6; }
 .skillr-video-load { display: inline-block; padding: .65rem .85rem; border-radius: .4rem; background: #0756a4; color: #fff; font-weight: 650; text-decoration: none; }
@@ -13,5 +18,5 @@
 .skillr-video-notice { border-top: 1px solid #cddbe8; margin-top: 1rem; padding-top: .85rem; font-size: .9rem; }
 .skillr-video-notice > summary { cursor: pointer; font-weight: 600; }
 @media print {
-  .skillr-topic-videos { display: none !important; }
+  .skillr-topic-videos, .skillr-video-shortcut { display: none !important; }
 }

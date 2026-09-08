@@ -15,11 +15,16 @@ import sys
 from collections import defaultdict
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import parse_qs, quote, urlencode, urlsplit
+from urllib.parse import parse_qs, quote, urlencode, urljoin, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 START = "<!-- skillr-topic-videos:start -->"
 END = "<!-- skillr-topic-videos:end -->"
+SHORTCUT_START = "<!-- skillr-video-shortcut:start -->"
+SHORTCUT_END = "<!-- skillr-video-shortcut:end -->"
+SHORTCUT = (SHORTCUT_START + '<p class="skillr-video-shortcut" id="skillr-written-lesson">'
+            '<span>Need another explanation?</span> '
+            '<a href="#skillr-video-explanation">Watch a video</a></p>' + SHORTCUT_END)
 STYLE = '<link rel="stylesheet" href="/assets/css/topic-videos.css">'
 FIELDS = ["codes", "video_url", "title", "creator", "min_year", "max_year",
           "focus", "watch_prompt", "after_watching", "source_url", "review_note"]
@@ -41,19 +46,35 @@ def video_id(url: str) -> str:
 
 
 class MainBoundary(HTMLParser):
-    """Locate the first main closing tag without reserialising the document."""
+    """Locate lesson boundaries without reserialising the document."""
     def __init__(self, source: str):
         super().__init__(convert_charrefs=False)
         self.source = source
         self.line_offsets = [0]
         self.line_offsets.extend(m.end() for m in re.finditer("\n", source))
         self.close = None
+        self.heading_end = None
+        self.hero_close = None
+        self.canonical = None
+        self.refresh = None
         self.feed(source)
 
+    def handle_starttag(self, tag, attrs):
+        attrs = dict(attrs)
+        if tag == "link" and "canonical" in attrs.get("rel", "").lower().split():
+            self.canonical = attrs.get("href")
+        if tag == "meta" and attrs.get("http-equiv", "").lower() == "refresh":
+            self.refresh = attrs.get("content", "")
+
     def handle_endtag(self, tag):
+        line, column = self.getpos()
+        point = self.line_offsets[line - 1] + column
         if tag == "main" and self.close is None:
-            line, column = self.getpos()
-            self.close = self.line_offsets[line - 1] + column
+            self.close = point
+        if tag == "h1" and self.heading_end is None:
+            self.heading_end = self.source.index(">", point) + 1
+        if tag == "header" and self.heading_end is not None and self.hero_close is None:
+            self.hero_close = point
 
 
 def load_rows():
@@ -95,6 +116,35 @@ def load_rows():
                 if len(videos[code]) > 5:
                     raise ValueError(f"{code} has more than five videos")
     return by_code, videos
+
+
+def topic_sources(unit):
+    """Follow existing, agreeing same-code redirects without changing routing."""
+    url = "https://skillrhub.com" + unit["url"]
+    prefix = unit["url"].rsplit("/", 2)[0] + "/" + unit["code"].lower() + "-"
+    sources = []
+    visited = set()
+    while url not in visited:
+        visited.add(url)
+        parsed = urlsplit(url)
+        if (parsed.scheme != "https" or parsed.netloc != "skillrhub.com"
+                or parsed.query or parsed.fragment or not parsed.path.startswith(prefix)
+                or not parsed.path.endswith("/") or ".." in parsed.path.split("/")):
+            raise ValueError(f"Invalid same-code topic destination for {unit['code']}: {url}")
+        path = ROOT / (parsed.path.lstrip("/") + "index.html")
+        source = path.read_bytes().decode("utf-8")
+        sources.append((path, source))
+        boundary = MainBoundary(source)
+        if boundary.refresh is None:
+            return sources
+        match = re.fullmatch(r"\s*0\s*;\s*url\s*=\s*(.*?)\s*", boundary.refresh, re.IGNORECASE)
+        if not match or not boundary.canonical:
+            raise ValueError(f"Unclear topic redirect for {unit['code']}: {path}")
+        target = urljoin(url, match[1].strip("\"'"))
+        if target != urljoin(url, boundary.canonical):
+            raise ValueError(f"Redirect and canonical disagree for {unit['code']}: {path}")
+        url = target
+    raise ValueError(f"Topic redirect loop for {unit['code']}")
 
 
 def section(code, videos):
@@ -143,8 +193,9 @@ def section(code, videos):
         )
     return (START + '\n<details class="curriculum-topic-section skillr-topic-videos" id="topic-videos">'
             '<summary><strong>Watch an explanation</strong></summary><div class="curriculum-detail-body">'
-            '<p>Optional videos to support this lesson. Choose an explanation, then try the short task. '
+            '<p id="skillr-video-explanation" tabindex="-1">Optional videos to support this lesson. Choose an explanation, then try the short task. '
             'The written lesson and practice resources also work without video.</p>'
+            '<p><a href="#skillr-written-lesson">Back to the lesson</a></p>'
             + "".join(cards) +
             '<details class="skillr-video-notice"><summary>About these videos</summary>'
             '<p>These videos are provided by independent creators and played through YouTube. '
@@ -159,13 +210,19 @@ def section(code, videos):
             '</div></details>\n' + END)
 
 
-def without_owned_block(source):
-    if source.count(START) != source.count(END) or source.count(START) > 1:
+def remove_marked_block(source, start, end):
+    if source.count(start) != source.count(end) or source.count(start) > 1:
         raise ValueError("Ambiguous or damaged video section markers")
-    if START in source:
-        if source.index(END) < source.index(START):
+    if start in source:
+        if source.index(end) < source.index(start):
             raise ValueError("Video section end marker precedes its start")
-        source = source[:source.index(START)] + source[source.index(END) + len(END):]
+        source = source[:source.index(start)] + source[source.index(end) + len(end):]
+    return source
+
+
+def without_owned_block(source):
+    source = remove_marked_block(source, START, END)
+    source = remove_marked_block(source, SHORTCUT_START, SHORTCUT_END)
     return source.replace(STYLE, "")
 
 
@@ -173,6 +230,7 @@ def update_source(source, block):
     clean = without_owned_block(source)
     if not block:
         return clean
+    source = remove_marked_block(source, SHORTCUT_START, SHORTCUT_END)
     if source.count(START) == 1:
         result = source[:source.index(START)] + block + source[source.index(END) + len(END):]
     else:
@@ -183,6 +241,11 @@ def update_source(source, block):
         if point is None:
             raise ValueError("No safe insertion point; lesson left untouched")
         result = clean[:point] + block + clean[point:]
+    boundary = MainBoundary(result)
+    shortcut_point = boundary.hero_close if boundary.hero_close is not None else boundary.heading_end
+    if shortcut_point is None:
+        raise ValueError("No lesson heading for video shortcut; lesson left untouched")
+    result = result[:shortcut_point] + SHORTCUT + result[shortcut_point:]
     if STYLE not in result:
         if result.count("</head>") != 1:
             raise ValueError("Expected one head; lesson left untouched")
@@ -199,10 +262,14 @@ def main():
     by_code, videos = load_rows()
     outputs = []
     for code, unit in by_code.items():
-        path = ROOT / (unit["url"].lstrip("/") + "index.html")
-        if not path.is_file():
-            raise ValueError(f"Canonical topic missing: {path}")
-        source = path.read_bytes().decode("utf-8")
+        sources = topic_sources(unit)
+        for alias, alias_source in sources[:-1]:
+            # Redirect stubs carry no teaching content. Remove only our old
+            # supplement, retaining all routing metadata and existing wording.
+            cleaned = without_owned_block(alias_source)
+            if cleaned != alias_source:
+                outputs.append((alias, cleaned))
+        path, source = sources[-1]
         result = update_source(source, section(code, videos[code]) if videos[code] else "")
         if source != result:
             outputs.append((path, result))
