@@ -108,6 +108,14 @@
   legacy.src = "/assets/pwa-register-legacy.js?v=20260908-navigation";
   legacy.async = false;
   document.head.appendChild(legacy);
+
+  // Teacher-style F-10 Practice/Test revision card.
+  if (/^\/quiz\/(?:grade-k|year-(?:[1-9]|10))\/(?:math|maths|science|english)\/ac9[a-z0-9]+\/(?:practice|test)\/?$/i.test(path)) {
+    const revision = document.createElement("script");
+    revision.src = "/assets/f10-revision-card.js?v=20260909-2";
+    revision.defer = true;
+    document.head.appendChild(revision);
+  }
 })();
 
 // Shared optional resource navigation; guarded across multiple page helpers.
