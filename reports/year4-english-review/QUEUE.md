@@ -67,3 +67,10 @@ The complete queue requires **28 reviewed resource bundles**, at least **1,344 P
 
 Maintain this table as the durable continuation record. A completed row must point to inspected-source notes, independent approval and release verification. The subject badge may activate only after the required ledger records all 28 hub codes. No English resource, shared runtime or publication state has been changed by this inventory task.
 
+## Current release checkpoint — 2026-09-08
+
+- Owner: root is completing the preceding Science release in PR826 on `codex/year4-science-final-six`. Do not launch a concurrent English researcher or another IXL tab while this release checkpoint is active.
+- Science content and all six independent reviews are complete. PR head `2f6c375620cb6f28b7b0b3bff6156bdfdf9f63b8` passed 13 of 14 workflow runs, including the full static-site audit, Science flow and release integrity. It is not yet merged or verified live.
+- The remaining Foundation static validator rejects the existing robots/canonical tag syntax on nine Classroom Views. Inspection confirms the metadata is semantically present; a narrowly scoped author/reviewer repair normalizes only those two existing tags per file to satisfy the unchanged validator. Evidence is in `reports/year4-science-review/FOUNDATION-METADATA-GATE-FIX.md`; the repaired candidate still requires full CI. No Foundation teaching rewrite is authorised.
+- English research, authoring, independent review and publication remain **0/28**. Resume at **AC9E4LA01**, first by verifying the Science merge, required CI, Pages and live 12/12 badge/resources; then refresh the source log before research. No IXL English observation has been performed or claimed.
+- This checkpoint has no five-code limit: after each completed English code, continue to the next row until all 28 are finished. Record the actual release evidence and replace this active release ownership note when Science is verified.
