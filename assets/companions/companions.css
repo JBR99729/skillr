@@ -36,6 +36,7 @@
 .skillr-companions__stepbar>.skillr-companion-avatar{width:38px;height:53px}
 .skillr-companions__stepbar>span:not(.skillr-companion-avatar){flex:1 1 180px;color:#174555}
 .skillr-companions__stepbar [hidden]{display:none!important}
+.skillr-companions__replay{padding:12px 16px;margin:12px 0;border-left:4px solid #087e8b;border-radius:6px;background:#eaf7f6;color:#174555;font:600 1rem/1.6 system-ui,sans-serif}
 .skillr-companion-current{outline:2px solid #43979d!important;outline-offset:5px;scroll-margin-top:24px}
 .skillr-companion-current:focus{outline:3px solid #087e8b!important}
 .skillr-companions__caption{font:500 .75rem/1.4 system-ui,sans-serif;color:#46606a}
@@ -46,6 +47,12 @@
 .skillr-companion-story{display:grid;grid-template-columns:minmax(160px,270px) minmax(0,1fr);gap:24px;align-items:center}
 .skillr-companion-story img{display:block;width:100%;height:auto;border-radius:16px}
 .skillr-companion-story p{font-size:1rem;line-height:1.65}
+.skillr-companion-story-toggle>summary{display:flex;align-items:center;justify-content:space-between;gap:16px;cursor:pointer;list-style:none;padding:12px 0}
+.skillr-companion-story-toggle>summary::-webkit-details-marker{display:none}
+.skillr-companion-story-toggle>summary h2{margin:0}
+.skillr-companion-story-toggle>summary::after{content:'';width:10px;height:10px;flex-shrink:0;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg);margin:0 8px 6px}
+.skillr-companion-story-toggle[open]>summary::after{transform:rotate(225deg);margin-top:8px}
+.skillr-companion-story-toggle>summary:focus-visible{outline:3px solid #087e8b;outline-offset:4px;border-radius:4px}
 @media(max-width:620px){.skillr-companion-story{grid-template-columns:1fr}.skillr-companion-story img{max-width:260px;margin:auto}}
 @media print{.skillr-companion-message-badge{display:none!important}}
 @media(max-width:620px){.skillr-companions{grid-template-columns:86px minmax(0,1fr);gap:10px;padding:14px 12px;border-radius:12px}.skillr-companion-avatar{width:43px;height:60px}.skillr-companions--home{grid-template-columns:106px minmax(0,1fr)}.skillr-companions--home .skillr-companion-avatar{width:53px;height:74px}.skillr-companions--quiet{grid-template-columns:60px minmax(0,1fr)}.skillr-companions--quiet .skillr-companion-avatar{width:30px;height:42px}.skillr-companions--sensitive,.skillr-companions--collapsed{grid-template-columns:minmax(0,1fr)}.skillr-companions__actions{gap:7px}.skillr-companions__title{font-size:1.06rem!important}.skillr-companions__toggle{margin-left:0!important}}

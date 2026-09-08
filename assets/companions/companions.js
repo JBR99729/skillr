@@ -22,7 +22,7 @@
     let guideIndex = -1, running = false, lastQuestion = '', previousTarget = null;
     const originalTabindex = new Map();
     const openState = new Map();
-    let stepbar = null;
+    let stepbar = null, replayNotice = null;
     const steps = [];
     const panel = element('section', 'skillr-companions');
     panel.id = 'skillr-companions';
@@ -138,6 +138,8 @@
       previousTarget = null;
       if (stepbar) stepbar.remove();
       stepbar = null;
+      if (replayNotice) replayNotice.remove();
+      replayNotice = null;
     }
     function restore() {
       clearTarget();
@@ -157,7 +159,10 @@
       target.focus({ preventScroll: true });
       target.scrollIntoView({ behavior: 'auto', block: 'start' });
     }
-    function showStep(index) {
+    function repeatStep() {
+      showStep(Math.min(guideIndex, steps.length - 1), true);
+    }
+    function showStep(index, repeat = false) {
       if (!steps.length) return;
       if (!running) document.querySelectorAll('details').forEach(node => openState.set(node, node.open));
       running = true; clearTarget(); guideIndex = Math.max(0, Math.min(index, steps.length));
@@ -172,9 +177,9 @@
       eyebrow.textContent = speaker + ' · Step ' + (guideIndex + 1) + ' of ' + steps.length;
       heading.textContent = step.label;
       message.textContent = config.prompts[step.kind] || config.prompts.next;
+      if (repeat) message.textContent = 'Let’s look again: ' + step.label + '. ' + message.textContent;
       buttons.start.hidden = true; buttons.previous.hidden = false; buttons.next.hidden = false; buttons.again.hidden = false;
       buttons.previous.disabled = guideIndex === 0; buttons.next.disabled = false;
-      reveal(step.target);
       stepbar = element('div', 'skillr-companions__stepbar');
       stepbar.setAttribute('aria-label', speaker + ' guided step controls');
       const avatar = element('span', 'skillr-companion-avatar');
@@ -182,11 +187,21 @@
       paintAvatar(avatar, guideIndex % 2 ? 'vani' : 'ben', ctx.band);
       if (ctx.sensitive) avatar.hidden = true;
       const status = element('span', '', speaker + ' · Step ' + (guideIndex + 1) + '/' + steps.length + '. ' + message.textContent);
-      const again = element('button', '', 'Show me again'); again.type = 'button'; again.onclick = () => showStep(guideIndex);
+      const again = element('button', '', 'Show me again'); again.type = 'button'; again.onclick = repeatStep;
       const next = element('button', '', guideIndex === steps.length - 1 ? 'Finish guided steps' : 'Next step'); next.type = 'button'; next.onclick = () => showStep(guideIndex + 1);
       stepbar.append(avatar, status, again, next);
       if (['DETAILS','LI'].includes(step.target.tagName)) step.target.appendChild(stepbar);
       else step.target.after(stepbar);
+      if (repeat) {
+        // Put replay feedback beside the authored content, where the learner returns.
+        replayNotice = element('p', 'skillr-companions__replay', speaker + ' · ' + message.textContent);
+        replayNotice.setAttribute('role', 'status');
+        const summary = step.target.querySelector(':scope > summary');
+        if (step.target.tagName === 'DETAILS' && summary) summary.after(replayNotice);
+        else step.target.prepend(replayNotice);
+      }
+      // Scroll only after inserting controls/feedback, so layout changes cannot hide the start.
+      reveal(step.target);
     }
     function independent() {
       restore(); heading.textContent = 'Work at your own pace';
@@ -198,7 +213,7 @@
       button('start', 'Guide me', () => showStep(0));
       button('previous', 'Previous step', () => showStep(guideIndex - 1)).hidden = true;
       button('next', 'Next step', () => showStep(guideIndex + 1)).hidden = true;
-      button('again', 'Show me again', () => showStep(Math.min(guideIndex, steps.length - 1))).hidden = true;
+      button('again', 'Show me again', repeatStep).hidden = true;
       button('independent', 'Let me try', independent);
     }
     const practiceLink = Array.from(document.querySelectorAll('a[href]')).find(a => {
