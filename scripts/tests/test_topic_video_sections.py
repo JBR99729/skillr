@@ -82,6 +82,16 @@ class VideoSections(unittest.TestCase):
             self.load(six)
         self.assertEqual(len(self.load(six[:5])[1]["AC9MFN01"]), 5)
 
+    def test_old_stylesheet_is_replaced_and_video_link_targets_inner_content(self):
+        _, videos = self.load([self.row])
+        source = ('<html><head><link rel="stylesheet" href="/assets/css/topic-videos.css">'
+                  '</head><body><header><h1>Topic</h1></header><main>Keep lesson.</main></body></html>')
+        result = builder.update_source(source, builder.section('AC9MFN01', videos['AC9MFN01']))
+        self.assertEqual(result.count('/assets/css/topic-videos.css'), 1)
+        self.assertIn(builder.STYLE, result)
+        self.assertIn('href="#skillr-video-explanation">Jump to Video', result)
+        self.assertEqual(builder.without_owned_block(result), builder.without_owned_block(source))
+
     def test_quick_learning_without_video_and_intro_position(self):
         original = ('<html><head></head><body><header><h1>Topic</h1>'
                     '<p class="curriculum-hero__lead">Introduction</p>'

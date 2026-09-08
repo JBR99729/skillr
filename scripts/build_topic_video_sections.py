@@ -25,7 +25,8 @@ SHORTCUT_END = "<!-- skillr-video-shortcut:end -->"
 SHORTCUT = (SHORTCUT_START + '<p class="skillr-video-shortcut" id="skillr-written-lesson">'
             '<span>Need another explanation?</span> '
             '<a href="#skillr-video-explanation">Watch a video</a></p>' + SHORTCUT_END)
-STYLE = '<link rel="stylesheet" href="/assets/css/topic-videos.css">'
+STYLE = '<link rel="stylesheet" href="/assets/css/topic-videos.css?v=20260908-responsive1">'
+STYLE_RE = re.compile(r'<link rel="stylesheet" href="/assets/css/topic-videos\.css(?:\?v=[A-Za-z0-9-]+)?">')
 FIELDS = ["codes", "video_url", "title", "creator", "min_year", "max_year",
           "focus", "watch_prompt", "after_watching", "source_url", "review_note"]
 
@@ -174,14 +175,14 @@ def quick_learning(source, has_video):
     links = learning_links(source)
     items = [('lesson', '📖 Read the SkillrHub lesson')]
     if has_video:
-        links['video'] = '#topic-videos'
+        links['video'] = '#skillr-video-explanation'
         items.append(('video', '🎥 Watch the optional video lesson'))
     items += [('practice', "📝 Practise what you've learnt"), ('test', '✅ Test your understanding')]
     navigation = ''.join(f'<li><a href="{html.escape(links[key], quote=True)}">{label}</a></li>'
                          for key, label in items if links.get(key))
     teaser = ('<aside class="skillr-video-shortcut"><strong>▶ Prefer learning by watching?</strong>'
               '<p>Watch a carefully selected short optional lesson to reinforce the SkillrHub explanation. '
-              '<a href="#topic-videos">Jump to Video</a></p></aside>') if has_video else ''
+              '<a href="#skillr-video-explanation">Jump to Video</a></p></aside>') if has_video else ''
     return (SHORTCUT_START + '<nav class="skillr-quick-learning" aria-label="Quick Learning">'
             '<h2>Quick Learning</h2><ul>' + navigation + '</ul>'
             '<p>Estimated lesson time: 10–20 minutes. Work at your own pace.</p></nav>'
@@ -272,7 +273,7 @@ def remove_marked_block(source, start, end):
 def without_owned_block(source):
     source = remove_marked_block(source, START, END)
     source = remove_marked_block(source, SHORTCUT_START, SHORTCUT_END)
-    return source.replace(STYLE, "")
+    return STYLE_RE.sub("", source)
 
 
 def update_source(source, block, include_quick=False):
@@ -280,6 +281,7 @@ def update_source(source, block, include_quick=False):
     if not block and not include_quick:
         return clean
     source = remove_marked_block(source, SHORTCUT_START, SHORTCUT_END)
+    source = STYLE_RE.sub("", source)
     if source.count(START) == 1:
         result = source[:source.index(START)] + block + source[source.index(END) + len(END):]
     else:
