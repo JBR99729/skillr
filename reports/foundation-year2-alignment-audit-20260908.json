@@ -1,0 +1,2040 @@
+[
+  {
+    "year": "Foundation",
+    "subject": "maths",
+    "code": "AC9MFA01",
+    "topic": "foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/index.html",
+    "classroom": "foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/math/ac9mfa01/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "maths",
+    "code": "AC9MFM01",
+    "topic": "foundation/maths/ac9mfm01-and-compare-attributes-of-objects-and-events-including-length/index.html",
+    "classroom": "foundation/maths/ac9mfm01-and-compare-attributes-of-objects-and-events-including-length/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/math/ac9mfm01/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "maths",
+    "code": "AC9MFM02",
+    "topic": "foundation/maths/ac9mfm02-sequence-days-of-the-week-and-times-of-the-day/index.html",
+    "classroom": "foundation/maths/ac9mfm02-sequence-days-of-the-week-and-times-of-the-day/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/math/ac9mfm02/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "maths",
+    "code": "AC9MFN01",
+    "topic": "foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/index.html",
+    "classroom": "foundation/maths/ac9mfn01-name-represent-and-order-numbers-including-zero-to-at-least/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/math/ac9mfn01/worksheet/index.html",
+    "flags": []
+  },
+  {
+    "year": "Foundation",
+    "subject": "maths",
+    "code": "AC9MFN02",
+    "topic": "foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/index.html",
+    "classroom": "foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/math/ac9mfn02/worksheet/index.html",
+    "flags": [
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "maths",
+    "code": "AC9MFN03",
+    "topic": "foundation/maths/ac9mfn03-and-compare-collections-to-at-least-20-using-counting-and/index.html",
+    "classroom": "foundation/maths/ac9mfn03-and-compare-collections-to-at-least-20-using-counting-and/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/math/ac9mfn03/worksheet/index.html",
+    "flags": []
+  },
+  {
+    "year": "Foundation",
+    "subject": "maths",
+    "code": "AC9MFN04",
+    "topic": "foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/index.html",
+    "classroom": "foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/math/ac9mfn04/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "maths",
+    "code": "AC9MFN05",
+    "topic": "foundation/maths/ac9mfn05-represent-practical-situations-involving-addition-subtraction/index.html",
+    "classroom": "foundation/maths/ac9mfn05-represent-practical-situations-involving-addition-subtraction/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/math/ac9mfn05/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "maths",
+    "code": "AC9MFN06",
+    "topic": "foundation/maths/ac9mfn06-represent-practical-situations-that-involve-equal-sharing-and/index.html",
+    "classroom": "foundation/maths/ac9mfn06-represent-practical-situations-that-involve-equal-sharing-and/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/math/ac9mfn06/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "maths",
+    "code": "AC9MFSP01",
+    "topic": "foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/index.html",
+    "classroom": "foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/math/ac9mfsp01/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "maths",
+    "code": "AC9MFSP02",
+    "topic": "foundation/maths/ac9mfsp02-the-position-and-location-of-themselves-and-objects-in-relation/index.html",
+    "classroom": "foundation/maths/ac9mfsp02-the-position-and-location-of-themselves-and-objects-in-relation/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/math/ac9mfsp02/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "maths",
+    "code": "AC9MFST01",
+    "topic": "foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/index.html",
+    "classroom": "foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/math/ac9mfst01/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "science",
+    "code": "AC9SFH01",
+    "topic": "foundation/science/ac9sfh01-the-ways-people-make-and-use-observations-and-questions-to/index.html",
+    "classroom": "foundation/science/ac9sfh01-the-ways-people-make-and-use-observations-and-questions-to/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/science/ac9sfh01/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "science",
+    "code": "AC9SFI01",
+    "topic": "foundation/science/ac9sfi01-questions-and-make-predictions-based-on-experiences/index.html",
+    "classroom": "foundation/science/ac9sfi01-questions-and-make-predictions-based-on-experiences/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/science/ac9sfi01/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "science",
+    "code": "AC9SFI02",
+    "topic": "foundation/science/ac9sfi02-engage-in-investigations-safely-and-make-observations-using/index.html",
+    "classroom": "foundation/science/ac9sfi02-engage-in-investigations-safely-and-make-observations-using/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/science/ac9sfi02/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "science",
+    "code": "AC9SFI03",
+    "topic": "foundation/science/ac9sfi03-represent-observations-in-provided-templates-and-identify/index.html",
+    "classroom": "foundation/science/ac9sfi03-represent-observations-in-provided-templates-and-identify/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/science/ac9sfi03/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "science",
+    "code": "AC9SFI04",
+    "topic": "foundation/science/ac9sfi04-observations-with-predictions-with-guidance/index.html",
+    "classroom": "foundation/science/ac9sfi04-observations-with-predictions-with-guidance/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/science/ac9sfi04/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "science",
+    "code": "AC9SFI05",
+    "topic": "foundation/science/ac9sfi05-share-questions-predictions-observations-and-ideas-with-others/index.html",
+    "classroom": "foundation/science/ac9sfi05-share-questions-predictions-observations-and-ideas-with-others/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/science/ac9sfi05/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "science",
+    "code": "AC9SFU01",
+    "topic": "foundation/science/ac9sfu01-observe-external-features-of-plants-and-animals-and-describe/index.html",
+    "classroom": "foundation/science/ac9sfu01-observe-external-features-of-plants-and-animals-and-describe/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/science/ac9sfu01/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label",
+      "classroom-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "science",
+    "code": "AC9SFU02",
+    "topic": "foundation/science/ac9sfu02-how-objects-move-and-how-factors-including-their-size-shape/index.html",
+    "classroom": "foundation/science/ac9sfu02-how-objects-move-and-how-factors-including-their-size-shape/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/science/ac9sfu02/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "science",
+    "code": "AC9SFU03",
+    "topic": "foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/index.html",
+    "classroom": "foundation/science/ac9sfu03-that-objects-can-be-composed-of-different-materials-and-describe/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/science/ac9sfu03/worksheet/index.html",
+    "flags": []
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLA01",
+    "topic": "foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending/index.html",
+    "classroom": "foundation/english/ac9efla01-how-language-is-used-differently-at-home-and-school-depending/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efla01/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLA02",
+    "topic": "foundation/english/ac9efla02-different-ways-of-using-language-to-express-preferences-likes/index.html",
+    "classroom": "foundation/english/ac9efla02-different-ways-of-using-language-to-express-preferences-likes/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efla02/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLA03",
+    "topic": "foundation/english/ac9efla03-that-texts-can-take-many-forms-such-as-signs-books/index.html",
+    "classroom": "foundation/english/ac9efla03-that-texts-can-take-many-forms-such-as-signs-books/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efla03/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLA04",
+    "topic": "foundation/english/ac9efla04-conventions-of-print-and-screen-including-how-books-and-simple/index.html",
+    "classroom": "foundation/english/ac9efla04-conventions-of-print-and-screen-including-how-books-and-simple/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efla04/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLA05",
+    "topic": "foundation/english/ac9efla05-that-sentences-are-key-units-for-expressing-ideas/index.html",
+    "classroom": "foundation/english/ac9efla05-that-sentences-are-key-units-for-expressing-ideas/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efla05/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLA06",
+    "topic": "foundation/english/ac9efla06-that-sentences-are-made-up-of-groups-of-words-that/index.html",
+    "classroom": "foundation/english/ac9efla06-that-sentences-are-made-up-of-groups-of-words-that/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efla06/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLA07",
+    "topic": "foundation/english/ac9efla07-the-contribution-of-images-and-words-to-meaning-in-stories/index.html",
+    "classroom": "foundation/english/ac9efla07-the-contribution-of-images-and-words-to-meaning-in-stories/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efla07/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLA08",
+    "topic": "foundation/english/ac9efla08-and-develop-awareness-of-vocabulary-used-in-familiar-contexts/index.html",
+    "classroom": "foundation/english/ac9efla08-and-develop-awareness-of-vocabulary-used-in-familiar-contexts/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efla08/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLA09",
+    "topic": "foundation/english/ac9efla09-punctuation-as-a-feature-of-written-text-different-from-letters/index.html",
+    "classroom": "foundation/english/ac9efla09-punctuation-as-a-feature-of-written-text-different-from-letters/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efla09/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLE01",
+    "topic": "foundation/english/ac9efle01-share-ideas-about-stories-poems-and-images-in-literature/index.html",
+    "classroom": "foundation/english/ac9efle01-share-ideas-about-stories-poems-and-images-in-literature/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efle01/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLE02",
+    "topic": "foundation/english/ac9efle02-respond-to-stories-and-share-feelings-and-thoughts-about-their/index.html",
+    "classroom": "foundation/english/ac9efle02-respond-to-stories-and-share-feelings-and-thoughts-about-their/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efle02/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLE03",
+    "topic": "foundation/english/ac9efle03-different-types-of-literary-texts-and-identify-features/index.html",
+    "classroom": "foundation/english/ac9efle03-different-types-of-literary-texts-and-identify-features/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efle03/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLE04",
+    "topic": "foundation/english/ac9efle04-and-replicate-the-rhythms-and-sound-patterns-of-literary-texts/index.html",
+    "classroom": "foundation/english/ac9efle04-and-replicate-the-rhythms-and-sound-patterns-of-literary-texts/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efle04/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLE05",
+    "topic": "foundation/english/ac9efle05-retell-and-adapt-familiar-literary-texts-through-play/index.html",
+    "classroom": "foundation/english/ac9efle05-retell-and-adapt-familiar-literary-texts-through-play/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efle05/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY01",
+    "topic": "foundation/english/ac9efly01-some-familiar-texts-such-as-stories-and-informative-texts-and/index.html",
+    "classroom": "foundation/english/ac9efly01-some-familiar-texts-such-as-stories-and-informative-texts-and/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly01/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY02",
+    "topic": "foundation/english/ac9efly02-interact-in-informal-and-structured-situations-by-listening/index.html",
+    "classroom": "foundation/english/ac9efly02-interact-in-informal-and-structured-situations-by-listening/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly02/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY03",
+    "topic": "foundation/english/ac9efly03-some-differences-between-imaginative-and-informative-texts/index.html",
+    "classroom": "foundation/english/ac9efly03-some-differences-between-imaginative-and-informative-texts/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly03/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY04",
+    "topic": "foundation/english/ac9efly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/index.html",
+    "classroom": "foundation/english/ac9efly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly04/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY05",
+    "topic": "foundation/english/ac9efly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+    "classroom": "foundation/english/ac9efly05-comprehension-strategies-such-as-visualising-predicting/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly05/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY06",
+    "topic": "foundation/english/ac9efly06-and-participate-in-shared-editing-of-short-written-texts-to/index.html",
+    "classroom": "foundation/english/ac9efly06-and-participate-in-shared-editing-of-short-written-texts-to/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly06/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY07",
+    "topic": "foundation/english/ac9efly07-and-deliver-short-spoken-texts-to-report-ideas-and-events/index.html",
+    "classroom": "foundation/english/ac9efly07-and-deliver-short-spoken-texts-to-report-ideas-and-events/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly07/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY08",
+    "topic": "foundation/english/ac9efly08-form-most-lower-case-and-upper-case-letters-using-learnt-letter/index.html",
+    "classroom": "foundation/english/ac9efly08-form-most-lower-case-and-upper-case-letters-using-learnt-letter/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly08/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY09",
+    "topic": "foundation/english/ac9efly09-and-generate-rhyming-words-alliteration-patterns-syllables-and/index.html",
+    "classroom": "foundation/english/ac9efly09-and-generate-rhyming-words-alliteration-patterns-syllables-and/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly09/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY10",
+    "topic": "foundation/english/ac9efly10-sentences-into-individual-words-orally-blend-and-segment-single/index.html",
+    "classroom": "foundation/english/ac9efly10-sentences-into-individual-words-orally-blend-and-segment-single/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly10/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY11",
+    "topic": "foundation/english/ac9efly11-and-name-all-upper-and-lower-case-letters-graphs-and-know/index.html",
+    "classroom": "foundation/english/ac9efly11-and-name-all-upper-and-lower-case-letters-graphs-and-know/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly11/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY12",
+    "topic": "foundation/english/ac9efly12-consonant-vowel-consonant-cvc-words-by-representing-sounds-with/index.html",
+    "classroom": "foundation/english/ac9efly12-consonant-vowel-consonant-cvc-words-by-representing-sounds-with/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly12/worksheet/index.html",
+    "flags": []
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY13",
+    "topic": "foundation/english/ac9efly13-knowledge-of-letters-and-sounds-to-spell-words/index.html",
+    "classroom": "foundation/english/ac9efly13-knowledge-of-letters-and-sounds-to-spell-words/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly13/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY14",
+    "topic": "foundation/english/ac9efly14-and-write-some-high-frequency-words-and-other-familiar-words/index.html",
+    "classroom": "foundation/english/ac9efly14-and-write-some-high-frequency-words-and-other-familiar-words/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly14/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Foundation",
+    "subject": "english",
+    "code": "AC9EFLY15",
+    "topic": "foundation/english/ac9efly15-that-words-are-units-of-meaning-and-can-be-made/index.html",
+    "classroom": "foundation/english/ac9efly15-that-words-are-units-of-meaning-and-can-be-made/teacher-slides/index.html",
+    "worksheet": "quiz/grade-k/english/ac9efly15/worksheet/index.html",
+    "flags": [
+      "generic-classroom-qa",
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1A01",
+    "topic": "year1/maths/ac9m1a01-skip-counting-pattern-sequences/index.html",
+    "classroom": "year1/maths/ac9m1a01-skip-counting-pattern-sequences/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1a01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1A02",
+    "topic": "year1/maths/ac9m1a02-repeating-patterns/index.html",
+    "classroom": "year1/maths/ac9m1a02-repeating-patterns/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1a02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1M01",
+    "topic": "year1/maths/ac9m1m01-comparing-length-mass-capacity-and-duration/index.html",
+    "classroom": "year1/maths/ac9m1m01-comparing-length-mass-capacity-and-duration/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1m01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1M02",
+    "topic": "year1/maths/ac9m1m02-measuring-length-with-informal-units/index.html",
+    "classroom": "year1/maths/ac9m1m02-measuring-length-with-informal-units/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1m02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1M03",
+    "topic": "year1/maths/ac9m1m03-time-years-months-weeks-days-and-hours/index.html",
+    "classroom": "year1/maths/ac9m1m03-time-years-months-weeks-days-and-hours/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1m03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1N01",
+    "topic": "year1/maths/ac9m1n01-numbers-to-120/index.html",
+    "classroom": "year1/maths/ac9m1n01-numbers-to-120/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1n01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1N02",
+    "topic": "year1/maths/ac9m1n02-partitioning-tens-and-ones/index.html",
+    "classroom": "year1/maths/ac9m1n02-partitioning-tens-and-ones/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1n02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1N03",
+    "topic": "year1/maths/ac9m1n03-skip-counting-and-equal-groups/index.html",
+    "classroom": "year1/maths/ac9m1n03-skip-counting-and-equal-groups/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1n03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1N04",
+    "topic": "year1/maths/ac9m1n04-addition-and-subtraction-within-20/index.html",
+    "classroom": "year1/maths/ac9m1n04-addition-and-subtraction-within-20/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1n04/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1N05",
+    "topic": "year1/maths/ac9m1n05-additive-problem-solving-and-money/index.html",
+    "classroom": "year1/maths/ac9m1n05-additive-problem-solving-and-money/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1n05/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1N06",
+    "topic": "year1/maths/ac9m1n06-equal-sharing-and-grouping/index.html",
+    "classroom": "year1/maths/ac9m1n06-equal-sharing-and-grouping/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1n06/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1SP01",
+    "topic": "year1/maths/ac9m1sp01-familiar-shapes-and-objects/index.html",
+    "classroom": "year1/maths/ac9m1sp01-familiar-shapes-and-objects/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1sp01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1SP02",
+    "topic": "year1/maths/ac9m1sp02-directions-and-location/index.html",
+    "classroom": "year1/maths/ac9m1sp02-directions-and-location/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1sp02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1ST01",
+    "topic": "year1/maths/ac9m1st01-collecting-categorical-data/index.html",
+    "classroom": "year1/maths/ac9m1st01-collecting-categorical-data/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1st01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "maths",
+    "code": "AC9M1ST02",
+    "topic": "year1/maths/ac9m1st02-representing-and-comparing-data/index.html",
+    "classroom": "year1/maths/ac9m1st02-representing-and-comparing-data/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/math/ac9m1st02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "science",
+    "code": "AC9S1H01",
+    "topic": "year1/science/ac9s1h01-science-in-daily-life/index.html",
+    "classroom": "year1/science/ac9s1h01-science-in-daily-life/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/science/ac9s1h01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "science",
+    "code": "AC9S1I01",
+    "topic": "year1/science/ac9s1i01-questions-patterns-and-predictions/index.html",
+    "classroom": "year1/science/ac9s1i01-questions-patterns-and-predictions/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/science/ac9s1i01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "science",
+    "code": "AC9S1I02",
+    "topic": "year1/science/ac9s1i02-safe-investigation-procedures/index.html",
+    "classroom": "year1/science/ac9s1i02-safe-investigation-procedures/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/science/ac9s1i02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "science",
+    "code": "AC9S1I03",
+    "topic": "year1/science/ac9s1i03-making-and-recording-observations/index.html",
+    "classroom": "year1/science/ac9s1i03-making-and-recording-observations/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/science/ac9s1i03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "science",
+    "code": "AC9S1I04",
+    "topic": "year1/science/ac9s1i04-sorting-data-and-representing-patterns/index.html",
+    "classroom": "year1/science/ac9s1i04-sorting-data-and-representing-patterns/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/science/ac9s1i04/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "science",
+    "code": "AC9S1I05",
+    "topic": "year1/science/ac9s1i05-comparing-observations-and-predictions/index.html",
+    "classroom": "year1/science/ac9s1i05-comparing-observations-and-predictions/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/science/ac9s1i05/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "science",
+    "code": "AC9S1I06",
+    "topic": "year1/science/ac9s1i06-communicating-scientific-ideas/index.html",
+    "classroom": "year1/science/ac9s1i06-communicating-scientific-ideas/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/science/ac9s1i06/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "science",
+    "code": "AC9S1U01",
+    "topic": "year1/science/ac9s1u01-needs-of-plants-and-animals/index.html",
+    "classroom": "year1/science/ac9s1u01-needs-of-plants-and-animals/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/science/ac9s1u01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "science",
+    "code": "AC9S1U02",
+    "topic": "year1/science/ac9s1u02-daily-and-seasonal-changes/index.html",
+    "classroom": "year1/science/ac9s1u02-daily-and-seasonal-changes/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/science/ac9s1u02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "science",
+    "code": "AC9S1U03",
+    "topic": "year1/science/ac9s1u03-pushes-and-pulls/index.html",
+    "classroom": "year1/science/ac9s1u03-pushes-and-pulls/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/science/ac9s1u03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LA01",
+    "topic": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/index.html",
+    "classroom": "year1/english/ac9e1la01-how-language-facial-expressions-and-gestures-are-used-to/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1la01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LA02",
+    "topic": "year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/index.html",
+    "classroom": "year1/english/ac9e1la02-language-to-provide-reasons-for-likes-dislikes-and-preferences/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1la02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LA03",
+    "topic": "year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/index.html",
+    "classroom": "year1/english/ac9e1la03-how-texts-are-organised-according-to-their-purpose-such-as/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1la03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LA04",
+    "topic": "year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/index.html",
+    "classroom": "year1/english/ac9e1la04-how-repetition-rhyme-and-rhythm-create-cohesion-in-simple-poems/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1la04/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LA05",
+    "topic": "year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/index.html",
+    "classroom": "year1/english/ac9e1la05-how-print-and-screen-texts-are-organised-using-features-such/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1la05/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LA06",
+    "topic": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/index.html",
+    "classroom": "year1/english/ac9e1la06-that-a-simple-sentence-consists-of-a-single-independent-clause/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1la06/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LA07",
+    "topic": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/index.html",
+    "classroom": "year1/english/ac9e1la07-that-words-can-represent-people-places-and-things-nouns/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1la07/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LA08",
+    "topic": "year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/index.html",
+    "classroom": "year1/english/ac9e1la08-how-images-in-different-types-of-texts-contribute-to-meaning/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1la08/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LA09",
+    "topic": "year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/index.html",
+    "classroom": "year1/english/ac9e1la09-the-vocabulary-of-learning-area-topics/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1la09/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LA10",
+    "topic": "year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/index.html",
+    "classroom": "year1/english/ac9e1la10-that-written-language-uses-punctuation-such-as-full-stops/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1la10/worksheet/index.html",
+    "flags": [
+      "copied-content-label"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LE01",
+    "topic": "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/index.html",
+    "classroom": "year1/english/ac9e1le01-how-language-and-images-are-used-to-create-characters-settings/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1le01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LE02",
+    "topic": "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/index.html",
+    "classroom": "year1/english/ac9e1le02-literary-texts-and-share-responses-by-making-connections-with/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1le02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LE03",
+    "topic": "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/index.html",
+    "classroom": "year1/english/ac9e1le03-plot-character-and-setting-which-are-features-of-stories/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1le03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LE04",
+    "topic": "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/index.html",
+    "classroom": "year1/english/ac9e1le04-poems-chants-rhymes-and-songs-and-imitate-and-invent-sound/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1le04/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LE05",
+    "topic": "year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/index.html",
+    "classroom": "year1/english/ac9e1le05-retell-or-adapt-a-familiar-story-using-plot-and-characters/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1le05/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY01",
+    "topic": "year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/index.html",
+    "classroom": "year1/english/ac9e1ly01-different-texts-and-identify-some-features-that-indicate-their/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY02",
+    "topic": "year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/index.html",
+    "classroom": "year1/english/ac9e1ly02-interaction-skills-including-turn-taking-speaking-clearly-using/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY03",
+    "topic": "year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/index.html",
+    "classroom": "year1/english/ac9e1ly03-some-similarities-and-differences-between-imaginative/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY04",
+    "topic": "year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/index.html",
+    "classroom": "year1/english/ac9e1ly04-decodable-and-authentic-texts-using-developing-phonic-knowledge/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly04/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY05",
+    "topic": "year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+    "classroom": "year1/english/ac9e1ly05-comprehension-strategies-such-as-visualising-predicting/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly05/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY06",
+    "topic": "year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/index.html",
+    "classroom": "year1/english/ac9e1ly06-and-re-read-to-edit-short-written-and-or-multimodal-texts-to/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly06/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY07",
+    "topic": "year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/index.html",
+    "classroom": "year1/english/ac9e1ly07-and-deliver-short-oral-and-or-multimodal-presentations-on/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly07/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY08",
+    "topic": "year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/index.html",
+    "classroom": "year1/english/ac9e1ly08-words-using-unjoined-lower-case-and-upper-case-letters/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly08/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY09",
+    "topic": "year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/index.html",
+    "classroom": "year1/english/ac9e1ly09-words-into-separate-phonemes-sounds-including-consonant-blends/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly09/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY10",
+    "topic": "year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/index.html",
+    "classroom": "year1/english/ac9e1ly10-manipulate-phonemes-in-spoken-words-by-addition-deletion-and/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly10/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY11",
+    "topic": "year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/index.html",
+    "classroom": "year1/english/ac9e1ly11-short-vowels-common-long-vowels-consonant-blends-and-digraphs-to/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly11/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY12",
+    "topic": "year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/index.html",
+    "classroom": "year1/english/ac9e1ly12-that-a-letter-can-represent-more-than-one-sound-and/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly12/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY13",
+    "topic": "year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/index.html",
+    "classroom": "year1/english/ac9e1ly13-one-and-two-syllable-words-with-common-letter-patterns/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly13/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY14",
+    "topic": "year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/index.html",
+    "classroom": "year1/english/ac9e1ly14-and-write-an-increasing-number-of-high-frequency-words/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly14/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 1",
+    "subject": "english",
+    "code": "AC9E1LY15",
+    "topic": "year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/index.html",
+    "classroom": "year1/english/ac9e1ly15-and-know-how-to-use-grammatical-morphemes-to-create-word/teacher-slides/index.html",
+    "worksheet": "quiz/year-1/english/ac9e1ly15/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2A01",
+    "topic": "year2/maths/ac9m2a01-recognise-describe-and-create-additive-patterns-that-increase/index.html",
+    "classroom": "year2/maths/ac9m2a01-recognise-describe-and-create-additive-patterns-that-increase/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2a01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2A02",
+    "topic": "year2/maths/ac9m2a02-recall-and-demonstrate-proficiency-with-addition-facts-to-20/index.html",
+    "classroom": "year2/maths/ac9m2a02-recall-and-demonstrate-proficiency-with-addition-facts-to-20/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2a02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2A03",
+    "topic": "year2/maths/ac9m2a03-recall-and-demonstrate-proficiency-with-multiplication-facts/index.html",
+    "classroom": "year2/maths/ac9m2a03-recall-and-demonstrate-proficiency-with-multiplication-facts/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2a03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2M01",
+    "topic": "year2/maths/ac9m2m01-measure-and-compare-objects-based-on-length-capacity-and-mass/index.html",
+    "classroom": "year2/maths/ac9m2m01-measure-and-compare-objects-based-on-length-capacity-and-mass/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2m01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2M02",
+    "topic": "year2/maths/ac9m2m02-common-uses-and-represent-halves-quarters-and-eighths-in/index.html",
+    "classroom": "year2/maths/ac9m2m02-common-uses-and-represent-halves-quarters-and-eighths-in/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2m02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2M03",
+    "topic": "year2/maths/ac9m2m03-the-date-and-determine-the-number-of-days-between-events/index.html",
+    "classroom": "year2/maths/ac9m2m03-the-date-and-determine-the-number-of-days-between-events/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2m03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2M04",
+    "topic": "year2/maths/ac9m2m04-and-read-the-time-represented-on-an-analog-clock-to/index.html",
+    "classroom": "year2/maths/ac9m2m04-and-read-the-time-represented-on-an-analog-clock-to/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2m04/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2M05",
+    "topic": "year2/maths/ac9m2m05-identify-describe-and-demonstrate-quarter-half-three-quarter/index.html",
+    "classroom": "year2/maths/ac9m2m05-identify-describe-and-demonstrate-quarter-half-three-quarter/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2m05/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2N01",
+    "topic": "year2/maths/ac9m2n01-recognise-represent-and-order-numbers-to-at-least-1000-using/index.html",
+    "classroom": "year2/maths/ac9m2n01-recognise-represent-and-order-numbers-to-at-least-1000-using/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2n01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2N02",
+    "topic": "year2/maths/ac9m2n02-partition-rearrange-regroup-and-rename-two-and-three-digit/index.html",
+    "classroom": "year2/maths/ac9m2n02-partition-rearrange-regroup-and-rename-two-and-three-digit/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2n02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2N03",
+    "topic": "year2/maths/ac9m2n03-and-describe-one-half-as-one-of-2-equal-parts-of/index.html",
+    "classroom": "year2/maths/ac9m2n03-and-describe-one-half-as-one-of-2-equal-parts-of/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2n03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2N04",
+    "topic": "year2/maths/ac9m2n04-add-and-subtract-one-and-two-digit-numbers-representing/index.html",
+    "classroom": "year2/maths/ac9m2n04-add-and-subtract-one-and-two-digit-numbers-representing/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2n04/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2N05",
+    "topic": "year2/maths/ac9m2n05-multiply-and-divide-by-one-digit-numbers-using-repeated/index.html",
+    "classroom": "year2/maths/ac9m2n05-multiply-and-divide-by-one-digit-numbers-using-repeated/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2n05/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2N06",
+    "topic": "year2/maths/ac9m2n06-mathematical-modelling-to-solve-practical-problems-involving/index.html",
+    "classroom": "year2/maths/ac9m2n06-mathematical-modelling-to-solve-practical-problems-involving/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2n06/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2SP01",
+    "topic": "year2/maths/ac9m2sp01-recognise-compare-and-classify-shapes-referencing-the-number-of/index.html",
+    "classroom": "year2/maths/ac9m2sp01-recognise-compare-and-classify-shapes-referencing-the-number-of/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2sp01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2SP02",
+    "topic": "year2/maths/ac9m2sp02-locate-positions-in-two-dimensional-representations-of-a/index.html",
+    "classroom": "year2/maths/ac9m2sp02-locate-positions-in-two-dimensional-representations-of-a/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2sp02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2ST01",
+    "topic": "year2/maths/ac9m2st01-acquire-data-for-categorical-variables-through-surveys/index.html",
+    "classroom": "year2/maths/ac9m2st01-acquire-data-for-categorical-variables-through-surveys/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2st01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2ST02",
+    "topic": "year2/maths/ac9m2st02-different-graphical-representations-of-data-using-software/index.html",
+    "classroom": "year2/maths/ac9m2st02-different-graphical-representations-of-data-using-software/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/math/ac9m2st02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "maths",
+    "code": "AC9M2N04",
+    "topic": "year2/maths/addition-substraction-daily/index.html",
+    "classroom": "",
+    "worksheet": "quiz/year-2/math/ac9m2n04/worksheet/index.html",
+    "flags": [
+      "missing-classroom",
+      "classroom-no-visual",
+      "topic-no-visual"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "science",
+    "code": "AC9S2H01",
+    "topic": "year2/science/ac9s2h01-how-people-use-science-in-their-daily-lives-including-using/index.html",
+    "classroom": "year2/science/ac9s2h01-how-people-use-science-in-their-daily-lives-including-using/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/science/ac9s2h01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "science",
+    "code": "AC9S2I01",
+    "topic": "year2/science/ac9s2i01-questions-to-explore-observed-simple-patterns-and-relationships/index.html",
+    "classroom": "year2/science/ac9s2i01-questions-to-explore-observed-simple-patterns-and-relationships/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/science/ac9s2i01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "science",
+    "code": "AC9S2I02",
+    "topic": "year2/science/ac9s2i02-and-follow-safe-procedures-to-investigate-questions-and-test/index.html",
+    "classroom": "year2/science/ac9s2i02-and-follow-safe-procedures-to-investigate-questions-and-test/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/science/ac9s2i02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "science",
+    "code": "AC9S2I03",
+    "topic": "year2/science/ac9s2i03-and-record-observations-including-informal-measurements-using/index.html",
+    "classroom": "year2/science/ac9s2i03-and-record-observations-including-informal-measurements-using/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/science/ac9s2i03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "science",
+    "code": "AC9S2I04",
+    "topic": "year2/science/ac9s2i04-and-order-data-and-information-and-represent-patterns-including/index.html",
+    "classroom": "year2/science/ac9s2i04-and-order-data-and-information-and-represent-patterns-including/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/science/ac9s2i04/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "science",
+    "code": "AC9S2I05",
+    "topic": "year2/science/ac9s2i05-observations-with-predictions-and-others-observations-consider/index.html",
+    "classroom": "year2/science/ac9s2i05-observations-with-predictions-and-others-observations-consider/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/science/ac9s2i05/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "science",
+    "code": "AC9S2I06",
+    "topic": "year2/science/ac9s2i06-and-create-texts-to-communicate-observations-findings-and-ideas/index.html",
+    "classroom": "year2/science/ac9s2i06-and-create-texts-to-communicate-observations-findings-and-ideas/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/science/ac9s2i06/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "science",
+    "code": "AC9S2U01",
+    "topic": "year2/science/ac9s2u01-earth-is-a-planet-in-the-solar-system-and-identify/index.html",
+    "classroom": "year2/science/ac9s2u01-earth-is-a-planet-in-the-solar-system-and-identify/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/science/ac9s2u01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "science",
+    "code": "AC9S2U02",
+    "topic": "year2/science/ac9s2u02-different-actions-to-make-sounds-and-how-to-make-a/index.html",
+    "classroom": "year2/science/ac9s2u02-different-actions-to-make-sounds-and-how-to-make-a/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/science/ac9s2u02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "science",
+    "code": "AC9S2U03",
+    "topic": "year2/science/ac9s2u03-that-materials-can-be-changed-physically-without-changing-their/index.html",
+    "classroom": "year2/science/ac9s2u03-that-materials-can-be-changed-physically-without-changing-their/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/science/ac9s2u03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "classroom-no-visual",
+      "topic-no-visual",
+      "thin-topic-teaching",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LA01",
+    "topic": "year2/english/ac9e2la01-investigate-how-interpersonal-language-choices-vary-depending/index.html",
+    "classroom": "year2/english/ac9e2la01-investigate-how-interpersonal-language-choices-vary-depending/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2la01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LA02",
+    "topic": "year2/english/ac9e2la02-how-language-can-be-used-for-appreciating-texts-and-providing/index.html",
+    "classroom": "year2/english/ac9e2la02-how-language-can-be-used-for-appreciating-texts-and-providing/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2la02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LA03",
+    "topic": "year2/english/ac9e2la03-how-texts-across-the-curriculum-are-organised-differently-and/index.html",
+    "classroom": "year2/english/ac9e2la03-how-texts-across-the-curriculum-are-organised-differently-and/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2la03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LA04",
+    "topic": "year2/english/ac9e2la04-how-texts-are-made-cohesive-by-using-personal-and-possessive/index.html",
+    "classroom": "year2/english/ac9e2la04-how-texts-are-made-cohesive-by-using-personal-and-possessive/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2la04/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LA05",
+    "topic": "year2/english/ac9e2la05-navigate-print-and-screen-texts-using-chapters-tables-of/index.html",
+    "classroom": "year2/english/ac9e2la05-navigate-print-and-screen-texts-using-chapters-tables-of/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2la05/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LA06",
+    "topic": "year2/english/ac9e2la06-that-connections-can-be-made-between-ideas-by-using-a/index.html",
+    "classroom": "year2/english/ac9e2la06-that-connections-can-be-made-between-ideas-by-using-a/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2la06/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LA07",
+    "topic": "year2/english/ac9e2la07-that-in-sentences-nouns-may-be-extended-into-noun-groups/index.html",
+    "classroom": "year2/english/ac9e2la07-that-in-sentences-nouns-may-be-extended-into-noun-groups/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2la07/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LA08",
+    "topic": "year2/english/ac9e2la08-that-images-add-to-or-multiply-the-meanings-of-a/index.html",
+    "classroom": "year2/english/ac9e2la08-that-images-add-to-or-multiply-the-meanings-of-a/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2la08/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LA09",
+    "topic": "year2/english/ac9e2la09-experiment-with-and-begin-to-make-conscious-choices-of/index.html",
+    "classroom": "year2/english/ac9e2la09-experiment-with-and-begin-to-make-conscious-choices-of/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2la09/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LA10",
+    "topic": "year2/english/ac9e2la10-that-capital-letters-are-used-in-titles-and-commas-are/index.html",
+    "classroom": "year2/english/ac9e2la10-that-capital-letters-are-used-in-titles-and-commas-are/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2la10/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LE01",
+    "topic": "year2/english/ac9e2le01-how-characters-and-settings-are-connected-in-literature-created/index.html",
+    "classroom": "year2/english/ac9e2le01-how-characters-and-settings-are-connected-in-literature-created/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2le01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LE02",
+    "topic": "year2/english/ac9e2le02-features-of-literary-texts-such-as-characters-and-settings-and/index.html",
+    "classroom": "year2/english/ac9e2le02-features-of-literary-texts-such-as-characters-and-settings-and/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2le02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LE03",
+    "topic": "year2/english/ac9e2le03-the-characters-and-settings-of-a-range-of-texts-and/index.html",
+    "classroom": "year2/english/ac9e2le03-the-characters-and-settings-of-a-range-of-texts-and/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2le03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LE04",
+    "topic": "year2/english/ac9e2le04-identify-reproduce-and-experiment-with-rhythmic-sound-and-word/index.html",
+    "classroom": "year2/english/ac9e2le04-identify-reproduce-and-experiment-with-rhythmic-sound-and-word/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2le04/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LE05",
+    "topic": "year2/english/ac9e2le05-and-edit-literary-texts-by-adapting-structures-and-language/index.html",
+    "classroom": "year2/english/ac9e2le05-and-edit-literary-texts-by-adapting-structures-and-language/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2le05/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LY01",
+    "topic": "year2/english/ac9e2ly01-how-similar-topics-and-information-are-presented-in-different/index.html",
+    "classroom": "year2/english/ac9e2ly01-how-similar-topics-and-information-are-presented-in-different/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2ly01/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LY02",
+    "topic": "year2/english/ac9e2ly02-interaction-skills-when-engaging-with-topics-actively-listening/index.html",
+    "classroom": "year2/english/ac9e2ly02-interaction-skills-when-engaging-with-topics-actively-listening/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2ly02/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LY03",
+    "topic": "year2/english/ac9e2ly03-the-purpose-and-audience-of-imaginative-informative-and/index.html",
+    "classroom": "year2/english/ac9e2ly03-the-purpose-and-audience-of-imaginative-informative-and/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2ly03/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LY04",
+    "topic": "year2/english/ac9e2ly04-texts-with-phrasing-and-fluency-using-phonic-and-word-knowledge/index.html",
+    "classroom": "year2/english/ac9e2ly04-texts-with-phrasing-and-fluency-using-phonic-and-word-knowledge/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2ly04/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LY05",
+    "topic": "year2/english/ac9e2ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+    "classroom": "year2/english/ac9e2ly05-comprehension-strategies-such-as-visualising-predicting/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2ly05/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LY06",
+    "topic": "year2/english/ac9e2ly06-and-edit-short-imaginative-informative-and-persuasive-written/index.html",
+    "classroom": "year2/english/ac9e2ly06-and-edit-short-imaginative-informative-and-persuasive-written/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2ly06/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LY07",
+    "topic": "year2/english/ac9e2ly07-create-rehearse-and-deliver-short-oral-and-or-multimodal/index.html",
+    "classroom": "year2/english/ac9e2ly07-create-rehearse-and-deliver-short-oral-and-or-multimodal/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2ly07/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LY08",
+    "topic": "year2/english/ac9e2ly08-words-legibly-and-with-growing-fluency-using-unjoined-upper/index.html",
+    "classroom": "year2/english/ac9e2ly08-words-legibly-and-with-growing-fluency-using-unjoined-upper/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2ly08/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LY09",
+    "topic": "year2/english/ac9e2ly09-manipulate-more-complex-sounds-in-spoken-words-and-use-knowledge/index.html",
+    "classroom": "year2/english/ac9e2ly09-manipulate-more-complex-sounds-in-spoken-words-and-use-knowledge/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2ly09/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LY10",
+    "topic": "year2/english/ac9e2ly10-phoneme-grapheme-sound-letter-s-matches-including-vowel/index.html",
+    "classroom": "year2/english/ac9e2ly10-phoneme-grapheme-sound-letter-s-matches-including-vowel/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2ly10/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LY11",
+    "topic": "year2/english/ac9e2ly11-knowledge-of-spelling-patterns-and-morphemes-to-read-and-write/index.html",
+    "classroom": "year2/english/ac9e2ly11-knowledge-of-spelling-patterns-and-morphemes-to-read-and-write/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2ly11/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  },
+  {
+    "year": "Year 2",
+    "subject": "english",
+    "code": "AC9E2LY12",
+    "topic": "year2/english/ac9e2ly12-build-morphemic-word-families-using-knowledge-of-prefixes-and/index.html",
+    "classroom": "year2/english/ac9e2ly12-build-morphemic-word-families-using-knowledge-of-prefixes-and/teacher-slides/index.html",
+    "worksheet": "quiz/year-2/english/ac9e2ly12/worksheet/index.html",
+    "flags": [
+      "copied-content-label",
+      "thin-classroom-teaching"
+    ]
+  }
+]
