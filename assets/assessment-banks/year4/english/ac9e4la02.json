@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Subjective and Objective Language",
-    "question": "In reporting the result of a class plant investigation, which option best demonstrates the skill?",
-    "audio_prompt": "In reporting the result of a class plant investigation, which option best demonstrates the skill?",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “The delightful puppet show lasted 25 minutes.” Which word expresses the writer’s judgement?",
+    "audio_prompt": "Read: “The delightful puppet show lasted 25 minutes.” Which word expresses the writer’s judgement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bean plant grew amazingly fast.",
-        "is_correct": false
-      },
-      {
-        "text": "The bean plant grew 6 centimetres in seven days.",
+        "text": "delightful",
         "is_correct": true
       },
       {
-        "text": "I loved how tall the bean plant became.",
+        "text": "puppet",
+        "is_correct": false
+      },
+      {
+        "text": "lasted",
+        "is_correct": false
+      },
+      {
+        "text": "minutes",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The sentence gives a measurable observation rather than a judgement or feeling.",
-      "hint": "Look for information that could be checked or measured."
-    }
+      "summary": "“Delightful” evaluates the show. Its running time is a checkable claim.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA02-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Subjective and Objective Language",
-    "question": "Which choice fits reporting the result of a class plant investigation most accurately?",
-    "audio_prompt": "Which choice fits reporting the result of a class plant investigation most accurately?",
+    "skill": "subjective_and_objective_language",
+    "question": "Which sentence uses objective wording for a report about the library?",
+    "audio_prompt": "Which sentence uses objective wording for a report about the library?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bean plant grew amazingly fast.",
+        "text": "The library has the nicest reading tables.",
         "is_correct": false
       },
       {
-        "text": "I loved how tall the bean plant became.",
-        "is_correct": false
-      },
-      {
-        "text": "The bean plant grew 6 centimetres in seven days.",
+        "text": "The library has four reading tables.",
         "is_correct": true
+      },
+      {
+        "text": "The library has far too few reading tables.",
+        "is_correct": false
+      },
+      {
+        "text": "The library has wonderfully cosy reading tables.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The sentence gives a measurable observation rather than a judgement or feeling.",
-      "hint": "Look for information that could be checked or measured."
-    }
+      "summary": "The number of tables can be counted; the other sentences evaluate them.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA02-P-003",
@@ -66,28 +92,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Subjective and Objective Language",
-    "question": "Which choice fits reviewing a new playground most accurately?",
-    "audio_prompt": "Which choice fits reviewing a new playground most accurately?",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “I felt disappointed when the art club ended.” What does “disappointed” communicate?",
+    "audio_prompt": "Read: “I felt disappointed when the art club ended.” What does “disappointed” communicate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The new climbing frame is exciting and much better than the old one.",
+        "text": "The time the club ended",
+        "is_correct": false
+      },
+      {
+        "text": "The number of club members",
+        "is_correct": false
+      },
+      {
+        "text": "The writer’s feeling",
         "is_correct": true
       },
       {
-        "text": "The climbing frame is 2.4 metres high.",
-        "is_correct": false
-      },
-      {
-        "text": "The playground opened on Monday.",
+        "text": "The reason the club was cancelled",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Words such as exciting and better express a personal judgement.",
-      "hint": "Opinion words reveal what someone thinks or feels."
-    }
+      "summary": "“Disappointed” names a feeling. The sentence does not supply a time, membership count or cancellation reason.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA02-P-004",
@@ -96,28 +135,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Subjective and Objective Language",
-    "question": "Look closely at reviewing a new playground. Which response or wording works best?",
-    "audio_prompt": "Look closely at reviewing a new playground. Which response or wording works best?",
+    "skill": "subjective_and_objective_language",
+    "question": "A report claims, “The bean plant grew 3 centimetres in a week.” Which record would best check that claim?",
+    "audio_prompt": "A report claims, “The bean plant grew 3 centimetres in a week.” Which record would best check that claim?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The climbing frame is 2.4 metres high.",
+        "text": "A vote about the best-looking plant",
         "is_correct": false
       },
       {
-        "text": "The new climbing frame is exciting and much better than the old one.",
+        "text": "Its measured height only at the end of that week",
+        "is_correct": false
+      },
+      {
+        "text": "A photograph of an unlabelled plant in another garden",
+        "is_correct": false
+      },
+      {
+        "text": "Its measured height at the start and end of that week",
         "is_correct": true
-      },
-      {
-        "text": "The playground opened on Monday.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Words such as exciting and better express a personal judgement.",
-      "hint": "Opinion words reveal what someone thinks or feels."
-    }
+      "summary": "Two dated measurements of the same plant show its growth. One final height does not show how much it grew.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA02-P-005",
@@ -126,28 +178,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Subjective and Objective Language",
-    "question": "Look closely at describing a local weather reading. Which response or wording works best?",
-    "audio_prompt": "Look closely at describing a local weather reading. Which response or wording works best?",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “Our team wore red shirts.” Why is “red” not necessarily opinion language?",
+    "audio_prompt": "Read: “Our team wore red shirts.” Why is “red” not necessarily opinion language?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The afternoon was horribly cold.",
-        "is_correct": false
-      },
-      {
-        "text": "It felt like the worst weather all week.",
-        "is_correct": false
-      },
-      {
-        "text": "At 3 pm the temperature was 19°C.",
+        "text": "It describes a colour that can be checked.",
         "is_correct": true
+      },
+      {
+        "text": "Every adjective expresses a feeling.",
+        "is_correct": false
+      },
+      {
+        "text": "Any sentence about a team is a personal opinion.",
+        "is_correct": false
+      },
+      {
+        "text": "A short word cannot express an opinion.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A temperature reading is observable data, unlike an emotional judgement.",
-      "hint": "Ask whether another observer could verify the same fact."
-    }
+      "summary": "Some adjectives describe checkable features such as colour; adjectives are not automatically subjective.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA02-P-006",
@@ -156,28 +221,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Subjective and Objective Language",
-    "question": "For describing a local weather reading, which option is the strongest match?",
-    "audio_prompt": "For describing a local weather reading, which option is the strongest match?",
+    "skill": "subjective_and_objective_language",
+    "question": "Which wording clearly presents a personal preference about a class book?",
+    "audio_prompt": "Which wording clearly presents a personal preference about a class book?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "At 3 pm the temperature was 19°C.",
+        "text": "The book contains twelve chapters.",
+        "is_correct": false
+      },
+      {
+        "text": "I think this is our funniest class book.",
         "is_correct": true
       },
       {
-        "text": "The afternoon was horribly cold.",
+        "text": "The book was borrowed on Tuesday.",
         "is_correct": false
       },
       {
-        "text": "It felt like the worst weather all week.",
+        "text": "The cover shows a boat.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A temperature reading is observable data, unlike an emotional judgement.",
-      "hint": "Ask whether another observer could verify the same fact."
-    }
+      "summary": "“I think” introduces a viewpoint, and “funniest” evaluates the book.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA02-P-007",
@@ -186,28 +264,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Subjective and Objective Language",
-    "question": "For writing about a school concert, which option is the strongest match?",
-    "audio_prompt": "For writing about a school concert, which option is the strongest match?",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “I counted eighteen chairs in the room.” Which explanation fits this sentence?",
+    "audio_prompt": "Read: “I counted eighteen chairs in the room.” Which explanation fits this sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choir sang three songs.",
+        "text": "It must be opinion because it begins with “I”.",
         "is_correct": false
       },
       {
-        "text": "In my view, the choir gave the most moving performance.",
+        "text": "It gives a feeling about the chairs.",
+        "is_correct": false
+      },
+      {
+        "text": "It reports a count even though it begins with “I”.",
         "is_correct": true
       },
       {
-        "text": "The concert began at 6:30 pm.",
+        "text": "It proves everyone counted the same number.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The phrase in my view signals that the statement is an opinion.",
-      "hint": "Notice phrases that openly show a viewpoint."
-    }
+      "summary": "First person can report an observation. The count can be checked; “I” alone does not make it opinion.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA02-P-008",
@@ -216,28 +307,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Subjective and Objective Language",
-    "question": "Which example should you choose for writing about a school concert?",
-    "audio_prompt": "Which example should you choose for writing about a school concert?",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “The council notice says the pool opens at 9 am. I wish it opened earlier.” Which part states the writer’s preference?",
+    "audio_prompt": "Read: “The council notice says the pool opens at 9 am. I wish it opened earlier.” Which part states the writer’s preference?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choir sang three songs.",
+        "text": "The council notice",
         "is_correct": false
       },
       {
-        "text": "The concert began at 6:30 pm.",
+        "text": "the pool opens",
         "is_correct": false
       },
       {
-        "text": "In my view, the choir gave the most moving performance.",
+        "text": "at 9 am",
+        "is_correct": false
+      },
+      {
+        "text": "I wish it opened earlier.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The phrase in my view signals that the statement is an opinion.",
-      "hint": "Notice phrases that openly show a viewpoint."
-    }
+      "summary": "The wish is the writer’s reaction. The earlier sentence attributes opening-time information to a notice.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA02-P-009",
@@ -245,29 +349,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Subjective and Objective Language",
-    "question": "Which example should you choose for summarising a council notice about water restrictions?",
-    "audio_prompt": "Which example should you choose for summarising a council notice about water restrictions?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A sign says, “The hall seats 240 people.” You have not checked it. Which response is most careful?",
+    "audio_prompt": "A sign says, “The hall seats 240 people.” You have not checked it. Which response is most careful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The notice says garden sprinklers may be used before 10 am.",
+        "text": "The claim is objectively worded, but its accuracy still needs checking.",
         "is_correct": true
       },
       {
-        "text": "The council has made a ridiculous rule.",
+        "text": "It must be true because it includes a number.",
         "is_correct": false
       },
       {
-        "text": "Everyone will hate these restrictions.",
+        "text": "It must be opinion because we have not checked it.",
+        "is_correct": false
+      },
+      {
+        "text": "It cannot be checked because it is on a sign.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The sentence reports what the notice states without adding a judgement.",
-      "hint": "Separate what the source says from how someone feels about it."
-    }
+      "summary": "Checkable wording and verified accuracy are different. A seating plan or reliable capacity record could help.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA02-P-010",
@@ -275,29 +392,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Subjective and Objective Language",
-    "question": "In summarising a council notice about water restrictions, which option best demonstrates the skill?",
-    "audio_prompt": "In summarising a council notice about water restrictions, which option best demonstrates the skill?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “The exhausting walk covered 2 kilometres.” Which revision removes the evaluation and keeps the reported distance?",
+    "audio_prompt": "Read: “The exhausting walk covered 2 kilometres.” Which revision removes the evaluation and keeps the reported distance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The council has made a ridiculous rule.",
+        "text": "The walk covered many kilometres.",
         "is_correct": false
       },
       {
-        "text": "The notice says garden sprinklers may be used before 10 am.",
+        "text": "The walk covered 2 kilometres.",
         "is_correct": true
       },
       {
-        "text": "Everyone will hate these restrictions.",
+        "text": "The easy walk covered 2 kilometres.",
+        "is_correct": false
+      },
+      {
+        "text": "The walk covered 3 kilometres.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The sentence reports what the notice states without adding a judgement.",
-      "hint": "Separate what the source says from how someone feels about it."
-    }
+      "summary": "Removing “exhausting” leaves the same checkable distance without replacing it or adding another judgement.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA02-P-011",
@@ -305,29 +435,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Subjective and Objective Language",
-    "question": "Why does “The bean plant grew 6 centimetres in seven days.” work well for reporting the result of a class plant investigation?",
-    "audio_prompt": "Why does “The bean plant grew 6 centimetres in seven days.” work well for reporting the result of a class plant investigation?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A: “Seven students joined the chess club.” B: “Only seven students joined the chess club.” What does “only” add here?",
+    "audio_prompt": "A: “Seven students joined the chess club.” B: “Only seven students joined the chess club.” What does “only” add here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The bean plant grew amazingly fast.” is always acceptable in this situation.",
+        "text": "A change in the number who joined",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Proof that the club is unpopular with everyone",
         "is_correct": false
       },
       {
-        "text": "The sentence gives a measurable observation rather than a judgement or feeling.",
+        "text": "A suggestion that seven is fewer than the writer wanted or expected",
         "is_correct": true
+      },
+      {
+        "text": "The date when the students joined",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The sentence gives a measurable observation rather than a judgement or feeling.",
-      "hint": "Look for information that could be checked or measured."
-    }
+      "summary": "Both give seven students. “Only” frames that number as small relative to an expectation; it does not prove everyone’s view.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA02-P-012",
@@ -335,29 +478,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Subjective and Objective Language",
-    "question": "What makes “The bean plant grew 6 centimetres in seven days.” a better choice in reporting the result of a class plant investigation?",
-    "audio_prompt": "What makes “The bean plant grew 6 centimetres in seven days.” a better choice in reporting the result of a class plant investigation?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “I believe the shaded bench is the best place to read.” Which phrase introduces the speaker’s viewpoint?",
+    "audio_prompt": "Read: “I believe the shaded bench is the best place to read.” Which phrase introduces the speaker’s viewpoint?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The sentence gives a measurable observation rather than a judgement or feeling.",
+        "text": "the shaded bench",
+        "is_correct": false
+      },
+      {
+        "text": "place to read",
+        "is_correct": false
+      },
+      {
+        "text": "the bench",
+        "is_correct": false
+      },
+      {
+        "text": "I believe",
         "is_correct": true
-      },
-      {
-        "text": "Because “The bean plant grew amazingly fast.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The sentence gives a measurable observation rather than a judgement or feeling.",
-      "hint": "Look for information that could be checked or measured."
-    }
+      "summary": "“I believe” is a thinking-verb phrase introducing this judgement. “Best” also signals evaluation.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA02-P-013",
@@ -365,29 +521,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Subjective and Objective Language",
-    "question": "What makes “The new climbing frame is exciting and much better than the old one.” a better choice in reviewing a new playground?",
-    "audio_prompt": "What makes “The new climbing frame is exciting and much better than the old one.” a better choice in reviewing a new playground?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A group counted 8 paper bags and 3 plastic bags in one collection. Which conclusion stays within those findings?",
+    "audio_prompt": "A group counted 8 paper bags and 3 plastic bags in one collection. Which conclusion stays within those findings?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The climbing frame is 2.4 metres high.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Words such as exciting and better express a personal judgement.",
+        "text": "We concluded that this collection contained more paper bags than plastic bags.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "We concluded that every collection has more paper bags.",
+        "is_correct": false
+      },
+      {
+        "text": "We concluded that plastic bags are never used here.",
+        "is_correct": false
+      },
+      {
+        "text": "We concluded that paper bags are everyone’s favourite.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Words such as exciting and better express a personal judgement.",
-      "hint": "Opinion words reveal what someone thinks or feels."
-    }
+      "summary": "The summary verb reports a conclusion supported by this count. It does not establish other collections or people’s preferences.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA02-P-014",
@@ -395,29 +564,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Subjective and Objective Language",
-    "question": "Which explanation best justifies “The new climbing frame is exciting and much better than the old one.” for reviewing a new playground?",
-    "audio_prompt": "Which explanation best justifies “The new climbing frame is exciting and much better than the old one.” for reviewing a new playground?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “We concluded that our display was the most beautiful.” No visitors were asked and no judging criteria were given. What does “we concluded” establish?",
+    "audio_prompt": "Read: “We concluded that our display was the most beautiful.” No visitors were asked and no judging criteria were given. What does “we concluded” establish?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The climbing frame is 2.4 metres high.” is always acceptable in this situation.",
+        "text": "Everyone agreed with the group.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Words such as exciting and better express a personal judgement.",
+        "text": "The group reached that judgement; the phrase alone does not prove it.",
         "is_correct": true
+      },
+      {
+        "text": "The display received the highest vote.",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence contains no opinion language.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Words such as exciting and better express a personal judgement.",
-      "hint": "Opinion words reveal what someone thinks or feels."
-    }
+      "summary": "A summary verb can introduce a judgement. “Most beautiful” remains evaluative and needs more than a reporting phrase to become a supported finding.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA02-P-015",
@@ -425,29 +607,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Subjective and Objective Language",
-    "question": "Which explanation best justifies “At 3 pm the temperature was 19°C.” for describing a local weather reading?",
-    "audio_prompt": "Which explanation best justifies “At 3 pm the temperature was 19°C.” for describing a local weather reading?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A: “The oval reopened on Friday.” B: “The wonderful oval finally reopened on Friday.” Which information stays the same?",
+    "audio_prompt": "A: “The oval reopened on Friday.” B: “The wonderful oval finally reopened on Friday.” Which information stays the same?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "A temperature reading is observable data, unlike an emotional judgement.",
+        "text": "Everyone likes the oval.",
+        "is_correct": false
+      },
+      {
+        "text": "The reopening was later than expected.",
+        "is_correct": false
+      },
+      {
+        "text": "The oval reopened on Friday.",
         "is_correct": true
       },
       {
-        "text": "Because “The afternoon was horribly cold.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The oval has new grass.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A temperature reading is observable data, unlike an emotional judgement.",
-      "hint": "Ask whether another observer could verify the same fact."
-    }
+      "summary": "Both state the same reopening day. B adds evaluation and a sense of waiting; neither says there is new grass.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA02-P-016",
@@ -455,29 +650,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Subjective and Objective Language",
-    "question": "What should you notice about “At 3 pm the temperature was 19°C.” in describing a local weather reading?",
-    "audio_prompt": "What should you notice about “At 3 pm the temperature was 19°C.” in describing a local weather reading?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A race record lists Sam’s time as 52 seconds. Which sentence gives the result without evaluating the performance?",
+    "audio_prompt": "A race record lists Sam’s time as 52 seconds. Which sentence gives the result without evaluating the performance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The afternoon was horribly cold.” is always acceptable in this situation.",
+        "text": "Sam finished in an amazing 52 seconds.",
         "is_correct": false
       },
       {
-        "text": "A temperature reading is observable data, unlike an emotional judgement.",
+        "text": "Sam was easily the best runner.",
+        "is_correct": false
+      },
+      {
+        "text": "Sam’s run was wonderfully fast.",
+        "is_correct": false
+      },
+      {
+        "text": "Sam finished in 52 seconds.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A temperature reading is observable data, unlike an emotional judgement.",
-      "hint": "Ask whether another observer could verify the same fact."
-    }
+      "summary": "The plain result reports the supplied time. “Amazing”, “best” and “wonderfully” add judgement.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LA02-P-017",
@@ -485,29 +693,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Subjective and Objective Language",
-    "question": "What should you notice about “In my view, the choir gave the most moving performance.” in writing about a school concert?",
-    "audio_prompt": "What should you notice about “In my view, the choir gave the most moving performance.” in writing about a school concert?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A review says, “The concert had six songs. I loved the lively ending.” Why can both sentences belong in a review?",
+    "audio_prompt": "A review says, “The concert had six songs. I loved the lively ending.” Why can both sentences belong in a review?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The choir sang three songs.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "The phrase in my view signals that the statement is an opinion.",
+        "text": "A review can combine checkable details with personal evaluation.",
         "is_correct": true
+      },
+      {
+        "text": "Every sentence in a review must be opinion.",
+        "is_correct": false
+      },
+      {
+        "text": "The song count makes the feeling a proven fact.",
+        "is_correct": false
+      },
+      {
+        "text": "A review cannot include a writer’s response.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The phrase in my view signals that the statement is an opinion.",
-      "hint": "Notice phrases that openly show a viewpoint."
-    }
+      "summary": "Purpose does not force every sentence into one category. Read each claim and its wording.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LA02-P-018",
@@ -515,29 +736,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Subjective and Objective Language",
-    "question": "Which reason explains why “In my view, the choir gave the most moving performance.” suits writing about a school concert?",
-    "audio_prompt": "Which reason explains why “In my view, the choir gave the most moving performance.” suits writing about a school concert?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “Mina said, ‘The mural is gorgeous.’” Which account keeps the opinion clearly attributed?",
+    "audio_prompt": "Read: “Mina said, ‘The mural is gorgeous.’” Which account keeps the opinion clearly attributed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The phrase in my view signals that the statement is an opinion.",
+        "text": "The mural is gorgeous to everyone.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina described the mural as gorgeous.",
         "is_correct": true
       },
       {
-        "text": "Because “The choir sang three songs.” is always acceptable in this situation.",
+        "text": "The mural has been proved gorgeous.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Nobody thinks the mural is gorgeous.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The phrase in my view signals that the statement is an opinion.",
-      "hint": "Notice phrases that openly show a viewpoint."
-    }
+      "summary": "The sentence reports Mina’s viewpoint. Reporting that she said it does not make the judgement universal.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LA02-P-019",
@@ -545,29 +779,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Subjective and Objective Language",
-    "question": "Which reason explains why “The notice says garden sprinklers may be used before 10 am.” suits summarising a council notice about water restrictions?",
-    "audio_prompt": "Which reason explains why “The notice says garden sprinklers may be used before 10 am.” suits summarising a council notice about water restrictions?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "Notes: “The bus left at 10 am.” Which subjective version keeps that event and time?",
+    "audio_prompt": "Notes: “The bus left at 10 am.” Which subjective version keeps that event and time?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The council has made a ridiculous rule.” is always acceptable in this situation.",
+        "text": "The bus left at a wonderfully late 11 am.",
         "is_correct": false
       },
       {
-        "text": "The sentence reports what the notice states without adding a judgement.",
+        "text": "The bus might leave tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "The bus left at an annoyingly early 10 am.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The bus never arrived at the stop.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The sentence reports what the notice states without adding a judgement.",
-      "hint": "Separate what the source says from how someone feels about it."
-    }
+      "summary": "“The bus left at an annoyingly early 10 am” preserves the departure and time, while adding the writer’s reaction to how early it felt.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LA02-P-020",
@@ -575,29 +822,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Subjective and Objective Language",
-    "question": "Why does “The notice says garden sprinklers may be used before 10 am.” work well for summarising a council notice about water restrictions?",
-    "audio_prompt": "Why does “The notice says garden sprinklers may be used before 10 am.” work well for summarising a council notice about water restrictions?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “I think the museum has three floors, but I need to check its map.” Which explanation reads the whole claim carefully?",
+    "audio_prompt": "Read: “I think the museum has three floors, but I need to check its map.” Which explanation reads the whole claim carefully?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The council has made a ridiculous rule.” is always acceptable in this situation.",
+        "text": "“I think” makes the number a personal taste.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The sentence proves that the museum has three floors.",
         "is_correct": false
       },
       {
-        "text": "The sentence reports what the notice states without adding a judgement.",
+        "text": "No evidence could help settle this claim.",
+        "is_correct": false
+      },
+      {
+        "text": "The speaker is unsure about a checkable number of floors.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The sentence reports what the notice states without adding a judgement.",
-      "hint": "Separate what the source says from how someone feels about it."
-    }
+      "summary": "A thinking phrase can show uncertainty about a factual claim. Here it does not turn the floor count into a preference.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LA02-P-021",
@@ -605,29 +865,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Subjective and Objective Language",
-    "question": "Which revision best fixes the problem in “The bean plant grew amazingly fast.” for reporting the result of a class plant investigation?",
-    "audio_prompt": "Which revision best fixes the problem in “The bean plant grew amazingly fast.” for reporting the result of a class plant investigation?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “Twenty people visited the stall, which was a huge success.” Which words add an evaluation to the count?",
+    "audio_prompt": "Read: “Twenty people visited the stall, which was a huge success.” Which words add an evaluation to the count?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bean plant grew 6 centimetres in seven days.",
+        "text": "a huge success",
         "is_correct": true
       },
       {
-        "text": "The bean plant grew amazingly fast.",
+        "text": "Twenty people",
         "is_correct": false
       },
       {
-        "text": "I loved how tall the bean plant became.",
+        "text": "visited the stall",
+        "is_correct": false
+      },
+      {
+        "text": "the stall",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The sentence gives a measurable observation rather than a judgement or feeling. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for information that could be checked or measured."
-    }
+      "summary": "“A huge success” judges the outcome. A count alone does not tell us what success target was intended.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LA02-P-022",
@@ -635,29 +908,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Subjective and Objective Language",
-    "question": "Compare the choices for reporting the result of a class plant investigation. Which one avoids the mistake in “The bean plant grew amazingly fast.”?",
-    "audio_prompt": "Compare the choices for reporting the result of a class plant investigation. Which one avoids the mistake in “The bean plant grew amazingly fast.”?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A student writes, “The thermometer read 18 degrees Celsius.” Which question would best check this report?",
+    "audio_prompt": "A student writes, “The thermometer read 18 degrees Celsius.” Which question would best check this report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bean plant grew amazingly fast.",
+        "text": "Did everyone enjoy the weather?",
         "is_correct": false
       },
       {
-        "text": "The bean plant grew 6 centimetres in seven days.",
+        "text": "What reading was recorded on that thermometer at that time?",
         "is_correct": true
       },
       {
-        "text": "I loved how tall the bean plant became.",
+        "text": "Was 18 degrees pleasant for the writer?",
+        "is_correct": false
+      },
+      {
+        "text": "Would a warmer day have been better?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The sentence gives a measurable observation rather than a judgement or feeling. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for information that could be checked or measured."
-    }
+      "summary": "The report is about an instrument reading. Comfort and preference are different questions.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LA02-P-023",
@@ -665,29 +951,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Subjective and Objective Language",
-    "question": "Compare the choices for reviewing a new playground. Which one avoids the mistake in “The climbing frame is 2.4 metres high.”?",
-    "audio_prompt": "Compare the choices for reviewing a new playground. Which one avoids the mistake in “The climbing frame is 2.4 metres high.”?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A: “The class made twelve posters.” B: “The class made twelve brilliant posters.” Which words should be removed from B to match A’s objective wording?",
+    "audio_prompt": "A: “The class made twelve posters.” B: “The class made twelve brilliant posters.” Which words should be removed from B to match A’s objective wording?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The climbing frame is 2.4 metres high.",
+        "text": "twelve",
         "is_correct": false
       },
       {
-        "text": "The playground opened on Monday.",
+        "text": "The class",
         "is_correct": false
       },
       {
-        "text": "The new climbing frame is exciting and much better than the old one.",
+        "text": "brilliant",
         "is_correct": true
+      },
+      {
+        "text": "made",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Words such as exciting and better express a personal judgement. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Opinion words reveal what someone thinks or feels."
-    }
+      "summary": "Only “brilliant” supplies evaluation. Removing twelve would discard the shared count.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LA02-P-024",
@@ -695,29 +994,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Subjective and Objective Language",
-    "question": "If “The climbing frame is 2.4 metres high.” does not work in reviewing a new playground, what should replace it?",
-    "audio_prompt": "If “The climbing frame is 2.4 metres high.” does not work in reviewing a new playground, what should replace it?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A reader says, “Both of us agree the story is boring, so that is a fact.” Which reply is accurate?",
+    "audio_prompt": "A reader says, “Both of us agree the story is boring, so that is a fact.” Which reply is accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The new climbing frame is exciting and much better than the old one.",
+        "text": "Two readers can never share an opinion.",
+        "is_correct": false
+      },
+      {
+        "text": "The word “story” proves the sentence is factual.",
+        "is_correct": false
+      },
+      {
+        "text": "An opinion cannot have any reason behind it.",
+        "is_correct": false
+      },
+      {
+        "text": "Agreement does not turn an evaluation into an objective fact.",
         "is_correct": true
-      },
-      {
-        "text": "The climbing frame is 2.4 metres high.",
-        "is_correct": false
-      },
-      {
-        "text": "The playground opened on Monday.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Words such as exciting and better express a personal judgement. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Opinion words reveal what someone thinks or feels."
-    }
+      "summary": "People can share a well-reasoned judgement, but “boring” still describes their response.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LA02-P-025",
@@ -725,29 +1037,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Subjective and Objective Language",
-    "question": "If “The afternoon was horribly cold.” does not work in describing a local weather reading, what should replace it?",
-    "audio_prompt": "If “The afternoon was horribly cold.” does not work in describing a local weather reading, what should replace it?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A table shows Team A collected 14 cans and Team B collected 9 cans. Which sentence summarises these findings without adding a preference?",
+    "audio_prompt": "A table shows Team A collected 14 cans and Team B collected 9 cans. Which sentence summarises these findings without adding a preference?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The afternoon was horribly cold.",
-        "is_correct": false
-      },
-      {
-        "text": "At 3 pm the temperature was 19°C.",
+        "text": "We concluded that Team A collected more cans in this count.",
         "is_correct": true
       },
       {
-        "text": "It felt like the worst weather all week.",
+        "text": "We concluded that Team A is always the best team.",
+        "is_correct": false
+      },
+      {
+        "text": "We concluded that Team B did not care about recycling.",
+        "is_correct": false
+      },
+      {
+        "text": "We concluded that collecting cans is everyone’s favourite job.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A temperature reading is observable data, unlike an emotional judgement. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask whether another observer could verify the same fact."
-    }
+      "summary": "The supplied totals support only the comparison for this count, not motives, lasting rankings or preferences.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LA02-P-026",
@@ -755,29 +1080,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Subjective and Objective Language",
-    "question": "Which option corrects the meaning or form needed for describing a local weather reading?",
-    "audio_prompt": "Which option corrects the meaning or form needed for describing a local weather reading?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “I believe the last chapter is the strongest because it brings the two clues together.” What does the reason do?",
+    "audio_prompt": "Read: “I believe the last chapter is the strongest because it brings the two clues together.” What does the reason do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The afternoon was horribly cold.",
+        "text": "It changes “strongest” into a measured fact.",
         "is_correct": false
       },
       {
-        "text": "It felt like the worst weather all week.",
-        "is_correct": false
-      },
-      {
-        "text": "At 3 pm the temperature was 19°C.",
+        "text": "It supports the reader’s judgement without making every reader agree.",
         "is_correct": true
+      },
+      {
+        "text": "It proves the chapter has the most pages.",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the writer’s viewpoint.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A temperature reading is observable data, unlike an emotional judgement. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask whether another observer could verify the same fact."
-    }
+      "summary": "An opinion can be supported by text evidence. Readers may still judge its effectiveness differently.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LA02-P-027",
@@ -785,29 +1123,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Subjective and Objective Language",
-    "question": "Which option corrects the meaning or form needed for writing about a school concert?",
-    "audio_prompt": "Which option corrects the meaning or form needed for writing about a school concert?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "You need a neutral report from these notes: “Three new trees were planted beside the gate.” Which edit keeps all the supplied information?",
+    "audio_prompt": "You need a neutral report from these notes: “Three new trees were planted beside the gate.” Which edit keeps all the supplied information?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "In my view, the choir gave the most moving performance.",
+        "text": "Three beautiful new trees were planted beside the gate.",
+        "is_correct": false
+      },
+      {
+        "text": "Several new trees were planted somewhere at school.",
+        "is_correct": false
+      },
+      {
+        "text": "Three new trees were planted beside the gate.",
         "is_correct": true
       },
       {
-        "text": "The choir sang three songs.",
-        "is_correct": false
-      },
-      {
-        "text": "The concert began at 6:30 pm.",
+        "text": "Four new trees were planted beside the hall.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The phrase in my view signals that the statement is an opinion. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Notice phrases that openly show a viewpoint."
-    }
+      "summary": "The unchanged count, new trees and location meet the reporting purpose without evaluation or invented changes.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LA02-P-028",
@@ -815,29 +1166,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Subjective and Objective Language",
-    "question": "Which choice is the clearest correction for writing about a school concert?",
-    "audio_prompt": "Which choice is the clearest correction for writing about a school concert?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “The puppy has brown fur and an adorable face.” Which pair correctly separates descriptive and evaluative wording?",
+    "audio_prompt": "Read: “The puppy has brown fur and an adorable face.” Which pair correctly separates descriptive and evaluative wording?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choir sang three songs.",
+        "text": "“brown fur” is evaluation; “adorable” is a measurement.",
         "is_correct": false
       },
       {
-        "text": "In my view, the choir gave the most moving performance.",
+        "text": "Both phrases give exact measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither phrase describes the puppy.",
+        "is_correct": false
+      },
+      {
+        "text": "“brown fur” is checkable description; “adorable” is evaluation.",
         "is_correct": true
-      },
-      {
-        "text": "The concert began at 6:30 pm.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The phrase in my view signals that the statement is an opinion. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Notice phrases that openly show a viewpoint."
-    }
+      "summary": "Colour can be checked against the puppy; “adorable” expresses an approving response.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LA02-P-029",
@@ -845,29 +1209,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Subjective and Objective Language",
-    "question": "Which choice is the clearest correction for summarising a council notice about water restrictions?",
-    "audio_prompt": "Which choice is the clearest correction for summarising a council notice about water restrictions?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A notice says, “The exhibition contains 30 photographs.” Which addition would clearly signal a personal response?",
+    "audio_prompt": "A notice says, “The exhibition contains 30 photographs.” Which addition would clearly signal a personal response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The council has made a ridiculous rule.",
-        "is_correct": false
-      },
-      {
-        "text": "Everyone will hate these restrictions.",
-        "is_correct": false
-      },
-      {
-        "text": "The notice says garden sprinklers may be used before 10 am.",
+        "text": "I found the animal photographs fascinating.",
         "is_correct": true
+      },
+      {
+        "text": "Five photographs show animals.",
+        "is_correct": false
+      },
+      {
+        "text": "Each photograph has a label.",
+        "is_correct": false
+      },
+      {
+        "text": "The exhibition opens at 11 am.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The sentence reports what the notice states without adding a judgement. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Separate what the source says from how someone feels about it."
-    }
+      "summary": "“I found” and “fascinating” present the writer’s reaction rather than a count, feature or opening time.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LA02-P-030",
@@ -875,29 +1252,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Subjective and Objective Language",
-    "question": "Which revision best fixes the problem in “The council has made a ridiculous rule.” for summarising a council notice about water restrictions?",
-    "audio_prompt": "Which revision best fixes the problem in “The council has made a ridiculous rule.” for summarising a council notice about water restrictions?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “According to the results sheet, Talia scored 16 points. Her coach called it a brilliant performance.” Which claim is attributed to the coach?",
+    "audio_prompt": "Read: “According to the results sheet, Talia scored 16 points. Her coach called it a brilliant performance.” Which claim is attributed to the coach?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The notice says garden sprinklers may be used before 10 am.",
+        "text": "That the sheet has sixteen pages",
+        "is_correct": false
+      },
+      {
+        "text": "That the performance was brilliant",
         "is_correct": true
       },
       {
-        "text": "The council has made a ridiculous rule.",
+        "text": "That all players scored sixteen points",
         "is_correct": false
       },
       {
-        "text": "Everyone will hate these restrictions.",
+        "text": "That Talia disliked the game",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The sentence reports what the notice states without adding a judgement. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Separate what the source says from how someone feels about it."
-    }
+      "summary": "“Brilliant performance” is the coach’s evaluation. The separate score is attributed to the results sheet.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LA02-P-031",
@@ -906,28 +1296,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "You now need to handle reporting the result of a class plant investigation independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle reporting the result of a class plant investigation independently. Which choice should you use?",
+    "skill": "subjective_and_objective_language",
+    "question": "A: “The queue had nine people.” B: “The queue had far too many people.” Why is B not a full replacement for A in a count report?",
+    "audio_prompt": "A: “The queue had nine people.” B: “The queue had far too many people.” Why is B not a full replacement for A in a count report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I loved how tall the bean plant became.",
+        "text": "B gives a more exact count than A.",
         "is_correct": false
       },
       {
-        "text": "The bean plant grew 6 centimetres in seven days.",
+        "text": "B proves that the queue was unsafe.",
+        "is_correct": false
+      },
+      {
+        "text": "B replaces the exact count with the writer’s judgement about its size.",
         "is_correct": true
       },
       {
-        "text": "The bean plant grew amazingly fast.",
+        "text": "B keeps all of A’s number information.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The sentence gives a measurable observation rather than a judgement or feeling.",
-      "hint": "Look for information that could be checked or measured."
-    }
+      "summary": "“Far too many” evaluates the number without stating nine or proving a safety limit.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LA02-P-032",
@@ -936,28 +1339,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Apply the same idea to reporting the result of a class plant investigation. Which option is best?",
-    "audio_prompt": "Apply the same idea to reporting the result of a class plant investigation. Which option is best?",
+    "skill": "subjective_and_objective_language",
+    "question": "A class tested two paper planes once. Plane A flew 4 metres and B flew 3 metres. Which report avoids claiming more than this test shows?",
+    "audio_prompt": "A class tested two paper planes once. Plane A flew 4 metres and B flew 3 metres. Which report avoids claiming more than this test shows?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I loved how tall the bean plant became.",
+        "text": "We concluded that A will always fly farther.",
         "is_correct": false
       },
       {
-        "text": "The bean plant grew amazingly fast.",
+        "text": "We concluded that B can never fly 4 metres.",
         "is_correct": false
       },
       {
-        "text": "The bean plant grew 6 centimetres in seven days.",
+        "text": "We concluded that everyone should prefer A’s colour.",
+        "is_correct": false
+      },
+      {
+        "text": "We concluded that A flew farther in this test.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The sentence gives a measurable observation rather than a judgement or feeling.",
-      "hint": "Look for information that could be checked or measured."
-    }
+      "summary": "One recorded trial supports an in-this-test comparison; it does not establish every future flight.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LA02-P-033",
@@ -966,28 +1382,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Apply the same idea to reviewing a new playground. Which option is best?",
-    "audio_prompt": "Apply the same idea to reviewing a new playground. Which option is best?",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “The movie lasts 70 minutes, but the ending feels rushed.” Which account describes the two parts?",
+    "audio_prompt": "Read: “The movie lasts 70 minutes, but the ending feels rushed.” Which account describes the two parts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The new climbing frame is exciting and much better than the old one.",
+        "text": "A checkable running-time claim followed by an evaluation",
         "is_correct": true
       },
       {
-        "text": "The playground opened on Monday.",
+        "text": "Two measurements of the movie’s length",
         "is_correct": false
       },
       {
-        "text": "The climbing frame is 2.4 metres high.",
+        "text": "Two preferences about the ending",
+        "is_correct": false
+      },
+      {
+        "text": "A feeling followed by an exact count of scenes",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Words such as exciting and better express a personal judgement.",
-      "hint": "Opinion words reveal what someone thinks or feels."
-    }
+      "summary": "The number reports duration; “feels rushed” judges the pace of the ending.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LA02-P-034",
@@ -996,28 +1425,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Which decision would produce the clearest result in reviewing a new playground?",
-    "audio_prompt": "Which decision would produce the clearest result in reviewing a new playground?",
+    "skill": "subjective_and_objective_language",
+    "question": "You are revising “The awful storm dropped 12 millimetres of rain.” Which version keeps the rainfall amount and removes only the evaluation?",
+    "audio_prompt": "You are revising “The awful storm dropped 12 millimetres of rain.” Which version keeps the rainfall amount and removes only the evaluation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The playground opened on Monday.",
+        "text": "The gentle storm dropped 12 millimetres of rain.",
         "is_correct": false
       },
       {
-        "text": "The new climbing frame is exciting and much better than the old one.",
+        "text": "The storm dropped 12 millimetres of rain.",
         "is_correct": true
       },
       {
-        "text": "The climbing frame is 2.4 metres high.",
+        "text": "The storm dropped 20 millimetres of rain.",
+        "is_correct": false
+      },
+      {
+        "text": "The awful storm brought some rain.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Words such as exciting and better express a personal judgement.",
-      "hint": "Opinion words reveal what someone thinks or feels."
-    }
+      "summary": "Remove “awful”, preserve the event and recorded amount, and avoid adding a replacement judgement.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LA02-P-035",
@@ -1026,28 +1468,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Which decision would produce the clearest result in describing a local weather reading?",
-    "audio_prompt": "Which decision would produce the clearest result in describing a local weather reading?",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “I believe our class needs a longer lunch break.” What would most clearly identify this as the writer’s proposed preference?",
+    "audio_prompt": "Read: “I believe our class needs a longer lunch break.” What would most clearly identify this as the writer’s proposed preference?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "It felt like the worst weather all week.",
+        "text": "The word “class” gives a measured result.",
         "is_correct": false
       },
       {
-        "text": "The afternoon was horribly cold.",
+        "text": "The sentence states the current break length.",
         "is_correct": false
       },
       {
-        "text": "At 3 pm the temperature was 19°C.",
+        "text": "The phrase “I believe” introduces the writer’s view about what should change.",
         "is_correct": true
+      },
+      {
+        "text": "The sentence reports a vote by the whole school.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A temperature reading is observable data, unlike an emotional judgement.",
-      "hint": "Ask whether another observer could verify the same fact."
-    }
+      "summary": "It proposes a change from a personal viewpoint; no break duration or school vote is supplied.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LA02-P-036",
@@ -1056,28 +1511,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Choose the option that applies the skill correctly in describing a local weather reading.",
-    "audio_prompt": "Choose the option that applies the skill correctly in describing a local weather reading.",
+    "skill": "subjective_and_objective_language",
+    "question": "A student writes, “Everyone thinks the new logo is terrific.” Only Jo has been asked, and Jo said, “The new logo is terrific.” Which revision keeps what is actually known?",
+    "audio_prompt": "A student writes, “Everyone thinks the new logo is terrific.” Only Jo has been asked, and Jo said, “The new logo is terrific.” Which revision keeps what is actually known?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "At 3 pm the temperature was 19°C.",
+        "text": "The new logo is terrific to every visitor.",
+        "is_correct": false
+      },
+      {
+        "text": "Nobody likes the new logo.",
+        "is_correct": false
+      },
+      {
+        "text": "The new logo won an award.",
+        "is_correct": false
+      },
+      {
+        "text": "Jo thinks the new logo is terrific.",
         "is_correct": true
-      },
-      {
-        "text": "It felt like the worst weather all week.",
-        "is_correct": false
-      },
-      {
-        "text": "The afternoon was horribly cold.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A temperature reading is observable data, unlike an emotional judgement.",
-      "hint": "Ask whether another observer could verify the same fact."
-    }
+      "summary": "Attribute the judgement to the person asked; do not invent a wider survey, opposite view or award.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LA02-P-037",
@@ -1086,28 +1554,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Choose the option that applies the skill correctly in writing about a school concert.",
-    "audio_prompt": "Choose the option that applies the skill correctly in writing about a school concert.",
+    "skill": "subjective_and_objective_language",
+    "question": "An author describes two identical lunchboxes: A “a useful box with two compartments”; B “a box with two compartments”. Which word in A evaluates usefulness?",
+    "audio_prompt": "An author describes two identical lunchboxes: A “a useful box with two compartments”; B “a box with two compartments”. Which word in A evaluates usefulness?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The concert began at 6:30 pm.",
-        "is_correct": false
-      },
-      {
-        "text": "In my view, the choir gave the most moving performance.",
+        "text": "useful",
         "is_correct": true
       },
       {
-        "text": "The choir sang three songs.",
+        "text": "two",
+        "is_correct": false
+      },
+      {
+        "text": "compartments",
+        "is_correct": false
+      },
+      {
+        "text": "box",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The phrase in my view signals that the statement is an opinion.",
-      "hint": "Notice phrases that openly show a viewpoint."
-    }
+      "summary": "Both descriptions retain two compartments; “useful” adds a judgement about how helpful the box is.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LA02-P-038",
@@ -1116,28 +1597,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "What would be the most effective choice for writing about a school concert?",
-    "audio_prompt": "What would be the most effective choice for writing about a school concert?",
+    "skill": "subjective_and_objective_language",
+    "question": "A team weighed each of three parcels. All weighed less than 1 kilogram. Which ending reports only the supplied findings?",
+    "audio_prompt": "A team weighed each of three parcels. All weighed less than 1 kilogram. Which ending reports only the supplied findings?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The concert began at 6:30 pm.",
+        "text": "We concluded that every parcel sent anywhere weighs less than 1 kilogram.",
         "is_correct": false
       },
       {
-        "text": "The choir sang three songs.",
-        "is_correct": false
-      },
-      {
-        "text": "In my view, the choir gave the most moving performance.",
+        "text": "We concluded that these three parcels each weighed less than 1 kilogram.",
         "is_correct": true
+      },
+      {
+        "text": "We concluded that the parcels contained the best gifts.",
+        "is_correct": false
+      },
+      {
+        "text": "We concluded that all three parcels had the same mass.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The phrase in my view signals that the statement is an opinion.",
-      "hint": "Notice phrases that openly show a viewpoint."
-    }
+      "summary": "Each was below a limit, but their exact masses, contents and all other parcels are not established.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LA02-P-039",
@@ -1146,28 +1640,41 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "What would be the most effective choice for summarising a council notice about water restrictions?",
-    "audio_prompt": "What would be the most effective choice for summarising a council notice about water restrictions?",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “The school gate is 1.5 metres wide.” A careful measurement later shows it is 1.2 metres wide. What should you say about the original wording?",
+    "audio_prompt": "Read: “The school gate is 1.5 metres wide.” A careful measurement later shows it is 1.2 metres wide. What should you say about the original wording?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The notice says garden sprinklers may be used before 10 am.",
+        "text": "It was an opinion about which width is nicest.",
+        "is_correct": false
+      },
+      {
+        "text": "Numbers cannot ever be inaccurate.",
+        "is_correct": false
+      },
+      {
+        "text": "It was an objectively worded claim, but the measurement showed it was inaccurate.",
         "is_correct": true
       },
       {
-        "text": "Everyone will hate these restrictions.",
-        "is_correct": false
-      },
-      {
-        "text": "The council has made a ridiculous rule.",
+        "text": "The measurement turned a preference into a fact.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The sentence reports what the notice states without adding a judgement.",
-      "hint": "Separate what the source says from how someone feels about it."
-    }
+      "summary": "Objective language can communicate an incorrect factual claim. Checking the evidence matters.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LA02-P-040",
@@ -1176,28 +1683,289 @@
     "curriculum_code": "AC9E4LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "You now need to handle summarising a council notice about water restrictions independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle summarising a council notice about water restrictions independently. Which choice should you use?",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “The garden has ten roses. I wish there were more sunflowers.” Which report keeps the known garden count separate from the writer’s wish?",
+    "audio_prompt": "Read: “The garden has ten roses. I wish there were more sunflowers.” Which report keeps the known garden count separate from the writer’s wish?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Everyone will hate these restrictions.",
+        "text": "The garden has ten sunflowers and no roses.",
         "is_correct": false
       },
       {
-        "text": "The notice says garden sprinklers may be used before 10 am.",
+        "text": "Everyone agrees that roses are unsuitable.",
+        "is_correct": false
+      },
+      {
+        "text": "The wish proves the garden has too few flowers.",
+        "is_correct": false
+      },
+      {
+        "text": "The garden has ten roses; the writer would prefer more sunflowers.",
         "is_correct": true
-      },
-      {
-        "text": "The council has made a ridiculous rule.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The sentence reports what the notice states without adding a judgement.",
-      "hint": "Separate what the source says from how someone feels about it."
-    }
+      "summary": "Keep the reported rose count and label the personal preference without inventing the sunflower count.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LA02-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “The class display has nine paintings. Its dazzling colours made me feel cheerful.” Quote one checkable detail and two words that show evaluation or feeling. Explain the difference.",
+    "audio_prompt": "Read: “The class display has nine paintings. Its dazzling colours made me feel cheerful.” Quote one checkable detail and two words that show evaluation or feeling. Explain the difference.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“Nine paintings” is a count to check. “Dazzling” evaluates the colours and “cheerful” names the writer’s feeling.",
+    "acceptance_note": "Require the count and both appropriate word-level clues with a distinction between checking a detail and interpreting a response.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "“Nine paintings” is a count to check. “Dazzling” evaluates the colours and “cheerful” names the writer’s feeling.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LA02-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "subjective_and_objective_language",
+    "question": "Rewrite “The delightful picnic lasted two hours in the school garden” as an objective report. Keep the time and place. Then explain what you removed.",
+    "audio_prompt": "Rewrite “The delightful picnic lasted two hours in the school garden” as an objective report. Keep the time and place. Then explain what you removed.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The picnic lasted two hours in the school garden. I removed “delightful”, which judges the picnic.",
+    "acceptance_note": "Require unchanged event, two hours and school garden; remove evaluation and explain its role.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The picnic lasted two hours in the school garden. I removed “delightful”, which judges the picnic.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LA02-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "subjective_and_objective_language",
+    "question": "Notes: “The aquarium visit began at 1 pm and ended at 2 pm.” Write one objective report sentence and one clearly labelled opinion about that visit. Include both times in the report.",
+    "audio_prompt": "Notes: “The aquarium visit began at 1 pm and ended at 2 pm.” Write one objective report sentence and one clearly labelled opinion about that visit. Include both times in the report.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Report: The aquarium visit ran from 1 pm to 2 pm. Opinion: I think the visit would be enjoyable because I like watching fish.",
+    "acceptance_note": "Require an accurate report of both times and a clearly signalled imagined personal opinion, not an invented shared fact. Accept any appropriate preference; a reason is welcome but not required.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Report: The aquarium visit ran from 1 pm to 2 pm. Opinion: I think the visit would be enjoyable because I like watching fish.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LA02-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "subjective_and_objective_language",
+    "question": "Write a personal opinion about reading outdoors using “I believe”. Underline or copy the thinking-verb phrase, then explain which words express your judgement.",
+    "audio_prompt": "Write a personal opinion about reading outdoors using “I believe”. Underline or copy the thinking-verb phrase, then explain which words express your judgement.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "I believe reading outdoors is relaxing. “I believe” introduces my view; “relaxing” tells how it feels to me.",
+    "acceptance_note": "Require an actual original opinion, “I believe”, and specific thinking/evaluation wording identified.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "I believe reading outdoors is relaxing. “I believe” introduces my view; “relaxing” tells how it feels to me.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LA02-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "subjective_and_objective_language",
+    "question": "Findings: “In our class vote, 13 chose a mystery and 7 chose a comedy.” Write a sentence beginning “We concluded” comparing how many chose each type. Explain why it cannot tell us the whole school’s favourite.",
+    "audio_prompt": "Findings: “In our class vote, 13 chose a mystery and 7 chose a comedy.” Write a sentence beginning “We concluded” comparing how many chose each type. Explain why it cannot tell us the whole school’s favourite.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "We concluded that more voters in our class chose a mystery than a comedy. Only this class voted, so we cannot claim the whole school preferred it.",
+    "acceptance_note": "Require the correct within-class comparison and explicit limit on the group surveyed. Do not accept “everyone preferred mystery”.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "We concluded that more voters in our class chose a mystery than a comedy. Only this class voted, so we cannot claim the whole school preferred it.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LA02-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "subjective_and_objective_language",
+    "question": "A: “The new bridge is 20 metres long.” B: “The impressive new bridge is 20 metres long.” Explain what stays the same and what B adds.",
+    "audio_prompt": "A: “The new bridge is 20 metres long.” B: “The impressive new bridge is 20 metres long.” Explain what stays the same and what B adds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Both report a new bridge 20 metres long. B adds “impressive”, showing admiration without changing the measurement.",
+    "acceptance_note": "Require the shared new bridge/length, exact evaluative word and its effect.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Both report a new bridge 20 metres long. B adds “impressive”, showing admiration without changing the measurement.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LA02-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “Asha said the lunch was delicious. Therefore, the lunch was delicious for everyone.” Rewrite the second sentence so it does not turn Asha’s opinion into everyone’s view. Explain your change.",
+    "audio_prompt": "Read: “Asha said the lunch was delicious. Therefore, the lunch was delicious for everyone.” Rewrite the second sentence so it does not turn Asha’s opinion into everyone’s view. Explain your change.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "This tells us Asha enjoyed the lunch, but we do not know everyone’s opinion. I limited the claim to the person whose response was reported.",
+    "acceptance_note": "Require accurate attribution and no invented survey, agreement or opposite preference.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "This tells us Asha enjoyed the lunch, but we do not know everyone’s opinion. I limited the claim to the person whose response was reported.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LA02-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA02",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "subjective_and_objective_language",
+    "question": "Write two short sentences about this record: “Our group planted 6 seedlings on Monday.” First report the information objectively. Then add your own clearly signalled reaction. Explain one word that signals your reaction.",
+    "audio_prompt": "Write two short sentences about this record: “Our group planted 6 seedlings on Monday.” First report the information objectively. Then add your own clearly signalled reaction. Explain one word that signals your reaction.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Our group planted 6 seedlings on Monday. I think this was a promising start. “Promising” expresses my judgement about the start.",
+    "acceptance_note": "Require six seedlings, group and Monday preserved; a separately identified judgement/feeling and an exact word clue.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Our group planted 6 seedlings on Monday. I think this was a promising start. “Promising” expresses my judgement about the start.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LA02-T-001",
@@ -1205,29 +1973,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Subjective and Objective Language",
-    "question": "New context: writing a review of a wildlife documentary. Which option is correct?",
-    "audio_prompt": "New context: writing a review of a wildlife documentary. Which option is correct?",
+    "stage": "recognise",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “The remarkable model train has eight carriages.” Which word is evaluative?",
+    "audio_prompt": "Read: “The remarkable model train has eight carriages.” Which word is evaluative?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The program runs for 48 minutes.",
-        "is_correct": false
-      },
-      {
-        "text": "The film includes footage of coral reefs.",
-        "is_correct": false
-      },
-      {
-        "text": "The underwater footage is breathtaking.",
+        "text": "remarkable",
         "is_correct": true
+      },
+      {
+        "text": "model",
+        "is_correct": false
+      },
+      {
+        "text": "eight",
+        "is_correct": false
+      },
+      {
+        "text": "carriages",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
-      "hint": "Look for language that judges quality."
-    }
+      "summary": "“Remarkable” judges the train; eight carriages is a count that could be checked.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA02-T-002",
@@ -1235,29 +2016,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Subjective and Objective Language",
-    "question": "What is the best choice for writing a review of a wildlife documentary?",
-    "audio_prompt": "What is the best choice for writing a review of a wildlife documentary?",
+    "stage": "recognise",
+    "skill": "subjective_and_objective_language",
+    "question": "A guide claims, “The tower has 45 steps.” Before checking it, what can you conclude about that sentence?",
+    "audio_prompt": "A guide claims, “The tower has 45 steps.” Before checking it, what can you conclude about that sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The underwater footage is breathtaking.",
+        "text": "It must be correct because the number is precise.",
+        "is_correct": false
+      },
+      {
+        "text": "It uses objective wording for a claim that can be checked.",
         "is_correct": true
       },
       {
-        "text": "The program runs for 48 minutes.",
+        "text": "It is a preference about climbing stairs.",
         "is_correct": false
       },
       {
-        "text": "The film includes footage of coral reefs.",
+        "text": "It cannot be checked unless everyone agrees.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
-      "hint": "Look for language that judges quality."
-    }
+      "summary": "A precise count remains a claim until checked against suitable evidence.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA02-T-003",
@@ -1265,29 +2059,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Subjective and Objective Language",
-    "question": "Which explanation best supports “The underwater footage is breathtaking.” in writing a review of a wildlife documentary?",
-    "audio_prompt": "Which explanation best supports “The underwater footage is breathtaking.” in writing a review of a wildlife documentary?",
+    "stage": "recognise",
+    "skill": "subjective_and_objective_language",
+    "question": "A group measured a shadow at 10 am and noon. It was shorter at noon. Which conclusion stays within those observations?",
+    "audio_prompt": "A group measured a shadow at 10 am and noon. It was shorter at noon. Which conclusion stays within those observations?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The program runs for 48 minutes.” is always a safe choice.",
+        "text": "We concluded that every shadow is always short.",
         "is_correct": false
       },
       {
-        "text": "Breathtaking evaluates the footage and shows the writer’s response.",
+        "text": "We concluded that noon is the most enjoyable time.",
+        "is_correct": false
+      },
+      {
+        "text": "We concluded that this shadow was shorter at noon than at 10 am.",
         "is_correct": true
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "We concluded that the shadow stayed the same length.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
-      "hint": "Look for language that judges quality."
-    }
+      "summary": "The two observations support that comparison only.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA02-T-004",
@@ -1295,29 +2102,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Subjective and Objective Language",
-    "question": "Which clue should guide your decision in writing a review of a wildlife documentary?",
-    "audio_prompt": "Which clue should guide your decision in writing a review of a wildlife documentary?",
+    "stage": "recognise",
+    "skill": "subjective_and_objective_language",
+    "question": "A: “The band played four songs.” B: “The talented band played four wonderful songs.” What does B add while preserving the count?",
+    "audio_prompt": "A: “The band played four songs.” B: “The talented band played four wonderful songs.” What does B add while preserving the count?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "A different number of songs",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and use the first familiar form.",
+        "text": "The names of the instruments",
         "is_correct": false
       },
       {
-        "text": "Look for language that judges quality.",
+        "text": "Evidence that every listener agreed",
+        "is_correct": false
+      },
+      {
+        "text": "Judgements about the band and songs",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
-      "hint": "Look for language that judges quality."
-    }
+      "summary": "“Talented” and “wonderful” evaluate; both versions still say four songs.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA02-T-005",
@@ -1325,29 +2145,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Which option would you reject first in writing a review of a wildlife documentary?",
-    "audio_prompt": "Which option would you reject first in writing a review of a wildlife documentary?",
+    "stage": "recognise",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “I believe the ending is too sudden.” What is the role of “I believe” here?",
+    "audio_prompt": "Read: “I believe the ending is too sudden.” What is the role of “I believe” here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The program runs for 48 minutes.",
+        "text": "It introduces the reader’s viewpoint.",
         "is_correct": true
       },
       {
-        "text": "The underwater footage is breathtaking.",
+        "text": "It reports a measured length.",
         "is_correct": false
       },
       {
-        "text": "The film includes footage of coral reefs.",
+        "text": "It proves that all readers agree.",
+        "is_correct": false
+      },
+      {
+        "text": "It names a character in the story.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Breathtaking evaluates the footage and shows the writer’s response.",
-      "hint": "Look for language that judges quality."
-    }
+      "summary": "The phrase introduces a judgement about how the ending feels to this reader.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA02-T-006",
@@ -1355,29 +2188,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Which correction should replace “The program runs for 48 minutes.” in writing a review of a wildlife documentary?",
-    "audio_prompt": "Which correction should replace “The program runs for 48 minutes.” in writing a review of a wildlife documentary?",
+    "stage": "recognise",
+    "skill": "subjective_and_objective_language",
+    "question": "Notes: “The shop opened on Wednesday beside the station.” Which sentence reports all the notes without added evaluation?",
+    "audio_prompt": "Notes: “The shop opened on Wednesday beside the station.” Which sentence reports all the notes without added evaluation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The program runs for 48 minutes.",
+        "text": "The wonderful shop finally opened beside the station on Wednesday.",
         "is_correct": false
       },
       {
-        "text": "The underwater footage is breathtaking.",
+        "text": "The shop opened beside the station on Wednesday.",
         "is_correct": true
       },
       {
-        "text": "The film includes footage of coral reefs.",
+        "text": "The shop opened beside the school on Wednesday.",
+        "is_correct": false
+      },
+      {
+        "text": "The shop opened beside the station on Thursday.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
-      "hint": "Look for language that judges quality."
-    }
+      "summary": "The answer preserves event, location and day without adding an approving or impatient reaction.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA02-T-007",
@@ -1385,29 +2231,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Apply the skill to writing a review of a wildlife documentary: what should you choose?",
-    "audio_prompt": "Apply the skill to writing a review of a wildlife documentary: what should you choose?",
+    "stage": "recognise",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “I recorded 11 birds near the pond.” Why is it not automatically an opinion?",
+    "audio_prompt": "Read: “I recorded 11 birds near the pond.” Why is it not automatically an opinion?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The program runs for 48 minutes.",
+        "text": "Every sentence beginning with “I” is a feeling.",
         "is_correct": false
       },
       {
-        "text": "The film includes footage of coral reefs.",
+        "text": "The word “birds” expresses a preference.",
         "is_correct": false
       },
       {
-        "text": "The underwater footage is breathtaking.",
+        "text": "The speaker reports a count that could be checked against the observation record.",
         "is_correct": true
+      },
+      {
+        "text": "The speaker’s record proves all ponds have 11 birds.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
-      "hint": "Look for language that judges quality."
-    }
+      "summary": "First-person reporting can describe observations; it does not establish a universal count.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA02-T-008",
@@ -1415,29 +2274,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Which final choice gives the clearest and most accurate result for writing a review of a wildlife documentary?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for writing a review of a wildlife documentary?",
+    "stage": "recognise",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “The notice lists two performances. Leo says the evening show is the best.” Which statement is Leo’s judgement?",
+    "audio_prompt": "Read: “The notice lists two performances. Leo says the evening show is the best.” Which statement is Leo’s judgement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The underwater footage is breathtaking.",
+        "text": "The notice lists two performances.",
+        "is_correct": false
+      },
+      {
+        "text": "There are no evening shows.",
+        "is_correct": false
+      },
+      {
+        "text": "Both shows have the same audience size.",
+        "is_correct": false
+      },
+      {
+        "text": "The evening show is the best.",
         "is_correct": true
-      },
-      {
-        "text": "The program runs for 48 minutes.",
-        "is_correct": false
-      },
-      {
-        "text": "The film includes footage of coral reefs.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Breathtaking evaluates the footage and shows the writer’s response.",
-      "hint": "Look for language that judges quality."
-    }
+      "summary": "“Best” is Leo’s evaluation. The notice’s listing is separately reported.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA02-T-009",
@@ -1445,29 +2317,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Subjective and Objective Language",
-    "question": "New context: recording a sports carnival result. Which option is correct?",
-    "audio_prompt": "New context: recording a sports carnival result. Which option is correct?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A writer says, “The tedious assembly lasted 35 minutes.” Which revision removes evaluation while retaining the duration?",
+    "audio_prompt": "A writer says, “The tedious assembly lasted 35 minutes.” Which revision removes evaluation while retaining the duration?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Mia ran brilliantly.",
-        "is_correct": false
-      },
-      {
-        "text": "Mia finished the 100-metre race in 16.2 seconds.",
+        "text": "The assembly lasted 35 minutes.",
         "is_correct": true
       },
       {
-        "text": "Mia was clearly the most impressive athlete.",
+        "text": "The enjoyable assembly lasted 35 minutes.",
+        "is_correct": false
+      },
+      {
+        "text": "The assembly lasted nearly an hour.",
+        "is_correct": false
+      },
+      {
+        "text": "The tedious assembly seemed long.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
-      "hint": "Choose the statement based on recorded evidence."
-    }
+      "summary": "The revision removes “tedious” and keeps the precise time.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA02-T-010",
@@ -1475,29 +2360,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Subjective and Objective Language",
-    "question": "What is the best choice for recording a sports carnival result?",
-    "audio_prompt": "What is the best choice for recording a sports carnival result?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A survey of six club members found four preferred painting and two preferred clay. Which conclusion goes beyond the evidence?",
+    "audio_prompt": "A survey of six club members found four preferred painting and two preferred clay. Which conclusion goes beyond the evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Mia ran brilliantly.",
+        "text": "We concluded that four of these six members preferred painting.",
         "is_correct": false
       },
       {
-        "text": "Mia was clearly the most impressive athlete.",
-        "is_correct": false
-      },
-      {
-        "text": "Mia finished the 100-metre race in 16.2 seconds.",
+        "text": "We concluded that everyone in the school prefers painting.",
         "is_correct": true
+      },
+      {
+        "text": "We concluded that more of these members preferred painting than clay.",
+        "is_correct": false
+      },
+      {
+        "text": "We concluded that two of these six members preferred clay.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
-      "hint": "Choose the statement based on recorded evidence."
-    }
+      "summary": "A six-member club sample does not tell us every school student’s preference.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA02-T-011",
@@ -1505,29 +2403,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Subjective and Objective Language",
-    "question": "Which explanation best supports “Mia finished the 100-metre race in 16.2 seconds.” in recording a sports carnival result?",
-    "audio_prompt": "Which explanation best supports “Mia finished the 100-metre race in 16.2 seconds.” in recording a sports carnival result?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "A learner says, “The ball is round, so ‘round’ must be an opinion because it describes the ball.” Which response is accurate?",
+    "audio_prompt": "A learner says, “The ball is round, so ‘round’ must be an opinion because it describes the ball.” Which response is accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The time is a checkable result, while brilliantly and impressive are evaluations.",
+        "text": "All describing words express personal feelings.",
+        "is_correct": false
+      },
+      {
+        "text": "Only numbers can ever be objectively worded.",
+        "is_correct": false
+      },
+      {
+        "text": "Describing words can name checkable features as well as evaluations.",
         "is_correct": true
       },
       {
-        "text": "Because “Mia ran brilliantly.” is always a safe choice.",
-        "is_correct": false
-      },
-      {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "Every feature of a ball is a preference.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
-      "hint": "Choose the statement based on recorded evidence."
-    }
+      "summary": "Shape can be checked; an adjective is not automatically subjective.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA02-T-012",
@@ -1535,29 +2446,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Subjective and Objective Language",
-    "question": "Which clue should guide your decision in recording a sports carnival result?",
-    "audio_prompt": "Which clue should guide your decision in recording a sports carnival result?",
+    "stage": "apply",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “The story has five chapters. The final chase kept me excited.” Which description fits the passage?",
+    "audio_prompt": "Read: “The story has five chapters. The final chase kept me excited.” Which description fits the passage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "It gives only measurements of reading speed.",
         "is_correct": false
       },
       {
-        "text": "Choose the statement based on recorded evidence.",
+        "text": "It gives only feelings about the story.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves that every reader enjoyed the chase.",
+        "is_correct": false
+      },
+      {
+        "text": "It combines a checkable count with a personal response.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
-      "hint": "Choose the statement based on recorded evidence."
-    }
+      "summary": "Five chapters is a count; “kept me excited” expresses this reader’s response.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA02-T-013",
@@ -1565,29 +2489,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Which option would you reject first in recording a sports carnival result?",
-    "audio_prompt": "Which option would you reject first in recording a sports carnival result?",
-    "answers": [
-      {
-        "text": "Mia finished the 100-metre race in 16.2 seconds.",
-        "is_correct": false
-      },
-      {
-        "text": "Mia was clearly the most impressive athlete.",
-        "is_correct": false
-      },
-      {
-        "text": "Mia ran brilliantly.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "subjective_and_objective_language",
+    "question": "Read: “The new path is 80 metres long. I think its peaceful setting makes it the nicest walk nearby.” Identify a checkable detail and two expressions presenting a viewpoint. Explain their roles.",
+    "audio_prompt": "Read: “The new path is 80 metres long. I think its peaceful setting makes it the nicest walk nearby.” Identify a checkable detail and two expressions presenting a viewpoint. Explain their roles.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“80 metres long” is a checkable measurement. “I think” introduces the viewpoint and “nicest” evaluates the walk.",
+    "acceptance_note": "Require the measurement and two defensible viewpoint expressions with explanations; accept “peaceful” as an evaluative clue in this context.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The time is a checkable result, while brilliantly and impressive are evaluations.",
-      "hint": "Choose the statement based on recorded evidence."
-    }
+      "summary": "“80 metres long” is a checkable measurement. “I think” introduces the viewpoint and “nicest” evaluates the walk.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA02-T-014",
@@ -1595,29 +2520,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Which correction should replace “Mia ran brilliantly.” in recording a sports carnival result?",
-    "audio_prompt": "Which correction should replace “Mia ran brilliantly.” in recording a sports carnival result?",
-    "answers": [
-      {
-        "text": "Mia finished the 100-metre race in 16.2 seconds.",
-        "is_correct": true
-      },
-      {
-        "text": "Mia ran brilliantly.",
-        "is_correct": false
-      },
-      {
-        "text": "Mia was clearly the most impressive athlete.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "subjective_and_objective_language",
+    "question": "Change “The magnificent kite flew above the oval for seven minutes” into an objective report without losing the place or duration. Explain your edit.",
+    "audio_prompt": "Change “The magnificent kite flew above the oval for seven minutes” into an objective report without losing the place or duration. Explain your edit.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The kite flew above the oval for seven minutes. Removing “magnificent” takes out praise while keeping the event, place and duration.",
+    "acceptance_note": "Require oval/seven minutes/flight preserved and exact evaluative word identified.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
-      "hint": "Choose the statement based on recorded evidence."
-    }
+      "summary": "The kite flew above the oval for seven minutes. Removing “magnificent” takes out praise while keeping the event, place and duration.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA02-T-015",
@@ -1625,29 +2551,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Apply the skill to recording a sports carnival result: what should you choose?",
-    "audio_prompt": "Apply the skill to recording a sports carnival result: what should you choose?",
-    "answers": [
-      {
-        "text": "Mia ran brilliantly.",
-        "is_correct": false
-      },
-      {
-        "text": "Mia finished the 100-metre race in 16.2 seconds.",
-        "is_correct": true
-      },
-      {
-        "text": "Mia was clearly the most impressive athlete.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "subjective_and_objective_language",
+    "question": "Findings: “On Tuesday, our counter recorded 18 visitors before lunch and 12 after lunch.” Write a sentence beginning “We concluded” comparing the two Tuesday counts. State one thing these counts do not tell us.",
+    "audio_prompt": "Findings: “On Tuesday, our counter recorded 18 visitors before lunch and 12 after lunch.” Write a sentence beginning “We concluded” comparing the two Tuesday counts. State one thing these counts do not tell us.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "We concluded that more visitors were recorded before lunch than after lunch on Tuesday. They do not tell us which time visitors enjoyed more.",
+    "acceptance_note": "Require the within-Tuesday comparison and a valid limitation, such as preference or other days. Do not accept that no one visited after lunch.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
-      "hint": "Choose the statement based on recorded evidence."
-    }
+      "summary": "We concluded that more visitors were recorded before lunch than after lunch on Tuesday. They do not tell us which time visitors enjoyed more.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA02-T-016",
@@ -1655,28 +2582,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Subjective and Objective Language",
-    "question": "Which final choice gives the clearest and most accurate result for recording a sports carnival result?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for recording a sports carnival result?",
-    "answers": [
-      {
-        "text": "Mia ran brilliantly.",
-        "is_correct": false
-      },
-      {
-        "text": "Mia was clearly the most impressive athlete.",
-        "is_correct": false
-      },
-      {
-        "text": "Mia finished the 100-metre race in 16.2 seconds.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "subjective_and_objective_language",
+    "question": "Notes: “The class planted four lemon trees near the fence on Friday.” Write an objective report and a separate personal opinion about the planting. Explain how the wording distinguishes them.",
+    "audio_prompt": "Notes: “The class planted four lemon trees near the fence on Friday.” Write an objective report and a separate personal opinion about the planting. Explain how the wording distinguishes them.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The class planted four lemon trees near the fence on Friday. I believe the planting was a worthwhile activity. The first sentence keeps the recorded details; “I believe” and “worthwhile” identify my judgement.",
+    "acceptance_note": "Require all supplied details in the report and a clearly separated personal judgement with exact wording explained. No invented outcome such as fruit already growing.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The time is a checkable result, while brilliantly and impressive are evaluations.",
-      "hint": "Choose the statement based on recorded evidence."
-    }
+      "summary": "The class planted four lemon trees near the fence on Friday. I believe the planting was a worthwhile activity. The first sentence keeps the recorded details; “I believe” and “worthwhile” identify my judgement.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]

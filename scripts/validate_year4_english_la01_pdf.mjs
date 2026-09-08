@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Production PDF QA, not a replacement renderer or a content-approval gate.
-// Usage: node scripts/validate_year4_english_la01_pdf.mjs <jspdf-umd> <linkedom-worker> <scratch-output-dir>
+// Usage: node scripts/validate_year4_english_la01_pdf.mjs <jspdf-umd> <linkedom-worker> <scratch-output-dir> [AC9E4LA01–AC9E4LA06]
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -9,11 +9,13 @@ import crypto from 'node:crypto';
 import {pathToFileURL} from 'node:url';
 
 const root = path.resolve(import.meta.dirname, '..');
-const [jspdfPath, domPath, outputDir] = process.argv.slice(2);
+const [jspdfPath, domPath, outputDir, code = 'AC9E4LA01'] = process.argv.slice(2);
+assert(/^AC9E4LA0[1-6]$/.test(code), 'Only authored LA01–LA06 supported.');
+const slug = code.toLowerCase();
 assert(jspdfPath && domPath && outputDir, 'Supply jsPDF, linkedom worker and scratch output directory.');
 const {DOMParser} = await import(pathToFileURL(path.resolve(domPath)));
-const pagePath = 'quiz/year-4/english/ac9e4la01/worksheet/index.html';
-const bankPath = 'quiz/year-4/english/ac9e4la01/worksheet/worksheet-questions.js';
+const pagePath = `quiz/year-4/english/${slug}/worksheet/index.html`;
+const bankPath = `quiz/year-4/english/${slug}/worksheet/worksheet-questions.js`;
 const sourcePath = 'quiz/assets/worksheet-pdf.js';
 const html = fs.readFileSync(path.join(root, pagePath), 'utf8');
 const document = new DOMParser().parseFromString(html, 'text/html');
@@ -37,12 +39,12 @@ vm.createContext(context);
 const configScripts = [...document.querySelectorAll('script:not([src])')].filter(s => s.textContent.includes('window.quizConfig'));
 assert.equal(configScripts.length, 1, 'One actual page configuration required');
 vm.runInContext(configScripts[0].textContent, context);
-assert.equal(context.quizConfig.skillCode, 'AC9E4LA01');
+assert.equal(context.quizConfig.skillCode, code);
 assert.equal(context.quizConfig.worksheetQuestionLimit, 8);
 vm.runInContext(fs.readFileSync(path.join(root, bankPath), 'utf8'), context);
 assert.equal(context.skillrWorksheetQuestions.length, 8);
 assert.equal(new Set(context.skillrWorksheetQuestions.map(q => q.id)).size, 8);
-assert(context.skillrWorksheetQuestions.every(q => q.type === 'self-check' && q.curriculumCode === 'AC9E4LA01'));
+assert(context.skillrWorksheetQuestions.every(q => q.type === 'self-check' && q.curriculumCode === code));
 assert(context.skillrWorksheetQuestions.every(q => !q.visualHtml), 'Add real visual rendering support before using this harness with diagrams.');
 vm.runInContext(fs.readFileSync(jspdfPath, 'utf8'), context);
 const NativePDF = context.jspdf.jsPDF;

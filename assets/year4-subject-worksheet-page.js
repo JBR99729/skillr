@@ -5,7 +5,7 @@
   if (!match) return;
   if (/\/science\/ac9s4(?:u0[1-4]|h0[12]|i0[1-6])\//i.test(location.pathname) && document.body?.getAttribute("data-skillr-authored-worksheet") === "true") return;
   // AC9E4LA01 owns its reviewed static homework and dedicated PDF bank.
-  if (match[1].toLowerCase() === "english" && /^ac9e4la01$/i.test(match[2]) && document.body?.getAttribute("data-skillr-authored-worksheet") === "true") return;
+  if (match[1].toLowerCase() === "english" && /^ac9e4la0[1-6]$/i.test(match[2]) && document.body?.getAttribute("data-skillr-authored-worksheet") === "true") return;
   const subject = match[1].toLowerCase();
   const subjectName = subject === "science" ? "Science" : "English";
   const code = match[2].toUpperCase();

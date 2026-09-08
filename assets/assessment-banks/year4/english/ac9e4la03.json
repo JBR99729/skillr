@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "In writing a science report about evaporation, which option best demonstrates the skill?",
-    "audio_prompt": "In writing a science report about evaporation, which option best demonstrates the skill?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “At the school fair, Lina carried a tray of seedlings. Suddenly the tray tipped, scattering the labels. She matched each label to her planting sketch and set the tray upright.” Which part creates the problem?",
+    "audio_prompt": "Read: “At the school fair, Lina carried a tray of seedlings. Suddenly the tray tipped, scattering the labels. She matched each label to her planting sketch and set the tray upright.” Which part creates the problem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Tell the event as a fantasy quest.",
-        "is_correct": false
-      },
-      {
-        "text": "List jokes in random order.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a question or aim, method, observations and conclusion with measured results.",
+        "text": "The tray tips and the labels scatter.",
         "is_correct": true
+      },
+      {
+        "text": "Lina goes to the school fair.",
+        "is_correct": false
+      },
+      {
+        "text": "Lina uses her planting sketch.",
+        "is_correct": false
+      },
+      {
+        "text": "Lina sets the tray upright.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
-      "hint": "Match the organisation to what the reader needs to learn from the investigation."
-    }
+      "summary": "The scattered labels create a difficulty. Matching them to the sketch is the response that helps resolve it.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA03-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which choice fits writing a science report about evaporation most accurately?",
-    "audio_prompt": "Which choice fits writing a science report about evaporation most accurately?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "A story begins: “Owen was alone in the empty rehearsal room when the lights went out.” Which sentence would resolve the difficulty rather than add another problem?",
+    "audio_prompt": "A story begins: “Owen was alone in the empty rehearsal room when the lights went out.” Which sentence would resolve the difficulty rather than add another problem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a question or aim, method, observations and conclusion with measured results.",
+        "text": "Owen heard a crash behind the curtain.",
+        "is_correct": false
+      },
+      {
+        "text": "The caretaker switched the lights back on, and Owen finished his rehearsal.",
         "is_correct": true
       },
       {
-        "text": "Tell the event as a fantasy quest.",
+        "text": "The room became darker as the sun set.",
         "is_correct": false
       },
       {
-        "text": "List jokes in random order.",
+        "text": "Owen discovered that the door handle was missing.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
-      "hint": "Match the organisation to what the reader needs to learn from the investigation."
-    }
+      "summary": "The caretaker restores the light so Owen can continue. The other events increase the difficulty.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA03-P-003",
@@ -66,28 +92,41 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which choice fits writing instructions for making damper most accurately?",
-    "audio_prompt": "Which choice fits writing instructions for making damper most accurately?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “Mei hid the torn drawing behind her bag. When her partner asked to see it, she hesitated. ‘I dropped it,’ she admitted. Together they repaired the tear.” Why place the hesitation before the admission?",
+    "audio_prompt": "Read: “Mei hid the torn drawing behind her bag. When her partner asked to see it, she hesitated. ‘I dropped it,’ she admitted. Together they repaired the tear.” Why place the hesitation before the admission?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a complication and resolution.",
+        "text": "It lists facts about every drawing in the room.",
         "is_correct": false
       },
       {
-        "text": "Use a goal, ingredients and ordered steps with command verbs such as mix and bake.",
+        "text": "It gives the final outcome before the problem.",
+        "is_correct": false
+      },
+      {
+        "text": "It builds uncertainty before Mei tells the truth.",
         "is_correct": true
       },
       {
-        "text": "Write one long paragraph with no sequence.",
+        "text": "It tells readers how to repair any torn picture.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable.",
-      "hint": "Ask what a reader must do first, next and last."
-    }
+      "summary": "Hesitation makes readers wonder what Mei will do; the admission and repair then move the story towards resolution.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA03-P-004",
@@ -96,28 +135,41 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Look closely at writing instructions for making damper. Which response or wording works best?",
-    "audio_prompt": "Look closely at writing instructions for making damper. Which response or wording works best?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "These notes describe an invented class visit: arrived at 10:00; listened to the guide at 10:15; sketched at 10:40. Which recount keeps the recorded sequence?",
+    "audio_prompt": "These notes describe an invented class visit: arrived at 10:00; listened to the guide at 10:15; sketched at 10:40. Which recount keeps the recorded sequence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a complication and resolution.",
+        "text": "We sketched, arrived and then heard the guide.",
         "is_correct": false
       },
       {
-        "text": "Write one long paragraph with no sequence.",
+        "text": "We listened to the guide, sketched and then arrived.",
         "is_correct": false
       },
       {
-        "text": "Use a goal, ingredients and ordered steps with command verbs such as mix and bake.",
+        "text": "We arrived, sketched and then heard the guide.",
+        "is_correct": false
+      },
+      {
+        "text": "We arrived, listened to the guide and then sketched.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable.",
-      "hint": "Ask what a reader must do first, next and last."
-    }
+      "summary": "The recount follows the three supplied times. The events are facts within this made-up assessment scenario.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA03-P-005",
@@ -126,28 +178,41 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Look closely at writing a history recount of a community event. Which response or wording works best?",
-    "audio_prompt": "Look closely at writing a history recount of a community event. Which response or wording works best?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read this opening based on supplied class-event notes: “Last Friday, our class visited the local museum.” What job does this sentence do in the recount?",
+    "audio_prompt": "Read this opening based on supplied class-event notes: “Last Friday, our class visited the local museum.” What job does this sentence do in the recount?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Present events in time order using dates and past-tense verbs.",
+        "text": "It tells who took part, when and where.",
         "is_correct": true
       },
       {
-        "text": "Group facts by rhyme.",
+        "text": "It gives reasons to persuade people to build a museum.",
         "is_correct": false
       },
       {
-        "text": "Begin with a recipe and finish with a weather chart.",
+        "text": "It resolves a problem that has already been described.",
+        "is_correct": false
+      },
+      {
+        "text": "It groups museum objects by the materials they contain.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A recount makes the sequence of past events clear.",
-      "hint": "Look for time order and language that locates events in the past."
-    }
+      "summary": "The opening orients readers before the sequence of visit events. The date, class and destination establish the situation.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA03-P-006",
@@ -156,28 +221,41 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "For writing a history recount of a community event, which option is the strongest match?",
-    "audio_prompt": "For writing a history recount of a community event, which option is the strongest match?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “Yesterday I borrowed a cloud. First I tied it to my bicycle. Then it floated us over the oval. By sunset I returned it to the sky.” Why is this an imaginative recount?",
+    "audio_prompt": "Read: “Yesterday I borrowed a cloud. First I tied it to my bicycle. Then it floated us over the oval. By sunset I returned it to the sky.” Why is this an imaginative recount?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Group facts by rhyme.",
+        "text": "It reports measurements from an actual weather record.",
         "is_correct": false
       },
       {
-        "text": "Present events in time order using dates and past-tense verbs.",
+        "text": "It retells an invented experience in time order.",
         "is_correct": true
       },
       {
-        "text": "Begin with a recipe and finish with a weather chart.",
+        "text": "It groups general facts about clouds under headings.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a position and evidence about bicycle parking.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A recount makes the sequence of past events clear.",
-      "hint": "Look for time order and language that locates events in the past."
-    }
+      "summary": "The first-person account uses time order, but borrowing a cloud is deliberately imagined content.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA03-P-007",
@@ -186,28 +264,41 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "For writing a geography report about the Murray River, which option is the strongest match?",
-    "audio_prompt": "For writing a geography report about the Murray River, which option is the strongest match?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "A factual-scenario recount says, “First we entered the gallery. Then we drew a statue.” An imaginative recount says, “First I entered the moon palace. Then I drew its invisible king.” What structure do they share?",
+    "audio_prompt": "A factual-scenario recount says, “First we entered the gallery. Then we drew a statue.” An imaginative recount says, “First I entered the moon palace. Then I drew its invisible king.” What structure do they share?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use only dialogue between imaginary characters.",
+        "text": "A position followed by reasons and a recommendation.",
         "is_correct": false
       },
       {
-        "text": "Hide all facts inside a poem.",
+        "text": "A comparison of two places using matching features.",
         "is_correct": false
       },
       {
-        "text": "Group information under topic headings and use place names and geographical terms.",
+        "text": "A sequence of events retold in time order.",
         "is_correct": true
+      },
+      {
+        "text": "A whole object divided into named parts.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information.",
-      "hint": "Choose features that organise information rather than entertain for their own sake."
-    }
+      "summary": "Both use first and then to recount events. Shared organisation does not make the imaginary events real.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA03-P-008",
@@ -216,28 +307,41 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which example should you choose for writing a geography report about the Murray River?",
-    "audio_prompt": "Which example should you choose for writing a geography report about the Murray River?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read these sourced facts: Ruby Payne-Scott was born in 1912; graduated from the University of Sydney in 1933; joined CSIR in 1941. Which order gives a chronological biography?",
+    "audio_prompt": "Read these sourced facts: Ruby Payne-Scott was born in 1912; graduated from the University of Sydney in 1933; joined CSIR in 1941. Which order gives a chronological biography?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Group information under topic headings and use place names and geographical terms.",
+        "text": "Research appointment, birth, graduation.",
+        "is_correct": false
+      },
+      {
+        "text": "Graduation, research appointment, birth.",
+        "is_correct": false
+      },
+      {
+        "text": "Birth, research appointment, graduation.",
+        "is_correct": false
+      },
+      {
+        "text": "Birth, graduation, research appointment.",
         "is_correct": true
-      },
-      {
-        "text": "Use only dialogue between imaginary characters.",
-        "is_correct": false
-      },
-      {
-        "text": "Hide all facts inside a poem.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information.",
-      "hint": "Choose features that organise information rather than entertain for their own sake."
-    }
+      "summary": "A chronological biography follows life events from earlier to later. These facts are from CSIROpedia’s Ruby Payne-Scott biography.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA03-P-009",
@@ -246,28 +350,41 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which example should you choose for writing a health poster about sun safety?",
-    "audio_prompt": "Which example should you choose for writing a health poster about sun safety?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “Ruby Payne-Scott was born in Grafton in 1912. She graduated from the University of Sydney in 1933.” Which language choice helps show that this is a biography written by someone else?",
+    "audio_prompt": "Read: “Ruby Payne-Scott was born in Grafton in 1912. She graduated from the University of Sydney in 1933.” Which language choice helps show that this is a biography written by someone else?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a long narrative with no headings.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a strong heading, brief action points and direct advice such as wear a hat.",
+        "text": "The writer names Ruby and refers to her as she.",
         "is_correct": true
       },
       {
-        "text": "Put the main advice in tiny print at the bottom.",
+        "text": "The writer asks Ruby to carry out numbered steps.",
+        "is_correct": false
+      },
+      {
+        "text": "The writer uses I to remember their own childhood.",
+        "is_correct": false
+      },
+      {
+        "text": "The writer asks readers to vote for a new university.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A poster must communicate actions quickly and clearly.",
-      "hint": "Think about how a reader scans a poster."
-    }
+      "summary": "A biography recounts another person’s life; Ruby and she keep the focus on her. The supplied facts come from CSIROpedia.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA03-P-010",
@@ -276,28 +393,41 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "In writing a health poster about sun safety, which option best demonstrates the skill?",
-    "audio_prompt": "In writing a health poster about sun safety, which option best demonstrates the skill?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "A short biography already says, “Ruby Payne-Scott graduated in 1933.” Which sourced detail would extend the life sequence without inventing her thoughts?",
+    "audio_prompt": "A short biography already says, “Ruby Payne-Scott graduated in 1933.” Which sourced detail would extend the life sequence without inventing her thoughts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a long narrative with no headings.",
+        "text": "She thought 1933 was the happiest year of her life.",
         "is_correct": false
       },
       {
-        "text": "Put the main advice in tiny print at the bottom.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a strong heading, brief action points and direct advice such as wear a hat.",
+        "text": "She completed an MSc in physics in 1936.",
         "is_correct": true
+      },
+      {
+        "text": "She said, “I always knew exactly what I would discover.”",
+        "is_correct": false
+      },
+      {
+        "text": "She had no doubts about any of her future research.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A poster must communicate actions quickly and clearly.",
-      "hint": "Think about how a reader scans a poster."
-    }
+      "summary": "The 1936 degree is a documented later event in CSIROpedia. The other choices invent private thoughts or quotations.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA03-P-011",
@@ -305,29 +435,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Why does “Use a question or aim, method, observations and conclusion with measured results.” work well for writing a science report about evaporation?",
-    "audio_prompt": "Why does “Use a question or aim, method, observations and conclusion with measured results.” work well for writing a science report about evaporation?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “School bags carry books and other belongings. Materials: some are canvas, while others are nylon. Fastenings: bags may use zips, clips or drawstrings.” How is this report organised?",
+    "audio_prompt": "Read: “School bags carry books and other belongings. Materials: some are canvas, while others are nylon. Fastenings: bags may use zips, clips or drawstrings.” How is this report organised?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
+        "text": "A single character’s problem and its resolution.",
+        "is_correct": false
+      },
+      {
+        "text": "A list of events from one particular school day.",
+        "is_correct": false
+      },
+      {
+        "text": "A general introduction followed by grouped features.",
         "is_correct": true
       },
       {
-        "text": "Because “Tell the event as a fantasy quest.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "A position followed by reasons to ban school bags.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
-      "hint": "Match the organisation to what the reader needs to learn from the investigation."
-    }
+      "summary": "The opening classifies school bags; the headings group facts about materials and fastenings.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA03-P-012",
@@ -335,29 +478,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "What makes “Use a question or aim, method, observations and conclusion with measured results.” a better choice in writing a science report about evaporation?",
-    "audio_prompt": "What makes “Use a question or aim, method, observations and conclusion with measured results.” a better choice in writing a science report about evaporation?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “Both lunch boxes have a carry handle. Box A has one large section, whereas Box B has three small sections.” What makes this a comparative report?",
+    "audio_prompt": "Read: “Both lunch boxes have a carry handle. Box A has one large section, whereas Box B has three small sections.” What makes this a comparative report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Tell the event as a fantasy quest.” is always acceptable in this situation.",
+        "text": "It tells the events in one box’s life.",
         "is_correct": false
       },
       {
-        "text": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
+        "text": "It explains why all lunch boxes were invented.",
+        "is_correct": false
+      },
+      {
+        "text": "It names the parts of Box A without mentioning Box B.",
+        "is_correct": false
+      },
+      {
+        "text": "It compares the boxes using the same features.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
-      "hint": "Match the organisation to what the reader needs to learn from the investigation."
-    }
+      "summary": "The report compares handles and sections across both boxes, showing a similarity and a difference.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA03-P-013",
@@ -365,29 +522,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "What makes “Use a goal, ingredients and ordered steps with command verbs such as mix and bake.” a better choice in writing instructions for making damper?",
-    "audio_prompt": "What makes “Use a goal, ingredients and ordered steps with command verbs such as mix and bake.” a better choice in writing instructions for making damper?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “A torch contains a case, a switch and a light source. The case holds the parts. The switch controls the light.” Which organisation is used?",
+    "audio_prompt": "Read: “A torch contains a case, a switch and a light source. The case holds the parts. The switch controls the light.” Which organisation is used?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Use a complication and resolution.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Procedures guide action, so ordered steps and command verbs make the process usable.",
+        "text": "Part-whole: introduce the torch, then describe its parts.",
         "is_correct": true
+      },
+      {
+        "text": "Sequence: recount a visitor’s trip to a torch factory.",
+        "is_correct": false
+      },
+      {
+        "text": "Argument: state a view and urge readers to agree.",
+        "is_correct": false
+      },
+      {
+        "text": "Comparison: describe two torches feature by feature.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable.",
-      "hint": "Ask what a reader must do first, next and last."
-    }
+      "summary": "The whole torch is introduced before individual components and their roles.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA03-P-014",
@@ -395,29 +566,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which explanation best justifies “Use a goal, ingredients and ordered steps with command verbs such as mix and bake.” for writing instructions for making damper?",
-    "audio_prompt": "Which explanation best justifies “Use a goal, ingredients and ordered steps with command verbs such as mix and bake.” for writing instructions for making damper?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "You are comparing two invented playground maps. Map A shows paths and play areas; Map B also shows paths and play areas. Which headings make the comparison easiest to follow?",
+    "audio_prompt": "You are comparing two invented playground maps. Map A shows paths and play areas; Map B also shows paths and play areas. Which headings make the comparison easiest to follow?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Procedures guide action, so ordered steps and command verbs make the process usable.",
+        "text": "Map A’s paths; Map B’s printing date.",
+        "is_correct": false
+      },
+      {
+        "text": "Paths on both maps; play areas on both maps.",
         "is_correct": true
       },
       {
-        "text": "Because “Use a complication and resolution.” is always acceptable in this situation.",
+        "text": "My favourite games; the history of our school.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "First we arrived; finally we left.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable.",
-      "hint": "Ask what a reader must do first, next and last."
-    }
+      "summary": "Using the same categories for both maps lets readers compare like with like.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA03-P-015",
@@ -425,29 +610,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which explanation best justifies “Present events in time order using dates and past-tense verbs.” for writing a history recount of a community event?",
-    "audio_prompt": "Which explanation best justifies “Present events in time order using dates and past-tense verbs.” for writing a history recount of a community event?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “When the lift button is pressed, a signal reaches the control system. The system calls the lift. The doors open when the lift arrives.” What does the order help explain?",
+    "audio_prompt": "Read: “When the lift button is pressed, a signal reaches the control system. The system calls the lift. The doors open when the lift arrives.” What does the order help explain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Group facts by rhyme.” is always acceptable in this situation.",
+        "text": "Which of two lifts has the brighter doors.",
         "is_correct": false
       },
       {
-        "text": "A recount makes the sequence of past events clear.",
+        "text": "Why the writer enjoyed a particular lift ride.",
+        "is_correct": false
+      },
+      {
+        "text": "The stages of a process from the button press to the doors opening.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Which people should be allowed to build a lift.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A recount makes the sequence of past events clear.",
-      "hint": "Look for time order and language that locates events in the past."
-    }
+      "summary": "The explanation traces successive stages of how the system responds. It is not an instruction telling the reader to build it.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA03-P-016",
@@ -455,29 +654,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "What should you notice about “Present events in time order using dates and past-tense verbs.” in writing a history recount of a community event?",
-    "audio_prompt": "What should you notice about “Present events in time order using dates and past-tense verbs.” in writing a history recount of a community event?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “The paper sign became soaked. The wet paper weakened, so it tore where the string pulled on it.” Why is the second sentence important?",
+    "audio_prompt": "Read: “The paper sign became soaked. The wet paper weakened, so it tore where the string pulled on it.” Why is the second sentence important?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Group facts by rhyme.” is always acceptable in this situation.",
+        "text": "It introduces a second sign for comparison.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "It gives the author’s recommendation without a reason.",
         "is_correct": false
       },
       {
-        "text": "A recount makes the sequence of past events clear.",
+        "text": "It restarts the story before the sign was made.",
+        "is_correct": false
+      },
+      {
+        "text": "It links the wet paper to the tear by explaining what changed.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A recount makes the sequence of past events clear.",
-      "hint": "Look for time order and language that locates events in the past."
-    }
+      "summary": "The weakening explains how soaking helped cause the tear. A causal explanation connects reasons and results.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LA03-P-017",
@@ -485,29 +698,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "What should you notice about “Group information under topic headings and use place names and geographical terms.” in writing a geography report about the Murray River?",
-    "audio_prompt": "What should you notice about “Group information under topic headings and use place names and geographical terms.” in writing a geography report about the Murray River?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "A sequential explanation has these stages: a card reaches a reader; the reader checks it; the door unlocks if access is allowed. Which opening question does it answer best?",
+    "audio_prompt": "A sequential explanation has these stages: a card reaches a reader; the reader checks it; the door unlocks if access is allowed. Which opening question does it answer best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Topic sections and subject vocabulary help readers find and understand geographical information.",
+        "text": "How does the entry system let an authorised cardholder in?",
         "is_correct": true
       },
       {
-        "text": "Because “Use only dialogue between imaginary characters.” is always acceptable in this situation.",
+        "text": "Which card colour is the most attractive?",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "What happened on my first day at the building?",
+        "is_correct": false
+      },
+      {
+        "text": "Why should our class visit the building tomorrow?",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information.",
-      "hint": "Choose features that organise information rather than entertain for their own sake."
-    }
+      "summary": "The stages explain the system’s process, not a preference or a personal recount.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LA03-P-018",
@@ -515,29 +742,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which reason explains why “Group information under topic headings and use place names and geographical terms.” suits writing a geography report about the Murray River?",
-    "audio_prompt": "Which reason explains why “Group information under topic headings and use place names and geographical terms.” suits writing a geography report about the Murray River?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “The tray overflowed because water entered faster than it could drain away.” Which added sentence continues the causal explanation?",
+    "audio_prompt": "Read: “The tray overflowed because water entered faster than it could drain away.” Which added sentence continues the causal explanation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Use only dialogue between imaginary characters.” is always acceptable in this situation.",
+        "text": "First I walked into the room carrying my bag.",
         "is_correct": false
       },
       {
-        "text": "Topic sections and subject vocabulary help readers find and understand geographical information.",
+        "text": "As water collected above the rim, it spilled onto the bench.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "This tray is blue, but the other tray is green.",
+        "is_correct": false
+      },
+      {
+        "text": "Please choose my tray as the prettiest one.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information.",
-      "hint": "Choose features that organise information rather than entertain for their own sake."
-    }
+      "summary": "The added sentence continues the chain from accumulating water to spilling.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LA03-P-019",
@@ -545,29 +786,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which reason explains why “Use a strong heading, brief action points and direct advice such as wear a hat.” suits writing a health poster about sun safety?",
-    "audio_prompt": "Which reason explains why “Use a strong heading, brief action points and direct advice such as wear a hat.” suits writing a health poster about sun safety?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read A: “First the roller collects ink. Next it presses ink onto paper.” Read B: “The print looked pale because the roller carried too little ink.” How do the explanations differ?",
+    "audio_prompt": "Read A: “First the roller collects ink. Next it presses ink onto paper.” Read B: “The print looked pale because the roller carried too little ink.” How do the explanations differ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Use a long narrative with no headings.” is always acceptable in this situation.",
+        "text": "A compares two rollers; B tells an imaginary adventure.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "A is a biography; B is a list of instructions.",
         "is_correct": false
       },
       {
-        "text": "A poster must communicate actions quickly and clearly.",
+        "text": "A follows process stages; B explains a reason for a result.",
         "is_correct": true
+      },
+      {
+        "text": "A gives an opinion; B groups all kinds of printers.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A poster must communicate actions quickly and clearly.",
-      "hint": "Think about how a reader scans a poster."
-    }
+      "summary": "A is sequential; B is causal. Explanations can combine sequence and cause, but these extracts foreground different relationships.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LA03-P-020",
@@ -575,29 +830,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Why does “Use a strong heading, brief action points and direct advice such as wear a hat.” work well for writing a health poster about sun safety?",
-    "audio_prompt": "Why does “Use a strong heading, brief action points and direct advice such as wear a hat.” work well for writing a health poster about sun safety?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "A student begins a book talk: “The Missing Button is an invented mystery about a child finding clues at a costume party.” What would best follow before the recommendation?",
+    "audio_prompt": "A student begins a book talk: “The Missing Button is an invented mystery about a child finding clues at a costume party.” What would best follow before the recommendation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "A poster must communicate actions quickly and clearly.",
+        "text": "The full final solution, with every clue explained.",
+        "is_correct": false
+      },
+      {
+        "text": "A list of unrelated books with no mention of this story.",
+        "is_correct": false
+      },
+      {
+        "text": "Instructions for sewing every kind of button.",
+        "is_correct": false
+      },
+      {
+        "text": "A brief account of the central problem without revealing the solution.",
         "is_correct": true
-      },
-      {
-        "text": "Because “Use a long narrative with no headings.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A poster must communicate actions quickly and clearly.",
-      "hint": "Think about how a reader scans a poster."
-    }
+      "summary": "A brief spoiler-safe gist helps listeners understand what the book offers before hearing the speaker’s view.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LA03-P-021",
@@ -605,29 +873,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which revision best fixes the problem in “Tell the event as a fantasy quest.” for writing a science report about evaporation?",
-    "audio_prompt": "Which revision best fixes the problem in “Tell the event as a fantasy quest.” for writing a science report about evaporation?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "For this invented book, the supplied note says: “A lost puppy follows a trail of music home.” Which recommendation gives a reason supported by that note?",
+    "audio_prompt": "For this invented book, the supplied note says: “A lost puppy follows a trail of music home.” Which recommendation gives a reason supported by that note?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Tell the event as a fantasy quest.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a question or aim, method, observations and conclusion with measured results.",
+        "text": "Try this story if you enjoy journeys, because the lost puppy follows music to find its way home.",
         "is_correct": true
       },
       {
-        "text": "List jokes in random order.",
+        "text": "Try this story if you enjoy playing music, because it teaches you how to play the puppy’s favourite tunes.",
+        "is_correct": false
+      },
+      {
+        "text": "Try this story if you want to care for a puppy, because it explains what a puppy needs to eat.",
+        "is_correct": false
+      },
+      {
+        "text": "Try this story if you enjoy funny pranks, because the puppy tricks its family with hidden instruments.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Match the organisation to what the reader needs to learn from the investigation."
-    }
+      "summary": "The note describes a journey home guided by music. It does not say the book teaches tunes or puppy care, or that the puppy plays tricks.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LA03-P-022",
@@ -635,29 +916,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Compare the choices for writing a science report about evaporation. Which one avoids the mistake in “Tell the event as a fantasy quest.”?",
-    "audio_prompt": "Compare the choices for writing a science report about evaporation. Which one avoids the mistake in “Tell the event as a fantasy quest.”?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read this book talk: “I recommend The Painted Gate. It follows friends solving a puzzle. The changing clues kept me guessing.” Which sentence expresses the speaker’s response?",
+    "audio_prompt": "Read this book talk: “I recommend The Painted Gate. It follows friends solving a puzzle. The changing clues kept me guessing.” Which sentence expresses the speaker’s response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Tell the event as a fantasy quest.",
+        "text": "The story is called The Painted Gate.",
         "is_correct": false
       },
       {
-        "text": "List jokes in random order.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a question or aim, method, observations and conclusion with measured results.",
+        "text": "The changing clues kept me guessing.",
         "is_correct": true
+      },
+      {
+        "text": "The story follows friends.",
+        "is_correct": false
+      },
+      {
+        "text": "The friends solve a puzzle.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Match the organisation to what the reader needs to learn from the investigation."
-    }
+      "summary": "Kept me guessing explains the speaker’s experience. A book talk may combine a brief informative summary with a personal response.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LA03-P-023",
@@ -665,29 +959,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Compare the choices for writing instructions for making damper. Which one avoids the mistake in “Use a complication and resolution.”?",
-    "audio_prompt": "Compare the choices for writing instructions for making damper. Which one avoids the mistake in “Use a complication and resolution.”?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read the poem: “A kite escaped my careful hand. / It caught a branch above the sand. / Dad lifted me; I caught the string. / We watched it rise on steady wings.” What mainly organises this poem?",
+    "audio_prompt": "Read the poem: “A kite escaped my careful hand. / It caught a branch above the sand. / Dad lifted me; I caught the string. / We watched it rise on steady wings.” What mainly organises this poem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a goal, ingredients and ordered steps with command verbs such as mix and bake.",
+        "text": "A list of unrelated facts about every type of kite.",
+        "is_correct": false
+      },
+      {
+        "text": "A comparison of two kites using matching headings.",
+        "is_correct": false
+      },
+      {
+        "text": "An event, a difficulty and a response in time order.",
         "is_correct": true
       },
       {
-        "text": "Use a complication and resolution.",
-        "is_correct": false
-      },
-      {
-        "text": "Write one long paragraph with no sequence.",
+        "text": "A statement of opinion followed by three reasons.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what a reader must do first, next and last."
-    }
+      "summary": "The poem tells a small story: the kite escapes, catches and is recovered. Rhyme is present, but the event sequence explains its organisation.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LA03-P-024",
@@ -695,29 +1003,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "If “Use a complication and resolution.” does not work in writing instructions for making damper, what should replace it?",
-    "audio_prompt": "If “Use a complication and resolution.” does not work in writing instructions for making damper, what should replace it?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read the poem: “Silver puddles under boots, / a crooked fence, / a row of dark umbrellas, / rain tapping the gate.” What mainly holds the lines together?",
+    "audio_prompt": "Read the poem: “Silver puddles under boots, / a crooked fence, / a row of dark umbrellas, / rain tapping the gate.” What mainly holds the lines together?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a complication and resolution.",
+        "text": "A character’s problem followed by its solution.",
         "is_correct": false
       },
       {
-        "text": "Use a goal, ingredients and ordered steps with command verbs such as mix and bake.",
+        "text": "Dates covering a person’s whole life.",
+        "is_correct": false
+      },
+      {
+        "text": "Reasons supporting a request to replace the gate.",
+        "is_correct": false
+      },
+      {
+        "text": "Descriptions that build one rainy scene.",
         "is_correct": true
-      },
-      {
-        "text": "Write one long paragraph with no sequence.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what a reader must do first, next and last."
-    }
+      "summary": "The images accumulate into a scene rather than following a plot or a set of reasons.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LA03-P-025",
@@ -725,29 +1047,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "If “Group facts by rhyme.” does not work in writing a history recount of a community event, what should replace it?",
-    "audio_prompt": "If “Group facts by rhyme.” does not work in writing a history recount of a community event, what should replace it?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read the poem: “My old shoes wait by the door. / Once they seemed enormous. / Now my toes press at the ends. / I wonder what else I have outgrown.” Why does the final line fit?",
+    "audio_prompt": "Read the poem: “My old shoes wait by the door. / Once they seemed enormous. / Now my toes press at the ends. / I wonder what else I have outgrown.” Why does the final line fit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Group facts by rhyme.",
-        "is_correct": false
-      },
-      {
-        "text": "Begin with a recipe and finish with a weather chart.",
-        "is_correct": false
-      },
-      {
-        "text": "Present events in time order using dates and past-tense verbs.",
+        "text": "It moves from noticing the shoes to reflecting on growing up.",
         "is_correct": true
+      },
+      {
+        "text": "It gives the next step in making a shoe.",
+        "is_correct": false
+      },
+      {
+        "text": "It introduces a second brand for a factual comparison.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves every poem must end with a question.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A recount makes the sequence of past events clear. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for time order and language that locates events in the past."
-    }
+      "summary": "The observation prompts a thought about change. This is a reflective purpose, not a universal rule for poem endings.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LA03-P-026",
@@ -755,29 +1091,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which option corrects the meaning or form needed for writing a history recount of a community event?",
-    "audio_prompt": "Which option corrects the meaning or form needed for writing a history recount of a community event?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "A poem first describes a quiet nest and then imagines the empty branch after the birds leave. Which title for the two stages best follows the text?",
+    "audio_prompt": "A poem first describes a quiet nest and then imagines the empty branch after the birds leave. Which title for the two stages best follows the text?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Present events in time order using dates and past-tense verbs.",
+        "text": "Materials needed; numbered building steps.",
+        "is_correct": false
+      },
+      {
+        "text": "What I notice; what it makes me think about.",
         "is_correct": true
       },
       {
-        "text": "Group facts by rhyme.",
+        "text": "Birth date; university graduation.",
         "is_correct": false
       },
       {
-        "text": "Begin with a recipe and finish with a weather chart.",
+        "text": "Our position; survey evidence for a vote.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A recount makes the sequence of past events clear. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for time order and language that locates events in the past."
-    }
+      "summary": "A description can lead into reflection. Poems may combine purposes without obeying one fixed stage pattern.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LA03-P-027",
@@ -785,29 +1135,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which option corrects the meaning or form needed for writing a geography report about the Murray River?",
-    "audio_prompt": "Which option corrects the meaning or form needed for writing a geography report about the Murray River?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “The bell rings. / Our chairs stand empty. / I hold today’s joke / a little longer.” Which clue most supports reading this as a reflection on the end of a school day?",
+    "audio_prompt": "Read: “The bell rings. / Our chairs stand empty. / I hold today’s joke / a little longer.” Which clue most supports reading this as a reflection on the end of a school day?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use only dialogue between imaginary characters.",
+        "text": "The poem lists every lesson in timetable order.",
         "is_correct": false
       },
       {
-        "text": "Group information under topic headings and use place names and geographical terms.",
+        "text": "The poem explains the electrical parts of a bell.",
+        "is_correct": false
+      },
+      {
+        "text": "The speaker holds on to a memory after the room empties.",
         "is_correct": true
       },
       {
-        "text": "Hide all facts inside a poem.",
+        "text": "The speaker gives instructions for stacking chairs.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose features that organise information rather than entertain for their own sake."
-    }
+      "summary": "The remembered joke links the empty room to a personal thought or feeling about the day.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LA03-P-028",
@@ -815,29 +1179,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which choice is the clearest correction for writing a geography report about the Murray River?",
-    "audio_prompt": "Which choice is the clearest correction for writing a geography report about the Murray River?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “Our class should add a quiet reading corner. Several classmates find the lunch hall noisy. A quieter space would give them another choice. Let us try a reading corner next term.” Which opening sentence first states the position?",
+    "audio_prompt": "Read: “Our class should add a quiet reading corner. Several classmates find the lunch hall noisy. A quieter space would give them another choice. Let us try a reading corner next term.” Which opening sentence first states the position?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use only dialogue between imaginary characters.",
+        "text": "Several classmates find the lunch hall noisy.",
         "is_correct": false
       },
       {
-        "text": "Hide all facts inside a poem.",
+        "text": "A quieter space would give them another choice.",
         "is_correct": false
       },
       {
-        "text": "Group information under topic headings and use place names and geographical terms.",
+        "text": "Let us try a reading corner next term.",
+        "is_correct": false
+      },
+      {
+        "text": "Our class should add a quiet reading corner.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose features that organise information rather than entertain for their own sake."
-    }
+      "summary": "The first sentence states the view; the middle supports it and the last renews the request.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LA03-P-029",
@@ -845,29 +1222,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which choice is the clearest correction for writing a health poster about sun safety?",
-    "audio_prompt": "Which choice is the clearest correction for writing a health poster about sun safety?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "In a made-up class survey, 18 of 24 students asked for more puzzle time. Which reason uses this evidence accurately in an argument?",
+    "audio_prompt": "In a made-up class survey, 18 of 24 students asked for more puzzle time. Which reason uses this evidence accurately in an argument?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a strong heading, brief action points and direct advice such as wear a hat.",
+        "text": "Most surveyed students requested more puzzle time, so we should consider a weekly puzzle session.",
         "is_correct": true
       },
       {
-        "text": "Use a long narrative with no headings.",
+        "text": "Every child in Australia wants puzzle time every day.",
         "is_correct": false
       },
       {
-        "text": "Put the main advice in tiny print at the bottom.",
+        "text": "None of the surveyed students wanted any other activity.",
+        "is_correct": false
+      },
+      {
+        "text": "The survey proves puzzles improve every school result.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A poster must communicate actions quickly and clearly. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Think about how a reader scans a poster."
-    }
+      "summary": "The argument links the stated majority to a proportionate proposal. It does not extend the survey beyond its evidence.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LA03-P-030",
@@ -875,29 +1265,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which revision best fixes the problem in “Use a long narrative with no headings.” for writing a health poster about sun safety?",
-    "audio_prompt": "Which revision best fixes the problem in “Use a long narrative with no headings.” for writing a health poster about sun safety?",
+    "stage": "apply",
+    "skill": "text_structure_language_and_purpose",
+    "question": "An argument says, “Keep the spare umbrellas by reception. Visitors can borrow them when rain starts. This would help visitors leave without getting soaked.” Which ending suits its purpose?",
+    "audio_prompt": "An argument says, “Keep the spare umbrellas by reception. Visitors can borrow them when rain starts. This would help visitors leave without getting soaked.” Which ending suits its purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a long narrative with no headings.",
+        "text": "First I bought an umbrella; then I walked home.",
         "is_correct": false
       },
       {
-        "text": "Use a strong heading, brief action points and direct advice such as wear a hat.",
+        "text": "Please trial the umbrella stand at reception this month.",
         "is_correct": true
       },
       {
-        "text": "Put the main advice in tiny print at the bottom.",
+        "text": "Umbrellas contain fabric, ribs and a handle.",
+        "is_correct": false
+      },
+      {
+        "text": "The rain fell like silver thread across the dark path.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A poster must communicate actions quickly and clearly. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Think about how a reader scans a poster."
-    }
+      "summary": "The ending returns to the proposal and asks for action. The alternatives shift to recount, report or description.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LA03-P-031",
@@ -906,28 +1309,41 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "You now need to handle writing a science report about evaporation independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle writing a science report about evaporation independently. Which choice should you use?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “We should reuse the display boards. They are still sturdy. Reusing them also avoids buying replacements.” Why put the two reasons after the position?",
+    "audio_prompt": "Read: “We should reuse the display boards. They are still sturdy. Reusing them also avoids buying replacements.” Why put the two reasons after the position?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "List jokes in random order.",
+        "text": "They reveal the ending of a mystery story.",
         "is_correct": false
       },
       {
-        "text": "Tell the event as a fantasy quest.",
+        "text": "They arrange all events in the boards’ lives by date.",
         "is_correct": false
       },
       {
-        "text": "Use a question or aim, method, observations and conclusion with measured results.",
+        "text": "They explain why readers might support the proposal.",
         "is_correct": true
+      },
+      {
+        "text": "They describe the boards without expressing any view.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
-      "hint": "Match the organisation to what the reader needs to learn from the investigation."
-    }
+      "summary": "The reasons support a view about what should happen. The organisation helps readers assess the proposal.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LA03-P-032",
@@ -936,28 +1352,42 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Apply the same idea to writing a science report about evaporation. Which option is best?",
-    "audio_prompt": "Apply the same idea to writing a science report about evaporation. Which option is best?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Poster A lists concert times and rooms. Poster B says, “Join the concert! Hear our new songs and support the choir.” What is true?",
+    "audio_prompt": "Poster A lists concert times and rooms. Poster B says, “Join the concert! Hear our new songs and support the choir.” What is true?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a question or aim, method, observations and conclusion with measured results.",
+        "text": "Both must tell stories because they are posters.",
+        "is_correct": false
+      },
+      {
+        "text": "A is an email because it contains times.",
+        "is_correct": false
+      },
+      {
+        "text": "B cannot persuade unless it has three paragraphs.",
+        "is_correct": false
+      },
+      {
+        "text": "Both are posters, but A mainly informs and B mainly persuades.",
         "is_correct": true
-      },
-      {
-        "text": "List jokes in random order.",
-        "is_correct": false
-      },
-      {
-        "text": "Tell the event as a fantasy quest.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A science report needs stages that show what was investigated, what happened and what the evidence means.",
-      "hint": "Match the organisation to what the reader needs to learn from the investigation."
-    }
+      "summary": "Poster names the form. The content and organisation show different purposes.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LA03-P-033",
@@ -966,28 +1396,42 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Apply the same idea to writing instructions for making damper. Which option is best?",
-    "audio_prompt": "Apply the same idea to writing instructions for making damper. Which option is best?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "An email says, “The rehearsal is at 2 pm in Room 6. Please bring your script.” What change would turn it mainly into a recount of yesterday’s rehearsal?",
+    "audio_prompt": "An email says, “The rehearsal is at 2 pm in Room 6. Please bring your script.” What change would turn it mainly into a recount of yesterday’s rehearsal?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Write one long paragraph with no sequence.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a goal, ingredients and ordered steps with command verbs such as mix and bake.",
+        "text": "Describe who attended and what happened in time order.",
         "is_correct": true
       },
       {
-        "text": "Use a complication and resolution.",
+        "text": "Keep only the future meeting time and room.",
+        "is_correct": false
+      },
+      {
+        "text": "Add more reasons why people should join next term.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the room number with a larger heading.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable.",
-      "hint": "Ask what a reader must do first, next and last."
-    }
+      "summary": "The email form can stay the same while its content changes to recounting past events.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LA03-P-034",
@@ -996,28 +1440,42 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which decision would produce the clearest result in writing instructions for making damper?",
-    "audio_prompt": "Which decision would produce the clearest result in writing instructions for making damper?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "List A: “Hat; lunch; water bottle.” List B: “We should use the library: it is quiet; it has tables; it is near our classroom.” How do their purposes differ?",
+    "audio_prompt": "List A: “Hat; lunch; water bottle.” List B: “We should use the library: it is quiet; it has tables; it is near our classroom.” How do their purposes differ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Write one long paragraph with no sequence.",
+        "text": "A tells a life story; B explains how bottles are made.",
         "is_correct": false
       },
       {
-        "text": "Use a complication and resolution.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a goal, ingredients and ordered steps with command verbs such as mix and bake.",
+        "text": "A helps someone pack; B gives reasons for a choice.",
         "is_correct": true
+      },
+      {
+        "text": "A persuades with reasons; B lists things to pack.",
+        "is_correct": false
+      },
+      {
+        "text": "Both must have the same purpose because both are lists.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Procedures guide action, so ordered steps and command verbs make the process usable.",
-      "hint": "Ask what a reader must do first, next and last."
-    }
+      "summary": "A list is a form, not one fixed purpose. These items support preparation in A and a proposal in B.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LA03-P-035",
@@ -1026,28 +1484,42 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which decision would produce the clearest result in writing a history recount of a community event?",
-    "audio_prompt": "Which decision would produce the clearest result in writing a history recount of a community event?",
+    "skill": "text_structure_language_and_purpose",
+    "question": "A poster and an email both invite families to a school play. Which information would both need for that shared purpose?",
+    "audio_prompt": "A poster and an email both invite families to a school play. Which information would both need for that shared purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Present events in time order using dates and past-tense verbs.",
+        "text": "The complete life story of every performer.",
+        "is_correct": false
+      },
+      {
+        "text": "A step-by-step explanation of how stage lights work.",
+        "is_correct": false
+      },
+      {
+        "text": "What the event is, when and where it takes place, and how to attend.",
         "is_correct": true
       },
       {
-        "text": "Begin with a recipe and finish with a weather chart.",
-        "is_correct": false
-      },
-      {
-        "text": "Group facts by rhyme.",
+        "text": "A full retelling that reveals every part of the play.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A recount makes the sequence of past events clear.",
-      "hint": "Look for time order and language that locates events in the past."
-    }
+      "summary": "Different forms can serve the same invitation purpose and share essential event details.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LA03-P-036",
@@ -1056,28 +1528,42 @@
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Choose the option that applies the skill correctly in writing a history recount of a community event.",
-    "audio_prompt": "Choose the option that applies the skill correctly in writing a history recount of a community event.",
+    "skill": "text_structure_language_and_purpose",
+    "question": "A poster displayed on a noticeboard begins “Please support a class herb garden”, then gives reasons and ends with a request. Which description identifies both its form and its organisation?",
+    "audio_prompt": "A poster displayed on a noticeboard begins “Please support a class herb garden”, then gives reasons and ends with a request. Which description identifies both its form and its organisation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Begin with a recipe and finish with a weather chart.",
+        "text": "It is a poster organised as a chronological biography.",
         "is_correct": false
       },
       {
-        "text": "Present events in time order using dates and past-tense verbs.",
+        "text": "It is a poster organised as a comparison of two gardens.",
+        "is_correct": false
+      },
+      {
+        "text": "It is a poster organised as instructions for planting herbs.",
+        "is_correct": false
+      },
+      {
+        "text": "It is a poster organised as an argument.",
         "is_correct": true
-      },
-      {
-        "text": "Group facts by rhyme.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A recount makes the sequence of past events clear.",
-      "hint": "Look for time order and language that locates events in the past."
-    }
+      "summary": "The noticeboard message has a poster form. Its position, supporting reasons and closing request organise it as an argument, not a life sequence, comparison or planting procedure.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LA03-P-037",
@@ -1085,29 +1571,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Choose the option that applies the skill correctly in writing a geography report about the Murray River.",
-    "audio_prompt": "Choose the option that applies the skill correctly in writing a geography report about the Murray River.",
-    "answers": [
-      {
-        "text": "Hide all facts inside a poem.",
-        "is_correct": false
-      },
-      {
-        "text": "Use only dialogue between imaginary characters.",
-        "is_correct": false
-      },
-      {
-        "text": "Group information under topic headings and use place names and geographical terms.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “Ari carried a model boat to the pond. Its sail fell off. Ari used a spare clip to fasten it, and the boat sailed.” Name the opening, problem and resolution. Explain why the final sentence belongs last.",
+    "audio_prompt": "Read: “Ari carried a model boat to the pond. Its sail fell off. Ari used a spare clip to fasten it, and the boat sailed.” Name the opening, problem and resolution. Explain why the final sentence belongs last.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Opening: Ari takes a boat to the pond. Problem: the sail falls off. Resolution: Ari fastens it and the boat sails. The last sentence shows the difficulty has been dealt with.",
+    "acceptance_note": "Require all three stages tied to text and a resolution-based explanation. Accept orientation/setting for opening.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information.",
-      "hint": "Choose features that organise information rather than entertain for their own sake."
-    }
+      "summary": "Opening: Ari takes a boat to the pond. Problem: the sail falls off. Resolution: Ari fastens it and the boat sails. The last sentence shows the difficulty has been dealt with.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LA03-P-038",
@@ -1115,29 +1602,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "What would be the most effective choice for writing a geography report about the Murray River?",
-    "audio_prompt": "What would be the most effective choice for writing a geography report about the Murray River?",
-    "answers": [
-      {
-        "text": "Group information under topic headings and use place names and geographical terms.",
-        "is_correct": true
-      },
-      {
-        "text": "Hide all facts inside a poem.",
-        "is_correct": false
-      },
-      {
-        "text": "Use only dialogue between imaginary characters.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Invented event notes: 9:00 class arrived at a gallery; 9:20 class examined a sculpture; 9:45 class drew it. Write a three-sentence factual-scenario recount. Explain your order.",
+    "audio_prompt": "Invented event notes: 9:00 class arrived at a gallery; 9:20 class examined a sculpture; 9:45 class drew it. Write a three-sentence factual-scenario recount. Explain your order.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Our class arrived at the gallery at 9:00. At 9:20 we examined a sculpture. At 9:45 we drew it. I used the recorded time order.",
+    "acceptance_note": "Keep all three supplied events and their sequence; do not invent factual claims. Require an explanation of chronology. This is a made-up scenario, not a real visit.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Topic sections and subject vocabulary help readers find and understand geographical information.",
-      "hint": "Choose features that organise information rather than entertain for their own sake."
-    }
+      "summary": "Our class arrived at the gallery at 9:00. At 9:20 we examined a sculpture. At 9:45 we drew it. I used the recorded time order.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LA03-P-039",
@@ -1145,29 +1633,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "What would be the most effective choice for writing a health poster about sun safety?",
-    "audio_prompt": "What would be the most effective choice for writing a health poster about sun safety?",
-    "answers": [
-      {
-        "text": "Put the main advice in tiny print at the bottom.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a strong heading, brief action points and direct advice such as wear a hat.",
-        "is_correct": true
-      },
-      {
-        "text": "Use a long narrative with no headings.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Write a three-sentence imaginative recount about travelling inside a giant bubble. Use first-person I. Include an opening and two time-ordered events. Explain what makes the recount imaginary.",
+    "audio_prompt": "Write a three-sentence imaginative recount about travelling inside a giant bubble. Use first-person I. Include an opening and two time-ordered events. Explain what makes the recount imaginary.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Yesterday I climbed inside a giant bubble. First it carried me over the roof. Then it landed on a cloud. Travelling inside a flying bubble is imagined, though the events are recounted in order.",
+    "acceptance_note": "Require first-person imagined experience, three linked sentences and sequence; accept many invented events. Require an explicit distinction between imagined content and recount structure.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "A poster must communicate actions quickly and clearly.",
-      "hint": "Think about how a reader scans a poster."
-    }
+      "summary": "Yesterday I climbed inside a giant bubble. First it carried me over the roof. Then it landed on a cloud. Travelling inside a flying bubble is imagined, though the events are recounted in order.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LA03-P-040",
@@ -1175,29 +1664,284 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "You now need to handle writing a health poster about sun safety independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle writing a health poster about sun safety independently. Which choice should you use?",
-    "answers": [
-      {
-        "text": "Put the main advice in tiny print at the bottom.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a long narrative with no headings.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a strong heading, brief action points and direct advice such as wear a hat.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Sourced facts from CSIROpedia: Ruby Payne-Scott joined CSIR in 1941, was born in 1912, and graduated in 1933. Write a short chronological biography using these facts in time order, then explain one language choice.",
+    "audio_prompt": "Sourced facts from CSIROpedia: Ruby Payne-Scott joined CSIR in 1941, was born in 1912, and graduated in 1933. Write a short chronological biography using these facts in time order, then explain one language choice.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Ruby Payne-Scott was born in 1912. She graduated in 1933 and joined CSIR in 1941. I used she because this is an account of another person’s life.",
+    "acceptance_note": "Keep all three facts and chronological order; accept two or three sentences. Explain dates/time order or third-person reference. Do not invent quotations or motivations.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "A poster must communicate actions quickly and clearly.",
-      "hint": "Think about how a reader scans a poster."
-    }
+      "summary": "Ruby Payne-Scott was born in 1912. She graduated in 1933 and joined CSIR in 1941. I used she because this is an account of another person’s life.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LA03-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Supplied features: trolley A has four wheels and a low handle; trolley B has four wheels and a high handle. Write a short comparative report. Explain how you grouped the facts.",
+    "audio_prompt": "Supplied features: trolley A has four wheels and a low handle; trolley B has four wheels and a high handle. Write a short comparative report. Explain how you grouped the facts.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Both trolleys have four wheels. Trolley A has a low handle, whereas trolley B has a high handle. I compared the same features so readers can see similarities and differences.",
+    "acceptance_note": "Require both shared wheels and differing handles, matching categories and an explanation of comparison. Do not add an unsupported best trolley claim.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Both trolleys have four wheels. Trolley A has a low handle, whereas trolley B has a high handle. I compared the same features so readers can see similarities and differences.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LA03-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Supplied parts: a wind-up toy has a key that winds its mechanism, wheels that turn, and a case that covers the mechanism. Write a whole-to-parts description and explain why you start with the whole.",
+    "audio_prompt": "Supplied parts: a wind-up toy has a key that winds its mechanism, wheels that turn, and a case that covers the mechanism. Write a whole-to-parts description and explain why you start with the whole.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "A wind-up toy has several parts. Its key winds the mechanism, its wheels turn and its case covers the mechanism. Naming the whole first helps readers connect the parts to it.",
+    "acceptance_note": "Require whole introduction, all three supplied parts/functions and an explanation. This is a report, not instructions to open or repair a toy.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "A wind-up toy has several parts. Its key winds the mechanism, its wheels turn and its case covers the mechanism. Naming the whole first helps readers connect the parts to it.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LA03-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read A: “A parcel is labelled, sorted and then loaded for delivery.” Read B: “The parcel was delayed because its label was unreadable, so staff could not find the address.” Explain the different organisation of A and B using a detail from each.",
+    "audio_prompt": "Read A: “A parcel is labelled, sorted and then loaded for delivery.” Read B: “The parcel was delayed because its label was unreadable, so staff could not find the address.” Explain the different organisation of A and B using a detail from each.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "A gives successive process stages: labelled, sorted, loaded. B links the unreadable label to not finding the address and then the delay, so it explains causes and effects.",
+    "acceptance_note": "Require sequential and causal distinction, with actual evidence from both. Accept plain-language labels; do not require technical terminology if meaning is clear.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "A gives successive process stages: labelled, sorted, loaded. B links the unreadable label to not finding the address and then the delay, so it explains causes and effects.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LA03-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Invented mini-story, The Blue Envelope: “Jess finds an unsigned invitation. A trail of blue paper leads towards the garden. She follows it, wondering who is waiting.” Give a short book talk with title, spoiler-safe gist and a recommendation with a reason. You may speak or write.",
+    "audio_prompt": "Invented mini-story, The Blue Envelope: “Jess finds an unsigned invitation. A trail of blue paper leads towards the garden. She follows it, wondering who is waiting.” Give a short book talk with title, spoiler-safe gist and a recommendation with a reason. You may speak or write.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The Blue Envelope is a mystery about Jess following paper clues after finding an invitation. I would recommend it to someone who enjoys guessing because the sender has not yet been revealed.",
+    "acceptance_note": "Observe/read the actual talk. Require title, accurate brief gist and audience/recommendation supported by a supplied feature. Do not require a made-up ending or author name.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The Blue Envelope is a mystery about Jess following paper clues after finding an invitation. I would recommend it to someone who enjoys guessing because the sender has not yet been revealed.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LA03-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “A red leaf spins. / A yellow leaf rests. / The path wears autumn colours.” Is this mainly a story or a description? Quote a clue and explain how the lines are arranged.",
+    "audio_prompt": "Read: “A red leaf spins. / A yellow leaf rests. / The path wears autumn colours.” Is this mainly a story or a description? Quote a clue and explain how the lines are arranged.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "It is mainly a description. Red leaf, yellow leaf and autumn colours build a scene through related images instead of a character’s problem and ending.",
+    "acceptance_note": "Require descriptive purpose, a supplied clue and image grouping. Accept recognition of small actions without insisting that any action makes a narrative.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "It is mainly a description. Red leaf, yellow leaf and autumn colours build a scene through related images instead of a character’s problem and ending.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LA03-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Write three or four lines of a reflective poem about something you used to find difficult. Move from a remembered detail to a thought about change. Explain that movement.",
+    "audio_prompt": "Write three or four lines of a reflective poem about something you used to find difficult. Move from a remembered detail to a thought about change. Explain that movement.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Once my name filled the whole page.\nNow it sits neatly on one line.\nI wonder what tomorrow’s hands will learn.\nThe poem moves from a remembered detail to a thought about learning.",
+    "acceptance_note": "Require an actual short poem, remembered detail, related reflection and explanation. Accept any suitable experience or a clearly imagined speaker; rhyme is optional.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Once my name filled the whole page.\nNow it sits neatly on one line.\nI wonder what tomorrow’s hands will learn.\nThe poem moves from a remembered detail to a thought about learning.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LA03-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Invented class data: five umbrellas were borrowed on a rainy day and all five were returned. Write a short argument for keeping a loan umbrella stand. State your view, use the data and end with a request.",
+    "audio_prompt": "Invented class data: five umbrellas were borrowed on a rainy day and all five were returned. Write a short argument for keeping a loan umbrella stand. State your view, use the data and end with a request.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "We should keep the umbrella stand. Five umbrellas were borrowed on a rainy day and all five came back, so the stand was used and the umbrellas were returned. Please keep it available next term.",
+    "acceptance_note": "Require position, accurate five-borrowed/five-returned evidence and request. Do not accept claims about every future borrower or an unsupported saving figure.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "We should keep the umbrella stand. Five umbrellas were borrowed on a rainy day and all five came back, so the stand was used and the umbrellas were returned. Please keep it available next term.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LA03-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA03",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Write two short email messages about a class display: one inviting a family member to see it, the other recounting your imaginary visit to it. Label each purpose and explain what changed while the form stayed the same.",
+    "audio_prompt": "Write two short email messages about a class display: one inviting a family member to see it, the other recounting your imaginary visit to it. Label each purpose and explain what changed while the form stayed the same.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Invitation: Please visit our class display on Friday at 3 pm in Room 4. Recount: Yesterday I visited the display. First I saw the models, then I read the labels. Both are emails; one gives invitation details and the other orders past events.",
+    "acceptance_note": "Require two different actual messages, invitation details and a time-ordered recount, plus form/purpose distinction. Invented event details are allowed and should be understood as part of the task.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Invitation: Please visit our class display on Friday at 3 pm in Room 4. Recount: Yesterday I visited the display. First I saw the models, then I read the labels. Both are emails; one gives invitation details and the other orders past events.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E4"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LA03-T-001",
@@ -1205,29 +1949,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "New context: preparing a museum information panel about fossils. Which option is correct?",
-    "audio_prompt": "New context: preparing a museum information panel about fossils. Which option is correct?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “Noor set her puppet on the stage. The curtain snagged its hat. Noor gently freed the hat and began the show.” Why is the final sentence a resolution?",
+    "audio_prompt": "Read: “Noor set her puppet on the stage. The curtain snagged its hat. Noor gently freed the hat and began the show.” Why is the final sentence a resolution?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a heading, short factual sections, labelled images and scientific terms explained clearly.",
+        "text": "It deals with the snag so the planned show can begin.",
         "is_correct": true
       },
       {
-        "text": "Use a diary entry with unrelated feelings.",
+        "text": "It introduces the puppet before anything happens.",
         "is_correct": false
       },
       {
-        "text": "Use only a list of character names.",
+        "text": "It compares two ways of making a hat.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives reasons why all shows need curtains.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "An information panel combines organised facts and visual labels so visitors can understand the display quickly.",
-      "hint": "Match structure, language and layout to a public information purpose."
-    }
+      "summary": "The snag is the story’s difficulty; freeing the hat lets the action continue.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA03-T-002",
@@ -1235,29 +1992,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "What is the best choice for preparing a museum information panel about fossils?",
-    "audio_prompt": "What is the best choice for preparing a museum information panel about fossils?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “Last night I rode a staircase into the stars. First I passed the moon. Later I waved to a comet.” Which description fits both the language and organisation?",
+    "audio_prompt": "Read: “Last night I rode a staircase into the stars. First I passed the moon. Later I waved to a comet.” Which description fits both the language and organisation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a diary entry with unrelated feelings.",
+        "text": "A factual report grouping kinds of staircases.",
         "is_correct": false
       },
       {
-        "text": "Use a heading, short factual sections, labelled images and scientific terms explained clearly.",
+        "text": "An imaginative first-person recount arranged by time.",
         "is_correct": true
       },
       {
-        "text": "Use only a list of character names.",
+        "text": "A biography of the person who discovered a comet.",
+        "is_correct": false
+      },
+      {
+        "text": "An argument that presents reasons for space travel.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "An information panel combines organised facts and visual labels so visitors can understand the display quickly.",
-      "hint": "Match structure, language and layout to a public information purpose."
-    }
+      "summary": "I, last night, first and later organise imagined events as a recount, rather than making them factual.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA03-T-003",
@@ -1265,29 +2035,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which explanation best supports “Use a heading, short factual sections, labelled images and scientific terms explained clearly.” in preparing a museum information panel about fossils?",
-    "audio_prompt": "Which explanation best supports “Use a heading, short factual sections, labelled images and scientific terms explained clearly.” in preparing a museum information panel about fossils?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "These CSIROpedia facts appear in a profile: Ruby Payne-Scott graduated in 1933; completed an MSc in 1936; joined CSIR in 1941. Which added heading best fits the organisation?",
+    "audio_prompt": "These CSIROpedia facts appear in a profile: Ruby Payne-Scott graduated in 1933; completed an MSc in 1936; joined CSIR in 1941. Which added heading best fits the organisation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Use a diary entry with unrelated feelings.” is always a safe choice.",
+        "text": "Reasons to vote for a new science club.",
         "is_correct": false
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "Instructions for building a radio receiver.",
         "is_correct": false
       },
       {
-        "text": "An information panel combines organised facts and visual labels so visitors can understand the display quickly.",
+        "text": "Study and early research work.",
         "is_correct": true
+      },
+      {
+        "text": "Two scientists compared by their favourite books.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "An information panel combines organised facts and visual labels so visitors can understand the display quickly.",
-      "hint": "Match structure, language and layout to a public information purpose."
-    }
+      "summary": "The dated education and work events develop a biographical life sequence. The heading should match those facts.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA03-T-004",
@@ -1295,29 +2078,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which clue should guide your decision in preparing a museum information panel about fossils?",
-    "audio_prompt": "Which clue should guide your decision in preparing a museum information panel about fossils?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “A school atlas contains maps, a contents page and an index. The contents page lists sections. The index helps readers find named places.” Which relationship organises this report?",
+    "audio_prompt": "Read: “A school atlas contains maps, a contents page and an index. The contents page lists sections. The index helps readers find named places.” Which relationship organises this report?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Match structure, language and layout to a public information purpose.",
+        "text": "A character’s difficulty and its resolution.",
+        "is_correct": false
+      },
+      {
+        "text": "A sequence of events from yesterday’s map lesson.",
+        "is_correct": false
+      },
+      {
+        "text": "A comparison of two people’s opinions about maps.",
+        "is_correct": false
+      },
+      {
+        "text": "A whole resource and the parts within it.",
         "is_correct": true
-      },
-      {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "An information panel combines organised facts and visual labels so visitors can understand the display quickly.",
-      "hint": "Match structure, language and layout to a public information purpose."
-    }
+      "summary": "The atlas is the whole; its components and uses are then described.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA03-T-005",
@@ -1325,29 +2122,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which option would you reject first in preparing a museum information panel about fossils?",
-    "audio_prompt": "Which option would you reject first in preparing a museum information panel about fossils?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “Tent A and Tent B each sleep two people. Tent A has one entrance; Tent B has two.” Which sentence best explains the structure?",
+    "audio_prompt": "Read: “Tent A and Tent B each sleep two people. Tent A has one entrance; Tent B has two.” Which sentence best explains the structure?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a heading, short factual sections, labelled images and scientific terms explained clearly.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a diary entry with unrelated feelings.",
+        "text": "It compares the same two features across both tents.",
         "is_correct": true
       },
       {
-        "text": "Use only a list of character names.",
+        "text": "It traces stages of how a tent is manufactured.",
+        "is_correct": false
+      },
+      {
+        "text": "It recounts a particular camper’s day.",
+        "is_correct": false
+      },
+      {
+        "text": "It explains why every tent has two entrances.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. An information panel combines organised facts and visual labels so visitors can understand the display quickly.",
-      "hint": "Match structure, language and layout to a public information purpose."
-    }
+      "summary": "Capacity and entrances are compared across the same pair, making similarities and differences clear.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA03-T-006",
@@ -1355,29 +2166,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which correction should replace “Use a diary entry with unrelated feelings.” in preparing a museum information panel about fossils?",
-    "audio_prompt": "Which correction should replace “Use a diary entry with unrelated feelings.” in preparing a museum information panel about fossils?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “The small drain was blocked by leaves. Rainwater could not pass through, so it collected in the courtyard.” What is the main structural relationship?",
+    "audio_prompt": "Read: “The small drain was blocked by leaves. Rainwater could not pass through, so it collected in the courtyard.” What is the main structural relationship?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a diary entry with unrelated feelings.",
+        "text": "Comparison: two courtyards are described feature by feature.",
         "is_correct": false
       },
       {
-        "text": "Use only a list of character names.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a heading, short factual sections, labelled images and scientific terms explained clearly.",
+        "text": "Cause and effect: blockage prevents drainage and water collects.",
         "is_correct": true
+      },
+      {
+        "text": "Biography: a person’s major life events are ordered.",
+        "is_correct": false
+      },
+      {
+        "text": "Recommendation: readers are told which story to choose.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "An information panel combines organised facts and visual labels so visitors can understand the display quickly.",
-      "hint": "Match structure, language and layout to a public information purpose."
-    }
+      "summary": "The passage explains why the water collected, linking the blockage to the result.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA03-T-007",
@@ -1385,29 +2210,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Apply the skill to preparing a museum information panel about fossils: what should you choose?",
-    "audio_prompt": "Apply the skill to preparing a museum information panel about fossils: what should you choose?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “A school newsletter begins with submitted articles. Editors check the articles. Approved pieces are arranged on pages, and the pages are printed.” Why keep these stages in this order?",
+    "audio_prompt": "Read: “A school newsletter begins with submitted articles. Editors check the articles. Approved pieces are arranged on pages, and the pages are printed.” Why keep these stages in this order?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a heading, short factual sections, labelled images and scientific terms explained clearly.",
+        "text": "It groups all printing information before all writing information.",
+        "is_correct": false
+      },
+      {
+        "text": "It compares two different ways of producing a newsletter.",
+        "is_correct": false
+      },
+      {
+        "text": "It explains how each stage leads towards a finished newsletter.",
         "is_correct": true
       },
       {
-        "text": "Use a diary entry with unrelated feelings.",
-        "is_correct": false
-      },
-      {
-        "text": "Use only a list of character names.",
+        "text": "It states an opinion about newsletters and then supports it with reasons.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "An information panel combines organised facts and visual labels so visitors can understand the display quickly.",
-      "hint": "Match structure, language and layout to a public information purpose."
-    }
+      "summary": "The text follows the production process: submission, checking, arranging and printing. The order helps readers understand how the newsletter is produced.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA03-T-008",
@@ -1415,29 +2254,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which final choice gives the clearest and most accurate result for preparing a museum information panel about fossils?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for preparing a museum information panel about fossils?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "An invented book talk says: “In The Silent Drum, cousins look for the cause of a strange sound. I enjoyed how each clue changed their guesses.” Which ending recommends the story using a supplied detail?",
+    "audio_prompt": "An invented book talk says: “In The Silent Drum, cousins look for the cause of a strange sound. I enjoyed how each clue changed their guesses.” Which ending recommends the story using a supplied detail?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a diary entry with unrelated feelings.",
+        "text": "If you enjoy learning music, this story shows you how to play a drum.",
         "is_correct": false
       },
       {
-        "text": "Use a heading, short factual sections, labelled images and scientific terms explained clearly.",
+        "text": "If you enjoy true life stories, this book records the cousins’ real childhood.",
+        "is_correct": false
+      },
+      {
+        "text": "I recommend this book because it seems like a really good read.",
+        "is_correct": false
+      },
+      {
+        "text": "If you enjoy solving mysteries, this story gives you clues to think about.",
         "is_correct": true
-      },
-      {
-        "text": "Use only a list of character names.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "An information panel combines organised facts and visual labels so visitors can understand the display quickly.",
-      "hint": "Match structure, language and layout to a public information purpose."
-    }
+      "summary": "The clues support a recommendation for readers who enjoy mysteries. The talk does not establish music instruction or a true biography, and bare praise does not explain a supplied story feature.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA03-T-009",
@@ -1445,29 +2297,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "New context: writing a maths explanation of how to find perimeter. Which option is correct?",
-    "audio_prompt": "New context: writing a maths explanation of how to find perimeter. Which option is correct?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “The small bench holds no one now. / I remember our noisy lunches. / Perhaps a place can keep a friendship / after the friends have gone.” What movement shapes this poem?",
+    "audio_prompt": "Read: “The small bench holds no one now. / I remember our noisy lunches. / Perhaps a place can keep a friendship / after the friends have gone.” What movement shapes this poem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a suspenseful plot twist.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe the writer’s weekend instead.",
-        "is_correct": false
-      },
-      {
-        "text": "State the idea, show an example and explain each step using precise mathematical terms.",
+        "text": "A present observation leads to a memory and reflection.",
         "is_correct": true
+      },
+      {
+        "text": "A list of tools leads to numbered building steps.",
+        "is_correct": false
+      },
+      {
+        "text": "A character loses a bench and then repairs it.",
+        "is_correct": false
+      },
+      {
+        "text": "Two benches are compared by size and material.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A maths explanation needs logical steps and precise vocabulary so the reasoning can be followed.",
-      "hint": "Choose a structure that makes the method visible."
-    }
+      "summary": "The empty bench prompts a memory and a thought about friendship. The poem is reflective.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA03-T-010",
@@ -1475,29 +2341,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "What is the best choice for writing a maths explanation of how to find perimeter?",
-    "audio_prompt": "What is the best choice for writing a maths explanation of how to find perimeter?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Read: “Keep a spare set of game counters. Yesterday one went missing, and our group could not finish. A spare set would let a group continue.” Which part supports the request with a specific event?",
+    "audio_prompt": "Read: “Keep a spare set of game counters. Yesterday one went missing, and our group could not finish. A spare set would let a group continue.” Which part supports the request with a specific event?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "State the idea, show an example and explain each step using precise mathematical terms.",
+        "text": "Keep a spare set of game counters.",
+        "is_correct": false
+      },
+      {
+        "text": "Yesterday one went missing, and our group could not finish.",
         "is_correct": true
       },
       {
-        "text": "Use a suspenseful plot twist.",
+        "text": "A spare set would let a group continue.",
         "is_correct": false
       },
       {
-        "text": "Describe the writer’s weekend instead.",
+        "text": "The text is written as three sentences.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A maths explanation needs logical steps and precise vocabulary so the reasoning can be followed.",
-      "hint": "Choose a structure that makes the method visible."
-    }
+      "summary": "The supplied incident gives evidence for the opening proposal; the final sentence explains the benefit.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA03-T-011",
@@ -1505,29 +2384,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which explanation best supports “State the idea, show an example and explain each step using precise mathematical terms.” in writing a maths explanation of how to find perimeter?",
-    "audio_prompt": "Which explanation best supports “State the idea, show an example and explain each step using precise mathematical terms.” in writing a maths explanation of how to find perimeter?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "An email reports the times of club meetings. Another email argues for an extra meeting and gives reasons. Which statement is best?",
+    "audio_prompt": "An email reports the times of club meetings. Another email argues for an extra meeting and gives reasons. Which statement is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Use a suspenseful plot twist.” is always a safe choice.",
+        "text": "Both must be arguments because they are emails.",
         "is_correct": false
       },
       {
-        "text": "A maths explanation needs logical steps and precise vocabulary so the reasoning can be followed.",
+        "text": "The report becomes poetry because it has times.",
+        "is_correct": false
+      },
+      {
+        "text": "The form is the same, but the purposes and organisation differ.",
         "is_correct": true
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "An email cannot contain reasons for a proposal.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A maths explanation needs logical steps and precise vocabulary so the reasoning can be followed.",
-      "hint": "Choose a structure that makes the method visible."
-    }
+      "summary": "Email describes the form; reporting information and supporting a proposal use different content and stages.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E4"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA03-T-012",
@@ -1535,29 +2428,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which clue should guide your decision in writing a maths explanation of how to find perimeter?",
-    "audio_prompt": "Which clue should guide your decision in writing a maths explanation of how to find perimeter?",
+    "stage": "recognise",
+    "skill": "text_structure_language_and_purpose",
+    "question": "List A names ingredients for a sandwich. List B gives three reasons the class should offer sandwiches at a picnic. What should a reader use to distinguish their purposes?",
+    "audio_prompt": "List A names ingredients for a sandwich. List B gives three reasons the class should offer sandwiches at a picnic. What should a reader use to distinguish their purposes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "Only the fact that each item starts on a new line.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and use the first familiar form.",
+        "text": "Only whether the page is printed or on a screen.",
         "is_correct": false
       },
       {
-        "text": "Choose a structure that makes the method visible.",
+        "text": "The assumption that all lists are instructions.",
+        "is_correct": false
+      },
+      {
+        "text": "What the listed items help the reader do or decide.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A maths explanation needs logical steps and precise vocabulary so the reasoning can be followed.",
-      "hint": "Choose a structure that makes the method visible."
-    }
+      "summary": "The ingredients support preparation; the reasons support a proposal. The same list form does not fix the purpose.",
+      "hint": "Look at how the ideas fit together, not just one word."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E4"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA03-T-013",
@@ -1565,29 +2472,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which option would you reject first in writing a maths explanation of how to find perimeter?",
-    "audio_prompt": "Which option would you reject first in writing a maths explanation of how to find perimeter?",
-    "answers": [
-      {
-        "text": "Use a suspenseful plot twist.",
-        "is_correct": true
-      },
-      {
-        "text": "State the idea, show an example and explain each step using precise mathematical terms.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe the writer’s weekend instead.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Invented event notes: at 1 pm a group set up a model display; at 1:20 visitors arrived; at 2 pm the group packed away. Write a brief factual-scenario recount and explain two features that make its organisation clear.",
+    "audio_prompt": "Invented event notes: at 1 pm a group set up a model display; at 1:20 visitors arrived; at 2 pm the group packed away. Write a brief factual-scenario recount and explain two features that make its organisation clear.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "At 1 pm our group set up a model display. Visitors arrived at 1:20. At 2 pm we packed away. I introduced the group/activity and kept the events in time order using the supplied times.",
+    "acceptance_note": "Require all events in order, accurate times if included and two relevant explained features (orientation, chronology, time language). Do not treat the invented scenario as a historical source.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A maths explanation needs logical steps and precise vocabulary so the reasoning can be followed.",
-      "hint": "Choose a structure that makes the method visible."
-    }
+      "summary": "At 1 pm our group set up a model display. Visitors arrived at 1:20. At 2 pm we packed away. I introduced the group/activity and kept the events in time order using the supplied times.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA03-T-014",
@@ -1595,29 +2503,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which correction should replace “Use a suspenseful plot twist.” in writing a maths explanation of how to find perimeter?",
-    "audio_prompt": "Which correction should replace “Use a suspenseful plot twist.” in writing a maths explanation of how to find perimeter?",
-    "answers": [
-      {
-        "text": "Use a suspenseful plot twist.",
-        "is_correct": false
-      },
-      {
-        "text": "State the idea, show an example and explain each step using precise mathematical terms.",
-        "is_correct": true
-      },
-      {
-        "text": "Describe the writer’s weekend instead.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "A process note says, “The signal reaches the bell, then the bell rings.” A cause note says, “The bell stayed silent because its power supply was disconnected.” Explain the different organisation. Then write one new sentence extending the cause note without changing its meaning.",
+    "audio_prompt": "A process note says, “The signal reaches the bell, then the bell rings.” A cause note says, “The bell stayed silent because its power supply was disconnected.” Explain the different organisation. Then write one new sentence extending the cause note without changing its meaning.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The process note follows stages; the cause note links no power with silence. Added sentence: Without power, the bell could not produce its usual sound.",
+    "acceptance_note": "Require sequential/causal contrast using each supplied text and a sensible causal extension. Do not require electrical details beyond the prompt.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "A maths explanation needs logical steps and precise vocabulary so the reasoning can be followed.",
-      "hint": "Choose a structure that makes the method visible."
-    }
+      "summary": "The process note follows stages; the cause note links no power with silence. Added sentence: Without power, the bell could not produce its usual sound.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA03-T-015",
@@ -1625,29 +2535,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Apply the skill to writing a maths explanation of how to find perimeter: what should you choose?",
-    "audio_prompt": "Apply the skill to writing a maths explanation of how to find perimeter: what should you choose?",
-    "answers": [
-      {
-        "text": "Use a suspenseful plot twist.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe the writer’s weekend instead.",
-        "is_correct": false
-      },
-      {
-        "text": "State the idea, show an example and explain each step using precise mathematical terms.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Poem A: “Tess dropped a bead. / It rolled beneath a chair. / She found it in the morning light.” Poem B: “A blue bead, / a bright dot, / a tiny sky on my palm.” Explain how their purposes shape the line order. Write two new lines for a reflective poem about keeping a small object.",
+    "audio_prompt": "Poem A: “Tess dropped a bead. / It rolled beneath a chair. / She found it in the morning light.” Poem B: “A blue bead, / a bright dot, / a tiny sky on my palm.” Explain how their purposes shape the line order. Write two new lines for a reflective poem about keeping a small object.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "A tells events in order: loss, rolling, finding. B builds a description through related images. Reflective lines: I keep the pebble in my pocket. / It reminds me that a short walk can stay with me.",
+    "acceptance_note": "Require narrative versus description with clues from both, plus two actual lines connecting an object with a thought/memory. Accept varied poems without rhyme.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "A maths explanation needs logical steps and precise vocabulary so the reasoning can be followed.",
-      "hint": "Choose a structure that makes the method visible."
-    }
+      "summary": "A tells events in order: loss, rolling, finding. B builds a description through related images. Reflective lines: I keep the pebble in my pocket. / It reminds me that a short walk can stay with me.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA03-T-016",
@@ -1655,28 +2567,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Text Structures and Language Across the Curriculum",
-    "question": "Which final choice gives the clearest and most accurate result for writing a maths explanation of how to find perimeter?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for writing a maths explanation of how to find perimeter?",
-    "answers": [
-      {
-        "text": "State the idea, show an example and explain each step using precise mathematical terms.",
-        "is_correct": true
-      },
-      {
-        "text": "Use a suspenseful plot twist.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe the writer’s weekend instead.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "text_structure_language_and_purpose",
+    "question": "Invented notice facts: the swap table accepts clean books; families may bring one and choose another; the next swap is Monday at 3 pm in the hall. Write a short persuasive poster using the facts. Then explain its form, purpose and order.",
+    "audio_prompt": "Invented notice facts: the swap table accepts clean books; families may bring one and choose another; the next swap is Monday at 3 pm in the hall. Write a short persuasive poster using the facts. Then explain its form, purpose and order.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Join our book swap! Bring one clean book and choose another on Monday at 3 pm in the hall. Give a story a new reader. Form: poster. Purpose: persuade families to join. It begins with an invitation, gives practical details and ends with a reason to join.",
+    "acceptance_note": "Require an actual short poster text, accurate supplied arrangements, a persuasive reason/invitation and explanation separating form from purpose/stages. Do not invent a fee or guarantee a particular book.",
+    "response_instructions": "Complete the actual reading, writing or speaking task. You may write, speak to an adult or use your usual communication support. An adult checks the completed evidence.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "A maths explanation needs logical steps and precise vocabulary so the reasoning can be followed.",
-      "hint": "Choose a structure that makes the method visible."
-    }
+      "summary": "Join our book swap! Bring one clean book and choose another on Monday at 3 pm in the hall. Give a story a new reader. Form: poster. Purpose: persuade families to join. It begins with an invitation, gives practical details and ends with a reason to join.",
+      "hint": "Use details from the text and explain how the organisation serves its purpose."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E4"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]

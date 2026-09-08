@@ -1,6 +1,10 @@
 # Year 4 English continuation queue
 
-## Latest execution mode — five-code parallel batches
+## Latest owner priority — next six AC9E4LA07–LA12
+
+Owner requested next six on9 SeptemberSydney while LA02–LA06 finishing. Root remains soleIXLresearcher tab64. NEXT-SIX-AUDIT.md verifies coverage/preservation and officialLA11/12 alongside reusedLA07–10. LA07–LA12 preparation is active; no final-resource approval/published status inferred. Complete previousbatch review/release alongside this source work.
+
+## Previous execution mode — five-code parallel batches
 
 Owner's latest direction: **do more codes simultaneously, take five at a time**. Active next batch is **AC9E4LA02–LA06**. This supersedes the earlier strict one-code-at-a-time drafting gate, not the quality/release gates. Root alone uses existing AU IXL tab64, researching each skill visibly at ordinary pace and recording actual evidence. Five authors may prepare their own code's preservation/coverage work concurrently, then draft source-ready content as root sends each primary-source brief. One separate reviewer coordinates independent final review; no author approves their own artifacts. Each code still requires Topic/Classroom, eight distinct homework tasks,48+16, all final item/PDF/runtime review, and safe publication. Continue into subsequent batches after this one; five is batch size, not a stopping cap.
 

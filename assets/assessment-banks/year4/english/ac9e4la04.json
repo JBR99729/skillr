@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "In explaining how a seed germinates, which option best demonstrates the skill?",
-    "audio_prompt": "In explaining how a seed germinates, which option best demonstrates the skill?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Asha carried a lantern. She put it on the table.” What does “it” refer to?",
+    "audio_prompt": "“Asha carried a lantern. She put it on the table.” What does “it” refer to?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "First, the seed absorbs water. Then, the root begins to grow.",
+        "text": "the lantern",
         "is_correct": true
       },
       {
-        "text": "First, the seed absorbs water. However, the root begins to grow.",
+        "text": "Asha",
         "is_correct": false
       },
       {
-        "text": "The seed absorbs water. Football is popular.",
+        "text": "the table",
+        "is_correct": false
+      },
+      {
+        "text": "the act of carrying",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "First and then show a clear time sequence between related ideas.",
-      "hint": "Choose a connective that matches the relationship between the ideas."
-    }
+      "summary": "The lantern is the object Asha puts on the table. “She” refers to Asha.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA04-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which choice fits explaining how a seed germinates most accurately?",
-    "audio_prompt": "Which choice fits explaining how a seed germinates most accurately?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The dancers practised their steps. They performed at assembly.” Who does “They” refer to?",
+    "audio_prompt": "“The dancers practised their steps. They performed at assembly.” Who does “They” refer to?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "First, the seed absorbs water. However, the root begins to grow.",
+        "text": "the steps",
         "is_correct": false
       },
       {
-        "text": "First, the seed absorbs water. Then, the root begins to grow.",
+        "text": "the dancers",
         "is_correct": true
       },
       {
-        "text": "The seed absorbs water. Football is popular.",
+        "text": "the audience",
+        "is_correct": false
+      },
+      {
+        "text": "the assembly organisers",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "First and then show a clear time sequence between related ideas.",
-      "hint": "Choose a connective that matches the relationship between the ideas."
-    }
+      "summary": "The dancers are the people already named who can perform. The audience and organisers are not named in the text.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA04-P-003",
@@ -66,28 +92,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which choice fits explaining why the oval was closed after heavy rain most accurately?",
-    "audio_prompt": "Which choice fits explaining why the oval was closed after heavy rain most accurately?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“We planted two seedlings. These plants need water.” Which words point back to the seedlings?",
+    "audio_prompt": "“We planted two seedlings. These plants need water.” Which words point back to the seedlings?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The ground was waterlogged; meanwhile, the oval was closed.",
+        "text": "We planted",
         "is_correct": false
       },
       {
-        "text": "The ground was waterlogged; for example, the oval was closed.",
+        "text": "need water",
         "is_correct": false
       },
       {
-        "text": "The ground was waterlogged; therefore, the oval was closed.",
+        "text": "These plants",
         "is_correct": true
+      },
+      {
+        "text": "two seedlings",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Therefore shows that the closure is a result of the waterlogged ground.",
-      "hint": "Ask whether the second idea is a result, contrast, example or time event."
-    }
+      "summary": "“These” accompanies the noun “plants”; the whole group points back to the two seedlings.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA04-P-004",
@@ -96,28 +135,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Look closely at explaining why the oval was closed after heavy rain. Which response or wording works best?",
-    "audio_prompt": "Look closely at explaining why the oval was closed after heavy rain. Which response or wording works best?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Noor put a blue folder beside a red folder. It held the map.” Why is “It” unclear?",
+    "audio_prompt": "“Noor put a blue folder beside a red folder. It held the map.” Why is “It” unclear?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The ground was waterlogged; therefore, the oval was closed.",
+        "text": "A folder cannot hold a map.",
+        "is_correct": false
+      },
+      {
+        "text": "Noor has not been named.",
+        "is_correct": false
+      },
+      {
+        "text": "The word “map” means both folders.",
+        "is_correct": false
+      },
+      {
+        "text": "Either folder could hold the map.",
         "is_correct": true
-      },
-      {
-        "text": "The ground was waterlogged; meanwhile, the oval was closed.",
-        "is_correct": false
-      },
-      {
-        "text": "The ground was waterlogged; for example, the oval was closed.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Therefore shows that the closure is a result of the waterlogged ground.",
-      "hint": "Ask whether the second idea is a result, contrast, example or time event."
-    }
+      "summary": "Both folders are possible referents. Naming the intended folder repairs the uncertainty.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA04-P-005",
@@ -126,28 +178,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Look closely at adding another reason to a persuasive paragraph about shade. Which response or wording works best?",
-    "audio_prompt": "Look closely at adding another reason to a persuasive paragraph about shade. Which response or wording works best?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "The silver box is empty; the wooden box contains beads. Which sentence clearly continues “Two boxes stood on the shelf”?",
+    "audio_prompt": "The silver box is empty; the wooden box contains beads. Which sentence clearly continues “Two boxes stood on the shelf”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "However, more shade would make lunchtime areas cooler.",
-        "is_correct": false
-      },
-      {
-        "text": "In addition, more shade would make lunchtime areas cooler.",
+        "text": "The wooden box contained beads.",
         "is_correct": true
       },
       {
-        "text": "Finally, because more shade would.",
+        "text": "It contained beads.",
+        "is_correct": false
+      },
+      {
+        "text": "That contained beads.",
+        "is_correct": false
+      },
+      {
+        "text": "One contained something.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "In addition signals another supporting point on the same topic.",
-      "hint": "Notice whether the writer is adding, contrasting or concluding."
-    }
+      "summary": "Naming the wooden box identifies the intended box; the other choices leave it uncertain or lose information.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA04-P-006",
@@ -156,28 +221,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "For adding another reason to a persuasive paragraph about shade, which option is the strongest match?",
-    "audio_prompt": "For adding another reason to a persuasive paragraph about shade, which option is the strongest match?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“A storm damaged the jetty. This damage closed the jetty for repairs.” What does “This damage” refer to?",
+    "audio_prompt": "“A storm damaged the jetty. This damage closed the jetty for repairs.” What does “This damage” refer to?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "However, more shade would make lunchtime areas cooler.",
+        "text": "all repairs in the town",
         "is_correct": false
       },
       {
-        "text": "Finally, because more shade would.",
-        "is_correct": false
-      },
-      {
-        "text": "In addition, more shade would make lunchtime areas cooler.",
+        "text": "the damage caused by the storm",
         "is_correct": true
+      },
+      {
+        "text": "the jetty before the storm",
+        "is_correct": false
+      },
+      {
+        "text": "a different storm next week",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "In addition signals another supporting point on the same topic.",
-      "hint": "Notice whether the writer is adding, contrasting or concluding."
-    }
+      "summary": "The determiner “This” links the noun “damage” to what the previous sentence described.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA04-P-007",
@@ -186,28 +264,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "For linking a condition to an action in a bushwalk safety guide, which option is the strongest match?",
-    "audio_prompt": "For linking a condition to an action in a bushwalk safety guide, which option is the strongest match?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The team collected old towels. Those towels lined the animal baskets.” What job does “Those” do here?",
+    "audio_prompt": "“The team collected old towels. Those towels lined the animal baskets.” What job does “Those” do here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "If the track is closed, choose another route.",
+        "text": "It introduces an unrelated set of baskets.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows that lining happened first.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the towels already mentioned.",
         "is_correct": true
       },
       {
-        "text": "Although the track is closed, choose another route because maybe.",
-        "is_correct": false
-      },
-      {
-        "text": "Before the track is closed, choose another route.",
+        "text": "It explains why the team formed.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "If introduces the condition that determines what action should follow.",
-      "hint": "Find the word that means this action depends on that situation."
-    }
+      "summary": "“Those” accompanies “towels” and points back to the collected towels.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA04-P-008",
@@ -216,28 +307,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which example should you choose for linking a condition to an action in a bushwalk safety guide?",
-    "audio_prompt": "Which example should you choose for linking a condition to an action in a bushwalk safety guide?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "Which version avoids repetition while keeping both actions clear? Original: “Kiran found a feather. Kiran drew the feather.”",
+    "audio_prompt": "Which version avoids repetition while keeping both actions clear? Original: “Kiran found a feather. Kiran drew the feather.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Although the track is closed, choose another route because maybe.",
+        "text": "They found it. They drew it.",
         "is_correct": false
       },
       {
-        "text": "If the track is closed, choose another route.",
+        "text": "Kiran found a feather. It drew them.",
+        "is_correct": false
+      },
+      {
+        "text": "Kiran found a feather. They drew a leaf.",
+        "is_correct": false
+      },
+      {
+        "text": "Kiran found a feather. They drew it.",
         "is_correct": true
-      },
-      {
-        "text": "Before the track is closed, choose another route.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "If introduces the condition that determines what action should follow.",
-      "hint": "Find the word that means this action depends on that situation."
-    }
+      "summary": "Kiran and the feather are introduced before “They” and “it” refer back to them. The actions stay the same.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA04-P-009",
@@ -246,28 +350,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which example should you choose for keeping a paragraph about koalas focused?",
-    "audio_prompt": "Which example should you choose for keeping a paragraph about koalas focused?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The hall was full. Therefore, late arrivals waited outside.” What relationship does “Therefore” show?",
+    "audio_prompt": "“The hall was full. Therefore, late arrivals waited outside.” What relationship does “Therefore” show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Koalas rest in eucalyptus trees. They means the school bell.",
-        "is_correct": false
-      },
-      {
-        "text": "Koalas rest in eucalyptus trees. My bike has new tyres.",
-        "is_correct": false
-      },
-      {
-        "text": "Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.",
+        "text": "Waiting outside was a result of the hall being full.",
         "is_correct": true
+      },
+      {
+        "text": "Waiting happened despite an empty hall.",
+        "is_correct": false
+      },
+      {
+        "text": "The sentences describe unrelated events.",
+        "is_correct": false
+      },
+      {
+        "text": "Waiting outside caused the hall to be built.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected.",
-      "hint": "Check that pronouns and related words point clearly to the same topic."
-    }
+      "summary": "The full hall explains the consequence: late arrivals had to wait outside.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA04-P-010",
@@ -276,28 +393,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "In keeping a paragraph about koalas focused, which option best demonstrates the skill?",
-    "audio_prompt": "In keeping a paragraph about koalas focused, which option best demonstrates the skill?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Our garden has a shady seat. In addition, it has a drinking tap.” What does the second sentence add?",
+    "audio_prompt": "“Our garden has a shady seat. In addition, it has a drinking tap.” What does the second sentence add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.",
+        "text": "a result caused by the seat",
+        "is_correct": false
+      },
+      {
+        "text": "another feature of the garden",
         "is_correct": true
       },
       {
-        "text": "Koalas rest in eucalyptus trees. They means the school bell.",
+        "text": "an opposite view of the seat",
         "is_correct": false
       },
       {
-        "text": "Koalas rest in eucalyptus trees. My bike has new tyres.",
+        "text": "the final step in building the garden",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected.",
-      "hint": "Check that pronouns and related words point clearly to the same topic."
-    }
+      "summary": "“In addition” introduces another related feature. It does not claim that the seat caused the tap.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA04-P-011",
@@ -305,29 +435,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Why does “First, the seed absorbs water. Then, the root begins to grow.” work well for explaining how a seed germinates?",
-    "audio_prompt": "Why does “First, the seed absorbs water. Then, the root begins to grow.” work well for explaining how a seed germinates?",
+    "stage": "recognise",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The walk was long. However, everyone wanted to keep exploring.” What does “However” signal?",
+    "audio_prompt": "“The walk was long. However, everyone wanted to keep exploring.” What does “However” signal?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “First, the seed absorbs water. However, the root begins to grow.” is always acceptable in this situation.",
+        "text": "the next step in a set of instructions",
         "is_correct": false
       },
       {
-        "text": "First and then show a clear time sequence between related ideas.",
+        "text": "a second reason the walk was long",
+        "is_correct": false
+      },
+      {
+        "text": "a contrast with what the long walk might lead us to expect",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "proof that nobody enjoyed exploring",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "First and then show a clear time sequence between related ideas.",
-      "hint": "Choose a connective that matches the relationship between the ideas."
-    }
+      "summary": "A long walk might make people want to stop; their wish to continue contrasts with that expectation.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA04-P-012",
@@ -335,29 +478,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "What makes “First, the seed absorbs water. Then, the root begins to grow.” a better choice in explaining how a seed germinates?",
-    "audio_prompt": "What makes “First, the seed absorbs water. Then, the root begins to grow.” a better choice in explaining how a seed germinates?",
+    "stage": "recognise",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The first design failed. Nevertheless, the class tried again.” Which explanation fits?",
+    "audio_prompt": "“The first design failed. Nevertheless, the class tried again.” Which explanation fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “First, the seed absorbs water. However, the root begins to grow.” is always acceptable in this situation.",
+        "text": "They tried again before making any design.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The design succeeded, so they stopped.",
         "is_correct": false
       },
       {
-        "text": "First and then show a clear time sequence between related ideas.",
+        "text": "The second sentence names a different class.",
+        "is_correct": false
+      },
+      {
+        "text": "They continued despite the setback.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "First and then show a clear time sequence between related ideas.",
-      "hint": "Choose a connective that matches the relationship between the ideas."
-    }
+      "summary": "“Nevertheless” shows that the failure did not prevent another attempt.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA04-P-013",
@@ -365,29 +521,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "What makes “The ground was waterlogged; therefore, the oval was closed.” a better choice in explaining why the oval was closed after heavy rain?",
-    "audio_prompt": "What makes “The ground was waterlogged; therefore, the oval was closed.” a better choice in explaining why the oval was closed after heavy rain?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The oval was waterlogged. ___, the school closed it to protect the surface.” Choose the link that clearly shows the closure as a result.",
+    "audio_prompt": "“The oval was waterlogged. ___, the school closed it to protect the surface.” Choose the link that clearly shows the closure as a result.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Therefore shows that the closure is a result of the waterlogged ground.",
+        "text": "Therefore",
         "is_correct": true
       },
       {
-        "text": "Because “The ground was waterlogged; meanwhile, the oval was closed.” is always acceptable in this situation.",
+        "text": "In addition",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "However",
+        "is_correct": false
+      },
+      {
+        "text": "Firstly",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Therefore shows that the closure is a result of the waterlogged ground.",
-      "hint": "Ask whether the second idea is a result, contrast, example or time event."
-    }
+      "summary": "The wet surface is the stated reason for the closure, so “Therefore” makes the result relationship explicit.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA04-P-014",
@@ -395,29 +564,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which explanation best justifies “The ground was waterlogged; therefore, the oval was closed.” for explaining why the oval was closed after heavy rain?",
-    "audio_prompt": "Which explanation best justifies “The ground was waterlogged; therefore, the oval was closed.” for explaining why the oval was closed after heavy rain?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The library lends books. ___, it runs a story club.” Choose the link that adds another service.",
+    "audio_prompt": "“The library lends books. ___, it runs a story club.” Choose the link that adds another service.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The ground was waterlogged; meanwhile, the oval was closed.” is always acceptable in this situation.",
+        "text": "Nevertheless",
         "is_correct": false
       },
       {
-        "text": "Therefore shows that the closure is a result of the waterlogged ground.",
+        "text": "In addition",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Therefore",
+        "is_correct": false
+      },
+      {
+        "text": "Finally",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Therefore shows that the closure is a result of the waterlogged ground.",
-      "hint": "Ask whether the second idea is a result, contrast, example or time event."
-    }
+      "summary": "A story club is another library service; lending books is not stated to cause the club.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA04-P-015",
@@ -425,29 +607,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which explanation best justifies “In addition, more shade would make lunchtime areas cooler.” for adding another reason to a persuasive paragraph about shade?",
-    "audio_prompt": "Which explanation best justifies “In addition, more shade would make lunchtime areas cooler.” for adding another reason to a persuasive paragraph about shade?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The new bag is light. ___, it holds all my sports gear.” Which link highlights the surprising contrast?",
+    "audio_prompt": "“The new bag is light. ___, it holds all my sports gear.” Which link highlights the surprising contrast?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “However, more shade would make lunchtime areas cooler.” is always acceptable in this situation.",
+        "text": "Therefore",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Next",
         "is_correct": false
       },
       {
-        "text": "In addition signals another supporting point on the same topic.",
+        "text": "However",
         "is_correct": true
+      },
+      {
+        "text": "In addition",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "In addition signals another supporting point on the same topic.",
-      "hint": "Notice whether the writer is adding, contrasting or concluding."
-    }
+      "summary": "A light bag still having plenty of room is presented as a contrast. “In addition” could add a fact but would not highlight the requested contrast.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA04-P-016",
@@ -455,29 +650,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "What should you notice about “In addition, more shade would make lunchtime areas cooler.” in adding another reason to a persuasive paragraph about shade?",
-    "audio_prompt": "What should you notice about “In addition, more shade would make lunchtime areas cooler.” in adding another reason to a persuasive paragraph about shade?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The wind made flying difficult. ___, the kite stayed in the air.” Which link means “despite that”?",
+    "audio_prompt": "“The wind made flying difficult. ___, the kite stayed in the air.” Which link means “despite that”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "In addition signals another supporting point on the same topic.",
+        "text": "Firstly",
+        "is_correct": false
+      },
+      {
+        "text": "As a result",
+        "is_correct": false
+      },
+      {
+        "text": "In addition",
+        "is_correct": false
+      },
+      {
+        "text": "Nevertheless",
         "is_correct": true
-      },
-      {
-        "text": "Because “However, more shade would make lunchtime areas cooler.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "In addition signals another supporting point on the same topic.",
-      "hint": "Notice whether the writer is adding, contrasting or concluding."
-    }
+      "summary": "“Nevertheless” shows the kite staying up despite the difficulty.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LA04-P-017",
@@ -485,29 +693,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "What should you notice about “If the track is closed, choose another route.” in linking a condition to an action in a bushwalk safety guide?",
-    "audio_prompt": "What should you notice about “If the track is closed, choose another route.” in linking a condition to an action in a bushwalk safety guide?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "Section A: “Firstly, we chose three books for the display.” Section B: “Next, we wrote a label for each chosen book.” Why does B follow A?",
+    "audio_prompt": "Section A: “Firstly, we chose three books for the display.” Section B: “Next, we wrote a label for each chosen book.” Why does B follow A?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Although the track is closed, choose another route because maybe.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "If introduces the condition that determines what action should follow.",
+        "text": "The labels need the books to have been chosen.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "“Next” means the display is finished.",
+        "is_correct": false
+      },
+      {
+        "text": "Labels must always be written before books are chosen.",
+        "is_correct": false
+      },
+      {
+        "text": "Both sections are about different displays.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "If introduces the condition that determines what action should follow.",
-      "hint": "Find the word that means this action depends on that situation."
-    }
+      "summary": "The events depend on that order: first choose the books, then label those books.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LA04-P-018",
@@ -515,29 +736,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which reason explains why “If the track is closed, choose another route.” suits linking a condition to an action in a bushwalk safety guide?",
-    "audio_prompt": "Which reason explains why “If the track is closed, choose another route.” suits linking a condition to an action in a bushwalk safety guide?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "A greeting-card guide has three sections: A: Put the finished cards into envelopes. B: Fold paper to make the cards. C: Write greetings inside the folded cards. Which order makes sense?",
+    "audio_prompt": "A greeting-card guide has three sections: A: Put the finished cards into envelopes. B: Fold paper to make the cards. C: Write greetings inside the folded cards. Which order makes sense?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Although the track is closed, choose another route because maybe.” is always acceptable in this situation.",
+        "text": "A, B, C",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "If introduces the condition that determines what action should follow.",
+        "text": "B, C, A",
         "is_correct": true
+      },
+      {
+        "text": "C, A, B",
+        "is_correct": false
+      },
+      {
+        "text": "B, A, C",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "If introduces the condition that determines what action should follow.",
-      "hint": "Find the word that means this action depends on that situation."
-    }
+      "summary": "First fold the paper into cards. Write inside those folded cards before putting the finished cards into envelopes.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LA04-P-019",
@@ -545,29 +779,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which reason explains why “Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.” suits keeping a paragraph about koalas focused?",
-    "audio_prompt": "Which reason explains why “Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.” suits keeping a paragraph about koalas focused?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Firstly, fill the pot with soil. Then, plant the seed. Finally, place the labelled pot on the shelf.” Which part is the final stage?",
+    "audio_prompt": "“Firstly, fill the pot with soil. Then, plant the seed. Finally, place the labelled pot on the shelf.” Which part is the final stage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "These animals clearly refers back to koalas and keeps the topic chain connected.",
+        "text": "filling the pot",
+        "is_correct": false
+      },
+      {
+        "text": "planting the seed",
+        "is_correct": false
+      },
+      {
+        "text": "placing the labelled pot on the shelf",
         "is_correct": true
       },
       {
-        "text": "Because “Koalas rest in eucalyptus trees. They means the school bell.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "choosing a shelf before beginning",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected.",
-      "hint": "Check that pronouns and related words point clearly to the same topic."
-    }
+      "summary": "“Finally” introduces the last stage of this supplied sequence.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LA04-P-020",
@@ -575,29 +822,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Why does “Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.” work well for keeping a paragraph about koalas focused?",
-    "audio_prompt": "Why does “Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.” work well for keeping a paragraph about koalas focused?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Currently, our class is learning to weave.” What does “Currently” tell us?",
+    "audio_prompt": "“Currently, our class is learning to weave.” What does “Currently” tell us?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Koalas rest in eucalyptus trees. They means the school bell.” is always acceptable in this situation.",
+        "text": "Weaving happened before every other lesson.",
         "is_correct": false
       },
       {
-        "text": "These animals clearly refers back to koalas and keeps the topic chain connected.",
+        "text": "This is the final step in weaving.",
+        "is_correct": false
+      },
+      {
+        "text": "Two weaving actions happened in a stated order.",
+        "is_correct": false
+      },
+      {
+        "text": "The learning is happening around now.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected.",
-      "hint": "Check that pronouns and related words point clearly to the same topic."
-    }
+      "summary": "“Currently” locates the activity in the present; it does not sequence two actions by itself.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LA04-P-021",
@@ -605,29 +865,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which revision best fixes the problem in “First, the seed absorbs water. However, the root begins to grow.” for explaining how a seed germinates?",
-    "audio_prompt": "Which revision best fixes the problem in “First, the seed absorbs water. However, the root begins to grow.” for explaining how a seed germinates?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "Section 1 ends: “We put the wet paintings on the rack.” Section 2 begins: “After they dried, we mounted them.” What connects the sections?",
+    "audio_prompt": "Section 1 ends: “We put the wet paintings on the rack.” Section 2 begins: “After they dried, we mounted them.” What connects the sections?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "First, the seed absorbs water. However, the root begins to grow.",
-        "is_correct": false
-      },
-      {
-        "text": "The seed absorbs water. Football is popular.",
-        "is_correct": false
-      },
-      {
-        "text": "First, the seed absorbs water. Then, the root begins to grow.",
+        "text": "Drying happens before mounting.",
         "is_correct": true
+      },
+      {
+        "text": "Mounting happens before painting.",
+        "is_correct": false
+      },
+      {
+        "text": "The rack is unrelated to the paintings.",
+        "is_correct": false
+      },
+      {
+        "text": "The word “they” refers to the mounts.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "First and then show a clear time sequence between related ideas. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose a connective that matches the relationship between the ideas."
-    }
+      "summary": "“After they dried” links the new section to the paintings and places mounting later.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LA04-P-022",
@@ -635,29 +909,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Compare the choices for explaining how a seed germinates. Which one avoids the mistake in “First, the seed absorbs water. However, the root begins to grow.”?",
-    "audio_prompt": "Compare the choices for explaining how a seed germinates. Which one avoids the mistake in “First, the seed absorbs water. However, the root begins to grow.”?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Before the doors opened, the helpers placed the chairs.” Which event came first?",
+    "audio_prompt": "“Before the doors opened, the helpers placed the chairs.” Which event came first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "First, the seed absorbs water. Then, the root begins to grow.",
+        "text": "The doors opened.",
+        "is_correct": false
+      },
+      {
+        "text": "The helpers placed the chairs.",
         "is_correct": true
       },
       {
-        "text": "First, the seed absorbs water. However, the root begins to grow.",
+        "text": "Both events must have happened together.",
         "is_correct": false
       },
       {
-        "text": "The seed absorbs water. Football is popular.",
+        "text": "The sentence does not give an order.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "First and then show a clear time sequence between related ideas. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose a connective that matches the relationship between the ideas."
-    }
+      "summary": "The word “Before” places chair arranging earlier than door opening, even though opening is mentioned first.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LA04-P-023",
@@ -665,29 +952,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Compare the choices for explaining why the oval was closed after heavy rain. Which one avoids the mistake in “The ground was waterlogged; meanwhile, the oval was closed.”?",
-    "audio_prompt": "Compare the choices for explaining why the oval was closed after heavy rain. Which one avoids the mistake in “The ground was waterlogged; meanwhile, the oval was closed.”?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "A report says, “Firstly, we asked classmates about favourite games. Next, we counted their answers. Finally, we made a chart.” What would be lost if the sections were reversed?",
+    "audio_prompt": "A report says, “Firstly, we asked classmates about favourite games. Next, we counted their answers. Finally, we made a chart.” What would be lost if the sections were reversed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The ground was waterlogged; meanwhile, the oval was closed.",
+        "text": "The names of all the classmates.",
         "is_correct": false
       },
       {
-        "text": "The ground was waterlogged; therefore, the oval was closed.",
+        "text": "The claim that charts always come first.",
+        "is_correct": false
+      },
+      {
+        "text": "The order from collecting answers to displaying results.",
         "is_correct": true
       },
       {
-        "text": "The ground was waterlogged; for example, the oval was closed.",
+        "text": "The number of games, which is stated exactly.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Therefore shows that the closure is a result of the waterlogged ground. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask whether the second idea is a result, contrast, example or time event."
-    }
+      "summary": "The report gives an investigation sequence. Reversing it would put the chart before the answers were collected.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LA04-P-024",
@@ -695,29 +995,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "If “The ground was waterlogged; meanwhile, the oval was closed.” does not work in explaining why the oval was closed after heavy rain, what should replace it?",
-    "audio_prompt": "If “The ground was waterlogged; meanwhile, the oval was closed.” does not work in explaining why the oval was closed after heavy rain, what should replace it?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Meanwhile, Group B sorted the pencils” follows “Group A washed the brushes.” What does “Meanwhile” add?",
+    "audio_prompt": "“Meanwhile, Group B sorted the pencils” follows “Group A washed the brushes.” What does “Meanwhile” add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The ground was waterlogged; meanwhile, the oval was closed.",
+        "text": "Group B started only after every brush was dry.",
         "is_correct": false
       },
       {
-        "text": "The ground was waterlogged; for example, the oval was closed.",
+        "text": "Group B caused Group A to stop.",
         "is_correct": false
       },
       {
-        "text": "The ground was waterlogged; therefore, the oval was closed.",
+        "text": "Group B worked on the previous day.",
+        "is_correct": false
+      },
+      {
+        "text": "Group B worked at the same time.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Therefore shows that the closure is a result of the waterlogged ground. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask whether the second idea is a result, contrast, example or time event."
-    }
+      "summary": "“Meanwhile” connects actions happening during the same period, rather than making one a later step.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LA04-P-025",
@@ -725,29 +1038,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "If “However, more shade would make lunchtime areas cooler.” does not work in adding another reason to a persuasive paragraph about shade, what should replace it?",
-    "audio_prompt": "If “However, more shade would make lunchtime areas cooler.” does not work in adding another reason to a persuasive paragraph about shade, what should replace it?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "The plan says, “If the track is closed, we will use the park path.” What is the condition for using the park path?",
+    "audio_prompt": "The plan says, “If the track is closed, we will use the park path.” What is the condition for using the park path?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "In addition, more shade would make lunchtime areas cooler.",
+        "text": "The track is closed.",
         "is_correct": true
       },
       {
-        "text": "However, more shade would make lunchtime areas cooler.",
+        "text": "The park path is closed.",
         "is_correct": false
       },
       {
-        "text": "Finally, because more shade would.",
+        "text": "The track is open.",
+        "is_correct": false
+      },
+      {
+        "text": "The group has already reached home.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "In addition signals another supporting point on the same topic. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Notice whether the writer is adding, contrasting or concluding."
-    }
+      "summary": "The words after “If” state the condition that leads to the alternative route.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-condition"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LA04-P-026",
@@ -755,29 +1081,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which option corrects the meaning or form needed for adding another reason to a persuasive paragraph about shade?",
-    "audio_prompt": "Which option corrects the meaning or form needed for adding another reason to a persuasive paragraph about shade?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Unless an adult opens the shed, we will leave the tools inside.” Which meaning matches?",
+    "audio_prompt": "“Unless an adult opens the shed, we will leave the tools inside.” Which meaning matches?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "However, more shade would make lunchtime areas cooler.",
+        "text": "The tools leave the shed whenever nobody is there.",
         "is_correct": false
       },
       {
-        "text": "In addition, more shade would make lunchtime areas cooler.",
+        "text": "The tools stay inside if no adult opens the shed.",
         "is_correct": true
       },
       {
-        "text": "Finally, because more shade would.",
+        "text": "An adult has definitely opened the shed.",
+        "is_correct": false
+      },
+      {
+        "text": "The tools stay inside only after being moved outside.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "In addition signals another supporting point on the same topic. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Notice whether the writer is adding, contrasting or concluding."
-    }
+      "summary": "“Unless” introduces the exception. Without the adult opening the shed, the stated plan is to leave the tools inside.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-condition"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LA04-P-027",
@@ -785,29 +1124,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which option corrects the meaning or form needed for linking a condition to an action in a bushwalk safety guide?",
-    "audio_prompt": "Which option corrects the meaning or form needed for linking a condition to an action in a bushwalk safety guide?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "A club may meet outside only if the teacher gives permission. Which notice keeps that condition?",
+    "audio_prompt": "A club may meet outside only if the teacher gives permission. Which notice keeps that condition?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Although the track is closed, choose another route because maybe.",
+        "text": "The club will meet outside whether or not permission is given.",
         "is_correct": false
       },
       {
-        "text": "Before the track is closed, choose another route.",
+        "text": "The club has already received permission to meet outside.",
         "is_correct": false
       },
       {
-        "text": "If the track is closed, choose another route.",
+        "text": "The club may meet outside only if the teacher gives permission.",
         "is_correct": true
+      },
+      {
+        "text": "The club cannot meet outside even with permission.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "If introduces the condition that determines what action should follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Find the word that means this action depends on that situation."
-    }
+      "summary": "“The club may meet outside only if the teacher gives permission” keeps permission necessary. It does not claim permission has already been granted.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-condition"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LA04-P-028",
@@ -815,29 +1167,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which choice is the clearest correction for linking a condition to an action in a bushwalk safety guide?",
-    "audio_prompt": "Which choice is the clearest correction for linking a condition to an action in a bushwalk safety guide?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“If the robot reaches the line, press Stop.” What does the sentence leave uncertain?",
+    "audio_prompt": "“If the robot reaches the line, press Stop.” What does the sentence leave uncertain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "If the track is closed, choose another route.",
+        "text": "which button to press when it reaches the line",
+        "is_correct": false
+      },
+      {
+        "text": "what the condition is",
+        "is_correct": false
+      },
+      {
+        "text": "whether Stop is the named button",
+        "is_correct": false
+      },
+      {
+        "text": "whether the robot will reach the line",
         "is_correct": true
-      },
-      {
-        "text": "Although the track is closed, choose another route because maybe.",
-        "is_correct": false
-      },
-      {
-        "text": "Before the track is closed, choose another route.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "If introduces the condition that determines what action should follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Find the word that means this action depends on that situation."
-    }
+      "summary": "“If” sets a condition without saying it will definitely happen. The response to that condition is explicit.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-condition"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LA04-P-029",
@@ -845,29 +1210,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which choice is the clearest correction for keeping a paragraph about koalas focused?",
-    "audio_prompt": "Which choice is the clearest correction for keeping a paragraph about koalas focused?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "A sign says, “If the grass is wet, use the indoor space.” Today the grass is wet. Which action follows this sign?",
+    "audio_prompt": "A sign says, “If the grass is wet, use the indoor space.” Today the grass is wet. Which action follows this sign?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Koalas rest in eucalyptus trees. They means the school bell.",
-        "is_correct": false
-      },
-      {
-        "text": "Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.",
+        "text": "Use the indoor space.",
         "is_correct": true
       },
       {
-        "text": "Koalas rest in eucalyptus trees. My bike has new tyres.",
+        "text": "Use the grass because it is wet.",
+        "is_correct": false
+      },
+      {
+        "text": "Wait for snow.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the condition because it starts with “If”.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check that pronouns and related words point clearly to the same topic."
-    }
+      "summary": "The stated condition is met, so the sign directs people to the indoor space.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-condition"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LA04-P-030",
@@ -875,29 +1253,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which revision best fixes the problem in “Koalas rest in eucalyptus trees. They means the school bell.” for keeping a paragraph about koalas focused?",
-    "audio_prompt": "Which revision best fixes the problem in “Koalas rest in eucalyptus trees. They means the school bell.” for keeping a paragraph about koalas focused?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“We will not start the recording unless everyone is ready.” Which revision keeps the rule?",
+    "audio_prompt": "“We will not start the recording unless everyone is ready.” Which revision keeps the rule?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Koalas rest in eucalyptus trees. They means the school bell.",
+        "text": "We will start whether or not everyone is ready.",
         "is_correct": false
       },
       {
-        "text": "Koalas rest in eucalyptus trees. My bike has new tyres.",
-        "is_correct": false
-      },
-      {
-        "text": "Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.",
+        "text": "We will start the recording only if everyone is ready.",
         "is_correct": true
+      },
+      {
+        "text": "We will start only if nobody is ready.",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone is ready because we started yesterday.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check that pronouns and related words point clearly to the same topic."
-    }
+      "summary": "“Unless everyone is ready” makes readiness necessary, rather than guaranteeing it.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-condition"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LA04-P-031",
@@ -906,28 +1297,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "You now need to handle explaining how a seed germinates independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle explaining how a seed germinates independently. Which choice should you use?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The beekeeper checked the hive. Inside, the bees moved across the honeycomb.” Which set keeps this paragraph on its topic?",
+    "audio_prompt": "“The beekeeper checked the hive. Inside, the bees moved across the honeycomb.” Which set keeps this paragraph on its topic?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "First, the seed absorbs water. Then, the root begins to grow.",
+        "text": "checked, moved, inside, across",
+        "is_correct": false
+      },
+      {
+        "text": "beekeeper, hive, library, bookmark",
+        "is_correct": false
+      },
+      {
+        "text": "beekeeper, hive, bees, honeycomb",
         "is_correct": true
       },
       {
-        "text": "The seed absorbs water. Football is popular.",
-        "is_correct": false
-      },
-      {
-        "text": "First, the seed absorbs water. However, the root begins to grow.",
+        "text": "bees, honeycomb, goalkeeper, goal",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "First and then show a clear time sequence between related ideas.",
-      "hint": "Choose a connective that matches the relationship between the ideas."
-    }
+      "summary": "“Beekeeper, hive, bees, honeycomb” names people, creatures and things associated with beekeeping. The verbs and position words alone do not identify this topic.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-topic"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LA04-P-032",
@@ -936,28 +1340,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Apply the same idea to explaining how a seed germinates. Which option is best?",
-    "audio_prompt": "Apply the same idea to explaining how a seed germinates. Which option is best?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "A paragraph describes a school orchestra: “The musicians tuned their instruments. The conductor raised a hand.” Which sentence develops that topic?",
+    "audio_prompt": "A paragraph describes a school orchestra: “The musicians tuned their instruments. The conductor raised a hand.” Which sentence develops that topic?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The seed absorbs water. Football is popular.",
+        "text": "The football captain measured the pitch.",
         "is_correct": false
       },
       {
-        "text": "First, the seed absorbs water. Then, the root begins to grow.",
+        "text": "The gardener planted three seedlings.",
+        "is_correct": false
+      },
+      {
+        "text": "The lunch monitors wiped the tables.",
+        "is_correct": false
+      },
+      {
+        "text": "The violin players began the opening tune.",
         "is_correct": true
-      },
-      {
-        "text": "First, the seed absorbs water. However, the root begins to grow.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "First and then show a clear time sequence between related ideas.",
-      "hint": "Choose a connective that matches the relationship between the ideas."
-    }
+      "summary": "“Violin players” and “tune” continue the orchestra topic already established by musicians, instruments and conductor.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-topic"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LA04-P-033",
@@ -966,28 +1383,42 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Apply the same idea to explaining why the oval was closed after heavy rain. Which option is best?",
-    "audio_prompt": "Apply the same idea to explaining why the oval was closed after heavy rain. Which option is best?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Koalas rest in trees. These animals eat leaves.” How do “Koalas” and “These animals” connect?",
+    "audio_prompt": "“Koalas rest in trees. These animals eat leaves.” How do “Koalas” and “These animals” connect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The ground was waterlogged; for example, the oval was closed.",
-        "is_correct": false
-      },
-      {
-        "text": "The ground was waterlogged; meanwhile, the oval was closed.",
-        "is_correct": false
-      },
-      {
-        "text": "The ground was waterlogged; therefore, the oval was closed.",
+        "text": "The second group refers to the same creatures using a broader word.",
         "is_correct": true
+      },
+      {
+        "text": "The second group must mean a different species.",
+        "is_correct": false
+      },
+      {
+        "text": "The words show that resting causes eating.",
+        "is_correct": false
+      },
+      {
+        "text": "The words put two actions into a numbered sequence.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Therefore shows that the closure is a result of the waterlogged ground.",
-      "hint": "Ask whether the second idea is a result, contrast, example or time event."
-    }
+      "summary": "“These animals” points back to koalas; the broader noun avoids repeating the species name.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "D-topic"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LA04-P-034",
@@ -996,28 +1427,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which decision would produce the clearest result in explaining why the oval was closed after heavy rain?",
-    "audio_prompt": "Which decision would produce the clearest result in explaining why the oval was closed after heavy rain?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "A report is about water use: “The tank stores rainwater. A pipe carries the water to the garden.” Which topic word best fits a sentence about saving this supply?",
+    "audio_prompt": "A report is about water use: “The tank stores rainwater. A pipe carries the water to the garden.” Which topic word best fits a sentence about saving this supply?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The ground was waterlogged; therefore, the oval was closed.",
+        "text": "book conservation",
+        "is_correct": false
+      },
+      {
+        "text": "water conservation",
         "is_correct": true
       },
       {
-        "text": "The ground was waterlogged; for example, the oval was closed.",
+        "text": "road construction",
         "is_correct": false
       },
       {
-        "text": "The ground was waterlogged; meanwhile, the oval was closed.",
+        "text": "music rehearsal",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Therefore shows that the closure is a result of the waterlogged ground.",
-      "hint": "Ask whether the second idea is a result, contrast, example or time event."
-    }
+      "summary": "“Water conservation” continues the focus on storing and using the water supply.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-topic"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LA04-P-035",
@@ -1026,28 +1470,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which decision would produce the clearest result in adding another reason to a persuasive paragraph about shade?",
-    "audio_prompt": "Which decision would produce the clearest result in adding another reason to a persuasive paragraph about shade?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The player attacked. The defender blocked the shot.” Why can “attacked” and “defender” belong in the same topic chain?",
+    "audio_prompt": "“The player attacked. The defender blocked the shot.” Why can “attacked” and “defender” belong in the same topic chain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Finally, because more shade would.",
+        "text": "Topic words must always mean exactly the same thing.",
         "is_correct": false
       },
       {
-        "text": "In addition, more shade would make lunchtime areas cooler.",
+        "text": "The sentences must be about different games.",
+        "is_correct": false
+      },
+      {
+        "text": "Opposing actions and roles can be connected within one game.",
         "is_correct": true
       },
       {
-        "text": "However, more shade would make lunchtime areas cooler.",
+        "text": "Only identical repeated words can link a text.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "In addition signals another supporting point on the same topic.",
-      "hint": "Notice whether the writer is adding, contrasting or concluding."
-    }
+      "summary": "Related topic words can name contrasting roles or actions; they do not have to be synonyms.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-topic"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LA04-P-036",
@@ -1056,28 +1513,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Choose the option that applies the skill correctly in adding another reason to a persuasive paragraph about shade.",
-    "audio_prompt": "Choose the option that applies the skill correctly in adding another reason to a persuasive paragraph about shade.",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "A paragraph explains how a bus service works. Which group of words would help link its sentences?",
+    "audio_prompt": "A paragraph explains how a bus service works. Which group of words would help link its sentences?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Finally, because more shade would.",
+        "text": "route, recipe, whisk, oven",
         "is_correct": false
       },
       {
-        "text": "However, more shade would make lunchtime areas cooler.",
+        "text": "passenger, chapter, author, title",
         "is_correct": false
       },
       {
-        "text": "In addition, more shade would make lunchtime areas cooler.",
+        "text": "driver, soil, petal, seed",
+        "is_correct": false
+      },
+      {
+        "text": "route, stop, passenger, driver",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "In addition signals another supporting point on the same topic.",
-      "hint": "Notice whether the writer is adding, contrasting or concluding."
-    }
+      "summary": "The words identify related parts of the bus service, keeping the paragraph focused.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-topic"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LA04-P-037",
@@ -1086,28 +1556,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Choose the option that applies the skill correctly in linking a condition to an action in a bushwalk safety guide.",
-    "audio_prompt": "Choose the option that applies the skill correctly in linking a condition to an action in a bushwalk safety guide.",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The pool was closed for repairs. However, swimming lessons moved to another pool.” A writer wants the move presented as a result of the closure. What should replace “However”?",
+    "audio_prompt": "“The pool was closed for repairs. However, swimming lessons moved to another pool.” A writer wants the move presented as a result of the closure. What should replace “However”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "If the track is closed, choose another route.",
+        "text": "Therefore",
         "is_correct": true
       },
       {
-        "text": "Before the track is closed, choose another route.",
+        "text": "Nevertheless",
         "is_correct": false
       },
       {
-        "text": "Although the track is closed, choose another route because maybe.",
+        "text": "Meanwhile",
+        "is_correct": false
+      },
+      {
+        "text": "Firstly",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "If introduces the condition that determines what action should follow.",
-      "hint": "Find the word that means this action depends on that situation."
-    }
+      "summary": "“Therefore” makes the closure-to-move result explicit. The original contrast word does not express that requested relationship.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LA04-P-038",
@@ -1116,28 +1599,42 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "What would be the most effective choice for linking a condition to an action in a bushwalk safety guide?",
-    "audio_prompt": "What would be the most effective choice for linking a condition to an action in a bushwalk safety guide?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The children borrowed puzzles. These puzzles were missing pieces. Therefore, they returned them.” What does “them” refer to?",
+    "audio_prompt": "“The children borrowed puzzles. These puzzles were missing pieces. Therefore, they returned them.” What does “them” refer to?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Before the track is closed, choose another route.",
+        "text": "the children",
         "is_correct": false
       },
       {
-        "text": "If the track is closed, choose another route.",
+        "text": "the puzzles",
         "is_correct": true
       },
       {
-        "text": "Although the track is closed, choose another route because maybe.",
+        "text": "the missing pieces only",
+        "is_correct": false
+      },
+      {
+        "text": "the borrowing rules",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "If introduces the condition that determines what action should follow.",
-      "hint": "Find the word that means this action depends on that situation."
-    }
+      "summary": "The puzzles are what the children borrowed and returned; “These puzzles” keeps that reference clear.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LA04-P-039",
@@ -1146,28 +1643,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "What would be the most effective choice for keeping a paragraph about koalas focused?",
-    "audio_prompt": "What would be the most effective choice for keeping a paragraph about koalas focused?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "A guide says, “Finally, attach the wheels. Firstly, collect the materials. Next, build the frame.” Which repair keeps all actions in a workable order?",
+    "audio_prompt": "A guide says, “Finally, attach the wheels. Firstly, collect the materials. Next, build the frame.” Which repair keeps all actions in a workable order?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Koalas rest in eucalyptus trees. My bike has new tyres.",
+        "text": "Firstly, attach the wheels. Next, collect materials. Finally, build the frame.",
         "is_correct": false
       },
       {
-        "text": "Koalas rest in eucalyptus trees. They means the school bell.",
+        "text": "Finally, build the frame. Next, collect materials. Firstly, attach wheels.",
         "is_correct": false
       },
       {
-        "text": "Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.",
+        "text": "Firstly, collect the materials. Next, build the frame. Finally, attach the wheels.",
         "is_correct": true
+      },
+      {
+        "text": "Collect materials. Finally, attach wheels. Firstly, build the frame.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected.",
-      "hint": "Check that pronouns and related words point clearly to the same topic."
-    }
+      "summary": "Collecting materials enables building the frame, and the wheels are attached after the frame exists.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LA04-P-040",
@@ -1176,28 +1686,293 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "You now need to handle keeping a paragraph about koalas focused independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle keeping a paragraph about koalas focused independently. Which choice should you use?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The aquarium has a tunnel. In addition, visitors can see a feeding demonstration.” Which claim does the link support?",
+    "audio_prompt": "“The aquarium has a tunnel. In addition, visitors can see a feeding demonstration.” Which claim does the link support?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Koalas rest in eucalyptus trees. These animals also feed on eucalyptus leaves.",
+        "text": "The tunnel necessarily causes the feeding.",
+        "is_correct": false
+      },
+      {
+        "text": "The demonstration happened before the tunnel was built.",
+        "is_correct": false
+      },
+      {
+        "text": "The tunnel prevents the demonstration.",
+        "is_correct": false
+      },
+      {
+        "text": "The demonstration is another aquarium feature.",
         "is_correct": true
-      },
-      {
-        "text": "Koalas rest in eucalyptus trees. My bike has new tyres.",
-        "is_correct": false
-      },
-      {
-        "text": "Koalas rest in eucalyptus trees. They means the school bell.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "These animals clearly refers back to koalas and keeps the topic chain connected.",
-      "hint": "Check that pronouns and related words point clearly to the same topic."
-    }
+      "summary": "“In addition” adds a related feature without claiming cause, time order or contradiction.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LA04-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Leila lent Sam a ruler. They put it in the drawer.” We mean Sam put the ruler away. Rewrite the second sentence clearly and explain your change.",
+    "audio_prompt": "“Leila lent Sam a ruler. They put it in the drawer.” We mean Sam put the ruler away. Rewrite the second sentence clearly and explain your change.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Sam put the ruler in the drawer. Naming Sam removes the uncertainty about “They”; naming the ruler is also clear.",
+    "acceptance_note": "Require Sam as the person putting the ruler away, the same ruler and drawer, and an explanation of the unclear person reference. “Sam put it in the drawer” also works.",
+    "response_instructions": "Write your answer here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Sam put the ruler in the drawer. Naming Sam removes the uncertainty about “They”; naming the ruler is also clear.",
+      "hint": "Check the meaning of each link, then explain it using words from your text."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LA04-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "Write two linked sentences about a school art display. Include “these” before a noun that clearly refers back to something plural you have introduced. Explain the reference.",
+    "audio_prompt": "Write two linked sentences about a school art display. Include “these” before a noun that clearly refers back to something plural you have introduced. Explain the reference.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The class displayed six collages. These artworks used scraps of coloured paper. “These artworks” refers to the six collages.",
+    "acceptance_note": "Require an introduced plural referent, these plus a noun, an unambiguous link and a matching explanation. Many original display details are acceptable.",
+    "response_instructions": "Write your answer here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The class displayed six collages. These artworks used scraps of coloured paper. “These artworks” refers to the six collages.",
+      "hint": "Check the meaning of each link, then explain it using words from your text."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "D-topic"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LA04-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The roof leaked. In addition, the caretaker put a bucket underneath.” Rewrite the link to show the bucket as a result of the leak, then explain why it fits.",
+    "audio_prompt": "“The roof leaked. In addition, the caretaker put a bucket underneath.” Rewrite the link to show the bucket as a result of the leak, then explain why it fits.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The roof leaked. Therefore, the caretaker put a bucket underneath. “Therefore” presents the bucket placement as a response to the leak.",
+    "acceptance_note": "Accept therefore, as a result or a grammatical equivalent. Preserve the leak, caretaker and bucket; explain cause/result rather than just addition.",
+    "response_instructions": "Write your answer here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The roof leaked. Therefore, the caretaker put a bucket underneath. “Therefore” presents the bucket placement as a response to the leak.",
+      "hint": "Check the meaning of each link, then explain it using words from your text."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LA04-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "Write two sentences about a class picnic using “nevertheless”. Make the second idea happen despite a difficulty in the first. Explain the contrast.",
+    "audio_prompt": "Write two sentences about a class picnic using “nevertheless”. Make the second idea happen despite a difficulty in the first. Explain the contrast.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The picnic shelter was small. Nevertheless, everyone found a place to sit. The small shelter did not prevent the group from finding seats.",
+    "acceptance_note": "Require a meaningful difficulty/expectation, a contrasting continuation, grammatically clear sentences and an explanation. Do not require this specific model.",
+    "response_instructions": "Write your answer here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The picnic shelter was small. Nevertheless, everyone found a place to sit. The small shelter did not prevent the group from finding seats.",
+      "hint": "Check the meaning of each link, then explain it using words from your text."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LA04-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "Make a three-section guide to preparing a book display: choose books, arrange them, add signs. Write one sentence for each section using firstly, next and finally. Explain why your sequence helps.",
+    "audio_prompt": "Make a three-section guide to preparing a book display: choose books, arrange them, add signs. Write one sentence for each section using firstly, next and finally. Explain why your sequence helps.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Firstly, choose the books. Next, arrange the chosen books on the display table. Finally, add signs beside them. Readers can choose before arranging and label the completed display.",
+    "acceptance_note": "Require three distinct sections/sentences with the three supplied actions in a sensible order and explicit temporal links. Accept other justified arrangements if the signs are prepared/placed at a clearly explained stage.",
+    "response_instructions": "Write your answer here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Firstly, choose the books. Next, arrange the chosen books on the display table. Finally, add signs beside them. Readers can choose before arranging and label the completed display.",
+      "hint": "Check the meaning of each link, then explain it using words from your text."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LA04-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "A group will rehearse outdoors only if the teacher approves. Write a notice with “if” that keeps this rule, then explain what has not yet been decided.",
+    "audio_prompt": "A group will rehearse outdoors only if the teacher approves. Write a notice with “if” that keeps this rule, then explain what has not yet been decided.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The group may rehearse outdoors only if the teacher approves. The notice does not tell us whether approval will be given.",
+    "acceptance_note": "Require approval as a necessary condition, no claim that it already happened, and identification of the uncertainty. Retain “only if” or an equally clear necessary-condition expression.",
+    "response_instructions": "Write your answer here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The group may rehearse outdoors only if the teacher approves. The notice does not tell us whether approval will be given.",
+      "hint": "Check the meaning of each link, then explain it using words from your text."
+    },
+    "curriculum_coverage": [
+      "D-condition"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LA04-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "Write a short paragraph about a bakery using bread, baker, dough and oven. Connect the ideas, then explain how these words keep a common topic.",
+    "audio_prompt": "Write a short paragraph about a bakery using bread, baker, dough and oven. Connect the ideas, then explain how these words keep a common topic.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The baker mixed the dough. Next, it went into the oven. Finally, the bread was ready to cool. The words name a person, material, equipment and product involved in baking.",
+    "acceptance_note": "Require all four words in a coherent original paragraph and a relevant topic explanation. Check any pronoun has a clear referent and time links fit the actions.",
+    "response_instructions": "Write your answer here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The baker mixed the dough. Next, it went into the oven. Finally, the bread was ready to cool. The words name a person, material, equipment and product involved in baking.",
+      "hint": "Check the meaning of each link, then explain it using words from your text."
+    },
+    "curriculum_coverage": [
+      "D-topic",
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LA04-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA04",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "Repair this text without changing its facts: “The art club helped the class make posters. They displayed them. Finally, visitors read them. Firstly, the posters were printed.” We mean the class displayed the posters. Name who displayed them and put printing before display. Explain both repairs.",
+    "audio_prompt": "Repair this text without changing its facts: “The art club helped the class make posters. They displayed them. Finally, visitors read them. Firstly, the posters were printed.” We mean the class displayed the posters. Name who displayed them and put printing before display. Explain both repairs.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The art club helped the class make posters. Next, the posters were printed. Then, the class displayed them. Finally, visitors read them. I named the class because “They” could mean either group, and put printing before display.",
+    "acceptance_note": "Require the art club helping the class make posters, printing before the class displays them, then visitors reading them. Explain both the genuinely ambiguous group reference and the sequence repair. Accept different valid time connectives and wording.",
+    "response_instructions": "Write your answer here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The art club helped the class make posters. Next, the posters were printed. Then, the class displayed them. Finally, visitors read them. I named the class because “They” could mean either group, and put printing before display.",
+      "hint": "Check the meaning of each link, then explain it using words from your text."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LA04-T-001",
@@ -1205,29 +1980,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "New context: connecting two ideas in a new article about recycling. Which option is correct?",
-    "audio_prompt": "New context: connecting two ideas in a new article about recycling. Which option is correct?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The volunteers repaired a bench. They painted it green.” What does “They” refer to?",
+    "audio_prompt": "“The volunteers repaired a bench. They painted it green.” What does “They” refer to?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bins were clearly labelled; on the other hand, fewer items went into the wrong bin.",
-        "is_correct": false
-      },
-      {
-        "text": "The bins were clearly labelled; as a result, fewer items went into the wrong bin.",
+        "text": "the volunteers",
         "is_correct": true
       },
       {
-        "text": "The bins were clearly labelled; yesterday, fewer because.",
+        "text": "the bench",
+        "is_correct": false
+      },
+      {
+        "text": "the paint tins",
+        "is_correct": false
+      },
+      {
+        "text": "the people who will sit there",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "As a result accurately shows a cause-and-effect relationship.",
-      "hint": "Test the logical link between the two clauses."
-    }
+      "summary": "The volunteers are the previously named people doing the painting.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA04-T-002",
@@ -1235,29 +2023,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "What is the best choice for connecting two ideas in a new article about recycling?",
-    "audio_prompt": "What is the best choice for connecting two ideas in a new article about recycling?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Two maps lay on the desk. The older map showed a path that no longer exists. This map needs a warning label.” Which map needs the label?",
+    "audio_prompt": "“Two maps lay on the desk. The older map showed a path that no longer exists. This map needs a warning label.” Which map needs the label?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bins were clearly labelled; on the other hand, fewer items went into the wrong bin.",
+        "text": "both maps equally",
         "is_correct": false
       },
       {
-        "text": "The bins were clearly labelled; yesterday, fewer because.",
-        "is_correct": false
-      },
-      {
-        "text": "The bins were clearly labelled; as a result, fewer items went into the wrong bin.",
+        "text": "the older map",
         "is_correct": true
+      },
+      {
+        "text": "only the newer map",
+        "is_correct": false
+      },
+      {
+        "text": "a third map not mentioned",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "As a result accurately shows a cause-and-effect relationship.",
-      "hint": "Test the logical link between the two clauses."
-    }
+      "summary": "“This map” points back to the older map described immediately before it.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA04-T-003",
@@ -1265,29 +2066,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which explanation best supports “The bins were clearly labelled; as a result, fewer items went into the wrong bin.” in connecting two ideas in a new article about recycling?",
-    "audio_prompt": "Which explanation best supports “The bins were clearly labelled; as a result, fewer items went into the wrong bin.” in connecting two ideas in a new article about recycling?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The entrance steps were slippery. Therefore, the guide used another entrance.” Why does the guide change entrances?",
+    "audio_prompt": "“The entrance steps were slippery. Therefore, the guide used another entrance.” Why does the guide change entrances?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "As a result accurately shows a cause-and-effect relationship.",
+        "text": "The second entrance caused the steps to be built.",
+        "is_correct": false
+      },
+      {
+        "text": "The guide wanted to add a second unrelated fact.",
+        "is_correct": false
+      },
+      {
+        "text": "The slippery steps lead to the change.",
         "is_correct": true
       },
       {
-        "text": "Because “The bins were clearly labelled; on the other hand, fewer items went into the wrong bin.” is always a safe choice.",
-        "is_correct": false
-      },
-      {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "“Therefore” means the steps became safer.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "As a result accurately shows a cause-and-effect relationship.",
-      "hint": "Test the logical link between the two clauses."
-    }
+      "summary": "The connective presents the change as a result of the slippery steps.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA04-T-004",
@@ -1295,29 +2109,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which clue should guide your decision in connecting two ideas in a new article about recycling?",
-    "audio_prompt": "Which clue should guide your decision in connecting two ideas in a new article about recycling?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The concert was short. Nevertheless, it included every planned song.” Which meaning fits?",
+    "audio_prompt": "“The concert was short. Nevertheless, it included every planned song.” Which meaning fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "The short length caused extra songs to be planned.",
         "is_correct": false
       },
       {
-        "text": "Test the logical link between the two clauses.",
+        "text": "All the songs were cancelled because time was short.",
+        "is_correct": false
+      },
+      {
+        "text": "The concert ended before any song began.",
+        "is_correct": false
+      },
+      {
+        "text": "Despite its short length, the concert included all the songs.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "As a result accurately shows a cause-and-effect relationship.",
-      "hint": "Test the logical link between the two clauses."
-    }
+      "summary": "“Nevertheless” marks the contrast between limited length and including the full programme.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA04-T-005",
@@ -1326,28 +2153,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which option would you reject first in connecting two ideas in a new article about recycling?",
-    "audio_prompt": "Which option would you reject first in connecting two ideas in a new article about recycling?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "A club notice says: “We lend magnifying glasses. ___, we offer observation notebooks.” Choose the link that adds a second service.",
+    "audio_prompt": "A club notice says: “We lend magnifying glasses. ___, we offer observation notebooks.” Choose the link that adds a second service.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bins were clearly labelled; as a result, fewer items went into the wrong bin.",
-        "is_correct": false
-      },
-      {
-        "text": "The bins were clearly labelled; yesterday, fewer because.",
-        "is_correct": false
-      },
-      {
-        "text": "The bins were clearly labelled; on the other hand, fewer items went into the wrong bin.",
+        "text": "In addition",
         "is_correct": true
+      },
+      {
+        "text": "Therefore",
+        "is_correct": false
+      },
+      {
+        "text": "Nevertheless",
+        "is_correct": false
+      },
+      {
+        "text": "Beforehand",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. As a result accurately shows a cause-and-effect relationship.",
-      "hint": "Test the logical link between the two clauses."
-    }
+      "summary": "The notebook offer adds a service, without implying that the glasses caused it.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA04-T-006",
@@ -1356,28 +2196,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which correction should replace “The bins were clearly labelled; on the other hand, fewer items went into the wrong bin.” in connecting two ideas in a new article about recycling?",
-    "audio_prompt": "Which correction should replace “The bins were clearly labelled; on the other hand, fewer items went into the wrong bin.” in connecting two ideas in a new article about recycling?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "Three report sections say A: “Finally, we displayed the results.” B: “Firstly, we measured the shadows.” C: “Next, we compared the measurements.” Which order follows the investigation?",
+    "audio_prompt": "Three report sections say A: “Finally, we displayed the results.” B: “Firstly, we measured the shadows.” C: “Next, we compared the measurements.” Which order follows the investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bins were clearly labelled; as a result, fewer items went into the wrong bin.",
+        "text": "C, B, A",
+        "is_correct": false
+      },
+      {
+        "text": "B, C, A",
         "is_correct": true
       },
       {
-        "text": "The bins were clearly labelled; on the other hand, fewer items went into the wrong bin.",
+        "text": "A, C, B",
         "is_correct": false
       },
       {
-        "text": "The bins were clearly labelled; yesterday, fewer because.",
+        "text": "B, A, C",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "As a result accurately shows a cause-and-effect relationship.",
-      "hint": "Test the logical link between the two clauses."
-    }
+      "summary": "Measurement supplies the data to compare; the compared results are then displayed.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA04-T-007",
@@ -1386,28 +2239,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Apply the skill to connecting two ideas in a new article about recycling: what should you choose?",
-    "audio_prompt": "Apply the skill to connecting two ideas in a new article about recycling: what should you choose?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Before the audience arrived, the actors checked the props.” Which event happened earlier?",
+    "audio_prompt": "“Before the audience arrived, the actors checked the props.” Which event happened earlier?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bins were clearly labelled; on the other hand, fewer items went into the wrong bin.",
+        "text": "The audience arrived.",
         "is_correct": false
       },
       {
-        "text": "The bins were clearly labelled; as a result, fewer items went into the wrong bin.",
+        "text": "Both must happen at exactly the same time.",
+        "is_correct": false
+      },
+      {
+        "text": "The actors checked the props.",
         "is_correct": true
       },
       {
-        "text": "The bins were clearly labelled; yesterday, fewer because.",
+        "text": "The sentence states no time relationship.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "As a result accurately shows a cause-and-effect relationship.",
-      "hint": "Test the logical link between the two clauses."
-    }
+      "summary": "“Before” places prop checking earlier even though audience arrival is mentioned first.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA04-T-008",
@@ -1416,28 +2282,41 @@
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
     "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which final choice gives the clearest and most accurate result for connecting two ideas in a new article about recycling?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for connecting two ideas in a new article about recycling?",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“If the reading room is free, we may hold our club there.” What is still uncertain?",
+    "audio_prompt": "“If the reading room is free, we may hold our club there.” What is still uncertain?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bins were clearly labelled; on the other hand, fewer items went into the wrong bin.",
+        "text": "which room the sentence names",
         "is_correct": false
       },
       {
-        "text": "The bins were clearly labelled; yesterday, fewer because.",
+        "text": "whether a condition is given",
         "is_correct": false
       },
       {
-        "text": "The bins were clearly labelled; as a result, fewer items went into the wrong bin.",
+        "text": "whether “there” refers to the reading room",
+        "is_correct": false
+      },
+      {
+        "text": "whether the reading room will be free",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "As a result accurately shows a cause-and-effect relationship.",
-      "hint": "Test the logical link between the two clauses."
-    }
+      "summary": "“If” introduces a possible condition rather than asserting that the room is free.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-condition"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA04-T-009",
@@ -1445,29 +2324,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "New context: ordering steps in an online safety checklist. Which option is correct?",
-    "audio_prompt": "New context: ordering steps in an online safety checklist. Which option is correct?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Unless the coach changes the plan, the warm-up starts at nine.” Which statement matches?",
+    "audio_prompt": "“Unless the coach changes the plan, the warm-up starts at nine.” Which statement matches?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Firstly, check the sender. Next, inspect the link. Finally, ask an adult if you are unsure.",
+        "text": "The warm-up starts at nine if the coach does not change the plan.",
         "is_correct": true
       },
       {
-        "text": "However, check the sender. Therefore, inspect the link.",
+        "text": "The coach has certainly changed the plan.",
         "is_correct": false
       },
       {
-        "text": "Check the sender. Pelicans live near water. Inspect the link.",
+        "text": "The warm-up cannot start at nine.",
+        "is_correct": false
+      },
+      {
+        "text": "The warm-up starts only when nobody knows the plan.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The sequence words guide the reader through an ordered process while every sentence stays on topic.",
-      "hint": "Look for both logical order and topic consistency."
-    }
+      "summary": "The exception is a changed plan; without that exception, the given time remains nine.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-condition"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA04-T-010",
@@ -1475,29 +2367,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "What is the best choice for ordering steps in an online safety checklist?",
-    "audio_prompt": "What is the best choice for ordering steps in an online safety checklist?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "A paragraph contains “telescope”, “astronomer”, “planet” and “orbit”. What connects these different words?",
+    "audio_prompt": "A paragraph contains “telescope”, “astronomer”, “planet” and “orbit”. What connects these different words?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "However, check the sender. Therefore, inspect the link.",
+        "text": "They are four names for the same object.",
         "is_correct": false
       },
       {
-        "text": "Firstly, check the sender. Next, inspect the link. Finally, ask an adult if you are unsure.",
+        "text": "They develop a shared space-observation topic.",
         "is_correct": true
       },
       {
-        "text": "Check the sender. Pelicans live near water. Inspect the link.",
+        "text": "They all mean an event happened first.",
+        "is_correct": false
+      },
+      {
+        "text": "They name four unrelated school subjects.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The sequence words guide the reader through an ordered process while every sentence stays on topic.",
-      "hint": "Look for both logical order and topic consistency."
-    }
+      "summary": "A topic chain can include equipment, people, objects and related concepts rather than only synonyms.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "D-topic"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA04-T-011",
@@ -1505,29 +2410,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which explanation best supports “Firstly, check the sender. Next, inspect the link. Finally, ask an adult if you are unsure.” in ordering steps in an online safety checklist?",
-    "audio_prompt": "Which explanation best supports “Firstly, check the sender. Next, inspect the link. Finally, ask an adult if you are unsure.” in ordering steps in an online safety checklist?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The museum displayed fossils. These remains helped visitors imagine ancient life.” What does “These remains” do?",
+    "audio_prompt": "“The museum displayed fossils. These remains helped visitors imagine ancient life.” What does “These remains” do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “However, check the sender. Therefore, inspect the link.” is always a safe choice.",
+        "text": "It introduces a completely unrelated display.",
         "is_correct": false
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "It says the visitors are fossils.",
         "is_correct": false
       },
       {
-        "text": "The sequence words guide the reader through an ordered process while every sentence stays on topic.",
+        "text": "It refers back to the fossils with related wording.",
         "is_correct": true
+      },
+      {
+        "text": "It specifies that the display happened last.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The sequence words guide the reader through an ordered process while every sentence stays on topic.",
-      "hint": "Look for both logical order and topic consistency."
-    }
+      "summary": "“These” identifies the earlier fossils and “remains” supplies related topic vocabulary.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "D-topic"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA04-T-012",
@@ -1535,29 +2454,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which clue should guide your decision in ordering steps in an online safety checklist?",
-    "audio_prompt": "Which clue should guide your decision in ordering steps in an online safety checklist?",
+    "stage": "apply",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Today, our class is drawing maps.” Which claim follows from “Today” alone?",
+    "audio_prompt": "“Today, our class is drawing maps.” Which claim follows from “Today” alone?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Look for both logical order and topic consistency.",
+        "text": "Drawing happens after measuring in a stated sequence.",
+        "is_correct": false
+      },
+      {
+        "text": "The map project has reached its final stage.",
+        "is_correct": false
+      },
+      {
+        "text": "Every class draws maps at the same time.",
+        "is_correct": false
+      },
+      {
+        "text": "The drawing happens on the day being described as today.",
         "is_correct": true
-      },
-      {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The sequence words guide the reader through an ordered process while every sentence stays on topic.",
-      "hint": "Look for both logical order and topic consistency."
-    }
+      "summary": "“Today” locates an activity in time, but does not on its own order two project stages.",
+      "hint": "Read both ideas and check how they connect."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA04-T-013",
@@ -1565,29 +2497,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which option would you reject first in ordering steps in an online safety checklist?",
-    "audio_prompt": "Which option would you reject first in ordering steps in an online safety checklist?",
-    "answers": [
-      {
-        "text": "Firstly, check the sender. Next, inspect the link. Finally, ask an adult if you are unsure.",
-        "is_correct": false
-      },
-      {
-        "text": "However, check the sender. Therefore, inspect the link.",
-        "is_correct": true
-      },
-      {
-        "text": "Check the sender. Pelicans live near water. Inspect the link.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“Ravi gave Morgan a notebook. They wrote the title inside.” We mean Morgan wrote the title. Repair the reference and explain why the reader no longer has to guess.",
+    "audio_prompt": "“Ravi gave Morgan a notebook. They wrote the title inside.” We mean Morgan wrote the title. Repair the reference and explain why the reader no longer has to guess.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Ravi gave Morgan a notebook. Morgan wrote the title inside. Naming Morgan identifies the writer; “They” could refer to either person or both in this context.",
+    "acceptance_note": "Require Morgan as writer, same notebook/title, and an explanation of the possible person-reference ambiguity.",
+    "response_instructions": "Write your answer here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The sequence words guide the reader through an ordered process while every sentence stays on topic.",
-      "hint": "Look for both logical order and topic consistency."
-    }
+      "summary": "Ravi gave Morgan a notebook. Morgan wrote the title inside. Naming Morgan identifies the writer; “They” could refer to either person or both in this context.",
+      "hint": "Check the meaning of each link, then explain it using words from your text."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA04-T-014",
@@ -1595,29 +2528,32 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which correction should replace “However, check the sender. Therefore, inspect the link.” in ordering steps in an online safety checklist?",
-    "audio_prompt": "Which correction should replace “However, check the sender. Therefore, inspect the link.” in ordering steps in an online safety checklist?",
-    "answers": [
-      {
-        "text": "However, check the sender. Therefore, inspect the link.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the sender. Pelicans live near water. Inspect the link.",
-        "is_correct": false
-      },
-      {
-        "text": "Firstly, check the sender. Next, inspect the link. Finally, ask an adult if you are unsure.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "Write three linked sentences about a school pond using pond, water and plants. Include “in addition” to add a related fact and explain the connection.",
+    "audio_prompt": "Write three linked sentences about a school pond using pond, water and plants. Include “in addition” to add a related fact and explain the connection.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The school pond contains water plants. The plants provide shelter for small animals. In addition, they shade part of the water. The last sentence adds another role of the plants.",
+    "acceptance_note": "Require all three topic words, three coherent sentences, clear references and a genuine additional related fact with an explanation. Accept invented school-pond details that remain plausible.",
+    "response_instructions": "Write your answer here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The sequence words guide the reader through an ordered process while every sentence stays on topic.",
-      "hint": "Look for both logical order and topic consistency."
-    }
+      "summary": "The school pond contains water plants. The plants provide shelter for small animals. In addition, they shade part of the water. The last sentence adds another role of the plants.",
+      "hint": "Check the meaning of each link, then explain it using words from your text."
+    },
+    "curriculum_coverage": [
+      "D-topic",
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA04-T-015",
@@ -1625,29 +2561,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Apply the skill to ordering steps in an online safety checklist: what should you choose?",
-    "audio_prompt": "Apply the skill to ordering steps in an online safety checklist: what should you choose?",
-    "answers": [
-      {
-        "text": "Firstly, check the sender. Next, inspect the link. Finally, ask an adult if you are unsure.",
-        "is_correct": true
-      },
-      {
-        "text": "However, check the sender. Therefore, inspect the link.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the sender. Pelicans live near water. Inspect the link.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "Write a two-stage plan for a class outdoor drawing session. First check whether the courtyard is dry. If it is wet, use the covered area instead. Include a time connective and a condition, and explain both links.",
+    "audio_prompt": "Write a two-stage plan for a class outdoor drawing session. First check whether the courtyard is dry. If it is wet, use the covered area instead. Include a time connective and a condition, and explain both links.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Firstly, check the courtyard. Next, if it is wet, use the covered area instead. “Firstly/Next” orders the stages; “if it is wet” gives the condition for changing places.",
+    "acceptance_note": "Require checking before deciding, wetness as the condition for the covered area, a clear referent for “it” if used, and explanations of time and condition.",
+    "response_instructions": "Write your answer here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The sequence words guide the reader through an ordered process while every sentence stays on topic.",
-      "hint": "Look for both logical order and topic consistency."
-    }
+      "summary": "Firstly, check the courtyard. Next, if it is wet, use the covered area instead. “Firstly/Next” orders the stages; “if it is wet” gives the condition for changing places.",
+      "hint": "Check the meaning of each link, then explain it using words from your text."
+    },
+    "curriculum_coverage": [
+      "E3",
+      "D-condition"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA04-T-016",
@@ -1655,28 +2593,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Connectives and Topic Cohesion",
-    "question": "Which final choice gives the clearest and most accurate result for ordering steps in an online safety checklist?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for ordering steps in an online safety checklist?",
-    "answers": [
-      {
-        "text": "However, check the sender. Therefore, inspect the link.",
-        "is_correct": false
-      },
-      {
-        "text": "Firstly, check the sender. Next, inspect the link. Finally, ask an adult if you are unsure.",
-        "is_correct": true
-      },
-      {
-        "text": "Check the sender. Pelicans live near water. Inspect the link.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "connectives_and_topic_cohesion",
+    "question": "“The path was steep. Therefore, the walkers enjoyed the view.” The writer means they enjoyed the view despite the difficult climb, not because of it. Repair the link and explain the meaning.",
+    "audio_prompt": "“The path was steep. Therefore, the walkers enjoyed the view.” The writer means they enjoyed the view despite the difficult climb, not because of it. Repair the link and explain the meaning.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The path was steep. Nevertheless, the walkers enjoyed the view. “Nevertheless” highlights enjoyment despite the difficulty rather than claiming steepness caused it.",
+    "acceptance_note": "Accept however, nevertheless or another grammatical contrast/concession repair. Preserve steepness and enjoyment and explain the requested contrast, not cause/result.",
+    "response_instructions": "Write your answer here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The sequence words guide the reader through an ordered process while every sentence stays on topic.",
-      "hint": "Look for both logical order and topic consistency."
-    }
+      "summary": "The path was steep. Nevertheless, the walkers enjoyed the view. “Nevertheless” highlights enjoyment despite the difficulty rather than claiming steepness caused it.",
+      "hint": "Check the meaning of each link, then explain it using words from your text."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]

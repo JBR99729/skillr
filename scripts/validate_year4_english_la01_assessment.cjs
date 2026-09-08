@@ -18,14 +18,15 @@ function option(name) {
   return args[i + 1];
 }
 for (let i = 0; i < args.length; i += 2) {
-  assert(["--linkedom", "--output"].includes(args[i]), `Unknown argument: ${args[i]}`);
+  assert(["--linkedom", "--output", "--code"].includes(args[i]), `Unknown argument: ${args[i]}`);
 }
 const dependency = option("--linkedom") || process.env.LINKEDOM_PATH || "linkedom";
 const { parseHTML } = require(dependency.startsWith(".") ? path.resolve(dependency) : dependency);
 const output = option("--output");
 const ROOT = path.resolve(__dirname, "..");
-const CODE = "AC9E4LA01";
-const BASE = "/quiz/year-4/english/ac9e4la01/";
+const CODE = option("--code") || "AC9E4LA01";
+assert(/^AC9E4LA0[1-6]$/.test(CODE), "Only authored LA01–LA06 supported.");
+const BASE = `/quiz/year-4/english/${CODE.toLowerCase()}/`;
 const rows = [];
 const touched = new Set();
 const read = (relative) => {
@@ -244,10 +245,15 @@ function record(mode, kind, fn, item) {
   catch (error) { rows.push({ mode, kind, ...(item ? { item } : {}), status: "FAIL", error: error.stack }); }
 }
 
-const canonical = JSON.parse(read("assets/assessment-banks/year4/english/ac9e4la01.json"));
-record("all", "64-items-16-adult-inventory", () => {
+const canonical = JSON.parse(read(`assets/assessment-banks/year4/english/${CODE.toLowerCase()}.json`));
+record("all", "64-items-authentic-adult-inventory", () => {
   assert.equal(canonical.length, 64);
-  assert.equal(canonical.filter(q => q.grading_mode === "adult-review").length, 16);
+  if (CODE === "AC9E4LA01") {
+    assert.equal(canonical.filter(q => q.bank === "practice" && q.grading_mode === "adult-review").length, 12, "Preserve LA01 reviewed Practice inventory");
+    assert.equal(canonical.filter(q => q.bank === "test" && q.grading_mode === "adult-review").length, 4, "Preserve LA01 reviewed Test inventory");
+  }
+  assert(canonical.filter(q => q.bank === "practice" && q.grading_mode === "adult-review").length >= 8, "At least eight authentic Practice tasks in this batch");
+  assert(canonical.filter(q => q.bank === "test" && q.grading_mode === "adult-review").length >= 4, "At least four authentic Test tasks in this batch");
   assert(canonical.every(q => q.curriculum_code === CODE && q.subject === "english"));
   assert.equal(new Set(canonical.map(q => q.id)).size, 64);
 });
@@ -335,7 +341,7 @@ for (const mode of ["practice", "test"]) {
 }
 touched.add(path.relative(ROOT, __filename));
 const report = { date: new Date().toISOString(), code: CODE,
-  scope: "64 canonical/published items and all 16 adult items through actual shared runtime, result and review scripts in linkedom. DOM/browser APIs are simulated; no browser, network, PWA or PDF visual review is claimed.",
+  scope: "64 canonical/published items and all authored adult items through actual shared runtime, result and review scripts in linkedom. DOM/browser APIs are simulated; no browser, network, PWA or PDF visual review is claimed.",
   cases: rows.length, pass: rows.filter(row => row.status === "PASS").length,
   fail: rows.filter(row => row.status === "FAIL").length, rows,
   artifacts: [...touched].sort().map(file => ({ path: file,

@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "In finding excursion permission information on a school website, which option best demonstrates the skill?",
-    "audio_prompt": "In finding excursion permission information on a school website, which option best demonstrates the skill?",
+    "skill": "navigation_and_readability",
+    "question": "A print leaflet has the heading “Community garden” and subheadings “Opening times”, “What to bring” and “Getting there”. Where should you look to find the nearest bus stop?",
+    "audio_prompt": "A print leaflet has the heading “Community garden” and subheadings “Opening times”, “What to bring” and “Getting there”. Where should you look to find the nearest bus stop?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Click a link labelled Click here with no clue where it goes.",
-        "is_correct": false
-      },
-      {
-        "text": "Open the Excursions heading, then choose the Permission forms link.",
+        "text": "Getting there",
         "is_correct": true
       },
       {
-        "text": "Scroll randomly through every page.",
+        "text": "Opening times",
+        "is_correct": false
+      },
+      {
+        "text": "What to bring",
+        "is_correct": false
+      },
+      {
+        "text": "Community garden only",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Descriptive headings and links tell the reader where information is likely to be.",
-      "hint": "Choose the feature whose label predicts the destination."
-    }
+      "summary": "Getting there groups travel information, so it is the most useful subheading for a bus stop.",
+      "hint": "Match the information you need to the subheading."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA05-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which choice fits finding excursion permission information on a school website most accurately?",
-    "audio_prompt": "Which choice fits finding excursion permission information on a school website most accurately?",
+    "skill": "navigation_and_readability",
+    "question": "A learning website home page has links “Animals”, “Weather” and “Plants”. The Animals page has links “Birds”, “Insects” and “Mammals”. Which path is most likely to lead to information about butterflies?",
+    "audio_prompt": "A learning website home page has links “Animals”, “Weather” and “Plants”. The Animals page has links “Birds”, “Insects” and “Mammals”. Which path is most likely to lead to information about butterflies?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Click a link labelled Click here with no clue where it goes.",
+        "text": "Home → Plants → Insects",
         "is_correct": false
       },
       {
-        "text": "Scroll randomly through every page.",
-        "is_correct": false
-      },
-      {
-        "text": "Open the Excursions heading, then choose the Permission forms link.",
+        "text": "Home → Animals → Insects",
         "is_correct": true
+      },
+      {
+        "text": "Home → Weather → Birds",
+        "is_correct": false
+      },
+      {
+        "text": "Home → Animals → Mammals",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Descriptive headings and links tell the reader where information is likely to be.",
-      "hint": "Choose the feature whose label predicts the destination."
-    }
+      "summary": "Butterflies are insects. The visible labels provide a route from a broad home page to a narrower animal page.",
+      "hint": "Follow the labels from broad to specific."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA05-P-003",
@@ -66,28 +92,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which choice fits checking tomorrow’s forecast on a weather website most accurately?",
-    "audio_prompt": "Which choice fits checking tomorrow’s forecast on a weather website most accurately?",
+    "skill": "navigation_and_readability",
+    "question": "A page headline reads “School fair this Saturday”. Below it are sections “Activities”, “Times” and “Transport”. What does the headline help you decide first?",
+    "audio_prompt": "A page headline reads “School fair this Saturday”. Below it are sections “Activities”, “Times” and “Transport”. What does the headline help you decide first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use the location search box and select the correct town.",
+        "text": "Which bus number to catch",
+        "is_correct": false
+      },
+      {
+        "text": "The start time of every activity",
+        "is_correct": false
+      },
+      {
+        "text": "Whether this page is about the event you need",
         "is_correct": true
       },
       {
-        "text": "Open an unrelated advertisement.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep refreshing the home page without choosing a location.",
+        "text": "Whether all its words are links",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A search box is designed to take the reader directly to a named location or topic.",
-      "hint": "Match the navigation tool to the information you need."
-    }
+      "summary": "The headline identifies the page topic. Details such as bus numbers belong in sections below it.",
+      "hint": "Separate the whole-page topic from a detail."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA05-P-004",
@@ -96,28 +135,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Look closely at checking tomorrow’s forecast on a weather website. Which response or wording works best?",
-    "audio_prompt": "Look closely at checking tomorrow’s forecast on a weather website. Which response or wording works best?",
+    "skill": "navigation_and_readability",
+    "question": "A menu sketch is labelled “Clubs [drop-down open]”. Its choices are “Chess”, “Choir” and “Gardening”. Which description matches this sketch?",
+    "audio_prompt": "A menu sketch is labelled “Clubs [drop-down open]”. Its choices are “Chess”, “Choir” and “Gardening”. Which description matches this sketch?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Open an unrelated advertisement.",
+        "text": "Opening Chess reveals the entire website",
         "is_correct": false
       },
       {
-        "text": "Use the location search box and select the correct town.",
+        "text": "All three club pages are already displayed in full",
+        "is_correct": false
+      },
+      {
+        "text": "Clubs is the title of a printed chapter",
+        "is_correct": false
+      },
+      {
+        "text": "Opening Clubs reveals grouped choices of club pages",
         "is_correct": true
-      },
-      {
-        "text": "Keep refreshing the home page without choosing a location.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A search box is designed to take the reader directly to a named location or topic.",
-      "hint": "Match the navigation tool to the information you need."
-    }
+      "summary": "The open drop-down shows labels leading to related club pages; it does not display every page’s full text.",
+      "hint": "Read what is inside the open menu."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA05-P-005",
@@ -126,28 +178,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Look closely at reading a long online article about coral reefs. Which response or wording works best?",
-    "audio_prompt": "Look closely at reading a long online article about coral reefs. Which response or wording works best?",
+    "skill": "navigation_and_readability",
+    "question": "A school page has three links labelled “Click here”. One opens the lunch menu. Which replacement label tells readers that destination?",
+    "audio_prompt": "A school page has three links labelled “Click here”. One opens the lunch menu. Which replacement label tells readers that destination?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Ignore all headings and begin in the middle.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the biggest decorative photo even if it is unrelated.",
-        "is_correct": false
-      },
-      {
-        "text": "Use subheadings to jump to the section about reef animals.",
+        "text": "Lunch menu",
         "is_correct": true
+      },
+      {
+        "text": "More things",
+        "is_correct": false
+      },
+      {
+        "text": "School information",
+        "is_correct": false
+      },
+      {
+        "text": "Open this page",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Subheadings divide information into named sections that can be scanned.",
-      "hint": "Look for a feature that helps you predict what each section contains."
-    }
+      "summary": "Lunch menu predicts the information at the link’s destination. The other labels remain broad or vague.",
+      "hint": "Name what the reader will find."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA05-P-006",
@@ -156,28 +221,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "For reading a long online article about coral reefs, which option is the strongest match?",
-    "audio_prompt": "For reading a long online article about coral reefs, which option is the strongest match?",
+    "skill": "navigation_and_readability",
+    "question": "A page about planting seeds includes a labelled diagram showing a seed 2 cm below the soil. Why is this graphic useful beside the planting instructions?",
+    "audio_prompt": "A page about planting seeds includes a labelled diagram showing a seed 2 cm below the soil. Why is this graphic useful beside the planting instructions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use subheadings to jump to the section about reef animals.",
+        "text": "It proves that every seed needs the same depth",
+        "is_correct": false
+      },
+      {
+        "text": "It shows the planting depth described in the words",
         "is_correct": true
       },
       {
-        "text": "Ignore all headings and begin in the middle.",
+        "text": "It replaces the need for all written instructions",
         "is_correct": false
       },
       {
-        "text": "Choose the biggest decorative photo even if it is unrelated.",
+        "text": "It tells the reader the garden opening time",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Subheadings divide information into named sections that can be scanned.",
-      "hint": "Look for a feature that helps you predict what each section contains."
-    }
+      "summary": "The diagram makes this instruction easier to picture. It does not provide unrelated information or a rule for all seeds.",
+      "hint": "Connect the graphic to this instruction."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA05-P-007",
@@ -186,28 +264,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "For moving back from a museum object page to the Ancient Egypt collection, which option is the strongest match?",
-    "audio_prompt": "For moving back from a museum object page to the Ancient Egypt collection, which option is the strongest match?",
+    "skill": "navigation_and_readability",
+    "question": "Page A about a library has “Opening hours: Mon–Fri, 9 am–4 pm” under an Opening hours heading. Page B gives the same hours halfway through one long paragraph about books, staff and events. You only need closing time. Why is A quicker to scan?",
+    "audio_prompt": "Page A about a library has “Opening hours: Mon–Fri, 9 am–4 pm” under an Opening hours heading. Page B gives the same hours halfway through one long paragraph about books, staff and events. You only need closing time. Why is A quicker to scan?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Close the browser and search the whole web again.",
+        "text": "A must contain more accurate hours because it has a heading",
         "is_correct": false
       },
       {
-        "text": "Use the breadcrumb trail showing Home > Collections > Ancient Egypt > Object.",
+        "text": "B cannot contain the closing time in a paragraph",
+        "is_correct": false
+      },
+      {
+        "text": "The specific heading separates the hours from other information",
         "is_correct": true
       },
       {
-        "text": "Click a decorative logo with no label.",
+        "text": "A has fewer facts because it uses a heading",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Breadcrumbs show where the current page sits inside the site and provide a path back.",
-      "hint": "Notice which feature shows the page hierarchy."
-    }
+      "summary": "A groups the exact information under a useful label. A heading helps finding; it does not prove accuracy or remove facts.",
+      "hint": "Think about finding the supplied hours."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA05-P-008",
@@ -216,28 +307,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which example should you choose for moving back from a museum object page to the Ancient Egypt collection?",
-    "audio_prompt": "Which example should you choose for moving back from a museum object page to the Ancient Egypt collection?",
+    "skill": "navigation_and_readability",
+    "question": "A print page has a large heading “Caring for a bike”. Smaller headings are “Tyres”, “Brakes” and “Chain”. How are the smaller headings useful?",
+    "audio_prompt": "A print page has a large heading “Caring for a bike”. Smaller headings are “Tyres”, “Brakes” and “Chain”. How are the smaller headings useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Close the browser and search the whole web again.",
+        "text": "They list the order in which every repair must be completed",
         "is_correct": false
       },
       {
-        "text": "Click a decorative logo with no label.",
+        "text": "They suggest three pages to visit even though this is a print leaflet",
         "is_correct": false
       },
       {
-        "text": "Use the breadcrumb trail showing Home > Collections > Ancient Egypt > Object.",
+        "text": "They each name the whole bike-care topic",
+        "is_correct": false
+      },
+      {
+        "text": "They divide the larger topic into parts a reader can scan",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Breadcrumbs show where the current page sits inside the site and provide a path back.",
-      "hint": "Notice which feature shows the page hierarchy."
-    }
+      "summary": "Subheadings label parts of the bike-care topic and help readers choose the relevant section.",
+      "hint": "Notice the relationship between large and small headings."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA05-P-009",
@@ -245,29 +349,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which example should you choose for making a class webpage easier to read on a tablet?",
-    "audio_prompt": "Which example should you choose for making a class webpage easier to read on a tablet?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A home page offers “About the centre”, “Visit us” and “Events”. A subpage called “Visit us” contains an address and a map. What is the main difference between these two pages?",
+    "audio_prompt": "A home page offers “About the centre”, “Visit us” and “Events”. A subpage called “Visit us” contains an address and a map. What is the main difference between these two pages?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Place the main heading first, use short sections and keep buttons large and clearly labelled.",
+        "text": "The home page offers broad starting choices; the subpage develops one choice",
         "is_correct": true
       },
       {
-        "text": "Put every link in one tiny block of text.",
+        "text": "The home page always contains every detail from every subpage",
         "is_correct": false
       },
       {
-        "text": "Cover the article with unrelated animations.",
+        "text": "The subpage must be a different website",
+        "is_correct": false
+      },
+      {
+        "text": "The home page is always a printed contents page",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Readable layout creates a clear order and makes controls easy to identify and use.",
-      "hint": "Think about what the reader should notice and tap first."
-    }
+      "summary": "A home page commonly starts a site journey. A related subpage provides more detail about a selected area.",
+      "hint": "Compare broad choices with detailed information."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA05-P-010",
@@ -275,29 +392,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "In making a class webpage easier to read on a tablet, which option best demonstrates the skill?",
-    "audio_prompt": "In making a class webpage easier to read on a tablet, which option best demonstrates the skill?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A pond page shows the words “Pond animals” as a heading and “Read about frogs” as an underlined link. Which feature is intended to take the reader to more frog information?",
+    "audio_prompt": "A pond page shows the words “Pond animals” as a heading and “Read about frogs” as an underlined link. Which feature is intended to take the reader to more frog information?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Put every link in one tiny block of text.",
+        "text": "Pond animals, because a broad heading gives the whole topic",
         "is_correct": false
       },
       {
-        "text": "Place the main heading first, use short sections and keep buttons large and clearly labelled.",
+        "text": "Read about frogs",
         "is_correct": true
       },
       {
-        "text": "Cover the article with unrelated animations.",
+        "text": "The first paragraph, because all information must be read in order",
+        "is_correct": false
+      },
+      {
+        "text": "The caption under a pond photograph, because it may mention animals",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Readable layout creates a clear order and makes controls easy to identify and use.",
-      "hint": "Think about what the reader should notice and tap first."
-    }
+      "summary": "The explicitly labelled link points to further information. A heading helps scanning but is not automatically a link.",
+      "hint": "Look for the feature identified as a link."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA05-P-011",
@@ -305,29 +435,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Why does “Open the Excursions heading, then choose the Permission forms link.” work well for finding excursion permission information on a school website?",
-    "audio_prompt": "Why does “Open the Excursions heading, then choose the Permission forms link.” work well for finding excursion permission information on a school website?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "An excursion page has this route: Home → Excursions → Museum visit → Permission form. You are on Museum visit. Which listed link takes you directly to the document you need to sign?",
+    "audio_prompt": "An excursion page has this route: Home → Excursions → Museum visit → Permission form. You are on Museum visit. Which listed link takes you directly to the document you need to sign?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Click a link labelled Click here with no clue where it goes.” is always acceptable in this situation.",
+        "text": "Home",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Excursions",
         "is_correct": false
       },
       {
-        "text": "Descriptive headings and links tell the reader where information is likely to be.",
+        "text": "Permission form",
         "is_correct": true
+      },
+      {
+        "text": "Museum visit",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Descriptive headings and links tell the reader where information is likely to be.",
-      "hint": "Choose the feature whose label predicts the destination."
-    }
+      "summary": "The final named destination is the permission document; returning to a broader page adds an unnecessary step.",
+      "hint": "Start from the page you are already on."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA05-P-012",
@@ -335,29 +478,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "What makes “Open the Excursions heading, then choose the Permission forms link.” a better choice in finding excursion permission information on a school website?",
-    "audio_prompt": "What makes “Open the Excursions heading, then choose the Permission forms link.” a better choice in finding excursion permission information on a school website?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "Two bird pages show the same paragraph about beaks. Page A puts a labelled beak drawing beside that paragraph. Page B puts the drawing beside a paragraph about nests. Which change would help B’s reader connect the drawing and words?",
+    "audio_prompt": "Two bird pages show the same paragraph about beaks. Page A puts a labelled beak drawing beside that paragraph. Page B puts the drawing beside a paragraph about nests. Which change would help B’s reader connect the drawing and words?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Descriptive headings and links tell the reader where information is likely to be.",
+        "text": "Remove the beak label but leave the drawing beside nests",
+        "is_correct": false
+      },
+      {
+        "text": "Move the beak paragraph to an unrelated weather page",
+        "is_correct": false
+      },
+      {
+        "text": "Add a second nest heading above the beak drawing",
+        "is_correct": false
+      },
+      {
+        "text": "Move the beak drawing beside the beak paragraph",
         "is_correct": true
-      },
-      {
-        "text": "Because “Click a link labelled Click here with no clue where it goes.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Descriptive headings and links tell the reader where information is likely to be.",
-      "hint": "Choose the feature whose label predicts the destination."
-    }
+      "summary": "Placing matching words and a labelled image together makes their relationship easier to follow.",
+      "hint": "Match the picture’s subject to nearby text."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA05-P-013",
@@ -365,29 +521,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "What makes “Use the location search box and select the correct town.” a better choice in checking tomorrow’s forecast on a weather website?",
-    "audio_prompt": "What makes “Use the location search box and select the correct town.” a better choice in checking tomorrow’s forecast on a weather website?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A phone layout places the headline, an event date and a “Book a place” link in one narrow column. A second layout squeezes them into three tiny columns. What is a useful reason to prefer the first on a small screen?",
+    "audio_prompt": "A phone layout places the headline, an event date and a “Book a place” link in one narrow column. A second layout squeezes them into three tiny columns. What is a useful reason to prefer the first on a small screen?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Open an unrelated advertisement.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "A search box is designed to take the reader directly to a named location or topic.",
+        "text": "Readers can follow readable text without tiny side-by-side columns",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Readers can find every detail from the headline alone",
+        "is_correct": false
+      },
+      {
+        "text": "Readers can use column position instead of reading the section labels",
+        "is_correct": false
+      },
+      {
+        "text": "Readers can assume the first section contains every event detail",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A search box is designed to take the reader directly to a named location or topic.",
-      "hint": "Match the navigation tool to the information you need."
-    }
+      "summary": "The reason concerns readable size and sequence on a small screen, not the truth or safety of the content.",
+      "hint": "Judge readability for this screen."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA05-P-014",
@@ -395,29 +564,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which explanation best justifies “Use the location search box and select the correct town.” for checking tomorrow’s forecast on a weather website?",
-    "audio_prompt": "Which explanation best justifies “Use the location search box and select the correct town.” for checking tomorrow’s forecast on a weather website?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A drop-down labelled “Visit” lists “Opening hours”, “Map” and “Access information”. A reader cannot operate that menu. Which addition gives another clear route to the same information?",
+    "audio_prompt": "A drop-down labelled “Visit” lists “Opening hours”, “Map” and “Access information”. A reader cannot operate that menu. Which addition gives another clear route to the same information?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Open an unrelated advertisement.” is always acceptable in this situation.",
+        "text": "A second closed Visit menu with no other links",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "A search box is designed to take the reader directly to a named location or topic.",
+        "text": "Visible page links named Opening hours, Map and Access information",
         "is_correct": true
+      },
+      {
+        "text": "A larger decorative picture over the menu",
+        "is_correct": false
+      },
+      {
+        "text": "A link labelled Something else with no destination clue",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A search box is designed to take the reader directly to a named location or topic.",
-      "hint": "Match the navigation tool to the information you need."
-    }
+      "summary": "Clearly named ordinary links offer another way to reach those destinations. A menu is not equally easy for every reader.",
+      "hint": "Offer another route with the same named destinations."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA05-P-015",
@@ -425,29 +607,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which explanation best justifies “Use subheadings to jump to the section about reef animals.” for reading a long online article about coral reefs?",
-    "audio_prompt": "Which explanation best justifies “Use subheadings to jump to the section about reef animals.” for reading a long online article about coral reefs?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A recipe page contains “Ingredients: oats, milk, banana” and “Method: mix, chill, serve”. You want to check what you need before starting. Which heading should you scan for?",
+    "audio_prompt": "A recipe page contains “Ingredients: oats, milk, banana” and “Method: mix, chill, serve”. You want to check what you need before starting. Which heading should you scan for?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Subheadings divide information into named sections that can be scanned.",
+        "text": "Method",
+        "is_correct": false
+      },
+      {
+        "text": "Serve",
+        "is_correct": false
+      },
+      {
+        "text": "Ingredients",
         "is_correct": true
       },
       {
-        "text": "Because “Ignore all headings and begin in the middle.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Chill",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Subheadings divide information into named sections that can be scanned.",
-      "hint": "Look for a feature that helps you predict what each section contains."
-    }
+      "summary": "Ingredients groups the required foods. Method gives the actions to perform with them.",
+      "hint": "Separate materials from actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA05-P-016",
@@ -455,29 +650,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "What should you notice about “Use subheadings to jump to the section about reef animals.” in reading a long online article about coral reefs?",
-    "audio_prompt": "What should you notice about “Use subheadings to jump to the section about reef animals.” in reading a long online article about coral reefs?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A web page headline is “How to care for a class plant”. Its first subheading is “Watering”, followed by “Light” and “Checking leaves”. Which statement explains this organisation?",
+    "audio_prompt": "A web page headline is “How to care for a class plant”. Its first subheading is “Watering”, followed by “Light” and “Checking leaves”. Which statement explains this organisation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Ignore all headings and begin in the middle.” is always acceptable in this situation.",
+        "text": "Every subheading must link to another website",
         "is_correct": false
       },
       {
-        "text": "Subheadings divide information into named sections that can be scanned.",
+        "text": "The headline is one more watering instruction",
+        "is_correct": false
+      },
+      {
+        "text": "The subheadings show the order all plants must be cared for",
+        "is_correct": false
+      },
+      {
+        "text": "Specific subheadings help readers find different care needs",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Subheadings divide information into named sections that can be scanned.",
-      "hint": "Look for a feature that helps you predict what each section contains."
-    }
+      "summary": "The sections group types of care. Their order is not a universal timetable and headings need not be links.",
+      "hint": "Ask what each section groups."
+    },
+    "curriculum_coverage": [
+      "D",
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LA05-P-017",
@@ -485,29 +694,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "What should you notice about “Use the breadcrumb trail showing Home > Collections > Ancient Egypt > Object.” in moving back from a museum object page to the Ancient Egypt collection?",
-    "audio_prompt": "What should you notice about “Use the breadcrumb trail showing Home > Collections > Ancient Egypt > Object.” in moving back from a museum object page to the Ancient Egypt collection?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "Page A about a fun run has a route map with labelled Start and Finish. Page B about the same run has runner portraits but no route map. You want to find where the route ends. Which page feature is more useful?",
+    "audio_prompt": "Page A about a fun run has a route map with labelled Start and Finish. Page B about the same run has runner portraits but no route map. You want to find where the route ends. Which page feature is more useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Close the browser and search the whole web again.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Breadcrumbs show where the current page sits inside the site and provide a path back.",
+        "text": "A’s map label Finish",
         "is_correct": true
+      },
+      {
+        "text": "B’s runner portraits",
+        "is_correct": false
+      },
+      {
+        "text": "A’s headline size alone",
+        "is_correct": false
+      },
+      {
+        "text": "B’s number of photographs",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Breadcrumbs show where the current page sits inside the site and provide a path back.",
-      "hint": "Notice which feature shows the page hierarchy."
-    }
+      "summary": "The Finish label addresses the location question. Portraits may suit another purpose but do not supply the route endpoint.",
+      "hint": "Choose for this reading purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LA05-P-018",
@@ -515,29 +737,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which reason explains why “Use the breadcrumb trail showing Home > Collections > Ancient Egypt > Object.” suits moving back from a museum object page to the Ancient Egypt collection?",
-    "audio_prompt": "Which reason explains why “Use the breadcrumb trail showing Home > Collections > Ancient Egypt > Object.” suits moving back from a museum object page to the Ancient Egypt collection?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A website link says “Download the swimming timetable (PDF)”. What can a reader reasonably predict before selecting it?",
+    "audio_prompt": "A website link says “Download the swimming timetable (PDF)”. What can a reader reasonably predict before selecting it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Breadcrumbs show where the current page sits inside the site and provide a path back.",
+        "text": "It leads to a live chat with a coach",
+        "is_correct": false
+      },
+      {
+        "text": "It leads to a swimming timetable in PDF form",
         "is_correct": true
       },
       {
-        "text": "Because “Close the browser and search the whole web again.” is always acceptable in this situation.",
+        "text": "It will book and pay for a lesson",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "It leads to every sport’s complete website",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Breadcrumbs show where the current page sits inside the site and provide a path back.",
-      "hint": "Notice which feature shows the page hierarchy."
-    }
+      "summary": "The label names both the document and its format. It does not promise a booking or other action.",
+      "hint": "Use the destination and format in the label."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LA05-P-019",
@@ -545,29 +780,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which reason explains why “Place the main heading first, use short sections and keep buttons large and clearly labelled.” suits making a class webpage easier to read on a tablet?",
-    "audio_prompt": "Which reason explains why “Place the main heading first, use short sections and keep buttons large and clearly labelled.” suits making a class webpage easier to read on a tablet?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A text sketch reads: HOME / GARDEN / SEED LIBRARY. The Seed library page says “Borrow seeds on Tuesdays, 3–4 pm.” Which information would you report after following that route?",
+    "audio_prompt": "A text sketch reads: HOME / GARDEN / SEED LIBRARY. The Seed library page says “Borrow seeds on Tuesdays, 3–4 pm.” Which information would you report after following that route?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Put every link in one tiny block of text.” is always acceptable in this situation.",
+        "text": "The garden opens only on Tuesdays",
         "is_correct": false
       },
       {
-        "text": "Readable layout creates a clear order and makes controls easy to identify and use.",
+        "text": "All library books are due at 4 pm",
+        "is_correct": false
+      },
+      {
+        "text": "Seeds can be borrowed on Tuesdays from 3–4 pm",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Seeds must be planted at 3 pm",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Readable layout creates a clear order and makes controls easy to identify and use.",
-      "hint": "Think about what the reader should notice and tap first."
-    }
+      "summary": "The text gives seed borrowing hours only. Do not extend them to opening hours, books or planting.",
+      "hint": "Quote the information the destination actually supplies."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LA05-P-020",
@@ -575,29 +823,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Why does “Place the main heading first, use short sections and keep buttons large and clearly labelled.” work well for making a class webpage easier to read on a tablet?",
-    "audio_prompt": "Why does “Place the main heading first, use short sections and keep buttons large and clearly labelled.” work well for making a class webpage easier to read on a tablet?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A page contains two links: “Animal homes” and “Animal food”. Both are the same colour and size. You want to learn what wombats eat. Which clue helps you choose?",
+    "audio_prompt": "A page contains two links: “Animal homes” and “Animal food”. Both are the same colour and size. You want to learn what wombats eat. Which clue helps you choose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Put every link in one tiny block of text.” is always acceptable in this situation.",
+        "text": "The matching colour of both links",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The number of letters in Animal homes",
         "is_correct": false
       },
       {
-        "text": "Readable layout creates a clear order and makes controls easy to identify and use.",
+        "text": "The fact that both labels begin with Animal",
+        "is_correct": false
+      },
+      {
+        "text": "The word food in Animal food",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Readable layout creates a clear order and makes controls easy to identify and use.",
-      "hint": "Think about what the reader should notice and tap first."
-    }
+      "summary": "The meaningful destination word distinguishes the two links when their appearance is the same.",
+      "hint": "Read the labels rather than judging decoration."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LA05-P-021",
@@ -605,29 +866,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which revision best fixes the problem in “Click a link labelled Click here with no clue where it goes.” for finding excursion permission information on a school website?",
-    "audio_prompt": "Which revision best fixes the problem in “Click a link labelled Click here with no clue where it goes.” for finding excursion permission information on a school website?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "Two beach-clean-up pages contain the same instructions. A groups “When”, “Where” and “Bring” in separate sections. B begins with an unlabelled block of all three details. You need gloves and a meeting point. Which reason supports using A?",
+    "audio_prompt": "Two beach-clean-up pages contain the same instructions. A groups “When”, “Where” and “Bring” in separate sections. B begins with an unlabelled block of all three details. You need gloves and a meeting point. Which reason supports using A?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Open the Excursions heading, then choose the Permission forms link.",
+        "text": "Its Bring and Where labels help locate the two different details",
         "is_correct": true
       },
       {
-        "text": "Click a link labelled Click here with no clue where it goes.",
+        "text": "Its layout proves gloves will be supplied",
         "is_correct": false
       },
       {
-        "text": "Scroll randomly through every page.",
+        "text": "Its headings mean there is no need to read the details",
+        "is_correct": false
+      },
+      {
+        "text": "Its headings change the meeting point",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Descriptive headings and links tell the reader where information is likely to be. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose the feature whose label predicts the destination."
-    }
+      "summary": "The labels guide scanning to the required sections; the reader must still read each section’s information.",
+      "hint": "Find the labels for the two questions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LA05-P-022",
@@ -635,29 +909,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Compare the choices for finding excursion permission information on a school website. Which one avoids the mistake in “Click a link labelled Click here with no clue where it goes.”?",
-    "audio_prompt": "Compare the choices for finding excursion permission information on a school website. Which one avoids the mistake in “Click a link labelled Click here with no clue where it goes.”?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A page’s link reads “Today’s bus changes”, but its destination is an old photograph gallery. What should the author fix?",
+    "audio_prompt": "A page’s link reads “Today’s bus changes”, but its destination is an old photograph gallery. What should the author fix?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Click a link labelled Click here with no clue where it goes.",
+        "text": "Keep the label because all links are equally useful",
         "is_correct": false
       },
       {
-        "text": "Open the Excursions heading, then choose the Permission forms link.",
+        "text": "Make the label and destination match the information promised",
         "is_correct": true
       },
       {
-        "text": "Scroll randomly through every page.",
+        "text": "Remove every heading from the gallery",
+        "is_correct": false
+      },
+      {
+        "text": "Add a larger bus photograph without changing the link",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Descriptive headings and links tell the reader where information is likely to be. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose the feature whose label predicts the destination."
-    }
+      "summary": "A link should lead where its label suggests. A relevant photograph alone does not repair a wrong destination.",
+      "hint": "Compare the promise with where the link goes."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LA05-P-023",
@@ -665,29 +952,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Compare the choices for checking tomorrow’s forecast on a weather website. Which one avoids the mistake in “Open an unrelated advertisement.”?",
-    "audio_prompt": "Compare the choices for checking tomorrow’s forecast on a weather website. Which one avoids the mistake in “Open an unrelated advertisement.”?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "On a print leaflet, “Opening hours” is a bold subheading. On its website, “Opening hours” is a labelled link to an hours subpage. Which comparison is accurate?",
+    "audio_prompt": "On a print leaflet, “Opening hours” is a bold subheading. On its website, “Opening hours” is a labelled link to an hours subpage. Which comparison is accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Open an unrelated advertisement.",
+        "text": "Both features must be clicked to read any text",
         "is_correct": false
       },
       {
-        "text": "Keep refreshing the home page without choosing a location.",
+        "text": "Neither feature gives a clue about opening hours",
         "is_correct": false
       },
       {
-        "text": "Use the location search box and select the correct town.",
+        "text": "Both help find hours, but only the described web link takes the reader to another page",
         "is_correct": true
+      },
+      {
+        "text": "The print subheading is always more accurate than the web link",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A search box is designed to take the reader directly to a named location or topic. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Match the navigation tool to the information you need."
-    }
+      "summary": "The same words can help navigation in different ways: scanning a print section or following a digital destination.",
+      "hint": "Separate finding a section from following a link."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LA05-P-024",
@@ -695,29 +995,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "If “Open an unrelated advertisement.” does not work in checking tomorrow’s forecast on a weather website, what should replace it?",
-    "audio_prompt": "If “Open an unrelated advertisement.” does not work in checking tomorrow’s forecast on a weather website, what should replace it?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A sports centre page shows a pool icon beside “Swimming timetable” and a ball icon beside “Court bookings”. Why keep the text labels as well as the icons?",
+    "audio_prompt": "A sports centre page shows a pool icon beside “Swimming timetable” and a ball icon beside “Court bookings”. Why keep the text labels as well as the icons?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use the location search box and select the correct town.",
+        "text": "The words guarantee the pages will never change",
+        "is_correct": false
+      },
+      {
+        "text": "The icons prevent all readers from reading text",
+        "is_correct": false
+      },
+      {
+        "text": "The labels mean the icons must open different websites",
+        "is_correct": false
+      },
+      {
+        "text": "The words make the intended destinations clearer when icons could be interpreted differently",
         "is_correct": true
-      },
-      {
-        "text": "Open an unrelated advertisement.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep refreshing the home page without choosing a location.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A search box is designed to take the reader directly to a named location or topic. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Match the navigation tool to the information you need."
-    }
+      "summary": "Icons can help scanning, but labels clarify exactly what each symbol refers to.",
+      "hint": "Think about a reader unsure what a symbol means."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LA05-P-025",
@@ -725,29 +1038,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "If “Ignore all headings and begin in the middle.” does not work in reading a long online article about coral reefs, what should replace it?",
-    "audio_prompt": "If “Ignore all headings and begin in the middle.” does not work in reading a long online article about coral reefs, what should replace it?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "Page A about the same museum exhibition groups “Plan a visit” and “About the objects”. Page B shows one detailed object description immediately. You want the exhibition’s visiting hours. Which first action is better supported by these labels?",
+    "audio_prompt": "Page A about the same museum exhibition groups “Plan a visit” and “About the objects”. Page B shows one detailed object description immediately. You want the exhibition’s visiting hours. Which first action is better supported by these labels?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Ignore all headings and begin in the middle.",
-        "is_correct": false
-      },
-      {
-        "text": "Use subheadings to jump to the section about reef animals.",
+        "text": "Choose Plan a visit on A",
         "is_correct": true
       },
       {
-        "text": "Choose the biggest decorative photo even if it is unrelated.",
+        "text": "Read B’s object description for a guaranteed opening time",
+        "is_correct": false
+      },
+      {
+        "text": "Choose About the objects on A because it is longest",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the labels and choose the largest photograph",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Subheadings divide information into named sections that can be scanned. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for a feature that helps you predict what each section contains."
-    }
+      "summary": "Plan a visit is the relevant starting category for hours. The object description serves a different purpose.",
+      "hint": "Match the stated purpose to a label."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LA05-P-026",
@@ -755,29 +1081,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which option corrects the meaning or form needed for reading a long online article about coral reefs?",
-    "audio_prompt": "Which option corrects the meaning or form needed for reading a long online article about coral reefs?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "An online text has the headline “Three ways to save water at school”. Its links are “Fix leaks”, “Use a bucket” and “Turn taps off”. Why are these link labels helpful together?",
+    "audio_prompt": "An online text has the headline “Three ways to save water at school”. Its links are “Fix leaks”, “Use a bucket” and “Turn taps off”. Why are these link labels helpful together?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Ignore all headings and begin in the middle.",
+        "text": "They require readers to open all links before understanding the topic",
         "is_correct": false
       },
       {
-        "text": "Choose the biggest decorative photo even if it is unrelated.",
-        "is_correct": false
-      },
-      {
-        "text": "Use subheadings to jump to the section about reef animals.",
+        "text": "They name three specific actions within the page topic",
         "is_correct": true
+      },
+      {
+        "text": "They tell readers that each action saves exactly the same amount",
+        "is_correct": false
+      },
+      {
+        "text": "They prove the page is an official government source",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Subheadings divide information into named sections that can be scanned. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for a feature that helps you predict what each section contains."
-    }
+      "summary": "The labels make the three related choices clear. Labels alone cannot prove amounts or authority.",
+      "hint": "Notice how each choice relates to the headline."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LA05-P-027",
@@ -785,29 +1124,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which option corrects the meaning or form needed for moving back from a museum object page to the Ancient Egypt collection?",
-    "audio_prompt": "Which option corrects the meaning or form needed for moving back from a museum object page to the Ancient Egypt collection?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A drop-down sketch shows “Animals → Australian animals → Echidnas”. “Animals” has a small arrow and a note “more choices”. What does this arrow signal in the sketch?",
+    "audio_prompt": "A drop-down sketch shows “Animals → Australian animals → Echidnas”. “Animals” has a small arrow and a note “more choices”. What does this arrow signal in the sketch?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use the breadcrumb trail showing Home > Collections > Ancient Egypt > Object.",
+        "text": "The page must be read from bottom to top",
+        "is_correct": false
+      },
+      {
+        "text": "The whole article will be downloaded immediately",
+        "is_correct": false
+      },
+      {
+        "text": "There are more choices within that menu category",
         "is_correct": true
       },
       {
-        "text": "Close the browser and search the whole web again.",
-        "is_correct": false
-      },
-      {
-        "text": "Click a decorative logo with no label.",
+        "text": "Echidnas are the only animals on the site",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Breadcrumbs show where the current page sits inside the site and provide a path back. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Notice which feature shows the page hierarchy."
-    }
+      "summary": "The arrow is explicitly labelled as a cue to further menu choices. It is not a reading direction or download promise.",
+      "hint": "Use the note beside the symbol."
+    },
+    "curriculum_coverage": [
+      "D",
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LA05-P-028",
@@ -815,29 +1168,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which choice is the clearest correction for moving back from a museum object page to the Ancient Egypt collection?",
-    "audio_prompt": "Which choice is the clearest correction for moving back from a museum object page to the Ancient Egypt collection?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A webpage’s heading is “Information”. The paragraph beneath gives the time, place and cost of a puppet show. Which heading would better help a reader looking for those details?",
+    "audio_prompt": "A webpage’s heading is “Information”. The paragraph beneath gives the time, place and cost of a puppet show. Which heading would better help a reader looking for those details?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Close the browser and search the whole web again.",
+        "text": "Some useful information",
         "is_correct": false
       },
       {
-        "text": "Use the breadcrumb trail showing Home > Collections > Ancient Egypt > Object.",
+        "text": "Read these important things",
+        "is_correct": false
+      },
+      {
+        "text": "More about our website",
+        "is_correct": false
+      },
+      {
+        "text": "Puppet show: time, place and cost",
         "is_correct": true
-      },
-      {
-        "text": "Click a decorative logo with no label.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Breadcrumbs show where the current page sits inside the site and provide a path back. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Notice which feature shows the page hierarchy."
-    }
+      "summary": "The specific heading names the event and the kinds of details supplied. Longer wording alone is not the reason it helps.",
+      "hint": "Name the content of this paragraph."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LA05-P-029",
@@ -845,29 +1211,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which choice is the clearest correction for making a class webpage easier to read on a tablet?",
-    "audio_prompt": "Which choice is the clearest correction for making a class webpage easier to read on a tablet?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "Page A and Page B are both about worm farms. A has an illustrated step-by-step setup guide. B has a labelled diagram of a worm’s body. You need to build the farm container. Which comparison fits that purpose?",
+    "audio_prompt": "Page A and Page B are both about worm farms. A has an illustrated step-by-step setup guide. B has a labelled diagram of a worm’s body. You need to build the farm container. Which comparison fits that purpose?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Put every link in one tiny block of text.",
-        "is_correct": false
-      },
-      {
-        "text": "Cover the article with unrelated animations.",
-        "is_correct": false
-      },
-      {
-        "text": "Place the main heading first, use short sections and keep buttons large and clearly labelled.",
+        "text": "A’s setup sequence is more useful for this task; B serves learning about the worm’s body",
         "is_correct": true
+      },
+      {
+        "text": "B is always a worse page because it has a diagram",
+        "is_correct": false
+      },
+      {
+        "text": "A must be more accurate because it has more steps",
+        "is_correct": false
+      },
+      {
+        "text": "Both pages have exactly the same purpose because the topic matches",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Readable layout creates a clear order and makes controls easy to identify and use. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Think about what the reader should notice and tap first."
-    }
+      "summary": "Same-topic pages can support different reading purposes. Choose the feature that supplies the needed setup actions.",
+      "hint": "Separate shared topic from the task you need to complete."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LA05-P-030",
@@ -875,29 +1254,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which revision best fixes the problem in “Put every link in one tiny block of text.” for making a class webpage easier to read on a tablet?",
-    "audio_prompt": "Which revision best fixes the problem in “Put every link in one tiny block of text.” for making a class webpage easier to read on a tablet?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A page includes the caption “The east gate is beside the blue shed” under a simple entrance map. What does this caption add?",
+    "audio_prompt": "A page includes the caption “The east gate is beside the blue shed” under a simple entrance map. What does this caption add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Place the main heading first, use short sections and keep buttons large and clearly labelled.",
+        "text": "A rule that all blue buildings are entrances",
+        "is_correct": false
+      },
+      {
+        "text": "Words connecting the map to the entrance a visitor should locate",
         "is_correct": true
       },
       {
-        "text": "Put every link in one tiny block of text.",
+        "text": "The opening time of the east gate",
         "is_correct": false
       },
       {
-        "text": "Cover the article with unrelated animations.",
+        "text": "The names of every visitor",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Readable layout creates a clear order and makes controls easy to identify and use. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Think about what the reader should notice and tap first."
-    }
+      "summary": "The caption identifies a useful location relationship in the map. It does not state hours or a general colour rule.",
+      "hint": "Identify what the caption actually says."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LA05-P-031",
@@ -906,28 +1298,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "You now need to handle finding excursion permission information on a school website independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle finding excursion permission information on a school website independently. Which choice should you use?",
+    "skill": "navigation_and_readability",
+    "question": "A homework site’s home page lists “English”, “Maths” and “Science”. The English subpage lists “Reading” and “Writing”. What would a Home link on the English subpage help a reader do?",
+    "audio_prompt": "A homework site’s home page lists “English”, “Maths” and “Science”. The English subpage lists “Reading” and “Writing”. What would a Home link on the English subpage help a reader do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Scroll randomly through every page.",
+        "text": "Jump straight to Writing without choosing it",
         "is_correct": false
       },
       {
-        "text": "Open the Excursions heading, then choose the Permission forms link.",
+        "text": "Return to the last paragraph read on the English page",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the site’s broad subject choices",
         "is_correct": true
       },
       {
-        "text": "Click a link labelled Click here with no clue where it goes.",
+        "text": "Open a list containing only the Reading tasks",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Descriptive headings and links tell the reader where information is likely to be.",
-      "hint": "Choose the feature whose label predicts the destination."
-    }
+      "summary": "Home provides a route back to the starting page, where the subject choices are shown.",
+      "hint": "Think about the destination of Home."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LA05-P-032",
@@ -936,28 +1341,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Apply the same idea to finding excursion permission information on a school website. Which option is best?",
-    "audio_prompt": "Apply the same idea to finding excursion permission information on a school website. Which option is best?",
+    "skill": "navigation_and_readability",
+    "question": "An art-club page labels every link “Details”. A second art-club page labels links “Session times”, “Materials list” and “Gallery”. Which feature makes the second page easier to use for finding what to bring?",
+    "audio_prompt": "An art-club page labels every link “Details”. A second art-club page labels links “Session times”, “Materials list” and “Gallery”. Which feature makes the second page easier to use for finding what to bring?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Scroll randomly through every page.",
+        "text": "The second page must have more links",
         "is_correct": false
       },
       {
-        "text": "Click a link labelled Click here with no clue where it goes.",
+        "text": "The Gallery label gives the materials list",
         "is_correct": false
       },
       {
-        "text": "Open the Excursions heading, then choose the Permission forms link.",
+        "text": "All short labels are clearer than all long labels",
+        "is_correct": false
+      },
+      {
+        "text": "The Materials list label predicts the needed destination",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Descriptive headings and links tell the reader where information is likely to be.",
-      "hint": "Choose the feature whose label predicts the destination."
-    }
+      "summary": "The useful difference is a specific label for the reader’s purpose, not an assumed number or length of links.",
+      "hint": "Choose the label connected to bringing materials."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LA05-P-033",
@@ -966,28 +1384,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Apply the same idea to checking tomorrow’s forecast on a weather website. Which option is best?",
-    "audio_prompt": "Apply the same idea to checking tomorrow’s forecast on a weather website. Which option is best?",
+    "skill": "navigation_and_readability",
+    "question": "A menu sketch reads “Events [open]: Storytime; Coding club; Book sale”. A separate ordinary link below it says “All events”. Which statement is supported?",
+    "audio_prompt": "A menu sketch reads “Events [open]: Storytime; Coding club; Book sale”. A separate ordinary link below it says “All events”. Which statement is supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use the location search box and select the correct town.",
+        "text": "The page offers both grouped event choices and another route to event information",
         "is_correct": true
       },
       {
-        "text": "Keep refreshing the home page without choosing a location.",
+        "text": "The All events link must lead directly to the Storytime details",
         "is_correct": false
       },
       {
-        "text": "Open an unrelated advertisement.",
+        "text": "The menu labels display each event’s complete description",
+        "is_correct": false
+      },
+      {
+        "text": "The menu and the ordinary link always require the same number of steps",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A search box is designed to take the reader directly to a named location or topic.",
-      "hint": "Match the navigation tool to the information you need."
-    }
+      "summary": "The supplied sketch explicitly labels both the menu choices and an ordinary alternative link.",
+      "hint": "Use both parts of the sketch."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LA05-P-034",
@@ -996,28 +1427,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which decision would produce the clearest result in checking tomorrow’s forecast on a weather website?",
-    "audio_prompt": "Which decision would produce the clearest result in checking tomorrow’s forecast on a weather website?",
+    "skill": "navigation_and_readability",
+    "question": "A reptile page has large paragraphs with no spacing. You may change layout but must keep every sentence. Which change directly helps scanning?",
+    "audio_prompt": "A reptile page has large paragraphs with no spacing. You may change layout but must keep every sentence. Which change directly helps scanning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Keep refreshing the home page without choosing a location.",
+        "text": "Delete the difficult facts without telling the reader",
         "is_correct": false
       },
       {
-        "text": "Use the location search box and select the correct town.",
+        "text": "Group related sentences under specific subheadings with space between sections",
         "is_correct": true
       },
       {
-        "text": "Open an unrelated advertisement.",
+        "text": "Make every sentence a separate unrelated link",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same vague heading above every paragraph",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A search box is designed to take the reader directly to a named location or topic.",
-      "hint": "Match the navigation tool to the information you need."
-    }
+      "summary": "Meaningful sections and spacing help readers locate ideas while preserving the content.",
+      "hint": "Keep the information and improve its organisation."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LA05-P-035",
@@ -1026,28 +1470,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which decision would produce the clearest result in reading a long online article about coral reefs?",
-    "audio_prompt": "Which decision would produce the clearest result in reading a long online article about coral reefs?",
+    "skill": "navigation_and_readability",
+    "question": "Page A about a nature walk has a “Route” subheading and a map. Page B about the same walk has a “Bird sightings” subheading and a species chart. Which reader purpose is better served by B’s described features?",
+    "audio_prompt": "Page A about a nature walk has a “Route” subheading and a map. Page B about the same walk has a “Bird sightings” subheading and a species chart. Which reader purpose is better served by B’s described features?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the biggest decorative photo even if it is unrelated.",
+        "text": "Finding the turn-by-turn route on the walk",
         "is_correct": false
       },
       {
-        "text": "Ignore all headings and begin in the middle.",
+        "text": "Finding which section of the path is steepest",
         "is_correct": false
       },
       {
-        "text": "Use subheadings to jump to the section about reef animals.",
+        "text": "Finding which birds were recorded on the walk",
         "is_correct": true
+      },
+      {
+        "text": "Finding the location of the walk’s starting point",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Subheadings divide information into named sections that can be scanned.",
-      "hint": "Look for a feature that helps you predict what each section contains."
-    }
+      "summary": "Bird sightings and a species chart match a question about recorded birds. Topic similarity does not make every feature answer every question.",
+      "hint": "Match the purpose to B’s actual information."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LA05-P-036",
@@ -1056,28 +1513,42 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Choose the option that applies the skill correctly in reading a long online article about coral reefs.",
-    "audio_prompt": "Choose the option that applies the skill correctly in reading a long online article about coral reefs.",
+    "skill": "navigation_and_readability",
+    "question": "An excursion page has “Departure: 9 am from the school gate” and “Return: 3 pm at the school gate”. A student says the excursion starts at 3 pm. What should they do?",
+    "audio_prompt": "An excursion page has “Departure: 9 am from the school gate” and “Return: 3 pm at the school gate”. A student says the excursion starts at 3 pm. What should they do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use subheadings to jump to the section about reef animals.",
+        "text": "Use the Return time because it appears later on the page",
+        "is_correct": false
+      },
+      {
+        "text": "Choose either time because the meeting place is the same",
+        "is_correct": false
+      },
+      {
+        "text": "Treat both times as choices for when to start",
+        "is_correct": false
+      },
+      {
+        "text": "Reread Departure for the start time and keep each time with its heading",
         "is_correct": true
-      },
-      {
-        "text": "Choose the biggest decorative photo even if it is unrelated.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore all headings and begin in the middle.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Subheadings divide information into named sections that can be scanned.",
-      "hint": "Look for a feature that helps you predict what each section contains."
-    }
+      "summary": "Departure labels the start at 9 am; Return labels coming back at 3 pm. The same place does not give the two times the same purpose.",
+      "hint": "Read the heading attached to each time."
+    },
+    "curriculum_coverage": [
+      "D",
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LA05-P-037",
@@ -1086,28 +1557,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Choose the option that applies the skill correctly in moving back from a museum object page to the Ancient Egypt collection.",
-    "audio_prompt": "Choose the option that applies the skill correctly in moving back from a museum object page to the Ancient Egypt collection.",
+    "skill": "navigation_and_readability",
+    "question": "A print booklet has “School concert” as its heading and “Performers”, “Tickets” and “Getting there” as subheadings. You want to know who is playing violin. Which section is the best starting point?",
+    "audio_prompt": "A print booklet has “School concert” as its heading and “Performers”, “Tickets” and “Getting there” as subheadings. You want to know who is playing violin. Which section is the best starting point?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Click a decorative logo with no label.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the breadcrumb trail showing Home > Collections > Ancient Egypt > Object.",
+        "text": "Performers",
         "is_correct": true
       },
       {
-        "text": "Close the browser and search the whole web again.",
+        "text": "Tickets",
+        "is_correct": false
+      },
+      {
+        "text": "Getting there",
+        "is_correct": false
+      },
+      {
+        "text": "School concert as a whole without scanning",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Breadcrumbs show where the current page sits inside the site and provide a path back.",
-      "hint": "Notice which feature shows the page hierarchy."
-    }
+      "summary": "Performers groups information about the people taking part, which matches the question about a violin player.",
+      "hint": "Name the category of information you need."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LA05-P-038",
@@ -1116,28 +1600,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "What would be the most effective choice for moving back from a museum object page to the Ancient Egypt collection?",
-    "audio_prompt": "What would be the most effective choice for moving back from a museum object page to the Ancient Egypt collection?",
+    "skill": "navigation_and_readability",
+    "question": "A website about stars has a large sparkling border that covers part of the paragraph. Which change most directly improves readability while keeping the paragraph?",
+    "audio_prompt": "A website about stars has a large sparkling border that covers part of the paragraph. Which change most directly improves readability while keeping the paragraph?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Click a decorative logo with no label.",
+        "text": "Make the headline larger while leaving the covered paragraph as it is",
         "is_correct": false
       },
       {
-        "text": "Close the browser and search the whole web again.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the breadcrumb trail showing Home > Collections > Ancient Egypt > Object.",
+        "text": "Move or remove the overlapping decoration so the words can be read",
         "is_correct": true
+      },
+      {
+        "text": "Increase the space between sections but keep the border over the words",
+        "is_correct": false
+      },
+      {
+        "text": "Move the paragraph lower while extending the border over it",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Breadcrumbs show where the current page sits inside the site and provide a path back.",
-      "hint": "Notice which feature shows the page hierarchy."
-    }
+      "summary": "Graphics help only when they support, rather than obscure, reading. Uncovering the words addresses the stated problem.",
+      "hint": "Locate the actual barrier to reading."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LA05-P-039",
@@ -1146,28 +1643,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "What would be the most effective choice for making a class webpage easier to read on a tablet?",
-    "audio_prompt": "What would be the most effective choice for making a class webpage easier to read on a tablet?",
+    "skill": "navigation_and_readability",
+    "question": "Two online pages cover the same school play. A clearly separates “Story summary” from “Tickets”. B uses one unbroken paragraph containing both. You want the story without ticket details. What evidence supports choosing A?",
+    "audio_prompt": "Two online pages cover the same school play. A clearly separates “Story summary” from “Tickets”. B uses one unbroken paragraph containing both. You want the story without ticket details. What evidence supports choosing A?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Place the main heading first, use short sections and keep buttons large and clearly labelled.",
+        "text": "Its headings guarantee that the play is better",
+        "is_correct": false
+      },
+      {
+        "text": "Its Tickets section must have fewer words",
+        "is_correct": false
+      },
+      {
+        "text": "Its Story summary section lets you select the relevant text",
         "is_correct": true
       },
       {
-        "text": "Cover the article with unrelated animations.",
-        "is_correct": false
-      },
-      {
-        "text": "Put every link in one tiny block of text.",
+        "text": "Its page must load faster because it has headings",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Readable layout creates a clear order and makes controls easy to identify and use.",
-      "hint": "Think about what the reader should notice and tap first."
-    }
+      "summary": "The labelled section supports selecting text for a specific purpose. The supplied description says nothing about play quality or loading speed.",
+      "hint": "Give a reason based on organisation."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LA05-P-040",
@@ -1176,28 +1686,291 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "You now need to handle making a class webpage easier to read on a tablet independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle making a class webpage easier to read on a tablet independently. Which choice should you use?",
+    "skill": "navigation_and_readability",
+    "question": "An online centre page has a title, a menu, a labelled diagram and subheadings “Opening hours” and “Activities”. A reader needs the closing time and says, “I found it because the page looks nice.” Which explanation gives more useful evidence?",
+    "audio_prompt": "An online centre page has a title, a menu, a labelled diagram and subheadings “Opening hours” and “Activities”. A reader needs the closing time and says, “I found it because the page looks nice.” Which explanation gives more useful evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Cover the article with unrelated animations.",
+        "text": "I liked the page more than any other page",
         "is_correct": false
       },
       {
-        "text": "Place the main heading first, use short sections and keep buttons large and clearly labelled.",
+        "text": "I saw several colours at the top of the page",
+        "is_correct": false
+      },
+      {
+        "text": "I knew the page was online when I opened it",
+        "is_correct": false
+      },
+      {
+        "text": "I used the Opening hours subheading to find the closing time",
         "is_correct": true
-      },
-      {
-        "text": "Put every link in one tiny block of text.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Readable layout creates a clear order and makes controls easy to identify and use.",
-      "hint": "Think about what the reader should notice and tap first."
-    }
+      "summary": "The explanation names the exact feature, the information sought and how they connect.",
+      "hint": "Name a feature and what it helped you find."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LA05-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "navigation_and_readability",
+    "question": "Read this static website sketch: Home has links “Visit”, “Learn”, “News”. Visit has links “Opening hours” and “Getting here”. Getting here says “The entrance is on Pine Street.” Write the path from Home to the entrance information, then quote the street.",
+    "audio_prompt": "Read this static website sketch: Home has links “Visit”, “Learn”, “News”. Visit has links “Opening hours” and “Getting here”. Getting here says “The entrance is on Pine Street.” Write the path from Home to the entrance information, then quote the street.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Home → Visit → Getting here. The entrance is on Pine Street.",
+    "acceptance_note": "Require the three-page route in order and Pine Street. Accept an equivalent written or spoken path. This is a sketch: no claim of clicking a real website is required.",
+    "response_instructions": "Read the supplied learning example. Write, draw on paper, or explain using your usual communication support. An adult checks the actual response against the guidance; no external website visit is needed.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Home → Visit → Getting here. The entrance is on Pine Street.",
+      "hint": "Choose the travel-information destination."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LA05-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "navigation_and_readability",
+    "question": "A print leaflet has the heading “School pond” and text: “Frogs shelter near reeds. Dragonfly nymphs live in the water. Please stay on the path and watch quietly.” Add two useful subheadings, placing each before the words it groups. Explain one choice.",
+    "audio_prompt": "A print leaflet has the heading “School pond” and text: “Frogs shelter near reeds. Dragonfly nymphs live in the water. Please stay on the path and watch quietly.” Add two useful subheadings, placing each before the words it groups. Explain one choice.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Pond animals: Frogs shelter near reeds. Dragonfly nymphs live in the water. Visiting safely: Please stay on the path and watch quietly.",
+    "acceptance_note": "Check all original sentences preserved and two meaningful groups with an explanation linking a heading to reader purpose. Accept different clear headings.",
+    "response_instructions": "Read the supplied learning example. Write, draw on paper, or explain using your usual communication support. An adult checks the actual response against the guidance; no external website visit is needed.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Pond animals: Frogs shelter near reeds. Dragonfly nymphs live in the water. Visiting safely: Please stay on the path and watch quietly.",
+      "hint": "Separate animal information from visitor instructions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LA05-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "navigation_and_readability",
+    "question": "Compare two online pages about the same kite workshop. A has “When: Sunday, 10 am” and “Bring: string and paper” in labelled sections. B places those same details in one paragraph between a welcome and a long club history. You need to pack for the workshop. Explain which is easier to scan for that task, using evidence from both.",
+    "audio_prompt": "Compare two online pages about the same kite workshop. A has “When: Sunday, 10 am” and “Bring: string and paper” in labelled sections. B places those same details in one paragraph between a welcome and a long club history. You need to pack for the workshop. Explain which is easier to scan for that task, using evidence from both.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "A is easier to scan because Bring labels the string and paper directly. B includes the same items, but I must find them inside the mixed paragraph.",
+    "acceptance_note": "Require a purpose-based comparison with A’s Bring label and B’s mixed paragraph. Do not accept a claim that B lacks the information or is factually wrong.",
+    "response_instructions": "Read the supplied learning example. Write, draw on paper, or explain using your usual communication support. An adult checks the actual response against the guidance; no external website visit is needed.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "A is easier to scan because Bring labels the string and paper directly. B includes the same items, but I must find them inside the mixed paragraph.",
+      "hint": "Compare finding the same information, not whether it exists."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LA05-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "navigation_and_readability",
+    "question": "A museum page has three links all labelled “More”. They lead to the map, ticket prices and exhibition photos. Write a distinct helpful label for each link, then explain why one label helps.",
+    "audio_prompt": "A museum page has three links all labelled “More”. They lead to the map, ticket prices and exhibition photos. Write a distinct helpful label for each link, then explain why one label helps.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Museum map; Ticket prices; Exhibition photos. Ticket prices tells a reader looking for cost where the link will lead.",
+    "acceptance_note": "Require three destination-matching labels and one clear prediction of reader use. Accept equivalent concise labels; do not require identical words.",
+    "response_instructions": "Read the supplied learning example. Write, draw on paper, or explain using your usual communication support. An adult checks the actual response against the guidance; no external website visit is needed.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Museum map; Ticket prices; Exhibition photos. Ticket prices tells a reader looking for cost where the link will lead.",
+      "hint": "Name each destination."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LA05-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "navigation_and_readability",
+    "question": "Sketch a home page for a fictional reading club. Include a headline, a drop-down menu marked as a sketch with at least two named choices, and an ordinary alternative link to one of those choices. Annotate how a reader would find session times.",
+    "audio_prompt": "Sketch a home page for a fictional reading club. Include a headline, a drop-down menu marked as a sketch with at least two named choices, and an ordinary alternative link to one of those choices. Annotate how a reader would find session times.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Headline: Riverside Reading Club. Menu sketch: Visit → Session times, Meeting place. Alternative link: Session times. The reader can choose Visit then Session times, or the direct Session times link.",
+    "acceptance_note": "Require an actual labelled sketch or organised written layout, at least two menu choices, an alternate route to a matching destination and a clear session-times path. No coding or real publication is needed.",
+    "response_instructions": "Read the supplied learning example. Write, draw on paper, or explain using your usual communication support. An adult checks the actual response against the guidance; no external website visit is needed.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Headline: Riverside Reading Club. Menu sketch: Visit → Session times, Meeting place. Alternative link: Session times. The reader can choose Visit then Session times, or the direct Session times link.",
+      "hint": "Show both a grouped route and a direct route."
+    },
+    "curriculum_coverage": [
+      "D",
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LA05-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "navigation_and_readability",
+    "question": "A page describes a toy-boat test: “Boat A floated for 3 minutes. Boat B floated for 5 minutes.” It shows a labelled results chart beside the paragraph and a decorative wave above the headline. Explain which graphic helps compare the times and why.",
+    "audio_prompt": "A page describes a toy-boat test: “Boat A floated for 3 minutes. Boat B floated for 5 minutes.” It shows a labelled results chart beside the paragraph and a decorative wave above the headline. Explain which graphic helps compare the times and why.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The results chart helps compare 3 minutes and 5 minutes because it represents the test data. The decorative wave suggests water but does not show the times.",
+    "acceptance_note": "Require chart chosen with both data values or an accurate comparison, plus distinction from the decorative wave. No inference about boats beyond the supplied test.",
+    "response_instructions": "Read the supplied learning example. Write, draw on paper, or explain using your usual communication support. An adult checks the actual response against the guidance; no external website visit is needed.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The results chart helps compare 3 minutes and 5 minutes because it represents the test data. The decorative wave suggests water but does not show the times.",
+      "hint": "Which graphic represents the information you need?"
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LA05-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "navigation_and_readability",
+    "question": "Design two labelled sections for a fictional class exhibition page using all these details: “Friday, 2 pm”; “School hall”; “Paintings and clay models”; “Student guides explain their work”. Choose a headline and explain how your layout helps a family find where and when to visit.",
+    "audio_prompt": "Design two labelled sections for a fictional class exhibition page using all these details: “Friday, 2 pm”; “School hall”; “Paintings and clay models”; “Student guides explain their work”. Choose a headline and explain how your layout helps a family find where and when to visit.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Headline: Class art exhibition. Visit details: Friday, 2 pm; School hall. What to see: Paintings and clay models; Student guides explain their work. The Visit details heading groups time and place for families.",
+    "acceptance_note": "Check every supplied detail retained, two sensible sections, a relevant headline and a purpose-based layout explanation. Accept another clear grouping if time/place can be found.",
+    "response_instructions": "Read the supplied learning example. Write, draw on paper, or explain using your usual communication support. An adult checks the actual response against the guidance; no external website visit is needed.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Headline: Class art exhibition. Visit details: Friday, 2 pm; School hall. What to see: Paintings and clay models; Student guides explain their work. The Visit details heading groups time and place for families.",
+      "hint": "Group the details a visitor needs together."
+    },
+    "curriculum_coverage": [
+      "D",
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LA05-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "navigation_and_readability",
+    "question": "Two online gardening pages show the same seed-planting instructions. A has numbered steps and a labelled planting-depth diagram. B has a photo gallery of finished plants before a long paragraph containing the instructions. A reader wants to plant seeds now; another wants ideas for how grown plants might look. Explain which page features help each reader.",
+    "audio_prompt": "Two online gardening pages show the same seed-planting instructions. A has numbered steps and a labelled planting-depth diagram. B has a photo gallery of finished plants before a long paragraph containing the instructions. A reader wants to plant seeds now; another wants ideas for how grown plants might look. Explain which page features help each reader.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "For planting now, A’s numbered steps and depth diagram help follow the method. For appearance ideas, B’s finished-plant gallery helps the second reader. B still contains the instructions, but they are less easy to scan for this task.",
+    "acceptance_note": "Require both purposes matched to actual features, with no universal best-page claim. Do not state B lacks instructions.",
+    "response_instructions": "Read the supplied learning example. Write, draw on paper, or explain using your usual communication support. An adult checks the actual response against the guidance; no external website visit is needed.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "For planting now, A’s numbered steps and depth diagram help follow the method. For appearance ideas, B’s finished-plant gallery helps the second reader. B still contains the instructions, but they are less easy to scan for this task.",
+      "hint": "A shared topic can serve different reading purposes."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LA05-T-001",
@@ -1205,29 +1978,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "New context: finding opening hours on a zoo website. Which option is correct?",
-    "audio_prompt": "New context: finding opening hours on a zoo website. Which option is correct?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A zoo learning page has the headline “Habitats” and subheadings “Desert”, “Rainforest” and “Ocean”. You need information about animals living in very dry places. Which subheading is the best starting point?",
+    "audio_prompt": "A zoo learning page has the headline “Habitats” and subheadings “Desert”, “Rainforest” and “Ocean”. You need information about animals living in very dry places. Which subheading is the best starting point?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Click every animal photo until a time appears.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a link labelled More without checking its destination.",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the Visit menu, then the Opening hours link.",
+        "text": "Desert",
         "is_correct": true
+      },
+      {
+        "text": "Rainforest",
+        "is_correct": false
+      },
+      {
+        "text": "Ocean",
+        "is_correct": false
+      },
+      {
+        "text": "Habitats without choosing a section",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A clear menu path reduces searching because each label narrows the information.",
-      "hint": "Follow labels that describe the information you are looking for."
-    }
+      "summary": "Desert names the dry habitat needed. The headline gives the broad topic, while the subheading narrows the search.",
+      "hint": "Match the environment to its section."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA05-T-002",
@@ -1235,29 +2021,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "What is the best choice for finding opening hours on a zoo website?",
-    "audio_prompt": "What is the best choice for finding opening hours on a zoo website?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A website sketch shows Home → Activities → Paper models. The Paper models page links to “Folding guide” and “Photo gallery”. Which route best reaches instructions for making a model from Home?",
+    "audio_prompt": "A website sketch shows Home → Activities → Paper models. The Paper models page links to “Folding guide” and “Photo gallery”. Which route best reaches instructions for making a model from Home?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the Visit menu, then the Opening hours link.",
+        "text": "Home → Activities → Paper models → Photo gallery",
+        "is_correct": false
+      },
+      {
+        "text": "Home → Activities → Paper models → Folding guide",
         "is_correct": true
       },
       {
-        "text": "Click every animal photo until a time appears.",
+        "text": "Home → Photo gallery → Activities",
         "is_correct": false
       },
       {
-        "text": "Use a link labelled More without checking its destination.",
+        "text": "Home → Folding guide → Activities",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A clear menu path reduces searching because each label narrows the information.",
-      "hint": "Follow labels that describe the information you are looking for."
-    }
+      "summary": "The Folding guide destination supplies instructions. The photo gallery has a different stated purpose.",
+      "hint": "Follow only the supplied route and instruction label."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA05-T-003",
@@ -1265,29 +2064,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which explanation best supports “Choose the Visit menu, then the Opening hours link.” in finding opening hours on a zoo website?",
-    "audio_prompt": "Which explanation best supports “Choose the Visit menu, then the Opening hours link.” in finding opening hours on a zoo website?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A menu sketch labelled “Explore [open]” lists “Rocks”, “Soils” and “Fossils”. What is one useful job of this drop-down?",
+    "audio_prompt": "A menu sketch labelled “Explore [open]” lists “Rocks”, “Soils” and “Fossils”. What is one useful job of this drop-down?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Click every animal photo until a time appears.” is always a safe choice.",
+        "text": "Showing the full information from all three destination pages together",
         "is_correct": false
       },
       {
-        "text": "A clear menu path reduces searching because each label narrows the information.",
+        "text": "Putting the three topics into a required reading order",
+        "is_correct": false
+      },
+      {
+        "text": "Grouping related exploration choices under one menu label",
         "is_correct": true
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "Replacing the need for a clear label on each choice",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A clear menu path reduces searching because each label narrows the information.",
-      "hint": "Follow labels that describe the information you are looking for."
-    }
+      "summary": "The menu groups related destinations. It is not the full articles and may still need an alternative route.",
+      "hint": "Separate menu choices from full page content."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA05-T-004",
@@ -1295,29 +2107,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which clue should guide your decision in finding opening hours on a zoo website?",
-    "audio_prompt": "Which clue should guide your decision in finding opening hours on a zoo website?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A school music page links to rehearsal dates with the label “Go”. Which label would more clearly predict that destination?",
+    "audio_prompt": "A school music page links to rehearsal dates with the label “Go”. Which label would more clearly predict that destination?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "More music",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and use the first familiar form.",
+        "text": "Useful things",
         "is_correct": false
       },
       {
-        "text": "Follow labels that describe the information you are looking for.",
+        "text": "Go now",
+        "is_correct": false
+      },
+      {
+        "text": "Rehearsal dates",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A clear menu path reduces searching because each label narrows the information.",
-      "hint": "Follow labels that describe the information you are looking for."
-    }
+      "summary": "Rehearsal dates names the information the reader will reach. The other options remain vague.",
+      "hint": "Name the specific destination."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA05-T-005",
@@ -1326,28 +2151,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which option would you reject first in finding opening hours on a zoo website?",
-    "audio_prompt": "Which option would you reject first in finding opening hours on a zoo website?",
+    "skill": "navigation_and_readability",
+    "question": "Two pages discuss the same skate park. A has an “Opening hours” box. B describes ramps and includes the hours in an unbroken paragraph. You want to know when it opens. Which comparison is supported?",
+    "audio_prompt": "Two pages discuss the same skate park. A has an “Opening hours” box. B describes ramps and includes the hours in an unbroken paragraph. You want to know when it opens. Which comparison is supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Click every animal photo until a time appears.",
+        "text": "A’s hours box helps scan for the time; B still contains it within the paragraph",
         "is_correct": true
       },
       {
-        "text": "Choose the Visit menu, then the Opening hours link.",
+        "text": "B cannot include a time because it describes ramps",
         "is_correct": false
       },
       {
-        "text": "Use a link labelled More without checking its destination.",
+        "text": "A’s layout proves its hours are more recent",
+        "is_correct": false
+      },
+      {
+        "text": "B is better for finding hours because every detail is mixed together",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A clear menu path reduces searching because each label narrows the information.",
-      "hint": "Follow labels that describe the information you are looking for."
-    }
+      "summary": "The difference is how easily the same information can be located, not its existence or freshness.",
+      "hint": "Compare the described organisation."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA05-T-006",
@@ -1356,28 +2194,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which correction should replace “Click every animal photo until a time appears.” in finding opening hours on a zoo website?",
-    "audio_prompt": "Which correction should replace “Click every animal photo until a time appears.” in finding opening hours on a zoo website?",
+    "skill": "navigation_and_readability",
+    "question": "A trail page places a labelled map beside directions and a bird photograph beside a bird description. Why does this layout help?",
+    "audio_prompt": "A trail page places a labelled map beside directions and a bird photograph beside a bird description. Why does this layout help?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Click every animal photo until a time appears.",
+        "text": "It makes the directions unnecessary for every reader",
         "is_correct": false
       },
       {
-        "text": "Choose the Visit menu, then the Opening hours link.",
+        "text": "It keeps each graphic close to the words it explains",
         "is_correct": true
       },
       {
-        "text": "Use a link labelled More without checking its destination.",
+        "text": "It means both graphics show exactly the same information",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the trail is open today",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A clear menu path reduces searching because each label narrows the information.",
-      "hint": "Follow labels that describe the information you are looking for."
-    }
+      "summary": "Matching graphics with relevant words helps readers connect their information; the layout does not prove current access.",
+      "hint": "Look at which words each image supports."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA05-T-007",
@@ -1386,28 +2237,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Apply the skill to finding opening hours on a zoo website: what should you choose?",
-    "audio_prompt": "Apply the skill to finding opening hours on a zoo website: what should you choose?",
+    "skill": "navigation_and_readability",
+    "question": "A print sports flyer has “Sports day” as a main heading and “Schedule”, “Equipment” and “Travel” as subheadings. Which comparison with a website is accurate?",
+    "audio_prompt": "A print sports flyer has “Sports day” as a main heading and “Schedule”, “Equipment” and “Travel” as subheadings. Which comparison with a website is accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Click every animal photo until a time appears.",
+        "text": "Print subheadings and web links always lead to separate pages",
         "is_correct": false
       },
       {
-        "text": "Use a link labelled More without checking its destination.",
+        "text": "A website uses links instead of needing headings within pages",
         "is_correct": false
       },
       {
-        "text": "Choose the Visit menu, then the Opening hours link.",
+        "text": "Print subheadings help scan sections; a website may also link to separate detail pages",
         "is_correct": true
+      },
+      {
+        "text": "A print subheading gives the full answer without reading its section",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A clear menu path reduces searching because each label narrows the information.",
-      "hint": "Follow labels that describe the information you are looking for."
-    }
+      "summary": "Both forms can use headings, while digital links can add navigation to separate pages.",
+      "hint": "Think about both shared and different features."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA05-T-008",
@@ -1416,28 +2280,41 @@
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
     "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which final choice gives the clearest and most accurate result for finding opening hours on a zoo website?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for finding opening hours on a zoo website?",
+    "skill": "navigation_and_readability",
+    "question": "A page’s link is labelled “Download the bus map”, but the destination is a lunch order form. Which problem most needs correction?",
+    "audio_prompt": "A page’s link is labelled “Download the bus map”, but the destination is a lunch order form. Which problem most needs correction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the Visit menu, then the Opening hours link.",
+        "text": "The label contains the word map",
+        "is_correct": false
+      },
+      {
+        "text": "The page uses a complete phrase for a link",
+        "is_correct": false
+      },
+      {
+        "text": "The label tells readers that a download is involved",
+        "is_correct": false
+      },
+      {
+        "text": "The destination does not match what the label promises",
         "is_correct": true
-      },
-      {
-        "text": "Click every animal photo until a time appears.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a link labelled More without checking its destination.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A clear menu path reduces searching because each label narrows the information.",
-      "hint": "Follow labels that describe the information you are looking for."
-    }
+      "summary": "The wrong destination prevents the reader from finding the promised map. A descriptive phrase and format clue are useful.",
+      "hint": "Compare expected and actual destination."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA05-T-009",
@@ -1445,29 +2322,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "New context: improving an online bushfire safety page. Which option is correct?",
-    "audio_prompt": "New context: improving an online bushfire safety page. Which option is correct?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "Two online pages are about the same school choir. A has a labelled rehearsal calendar. B has a gallery of costume photographs. Which purpose is best served by B’s described feature?",
+    "audio_prompt": "Two online pages are about the same school choir. A has a labelled rehearsal calendar. B has a gallery of costume photographs. Which purpose is best served by B’s described feature?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use pale text on a busy photo background.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.",
+        "text": "Choosing a costume idea from the choir’s previous outfits",
         "is_correct": true
       },
       {
-        "text": "Hide current alerts behind an unlabeled icon.",
+        "text": "Finding the exact date of the next rehearsal",
+        "is_correct": false
+      },
+      {
+        "text": "Reading the lyrics of a song not shown",
+        "is_correct": false
+      },
+      {
+        "text": "Locating a meeting room not labelled",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
-      "hint": "Prioritise the information readers may need first."
-    }
+      "summary": "The gallery provides visual outfit examples. The other tasks require information not supplied by that feature.",
+      "hint": "Choose a purpose the photographs can answer."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA05-T-010",
@@ -1475,29 +2365,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "What is the best choice for improving an online bushfire safety page?",
-    "audio_prompt": "What is the best choice for improving an online bushfire safety page?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A science-club home page has links “Join”, “Experiments” and “News”. A Join subpage gives meeting details. Why might it include a link back to Home?",
+    "audio_prompt": "A science-club home page has links “Join”, “Experiments” and “News”. A Join subpage gives meeting details. Why might it include a link back to Home?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use pale text on a busy photo background.",
+        "text": "To go directly to whichever experiment the reader has in mind",
         "is_correct": false
       },
       {
-        "text": "Hide current alerts behind an unlabeled icon.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.",
+        "text": "To let readers return to the broad club choices",
         "is_correct": true
+      },
+      {
+        "text": "To return to the exact sentence previously read on Join",
+        "is_correct": false
+      },
+      {
+        "text": "To display all club news within the Join subpage",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
-      "hint": "Prioritise the information readers may need first."
-    }
+      "summary": "Home returns readers to the starting choices, helping them move to another part of the site.",
+      "hint": "Consider the route back to the starting page."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA05-T-011",
@@ -1505,29 +2408,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which explanation best supports “Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.” in improving an online bushfire safety page?",
-    "audio_prompt": "Which explanation best supports “Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.” in improving an online bushfire safety page?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "On a phone, an event page’s narrow columns make words tiny. Which revision keeps the information while directly addressing this problem?",
+    "audio_prompt": "On a phone, an event page’s narrow columns make words tiny. Which revision keeps the information while directly addressing this problem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
+        "text": "Replace every sentence with a tiny icon",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the tiny columns and add a large border",
+        "is_correct": false
+      },
+      {
+        "text": "Use a readable single-column layout with clear section headings",
         "is_correct": true
       },
       {
-        "text": "Because “Use pale text on a busy photo background.” is always a safe choice.",
-        "is_correct": false
-      },
-      {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "Remove the date because it takes space",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
-      "hint": "Prioritise the information readers may need first."
-    }
+      "summary": "Readable text and clear sections address the small-screen layout problem without discarding important information.",
+      "hint": "Keep the content and change its arrangement."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA05-T-012",
@@ -1535,29 +2451,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which clue should guide your decision in improving an online bushfire safety page?",
-    "audio_prompt": "Which clue should guide your decision in improving an online bushfire safety page?",
+    "stage": "apply",
+    "skill": "navigation_and_readability",
+    "question": "A chess-club page has a menu for “Times” and “Venue”, plus ordinary links with those same labels below. Why can the extra links be useful?",
+    "audio_prompt": "A chess-club page has a menu for “Times” and “Venue”, plus ordinary links with those same labels below. Why can the extra links be useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "They mean the menu labels can be left vague",
         "is_correct": false
       },
       {
-        "text": "Prioritise the information readers may need first.",
+        "text": "They lead to different content solely because they are outside the menu",
+        "is_correct": false
+      },
+      {
+        "text": "They guarantee the reader reaches either detail without reading its label",
+        "is_correct": false
+      },
+      {
+        "text": "They give another route for readers who cannot easily use the menu",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
-      "hint": "Prioritise the information readers may need first."
-    }
+      "summary": "An alternative route can help readers access the same destinations without relying on a drop-down.",
+      "hint": "Think about different ways readers reach information."
+    },
+    "curriculum_coverage": [
+      "D"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA05-T-013",
@@ -1565,29 +2494,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which option would you reject first in improving an online bushfire safety page?",
-    "audio_prompt": "Which option would you reject first in improving an online bushfire safety page?",
-    "answers": [
-      {
-        "text": "Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.",
-        "is_correct": false
-      },
-      {
-        "text": "Hide current alerts behind an unlabeled icon.",
-        "is_correct": false
-      },
-      {
-        "text": "Use pale text on a busy photo background.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "navigation_and_readability",
+    "question": "Read this page sketch: Home has links “Visit” and “Discover”. Visit offers “Entry prices” and “Access map”. Access map says “Use the River Road entrance.” Write a route from Home to the entrance information and report the entrance.",
+    "audio_prompt": "Read this page sketch: Home has links “Visit” and “Discover”. Visit offers “Entry prices” and “Access map”. Access map says “Use the River Road entrance.” Write a route from Home to the entrance information and report the entrance.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Home → Visit → Access map. Use the River Road entrance.",
+    "acceptance_note": "Require route in order and the precise entrance. Accept equivalent words or an annotated diagram. Do not require clicking an inert sketch.",
+    "response_instructions": "Read the supplied learning example. Write, draw on paper, or explain using your usual communication support. An adult checks the actual response against the guidance; no external website visit is needed.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
-      "hint": "Prioritise the information readers may need first."
-    }
+      "summary": "Home → Visit → Access map. Use the River Road entrance.",
+      "hint": "Use the labels and the destination text."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA05-T-014",
@@ -1595,29 +2525,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which correction should replace “Use pale text on a busy photo background.” in improving an online bushfire safety page?",
-    "audio_prompt": "Which correction should replace “Use pale text on a busy photo background.” in improving an online bushfire safety page?",
-    "answers": [
-      {
-        "text": "Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.",
-        "is_correct": true
-      },
-      {
-        "text": "Use pale text on a busy photo background.",
-        "is_correct": false
-      },
-      {
-        "text": "Hide current alerts behind an unlabeled icon.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "navigation_and_readability",
+    "question": "Compare two online pages about the same drama workshop. A separates “Bring: a notebook” and “Meeting place: Room 6”. B puts both details inside one long paragraph about the club. Explain which page helps you quickly find where to go, using evidence from both.",
+    "audio_prompt": "Compare two online pages about the same drama workshop. A separates “Bring: a notebook” and “Meeting place: Room 6”. B puts both details inside one long paragraph about the club. Explain which page helps you quickly find where to go, using evidence from both.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "A’s Meeting place label leads directly to Room 6. B contains Room 6 too, but I must locate it inside a mixed paragraph.",
+    "acceptance_note": "Require A’s named section and correct room, plus B’s actual organisation; reject claims that B omits the information.",
+    "response_instructions": "Read the supplied learning example. Write, draw on paper, or explain using your usual communication support. An adult checks the actual response against the guidance; no external website visit is needed.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
-      "hint": "Prioritise the information readers may need first."
-    }
+      "summary": "A’s Meeting place label leads directly to Room 6. B contains Room 6 too, but I must locate it inside a mixed paragraph.",
+      "hint": "Explain finding, using both examples."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA05-T-015",
@@ -1625,29 +2556,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Apply the skill to improving an online bushfire safety page: what should you choose?",
-    "audio_prompt": "Apply the skill to improving an online bushfire safety page: what should you choose?",
-    "answers": [
-      {
-        "text": "Use pale text on a busy photo background.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.",
-        "is_correct": true
-      },
-      {
-        "text": "Hide current alerts behind an unlabeled icon.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "navigation_and_readability",
+    "question": "Design a small static page sketch for a fictional book swap. Include a headline, a useful subheading with these details “Tuesday, 1 pm; library”, two named menu choices, and a direct link to one of those choices. Explain the route a reader could use.",
+    "audio_prompt": "Design a small static page sketch for a fictional book swap. Include a headline, a useful subheading with these details “Tuesday, 1 pm; library”, two named menu choices, and a direct link to one of those choices. Explain the route a reader could use.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Headline: Class book swap. When and where: Tuesday, 1 pm; library. Menu sketch: Swap information → What to bring, Swap rules. Direct link: Swap rules. A reader can choose the rules from the menu or direct link.",
+    "acceptance_note": "Require all supplied details, sensible hierarchy, two named menu destinations and a matching alternative link with an explanation. Accept varied original layouts and menu wording.",
+    "response_instructions": "Read the supplied learning example. Write, draw on paper, or explain using your usual communication support. An adult checks the actual response against the guidance; no external website visit is needed.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
-      "hint": "Prioritise the information readers may need first."
-    }
+      "summary": "Headline: Class book swap. When and where: Tuesday, 1 pm; library. Menu sketch: Swap information → What to bring, Swap rules. Direct link: Swap rules. A reader can choose the rules from the menu or direct link.",
+      "hint": "Show where the reader starts and what each label leads to."
+    },
+    "curriculum_coverage": [
+      "D",
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA05-T-016",
@@ -1655,28 +2588,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Navigation and Readability in Online Texts",
-    "question": "Which final choice gives the clearest and most accurate result for improving an online bushfire safety page?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for improving an online bushfire safety page?",
-    "answers": [
-      {
-        "text": "Use pale text on a busy photo background.",
-        "is_correct": false
-      },
-      {
-        "text": "Hide current alerts behind an unlabeled icon.",
-        "is_correct": false
-      },
-      {
-        "text": "Use a clear Emergency advice heading, short paragraphs and a labelled link to current alerts.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "navigation_and_readability",
+    "question": "A “Making a paper glider” page has a folding diagram captioned “Fold both corners to the centre line” beside the matching instruction. A second page on the same topic puts the same diagram far below a gallery of finished gliders. Explain which layout helps a beginner follow the fold, then suggest one improvement for the other page.",
+    "audio_prompt": "A “Making a paper glider” page has a folding diagram captioned “Fold both corners to the centre line” beside the matching instruction. A second page on the same topic puts the same diagram far below a gallery of finished gliders. Explain which layout helps a beginner follow the fold, then suggest one improvement for the other page.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The first keeps the instruction, diagram and caption together so the beginner can match words to the fold. Move the second page’s diagram beside the matching instruction while keeping the gallery in its own section.",
+    "acceptance_note": "Require a comparison tied to following the fold and a specific improvement preserving useful content. Do not demand that every reader prefer one overall design.",
+    "response_instructions": "Read the supplied learning example. Write, draw on paper, or explain using your usual communication support. An adult checks the actual response against the guidance; no external website visit is needed.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Strong visual hierarchy and descriptive links help readers find urgent information quickly.",
-      "hint": "Prioritise the information readers may need first."
-    }
+      "summary": "The first keeps the instruction, diagram and caption together so the beginner can match words to the fold. Move the second page’s diagram beside the matching instruction while keeping the gallery in its own section.",
+      "hint": "Connect the graphic with the words needed at that moment."
+    },
+    "curriculum_coverage": [
+      "D",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]
