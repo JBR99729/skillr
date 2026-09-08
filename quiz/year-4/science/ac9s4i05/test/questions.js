@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9s4i05-t-001",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E1 fairness",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion best uses evidence?",
-    "audioPrompt": "Which conclusion best uses evidence?",
+    "question": "A test compares paper materials. One strip is twice as wide by mistake. What should the evaluation identify?",
+    "audioPrompt": "A test compares paper materials. One strip is twice as wide by mistake. What should the evaluation identify?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,31 +16,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The uncovered cup lost",
-      "The lid looked scientific",
-      "The covered cup cooled less, dropping 9°C compared with 18°C for the uncovered cup",
-      "The covered cup was nice"
+      "Matching predictions makes the test fair.",
+      "Width also changed, so the result does not isolate material.",
+      "The wider strip proves its material alone is stronger.",
+      "The same weight unit makes width irrelevant."
     ],
-    "correct": 2,
-    "explanation": "The conclusion cites relevant values.\nHint: Use data.",
-    "structuredExplanation": {
-      "summary": "The conclusion cites relevant values.",
-      "hint": "Use data."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Width can affect strength. Record the changed width and repeat with equal-width strips.\nHint: Look for the extra changed condition.",
+    "structuredExplanation": {
+      "summary": "Width can affect strength. Record the changed width and repeat with equal-width strips.",
+      "hint": "Look for the extra changed condition."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-002",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E1 fairness",
     "printable": true,
     "type": "single",
-    "question": "A group used a different starting temperature from everyone else. What should happen before comparing findings?",
-    "audioPrompt": "A group used a different starting temperature from everyone else. What should happen before comparing findings?",
+    "question": "Three matched trials give 24, 25 and 23 mL absorbed. Which evaluation is reasonable?",
+    "audioPrompt": "Three matched trials give 24, 25 and 23 mL absorbed. Which evaluation is reasonable?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -48,31 +48,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ignore starting temperature",
-      "Check whether the method difference affected the results",
-      "Combine results immediately",
-      "Delete other groups’ results"
+      "A fair test must give identical readings.",
+      "The largest result is the only valid evidence.",
+      "The small spread alone does not establish an unfair method.",
+      "The trial with 23 mL must be removed."
     ],
-    "correct": 1,
-    "explanation": "Different starting conditions can affect comparability.\nHint: Method check.",
-    "structuredExplanation": {
-      "summary": "Different starting conditions can affect comparability.",
-      "hint": "Method check."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Inspect method records before deciding why readings differ. Variation is possible with a consistent procedure.\nHint: Method fairness is not identical outcomes.",
+    "structuredExplanation": {
+      "summary": "Inspect method records before deciding why readings differ. Variation is possible with a consistent procedure.",
+      "hint": "Method fairness is not identical outcomes."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-003",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E1 fairness",
     "printable": true,
     "type": "single",
-    "question": "Which further question is focused?",
-    "audioPrompt": "Which further question is focused?",
+    "question": "Two cups finish at 20°C and 24°C, but their starting temperatures are missing. Which conclusion is too strong?",
+    "audioPrompt": "Two cups finish at 20°C and 24°C, but their starting temperatures are missing. Which conclusion is too strong?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -80,31 +80,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "How does surface type affect sliding distance when car and ramp height stay the same?",
-      "What is the best toy?",
-      "Can cars do everything?",
-      "Why is motion interesting?"
+      "One final reading is 4°C higher.",
+      "Starting conditions need checking.",
+      "The final temperatures differed.",
+      "The warmer finish proves that cup’s covering slowed cooling more."
     ],
-    "correct": 0,
-    "explanation": "The question names one relationship and controls.\nHint: Testable next step.",
-    "structuredExplanation": {
-      "summary": "The question names one relationship and controls.",
-      "hint": "Testable next step."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The warmer cup may have started warmer. The final readings alone cannot identify which covering slowed cooling more.\nHint: What comparison needs the missing starts?",
+    "structuredExplanation": {
+      "summary": "The warmer cup may have started warmer. The final readings alone cannot identify which covering slowed cooling more.",
+      "hint": "What comparison needs the missing starts?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-004",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E2 water surveys",
     "printable": true,
     "type": "single",
-    "question": "Which statement about variation is accurate?",
-    "audioPrompt": "Which statement about variation is accurate?",
+    "question": "One household logs six washing events in a day; another logs eight in a week. What is the main problem with directly comparing their daily totals?",
+    "audioPrompt": "One household logs six washing events in a day; another logs eight in a week. What is the main problem with directly comparing their daily totals?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -112,31 +112,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "All variation means cheating",
-      "Variation should never be recorded",
-      "Variation proves there was no pattern",
-      "Small differences can occur even when the method is the same"
+      "The observation periods are different.",
+      "Eight events must use more water than six in every case.",
+      "Only household size can affect the counts.",
+      "A week and a day are equivalent survey periods."
     ],
-    "correct": 3,
-    "explanation": "Repeated measurements often vary slightly.\nHint: Normal differences.",
-    "structuredExplanation": {
-      "summary": "Repeated measurements often vary slightly.",
-      "hint": "Normal differences."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Matching periods is needed for a direct daily-total comparison; event counts still do not specify litres.\nHint: Check the time covered.",
+    "structuredExplanation": {
+      "summary": "Matching periods is needed for a direct daily-total comparison; event counts still do not specify litres.",
+      "hint": "Check the time covered."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-005",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E2 water surveys",
     "printable": true,
     "type": "single",
-    "question": "Which finding should be checked for method error?",
-    "audioPrompt": "Which finding should be checked for method error?",
+    "question": "Two homes report different water-use counts on the same day. Which question helps explain the difference without blaming people?",
+    "audioPrompt": "Two homes report different water-use counts on the same day. Which question helps explain the difference without blaming people?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -144,31 +144,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Three matching starting points",
-      "All trials using the same car",
-      "A 150 cm result when other same-condition trials were near 60 cm and notes say it was pushed",
-      "Values of 61 cm, 59 cm and 62 cm"
+      "Should the smaller count be ignored?",
+      "Were the numbers of people and activities different?",
+      "Which family should change its record?",
+      "Does the larger count prove wastefulness?"
     ],
-    "correct": 2,
-    "explanation": "The much larger pushed trial has a method difference.\nHint: Outlier plus method note.",
-    "structuredExplanation": {
-      "summary": "The much larger pushed trial has a method difference.",
-      "hint": "Outlier plus method note."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Context such as people and activities can explain differences. Counts alone do not establish waste.\nHint: Ask about the survey context.",
+    "structuredExplanation": {
+      "summary": "Context such as people and activities can explain differences. Counts alone do not establish waste.",
+      "hint": "Ask about the survey context."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-006",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E2 water surveys",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion overclaims?",
-    "audioPrompt": "Which conclusion overclaims?",
+    "question": "A tap was turned on ten times at school and five times at home. What can these records establish?",
+    "audioPrompt": "A tap was turned on ten times at school and five times at home. What can these records establish?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -176,31 +176,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "More distances should be tested",
-      "This magnet is strongest in every classroom and every test",
-      "This magnet lifted the most clips in our trials",
-      "The evidence suggests this magnet was stronger here"
+      "Every school event lasted longer.",
+      "The home had no leaks.",
+      "School recorded more tap-on events in the surveyed periods.",
+      "School used exactly twice the volume of water."
     ],
-    "correct": 1,
-    "explanation": "The first claim goes beyond the evidence.\nHint: Too broad.",
-    "structuredExplanation": {
-      "summary": "The first claim goes beyond the evidence.",
-      "hint": "Too broad."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The recorded quantity is event count; duration, flow and leaks are not established by it.\nHint: Use the measured quantity only.",
+    "structuredExplanation": {
+      "summary": "The recorded quantity is event count; duration, flow and leaks are not established by it.",
+      "hint": "Use the measured quantity only."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-007",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E3 design fitness",
     "printable": true,
     "type": "single",
-    "question": "Why compare findings with other groups?",
-    "audioPrompt": "Why compare findings with other groups?",
+    "question": "A container must stay dry inside and hold five counters. Design A leaks but holds eight; B stays dry and holds six. Which fits both needs?",
+    "audioPrompt": "A container must stay dry inside and hold five counters. Design A leaks but holds eight; B stays dry and holds six. Which fits both needs?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -208,31 +208,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "To see whether patterns are consistent and whether methods differed",
-      "To copy the biggest number",
-      "To avoid writing a conclusion",
-      "To choose the prettiest table"
+      "Design A because eight is the largest number.",
+      "Both because both held some counters.",
+      "Neither because all containers must hold eight.",
+      "Design B."
     ],
-    "correct": 0,
-    "explanation": "Group comparisons can reveal consistency and method issues.\nHint: Check pattern and method.",
-    "structuredExplanation": {
-      "summary": "Group comparisons can reveal consistency and method issues.",
-      "hint": "Check pattern and method."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "B meets the dry-inside and five-counter requirements together.\nHint: Check both criteria.",
+    "structuredExplanation": {
+      "summary": "B meets the dry-inside and five-counter requirements together.",
+      "hint": "Check both criteria."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-008",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E3 design fitness",
     "printable": true,
     "type": "single",
-    "question": "Which sentence is only a procedure, not a conclusion?",
-    "audioPrompt": "Which sentence is only a procedure, not a conclusion?",
+    "question": "Two complete lunchbox designs differ in lining and lid. Their cooling results differ. What can the comparison show?",
+    "audioPrompt": "Two complete lunchbox designs differ in lining and lid. Their cooling results differ. What can the comparison show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -240,31 +240,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The car travelled farther on tile than carpet",
-      "Tile had a mean of 120 cm and carpet 45 cm",
-      "The evidence suggests tile had less friction",
-      "We placed the cars at the top of the ramp"
+      "How the whole designs performed, without isolating lining alone.",
+      "The exact effect of lining alone.",
+      "The exact effect of lid alone.",
+      "That intentional design comparisons can never be useful."
     ],
-    "correct": 3,
-    "explanation": "The procedure says what was done, not what the evidence means.\nHint: Method step.",
-    "structuredExplanation": {
-      "summary": "The procedure says what was done, not what the evidence means.",
-      "hint": "Method step."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Whole designs can be evaluated for purpose. Multiple differences prevent attributing the result to just one feature.\nHint: Separate overall performance from a single cause.",
+    "structuredExplanation": {
+      "summary": "Whole designs can be evaluated for purpose. Multiple differences prevent attributing the result to just one feature.",
+      "hint": "Separate overall performance from a single cause."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-009",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E3 design fitness",
     "printable": true,
     "type": "single",
-    "question": "Which evaluation question checks fairness?",
-    "audioPrompt": "Which evaluation question checks fairness?",
+    "question": "A material bends easily but tears when the required load is added. What should a product report conclude?",
+    "audioPrompt": "A material bends easily but tears when the required load is added. What should a product report conclude?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -272,31 +272,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Did everyone like the result?",
-      "Was the biggest value chosen?",
-      "Were the controlled variables kept the same?",
-      "Was the title colourful?"
+      "Meeting one requirement means all are met.",
+      "Flexibility is useful, but the tested material does not meet the strength need.",
+      "Flexibility proves sufficient strength.",
+      "Tearing makes flexibility irrelevant for every other product."
     ],
-    "correct": 2,
-    "explanation": "Fairness depends on controlling relevant variables.\nHint: Control check.",
-    "structuredExplanation": {
-      "summary": "Fairness depends on controlling relevant variables.",
-      "hint": "Control check."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The evaluation must address both relevant properties for this product.\nHint: Evaluate each requirement.",
+    "structuredExplanation": {
+      "summary": "The evaluation must address both relevant properties for this product.",
+      "hint": "Evaluate each requirement."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-010",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E4 peer comparison",
     "printable": true,
     "type": "single",
-    "question": "A test has one trial only. Which improvement is most useful?",
-    "audioPrompt": "A test has one trial only. Which improvement is most useful?",
+    "question": "Groups test the same surfaces. A reports 50, 52 cm; B reports 49, 51 cm with the same method. Which comparison is best?",
+    "audioPrompt": "Groups test the same surfaces. A reports 50, 52 cm; B reports 49, 51 cm with the same method. Which comparison is best?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -304,31 +304,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use only opinions",
-      "Repeat the trial several times under the same conditions",
-      "Make the graph bigger only",
-      "Change the question after results"
+      "Group B must have used a different unit.",
+      "Only 52 cm should enter the conclusion.",
+      "The groups found similar distances with small differences.",
+      "The groups found opposite patterns."
     ],
-    "correct": 1,
-    "explanation": "Repeats strengthen reliability.\nHint: More evidence.",
-    "structuredExplanation": {
-      "summary": "Repeats strengthen reliability.",
-      "hint": "More evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "All four distances are close. Exact matches are not necessary for similar findings.\nHint: Compare both sets rather than one extreme.",
+    "structuredExplanation": {
+      "summary": "All four distances are close. Exact matches are not necessary for similar findings.",
+      "hint": "Compare both sets rather than one extreme."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-011",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E4 peer comparison",
     "printable": true,
     "type": "single",
-    "question": "Which further question follows from “rougher surfaces slowed the car”?",
-    "audioPrompt": "Which further question follows from “rougher surfaces slowed the car”?",
+    "question": "One group released a ball; another pushed it. What is a useful question before combining their distances?",
+    "audioPrompt": "One group released a ball; another pushed it. What is a useful question before combining their distances?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -336,31 +336,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "How does adding sandpaper to the ramp affect distance travelled?",
-      "Which student likes ramps most?",
-      "Can a car become a magnet?",
-      "Why are all results identical?"
+      "Can the longer distances replace the release records?",
+      "Why must the shorter readings be mistakes?",
+      "Does using the same ball make every start equivalent?",
+      "How might pushing have changed the starting motion?"
     ],
-    "correct": 0,
-    "explanation": "The follow-up investigates a related surface factor.\nHint: Next surface test.",
-    "structuredExplanation": {
-      "summary": "The follow-up investigates a related surface factor.",
-      "hint": "Next surface test."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The extra push changes the starting conditions and could explain distance differences.\nHint: Ask about the method difference.",
+    "structuredExplanation": {
+      "summary": "The extra push changes the starting conditions and could explain distance differences.",
+      "hint": "Ask about the method difference."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-012",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E4 peer comparison",
     "printable": true,
     "type": "single",
-    "question": "A class gets different results from two groups. Which first response is best?",
-    "audioPrompt": "A class gets different results from two groups. Which first response is best?",
+    "question": "Two groups disagree about which cloth dried first. What should they compare first?",
+    "audioPrompt": "Two groups disagree about which cloth dried first. What should they compare first?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -368,31 +368,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Say one group cheated",
-      "Use the result that matches the prediction",
-      "Throw away all data",
-      "Compare methods and measurements before deciding why"
+      "Their times, starting water amounts and drying conditions.",
+      "Whose prediction sounded more confident.",
+      "Which conclusion is shortest.",
+      "Which group should erase its notes."
     ],
-    "correct": 3,
-    "explanation": "Differences should be evaluated before making judgments.\nHint: Check first.",
-    "structuredExplanation": {
-      "summary": "Differences should be evaluated before making judgments.",
-      "hint": "Check first."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Relevant records can reveal differences in method or observations without assuming wrongdoing.\nHint: Use evidence and conditions.",
+    "structuredExplanation": {
+      "summary": "Relevant records can reveal differences in method or observations without assuming wrongdoing.",
+      "hint": "Use evidence and conditions."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-013",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E5 next questions",
     "printable": true,
     "type": "single",
-    "question": "Which conclusion is too vague?",
-    "audioPrompt": "Which conclusion is too vague?",
+    "question": "A paper boat floats briefly but sinks after several minutes. Which further question follows?",
+    "audioPrompt": "A paper boat floats briefly but sinks after several minutes. Which further question follows?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -400,31 +400,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "In these trials, shade reduced soil temperature",
-      "The data supports the shade prediction",
-      "It changed",
-      "The shaded soil stayed 5°C cooler than unshaded soil"
+      "Does the brief floating period prove long-term suitability?",
+      "How does time in water affect this boat material’s performance?",
+      "Why can no paper boat ever float?",
+      "Can the sinking record be left out?"
     ],
-    "correct": 2,
-    "explanation": "“It changed” does not answer the question with evidence.\nHint: No detail.",
-    "structuredExplanation": {
-      "summary": "“It changed” does not answer the question with evidence.",
-      "hint": "No detail."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The change over time gives a focused relationship to investigate.\nHint: Use the unexpected change to form a question.",
+    "structuredExplanation": {
+      "summary": "The change over time gives a focused relationship to investigate.",
+      "hint": "Use the unexpected change to form a question."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-014",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E5 next questions",
     "printable": true,
     "type": "single",
-    "question": "Why should a conclusion mention limitations?",
-    "audioPrompt": "Why should a conclusion mention limitations?",
+    "question": "A single shadow measurement is very different from repeated ones. Which response is strongest?",
+    "audioPrompt": "A single shadow measurement is very different from repeated ones. Which response is strongest?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -432,31 +432,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It proves the result is false",
-      "It shows how far the evidence can reasonably apply",
-      "It makes all data wrong",
-      "It removes the need for evidence"
+      "Use only the surprising reading.",
+      "Alter the repeats to make every reading match.",
+      "Retain it, inspect the time and measuring method, and gather another reading.",
+      "Remove it solely because it is surprising."
     ],
-    "correct": 1,
-    "explanation": "Limitations help readers judge confidence and scope.\nHint: Boundary.",
-    "structuredExplanation": {
-      "summary": "Limitations help readers judge confidence and scope.",
-      "hint": "Boundary."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "An unexpected reading needs honest checking. Its cause is not established just by being different.\nHint: Record and investigate.",
+    "structuredExplanation": {
+      "summary": "An unexpected reading needs honest checking. Its cause is not established just by being different.",
+      "hint": "Record and investigate."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-015",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E6 conclusions",
     "printable": true,
     "type": "single",
-    "question": "Which result comparison is most useful?",
-    "audioPrompt": "Which result comparison is most useful?",
+    "question": "Equal-sized cloth samples receive the same water supply. A absorbs 19 mL; B absorbs 11 mL. Which conclusion fits?",
+    "audioPrompt": "Equal-sized cloth samples receive the same water supply. A absorbs 19 mL; B absorbs 11 mL. Which conclusion fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -464,31 +464,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Mean distance was 95 cm on smooth card and 41 cm on fabric",
-      "Smooth card was fun",
-      "Fabric was the last surface tested",
-      "The graph had green bars"
+      "B cannot absorb any water.",
+      "A is better for every possible purpose.",
+      "All samples of A must absorb exactly 19 mL.",
+      "Sample A absorbed more in this matched test."
     ],
-    "correct": 0,
-    "explanation": "The useful comparison cites relevant measurements.\nHint: Compare values.",
-    "structuredExplanation": {
-      "summary": "The useful comparison cites relevant measurements.",
-      "hint": "Compare values."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The values support a limited comparison of these tested samples.\nHint: Keep the conclusion inside the evidence.",
+    "structuredExplanation": {
+      "summary": "The values support a limited comparison of these tested samples.",
+      "hint": "Keep the conclusion inside the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i05-t-016",
     "curriculumCode": "AC9S4I05",
     "bank": "test",
-    "skill": "evaluating investigations and drawing conclusions",
+    "skill": "E6 conclusions",
     "printable": true,
     "type": "single",
-    "question": "An unexpected result appears in one trial but repeats do not show it. What is best?",
-    "audioPrompt": "An unexpected result appears in one trial but repeats do not show it. What is best?",
+    "question": "A student predicts that foil will keep a model dry. It leaks in every matched trial, while coated card stays dry. What should the conclusion report?",
+    "audioPrompt": "A student predicts that foil will keep a model dry. It leaks in every matched trial, while coated card stays dry. What should the conclusion report?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -496,20 +496,22 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Hide it completely",
-      "Use it as the only evidence",
-      "Change all repeats to match",
-      "Report it and explain it may be an outlier or needs further checking"
+      "Coated card met the dry-inside need in these trials; foil did not.",
+      "Foil met the need because it was predicted to.",
+      "Both must have stayed dry because the procedure was fair.",
+      "The recorded leaks should be changed."
     ],
-    "correct": 3,
-    "explanation": "Unexpected results should be reported and evaluated honestly.\nHint: Do not hide data.",
-    "structuredExplanation": {
-      "summary": "Unexpected results should be reported and evaluated honestly.",
-      "hint": "Do not hide data."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A conclusion follows recorded outcomes even when they challenge a prediction.\nHint: Use the actual findings.",
+    "structuredExplanation": {
+      "summary": "A conclusion follows recorded outcomes even when they challenge a prediction.",
+      "hint": "Use the actual findings."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

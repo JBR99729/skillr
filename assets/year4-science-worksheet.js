@@ -2,7 +2,7 @@
   "use strict";
   const match = location.pathname.match(/^\/quiz\/year-4\/science\/(ac9s4[a-z0-9]+)\/worksheet\/?$/i);
   if (!match) return;
-  if (/^ac9s4(?:u0[1-4]|h0[12])$/i.test(match[1]) && document.body?.getAttribute("data-skillr-authored-worksheet") === "true") return;
+  if (/^ac9s4(?:u0[1-4]|h0[12]|i0[1-6])$/i.test(match[1]) && document.body?.getAttribute("data-skillr-authored-worksheet") === "true") return;
   const code = match[1].toUpperCase();
   const unit = window.SkillrYear4ScienceData?.[code];
   const worksheet = window.SkillrYear4ScienceWorksheetData?.[code];

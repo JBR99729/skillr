@@ -1,0 +1,1540 @@
+{
+  "date": "2026-09-08",
+  "scope": "I01\u2013I06 actual production scripts in linkedom VM; all 384 canonical/published items; all 24 adult Practice prompts; no browser or PDF rendering claims.",
+  "cases": 199,
+  "pass": 199,
+  "fail": 0,
+  "rows": [
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "canonical-published-inventory",
+      "status": "PASS",
+      "questions": 48,
+      "adultReview": 4,
+      "visuals": 10
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "correct",
+      "status": "PASS",
+      "item": "ac9s4i01-p-018",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "incorrect",
+      "status": "PASS",
+      "item": "ac9s4i01-p-018",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "adult-written",
+      "status": "PASS",
+      "item": "ac9s4i01-p-045",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "status": "PASS",
+      "item": "ac9s4i01-p-045",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "status": "PASS",
+      "item": "ac9s4i01-p-045"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i01-p-046",
+      "status": "PASS",
+      "item": "ac9s4i01-p-046"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i01-p-046",
+      "status": "PASS",
+      "item": "ac9s4i01-p-046"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i01-p-047",
+      "status": "PASS",
+      "item": "ac9s4i01-p-047"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i01-p-047",
+      "status": "PASS",
+      "item": "ac9s4i01-p-047"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i01-p-048",
+      "status": "PASS",
+      "item": "ac9s4i01-p-048"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i01-p-048",
+      "status": "PASS",
+      "item": "ac9s4i01-p-048"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i01-p-021",
+      "status": "PASS",
+      "item": "ac9s4i01-p-021"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i01-p-022",
+      "status": "PASS",
+      "item": "ac9s4i01-p-022"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i01-p-023",
+      "status": "PASS",
+      "item": "ac9s4i01-p-023"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i01-p-024",
+      "status": "PASS",
+      "item": "ac9s4i01-p-024"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i01-p-033",
+      "status": "PASS",
+      "item": "ac9s4i01-p-033"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i01-p-034",
+      "status": "PASS",
+      "item": "ac9s4i01-p-034"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i01-p-035",
+      "status": "PASS",
+      "item": "ac9s4i01-p-035"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i01-p-040",
+      "status": "PASS",
+      "item": "ac9s4i01-p-040"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "authored-preparation-retained",
+      "status": "PASS",
+      "sameNode": true,
+      "unchangedContent": true
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "saved-model-rejects-bank-version",
+      "status": "PASS",
+      "item": "ac9s4i01-p-018"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "saved-model-rejects-question",
+      "status": "PASS",
+      "item": "ac9s4i01-p-018"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "saved-model-rejects-explanation",
+      "status": "PASS",
+      "item": "ac9s4i01-p-018"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "saved-model-rejects-correct-answer",
+      "status": "PASS",
+      "item": "ac9s4i01-p-018"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "saved-model-rejects-cross-code-source",
+      "status": "PASS",
+      "item": "ac9s4i01-p-018"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "practice",
+      "kind": "saved-model-rejects-external-source",
+      "status": "PASS",
+      "item": "ac9s4i01-p-018"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "test",
+      "kind": "canonical-published-inventory",
+      "status": "PASS",
+      "questions": 16,
+      "adultReview": 0,
+      "visuals": 0
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "test",
+      "kind": "correct",
+      "status": "PASS",
+      "item": "ac9s4i01-t-001",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "test",
+      "kind": "incorrect",
+      "status": "PASS",
+      "item": "ac9s4i01-t-001",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "test",
+      "kind": "authored-preparation-retained",
+      "status": "PASS",
+      "sameNode": true,
+      "unchangedContent": true
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "canonical-published-inventory",
+      "status": "PASS",
+      "questions": 48,
+      "adultReview": 4,
+      "visuals": 11
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "correct",
+      "status": "PASS",
+      "item": "ac9s4i02-p-021",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "incorrect",
+      "status": "PASS",
+      "item": "ac9s4i02-p-021",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "adult-written",
+      "status": "PASS",
+      "item": "ac9s4i02-p-045",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "status": "PASS",
+      "item": "ac9s4i02-p-045",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "status": "PASS",
+      "item": "ac9s4i02-p-045"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i02-p-046",
+      "status": "PASS",
+      "item": "ac9s4i02-p-046"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i02-p-046",
+      "status": "PASS",
+      "item": "ac9s4i02-p-046"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i02-p-047",
+      "status": "PASS",
+      "item": "ac9s4i02-p-047"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i02-p-047",
+      "status": "PASS",
+      "item": "ac9s4i02-p-047"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i02-p-048",
+      "status": "PASS",
+      "item": "ac9s4i02-p-048"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i02-p-048",
+      "status": "PASS",
+      "item": "ac9s4i02-p-048"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i02-p-022",
+      "status": "PASS",
+      "item": "ac9s4i02-p-022"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i02-p-023",
+      "status": "PASS",
+      "item": "ac9s4i02-p-023"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i02-p-029",
+      "status": "PASS",
+      "item": "ac9s4i02-p-029"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i02-p-030",
+      "status": "PASS",
+      "item": "ac9s4i02-p-030"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i02-p-031",
+      "status": "PASS",
+      "item": "ac9s4i02-p-031"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i02-p-032",
+      "status": "PASS",
+      "item": "ac9s4i02-p-032"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i02-p-035",
+      "status": "PASS",
+      "item": "ac9s4i02-p-035"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i02-p-036",
+      "status": "PASS",
+      "item": "ac9s4i02-p-036"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i02-p-037",
+      "status": "PASS",
+      "item": "ac9s4i02-p-037"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "authored-preparation-retained",
+      "status": "PASS",
+      "sameNode": true,
+      "unchangedContent": true
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "saved-model-rejects-bank-version",
+      "status": "PASS",
+      "item": "ac9s4i02-p-021"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "saved-model-rejects-question",
+      "status": "PASS",
+      "item": "ac9s4i02-p-021"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "saved-model-rejects-explanation",
+      "status": "PASS",
+      "item": "ac9s4i02-p-021"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "saved-model-rejects-correct-answer",
+      "status": "PASS",
+      "item": "ac9s4i02-p-021"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "saved-model-rejects-cross-code-source",
+      "status": "PASS",
+      "item": "ac9s4i02-p-021"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "practice",
+      "kind": "saved-model-rejects-external-source",
+      "status": "PASS",
+      "item": "ac9s4i02-p-021"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "test",
+      "kind": "canonical-published-inventory",
+      "status": "PASS",
+      "questions": 16,
+      "adultReview": 0,
+      "visuals": 0
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "test",
+      "kind": "correct",
+      "status": "PASS",
+      "item": "ac9s4i02-t-001",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "test",
+      "kind": "incorrect",
+      "status": "PASS",
+      "item": "ac9s4i02-t-001",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "test",
+      "kind": "authored-preparation-retained",
+      "status": "PASS",
+      "sameNode": true,
+      "unchangedContent": true
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "canonical-published-inventory",
+      "status": "PASS",
+      "questions": 48,
+      "adultReview": 4,
+      "visuals": 4
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "correct",
+      "status": "PASS",
+      "item": "ac9s4i03-p-008",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "incorrect",
+      "status": "PASS",
+      "item": "ac9s4i03-p-008",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "adult-written",
+      "status": "PASS",
+      "item": "ac9s4i03-p-045",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "status": "PASS",
+      "item": "ac9s4i03-p-045",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "status": "PASS",
+      "item": "ac9s4i03-p-045"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i03-p-046",
+      "status": "PASS",
+      "item": "ac9s4i03-p-046"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i03-p-046",
+      "status": "PASS",
+      "item": "ac9s4i03-p-046"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i03-p-047",
+      "status": "PASS",
+      "item": "ac9s4i03-p-047"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i03-p-047",
+      "status": "PASS",
+      "item": "ac9s4i03-p-047"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i03-p-048",
+      "status": "PASS",
+      "item": "ac9s4i03-p-048"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i03-p-048",
+      "status": "PASS",
+      "item": "ac9s4i03-p-048"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i03-p-020",
+      "status": "PASS",
+      "item": "ac9s4i03-p-020"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i03-p-025",
+      "status": "PASS",
+      "item": "ac9s4i03-p-025"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i03-p-036",
+      "status": "PASS",
+      "item": "ac9s4i03-p-036"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "authored-preparation-retained",
+      "status": "PASS",
+      "sameNode": true,
+      "unchangedContent": true
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "saved-model-rejects-bank-version",
+      "status": "PASS",
+      "item": "ac9s4i03-p-008"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "saved-model-rejects-question",
+      "status": "PASS",
+      "item": "ac9s4i03-p-008"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "saved-model-rejects-explanation",
+      "status": "PASS",
+      "item": "ac9s4i03-p-008"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "saved-model-rejects-correct-answer",
+      "status": "PASS",
+      "item": "ac9s4i03-p-008"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "saved-model-rejects-cross-code-source",
+      "status": "PASS",
+      "item": "ac9s4i03-p-008"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "practice",
+      "kind": "saved-model-rejects-external-source",
+      "status": "PASS",
+      "item": "ac9s4i03-p-008"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "test",
+      "kind": "canonical-published-inventory",
+      "status": "PASS",
+      "questions": 16,
+      "adultReview": 0,
+      "visuals": 1
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "test",
+      "kind": "correct",
+      "status": "PASS",
+      "item": "ac9s4i03-t-003",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "test",
+      "kind": "incorrect",
+      "status": "PASS",
+      "item": "ac9s4i03-t-003",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "test",
+      "kind": "authored-preparation-retained",
+      "status": "PASS",
+      "sameNode": true,
+      "unchangedContent": true
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "test",
+      "kind": "saved-model-rejects-bank-version",
+      "status": "PASS",
+      "item": "ac9s4i03-t-003"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "test",
+      "kind": "saved-model-rejects-question",
+      "status": "PASS",
+      "item": "ac9s4i03-t-003"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "test",
+      "kind": "saved-model-rejects-explanation",
+      "status": "PASS",
+      "item": "ac9s4i03-t-003"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "test",
+      "kind": "saved-model-rejects-correct-answer",
+      "status": "PASS",
+      "item": "ac9s4i03-t-003"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "test",
+      "kind": "saved-model-rejects-cross-code-source",
+      "status": "PASS",
+      "item": "ac9s4i03-t-003"
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "test",
+      "kind": "saved-model-rejects-external-source",
+      "status": "PASS",
+      "item": "ac9s4i03-t-003"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "canonical-published-inventory",
+      "status": "PASS",
+      "questions": 48,
+      "adultReview": 4,
+      "visuals": 14
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "correct",
+      "status": "PASS",
+      "item": "ac9s4i04-p-003",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "incorrect",
+      "status": "PASS",
+      "item": "ac9s4i04-p-003",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "adult-written",
+      "status": "PASS",
+      "item": "ac9s4i04-p-045",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "status": "PASS",
+      "item": "ac9s4i04-p-045",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "status": "PASS",
+      "item": "ac9s4i04-p-045"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i04-p-046",
+      "status": "PASS",
+      "item": "ac9s4i04-p-046"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i04-p-046",
+      "status": "PASS",
+      "item": "ac9s4i04-p-046"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i04-p-047",
+      "status": "PASS",
+      "item": "ac9s4i04-p-047"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i04-p-047",
+      "status": "PASS",
+      "item": "ac9s4i04-p-047"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i04-p-048",
+      "status": "PASS",
+      "item": "ac9s4i04-p-048"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i04-p-048",
+      "status": "PASS",
+      "item": "ac9s4i04-p-048"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-004",
+      "status": "PASS",
+      "item": "ac9s4i04-p-004"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-007",
+      "status": "PASS",
+      "item": "ac9s4i04-p-007"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-012",
+      "status": "PASS",
+      "item": "ac9s4i04-p-012"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-015",
+      "status": "PASS",
+      "item": "ac9s4i04-p-015"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-019",
+      "status": "PASS",
+      "item": "ac9s4i04-p-019"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-020",
+      "status": "PASS",
+      "item": "ac9s4i04-p-020"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-024",
+      "status": "PASS",
+      "item": "ac9s4i04-p-024"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-026",
+      "status": "PASS",
+      "item": "ac9s4i04-p-026"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-027",
+      "status": "PASS",
+      "item": "ac9s4i04-p-027"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-028",
+      "status": "PASS",
+      "item": "ac9s4i04-p-028"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-036",
+      "status": "PASS",
+      "item": "ac9s4i04-p-036"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-039",
+      "status": "PASS",
+      "item": "ac9s4i04-p-039"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i04-p-040",
+      "status": "PASS",
+      "item": "ac9s4i04-p-040"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "authored-preparation-retained",
+      "status": "PASS",
+      "sameNode": true,
+      "unchangedContent": true
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "saved-model-rejects-bank-version",
+      "status": "PASS",
+      "item": "ac9s4i04-p-003"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "saved-model-rejects-question",
+      "status": "PASS",
+      "item": "ac9s4i04-p-003"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "saved-model-rejects-explanation",
+      "status": "PASS",
+      "item": "ac9s4i04-p-003"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "saved-model-rejects-correct-answer",
+      "status": "PASS",
+      "item": "ac9s4i04-p-003"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "saved-model-rejects-cross-code-source",
+      "status": "PASS",
+      "item": "ac9s4i04-p-003"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "practice",
+      "kind": "saved-model-rejects-external-source",
+      "status": "PASS",
+      "item": "ac9s4i04-p-003"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "test",
+      "kind": "canonical-published-inventory",
+      "status": "PASS",
+      "questions": 16,
+      "adultReview": 0,
+      "visuals": 1
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "test",
+      "kind": "correct",
+      "status": "PASS",
+      "item": "ac9s4i04-t-004",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "test",
+      "kind": "incorrect",
+      "status": "PASS",
+      "item": "ac9s4i04-t-004",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "test",
+      "kind": "authored-preparation-retained",
+      "status": "PASS",
+      "sameNode": true,
+      "unchangedContent": true
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "test",
+      "kind": "saved-model-rejects-bank-version",
+      "status": "PASS",
+      "item": "ac9s4i04-t-004"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "test",
+      "kind": "saved-model-rejects-question",
+      "status": "PASS",
+      "item": "ac9s4i04-t-004"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "test",
+      "kind": "saved-model-rejects-explanation",
+      "status": "PASS",
+      "item": "ac9s4i04-t-004"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "test",
+      "kind": "saved-model-rejects-correct-answer",
+      "status": "PASS",
+      "item": "ac9s4i04-t-004"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "test",
+      "kind": "saved-model-rejects-cross-code-source",
+      "status": "PASS",
+      "item": "ac9s4i04-t-004"
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "test",
+      "kind": "saved-model-rejects-external-source",
+      "status": "PASS",
+      "item": "ac9s4i04-t-004"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "canonical-published-inventory",
+      "status": "PASS",
+      "questions": 48,
+      "adultReview": 4,
+      "visuals": 3
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "correct",
+      "status": "PASS",
+      "item": "ac9s4i05-p-010",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "incorrect",
+      "status": "PASS",
+      "item": "ac9s4i05-p-010",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "adult-written",
+      "status": "PASS",
+      "item": "ac9s4i05-p-045",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "status": "PASS",
+      "item": "ac9s4i05-p-045",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "status": "PASS",
+      "item": "ac9s4i05-p-045"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i05-p-046",
+      "status": "PASS",
+      "item": "ac9s4i05-p-046"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i05-p-046",
+      "status": "PASS",
+      "item": "ac9s4i05-p-046"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i05-p-047",
+      "status": "PASS",
+      "item": "ac9s4i05-p-047"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i05-p-047",
+      "status": "PASS",
+      "item": "ac9s4i05-p-047"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i05-p-048",
+      "status": "PASS",
+      "item": "ac9s4i05-p-048"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i05-p-048",
+      "status": "PASS",
+      "item": "ac9s4i05-p-048"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i05-p-017",
+      "status": "PASS",
+      "item": "ac9s4i05-p-017"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i05-p-025",
+      "status": "PASS",
+      "item": "ac9s4i05-p-025"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "authored-preparation-retained",
+      "status": "PASS",
+      "sameNode": true,
+      "unchangedContent": true
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "saved-model-rejects-bank-version",
+      "status": "PASS",
+      "item": "ac9s4i05-p-010"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "saved-model-rejects-question",
+      "status": "PASS",
+      "item": "ac9s4i05-p-010"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "saved-model-rejects-explanation",
+      "status": "PASS",
+      "item": "ac9s4i05-p-010"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "saved-model-rejects-correct-answer",
+      "status": "PASS",
+      "item": "ac9s4i05-p-010"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "saved-model-rejects-cross-code-source",
+      "status": "PASS",
+      "item": "ac9s4i05-p-010"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "practice",
+      "kind": "saved-model-rejects-external-source",
+      "status": "PASS",
+      "item": "ac9s4i05-p-010"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "test",
+      "kind": "canonical-published-inventory",
+      "status": "PASS",
+      "questions": 16,
+      "adultReview": 0,
+      "visuals": 0
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "test",
+      "kind": "correct",
+      "status": "PASS",
+      "item": "ac9s4i05-t-001",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "test",
+      "kind": "incorrect",
+      "status": "PASS",
+      "item": "ac9s4i05-t-001",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "test",
+      "kind": "authored-preparation-retained",
+      "status": "PASS",
+      "sameNode": true,
+      "unchangedContent": true
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "canonical-published-inventory",
+      "status": "PASS",
+      "questions": 48,
+      "adultReview": 4,
+      "visuals": 3
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "correct",
+      "status": "PASS",
+      "item": "ac9s4i06-p-015",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "incorrect",
+      "status": "PASS",
+      "item": "ac9s4i06-p-015",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "adult-written",
+      "status": "PASS",
+      "item": "ac9s4i06-p-045",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "status": "PASS",
+      "item": "ac9s4i06-p-045",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "status": "PASS",
+      "item": "ac9s4i06-p-045"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i06-p-046",
+      "status": "PASS",
+      "item": "ac9s4i06-p-046"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i06-p-046",
+      "status": "PASS",
+      "item": "ac9s4i06-p-046"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i06-p-047",
+      "status": "PASS",
+      "item": "ac9s4i06-p-047"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i06-p-047",
+      "status": "PASS",
+      "item": "ac9s4i06-p-047"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "adult-written-ac9s4i06-p-048",
+      "status": "PASS",
+      "item": "ac9s4i06-p-048"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "adult-paper-ac9s4i06-p-048",
+      "status": "PASS",
+      "item": "ac9s4i06-p-048"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i06-p-031",
+      "status": "PASS",
+      "item": "ac9s4i06-p-031"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "additional-saved-visual-ac9s4i06-p-040",
+      "status": "PASS",
+      "item": "ac9s4i06-p-040"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "authored-preparation-retained",
+      "status": "PASS",
+      "sameNode": true,
+      "unchangedContent": true
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "saved-model-rejects-bank-version",
+      "status": "PASS",
+      "item": "ac9s4i06-p-015"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "saved-model-rejects-question",
+      "status": "PASS",
+      "item": "ac9s4i06-p-015"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "saved-model-rejects-explanation",
+      "status": "PASS",
+      "item": "ac9s4i06-p-015"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "saved-model-rejects-correct-answer",
+      "status": "PASS",
+      "item": "ac9s4i06-p-015"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "saved-model-rejects-cross-code-source",
+      "status": "PASS",
+      "item": "ac9s4i06-p-015"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "practice",
+      "kind": "saved-model-rejects-external-source",
+      "status": "PASS",
+      "item": "ac9s4i06-p-015"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "test",
+      "kind": "canonical-published-inventory",
+      "status": "PASS",
+      "questions": 16,
+      "adultReview": 0,
+      "visuals": 0
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "test",
+      "kind": "correct",
+      "status": "PASS",
+      "item": "ac9s4i06-t-001",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "test",
+      "kind": "incorrect",
+      "status": "PASS",
+      "item": "ac9s4i06-t-001",
+      "bankVersion": "20260908-year4-science-final-six"
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "test",
+      "kind": "authored-preparation-retained",
+      "status": "PASS",
+      "sameNode": true,
+      "unchangedContent": true
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "worksheet",
+      "kind": "authored-worksheet-retained",
+      "status": "PASS",
+      "sameBody": true,
+      "samePdfButton": true
+    },
+    {
+      "code": "ac9s4i01",
+      "mode": "worksheet",
+      "kind": "unmarked-legacy-control",
+      "status": "PASS",
+      "sameBody": false,
+      "samePdfButton": false
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "worksheet",
+      "kind": "authored-worksheet-retained",
+      "status": "PASS",
+      "sameBody": true,
+      "samePdfButton": true
+    },
+    {
+      "code": "ac9s4i02",
+      "mode": "worksheet",
+      "kind": "unmarked-legacy-control",
+      "status": "PASS",
+      "sameBody": false,
+      "samePdfButton": false
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "worksheet",
+      "kind": "authored-worksheet-retained",
+      "status": "PASS",
+      "sameBody": true,
+      "samePdfButton": true
+    },
+    {
+      "code": "ac9s4i03",
+      "mode": "worksheet",
+      "kind": "unmarked-legacy-control",
+      "status": "PASS",
+      "sameBody": false,
+      "samePdfButton": false
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "worksheet",
+      "kind": "authored-worksheet-retained",
+      "status": "PASS",
+      "sameBody": true,
+      "samePdfButton": true
+    },
+    {
+      "code": "ac9s4i04",
+      "mode": "worksheet",
+      "kind": "unmarked-legacy-control",
+      "status": "PASS",
+      "sameBody": false,
+      "samePdfButton": false
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "worksheet",
+      "kind": "authored-worksheet-retained",
+      "status": "PASS",
+      "sameBody": true,
+      "samePdfButton": true
+    },
+    {
+      "code": "ac9s4i05",
+      "mode": "worksheet",
+      "kind": "unmarked-legacy-control",
+      "status": "PASS",
+      "sameBody": false,
+      "samePdfButton": false
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "worksheet",
+      "kind": "authored-worksheet-retained",
+      "status": "PASS",
+      "sameBody": true,
+      "samePdfButton": true
+    },
+    {
+      "code": "ac9s4i06",
+      "mode": "worksheet",
+      "kind": "unmarked-legacy-control",
+      "status": "PASS",
+      "sameBody": false,
+      "samePdfButton": false
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "assets/year4-science-authored-preparation.js",
+      "sha256": "ed3547f7c14785a98ce55535e53d16fad6c71fdecc30a9bd5bbb9ebaa3d61a9d"
+    },
+    {
+      "path": "quiz/year-4/science/reviewed-science-visuals.js",
+      "sha256": "2e55edf33dd35a43efa6eae62be50a236c594ed59b6988885d14c8d97556b48d"
+    },
+    {
+      "path": "quiz/assets/year4-science-pre-module-notes.js",
+      "sha256": "31e3bf69fc19964d50a4b2a0f0a3f3098f57cf1b57e990c3479b44a2f695a8dc"
+    },
+    {
+      "path": "assets/year4-subject-worksheet-page.js",
+      "sha256": "e576f13a899d265339a942e9bc787f0f2eb20e5c30c52653a5481fdbaf8bbfd1"
+    },
+    {
+      "path": "quiz/assets/production-question-ui.js",
+      "sha256": "2015730b0045ee57f10ad32171020673e14e7d5cf1e7eb5beea24c4aaa94ef8e"
+    },
+    {
+      "path": "assets/pwa-register-legacy.js",
+      "sha256": "36fdeb3b7340ee58447043942cf276df8934d450274329a420640f40a7d20d47"
+    },
+    {
+      "path": "quiz/assets/script.js",
+      "sha256": "d4b3615c1cba96dbd326c1c24b055e8293ef71a6f7a16b38c9285b1906ab78a6"
+    },
+    {
+      "path": "quiz/assets/script-runtime-v115.js",
+      "sha256": "cec2900af4c21d950dd97b7b21e981abc95f3c2375ba69e15397b07ef32d33a5"
+    },
+    {
+      "path": "quiz/assets/year1-maths-support.js",
+      "sha256": "220bc7a4b8b4fa82b01771f3ca0fc60649705e0097a96a9cef5616d289663803"
+    },
+    {
+      "path": "quiz/assets/separate-review.js",
+      "sha256": "4d90930eb071ba6fbb63ac6ee3c1d9d2b2ca9df1f90c9ead3543163e9d0acb53"
+    },
+    {
+      "path": "assets/year4-subject-quick-read.js",
+      "sha256": "4b2f36930e93eb4f74ec2533bc50cfcf11e3927829a9765f9a43d4d44fc77225"
+    },
+    {
+      "path": "assets/year4-science-worksheet.js",
+      "sha256": "6ed474f9edcbf76d20222ad2cedca56185d0d97bd0452f912939e6a1df0d12b8"
+    },
+    {
+      "path": "assets/curriculum-visual-layer-interactive.js",
+      "sha256": "8bdb29c193b7d1fd5891868e1320b4526f0fb655233dfe2485e29d02d0643e0d"
+    }
+  ]
+}

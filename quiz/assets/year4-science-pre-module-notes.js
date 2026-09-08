@@ -56,156 +56,150 @@
     "code": "AC9S4I01",
     "topic": "Scientific Questions and Evidence-based Predictions",
     "source": {
-      "teacher_slide_ids": [
-        "Learning intention and success criteria",
-        "Concept refresher and visual clues",
-        "Guided worked example",
-        "60-second Quick Check / Turn and Talk"
+      "topic_path": "year4/science/ac9s4i01-questions-to-explore-observed-patterns-and-relationships-and/index.html",
+      "classroom_path": "year4/science/ac9s4i01-questions-to-explore-observed-patterns-and-relationships-and/teacher-slides/index.html",
+      "static_section_ids": [
+        "Move from observation to question and prediction"
       ],
       "model_ids": [
         "Move from observation to question and prediction"
       ]
     },
     "pre_module_notes": {
-      "target_read_time_seconds": 75,
+      "target_read_time_seconds": 72,
       "title": "Read This Before You Start!",
-      "big_idea": "An investigation begins with an observed pattern, a focused testable question and a prediction supported by a reason.",
+      "big_idea": "A scientific question explores an observed relationship, and a useful prediction explains what you expect using observations or a science idea.",
       "key_rules": [
-        "Name the two variables in the relationship: what you will change or compare, and what you will observe or measure. Ask how the first variable affects the second.",
-        "Keep the question focused on one relationship. It must compare something you can change or observe and name an outcome that can be measured, so evidence can answer it fairly.",
-        "A prediction says what you expect and why. It is not a result or a random guess; observations or science ideas must support the reason, and testing may show that it was not supported."
+        "Start with what you actually noticed. Ask a focused question that observations or measurements could answer, and name what you will compare and what you will record.",
+        "Separate observations from predictions. Use a repeated pattern to explain your expectation, then check it through an investigation; a prediction can change when new evidence appears.",
+        "Food chains and magnet models can help you predict relationships, but each model has limits. When learning from First Nations knowledge holders, follow teacher arrangements, permission and local guidance."
       ],
-      "memory_clue": "Picture the teacher deck’s four-step path: notice that a wet cloth dries faster in the sun; name location and drying time; ask how location affects drying time; then predict an outcome and give a reason. Follow those boxes in order."
+      "memory_clue": "Picture the wet cloth model. You notice a difference in drying time, ask how location affects drying, then predict what another comparison might show. Give an observation or science reason for the prediction, and keep enough other conditions alike to check it fairly."
     }
   },
   "AC9S4I02": {
     "code": "AC9S4I02",
     "topic": "Planning Fair and Safe Investigations",
     "source": {
-      "teacher_slide_ids": [
-        "Learning intention and success criteria",
-        "Concept refresher and visual clues",
-        "Guided worked example",
-        "60-second Quick Check / Turn and Talk"
+      "topic_path": "year4/science/ac9s4i02-provided-scaffolds-to-plan-and-conduct-investigations-to-answer/index.html",
+      "classroom_path": "year4/science/ac9s4i02-provided-scaffolds-to-plan-and-conduct-investigations-to-answer/teacher-slides/index.html",
+      "static_section_ids": [
+        "Use a scaffold to plan a fair comparison"
       ],
       "model_ids": [
-        "Plan a complete fair test"
+        "Use a scaffold to plan a fair comparison"
       ]
     },
     "pre_module_notes": {
-      "target_read_time_seconds": 67,
+      "target_read_time_seconds": 72,
       "title": "Read This Before You Start!",
-      "big_idea": "A fair and safe investigation changes one tested factor, measures one outcome and controls other conditions that could affect the comparison.",
+      "big_idea": "A scaffold helps you plan an investigation that answers a question, gathers useful evidence and uses materials and equipment safely.",
       "key_rules": [
-        "Write the question first. Identify the changed variable, the measured variable and the controlled variables, then create an ordered method that another group could follow.",
-        "Repeat each condition and record every new result; repetition is not copying a value. Use the same units and method so patterns can be compared.",
-        "Before testing, identify each hazard and choose a specific control that matches it. Wipe spills promptly and use stable containers so the investigation can be completed safely."
+        "Start with the question and identify what to compare, what to observe or measure, and which other conditions need to stay alike. Put the method in an order someone else could follow.",
+        "Match your procedure to the investigation. A fair test isolates a chosen factor, while a model or prototype needs clear rules, a purpose and an explanation of its limits.",
+        "Identify hazards and choose specific precautions before starting. Record every trial, including unexpected results, and repeat observations using the same method rather than copying a previous value."
       ],
-      "memory_clue": "Picture the teacher deck’s paper towel plan: change the brand; measure millilitres absorbed in thirty seconds; keep sheet size, water and time the same; run three trials per brand; wipe spills and use stable containers."
+      "memory_clue": "Picture the paper towel scaffold. Compare equal sized sheets, measure absorbed water after the same time, repeat each condition and record the units. Keep containers stable and clear spills. Your prediction gives an expectation, but the collected results decide whether that expectation is supported."
     }
   },
   "AC9S4I03": {
     "code": "AC9S4I03",
     "topic": "Observing, Measuring and Recording Accurately",
     "source": {
-      "teacher_slide_ids": [
-        "Learning intention and success criteria",
-        "Concept refresher and visual clues",
-        "Guided worked example",
-        "60-second Quick Check / Turn and Talk"
+      "topic_path": "year4/science/ac9s4i03-follow-procedures-to-make-and-record-observations-including/index.html",
+      "classroom_path": "year4/science/ac9s4i03-follow-procedures-to-make-and-record-observations-including/teacher-slides/index.html",
+      "static_section_ids": [
+        "Read, record and check formal measurements"
       ],
       "model_ids": [
         "Read, record and check formal measurements"
       ]
     },
     "pre_module_notes": {
-      "target_read_time_seconds": 70,
+      "target_read_time_seconds": 72,
       "title": "Read This Before You Start!",
-      "big_idea": "Accurate science records what was observed or measured, using an ordered procedure, a suitable tool, a number and the correct unit.",
+      "big_idea": "Useful science records combine careful observations with measurements made using an ordered procedure, a suitable instrument and the correct unit.",
       "key_rules": [
-        "Follow the method in order and record each reading immediately. Describe qualities with precise words, and record quantities with both a number and unit.",
-        "Read a scaled instrument by finding the value of each interval between marks. Use eye level where appropriate, and report only the precision the instrument can support.",
-        "Use a digital tool when it improves timing, measurement or organisation. You still need to know which quantity is being measured and record its correct unit."
+        "Choose a tool that measures the quantity in your question. Describe qualities with precise words; record measurements with numbers and units, and record counts as quantities too.",
+        "Find the value of each equal interval before reading a scale. Check the start point, view the reading carefully and record only the precision the instrument supports.",
+        "Record each observation promptly in a labelled table. Digital tools can help with photographs, timing and measurement, but you still need to check units, follow the method and protect living things."
       ],
-      "memory_clue": "Picture the teacher deck’s results table: at zero minutes, twenty-two degrees Celsius and clear liquid; at two minutes, twenty-eight degrees and small bubbles; at four minutes, thirty-three degrees and more bubbles. Every row joins time, a measured value and an observation."
+      "memory_clue": "Picture the thermometer in the worked model. Ten degrees are divided into five equal intervals, so each interval represents two degrees. Follow the liquid level to twenty-six degrees Celsius, then record the reading and unit together without inventing extra decimal places."
     }
   },
   "AC9S4I04": {
     "code": "AC9S4I04",
     "topic": "Tables, Column Graphs and Scientific Models",
     "source": {
-      "teacher_slide_ids": [
-        "Learning intention and success criteria",
-        "Concept refresher and visual clues",
-        "Guided worked example",
-        "60-second Quick Check / Turn and Talk"
+      "topic_path": "year4/science/ac9s4i04-construct-and-use-representations-including-tables-simple/index.html",
+      "classroom_path": "year4/science/ac9s4i04-construct-and-use-representations-including-tables-simple/teacher-slides/index.html",
+      "static_section_ids": [
+        "Move from observations to table and graph"
       ],
       "model_ids": [
         "Move from observations to table and graph"
       ]
     },
     "pre_module_notes": {
-      "target_read_time_seconds": 64,
+      "target_read_time_seconds": 72,
       "title": "Read This Before You Start!",
-      "big_idea": "Tables, column graphs and models organise science evidence in different ways so patterns and relationships can be seen and explained accurately.",
+      "big_idea": "Tables, column graphs and scientific models organise evidence so you can show relationships, identify patterns and explain what the evidence means.",
       "key_rules": [
-        "Use a labelled table when exact recorded values matter. Copy every category, value and unit accurately from the source data.",
-        "For a column graph, give it a title, label the categories and value axis, and use one consistent scale. Each column height must match its table value.",
-        "A scientific model simplifies reality to show important parts or relationships. Explain what it represents, what it leaves out and which conclusion the evidence supports."
+        "Choose a representation that suits the information. A table records exact values, a column graph compares categories, and a labelled map or model can show positions or interactions.",
+        "Construct graphs carefully: give a title, label each axis, use equal scale intervals starting at zero and plot every category accurately. Comparing which bar is tallest is only one part of reading a graph.",
+        "Explain the pattern using evidence, and identify what a model leaves out. Digital displays and simulations follow chosen rules; they cannot reproduce every feature of a living system."
       ],
-      "memory_clue": "Picture the teacher deck’s surface table: tile, one hundred and forty-five centimetres; cardboard, ninety-two centimetres; fabric, thirty-eight centimetres. When you sketch the matching columns, tile must be tallest, cardboard in the middle and fabric shortest."
+      "memory_clue": "Picture the surface distance model. Tile, card and fabric have distances of sixty, forty and twenty centimetres. With each equal step worth ten centimetres, their columns reach six, four and two steps. Match every plotted height to its table value before interpreting the pattern."
     }
   },
   "AC9S4I05": {
     "code": "AC9S4I05",
     "topic": "Evaluating Investigations and Drawing Conclusions",
     "source": {
-      "teacher_slide_ids": [
-        "Learning intention and success criteria",
-        "Concept refresher and visual clues",
-        "Guided worked example",
-        "60-second Quick Check / Turn and Talk"
+      "topic_path": "year4/science/ac9s4i05-findings-with-those-of-others-consider-if-investigations-were/index.html",
+      "classroom_path": "year4/science/ac9s4i05-findings-with-those-of-others-consider-if-investigations-were/teacher-slides/index.html",
+      "static_section_ids": [
+        "Compare group findings"
       ],
       "model_ids": [
-        "Compare findings from repeated groups"
+        "Compare group findings"
       ]
     },
     "pre_module_notes": {
-      "target_read_time_seconds": 74,
+      "target_read_time_seconds": 72,
       "title": "Read This Before You Start!",
-      "big_idea": "A strong conclusion compares findings, checks whether the investigation was fair and uses evidence without pretending every result must match.",
+      "big_idea": "Evaluating an investigation means comparing findings, checking how evidence was collected and drawing a conclusion that the results can support.",
       "key_rules": [
-        "Compare actual values and repeated trials. A different finding may show normal variation, measurement uncertainty or a method difference, so investigate it before deciding anyone is wrong.",
-        "A fair test changes one factor and keeps relevant conditions consistent. If groups used different release points, check or repeat the method before combining their results.",
-        "Write a cautious conclusion that answers the question and cites evidence. Then turn a limitation or unexpected pattern into a focused, testable further question."
+        "Compare other groups’ actual results and methods. Small differences can occur even when procedures match, so check the observations before deciding that someone made a mistake.",
+        "To test one factor fairly, change the intended condition and keep other relevant conditions alike. If groups used different release points, investigate that difference before combining their findings.",
+        "Use evidence to answer the original question, check whether a design meets its purpose and identify a useful next question. Keep conclusions within what the observations show."
       ],
-      "memory_clue": "Picture the teacher deck’s table: Group A has a mean slide distance of ninety-two centimetres, Group B has eighty-eight centimetres, and Group C has one hundred and twenty-one centimetres from a different release point. Groups A and B sit close together. Circle Group C’s different release point note before combining findings."
+      "memory_clue": "Picture the group distance table. Groups A and B recorded similar distances using the same release point. Group C recorded longer distances but released the block higher. Its results raise a method question; they do not establish that its surface alone caused the longer travel."
     }
   },
   "AC9S4I06": {
     "code": "AC9S4I06",
     "topic": "Communicating Scientific Findings and Ideas",
     "source": {
-      "teacher_slide_ids": [
-        "Learning intention and success criteria",
-        "Concept refresher and visual clues",
-        "Guided worked example",
-        "60-second Quick Check / Turn and Talk"
+      "topic_path": "year4/science/ac9s4i06-and-create-texts-to-communicate-findings-and-ideas-for/index.html",
+      "classroom_path": "year4/science/ac9s4i06-and-create-texts-to-communicate-findings-and-ideas-for/teacher-slides/index.html",
+      "static_section_ids": [
+        "Write a material recommendation"
       ],
       "model_ids": [
-        "Structure a concise investigation report"
+        "Write a material recommendation"
       ]
     },
     "pre_module_notes": {
-      "target_read_time_seconds": 75,
+      "target_read_time_seconds": 72,
       "title": "Read This Before You Start!",
-      "big_idea": "Clear science communication keeps the evidence accurate while adjusting structure, detail, vocabulary and visuals for a purpose and audience.",
+      "big_idea": "Effective science communication keeps evidence accurate while choosing a clear form, useful details and suitable language for its audience and purpose.",
       "key_rules": [
-        "Build a report in order: question and prediction, method, results table or graph, finding, conclusion, then limitation or next question. This lets the reader follow the evidence.",
-        "Select only relevant evidence, use precise science terms and explain unfamiliar words. Give graphs and diagrams a clear title, labels, units and a caption that connects them to your message.",
-        "Adapt detail and layout for the audience. A poster may use a large visual and short evidence statements; a teacher report needs method details, data, units and limitations. Never change the facts."
+        "Plan what your audience needs to understand. A report can explain a method and results, while a poster, presentation or labelled model can highlight a finding and its supporting evidence.",
+        "Use accurate science vocabulary and explain unfamiliar terms. Label diagrams clearly, include units in measurements and connect each recommendation to observations rather than inventing facts.",
+        "Credit the people and sources whose knowledge you use, and follow permissions for sharing. When discussing a particular First Nations example, name its people and place without treating it as a rule for every community."
       ],
-      "memory_clue": "Picture the teacher deck’s six-part cycle. Follow the cards from question and prediction, through method and results, to finding, conclusion, then limitation or next question. If one card is missing, the reader cannot trace how the conclusion grew from the evidence."
+      "memory_clue": "Picture the material recommendation model. Coated nylon stayed dry and folded, cotton became wet, and thin card stayed dry but could not fold. For a flexible cover that keeps water out, explain why the tested nylon meets both needs, and limit the claim to those tests."
     }
   },
   "AC9S4U01": {

@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question is most testable?",
-    "audioPrompt": "Which question is most testable?",
+    "question": "Which question could be answered by measuring a toy car?",
+    "audioPrompt": "Which question could be answered by measuring a toy car?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,22 +16,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "How does surface type affect the distance a toy car rolls?",
-      "Which surface looks coolest?",
-      "Is science fun?",
-      "Why is my favourite ramp best?"
+      "How does surface type affect the distance the same car rolls?",
+      "Which surface looks most attractive on the display?",
+      "Which car colour does this group prefer?",
+      "Which ramp name sounds most exciting?"
     ],
-    "correct": 0,
-    "explanation": "A testable question can be answered by collecting evidence about variables.\nHint: Can you measure it?",
-    "structuredExplanation": {
-      "summary": "A testable question can be answered by collecting evidence about variables.",
-      "hint": "Can you measure it?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Distance is an observable outcome; appearance preferences need a different kind of evidence.\nHint: Name the evidence you could collect.",
+    "structuredExplanation": {
+      "summary": "Distance is an observable outcome; appearance preferences need a different kind of evidence.",
+      "hint": "Name the evidence you could collect."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-002",
@@ -40,8 +39,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which word means a factor that can change in an investigation?",
-    "audioPrompt": "Which word means a factor that can change in an investigation?",
+    "question": "A variable is a factor that can change. Which pair names variables in a towel-drying investigation?",
+    "audioPrompt": "A variable is a factor that can change. Which pair names variables in a towel-drying investigation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -49,22 +48,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Opinion",
-      "Conclusion",
-      "Decoration",
-      "Variable"
+      "Prediction and conclusion",
+      "Question and answer",
+      "Evidence and explanation",
+      "Location and drying time"
     ],
-    "correct": 3,
-    "explanation": "A variable is something that can change or be measured.\nHint: Changed or measured factor.",
-    "structuredExplanation": {
-      "summary": "A variable is something that can change or be measured.",
-      "hint": "Changed or measured factor."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Location can be compared and drying time measured. The other pairs name parts of reasoning.\nHint: Look for conditions and outcomes.",
+    "structuredExplanation": {
+      "summary": "Location can be compared and drying time measured. The other pairs name parts of reasoning.",
+      "hint": "Look for conditions and outcomes."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-003",
@@ -73,8 +71,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which statement is a prediction?",
-    "audioPrompt": "Which statement is a prediction?",
+    "question": "Before another test, a class recalls that its wet cloth dried sooner in sun than shade. Which is a supported prediction?",
+    "audioPrompt": "Before another test, a class recalls that its wet cloth dried sooner in sun than shade. Which is a supported prediction?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -82,22 +80,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The timer showed 240 seconds",
-      "The cup was blue",
-      "The warmer water will melt the ice faster because it transfers more heat",
-      "The ice melted in 4 minutes"
+      "The cloth took forty minutes yesterday.",
+      "Sunlight must always dry every cloth in exactly forty minutes.",
+      "A similar cloth may dry sooner in sun again, because that happened in the earlier test.",
+      "The sunny place is the most pleasant place to work."
     ],
-    "correct": 2,
-    "explanation": "A prediction says what is expected before testing and gives a reason.\nHint: Expected before test.",
-    "structuredExplanation": {
-      "summary": "A prediction says what is expected before testing and gives a reason.",
-      "hint": "Expected before test."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The prediction uses an earlier observation to state a possible future outcome, without promising certainty.\nHint: Separate an earlier result from an expectation.",
+    "structuredExplanation": {
+      "summary": "The prediction uses an earlier observation to state a possible future outcome, without promising certainty.",
+      "hint": "Separate an earlier result from an expectation."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-004",
@@ -106,8 +103,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which is an observation?",
-    "audioPrompt": "Which is an observation?",
+    "question": "Which note records an observation rather than an expectation?",
+    "audioPrompt": "Which note records an observation rather than an expectation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -115,22 +112,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Drying is boring",
-      "The wet cloth dried faster in the sun than in the shade",
-      "The sun is definitely the best",
-      "The cloth wanted to dry"
+      "The cloth may be dry by noon tomorrow.",
+      "The wet cloth was dry at the noon check.",
+      "The sunny cloth should dry first next time.",
+      "A thinner cloth will probably dry sooner."
     ],
-    "correct": 1,
-    "explanation": "An observation is information noticed or measured.\nHint: What was noticed?",
-    "structuredExplanation": {
-      "summary": "An observation is information noticed or measured.",
-      "hint": "What was noticed?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "An observation reports what was noticed; predictions describe what might happen.\nHint: Was it noticed already?",
+    "structuredExplanation": {
+      "summary": "An observation reports what was noticed; predictions describe what might happen.",
+      "hint": "Was it noticed already?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-005",
@@ -139,8 +135,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question compares one relationship clearly?",
-    "audioPrompt": "Which question compares one relationship clearly?",
+    "question": "Students notice some school bags use coated fabric. Which question explores this material choice?",
+    "audioPrompt": "Students notice some school bags use coated fabric. Which question explores this material choice?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -148,22 +144,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "How does daily light time affect bean plant height?",
-      "Do plants like my window and my watering can?",
-      "Which plant is nicest?",
-      "Can plants think about sunlight?"
+      "Does coated fabric let less water through than uncoated fabric in the same test?",
+      "Which student owns the most popular bag?",
+      "Which bag has the longest brand name?",
+      "Which bag colour should the class vote for?"
     ],
-    "correct": 0,
-    "explanation": "A focused relationship question names what changes and what is measured.\nHint: Changed variable and measured variable.",
-    "structuredExplanation": {
-      "summary": "A focused relationship question names what changes and what is measured.",
-      "hint": "Changed variable and measured variable."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Water passing through is a property related to keeping a bag’s contents dry.\nHint: Link the material to the product’s job.",
+    "structuredExplanation": {
+      "summary": "Water passing through is a property related to keeping a bag’s contents dry.",
+      "hint": "Link the material to the product’s job."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-006",
@@ -172,8 +167,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which part is the measured variable in “How does ramp height affect distance rolled?”",
-    "audioPrompt": "Which part is the measured variable in “How does ramp height affect distance rolled?”",
+    "question": "In “How does ramp height affect distance rolled by the same car?”, what outcome is measured?",
+    "audioPrompt": "In “How does ramp height affect distance rolled by the same car?”, what outcome is measured?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -182,21 +177,20 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Ramp height",
-      "Toy car colour",
-      "Student name",
+      "The release position",
+      "The surface material",
       "Distance rolled"
     ],
-    "correct": 3,
-    "explanation": "The measured variable is the outcome being recorded.\nHint: What is measured?",
-    "structuredExplanation": {
-      "summary": "The measured variable is the outcome being recorded.",
-      "hint": "What is measured?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The question asks whether distance changes as ramp height changes.\nHint: Find the outcome after “affect”.",
+    "structuredExplanation": {
+      "summary": "The question asks whether distance changes as ramp height changes.",
+      "hint": "Find the outcome after “affect”."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-007",
@@ -205,8 +199,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which part is the changed variable in “How does magnet distance affect paperclip attraction?”",
-    "audioPrompt": "Which part is the changed variable in “How does magnet distance affect paperclip attraction?”",
+    "question": "A question asks whether the same two magnets move apart from different starting gaps. What is compared?",
+    "audioPrompt": "A question asks whether the same two magnets move apart from different starting gaps. What is compared?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -214,22 +208,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Classroom wall colour",
-      "Table number",
-      "Magnet distance",
-      "Paperclip attraction"
+      "The colour of the recording pencil",
+      "The number of students reading the question",
+      "The starting gap between the magnets",
+      "The wording of the prediction"
     ],
-    "correct": 2,
-    "explanation": "The changed variable is the factor deliberately varied.\nHint: What is changed?",
-    "structuredExplanation": {
-      "summary": "The changed variable is the factor deliberately varied.",
-      "hint": "What is changed?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The starting gap is compared while magnet identity and pole arrangement are kept consistent.\nHint: Look for the condition named in the question.",
+    "structuredExplanation": {
+      "summary": "The starting gap is compared while magnet identity and pole arrangement are kept consistent.",
+      "hint": "Look for the condition named in the question."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-008",
@@ -238,8 +231,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which prediction includes a reason?",
-    "audioPrompt": "Which prediction includes a reason?",
+    "question": "Which statement adds an observation-based reason to a prediction?",
+    "audioPrompt": "Which statement adds an observation-based reason to a prediction?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -247,22 +240,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The red block is best",
-      "If the surface is rougher, the block will travel less far because friction is greater",
-      "The block travelled 20 cm",
-      "Maybe the block does something"
+      "I expect less water to pass through coated fabric, because I prefer its colour.",
+      "I expect less water to pass through coated fabric, because our earlier equal-size test showed less dripping.",
+      "I expect less water to pass through coated fabric, because our answer must agree with the other group.",
+      "I expect less water to pass through coated fabric, because predictions cannot be wrong."
     ],
-    "correct": 1,
-    "explanation": "A reasoned prediction links an expected result to prior knowledge.\nHint: Because gives the reason.",
-    "structuredExplanation": {
-      "summary": "A reasoned prediction links an expected result to prior knowledge.",
-      "hint": "Because gives the reason."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A previous relevant test supports a prediction; preference, agreement and certainty do not.\nHint: Use evidence relevant to water resistance.",
+    "structuredExplanation": {
+      "summary": "A previous relevant test supports a prediction; preference, agreement and certainty do not.",
+      "hint": "Use evidence relevant to water resistance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-009",
@@ -271,8 +263,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which is not a good testable question?",
-    "audioPrompt": "Which is not a good testable question?",
+    "question": "Can “Does this sample move towards a magnet?” be a scientific question?",
+    "audioPrompt": "Can “Does this sample move towards a magnet?” be a scientific question?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -280,22 +272,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which towel is prettiest?",
-      "How does towel material affect water absorbed?",
-      "How does ramp height affect car distance?",
-      "How does light time affect seedling growth?"
+      "Yes; observing movement under a stated test can answer it.",
+      "No; a scientific question can never have a yes-or-no answer.",
+      "No; every question must ask for an exact number.",
+      "Yes; but only if everyone predicts the same answer."
     ],
-    "correct": 0,
-    "explanation": "Prettiest is an opinion unless clear criteria are defined.\nHint: Preference question.",
-    "structuredExplanation": {
-      "summary": "Prettiest is an opinion unless clear criteria are defined.",
-      "hint": "Preference question."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A yes-or-no question is testable when the observation and conditions are clear.\nHint: Consider how the answer could be observed.",
+    "structuredExplanation": {
+      "summary": "A yes-or-no question is testable when the observation and conditions are clear.",
+      "hint": "Consider how the answer could be observed."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-010",
@@ -304,8 +295,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "When should a prediction be written?",
-    "audioPrompt": "When should a prediction be written?",
+    "question": "When should an initial prediction be recorded?",
+    "audioPrompt": "When should an initial prediction be recorded?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -313,22 +304,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "After copying the conclusion",
-      "Only after deleting data",
-      "Never in investigations",
-      "Before collecting the results"
+      "After choosing which new results to keep",
+      "Only after the explanation is confirmed",
+      "After replacing any unexpected measurements",
+      "Before collecting the new results it predicts"
     ],
-    "correct": 3,
-    "explanation": "Predictions are made before testing.\nHint: Before evidence is collected.",
-    "structuredExplanation": {
-      "summary": "Predictions are made before testing.",
-      "hint": "Before evidence is collected."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Recording it first allows an honest comparison with later evidence.\nHint: Keep the before-test idea separate from results.",
+    "structuredExplanation": {
+      "summary": "Recording it first allows an honest comparison with later evidence.",
+      "hint": "Keep the before-test idea separate from results."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-011",
@@ -337,8 +327,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is “Which paper towel is best?” too unclear for a fair test?",
-    "audioPrompt": "Why is “Which paper towel is best?” too unclear for a fair test?",
+    "question": "Why is “Which paper towel is best?” too unclear for a water-absorption investigation?",
+    "audioPrompt": "Why is “Which paper towel is best?” too unclear for a water-absorption investigation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,22 +336,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Opinion questions are always scientific",
-      "No towel property can be measured",
-      "Best needs a measurable criterion such as water absorbed in 30 seconds",
-      "Best always means strongest"
+      "Paper towels have no properties that can be measured.",
+      "The question already states the time and amount to measure.",
+      "Best needs a criterion, such as water absorbed in thirty seconds.",
+      "Best must mean the towel with the lowest price."
     ],
-    "correct": 2,
-    "explanation": "A vague best question should be changed into a measurable question.\nHint: Best for what?",
-    "structuredExplanation": {
-      "summary": "A vague best question should be changed into a measurable question.",
-      "hint": "Best for what?"
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Different purposes give different meanings to best; state the property and measurement.\nHint: Best at doing what?",
+    "structuredExplanation": {
+      "summary": "Different purposes give different meanings to best; state the property and measurement.",
+      "hint": "Best at doing what?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-012",
@@ -370,8 +359,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why should a prediction include a reason?",
-    "audioPrompt": "Why should a prediction include a reason?",
+    "question": "Why add a reason to a prediction?",
+    "audioPrompt": "Why add a reason to a prediction?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -379,22 +368,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Predictions cannot use evidence",
-      "It shows the prediction is based on observations or science, not a random guess",
-      "Reasons make results unnecessary",
-      "A reason proves the prediction must be correct"
+      "It makes new observations unnecessary.",
+      "It shows how the expectation follows from observations or a relevant science idea.",
+      "It guarantees that the prediction will be supported.",
+      "It changes an expectation into an already measured result."
     ],
-    "correct": 1,
-    "explanation": "A reason explains why the expected result is sensible.\nHint: Because matters.",
-    "structuredExplanation": {
-      "summary": "A reason explains why the expected result is sensible.",
-      "hint": "Because matters."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A reason makes the thinking checkable, but the prediction still needs evidence.\nHint: A reason supports; it does not guarantee.",
+    "structuredExplanation": {
+      "summary": "A reason makes the thinking checkable, but the prediction still needs evidence.",
+      "hint": "A reason supports; it does not guarantee."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-013",
@@ -403,8 +391,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is changing both ramp height and surface in one question a problem?",
-    "audioPrompt": "Why is changing both ramp height and surface in one question a problem?",
+    "question": "A class compares different ramp heights using a different surface at each height. Why is its question difficult to investigate clearly?",
+    "audioPrompt": "A class compares different ramp heights using a different surface at each height. Why is its question difficult to investigate clearly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -412,22 +400,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is harder to tell which factor affected the distance",
-      "Two variables always make the test safer",
-      "The car cannot roll on ramps",
-      "Distance stops being measurable"
+      "Either height or surface could affect the measured distance.",
+      "Distance cannot be measured when a ramp is used.",
+      "Changing two factors guarantees a stronger prediction.",
+      "Every car must roll the same distance on all surfaces."
     ],
-    "correct": 0,
-    "explanation": "Testing one relationship at a time makes evidence clearer.\nHint: One changed factor.",
-    "structuredExplanation": {
-      "summary": "Testing one relationship at a time makes evidence clearer.",
-      "hint": "One changed factor."
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "To explore the effect of height, use the same surface and other relevant conditions.\nHint: Identify the competing possible causes.",
+    "structuredExplanation": {
+      "summary": "To explore the effect of height, use the same surface and other relevant conditions.",
+      "hint": "Identify the competing possible causes."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-014",
@@ -436,8 +423,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is a prediction different from a conclusion?",
-    "audioPrompt": "Why is a prediction different from a conclusion?",
+    "question": "How is a prediction different from a conclusion?",
+    "audioPrompt": "How is a prediction different from a conclusion?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -445,22 +432,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A conclusion is guessed before testing",
-      "Predictions must use final data",
-      "They are exactly the same",
-      "A prediction is made before testing; a conclusion is based on results after testing"
+      "A prediction is measured afterwards; a conclusion is always a guess beforehand.",
+      "A prediction must be correct; a conclusion cannot change.",
+      "A prediction uses numbers; a conclusion must never use them.",
+      "A prediction states an expectation before a test; a conclusion considers the results afterwards."
     ],
-    "correct": 3,
-    "explanation": "Predictions state expected results, while conclusions interpret collected evidence.\nHint: Before and after.",
-    "structuredExplanation": {
-      "summary": "Predictions state expected results, while conclusions interpret collected evidence.",
-      "hint": "Before and after."
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Both may use reasoning, but they have different roles in an investigation.\nHint: Think about when each is used.",
+    "structuredExplanation": {
+      "summary": "Both may use reasoning, but they have different roles in an investigation.",
+      "hint": "Think about when each is used."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-015",
@@ -469,8 +455,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why can an observation lead to a question?",
-    "audioPrompt": "Why can an observation lead to a question?",
+    "question": "Students observe more insects near flowers than on bare paving. What can this observation do?",
+    "audioPrompt": "Students observe more insects near flowers than on bare paving. What can this observation do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -478,22 +464,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Observations are always opinions",
-      "Patterns cannot be investigated",
-      "A noticed pattern can make you ask what relationship caused it",
-      "Questions must come before noticing anything"
+      "Prove that flowers alone caused every difference",
+      "Show that observing is not a scientific method",
+      "Suggest a question about insect numbers and the places observed",
+      "Prove that the same pattern occurs in every season"
     ],
-    "correct": 2,
-    "explanation": "Scientists often turn observed patterns into testable questions.\nHint: Notice then ask.",
-    "structuredExplanation": {
-      "summary": "Scientists often turn observed patterns into testable questions.",
-      "hint": "Notice then ask."
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The pattern can lead to investigation; other differences may also matter.\nHint: A noticed relationship is a starting point.",
+    "structuredExplanation": {
+      "summary": "The pattern can lead to investigation; other differences may also matter.",
+      "hint": "A noticed relationship is a starting point."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-016",
@@ -502,8 +487,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is “Do plants like light?” hard to test?",
-    "audioPrompt": "Why is “Do plants like light?” hard to test?",
+    "question": "How can “Do plants like light?” be improved for an investigation?",
+    "audioPrompt": "How can “Do plants like light?” be improved for an investigation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -511,22 +496,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Questions cannot include plants",
-      "Liking is not directly measurable, so the question should name a measurable outcome",
-      "Plants cannot be investigated at all",
-      "Light is not a variable"
+      "Which plant seems friendliest?",
+      "How does daily light exposure relate to seedling height after two weeks?",
+      "Do plants enjoy being measured?",
+      "Which window is the class favourite?"
     ],
-    "correct": 1,
-    "explanation": "The question needs an observable or measurable outcome such as height or leaf number.\nHint: Change liking into measurement.",
-    "structuredExplanation": {
-      "summary": "The question needs an observable or measurable outcome such as height or leaf number.",
-      "hint": "Change liking into measurement."
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Name an observable outcome instead of attributing a human feeling to a plant.\nHint: Replace “like” with something observable.",
+    "structuredExplanation": {
+      "summary": "Name an observable outcome instead of attributing a human feeling to a plant.",
+      "hint": "Replace “like” with something observable."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-017",
@@ -535,8 +519,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why should a question name the outcome to measure?",
-    "audioPrompt": "Why should a question name the outcome to measure?",
+    "question": "Why should a question name an outcome to observe or measure?",
+    "audioPrompt": "Why should a question name an outcome to observe or measure?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -544,22 +528,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It tells the investigator what evidence to collect",
-      "It makes all answers correct",
-      "It removes variables",
-      "It turns the question into an opinion"
+      "It tells the investigator what evidence could answer it.",
+      "It ensures there is only one possible prediction.",
+      "It means the result is already known.",
+      "It removes the need to describe conditions."
     ],
-    "correct": 0,
-    "explanation": "A measurable outcome guides data collection.\nHint: What data will answer it?",
-    "structuredExplanation": {
-      "summary": "A measurable outcome guides data collection.",
-      "hint": "What data will answer it?"
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A clear outcome connects the question to an evidence record.\nHint: Ask what should go in the results record.",
+    "structuredExplanation": {
+      "summary": "A clear outcome connects the question to an evidence record.",
+      "hint": "Ask what should go in the results record."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-018",
@@ -568,31 +551,31 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why might prior observations support a prediction about drying towels?",
-    "audioPrompt": "Why might prior observations support a prediction about drying towels?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A sample observation record shows less water passed through coated fabric than cotton. What is a reasonable prediction for a similar repeated test?",
+    "audioPrompt": "A sample observation record shows less water passed through coated fabric than cotton. What is a reasonable prediction for a similar repeated test?",
+    "visual": "Equal-sized material samples under the same drip test: cotton 7 mL passed through, coated fabric 1 mL, tissue 10 mL. These are imaginary classroom results, not product ratings.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Equal-sized material samples under the same drip test: cotton 7 mL passed through, coated fabric 1 mL, tissue 10 mL. These are imaginary classroom results, not product ratings.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i01/material-observations.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01/material-observations.svg#model",
+      "alt_text": "Equal-sized material samples under the same drip test: cotton 7 mL passed through, coated fabric 1 mL, tissue 10 mL. These are imaginary classroom results, not product ratings."
     },
     "answers": [
-      "Past observations must be ignored",
-      "Predictions need no support",
-      "Drying cannot be observed",
-      "If towels dried faster in sun before, that pattern can justify expecting it again"
+      "Exactly the same number must occur in every repeat.",
+      "The coated fabric must be best for every possible product.",
+      "No prediction is possible unless the material names are hidden.",
+      "Less water may pass through the coated fabric again."
     ],
-    "correct": 3,
-    "explanation": "Predictions can be based on earlier evidence or science ideas.\nHint: Use past pattern.",
-    "structuredExplanation": {
-      "summary": "Predictions can be based on earlier evidence or science ideas.",
-      "hint": "Use past pattern."
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The observed pattern supports a cautious prediction under similar conditions.\nHint: Predict the observed relationship, not certainty.",
+    "structuredExplanation": {
+      "summary": "The observed pattern supports a cautious prediction under similar conditions.",
+      "hint": "Predict the observed relationship, not certainty."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-019",
@@ -601,8 +584,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why is “Will it work?” usually too broad for an investigation?",
-    "audioPrompt": "Why is “Will it work?” usually too broad for an investigation?",
+    "question": "Why is “Will the model work?” too broad?",
+    "audioPrompt": "Why is “Will the model work?” too broad?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,22 +593,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is always a perfect question",
-      "It gives a precise unit",
-      "It does not state what will be changed or measured",
-      "It names every variable clearly"
+      "A model can never be investigated.",
+      "The word “will” makes every question unscientific.",
+      "The question needs to say what the model should do and how success will be observed.",
+      "A question must list the final result to be scientific."
     ],
-    "correct": 2,
-    "explanation": "A good testable question identifies a focused relationship.\nHint: Too vague.",
-    "structuredExplanation": {
-      "summary": "A good testable question identifies a focused relationship.",
-      "hint": "Too vague."
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Define success, such as a magnet moving a toy across a marked gap.\nHint: What would count as working?",
+    "structuredExplanation": {
+      "summary": "Define success, such as a magnet moving a toy across a marked gap.",
+      "hint": "What would count as working?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-020",
@@ -634,8 +616,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Why should predictions not be changed after seeing results?",
-    "audioPrompt": "Why should predictions not be changed after seeing results?",
+    "question": "Unexpected results do not match the original prediction. What should the student record?",
+    "audioPrompt": "Unexpected results do not match the original prediction. What should the student record?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -643,22 +625,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Every prediction must be right",
-      "Changing them after results hides whether the original idea was supported",
-      "Predictions are only decoration",
-      "Results should never be recorded"
+      "Rewrite the original prediction so it appears correct.",
+      "Keep the original prediction and record the new results honestly.",
+      "Remove the unexpected result before making a table.",
+      "Record only the results that the group expected."
     ],
-    "correct": 1,
-    "explanation": "Predictions are useful because they can be compared with the evidence collected.\nHint: Keep before-test thinking.",
-    "structuredExplanation": {
-      "summary": "Predictions are useful because they can be compared with the evidence collected.",
-      "hint": "Keep before-test thinking."
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The difference can improve understanding and lead to a revised prediction for a new test.\nHint: Preserve both the initial idea and the evidence.",
+    "structuredExplanation": {
+      "summary": "The difference can improve understanding and lead to a revised prediction for a new test.",
+      "hint": "Preserve both the initial idea and the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-021",
@@ -667,31 +648,31 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which statement is a misconception?",
-    "audioPrompt": "Which statement is a misconception?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "In the simplified food chain, many grasshoppers disappear. What may happen to frogs if other conditions stay similar?",
+    "audioPrompt": "In the simplified food chain, many grasshoppers disappear. What may happen to frogs if other conditions stay similar?",
+    "visual": "A simplified chain: grass is eaten by grasshoppers, which are eaten by frogs, which are eaten by snakes. Arrows run from food to eater.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A simplified chain: grass is eaten by grasshoppers, which are eaten by frogs, which are eaten by snakes. Arrows run from food to eater.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i01/food-chain.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01/food-chain.svg#model",
+      "alt_text": "A simplified chain: grass is eaten by grasshoppers, which are eaten by frogs, which are eaten by snakes. Arrows run from food to eater."
     },
     "answers": [
-      "A prediction is the same as a result",
-      "A prediction is made before testing",
-      "A result is measured after testing",
-      "A reason can support a prediction"
+      "Frogs may have less food available.",
+      "Frogs immediately become producers.",
+      "Grass must disappear because frogs eat all of it.",
+      "Snakes become the grasshoppers’ food."
     ],
-    "correct": 0,
-    "explanation": "Predictions and results happen at different stages of an investigation.\nHint: Before versus after.",
-    "structuredExplanation": {
-      "summary": "Predictions and results happen at different stages of an investigation.",
-      "hint": "Before versus after."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "explain",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Grasshoppers are shown as food for frogs. A reduced food source can affect frogs, though the model cannot predict exact numbers.\nHint: Follow the food-to-eater arrow.",
+    "structuredExplanation": {
+      "summary": "Grasshoppers are shown as food for frogs. A reduced food source can affect frogs, though the model cannot predict exact numbers.",
+      "hint": "Follow the food-to-eater arrow."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-022",
@@ -700,31 +681,31 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which revised question is best?",
-    "audioPrompt": "Which revised question is best?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A student says that frogs will decrease by exactly twelve when some grasshoppers disappear. What is missing?",
+    "audioPrompt": "A student says that frogs will decrease by exactly twelve when some grasshoppers disappear. What is missing?",
+    "visual": "A simplified chain: grass is eaten by grasshoppers, which are eaten by frogs, which are eaten by snakes. Arrows run from food to eater.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A simplified chain: grass is eaten by grasshoppers, which are eaten by frogs, which are eaten by snakes. Arrows run from food to eater.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i01/food-chain.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01/food-chain.svg#model",
+      "alt_text": "A simplified chain: grass is eaten by grasshoppers, which are eaten by frogs, which are eaten by snakes. Arrows run from food to eater."
     },
     "answers": [
-      "Which towel is best?",
-      "Which towel looks cleanest?",
-      "Can a towel be happy?",
-      "How does towel material affect millilitres of water absorbed in 30 seconds?"
+      "A longer name for the food chain",
+      "A vote confirming the number twelve",
+      "Proof that every consumer eats grass directly",
+      "Evidence that could justify that exact numerical prediction"
     ],
-    "correct": 3,
-    "explanation": "The revised question names the changed variable and measurable outcome.\nHint: Material and mL absorbed.",
-    "structuredExplanation": {
-      "summary": "The revised question names the changed variable and measurable outcome.",
-      "hint": "Material and mL absorbed."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "explain",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "A simple chain supports a possible direction of change, not an exact population change.\nHint: Distinguish a plausible direction from an invented number.",
+    "structuredExplanation": {
+      "summary": "A simple chain supports a possible direction of change, not an exact population change.",
+      "hint": "Distinguish a plausible direction from an invented number."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-023",
@@ -733,31 +714,31 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question changes too many factors at once?",
-    "audioPrompt": "Which question changes too many factors at once?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "If many frogs disappear from this simple chain, what might happen to grasshoppers?",
+    "audioPrompt": "If many frogs disappear from this simple chain, what might happen to grasshoppers?",
+    "visual": "A simplified chain: grass is eaten by grasshoppers, which are eaten by frogs, which are eaten by snakes. Arrows run from food to eater.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A simplified chain: grass is eaten by grasshoppers, which are eaten by frogs, which are eaten by snakes. Arrows run from food to eater.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i01/food-chain.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01/food-chain.svg#model",
+      "alt_text": "A simplified chain: grass is eaten by grasshoppers, which are eaten by frogs, which are eaten by snakes. Arrows run from food to eater."
     },
     "answers": [
-      "How does light time affect plant height?",
-      "How does magnet distance affect attraction?",
-      "How do ramp height and car mass together affect distance on different surfaces?",
-      "How does surface type affect distance rolled?"
+      "Grasshoppers stop needing food.",
+      "Grasshoppers become decomposers automatically.",
+      "More grasshoppers may survive because fewer frogs eat them.",
+      "Every grasshopper must immediately die."
     ],
-    "correct": 2,
-    "explanation": "The first question bundles several variables, making fair testing difficult.\nHint: Too many changed factors.",
-    "structuredExplanation": {
-      "summary": "The first question bundles several variables, making fair testing difficult.",
-      "hint": "Too many changed factors."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "explain",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Reduced predation may allow more grasshoppers to survive; other conditions still matter.\nHint: Consider what ate the grasshoppers.",
+    "structuredExplanation": {
+      "summary": "Reduced predation may allow more grasshoppers to survive; other conditions still matter.",
+      "hint": "Consider what ate the grasshoppers."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-024",
@@ -766,31 +747,31 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which is the best if–then–because prediction?",
-    "audioPrompt": "Which is the best if–then–because prediction?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A class wants to explore how removing grass affects the chain. Which prediction uses the model?",
+    "audioPrompt": "A class wants to explore how removing grass affects the chain. Which prediction uses the model?",
+    "visual": "A simplified chain: grass is eaten by grasshoppers, which are eaten by frogs, which are eaten by snakes. Arrows run from food to eater.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A simplified chain: grass is eaten by grasshoppers, which are eaten by frogs, which are eaten by snakes. Arrows run from food to eater.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i01/food-chain.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01/food-chain.svg#model",
+      "alt_text": "A simplified chain: grass is eaten by grasshoppers, which are eaten by frogs, which are eaten by snakes. Arrows run from food to eater."
     },
     "answers": [
-      "The paperclips are silver",
-      "If the magnet is closer, then it will attract more paperclips because magnetic force is stronger nearby",
-      "The magnet was close",
-      "I think magnets are cool"
+      "Only snakes can be affected because they are at the end.",
+      "Grasshoppers may have less food, which can also affect animals that eat them.",
+      "Removing a producer cannot affect any consumer.",
+      "The grasshoppers must start making their own food."
     ],
-    "correct": 1,
-    "explanation": "The prediction states an expected result and reason.\nHint: If, then, because.",
-    "structuredExplanation": {
-      "summary": "The prediction states an expected result and reason.",
-      "hint": "If, then, because."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "explain",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Changes can affect more than one link in a food chain.\nHint: Begin with the consumer that eats grass.",
+    "structuredExplanation": {
+      "summary": "Changes can affect more than one link in a food chain.",
+      "hint": "Begin with the consumer that eats grass."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-025",
@@ -799,8 +780,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which is the measured variable in a seedling light investigation?",
-    "audioPrompt": "Which is the measured variable in a seedling light investigation?",
+    "question": "Which question explores a food-chain pattern without harming living things?",
+    "audioPrompt": "Which question explores a food-chain pattern without harming living things?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -808,22 +789,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Plant height after two weeks",
-      "Hours of light each day",
-      "The type of window sticker",
-      "The student holding the ruler"
+      "How do animal numbers change in a card model when fewer producer cards are available?",
+      "How many live insects should we remove from the garden each day?",
+      "Which animal should we prevent from eating?",
+      "How long should we withhold water from a frog?"
     ],
-    "correct": 0,
-    "explanation": "Plant height is the outcome measured to answer the question.\nHint: Outcome.",
-    "structuredExplanation": {
-      "summary": "Plant height is the outcome measured to answer the question.",
-      "hint": "Outcome."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "apply",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A model can explore possible effects while avoiding harm to organisms.\nHint: Choose a model rather than changing a real habitat.",
+    "structuredExplanation": {
+      "summary": "A model can explore possible effects while avoiding harm to organisms.",
+      "hint": "Choose a model rather than changing a real habitat."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-026",
@@ -832,8 +812,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which is the changed variable in a towel absorbency test?",
-    "audioPrompt": "Which is the changed variable in a towel absorbency test?",
+    "question": "A student notices both frogs and grasshoppers were fewer after a dry season. Which question is most useful?",
+    "audioPrompt": "A student notices both frogs and grasshoppers were fewer after a dry season. Which question is most useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -841,22 +821,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Water absorbed",
-      "The results table heading",
-      "The unit mL",
-      "Towel material"
+      "Which animal name has more letters?",
+      "Does the observation prove frogs caused the drought?",
+      "Which animal should be blamed first?",
+      "How did food and habitat conditions change during the dry season?"
     ],
-    "correct": 3,
-    "explanation": "The towel material is deliberately changed to compare absorbency.\nHint: What varies by design?",
-    "structuredExplanation": {
-      "summary": "The towel material is deliberately changed to compare absorbency.",
-      "hint": "What varies by design?"
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "apply",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "A related question explores possible influences without assuming a cause from one observation.\nHint: Consider conditions affecting both organisms.",
+    "structuredExplanation": {
+      "summary": "A related question explores possible influences without assuming a cause from one observation.",
+      "hint": "Consider conditions affecting both organisms."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-027",
@@ -865,8 +844,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question is mostly an opinion?",
-    "audioPrompt": "Which question is mostly an opinion?",
+    "question": "Why should a teacher consult appropriate local First Nations knowledge holders about landscape and water-source observations?",
+    "audioPrompt": "Why should a teacher consult appropriate local First Nations knowledge holders about landscape and water-source observations?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -874,22 +853,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "How does paper thickness affect bridge strength?",
-      "How does fold shape affect load held?",
-      "Which bridge model looks best?",
-      "How many washers can each bridge model hold?"
+      "Every community uses an identical rule for every landscape.",
+      "The teacher should ask students to invent a traditional rule.",
+      "They can explain which place-specific knowledge may be shared and how it should be understood.",
+      "A map copied online removes the need for permission."
     ],
-    "correct": 2,
-    "explanation": "Looks best is based on preference unless criteria are defined.\nHint: Not measured.",
-    "structuredExplanation": {
-      "summary": "Looks best is based on preference unless criteria are defined.",
-      "hint": "Not measured."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "apply",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Consultation supports accurate local context, attribution and appropriate sharing.\nHint: Knowledge is connected to people and place.",
+    "structuredExplanation": {
+      "summary": "Consultation supports accurate local context, attribution and appropriate sharing.",
+      "hint": "Knowledge is connected to people and place."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-028",
@@ -898,8 +876,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which statement is a result, not a prediction?",
-    "audioPrompt": "Which statement is a result, not a prediction?",
+    "question": "A knowledge holder shares a permitted local observation about a landscape feature and water. Which student response fits the lesson?",
+    "audioPrompt": "A knowledge holder shares a permitted local observation about a landscape feature and water. Which student response fits the lesson?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -907,22 +885,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "I expect the sunny tray to dry first",
-      "The ice cube melted in 3 minutes 20 seconds",
-      "The ice may melt faster in warm water",
-      "If water is warmer, melting may be faster"
+      "Publish the location of every nearby water site without asking.",
+      "Record the shared observation with its allowed attribution and make a cautious local prediction.",
+      "Claim the observation guarantees water anywhere in Australia.",
+      "Replace the knowledge holder’s explanation with an invented story."
     ],
-    "correct": 1,
-    "explanation": "A result reports what happened after testing.\nHint: Already measured.",
-    "structuredExplanation": {
-      "summary": "A result reports what happened after testing.",
-      "hint": "Already measured."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "apply",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Use what was actually shared, within its local meaning and permissions.\nHint: Keep observation, prediction and permission separate.",
+    "structuredExplanation": {
+      "summary": "Use what was actually shared, within its local meaning and permissions.",
+      "hint": "Keep observation, prediction and permission separate."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-029",
@@ -931,8 +908,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which reason best supports a rough-surface prediction?",
-    "audioPrompt": "Which reason best supports a rough-surface prediction?",
+    "question": "The class has not yet consulted a local First Nations knowledge holder. What should its report say?",
+    "audioPrompt": "The class has not yet consulted a local First Nations knowledge holder. What should its report say?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -940,22 +917,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Friction is usually greater on rougher surfaces",
-      "The rough surface is my favourite",
-      "Rough things are always brown",
-      "The block has a label"
+      "Our consultation questions are prepared; local knowledge has not yet been provided.",
+      "Local First Nations people confirmed our prediction.",
+      "Our invented example is a traditional local teaching.",
+      "All communities agree with our classroom diagram."
     ],
-    "correct": 0,
-    "explanation": "The reason uses a relevant science idea.\nHint: Science reason.",
-    "structuredExplanation": {
-      "summary": "The reason uses a relevant science idea.",
-      "hint": "Science reason."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "apply",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A planned consultation is not evidence of an actual conversation or endorsement.\nHint: Report what has happened honestly.",
+    "structuredExplanation": {
+      "summary": "A planned consultation is not evidence of an actual conversation or endorsement.",
+      "hint": "Report what has happened honestly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-030",
@@ -964,8 +940,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Which question is easiest to test fairly?",
-    "audioPrompt": "Which question is easiest to test fairly?",
+    "question": "Which question is suitable for teacher-arranged consultation?",
+    "audioPrompt": "Which question is suitable for teacher-arranged consultation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -973,22 +949,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "What makes a garden perfect?",
-      "Do seeds enjoy rain and music?",
-      "Which seed looks luckiest?",
-      "How does the amount of water affect bean seed germination rate?"
+      "Can we publish every restricted water-site location?",
+      "Can we assume all communities predict water in the same way?",
+      "Which story can we claim as our own discovery?",
+      "Which landscape observations are appropriate for our class to discuss when making a local water-source prediction?"
     ],
-    "correct": 3,
-    "explanation": "The first question can be tested by changing water amount and measuring germination.\nHint: Clear variable and outcome.",
-    "structuredExplanation": {
-      "summary": "The first question can be tested by changing water amount and measuring germination.",
-      "hint": "Clear variable and outcome."
-    },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficulty": 3,
+    "difficultyTier": "apply",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The question invites guidance about relevant knowledge and what can be shared.\nHint: Invite the knowledge holder to set the boundaries.",
+    "structuredExplanation": {
+      "summary": "The question invites guidance about relevant knowledge and what can be shared.",
+      "hint": "Invite the knowledge holder to set the boundaries."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-031",
@@ -997,8 +972,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "A student notices plants near a window are taller. Which question best follows?",
-    "audioPrompt": "A student notices plants near a window are taller. Which question best follows?",
+    "question": "A shared observation suggests water may occur near a certain feature in one area. What does “may” communicate?",
+    "audioPrompt": "A shared observation suggests water may occur near a certain feature in one area. What does “may” communicate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,22 +981,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which plant is nicest?",
-      "Do plants like glass?",
-      "How does daily light exposure affect plant height over three weeks?",
-      "Why are windows magical?"
+      "The observation has already measured all water underground.",
+      "The prediction is not allowed to use any evidence.",
+      "The observation supports a possibility, not a guarantee for every place or season.",
+      "The same feature always marks safe drinking water."
     ],
-    "correct": 2,
-    "explanation": "The question turns the observation into a measurable relationship.\nHint: Light and height.",
-    "structuredExplanation": {
-      "summary": "The question turns the observation into a measurable relationship.",
-      "hint": "Light and height."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "A location prediction does not establish certainty or drinking-water safety.\nHint: Keep the strength of the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "A location prediction does not establish certainty or drinking-water safety.",
+      "hint": "Keep the strength of the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-032",
@@ -1030,8 +1004,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "A wet towel dries faster outside than inside. Which prediction is best?",
-    "audioPrompt": "A wet towel dries faster outside than inside. Which prediction is best?",
+    "question": "Which record would best support a prediction drawn from an approved community resource?",
+    "audioPrompt": "Which record would best support a prediction drawn from an approved community resource?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1039,22 +1013,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The towel dried at lunch",
-      "If a towel is placed in sun and wind, then it will dry faster because evaporation increases",
-      "The towel was blue",
-      "Outside is always better for everything"
+      "Only a drawing with an invented cultural label",
+      "The actual observation, its place and source, plus the prediction and its limits",
+      "A list of private site locations copied without consent",
+      "A statement that all local landscapes are identical"
     ],
-    "correct": 1,
-    "explanation": "The prediction gives an expected outcome and a science reason.\nHint: Expected plus because.",
-    "structuredExplanation": {
-      "summary": "The prediction gives an expected outcome and a science reason.",
-      "hint": "Expected plus because."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A clear record connects a prediction to real, attributable evidence.\nHint: Make it possible to trace the reason.",
+    "structuredExplanation": {
+      "summary": "A clear record connects a prediction to real, attributable evidence.",
+      "hint": "Make it possible to trace the reason."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-033",
@@ -1063,31 +1036,31 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "A group wants to test magnet distance and paperclip size at the same time. What should they do first?",
-    "audioPrompt": "A group wants to test magnet distance and paperclip size at the same time. What should they do first?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "The same unlike magnetic poles moved together at gaps of one and two centimetres, but not visibly at six. What is a supported prediction at a smaller tested gap?",
+    "audioPrompt": "The same unlike magnetic poles moved together at gaps of one and two centimetres, but not visibly at six. What is a supported prediction at a smaller tested gap?",
+    "visual": "Classroom observations with the same two magnets: unlike poles moved together at 1 cm and 2 cm, with no visible movement at 6 cm; like poles moved apart at 1 cm and 2 cm, with no visible movement at 6 cm.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classroom observations with the same two magnets: unlike poles moved together at 1 cm and 2 cm, with no visible movement at 6 cm; like poles moved apart at 1 cm and 2 cm, with no visible movement at 6 cm.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i01/magnet-observations.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01/magnet-observations.svg#model",
+      "alt_text": "Classroom observations with the same two magnets: unlike poles moved together at 1 cm and 2 cm, with no visible movement at 6 cm; like poles moved apart at 1 cm and 2 cm, with no visible movement at 6 cm."
     },
     "answers": [
-      "Choose one changed variable for a clearer fair test",
-      "Change both and guess the cause",
-      "Stop using paperclips",
-      "Measure colour instead"
+      "Visible attraction is more likely at one centimetre than at six in this setup.",
+      "Unlike poles must repel at every small gap.",
+      "No force can ever act unless magnets touch.",
+      "Every magnet in the world moves at exactly the same distance."
     ],
-    "correct": 0,
-    "explanation": "One changed variable makes results easier to interpret.\nHint: Focus the relationship.",
-    "structuredExplanation": {
-      "summary": "One changed variable makes results easier to interpret.",
-      "hint": "Focus the relationship."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The observations support a gap-related expectation for the same setup, not a universal distance.\nHint: Use the observed movement pattern.",
+    "structuredExplanation": {
+      "summary": "The observations support a gap-related expectation for the same setup, not a universal distance.",
+      "hint": "Use the observed movement pattern."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-034",
@@ -1096,31 +1069,31 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "A student writes a prediction after seeing the results. Why is that a problem?",
-    "audioPrompt": "A student writes a prediction after seeing the results. Why is that a problem?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Like poles moved apart at one and two centimetres. What would be a reasonable prediction for another trial at two centimetres?",
+    "audioPrompt": "Like poles moved apart at one and two centimetres. What would be a reasonable prediction for another trial at two centimetres?",
+    "visual": "Classroom observations with the same two magnets: unlike poles moved together at 1 cm and 2 cm, with no visible movement at 6 cm; like poles moved apart at 1 cm and 2 cm, with no visible movement at 6 cm.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classroom observations with the same two magnets: unlike poles moved together at 1 cm and 2 cm, with no visible movement at 6 cm; like poles moved apart at 1 cm and 2 cm, with no visible movement at 6 cm.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i01/magnet-observations.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01/magnet-observations.svg#model",
+      "alt_text": "Classroom observations with the same two magnets: unlike poles moved together at 1 cm and 2 cm, with no visible movement at 6 cm; like poles moved apart at 1 cm and 2 cm, with no visible movement at 6 cm."
     },
     "answers": [
-      "It improves fairness automatically",
-      "It makes the results disappear",
-      "Predictions must always be after conclusions",
-      "It is no longer a before-test expectation that can be checked against evidence"
+      "They must change into unlike poles.",
+      "They will certainly attract because the gap is small.",
+      "They cannot move until the magnets touch.",
+      "They may move apart again with the same arrangement."
     ],
-    "correct": 3,
-    "explanation": "Predictions are meant to be compared with later results.\nHint: Before test.",
-    "structuredExplanation": {
-      "summary": "Predictions are meant to be compared with later results.",
-      "hint": "Before test."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Like poles repel. The prediction uses both the pole arrangement and the earlier movement.\nHint: Check whether the facing poles are alike.",
+    "structuredExplanation": {
+      "summary": "Like poles repel. The prediction uses both the pole arrangement and the earlier movement.",
+      "hint": "Check whether the facing poles are alike."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-035",
@@ -1129,31 +1102,31 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "You are testing how surface affects sliding distance. Which prediction is strongest?",
-    "audioPrompt": "You are testing how surface affects sliding distance. Which prediction is strongest?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Why is no visible movement at six centimetres not proof of no magnetic force at all?",
+    "audioPrompt": "Why is no visible movement at six centimetres not proof of no magnetic force at all?",
+    "visual": "Classroom observations with the same two magnets: unlike poles moved together at 1 cm and 2 cm, with no visible movement at 6 cm; like poles moved apart at 1 cm and 2 cm, with no visible movement at 6 cm.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classroom observations with the same two magnets: unlike poles moved together at 1 cm and 2 cm, with no visible movement at 6 cm; like poles moved apart at 1 cm and 2 cm, with no visible movement at 6 cm.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i01/magnet-observations.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01/magnet-observations.svg#model",
+      "alt_text": "Classroom observations with the same two magnets: unlike poles moved together at 1 cm and 2 cm, with no visible movement at 6 cm; like poles moved apart at 1 cm and 2 cm, with no visible movement at 6 cm."
     },
     "answers": [
-      "The block will do something",
-      "The ruler will measure",
-      "If the surface is carpet, then the block will travel less far because friction is greater",
-      "Carpet is nice"
+      "Magnets only exist when they move.",
+      "A ruler switches the force off at six centimetres.",
+      "The force may be too weak to produce visible movement against resistance in that setup.",
+      "No observation can ever inform a prediction."
     ],
-    "correct": 2,
-    "explanation": "The prediction names the expected outcome and reason.\nHint: Surface, distance and friction.",
-    "structuredExplanation": {
-      "summary": "The prediction names the expected outcome and reason.",
-      "hint": "Surface, distance and friction."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Movement depends on magnetic force and resistance; lack of visible movement is a limited observation.\nHint: Distinguish what was observed from an absolute claim.",
+    "structuredExplanation": {
+      "summary": "Movement depends on magnetic force and resistance; lack of visible movement is a limited observation.",
+      "hint": "Distinguish what was observed from an absolute claim."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-036",
@@ -1162,8 +1135,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "A student asks, “Are magnets strong?” How can this be improved?",
-    "audioPrompt": "A student asks, “Are magnets strong?” How can this be improved?",
+    "question": "A class turns one magnet around between distance trials without recording it. What should be clarified before predicting?",
+    "audioPrompt": "A class turns one magnet around between distance trials without recording it. What should be clarified before predicting?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1171,22 +1144,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which magnet is coolest?",
-      "How does distance from the magnet affect the number of paperclips attracted?",
-      "Are magnets better than science?",
-      "Do magnets feel strong?"
+      "Which student wrote the neatest title",
+      "Which poles face one another, because that affects attraction or repulsion",
+      "Whether the table heading is underlined",
+      "Whether a prediction contains exactly ten words"
     ],
-    "correct": 1,
-    "explanation": "The improved question names a variable and measurable outcome.\nHint: Distance and number attracted.",
-    "structuredExplanation": {
-      "summary": "The improved question names a variable and measurable outcome.",
-      "hint": "Distance and number attracted."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A gap comparison needs the same pole arrangement to mean the same thing.\nHint: Identify the unrecorded condition.",
+    "structuredExplanation": {
+      "summary": "A gap comparison needs the same pole arrangement to mean the same thing.",
+      "hint": "Identify the unrecorded condition."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-037",
@@ -1195,8 +1167,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "A class observes ice melts faster in a metal tray than a foam tray. Which question is testable?",
-    "audioPrompt": "A class observes ice melts faster in a metal tray than a foam tray. Which question is testable?",
+    "question": "A prediction says “The magnets will move.” What detail would make it more useful?",
+    "audioPrompt": "A prediction says “The magnets will move.” What detail would make it more useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1204,22 +1176,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "How does tray material affect ice melting time?",
-      "Which tray is more beautiful?",
-      "Does ice like metal?",
-      "Why is foam boring?"
+      "Whether they will move together or apart at a stated gap, with an observation-based reason",
+      "A statement that results cannot differ",
+      "A favourite magnet colour",
+      "The final result copied in advance"
     ],
-    "correct": 0,
-    "explanation": "The question compares one variable with a measurable outcome.\nHint: Material and time.",
-    "structuredExplanation": {
-      "summary": "The question compares one variable with a measurable outcome.",
-      "hint": "Material and time."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A useful prediction states the expected action and conditions and explains the reason.\nHint: Be specific about movement and distance.",
+    "structuredExplanation": {
+      "summary": "A useful prediction states the expected action and conditions and explains the reason.",
+      "hint": "Be specific about movement and distance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-038",
@@ -1228,8 +1199,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "A prediction says, “The plant will grow more.” What should be added?",
-    "audioPrompt": "A prediction says, “The plant will grow more.” What should be added?",
+    "question": "A toy uses stronger magnets than those in the lesson’s observation record. Can the old record give its exact movement distance?",
+    "audioPrompt": "A toy uses stronger magnets than those in the lesson’s observation record. Can the old record give its exact movement distance?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1237,22 +1208,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A favourite colour",
-      "The final result before testing",
-      "A joke about plants",
-      "The condition being changed and the reason for expecting more growth"
+      "Yes; every magnet has one shared movement distance.",
+      "Yes; magnet colour fixes the distance.",
+      "No; magnets cannot be investigated more than once.",
+      "No; test the new setup before claiming an exact distance."
     ],
-    "correct": 3,
-    "explanation": "A strong prediction identifies the changed condition and gives a reason.\nHint: Add if and because.",
-    "structuredExplanation": {
-      "summary": "A strong prediction identifies the changed condition and gives a reason.",
-      "hint": "Add if and because."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Magnet strength and resistance may differ, so a new setup needs relevant evidence.\nHint: Check whether the earlier conditions still match.",
+    "structuredExplanation": {
+      "summary": "Magnet strength and resistance may differ, so a new setup needs relevant evidence.",
+      "hint": "Check whether the earlier conditions still match."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-039",
@@ -1261,8 +1231,8 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "A group wants to know whether soil type affects water drainage. What should they measure?",
-    "audioPrompt": "A group wants to know whether soil type affects water drainage. What should they measure?",
+    "question": "Which question could help explore why metal is often used for saucepan bases?",
+    "audioPrompt": "Which question could help explore why metal is often used for saucepan bases?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1270,22 +1240,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which soil name is shorter",
-      "How loud the water sounds only",
-      "Time or volume of water draining through each soil",
-      "Which soil looks nicest"
+      "Which saucepan handle colour is the class favourite?",
+      "Which saucepan brand name sounds most interesting?",
+      "How does each material transfer heat to food under the same conditions?",
+      "Which material name is shortest to write?"
     ],
-    "correct": 2,
-    "explanation": "Drainage questions need measurable evidence such as time or volume.\nHint: Measurable outcome.",
-    "structuredExplanation": {
-      "summary": "Drainage questions need measurable evidence such as time or volume.",
-      "hint": "Measurable outcome."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
+    "difficultyTier": "independent",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Ask about properties related to the product’s purpose; different materials have different strengths and limitations.\nHint: Connect the property to the job.",
+    "structuredExplanation": {
+      "summary": "Ask about properties related to the product’s purpose; different materials have different strengths and limitations.",
+      "hint": "Connect the property to the job."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i01-p-040",
@@ -1294,8 +1263,41 @@ window.skillrPracticeQuestions = [
     "skill": "scientific questions and evidence based predictions",
     "printable": true,
     "type": "single",
-    "question": "Two predictions seem possible from different observations. What investigation helps decide?",
-    "audioPrompt": "Two predictions seem possible from different observations. What investigation helps decide?",
+    "question": "In the drip model, which further question explores a limit of choosing coated fabric for a rain cover?",
+    "audioPrompt": "In the drip model, which further question explores a limit of choosing coated fabric for a rain cover?",
+    "visual": "Equal-sized material samples under the same drip test: cotton 7 mL passed through, coated fabric 1 mL, tissue 10 mL. These are imaginary classroom results, not product ratings.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Equal-sized material samples under the same drip test: cotton 7 mL passed through, coated fabric 1 mL, tissue 10 mL. These are imaginary classroom results, not product ratings.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i01/material-observations.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01/material-observations.svg#model",
+      "alt_text": "Equal-sized material samples under the same drip test: cotton 7 mL passed through, coated fabric 1 mL, tissue 10 mL. These are imaginary classroom results, not product ratings."
+    },
+    "answers": [
+      "Does the smallest number prove it can never leak?",
+      "Does it still resist water after repeated bending?",
+      "Which student likes the sample label most?",
+      "Can the evidence tell us its exact price?"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 40,
+    "correct": 1,
+    "explanation": "A relevant follow-up explores whether the useful property remains under another use condition.\nHint: Think about a condition encountered during use.",
+    "structuredExplanation": {
+      "summary": "A relevant follow-up explores whether the useful property remains under another use condition.",
+      "hint": "Think about a condition encountered during use."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i01-p-041",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific questions and evidence based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Students see pond water levels lower after several dry days. Which prediction uses that observation without claiming certainty?",
+    "audioPrompt": "Students see pond water levels lower after several dry days. Which prediction uses that observation without claiming certainty?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1303,21 +1305,250 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ignoring both observations",
-      "A fair test collecting evidence about the named variables",
-      "A vote for the popular prediction",
-      "Changing the prediction after results"
+      "If dry conditions continue, the pond level may fall further.",
+      "The pond must be empty tomorrow at noon.",
+      "The observation proves people removed all the water.",
+      "Rain can never raise the pond level."
     ],
-    "correct": 1,
-    "explanation": "Evidence from a focused fair test can support or challenge predictions.\nHint: Test with data.",
-    "structuredExplanation": {
-      "summary": "Evidence from a focused fair test can support or challenge predictions.",
-      "hint": "Test with data."
-    },
-    "stage": "apply",
     "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "difficultyTier": "independent",
+    "sequencePriority": 41,
+    "correct": 0,
+    "explanation": "The prediction extends an observed pattern while allowing for other changes.\nHint: State a possible next outcome with its condition.",
+    "structuredExplanation": {
+      "summary": "The prediction extends an observed pattern while allowing for other changes.",
+      "hint": "State a possible next outcome with its condition."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i01-p-042",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific questions and evidence based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Which question can be investigated by observing rather than deliberately changing conditions?",
+    "audioPrompt": "Which question can be investigated by observing rather than deliberately changing conditions?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Which feeder design name sounds friendliest?",
+      "Which bird is the class favourite?",
+      "Which observer should win a prize?",
+      "At which times do more birds visit the same garden feeder?"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 42,
+    "correct": 3,
+    "explanation": "Scientific inquiry can compare observations over time without manipulating the animals.\nHint: Look for a question answered with a record.",
+    "structuredExplanation": {
+      "summary": "Scientific inquiry can compare observations over time without manipulating the animals.",
+      "hint": "Look for a question answered with a record."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i01-p-043",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific questions and evidence based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "Two predictions differ about a material’s performance. What should the class do?",
+    "audioPrompt": "Two predictions differ about a material’s performance. What should the class do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Choose whichever prediction received more votes.",
+      "Remove the prediction made by the younger student.",
+      "State each reason and collect relevant evidence under a clear, fair comparison.",
+      "Treat both predictions as already proven."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 43,
+    "correct": 2,
+    "explanation": "Evidence can support or challenge predictions; popularity cannot decide the material’s property.\nHint: Compare reasons using observations.",
+    "structuredExplanation": {
+      "summary": "Evidence can support or challenge predictions; popularity cannot decide the material’s property.",
+      "hint": "Compare reasons using observations."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i01-p-044",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific questions and evidence based predictions",
+    "printable": true,
+    "type": "single",
+    "question": "After a new test, students revise a prediction for their next investigation. Is that appropriate?",
+    "audioPrompt": "After a new test, students revise a prediction for their next investigation. Is that appropriate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "No; predictions must never be reconsidered.",
+      "Yes, if they keep the original record and explain the new evidence behind the revised prediction.",
+      "Yes, if they erase any earlier evidence that disagrees.",
+      "No; only the first idea can be scientific."
+    ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 44,
+    "correct": 1,
+    "explanation": "Changing ideas in response to evidence is useful when records remain honest.\nHint: Separate revising a future idea from rewriting history.",
+    "structuredExplanation": {
+      "summary": "Changing ideas in response to evidence is useful when records remain honest.",
+      "hint": "Separate revising a future idea from rewriting history."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i01-p-045",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific questions and evidence based predictions",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "For example, a coated rain cover sheds drops; ask whether coated fabric lets less water through than woven cotton; predict less passing through based on the observation.",
+    "acceptanceNote": "Inspect three distinct parts and a relevant evidence-based link. Accept different safe examples; a preference alone is not evidence.",
+    "responseInstructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Observe two familiar products made from different materials. Write one actual observation, one question about a property linked to a product’s use, and a prediction with a reason. You may use the lesson’s drip observations if objects are unavailable.",
+    "audioPrompt": "Observe two familiar products made from different materials. Write one actual observation, one question about a property linked to a product’s use, and a prediction with a reason. You may use the lesson’s drip observations if objects are unavailable.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 45,
+    "correct": "For example, a coated rain cover sheds drops; ask whether coated fabric lets less water through than woven cotton; predict less passing through based on the observation.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "For example, a coated rain cover sheds drops; ask whether coated fabric lets less water through than woven cotton; predict less passing through based on the observation.",
+      "hint": "Use the observations and the purpose of the investigation."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i01-p-046",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific questions and evidence based predictions",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "For grass → grasshopper → frog, fewer grasshoppers may mean less food for frogs and less grass eaten. Other valid chains and qualified effects are acceptable.",
+    "acceptanceNote": "Check arrow direction, accurate feeding relationships and two reasoned possibilities; do not require exact population numbers.",
+    "responseInstructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Draw a simple food chain with a producer and two consumers. Mark one organism as less available. Write two linked possible effects and explain each using the feeding relationships. Use a paper model only.",
+    "audioPrompt": "Draw a simple food chain with a producer and two consumers. Mark one organism as less available. Write two linked possible effects and explain each using the feeding relationships. Use a paper model only.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 46,
+    "correct": "For grass → grasshopper → frog, fewer grasshoppers may mean less food for frogs and less grass eaten. Other valid chains and qualified effects are acceptable.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "For grass → grasshopper → frog, fewer grasshoppers may mean less food for frogs and less grass eaten. Other valid chains and qualified effects are acceptable.",
+      "hint": "Use the observations and the purpose of the investigation."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i01-p-047",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific questions and evidence based predictions",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Ask what local observations may be discussed, what predictions they support and what limits or recording permissions apply. Attribute only what is actually shared and approved.",
+    "acceptanceNote": "Inspect three suitable questions plus an attribution/permission plan. Do not accept invented cultural claims or assumed consent.",
+    "responseInstructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Draft three respectful questions for a teacher to use when arranging consultation about landscape observations and water-source predictions with appropriate local First Nations knowledge holders. Add how your class would record the source and follow sharing guidance. This task is preparation, not a claim that consultation occurred.",
+    "audioPrompt": "Draft three respectful questions for a teacher to use when arranging consultation about landscape observations and water-source predictions with appropriate local First Nations knowledge holders. Add how your class would record the source and follow sharing guidance. This task is preparation, not a claim that consultation occurred.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 47,
+    "correct": "Ask what local observations may be discussed, what predictions they support and what limits or recording permissions apply. Attribute only what is actually shared and approved.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Ask what local observations may be discussed, what predictions they support and what limits or recording permissions apply. Attribute only what is actually shared and approved.",
+      "hint": "Use the observations and the purpose of the investigation."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i01-p-048",
+    "curriculumCode": "AC9S4I01",
+    "bank": "practice",
+    "skill": "scientific questions and evidence based predictions",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "At one or two centimetres, unlike poles may move together and like poles may move apart again. These movements were observed; at six centimetres force may not overcome resistance enough to cause visible movement.",
+    "acceptanceNote": "Inspect both attraction and repulsion, stated gaps, observation-based reasons and a qualified interpretation of no visible movement.",
+    "responseInstructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Use the magnet observation diagram. Write one prediction for unlike poles and one for like poles at a tested gap. Give a recorded observation as each reason and explain why no movement at the large gap does not prove there is no force.",
+    "audioPrompt": "Use the magnet observation diagram. Write one prediction for unlike poles and one for like poles at a tested gap. Give a recorded observation as each reason and explain why no movement at the large gap does not prove there is no force.",
+    "visual": "Classroom observations with the same two magnets: unlike poles moved together at 1 cm and 2 cm, with no visible movement at 6 cm; like poles moved apart at 1 cm and 2 cm, with no visible movement at 6 cm.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Classroom observations with the same two magnets: unlike poles moved together at 1 cm and 2 cm, with no visible movement at 6 cm; like poles moved apart at 1 cm and 2 cm, with no visible movement at 6 cm.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i01/magnet-observations.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i01/magnet-observations.svg#model",
+      "alt_text": "Classroom observations with the same two magnets: unlike poles moved together at 1 cm and 2 cm, with no visible movement at 6 cm; like poles moved apart at 1 cm and 2 cm, with no visible movement at 6 cm."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 48,
+    "correct": "At one or two centimetres, unlike poles may move together and like poles may move apart again. These movements were observed; at six centimetres force may not overcome resistance enough to cause visible movement.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "At one or two centimetres, unlike poles may move together and like poles may move apart again. These movements were observed; at six centimetres force may not overcome resistance enough to cause visible movement.",
+      "hint": "Read each row before predicting."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

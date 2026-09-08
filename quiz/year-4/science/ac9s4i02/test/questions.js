@@ -7,8 +7,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "In a test of soil drainage, what should be changed deliberately?",
-    "audioPrompt": "In a test of soil drainage, what should be changed deliberately?",
+    "question": "A class compares cloth thickness using equal-sized pieces. What should be deliberately changed?",
+    "audioPrompt": "A class compares cloth thickness using equal-sized pieces. What should be deliberately changed?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,21 +16,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Timer colour",
-      "Student height",
-      "Soil type",
-      "Amount of water drained"
+      "Cloth thickness",
+      "The time allowed and starting water together",
+      "The unit used for each result",
+      "The result after the measurement"
     ],
-    "correct": 2,
-    "explanation": "The changed variable is the factor being compared.\nHint: What varies?",
-    "structuredExplanation": {
-      "summary": "The changed variable is the factor being compared.",
-      "hint": "What varies?"
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The comparison should focus on the factor named in the question.\nHint: Identify the chosen factor.",
+    "structuredExplanation": {
+      "summary": "The comparison should focus on the factor named in the question.",
+      "hint": "Identify the chosen factor."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-002",
@@ -39,8 +39,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "Which is the measured variable for soil drainage?",
-    "audioPrompt": "Which is the measured variable for soil drainage?",
+    "question": "Students test how surface affects a toy truck’s stopping distance. Which is a control?",
+    "audioPrompt": "Students test how surface affects a toy truck’s stopping distance. Which is a control?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -48,21 +48,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Group name",
-      "Volume or time of water draining",
-      "Soil type",
-      "Cup decoration"
+      "Use a different surface each time.",
+      "Change the measured stopping distance.",
+      "Choose a different unit for each surface.",
+      "Use the same truck and release method."
     ],
-    "correct": 1,
-    "explanation": "The measured variable is the recorded outcome.\nHint: What do you record?",
-    "structuredExplanation": {
-      "summary": "The measured variable is the recorded outcome.",
-      "hint": "What do you record?"
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Truck and release method should remain comparable while surface changes.\nHint: Which other influence can be kept the same?",
+    "structuredExplanation": {
+      "summary": "Truck and release method should remain comparable while surface changes.",
+      "hint": "Which other influence can be kept the same?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-003",
@@ -71,8 +71,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "Which control makes a soil-drainage test fairer?",
-    "audioPrompt": "Which control makes a soil-drainage test fairer?",
+    "question": "Why must a shoe-friction comparison state the floor and total shoe-plus-load mass?",
+    "audioPrompt": "Why must a shoe-friction comparison state the floor and total shoe-plus-load mass?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -80,21 +80,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the same mass of soil in each container",
-      "Use different water amounts",
-      "Use different container holes",
-      "Stop timing one soil early"
+      "Both guarantee equal meter readings.",
+      "The floor colour is the measured force.",
+      "Both could affect sliding resistance and should be controlled.",
+      "The mass should be changed whenever a prediction is wrong."
     ],
-    "correct": 0,
-    "explanation": "Keeping soil amount the same helps compare soil type fairly.\nHint: Same amount.",
-    "structuredExplanation": {
-      "summary": "Keeping soil amount the same helps compare soil type fairly.",
-      "hint": "Same amount."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The method must distinguish the shoe comparison from other influences on friction.\nHint: Look for competing influences.",
+    "structuredExplanation": {
+      "summary": "The method must distinguish the shoe comparison from other influences on friction.",
+      "hint": "Look for competing influences."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-004",
@@ -103,8 +103,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "Which safety control suits scissors used to cut cardboard?",
-    "audioPrompt": "Which safety control suits scissors used to cut cardboard?",
+    "question": "A class compares materials with the same magnet. Some samples start touching it while others start five centimetres away. What should improve?",
+    "audioPrompt": "A class compares materials with the same magnet. Some samples start touching it while others start five centimetres away. What should improve?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -112,21 +112,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Run while holding scissors",
-      "Leave scissors open on chairs",
-      "Cut toward another person",
-      "Cut away from fingers and pass scissors handle-first"
+      "Keep unequal gaps but hide that from the report.",
+      "Use the same stated starting gap and observation procedure.",
+      "Record attraction only for the favourite material.",
+      "Change the magnet for every sample as well."
     ],
-    "correct": 3,
-    "explanation": "A specific control reduces the cutting hazard.\nHint: Safe handling.",
-    "structuredExplanation": {
-      "summary": "A specific control reduces the cutting hazard.",
-      "hint": "Safe handling."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Unequal gaps can make the material comparison unfair.\nHint: Make the test conditions comparable.",
+    "structuredExplanation": {
+      "summary": "Unequal gaps can make the material comparison unfair.",
+      "hint": "Make the test conditions comparable."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-005",
@@ -135,8 +135,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "Why repeat a paper-plane distance test?",
-    "audioPrompt": "Why repeat a paper-plane distance test?",
+    "question": "A force meter’s hook is damaged before a planned trial. What should students do?",
+    "audioPrompt": "A force meter’s hook is damaged before a planned trial. What should students do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -144,21 +144,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Repeats remove measuring units",
-      "One throw proves every result",
-      "Throws can vary, so repeats help identify the usual pattern",
-      "Repeats make planes heavier"
+      "Stop and ask the adult to replace or adapt the equipment before continuing.",
+      "Pull harder to see whether it still holds.",
+      "Use it because the first reading might be enough.",
+      "Hide the damage so the results are not delayed."
     ],
-    "correct": 2,
-    "explanation": "Repeated trials improve reliability in variable tests.\nHint: Variation.",
-    "structuredExplanation": {
-      "summary": "Repeated trials improve reliability in variable tests.",
-      "hint": "Variation."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Damaged equipment should not be used in a load test.\nHint: Check equipment before collecting data.",
+    "structuredExplanation": {
+      "summary": "Damaged equipment should not be used in a load test.",
+      "hint": "Check equipment before collecting data."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-006",
@@ -167,8 +167,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "Which method is clearest?",
-    "audioPrompt": "Which method is clearest?",
+    "question": "A group wants a paper ball to stop in a tabletop target. Which prediction correctly connects a design change with forces?",
+    "audioPrompt": "A group wants a paper ball to stop in a tabletop target. Which prediction correctly connects a design change with forces?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -176,21 +176,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "See what happens somehow",
-      "Release the marble from the 20 cm mark without pushing and measure distance in cm",
-      "Do the marble thing",
-      "Make it roll nicely"
+      "A rougher surface removes gravity from the ball.",
+      "A target drawn in red magnetically attracts paper.",
+      "A level table always makes a ball speed up forever.",
+      "A rougher landing surface may slow the ball sooner because friction resists its motion."
     ],
-    "correct": 1,
-    "explanation": "A clear step tells exactly what to do and measure.\nHint: Specific action.",
-    "structuredExplanation": {
-      "summary": "A clear step tells exactly what to do and measure.",
-      "hint": "Specific action."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Friction can oppose motion and affect stopping distance.\nHint: Identify a force related to the changed surface.",
+    "structuredExplanation": {
+      "summary": "Friction can oppose motion and affect stopping distance.",
+      "hint": "Identify a force related to the changed surface."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-007",
@@ -199,8 +199,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A group changes magnet size and distance together. What is the problem?",
-    "audioPrompt": "A group changes magnet size and distance together. What is the problem?",
+    "question": "Which evidence shows that students conducted a prototype investigation?",
+    "audioPrompt": "Which evidence shows that students conducted a prototype investigation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -208,21 +208,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "They cannot tell which variable caused the result",
-      "The result becomes automatically reliable",
-      "It is safer because more changed",
-      "Magnets cannot be tested"
+      "They drew a perfect score on the plan before building.",
+      "They listed materials but did not test the design.",
+      "They built a trial game, recorded repeated outcomes and used them to plan an improvement.",
+      "They voted that the unbuilt toy would be successful."
     ],
-    "correct": 0,
-    "explanation": "Changing multiple factors weakens cause-and-effect conclusions.\nHint: One change at a time.",
-    "structuredExplanation": {
-      "summary": "Changing multiple factors weakens cause-and-effect conclusions.",
-      "hint": "One change at a time."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Actual construction and test observations go beyond planning or opinion.\nHint: Look for built work and recorded trials.",
+    "structuredExplanation": {
+      "summary": "Actual construction and test observations go beyond planning or opinion.",
+      "hint": "Look for built work and recorded trials."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-008",
@@ -231,8 +231,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "Which statement about hazards is correct?",
-    "audioPrompt": "Which statement about hazards is correct?",
+    "question": "A ramp-game comparison changes ball size, release height and landing surface together. What should improve?",
+    "audioPrompt": "A ramp-game comparison changes ball size, release height and landing surface together. What should improve?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -240,21 +240,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A hazard is always the final result",
-      "Hazards are the same as predictions",
-      "Hazards make tests fair",
-      "A hazard is something that could cause harm"
+      "Change more features to make the answer clearer.",
+      "Choose one feature to compare and keep the other relevant conditions the same.",
+      "Use the first successful roll as every result.",
+      "Remove the written question so all results count as success."
     ],
-    "correct": 3,
-    "explanation": "Hazards are possible sources of harm or damage.\nHint: Risk source.",
-    "structuredExplanation": {
-      "summary": "Hazards are possible sources of harm or damage.",
-      "hint": "Risk source."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A controlled comparison makes the effect of a design change easier to interpret.\nHint: Reduce competing explanations.",
+    "structuredExplanation": {
+      "summary": "A controlled comparison makes the effect of a design change easier to interpret.",
+      "hint": "Reduce competing explanations."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-009",
@@ -263,8 +263,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "Which is a specific control for a trip hazard from bags near benches?",
-    "audioPrompt": "Which is a specific control for a trip hazard from bags near benches?",
+    "question": "In a food-chain model, each herbivore card requires one plant token. The class compares eight plant tokens with four while keeping six herbivore cards. Which prediction follows the rules?",
+    "audioPrompt": "In a food-chain model, each herbivore card requires one plant token. The class compares eight plant tokens with four while keeping six herbivore cards. Which prediction follows the rules?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -272,21 +272,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ignore the bags",
-      "Walk faster past the bags",
-      "Move bags under benches before testing starts",
-      "Be careful near bags"
+      "Fewer herbivore cards may receive food in the four-token condition.",
+      "Every herbivore becomes a producer in the four-token condition.",
+      "Changing plant tokens cannot affect food availability.",
+      "Four plant tokens feed more herbivores than eight under the same rule."
     ],
-    "correct": 2,
-    "explanation": "Moving bags reduces the chance of tripping.\nHint: Remove the hazard.",
-    "structuredExplanation": {
-      "summary": "Moving bags reduces the chance of tripping.",
-      "hint": "Remove the hazard."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The available food limits how many cards receive their required token.\nHint: Apply the same feeding rule in both conditions.",
+    "structuredExplanation": {
+      "summary": "The available food limits how many cards receive their required token.",
+      "hint": "Apply the same feeding rule in both conditions."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-010",
@@ -295,8 +295,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A pilot test shows the measuring jug scale is hard to read. What should happen?",
-    "audioPrompt": "A pilot test shows the measuring jug scale is hard to read. What should happen?",
+    "question": "What is required for three genuine runs of a paper food-chain simulation?",
+    "audioPrompt": "What is required for three genuine runs of a paper food-chain simulation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -304,21 +304,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy a neat table",
-      "Choose a clearer tool or revise the recording method",
-      "Guess the volumes",
-      "Stop using units"
+      "Copy one outcome into three rows.",
+      "Change the feeding rule in every run without noting it.",
+      "Keep removing cards between runs even when the starting condition should be the same.",
+      "Reset the starting cards, follow the same rules and record each new run."
     ],
-    "correct": 1,
-    "explanation": "Pilot testing helps find and fix measurement problems.\nHint: Improve before full test.",
-    "structuredExplanation": {
-      "summary": "Pilot testing helps find and fix measurement problems.",
-      "hint": "Improve before full test."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "A repeat is a new run of the stated setup, with an honest record.\nHint: Reset, run, record.",
+    "structuredExplanation": {
+      "summary": "A repeat is a new run of the stated setup, with an honest record.",
+      "hint": "Reset, run, record."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-011",
@@ -327,8 +327,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "Which is not a controlled variable in a fair test of surface type?",
-    "audioPrompt": "Which is not a controlled variable in a fair test of surface type?",
+    "question": "Why should a class be cautious when applying a food-chain simulation to a real habitat?",
+    "audioPrompt": "Why should a class be cautious when applying a food-chain simulation to a real habitat?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -336,21 +336,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Surface type",
-      "Toy car used",
-      "Ramp height",
-      "Release point"
+      "A model cannot help students ask any questions.",
+      "Repeated model outcomes prove exact wild population changes.",
+      "The model leaves out some foods, organisms and changing conditions.",
+      "Paper cards have the same needs as real organisms."
     ],
-    "correct": 0,
-    "explanation": "Surface type is the changed variable, not a control.\nHint: The tested factor changes.",
-    "structuredExplanation": {
-      "summary": "Surface type is the changed variable, not a control.",
-      "hint": "The tested factor changes."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Models reveal selected relationships while simplifying real systems.\nHint: Name what the model does and does not include.",
+    "structuredExplanation": {
+      "summary": "Models reveal selected relationships while simplifying real systems.",
+      "hint": "Name what the model does and does not include."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-012",
@@ -359,8 +359,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "Which investigation plan is weakest?",
-    "audioPrompt": "Which investigation plan is weakest?",
+    "question": "A student writes “be safe” beside a field investigation. What detail should be added?",
+    "audioPrompt": "A student writes “be safe” beside a field investigation. What detail should be added?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -368,21 +368,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use the same car on different surfaces",
-      "Repeat each surface three times",
-      "Measure distance with the same tape",
-      "Change the car, ramp height and surface all at once"
+      "Finish quickly before the group returns.",
+      "Stay in the agreed area, follow the adult’s instructions and leave unknown organisms untouched.",
+      "Taste plants only if they look familiar.",
+      "Collect every unknown animal to identify later."
     ],
-    "correct": 3,
-    "explanation": "Changing several factors at once makes results hard to interpret.\nHint: Too many changes.",
-    "structuredExplanation": {
-      "summary": "Changing several factors at once makes results hard to interpret.",
-      "hint": "Too many changes."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Specific field behaviours make the safety instruction usable.\nHint: Connect the action to the actual site.",
+    "structuredExplanation": {
+      "summary": "Specific field behaviours make the safety instruction usable.",
+      "hint": "Connect the action to the actual site."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-013",
@@ -391,8 +391,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "Why should safety planning happen before testing?",
-    "audioPrompt": "Why should safety planning happen before testing?",
+    "question": "Protective goggles are required for a splash-risk task. Which use is correct?",
+    "audioPrompt": "Protective goggles are required for a splash-risk task. Which use is correct?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -400,21 +400,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Safety makes measurement impossible",
-      "Planning creates danger",
-      "Controls can be chosen before people are exposed to hazards",
-      "Hazards only appear after conclusions"
+      "Properly fitted over the eyes during the task, with the other safety instructions followed",
+      "Resting on the forehead while pouring",
+      "Shared between students only after a splash happens",
+      "Used as a reason to ignore container guidelines"
     ],
-    "correct": 2,
-    "explanation": "Planning ahead reduces risk during the investigation.\nHint: Before action.",
-    "structuredExplanation": {
-      "summary": "Planning ahead reduces risk during the investigation.",
-      "hint": "Before action."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Correct gear use is one part of a safe method.\nHint: Protection must cover the part at risk.",
+    "structuredExplanation": {
+      "summary": "Correct gear use is one part of a safe method.",
+      "hint": "Protection must cover the part at risk."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-014",
@@ -423,8 +423,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "Which statement about fair tests is accurate?",
-    "audioPrompt": "Which statement about fair tests is accurate?",
+    "question": "A pilot test reveals that the measuring tool cannot show the small change being investigated. What should happen?",
+    "audioPrompt": "A pilot test reveals that the measuring tool cannot show the small change being investigated. What should happen?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -432,21 +432,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Fair tests never control variables",
-      "Fair tests can have different results if the changed variable has an effect",
-      "Fair tests always have equal results",
-      "Different results prove unfairness"
+      "Invent smaller readings to fill the table.",
+      "Continue and claim that no change is possible.",
+      "Use different units without changing the tool or method.",
+      "Ask the adult to choose an appropriate tool or adapt the method, then trial it again."
     ],
-    "correct": 1,
-    "explanation": "A fair method is designed to reveal genuine differences.\nHint: Different outcomes can be valid.",
-    "structuredExplanation": {
-      "summary": "A fair method is designed to reveal genuine differences.",
-      "hint": "Different outcomes can be valid."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "A pilot can reveal that the planned observations cannot answer the question.\nHint: Match the instrument to the expected outcome.",
+    "structuredExplanation": {
+      "summary": "A pilot can reveal that the planned observations cannot answer the question.",
+      "hint": "Match the instrument to the expected outcome."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-015",
@@ -455,8 +455,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "Which record would help another group repeat the investigation?",
-    "audioPrompt": "Which record would help another group repeat the investigation?",
+    "question": "Why can two fair repeated trials have different results?",
+    "audioPrompt": "Why can two fair repeated trials have different results?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -464,21 +464,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A numbered procedure with variables, tools, units and safety controls",
-      "Only the final answer",
-      "Only a drawing of the group",
-      "A sentence saying it worked"
+      "A fair test means the group must secretly alter measurements.",
+      "Different readings prove the prediction was written too early.",
+      "Small variations can occur even when the planned conditions are kept consistent.",
+      "Fair methods require identical numbers by definition."
     ],
-    "correct": 0,
-    "explanation": "Clear procedures make investigations repeatable.\nHint: Enough detail to repeat.",
-    "structuredExplanation": {
-      "summary": "Clear procedures make investigations repeatable.",
-      "hint": "Enough detail to repeat."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Record variation honestly and use repeats to assess consistency.\nHint: Fair method does not mean forced agreement.",
+    "structuredExplanation": {
+      "summary": "Record variation honestly and use repeats to assess consistency.",
+      "hint": "Fair method does not mean forced agreement."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i02-t-016",
@@ -487,8 +487,8 @@ window.skillrTestQuestions = [
     "skill": "planning fair and safe investigations",
     "printable": true,
     "type": "single",
-    "question": "A class uses vinegar and bicarb soda in small cups. Which control is sensible?",
-    "audioPrompt": "A class uses vinegar and bicarb soda in small cups. Which control is sensible?",
+    "question": "A group plans to observe an unknown biological specimen. What is the best next step?",
+    "audioPrompt": "A group plans to observe an unknown biological specimen. What is the best next step?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -496,20 +496,22 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Fill cups to the top",
-      "Smell closely during fizzing",
-      "Mix while walking around",
-      "Use small measured amounts and keep faces back from fizzing mixtures"
+      "Open and smell it to identify possible risks first.",
+      "Have the teacher select a safe observation method and give handling and hygiene instructions.",
+      "Take it home to investigate without supervision.",
+      "Assume natural specimens cannot cause harm."
     ],
-    "correct": 3,
-    "explanation": "The control reduces spill and splash risk while keeping measurements consistent.\nHint: Measured amounts and distance.",
-    "structuredExplanation": {
-      "summary": "The control reduces spill and splash risk while keeping measurements consistent.",
-      "hint": "Measured amounts and distance."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Safe biological inquiry uses appropriate guidance, including images or sealed displays when suitable.\nHint: Check the risk before handling.",
+    "structuredExplanation": {
+      "summary": "Safe biological inquiry uses appropriate guidance, including images or sealed displays when suitable.",
+      "hint": "Check the risk before handling."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;
