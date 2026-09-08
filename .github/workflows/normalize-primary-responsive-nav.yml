@@ -1,0 +1,116 @@
+name: Normalize primary responsive navigation
+on: push
+permissions:
+  contents: write
+jobs:
+  normalize:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Normalize primary page headers
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          pages = {
+            'index.html': None,
+            'learn/index.html': '/learn/',
+            'teach/index.html': '/teach/',
+            'products/index.html': '/products/',
+            'homeschooling-australia/index.html': '/homeschooling-australia/',
+            'worksheets/index.html': '/worksheets/',
+            'print-and-go.html': '/print-and-go.html',
+            'teach-and-explain.html': '/teach-and-explain.html',
+            'updates.html': '/updates.html',
+          }
+          items = [
+            ('Learn','/learn/'),
+            ('Teach','/teach/'),
+            ('Products','/products/'),
+            ('Homeschool','/homeschooling-australia/'),
+            ('Worksheets &amp; Homework','/worksheets/'),
+            ('Dashboard','/dashboard/'),
+            ('Print &amp; Go','/print-and-go.html'),
+            ('Teach &amp; Explain','/teach-and-explain.html'),
+            ('Updates','/updates.html'),
+          ]
+
+          def links(active):
+            out=[]
+            for label,href in items:
+              current=' aria-current="page"' if href==active else ''
+              out.append(f'<a href="{href}"{current}>{label}</a>')
+            return ''.join(out)
+
+          for filename,active in pages.items():
+            p=Path(filename)
+            if not p.exists():
+              print('skip missing', filename)
+              continue
+            s=p.read_text()
+            if '/assets/site-navigation.css' not in s:
+              s=s.replace('</head>', '  <link rel="stylesheet" href="/assets/site-navigation.css?v=20260908-primary1">\n</head>', 1)
+            m=re.search(r'<body([^>]*)>', s, re.I)
+            assert m, filename
+            attrs=m.group(1)
+            cm=re.search(r'class="([^"]*)"', attrs)
+            if cm:
+              classes=cm.group(1).split()
+              for c in ['skillr-shared-navigation']:
+                if c not in classes: classes.append(c)
+              newattrs=attrs[:cm.start()] + 'class="'+' '.join(classes)+'"' + attrs[cm.end():]
+            else:
+              newattrs=attrs+' class="skillr-shared-navigation"'
+            s=s[:m.start()]+'<body'+newattrs+'>'+s[m.end():]
+
+            header=(
+              '<header class="site-header skillr-site-header">\n'
+              '  <nav class="site-header__nav" aria-label="Main navigation">\n'
+              '    <a class="site-header__brand" href="/" aria-label="SkillrHub F–10 home"><img src="/icons/skillrhub-mark.svg" alt="" width="38" height="38"><strong>SkillrHub</strong> <span>F–10</span></a>\n'
+              f'    <div class="site-header__links">{links(active)}</div>\n'
+              f'    <details class="site-header__menu"><summary>Menu</summary><div class="site-header__menu-panel">{links(active)}</div></details>\n'
+              '  </nav>\n'
+              '</header>'
+            )
+
+            # Replace a true page-level header. For the worksheets page, replace only the old main-nav and leave page-hero intact.
+            if filename=='worksheets/index.html':
+              old=re.search(r'\s*<nav class="main-nav" aria-label="Main navigation">[\s\S]*?</nav>', s, re.I)
+              assert old, filename
+              s=s[:old.start()]+'\n  '+header+'\n'+s[old.end():]
+            else:
+              old=re.search(r'<header(?:\s[^>]*)?>[\s\S]*?</header>', s, re.I)
+              assert old, filename
+              s=s[:old.start()]+header+s[old.end():]
+
+            p.write_text(s)
+            print('normalized', filename)
+
+          # Structural assertions: same core menu in desktop and mobile, one shared stylesheet.
+          expected=[href for _,href in items]
+          for filename,active in pages.items():
+            p=Path(filename)
+            if not p.exists(): continue
+            s=p.read_text()
+            assert s.count('/assets/site-navigation.css')==1, filename
+            assert 'skillr-site-header' in s and 'skillr-shared-navigation' in s, filename
+            h=re.search(r'<header class="site-header skillr-site-header">[\s\S]*?</header>', s)
+            assert h, filename
+            hs=h.group(0)
+            for href in expected:
+              assert hs.count(f'href="{href}"')==2, (filename,href,hs.count(f'href="{href}"'))
+            if active:
+              assert hs.count('aria-current="page"')==2, filename
+          PY
+      - name: Commit and clean workflow
+        run: |
+          rm .github/workflows/normalize-primary-responsive-nav.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html learn/index.html teach/index.html products/index.html homeschooling-australia/index.html worksheets/index.html print-and-go.html teach-and-explain.html updates.html .github/workflows/normalize-primary-responsive-nav.yml
+          git commit -m 'fix: use one responsive header across primary pages'
+          git push origin HEAD:${{ github.ref_name }}
