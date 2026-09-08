@@ -20,9 +20,9 @@ jobs:
           for subject,qsub in subject_map.items():
             hub=root/'year2'/'curriculum'/subject/'index.html'
             h=hub.read_text(errors='ignore')
-            # Each canonical card exposes the topic href; use those, not arbitrary old folders.
             hrefs=re.findall(r'href="(/year2/'+subject+r'/[^"#?]+/)"',h,re.I)
-            # de-duplicate while retaining order
+            # Keep only direct topic directories: /year2/<subject>/<topic>/.
+            hrefs=[href for href in hrefs if href.strip('/').count('/')==2]
             seen=[]
             for href in hrefs:
               if href not in seen:seen.append(href)
@@ -50,13 +50,11 @@ jobs:
               if worksheet.exists() and 'Classroom View' not in w:flags.append('Worksheet missing Classroom View support link')
               strength=sum(x.lower() in c.lower() for x in ['key concept','worked example','questions and answers','reasoning-lab','learning-lab','try and explain','show answer'])
               if classroom.exists() and strength<2:flags.append('Classroom needs manual pedagogy review')
-              # Remove old generator-only label without changing strong teaching.
               newc=c.replace('<span>Copied content</span>','<span>Curriculum examples</span>')
               if classroom.exists() and newc!=c:
                 classroom.write_text(newc);cleaned.append(str(classroom))
               if flags:blockers.append((code,subject,flags))
               rows.append((code,subject,str(topic),str(worksheet),str(classroom),flags))
-          # Identify stale duplicate topic folders, but do not treat them as canonical defects.
           duplicates=[]
           for subject in subject_map:
             for p in (root/'year2'/subject).glob('*/index.html'):
