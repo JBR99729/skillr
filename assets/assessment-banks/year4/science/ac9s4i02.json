@@ -21,33 +21,33 @@
         "is_correct": true
       },
       {
-        "text": "The sheet size and water volume together",
+        "text": "Both sheet size and starting water volume",
         "is_correct": false
       },
       {
-        "text": "The recording unit each trial",
+        "text": "The measuring unit on every trial",
         "is_correct": false
       },
       {
-        "text": "The result after measuring",
+        "text": "The result after it has been measured",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "The brand of paper towel",
-      "The sheet size and water volume together",
-      "The recording unit each trial",
-      "The result after measuring"
+      "Both sheet size and starting water volume",
+      "The measuring unit on every trial",
+      "The result after it has been measured"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "The changed variable is the factor deliberately changed or compared.",
-      "hint": "What is being compared?"
+      "summary": "The brand is the chosen comparison; relevant conditions should be kept the same.",
+      "hint": "Which factor is the question about?"
     },
     "structuredExplanation": {
-      "summary": "The changed variable is the factor deliberately changed or compared.",
-      "hint": "What is being compared?"
+      "summary": "The brand is the chosen comparison; relevant conditions should be kept the same.",
+      "hint": "Which factor is the question about?"
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -68,9 +68,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "What is the measured variable in a ramp-surface test?",
-    "audio_prompt": "What is the measured variable in a ramp-surface test?",
-    "audioPrompt": "What is the measured variable in a ramp-surface test?",
+    "question": "A class compares surfaces to see how far the same toy car rolls after a ramp. What should it measure?",
+    "audio_prompt": "A class compares surfaces to see how far the same toy car rolls after a ramp. What should it measure?",
+    "audioPrompt": "A class compares surfaces to see how far the same toy car rolls after a ramp. What should it measure?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -78,37 +78,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Colour of the toy car",
+        "text": "Only the name of the surface",
         "is_correct": false
       },
       {
-        "text": "Name of the surface",
+        "text": "Only the height of the teacher’s desk",
         "is_correct": false
       },
       {
-        "text": "Student group number",
+        "text": "The order of student names on the sheet",
         "is_correct": false
       },
       {
-        "text": "Distance the toy car travels",
+        "text": "Distance rolled from the end of the ramp",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Colour of the toy car",
-      "Name of the surface",
-      "Student group number",
-      "Distance the toy car travels"
+      "Only the name of the surface",
+      "Only the height of the teacher’s desk",
+      "The order of student names on the sheet",
+      "Distance rolled from the end of the ramp"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "The measured variable is the outcome recorded.",
-      "hint": "What result is measured?"
+      "summary": "The outcome must answer the surface-and-distance question.",
+      "hint": "What result could change because of the surface?"
     },
     "structuredExplanation": {
-      "summary": "The measured variable is the outcome recorded.",
-      "hint": "What result is measured?"
+      "summary": "The outcome must answer the surface-and-distance question.",
+      "hint": "What result could change because of the surface?"
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -129,9 +129,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which is a controlled variable in a paper-towel absorbency test?",
-    "audio_prompt": "Which is a controlled variable in a paper-towel absorbency test?",
-    "audioPrompt": "Which is a controlled variable in a paper-towel absorbency test?",
+    "question": "Which condition should stay the same in a paper-towel absorbency comparison?",
+    "audio_prompt": "Which condition should stay the same in a paper-towel absorbency comparison?",
+    "audioPrompt": "Which condition should stay the same in a paper-towel absorbency comparison?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -139,37 +139,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Brand being tested",
+        "text": "The brand being compared",
         "is_correct": false
       },
       {
-        "text": "Final result",
+        "text": "The volume absorbed as the result",
         "is_correct": false
       },
       {
-        "text": "Size of each paper-towel sheet",
+        "text": "The area of each towel sample",
         "is_correct": true
       },
       {
-        "text": "Amount of water absorbed",
+        "text": "The prediction if the result differs",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Brand being tested",
-      "Final result",
-      "Size of each paper-towel sheet",
-      "Amount of water absorbed"
+      "The brand being compared",
+      "The volume absorbed as the result",
+      "The area of each towel sample",
+      "The prediction if the result differs"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Controlled variables are kept the same to make the comparison fair.",
-      "hint": "Keep it same."
+      "summary": "Equal sample area helps keep the comparison fair.",
+      "hint": "Separate the chosen change from a control."
     },
     "structuredExplanation": {
-      "summary": "Controlled variables are kept the same to make the comparison fair.",
-      "hint": "Keep it same."
+      "summary": "Equal sample area helps keep the comparison fair.",
+      "hint": "Separate the chosen change from a control."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -190,9 +190,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which statement describes a fair test?",
-    "audio_prompt": "Which statement describes a fair test?",
-    "audioPrompt": "Which statement describes a fair test?",
+    "question": "Which statement describes a fair comparison?",
+    "audio_prompt": "Which statement describes a fair comparison?",
+    "audioPrompt": "Which statement describes a fair comparison?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -200,37 +200,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Choose the result before testing",
+        "text": "Change all factors so differences are larger.",
         "is_correct": false
       },
       {
-        "text": "Change one tested factor and keep relevant conditions the same",
+        "text": "Change the tested factor and keep other relevant conditions the same.",
         "is_correct": true
       },
       {
-        "text": "Change every factor at once",
+        "text": "Adjust the results until they match.",
         "is_correct": false
       },
       {
-        "text": "Make all results identical",
+        "text": "Choose the predicted winner before measuring.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Choose the result before testing",
-      "Change one tested factor and keep relevant conditions the same",
-      "Change every factor at once",
-      "Make all results identical"
+      "Change all factors so differences are larger.",
+      "Change the tested factor and keep other relevant conditions the same.",
+      "Adjust the results until they match.",
+      "Choose the predicted winner before measuring."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "A fair test changes the tested variable while controlling other relevant conditions.",
-      "hint": "One change."
+      "summary": "A fair method helps identify whether the tested factor affects the outcome.",
+      "hint": "Fairness concerns the method."
     },
     "structuredExplanation": {
-      "summary": "A fair test changes the tested variable while controlling other relevant conditions.",
-      "hint": "One change."
+      "summary": "A fair method helps identify whether the tested factor affects the outcome.",
+      "hint": "Fairness concerns the method."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -251,9 +251,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "What is a hazard?",
-    "audio_prompt": "What is a hazard?",
-    "audioPrompt": "What is a hazard?",
+    "question": "Which is a hazard in a water investigation?",
+    "audio_prompt": "Which is a hazard in a water investigation?",
+    "audioPrompt": "Which is a hazard in a water investigation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -261,37 +261,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Something that could cause harm",
+        "text": "A spill where someone could slip",
         "is_correct": true
       },
       {
-        "text": "A final conclusion",
+        "text": "A results table with clear headings",
         "is_correct": false
       },
       {
-        "text": "A repeated measurement",
+        "text": "An adult checking the procedure",
         "is_correct": false
       },
       {
-        "text": "A graph label",
+        "text": "Using the same measuring unit",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Something that could cause harm",
-      "A final conclusion",
-      "A repeated measurement",
-      "A graph label"
+      "A spill where someone could slip",
+      "A results table with clear headings",
+      "An adult checking the procedure",
+      "Using the same measuring unit"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A hazard is a possible source of harm.",
-      "hint": "Could hurt or damage."
+      "summary": "A hazard is something that could cause harm; controls reduce the associated risk.",
+      "hint": "Find a possible source of harm."
     },
     "structuredExplanation": {
-      "summary": "A hazard is a possible source of harm.",
-      "hint": "Could hurt or damage."
+      "summary": "A hazard is something that could cause harm; controls reduce the associated risk.",
+      "hint": "Find a possible source of harm."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -312,9 +312,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which is a specific safety control for spilled water?",
-    "audio_prompt": "Which is a specific safety control for spilled water?",
-    "audioPrompt": "Which is a specific safety control for spilled water?",
+    "question": "Which action controls a water-spill hazard?",
+    "audio_prompt": "Which action controls a water-spill hazard?",
+    "audioPrompt": "Which action controls a water-spill hazard?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -322,37 +322,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Be careful",
+        "text": "Carry on until all results are collected.",
         "is_correct": false
       },
       {
-        "text": "Use more water",
+        "text": "Move the results sheet and leave the floor wet.",
         "is_correct": false
       },
       {
-        "text": "Ignore it until the end",
+        "text": "Ask everyone to step across the spill quickly.",
         "is_correct": false
       },
       {
-        "text": "Wipe it up promptly and keep people from running through it",
+        "text": "Stop the activity, keep people away and have the spill wiped up promptly.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Be careful",
-      "Use more water",
-      "Ignore it until the end",
-      "Wipe it up promptly and keep people from running through it"
+      "Carry on until all results are collected.",
+      "Move the results sheet and leave the floor wet.",
+      "Ask everyone to step across the spill quickly.",
+      "Stop the activity, keep people away and have the spill wiped up promptly."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A control should clearly reduce the risk from the hazard.",
-      "hint": "Specific action."
+      "summary": "A specific response reduces the chance of slipping.",
+      "hint": "Choose an action matching the hazard."
     },
     "structuredExplanation": {
-      "summary": "A control should clearly reduce the risk from the hazard.",
-      "hint": "Specific action."
+      "summary": "A specific response reduces the chance of slipping.",
+      "hint": "Choose an action matching the hazard."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -373,9 +373,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why are repeated trials useful?",
-    "audio_prompt": "Why are repeated trials useful?",
-    "audioPrompt": "Why are repeated trials useful?",
+    "question": "Why repeat trials under the same conditions?",
+    "audio_prompt": "Why repeat trials under the same conditions?",
+    "audioPrompt": "Why repeat trials under the same conditions?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -383,37 +383,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "They replace measuring",
+        "text": "To make the prediction correct automatically",
         "is_correct": false
       },
       {
-        "text": "They prove the prediction before testing",
+        "text": "To replace measuring with copied numbers",
         "is_correct": false
       },
       {
-        "text": "They help check whether results are reliable",
+        "text": "To check whether the observed result is consistent or varies",
         "is_correct": true
       },
       {
-        "text": "They make every result the same",
+        "text": "To guarantee every measurement is identical",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "They replace measuring",
-      "They prove the prediction before testing",
-      "They help check whether results are reliable",
-      "They make every result the same"
+      "To make the prediction correct automatically",
+      "To replace measuring with copied numbers",
+      "To check whether the observed result is consistent or varies",
+      "To guarantee every measurement is identical"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Repeating trials helps identify patterns despite normal variation.",
-      "hint": "Check reliability."
+      "summary": "Repeats provide additional evidence; variation can still occur.",
+      "hint": "Repeating means doing and recording again."
     },
     "structuredExplanation": {
-      "summary": "Repeating trials helps identify patterns despite normal variation.",
-      "hint": "Check reliability."
+      "summary": "Repeats provide additional evidence; variation can still occur.",
+      "hint": "Repeating means doing and recording again."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -434,9 +434,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which is a pilot test?",
-    "audio_prompt": "Which is a pilot test?",
-    "audioPrompt": "Which is a pilot test?",
+    "question": "What is a pilot test?",
+    "audio_prompt": "What is a pilot test?",
+    "audioPrompt": "What is a pilot test?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -444,37 +444,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A poster about equipment",
+        "text": "The final conclusion rewritten as a plan",
         "is_correct": false
       },
       {
-        "text": "A small trial of the method before full data collection",
+        "text": "A small trial of the planned method before the main investigation",
         "is_correct": true
       },
       {
-        "text": "The final published answer",
+        "text": "A drawing of the result the group wants",
         "is_correct": false
       },
       {
-        "text": "A guess after the results",
+        "text": "An extra label placed on the equipment",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A poster about equipment",
-      "A small trial of the method before full data collection",
-      "The final published answer",
-      "A guess after the results"
+      "The final conclusion rewritten as a plan",
+      "A small trial of the planned method before the main investigation",
+      "A drawing of the result the group wants",
+      "An extra label placed on the equipment"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "A pilot test checks whether the method works before doing the full investigation.",
-      "hint": "Try the method first."
+      "summary": "A pilot can expose unclear steps, unsuitable equipment or safety issues.",
+      "hint": "Try the method on a small scale first."
     },
     "structuredExplanation": {
-      "summary": "A pilot test checks whether the method works before doing the full investigation.",
-      "hint": "Try the method first."
+      "summary": "A pilot can expose unclear steps, unsuitable equipment or safety issues.",
+      "hint": "Try the method on a small scale first."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -495,9 +495,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which item belongs in a numbered method?",
-    "audio_prompt": "Which item belongs in a numbered method?",
-    "audioPrompt": "Which item belongs in a numbered method?",
+    "question": "Which numbered instruction could another group follow?",
+    "audio_prompt": "Which numbered instruction could another group follow?",
+    "audioPrompt": "Which numbered instruction could another group follow?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -505,37 +505,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Release the car from the same line each trial",
+        "text": "Release the same car without pushing from the marked line.",
         "is_correct": true
       },
       {
-        "text": "The car is cool",
+        "text": "Try the car until the answer seems right.",
         "is_correct": false
       },
       {
-        "text": "The answer is definitely tile",
+        "text": "Use the equipment in the usual way.",
         "is_correct": false
       },
       {
-        "text": "Our group likes science",
+        "text": "Make the experiment better than before.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Release the car from the same line each trial",
-      "The car is cool",
-      "The answer is definitely tile",
-      "Our group likes science"
+      "Release the same car without pushing from the marked line.",
+      "Try the car until the answer seems right.",
+      "Use the equipment in the usual way.",
+      "Make the experiment better than before."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A method should give clear steps that can be followed consistently.",
-      "hint": "Action step."
+      "summary": "The instruction states a repeatable action and a fixed starting condition.",
+      "hint": "Could someone follow it without guessing?"
     },
     "structuredExplanation": {
-      "summary": "A method should give clear steps that can be followed consistently.",
-      "hint": "Action step."
+      "summary": "The instruction states a repeatable action and a fixed starting condition.",
+      "hint": "Could someone follow it without guessing?"
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -556,9 +556,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which is the best safety instruction for warm water?",
-    "audio_prompt": "Which is the best safety instruction for warm water?",
-    "audioPrompt": "Which is the best safety instruction for warm water?",
+    "question": "A plan uses warm water. Which safety step belongs before the test?",
+    "audio_prompt": "A plan uses warm water. Which safety step belongs before the test?",
+    "audioPrompt": "A plan uses warm water. Which safety step belongs before the test?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -566,37 +566,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Use the hottest water possible",
+        "text": "Use the hottest water available to finish faster.",
         "is_correct": false
       },
       {
-        "text": "Run while carrying the beaker",
+        "text": "Check temperature by putting a hand into unknown water.",
         "is_correct": false
       },
       {
-        "text": "Touch the water to check first",
+        "text": "Assume a label saying warm removes every risk.",
         "is_correct": false
       },
       {
-        "text": "Use teacher-approved warm water and carry it carefully",
+        "text": "Ask the adult to check the temperature, containers and carrying method.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Use the hottest water possible",
-      "Run while carrying the beaker",
-      "Touch the water to check first",
-      "Use teacher-approved warm water and carry it carefully"
+      "Use the hottest water available to finish faster.",
+      "Check temperature by putting a hand into unknown water.",
+      "Assume a label saying warm removes every risk.",
+      "Ask the adult to check the temperature, containers and carrying method."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Safety controls should match the hazard and reduce risk.",
-      "hint": "Avoid burns and spills."
+      "summary": "An adult checks the practical setup; the label alone does not make it safe.",
+      "hint": "Check the actual conditions first."
     },
     "structuredExplanation": {
-      "summary": "Safety controls should match the hazard and reduce risk.",
-      "hint": "Avoid burns and spills."
+      "summary": "An adult checks the practical setup; the label alone does not make it safe.",
+      "hint": "Check the actual conditions first."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -617,9 +617,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why should only one variable be changed in a fair test?",
-    "audio_prompt": "Why should only one variable be changed in a fair test?",
-    "audioPrompt": "Why should only one variable be changed in a fair test?",
+    "question": "Why change only the chosen factor in a simple fair test?",
+    "audio_prompt": "Why change only the chosen factor in a simple fair test?",
+    "audioPrompt": "Why change only the chosen factor in a simple fair test?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -627,42 +627,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "So no measurement is needed",
+        "text": "No results need to be measured.",
         "is_correct": false
       },
       {
-        "text": "So the prediction must be correct",
+        "text": "The prediction cannot be wrong.",
         "is_correct": false
       },
       {
-        "text": "So it is clearer which factor caused any change in the result",
+        "text": "It is clearer which factor may have affected the result.",
         "is_correct": true
       },
       {
-        "text": "So all results become equal",
+        "text": "All results must become equal.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "So no measurement is needed",
-      "So the prediction must be correct",
-      "So it is clearer which factor caused any change in the result",
-      "So all results become equal"
+      "No results need to be measured.",
+      "The prediction cannot be wrong.",
+      "It is clearer which factor may have affected the result.",
+      "All results must become equal."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Changing one tested factor helps make cause and effect clearer.",
-      "hint": "One cause at a time."
+      "summary": "Controlling relevant conditions reduces competing explanations.",
+      "hint": "Avoid changing several possible causes at once."
     },
     "structuredExplanation": {
-      "summary": "Changing one tested factor helps make cause and effect clearer.",
-      "hint": "One cause at a time."
+      "summary": "Controlling relevant conditions reduces competing explanations.",
+      "hint": "Avoid changing several possible causes at once."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 11,
     "sequencePriority": 11,
     "quality_schema": "skillr-actual-v6",
@@ -678,9 +678,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why should the same amount of water be used for each towel sample?",
-    "audio_prompt": "Why should the same amount of water be used for each towel sample?",
-    "audioPrompt": "Why should the same amount of water be used for each towel sample?",
+    "question": "Why start each equal-sized paper-towel sample with the same available water volume?",
+    "audio_prompt": "Why start each equal-sized paper-towel sample with the same available water volume?",
+    "audioPrompt": "Why start each equal-sized paper-towel sample with the same available water volume?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -688,42 +688,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It changes towels into plastic",
+        "text": "Water volume determines the towel’s colour.",
         "is_correct": false
       },
       {
-        "text": "Different water amounts could unfairly affect absorbency results",
+        "text": "Different starting volumes could affect how much water a sample can absorb.",
         "is_correct": true
       },
       {
-        "text": "Water amount is never relevant",
+        "text": "A larger starting volume always proves a better brand.",
         "is_correct": false
       },
       {
-        "text": "More water always makes the smaller sample win",
+        "text": "Starting volume is the outcome being compared.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It changes towels into plastic",
-      "Different water amounts could unfairly affect absorbency results",
-      "Water amount is never relevant",
-      "More water always makes the smaller sample win"
+      "Water volume determines the towel’s colour.",
+      "Different starting volumes could affect how much water a sample can absorb.",
+      "A larger starting volume always proves a better brand.",
+      "Starting volume is the outcome being compared."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Controlling water amount makes the absorbency comparison fairer.",
-      "hint": "Same condition."
+      "summary": "An unequal water supply could limit one sample unfairly.",
+      "hint": "Each sample needs comparable access to water."
     },
     "structuredExplanation": {
-      "summary": "Controlling water amount makes the absorbency comparison fairer.",
-      "hint": "Same condition."
+      "summary": "An unequal water supply could limit one sample unfairly.",
+      "hint": "Each sample needs comparable access to water."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 12,
     "sequencePriority": 12,
     "quality_schema": "skillr-actual-v6",
@@ -739,9 +739,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why is “be careful” not enough as a safety control?",
-    "audio_prompt": "Why is “be careful” not enough as a safety control?",
-    "audioPrompt": "Why is “be careful” not enough as a safety control?",
+    "question": "Why is “be careful” an incomplete safety instruction?",
+    "audio_prompt": "Why is “be careful” an incomplete safety instruction?",
+    "audioPrompt": "Why is “be careful” an incomplete safety instruction?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -749,37 +749,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It does not name the hazard or the action that reduces risk",
+        "text": "It does not identify the hazard and the action that reduces risk.",
         "is_correct": true
       },
       {
-        "text": "It is too specific",
+        "text": "It lists too many equipment checks.",
         "is_correct": false
       },
       {
-        "text": "It records too much evidence",
+        "text": "It records the result before testing.",
         "is_correct": false
       },
       {
-        "text": "It changes the measured variable",
+        "text": "It controls every risk automatically.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It does not name the hazard or the action that reduces risk",
-      "It is too specific",
-      "It records too much evidence",
-      "It changes the measured variable"
+      "It does not identify the hazard and the action that reduces risk.",
+      "It lists too many equipment checks.",
+      "It records the result before testing.",
+      "It controls every risk automatically."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Good safety planning names what could go wrong and how to prevent it.",
-      "hint": "Hazard plus action."
+      "summary": "A useful safety plan states a specific hazard, action and responsible person where needed.",
+      "hint": "What should someone actually do?"
     },
     "structuredExplanation": {
-      "summary": "Good safety planning names what could go wrong and how to prevent it.",
-      "hint": "Hazard plus action."
+      "summary": "A useful safety plan states a specific hazard, action and responsible person where needed.",
+      "hint": "What should someone actually do?"
     },
     "stage": "explain",
     "difficulty": 2,
@@ -800,9 +800,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why do repeated trials not mean copying the same value again?",
-    "audio_prompt": "Why do repeated trials not mean copying the same value again?",
-    "audioPrompt": "Why do repeated trials not mean copying the same value again?",
+    "question": "Which action is a genuine repeated trial?",
+    "audio_prompt": "Which action is a genuine repeated trial?",
+    "audioPrompt": "Which action is a genuine repeated trial?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -810,37 +810,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Copying makes data more reliable",
+        "text": "Copy the first result into two more boxes.",
         "is_correct": false
       },
       {
-        "text": "Repeats are guesses",
+        "text": "Change the surface and count it as the same condition.",
         "is_correct": false
       },
       {
-        "text": "Repeats happen only on graphs",
+        "text": "Guess what the next measurement would be.",
         "is_correct": false
       },
       {
-        "text": "Each repeat is the procedure done again with a new recorded result",
+        "text": "Reset the setup, repeat the method and record the new result.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Copying makes data more reliable",
-      "Repeats are guesses",
-      "Repeats happen only on graphs",
-      "Each repeat is the procedure done again with a new recorded result"
+      "Copy the first result into two more boxes.",
+      "Change the surface and count it as the same condition.",
+      "Guess what the next measurement would be.",
+      "Reset the setup, repeat the method and record the new result."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A repeat trial means retesting, not duplicating a number.",
-      "hint": "Do the trial again."
+      "summary": "Each repeat requires a new observation under the stated conditions.",
+      "hint": "Did the group actually do the procedure again?"
     },
     "structuredExplanation": {
-      "summary": "A repeat trial means retesting, not duplicating a number.",
-      "hint": "Do the trial again."
+      "summary": "Each repeat requires a new observation under the stated conditions.",
+      "hint": "Did the group actually do the procedure again?"
     },
     "stage": "explain",
     "difficulty": 2,
@@ -861,9 +861,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why might a pilot test be useful before the main investigation?",
-    "audio_prompt": "Why might a pilot test be useful before the main investigation?",
-    "audioPrompt": "Why might a pilot test be useful before the main investigation?",
+    "question": "During a pilot, the car runs off the narrow ramp. What should happen?",
+    "audio_prompt": "During a pilot, the car runs off the narrow ramp. What should happen?",
+    "audioPrompt": "During a pilot, the car runs off the narrow ramp. What should happen?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -871,37 +871,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It proves the answer before data collection",
+        "text": "Include the fall as a successful distance trial.",
         "is_correct": false
       },
       {
-        "text": "It removes all hazards automatically",
+        "text": "Ask a student to catch every falling car by standing below.",
         "is_correct": false
       },
       {
-        "text": "It can reveal unclear steps or measurement problems",
+        "text": "Stop and improve the setup, then trial the revised safe method before collecting comparable results.",
         "is_correct": true
       },
       {
-        "text": "It replaces the whole investigation",
+        "text": "Ignore it because a numbered method cannot change.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It proves the answer before data collection",
-      "It removes all hazards automatically",
-      "It can reveal unclear steps or measurement problems",
-      "It replaces the whole investigation"
+      "Include the fall as a successful distance trial.",
+      "Ask a student to catch every falling car by standing below.",
+      "Stop and improve the setup, then trial the revised safe method before collecting comparable results.",
+      "Ignore it because a numbered method cannot change."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Pilot tests help improve the method before collecting final data.",
-      "hint": "Find problems early."
+      "summary": "A pilot is useful when it reveals a problem that should be corrected and documented.",
+      "hint": "Improve the method before the main comparison."
     },
     "structuredExplanation": {
-      "summary": "Pilot tests help improve the method before collecting final data.",
-      "hint": "Find problems early."
+      "summary": "A pilot is useful when it reveals a problem that should be corrected and documented.",
+      "hint": "Improve the method before the main comparison."
     },
     "stage": "explain",
     "difficulty": 2,
@@ -922,9 +922,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why should risk controls match the equipment being used?",
-    "audio_prompt": "Why should risk controls match the equipment being used?",
-    "audioPrompt": "Why should risk controls match the equipment being used?",
+    "question": "Why should safety controls match the actual equipment and place?",
+    "audio_prompt": "Why should safety controls match the actual equipment and place?",
+    "audioPrompt": "Why should safety controls match the actual equipment and place?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -932,37 +932,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Equipment never affects safety",
+        "text": "One written rule automatically removes all hazards.",
         "is_correct": false
       },
       {
-        "text": "Different materials and tools can create different hazards",
+        "text": "Different tools, materials and sites can present different hazards.",
         "is_correct": true
       },
       {
-        "text": "All equipment has identical risks",
+        "text": "Safety only matters after results are published.",
         "is_correct": false
       },
       {
-        "text": "Safety controls are only decoration",
+        "text": "All investigations need exactly the same protective gear.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Equipment never affects safety",
-      "Different materials and tools can create different hazards",
-      "All equipment has identical risks",
-      "Safety controls are only decoration"
+      "One written rule automatically removes all hazards.",
+      "Different tools, materials and sites can present different hazards.",
+      "Safety only matters after results are published.",
+      "All investigations need exactly the same protective gear."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "A warm container, glass item or spill each needs a suitable control.",
-      "hint": "Hazard-specific."
+      "summary": "Choose relevant controls rather than a generic list.",
+      "hint": "Consider what could cause harm in this setup."
     },
     "structuredExplanation": {
-      "summary": "A warm container, glass item or spill each needs a suitable control.",
-      "hint": "Hazard-specific."
+      "summary": "Choose relevant controls rather than a generic list.",
+      "hint": "Consider what could cause harm in this setup."
     },
     "stage": "explain",
     "difficulty": 2,
@@ -983,9 +983,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why is “fair” about the method rather than matching results?",
-    "audio_prompt": "Why is “fair” about the method rather than matching results?",
-    "audioPrompt": "Why is “fair” about the method rather than matching results?",
+    "question": "Two fair trials produce slightly different distances. What does that mean?",
+    "audio_prompt": "Two fair trials produce slightly different distances. What does that mean?",
+    "audioPrompt": "Two fair trials produce slightly different distances. What does that mean?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -993,37 +993,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A fair method controls variables; results may still differ naturally",
+        "text": "The difference should be recorded; fair methods can still show variation.",
         "is_correct": true
       },
       {
-        "text": "Fair tests must produce identical numbers",
+        "text": "The group must rewrite one result to match.",
         "is_correct": false
       },
       {
-        "text": "Different results mean cheating",
+        "text": "The investigation is automatically dishonest.",
         "is_correct": false
       },
       {
-        "text": "Fairness is only about group size",
+        "text": "The prediction must be changed before recording.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A fair method controls variables; results may still differ naturally",
-      "Fair tests must produce identical numbers",
-      "Different results mean cheating",
-      "Fairness is only about group size"
+      "The difference should be recorded; fair methods can still show variation.",
+      "The group must rewrite one result to match.",
+      "The investigation is automatically dishonest.",
+      "The prediction must be changed before recording."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Fair testing is about how data is collected, not forcing outcomes to match.",
-      "hint": "Method fairness."
+      "summary": "Fairness concerns the method, and real repeated observations can vary.",
+      "hint": "Do not confuse fairness with identical numbers."
     },
     "structuredExplanation": {
-      "summary": "Fair testing is about how data is collected, not forcing outcomes to match.",
-      "hint": "Method fairness."
+      "summary": "Fairness concerns the method, and real repeated observations can vary.",
+      "hint": "Do not confuse fairness with identical numbers."
     },
     "stage": "explain",
     "difficulty": 2,
@@ -1044,9 +1044,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why should measurement units be planned before testing?",
-    "audio_prompt": "Why should measurement units be planned before testing?",
-    "audioPrompt": "Why should measurement units be planned before testing?",
+    "question": "Why plan measuring units before starting?",
+    "audio_prompt": "Why plan measuring units before starting?",
+    "audioPrompt": "Why plan measuring units before starting?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1054,37 +1054,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Units are opinions",
+        "text": "Changing units each trial makes a fair test.",
         "is_correct": false
       },
       {
-        "text": "Changing units each trial improves accuracy",
+        "text": "Units can replace numbers in every result.",
         "is_correct": false
       },
       {
-        "text": "Units are only needed after conclusions",
+        "text": "Units determine which prediction will be correct.",
         "is_correct": false
       },
       {
-        "text": "Consistent units make results comparable",
+        "text": "Consistent units make the recorded results easier to compare.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Units are opinions",
-      "Changing units each trial improves accuracy",
-      "Units are only needed after conclusions",
-      "Consistent units make results comparable"
+      "Changing units each trial makes a fair test.",
+      "Units can replace numbers in every result.",
+      "Units determine which prediction will be correct.",
+      "Consistent units make the recorded results easier to compare."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Planning units helps data be recorded consistently.",
-      "hint": "Same measurement language."
+      "summary": "A scaffold can specify the tool and unit beside the outcome.",
+      "hint": "Decide how the outcome will be recorded."
     },
     "structuredExplanation": {
-      "summary": "Planning units helps data be recorded consistently.",
-      "hint": "Same measurement language."
+      "summary": "A scaffold can specify the tool and unit beside the outcome.",
+      "hint": "Decide how the outcome will be recorded."
     },
     "stage": "explain",
     "difficulty": 2,
@@ -1105,9 +1105,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why should the release point be controlled in a ramp investigation?",
-    "audio_prompt": "Why should the release point be controlled in a ramp investigation?",
-    "audioPrompt": "Why should the release point be controlled in a ramp investigation?",
+    "question": "A surface test uses the same car but releases it from different ramp positions. What should improve?",
+    "audio_prompt": "A surface test uses the same car but releases it from different ramp positions. What should improve?",
+    "audioPrompt": "A surface test uses the same car but releases it from different ramp positions. What should improve?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1115,37 +1115,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It makes the car invisible",
+        "text": "Use the farthest distance as every result.",
         "is_correct": false
       },
       {
-        "text": "It is the measured variable in every test",
+        "text": "Remove the ruler to avoid differences.",
         "is_correct": false
       },
       {
-        "text": "Starting from different points could affect the distance travelled",
+        "text": "Use the same marked release position for every surface.",
         "is_correct": true
       },
       {
-        "text": "Release point never changes motion",
+        "text": "Choose the surface the group likes best.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It makes the car invisible",
-      "It is the measured variable in every test",
-      "Starting from different points could affect the distance travelled",
-      "Release point never changes motion"
+      "Use the farthest distance as every result.",
+      "Remove the ruler to avoid differences.",
+      "Use the same marked release position for every surface.",
+      "Choose the surface the group likes best."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "A different release point can change starting energy and affect motion.",
-      "hint": "Same start."
+      "summary": "Release position could affect the car’s motion, so keep it consistent when testing surface.",
+      "hint": "Control another factor that affects the roll."
     },
     "structuredExplanation": {
-      "summary": "A different release point can change starting energy and affect motion.",
-      "hint": "Same start."
+      "summary": "Release position could affect the car’s motion, so keep it consistent when testing surface.",
+      "hint": "Control another factor that affects the roll."
     },
     "stage": "explain",
     "difficulty": 2,
@@ -1166,9 +1166,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why is adult or teacher checking useful before using unfamiliar equipment?",
-    "audio_prompt": "Why is adult or teacher checking useful before using unfamiliar equipment?",
-    "audioPrompt": "Why is adult or teacher checking useful before using unfamiliar equipment?",
+    "question": "When should a student use an unfamiliar force meter?",
+    "audio_prompt": "When should a student use an unfamiliar force meter?",
+    "audioPrompt": "When should a student use an unfamiliar force meter?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1176,37 +1176,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It means no hazards exist",
+        "text": "As soon as the student can pull it as hard as possible",
         "is_correct": false
       },
       {
-        "text": "It helps confirm the method and safety controls are appropriate",
+        "text": "After an adult explains its use and checks that the load is within its range",
         "is_correct": true
       },
       {
-        "text": "It makes the results automatically correct",
+        "text": "Only after hiding any unusual readings",
         "is_correct": false
       },
       {
-        "text": "It replaces the need for variables",
+        "text": "Without checking whether the hook is secure",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It means no hazards exist",
-      "It helps confirm the method and safety controls are appropriate",
-      "It makes the results automatically correct",
-      "It replaces the need for variables"
+      "As soon as the student can pull it as hard as possible",
+      "After an adult explains its use and checks that the load is within its range",
+      "Only after hiding any unusual readings",
+      "Without checking whether the hook is secure"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Checking procedures can reduce safety and method problems before testing.",
-      "hint": "Check before action."
+      "summary": "Use equipment according to instructions and its safe operating range.",
+      "hint": "The equipment must suit the task."
     },
     "structuredExplanation": {
-      "summary": "Checking procedures can reduce safety and method problems before testing.",
-      "hint": "Check before action."
+      "summary": "Use equipment according to instructions and its safe operating range.",
+      "hint": "The equipment must suit the task."
     },
     "stage": "explain",
     "difficulty": 2,
@@ -1227,52 +1227,53 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which statement is a misconception?",
-    "audio_prompt": "Which statement is a misconception?",
-    "audioPrompt": "Which statement is a misconception?",
+    "question": "The scaffold compares shoe friction. What is deliberately changed?",
+    "audio_prompt": "The scaffold compares shoe friction. What is deliberately changed?",
+    "audioPrompt": "The scaffold compares shoe friction. What is deliberately changed?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02/shoe-test-scaffold.svg#model",
+      "alt_text": "Shoe comparison scaffold: change shoe; keep the floor, total shoe-plus-load mass and pulling method the same; measure steady pulling force using a force meter; repeat three trials per shoe. Adult checks the meter and secures added loads."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i02/shoe-test-scaffold.svg#model\" alt=\"Shoe comparison scaffold: change shoe; keep the floor, total shoe-plus-load mass and pulling method the same; measure steady pulling force using a force meter; repeat three trials per shoe. Adult checks the meter and secures added loads.\" style=\"display:block;width:100%;max-width:640px;height:auto;margin:auto\">",
     "answers": [
       {
-        "text": "Fair means every group must get exactly the same result",
+        "text": "The shoe being tested",
         "is_correct": true
       },
       {
-        "text": "Fair testing is about method",
+        "text": "The floor on every trial",
         "is_correct": false
       },
       {
-        "text": "Repeats can show variation",
+        "text": "The total shoe-plus-load mass each time",
         "is_correct": false
       },
       {
-        "text": "Controls help compare variables",
+        "text": "The way the force meter is read each time",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Fair means every group must get exactly the same result",
-      "Fair testing is about method",
-      "Repeats can show variation",
-      "Controls help compare variables"
+      "The shoe being tested",
+      "The floor on every trial",
+      "The total shoe-plus-load mass each time",
+      "The way the force meter is read each time"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Fair tests can still produce different results because measurements vary.",
-      "hint": "Fair method, not identical outcomes."
+      "summary": "The scaffold names shoe as the comparison and lists relevant controls.",
+      "hint": "Read the change row."
     },
     "structuredExplanation": {
-      "summary": "Fair tests can still produce different results because measurements vary.",
-      "hint": "Fair method, not identical outcomes."
+      "summary": "The scaffold names shoe as the comparison and lists relevant controls.",
+      "hint": "Read the change row."
     },
-    "stage": "discriminate",
+    "stage": "explain",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
     "sequence_priority": 21,
     "sequencePriority": 21,
     "quality_schema": "skillr-actual-v6",
@@ -1288,52 +1289,53 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which plan is fairest for comparing surfaces?",
-    "audio_prompt": "Which plan is fairest for comparing surfaces?",
-    "audioPrompt": "Which plan is fairest for comparing surfaces?",
+    "question": "Why keep the total shoe-plus-load mass the same in the shoe test?",
+    "audio_prompt": "Why keep the total shoe-plus-load mass the same in the shoe test?",
+    "audioPrompt": "Why keep the total shoe-plus-load mass the same in the shoe test?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02/shoe-test-scaffold.svg#model",
+      "alt_text": "Shoe comparison scaffold: change shoe; keep the floor, total shoe-plus-load mass and pulling method the same; measure steady pulling force using a force meter; repeat three trials per shoe. Adult checks the meter and secures added loads."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i02/shoe-test-scaffold.svg#model\" alt=\"Shoe comparison scaffold: change shoe; keep the floor, total shoe-plus-load mass and pulling method the same; measure steady pulling force using a force meter; repeat three trials per shoe. Adult checks the meter and secures added loads.\" style=\"display:block;width:100%;max-width:640px;height:auto;margin:auto\">",
     "answers": [
       {
-        "text": "Different car on each surface",
+        "text": "Mass never affects contact with the floor.",
         "is_correct": false
       },
       {
-        "text": "Push harder on rough surfaces",
+        "text": "Equal mass forces the readings to be identical.",
         "is_correct": false
       },
       {
-        "text": "Measure one surface by eye and one with a ruler",
+        "text": "The total mass is the outcome the question asks to measure.",
         "is_correct": false
       },
       {
-        "text": "Same car, same ramp height, same release line, different surface",
+        "text": "A different load could affect friction and make the shoe comparison harder to interpret.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Different car on each surface",
-      "Push harder on rough surfaces",
-      "Measure one surface by eye and one with a ruler",
-      "Same car, same ramp height, same release line, different surface"
+      "Mass never affects contact with the floor.",
+      "Equal mass forces the readings to be identical.",
+      "The total mass is the outcome the question asks to measure.",
+      "A different load could affect friction and make the shoe comparison harder to interpret."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "The fair plan changes only the surface and controls relevant conditions.",
-      "hint": "One changed factor."
+      "summary": "Control load as well as surface and pulling method.",
+      "hint": "One changed factor should remain the shoe."
     },
     "structuredExplanation": {
-      "summary": "The fair plan changes only the surface and controls relevant conditions.",
-      "hint": "One changed factor."
+      "summary": "Control load as well as surface and pulling method.",
+      "hint": "One changed factor should remain the shoe."
     },
-    "stage": "discriminate",
+    "stage": "explain",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
     "sequence_priority": 22,
     "sequencePriority": 22,
     "quality_schema": "skillr-actual-v6",
@@ -1349,52 +1351,53 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which is the changed variable in “How does water temperature affect dissolving time?”",
-    "audio_prompt": "Which is the changed variable in “How does water temperature affect dissolving time?”",
-    "audioPrompt": "Which is the changed variable in “How does water temperature affect dissolving time?”",
+    "question": "Why does the scaffold say to read the meter during a slow, steady slide?",
+    "audio_prompt": "Why does the scaffold say to read the meter during a slow, steady slide?",
+    "audioPrompt": "Why does the scaffold say to read the meter during a slow, steady slide?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02/shoe-test-scaffold.svg#model",
+      "alt_text": "Shoe comparison scaffold: change shoe; keep the floor, total shoe-plus-load mass and pulling method the same; measure steady pulling force using a force meter; repeat three trials per shoe. Adult checks the meter and secures added loads."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i02/shoe-test-scaffold.svg#model\" alt=\"Shoe comparison scaffold: change shoe; keep the floor, total shoe-plus-load mass and pulling method the same; measure steady pulling force using a force meter; repeat three trials per shoe. Adult checks the meter and secures added loads.\" style=\"display:block;width:100%;max-width:640px;height:auto;margin:auto\">",
     "answers": [
       {
-        "text": "Timer brand",
+        "text": "The largest sudden jerk is always the fairest reading.",
         "is_correct": false
       },
       {
-        "text": "Cup label",
+        "text": "A meter only works if the shoe is airborne.",
         "is_correct": false
       },
       {
-        "text": "Water temperature",
+        "text": "It gives a consistent stage of pulling to compare between trials.",
         "is_correct": true
       },
       {
-        "text": "Dissolving time",
+        "text": "Students should change pulling speed to favour one shoe.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Timer brand",
-      "Cup label",
-      "Water temperature",
-      "Dissolving time"
+      "The largest sudden jerk is always the fairest reading.",
+      "A meter only works if the shoe is airborne.",
+      "It gives a consistent stage of pulling to compare between trials.",
+      "Students should change pulling speed to favour one shoe."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Water temperature is deliberately changed.",
-      "hint": "What is varied?"
+      "summary": "Starting and sliding can give different readings; use the stated procedure consistently.",
+      "hint": "Read at the same stage each time."
     },
     "structuredExplanation": {
-      "summary": "Water temperature is deliberately changed.",
-      "hint": "What is varied?"
+      "summary": "Starting and sliding can give different readings; use the stated procedure consistently.",
+      "hint": "Read at the same stage each time."
     },
-    "stage": "discriminate",
+    "stage": "explain",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
     "sequence_priority": 23,
     "sequencePriority": 23,
     "quality_schema": "skillr-actual-v6",
@@ -1410,9 +1413,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which is the measured variable in that dissolving-time test?",
-    "audio_prompt": "Which is the measured variable in that dissolving-time test?",
-    "audioPrompt": "Which is the measured variable in that dissolving-time test?",
+    "question": "A shoe needs more steady pulling force than another under the same conditions. What does that suggest in this test?",
+    "audio_prompt": "A shoe needs more steady pulling force than another under the same conditions. What does that suggest in this test?",
+    "audioPrompt": "A shoe needs more steady pulling force than another under the same conditions. What does that suggest in this test?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1420,42 +1423,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Spoon shape only",
+        "text": "It must be safest on every wet or icy road.",
         "is_correct": false
       },
       {
-        "text": "Time taken to dissolve",
+        "text": "More friction resists its sliding on this surface.",
         "is_correct": true
       },
       {
-        "text": "Water temperature",
+        "text": "It experiences no contact force.",
         "is_correct": false
       },
       {
-        "text": "Cup colour",
+        "text": "It must be made from a single material.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Spoon shape only",
-      "Time taken to dissolve",
-      "Water temperature",
-      "Cup colour"
+      "It must be safest on every wet or icy road.",
+      "More friction resists its sliding on this surface.",
+      "It experiences no contact force.",
+      "It must be made from a single material."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "The measured variable is how long dissolving takes.",
-      "hint": "Outcome recorded."
+      "summary": "The result concerns sliding resistance in this setup, not every real-world safety condition.",
+      "hint": "Keep the interpretation within the test."
     },
     "structuredExplanation": {
-      "summary": "The measured variable is how long dissolving takes.",
-      "hint": "Outcome recorded."
+      "summary": "The result concerns sliding resistance in this setup, not every real-world safety condition.",
+      "hint": "Keep the interpretation within the test."
     },
-    "stage": "discriminate",
+    "stage": "explain",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "explain",
+    "difficultyTier": "explain",
     "sequence_priority": 24,
     "sequencePriority": 24,
     "quality_schema": "skillr-actual-v6",
@@ -1471,9 +1474,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which safety note is most specific?",
-    "audio_prompt": "Which safety note is most specific?",
-    "audioPrompt": "Which safety note is most specific?",
+    "question": "A class tests whether equal-sized samples are attracted to a magnet. Which plan is fairest?",
+    "audio_prompt": "A class tests whether equal-sized samples are attracted to a magnet. Which plan is fairest?",
+    "audioPrompt": "A class tests whether equal-sized samples are attracted to a magnet. Which plan is fairest?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1481,42 +1484,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Wear goggles and pour away from faces when using vinegar",
+        "text": "Use the same magnet, starting gap and observation method for each sample.",
         "is_correct": true
       },
       {
-        "text": "Be careful with liquids",
+        "text": "Use a different magnet and gap for each sample.",
         "is_correct": false
       },
       {
-        "text": "Do not be silly",
+        "text": "Touch some samples with the magnet but keep others far away.",
         "is_correct": false
       },
       {
-        "text": "Science can be dangerous",
+        "text": "Choose samples only after seeing which ones move.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Wear goggles and pour away from faces when using vinegar",
-      "Be careful with liquids",
-      "Do not be silly",
-      "Science can be dangerous"
+      "Use the same magnet, starting gap and observation method for each sample.",
+      "Use a different magnet and gap for each sample.",
+      "Touch some samples with the magnet but keep others far away.",
+      "Choose samples only after seeing which ones move."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Specific controls state clear actions linked to hazards.",
-      "hint": "Concrete action."
+      "summary": "A consistent magnet and gap make observed attraction more comparable.",
+      "hint": "Keep the testing method the same."
     },
     "structuredExplanation": {
-      "summary": "Specific controls state clear actions linked to hazards.",
-      "hint": "Concrete action."
+      "summary": "A consistent magnet and gap make observed attraction more comparable.",
+      "hint": "Keep the testing method the same."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 25,
     "sequencePriority": 25,
     "quality_schema": "skillr-actual-v6",
@@ -1532,9 +1535,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which repeat is valid?",
-    "audio_prompt": "Which repeat is valid?",
-    "audioPrompt": "Which repeat is valid?",
+    "question": "A magnet test finds no visible movement of a large heavy object. What should the plan consider?",
+    "audio_prompt": "A magnet test finds no visible movement of a large heavy object. What should the plan consider?",
+    "audioPrompt": "A magnet test finds no visible movement of a large heavy object. What should the plan consider?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1542,42 +1545,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Copy the first distance into three boxes",
+        "text": "It proves that no material in the object could be magnetic.",
         "is_correct": false
       },
       {
-        "text": "Use a different plane each time without saying so",
+        "text": "All metals must move the same distance regardless of size.",
         "is_correct": false
       },
       {
-        "text": "Throw once and guess the other trials",
+        "text": "The teacher should replace the observation with the expected answer.",
         "is_correct": false
       },
       {
-        "text": "Run the same paper-plane test three times under the same conditions",
+        "text": "Its weight and resistance may hide attraction; use appropriate comparable samples and a suitable observation method.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Copy the first distance into three boxes",
-      "Use a different plane each time without saying so",
-      "Throw once and guess the other trials",
-      "Run the same paper-plane test three times under the same conditions"
+      "It proves that no material in the object could be magnetic.",
+      "All metals must move the same distance regardless of size.",
+      "The teacher should replace the observation with the expected answer.",
+      "Its weight and resistance may hide attraction; use appropriate comparable samples and a suitable observation method."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A valid repeat repeats the procedure and records new evidence.",
-      "hint": "Do the test again."
+      "summary": "No movement can reflect the method and resistance; it is not always a complete material test.",
+      "hint": "Check whether the method can reveal the effect."
     },
     "structuredExplanation": {
-      "summary": "A valid repeat repeats the procedure and records new evidence.",
-      "hint": "Do the test again."
+      "summary": "No movement can reflect the method and resistance; it is not always a complete material test.",
+      "hint": "Check whether the method can reveal the effect."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 26,
     "sequencePriority": 26,
     "quality_schema": "skillr-actual-v6",
@@ -1593,9 +1596,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which variable should be controlled in a magnet-distance test?",
-    "audio_prompt": "Which variable should be controlled in a magnet-distance test?",
-    "audioPrompt": "Which variable should be controlled in a magnet-distance test?",
+    "question": "Which magnet investigation safety rule is appropriate?",
+    "audio_prompt": "Which magnet investigation safety rule is appropriate?",
+    "audioPrompt": "Which magnet investigation safety rule is appropriate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1603,42 +1606,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Number of clips attracted",
+        "text": "Put small magnets in a pocket with loose food.",
         "is_correct": false
       },
       {
-        "text": "Whether attraction happens",
+        "text": "Bring magnets near a medical device to test its response.",
         "is_correct": false
       },
       {
-        "text": "The magnet used",
+        "text": "Use teacher-approved large magnets, keep them away from mouths and follow device-related safety guidance.",
         "is_correct": true
       },
       {
-        "text": "The distance between magnet and clip",
+        "text": "Break magnets into smaller pieces to share them.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Number of clips attracted",
-      "Whether attraction happens",
-      "The magnet used",
-      "The distance between magnet and clip"
+      "Put small magnets in a pocket with loose food.",
+      "Bring magnets near a medical device to test its response.",
+      "Use teacher-approved large magnets, keep them away from mouths and follow device-related safety guidance.",
+      "Break magnets into smaller pieces to share them."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "The same magnet should be used while distance is changed.",
-      "hint": "Control material/tool."
+      "summary": "Adult-approved equipment and safe handling matter, especially around ingestion and sensitive devices.",
+      "hint": "Choose controls specific to magnets."
     },
     "structuredExplanation": {
-      "summary": "The same magnet should be used while distance is changed.",
-      "hint": "Control material/tool."
+      "summary": "Adult-approved equipment and safe handling matter, especially around ingestion and sensitive devices.",
+      "hint": "Choose controls specific to magnets."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 27,
     "sequencePriority": 27,
     "quality_schema": "skillr-actual-v6",
@@ -1654,9 +1657,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which is a hazard in a hot-water insulation test?",
-    "audio_prompt": "Which is a hazard in a hot-water insulation test?",
-    "audioPrompt": "Which is a hazard in a hot-water insulation test?",
+    "question": "What should be written in an investigation scaffold before collecting results?",
+    "audio_prompt": "What should be written in an investigation scaffold before collecting results?",
+    "audioPrompt": "What should be written in an investigation scaffold before collecting results?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1664,42 +1667,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The cup has a label",
+        "text": "Only the answer the group hopes to obtain",
         "is_correct": false
       },
       {
-        "text": "Warm water could spill and burn skin",
+        "text": "Question, prediction, materials, changed and controlled factors, outcome, method, repeats and safety",
         "is_correct": true
       },
       {
-        "text": "The table has legs",
+        "text": "Only the names of students in the group",
         "is_correct": false
       },
       {
-        "text": "The stopwatch counts seconds",
+        "text": "Only the final conclusion with invented measurements",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The cup has a label",
-      "Warm water could spill and burn skin",
-      "The table has legs",
-      "The stopwatch counts seconds"
+      "Only the answer the group hopes to obtain",
+      "Question, prediction, materials, changed and controlled factors, outcome, method, repeats and safety",
+      "Only the names of students in the group",
+      "Only the final conclusion with invented measurements"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Warm water spill is a source of harm.",
-      "hint": "Could cause injury."
+      "summary": "A scaffold helps connect a question to a practical, fair and safe method.",
+      "hint": "Plan what to do and how to record it."
     },
     "structuredExplanation": {
-      "summary": "Warm water spill is a source of harm.",
-      "hint": "Could cause injury."
+      "summary": "A scaffold helps connect a question to a practical, fair and safe method.",
+      "hint": "Plan what to do and how to record it."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 28,
     "sequencePriority": 28,
     "quality_schema": "skillr-actual-v6",
@@ -1715,52 +1718,53 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which is a control for that hazard?",
-    "audio_prompt": "Which is a control for that hazard?",
-    "audioPrompt": "Which is a control for that hazard?",
+    "question": "In the paper-ball ramp game, which prediction links forces to motion?",
+    "audio_prompt": "In the paper-ball ramp game, which prediction links forces to motion?",
+    "audioPrompt": "In the paper-ball ramp game, which prediction links forces to motion?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02/ramp-game.svg#model",
+      "alt_text": "A paper ramp game: a rolled paper ball starts at a marked release line on a low card ramp and rolls towards a target on a level table. Gravity starts the roll; friction helps slow the ball. Release without pushing, keep the start and ball the same, and compare landing surfaces."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i02/ramp-game.svg#model\" alt=\"A paper ramp game: a rolled paper ball starts at a marked release line on a low card ramp and rolls towards a target on a level table. Gravity starts the roll; friction helps slow the ball. Release without pushing, keep the start and ball the same, and compare landing surfaces.\" style=\"display:block;width:100%;max-width:640px;height:auto;margin:auto\">",
     "answers": [
       {
-        "text": "Use teacher-approved warm water and stable containers",
+        "text": "The ball will roll down the slope as gravity acts, then friction may slow it on the table.",
         "is_correct": true
       },
       {
-        "text": "Use boiling water quickly",
+        "text": "Gravity will push the ball up the ramp without a start.",
         "is_correct": false
       },
       {
-        "text": "Carry cups while running",
+        "text": "Friction only acts when the ball is floating.",
         "is_correct": false
       },
       {
-        "text": "Fill cups to overflowing",
+        "text": "A target circle creates a magnetic pull on paper.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Use teacher-approved warm water and stable containers",
-      "Use boiling water quickly",
-      "Carry cups while running",
-      "Fill cups to overflowing"
+      "The ball will roll down the slope as gravity acts, then friction may slow it on the table.",
+      "Gravity will push the ball up the ramp without a start.",
+      "Friction only acts when the ball is floating.",
+      "A target circle creates a magnetic pull on paper."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "The control reduces risk from warm water spills.",
-      "hint": "Reduce burn/spill risk."
+      "summary": "The design uses gravitational and frictional interactions without assuming magnetism.",
+      "hint": "Identify forces actually present."
     },
     "structuredExplanation": {
-      "summary": "The control reduces risk from warm water spills.",
-      "hint": "Reduce burn/spill risk."
+      "summary": "The design uses gravitational and frictional interactions without assuming magnetism.",
+      "hint": "Identify forces actually present."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 29,
     "sequencePriority": 29,
     "quality_schema": "skillr-actual-v6",
@@ -1776,52 +1780,53 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which method step is unclear?",
-    "audio_prompt": "Which method step is unclear?",
-    "audioPrompt": "Which method step is unclear?",
+    "question": "What makes a small first version of the ramp game a prototype?",
+    "audio_prompt": "What makes a small first version of the ramp game a prototype?",
+    "audioPrompt": "What makes a small first version of the ramp game a prototype?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02/ramp-game.svg#model",
+      "alt_text": "A paper ramp game: a rolled paper ball starts at a marked release line on a low card ramp and rolls towards a target on a level table. Gravity starts the roll; friction helps slow the ball. Release without pushing, keep the start and ball the same, and compare landing surfaces."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i02/ramp-game.svg#model\" alt=\"A paper ramp game: a rolled paper ball starts at a marked release line on a low card ramp and rolls towards a target on a level table. Gravity starts the roll; friction helps slow the ball. Release without pushing, keep the start and ball the same, and compare landing surfaces.\" style=\"display:block;width:100%;max-width:640px;height:auto;margin:auto\">",
     "answers": [
       {
-        "text": "Measure the car distance in centimetres from the ramp end",
+        "text": "It is guaranteed to meet every target before testing.",
         "is_correct": false
       },
       {
-        "text": "Repeat each surface three times",
+        "text": "It is only a final score written on paper.",
         "is_correct": false
       },
       {
-        "text": "Release without pushing",
+        "text": "It must be the same as a shop-bought toy.",
         "is_correct": false
       },
       {
-        "text": "Test it and write stuff down",
+        "text": "It is built so the group can test and improve the design.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Measure the car distance in centimetres from the ramp end",
-      "Repeat each surface three times",
-      "Release without pushing",
-      "Test it and write stuff down"
+      "It is guaranteed to meet every target before testing.",
+      "It is only a final score written on paper.",
+      "It must be the same as a shop-bought toy.",
+      "It is built so the group can test and improve the design."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A clear method needs specific actions and measurements.",
-      "hint": "Too vague."
+      "summary": "A prototype is a trial version used to investigate whether the design works.",
+      "hint": "Build to learn from a test."
     },
     "structuredExplanation": {
-      "summary": "A clear method needs specific actions and measurements.",
-      "hint": "Too vague."
+      "summary": "A prototype is a trial version used to investigate whether the design works.",
+      "hint": "Build to learn from a test."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 30,
     "sequencePriority": 30,
     "quality_schema": "skillr-actual-v6",
@@ -1837,47 +1842,48 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "A group compares absorbency using large sheets of Brand A and small sheets of Brand B. What should be fixed?",
-    "audio_prompt": "A group compares absorbency using large sheets of Brand A and small sheets of Brand B. What should be fixed?",
-    "audioPrompt": "A group compares absorbency using large sheets of Brand A and small sheets of Brand B. What should be fixed?",
+    "question": "The paper ball rolls past the target in repeated trials. Which next step uses the evidence?",
+    "audio_prompt": "The paper ball rolls past the target in repeated trials. Which next step uses the evidence?",
+    "audioPrompt": "The paper ball rolls past the target in repeated trials. Which next step uses the evidence?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02/ramp-game.svg#model",
+      "alt_text": "A paper ramp game: a rolled paper ball starts at a marked release line on a low card ramp and rolls towards a target on a level table. Gravity starts the roll; friction helps slow the ball. Release without pushing, keep the start and ball the same, and compare landing surfaces."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i02/ramp-game.svg#model\" alt=\"A paper ramp game: a rolled paper ball starts at a marked release line on a low card ramp and rolls towards a target on a level table. Gravity starts the roll; friction helps slow the ball. Release without pushing, keep the start and ball the same, and compare landing surfaces.\" style=\"display:block;width:100%;max-width:640px;height:auto;margin:auto\">",
     "answers": [
       {
-        "text": "Choose the favourite brand first",
+        "text": "Declare success because the ball moved at all.",
         "is_correct": false
       },
       {
-        "text": "Stop measuring water",
+        "text": "Change every feature without recording the changes.",
         "is_correct": false
       },
       {
-        "text": "Use equal-sized sheets for each brand",
+        "text": "Change one relevant feature, such as the landing surface, predict the effect and test again.",
         "is_correct": true
       },
       {
-        "text": "Use more water on Brand A",
+        "text": "Move the target after every roll to make each trial a hit.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Choose the favourite brand first",
-      "Stop measuring water",
-      "Use equal-sized sheets for each brand",
-      "Use more water on Brand A"
+      "Declare success because the ball moved at all.",
+      "Change every feature without recording the changes.",
+      "Change one relevant feature, such as the landing surface, predict the effect and test again.",
+      "Move the target after every roll to make each trial a hit."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Sample size must be controlled for a fair comparison.",
-      "hint": "Same size."
+      "summary": "Evidence can guide a controlled design improvement.",
+      "hint": "Keep the success criterion fixed while testing changes."
     },
     "structuredExplanation": {
-      "summary": "Sample size must be controlled for a fair comparison.",
-      "hint": "Same size."
+      "summary": "Evidence can guide a controlled design improvement.",
+      "hint": "Keep the success criterion fixed while testing changes."
     },
     "stage": "apply",
     "difficulty": 3,
@@ -1898,47 +1904,48 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "You are planning a test of ramp height on car distance. What is the changed variable?",
-    "audio_prompt": "You are planning a test of ramp height on car distance. What is the changed variable?",
-    "audioPrompt": "You are planning a test of ramp height on car distance. What is the changed variable?",
+    "question": "Why release the same ball from a marked line without pushing when comparing landing surfaces?",
+    "audio_prompt": "Why release the same ball from a marked line without pushing when comparing landing surfaces?",
+    "audioPrompt": "Why release the same ball from a marked line without pushing when comparing landing surfaces?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02/ramp-game.svg#model",
+      "alt_text": "A paper ramp game: a rolled paper ball starts at a marked release line on a low card ramp and rolls towards a target on a level table. Gravity starts the roll; friction helps slow the ball. Release without pushing, keep the start and ball the same, and compare landing surfaces."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i02/ramp-game.svg#model\" alt=\"A paper ramp game: a rolled paper ball starts at a marked release line on a low card ramp and rolls towards a target on a level table. Gravity starts the roll; friction helps slow the ball. Release without pushing, keep the start and ball the same, and compare landing surfaces.\" style=\"display:block;width:100%;max-width:640px;height:auto;margin:auto\">",
     "answers": [
       {
-        "text": "Recording table",
+        "text": "A marked line makes friction disappear.",
         "is_correct": false
       },
       {
-        "text": "Ramp height",
+        "text": "Different starts or pushes could affect the distance and hide the surface effect.",
         "is_correct": true
       },
       {
-        "text": "Distance travelled",
+        "text": "Only new balls can give repeated results.",
         "is_correct": false
       },
       {
-        "text": "Car colour",
+        "text": "The target must move each time for a fair comparison.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Recording table",
-      "Ramp height",
-      "Distance travelled",
-      "Car colour"
+      "A marked line makes friction disappear.",
+      "Different starts or pushes could affect the distance and hide the surface effect.",
+      "Only new balls can give repeated results.",
+      "The target must move each time for a fair comparison."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Ramp height is deliberately changed to test its effect.",
-      "hint": "What do you change?"
+      "summary": "A consistent start makes the chosen surface change clearer.",
+      "hint": "Keep other causes of motion comparable."
     },
     "structuredExplanation": {
-      "summary": "Ramp height is deliberately changed to test its effect.",
-      "hint": "What do you change?"
+      "summary": "A consistent start makes the chosen surface change clearer.",
+      "hint": "Keep other causes of motion comparable."
     },
     "stage": "apply",
     "difficulty": 3,
@@ -1959,9 +1966,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "In that ramp-height test, what should be measured?",
-    "audio_prompt": "In that ramp-height test, what should be measured?",
-    "audioPrompt": "In that ramp-height test, what should be measured?",
+    "question": "Which record best shows a prototype was actually tested?",
+    "audio_prompt": "Which record best shows a prototype was actually tested?",
+    "audioPrompt": "Which record best shows a prototype was actually tested?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1969,37 +1976,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Distance the car travels",
+        "text": "The built design, its test conditions, observations from repeated trials and a proposed improvement",
         "is_correct": true
       },
       {
-        "text": "The teacher’s opinion",
+        "text": "A statement saying it would probably be good",
         "is_correct": false
       },
       {
-        "text": "The name of the ramp",
+        "text": "A drawing of a prize the group wants to win",
         "is_correct": false
       },
       {
-        "text": "The colour of the floor",
+        "text": "A list of supplies with no test observations",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Distance the car travels",
-      "The teacher’s opinion",
-      "The name of the ramp",
-      "The colour of the floor"
+      "The built design, its test conditions, observations from repeated trials and a proposed improvement",
+      "A statement saying it would probably be good",
+      "A drawing of a prize the group wants to win",
+      "A list of supplies with no test observations"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Distance travelled is the outcome that shows the effect.",
-      "hint": "Outcome."
+      "summary": "A plan alone is not evidence that a prototype was built and tested.",
+      "hint": "Look for actual recorded trials."
     },
     "structuredExplanation": {
-      "summary": "Distance travelled is the outcome that shows the effect.",
-      "hint": "Outcome."
+      "summary": "A plan alone is not evidence that a prototype was built and tested.",
+      "hint": "Look for actual recorded trials."
     },
     "stage": "apply",
     "difficulty": 3,
@@ -2020,9 +2027,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "A water spill happens beside the test table. What should the plan say?",
-    "audio_prompt": "A water spill happens beside the test table. What should the plan say?",
-    "audioPrompt": "A water spill happens beside the test table. What should the plan say?",
+    "question": "Why use cards or a virtual food-chain simulation to explore removing producers?",
+    "audio_prompt": "Why use cards or a virtual food-chain simulation to explore removing producers?",
+    "audioPrompt": "Why use cards or a virtual food-chain simulation to explore removing producers?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2030,37 +2037,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Run through it carefully",
+        "text": "It proves the exact future population in every habitat.",
         "is_correct": false
       },
       {
-        "text": "Ignore it until packing up",
+        "text": "It removes the need to state any model rules.",
         "is_correct": false
       },
       {
-        "text": "Pour more water to make it obvious",
+        "text": "It means predictions should be written after every outcome.",
         "is_correct": false
       },
       {
-        "text": "Stop, keep people away and wipe the spill promptly",
+        "text": "It explores possible effects without deliberately harming real organisms or habitats.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Run through it carefully",
-      "Ignore it until packing up",
-      "Pour more water to make it obvious",
-      "Stop, keep people away and wipe the spill promptly"
+      "It proves the exact future population in every habitat.",
+      "It removes the need to state any model rules.",
+      "It means predictions should be written after every outcome.",
+      "It explores possible effects without deliberately harming real organisms or habitats."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "The response should reduce slipping risk immediately.",
-      "hint": "Control the hazard."
+      "summary": "Models allow safe exploration but have limits.",
+      "hint": "Separate a useful model from a complete real habitat."
     },
     "structuredExplanation": {
-      "summary": "The response should reduce slipping risk immediately.",
-      "hint": "Control the hazard."
+      "summary": "Models allow safe exploration but have limits.",
+      "hint": "Separate a useful model from a complete real habitat."
     },
     "stage": "apply",
     "difficulty": 3,
@@ -2081,47 +2088,48 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "A pilot test shows the car rolls off the side of the ramp. What is the best next step?",
-    "audio_prompt": "A pilot test shows the car rolls off the side of the ramp. What is the best next step?",
-    "audioPrompt": "A pilot test shows the car rolls off the side of the ramp. What is the best next step?",
+    "question": "In the paper food-chain model, what is changed between the two conditions?",
+    "audio_prompt": "In the paper food-chain model, what is changed between the two conditions?",
+    "audioPrompt": "In the paper food-chain model, what is changed between the two conditions?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02/food-chain-simulation.svg#model",
+      "alt_text": "Paper model starts with six leaf tokens, six caterpillar cards and two bird cards. Each caterpillar needs one leaf token; each bird needs two fed caterpillar cards. Compare six leaves with three leaves, resetting and repeating each condition three times."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i02/food-chain-simulation.svg#model\" alt=\"Paper model starts with six leaf tokens, six caterpillar cards and two bird cards. Each caterpillar needs one leaf token; each bird needs two fed caterpillar cards. Compare six leaves with three leaves, resetting and repeating each condition three times.\" style=\"display:block;width:100%;max-width:640px;height:auto;margin:auto\">",
     "answers": [
       {
-        "text": "Change the question to match the accident",
+        "text": "The number of leaf tokens each caterpillar needs",
         "is_correct": false
       },
       {
-        "text": "Copy another group’s data",
+        "text": "The rule for how many caterpillars a bird needs",
         "is_correct": false
       },
       {
-        "text": "Revise the method or ramp setup before collecting final data",
+        "text": "The starting number of leaf tokens",
         "is_correct": true
       },
       {
-        "text": "Ignore the problem and keep all results",
+        "text": "The order in which the results table is labelled",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Change the question to match the accident",
-      "Copy another group’s data",
-      "Revise the method or ramp setup before collecting final data",
-      "Ignore the problem and keep all results"
+      "The number of leaf tokens each caterpillar needs",
+      "The rule for how many caterpillars a bird needs",
+      "The starting number of leaf tokens",
+      "The order in which the results table is labelled"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Pilot results should be used to repair method problems.",
-      "hint": "Fix before full test."
+      "summary": "Only producer availability changes; model rules stay the same.",
+      "hint": "Read the two starting conditions."
     },
     "structuredExplanation": {
-      "summary": "Pilot results should be used to repair method problems.",
-      "hint": "Fix before full test."
+      "summary": "Only producer availability changes; model rules stay the same.",
+      "hint": "Read the two starting conditions."
     },
     "stage": "apply",
     "difficulty": 3,
@@ -2142,47 +2150,48 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "A class tests insulation using different cup sizes and different covers. Why is this weak?",
-    "audio_prompt": "A class tests insulation using different cup sizes and different covers. Why is this weak?",
-    "audioPrompt": "A class tests insulation using different cup sizes and different covers. Why is this weak?",
+    "question": "Why reset all starting cards and follow the same rules before each model run?",
+    "audio_prompt": "Why reset all starting cards and follow the same rules before each model run?",
+    "audioPrompt": "Why reset all starting cards and follow the same rules before each model run?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02/food-chain-simulation.svg#model",
+      "alt_text": "Paper model starts with six leaf tokens, six caterpillar cards and two bird cards. Each caterpillar needs one leaf token; each bird needs two fed caterpillar cards. Compare six leaves with three leaves, resetting and repeating each condition three times."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i02/food-chain-simulation.svg#model\" alt=\"Paper model starts with six leaf tokens, six caterpillar cards and two bird cards. Each caterpillar needs one leaf token; each bird needs two fed caterpillar cards. Compare six leaves with three leaves, resetting and repeating each condition three times.\" style=\"display:block;width:100%;max-width:640px;height:auto;margin:auto\">",
     "answers": [
       {
-        "text": "Cups cannot hold water",
+        "text": "It guarantees the model matches all wild habitats exactly.",
         "is_correct": false
       },
       {
-        "text": "More than one important factor changed",
+        "text": "It keeps the comparison meaningful and makes each repeat a new run of the stated condition.",
         "is_correct": true
       },
       {
-        "text": "The test has too many controls",
+        "text": "It prevents the group from making observations.",
         "is_correct": false
       },
       {
-        "text": "Insulation cannot be tested",
+        "text": "It changes the question into a personal opinion.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Cups cannot hold water",
-      "More than one important factor changed",
-      "The test has too many controls",
-      "Insulation cannot be tested"
+      "It guarantees the model matches all wild habitats exactly.",
+      "It keeps the comparison meaningful and makes each repeat a new run of the stated condition.",
+      "It prevents the group from making observations.",
+      "It changes the question into a personal opinion."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Changing cup size and cover makes it hard to identify the cause.",
-      "hint": "Too many variables."
+      "summary": "Leaving cards missing would unintentionally change the next trial.",
+      "hint": "Restore the stated starting setup."
     },
     "structuredExplanation": {
-      "summary": "Changing cup size and cover makes it hard to identify the cause.",
-      "hint": "Too many variables."
+      "summary": "Leaving cards missing would unintentionally change the next trial.",
+      "hint": "Restore the stated starting setup."
     },
     "stage": "apply",
     "difficulty": 3,
@@ -2203,52 +2212,53 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "A group records distances of 60 cm, 66 cm and 63 cm. Why keep all three?",
-    "audio_prompt": "A group records distances of 60 cm, 66 cm and 63 cm. Why keep all three?",
-    "audioPrompt": "A group records distances of 60 cm, 66 cm and 63 cm. Why keep all three?",
+    "question": "With three leaves and six caterpillar cards, how many caterpillars can receive their required leaf in the model?",
+    "audio_prompt": "With three leaves and six caterpillar cards, how many caterpillars can receive their required leaf in the model?",
+    "audioPrompt": "With three leaves and six caterpillar cards, how many caterpillars can receive their required leaf in the model?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02/food-chain-simulation.svg#model",
+      "alt_text": "Paper model starts with six leaf tokens, six caterpillar cards and two bird cards. Each caterpillar needs one leaf token; each bird needs two fed caterpillar cards. Compare six leaves with three leaves, resetting and repeating each condition three times."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i02/food-chain-simulation.svg#model\" alt=\"Paper model starts with six leaf tokens, six caterpillar cards and two bird cards. Each caterpillar needs one leaf token; each bird needs two fed caterpillar cards. Compare six leaves with three leaves, resetting and repeating each condition three times.\" style=\"display:block;width:100%;max-width:640px;height:auto;margin:auto\">",
     "answers": [
       {
-        "text": "They show normal variation and help find the pattern",
+        "text": "Three",
         "is_correct": true
       },
       {
-        "text": "Only the biggest result counts",
+        "text": "Six",
         "is_correct": false
       },
       {
-        "text": "The smallest result must be fake",
+        "text": "Two",
         "is_correct": false
       },
       {
-        "text": "Repeats should be identical",
+        "text": "Nine",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "They show normal variation and help find the pattern",
-      "Only the biggest result counts",
-      "The smallest result must be fake",
-      "Repeats should be identical"
+      "Three",
+      "Six",
+      "Two",
+      "Nine"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Repeated measurements can vary while still supporting a pattern.",
-      "hint": "Use repeated evidence."
+      "summary": "Each caterpillar needs one leaf, so only three can be supplied in this round.",
+      "hint": "Apply the stated rule, not a guess about nature."
     },
     "structuredExplanation": {
-      "summary": "Repeated measurements can vary while still supporting a pattern.",
-      "hint": "Use repeated evidence."
+      "summary": "Each caterpillar needs one leaf, so only three can be supplied in this round.",
+      "hint": "Apply the stated rule, not a guess about nature."
     },
-    "stage": "apply",
+    "stage": "independent",
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
     "sequence_priority": 37,
     "sequencePriority": 37,
     "quality_schema": "skillr-actual-v6",
@@ -2264,9 +2274,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "You are using glass containers. Which safety control is sensible?",
-    "audio_prompt": "You are using glass containers. Which safety control is sensible?",
-    "audioPrompt": "You are using glass containers. Which safety control is sensible?",
+    "question": "What should the class do when asked to run a simulation multiple times?",
+    "audio_prompt": "What should the class do when asked to run a simulation multiple times?",
+    "audioPrompt": "What should the class do when asked to run a simulation multiple times?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2274,42 +2284,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Stack them at the edge",
+        "text": "Copy the first outcome and call it three runs.",
         "is_correct": false
       },
       {
-        "text": "Tap them together to check sound",
+        "text": "Change a model rule whenever a result is unexpected.",
         "is_correct": false
       },
       {
-        "text": "Run while carrying them",
+        "text": "Run only the condition that supports its prediction.",
         "is_correct": false
       },
       {
-        "text": "Place them away from table edges and handle them with two hands",
+        "text": "Reset, run and record each condition several times, even if the outcomes match.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Stack them at the edge",
-      "Tap them together to check sound",
-      "Run while carrying them",
-      "Place them away from table edges and handle them with two hands"
+      "Copy the first outcome and call it three runs.",
+      "Change a model rule whenever a result is unexpected.",
+      "Run only the condition that supports its prediction.",
+      "Reset, run and record each condition several times, even if the outcomes match."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "The control reduces breakage and injury risk.",
-      "hint": "Prevent breaking."
+      "summary": "Multiple runs are actual repeated actions, not duplicated records.",
+      "hint": "Repeat the process honestly."
     },
     "structuredExplanation": {
-      "summary": "The control reduces breakage and injury risk.",
-      "hint": "Prevent breaking."
+      "summary": "Multiple runs are actual repeated actions, not duplicated records.",
+      "hint": "Repeat the process honestly."
     },
-    "stage": "apply",
+    "stage": "independent",
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
     "sequence_priority": 38,
     "sequencePriority": 38,
     "quality_schema": "skillr-actual-v6",
@@ -2325,9 +2335,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "A student says the test is unfair because the rough surface gave a different result. What is the best correction?",
-    "audio_prompt": "A student says the test is unfair because the rough surface gave a different result. What is the best correction?",
-    "audioPrompt": "A student says the test is unfair because the rough surface gave a different result. What is the best correction?",
+    "question": "The food-chain model gives the same result in three runs. Is the work necessarily wrong?",
+    "audio_prompt": "The food-chain model gives the same result in three runs. Is the work necessarily wrong?",
+    "audioPrompt": "The food-chain model gives the same result in three runs. Is the work necessarily wrong?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2335,42 +2345,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The surface should not be changed",
+        "text": "Yes; repeated results must always be different.",
         "is_correct": false
       },
       {
-        "text": "All data should be the same",
+        "text": "Yes; the group should invent variation.",
         "is_correct": false
       },
       {
-        "text": "Different results can happen in a fair test; fairness is about controlling the method",
+        "text": "No; fixed simple rules can produce the same result when the starting conditions are identical.",
         "is_correct": true
       },
       {
-        "text": "Fair tests must have equal numbers",
+        "text": "No; it means the model predicts every wild population exactly.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The surface should not be changed",
-      "All data should be the same",
-      "Different results can happen in a fair test; fairness is about controlling the method",
-      "Fair tests must have equal numbers"
+      "Yes; repeated results must always be different.",
+      "Yes; the group should invent variation.",
+      "No; fixed simple rules can produce the same result when the starting conditions are identical.",
+      "No; it means the model predicts every wild population exactly."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "A fair method can reveal real differences between conditions.",
-      "hint": "Fair does not mean equal outcomes."
+      "summary": "Consistency can be a valid model outcome, but does not remove model limitations.",
+      "hint": "Record what occurred rather than forcing variation."
     },
     "structuredExplanation": {
-      "summary": "A fair method can reveal real differences between conditions.",
-      "hint": "Fair does not mean equal outcomes."
+      "summary": "Consistency can be a valid model outcome, but does not remove model limitations.",
+      "hint": "Record what occurred rather than forcing variation."
     },
-    "stage": "apply",
+    "stage": "independent",
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
     "sequence_priority": 39,
     "sequencePriority": 39,
     "quality_schema": "skillr-actual-v6",
@@ -2386,9 +2396,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "practice",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "A plan says “measure carefully”. What detail should be added?",
-    "audio_prompt": "A plan says “measure carefully”. What detail should be added?",
-    "audioPrompt": "A plan says “measure carefully”. What detail should be added?",
+    "question": "Which safety action is appropriate during a teacher-supervised habitat observation?",
+    "audio_prompt": "Which safety action is appropriate during a teacher-supervised habitat observation?",
+    "audioPrompt": "Which safety action is appropriate during a teacher-supervised habitat observation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2396,48 +2406,469 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A class vote",
+        "text": "Leave the group to follow an animal into an unknown area.",
         "is_correct": false
       },
       {
-        "text": "Which tool, unit and point to measure from",
+        "text": "Stay within agreed boundaries and observe organisms without touching unknown specimens.",
         "is_correct": true
       },
       {
-        "text": "A funny title",
+        "text": "Taste a leaf to identify it.",
         "is_correct": false
       },
       {
-        "text": "The expected answer only",
+        "text": "Move every animal into a container before looking at it.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A class vote",
-      "Which tool, unit and point to measure from",
-      "A funny title",
-      "The expected answer only"
+      "Leave the group to follow an animal into an unknown area.",
+      "Stay within agreed boundaries and observe organisms without touching unknown specimens.",
+      "Taste a leaf to identify it.",
+      "Move every animal into a container before looking at it."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "A method needs clear measurement instructions so others can repeat it.",
-      "hint": "Tool, unit, point."
+      "summary": "Field boundaries and safe biological observation protect students and living things.",
+      "hint": "Follow the site-specific plan."
     },
     "structuredExplanation": {
-      "summary": "A method needs clear measurement instructions so others can repeat it.",
-      "hint": "Tool, unit, point."
+      "summary": "Field boundaries and safe biological observation protect students and living things.",
+      "hint": "Follow the site-specific plan."
     },
-    "stage": "apply",
+    "stage": "independent",
     "difficulty": 3,
-    "difficulty_tier": "apply",
-    "difficultyTier": "apply",
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
     "sequence_priority": 40,
     "sequencePriority": 40,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
     "type": "single"
+  },
+  {
+    "id": "AC9S4I02-P-041",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I02",
+    "curriculumCode": "AC9S4I02",
+    "bank": "practice",
+    "skill": "planning_fair_and_safe_investigations",
+    "question": "A specimen may contain mould or unknown microorganisms. Which plan is suitable for Year 4?",
+    "audio_prompt": "A specimen may contain mould or unknown microorganisms. Which plan is suitable for Year 4?",
+    "audioPrompt": "A specimen may contain mould or unknown microorganisms. Which plan is suitable for Year 4?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Use a safe teacher-approved image or sealed display and follow hygiene instructions.",
+        "is_correct": true
+      },
+      {
+        "text": "Open the container and smell it closely.",
+        "is_correct": false
+      },
+      {
+        "text": "Grow more at home without adult advice.",
+        "is_correct": false
+      },
+      {
+        "text": "Touch it first to decide whether gloves are needed.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Use a safe teacher-approved image or sealed display and follow hygiene instructions.",
+      "Open the container and smell it closely.",
+      "Grow more at home without adult advice.",
+      "Touch it first to decide whether gloves are needed."
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A substitute or approved sealed specimen can provide evidence without unnecessary exposure.",
+      "hint": "Choose an observation method appropriate to the risk."
+    },
+    "structuredExplanation": {
+      "summary": "A substitute or approved sealed specimen can provide evidence without unnecessary exposure.",
+      "hint": "Choose an observation method appropriate to the risk."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 41,
+    "sequencePriority": 41,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I02-P-042",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I02",
+    "curriculumCode": "AC9S4I02",
+    "bank": "practice",
+    "skill": "planning_fair_and_safe_investigations",
+    "question": "When protective eyewear is required, which action is part of conducting safely?",
+    "audio_prompt": "When protective eyewear is required, which action is part of conducting safely?",
+    "audioPrompt": "When protective eyewear is required, which action is part of conducting safely?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Keep it on the desk so the teacher can see it.",
+        "is_correct": false
+      },
+      {
+        "text": "Wear it only after a splash occurs.",
+        "is_correct": false
+      },
+      {
+        "text": "Use it instead of following equipment instructions.",
+        "is_correct": false
+      },
+      {
+        "text": "Wear the correctly fitted eyewear over the eyes throughout the relevant task.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Keep it on the desk so the teacher can see it.",
+      "Wear it only after a splash occurs.",
+      "Use it instead of following equipment instructions.",
+      "Wear the correctly fitted eyewear over the eyes throughout the relevant task."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Protective equipment works only when used correctly and alongside other controls.",
+      "hint": "Having gear is not the same as wearing it correctly."
+    },
+    "structuredExplanation": {
+      "summary": "Protective equipment works only when used correctly and alongside other controls.",
+      "hint": "Having gear is not the same as wearing it correctly."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 42,
+    "sequencePriority": 42,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I02-P-043",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I02",
+    "curriculumCode": "AC9S4I02",
+    "bank": "practice",
+    "skill": "planning_fair_and_safe_investigations",
+    "question": "The method is changed after a pilot test. How should the group record this?",
+    "audio_prompt": "The method is changed after a pilot test. How should the group record this?",
+    "audioPrompt": "The method is changed after a pilot test. How should the group record this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Leave the old steps so other groups cannot repeat the new method.",
+        "is_correct": false
+      },
+      {
+        "text": "Mix old and new trials without labelling the difference.",
+        "is_correct": false
+      },
+      {
+        "text": "Write the revised steps and use that same revised method for the comparison trials.",
+        "is_correct": true
+      },
+      {
+        "text": "Erase the reason the change was needed.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Leave the old steps so other groups cannot repeat the new method.",
+      "Mix old and new trials without labelling the difference.",
+      "Write the revised steps and use that same revised method for the comparison trials.",
+      "Erase the reason the change was needed."
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "A clear revised method supports safe, repeatable comparisons.",
+      "hint": "Record what the group actually does."
+    },
+    "structuredExplanation": {
+      "summary": "A clear revised method supports safe, repeatable comparisons.",
+      "hint": "Record what the group actually does."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 43,
+    "sequencePriority": 43,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I02-P-044",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I02",
+    "curriculumCode": "AC9S4I02",
+    "bank": "practice",
+    "skill": "planning_fair_and_safe_investigations",
+    "question": "A class cannot safely use its planned equipment today. What should happen?",
+    "audio_prompt": "A class cannot safely use its planned equipment today. What should happen?",
+    "audioPrompt": "A class cannot safely use its planned equipment today. What should happen?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Proceed quickly before anyone notices the problem.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask the adult to adapt the method or use a safe model, and record the limitation.",
+        "is_correct": true
+      },
+      {
+        "text": "Invent results to complete the sheet.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the risk because the question is scientific.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Proceed quickly before anyone notices the problem.",
+      "Ask the adult to adapt the method or use a safe model, and record the limitation.",
+      "Invent results to complete the sheet.",
+      "Ignore the risk because the question is scientific."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "A valid inquiry records limits honestly and uses a safe feasible method.",
+      "hint": "Keep both safety and evidence truthful."
+    },
+    "structuredExplanation": {
+      "summary": "A valid inquiry records limits honestly and uses a safe feasible method.",
+      "hint": "Keep both safety and evidence truthful."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 44,
+    "sequencePriority": 44,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I02-P-045",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I02",
+    "curriculumCode": "AC9S4I02",
+    "bank": "practice",
+    "skill": "planning_fair_and_safe_investigations",
+    "question": "Use this scaffold to plan and, with adult-approved equipment, conduct a fair magnet-material comparison: question; prediction; samples; changed factor; conditions kept the same; observation method; three trials per sample; safety. If equipment is unavailable, save the untested plan and leave this task pending until the practical work is conducted.",
+    "audio_prompt": "Use this scaffold to plan and, with adult-approved equipment, conduct a fair magnet-material comparison: question; prediction; samples; changed factor; conditions kept the same; observation method; three trials per sample; safety. If equipment is unavailable, save the untested plan and leave this task pending until the practical work is conducted.",
+    "audioPrompt": "Use this scaffold to plan and, with adult-approved equipment, conduct a fair magnet-material comparison: question; prediction; samples; changed factor; conditions kept the same; observation method; three trials per sample; safety. If equipment is unavailable, save the untested plan and leave this task pending until the practical work is conducted.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [],
+    "answer_texts": [],
+    "correct_index": null,
+    "correct": null,
+    "explanation": {
+      "summary": "Compare teacher-approved samples with the same large magnet and starting gap, record whether attraction is observed in three actual trials per sample, and use adult-directed handling. Record the method’s limits for heavy or resistant samples.",
+      "hint": "Use the observations and the purpose of the investigation."
+    },
+    "structuredExplanation": {
+      "summary": "Compare teacher-approved samples with the same large magnet and starting gap, record whether attraction is observed in three actual trials per sample, and use adult-directed handling. Record the method’s limits for heavy or resistant samples.",
+      "hint": "Use the observations and the purpose of the investigation."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 45,
+    "sequencePriority": 45,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "self-check",
+    "grading_mode": "adult-review",
+    "model_answer": "Compare teacher-approved samples with the same large magnet and starting gap, record whether attraction is observed in three actual trials per sample, and use adult-directed handling. Record the method’s limits for heavy or resistant samples.",
+    "acceptance_note": "Inspect a completed scaffold and actual trial records when conducted. If only planned, mark planning evidence and require later practical evidence for conducting mastery; never accept invented results. Mark this task complete only after the actual conducting evidence is present.",
+    "response_instructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9S4I02-P-046",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I02",
+    "curriculumCode": "AC9S4I02",
+    "bank": "practice",
+    "skill": "planning_fair_and_safe_investigations",
+    "question": "Build a small paper-ball ramp game with an adult’s approval. Before testing, predict how gravity and friction will affect the ball. Mark a target, release the same ball from the same line three times without pushing, record where it stops, then change one feature and test three more times. If building is unavailable, save the untested plan and leave this task pending until the prototype is built and tested.",
+    "audio_prompt": "Build a small paper-ball ramp game with an adult’s approval. Before testing, predict how gravity and friction will affect the ball. Mark a target, release the same ball from the same line three times without pushing, record where it stops, then change one feature and test three more times. If building is unavailable, save the untested plan and leave this task pending until the prototype is built and tested.",
+    "audioPrompt": "Build a small paper-ball ramp game with an adult’s approval. Before testing, predict how gravity and friction will affect the ball. Mark a target, release the same ball from the same line three times without pushing, record where it stops, then change one feature and test three more times. If building is unavailable, save the untested plan and leave this task pending until the prototype is built and tested.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [],
+    "answer_texts": [],
+    "correct_index": null,
+    "correct": null,
+    "explanation": {
+      "summary": "Gravity helps start the roll down the slope; friction resists motion. Record six actual outcomes with the changed feature and controlled conditions; propose an improvement tied to the evidence.",
+      "hint": "Use the observations and the purpose of the investigation."
+    },
+    "structuredExplanation": {
+      "summary": "Gravity helps start the roll down the slope; friction resists motion. Record six actual outcomes with the changed feature and controlled conditions; propose an improvement tied to the evidence.",
+      "hint": "Use the observations and the purpose of the investigation."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 46,
+    "sequencePriority": 46,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "self-check",
+    "grading_mode": "adult-review",
+    "model_answer": "Gravity helps start the roll down the slope; friction resists motion. Record six actual outcomes with the changed feature and controlled conditions; propose an improvement tied to the evidence.",
+    "acceptance_note": "Inspect the built prototype or drawing, prediction, two clearly labelled three-trial records and evidence-linked revision. An untested plan does not demonstrate conducting mastery. Mark this task complete only after the actual conducting evidence is present.",
+    "response_instructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9S4I02-P-047",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I02",
+    "curriculumCode": "AC9S4I02",
+    "bank": "practice",
+    "skill": "planning_fair_and_safe_investigations",
+    "question": "Make the paper food-chain model shown. Predict the effect of changing six leaf tokens to three. Run each condition three times, resetting before each run. Record how many caterpillars receive food and how many birds receive their required food. Explain one limit of the model.",
+    "audio_prompt": "Make the paper food-chain model shown. Predict the effect of changing six leaf tokens to three. Run each condition three times, resetting before each run. Record how many caterpillars receive food and how many birds receive their required food. Explain one limit of the model.",
+    "audioPrompt": "Make the paper food-chain model shown. Predict the effect of changing six leaf tokens to three. Run each condition three times, resetting before each run. Record how many caterpillars receive food and how many birds receive their required food. Explain one limit of the model.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i02/food-chain-simulation.svg#model",
+      "alt_text": "Paper model starts with six leaf tokens, six caterpillar cards and two bird cards. Each caterpillar needs one leaf token; each bird needs two fed caterpillar cards. Compare six leaves with three leaves, resetting and repeating each condition three times."
+    },
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i02/food-chain-simulation.svg#model\" alt=\"Paper model starts with six leaf tokens, six caterpillar cards and two bird cards. Each caterpillar needs one leaf token; each bird needs two fed caterpillar cards. Compare six leaves with three leaves, resetting and repeating each condition three times.\" style=\"display:block;width:100%;max-width:640px;height:auto;margin:auto\">",
+    "answers": [],
+    "answer_texts": [],
+    "correct_index": null,
+    "correct": null,
+    "explanation": {
+      "summary": "With six leaves, six caterpillars receive food and two birds can each receive two fed caterpillars. With three leaves, three caterpillars receive food and one bird can receive two. Reset and record three actual runs of each; real habitats have more connections.",
+      "hint": "Follow the model rules and reset each starting condition."
+    },
+    "structuredExplanation": {
+      "summary": "With six leaves, six caterpillars receive food and two birds can each receive two fed caterpillars. With three leaves, three caterpillars receive food and one bird can receive two. Reset and record three actual runs of each; real habitats have more connections.",
+      "hint": "Follow the model rules and reset each starting condition."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 47,
+    "sequencePriority": 47,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "self-check",
+    "grading_mode": "adult-review",
+    "model_answer": "With six leaves, six caterpillars receive food and two birds can each receive two fed caterpillars. With three leaves, three caterpillars receive food and one bird can receive two. Reset and record three actual runs of each; real habitats have more connections.",
+    "acceptance_note": "Inspect a prediction written before runs, six actual records following the same rules and a model limit. Copying a result into repeat rows without running is insufficient.",
+    "response_instructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9S4I02-P-048",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I02",
+    "curriculumCode": "AC9S4I02",
+    "bank": "practice",
+    "skill": "planning_fair_and_safe_investigations",
+    "question": "Choose a teacher-approved classroom or outdoor observation activity. Draw the setup or site, identify two specific hazards, and write the matching controls, equipment-use rules and safe biological-observation behaviour. Ask an adult to check the plan before any activity.",
+    "audio_prompt": "Choose a teacher-approved classroom or outdoor observation activity. Draw the setup or site, identify two specific hazards, and write the matching controls, equipment-use rules and safe biological-observation behaviour. Ask an adult to check the plan before any activity.",
+    "audioPrompt": "Choose a teacher-approved classroom or outdoor observation activity. Draw the setup or site, identify two specific hazards, and write the matching controls, equipment-use rules and safe biological-observation behaviour. Ask an adult to check the plan before any activity.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [],
+    "answer_texts": [],
+    "correct_index": null,
+    "correct": null,
+    "explanation": {
+      "summary": "For a habitat observation, stay within agreed boundaries, observe unknown organisms without touching, use any required equipment correctly and follow hygiene instructions. Other activity-specific controls are acceptable.",
+      "hint": "Use the observations and the purpose of the investigation."
+    },
+    "structuredExplanation": {
+      "summary": "For a habitat observation, stay within agreed boundaries, observe unknown organisms without touching, use any required equipment correctly and follow hygiene instructions. Other activity-specific controls are acceptable.",
+      "hint": "Use the observations and the purpose of the investigation."
+    },
+    "stage": "independent",
+    "difficulty": 3,
+    "difficulty_tier": "independent",
+    "difficultyTier": "independent",
+    "sequence_priority": 48,
+    "sequencePriority": 48,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "self-check",
+    "grading_mode": "adult-review",
+    "model_answer": "For a habitat observation, stay within agreed boundaries, observe unknown organisms without touching, use any required equipment correctly and follow hygiene instructions. Other activity-specific controls are acceptable.",
+    "acceptance_note": "Inspect two genuine hazard-control pairs plus equipment and specimen guidance appropriate to the chosen activity. Do not accept “be careful” alone or claim every hazard is eliminated.",
+    "response_instructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9S4I02-T-001",
@@ -2447,9 +2878,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "In a test of soil drainage, what should be changed deliberately?",
-    "audio_prompt": "In a test of soil drainage, what should be changed deliberately?",
-    "audioPrompt": "In a test of soil drainage, what should be changed deliberately?",
+    "question": "A class compares cloth thickness using equal-sized pieces. What should be deliberately changed?",
+    "audio_prompt": "A class compares cloth thickness using equal-sized pieces. What should be deliberately changed?",
+    "audioPrompt": "A class compares cloth thickness using equal-sized pieces. What should be deliberately changed?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2457,38 +2888,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Timer colour",
-        "is_correct": false
-      },
-      {
-        "text": "Student height",
-        "is_correct": false
-      },
-      {
-        "text": "Soil type",
+        "text": "Cloth thickness",
         "is_correct": true
       },
       {
-        "text": "Amount of water drained",
+        "text": "The time allowed and starting water together",
+        "is_correct": false
+      },
+      {
+        "text": "The unit used for each result",
+        "is_correct": false
+      },
+      {
+        "text": "The result after the measurement",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Timer colour",
-      "Student height",
-      "Soil type",
-      "Amount of water drained"
+      "Cloth thickness",
+      "The time allowed and starting water together",
+      "The unit used for each result",
+      "The result after the measurement"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The changed variable is the factor being compared.",
-      "hint": "What varies?"
+      "summary": "The comparison should focus on the factor named in the question.",
+      "hint": "Identify the chosen factor."
     },
     "structuredExplanation": {
-      "summary": "The changed variable is the factor being compared.",
-      "hint": "What varies?"
+      "summary": "The comparison should focus on the factor named in the question.",
+      "hint": "Identify the chosen factor."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -2507,9 +2939,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which is the measured variable for soil drainage?",
-    "audio_prompt": "Which is the measured variable for soil drainage?",
-    "audioPrompt": "Which is the measured variable for soil drainage?",
+    "question": "Students test how surface affects a toy truck’s stopping distance. Which is a control?",
+    "audio_prompt": "Students test how surface affects a toy truck’s stopping distance. Which is a control?",
+    "audioPrompt": "Students test how surface affects a toy truck’s stopping distance. Which is a control?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2517,38 +2949,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Group name",
+        "text": "Use a different surface each time.",
         "is_correct": false
       },
       {
-        "text": "Volume or time of water draining",
+        "text": "Change the measured stopping distance.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a different unit for each surface.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same truck and release method.",
         "is_correct": true
-      },
-      {
-        "text": "Soil type",
-        "is_correct": false
-      },
-      {
-        "text": "Cup decoration",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Group name",
-      "Volume or time of water draining",
-      "Soil type",
-      "Cup decoration"
+      "Use a different surface each time.",
+      "Change the measured stopping distance.",
+      "Choose a different unit for each surface.",
+      "Use the same truck and release method."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "The measured variable is the recorded outcome.",
-      "hint": "What do you record?"
+      "summary": "Truck and release method should remain comparable while surface changes.",
+      "hint": "Which other influence can be kept the same?"
     },
     "structuredExplanation": {
-      "summary": "The measured variable is the recorded outcome.",
-      "hint": "What do you record?"
+      "summary": "Truck and release method should remain comparable while surface changes.",
+      "hint": "Which other influence can be kept the same?"
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -2567,9 +3000,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which control makes a soil-drainage test fairer?",
-    "audio_prompt": "Which control makes a soil-drainage test fairer?",
-    "audioPrompt": "Which control makes a soil-drainage test fairer?",
+    "question": "Why must a shoe-friction comparison state the floor and total shoe-plus-load mass?",
+    "audio_prompt": "Why must a shoe-friction comparison state the floor and total shoe-plus-load mass?",
+    "audioPrompt": "Why must a shoe-friction comparison state the floor and total shoe-plus-load mass?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2577,38 +3010,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Use the same mass of soil in each container",
+        "text": "Both guarantee equal meter readings.",
+        "is_correct": false
+      },
+      {
+        "text": "The floor colour is the measured force.",
+        "is_correct": false
+      },
+      {
+        "text": "Both could affect sliding resistance and should be controlled.",
         "is_correct": true
       },
       {
-        "text": "Use different water amounts",
-        "is_correct": false
-      },
-      {
-        "text": "Use different container holes",
-        "is_correct": false
-      },
-      {
-        "text": "Stop timing one soil early",
+        "text": "The mass should be changed whenever a prediction is wrong.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Use the same mass of soil in each container",
-      "Use different water amounts",
-      "Use different container holes",
-      "Stop timing one soil early"
+      "Both guarantee equal meter readings.",
+      "The floor colour is the measured force.",
+      "Both could affect sliding resistance and should be controlled.",
+      "The mass should be changed whenever a prediction is wrong."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Keeping soil amount the same helps compare soil type fairly.",
-      "hint": "Same amount."
+      "summary": "The method must distinguish the shoe comparison from other influences on friction.",
+      "hint": "Look for competing influences."
     },
     "structuredExplanation": {
-      "summary": "Keeping soil amount the same helps compare soil type fairly.",
-      "hint": "Same amount."
+      "summary": "The method must distinguish the shoe comparison from other influences on friction.",
+      "hint": "Look for competing influences."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -2627,9 +3061,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which safety control suits scissors used to cut cardboard?",
-    "audio_prompt": "Which safety control suits scissors used to cut cardboard?",
-    "audioPrompt": "Which safety control suits scissors used to cut cardboard?",
+    "question": "A class compares materials with the same magnet. Some samples start touching it while others start five centimetres away. What should improve?",
+    "audio_prompt": "A class compares materials with the same magnet. Some samples start touching it while others start five centimetres away. What should improve?",
+    "audioPrompt": "A class compares materials with the same magnet. Some samples start touching it while others start five centimetres away. What should improve?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2637,38 +3071,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Run while holding scissors",
+        "text": "Keep unequal gaps but hide that from the report.",
         "is_correct": false
       },
       {
-        "text": "Leave scissors open on chairs",
-        "is_correct": false
-      },
-      {
-        "text": "Cut toward another person",
-        "is_correct": false
-      },
-      {
-        "text": "Cut away from fingers and pass scissors handle-first",
+        "text": "Use the same stated starting gap and observation procedure.",
         "is_correct": true
+      },
+      {
+        "text": "Record attraction only for the favourite material.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the magnet for every sample as well.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Run while holding scissors",
-      "Leave scissors open on chairs",
-      "Cut toward another person",
-      "Cut away from fingers and pass scissors handle-first"
+      "Keep unequal gaps but hide that from the report.",
+      "Use the same stated starting gap and observation procedure.",
+      "Record attraction only for the favourite material.",
+      "Change the magnet for every sample as well."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A specific control reduces the cutting hazard.",
-      "hint": "Safe handling."
+      "summary": "Unequal gaps can make the material comparison unfair.",
+      "hint": "Make the test conditions comparable."
     },
     "structuredExplanation": {
-      "summary": "A specific control reduces the cutting hazard.",
-      "hint": "Safe handling."
+      "summary": "Unequal gaps can make the material comparison unfair.",
+      "hint": "Make the test conditions comparable."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -2687,9 +3122,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why repeat a paper-plane distance test?",
-    "audio_prompt": "Why repeat a paper-plane distance test?",
-    "audioPrompt": "Why repeat a paper-plane distance test?",
+    "question": "A force meter’s hook is damaged before a planned trial. What should students do?",
+    "audio_prompt": "A force meter’s hook is damaged before a planned trial. What should students do?",
+    "audioPrompt": "A force meter’s hook is damaged before a planned trial. What should students do?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2697,38 +3132,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Repeats remove measuring units",
-        "is_correct": false
-      },
-      {
-        "text": "One throw proves every result",
-        "is_correct": false
-      },
-      {
-        "text": "Throws can vary, so repeats help identify the usual pattern",
+        "text": "Stop and ask the adult to replace or adapt the equipment before continuing.",
         "is_correct": true
       },
       {
-        "text": "Repeats make planes heavier",
+        "text": "Pull harder to see whether it still holds.",
+        "is_correct": false
+      },
+      {
+        "text": "Use it because the first reading might be enough.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the damage so the results are not delayed.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Repeats remove measuring units",
-      "One throw proves every result",
-      "Throws can vary, so repeats help identify the usual pattern",
-      "Repeats make planes heavier"
+      "Stop and ask the adult to replace or adapt the equipment before continuing.",
+      "Pull harder to see whether it still holds.",
+      "Use it because the first reading might be enough.",
+      "Hide the damage so the results are not delayed."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Repeated trials improve reliability in variable tests.",
-      "hint": "Variation."
+      "summary": "Damaged equipment should not be used in a load test.",
+      "hint": "Check equipment before collecting data."
     },
     "structuredExplanation": {
-      "summary": "Repeated trials improve reliability in variable tests.",
-      "hint": "Variation."
+      "summary": "Damaged equipment should not be used in a load test.",
+      "hint": "Check equipment before collecting data."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -2747,9 +3183,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which method is clearest?",
-    "audio_prompt": "Which method is clearest?",
-    "audioPrompt": "Which method is clearest?",
+    "question": "A group wants a paper ball to stop in a tabletop target. Which prediction correctly connects a design change with forces?",
+    "audio_prompt": "A group wants a paper ball to stop in a tabletop target. Which prediction correctly connects a design change with forces?",
+    "audioPrompt": "A group wants a paper ball to stop in a tabletop target. Which prediction correctly connects a design change with forces?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2757,38 +3193,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "See what happens somehow",
+        "text": "A rougher surface removes gravity from the ball.",
         "is_correct": false
       },
       {
-        "text": "Release the marble from the 20 cm mark without pushing and measure distance in cm",
+        "text": "A target drawn in red magnetically attracts paper.",
+        "is_correct": false
+      },
+      {
+        "text": "A level table always makes a ball speed up forever.",
+        "is_correct": false
+      },
+      {
+        "text": "A rougher landing surface may slow the ball sooner because friction resists its motion.",
         "is_correct": true
-      },
-      {
-        "text": "Do the marble thing",
-        "is_correct": false
-      },
-      {
-        "text": "Make it roll nicely",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "See what happens somehow",
-      "Release the marble from the 20 cm mark without pushing and measure distance in cm",
-      "Do the marble thing",
-      "Make it roll nicely"
+      "A rougher surface removes gravity from the ball.",
+      "A target drawn in red magnetically attracts paper.",
+      "A level table always makes a ball speed up forever.",
+      "A rougher landing surface may slow the ball sooner because friction resists its motion."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A clear step tells exactly what to do and measure.",
-      "hint": "Specific action."
+      "summary": "Friction can oppose motion and affect stopping distance.",
+      "hint": "Identify a force related to the changed surface."
     },
     "structuredExplanation": {
-      "summary": "A clear step tells exactly what to do and measure.",
-      "hint": "Specific action."
+      "summary": "Friction can oppose motion and affect stopping distance.",
+      "hint": "Identify a force related to the changed surface."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -2807,9 +3244,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "A group changes magnet size and distance together. What is the problem?",
-    "audio_prompt": "A group changes magnet size and distance together. What is the problem?",
-    "audioPrompt": "A group changes magnet size and distance together. What is the problem?",
+    "question": "Which evidence shows that students conducted a prototype investigation?",
+    "audio_prompt": "Which evidence shows that students conducted a prototype investigation?",
+    "audioPrompt": "Which evidence shows that students conducted a prototype investigation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2817,38 +3254,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "They cannot tell which variable caused the result",
+        "text": "They drew a perfect score on the plan before building.",
+        "is_correct": false
+      },
+      {
+        "text": "They listed materials but did not test the design.",
+        "is_correct": false
+      },
+      {
+        "text": "They built a trial game, recorded repeated outcomes and used them to plan an improvement.",
         "is_correct": true
       },
       {
-        "text": "The result becomes automatically reliable",
-        "is_correct": false
-      },
-      {
-        "text": "It is safer because more changed",
-        "is_correct": false
-      },
-      {
-        "text": "Magnets cannot be tested",
+        "text": "They voted that the unbuilt toy would be successful.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "They cannot tell which variable caused the result",
-      "The result becomes automatically reliable",
-      "It is safer because more changed",
-      "Magnets cannot be tested"
+      "They drew a perfect score on the plan before building.",
+      "They listed materials but did not test the design.",
+      "They built a trial game, recorded repeated outcomes and used them to plan an improvement.",
+      "They voted that the unbuilt toy would be successful."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Changing multiple factors weakens cause-and-effect conclusions.",
-      "hint": "One change at a time."
+      "summary": "Actual construction and test observations go beyond planning or opinion.",
+      "hint": "Look for built work and recorded trials."
     },
     "structuredExplanation": {
-      "summary": "Changing multiple factors weakens cause-and-effect conclusions.",
-      "hint": "One change at a time."
+      "summary": "Actual construction and test observations go beyond planning or opinion.",
+      "hint": "Look for built work and recorded trials."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -2867,9 +3305,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which statement about hazards is correct?",
-    "audio_prompt": "Which statement about hazards is correct?",
-    "audioPrompt": "Which statement about hazards is correct?",
+    "question": "A ramp-game comparison changes ball size, release height and landing surface together. What should improve?",
+    "audio_prompt": "A ramp-game comparison changes ball size, release height and landing surface together. What should improve?",
+    "audioPrompt": "A ramp-game comparison changes ball size, release height and landing surface together. What should improve?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2877,38 +3315,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A hazard is always the final result",
+        "text": "Change more features to make the answer clearer.",
         "is_correct": false
       },
       {
-        "text": "Hazards are the same as predictions",
-        "is_correct": false
-      },
-      {
-        "text": "Hazards make tests fair",
-        "is_correct": false
-      },
-      {
-        "text": "A hazard is something that could cause harm",
+        "text": "Choose one feature to compare and keep the other relevant conditions the same.",
         "is_correct": true
+      },
+      {
+        "text": "Use the first successful roll as every result.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the written question so all results count as success.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A hazard is always the final result",
-      "Hazards are the same as predictions",
-      "Hazards make tests fair",
-      "A hazard is something that could cause harm"
+      "Change more features to make the answer clearer.",
+      "Choose one feature to compare and keep the other relevant conditions the same.",
+      "Use the first successful roll as every result.",
+      "Remove the written question so all results count as success."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Hazards are possible sources of harm or damage.",
-      "hint": "Risk source."
+      "summary": "A controlled comparison makes the effect of a design change easier to interpret.",
+      "hint": "Reduce competing explanations."
     },
     "structuredExplanation": {
-      "summary": "Hazards are possible sources of harm or damage.",
-      "hint": "Risk source."
+      "summary": "A controlled comparison makes the effect of a design change easier to interpret.",
+      "hint": "Reduce competing explanations."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -2927,9 +3366,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which is a specific control for a trip hazard from bags near benches?",
-    "audio_prompt": "Which is a specific control for a trip hazard from bags near benches?",
-    "audioPrompt": "Which is a specific control for a trip hazard from bags near benches?",
+    "question": "In a food-chain model, each herbivore card requires one plant token. The class compares eight plant tokens with four while keeping six herbivore cards. Which prediction follows the rules?",
+    "audio_prompt": "In a food-chain model, each herbivore card requires one plant token. The class compares eight plant tokens with four while keeping six herbivore cards. Which prediction follows the rules?",
+    "audioPrompt": "In a food-chain model, each herbivore card requires one plant token. The class compares eight plant tokens with four while keeping six herbivore cards. Which prediction follows the rules?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2937,38 +3376,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Ignore the bags",
-        "is_correct": false
-      },
-      {
-        "text": "Walk faster past the bags",
-        "is_correct": false
-      },
-      {
-        "text": "Move bags under benches before testing starts",
+        "text": "Fewer herbivore cards may receive food in the four-token condition.",
         "is_correct": true
       },
       {
-        "text": "Be careful near bags",
+        "text": "Every herbivore becomes a producer in the four-token condition.",
+        "is_correct": false
+      },
+      {
+        "text": "Changing plant tokens cannot affect food availability.",
+        "is_correct": false
+      },
+      {
+        "text": "Four plant tokens feed more herbivores than eight under the same rule.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Ignore the bags",
-      "Walk faster past the bags",
-      "Move bags under benches before testing starts",
-      "Be careful near bags"
+      "Fewer herbivore cards may receive food in the four-token condition.",
+      "Every herbivore becomes a producer in the four-token condition.",
+      "Changing plant tokens cannot affect food availability.",
+      "Four plant tokens feed more herbivores than eight under the same rule."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Moving bags reduces the chance of tripping.",
-      "hint": "Remove the hazard."
+      "summary": "The available food limits how many cards receive their required token.",
+      "hint": "Apply the same feeding rule in both conditions."
     },
     "structuredExplanation": {
-      "summary": "Moving bags reduces the chance of tripping.",
-      "hint": "Remove the hazard."
+      "summary": "The available food limits how many cards receive their required token.",
+      "hint": "Apply the same feeding rule in both conditions."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -2987,9 +3427,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "A pilot test shows the measuring jug scale is hard to read. What should happen?",
-    "audio_prompt": "A pilot test shows the measuring jug scale is hard to read. What should happen?",
-    "audioPrompt": "A pilot test shows the measuring jug scale is hard to read. What should happen?",
+    "question": "What is required for three genuine runs of a paper food-chain simulation?",
+    "audio_prompt": "What is required for three genuine runs of a paper food-chain simulation?",
+    "audioPrompt": "What is required for three genuine runs of a paper food-chain simulation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2997,38 +3437,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Copy a neat table",
+        "text": "Copy one outcome into three rows.",
         "is_correct": false
       },
       {
-        "text": "Choose a clearer tool or revise the recording method",
+        "text": "Change the feeding rule in every run without noting it.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep removing cards between runs even when the starting condition should be the same.",
+        "is_correct": false
+      },
+      {
+        "text": "Reset the starting cards, follow the same rules and record each new run.",
         "is_correct": true
-      },
-      {
-        "text": "Guess the volumes",
-        "is_correct": false
-      },
-      {
-        "text": "Stop using units",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Copy a neat table",
-      "Choose a clearer tool or revise the recording method",
-      "Guess the volumes",
-      "Stop using units"
+      "Copy one outcome into three rows.",
+      "Change the feeding rule in every run without noting it.",
+      "Keep removing cards between runs even when the starting condition should be the same.",
+      "Reset the starting cards, follow the same rules and record each new run."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Pilot testing helps find and fix measurement problems.",
-      "hint": "Improve before full test."
+      "summary": "A repeat is a new run of the stated setup, with an honest record.",
+      "hint": "Reset, run, record."
     },
     "structuredExplanation": {
-      "summary": "Pilot testing helps find and fix measurement problems.",
-      "hint": "Improve before full test."
+      "summary": "A repeat is a new run of the stated setup, with an honest record.",
+      "hint": "Reset, run, record."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -3047,9 +3488,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which is not a controlled variable in a fair test of surface type?",
-    "audio_prompt": "Which is not a controlled variable in a fair test of surface type?",
-    "audioPrompt": "Which is not a controlled variable in a fair test of surface type?",
+    "question": "Why should a class be cautious when applying a food-chain simulation to a real habitat?",
+    "audio_prompt": "Why should a class be cautious when applying a food-chain simulation to a real habitat?",
+    "audioPrompt": "Why should a class be cautious when applying a food-chain simulation to a real habitat?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3057,38 +3498,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Surface type",
+        "text": "A model cannot help students ask any questions.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated model outcomes prove exact wild population changes.",
+        "is_correct": false
+      },
+      {
+        "text": "The model leaves out some foods, organisms and changing conditions.",
         "is_correct": true
       },
       {
-        "text": "Toy car used",
-        "is_correct": false
-      },
-      {
-        "text": "Ramp height",
-        "is_correct": false
-      },
-      {
-        "text": "Release point",
+        "text": "Paper cards have the same needs as real organisms.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Surface type",
-      "Toy car used",
-      "Ramp height",
-      "Release point"
+      "A model cannot help students ask any questions.",
+      "Repeated model outcomes prove exact wild population changes.",
+      "The model leaves out some foods, organisms and changing conditions.",
+      "Paper cards have the same needs as real organisms."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Surface type is the changed variable, not a control.",
-      "hint": "The tested factor changes."
+      "summary": "Models reveal selected relationships while simplifying real systems.",
+      "hint": "Name what the model does and does not include."
     },
     "structuredExplanation": {
-      "summary": "Surface type is the changed variable, not a control.",
-      "hint": "The tested factor changes."
+      "summary": "Models reveal selected relationships while simplifying real systems.",
+      "hint": "Name what the model does and does not include."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -3107,9 +3549,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which investigation plan is weakest?",
-    "audio_prompt": "Which investigation plan is weakest?",
-    "audioPrompt": "Which investigation plan is weakest?",
+    "question": "A student writes “be safe” beside a field investigation. What detail should be added?",
+    "audio_prompt": "A student writes “be safe” beside a field investigation. What detail should be added?",
+    "audioPrompt": "A student writes “be safe” beside a field investigation. What detail should be added?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3117,38 +3559,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Use the same car on different surfaces",
+        "text": "Finish quickly before the group returns.",
         "is_correct": false
       },
       {
-        "text": "Repeat each surface three times",
-        "is_correct": false
-      },
-      {
-        "text": "Measure distance with the same tape",
-        "is_correct": false
-      },
-      {
-        "text": "Change the car, ramp height and surface all at once",
+        "text": "Stay in the agreed area, follow the adult’s instructions and leave unknown organisms untouched.",
         "is_correct": true
+      },
+      {
+        "text": "Taste plants only if they look familiar.",
+        "is_correct": false
+      },
+      {
+        "text": "Collect every unknown animal to identify later.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Use the same car on different surfaces",
-      "Repeat each surface three times",
-      "Measure distance with the same tape",
-      "Change the car, ramp height and surface all at once"
+      "Finish quickly before the group returns.",
+      "Stay in the agreed area, follow the adult’s instructions and leave unknown organisms untouched.",
+      "Taste plants only if they look familiar.",
+      "Collect every unknown animal to identify later."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Changing several factors at once makes results hard to interpret.",
-      "hint": "Too many changes."
+      "summary": "Specific field behaviours make the safety instruction usable.",
+      "hint": "Connect the action to the actual site."
     },
     "structuredExplanation": {
-      "summary": "Changing several factors at once makes results hard to interpret.",
-      "hint": "Too many changes."
+      "summary": "Specific field behaviours make the safety instruction usable.",
+      "hint": "Connect the action to the actual site."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -3167,9 +3610,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Why should safety planning happen before testing?",
-    "audio_prompt": "Why should safety planning happen before testing?",
-    "audioPrompt": "Why should safety planning happen before testing?",
+    "question": "Protective goggles are required for a splash-risk task. Which use is correct?",
+    "audio_prompt": "Protective goggles are required for a splash-risk task. Which use is correct?",
+    "audioPrompt": "Protective goggles are required for a splash-risk task. Which use is correct?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3177,38 +3620,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Safety makes measurement impossible",
-        "is_correct": false
-      },
-      {
-        "text": "Planning creates danger",
-        "is_correct": false
-      },
-      {
-        "text": "Controls can be chosen before people are exposed to hazards",
+        "text": "Properly fitted over the eyes during the task, with the other safety instructions followed",
         "is_correct": true
       },
       {
-        "text": "Hazards only appear after conclusions",
+        "text": "Resting on the forehead while pouring",
+        "is_correct": false
+      },
+      {
+        "text": "Shared between students only after a splash happens",
+        "is_correct": false
+      },
+      {
+        "text": "Used as a reason to ignore container guidelines",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Safety makes measurement impossible",
-      "Planning creates danger",
-      "Controls can be chosen before people are exposed to hazards",
-      "Hazards only appear after conclusions"
+      "Properly fitted over the eyes during the task, with the other safety instructions followed",
+      "Resting on the forehead while pouring",
+      "Shared between students only after a splash happens",
+      "Used as a reason to ignore container guidelines"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Planning ahead reduces risk during the investigation.",
-      "hint": "Before action."
+      "summary": "Correct gear use is one part of a safe method.",
+      "hint": "Protection must cover the part at risk."
     },
     "structuredExplanation": {
-      "summary": "Planning ahead reduces risk during the investigation.",
-      "hint": "Before action."
+      "summary": "Correct gear use is one part of a safe method.",
+      "hint": "Protection must cover the part at risk."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -3227,9 +3671,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which statement about fair tests is accurate?",
-    "audio_prompt": "Which statement about fair tests is accurate?",
-    "audioPrompt": "Which statement about fair tests is accurate?",
+    "question": "A pilot test reveals that the measuring tool cannot show the small change being investigated. What should happen?",
+    "audio_prompt": "A pilot test reveals that the measuring tool cannot show the small change being investigated. What should happen?",
+    "audioPrompt": "A pilot test reveals that the measuring tool cannot show the small change being investigated. What should happen?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3237,38 +3681,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Fair tests never control variables",
+        "text": "Invent smaller readings to fill the table.",
         "is_correct": false
       },
       {
-        "text": "Fair tests can have different results if the changed variable has an effect",
+        "text": "Continue and claim that no change is possible.",
+        "is_correct": false
+      },
+      {
+        "text": "Use different units without changing the tool or method.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask the adult to choose an appropriate tool or adapt the method, then trial it again.",
         "is_correct": true
-      },
-      {
-        "text": "Fair tests always have equal results",
-        "is_correct": false
-      },
-      {
-        "text": "Different results prove unfairness",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Fair tests never control variables",
-      "Fair tests can have different results if the changed variable has an effect",
-      "Fair tests always have equal results",
-      "Different results prove unfairness"
+      "Invent smaller readings to fill the table.",
+      "Continue and claim that no change is possible.",
+      "Use different units without changing the tool or method.",
+      "Ask the adult to choose an appropriate tool or adapt the method, then trial it again."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A fair method is designed to reveal genuine differences.",
-      "hint": "Different outcomes can be valid."
+      "summary": "A pilot can reveal that the planned observations cannot answer the question.",
+      "hint": "Match the instrument to the expected outcome."
     },
     "structuredExplanation": {
-      "summary": "A fair method is designed to reveal genuine differences.",
-      "hint": "Different outcomes can be valid."
+      "summary": "A pilot can reveal that the planned observations cannot answer the question.",
+      "hint": "Match the instrument to the expected outcome."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -3287,9 +3732,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "Which record would help another group repeat the investigation?",
-    "audio_prompt": "Which record would help another group repeat the investigation?",
-    "audioPrompt": "Which record would help another group repeat the investigation?",
+    "question": "Why can two fair repeated trials have different results?",
+    "audio_prompt": "Why can two fair repeated trials have different results?",
+    "audioPrompt": "Why can two fair repeated trials have different results?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3297,38 +3742,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A numbered procedure with variables, tools, units and safety controls",
+        "text": "A fair test means the group must secretly alter measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "Different readings prove the prediction was written too early.",
+        "is_correct": false
+      },
+      {
+        "text": "Small variations can occur even when the planned conditions are kept consistent.",
         "is_correct": true
       },
       {
-        "text": "Only the final answer",
-        "is_correct": false
-      },
-      {
-        "text": "Only a drawing of the group",
-        "is_correct": false
-      },
-      {
-        "text": "A sentence saying it worked",
+        "text": "Fair methods require identical numbers by definition.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A numbered procedure with variables, tools, units and safety controls",
-      "Only the final answer",
-      "Only a drawing of the group",
-      "A sentence saying it worked"
+      "A fair test means the group must secretly alter measurements.",
+      "Different readings prove the prediction was written too early.",
+      "Small variations can occur even when the planned conditions are kept consistent.",
+      "Fair methods require identical numbers by definition."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Clear procedures make investigations repeatable.",
-      "hint": "Enough detail to repeat."
+      "summary": "Record variation honestly and use repeats to assess consistency.",
+      "hint": "Fair method does not mean forced agreement."
     },
     "structuredExplanation": {
-      "summary": "Clear procedures make investigations repeatable.",
-      "hint": "Enough detail to repeat."
+      "summary": "Record variation honestly and use repeats to assess consistency.",
+      "hint": "Fair method does not mean forced agreement."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",
@@ -3347,9 +3793,9 @@
     "curriculumCode": "AC9S4I02",
     "bank": "test",
     "skill": "planning_fair_and_safe_investigations",
-    "question": "A class uses vinegar and bicarb soda in small cups. Which control is sensible?",
-    "audio_prompt": "A class uses vinegar and bicarb soda in small cups. Which control is sensible?",
-    "audioPrompt": "A class uses vinegar and bicarb soda in small cups. Which control is sensible?",
+    "question": "A group plans to observe an unknown biological specimen. What is the best next step?",
+    "audio_prompt": "A group plans to observe an unknown biological specimen. What is the best next step?",
+    "audioPrompt": "A group plans to observe an unknown biological specimen. What is the best next step?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3357,38 +3803,39 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Fill cups to the top",
+        "text": "Open and smell it to identify possible risks first.",
         "is_correct": false
       },
       {
-        "text": "Smell closely during fizzing",
-        "is_correct": false
-      },
-      {
-        "text": "Mix while walking around",
-        "is_correct": false
-      },
-      {
-        "text": "Use small measured amounts and keep faces back from fizzing mixtures",
+        "text": "Have the teacher select a safe observation method and give handling and hygiene instructions.",
         "is_correct": true
+      },
+      {
+        "text": "Take it home to investigate without supervision.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume natural specimens cannot cause harm.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Fill cups to the top",
-      "Smell closely during fizzing",
-      "Mix while walking around",
-      "Use small measured amounts and keep faces back from fizzing mixtures"
+      "Open and smell it to identify possible risks first.",
+      "Have the teacher select a safe observation method and give handling and hygiene instructions.",
+      "Take it home to investigate without supervision.",
+      "Assume natural specimens cannot cause harm."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The control reduces spill and splash risk while keeping measurements consistent.",
-      "hint": "Measured amounts and distance."
+      "summary": "Safe biological inquiry uses appropriate guidance, including images or sealed displays when suitable.",
+      "hint": "Check the risk before handling."
     },
     "structuredExplanation": {
-      "summary": "The control reduces spill and splash risk while keeping measurements consistent.",
-      "hint": "Measured amounts and distance."
+      "summary": "Safe biological inquiry uses appropriate guidance, including images or sealed displays when suitable.",
+      "hint": "Check the risk before handling."
     },
+    "stage": "independent",
     "difficulty": 3,
     "difficulty_tier": "independent",
     "difficultyTier": "independent",

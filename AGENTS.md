@@ -15,6 +15,8 @@ On 2026-09-06, a changed-files-only Git tree replaced main and removed the site 
 
 ### Ongoing curriculum-code review standard
 
+The owner confirmed on 2026-09-08 that, for all website development, **IXL is the primary external teaching and assessment benchmark; Khan Academy and other free resources are supplementary**. The official Australian Curriculum remains the authority for code requirements and year-level boundaries. Inspect relevant IXL teaching/help and representative questions before using supplementary resources to address gaps. If IXL has no suitable match or access/progression is limited, record that gap explicitly; do not describe an uninspected skill as reviewed or silently substitute another primary benchmark. Use only one IXL browser tab with human-paced interaction.
+
 The owner confirmed this full-resource review standard on 2026-09-08. Apply it to each curriculum code being reviewed, while keeping work scoped to the requested code batch:
 
 - Retrieve `svgSkillrHub-IXL-Research-Log.md` before research and check the latest repository review status. Reuse observed evidence and distinguish it from proposed teaching ideas or unverified source matches.

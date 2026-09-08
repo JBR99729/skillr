@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9s4i03-p-001",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "observation",
     "printable": true,
     "type": "single",
-    "question": "Which is a quantitative observation?",
-    "audioPrompt": "Which is a quantitative observation?",
+    "question": "Which record contains a measured quantity?",
+    "audioPrompt": "Which record contains a measured quantity?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,32 +16,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The water temperature was 28°C",
-      "The rock felt rough",
-      "The leaf was dark green",
-      "The liquid looked clear"
+      "Water temperature: 28°C",
+      "The water looks clear",
+      "The rock feels rough",
+      "The leaf is dark green"
     ],
-    "correct": 0,
-    "explanation": "A quantitative observation includes a number and unit.\nHint: Number plus unit.",
-    "structuredExplanation": {
-      "summary": "A quantitative observation includes a number and unit.",
-      "hint": "Number plus unit."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The temperature record gives a measured value and a unit. Descriptions are useful observations too.\nHint: Find the number and what it measures.",
+    "structuredExplanation": {
+      "summary": "The temperature record gives a measured value and a unit. Descriptions are useful observations too.",
+      "hint": "Find the number and what it measures."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-002",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "observation",
     "printable": true,
     "type": "single",
-    "question": "Which is a qualitative observation?",
-    "audioPrompt": "Which is a qualitative observation?",
+    "question": "Which record describes a quality without a numerical measurement?",
+    "audioPrompt": "Which record describes a quality without a numerical measurement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -49,32 +48,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The seedling was 12 cm tall",
-      "The water was 250 mL",
-      "The test lasted 3 minutes",
-      "The soil felt gritty"
+      "The seedling is 12 cm tall",
+      "The water volume is 250 mL",
+      "The trial lasts 3 min",
+      "The soil has a gritty texture"
     ],
-    "correct": 3,
-    "explanation": "A qualitative observation describes qualities without a measured number.\nHint: Description, not measurement.",
-    "structuredExplanation": {
-      "summary": "A qualitative observation describes qualities without a measured number.",
-      "hint": "Description, not measurement."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "A gritty texture describes a quality. The other records use measured numbers.\nHint: Look for a descriptive quality.",
+    "structuredExplanation": {
+      "summary": "A gritty texture describes a quality. The other records use measured numbers.",
+      "hint": "Look for a descriptive quality."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-003",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "recording",
     "printable": true,
     "type": "single",
-    "question": "What should every formal measurement include?",
-    "audioPrompt": "What should every formal measurement include?",
+    "question": "A note reads “leaf length: 45”. What is missing?",
+    "audioPrompt": "A note reads “leaf length: 45”. What is missing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -82,32 +80,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Only a guess",
-      "Only the student’s name",
-      "A number and a unit",
-      "Only a colour"
+      "A different number chosen from memory",
+      "The temperature unit °C",
+      "The length unit, such as mm",
+      "The final explanation of plant growth"
     ],
-    "correct": 2,
-    "explanation": "Measurements need both a number and a unit to be meaningful.\nHint: Number plus unit.",
-    "structuredExplanation": {
-      "summary": "Measurements need both a number and a unit to be meaningful.",
-      "hint": "Number plus unit."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "A value needs the correct unit; 45 mm differs from 45 cm.\nHint: Forty-five what?",
+    "structuredExplanation": {
+      "summary": "A value needs the correct unit; 45 mm differs from 45 cm.",
+      "hint": "Forty-five what?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-004",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "equipment",
     "printable": true,
     "type": "single",
-    "question": "Which instrument measures temperature?",
-    "audioPrompt": "Which instrument measures temperature?",
+    "question": "Which tool and unit match measuring water temperature?",
+    "audioPrompt": "Which tool and unit match measuring water temperature?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -115,32 +112,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Balance",
-      "Thermometer",
-      "Ruler",
-      "Measuring jug"
+      "Balance and g",
+      "Thermometer and °C",
+      "Ruler and cm",
+      "Measuring jug and mL"
     ],
-    "correct": 1,
-    "explanation": "A thermometer measures temperature, usually in degrees Celsius.\nHint: Tool for °C.",
-    "structuredExplanation": {
-      "summary": "A thermometer measures temperature, usually in degrees Celsius.",
-      "hint": "Tool for °C."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A thermometer measures temperature in degrees Celsius.\nHint: Match the quantity to its instrument.",
+    "structuredExplanation": {
+      "summary": "A thermometer measures temperature in degrees Celsius.",
+      "hint": "Match the quantity to its instrument."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-005",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "equipment",
     "printable": true,
     "type": "single",
-    "question": "Which instrument measures length?",
-    "audioPrompt": "Which instrument measures length?",
+    "question": "Which tool is suitable for a 15 cm leaf?",
+    "audioPrompt": "Which tool is suitable for a 15 cm leaf?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -148,32 +144,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ruler or tape measure",
-      "Thermometer",
-      "Timer",
-      "Measuring cup"
+      "A ruler marked in millimetres and centimetres",
+      "A jug marked in millilitres",
+      "A thermometer marked in degrees Celsius",
+      "A timer marked in seconds"
     ],
-    "correct": 0,
-    "explanation": "Rulers and tape measures measure length.\nHint: Tool for cm or mm.",
-    "structuredExplanation": {
-      "summary": "Rulers and tape measures measure length.",
-      "hint": "Tool for cm or mm."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A ruler measures length; small divisions help record a leaf carefully.\nHint: Think about length and scale size.",
+    "structuredExplanation": {
+      "summary": "A ruler measures length; small divisions help record a leaf carefully.",
+      "hint": "Think about length and scale size."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-006",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "field-observation",
     "printable": true,
     "type": "single",
-    "question": "Which unit is suitable for measuring a short classroom object?",
-    "audioPrompt": "Which unit is suitable for measuring a short classroom object?",
+    "question": "A class watches birds from a fixed place for five minutes. Which record follows that procedure?",
+    "audioPrompt": "A class watches birds from a fixed place for five minutes. Which record follows that procedure?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -181,32 +176,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Degrees Celsius",
-      "Litres only",
-      "Seconds",
-      "Centimetres"
+      "Every bird remembered from last week",
+      "Only the bird predicted before the watch",
+      "A count combining today and yesterday without dates",
+      "Time, location and birds seen during those five minutes"
     ],
-    "correct": 3,
-    "explanation": "Centimetres are suitable for many small length measurements.\nHint: Length unit.",
-    "structuredExplanation": {
-      "summary": "Centimetres are suitable for many small length measurements.",
-      "hint": "Length unit."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "A record must match the planned place and time, so another group knows what was actually observed.\nHint: Match the record to the method.",
+    "structuredExplanation": {
+      "summary": "A record must match the planned place and time, so another group knows what was actually observed.",
+      "hint": "Match the record to the method."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-007",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "field-observation",
     "printable": true,
     "type": "single",
-    "question": "Which unit is suitable for measuring water volume in a small jug?",
-    "audioPrompt": "Which unit is suitable for measuring water volume in a small jug?",
+    "question": "A teacher provides a labelled bird-call recording and a reference guide. What should students do?",
+    "audioPrompt": "A teacher provides a labelled bird-call recording and a reference guide. What should students do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -214,65 +208,64 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Degrees Celsius",
-      "Centimetres per second only",
-      "Millilitres",
-      "Kilograms only"
+      "Identify the bird from the recorder colour",
+      "Treat the loudest sound as proof of the largest bird",
+      "Compare the call features and record a tentative identification",
+      "Report a sighting even though only a call was heard"
     ],
-    "correct": 2,
-    "explanation": "Millilitres are commonly used for small liquid volumes.\nHint: Volume unit.",
-    "structuredExplanation": {
-      "summary": "Millilitres are commonly used for small liquid volumes.",
-      "hint": "Volume unit."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "A call is evidence for an identification; record that it was heard, not seen, and retain uncertainty.\nHint: Distinguish hearing from seeing.",
+    "structuredExplanation": {
+      "summary": "A call is evidence for an identification; record that it was heard, not seen, and retain uncertainty.",
+      "hint": "Distinguish hearing from seeing."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-008",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "scaled-instruments",
     "printable": true,
     "type": "single",
-    "question": "What does a scale interval show?",
-    "audioPrompt": "What does a scale interval show?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A thermometer has 20°C and 30°C labels with five equal spaces. What is each space worth?",
+    "audioPrompt": "A thermometer has 20°C and 30°C labels with five equal spaces. What is each space worth?",
+    "visual": "Thermometer labelled 20 and 30 degrees Celsius with five equal spaces. Coloured column reaches the third small step above 20.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Thermometer labelled 20 and 30 degrees Celsius with five equal spaces. Coloured column reaches the third small step above 20.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03/thermometer-26.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03/thermometer-26.svg#model",
+      "alt_text": "Thermometer labelled 20 and 30 degrees Celsius with five equal spaces. Coloured column reaches the third small step above 20."
     },
     "answers": [
-      "The final conclusion",
-      "The value represented by the space between marks",
-      "The colour of the instrument",
-      "The person reading it"
+      "1°C",
+      "2°C",
+      "5°C",
+      "10°C"
     ],
-    "correct": 1,
-    "explanation": "The scale interval tells how much each step on the scale is worth.\nHint: Value of each gap.",
-    "structuredExplanation": {
-      "summary": "The scale interval tells how much each step on the scale is worth.",
-      "hint": "Value of each gap."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The labelled difference is ten degrees; five equal spaces each represent two degrees.\nHint: Divide the labelled difference by the spaces.",
+    "structuredExplanation": {
+      "summary": "The labelled difference is ten degrees; five equal spaces each represent two degrees.",
+      "hint": "Divide the labelled difference by the spaces."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-009",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "equipment",
     "printable": true,
     "type": "single",
-    "question": "Which tool is useful for measuring duration?",
-    "audioPrompt": "Which tool is useful for measuring duration?",
+    "question": "Which pairing measures how long a paper spinner falls?",
+    "audioPrompt": "Which pairing measures how long a paper spinner falls?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -280,32 +273,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Timer or stopwatch",
-      "Balance",
-      "Magnet",
-      "Ruler"
+      "Timer and seconds",
+      "Ruler and grams",
+      "Balance and millilitres",
+      "Thermometer and centimetres"
     ],
-    "correct": 0,
-    "explanation": "Timers and stopwatches measure time duration.\nHint: Tool for seconds.",
-    "structuredExplanation": {
-      "summary": "Timers and stopwatches measure time duration.",
-      "hint": "Tool for seconds."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A timer measures duration. A short fall is measured in seconds.\nHint: Choose a time instrument and unit.",
+    "structuredExplanation": {
+      "summary": "A timer measures duration. A short fall is measured in seconds.",
+      "hint": "Choose a time instrument and unit."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-010",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "recording",
     "printable": true,
     "type": "single",
-    "question": "Why should observations be recorded during the investigation?",
-    "audioPrompt": "Why should observations be recorded during the investigation?",
+    "question": "Why record results as each observation is made?",
+    "audioPrompt": "Why record results as each observation is made?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -313,32 +305,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes measurements unnecessary",
-      "It changes qualitative data into opinions",
-      "It prevents repeats",
-      "Memory can be unreliable after the event"
+      "Writing later always gives more accurate values",
+      "Recording immediately means units can be omitted",
+      "Notes made later become direct measurements",
+      "Details may be forgotten if recording waits until later"
     ],
-    "correct": 3,
-    "explanation": "Recording promptly helps avoid forgotten or changed details.\nHint: Write it when observed.",
-    "structuredExplanation": {
-      "summary": "Recording promptly helps avoid forgotten or changed details.",
-      "hint": "Write it when observed."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Prompt notes preserve what was actually observed, including unexpected results.\nHint: Think about memory.",
+    "structuredExplanation": {
+      "summary": "Prompt notes preserve what was actually observed, including unexpected results.",
+      "hint": "Think about memory."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-011",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "recording",
     "printable": true,
     "type": "single",
-    "question": "Why is “the water got hotter” less useful than “the water rose from 22°C to 31°C”?",
-    "audioPrompt": "Why is “the water got hotter” less useful than “the water rose from 22°C to 31°C”?",
+    "question": "Which record makes a warming observation more useful?",
+    "audioPrompt": "Which record makes a warming observation more useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -346,32 +337,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Numbers make all results perfect",
-      "Temperature cannot be measured",
-      "The second statement gives measured values and units",
-      "The first statement has more units"
+      "The water got warmer sometime",
+      "The temperature was probably the predicted value",
+      "At 0 min: 22°C; at 4 min: 31°C",
+      "At 4 min: warm, so write 31°C without measuring"
     ],
-    "correct": 2,
-    "explanation": "Quantitative records give clearer evidence for comparisons.\nHint: Measured detail.",
-    "structuredExplanation": {
-      "summary": "Quantitative records give clearer evidence for comparisons.",
-      "hint": "Measured detail."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Measured times, values and units make the change checkable. Never invent a number.\nHint: Use measurements actually taken.",
+    "structuredExplanation": {
+      "summary": "Measured times, values and units make the change checkable. Never invent a number.",
+      "hint": "Use measurements actually taken."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-012",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "procedure",
     "printable": true,
     "type": "single",
-    "question": "Why should a liquid level be read at eye level?",
-    "audioPrompt": "Why should a liquid level be read at eye level?",
+    "question": "How should a measuring jug be read?",
+    "audioPrompt": "How should a measuring jug be read?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -379,32 +369,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It removes the need for units",
-      "Looking from above or below can give a wrong reading",
-      "Eye level changes the liquid volume",
-      "It makes water evaporate slower"
+      "Hold it tilted toward your face",
+      "Place it level and view the liquid mark at eye level",
+      "Look down from high above the mark",
+      "Lift one side until the water reaches a numbered mark"
     ],
-    "correct": 1,
-    "explanation": "Reading at eye level reduces parallax error.\nHint: Avoid angle error.",
-    "structuredExplanation": {
-      "summary": "Reading at eye level reduces parallax error.",
-      "hint": "Avoid angle error."
-    },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficulty": 1,
+    "difficultyTier": "recognise",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A level container and eye-level view reduce reading errors caused by the viewing angle.\nHint: Keep the container and view level.",
+    "structuredExplanation": {
+      "summary": "A level container and eye-level view reduce reading errors caused by the viewing angle.",
+      "hint": "Keep the container and view level."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-013",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "field-observation",
     "printable": true,
     "type": "single",
-    "question": "Why must the unit be written beside 45 in a data table?",
-    "audioPrompt": "Why must the unit be written beside 45 in a data table?",
+    "question": "Which note is honest after a virtual wildlife-camera observation?",
+    "audioPrompt": "Which note is honest after a virtual wildlife-camera observation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -412,32 +401,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "45 could mean different quantities without a unit",
-      "Numbers never need units",
-      "Units are only for graphs",
-      "45 is always temperature"
+      "Recorded video, garden site, bird visible at 10:02 in the recording",
+      "I directly visited the garden at 10:02 today",
+      "The camera saw every animal at the site",
+      "No animal existed outside the camera view"
     ],
-    "correct": 0,
-    "explanation": "A number without a unit is ambiguous.\nHint: 45 what?",
-    "structuredExplanation": {
-      "summary": "A number without a unit is ambiguous.",
-      "hint": "45 what?"
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Record the observation source and time. A camera view covers only part of a place and period.\nHint: State how the evidence was obtained.",
+    "structuredExplanation": {
+      "summary": "Record the observation source and time. A camera view covers only part of a place and period.",
+      "hint": "State how the evidence was obtained."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-014",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "procedure",
     "printable": true,
     "type": "single",
-    "question": "Why should a procedure be followed in order?",
-    "audioPrompt": "Why should a procedure be followed in order?",
+    "question": "A method says measure the starting water temperature before adding cool water. Why follow that order?",
+    "audioPrompt": "A method says measure the starting water temperature before adding cool water. Why follow that order?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -445,32 +433,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Order never matters",
-      "It makes all observations qualitative",
-      "It stops students measuring",
-      "Changing the order can change conditions and results"
+      "The order changes the thermometer unit automatically",
+      "Both readings must be identical whatever the order",
+      "The first reading can be replaced by a prediction",
+      "Adding water first changes the starting condition"
     ],
-    "correct": 3,
-    "explanation": "A consistent order helps make results comparable.\nHint: Same method.",
-    "structuredExplanation": {
-      "summary": "A consistent order helps make results comparable.",
-      "hint": "Same method."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The starting temperature must be recorded before the mixture changes.\nHint: Which condition is meant to be measured?",
+    "structuredExplanation": {
+      "summary": "The starting temperature must be recorded before the mixture changes.",
+      "hint": "Which condition is meant to be measured?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-015",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "digital-tools",
     "printable": true,
     "type": "single",
-    "question": "Why should a digital thermometer still be checked for sensible placement?",
-    "audioPrompt": "Why should a digital thermometer still be checked for sensible placement?",
+    "question": "A digital temperature probe rests above the water. What should happen before recording water temperature?",
+    "audioPrompt": "A digital temperature probe rests above the water. What should happen before recording water temperature?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -478,32 +465,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The display colour proves accuracy",
-      "Placement never matters",
-      "A digital reading can be wrong if the probe is placed poorly",
-      "Digital tools cannot have errors"
+      "Record it because digital readings cannot be wrong",
+      "Change the unit until a preferred number appears",
+      "Place the probe correctly in the water according to the instructions",
+      "Hold the display closer while leaving the probe in air"
     ],
-    "correct": 2,
-    "explanation": "Digital tools need correct setup and sensible checking.\nHint: Tool still needs care.",
-    "structuredExplanation": {
-      "summary": "Digital tools need correct setup and sensible checking.",
-      "hint": "Tool still needs care."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "A sensor measures its surroundings; correct placement is essential even with a digital display.\nHint: Which substance surrounds the sensor?",
+    "structuredExplanation": {
+      "summary": "A sensor measures its surroundings; correct placement is essential even with a digital display.",
+      "hint": "Which substance surrounds the sensor?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-016",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "scaled-instruments",
     "printable": true,
     "type": "single",
-    "question": "Why is counting marks without checking interval size a mistake?",
-    "audioPrompt": "Why is counting marks without checking interval size a mistake?",
+    "question": "Why is counting small marks without checking the labels unreliable?",
+    "audioPrompt": "Why is counting small marks without checking the labels unreliable?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -511,32 +497,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Counting marks changes mass",
-      "Marks may represent different values depending on the scale",
-      "All marks are always one unit",
-      "Intervals are only decoration"
+      "Every space on every instrument is exactly one unit",
+      "Different instruments can use different values for each space",
+      "A longer printed mark always means ten units",
+      "The unit can be chosen after counting"
     ],
-    "correct": 1,
-    "explanation": "You need to know the value of each space between labelled marks.\nHint: Find the interval.",
-    "structuredExplanation": {
-      "summary": "You need to know the value of each space between labelled marks.",
-      "hint": "Find the interval."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Work out the interval from the labels and equal spaces before counting to the reading.\nHint: Labels determine the value of each step.",
+    "structuredExplanation": {
+      "summary": "Work out the interval from the labels and equal spaces before counting to the reading.",
+      "hint": "Labels determine the value of each step."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-017",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "digital-tools",
     "printable": true,
     "type": "single",
-    "question": "Why might a camera be useful in an investigation?",
-    "audioPrompt": "Why might a camera be useful in an investigation?",
+    "question": "A class wants to compare the appearance of the same seedling each day. Which camera procedure helps?",
+    "audioPrompt": "A class wants to compare the appearance of the same seedling each day. Which camera procedure helps?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -544,32 +529,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It can record changes over time for later checking",
-      "It replaces all measurements every time",
-      "It makes predictions correct",
-      "It measures mass directly"
+      "Use dated photos from a similar position with the plant label visible",
+      "Photograph a different plant each day without labels",
+      "Edit each photo to make the plant look taller",
+      "Delete days when the plant does not change"
     ],
-    "correct": 0,
-    "explanation": "Photos can help document observations, especially visible changes.\nHint: Digital record.",
-    "structuredExplanation": {
-      "summary": "Photos can help document observations, especially visible changes.",
-      "hint": "Digital record."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Consistent, labelled photographs make visible changes easier to compare. Measurements are still needed for exact height.\nHint: Keep records comparable and identifiable.",
+    "structuredExplanation": {
+      "summary": "Consistent, labelled photographs make visible changes easier to compare. Measurements are still needed for exact height.",
+      "hint": "Keep records comparable and identifiable."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-018",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "rounding",
     "printable": true,
     "type": "single",
-    "question": "Why is “about big” a weak measurement record?",
-    "audioPrompt": "Why is “about big” a weak measurement record?",
+    "question": "A length is between 6 cm and 7 cm, closer to 7 cm. The instruction says nearest centimetre. What is recorded?",
+    "audioPrompt": "A length is between 6 cm and 7 cm, closer to 7 cm. The instruction says nearest centimetre. What is recorded?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -577,32 +561,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is too precise",
-      "It uses too many units",
-      "It is a digital reading",
-      "It is vague and has no number or unit"
+      "Exactly 6.5 cm",
+      "About 6 cm",
+      "7 mm",
+      "About 7 cm"
     ],
-    "correct": 3,
-    "explanation": "Formal measurements need precise numbers and units.\nHint: Vague wording.",
-    "structuredExplanation": {
-      "summary": "Formal measurements need precise numbers and units.",
-      "hint": "Vague wording."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Round to the nearer whole centimetre and keep the unit. The rounded reading is approximate.\nHint: Choose the nearer marked value.",
+    "structuredExplanation": {
+      "summary": "Round to the nearer whole centimetre and keep the unit. The rounded reading is approximate.",
+      "hint": "Choose the nearer marked value."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-019",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "procedure",
     "printable": true,
     "type": "single",
-    "question": "Why should the same instrument be used across repeated trials when possible?",
-    "audioPrompt": "Why should the same instrument be used across repeated trials when possible?",
+    "question": "Why use the same suitable ruler for repeated leaf measurements?",
+    "audioPrompt": "Why use the same suitable ruler for repeated leaf measurements?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -610,65 +593,64 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes qualitative data disappear",
-      "It changes the variable being tested",
-      "It reduces differences caused by different tools",
-      "Different tools always give identical readings"
+      "It guarantees that every leaf has the same length",
+      "It makes a zero check unnecessary",
+      "It reduces differences caused by changing tools",
+      "It lets the observer ignore the scale"
     ],
-    "correct": 2,
-    "explanation": "Using the same tool can improve consistency.\nHint: Consistent tool.",
-    "structuredExplanation": {
-      "summary": "Using the same tool can improve consistency.",
-      "hint": "Consistent tool."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Using a suitable instrument consistently helps comparison; the starting point and scale still need checking.\nHint: Think about consistency.",
+    "structuredExplanation": {
+      "summary": "Using a suitable instrument consistently helps comparison; the starting point and scale still need checking.",
+      "hint": "Think about consistency."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-020",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "rounding",
     "printable": true,
     "type": "single",
-    "question": "Why should unusual readings be checked rather than copied blindly?",
-    "audioPrompt": "Why should unusual readings be checked rather than copied blindly?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Record the water in this model to the nearest 10 mL.",
+    "audioPrompt": "Record the water in this model to the nearest 10 mL.",
+    "visual": "Measuring container marked every ten millilitres, with labels zero, twenty, forty, sixty, eighty and one hundred. Water level is between sixty and seventy, closer to seventy.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Measuring container marked every ten millilitres, with labels zero, twenty, forty, sixty, eighty and one hundred. Water level is between sixty and seventy, closer to seventy.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03/jug-rounding.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03/jug-rounding.svg#model",
+      "alt_text": "Measuring container marked every ten millilitres, with labels zero, twenty, forty, sixty, eighty and one hundred. Water level is between sixty and seventy, closer to seventy."
     },
     "answers": [
-      "Unusual values prove the prediction",
-      "They may come from a reading, setup or recording error",
-      "All unusual readings are automatically false",
-      "Checking data is not allowed"
+      "About 60 mL",
+      "About 70 mL",
+      "Exactly 67.000 mL",
+      "About 7 mL"
     ],
-    "correct": 1,
-    "explanation": "Checking helps identify errors while still treating data honestly.\nHint: Check plausibility.",
-    "structuredExplanation": {
-      "summary": "Checking helps identify errors while still treating data honestly.",
-      "hint": "Check plausibility."
-    },
-    "stage": "explain",
     "difficulty": 2,
-    "difficultyTier": "explain",
+    "difficultyTier": "apply",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The level is between sixty and seventy, nearer seventy. The coarse marks do not justify many decimal places.\nHint: Find the nearest ten-millilitre mark.",
+    "structuredExplanation": {
+      "summary": "The level is between sixty and seventy, nearer seventy. The coarse marks do not justify many decimal places.",
+      "hint": "Find the nearest ten-millilitre mark."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-021",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "field-observation",
     "printable": true,
     "type": "single",
-    "question": "Which statement is a misconception?",
-    "audioPrompt": "Which statement is a misconception?",
+    "question": "A scat photograph resembles two animals in a guide. What is the strongest record?",
+    "audioPrompt": "A scat photograph resembles two animals in a guide. What is the strongest record?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,32 +658,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A digital reading is always error-free",
-      "A measurement needs a unit",
-      "Scale intervals must be checked",
-      "Procedures should be followed consistently"
+      "Possible animal A or B; more evidence is needed",
+      "Definitely A because it was the prediction",
+      "Definitely B because its name is shorter",
+      "Both animals must have made the same scat"
     ],
-    "correct": 0,
-    "explanation": "Digital tools can still be affected by setup, calibration or recording errors.\nHint: Digital is not magic.",
-    "structuredExplanation": {
-      "summary": "Digital tools can still be affected by setup, calibration or recording errors.",
-      "hint": "Digital is not magic."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Similar evidence may not uniquely identify an animal. Record uncertainty instead of guessing certainty.\nHint: A possible match is not a confirmed identification.",
+    "structuredExplanation": {
+      "summary": "Similar evidence may not uniquely identify an animal. Record uncertainty instead of guessing certainty.",
+      "hint": "A possible match is not a confirmed identification."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-022",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "recording",
     "printable": true,
     "type": "single",
-    "question": "Which record is most complete?",
-    "audioPrompt": "Which record is most complete?",
+    "question": "Which observation record is most complete?",
+    "audioPrompt": "Which observation record is most complete?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -709,32 +690,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It got warmer",
-      "The water changed",
       "At 4 it was 33",
-      "At 4 minutes, the water temperature was 33°C"
+      "The water changed",
+      "It was the expected result",
+      "At 4 min, water temperature 33°C; a few small bubbles visible"
     ],
-    "correct": 3,
-    "explanation": "The complete record includes time, quantity, number and unit.\nHint: Specific and unit.",
-    "structuredExplanation": {
-      "summary": "The complete record includes time, quantity, number and unit.",
-      "hint": "Specific and unit."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The record identifies time, quantity, value, unit and a visible description.\nHint: Look for both measurements and observations.",
+    "structuredExplanation": {
+      "summary": "The record identifies time, quantity, value, unit and a visible description.",
+      "hint": "Look for both measurements and observations."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-023",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "field-observation",
     "printable": true,
     "type": "single",
-    "question": "Which observation is qualitative?",
-    "audioPrompt": "Which observation is qualitative?",
+    "question": "Students see animal droppings during a teacher-led walk. Which procedure is appropriate?",
+    "audioPrompt": "Students see animal droppings during a teacher-led walk. Which procedure is appropriate?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -742,32 +722,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The water was 40°C",
-      "The trial lasted 2 minutes",
-      "Small bubbles appeared on the metal spoon",
-      "The spoon was 14 cm long"
+      "Pick them up to check texture",
+      "Move them to mix with other samples",
+      "Observe without touching and use a teacher-provided identification guide",
+      "Identify the animal from size alone with certainty"
     ],
-    "correct": 2,
-    "explanation": "Small bubbles appeared is descriptive without a measured number.\nHint: Description.",
-    "structuredExplanation": {
-      "summary": "Small bubbles appeared is descriptive without a measured number.",
-      "hint": "Description."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Use safe, non-contact observation and an appropriate guide; one feature may not confirm the species.\nHint: Gather evidence without handling animal waste.",
+    "structuredExplanation": {
+      "summary": "Use safe, non-contact observation and an appropriate guide; one feature may not confirm the species.",
+      "hint": "Gather evidence without handling animal waste."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-024",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "digital-tools",
     "printable": true,
     "type": "single",
-    "question": "Which observation is quantitative?",
-    "audioPrompt": "Which observation is quantitative?",
+    "question": "A short movement is difficult to describe while it happens. What could help?",
+    "audioPrompt": "A short movement is difficult to describe while it happens. What could help?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -775,65 +754,64 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The stem felt firm",
-      "The plant grew 3 cm in one week",
-      "The plant looked healthy",
-      "The leaves were pale green"
+      "A still photo taken before movement begins",
+      "A video recording that can be replayed slowly",
+      "A temperature reading without a motion record",
+      "Changing the written result to the prediction"
     ],
-    "correct": 1,
-    "explanation": "The growth statement includes a number and unit.\nHint: Number and unit.",
-    "structuredExplanation": {
-      "summary": "The growth statement includes a number and unit.",
-      "hint": "Number and unit."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A replayable video preserves a sequence of visible changes. It still needs a date, subject and clear view.\nHint: Which tool records a sequence?",
+    "structuredExplanation": {
+      "summary": "A replayable video preserves a sequence of visible changes. It still needs a date, subject and clear view.",
+      "hint": "Which tool records a sequence?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-025",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "scaled-instruments",
     "printable": true,
     "type": "single",
-    "question": "A thermometer scale goes from 20°C to 30°C with five equal spaces. What is each space worth?",
-    "audioPrompt": "A thermometer scale goes from 20°C to 30°C with five equal spaces. What is each space worth?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "What temperature is shown in the model?",
+    "audioPrompt": "What temperature is shown in the model?",
+    "visual": "Thermometer labelled 20 and 30 degrees Celsius with five equal spaces. Coloured column reaches the third small step above 20.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Thermometer labelled 20 and 30 degrees Celsius with five equal spaces. Coloured column reaches the third small step above 20.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03/thermometer-26.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03/thermometer-26.svg#model",
+      "alt_text": "Thermometer labelled 20 and 30 degrees Celsius with five equal spaces. Coloured column reaches the third small step above 20."
     },
     "answers": [
-      "2°C",
-      "1°C",
-      "5°C",
-      "10°C"
+      "26°C",
+      "23°C",
+      "24°C",
+      "28°C"
     ],
-    "correct": 0,
-    "explanation": "The 10°C difference divided by five spaces is 2°C per space.\nHint: 10 divided by 5.",
-    "structuredExplanation": {
-      "summary": "The 10°C difference divided by five spaces is 2°C per space.",
-      "hint": "10 divided by 5."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Each space is two degrees. Three spaces above twenty give twenty-six degrees Celsius.\nHint: Start at the lower labelled mark and count spaces.",
+    "structuredExplanation": {
+      "summary": "Each space is two degrees. Three spaces above twenty give twenty-six degrees Celsius.",
+      "hint": "Start at the lower labelled mark and count spaces."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-026",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "equipment",
     "printable": true,
     "type": "single",
-    "question": "Which tool best measures 250 mL of water?",
-    "audioPrompt": "Which tool best measures 250 mL of water?",
+    "question": "A procedure requires 250 mL of water. Which tool fits?",
+    "audioPrompt": "A procedure requires 250 mL of water. Which tool fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -841,32 +819,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A ruler",
-      "A compass",
-      "A stopwatch",
-      "A labelled measuring jug or cylinder"
+      "A ruler with centimetre marks",
+      "A balance used without any volume procedure",
+      "A stopwatch with minute marks",
+      "A measuring jug with mL marks and enough capacity"
     ],
-    "correct": 3,
-    "explanation": "A measuring jug or cylinder measures liquid volume.\nHint: Volume tool.",
-    "structuredExplanation": {
-      "summary": "A measuring jug or cylinder measures liquid volume.",
-      "hint": "Volume tool."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "A marked jug directly measures the required liquid volume and must hold at least 250 mL.\nHint: Check both quantity and capacity.",
+    "structuredExplanation": {
+      "summary": "A marked jug directly measures the required liquid volume and must hold at least 250 mL.",
+      "hint": "Check both quantity and capacity."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-027",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "equipment",
     "printable": true,
     "type": "single",
-    "question": "Which tool best measures the mass of a rock sample?",
-    "audioPrompt": "Which tool best measures the mass of a rock sample?",
+    "question": "Which tool and unit suit the mass of a small rock?",
+    "audioPrompt": "Which tool and unit suit the mass of a small rock?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -874,32 +851,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Thermometer",
-      "Measuring cylinder only",
-      "Balance",
-      "Timer"
+      "Thermometer and degrees Celsius",
+      "Timer and seconds",
+      "Balance and grams",
+      "Ruler and millimetres"
     ],
-    "correct": 2,
-    "explanation": "A balance measures mass.\nHint: Tool for grams.",
-    "structuredExplanation": {
-      "summary": "A balance measures mass.",
-      "hint": "Tool for grams."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Mass is measured using a balance, commonly in grams for a small sample.\nHint: Match mass to a suitable instrument.",
+    "structuredExplanation": {
+      "summary": "Mass is measured using a balance, commonly in grams for a small sample.",
+      "hint": "Match mass to a suitable instrument."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-028",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "scaled-instruments",
     "printable": true,
     "type": "single",
-    "question": "Which reading practice is best for a ruler?",
-    "audioPrompt": "Which reading practice is best for a ruler?",
+    "question": "A ruler has a blank margin before its zero mark. Where should a leaf measurement begin?",
+    "audioPrompt": "A ruler has a blank margin before its zero mark. Where should a leaf measurement begin?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -907,32 +883,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Guess from the object colour",
-      "Start at zero and read the mark at the object’s end",
-      "Start at any broken edge without noting it",
-      "Read from above at a steep angle"
+      "At the physical edge regardless of zero",
+      "At the zero mark",
+      "At the 1 cm mark, then read only the end",
+      "At whichever mark makes the leaf look longest"
     ],
-    "correct": 1,
-    "explanation": "Using the zero mark and reading carefully improves accuracy.\nHint: Start point matters.",
-    "structuredExplanation": {
-      "summary": "Using the zero mark and reading carefully improves accuracy.",
-      "hint": "Start point matters."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The measurement starts at zero, not necessarily the edge of the ruler.\nHint: Find the scale origin.",
+    "structuredExplanation": {
+      "summary": "The measurement starts at zero, not necessarily the edge of the ruler.",
+      "hint": "Find the scale origin."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-029",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "recording",
     "printable": true,
     "type": "single",
-    "question": "Which data table heading is clearest?",
-    "audioPrompt": "Which data table heading is clearest?",
+    "question": "A table records how long a toy takes to reach a line. Which heading fits?",
+    "audioPrompt": "A table records how long a toy takes to reach a line. Which heading fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -940,32 +915,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Time (min)",
-      "Time nice",
-      "When stuff happened",
-      "Numbers"
+      "Travel time (s)",
+      "Distance (cm)",
+      "Temperature (°C)",
+      "Time (mL)"
     ],
-    "correct": 0,
-    "explanation": "A clear heading names the quantity and unit.\nHint: Quantity plus unit.",
-    "structuredExplanation": {
-      "summary": "A clear heading names the quantity and unit.",
-      "hint": "Quantity plus unit."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The heading names the quantity and its time unit.\nHint: What was actually measured?",
+    "structuredExplanation": {
+      "summary": "The heading names the quantity and its time unit.",
+      "hint": "What was actually measured?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-030",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "digital-tools",
     "printable": true,
     "type": "single",
-    "question": "Which digital-tool check is sensible?",
-    "audioPrompt": "Which digital-tool check is sensible?",
+    "question": "Before weighing a sample on a digital balance, what is useful?",
+    "audioPrompt": "Before weighing a sample on a digital balance, what is useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -973,32 +947,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Assume the largest number is correct",
-      "Turn off the tool before reading",
-      "Ignore calibration and setup",
-      "Check the unit and whether the sensor is placed correctly"
+      "Choose the highest reading displayed",
+      "Assume the container mass is never included",
+      "Record the first number while the display is still changing",
+      "Check the unit and zero or tare it as instructed"
     ],
-    "correct": 3,
-    "explanation": "Digital readings still require unit and setup checks.\nHint: Check setup.",
-    "structuredExplanation": {
-      "summary": "Digital readings still require unit and setup checks.",
-      "hint": "Check setup."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
-    "difficultyTier": "discriminate",
+    "difficultyTier": "apply",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Correct units, zeroing and a settled display support useful mass measurements.\nHint: Check the tool before accepting its number.",
+    "structuredExplanation": {
+      "summary": "Correct units, zeroing and a settled display support useful mass measurements.",
+      "hint": "Check the tool before accepting its number."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-031",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "rounding",
     "printable": true,
     "type": "single",
-    "question": "A student records “plant height = 18”. What should be added?",
-    "audioPrompt": "A student records “plant height = 18”. What should be added?",
+    "question": "Two rulers work correctly. One has only centimetre marks and the other has millimetre marks. Which better shows a very small difference in leaf length?",
+    "audioPrompt": "Two rulers work correctly. One has only centimetre marks and the other has millimetre marks. Which better shows a very small difference in leaf length?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,32 +979,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A prediction after the result",
-      "A new plant name",
-      "The unit, such as centimetres",
-      "A favourite colour"
+      "The ruler with only centimetre marks",
+      "Both show every tiny difference exactly",
+      "The ruler with millimetre marks",
+      "Neither can measure length"
     ],
-    "correct": 2,
-    "explanation": "Without a unit, the measurement is incomplete.\nHint: 18 what?",
-    "structuredExplanation": {
-      "summary": "Without a unit, the measurement is incomplete.",
-      "hint": "18 what?"
-    },
-    "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Smaller divisions allow a finer reading when used carefully; they do not remove every possible error.\nHint: Compare the size of a scale step.",
+    "structuredExplanation": {
+      "summary": "Smaller divisions allow a finer reading when used carefully; they do not remove every possible error.",
+      "hint": "Compare the size of a scale step."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-032",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "field-observation",
     "printable": true,
     "type": "single",
-    "question": "A measuring cylinder has marks every 10 mL. The water level is halfway between 80 mL and 90 mL. What should be recorded?",
-    "audioPrompt": "A measuring cylinder has marks every 10 mL. The water level is halfway between 80 mL and 90 mL. What should be recorded?",
+    "question": "Why might scientists use pitfall traps in a supervised field study?",
+    "audioPrompt": "Why might scientists use pitfall traps in a supervised field study?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1039,32 +1011,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "10 g",
-      "85 mL",
-      "80°C",
-      "90 cm"
+      "To count every animal in the whole habitat",
+      "To sample some small ground-moving animals using a planned procedure",
+      "To identify all birds by their calls",
+      "To prove animals never move at night"
     ],
-    "correct": 1,
-    "explanation": "Halfway between 80 mL and 90 mL is 85 mL.\nHint: Half of 10 is 5.",
-    "structuredExplanation": {
-      "summary": "Halfway between 80 mL and 90 mL is 85 mL.",
-      "hint": "Half of 10 is 5."
-    },
-    "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A pitfall trap samples some ground-moving animals, not all wildlife. Students study a teacher-selected account; no home trapping is needed.\nHint: Think about which animals could enter the trap.",
+    "structuredExplanation": {
+      "summary": "A pitfall trap samples some ground-moving animals, not all wildlife. Students study a teacher-selected account; no home trapping is needed.",
+      "hint": "Think about which animals could enter the trap."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-033",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "digital-tools",
     "printable": true,
     "type": "single",
-    "question": "A class times how long ice takes to melt. Which tool and unit fit best?",
-    "audioPrompt": "A class times how long ice takes to melt. Which tool and unit fit best?",
+    "question": "Which digital tool is useful for preserving a bird call for later comparison?",
+    "audioPrompt": "Which digital tool is useful for preserving a bird call for later comparison?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1072,32 +1043,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Stopwatch and seconds or minutes",
-      "Ruler and centimetres",
-      "Balance and degrees Celsius",
-      "Thermometer and millilitres"
+      "A voice or audio recorder",
+      "A ruler photograph with no audio",
+      "A digital balance",
+      "A spreadsheet with only predicted names"
     ],
-    "correct": 0,
-    "explanation": "Melting duration is measured with time units.\nHint: Time tool.",
-    "structuredExplanation": {
-      "summary": "Melting duration is measured with time units.",
-      "hint": "Time tool."
-    },
-    "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Audio records the sound itself so its features can be compared with a reference.\nHint: Match the evidence to the tool.",
+    "structuredExplanation": {
+      "summary": "Audio records the sound itself so its features can be compared with a reference.",
+      "hint": "Match the evidence to the tool."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-034",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "checking",
     "printable": true,
     "type": "single",
-    "question": "A digital temperature probe suddenly reads 94°C in tap water. What should students do first?",
-    "audioPrompt": "A digital temperature probe suddenly reads 94°C in tap water. What should students do first?",
+    "question": "An unusual probe reading appears in room-temperature water. What is the first useful response?",
+    "audioPrompt": "An unusual probe reading appears in room-temperature water. What is the first useful response?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1105,32 +1075,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Copy it without question",
-      "Delete every other reading",
-      "Stop using all measurements",
-      "Check probe placement, unit and setup before accepting it"
+      "Delete the reading and write the prediction",
+      "Declare every other reading wrong",
+      "Accept it solely because the display is digital",
+      "Keep a note and check the unit, placement and setup before remeasuring"
     ],
-    "correct": 3,
-    "explanation": "An unexpected reading should be checked for setup or recording errors.\nHint: Plausibility check.",
-    "structuredExplanation": {
-      "summary": "An unexpected reading should be checked for setup or recording errors.",
-      "hint": "Plausibility check."
-    },
-    "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Check a surprising measurement without hiding it or assuming it must be false.\nHint: Check the measurement process honestly.",
+    "structuredExplanation": {
+      "summary": "Check a surprising measurement without hiding it or assuming it must be false.",
+      "hint": "Check the measurement process honestly."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-035",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "rounding",
     "printable": true,
     "type": "single",
-    "question": "A group watches crystals form and writes “sparkly bits appeared”. What type of observation is this?",
-    "audioPrompt": "A group watches crystals form and writes “sparkly bits appeared”. What type of observation is this?",
+    "question": "A mark is between 42 mm and 43 mm, closer to 42 mm. Record to the nearest millimetre.",
+    "audioPrompt": "A mark is between 42 mm and 43 mm, closer to 42 mm. Record to the nearest millimetre.",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1138,65 +1107,64 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A formal length measurement",
-      "A unit",
-      "Qualitative",
-      "Quantitative"
+      "About 43 mm",
+      "Exactly 42.999 mm",
+      "About 42 mm",
+      "About 42 cm"
     ],
-    "correct": 2,
-    "explanation": "The observation describes appearance without a number.\nHint: Description.",
-    "structuredExplanation": {
-      "summary": "The observation describes appearance without a number.",
-      "hint": "Description."
-    },
-    "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Round down to the nearer millimetre mark and retain millimetres as the unit.\nHint: Which mark is closer?",
+    "structuredExplanation": {
+      "summary": "Round down to the nearer millimetre mark and retain millimetres as the unit.",
+      "hint": "Which mark is closer?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-036",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "scaled-instruments",
     "printable": true,
     "type": "single",
-    "question": "A student measures a leaf with the ruler starting at the 1 cm mark but records the end mark only. What is wrong?",
-    "audioPrompt": "A student measures a leaf with the ruler starting at the 1 cm mark but records the end mark only. What is wrong?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "What is the length of the leaf model on this offset ruler?",
+    "audioPrompt": "What is the length of the leaf model on this offset ruler?",
+    "visual": "A leaf model begins at the one centimetre mark and ends at the seven centimetre mark on a ruler with equal one-centimetre intervals.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A leaf model begins at the one centimetre mark and ends at the seven centimetre mark on a ruler with equal one-centimetre intervals.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4i03/ruler-offset.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i03/ruler-offset.svg#model",
+      "alt_text": "A leaf model begins at the one centimetre mark and ends at the seven centimetre mark on a ruler with equal one-centimetre intervals."
     },
     "answers": [
-      "The unit makes the reading invalid",
-      "The starting point was not accounted for",
-      "The ruler cannot measure leaves",
-      "Leaves have no length"
+      "7 cm",
+      "6 cm",
+      "8 cm",
+      "1 cm"
     ],
-    "correct": 1,
-    "explanation": "If the ruler does not start at zero, the start value must be subtracted.\nHint: End minus start.",
-    "structuredExplanation": {
-      "summary": "If the ruler does not start at zero, the start value must be subtracted.",
-      "hint": "End minus start."
-    },
-    "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The leaf runs from one to seven centimetres. Its length is seven minus one, or six centimetres.\nHint: Account for the starting mark.",
+    "structuredExplanation": {
+      "summary": "The leaf runs from one to seven centimetres. Its length is seven minus one, or six centimetres.",
+      "hint": "Account for the starting mark."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-037",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "recording",
     "printable": true,
     "type": "single",
-    "question": "A table says “Volume” but not the unit. How should it be improved?",
-    "audioPrompt": "A table says “Volume” but not the unit. How should it be improved?",
+    "question": "A results table has “Volume” above values measured in millilitres. What improves it?",
+    "audioPrompt": "A results table has “Volume” above values measured in millilitres. What improves it?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1204,32 +1172,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Write Volume (mL) or another suitable unit",
-      "Remove all headings",
-      "Use only pictures",
-      "Write the student’s opinion"
+      "Change the heading to Volume (mL)",
+      "Replace all values with colours",
+      "Change the heading to Mass (g)",
+      "Remove the heading and keep the numbers"
     ],
-    "correct": 0,
-    "explanation": "Table headings should include units where measurements are recorded.\nHint: Heading with unit.",
-    "structuredExplanation": {
-      "summary": "Table headings should include units where measurements are recorded.",
-      "hint": "Heading with unit."
-    },
-    "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A quantity and unit in the heading make each value clear without inventing new results.\nHint: Name what the numbers mean.",
+    "structuredExplanation": {
+      "summary": "A quantity and unit in the heading make each value clear without inventing new results.",
+      "hint": "Name what the numbers mean."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-038",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "digital-tools",
     "printable": true,
     "type": "single",
-    "question": "A class photographs mould growth each day and measures patch width. Why use both records?",
-    "audioPrompt": "A class photographs mould growth each day and measures patch width. Why use both records?",
+    "question": "A class records seedling photos and measured heights. Why keep both?",
+    "audioPrompt": "A class records seedling photos and measured heights. Why keep both?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1237,32 +1204,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Photos make units unnecessary",
-      "Measurements stop the camera working",
-      "Both records are opinions",
-      "Photos show appearance while measurements give quantitative change"
+      "A photo always gives exact height without a scale",
+      "Measurements prove every plant feature is unchanged",
+      "The two records must be identical types of evidence",
+      "Photos show appearance; measurements record height with a unit"
     ],
-    "correct": 3,
-    "explanation": "Different records can capture descriptive and measured evidence.\nHint: Qualitative plus quantitative.",
-    "structuredExplanation": {
-      "summary": "Different records can capture descriptive and measured evidence.",
-      "hint": "Qualitative plus quantitative."
-    },
-    "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Different tools capture complementary information. Label both so they refer to the same plant and date.\nHint: What does each record show?",
+    "structuredExplanation": {
+      "summary": "Different tools capture complementary information. Label both so they refer to the same plant and date.",
+      "hint": "What does each record show?"
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-039",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "scaled-instruments",
     "printable": true,
     "type": "single",
-    "question": "A thermometer has marks every 2°C. The liquid is one mark above 24°C. What is the reading?",
-    "audioPrompt": "A thermometer has marks every 2°C. The liquid is one mark above 24°C. What is the reading?",
+    "question": "A thermometer has 2°C intervals. A level one interval above 24°C is what?",
+    "audioPrompt": "A thermometer has 2°C intervals. A level one interval above 24°C is what?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1270,32 +1236,31 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "28°C",
+      "25°C",
       "22°C",
       "26°C",
-      "25°C"
+      "28°C"
     ],
-    "correct": 2,
-    "explanation": "One 2°C interval above 24°C is 26°C.\nHint: Add one interval.",
-    "structuredExplanation": {
-      "summary": "One 2°C interval above 24°C is 26°C.",
-      "hint": "Add one interval."
-    },
-    "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "One interval adds two degrees: twenty-four plus two is twenty-six.\nHint: Use the interval value, not just the number of marks.",
+    "structuredExplanation": {
+      "summary": "One interval adds two degrees: twenty-four plus two is twenty-six.",
+      "hint": "Use the interval value, not just the number of marks."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4i03-p-040",
     "curriculumCode": "AC9S4I03",
     "bank": "practice",
-    "skill": "observing measuring and recording accurately",
+    "skill": "procedure",
     "printable": true,
     "type": "single",
-    "question": "A method says “measure the water”. What detail is missing?",
-    "audioPrompt": "A method says “measure the water”. What detail is missing?",
+    "question": "The method says only “measure the water”. Which improvement makes it followable?",
+    "audioPrompt": "The method says only “measure the water”. Which improvement makes it followable?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1303,21 +1268,281 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The group name only",
-      "Whether to measure volume, temperature, mass or another quantity",
-      "The favourite colour of water",
-      "The final answer"
+      "Measure it more scientifically",
+      "Measure the water temperature in °C with a thermometer after two minutes",
+      "Measure until the result is good",
+      "Measure the water as usual"
     ],
-    "correct": 1,
-    "explanation": "A procedure should name the quantity, tool and unit to measure.\nHint: Measure what?",
-    "structuredExplanation": {
-      "summary": "A procedure should name the quantity, tool and unit to measure.",
-      "hint": "Measure what?"
-    },
-    "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficultyTier": "apply",
     "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A usable step names the quantity, tool, unit and timing instead of leaving them to guesswork.\nHint: Specify what, how and when.",
+    "structuredExplanation": {
+      "summary": "A usable step names the quantity, tool, unit and timing instead of leaving them to guesswork.",
+      "hint": "Specify what, how and when."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i03-p-041",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "recording",
+    "printable": true,
+    "type": "single",
+    "question": "Two leaves each need a length and colour recorded. Which table plan works?",
+    "audioPrompt": "Two leaves each need a length and colour recorded. Which table plan works?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "One row per leaf, with Leaf ID, Length (cm) and Colour columns",
+      "One row per colour with no leaf labels",
+      "One column of numbers with no headings",
+      "A table containing only the longest leaf"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 41,
+    "correct": 0,
+    "explanation": "Separate labelled rows keep observations attached to the correct sample.\nHint: Make each record identifiable.",
+    "structuredExplanation": {
+      "summary": "Separate labelled rows keep observations attached to the correct sample.",
+      "hint": "Make each record identifiable."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i03-p-042",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "recording",
+    "printable": true,
+    "type": "single",
+    "question": "A group counted no beetles in its five-minute watch. What belongs in the count cell?",
+    "audioPrompt": "A group counted no beetles in its five-minute watch. What belongs in the count cell?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A blank cell that could mean not measured",
+      "The predicted count instead",
+      "A count from another group without attribution",
+      "0, with the watch time and place recorded"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 42,
+    "correct": 3,
+    "explanation": "Zero means none were observed during that procedure; a blank can mean data are missing.\nHint: Distinguish zero from missing data.",
+    "structuredExplanation": {
+      "summary": "Zero means none were observed during that procedure; a blank can mean data are missing.",
+      "hint": "Distinguish zero from missing data."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i03-p-043",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "rounding",
+    "printable": true,
+    "type": "single",
+    "question": "Why should a jug marked every 50 mL not be reported as reading exactly 123.456 mL?",
+    "audioPrompt": "Why should a jug marked every 50 mL not be reported as reading exactly 123.456 mL?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The unit mL can never be used for water",
+      "More written digits always improve measurement",
+      "The scale does not support that level of detail",
+      "The largest scale number is always the reading"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 43,
+    "correct": 2,
+    "explanation": "Recorded detail should match what the instrument and procedure can reasonably show.\nHint: Match precision to the scale.",
+    "structuredExplanation": {
+      "summary": "Recorded detail should match what the instrument and procedure can reasonably show.",
+      "hint": "Match precision to the scale."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i03-p-044",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "field-observation",
+    "printable": true,
+    "type": "single",
+    "question": "A bird is heard but hidden behind leaves. Which note separates observation from inference?",
+    "audioPrompt": "A bird is heard but hidden behind leaves. Which note separates observation from inference?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Saw species A even though it was hidden",
+      "Heard a repeated call; it may be species A based on the guide",
+      "Measured species A as exactly 12 cm long",
+      "Counted three birds because the call repeated three times"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "apply",
+    "sequencePriority": 44,
+    "correct": 1,
+    "explanation": "The heard call is direct evidence; the species is a tentative interpretation. Repeated calls do not alone count individuals.\nHint: Write what was observed and what was inferred.",
+    "structuredExplanation": {
+      "summary": "The heard call is direct evidence; the species is a tentative interpretation. Repeated calls do not alone count individuals.",
+      "hint": "Write what was observed and what was inferred."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i03-p-045",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "actual-measurement",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Actual lengths vary. Each record names the object, ruler interval and unit; the zero mark is aligned or the starting reading is subtracted.",
+    "acceptanceNote": "Inspect the two actual measurements and the learner’s scale/start-point explanation. Do not accept only a statement that the task is complete.",
+    "responseInstructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Use a ruler to measure the length of two safe classroom objects. Record the tool, smallest marked interval and both lengths with units. Explain how you aligned the starting mark.",
+    "audioPrompt": "Use a ruler to measure the length of two safe classroom objects. Record the tool, smallest marked interval and both lengths with units. Explain how you aligned the starting mark.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 45,
+    "correct": "Actual lengths vary. Each record names the object, ruler interval and unit; the zero mark is aligned or the starting reading is subtracted.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Actual lengths vary. Each record names the object, ruler interval and unit; the zero mark is aligned or the starting reading is subtracted.",
+      "hint": "Keep your actual work for an adult to check."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i03-p-046",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "actual-recording",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The table has Leaf ID, Length (cm) and Colour headings with the three observations attached to the correct leaves.",
+    "acceptanceNote": "Inspect a constructed three-row table, all values and the unit. This requires actual organisation, not choosing a table title.",
+    "responseInstructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Create a table for these observations: leaf A is 7 cm long and dark green; leaf B is 5 cm long and pale green; leaf C is 8 cm long and dark green. Include useful headings.",
+    "audioPrompt": "Create a table for these observations: leaf A is 7 cm long and dark green; leaf B is 5 cm long and pale green; leaf C is 8 cm long and dark green. Include useful headings.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 46,
+    "correct": "The table has Leaf ID, Length (cm) and Colour headings with the three observations attached to the correct leaves.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "The table has Leaf ID, Length (cm) and Colour headings with the three observations attached to the correct leaves.",
+      "hint": "Keep your actual work for an adult to check."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i03-p-047",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "actual-field-observation",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "A record distinguishes visible/heard evidence from a possible identification and states the real observation source and time. If none are observed, record that honestly.",
+    "acceptanceNote": "Inspect actual notes and the evidence/inference distinction. Accept no animals observed when accurate, with a note about what the view or time may miss.",
+    "responseInstructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "With an adult, make a two-minute observation from a safe place, or use a teacher-selected wildlife video. Record the source, time and animal features actually seen or heard. State any uncertainty in an identification; if no animals are observed, record that honestly. Do not handle animals or waste.",
+    "audioPrompt": "With an adult, make a two-minute observation from a safe place, or use a teacher-selected wildlife video. Record the source, time and animal features actually seen or heard. State any uncertainty in an identification; if no animals are observed, record that honestly. Do not handle animals or waste.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 47,
+    "correct": "A record distinguishes visible/heard evidence from a possible identification and states the real observation source and time. If none are observed, record that honestly.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "A record distinguishes visible/heard evidence from a possible identification and states the real observation source and time. If none are observed, record that honestly.",
+      "hint": "Keep your actual work for an adult to check."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4i03-p-048",
+    "curriculumCode": "AC9S4I03",
+    "bank": "practice",
+    "skill": "actual-rounding",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The drawn endpoints round to about 5 cm and about 8 cm. The coarse marks do not justify exact millimetre readings.",
+    "acceptanceNote": "Inspect the actual equally spaced labelled scale, two correctly placed endpoints and approximate readings with units.",
+    "responseInstructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Draw a ruler scale from 4 cm to 8 cm with equal one-centimetre spaces. Put one endpoint between 5 and 6, nearer 5, and another between 7 and 8, nearer 8. Write the two readings rounded to the nearest centimetre and explain the limits.",
+    "audioPrompt": "Draw a ruler scale from 4 cm to 8 cm with equal one-centimetre spaces. Put one endpoint between 5 and 6, nearer 5, and another between 7 and 8, nearer 8. Write the two readings rounded to the nearest centimetre and explain the limits.",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 48,
+    "correct": "The drawn endpoints round to about 5 cm and about 8 cm. The coarse marks do not justify exact millimetre readings.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "The drawn endpoints round to about 5 cm and about 8 cm. The coarse marks do not justify exact millimetre readings.",
+      "hint": "Keep your actual work for an adult to check."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

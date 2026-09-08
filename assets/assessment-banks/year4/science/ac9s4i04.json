@@ -6,10 +6,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which representation best shows exact recorded values?",
-    "audio_prompt": "Which representation best shows exact recorded values?",
-    "audioPrompt": "Which representation best shows exact recorded values?",
+    "skill": "tables",
+    "question": "A notebook contains rock masses of A: 40 g, B: 65 g and C: 55 g. Which table headings preserve the values clearly?",
+    "audio_prompt": "A notebook contains rock masses of A: 40 g, B: 65 g and C: 55 g. Which table headings preserve the values clearly?",
+    "audioPrompt": "A notebook contains rock masses of A: 40 g, B: 65 g and C: 55 g. Which table headings preserve the values clearly?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -17,37 +17,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A labelled table",
+        "text": "Rock ID | Mass (g)",
         "is_correct": true
       },
       {
-        "text": "An unrelated picture",
+        "text": "Rock ID | Length (cm)",
         "is_correct": false
       },
       {
-        "text": "A title only",
+        "text": "Mass | Colour only",
         "is_correct": false
       },
       {
-        "text": "An unscaled sketch",
+        "text": "Rock ID | Temperature (°C)",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A labelled table",
-      "An unrelated picture",
-      "A title only",
-      "An unscaled sketch"
+      "Rock ID | Mass (g)",
+      "Rock ID | Length (cm)",
+      "Mass | Colour only",
+      "Rock ID | Temperature (°C)"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A table is useful for keeping exact values organised.",
-      "hint": "Exact numbers."
+      "summary": "A table needs the sample identity, measured quantity and unit.",
+      "hint": "Name what was measured."
     },
     "structuredExplanation": {
-      "summary": "A table is useful for keeping exact values organised.",
-      "hint": "Exact numbers."
+      "summary": "A table needs the sample identity, measured quantity and unit.",
+      "hint": "Name what was measured."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -67,10 +67,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which graph is useful for comparing categories such as surface types?",
-    "audio_prompt": "Which graph is useful for comparing categories such as surface types?",
-    "audioPrompt": "Which graph is useful for comparing categories such as surface types?",
+    "skill": "graphs",
+    "question": "Which display helps compare toy-car distances on tile, card and fabric?",
+    "audio_prompt": "Which display helps compare toy-car distances on tile, card and fabric?",
+    "audioPrompt": "Which display helps compare toy-car distances on tile, card and fabric?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -78,37 +78,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Map of Australia only",
+        "text": "A map with only room locations",
         "is_correct": false
       },
       {
-        "text": "Food chain only",
+        "text": "A food-chain diagram with no distance values",
         "is_correct": false
       },
       {
-        "text": "Paragraph with no numbers",
+        "text": "A list containing only the surface names",
         "is_correct": false
       },
       {
-        "text": "Column graph",
+        "text": "A column graph with surfaces and distance in cm",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Map of Australia only",
-      "Food chain only",
-      "Paragraph with no numbers",
-      "Column graph"
+      "A map with only room locations",
+      "A food-chain diagram with no distance values",
+      "A list containing only the surface names",
+      "A column graph with surfaces and distance in cm"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A column graph compares values for different categories.",
-      "hint": "Bars for categories."
+      "summary": "Columns show measured values for separate categories on the same scale.",
+      "hint": "Choose a display for comparing category values."
     },
     "structuredExplanation": {
-      "summary": "A column graph compares values for different categories.",
-      "hint": "Bars for categories."
+      "summary": "Columns show measured values for separate categories on the same scale.",
+      "hint": "Choose a display for comparing category values."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -128,48 +128,49 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "What should a graph scale be?",
-    "audio_prompt": "What should a graph scale be?",
-    "audioPrompt": "What should a graph scale be?",
+    "skill": "graphs",
+    "question": "The material-count graph has equal scale steps. What is each step worth?",
+    "audio_prompt": "The material-count graph has equal scale steps. What is each step worth?",
+    "audioPrompt": "The material-count graph has equal scale steps. What is each step worth?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/material-counts.svg#model",
+      "alt_text": "Column graph: Plastic 8, Metal 6, Wood 4. Vertical axis is Number of objects, starting at zero in equal steps of 2."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/material-counts.svg#model\" alt=\"Column graph: Plastic 8, Metal 6, Wood 4. Vertical axis is Number of objects, starting at zero in equal steps of 2.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "Hidden from the reader",
+        "text": "1 object",
         "is_correct": false
       },
       {
-        "text": "Chosen after drawing bars",
+        "text": "4 objects",
         "is_correct": false
       },
       {
-        "text": "Consistent along the axis",
+        "text": "2 objects",
         "is_correct": true
       },
       {
-        "text": "Changing randomly between bars",
+        "text": "8 objects",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Hidden from the reader",
-      "Chosen after drawing bars",
-      "Consistent along the axis",
-      "Changing randomly between bars"
+      "1 object",
+      "4 objects",
+      "2 objects",
+      "8 objects"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "A consistent scale lets values be compared fairly.",
-      "hint": "Same step size."
+      "summary": "The numbered scale goes zero, two, four, six, eight, so neighbouring lines differ by two objects.",
+      "hint": "Read neighbouring labels."
     },
     "structuredExplanation": {
-      "summary": "A consistent scale lets values be compared fairly.",
-      "hint": "Same step size."
+      "summary": "The numbered scale goes zero, two, four, six, eight, so neighbouring lines differ by two objects.",
+      "hint": "Read neighbouring labels."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -189,48 +190,49 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which part of a column graph shows the value?",
-    "audio_prompt": "Which part of a column graph shows the value?",
-    "audioPrompt": "Which part of a column graph shows the value?",
+    "skill": "graphs",
+    "question": "What represents the number of objects in each category on this graph?",
+    "audio_prompt": "What represents the number of objects in each category on this graph?",
+    "audioPrompt": "What represents the number of objects in each category on this graph?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/material-counts.svg#model",
+      "alt_text": "Column graph: Plastic 8, Metal 6, Wood 4. Vertical axis is Number of objects, starting at zero in equal steps of 2."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/material-counts.svg#model\" alt=\"Column graph: Plastic 8, Metal 6, Wood 4. Vertical axis is Number of objects, starting at zero in equal steps of 2.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "Order of student names",
+        "text": "The width of the graph title",
         "is_correct": false
       },
       {
-        "text": "Height of each column",
+        "text": "The height of its column",
         "is_correct": true
       },
       {
-        "text": "Colour of the title only",
+        "text": "The alphabetical order of the labels",
         "is_correct": false
       },
       {
-        "text": "Shape of the paper",
+        "text": "The amount of space between words",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Order of student names",
-      "Height of each column",
-      "Colour of the title only",
-      "Shape of the paper"
+      "The width of the graph title",
+      "The height of its column",
+      "The alphabetical order of the labels",
+      "The amount of space between words"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Column height represents the data value.",
-      "hint": "Bar height."
+      "summary": "On a column graph, height matches the value on the vertical scale.",
+      "hint": "Follow the column to the value axis."
     },
     "structuredExplanation": {
-      "summary": "Column height represents the data value.",
-      "hint": "Bar height."
+      "summary": "On a column graph, height matches the value on the vertical scale.",
+      "hint": "Follow the column to the value axis."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -250,10 +252,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "What is a scientific model?",
-    "audio_prompt": "What is a scientific model?",
-    "audioPrompt": "What is a scientific model?",
+    "skill": "models",
+    "question": "Which description of a scientific model is correct?",
+    "audio_prompt": "Which description of a scientific model is correct?",
+    "audioPrompt": "Which description of a scientific model is correct?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -261,37 +263,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A simplified representation used to show important parts or relationships",
+        "text": "It shows selected parts or relationships and leaves out some details",
         "is_correct": true
       },
       {
-        "text": "A perfect copy of reality",
+        "text": "It must be a perfect copy of everything",
         "is_correct": false
       },
       {
-        "text": "A decoration with no purpose",
+        "text": "It is useful only if it has no labels",
         "is_correct": false
       },
       {
-        "text": "A result that cannot change",
+        "text": "It guarantees that every prediction is correct",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A simplified representation used to show important parts or relationships",
-      "A perfect copy of reality",
-      "A decoration with no purpose",
-      "A result that cannot change"
+      "It shows selected parts or relationships and leaves out some details",
+      "It must be a perfect copy of everything",
+      "It is useful only if it has no labels",
+      "It guarantees that every prediction is correct"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Models simplify systems to help explain or predict.",
-      "hint": "Shows key parts."
+      "summary": "A useful model simplifies a system for a particular purpose and has limits.",
+      "hint": "Think about purpose and simplification."
     },
     "structuredExplanation": {
-      "summary": "Models simplify systems to help explain or predict.",
-      "hint": "Shows key parts."
+      "summary": "A useful model simplifies a system for a particular purpose and has limits.",
+      "hint": "Think about purpose and simplification."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -311,10 +313,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which graph feature is essential?",
-    "audio_prompt": "Which graph feature is essential?",
-    "audioPrompt": "Which graph feature is essential?",
+    "skill": "graphs",
+    "question": "A graph compares distance travelled on surfaces. Which vertical-axis label fits?",
+    "audio_prompt": "A graph compares distance travelled on surfaces. Which vertical-axis label fits?",
+    "audioPrompt": "A graph compares distance travelled on surfaces. Which vertical-axis label fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -322,37 +324,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A hidden scale",
+        "text": "Surface type (cm)",
         "is_correct": false
       },
       {
-        "text": "Only decorative stickers",
+        "text": "Temperature (°C)",
         "is_correct": false
       },
       {
-        "text": "Bars drawn by favourite colour",
+        "text": "Number of surfaces (mL)",
         "is_correct": false
       },
       {
-        "text": "Labelled axes with units where needed",
+        "text": "Distance (cm)",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "A hidden scale",
-      "Only decorative stickers",
-      "Bars drawn by favourite colour",
-      "Labelled axes with units where needed"
+      "Surface type (cm)",
+      "Temperature (°C)",
+      "Number of surfaces (mL)",
+      "Distance (cm)"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Labels and units help readers understand what is shown.",
-      "hint": "Reader needs meaning."
+      "summary": "The vertical scale represents the measured distance, with centimetres as the unit.",
+      "hint": "Identify the measured quantity."
     },
     "structuredExplanation": {
-      "summary": "Labels and units help readers understand what is shown.",
-      "hint": "Reader needs meaning."
+      "summary": "The vertical scale represents the measured distance, with centimetres as the unit.",
+      "hint": "Identify the measured quantity."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -372,48 +374,49 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which statement describes a pattern?",
-    "audio_prompt": "Which statement describes a pattern?",
-    "audioPrompt": "Which statement describes a pattern?",
+    "skill": "patterns",
+    "question": "What comparison is supported by the surface graph?",
+    "audio_prompt": "What comparison is supported by the surface graph?",
+    "audioPrompt": "What comparison is supported by the surface graph?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/surface-distances.svg#model",
+      "alt_text": "Column graph: Tile 60, Card 40, Fabric 20. Vertical axis is Distance (cm), starting at zero in equal steps of 10."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/surface-distances.svg#model\" alt=\"Column graph: Tile 60, Card 40, Fabric 20. Vertical axis is Distance (cm), starting at zero in equal steps of 10.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "The blue bar looked nicest",
+        "text": "The car travelled the same distance on every surface",
         "is_correct": false
       },
       {
-        "text": "The table had three rows",
+        "text": "Fabric gave the longest distance",
         "is_correct": false
       },
       {
-        "text": "The rougher surfaces had shorter travel distances",
+        "text": "The car travelled farther on tile than fabric in this test",
         "is_correct": true
       },
       {
-        "text": "The graph was printed neatly",
+        "text": "Every tile surface always makes every object travel 60 cm",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The blue bar looked nicest",
-      "The table had three rows",
-      "The rougher surfaces had shorter travel distances",
-      "The graph was printed neatly"
+      "The car travelled the same distance on every surface",
+      "Fabric gave the longest distance",
+      "The car travelled farther on tile than fabric in this test",
+      "Every tile surface always makes every object travel 60 cm"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "A pattern describes a relationship in the evidence.",
-      "hint": "Relationship in data."
+      "summary": "The displayed values support a comparison within this test, not a rule about every surface and object.",
+      "hint": "Use only the recorded test evidence."
     },
     "structuredExplanation": {
-      "summary": "A pattern describes a relationship in the evidence.",
-      "hint": "Relationship in data."
+      "summary": "The displayed values support a comparison within this test, not a rule about every surface and object.",
+      "hint": "Use only the recorded test evidence."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -433,10 +436,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which representation best shows a water-cycle pathway?",
-    "audio_prompt": "Which representation best shows a water-cycle pathway?",
-    "audioPrompt": "Which representation best shows a water-cycle pathway?",
+    "skill": "maps",
+    "question": "Which representation is useful for locating school water sources?",
+    "audio_prompt": "Which representation is useful for locating school water sources?",
+    "audioPrompt": "Which representation is useful for locating school water sources?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -444,37 +447,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A blank table only",
+        "text": "A column graph with only total water use",
         "is_correct": false
       },
       {
-        "text": "A labelled diagram or model",
+        "text": "A map with locations and a symbol key",
         "is_correct": true
       },
       {
-        "text": "A random column graph of lunch orders",
+        "text": "A table listing temperatures without places",
         "is_correct": false
       },
       {
-        "text": "A spelling list",
+        "text": "A food-chain model with no locations",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A blank table only",
-      "A labelled diagram or model",
-      "A random column graph of lunch orders",
-      "A spelling list"
+      "A column graph with only total water use",
+      "A map with locations and a symbol key",
+      "A table listing temperatures without places",
+      "A food-chain model with no locations"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "A labelled diagram or model can show connected processes in a cycle.",
-      "hint": "Show pathway."
+      "summary": "A map shows where things are in relation to familiar places; its key explains symbols.",
+      "hint": "The task is about location."
     },
     "structuredExplanation": {
-      "summary": "A labelled diagram or model can show connected processes in a cycle.",
-      "hint": "Show pathway."
+      "summary": "A map shows where things are in relation to familiar places; its key explains symbols.",
+      "hint": "The task is about location."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -494,10 +497,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which is a model limitation?",
-    "audio_prompt": "Which is a model limitation?",
-    "audioPrompt": "Which is a model limitation?",
+    "skill": "models",
+    "question": "A water-cycle drawing leaves out timing and landscape scale. What is a fair comment?",
+    "audio_prompt": "A water-cycle drawing leaves out timing and landscape scale. What is a fair comment?",
+    "audioPrompt": "A water-cycle drawing leaves out timing and landscape scale. What is a fair comment?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -505,37 +508,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A drawing of the water cycle may not show exact timing or scale",
+        "text": "It may show useful pathways while omitting those details",
         "is_correct": true
       },
       {
-        "text": "A model must include every atom",
+        "text": "It is therefore unable to show any water movement",
         "is_correct": false
       },
       {
-        "text": "Models never simplify anything",
+        "text": "It must show exactly how long every drop travels",
         "is_correct": false
       },
       {
-        "text": "A model has no purpose",
+        "text": "It proves that landscapes have the same size",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A drawing of the water cycle may not show exact timing or scale",
-      "A model must include every atom",
-      "Models never simplify anything",
-      "A model has no purpose"
+      "It may show useful pathways while omitting those details",
+      "It is therefore unable to show any water movement",
+      "It must show exactly how long every drop travels",
+      "It proves that landscapes have the same size"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Models leave out details such as scale, timing or variation.",
-      "hint": "What it does not show."
+      "summary": "Models can be useful without representing every detail. State both their purpose and limits.",
+      "hint": "Name what it shows and what it leaves out."
     },
     "structuredExplanation": {
-      "summary": "Models leave out details such as scale, timing or variation.",
-      "hint": "What it does not show."
+      "summary": "Models can be useful without representing every detail. State both their purpose and limits.",
+      "hint": "Name what it shows and what it leaves out."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -555,10 +558,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which action helps avoid graphing errors?",
-    "audio_prompt": "Which action helps avoid graphing errors?",
-    "audioPrompt": "Which action helps avoid graphing errors?",
+    "skill": "graphs",
+    "question": "A table says wood: 4 objects. The graph column reaches 6. What should the learner do?",
+    "audio_prompt": "A table says wood: 4 objects. The graph column reaches 6. What should the learner do?",
+    "audioPrompt": "A table says wood: 4 objects. The graph column reaches 6. What should the learner do?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -566,37 +569,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Draw bars from memory",
+        "text": "Change the table to match the taller column without checking",
         "is_correct": false
       },
       {
-        "text": "Change values to fit the page",
+        "text": "Keep both values because colour matters more",
         "is_correct": false
       },
       {
-        "text": "Skip labels",
+        "text": "Remove wood from the comparison",
         "is_correct": false
       },
       {
-        "text": "Check every bar against the source table",
+        "text": "Check the source record and correct the copied graph value if the table is accurate",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Draw bars from memory",
-      "Change values to fit the page",
-      "Skip labels",
-      "Check every bar against the source table"
+      "Change the table to match the taller column without checking",
+      "Keep both values because colour matters more",
+      "Remove wood from the comparison",
+      "Check the source record and correct the copied graph value if the table is accurate"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Auditing plotted values helps keep graphs accurate.",
-      "hint": "Compare to table."
+      "summary": "Graph values must faithfully represent the checked source data.",
+      "hint": "Audit the graph against the record."
     },
     "structuredExplanation": {
-      "summary": "Auditing plotted values helps keep graphs accurate.",
-      "hint": "Compare to table."
+      "summary": "Graph values must faithfully represent the checked source data.",
+      "hint": "Audit the graph against the record."
     },
     "stage": "recognise",
     "difficulty": 1,
@@ -616,10 +619,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Why is a table useful before drawing a graph?",
-    "audio_prompt": "Why is a table useful before drawing a graph?",
-    "audioPrompt": "Why is a table useful before drawing a graph?",
+    "skill": "tables",
+    "question": "Why construct a table before graphing field counts?",
+    "audio_prompt": "Why construct a table before graphing field counts?",
+    "audioPrompt": "Why construct a table before graphing field counts?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -627,42 +630,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It makes bars choose their own height",
+        "text": "It changes observed counts into predictions",
         "is_correct": false
       },
       {
-        "text": "It changes results into opinions",
+        "text": "It makes the graph scale unnecessary",
         "is_correct": false
       },
       {
-        "text": "It organises the exact values that the graph will display",
+        "text": "It keeps category labels and exact counts organised for plotting",
         "is_correct": true
       },
       {
-        "text": "It removes the need for data",
+        "text": "It guarantees that every category has the same count",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It makes bars choose their own height",
-      "It changes results into opinions",
-      "It organises the exact values that the graph will display",
-      "It removes the need for data"
+      "It changes observed counts into predictions",
+      "It makes the graph scale unnecessary",
+      "It keeps category labels and exact counts organised for plotting",
+      "It guarantees that every category has the same count"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Tables keep source data clear so graphs can be built accurately.",
-      "hint": "Exact source values."
+      "summary": "A labelled table gives an organised source for the graph.",
+      "hint": "Keep the original values visible."
     },
     "structuredExplanation": {
-      "summary": "Tables keep source data clear so graphs can be built accurately.",
-      "hint": "Exact source values."
+      "summary": "A labelled table gives an organised source for the graph.",
+      "hint": "Keep the original values visible."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 11,
     "sequencePriority": 11,
     "quality_schema": "skillr-actual-v6",
@@ -677,53 +680,54 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Why must column heights match the graph scale?",
-    "audio_prompt": "Why must column heights match the graph scale?",
-    "audioPrompt": "Why must column heights match the graph scale?",
+    "skill": "graphs",
+    "question": "What distance is represented by the card column?",
+    "audio_prompt": "What distance is represented by the card column?",
+    "audioPrompt": "What distance is represented by the card column?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/surface-distances.svg#model",
+      "alt_text": "Column graph: Tile 60, Card 40, Fabric 20. Vertical axis is Distance (cm), starting at zero in equal steps of 10."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/surface-distances.svg#model\" alt=\"Column graph: Tile 60, Card 40, Fabric 20. Vertical axis is Distance (cm), starting at zero in equal steps of 10.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "Data values do not matter",
+        "text": "4 cm",
         "is_correct": false
       },
       {
-        "text": "Otherwise the graph can distort the data",
+        "text": "40 cm",
         "is_correct": true
       },
       {
-        "text": "Tall bars always mean better science",
+        "text": "20 cm",
         "is_correct": false
       },
       {
-        "text": "Scale labels are decoration",
+        "text": "60 cm",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Data values do not matter",
-      "Otherwise the graph can distort the data",
-      "Tall bars always mean better science",
-      "Scale labels are decoration"
+      "4 cm",
+      "40 cm",
+      "20 cm",
+      "60 cm"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Incorrect bar heights can mislead readers about comparisons.",
-      "hint": "Accurate display."
+      "summary": "The card column reaches forty on the distance scale.",
+      "hint": "Follow the column top across to the axis."
     },
     "structuredExplanation": {
-      "summary": "Incorrect bar heights can mislead readers about comparisons.",
-      "hint": "Accurate display."
+      "summary": "The card column reaches forty on the distance scale.",
+      "hint": "Follow the column top across to the axis."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "stage": "recognise",
+    "difficulty": 1,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
     "sequence_priority": 12,
     "sequencePriority": 12,
     "quality_schema": "skillr-actual-v6",
@@ -738,10 +742,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Why should an axis interval not change halfway along a graph?",
-    "audio_prompt": "Why should an axis interval not change halfway along a graph?",
-    "audioPrompt": "Why should an axis interval not change halfway along a graph?",
+    "skill": "graphs",
+    "question": "The largest value is 60 cm. Which equal-step scale fits a simple column graph?",
+    "audio_prompt": "The largest value is 60 cm. Which equal-step scale fits a simple column graph?",
+    "audioPrompt": "The largest value is 60 cm. Which equal-step scale fits a simple column graph?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -749,42 +753,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Changing intervals can make differences look larger or smaller than they are",
+        "text": "0, 10, 20, 30, 40, 50, 60 cm",
         "is_correct": true
       },
       {
-        "text": "Changing intervals improves fairness",
+        "text": "0, 1, 2, 3, 4, 5, 6 cm",
         "is_correct": false
       },
       {
-        "text": "Readers never use scales",
+        "text": "0, 10, 20, 50, 55, 60 cm at equal gaps",
         "is_correct": false
       },
       {
-        "text": "Bars do not need values",
+        "text": "10, 20, 30, 40 cm with the 60 cm bar cut off",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Changing intervals can make differences look larger or smaller than they are",
-      "Changing intervals improves fairness",
-      "Readers never use scales",
-      "Bars do not need values"
+      "0, 10, 20, 30, 40, 50, 60 cm",
+      "0, 1, 2, 3, 4, 5, 6 cm",
+      "0, 10, 20, 50, 55, 60 cm at equal gaps",
+      "10, 20, 30, 40 cm with the 60 cm bar cut off"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A consistent scale supports honest comparison.",
-      "hint": "Same interval."
+      "summary": "The scale starts at zero, uses equal intervals and includes the largest value.",
+      "hint": "Check the start, equal steps and top value."
     },
     "structuredExplanation": {
-      "summary": "A consistent scale supports honest comparison.",
-      "hint": "Same interval."
+      "summary": "The scale starts at zero, uses equal intervals and includes the largest value.",
+      "hint": "Check the start, equal steps and top value."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 13,
     "sequencePriority": 13,
     "quality_schema": "skillr-actual-v6",
@@ -799,10 +803,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Why is a model not the same as the real system?",
-    "audio_prompt": "Why is a model not the same as the real system?",
-    "audioPrompt": "Why is a model not the same as the real system?",
+    "skill": "models",
+    "question": "In a food-chain role-play, counters stand for animals. What should students remember?",
+    "audio_prompt": "In a food-chain role-play, counters stand for animals. What should students remember?",
+    "audioPrompt": "In a food-chain role-play, counters stand for animals. What should students remember?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -810,42 +814,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It includes every detail perfectly",
+        "text": "Each counter has every feature of a real animal",
         "is_correct": false
       },
       {
-        "text": "It is always wrong",
+        "text": "Counters prove exactly how many animals live outdoors",
         "is_correct": false
       },
       {
-        "text": "It cannot show relationships",
+        "text": "Changing a counter changes a real habitat immediately",
         "is_correct": false
       },
       {
-        "text": "It simplifies selected features and leaves out some details",
+        "text": "Counters represent selected feeding relationships, not real animals in every detail",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "It includes every detail perfectly",
-      "It is always wrong",
-      "It cannot show relationships",
-      "It simplifies selected features and leaves out some details"
+      "Each counter has every feature of a real animal",
+      "Counters prove exactly how many animals live outdoors",
+      "Changing a counter changes a real habitat immediately",
+      "Counters represent selected feeding relationships, not real animals in every detail"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Models are purposeful simplifications, not exact copies.",
-      "hint": "Simplified."
+      "summary": "A classroom model helps explore an idea while simplifying real organisms and environments.",
+      "hint": "Separate model from reality."
     },
     "structuredExplanation": {
-      "summary": "Models are purposeful simplifications, not exact copies.",
-      "hint": "Simplified."
+      "summary": "A classroom model helps explore an idea while simplifying real organisms and environments.",
+      "hint": "Separate model from reality."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 14,
     "sequencePriority": 14,
     "quality_schema": "skillr-actual-v6",
@@ -860,53 +864,54 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Why should a pattern statement include values or categories?",
-    "audio_prompt": "Why should a pattern statement include values or categories?",
-    "audioPrompt": "Why should a pattern statement include values or categories?",
+    "skill": "patterns",
+    "question": "Which statement uses the material graph as evidence?",
+    "audio_prompt": "Which statement uses the material graph as evidence?",
+    "audioPrompt": "Which statement uses the material graph as evidence?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/material-counts.svg#model",
+      "alt_text": "Column graph: Plastic 8, Metal 6, Wood 4. Vertical axis is Number of objects, starting at zero in equal steps of 2."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/material-counts.svg#model\" alt=\"Column graph: Plastic 8, Metal 6, Wood 4. Vertical axis is Number of objects, starting at zero in equal steps of 2.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "Values make graphs less useful",
+        "text": "Plastic is the best material for every use",
         "is_correct": false
       },
       {
-        "text": "Categories are only decorations",
+        "text": "Wooden objects must be stronger because fewer were counted",
         "is_correct": false
       },
       {
-        "text": "Evidence makes the pattern clear and checkable",
+        "text": "There are 8 plastic objects and 4 wooden objects, so plastic is more common in this collection",
         "is_correct": true
       },
       {
-        "text": "Patterns should avoid data",
+        "text": "The graph proves all classrooms have the same materials",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Values make graphs less useful",
-      "Categories are only decorations",
-      "Evidence makes the pattern clear and checkable",
-      "Patterns should avoid data"
+      "Plastic is the best material for every use",
+      "Wooden objects must be stronger because fewer were counted",
+      "There are 8 plastic objects and 4 wooden objects, so plastic is more common in this collection",
+      "The graph proves all classrooms have the same materials"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Using data values supports the interpretation.",
-      "hint": "Back it with evidence."
+      "summary": "The counts support a comparison of this collection; they do not test strength or every classroom.",
+      "hint": "Use the categories and values actually shown."
     },
     "structuredExplanation": {
-      "summary": "Using data values supports the interpretation.",
-      "hint": "Back it with evidence."
+      "summary": "The counts support a comparison of this collection; they do not test strength or every classroom.",
+      "hint": "Use the categories and values actually shown."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 15,
     "sequencePriority": 15,
     "quality_schema": "skillr-actual-v6",
@@ -921,10 +926,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Why is a column graph better than a paragraph for comparing three surface distances?",
-    "audio_prompt": "Why is a column graph better than a paragraph for comparing three surface distances?",
-    "audioPrompt": "Why is a column graph better than a paragraph for comparing three surface distances?",
+    "skill": "tables",
+    "question": "A table must store each day’s exact rainfall measurement. Which plan is suitable?",
+    "audio_prompt": "A table must store each day’s exact rainfall measurement. Which plan is suitable?",
+    "audioPrompt": "A table must store each day’s exact rainfall measurement. Which plan is suitable?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -932,42 +937,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Surface data cannot be represented",
+        "text": "Date | Favourite weather, with no measurements",
         "is_correct": false
       },
       {
-        "text": "Bar heights make category differences quick to compare",
+        "text": "Date | Rainfall (mm), with one row per day",
         "is_correct": true
       },
       {
-        "text": "Paragraphs always contain more evidence",
+        "text": "Rainfall (°C) | Colour, with one row per student",
         "is_correct": false
       },
       {
-        "text": "Graphs cannot show values",
+        "text": "A single unlabelled sum replacing all daily readings",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Surface data cannot be represented",
-      "Bar heights make category differences quick to compare",
-      "Paragraphs always contain more evidence",
-      "Graphs cannot show values"
+      "Date | Favourite weather, with no measurements",
+      "Date | Rainfall (mm), with one row per day",
+      "Rainfall (°C) | Colour, with one row per student",
+      "A single unlabelled sum replacing all daily readings"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Column graphs make comparisons across categories visible.",
-      "hint": "Visual comparison."
+      "summary": "Dates keep measurements identifiable, and the heading states the rainfall unit.",
+      "hint": "Preserve each observation separately."
     },
     "structuredExplanation": {
-      "summary": "Column graphs make comparisons across categories visible.",
-      "hint": "Visual comparison."
+      "summary": "Dates keep measurements identifiable, and the heading states the rainfall unit.",
+      "hint": "Preserve each observation separately."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 16,
     "sequencePriority": 16,
     "quality_schema": "skillr-actual-v6",
@@ -982,10 +987,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Why should a model of a food chain include arrows?",
-    "audio_prompt": "Why should a model of a food chain include arrows?",
-    "audioPrompt": "Why should a model of a food chain include arrows?",
+    "skill": "food-chain-model",
+    "question": "In grass → grasshopper → frog, what do feeding arrows show?",
+    "audio_prompt": "In grass → grasshopper → frog, what do feeding arrows show?",
+    "audioPrompt": "In grass → grasshopper → frog, what do feeding arrows show?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -993,42 +998,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Arrows show the direction of food and energy transfer",
+        "text": "Food and energy passing from what is eaten to the eater",
         "is_correct": true
       },
       {
-        "text": "Arrows only make the drawing pretty",
+        "text": "The direction each animal must walk",
         "is_correct": false
       },
       {
-        "text": "Arrows show which animal runs fastest",
+        "text": "Which organism is physically largest",
         "is_correct": false
       },
       {
-        "text": "Food chains have no relationships",
+        "text": "The order in which students drew the pictures",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Arrows show the direction of food and energy transfer",
-      "Arrows only make the drawing pretty",
-      "Arrows show which animal runs fastest",
-      "Food chains have no relationships"
+      "Food and energy passing from what is eaten to the eater",
+      "The direction each animal must walk",
+      "Which organism is physically largest",
+      "The order in which students drew the pictures"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Arrows communicate the key relationship in the model.",
-      "hint": "Show direction."
+      "summary": "Feeding arrows show the transfer from food source to consumer.",
+      "hint": "Read the arrow from food to eater."
     },
     "structuredExplanation": {
-      "summary": "Arrows communicate the key relationship in the model.",
-      "hint": "Show direction."
+      "summary": "Feeding arrows show the transfer from food source to consumer.",
+      "hint": "Read the arrow from food to eater."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 17,
     "sequencePriority": 17,
     "quality_schema": "skillr-actual-v6",
@@ -1043,10 +1048,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Why should a graph title describe what is being compared?",
-    "audio_prompt": "Why should a graph title describe what is being compared?",
-    "audioPrompt": "Why should a graph title describe what is being compared?",
+    "skill": "graphs",
+    "question": "Which title best names the surface-graph comparison?",
+    "audio_prompt": "Which title best names the surface-graph comparison?",
+    "audioPrompt": "Which title best names the surface-graph comparison?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1054,42 +1059,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It replaces all axis labels",
+        "text": "Our science results",
         "is_correct": false
       },
       {
-        "text": "It makes results correct automatically",
+        "text": "Things we liked today",
         "is_correct": false
       },
       {
-        "text": "It hides the scale",
+        "text": "Temperatures of three surfaces",
         "is_correct": false
       },
       {
-        "text": "It tells the reader the purpose of the display",
+        "text": "Toy-car distance on three surfaces",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "It replaces all axis labels",
-      "It makes results correct automatically",
-      "It hides the scale",
-      "It tells the reader the purpose of the display"
+      "Our science results",
+      "Things we liked today",
+      "Temperatures of three surfaces",
+      "Toy-car distance on three surfaces"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A clear title helps readers know what the graph shows.",
-      "hint": "Purpose of graph."
+      "summary": "A useful title names what is measured and compared.",
+      "hint": "State the quantity and categories."
     },
     "structuredExplanation": {
-      "summary": "A clear title helps readers know what the graph shows.",
-      "hint": "Purpose of graph."
+      "summary": "A useful title names what is measured and compared.",
+      "hint": "State the quantity and categories."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 18,
     "sequencePriority": 18,
     "quality_schema": "skillr-actual-v6",
@@ -1104,53 +1109,54 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Why might a physical model of a creek leave out important detail?",
-    "audio_prompt": "Why might a physical model of a creek leave out important detail?",
-    "audioPrompt": "Why might a physical model of a creek leave out important detail?",
+    "skill": "maps",
+    "question": "What does the red square at B mean on the map?",
+    "audio_prompt": "What does the red square at B mean on the map?",
+    "audioPrompt": "What does the red square at B mean on the map?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/water-map.svg#model",
+      "alt_text": "Fictional school map with north up. Library at upper left and garden at lower right. A blue water-source circle A is east of library; blue water-source circle C is west of garden. Red observed-leak square B is north of garden. Key labels blue circle Water source and red square Observed leak."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/water-map.svg#model\" alt=\"Fictional school map with north up. Library at upper left and garden at lower right. A blue water-source circle A is east of library; blue water-source circle C is west of garden. Red observed-leak square B is north of garden. Key labels blue circle Water source and red square Observed leak.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "Creeks cannot be modelled",
+        "text": "Any water source, whether leaking or not",
         "is_correct": false
       },
       {
-        "text": "Leaving out detail makes it useless",
+        "text": "The tallest building",
         "is_correct": false
       },
       {
-        "text": "It may not show real scale, flow speed, weather or hidden groundwater",
+        "text": "An observed leak",
         "is_correct": true
       },
       {
-        "text": "Models must show every hidden detail",
+        "text": "A place with no recorded water information",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Creeks cannot be modelled",
-      "Leaving out detail makes it useless",
-      "It may not show real scale, flow speed, weather or hidden groundwater",
-      "Models must show every hidden detail"
+      "Any water source, whether leaking or not",
+      "The tallest building",
+      "An observed leak",
+      "A place with no recorded water information"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Models can be useful while still having limits.",
-      "hint": "Shows some things, omits others."
+      "summary": "The key defines the red square as an observed leak.",
+      "hint": "Read the symbol key."
     },
     "structuredExplanation": {
-      "summary": "Models can be useful while still having limits.",
-      "hint": "Shows some things, omits others."
+      "summary": "The key defines the red square as an observed leak.",
+      "hint": "Read the symbol key."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 19,
     "sequencePriority": 19,
     "quality_schema": "skillr-actual-v6",
@@ -1165,53 +1171,54 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Why should data be transferred carefully from a notebook to a graph?",
-    "audio_prompt": "Why should data be transferred carefully from a notebook to a graph?",
-    "audioPrompt": "Why should data be transferred carefully from a notebook to a graph?",
+    "skill": "maps",
+    "question": "Which labelled water source is directly west of the garden?",
+    "audio_prompt": "Which labelled water source is directly west of the garden?",
+    "audioPrompt": "Which labelled water source is directly west of the garden?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/water-map.svg#model",
+      "alt_text": "Fictional school map with north up. Library at upper left and garden at lower right. A blue water-source circle A is east of library; blue water-source circle C is west of garden. Red observed-leak square B is north of garden. Key labels blue circle Water source and red square Observed leak."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/water-map.svg#model\" alt=\"Fictional school map with north up. Library at upper left and garden at lower right. A blue water-source circle A is east of library; blue water-source circle C is west of garden. Red observed-leak square B is north of garden. Key labels blue circle Water source and red square Observed leak.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "The graph should use guessed values",
+        "text": "A",
         "is_correct": false
       },
       {
-        "text": "Copying mistakes can change the pattern shown",
+        "text": "C",
         "is_correct": true
       },
       {
-        "text": "Graphs correct mistakes automatically",
+        "text": "B",
         "is_correct": false
       },
       {
-        "text": "Notebook values are not evidence",
+        "text": "The library building",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The graph should use guessed values",
-      "Copying mistakes can change the pattern shown",
-      "Graphs correct mistakes automatically",
-      "Notebook values are not evidence"
+      "A",
+      "C",
+      "B",
+      "The library building"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Errors during transfer can create false patterns.",
-      "hint": "Avoid copying errors."
+      "summary": "With north up, west is to the left. The blue source C is left of the garden.",
+      "hint": "Use the direction arrow, locations and key."
     },
     "structuredExplanation": {
-      "summary": "Errors during transfer can create false patterns.",
-      "hint": "Avoid copying errors."
+      "summary": "With north up, west is to the left. The blue source C is left of the garden.",
+      "hint": "Use the direction arrow, locations and key."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 20,
     "sequencePriority": 20,
     "quality_schema": "skillr-actual-v6",
@@ -1226,10 +1233,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which statement is a misconception?",
-    "audio_prompt": "Which statement is a misconception?",
-    "audioPrompt": "Which statement is a misconception?",
+    "skill": "models",
+    "question": "Why include a “does not show” note with a model?",
+    "audio_prompt": "Why include a “does not show” note with a model?",
+    "audioPrompt": "Why include a “does not show” note with a model?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1237,42 +1244,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A model is a perfect copy of reality",
+        "text": "To explain its limits and prevent claims beyond what it represents",
         "is_correct": true
       },
       {
-        "text": "A model can show key relationships",
+        "text": "To prove the model has no useful purpose",
         "is_correct": false
       },
       {
-        "text": "A model can leave out scale or timing",
+        "text": "To replace all the model labels",
         "is_correct": false
       },
       {
-        "text": "A model should be evaluated for limits",
+        "text": "To make observations unnecessary",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A model is a perfect copy of reality",
-      "A model can show key relationships",
-      "A model can leave out scale or timing",
-      "A model should be evaluated for limits"
+      "To explain its limits and prevent claims beyond what it represents",
+      "To prove the model has no useful purpose",
+      "To replace all the model labels",
+      "To make observations unnecessary"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Models simplify reality and have limitations.",
-      "hint": "Not perfect copy."
+      "summary": "A limitation tells readers where the model should not be treated as complete reality.",
+      "hint": "A useful model still simplifies."
     },
     "structuredExplanation": {
-      "summary": "Models simplify reality and have limitations.",
-      "hint": "Not perfect copy."
+      "summary": "A limitation tells readers where the model should not be treated as complete reality.",
+      "hint": "A useful model still simplifies."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 21,
     "sequencePriority": 21,
     "quality_schema": "skillr-actual-v6",
@@ -1287,10 +1294,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which graph is most accurate for tile 145 cm, cardboard 92 cm and fabric 38 cm?",
-    "audio_prompt": "Which graph is most accurate for tile 145 cm, cardboard 92 cm and fabric 38 cm?",
-    "audioPrompt": "Which graph is most accurate for tile 145 cm, cardboard 92 cm and fabric 38 cm?",
+    "skill": "graphs",
+    "question": "A column graph should represent tile 60 cm, card 40 cm and fabric 20 cm. What must be true?",
+    "audio_prompt": "A column graph should represent tile 60 cm, card 40 cm and fabric 20 cm. What must be true?",
+    "audioPrompt": "A column graph should represent tile 60 cm, card 40 cm and fabric 20 cm. What must be true?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1298,42 +1305,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Three equal-height columns",
+        "text": "Only the tallest category needs a correct height",
         "is_correct": false
       },
       {
-        "text": "Fabric highest because it sounds rough",
+        "text": "The order tallest to shortest is enough even if values are wrong",
         "is_correct": false
       },
       {
-        "text": "No axis labels and guessed heights",
+        "text": "All columns should be the same height to look neat",
         "is_correct": false
       },
       {
-        "text": "Columns scaled so tile is highest, cardboard middle and fabric lowest",
+        "text": "Each column reaches its correct value on the same scale",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Three equal-height columns",
-      "Fabric highest because it sounds rough",
-      "No axis labels and guessed heights",
-      "Columns scaled so tile is highest, cardboard middle and fabric lowest"
+      "Only the tallest category needs a correct height",
+      "The order tallest to shortest is enough even if values are wrong",
+      "All columns should be the same height to look neat",
+      "Each column reaches its correct value on the same scale"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "The bar heights should match the source values.",
-      "hint": "Match table values."
+      "summary": "Correct rankings alone are insufficient: every height must match its recorded value.",
+      "hint": "Check exact heights as well as order."
     },
     "structuredExplanation": {
-      "summary": "The bar heights should match the source values.",
-      "hint": "Match table values."
+      "summary": "Correct rankings alone are insufficient: every height must match its recorded value.",
+      "hint": "Check exact heights as well as order."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 22,
     "sequencePriority": 22,
     "quality_schema": "skillr-actual-v6",
@@ -1348,10 +1355,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which table heading is clearest?",
-    "audio_prompt": "Which table heading is clearest?",
-    "audioPrompt": "Which table heading is clearest?",
+    "skill": "tables",
+    "question": "A table has Surface and Distance columns but no unit. What is the best repair when the procedure used centimetres?",
+    "audio_prompt": "A table has Surface and Distance columns but no unit. What is the best repair when the procedure used centimetres?",
+    "audioPrompt": "A table has Surface and Distance columns but no unit. What is the best repair when the procedure used centimetres?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1359,42 +1366,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The experiment",
+        "text": "Change every distance to a guessed whole number",
         "is_correct": false
       },
       {
-        "text": "Interesting results",
+        "text": "Write Surface (cm)",
         "is_correct": false
       },
       {
-        "text": "Surface type and mean distance (cm)",
+        "text": "Write Distance (cm)",
         "is_correct": true
       },
       {
-        "text": "Stuff and numbers",
+        "text": "Remove the recorded values",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The experiment",
-      "Interesting results",
-      "Surface type and mean distance (cm)",
-      "Stuff and numbers"
+      "Change every distance to a guessed whole number",
+      "Write Surface (cm)",
+      "Write Distance (cm)",
+      "Remove the recorded values"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Clear headings name categories, quantities and units.",
-      "hint": "Label quantity and unit."
+      "summary": "The known method identifies the correct unit to add.",
+      "hint": "Use the unit from the procedure."
     },
     "structuredExplanation": {
-      "summary": "Clear headings name categories, quantities and units.",
-      "hint": "Label quantity and unit."
+      "summary": "The known method identifies the correct unit to add.",
+      "hint": "Use the unit from the procedure."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 23,
     "sequencePriority": 23,
     "quality_schema": "skillr-actual-v6",
@@ -1409,53 +1416,54 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which graph problem could mislead readers?",
-    "audio_prompt": "Which graph problem could mislead readers?",
-    "audioPrompt": "Which graph problem could mislead readers?",
+    "skill": "food-chain-model",
+    "question": "Under the rule shown, how many consumers can be fully fed in round two?",
+    "audio_prompt": "Under the rule shown, how many consumers can be fully fed in round two?",
+    "audioPrompt": "Under the rule shown, how many consumers can be fully fed in round two?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/food-chain-model.svg#model",
+      "alt_text": "Two rounds of a classroom food-chain simulation. Each consumer needs three producer tokens. Round one has twelve producer tokens and four consumers: four can be fed. Round two has six producer tokens and four consumers: two can be fed. This is a simplified rule, not a prediction of exact real populations."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/food-chain-model.svg#model\" alt=\"Two rounds of a classroom food-chain simulation. Each consumer needs three producer tokens. Round one has twelve producer tokens and four consumers: four can be fed. Round two has six producer tokens and four consumers: two can be fed. This is a simplified rule, not a prediction of exact real populations.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "The axis uses centimetres",
+        "text": "1",
         "is_correct": false
       },
       {
-        "text": "The vertical scale jumps from 20 to 100 with no break shown",
+        "text": "2",
         "is_correct": true
       },
       {
-        "text": "The bars have labels",
+        "text": "3",
         "is_correct": false
       },
       {
-        "text": "The graph has a title",
+        "text": "4",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The axis uses centimetres",
-      "The vertical scale jumps from 20 to 100 with no break shown",
-      "The bars have labels",
-      "The graph has a title"
+      "1",
+      "2",
+      "3",
+      "4"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "A hidden scale jump can distort comparisons.",
-      "hint": "Scale issue."
+      "summary": "Six producer tokens provide three tokens each to two consumers. This follows the classroom rule.",
+      "hint": "Group the tokens according to the stated rule."
     },
     "structuredExplanation": {
-      "summary": "A hidden scale jump can distort comparisons.",
-      "hint": "Scale issue."
+      "summary": "Six producer tokens provide three tokens each to two consumers. This follows the classroom rule.",
+      "hint": "Group the tokens according to the stated rule."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 24,
     "sequencePriority": 24,
     "quality_schema": "skillr-actual-v6",
@@ -1470,10 +1478,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which representation is best for exact repeated temperature readings over time?",
-    "audio_prompt": "Which representation is best for exact repeated temperature readings over time?",
-    "audioPrompt": "Which representation is best for exact repeated temperature readings over time?",
+    "skill": "tables",
+    "question": "The notes say metal 6, plastic 8 and wood 4. Which row is copied correctly?",
+    "audio_prompt": "The notes say metal 6, plastic 8 and wood 4. Which row is copied correctly?",
+    "audioPrompt": "The notes say metal 6, plastic 8 and wood 4. Which row is copied correctly?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1481,42 +1489,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A table with time and temperature columns",
+        "text": "Wood | 4",
         "is_correct": true
       },
       {
-        "text": "A cartoon with no labels",
+        "text": "Wood | 8",
         "is_correct": false
       },
       {
-        "text": "A food web only",
+        "text": "Metal | 4",
         "is_correct": false
       },
       {
-        "text": "A title page",
+        "text": "Plastic | 6",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A table with time and temperature columns",
-      "A cartoon with no labels",
-      "A food web only",
-      "A title page"
+      "Wood | 4",
+      "Wood | 8",
+      "Metal | 4",
+      "Plastic | 6"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A table can organise repeated exact readings.",
-      "hint": "Exact records."
+      "summary": "The wood category stays attached to its recorded count of four.",
+      "hint": "Match both label and value."
     },
     "structuredExplanation": {
-      "summary": "A table can organise repeated exact readings.",
-      "hint": "Exact records."
+      "summary": "The wood category stays attached to its recorded count of four.",
+      "hint": "Match both label and value."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 25,
     "sequencePriority": 25,
     "quality_schema": "skillr-actual-v6",
@@ -1531,53 +1539,54 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which representation best shows a simple relationship in a force model?",
-    "audio_prompt": "Which representation best shows a simple relationship in a force model?",
-    "audioPrompt": "Which representation best shows a simple relationship in a force model?",
+    "skill": "forces",
+    "question": "In the force model, why does the push arrow begin on the box?",
+    "audio_prompt": "In the force model, why does the push arrow begin on the box?",
+    "audioPrompt": "In the force model, why does the push arrow begin on the box?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/force-arrows.svg#model",
+      "alt_text": "A box slides right on a horizontal surface. An arrow starting on the box points right labelled Push on box. Another arrow starts on the box and points left labelled Friction on box. Only horizontal forces are shown; arrow lengths are not measured."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/force-arrows.svg#model\" alt=\"A box slides right on a horizontal surface. An arrow starting on the box points right labelled Push on box. Another arrow starts on the box and points left labelled Friction on box. Only horizontal forces are shown; arrow lengths are not measured.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "A list of unrelated colours",
+        "text": "It shows the box is always the source of every force",
         "is_correct": false
       },
       {
-        "text": "A column graph with no axis labels",
+        "text": "It shows how long the floor is",
         "is_correct": false
       },
       {
-        "text": "A blank page",
+        "text": "It indicates the box has no other forces acting on it",
         "is_correct": false
       },
       {
-        "text": "A labelled arrow diagram showing push direction",
+        "text": "It identifies the object receiving the force",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "A list of unrelated colours",
-      "A column graph with no axis labels",
-      "A blank page",
-      "A labelled arrow diagram showing push direction"
+      "It shows the box is always the source of every force",
+      "It shows how long the floor is",
+      "It indicates the box has no other forces acting on it",
+      "It identifies the object receiving the force"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A labelled arrow diagram can show force direction clearly.",
-      "hint": "Show direction."
+      "summary": "A force arrow is attached to the object the force acts on and points in the force direction.",
+      "hint": "Name the object receiving the force."
     },
     "structuredExplanation": {
-      "summary": "A labelled arrow diagram can show force direction clearly.",
-      "hint": "Show direction."
+      "summary": "A force arrow is attached to the object the force acts on and points in the force direction.",
+      "hint": "Name the object receiving the force."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 26,
     "sequencePriority": 26,
     "quality_schema": "skillr-actual-v6",
@@ -1592,53 +1601,54 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which pattern statement is best supported?",
-    "audio_prompt": "Which pattern statement is best supported?",
-    "audioPrompt": "Which pattern statement is best supported?",
+    "skill": "patterns",
+    "question": "Which numerical comparison fits the surface graph?",
+    "audio_prompt": "Which numerical comparison fits the surface graph?",
+    "audioPrompt": "Which numerical comparison fits the surface graph?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/surface-distances.svg#model",
+      "alt_text": "Column graph: Tile 60, Card 40, Fabric 20. Vertical axis is Distance (cm), starting at zero in equal steps of 10."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/surface-distances.svg#model\" alt=\"Column graph: Tile 60, Card 40, Fabric 20. Vertical axis is Distance (cm), starting at zero in equal steps of 10.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "Tile looked fast",
+        "text": "Tile and fabric differ by 20 cm",
         "is_correct": false
       },
       {
-        "text": "The graph was colourful",
+        "text": "Fabric travel is 40 cm farther than tile",
         "is_correct": false
       },
       {
-        "text": "The car travelled 145 cm on tile but only 38 cm on fabric, so fabric showed shorter travel",
+        "text": "Tile travel is 40 cm farther than fabric travel",
         "is_correct": true
       },
       {
-        "text": "Fabric was bad",
+        "text": "All three distances total 60 cm",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Tile looked fast",
-      "The graph was colourful",
-      "The car travelled 145 cm on tile but only 38 cm on fabric, so fabric showed shorter travel",
-      "Fabric was bad"
+      "Tile and fabric differ by 20 cm",
+      "Fabric travel is 40 cm farther than tile",
+      "Tile travel is 40 cm farther than fabric travel",
+      "All three distances total 60 cm"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "The statement uses data values to support the pattern.",
-      "hint": "Values plus interpretation."
+      "summary": "The difference between sixty and twenty centimetres is forty centimetres.",
+      "hint": "Compare the two relevant column values."
     },
     "structuredExplanation": {
-      "summary": "The statement uses data values to support the pattern.",
-      "hint": "Values plus interpretation."
+      "summary": "The difference between sixty and twenty centimetres is forty centimetres.",
+      "hint": "Compare the two relevant column values."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 27,
     "sequencePriority": 27,
     "quality_schema": "skillr-actual-v6",
@@ -1653,53 +1663,54 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which model limitation is reasonable for a classroom water-cycle bag?",
-    "audio_prompt": "Which model limitation is reasonable for a classroom water-cycle bag?",
-    "audioPrompt": "Which model limitation is reasonable for a classroom water-cycle bag?",
+    "skill": "food-chain-model",
+    "question": "What changed between the two food-chain model rounds?",
+    "audio_prompt": "What changed between the two food-chain model rounds?",
+    "audioPrompt": "What changed between the two food-chain model rounds?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/food-chain-model.svg#model",
+      "alt_text": "Two rounds of a classroom food-chain simulation. Each consumer needs three producer tokens. Round one has twelve producer tokens and four consumers: four can be fed. Round two has six producer tokens and four consumers: two can be fed. This is a simplified rule, not a prediction of exact real populations."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/food-chain-model.svg#model\" alt=\"Two rounds of a classroom food-chain simulation. Each consumer needs three producer tokens. Round one has twelve producer tokens and four consumers: four can be fed. Round two has six producer tokens and four consumers: two can be fed. This is a simplified rule, not a prediction of exact real populations.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "It has no limitations",
+        "text": "Consumer counters increased from two to four",
         "is_correct": false
       },
       {
-        "text": "It cannot show the whole atmosphere, ocean or long-term groundwater storage",
+        "text": "Producer tokens decreased while consumer counters stayed at four",
         "is_correct": true
       },
       {
-        "text": "It proves every water particle follows one route",
+        "text": "Producer tokens increased from six to twelve",
         "is_correct": false
       },
       {
-        "text": "It contains real clouds at full size",
+        "text": "Both rounds used different feeding rules",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It has no limitations",
-      "It cannot show the whole atmosphere, ocean or long-term groundwater storage",
-      "It proves every water particle follows one route",
-      "It contains real clouds at full size"
+      "Consumer counters increased from two to four",
+      "Producer tokens decreased while consumer counters stayed at four",
+      "Producer tokens increased from six to twelve",
+      "Both rounds used different feeding rules"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Small models cannot show full scale and all pathways.",
-      "hint": "Scale and pathways."
+      "summary": "The model changes the producer supply while keeping consumers and the rule the same.",
+      "hint": "Compare the listed inputs."
     },
     "structuredExplanation": {
-      "summary": "Small models cannot show full scale and all pathways.",
-      "hint": "Scale and pathways."
+      "summary": "The model changes the producer supply while keeping consumers and the rule the same.",
+      "hint": "Compare the listed inputs."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 28,
     "sequencePriority": 28,
     "quality_schema": "skillr-actual-v6",
@@ -1714,10 +1725,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which is a poor graphing choice?",
-    "audio_prompt": "Which is a poor graphing choice?",
-    "audioPrompt": "Which is a poor graphing choice?",
+    "skill": "graphs",
+    "question": "What should be planned before drawing the columns?",
+    "audio_prompt": "What should be planned before drawing the columns?",
+    "audioPrompt": "What should be planned before drawing the columns?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1725,42 +1736,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Drawing bars before deciding the scale",
+        "text": "A suitable labelled scale and the category positions",
         "is_correct": true
       },
       {
-        "text": "Labelling categories",
+        "text": "The tallest-looking colour regardless of data",
         "is_correct": false
       },
       {
-        "text": "Using equal intervals",
+        "text": "A different scale for each column",
         "is_correct": false
       },
       {
-        "text": "Checking bars against the table",
+        "text": "A final conclusion without looking at values",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Drawing bars before deciding the scale",
-      "Labelling categories",
-      "Using equal intervals",
-      "Checking bars against the table"
+      "A suitable labelled scale and the category positions",
+      "The tallest-looking colour regardless of data",
+      "A different scale for each column",
+      "A final conclusion without looking at values"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "The scale should be planned before bars are drawn.",
-      "hint": "Scale first."
+      "summary": "Plan a common scale and category labels so every value can be plotted accurately.",
+      "hint": "Make the display ready for the data."
     },
     "structuredExplanation": {
-      "summary": "The scale should be planned before bars are drawn.",
-      "hint": "Scale first."
+      "summary": "Plan a common scale and category labels so every value can be plotted accurately.",
+      "hint": "Make the display ready for the data."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 29,
     "sequencePriority": 29,
     "quality_schema": "skillr-actual-v6",
@@ -1775,10 +1786,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which representation would best compare absorbency of four towel brands?",
-    "audio_prompt": "Which representation would best compare absorbency of four towel brands?",
-    "audioPrompt": "Which representation would best compare absorbency of four towel brands?",
+    "skill": "graphs",
+    "question": "A class counts objects made mainly of metal, wood or plastic. What belongs on the horizontal axis?",
+    "audio_prompt": "A class counts objects made mainly of metal, wood or plastic. What belongs on the horizontal axis?",
+    "audioPrompt": "A class counts objects made mainly of metal, wood or plastic. What belongs on the horizontal axis?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1786,42 +1797,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A force-arrow diagram only",
+        "text": "Distance in centimetres",
         "is_correct": false
       },
       {
-        "text": "A food-chain diagram",
+        "text": "The height of each student",
         "is_correct": false
       },
       {
-        "text": "A map without data",
+        "text": "The time in seconds",
         "is_correct": false
       },
       {
-        "text": "A column graph using mL absorbed for each brand",
+        "text": "The material categories",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "A force-arrow diagram only",
-      "A food-chain diagram",
-      "A map without data",
-      "A column graph using mL absorbed for each brand"
+      "Distance in centimetres",
+      "The height of each student",
+      "The time in seconds",
+      "The material categories"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A column graph compares measured values across categories.",
-      "hint": "Brands as categories."
+      "summary": "The horizontal axis identifies the categories being compared.",
+      "hint": "Which groups were counted?"
     },
     "structuredExplanation": {
-      "summary": "A column graph compares measured values across categories.",
-      "hint": "Brands as categories."
+      "summary": "The horizontal axis identifies the categories being compared.",
+      "hint": "Which groups were counted?"
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 30,
     "sequencePriority": 30,
     "quality_schema": "skillr-actual-v6",
@@ -1836,10 +1847,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A table shows ramp heights of 10 cm, 20 cm and 30 cm with car distances 60 cm, 95 cm and 130 cm. Which pattern is shown?",
-    "audio_prompt": "A table shows ramp heights of 10 cm, 20 cm and 30 cm with car distances 60 cm, 95 cm and 130 cm. Which pattern is shown?",
-    "audioPrompt": "A table shows ramp heights of 10 cm, 20 cm and 30 cm with car distances 60 cm, 95 cm and 130 cm. Which pattern is shown?",
+    "skill": "patterns",
+    "question": "A table shows ramp heights of 10, 20 and 30 cm with distances of 60, 90 and 120 cm. What pattern is recorded?",
+    "audio_prompt": "A table shows ramp heights of 10, 20 and 30 cm with distances of 60, 90 and 120 cm. What pattern is recorded?",
+    "audioPrompt": "A table shows ramp heights of 10, 20 and 30 cm with distances of 60, 90 and 120 cm. What pattern is recorded?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1847,11 +1858,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Lower ramps always went farther",
+        "text": "Higher ramps had shorter travel distances",
         "is_correct": false
       },
       {
-        "text": "The table has no pattern",
+        "text": "The distance stayed at 60 cm",
         "is_correct": false
       },
       {
@@ -1859,28 +1870,28 @@
         "is_correct": true
       },
       {
-        "text": "Distance stayed exactly the same",
+        "text": "The table proves every ramp always gives the same result",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Lower ramps always went farther",
-      "The table has no pattern",
+      "Higher ramps had shorter travel distances",
+      "The distance stayed at 60 cm",
       "Higher ramps had longer travel distances in this test",
-      "Distance stayed exactly the same"
+      "The table proves every ramp always gives the same result"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "The values increase as ramp height increases.",
-      "hint": "Compare the numbers."
+      "summary": "The listed distance increases as ramp height increases, within the recorded test.",
+      "hint": "Compare the pairs in order."
     },
     "structuredExplanation": {
-      "summary": "The values increase as ramp height increases.",
-      "hint": "Compare the numbers."
+      "summary": "The listed distance increases as ramp height increases, within the recorded test.",
+      "hint": "Compare the pairs in order."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 31,
@@ -1897,10 +1908,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A student draws equal bars for values 4, 8 and 12. What is wrong?",
-    "audio_prompt": "A student draws equal bars for values 4, 8 and 12. What is wrong?",
-    "audioPrompt": "A student draws equal bars for values 4, 8 and 12. What is wrong?",
+    "skill": "graphs",
+    "question": "A learner draws equal-height columns for counts 4, 6 and 8. What should change?",
+    "audio_prompt": "A learner draws equal-height columns for counts 4, 6 and 8. What should change?",
+    "audioPrompt": "A learner draws equal-height columns for counts 4, 6 and 8. What should change?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1908,40 +1919,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Graphs cannot show 12",
+        "text": "Change all three counts to 6",
         "is_correct": false
       },
       {
-        "text": "The bar heights do not match the values",
+        "text": "Plot different heights matching each count on the common scale",
         "is_correct": true
       },
       {
-        "text": "Equal bars are always correct",
+        "text": "Remove the scale labels",
         "is_correct": false
       },
       {
-        "text": "The table must be deleted",
+        "text": "Keep equal heights because there are three categories",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Graphs cannot show 12",
-      "The bar heights do not match the values",
-      "Equal bars are always correct",
-      "The table must be deleted"
+      "Change all three counts to 6",
+      "Plot different heights matching each count on the common scale",
+      "Remove the scale labels",
+      "Keep equal heights because there are three categories"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Different values should usually have different bar heights on the same scale.",
-      "hint": "Height should match value."
+      "summary": "The column heights must represent the different values.",
+      "hint": "Same scale does not mean same height."
     },
     "structuredExplanation": {
-      "summary": "Different values should usually have different bar heights on the same scale.",
-      "hint": "Height should match value."
+      "summary": "The column heights must represent the different values.",
+      "hint": "Same scale does not mean same height."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 32,
@@ -1958,10 +1969,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A class wants to show exact rainfall collected each day. Which representation should they start with?",
-    "audio_prompt": "A class wants to show exact rainfall collected each day. Which representation should they start with?",
-    "audioPrompt": "A class wants to show exact rainfall collected each day. Which representation should they start with?",
+    "skill": "maps",
+    "question": "The class finds another leaking tap. What should be added to its school map?",
+    "audio_prompt": "The class finds another leaking tap. What should be added to its school map?",
+    "audioPrompt": "The class finds another leaking tap. What should be added to its school map?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1969,40 +1980,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A table with day and rainfall amount",
+        "text": "The leak symbol at the observed location, with a date in the record",
         "is_correct": true
       },
       {
-        "text": "A decorative cloud picture only",
+        "text": "A taller column somewhere on the map",
         "is_correct": false
       },
       {
-        "text": "A model of a frog",
+        "text": "A leak symbol at every water source without checking",
         "is_correct": false
       },
       {
-        "text": "An unlabeled arrow",
+        "text": "A new direction arrow pointing toward the leak",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A table with day and rainfall amount",
-      "A decorative cloud picture only",
-      "A model of a frog",
-      "An unlabeled arrow"
+      "The leak symbol at the observed location, with a date in the record",
+      "A taller column somewhere on the map",
+      "A leak symbol at every water source without checking",
+      "A new direction arrow pointing toward the leak"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A table can store exact day-by-day rainfall values.",
-      "hint": "Exact values first."
+      "summary": "Maps connect observations with their locations; date the record because conditions may change.",
+      "hint": "Record where the evidence was found."
     },
     "structuredExplanation": {
-      "summary": "A table can store exact day-by-day rainfall values.",
-      "hint": "Exact values first."
+      "summary": "Maps connect observations with their locations; date the record because conditions may change.",
+      "hint": "Record where the evidence was found."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 33,
@@ -2019,10 +2030,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A food-chain model shows grass → grasshopper → frog but no decomposers. What should students say?",
-    "audio_prompt": "A food-chain model shows grass → grasshopper → frog but no decomposers. What should students say?",
-    "audioPrompt": "A food-chain model shows grass → grasshopper → frog but no decomposers. What should students say?",
+    "skill": "food-chain-model",
+    "question": "What can the token simulation reasonably suggest?",
+    "audio_prompt": "What can the token simulation reasonably suggest?",
+    "audioPrompt": "What can the token simulation reasonably suggest?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2030,40 +2041,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The model shows every organism in the habitat",
+        "text": "Exactly two animals must survive in every real habitat",
         "is_correct": false
       },
       {
-        "text": "The model is a perfect copy",
+        "text": "Real animals need exactly three paper tokens",
         "is_correct": false
       },
       {
-        "text": "Food chains cannot be simplified",
+        "text": "All habitat relationships have been represented",
         "is_correct": false
       },
       {
-        "text": "The model shows one feeding path but leaves out some habitat interactions",
+        "text": "Less producer food can support fewer consumers under this rule",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "The model shows every organism in the habitat",
-      "The model is a perfect copy",
-      "Food chains cannot be simplified",
-      "The model shows one feeding path but leaves out some habitat interactions"
+      "Exactly two animals must survive in every real habitat",
+      "Real animals need exactly three paper tokens",
+      "All habitat relationships have been represented",
+      "Less producer food can support fewer consumers under this rule"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A model can be useful while omitting some interactions.",
-      "hint": "Show and limits."
+      "summary": "The model explores a simple feeding relationship, not exact real population outcomes.",
+      "hint": "Qualify the conclusion with the model rules."
     },
     "structuredExplanation": {
-      "summary": "A model can be useful while omitting some interactions.",
-      "hint": "Show and limits."
+      "summary": "The model explores a simple feeding relationship, not exact real population outcomes.",
+      "hint": "Qualify the conclusion with the model rules."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 34,
@@ -2080,10 +2091,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A graph title says “Results”. How could it be improved?",
-    "audio_prompt": "A graph title says “Results”. How could it be improved?",
-    "audioPrompt": "A graph title says “Results”. How could it be improved?",
+    "skill": "graphs",
+    "question": "If two categories have equal counts on the same graph, how should their columns compare?",
+    "audio_prompt": "If two categories have equal counts on the same graph, how should their columns compare?",
+    "audioPrompt": "If two categories have equal counts on the same graph, how should their columns compare?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2091,40 +2102,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Use only a joke title",
+        "text": "The first must be taller",
         "is_correct": false
       },
       {
-        "text": "Hide the categories",
+        "text": "The darker column must be shorter",
         "is_correct": false
       },
       {
-        "text": "Write what was measured and compared, such as Distance travelled on different surfaces",
+        "text": "They should have equal heights",
         "is_correct": true
       },
       {
-        "text": "Remove the title completely",
+        "text": "They must use different vertical scales",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Use only a joke title",
-      "Hide the categories",
-      "Write what was measured and compared, such as Distance travelled on different surfaces",
-      "Remove the title completely"
+      "The first must be taller",
+      "The darker column must be shorter",
+      "They should have equal heights",
+      "They must use different vertical scales"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "A specific title helps readers understand the graph purpose.",
-      "hint": "Name comparison."
+      "summary": "Equal values have equal heights on a shared scale.",
+      "hint": "Compare value and height consistently."
     },
     "structuredExplanation": {
-      "summary": "A specific title helps readers understand the graph purpose.",
-      "hint": "Name comparison."
+      "summary": "Equal values have equal heights on a shared scale.",
+      "hint": "Compare value and height consistently."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 35,
@@ -2141,51 +2152,52 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A student uses a column graph for water-cycle processes. What might be a better choice?",
-    "audio_prompt": "A student uses a column graph for water-cycle processes. What might be a better choice?",
-    "audioPrompt": "A student uses a column graph for water-cycle processes. What might be a better choice?",
+    "skill": "forces",
+    "question": "A box slides right on a surface. In this model, which way does friction on the box point?",
+    "audio_prompt": "A box slides right on a surface. In this model, which way does friction on the box point?",
+    "audioPrompt": "A box slides right on a surface. In this model, which way does friction on the box point?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/force-arrows.svg#model",
+      "alt_text": "A box slides right on a horizontal surface. An arrow starting on the box points right labelled Push on box. Another arrow starts on the box and points left labelled Friction on box. Only horizontal forces are shown; arrow lengths are not measured."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/force-arrows.svg#model\" alt=\"A box slides right on a horizontal surface. An arrow starting on the box points right labelled Push on box. Another arrow starts on the box and points left labelled Friction on box. Only horizontal forces are shown; arrow lengths are not measured.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "A tally of favourite colours",
+        "text": "Right, because all forces point with motion",
         "is_correct": false
       },
       {
-        "text": "A labelled cycle diagram showing evaporation, condensation and precipitation",
+        "text": "Left, opposing the sliding",
         "is_correct": true
       },
       {
-        "text": "A graph with random bars",
+        "text": "Up, because the box is on a floor",
         "is_correct": false
       },
       {
-        "text": "A blank table",
+        "text": "No direction because friction cannot be drawn",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A tally of favourite colours",
-      "A labelled cycle diagram showing evaporation, condensation and precipitation",
-      "A graph with random bars",
-      "A blank table"
+      "Right, because all forces point with motion",
+      "Left, opposing the sliding",
+      "Up, because the box is on a floor",
+      "No direction because friction cannot be drawn"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "A process sequence is often clearer as a labelled diagram or model.",
-      "hint": "Show connected process."
+      "summary": "Friction from the surface opposes the box sliding right, so the arrow points left.",
+      "hint": "Identify the motion being opposed."
     },
     "structuredExplanation": {
-      "summary": "A process sequence is often clearer as a labelled diagram or model.",
-      "hint": "Show connected process."
+      "summary": "Friction from the surface opposes the box sliding right, so the arrow points left.",
+      "hint": "Identify the motion being opposed."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 36,
@@ -2202,10 +2214,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A table says fabric 38 cm but the graph bar reaches 83 cm. What should happen?",
-    "audio_prompt": "A table says fabric 38 cm but the graph bar reaches 83 cm. What should happen?",
-    "audioPrompt": "A table says fabric 38 cm but the graph bar reaches 83 cm. What should happen?",
+    "skill": "graphs",
+    "question": "A graph uses a scale of 2 objects per equal step. How many steps tall is a column for 6 objects?",
+    "audio_prompt": "A graph uses a scale of 2 objects per equal step. How many steps tall is a column for 6 objects?",
+    "audioPrompt": "A graph uses a scale of 2 objects per equal step. How many steps tall is a column for 6 objects?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2213,40 +2225,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Correct the graph to match the table",
+        "text": "3 steps",
         "is_correct": true
       },
       {
-        "text": "Change the table without checking",
+        "text": "2 steps",
         "is_correct": false
       },
       {
-        "text": "Keep both because graphs are decorative",
+        "text": "6 steps",
         "is_correct": false
       },
       {
-        "text": "Delete the fabric category",
+        "text": "12 steps",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Correct the graph to match the table",
-      "Change the table without checking",
-      "Keep both because graphs are decorative",
-      "Delete the fabric category"
+      "3 steps",
+      "2 steps",
+      "6 steps",
+      "12 steps"
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "The plotted value should match the source data unless an error is found and corrected.",
-      "hint": "Audit value."
+      "summary": "Three steps of two objects represent six objects.",
+      "hint": "Divide the value by the scale step."
     },
     "structuredExplanation": {
-      "summary": "The plotted value should match the source data unless an error is found and corrected.",
-      "hint": "Audit value."
+      "summary": "Three steps of two objects represent six objects.",
+      "hint": "Divide the value by the scale step."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 37,
@@ -2263,10 +2275,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A model bridge uses straws to represent steel beams. What limitation should be noted?",
-    "audio_prompt": "A model bridge uses straws to represent steel beams. What limitation should be noted?",
-    "audioPrompt": "A model bridge uses straws to represent steel beams. What limitation should be noted?",
+    "skill": "models",
+    "question": "A model bridge uses straws to represent steel beams. Which limitation matters?",
+    "audio_prompt": "A model bridge uses straws to represent steel beams. Which limitation matters?",
+    "audioPrompt": "A model bridge uses straws to represent steel beams. Which limitation matters?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2274,40 +2286,40 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The model is full-size steel",
+        "text": "The model cannot show any arrangement of parts",
         "is_correct": false
       },
       {
-        "text": "Models have no connection to real bridges",
+        "text": "Real bridges are always made of straws",
         "is_correct": false
       },
       {
-        "text": "Straws make data impossible",
+        "text": "A model label changes straw into steel",
         "is_correct": false
       },
       {
-        "text": "Straws do not have the same strength or material properties as steel",
+        "text": "Straws do not have the same material properties as steel",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "The model is full-size steel",
-      "Models have no connection to real bridges",
-      "Straws make data impossible",
-      "Straws do not have the same strength or material properties as steel"
+      "The model cannot show any arrangement of parts",
+      "Real bridges are always made of straws",
+      "A model label changes straw into steel",
+      "Straws do not have the same material properties as steel"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Model materials may not behave exactly like real materials.",
-      "hint": "Material limitation."
+      "summary": "A model may show structure while its materials behave differently from the real structure.",
+      "hint": "Separate the shown structure from material behaviour."
     },
     "structuredExplanation": {
-      "summary": "Model materials may not behave exactly like real materials.",
-      "hint": "Material limitation."
+      "summary": "A model may show structure while its materials behave differently from the real structure.",
+      "hint": "Separate the shown structure from material behaviour."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 38,
@@ -2324,51 +2336,52 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A class compares evaporation from shallow and deep dishes. Which display best shows the measured water loss for each dish?",
-    "audio_prompt": "A class compares evaporation from shallow and deep dishes. Which display best shows the measured water loss for each dish?",
-    "audioPrompt": "A class compares evaporation from shallow and deep dishes. Which display best shows the measured water loss for each dish?",
+    "skill": "maps",
+    "question": "Can this school map give an exact walking distance in metres?",
+    "audio_prompt": "Can this school map give an exact walking distance in metres?",
+    "audioPrompt": "Can this school map give an exact walking distance in metres?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/water-map.svg#model",
+      "alt_text": "Fictional school map with north up. Library at upper left and garden at lower right. A blue water-source circle A is east of library; blue water-source circle C is west of garden. Red observed-leak square B is north of garden. Key labels blue circle Water source and red square Observed leak."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/water-map.svg#model\" alt=\"Fictional school map with north up. Library at upper left and garden at lower right. A blue water-source circle A is east of library; blue water-source circle C is west of garden. Red observed-leak square B is north of garden. Key labels blue circle Water source and red square Observed leak.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "A map of the school",
+        "text": "Yes; each symbol is exactly one metre wide",
         "is_correct": false
       },
       {
-        "text": "A paragraph with no values",
+        "text": "Yes; the page width is the school width",
         "is_correct": false
       },
       {
-        "text": "A labelled column graph with water loss in mL",
+        "text": "No; it has no distance scale",
         "is_correct": true
       },
       {
-        "text": "A food chain",
+        "text": "Yes; the north arrow sets all distances",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A map of the school",
-      "A paragraph with no values",
-      "A labelled column graph with water loss in mL",
-      "A food chain"
+      "Yes; each symbol is exactly one metre wide",
+      "Yes; the page width is the school width",
+      "No; it has no distance scale",
+      "Yes; the north arrow sets all distances"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "A column graph can compare water loss between dish types.",
-      "hint": "Compare categories."
+      "summary": "The map shows relative locations but does not specify a distance scale.",
+      "hint": "Look for information needed to measure distance."
     },
     "structuredExplanation": {
-      "summary": "A column graph can compare water loss between dish types.",
-      "hint": "Compare categories."
+      "summary": "The map shows relative locations but does not specify a distance scale.",
+      "hint": "Look for information needed to measure distance."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 39,
@@ -2385,51 +2398,52 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "practice",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A graph shows rough surface 40 cm and smooth surface 120 cm. Which interpretation is best?",
-    "audio_prompt": "A graph shows rough surface 40 cm and smooth surface 120 cm. Which interpretation is best?",
-    "audioPrompt": "A graph shows rough surface 40 cm and smooth surface 120 cm. Which interpretation is best?",
+    "skill": "forces",
+    "question": "The model shows only horizontal forces. Which statement respects this limit?",
+    "audio_prompt": "The model shows only horizontal forces. Which statement respects this limit?",
+    "audioPrompt": "The model shows only horizontal forces. Which statement respects this limit?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/force-arrows.svg#model",
+      "alt_text": "A box slides right on a horizontal surface. An arrow starting on the box points right labelled Push on box. Another arrow starts on the box and points left labelled Friction on box. Only horizontal forces are shown; arrow lengths are not measured."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/force-arrows.svg#model\" alt=\"A box slides right on a horizontal surface. An arrow starting on the box points right labelled Push on box. Another arrow starts on the box and points left labelled Friction on box. Only horizontal forces are shown; arrow lengths are not measured.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "No comparison can be made",
+        "text": "It proves gravity has stopped acting",
         "is_correct": false
       },
       {
-        "text": "The smooth surface allowed a longer travel distance in this test",
+        "text": "It does not show every force on the box",
         "is_correct": true
       },
       {
-        "text": "The rough surface is always impossible to move on",
+        "text": "It proves the floor cannot support the box",
         "is_correct": false
       },
       {
-        "text": "The graph proves all smooth surfaces everywhere",
+        "text": "Its arrows show exact measured force sizes",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "No comparison can be made",
-      "The smooth surface allowed a longer travel distance in this test",
-      "The rough surface is always impossible to move on",
-      "The graph proves all smooth surfaces everywhere"
+      "It proves gravity has stopped acting",
+      "It does not show every force on the box",
+      "It proves the floor cannot support the box",
+      "Its arrows show exact measured force sizes"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "The interpretation uses the displayed values cautiously.",
-      "hint": "Stay within the test."
+      "summary": "Selecting horizontal forces leaves other forces out of this particular drawing. Arrow lengths here are not measurements.",
+      "hint": "Read the model’s stated limits."
     },
     "structuredExplanation": {
-      "summary": "The interpretation uses the displayed values cautiously.",
-      "hint": "Stay within the test."
+      "summary": "Selecting horizontal forces leaves other forces out of this particular drawing. Arrow lengths here are not measurements.",
+      "hint": "Read the model’s stated limits."
     },
     "stage": "apply",
-    "difficulty": 3,
+    "difficulty": 2,
     "difficulty_tier": "apply",
     "difficultyTier": "apply",
     "sequence_priority": 40,
@@ -2440,16 +2454,16 @@
     "type": "single"
   },
   {
-    "id": "AC9S4I04-T-001",
+    "id": "AC9S4I04-P-041",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
-    "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which representation best keeps exact mass readings for five rock samples?",
-    "audio_prompt": "Which representation best keeps exact mass readings for five rock samples?",
-    "audioPrompt": "Which representation best keeps exact mass readings for five rock samples?",
+    "bank": "practice",
+    "skill": "tables",
+    "question": "A collection contains one plastic-and-metal object. Before counting by material, what helps?",
+    "audio_prompt": "A collection contains one plastic-and-metal object. Before counting by material, what helps?",
+    "audioPrompt": "A collection contains one plastic-and-metal object. Before counting by material, what helps?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2457,41 +2471,462 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A food chain",
-        "is_correct": false
-      },
-      {
-        "text": "A single arrow",
-        "is_correct": false
-      },
-      {
-        "text": "A labelled table",
+        "text": "Agree a clear rule, such as classifying by main material, and use it consistently",
         "is_correct": true
       },
       {
-        "text": "A poster border",
+        "text": "Count it in every group without saying so",
+        "is_correct": false
+      },
+      {
+        "text": "Put it in whichever group makes the graph look even",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore all mixed objects without a note",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A food chain",
-      "A single arrow",
-      "A labelled table",
-      "A poster border"
+      "Agree a clear rule, such as classifying by main material, and use it consistently",
+      "Count it in every group without saying so",
+      "Put it in whichever group makes the graph look even",
+      "Ignore all mixed objects without a note"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "A clear classification rule prevents unexplained double counting and makes the table interpretable.",
+      "hint": "Define what a category means."
+    },
+    "structuredExplanation": {
+      "summary": "A clear classification rule prevents unexplained double counting and makes the table interpretable.",
+      "hint": "Define what a category means."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 41,
+    "sequencePriority": 41,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I04-P-042",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "skill": "food-chain-model",
+    "question": "How could a class compare more consumers in the same simple model?",
+    "audio_prompt": "How could a class compare more consumers in the same simple model?",
+    "audioPrompt": "How could a class compare more consumers in the same simple model?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Change the rule, tokens and consumers without recording changes",
+        "is_correct": false
+      },
+      {
+        "text": "Use a new animal name but keep every number unchanged",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all labels from the results",
+        "is_correct": false
+      },
+      {
+        "text": "Keep 12 producer tokens and the three-token rule, then increase consumer counters",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Change the rule, tokens and consumers without recording changes",
+      "Use a new animal name but keep every number unchanged",
+      "Remove all labels from the results",
+      "Keep 12 producer tokens and the three-token rule, then increase consumer counters"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Change the consumer number deliberately and record the resulting number fed under the same rule.",
+      "hint": "Choose the factor to explore."
+    },
+    "structuredExplanation": {
+      "summary": "Change the consumer number deliberately and record the resulting number fed under the same rule.",
+      "hint": "Choose the factor to explore."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 42,
+    "sequencePriority": 42,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I04-P-043",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "skill": "forces",
+    "question": "A magnet is left of a paperclip and attracts it. How should a force arrow on the paperclip point?",
+    "audio_prompt": "A magnet is left of a paperclip and attracts it. How should a force arrow on the paperclip point?",
+    "audioPrompt": "A magnet is left of a paperclip and attracts it. How should a force arrow on the paperclip point?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Right, away from the magnet",
+        "is_correct": false
+      },
+      {
+        "text": "Up, regardless of the magnet position",
+        "is_correct": false
+      },
+      {
+        "text": "Left, towards the magnet",
+        "is_correct": true
+      },
+      {
+        "text": "In a circle with no direction label",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Right, away from the magnet",
+      "Up, regardless of the magnet position",
+      "Left, towards the magnet",
+      "In a circle with no direction label"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Tables organise exact recorded values.",
-      "hint": "Exact data."
+      "summary": "Attraction pulls the paperclip towards the magnet. Place the arrow on the paperclip receiving that force.",
+      "hint": "Locate the magnet relative to the receiving object."
     },
     "structuredExplanation": {
-      "summary": "Tables organise exact recorded values.",
-      "hint": "Exact data."
+      "summary": "Attraction pulls the paperclip towards the magnet. Place the arrow on the paperclip receiving that force.",
+      "hint": "Locate the magnet relative to the receiving object."
     },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 43,
+    "sequencePriority": 43,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I04-P-044",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "skill": "maps",
+    "question": "A source has a blue circle but no red square in a dated survey. What does that show?",
+    "audio_prompt": "A source has a blue circle but no red square in a dated survey. What does that show?",
+    "audioPrompt": "A source has a blue circle but no red square in a dated survey. What does that show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The source can never leak in the future",
+        "is_correct": false
+      },
+      {
+        "text": "A water source was recorded there; that survey did not mark it as a leak",
+        "is_correct": true
+      },
+      {
+        "text": "It contains no water",
+        "is_correct": false
+      },
+      {
+        "text": "It must be the largest source in the area",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "The source can never leak in the future",
+      "A water source was recorded there; that survey did not mark it as a leak",
+      "It contains no water",
+      "It must be the largest source in the area"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The map records observations with a key; absence of a leak mark is not a promise about every future time.",
+      "hint": "Stay within the dated map evidence."
+    },
+    "structuredExplanation": {
+      "summary": "The map records observations with a key; absence of a leak mark is not a promise about every future time.",
+      "hint": "Stay within the dated map evidence."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 44,
+    "sequencePriority": 44,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4I04-P-045",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "skill": "actual-table-graph",
+    "question": "Construct a table and a simple column graph for a toy-car test: mat 30 cm, card 50 cm, tile 70 cm. Include a title, category labels and an equal-step distance scale starting at zero. Write one comparison using values.",
+    "audio_prompt": "Construct a table and a simple column graph for a toy-car test: mat 30 cm, card 50 cm, tile 70 cm. Include a title, category labels and an equal-step distance scale starting at zero. Write one comparison using values.",
+    "audioPrompt": "Construct a table and a simple column graph for a toy-car test: mat 30 cm, card 50 cm, tile 70 cm. Include a title, category labels and an equal-step distance scale starting at zero. Write one comparison using values.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [],
+    "answer_texts": [],
+    "correct_index": null,
+    "correct": null,
+    "explanation": {
+      "summary": "The table and graph preserve mat 30 cm, card 50 cm and tile 70 cm. A suitable scale is zero to seventy in tens. Tile travel is forty centimetres farther than mat in this test.",
+      "hint": "Keep your actual work for an adult to check."
+    },
+    "structuredExplanation": {
+      "summary": "The table and graph preserve mat 30 cm, card 50 cm and tile 70 cm. A suitable scale is zero to seventy in tens. Tile travel is forty centimetres farther than mat in this test.",
+      "hint": "Keep your actual work for an adult to check."
+    },
+    "stage": "apply",
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 45,
+    "sequencePriority": 45,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "self-check",
+    "grading_mode": "adult-review",
+    "model_answer": "The table and graph preserve mat 30 cm, card 50 cm and tile 70 cm. A suitable scale is zero to seventy in tens. Tile travel is forty centimetres farther than mat in this test.",
+    "acceptance_note": "Inspect the actual constructed table and graph, all three heights and labels, and an evidence-based comparison. A written choice of graph type is insufficient.",
+    "response_instructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9S4I04-P-046",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "skill": "actual-map",
+    "question": "Draw a fictional school plan with a library, garden and classroom. Add two water sources and one observed leak, a clear symbol key and a north arrow. Write a location statement that matches your map.",
+    "audio_prompt": "Draw a fictional school plan with a library, garden and classroom. Add two water sources and one observed leak, a clear symbol key and a north arrow. Write a location statement that matches your map.",
+    "audioPrompt": "Draw a fictional school plan with a library, garden and classroom. Add two water sources and one observed leak, a clear symbol key and a north arrow. Write a location statement that matches your map.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [],
+    "answer_texts": [],
+    "correct_index": null,
+    "correct": null,
+    "explanation": {
+      "summary": "Accept varied layouts with recognisable locations, distinct keyed symbols and an accurate relative-location statement. Mark the plan as fictional.",
+      "hint": "Keep your actual work for an adult to check."
+    },
+    "structuredExplanation": {
+      "summary": "Accept varied layouts with recognisable locations, distinct keyed symbols and an accurate relative-location statement. Mark the plan as fictional.",
+      "hint": "Keep your actual work for an adult to check."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 46,
+    "sequencePriority": 46,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "self-check",
+    "grading_mode": "adult-review",
+    "model_answer": "Accept varied layouts with recognisable locations, distinct keyed symbols and an accurate relative-location statement. Mark the plan as fictional.",
+    "acceptance_note": "Inspect the constructed map and key, placement of both sources and leak, and a statement supported by the drawing. Do not require a real leak or water handling.",
+    "response_instructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9S4I04-P-047",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "skill": "actual-food-chain-model",
+    "question": "Use paper tokens for a food-chain model. Start with 10 producer tokens and 4 consumer counters; each consumer needs 2 tokens. Feed as many consumers as possible, giving each its full two tokens. Then repeat with 6 producer tokens and the same consumers and rule. Make a results table and explain one model limit.",
+    "audio_prompt": "Use paper tokens for a food-chain model. Start with 10 producer tokens and 4 consumer counters; each consumer needs 2 tokens. Feed as many consumers as possible, giving each its full two tokens. Then repeat with 6 producer tokens and the same consumers and rule. Make a results table and explain one model limit.",
+    "audioPrompt": "Use paper tokens for a food-chain model. Start with 10 producer tokens and 4 consumer counters; each consumer needs 2 tokens. Feed as many consumers as possible, giving each its full two tokens. Then repeat with 6 producer tokens and the same consumers and rule. Make a results table and explain one model limit.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [],
+    "answer_texts": [],
+    "correct_index": null,
+    "correct": null,
+    "explanation": {
+      "summary": "Four consumers can be fully fed in the first round, with two tokens left; three can be fully fed in the second. Real organisms have more complex relationships than this rule.",
+      "hint": "Keep your actual work for an adult to check."
+    },
+    "structuredExplanation": {
+      "summary": "Four consumers can be fully fed in the first round, with two tokens left; three can be fully fed in the second. Real organisms have more complex relationships than this rule.",
+      "hint": "Keep your actual work for an adult to check."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 47,
+    "sequencePriority": 47,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "self-check",
+    "grading_mode": "adult-review",
+    "model_answer": "Four consumers can be fully fed in the first round, with two tokens left; three can be fully fed in the second. Real organisms have more complex relationships than this rule.",
+    "acceptance_note": "Inspect the actual counter drawing or setup, two-row table with correct numbers, and a specific limit. Keep the feeding rule unchanged between rounds.",
+    "response_instructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9S4I04-P-048",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "curriculumCode": "AC9S4I04",
+    "bank": "practice",
+    "skill": "actual-force-model",
+    "question": "Draw a box sliding right with a hand pushing right. Draw and label the push and friction forces on the box. Add a note about what this selected-force model leaves out.",
+    "audio_prompt": "Draw a box sliding right with a hand pushing right. Draw and label the push and friction forces on the box. Add a note about what this selected-force model leaves out.",
+    "audioPrompt": "Draw a box sliding right with a hand pushing right. Draw and label the push and friction forces on the box. Add a note about what this selected-force model leaves out.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [],
+    "answer_texts": [],
+    "correct_index": null,
+    "correct": null,
+    "explanation": {
+      "summary": "The push arrow begins on the box and points right; the friction arrow begins on the box and points left. The diagram may omit vertical gravity/support forces and exact force sizes.",
+      "hint": "Keep your actual work for an adult to check."
+    },
+    "structuredExplanation": {
+      "summary": "The push arrow begins on the box and points right; the friction arrow begins on the box and points left. The diagram may omit vertical gravity/support forces and exact force sizes.",
+      "hint": "Keep your actual work for an adult to check."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 48,
+    "sequencePriority": 48,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "self-check",
+    "grading_mode": "adult-review",
+    "model_answer": "The push arrow begins on the box and points right; the friction arrow begins on the box and points left. The diagram may omit vertical gravity/support forces and exact force sizes.",
+    "acceptance_note": "Inspect the actual drawing, force labels, receiving object and opposite horizontal directions. No numerical forces or vector calculations are required.",
+    "response_instructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9S4I04-T-001",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4I04",
+    "curriculumCode": "AC9S4I04",
+    "bank": "test",
+    "skill": "tables",
+    "question": "A class records sample A 30 g and sample B 50 g. Which table row and heading are correct?",
+    "audio_prompt": "A class records sample A 30 g and sample B 50 g. Which table row and heading are correct?",
+    "audioPrompt": "A class records sample A 30 g and sample B 50 g. Which table row and heading are correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Under Mass (g): sample B | 50",
+        "is_correct": true
+      },
+      {
+        "text": "Under Length (cm): sample B | 50",
+        "is_correct": false
+      },
+      {
+        "text": "Under Mass (g): sample A | 50",
+        "is_correct": false
+      },
+      {
+        "text": "Under Temperature (°C): sample A | 30",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Under Mass (g): sample B | 50",
+      "Under Length (cm): sample B | 50",
+      "Under Mass (g): sample A | 50",
+      "Under Temperature (°C): sample A | 30"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Keep the sample identity, value and measured unit together.",
+      "hint": "Check all parts of the record."
+    },
+    "structuredExplanation": {
+      "summary": "Keep the sample identity, value and measured unit together.",
+      "hint": "Check all parts of the record."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 1,
     "sequencePriority": 1,
     "quality_schema": "skillr-actual-v6",
@@ -2506,10 +2941,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A column graph has no units on the vertical axis. What is missing?",
-    "audio_prompt": "A column graph has no units on the vertical axis. What is missing?",
-    "audioPrompt": "A column graph has no units on the vertical axis. What is missing?",
+    "skill": "graphs",
+    "question": "A column graph shows how far toy cars travelled. Its vertical axis has numbers but no description. What should be added?",
+    "audio_prompt": "A column graph shows how far toy cars travelled. Its vertical axis has numbers but no description. What should be added?",
+    "audioPrompt": "A column graph shows how far toy cars travelled. Its vertical axis has numbers but no description. What should be added?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2517,41 +2952,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A different category name only",
+        "text": "Number of students, because students did the test",
         "is_correct": false
       },
       {
-        "text": "The measurement unit, such as cm or mL",
+        "text": "Surface type (s)",
+        "is_correct": false
+      },
+      {
+        "text": "A second title without a quantity or unit",
+        "is_correct": false
+      },
+      {
+        "text": "Distance (cm), if the measurements were in centimetres",
         "is_correct": true
-      },
-      {
-        "text": "A second title in glitter",
-        "is_correct": false
-      },
-      {
-        "text": "The student’s opinion",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A different category name only",
-      "The measurement unit, such as cm or mL",
-      "A second title in glitter",
-      "The student’s opinion"
+      "Number of students, because students did the test",
+      "Surface type (s)",
+      "A second title without a quantity or unit",
+      "Distance (cm), if the measurements were in centimetres"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Units tell the reader what quantity is represented.",
-      "hint": "Axis unit."
+      "summary": "Readers need to know the measured quantity and its actual unit.",
+      "hint": "Identify what the values measure."
     },
     "structuredExplanation": {
-      "summary": "Units tell the reader what quantity is represented.",
-      "hint": "Axis unit."
+      "summary": "Readers need to know the measured quantity and its actual unit.",
+      "hint": "Identify what the values measure."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 2,
     "sequencePriority": 2,
     "quality_schema": "skillr-actual-v6",
@@ -2566,10 +3002,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which statement about models is correct?",
-    "audio_prompt": "Which statement about models is correct?",
-    "audioPrompt": "Which statement about models is correct?",
+    "skill": "models",
+    "question": "A physical creek model shows downhill flow but no underground water. What is fair to say?",
+    "audio_prompt": "A physical creek model shows downhill flow but no underground water. What is fair to say?",
+    "audioPrompt": "A physical creek model shows downhill flow but no underground water. What is fair to say?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2577,41 +3013,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Models show selected parts or relationships and leave out some details",
+        "text": "It proves underground water does not exist",
+        "is_correct": false
+      },
+      {
+        "text": "It is a complete copy of every creek",
+        "is_correct": false
+      },
+      {
+        "text": "It represents one useful relationship and omits another pathway",
         "is_correct": true
       },
       {
-        "text": "Models are always perfect copies",
-        "is_correct": false
-      },
-      {
-        "text": "Models cannot be used in science",
-        "is_correct": false
-      },
-      {
-        "text": "Models must include every real object",
+        "text": "It cannot show downhill movement",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Models show selected parts or relationships and leave out some details",
-      "Models are always perfect copies",
-      "Models cannot be used in science",
-      "Models must include every real object"
+      "It proves underground water does not exist",
+      "It is a complete copy of every creek",
+      "It represents one useful relationship and omits another pathway",
+      "It cannot show downhill movement"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Models are useful simplifications with limitations.",
-      "hint": "Simplified representation."
+      "summary": "State both the modelled relationship and the missing feature.",
+      "hint": "A model has a purpose and limits."
     },
     "structuredExplanation": {
-      "summary": "Models are useful simplifications with limitations.",
-      "hint": "Simplified representation."
+      "summary": "State both the modelled relationship and the missing feature.",
+      "hint": "A model has a purpose and limits."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 3,
     "sequencePriority": 3,
     "quality_schema": "skillr-actual-v6",
@@ -2626,52 +3063,54 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A table records tile 150 cm, carpet 70 cm and grass 40 cm. Which graph pattern should appear?",
-    "audio_prompt": "A table records tile 150 cm, carpet 70 cm and grass 40 cm. Which graph pattern should appear?",
-    "audioPrompt": "A table records tile 150 cm, carpet 70 cm and grass 40 cm. Which graph pattern should appear?",
+    "skill": "graphs",
+    "question": "What is the difference between the plastic and metal counts in this graph?",
+    "audio_prompt": "What is the difference between the plastic and metal counts in this graph?",
+    "audioPrompt": "What is the difference between the plastic and metal counts in this graph?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4i04/material-counts.svg#model",
+      "alt_text": "Column graph: Plastic 8, Metal 6, Wood 4. Vertical axis is Number of objects, starting at zero in equal steps of 2."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4i04/material-counts.svg#model\" alt=\"Column graph: Plastic 8, Metal 6, Wood 4. Vertical axis is Number of objects, starting at zero in equal steps of 2.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "All bars the same height",
+        "text": "1 object",
         "is_correct": false
       },
       {
-        "text": "Grass highest because it is outside",
-        "is_correct": false
-      },
-      {
-        "text": "No bars because distance cannot be graphed",
-        "is_correct": false
-      },
-      {
-        "text": "Tile highest, carpet middle and grass lowest",
+        "text": "2 objects",
         "is_correct": true
+      },
+      {
+        "text": "4 objects",
+        "is_correct": false
+      },
+      {
+        "text": "6 objects",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "All bars the same height",
-      "Grass highest because it is outside",
-      "No bars because distance cannot be graphed",
-      "Tile highest, carpet middle and grass lowest"
+      "1 object",
+      "2 objects",
+      "4 objects",
+      "6 objects"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Column heights should match the recorded distances.",
-      "hint": "Match values."
+      "summary": "Plastic is eight and metal is six; the difference is two objects.",
+      "hint": "Read the values from the common scale."
     },
     "structuredExplanation": {
-      "summary": "Column heights should match the recorded distances.",
-      "hint": "Match values."
+      "summary": "Plastic is eight and metal is six; the difference is two objects.",
+      "hint": "Read the values from the common scale."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 4,
     "sequencePriority": 4,
     "quality_schema": "skillr-actual-v6",
@@ -2686,10 +3125,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which graph scale is best?",
-    "audio_prompt": "Which graph scale is best?",
-    "audioPrompt": "Which graph scale is best?",
+    "skill": "graphs",
+    "question": "A graph must show distances of 20, 50 and 80 cm. Which scale fits?",
+    "audio_prompt": "A graph must show distances of 20, 50 and 80 cm. Which scale fits?",
+    "audioPrompt": "A graph must show distances of 20, 50 and 80 cm. Which scale fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2697,41 +3136,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "No numbers on the axis",
-        "is_correct": false
-      },
-      {
-        "text": "A changing scale for each bar",
-        "is_correct": false
-      },
-      {
-        "text": "Equal steps such as 0, 20, 40, 60, 80",
+        "text": "0 to 80 cm in equal steps of 10 cm",
         "is_correct": true
       },
       {
-        "text": "0, 5, 50, 51, 200 with no reason",
+        "text": "0 to 8 cm in equal steps of 1 cm",
+        "is_correct": false
+      },
+      {
+        "text": "0, 10, 20, 70, 80 at equal gaps",
+        "is_correct": false
+      },
+      {
+        "text": "0 to 50 cm, leaving the largest bar off the page",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "No numbers on the axis",
-      "A changing scale for each bar",
-      "Equal steps such as 0, 20, 40, 60, 80",
-      "0, 5, 50, 51, 200 with no reason"
+      "0 to 80 cm in equal steps of 10 cm",
+      "0 to 8 cm in equal steps of 1 cm",
+      "0, 10, 20, 70, 80 at equal gaps",
+      "0 to 50 cm, leaving the largest bar off the page"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Equal intervals make the graph easier and fairer to read.",
-      "hint": "Consistent intervals."
+      "summary": "The common scale starts at zero, uses equal steps and includes eighty centimetres.",
+      "hint": "Check the whole range."
     },
     "structuredExplanation": {
-      "summary": "Equal intervals make the graph easier and fairer to read.",
-      "hint": "Consistent intervals."
+      "summary": "The common scale starts at zero, uses equal steps and includes eighty centimetres.",
+      "hint": "Check the whole range."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 5,
     "sequencePriority": 5,
     "quality_schema": "skillr-actual-v6",
@@ -2746,10 +3186,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which model would best show magnetic attraction direction?",
-    "audio_prompt": "Which model would best show magnetic attraction direction?",
-    "audioPrompt": "Which model would best show magnetic attraction direction?",
+    "skill": "forces",
+    "question": "A paperclip is to the left of an attracting magnet. How should an arrow showing magnetic force on the clip be drawn?",
+    "audio_prompt": "A paperclip is to the left of an attracting magnet. How should an arrow showing magnetic force on the clip be drawn?",
+    "audioPrompt": "A paperclip is to the left of an attracting magnet. How should an arrow showing magnetic force on the clip be drawn?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2757,41 +3197,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A paragraph saying magnet",
+        "text": "Start on the clip and point left away from the magnet",
         "is_correct": false
       },
       {
-        "text": "A labelled diagram with arrows between magnet and paperclip",
+        "text": "Start on the magnet and point away from the clip to show the clip force",
+        "is_correct": false
+      },
+      {
+        "text": "Draw only a north arrow above both objects",
+        "is_correct": false
+      },
+      {
+        "text": "Start on the clip and point right towards the magnet",
         "is_correct": true
-      },
-      {
-        "text": "A table of lunch orders",
-        "is_correct": false
-      },
-      {
-        "text": "A column graph without labels",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A paragraph saying magnet",
-      "A labelled diagram with arrows between magnet and paperclip",
-      "A table of lunch orders",
-      "A column graph without labels"
+      "Start on the clip and point left away from the magnet",
+      "Start on the magnet and point away from the clip to show the clip force",
+      "Draw only a north arrow above both objects",
+      "Start on the clip and point right towards the magnet"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Arrows can show direction of force in a model.",
-      "hint": "Direction model."
+      "summary": "The force acts on the clip and pulls it towards the magnet on its right.",
+      "hint": "Identify receiver and direction."
     },
     "structuredExplanation": {
-      "summary": "Arrows can show direction of force in a model.",
-      "hint": "Direction model."
+      "summary": "The force acts on the clip and pulls it towards the magnet on its right.",
+      "hint": "Identify receiver and direction."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 6,
     "sequencePriority": 6,
     "quality_schema": "skillr-actual-v6",
@@ -2806,10 +3247,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which pattern statement is strongest?",
-    "audio_prompt": "Which pattern statement is strongest?",
-    "audioPrompt": "Which pattern statement is strongest?",
+    "skill": "patterns",
+    "question": "A material test records A holding 6 blocks and B holding 4 before bending. Which comparison fits?",
+    "audio_prompt": "A material test records A holding 6 blocks and B holding 4 before bending. Which comparison fits?",
+    "audioPrompt": "A material test records A holding 6 blocks and B holding 4 before bending. Which comparison fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2817,41 +3258,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Brand A absorbed 35 mL and Brand B absorbed 20 mL, so A absorbed more in this test",
+        "text": "B held 2 more blocks than A",
+        "is_correct": false
+      },
+      {
+        "text": "A is guaranteed strongest for every possible use",
+        "is_correct": false
+      },
+      {
+        "text": "A held 2 more blocks than B in this test",
         "is_correct": true
       },
       {
-        "text": "Brand A is just better",
-        "is_correct": false
-      },
-      {
-        "text": "Brand B looked dry",
-        "is_correct": false
-      },
-      {
-        "text": "The table is neat",
+        "text": "Both held the same number because both bent",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Brand A absorbed 35 mL and Brand B absorbed 20 mL, so A absorbed more in this test",
-      "Brand A is just better",
-      "Brand B looked dry",
-      "The table is neat"
+      "B held 2 more blocks than A",
+      "A is guaranteed strongest for every possible use",
+      "A held 2 more blocks than B in this test",
+      "Both held the same number because both bent"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The statement uses values and stays within the investigation.",
-      "hint": "Evidence and pattern."
+      "summary": "The claim compares the recorded values without extending beyond the test.",
+      "hint": "Use evidence and qualify the context."
     },
     "structuredExplanation": {
-      "summary": "The statement uses values and stays within the investigation.",
-      "hint": "Evidence and pattern."
+      "summary": "The claim compares the recorded values without extending beyond the test.",
+      "hint": "Use evidence and qualify the context."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 7,
     "sequencePriority": 7,
     "quality_schema": "skillr-actual-v6",
@@ -2866,10 +3308,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Why should data in a graph be checked against the original table?",
-    "audio_prompt": "Why should data in a graph be checked against the original table?",
-    "audioPrompt": "Why should data in a graph be checked against the original table?",
+    "skill": "graphs",
+    "question": "The source table says sample C: 30 mL, but its column is drawn at 50 mL. What is needed?",
+    "audio_prompt": "The source table says sample C: 30 mL, but its column is drawn at 50 mL. What is needed?",
+    "audioPrompt": "The source table says sample C: 30 mL, but its column is drawn at 50 mL. What is needed?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2877,41 +3319,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Graphs cannot contain errors",
+        "text": "Keep it because the column has a label",
         "is_correct": false
       },
       {
-        "text": "Tables are never useful",
-        "is_correct": false
-      },
-      {
-        "text": "Checking removes the need for labels",
-        "is_correct": false
-      },
-      {
-        "text": "Copying or plotting errors can change the message",
+        "text": "Check the source and correct the mismatch",
         "is_correct": true
+      },
+      {
+        "text": "Change the source value merely to match the drawing",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all other columns",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Graphs cannot contain errors",
-      "Tables are never useful",
-      "Checking removes the need for labels",
-      "Copying or plotting errors can change the message"
+      "Keep it because the column has a label",
+      "Check the source and correct the mismatch",
+      "Change the source value merely to match the drawing",
+      "Remove all other columns"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "Graphs should accurately represent the source data.",
-      "hint": "Audit graph."
+      "summary": "A graph must accurately represent checked source data.",
+      "hint": "Audit the copied value."
     },
     "structuredExplanation": {
-      "summary": "Graphs should accurately represent the source data.",
-      "hint": "Audit graph."
+      "summary": "A graph must accurately represent checked source data.",
+      "hint": "Audit the copied value."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 8,
     "sequencePriority": 8,
     "quality_schema": "skillr-actual-v6",
@@ -2926,10 +3369,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A water-cycle model has arrows for evaporation and precipitation but no groundwater. What is fair to say?",
-    "audio_prompt": "A water-cycle model has arrows for evaporation and precipitation but no groundwater. What is fair to say?",
-    "audioPrompt": "A water-cycle model has arrows for evaporation and precipitation but no groundwater. What is fair to say?",
+    "skill": "food-chain-model",
+    "question": "A classroom rule gives each consumer two plant tokens. With 8 tokens and 6 consumers, how many can be fully fed?",
+    "audio_prompt": "A classroom rule gives each consumer two plant tokens. With 8 tokens and 6 consumers, how many can be fully fed?",
+    "audioPrompt": "A classroom rule gives each consumer two plant tokens. With 8 tokens and 6 consumers, how many can be fully fed?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2937,41 +3380,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It is a perfect copy of Earth",
-        "is_correct": false
-      },
-      {
-        "text": "It cannot show any process",
-        "is_correct": false
-      },
-      {
-        "text": "It shows some processes but omits one possible pathway",
+        "text": "4",
         "is_correct": true
       },
       {
-        "text": "It proves groundwater is not part of the cycle",
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It is a perfect copy of Earth",
-      "It cannot show any process",
-      "It shows some processes but omits one possible pathway",
-      "It proves groundwater is not part of the cycle"
+      "4",
+      "2",
+      "6",
+      "8"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A model can show selected processes while omitting others.",
-      "hint": "Model limitation."
+      "summary": "Eight tokens in groups of two can feed four consumer counters under this rule.",
+      "hint": "Use the stated simulation rule."
     },
     "structuredExplanation": {
-      "summary": "A model can show selected processes while omitting others.",
-      "hint": "Model limitation."
+      "summary": "Eight tokens in groups of two can feed four consumer counters under this rule.",
+      "hint": "Use the stated simulation rule."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 9,
     "sequencePriority": 9,
     "quality_schema": "skillr-actual-v6",
@@ -2986,10 +3430,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which display best compares four materials by strength test result?",
-    "audio_prompt": "Which display best compares four materials by strength test result?",
-    "audioPrompt": "Which display best compares four materials by strength test result?",
+    "skill": "graphs",
+    "question": "A class counts 3 metal, 5 wooden and 7 plastic objects. What is the best graph plan?",
+    "audio_prompt": "A class counts 3 metal, 5 wooden and 7 plastic objects. What is the best graph plan?",
+    "audioPrompt": "A class counts 3 metal, 5 wooden and 7 plastic objects. What is the best graph plan?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2997,41 +3441,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A list of colours",
+        "text": "Material categories across; Temperature (°C) up",
         "is_correct": false
       },
       {
-        "text": "A column graph of load held by each material",
+        "text": "Draw three equal columns because there are three materials",
+        "is_correct": false
+      },
+      {
+        "text": "Use a different size step for each material",
+        "is_correct": false
+      },
+      {
+        "text": "Material categories across; Number of objects up; columns at 3, 5 and 7",
         "is_correct": true
-      },
-      {
-        "text": "A cycle diagram of rainfall",
-        "is_correct": false
-      },
-      {
-        "text": "A force arrow only",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A list of colours",
-      "A column graph of load held by each material",
-      "A cycle diagram of rainfall",
-      "A force arrow only"
+      "Material categories across; Temperature (°C) up",
+      "Draw three equal columns because there are three materials",
+      "Use a different size step for each material",
+      "Material categories across; Number of objects up; columns at 3, 5 and 7"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A column graph compares values across material categories.",
-      "hint": "Materials as categories."
+      "summary": "Both labels and heights must match the count data.",
+      "hint": "Choose a common count scale."
     },
     "structuredExplanation": {
-      "summary": "A column graph compares values across material categories.",
-      "hint": "Materials as categories."
+      "summary": "Both labels and heights must match the count data.",
+      "hint": "Choose a common count scale."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 10,
     "sequencePriority": 10,
     "quality_schema": "skillr-actual-v6",
@@ -3046,10 +3491,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A graph bar for 25 mL is drawn taller than the 40 mL bar. What is the issue?",
-    "audio_prompt": "A graph bar for 25 mL is drawn taller than the 40 mL bar. What is the issue?",
-    "audioPrompt": "A graph bar for 25 mL is drawn taller than the 40 mL bar. What is the issue?",
+    "skill": "graphs",
+    "question": "What is wrong if a 25 mL column is taller than a 40 mL column on the same scale?",
+    "audio_prompt": "What is wrong if a 25 mL column is taller than a 40 mL column on the same scale?",
+    "audioPrompt": "What is wrong if a 25 mL column is taller than a 40 mL column on the same scale?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3057,41 +3502,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The bar heights do not match the values",
+        "text": "The graph has too many units",
+        "is_correct": false
+      },
+      {
+        "text": "The observations must be opinions",
+        "is_correct": false
+      },
+      {
+        "text": "The heights do not match the recorded values",
         "is_correct": true
       },
       {
-        "text": "The graph is more creative",
-        "is_correct": false
-      },
-      {
-        "text": "The data must be qualitative",
-        "is_correct": false
-      },
-      {
-        "text": "The table has too many units",
+        "text": "The graph needs different scales for the two columns",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The bar heights do not match the values",
-      "The graph is more creative",
-      "The data must be qualitative",
-      "The table has too many units"
+      "The graph has too many units",
+      "The observations must be opinions",
+      "The heights do not match the recorded values",
+      "The graph needs different scales for the two columns"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The larger value should be represented by a taller bar on the same scale.",
-      "hint": "Height vs value."
+      "summary": "On a shared scale, forty must be higher than twenty-five.",
+      "hint": "Check the value-to-height relationship."
     },
     "structuredExplanation": {
-      "summary": "The larger value should be represented by a taller bar on the same scale.",
-      "hint": "Height vs value."
+      "summary": "On a shared scale, forty must be higher than twenty-five.",
+      "hint": "Check the value-to-height relationship."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 11,
     "sequencePriority": 11,
     "quality_schema": "skillr-actual-v6",
@@ -3106,10 +3552,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which title is most useful?",
-    "audio_prompt": "Which title is most useful?",
-    "audioPrompt": "Which title is most useful?",
+    "skill": "maps",
+    "question": "Which map feature helps a reader distinguish a water source from an observed leak?",
+    "audio_prompt": "Which map feature helps a reader distinguish a water source from an observed leak?",
+    "audioPrompt": "Which map feature helps a reader distinguish a water source from an observed leak?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3117,41 +3563,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Science results",
+        "text": "A title without symbol meanings",
         "is_correct": false
       },
       {
-        "text": "Our group",
-        "is_correct": false
-      },
-      {
-        "text": "Fun graph",
-        "is_correct": false
-      },
-      {
-        "text": "Mean distance travelled by toy car on each surface",
+        "text": "A key defining the symbols",
         "is_correct": true
+      },
+      {
+        "text": "A larger blank margin",
+        "is_correct": false
+      },
+      {
+        "text": "The order in which places were drawn",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Science results",
-      "Our group",
-      "Fun graph",
-      "Mean distance travelled by toy car on each surface"
+      "A title without symbol meanings",
+      "A key defining the symbols",
+      "A larger blank margin",
+      "The order in which places were drawn"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A specific title states what was compared and measured.",
-      "hint": "Specific title."
+      "summary": "A key tells the reader what each symbol represents.",
+      "hint": "Explain the symbols."
     },
     "structuredExplanation": {
-      "summary": "A specific title states what was compared and measured.",
-      "hint": "Specific title."
+      "summary": "A key tells the reader what each symbol represents.",
+      "hint": "Explain the symbols."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 12,
     "sequencePriority": 12,
     "quality_schema": "skillr-actual-v6",
@@ -3166,10 +3613,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which representation would show exact readings and a quick visual comparison if used together?",
-    "audio_prompt": "Which representation would show exact readings and a quick visual comparison if used together?",
-    "audioPrompt": "Which representation would show exact readings and a quick visual comparison if used together?",
+    "skill": "tables",
+    "question": "Why use both a table and column graph for the same observations?",
+    "audio_prompt": "Why use both a table and column graph for the same observations?",
+    "audioPrompt": "Why use both a table and column graph for the same observations?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3177,41 +3624,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A blank page and a colour choice",
-        "is_correct": false
-      },
-      {
-        "text": "A model with no labels and a guess",
-        "is_correct": false
-      },
-      {
-        "text": "A table and a column graph",
+        "text": "The table preserves exact records and the graph makes comparisons visible",
         "is_correct": true
       },
       {
-        "text": "A title and a sticker",
+        "text": "The graph is allowed to replace values with guesses",
+        "is_correct": false
+      },
+      {
+        "text": "The two must use different data to be useful",
+        "is_correct": false
+      },
+      {
+        "text": "The table removes the need to label the graph",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A blank page and a colour choice",
-      "A model with no labels and a guess",
-      "A table and a column graph",
-      "A title and a sticker"
+      "The table preserves exact records and the graph makes comparisons visible",
+      "The graph is allowed to replace values with guesses",
+      "The two must use different data to be useful",
+      "The table removes the need to label the graph"
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Tables keep exact values; graphs make comparisons visible.",
-      "hint": "Both purposes."
+      "summary": "They serve related purposes while representing the same checked data.",
+      "hint": "Connect exact records to visual comparison."
     },
     "structuredExplanation": {
-      "summary": "Tables keep exact values; graphs make comparisons visible.",
-      "hint": "Both purposes."
+      "summary": "They serve related purposes while representing the same checked data.",
+      "hint": "Connect exact records to visual comparison."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 13,
     "sequencePriority": 13,
     "quality_schema": "skillr-actual-v6",
@@ -3226,10 +3674,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which is a limitation of a food-chain diagram?",
-    "audio_prompt": "Which is a limitation of a food-chain diagram?",
-    "audioPrompt": "Which is a limitation of a food-chain diagram?",
+    "skill": "food-chain-model",
+    "question": "A food-chain role-play has one food source for each consumer. Which limitation should be stated?",
+    "audio_prompt": "A food-chain role-play has one food source for each consumer. Which limitation should be stated?",
+    "audioPrompt": "A food-chain role-play has one food source for each consumer. Which limitation should be stated?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3237,41 +3685,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It is not a representation",
+        "text": "All real animals eat exactly one food always",
         "is_correct": false
       },
       {
-        "text": "It may show one feeding path but not the whole food web",
+        "text": "The model must contain every animal to be useful",
+        "is_correct": false
+      },
+      {
+        "text": "The counters show the exact future population outdoors",
+        "is_correct": false
+      },
+      {
+        "text": "Real animals may have more feeding relationships than this model shows",
         "is_correct": true
-      },
-      {
-        "text": "It always shows every interaction",
-        "is_correct": false
-      },
-      {
-        "text": "It cannot include producers",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "It is not a representation",
-      "It may show one feeding path but not the whole food web",
-      "It always shows every interaction",
-      "It cannot include producers"
+      "All real animals eat exactly one food always",
+      "The model must contain every animal to be useful",
+      "The counters show the exact future population outdoors",
+      "Real animals may have more feeding relationships than this model shows"
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Food-chain diagrams simplify complex habitat interactions.",
-      "hint": "One pathway."
+      "summary": "A simple feeding path omits some real interactions and does not predict every outcome.",
+      "hint": "Identify what is simplified."
     },
     "structuredExplanation": {
-      "summary": "Food-chain diagrams simplify complex habitat interactions.",
-      "hint": "One pathway."
+      "summary": "A simple feeding path omits some real interactions and does not predict every outcome.",
+      "hint": "Identify what is simplified."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 14,
     "sequencePriority": 14,
     "quality_schema": "skillr-actual-v6",
@@ -3286,10 +3735,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "A student changes the graph scale halfway up the axis without marking a break. What could happen?",
-    "audio_prompt": "A student changes the graph scale halfway up the axis without marking a break. What could happen?",
-    "audioPrompt": "A student changes the graph scale halfway up the axis without marking a break. What could happen?",
+    "skill": "maps",
+    "question": "A school map marks a leak beside the library but gives no scale. What can be concluded?",
+    "audio_prompt": "A school map marks a leak beside the library but gives no scale. What can be concluded?",
+    "audioPrompt": "A school map marks a leak beside the library but gives no scale. What can be concluded?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3297,41 +3746,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The graph may exaggerate or hide differences",
+        "text": "It is exactly 2 m from every door",
+        "is_correct": false
+      },
+      {
+        "text": "The leak must still exist next year",
+        "is_correct": false
+      },
+      {
+        "text": "The recorded leak is located beside the library",
         "is_correct": true
       },
       {
-        "text": "The data becomes more accurate",
-        "is_correct": false
-      },
-      {
-        "text": "Readers will always understand it better",
-        "is_correct": false
-      },
-      {
-        "text": "Units become unnecessary",
+        "text": "No other leak can exist outside the surveyed places",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The graph may exaggerate or hide differences",
-      "The data becomes more accurate",
-      "Readers will always understand it better",
-      "Units become unnecessary"
+      "It is exactly 2 m from every door",
+      "The leak must still exist next year",
+      "The recorded leak is located beside the library",
+      "No other leak can exist outside the surveyed places"
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Unmarked scale changes can mislead readers.",
-      "hint": "Distorted scale."
+      "summary": "Relative location is shown; exact distance, future conditions and unsurveyed places are not.",
+      "hint": "Stay within the map’s information."
     },
     "structuredExplanation": {
-      "summary": "Unmarked scale changes can mislead readers.",
-      "hint": "Distorted scale."
+      "summary": "Relative location is shown; exact distance, future conditions and unsurveyed places are not.",
+      "hint": "Stay within the map’s information."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 15,
     "sequencePriority": 15,
     "quality_schema": "skillr-actual-v6",
@@ -3346,10 +3796,10 @@
     "curriculum_code": "AC9S4I04",
     "curriculumCode": "AC9S4I04",
     "bank": "test",
-    "skill": "tables_column_graphs_and_scientific_models",
-    "question": "Which model-evaluation sentence is best?",
-    "audio_prompt": "Which model-evaluation sentence is best?",
-    "audioPrompt": "Which model-evaluation sentence is best?",
+    "skill": "forces",
+    "question": "A box is sliding left across a rough surface. What direction should the friction arrow on the box point?",
+    "audio_prompt": "A box is sliding left across a rough surface. What direction should the friction arrow on the box point?",
+    "audioPrompt": "A box is sliding left across a rough surface. What direction should the friction arrow on the box point?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3357,41 +3807,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "This model is perfect",
+        "text": "Left, always with the motion",
         "is_correct": false
       },
       {
-        "text": "This model has no missing parts",
-        "is_correct": false
-      },
-      {
-        "text": "This model proves every creek behaves the same",
-        "is_correct": false
-      },
-      {
-        "text": "This model shows runoff downhill, but it does not show groundwater or real landscape scale",
+        "text": "Right, opposing that sliding",
         "is_correct": true
+      },
+      {
+        "text": "Up, because all friction is vertical",
+        "is_correct": false
+      },
+      {
+        "text": "Down, because friction is the same force as gravity",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "This model is perfect",
-      "This model has no missing parts",
-      "This model proves every creek behaves the same",
-      "This model shows runoff downhill, but it does not show groundwater or real landscape scale"
+      "Left, always with the motion",
+      "Right, opposing that sliding",
+      "Up, because all friction is vertical",
+      "Down, because friction is the same force as gravity"
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "A good evaluation names what the model shows and what it leaves out.",
-      "hint": "Shows and limits."
+      "summary": "Surface friction opposes the box sliding left, so this horizontal friction arrow points right.",
+      "hint": "Draw the force on the box receiving it."
     },
     "structuredExplanation": {
-      "summary": "A good evaluation names what the model shows and what it leaves out.",
-      "hint": "Shows and limits."
+      "summary": "Surface friction opposes the box sliding left, so this horizontal friction arrow points right.",
+      "hint": "Draw the force on the box receiving it."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 16,
     "sequencePriority": 16,
     "quality_schema": "skillr-actual-v6",

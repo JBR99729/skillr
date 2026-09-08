@@ -1,0 +1,44 @@
+{
+  "code": "AC9S4I05",
+  "date": "2026-09-08",
+  "officialDescriptor": "compare findings with those of others, consider if investigations were fair, identify questions for further investigation and draw conclusions",
+  "officialStatementId": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/2ecf807f-46af-494a-ad86-60559a8cb5aa",
+  "officialJsonldSha256": "50c24e93a6b099111d058cf296022f6575dc4d92592b3406440e5831bf56bd53",
+  "elaborations": [
+    {
+      "id": "E1",
+      "text": "identifying instances during investigations where elements may have been changed in error, resulting in an unfair test"
+    },
+    {
+      "id": "E2",
+      "text": "comparing findings of water use surveys and discussing differences between home and school, or between each other’s homes"
+    },
+    {
+      "id": "E3",
+      "text": "comparing designed solutions, such as toys, lunchboxes or structures, to determine fitness for purpose of selected materials"
+    },
+    {
+      "id": "E4",
+      "text": "comparing findings from investigations with peers and asking questions about factors that may have led to any differences in findings"
+    },
+    {
+      "id": "E5",
+      "text": "identifying unexpected findings and posing questions for further investigation"
+    },
+    {
+      "id": "E6",
+      "text": "drawing conclusions that reflect their data and information"
+    }
+  ],
+  "sourcePriority": "ACARA is exact curriculum authority; IXL is the primary external teaching benchmark; Khan and other public lessons are supplementary.",
+  "researchLogCheckpoint": "Root retrieved svgSkillrHub-IXL-Research-Log.md latest version17 before research. No completed Year4Science observations in that log.",
+  "ixlScope": "Root actually inspected the Australian v9 Year4Science IXL plan: I02-I06 have no linked skills. Do not claim an official IXL mapping, exhaustive progression or author browser observation. See final-six root source-comparison report for actual supplemental IXL observations and limits.",
+  "supplementary": [
+    {
+      "name": "Primary Connections Year4 Access all areas: lesson7 Access allowed",
+      "observedBy": "root",
+      "use": "Audience criteria, labelled annotated model explaining material/force choices, testing and peer review; conceptual support, not the curriculum authority."
+    }
+  ],
+  "authorVisualQA": "Six scoped SVG models rendered at640x300 using CairoSVG and inspected. Labels, arrows and captions fit; all numerical classroom examples are identified as invented."
+}

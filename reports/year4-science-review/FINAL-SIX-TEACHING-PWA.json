@@ -1,0 +1,145 @@
+{
+  "cases": 12,
+  "pass": 12,
+  "fail": 0,
+  "rows": [
+    {
+      "code": "ac9s4i01",
+      "kind": "topic",
+      "status": "PASS",
+      "sameTeachingHtml": true,
+      "sameTeachingText": true,
+      "sameSectionNodes": 17,
+      "sharedHeader": true,
+      "curriculumAppended": 0,
+      "mode": "actual topic PWA entrypoint"
+    },
+    {
+      "code": "ac9s4i01",
+      "kind": "classroom",
+      "status": "PASS",
+      "sameTeachingHtml": true,
+      "sameTeachingText": true,
+      "sameSectionNodes": 8,
+      "sharedHeader": true,
+      "curriculumAppended": 0,
+      "mode": "defensive PWA execution on static Classroom; current page does not include PWA"
+    },
+    {
+      "code": "ac9s4i02",
+      "kind": "topic",
+      "status": "PASS",
+      "sameTeachingHtml": true,
+      "sameTeachingText": true,
+      "sameSectionNodes": 16,
+      "sharedHeader": true,
+      "curriculumAppended": 0,
+      "mode": "actual topic PWA entrypoint"
+    },
+    {
+      "code": "ac9s4i02",
+      "kind": "classroom",
+      "status": "PASS",
+      "sameTeachingHtml": true,
+      "sameTeachingText": true,
+      "sameSectionNodes": 8,
+      "sharedHeader": true,
+      "curriculumAppended": 0,
+      "mode": "defensive PWA execution on static Classroom; current page does not include PWA"
+    },
+    {
+      "code": "ac9s4i03",
+      "kind": "topic",
+      "status": "PASS",
+      "sameTeachingHtml": true,
+      "sameTeachingText": true,
+      "sameSectionNodes": 16,
+      "sharedHeader": true,
+      "curriculumAppended": 0,
+      "mode": "actual topic PWA entrypoint"
+    },
+    {
+      "code": "ac9s4i03",
+      "kind": "classroom",
+      "status": "PASS",
+      "sameTeachingHtml": true,
+      "sameTeachingText": true,
+      "sameSectionNodes": 8,
+      "sharedHeader": true,
+      "curriculumAppended": 0,
+      "mode": "defensive PWA execution on static Classroom; current page does not include PWA"
+    },
+    {
+      "code": "ac9s4i04",
+      "kind": "topic",
+      "status": "PASS",
+      "sameTeachingHtml": true,
+      "sameTeachingText": true,
+      "sameSectionNodes": 16,
+      "sharedHeader": true,
+      "curriculumAppended": 0,
+      "mode": "actual topic PWA entrypoint"
+    },
+    {
+      "code": "ac9s4i04",
+      "kind": "classroom",
+      "status": "PASS",
+      "sameTeachingHtml": true,
+      "sameTeachingText": true,
+      "sameSectionNodes": 8,
+      "sharedHeader": true,
+      "curriculumAppended": 0,
+      "mode": "defensive PWA execution on static Classroom; current page does not include PWA"
+    },
+    {
+      "code": "ac9s4i05",
+      "kind": "topic",
+      "status": "PASS",
+      "sameTeachingHtml": true,
+      "sameTeachingText": true,
+      "sameSectionNodes": 19,
+      "sharedHeader": true,
+      "curriculumAppended": 0,
+      "mode": "actual topic PWA entrypoint"
+    },
+    {
+      "code": "ac9s4i05",
+      "kind": "classroom",
+      "status": "PASS",
+      "sameTeachingHtml": true,
+      "sameTeachingText": true,
+      "sameSectionNodes": 12,
+      "sharedHeader": true,
+      "curriculumAppended": 0,
+      "mode": "defensive PWA execution on static Classroom; current page does not include PWA"
+    },
+    {
+      "code": "ac9s4i06",
+      "kind": "topic",
+      "status": "PASS",
+      "sameTeachingHtml": true,
+      "sameTeachingText": true,
+      "sameSectionNodes": 20,
+      "sharedHeader": true,
+      "curriculumAppended": 0,
+      "mode": "actual topic PWA entrypoint"
+    },
+    {
+      "code": "ac9s4i06",
+      "kind": "classroom",
+      "status": "PASS",
+      "sameTeachingHtml": true,
+      "sameTeachingText": true,
+      "sameSectionNodes": 13,
+      "sharedHeader": true,
+      "curriculumAppended": 0,
+      "mode": "defensive PWA execution on static Classroom; current page does not include PWA"
+    }
+  ],
+  "scope": "Actual root pwa-register.js and legacy loader with browser Node.appendChild contract bridged in linkedom; no network/browser-cache/deployment claim.",
+  "hashes": {
+    "/pwa-register.js": "28c5e7c390fa13394c91d476303da8e99cd5b3119fb59fd4d22cd351e311d12d",
+    "/assets/pwa-register-legacy.js": "36fdeb3b7340ee58447043942cf276df8934d450274329a420640f40a7d20d47",
+    "/assets/year4-science-topic-render.js": "06ab99608eccb3aecd55a74100d300a59a74e4ea3188d54fc2d75058100bf81c"
+  }
+}

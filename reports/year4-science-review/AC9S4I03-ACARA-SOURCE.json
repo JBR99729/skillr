@@ -1,0 +1,27 @@
+{
+  "curriculum": "AC9S4I03",
+  "authority": "Australian Curriculum Version 9.0 Science official JSON-LD",
+  "source_snapshot_sha256": "50c24e93a6b099111d058cf296022f6575dc4d92592b3406440e5831bf56bd53",
+  "nodes": {
+    "AC9S4I03": {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/263d5ddf-4c9a-4d80-8528-3f7ee8ae64bf",
+      "wording": "follow procedures to make and record observations, including making formal measurements using familiar scaled instruments and using digital tools as appropriate"
+    },
+    "AC9S4I03_E1": {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/a4ebb321-702e-45d8-95a6-2acd15769fe6",
+      "wording": "identifying animals in field locations using procedures such as direct or virtual observation, call or scat identification or pitfall traps"
+    },
+    "AC9S4I03_E2": {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/72b929cb-5d53-4b3a-b9a3-121b4a5010ab",
+      "wording": "using appropriate equipment to make and record observations, such as digital cameras, video, voice recorders and familiar scaled instruments with appropriate increments"
+    },
+    "AC9S4I03_E3": {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/5d1272f2-4246-425b-86c3-650112743101",
+      "wording": "describing how to use rounding up or down when reading scaled instruments, and the effect of the scale size on the accuracy of the measurement"
+    },
+    "AC9S4I03_E4": {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/36f2697d-3563-431f-928d-6bc5eea91f43",
+      "wording": "constructing tables or graphic organisers to record observations"
+    }
+  }
+}

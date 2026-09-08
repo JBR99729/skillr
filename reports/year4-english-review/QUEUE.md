@@ -1,0 +1,76 @@
+# Year 4 English continuation queue
+
+Inventory date: 2026-09-08. Scope: **all 28 Year 4 English hub codes, sequentially one code at a time, with no five-code stopping cap**. This is an inventory and continuation plan only. Do not begin English source research or authoring until the root has verified the Science release.
+
+## Repository evidence and baseline
+
+- Current repository hub: `year4/curriculum/english/index.html`; its 28-code order agrees with the source order in `data/curriculum-units.json`.
+- Inventory metadata was read at local commit `015bd7b99256d043e71bfa7f3dd46fba9cdb7738`. Canonical banks and published Practice/Test files were counted from exact repository base `ebd9062db6928c30820fb6db4f8c003531cb1f76`; a path-scoped comparison confirms these English banks, activities, topic resources and curriculum-unit records are unchanged between those commits. The English hub had a generated metadata update, so the current working-tree hub was used for queue order.
+- Every canonical bank contains **40 Practice + 16 Test**, and every corresponding published `practice/questions.js` and `test/questions.js` has the same counts. Totals: **1,120 Practice + 448 Test = 1,568 existing bank items**. Counts establish inventory only, not quality or completeness.
+- `data/content-verification-status.json` contains **zero AC9E4 reviewed codes**. Year 4 English is **0/28 reviewed**; its Content Verified badge remains off.
+- All 28 topics, existing Classroom View routes, worksheet pages, published Practice question files and published Test question files are present in the complete tracked tree. These are presence checks, not live functional or visual approval.
+- No tracked `reports/year4-english-review/` code reviews existed before this queue. No code-owned `worksheet/worksheet-questions.js` exists for these 28 codes; inspect each existing worksheet implementation before modifying it. This does not mean the current worksheet pages are empty.
+- The repository's `teacherSlideUrl` curriculum-unit field still names legacy PDF paths. The actual Classroom View route to inspect and preserve for each topic is `<topic path>teacher-slides/`; do not use the legacy field to replace that existing resource.
+- Existing broad QA and video-review records are not independent full-code approval. For example, `docs/worker2-year3-year4-quality-audit-2026-08-25.md` records structural QA, and `docs/topic-video-review-20260908.md` flags unconfirmed Year 4 suitability for the AC9E4LA10 optional ACMI video. Carry those facts forward without treating them as new source verification.
+
+## Per-code queue
+
+All status columns describe this new full-resource review programme. “Pending” does not claim that existing content is absent. Elaboration counts are from the repository curriculum-unit records; exact ACARA wording and all elaborations must be reverified during each code's research.
+
+| Order | Code | Topic slug under `/year4/english/` | Existing Practice / Test | Repo elaborations | Research | Authoring | Independent review | Release |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | AC9E4LA01 | [ac9e4la01-language-used-to-develop-relationships-in-formal-and-informal](/year4/english/ac9e4la01-language-used-to-develop-relationships-in-formal-and-informal/) | 40 / 16 | 4 | Pending | Pending | Pending | Pending |
+| 2 | AC9E4LA02 | [ac9e4la02-the-subjective-language-of-opinion-and-feeling-and-the-objective](/year4/english/ac9e4la02-the-subjective-language-of-opinion-and-feeling-and-the-objective/) | 40 / 16 | 2 | Pending | Pending | Pending | Pending |
+| 3 | AC9E4LA03 | [ac9e4la03-how-texts-across-the-curriculum-have-different-language](/year4/english/ac9e4la03-how-texts-across-the-curriculum-have-different-language/) | 40 / 16 | 4 | Pending | Pending | Pending | Pending |
+| 4 | AC9E4LA04 | [ac9e4la04-how-text-connectives-including-temporal-and-conditional-words](/year4/english/ac9e4la04-how-text-connectives-including-temporal-and-conditional-words/) | 40 / 16 | 3 | Pending | Pending | Pending | Pending |
+| 5 | AC9E4LA05 | [ac9e4la05-text-navigation-features-of-online-texts-that-enhance](/year4/english/ac9e4la05-text-navigation-features-of-online-texts-that-enhance/) | 40 / 16 | 2 | Pending | Pending | Pending | Pending |
+| 6 | AC9E4LA06 | [ac9e4la06-that-complex-sentences-contain-one-independent-clause-and-at](/year4/english/ac9e4la06-that-complex-sentences-contain-one-independent-clause-and-at/) | 40 / 16 | 2 | Pending | Pending | Pending | Pending |
+| 7 | AC9E4LA07 | [ac9e4la07-investigate-how-quoted-direct-and-reported-indirect-speech-are](/year4/english/ac9e4la07-investigate-how-quoted-direct-and-reported-indirect-speech-are/) | 40 / 16 | 1 | Pending | Pending | Pending | Pending |
+| 8 | AC9E4LA08 | [ac9e4la08-how-adverb-groups-phrases-and-prepositional-phrases-work-in](/year4/english/ac9e4la08-how-adverb-groups-phrases-and-prepositional-phrases-work-in/) | 40 / 16 | 1 | Pending | Pending | Pending | Pending |
+| 9 | AC9E4LA09 | [ac9e4la09-past-present-and-future-tenses-and-their-impact-on-meaning](/year4/english/ac9e4la09-past-present-and-future-tenses-and-their-impact-on-meaning/) | 40 / 16 | 2 | Pending | Pending | Pending | Pending |
+| 10 | AC9E4LA10 | [ac9e4la10-the-effect-of-choices-when-framing-an-image-placement-of](/year4/english/ac9e4la10-the-effect-of-choices-when-framing-an-image-placement-of/) | 40 / 16 | 1 | Pending | Pending | Pending | Pending |
+| 11 | AC9E4LA11 | [ac9e4la11-expand-vocabulary-by-exploring-a-range-of-synonyms-and-antonyms](/year4/english/ac9e4la11-expand-vocabulary-by-exploring-a-range-of-synonyms-and-antonyms/) | 40 / 16 | 3 | Pending | Pending | Pending | Pending |
+| 12 | AC9E4LA12 | [ac9e4la12-that-punctuation-signals-dialogue-through-quotation-marks-and](/year4/english/ac9e4la12-that-punctuation-signals-dialogue-through-quotation-marks-and/) | 40 / 16 | 2 | Pending | Pending | Pending | Pending |
+| 13 | AC9E4LE01 | [ac9e4le01-similar-storylines-ideas-and-relationships-in-different](/year4/english/ac9e4le01-similar-storylines-ideas-and-relationships-in-different/) | 40 / 16 | 4 | Pending | Pending | Pending | Pending |
+| 14 | AC9E4LE02 | [ac9e4le02-the-effects-of-text-structures-and-language-features-in-literary](/year4/english/ac9e4le02-the-effects-of-text-structures-and-language-features-in-literary/) | 40 / 16 | 3 | Pending | Pending | Pending | Pending |
+| 15 | AC9E4LE03 | [ac9e4le03-how-authors-and-illustrators-make-stories-engaging-by-the-way](/year4/english/ac9e4le03-how-authors-and-illustrators-make-stories-engaging-by-the-way/) | 40 / 16 | 4 | Pending | Pending | Pending | Pending |
+| 16 | AC9E4LE04 | [ac9e4le04-examine-the-use-of-literary-devices-and-deliberate-word-play](/year4/english/ac9e4le04-examine-the-use-of-literary-devices-and-deliberate-word-play/) | 40 / 16 | 3 | Pending | Pending | Pending | Pending |
+| 17 | AC9E4LE05 | [ac9e4le05-and-edit-literary-texts-by-developing-storylines-characters-and](/year4/english/ac9e4le05-and-edit-literary-texts-by-developing-storylines-characters-and/) | 40 / 16 | 2 | Pending | Pending | Pending | Pending |
+| 18 | AC9E4LY01 | [ac9e4ly01-texts-from-different-times-with-similar-purposes-and-audiences](/year4/english/ac9e4ly01-texts-from-different-times-with-similar-purposes-and-audiences/) | 40 / 16 | 2 | Pending | Pending | Pending | Pending |
+| 19 | AC9E4LY02 | [ac9e4ly02-listen-for-key-points-and-information-to-carry-out-tasks](/year4/english/ac9e4ly02-listen-for-key-points-and-information-to-carry-out-tasks/) | 40 / 16 | 2 | Pending | Pending | Pending | Pending |
+| 20 | AC9E4LY03 | [ac9e4ly03-the-characteristic-features-used-in-imaginative-informative-and](/year4/english/ac9e4ly03-the-characteristic-features-used-in-imaginative-informative-and/) | 40 / 16 | 3 | Pending | Pending | Pending | Pending |
+| 21 | AC9E4LY04 | [ac9e4ly04-different-types-of-texts-integrating-phonic-semantic-and](/year4/english/ac9e4ly04-different-types-of-texts-integrating-phonic-semantic-and/) | 40 / 16 | 1 | Pending | Pending | Pending | Pending |
+| 22 | AC9E4LY05 | [ac9e4ly05-comprehension-strategies-such-as-visualising-predicting](/year4/english/ac9e4ly05-comprehension-strategies-such-as-visualising-predicting/) | 40 / 16 | 7 | Pending | Pending | Pending | Pending |
+| 23 | AC9E4LY06 | [ac9e4ly06-plan-create-edit-and-publish-written-and-multimodal-imaginative](/year4/english/ac9e4ly06-plan-create-edit-and-publish-written-and-multimodal-imaginative/) | 40 / 16 | 5 | Pending | Pending | Pending | Pending |
+| 24 | AC9E4LY07 | [ac9e4ly07-plan-create-rehearse-and-deliver-structured-oral-and-or](/year4/english/ac9e4ly07-plan-create-rehearse-and-deliver-structured-oral-and-or/) | 40 / 16 | 4 | Pending | Pending | Pending | Pending |
+| 25 | AC9E4LY08 | [ac9e4ly08-words-using-clearly-formed-joined-letters-with-developing](/year4/english/ac9e4ly08-words-using-clearly-formed-joined-letters-with-developing/) | 40 / 16 | 0 | Pending | Pending | Pending | Pending |
+| 26 | AC9E4LY09 | [ac9e4ly09-how-to-use-and-apply-phonological-and-morphological-knowledge-to](/year4/english/ac9e4ly09-how-to-use-and-apply-phonological-and-morphological-knowledge-to/) | 40 / 16 | 2 | Pending | Pending | Pending | Pending |
+| 27 | AC9E4LY10 | [ac9e4ly10-how-to-use-knowledge-of-letter-patterns-including-double-letters](/year4/english/ac9e4ly10-how-to-use-knowledge-of-letter-patterns-including-double-letters/) | 40 / 16 | 2 | Pending | Pending | Pending | Pending |
+| 28 | AC9E4LY11 | [ac9e4ly11-and-write-high-frequency-words-including-homophones-and-know](/year4/english/ac9e4ly11-and-write-high-frequency-words-including-homophones-and-know/) | 40 / 16 | 1 | Pending | Pending | Pending | Pending |
+
+## Required framework for every code
+
+1. After Science release verification, start with **AC9E4LA01**. Refresh repository status and retrieve the latest `svgSkillrHub-IXL-Research-Log.md` before actual English research. Reuse previous evidence only with its observed scope and date preserved.
+2. Verify the exact ACARA v9 descriptor and **every elaboration**. Repository flags such as `questionEligible: false` do not make an elaboration optional for teaching coverage; choose a suitable respectful teaching/assessment form within the year boundary.
+3. Use **IXL as the primary external teaching benchmark**, in **one human-paced IXL tab**. Inspect relevant actual skill pages, opened help/worked examples and representative progression. A skill-plan listing alone is not a completed comparison. Record inaccessible or uninspected sections honestly. This inventory has not opened or verified any new English IXL source.
+4. Use Khan Academy and other suitable free resources only as **supplementary** support. Do not substitute them silently for missing IXL comparison or claim an uninspected source match. ACARA remains the curriculum authority.
+5. Read and preserve strong existing same-code content. Review the **Topic Guide, Classroom View, worksheet/homework and all question-bank content together**. Keep current static topic/Classroom architecture, metadata, free/no-login access and the Topic → Classroom View → Worksheet → Practice → Test journey. Use meaningful text or visual models that actually teach the English concept; do not force decorative science-style diagrams into language activities.
+6. Produce at least **48 Practice +16 Test** per code, with meaningful variety and no stem-only repetitions. Review every stem, passage, choice, correct answer, explanation, audio wording and visual. Add authentic speaking, writing, reading or creating work with adult assessment guidance where the descriptor requires performance beyond selected-response recognition.
+7. Provide **eight distinct written/practical homework tasks** per code with suitable response space, answers and adult-review evidence. Keep printable questions aligned to the on-page data and inspect the actual exported PDF. Worksheets must not simply duplicate the Practice/Test bank.
+8. Assign a separate independent reviewer for the current code. The reviewer inspects final questions, Topic/Classroom models, worksheet and every actual PDF page, identifies precise fixes, rechecks them and records final artifact hashes. The author cannot approve their own work.
+9. Root integrates shared notes, pre-module preparation, wrappers and any narrowly scoped legacy guards; checks the actual user flow; publishes only reviewed content through the review-aware publisher and verification ledger; preserves the complete latest main tree with zero unexpected deletions; and verifies release checks, Pages and live activities.
+10. Mark that row with evidence/report paths and release identity, then **continue immediately to the next pending hub code**. Use parallel independent roles as useful while keeping the active code sequence clear. Do not stop after five codes or claim completion from counts alone. Ask for user access only when an actual access blocker requires it.
+
+## Completion target and updates
+
+The complete queue requires **28 reviewed resource bundles**, at least **1,344 Practice +448 Test = 1,792 reviewed bank items**, and **224 separately authored homework tasks**. The present Practice count is eight below the minimum for every code; merely adding those 224 items does not replace substantive review of the existing 1,568.
+
+Maintain this table as the durable continuation record. A completed row must point to inspected-source notes, independent approval and release verification. The subject badge may activate only after the required ledger records all 28 hub codes. No English resource, shared runtime or publication state has been changed by this inventory task.
+
+## Current release checkpoint — 2026-09-08
+
+- Owner: root is completing the preceding Science release in PR826 on `codex/year4-science-final-six`. Do not launch a concurrent English researcher or another IXL tab while this release checkpoint is active.
+- Science content and all six independent reviews are complete. PR head `2f6c375620cb6f28b7b0b3bff6156bdfdf9f63b8` passed 13 of 14 workflow runs, including the full static-site audit, Science flow and release integrity. It is not yet merged or verified live.
+- The remaining Foundation static validator rejects the existing robots/canonical tag syntax on nine Classroom Views. Inspection confirms the metadata is semantically present; a narrowly scoped author/reviewer repair normalizes only those two existing tags per file to satisfy the unchanged validator. Evidence is in `reports/year4-science-review/FOUNDATION-METADATA-GATE-FIX.md`; the repaired candidate still requires full CI. No Foundation teaching rewrite is authorised.
+- English research, authoring, independent review and publication remain **0/28**. Resume at **AC9E4LA01**, first by verifying the Science merge, required CI, Pages and live 12/12 badge/resources; then refresh the source log before research. No IXL English observation has been performed or claimed.
+- This checkpoint has no five-code limit: after each completed English code, continue to the next row until all 28 are finished. Record the actual release evidence and replace this active release ownership note when Science is verified.

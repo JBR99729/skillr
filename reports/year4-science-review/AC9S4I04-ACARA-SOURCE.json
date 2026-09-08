@@ -1,0 +1,27 @@
+{
+  "curriculum": "AC9S4I04",
+  "authority": "Australian Curriculum Version 9.0 Science official JSON-LD",
+  "source_snapshot_sha256": "50c24e93a6b099111d058cf296022f6575dc4d92592b3406440e5831bf56bd53",
+  "nodes": {
+    "AC9S4I04": {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/3622f6dc-d1fa-4d0e-baf7-caa808ff8e6c",
+      "wording": "construct and use representations, including tables, simple column graphs and visual or physical models, to organise data and information, show simple relationships and identify patterns"
+    },
+    "AC9S4I04_E1": {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/25732ca7-b6d7-4506-b520-4a9943635a07",
+      "wording": "using virtual or role-play food chain simulations to explore effects of changing numbers of producers or consumers in a habitat"
+    },
+    "AC9S4I04_E2": {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/da01b3d5-a0e9-489d-bc95-ffc29b916385",
+      "wording": "using maps to locate water sources in the local area, or constructing maps to show sites of water wastage in the school grounds"
+    },
+    "AC9S4I04_E3": {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/f653ab28-1039-4f34-8cfb-3f4d476013eb",
+      "wording": "constructing column graphs to compare numbers of objects made of particular materials or distances moved by objects experiencing frictional forces"
+    },
+    "AC9S4I04_E4": {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/3204cbdd-0e5b-41fc-a94e-1e0b56a70485",
+      "wording": "using force arrows to show forces operating on objects"
+    }
+  }
+}

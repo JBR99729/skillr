@@ -1,0 +1,50 @@
+{
+  "code": "AC9S4I06",
+  "date": "2026-09-08",
+  "officialDescriptor": "write and create texts to communicate findings and ideas for identified purposes and audiences, using scientific vocabulary and digital tools as appropriate",
+  "officialStatementId": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/b2572e35-91ce-4065-98de-a05f9cde6ca8",
+  "officialJsonldSha256": "50c24e93a6b099111d058cf296022f6575dc4d92592b3406440e5831bf56bd53",
+  "elaborations": [
+    {
+      "id": "E1",
+      "text": "discussing the purpose of a text and identifying vocabulary appropriate to the topic and audience"
+    },
+    {
+      "id": "E2",
+      "text": "acknowledging and learning about First Nations Australians’ ways of representing and sharing information about water sources"
+    },
+    {
+      "id": "E3",
+      "text": "sharing ideas about ways to represent feeding relationships including using drawings, labels, images or models"
+    },
+    {
+      "id": "E4",
+      "text": "producing an informative text using scientific vocabulary to explain the impact of introduced predators on food chains"
+    },
+    {
+      "id": "E5",
+      "text": "constructing a report using scientific vocabulary to explain which materials are best suited to be used for making particular products, such as nylon for tents, rubber for shoes or wool for warm clothing"
+    },
+    {
+      "id": "E6",
+      "text": "creating posters, a song, slideshow or performance to encourage the school community to save water"
+    }
+  ],
+  "sourcePriority": "ACARA is exact curriculum authority; IXL is the primary external teaching benchmark; Khan and other public lessons are supplementary.",
+  "researchLogCheckpoint": "Root retrieved svgSkillrHub-IXL-Research-Log.md latest version17 before research. No completed Year4Science observations in that log.",
+  "ixlScope": "Root actually inspected the Australian v9 Year4Science IXL plan: I02-I06 have no linked skills. Do not claim an official IXL mapping, exhaustive progression or author browser observation. See final-six root source-comparison report for actual supplemental IXL observations and limits.",
+  "supplementary": [
+    {
+      "name": "Primary Connections Year4 Access all areas: lesson7 Access allowed",
+      "observedBy": "root",
+      "use": "Audience criteria, labelled annotated model explaining material/force choices, testing and peer review; conceptual support, not the curriculum authority."
+    },
+    {
+      "name": "National Museum of Australia: Australian Journey Episode01 Travelling Country",
+      "url": "https://digital-classroom.nma.gov.au/videos/australian-journey-episode-01-travelling-country",
+      "observedBy": "author viaweb open, also independently root and reviewer",
+      "use": "Opening transcript identifies Ngurrara I collaborative Traditional Owner work, waterholes within Country and Walmajarri/Wangkajunga connection. Short attributed paraphrase in lesson; no copied artwork, guessed meanings or older-history fullvideo requirement."
+    }
+  ],
+  "authorVisualQA": "Six scoped SVG models rendered at640x300 using CairoSVG and inspected. Labels, arrows and captions fit; all numerical classroom examples are identified as invented."
+}

@@ -1,6 +1,6 @@
 (() => {
   "use strict";
-  if (!/^\/quiz\/year-4\/science\/ac9s4(?:u0[1-4]|h0[12])\/(practice|test)\/?$/i.test(location.pathname)) return;
+  if (!/^\/quiz\/year-4\/science\/ac9s4(?:u0[1-4]|h0[12]|i0[1-6])\/(practice|test)\/?$/i.test(location.pathname)) return;
   const notes = document.querySelector('[data-skillr-authored-preparation="true"]');
   const card = document.querySelector('#startScreen .start-card');
   if (!notes || !card) return;
