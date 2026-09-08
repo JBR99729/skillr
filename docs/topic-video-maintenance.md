@@ -51,6 +51,10 @@ The builder validates every input and proposed output before writing. It rejects
 
 The video section uses native HTML disclosure controls. An ordinary link loads YouTube's privacy-enhanced player into a named frame, then the learner uses YouTube's Play control. It does not autoplay or load YouTube thumbnails/player resources before that link is selected. No custom player script runs on SkillrHub.
 
+A small “Need another explanation? Watch a video” link appears after the existing resource links in the topic header. The written guide keeps its position and existing content. The shortcut targets a paragraph inside the video disclosure so native fragment navigation can reveal it; a “Back to the lesson” link returns to the header. Both links stay on the same page and do not load YouTube. Pages without a selected video have neither shortcut nor video section. The builder owns separate markers around the shortcut and removes both additions if the final selection is removed.
+
+The curriculum inventory includes some older addresses that redirect to newer topic pages. The builder follows only existing, agreeing canonical and immediate-redirect metadata within the same curriculum code, year and subject. It places videos on the destination lesson and removes only its own obsolete supplement from redirect stubs. It does not change a redirect, canonical URL or lesson. Conflicting destinations, different codes and loops stop the build before any writes.
+
 The main video control targets the embedded frame inside the lesson. Do not add a separate YouTube watch link: the owner requested playback within SkillrHub. YouTube's own player still contains its branding and external links; do not hide these or promise that all navigation outside SkillrHub can be prevented.
 
 Keep `referrerpolicy="strict-origin-when-cross-origin"` on the load link and frame. YouTube requires a site Referer; suppressing it can cause error 153. Do not hide or cover the player's controls, branding, advertising or links. `rel=0` limits related videos to the same channel; it does not remove recommendations.
