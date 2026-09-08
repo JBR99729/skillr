@@ -8,8 +8,11 @@
   if (!match) return;
   const code = match[1].toUpperCase();
   const mode = match[2].toLowerCase();
+  const reviewedPreparation = /^AC9M4(?:N0[1-9]|A01)$/.test(code)
+    && /^20260908-year4-(?:first|second)-five$/.test(window.quizConfig?.bankVersion || "")
+    && document.querySelector('.pre-read-notes[data-skillr-authored-preparation="true"]');
   const unit = window.SkillrYear4MathsData?.[code];
-  if (!unit) return;
+  if (!unit && !reviewedPreparation) return;
 
   const esc = (value) => String(value ?? "").replace(/[&<>"]/g, (char) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[char]));
 
@@ -42,6 +45,17 @@
     if (!card) return false;
     ensureStyle();
     ensureBrand(card);
+
+    // Reviewed preparation is authored in the activity HTML. Keep its approved
+    // model, explanation and response instructions when the legacy data loads.
+    if (reviewedPreparation && card.contains(reviewedPreparation)) {
+      const intro = card.querySelector(".intro-text");
+      if (intro) intro.textContent = mode === "test"
+        ? "Review the model and worked example, then take the Test."
+        : "Review the model and worked example, then start Practice.";
+      reviewedPreparation.dataset.skillrTopicSynced = "true";
+      return true;
+    }
 
     const title = card.querySelector("#quizTitle");
     if (title) title.textContent = unit.title;

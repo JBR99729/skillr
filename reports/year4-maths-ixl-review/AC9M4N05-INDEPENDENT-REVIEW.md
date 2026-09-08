@@ -153,6 +153,9 @@ The reviewer independently inspected root's `quiz/year-4/math/reviewed-number-vi
 
 The new N05 launch example correctly reasons through `24 × 30 = 72 tens = 720` and inverse grouping. The common-mistake note distinguishes the extra factor 3 from multiplying only by 10. The review instruction preserves the no-calculator expectation. The same bank version is used by launch and review pages. Static code review passes; root retains the actual browser execution and live-deployment gate.
 
+Launch-help follow-up: root observed the legacy Quick Read helper replacing reviewed preparation. The reviewer inspected the bounded guard in `assets/year4-maths-practice-quick-read.js`: it requires one of the ten scoped codes, an approved first/second-batch bank version and an explicit authored-preparation marker. It preserves the authored content while retaining existing style and branding. Both N05 launch pages explicitly load the corrected helper after their configuration and activity scripts, before PWA code. Their added model uses the already reviewed P003 place-value chart, with matching accessible text and a correct caption explaining that the 4 changes from value 400 to 4000 under multiplication by 10. Both complete launch teaching sections were read again and pass. Root separately reports successful load-order regression cases; no new browser execution is claimed by this reviewer.
+
+
 The reviewer also checked the new ongoing curriculum-code review section in `AGENTS.md`; it faithfully records the owner's scoped full-resource review instruction and separate independent approval requirement, without authorising a broad rebuild or architecture change.
 
 ## Companion-resource substantive review
@@ -197,5 +200,7 @@ One attempt to view the local Topic Guide in the cloud browser returned `ERR_BLO
 | `year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/teacher-slides/index.html` | `931632b0fb435b0112b2141e5a1e3178b2f57d9aaf0cc7e0d85d3ce61fe117a1` |
 | `quiz/year-4/math/ac9m4n05/worksheet/index.html` | `c1eb3d9db25451a53fe7bfa2adbd684c45e0b11b9b195bb75b2945d654f31413` |
 | `quiz/year-4/math/ac9m4n05/worksheet/worksheet-questions.js` | `275d8af72581a1458455f3656e215bee48d946abac3246df286896e16847408e` |
+| `quiz/year-4/math/ac9m4n05/practice/index.html` | `2302b46fd3da06e5c1b84fe994bbf80698153b63a95f9f13628386200bd739a8` |
+| `quiz/year-4/math/ac9m4n05/test/index.html` | `23acc81da897892bc932dbcd506dc67160594fe611feb33ff9abd9d28756eff0` |
 
 The six SVG artifact hashes are recorded in the author's handoff table. The reviewer independently rendered those same six assets and confirmed their paths, symbols and content. Any later mathematical, wording or visual change requires re-review of the affected item/resource before this approval is reused.

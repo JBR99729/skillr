@@ -161,3 +161,20 @@ After published release `a329adf8b480`, the reviewer inspected the complete N04 
 Independent content/source/PDF review: PASS for the bank hash and resource hashes recorded here. All 64 items, every answer alternative and key, every explanation/hint, eight adult drawing criteria, 19 assessment SVGs, the complete Topic Guide and Classroom View, eight written homework questions/checks, five resource SVGs and all three exact PDF pages have been substantively inspected. Corrections were re-reviewed before approval. Actual IXL sample comparison and official descriptor/elaboration verification are complete within the stated limits.
 
 This content approval is eligible for the review-aware publisher/ledger. The release integrator separately owns real HTML/browser layout, final activity/adult-marking/download behaviour, release integrity, GitHub Actions, Pages and live release checks. These are not claimed as performed by this reviewer and remain required before the release is declared complete. The wider Year 4 Maths badge must remain inactive until every Year 4 Maths code passes its own review.
+
+
+## Authored preparation compatibility review — 8 September 2026
+
+The reviewer independently read both revised launch panels, their new model captions, alternative labels, SVG references and script order. The reused P001 model was rendered again and inspected: 0 to1 contains four equal intervals, and A is the third interval after0, so A = 3/4. Caption and alt label agree. The separate quarter-counting sequence across1, equal-unit guidance and adult drawing checks remain sound.
+
+The shared quick-read helper now recognises the explicit authored-preparation marker only for N01–N09/A01 and the two stated reviewed bank versions, retaining the existing brand/card styling and approved teaching section. Both launch pages load the versioned helper after the activity script and before PWA registration. This static content/integration reading does not substitute for root’s load-order and live browser checks. No bank question, key or assessment SVG was changed by this compatibility fix.
+
+Current wrapper identities (launch files changed; result/review content previously reviewed):
+
+- `quiz/year-4/math/ac9m4n04/practice/index.html` — SHA256 `491fb348cc5176524622bb00b9b1b76a1ae9ebfef85875b8491581e4651bb923`
+- `quiz/year-4/math/ac9m4n04/practice/result/index.html` — SHA256 `390e7ceb989d5e741d8ccfe90cecca692c8844ce3fcc0cf637cf219c046575c8`
+- `quiz/year-4/math/ac9m4n04/practice/review/index.html` — SHA256 `197a604ec6c55af7d7f01b154b6eb46076483edbdabb47718e7de501af42af78`
+- `quiz/year-4/math/ac9m4n04/test/index.html` — SHA256 `7b0d75933fc89f71a5f236f7796aeae25b1b769705656a85d45240e2358ee361`
+- `quiz/year-4/math/ac9m4n04/test/result/index.html` — SHA256 `4f0ca0e0a571dfa7bfdb9e46a59b06408e84f6c383000832ba90e9aee45aba78`
+- `quiz/year-4/math/ac9m4n04/test/review/index.html` — SHA256 `bc6f2be816489d0552bf3919967e090b1095ea98c423d841a9ae42f0fdd28e48`
+- `assets/year4-maths-practice-quick-read.js` — SHA256 `d5daa920f8a39eaae76a9643ef637c1234b00222e5f5bcfe8a79d209185aa5ed`
