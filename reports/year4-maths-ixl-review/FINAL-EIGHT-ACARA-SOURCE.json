@@ -1,0 +1,255 @@
+{
+  "source": "https://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/export/MRAC/2024/04/LA/MAT.jsonld",
+  "retrieved": "2026-09-08",
+  "rawBytes": 3498203,
+  "rawSha256": "4d6b7a01d10517dc97ad709055c62c171b9b90ea33e0d0fc395e9bd2f96e48b1",
+  "method": "HTTPS primary JSON-LD retrieved directly; child links resolved and ordered by official E notation.",
+  "codes": [
+    {
+      "code": "AC9M4SP01",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/28d4de4f-403d-4a16-b4a7-99fc99208c32",
+      "descriptor": "represent and approximate composite shapes and objects in the environment, using combinations of familiar shapes and objects",
+      "elaborations": [
+        {
+          "code": "AC9M4SP01_E1",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/fb99b916-58f3-4588-b0c3-80373952620b",
+          "text": "identifying common shapes that form part of a composite shape by re-creating these shapes using physical or virtual materials"
+        },
+        {
+          "code": "AC9M4SP01_E2",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/3e665aa5-4a19-4f9f-86ab-d1523e53aee8",
+          "text": "physically or virtually using cubes to make three-dimensional models that approximate real objects; for example, building a virtual environment by using a computer software program to construct objects out of cubes"
+        },
+        {
+          "code": "AC9M4SP01_E3",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/461281d3-9123-4acc-993f-8b64fee315d2",
+          "text": "approximating complex shapes and objects in the environment with familiar shapes and objects; for example, drawing cartoon animals by combining familiar shapes"
+        },
+        {
+          "code": "AC9M4SP01_E4",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/1f8b6381-d572-42bf-9c4b-7bc9eda1325a",
+          "text": "recognising how familiar shapes and objects are used in logos and other graphics to represent more complex shapes and creating logos using graphic design software"
+        }
+      ]
+    },
+    {
+      "code": "AC9M4SP02",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/ae2e3c9d-3836-4d98-9cba-68c93ee30318",
+      "descriptor": "create and interpret grid reference systems using grid references and directions to locate and describe positions and pathways",
+      "elaborations": [
+        {
+          "code": "AC9M4SP02_E1",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/cf458801-c74d-406a-bf46-1b2ea85ecae4",
+          "text": "interpreting a grid reference map of a familiar location of interest, such as a map of the showgrounds, a food festival, a botanical garden, a park in the local area or a train station, and writing instructions using grid references for a friend to find them at a specified location"
+        },
+        {
+          "code": "AC9M4SP02_E2",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/bab91910-8795-4827-b6b0-7ae1fddb0a0d",
+          "text": "recognising that a spreadsheet uses a grid reference system, locating and entering data in cells and using a spreadsheet to record data collected through observations or experiments"
+        },
+        {
+          "code": "AC9M4SP02_E3",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/20536fcb-0128-40c5-9980-2625568e2b6d",
+          "text": "comparing and contrasting, describing and locating landmarks, people or things in a bird\u2019s eye picture of a busy scene, such as people in a park, initially without a transparent grid reference system overlaid on the picture, and then with the grid overlaid; noticing how the grid helps to pinpoint things quickly and easily"
+        },
+        {
+          "code": "AC9M4SP02_E4",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/ae88ac7e-fd4f-4c46-8e16-ab50e28baa90",
+          "text": "using different sized grids as a tool to enlarge an image or artwork"
+        },
+        {
+          "code": "AC9M4SP02_E5",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/1365bdac-a2c5-4e9c-9178-b2f066acad8e",
+          "text": "simulating the actions of autonomous or robotic vehicles moving to different positions within a grid, using grid references and directional language to describe positions and pathways; for example, imitating an autonomous mobile warehouse robot moving stock to different aisles, using grid reference systems to locate positions"
+        }
+      ]
+    },
+    {
+      "code": "AC9M4SP03",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/17ee9d65-eb4c-4c94-ab81-d12b7aa8a958",
+      "descriptor": "recognise line and rotational symmetry of shapes and create symmetrical patterns and pictures, using dynamic geometric software where appropriate",
+      "elaborations": [
+        {
+          "code": "AC9M4SP03_E1",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/304ee163-0eac-40e0-a6c5-c0a94ef67d98",
+          "text": "identifying rotational symmetry of shapes by tracing around various shapes and objects to create an image, and using the image to test and record which different rotations result in the same image"
+        },
+        {
+          "code": "AC9M4SP03_E2",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/636fab90-cf8e-44ab-864d-8b2038bdb307",
+          "text": "using dynamic geometric software or generative artificial intelligence tool to manipulate shapes and create symmetrical patterns; for example, creating tessellation patterns that are symmetrical and discussing any line or rotational symmetries"
+        },
+        {
+          "code": "AC9M4SP03_E3",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/04909cff-acb5-4d1a-861a-e6a3ead99089",
+          "text": "using stimulus materials such as the motifs in Central Asian textiles, Tibetan artefacts, Indian lotus designs and Islamic artwork to investigate and discuss line and rotational symmetry"
+        },
+        {
+          "code": "AC9M4SP03_E4",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/bc18a71a-f3a0-4d8d-9dd3-9b229c67917f",
+          "text": "exploring the natural environment on Country/Place to investigate and discuss patterns and symmetry of shapes and objects such as in flowers, plants and landscapes"
+        }
+      ]
+    },
+    {
+      "code": "AC9M4ST01",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/0962ec66-4a13-47af-90c5-4c6478489662",
+      "descriptor": "acquire data for categorical and discrete numerical variables to address a question of interest or purpose, using digital tools; represent data using many-to-one pictographs, column graphs and other displays or visualisations; interpret and discuss the information that has been created",
+      "elaborations": [
+        {
+          "code": "AC9M4ST01_E1",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/8ffde334-863b-4640-b93a-f20f2b8130e3",
+          "text": "investigating many-to-one data displays using digital tools and graphical software, interpreting and discussing key features"
+        },
+        {
+          "code": "AC9M4ST01_E2",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/223ba877-23bd-4473-934d-37020058f0d5",
+          "text": "understanding that data can be represented with one symbol representing more than one piece of data, and that it is important to read all information about a representation before making judgements"
+        },
+        {
+          "code": "AC9M4ST01_E3",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/1930c4bf-a17d-4973-98b8-b4dee1bf34ac",
+          "text": "constructing graphs of data collected through observation during science experiments, recording, interpreting and discussing the results in terms of the scientific study"
+        },
+        {
+          "code": "AC9M4ST01_E4",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/147fffa7-7ef9-4aa1-ba33-09a27f5e6ee9",
+          "text": "co-creating an online poll to survey students in their school about a topic of interest, exploring how online platforms use generative artificial intelligence  to make word clouds, quizzes, polls and graphical representations of the collected data"
+        },
+        {
+          "code": "AC9M4ST01_E5",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/2eb4dc99-1f05-4304-82b1-f799583887a8",
+          "text": "acquiring samples of data using practical activities, observations or repeated chance experiments, recording data using tally charts, digital tables or spread sheets, graphing, discussing and comparing the results using a column graph"
+        },
+        {
+          "code": "AC9M4ST01_E6",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/359caa12-fa29-4825-9fd1-3a98284d0f29",
+          "text": "using secondary data of fire burns to construct data displays that assist First Nations Ranger Groups and other groups to care for Country/Place"
+        }
+      ]
+    },
+    {
+      "code": "AC9M4ST02",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/4c89c64c-6d0d-4b74-a50a-bc6e833cc426",
+      "descriptor": "analyse the effectiveness of different displays or visualisations in illustrating and comparing data distributions, then discuss the shape of distributions and the variation in the data",
+      "elaborations": [
+        {
+          "code": "AC9M4ST02_E1",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/46891f5a-fd1f-41c5-af35-f3b342ccdea2",
+          "text": "suggesting questions that can be answered by a given data display and using the display to answer these questions"
+        },
+        {
+          "code": "AC9M4ST02_E2",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/955ada64-cadc-42ec-948f-c5185f4f647c",
+          "text": "interpreting data representations in the media and other forums where symbols represent one-to-many relationships and how this can be challenging when the representations use part-whole representations"
+        },
+        {
+          "code": "AC9M4ST02_E3",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/e7c205bc-6aa7-4da3-8cdf-c6c531c2d2a3",
+          "text": "comparing different student generated diagrams, tables and graphs, describing their similarities and differences and commenting on the usefulness of each representation for interpreting the data"
+        },
+        {
+          "code": "AC9M4ST02_E4",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/b9c451bf-7e18-49d2-8d3e-53236a1c498e",
+          "text": "discussing how analysing data distributions and visualising data is a fundamental step in data preparation for AI developers"
+        }
+      ]
+    },
+    {
+      "code": "AC9M4ST03",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/26532943-2bc7-4e60-9f29-37e98133f1fe",
+      "descriptor": "conduct statistical investigations, collecting data through survey responses and other methods; record and display data using digital tools; interpret the data and communicate the results",
+      "elaborations": [
+        {
+          "code": "AC9M4ST03_E1",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/a66b4416-cb0a-4ea0-8a22-9a0fec80f2d2",
+          "text": "creating a survey to collect class responses to a preferred movie choice, and recording data responses using spreadsheets; graphing data using a column graph or other appropriate representations and interpreting the results of the survey reporting findings back to the class"
+        },
+        {
+          "code": "AC9M4ST03_E2",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/c6690df0-13fd-49c0-8932-f0f8e3902f10",
+          "text": "conducting a statistical investigation and acquiring data from different online sources; for example, using online query interfaces to select and retrieve data from an online database such as weather records, Google Trends or the World Health Organization"
+        },
+        {
+          "code": "AC9M4ST03_E3",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/562e2ee0-4a48-4cf9-be20-019689b4e558",
+          "text": "investigating different contexts in which statistical investigations can take place and the types of questions to ask to collect data relevant to the context; for example, investigating supermarket customer complaints that breakfast cereals with the most sugar are positioned at children\u2019s eye level, discussing what questions they would need to ask and answer"
+        }
+      ]
+    },
+    {
+      "code": "AC9M4P01",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/4353387d-39f5-4222-bf3b-357193bb0221",
+      "descriptor": "describe possible everyday events and the possible outcomes of chance experiments and order outcomes or events based on their likelihood of occurring; identify independent or dependent events",
+      "elaborations": [
+        {
+          "code": "AC9M4P01_E1",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/392008bd-f7f6-4463-ae9b-61d705a8ad43",
+          "text": "using lists of events familiar to students and ordering them from \u201cleast likely\u201d to \u201cmost likely\u201d to occur; considering and discussing why the order of some events might be different for different students"
+        },
+        {
+          "code": "AC9M4P01_E2",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/33963e61-d3f9-4365-bb26-8d879f94edda",
+          "text": "predicting the outcome of a coin toss after \\(5\\) heads have been flipped in a row, discussing the assertion that because so many heads came up, it is more likely that a tail rather than a head will come up next; discussing with reasons why the assumption is correct or incorrect"
+        },
+        {
+          "code": "AC9M4P01_E3",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/9f5f7a9f-84fa-4a65-b2d1-b85e77835e1d",
+          "text": "predicting how likely, from least likely to most likely, of selecting a red ball from a bag containing \\(10\\) red balls and \\(5\\) white balls, a bag containing \\(20\\) of each, or one that has \\(25\\) red balls and \\(20\\) white balls, justifying their decision"
+        },
+        {
+          "code": "AC9M4P01_E4",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/64f94c87-398d-4a03-8cac-f07e31b45a83",
+          "text": "identifying school activities where the chance of them taking place is affected by the chance of other events occurring; for example, given that there is a high chance of a storm on Friday, there is only a small chance that the coastal dune planting project will go ahead"
+        },
+        {
+          "code": "AC9M4P01_E5",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/086d93b0-f58f-4d59-9af5-ed04b890fa01",
+          "text": "listing the outcomes of everyday chance situations and identifying where one cannot happen if the other happens; for example, discussing that it cannot be hot and cold at the same time; selecting a card from a deck and discussing if it is red it cannot be a spade or a club"
+        },
+        {
+          "code": "AC9M4P01_E6",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/fd136674-5bed-4b81-bc75-146badea87bc",
+          "text": "identifying different dependent events where the chance of one outcome occurring will be affected by the occurrence of other outcomes and different independent events where the chance of one outcome occurring will not be affected by the occurrence of other outcome(s) "
+        },
+        {
+          "code": "AC9M4P01_E7",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/b2a8b4b0-f16d-4034-862c-6259b06880d8",
+          "text": "exploring how ordering outcomes based on their likelihood of occurring is an essential component of early warning systems that use artificial intelligence  to make decisions, such as natural disaster warning systems"
+        },
+        {
+          "code": "AC9M4P01_E8",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/0041ec83-045e-48a4-92f1-ef0d90f6953a",
+          "text": "discussing how likelihood relates to the decisions an artificial intelligence  tool makes when generating predictive text; for example, discussing which word would most likely come next in a sentence, then refining the decision as the first letter is revealed"
+        }
+      ]
+    },
+    {
+      "code": "AC9M4P02",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/a097a3f3-447e-4e1b-a90e-8c2f1c6a9406",
+      "descriptor": "conduct repeated chance experiments to observe relationships between outcomes; identify and describe the variation in results",
+      "elaborations": [
+        {
+          "code": "AC9M4P02_E1",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/1d8388a2-10d2-4766-ad14-f08b5a924a64",
+          "text": "playing games such as Noughts and Crosses or First to \\(20\\) and deciding if it makes a difference who goes first and whether you can use a particular strategy to increase your chances of winning"
+        },
+        {
+          "code": "AC9M4P02_E2",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/cb75c3a3-61bf-47b3-908c-5dbf2aeb9abb",
+          "text": "recording and ordering the outcomes of experiments using different physical or virtual random generators such as coins, dice and a variety of spinners, and discussing how AI systems use random generators to train algorithms"
+        },
+        {
+          "code": "AC9M4P02_E3",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/aae6fca5-c426-4e75-b15a-5fd3811b78eb",
+          "text": "experimenting with tossing \\(2\\) coins at the same time, recording and commenting on the chance of outcomes after a number of tosses"
+        },
+        {
+          "code": "AC9M4P02_E4",
+          "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/ea3da689-9f3e-4390-8daf-04e224172806",
+          "text": "shuffling a set of cards, drawing a card at random, and recording whether it was a spade, club, diamond or heart, picture card or numbered; repeating the experiment a number of times and discussing the results"
+        }
+      ]
+    }
+  ]
+}

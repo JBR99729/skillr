@@ -4,28 +4,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-001",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated chance trials",
+    "skill": "tally",
     "printable": true,
     "type": "single",
-    "question": "At a coastal station, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
-    "audioPrompt": "At a coastal station, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
-    "visual": "At a coastal station: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-001\"></use></svg>",
+    "question": "A coin gives T, H, T, T, H, H, T, H. How many heads?",
+    "audioPrompt": "A coin gives T, H, T, T, H, H, T, H. How many heads?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-001",
-      "alt_text": "At a coastal station: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Heads must occur exactly 10 times",
-      "Heads occurred 8 times",
-      "The next toss must be tails"
+      "3",
+      "5",
+      "4",
+      "8"
     ],
-    "correct": 1,
-    "explanation": "Experimental results report what occurred without predicting certainty.\nHint: Separate observed frequency from expected likelihood.",
+    "audioAnswers": [
+      "3",
+      "5",
+      "4",
+      "8"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "There are four H entries among eight trials.\nHint: Count the relevant recorded outcomes, including both orders when grouping mixed coins.",
     "structuredExplanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "There are four H entries among eight trials.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +41,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-002",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "chance variation",
+    "skill": "variation",
     "printable": true,
     "type": "single",
-    "question": "During a museum challenge, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audioPrompt": "During a museum challenge, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "visual": "During a museum challenge: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-002\"></use></svg>",
+    "question": "Two fair-coin sets of 12 tosses give 4 and 9 heads. What is true?",
+    "audioPrompt": "Two fair-coin sets of 12 tosses give 4 and 9 heads. What is true?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-002",
-      "alt_text": "During a museum challenge: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "One group must have counted falsely",
-      "Fair spinners always give identical totals",
-      "Random results can vary in a limited number of trials"
+      "One set must be false",
+      "Each set must give 6 heads",
+      "Tails is now guaranteed",
+      "Different totals can occur by chance"
     ],
-    "correct": 2,
-    "explanation": "Chance variation is expected across finite trials.\nHint: More trials usually make long-run patterns clearer.",
+    "audioAnswers": [
+      "One set must be false",
+      "Each set must give 6 heads",
+      "Tails is now guaranteed",
+      "Different totals can occur by chance"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Short sets need not have identical or exactly balanced results.\nHint: Separate what happened in this set from what is possible in the next trial.",
     "structuredExplanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "Short sets need not have identical or exactly balanced results.",
+      "hint": "Separate what happened in this set from what is possible in the next trial."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +78,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-003",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated chance trials",
+    "skill": "two coins",
     "printable": true,
     "type": "single",
-    "question": "At a charity event, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
-    "audioPrompt": "At a charity event, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
-    "visual": "At a charity event: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-003\"></use></svg>",
+    "question": "A table records HH 3, HT 4, TH 6, TT 3. Mixed outcomes total?",
+    "audioPrompt": "A table records HH 3, HT 4, TH 6, TT 3. Mixed outcomes total?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-003",
-      "alt_text": "At a charity event: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Heads occurred 10 times",
-      "Heads must occur exactly 10 times",
-      "The next toss must be tails"
+      "10",
+      "4",
+      "6",
+      "16"
     ],
+    "audioAnswers": [
+      "10",
+      "4",
+      "6",
+      "16"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 3,
     "correct": 0,
-    "explanation": "Experimental results report what occurred without predicting certainty.\nHint: Separate observed frequency from expected likelihood.",
+    "explanation": "HT and TH are the mixed outcomes: 4 + 6 = 10.\nHint: Count the relevant recorded outcomes, including both orders when grouping mixed coins.",
     "structuredExplanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "HT and TH are the mixed outcomes: 4 + 6 = 10.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +115,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-004",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "chance variation",
+    "skill": "card",
     "printable": true,
     "type": "single",
-    "question": "In an engineering workshop, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audioPrompt": "In an engineering workshop, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "visual": "In an engineering workshop: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-004\"></use></svg>",
+    "question": "A drawn jack of hearts belongs to which categories?",
+    "audioPrompt": "A drawn jack of hearts belongs to which categories?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "One group must have counted falsely",
-      "Random results can vary in a limited number of trials",
-      "Fair spinners always give identical totals"
+      "Hearts and numbered card",
+      "Hearts and picture card",
+      "Spades and picture card",
+      "Clubs and ace"
     ],
+    "audioAnswers": [
+      "Hearts and numbered card",
+      "Hearts and picture card",
+      "Spades and picture card",
+      "Clubs and ace"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 4,
     "correct": 1,
-    "explanation": "Chance variation is expected across finite trials.\nHint: More trials usually make long-run patterns clearer.",
+    "explanation": "Jack is a picture card and its suit is hearts.\nHint: Check the stated rules and conditions before deciding what can happen.",
     "structuredExplanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "Jack is a picture card and its suit is hearts.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +152,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-005",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated chance trials",
+    "skill": "method",
     "printable": true,
     "type": "single",
-    "question": "At a regional carnival, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
-    "audioPrompt": "At a regional carnival, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
-    "visual": "At a regional carnival: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-005\"></use></svg>",
+    "question": "Which procedure keeps a card experiment's contents unchanged each trial?",
+    "audioPrompt": "Which procedure keeps a card experiment's contents unchanged each trial?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-005",
-      "alt_text": "At a regional carnival: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Heads must occur exactly 10 times",
-      "The next toss must be tails",
-      "Heads occurred 12 times"
+      "Keep every card out",
+      "Return only hearts",
+      "Return the card and shuffle before the next draw",
+      "Replace only unwanted results"
     ],
+    "audioAnswers": [
+      "Keep every card out",
+      "Return only hearts",
+      "Return the card and shuffle before the next draw",
+      "Replace only unwanted results"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 5,
     "correct": 2,
-    "explanation": "Experimental results report what occurred without predicting certainty.\nHint: Separate observed frequency from expected likelihood.",
+    "explanation": "Consistent replacement restores the same available cards.\nHint: Check the stated rules and conditions before deciding what can happen.",
     "structuredExplanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "Consistent replacement restores the same available cards.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +189,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-006",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "chance variation",
+    "skill": "plan",
     "printable": true,
     "type": "single",
-    "question": "During a farm study, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audioPrompt": "During a farm study, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "visual": "During a farm study: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-006\"></use></svg>",
+    "question": "To explore starting-player effects, which plan is strongest?",
+    "audioPrompt": "To explore starting-player effects, which plan is strongest?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-006",
-      "alt_text": "During a farm study: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Random results can vary in a limited number of trials",
-      "One group must have counted falsely",
-      "Fair spinners always give identical totals"
+      "Play once with the strongest child first",
+      "Delete every draw",
+      "Let the winner always start and claim a fair comparison",
+      "Repeat games, alternate starters and record wins and draws"
     ],
-    "correct": 0,
-    "explanation": "Chance variation is expected across finite trials.\nHint: More trials usually make long-run patterns clearer.",
+    "audioAnswers": [
+      "Play once with the strongest child first",
+      "Delete every draw",
+      "Let the winner always start and claim a fair comparison",
+      "Repeat games, alternate starters and record wins and draws"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 6,
+    "correct": 3,
+    "explanation": "Repeated games with alternating starters distribute starts and provide evidence about results; skill and choices can still affect them.\nHint: Check the stated rules and conditions before deciding what can happen.",
     "structuredExplanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "Repeated games with alternating starters distribute starts and provide evidence about results; skill and choices can still affect them.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +226,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-007",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated chance trials",
+    "skill": "first 20",
     "printable": true,
     "type": "single",
-    "question": "While reading a trail guide, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
-    "audioPrompt": "While reading a trail guide, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
-    "visual": "While reading a trail guide: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-007\"></use></svg>",
+    "question": "First to 20 allows adding 1 or 2. At 19, what legal move wins?",
+    "audioPrompt": "First to 20 allows adding 1 or 2. At 19, what legal move wins?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Heads must occur exactly 10 times",
-      "Heads occurred 14 times",
-      "The next toss must be tails"
+      "Add 1",
+      "Add 2",
+      "Add 3",
+      "Subtract 1"
     ],
-    "correct": 1,
-    "explanation": "Experimental results report what occurred without predicting certainty.\nHint: Separate observed frequency from expected likelihood.",
+    "audioAnswers": [
+      "Add 1",
+      "Add 2",
+      "Add 3",
+      "Subtract 1"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "19 + 1 = 20; the target is reached exactly.\nHint: Check the stated rules and conditions before deciding what can happen.",
     "structuredExplanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "19 + 1 = 20; the target is reached exactly.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +263,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-008",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "chance variation",
+    "skill": "record check",
     "printable": true,
     "type": "single",
-    "question": "In an architecture studio, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audioPrompt": "In an architecture studio, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "visual": "In an architecture studio: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-008\"></use></svg>",
+    "question": "A group says it rolled 16 times but its six face tallies sum to 15. What next?",
+    "audioPrompt": "A group says it rolled 16 times but its six face tallies sum to 15. What next?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-008",
-      "alt_text": "In an architecture studio: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "One group must have counted falsely",
-      "Fair spinners always give identical totals",
-      "Random results can vary in a limited number of trials"
+      "Add a 6 without evidence",
+      "Check the original record for a missing result or wrong total",
+      "Change all faces to equal totals",
+      "Declare the die unfair"
     ],
-    "correct": 2,
-    "explanation": "Chance variation is expected across finite trials.\nHint: More trials usually make long-run patterns clearer.",
+    "audioAnswers": [
+      "Add a 6 without evidence",
+      "Check the original record for a missing result or wrong total",
+      "Change all faces to equal totals",
+      "Declare the die unfair"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Reconcile the count with the record; do not invent a result.\nHint: Count the relevant recorded outcomes, including both orders when grouping mixed coins.",
     "structuredExplanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "Reconcile the count with the record; do not invent a result.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +300,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-009",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated chance trials",
+    "skill": "AI",
     "printable": true,
     "type": "single",
-    "question": "During a food-truck project, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
-    "audioPrompt": "During a food-truck project, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
-    "visual": "During a food-truck project: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-009\"></use></svg>",
+    "question": "Why check results produced using random generators in AI training?",
+    "audioPrompt": "Why check results produced using random generators in AI training?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-009",
-      "alt_text": "During a food-truck project: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Heads occurred 8 times",
-      "Heads must occur exactly 10 times",
-      "The next toss must be tails"
+      "Random means always correct",
+      "Computers never need checking",
+      "Random examples may be varied without being accurate",
+      "Variation makes checking impossible"
     ],
-    "correct": 0,
-    "explanation": "Experimental results report what occurred without predicting certainty.\nHint: Separate observed frequency from expected likelihood.",
+    "audioAnswers": [
+      "Random means always correct",
+      "Computers never need checking",
+      "Random examples may be varied without being accurate",
+      "Variation makes checking impossible"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Variety and correctness are different properties.\nHint: Use the clue or observation to revise a prediction without making it certain.",
     "structuredExplanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "Variety and correctness are different properties.",
+      "hint": "Use the clue or observation to revise a prediction without making it certain."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +337,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-010",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "chance variation",
+    "skill": "report",
     "printable": true,
     "type": "single",
-    "question": "At a festival, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audioPrompt": "At a festival, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "visual": "At a festival: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-010\"></use></svg>",
+    "question": "A spinner gives green 11 times in 20 spins. Best report?",
+    "audioPrompt": "A spinner gives green 11 times in 20 spins. Best report?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-010",
-      "alt_text": "At a festival: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "One group must have counted falsely",
-      "Random results can vary in a limited number of trials",
-      "Fair spinners always give identical totals"
+      "Green must occur next",
+      "The spinner is certainly unfair",
+      "Every set must repeat these totals",
+      "Green occurred 11 times in this set"
     ],
-    "correct": 1,
-    "explanation": "Chance variation is expected across finite trials.\nHint: More trials usually make long-run patterns clearer.",
+    "audioAnswers": [
+      "Green must occur next",
+      "The spinner is certainly unfair",
+      "Every set must repeat these totals",
+      "Green occurred 11 times in this set"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 10,
+    "correct": 3,
+    "explanation": "The observation supports a count statement, not a guarantee.\nHint: Check the stated rules and conditions before deciding what can happen.",
     "structuredExplanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "The observation supports a count statement, not a guarantee.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +374,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-011",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated chance trials",
+    "skill": "two coins",
     "printable": true,
     "type": "single",
-    "question": "While organising a collection, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
-    "audioPrompt": "While organising a collection, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
-    "visual": "While organising a collection: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-011\"></use></svg>",
+    "question": "Why label the two coins A and B in a record?",
+    "audioPrompt": "Why label the two coins A and B in a record?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-011",
-      "alt_text": "While organising a collection: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Heads must occur exactly 10 times",
-      "The next toss must be tails",
-      "Heads occurred 10 times"
+      "To distinguish HT from TH",
+      "To force different results",
+      "To guarantee equal totals",
+      "To remove TT"
     ],
-    "correct": 2,
-    "explanation": "Experimental results report what occurred without predicting certainty.\nHint: Separate observed frequency from expected likelihood.",
+    "audioAnswers": [
+      "To distinguish HT from TH",
+      "To force different results",
+      "To guarantee equal totals",
+      "To remove TT"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 11,
+    "correct": 0,
+    "explanation": "Labels show which coin produced each result.\nHint: Count the relevant recorded outcomes, including both orders when grouping mixed coins.",
     "structuredExplanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "Labels show which coin produced each result.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +411,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-012",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "chance variation",
+    "skill": "strategy",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audioPrompt": "In an environmental study, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "visual": "In an environmental study: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-012\"></use></svg>",
+    "question": "Why discuss strategy when investigating Noughts and Crosses?",
+    "audioPrompt": "Why discuss strategy when investigating Noughts and Crosses?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-012",
-      "alt_text": "In an environmental study: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Random results can vary in a limited number of trials",
-      "One group must have counted falsely",
-      "Fair spinners always give identical totals"
+      "The game is entirely a coin toss",
+      "Choices and starting order may affect results",
+      "Every legal move is identical",
+      "Chance guarantees the winner"
     ],
-    "correct": 0,
-    "explanation": "Chance variation is expected across finite trials.\nHint: More trials usually make long-run patterns clearer.",
+    "audioAnswers": [
+      "The game is entirely a coin toss",
+      "Choices and starting order may affect results",
+      "Every legal move is identical",
+      "Chance guarantees the winner"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 12,
+    "correct": 1,
+    "explanation": "A repeated game investigation should consider players' choices as well as who starts.\nHint: Check the stated rules and conditions before deciding what can happen.",
     "structuredExplanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "A repeated game investigation should consider players' choices as well as who starts.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +448,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-013",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated chance trials",
+    "skill": "coin sets",
     "printable": true,
-    "type": "single",
-    "question": "During a transport survey, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
-    "audioPrompt": "During a transport survey, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
-    "visual": "During a transport survey: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-013\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Each set totals 8 and matches its sequence. Report actual variation or matching counts without claiming a forced next toss.",
+    "acceptanceNote": "Inspect 24 actual outcomes in three sets, accurate counts and qualified comparison.",
+    "responseInstructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Conduct three sets of 8 coin tosses. Keep ordered records, count heads and tails in each set, and describe similarities or differences.",
+    "audioPrompt": "Conduct three sets of 8 coin tosses. Keep ordered records, count heads and tails in each set, and describe similarities or differences.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-013",
-      "alt_text": "During a transport survey: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "Heads must occur exactly 10 times",
-      "Heads occurred 12 times",
-      "The next toss must be tails"
-    ],
-    "correct": 1,
-    "explanation": "Experimental results report what occurred without predicting certainty.\nHint: Separate observed frequency from expected likelihood.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 13,
+    "correct": "Each set totals 8 and matches its sequence. Report actual variation or matching counts without claiming a forced next toss.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "Each set totals 8 and matches its sequence. Report actual variation or matching counts without claiming a forced next toss.",
+      "hint": "Complete the actual work and keep your evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +480,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-014",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "chance variation",
+    "skill": "two coin record",
     "printable": true,
-    "type": "single",
-    "question": "At a strategy tournament, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audioPrompt": "At a strategy tournament, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "visual": "At a strategy tournament: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-014\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "HH, HT, TH, TT counts total 12; mixed=HT+TH and matching=HH+TT. The comparison matches actual evidence.",
+    "acceptanceNote": "Require actual 12-trial sequence, all four categories, two grouped totals and accurate statement.",
+    "responseInstructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Toss two labelled coins 12 times. Make a four-category tally, then combine mixed outcomes. Write one sentence comparing mixed with matching outcomes in your results.",
+    "audioPrompt": "Toss two labelled coins 12 times. Make a four-category tally, then combine mixed outcomes. Write one sentence comparing mixed with matching outcomes in your results.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "One group must have counted falsely",
-      "Fair spinners always give identical totals",
-      "Random results can vary in a limited number of trials"
-    ],
-    "correct": 2,
-    "explanation": "Chance variation is expected across finite trials.\nHint: More trials usually make long-run patterns clearer.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 14,
+    "correct": "HH, HT, TH, TT counts total 12; mixed=HT+TH and matching=HH+TT. The comparison matches actual evidence.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "HH, HT, TH, TT counts total 12; mixed=HT+TH and matching=HH+TT. The comparison matches actual evidence.",
+      "hint": "Complete the actual work and keep your evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +512,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-015",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated chance trials",
+    "skill": "spinner comparison",
     "printable": true,
-    "type": "single",
-    "question": "While planning a community garden, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
-    "audioPrompt": "While planning a community garden, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
-    "visual": "While planning a community garden: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Both sets total 15. Equal sectors describe chances, whereas actual counts vary. With 15 spins two counts cannot even be exactly equal.",
+    "acceptanceNote": "Require actual 30 outcomes, accurate tables and explanation separating chance from result.",
+    "responseInstructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Use a fair two-equal-sector spinner labelled sun and moon. Conduct two sets of 15 spins. Record and compare results and explain why equal sectors need not give equal counts.",
+    "audioPrompt": "Use a fair two-equal-sector spinner labelled sun and moon. Conduct two sets of 15 spins. Record and compare results and explain why equal sectors need not give equal counts.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-015",
-      "alt_text": "While planning a community garden: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "Heads occurred 14 times",
-      "Heads must occur exactly 10 times",
-      "The next toss must be tails"
-    ],
-    "correct": 0,
-    "explanation": "Experimental results report what occurred without predicting certainty.\nHint: Separate observed frequency from expected likelihood.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 15,
+    "correct": "Both sets total 15. Equal sectors describe chances, whereas actual counts vary. With 15 spins two counts cannot even be exactly equal.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "Both sets total 15. Equal sectors describe chances, whereas actual counts vary. With 15 spins two counts cannot even be exactly equal.",
+      "hint": "Complete the actual work and keep your evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +544,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4p02-t-016",
     "curriculumCode": "AC9M4P02",
     "bank": "test",
-    "skill": "chance variation",
+    "skill": "card investigation",
     "printable": true,
-    "type": "single",
-    "question": "In a design exhibition, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audioPrompt": "In a design exhibition, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "visual": "In a design exhibition: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Both classification totals independently equal 10. Report observed suits and ties accurately; replacement restores the deck.",
+    "acceptanceNote": "Inspect 10 real draws, correct dual classifications, summaries and replacement explanation.",
+    "responseInstructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Draw from a shuffled standard deck without jokers 10 times, returning and shuffling each time. Record each suit and whether the card is J, Q, K; 2–10; or ace. Compare the actual suit totals and explain your replacement rule.",
+    "audioPrompt": "Draw from a shuffled standard deck without jokers 10 times, returning and shuffling each time. Record each suit and whether the card is J, Q, K; 2–10; or ace. Compare the actual suit totals and explain your replacement rule.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-016",
-      "alt_text": "In a design exhibition: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "One group must have counted falsely",
-      "Random results can vary in a limited number of trials",
-      "Fair spinners always give identical totals"
-    ],
-    "correct": 1,
-    "explanation": "Chance variation is expected across finite trials.\nHint: More trials usually make long-run patterns clearer.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 16,
+    "correct": "Both classification totals independently equal 10. Report observed suits and ties accurately; replacement restores the deck.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "Both classification totals independently equal 10. Report observed suits and ties accurately; replacement restores the deck.",
+      "hint": "Complete the actual work and keep your evidence."
     },
     "qualitySchema": "production-v1"
   }

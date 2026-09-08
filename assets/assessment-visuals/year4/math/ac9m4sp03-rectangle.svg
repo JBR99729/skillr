@@ -1,0 +1,1 @@
+<svg id="model" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img"><title>A plain non-square rectangle with a vertical dashed line through its centre.</title><rect width="640" height="400" fill="#fff"/><g stroke="#173968" stroke-width="3" fill="#dcecff"><rect x="90" y="90" width="460" height="220"/><path d="M320 40V360" stroke-dasharray="10 8"/></g></svg>

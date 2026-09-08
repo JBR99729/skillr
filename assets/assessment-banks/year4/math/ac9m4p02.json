@@ -5,32 +5,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "repeated_chance_trials",
-    "question": "In a class project, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "In a class project, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
+    "skill": "record",
+    "question": "A coin record is H, T, H, H, T. How many heads occurred?",
+    "audio_prompt": "A coin record is H, T, H, H, T. How many heads occurred?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-001",
-      "alt_text": "In a class project: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads must occur exactly 10 times",
+        "text": "2",
         "is_correct": false
       },
       {
-        "text": "Heads occurred 8 times",
+        "text": "3",
         "is_correct": true
       },
       {
-        "text": "The next toss must be tails",
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "Count the three H entries; there were five tosses altogether.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -42,36 +50,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "chance_variation",
-    "question": "At the school market, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "At the school market, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "total",
+    "question": "A tally table shows 7 heads and 5 tails. How many tosses were recorded?",
+    "audio_prompt": "A tally table shows 7 heads and 5 tails. How many tosses were recorded?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-002",
-      "alt_text": "At the school market: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "One group must have counted falsely",
+        "text": "7",
         "is_correct": false
       },
       {
-        "text": "Fair spinners always give identical totals",
+        "text": "5",
         "is_correct": false
       },
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "12",
         "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "7",
+      "5",
+      "12",
+      "2"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "Each toss contributes once, so 7 + 5 = 12.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4P02-P-003",
@@ -79,36 +95,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "repeated_chance_trials",
-    "question": "While planning a garden, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "While planning a garden, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
+    "skill": "variation",
+    "question": "Two groups each toss a fair coin 20 times and get 8 and 12 heads. Best explanation?",
+    "audio_prompt": "Two groups each toss a fair coin 20 times and get 8 and 12 heads. Best explanation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-003",
-      "alt_text": "While planning a garden: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads occurred 10 times",
+        "text": "One group must be dishonest",
+        "is_correct": false
+      },
+      {
+        "text": "A fair coin must give 10 heads",
+        "is_correct": false
+      },
+      {
+        "text": "The next toss is forced",
+        "is_correct": false
+      },
+      {
+        "text": "Chance results can vary between groups",
         "is_correct": true
-      },
-      {
-        "text": "Heads must occur exactly 10 times",
-        "is_correct": false
-      },
-      {
-        "text": "The next toss must be tails",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "One group must be dishonest",
+      "A fair coin must give 10 heads",
+      "The next toss is forced",
+      "Chance results can vary between groups"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "Equal chances do not require identical observed totals.",
+      "hint": "Separate what happened in this set from what is possible in the next trial."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3
   },
   {
     "id": "AC9M4P02-P-004",
@@ -116,36 +140,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "chance_variation",
-    "question": "During a sports challenge, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "During a sports challenge, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "plan",
+    "question": "Which plan fairly compares two sets of coin results?",
+    "audio_prompt": "Which plan fairly compares two sets of coin results?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-004",
-      "alt_text": "During a sports challenge: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "One group must have counted falsely",
-        "is_correct": false
-      },
-      {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "Use the same coin and 20 tosses per set",
         "is_correct": true
       },
       {
-        "text": "Fair spinners always give identical totals",
+        "text": "Use 2 tosses then 100 and compare counts alone",
+        "is_correct": false
+      },
+      {
+        "text": "Record only heads",
+        "is_correct": false
+      },
+      {
+        "text": "Stop only when results match",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Use the same coin and 20 tosses per set",
+      "Use 2 tosses then 100 and compare counts alone",
+      "Record only heads",
+      "Stop only when results match"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "Keep the method and number of trials the same to compare the counts meaningfully.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4
   },
   {
     "id": "AC9M4P02-P-005",
@@ -153,36 +185,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "repeated_chance_trials",
-    "question": "At the wildlife centre, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "At the wildlife centre, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
+    "skill": "record",
+    "question": "Why record each result immediately after a toss?",
+    "audio_prompt": "Why record each result immediately after a toss?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-005",
-      "alt_text": "At the wildlife centre: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads must occur exactly 10 times",
+        "text": "To force the next outcome",
         "is_correct": false
       },
       {
-        "text": "The next toss must be tails",
-        "is_correct": false
-      },
-      {
-        "text": "Heads occurred 12 times",
+        "text": "To reduce forgotten or changed results",
         "is_correct": true
+      },
+      {
+        "text": "To make heads certain",
+        "is_correct": false
+      },
+      {
+        "text": "To remove variation",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "To force the next outcome",
+      "To reduce forgotten or changed results",
+      "To make heads certain",
+      "To remove variation"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "A prompt record is more reliable than reconstructing results from memory.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 5
   },
   {
     "id": "AC9M4P02-P-006",
@@ -190,36 +230,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "chance_variation",
-    "question": "In the makerspace, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "In the makerspace, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "two_coins",
+    "question": "Two labelled coins A and B are tossed. Which is a complete outcome list?",
+    "audio_prompt": "Two labelled coins A and B are tossed. Which is a complete outcome list?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-006",
-      "alt_text": "In the makerspace: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#outcomes",
+      "alt_text": "Two labelled coins: four ordered outcomes"
     },
     "answers": [
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "HH, HT, TT",
+        "is_correct": false
+      },
+      {
+        "text": "H, T",
+        "is_correct": false
+      },
+      {
+        "text": "HH, HT, TH, TT",
         "is_correct": true
       },
       {
-        "text": "One group must have counted falsely",
-        "is_correct": false
-      },
-      {
-        "text": "Fair spinners always give identical totals",
+        "text": "HH, TT",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "HH, HT, TT",
+      "H, T",
+      "HH, HT, TH, TT",
+      "HH, TT"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "HT and TH are different when the coins are labelled.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 6
   },
   {
     "id": "AC9M4P02-P-007",
@@ -227,36 +277,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "repeated_chance_trials",
-    "question": "While checking a map, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "While checking a map, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
+    "skill": "two_coins",
+    "question": "Why does 'one head and one tail' have two arrangements?",
+    "audio_prompt": "Why does 'one head and one tail' have two arrangements?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-007",
-      "alt_text": "While checking a map: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads must occur exactly 10 times",
+        "text": "Both coins must be heads",
         "is_correct": false
       },
       {
-        "text": "Heads occurred 14 times",
+        "text": "There are three heads",
+        "is_correct": false
+      },
+      {
+        "text": "The toss must alternate",
+        "is_correct": false
+      },
+      {
+        "text": "A can be heads or B can be heads",
         "is_correct": true
-      },
-      {
-        "text": "The next toss must be tails",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Both coins must be heads",
+      "There are three heads",
+      "The toss must alternate",
+      "A can be heads or B can be heads"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "HT and TH both meet the description.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 7
   },
   {
     "id": "AC9M4P02-P-008",
@@ -264,36 +322,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "chance_variation",
-    "question": "During a cooking task, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "During a cooking task, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "record",
+    "question": "Two-coin results are HH, HT, TT, TH, HT. How many trials had one head and one tail?",
+    "audio_prompt": "Two-coin results are HH, HT, TT, TH, HT. How many trials had one head and one tail?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-008",
-      "alt_text": "During a cooking task: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "One group must have counted falsely",
-        "is_correct": false
-      },
-      {
-        "text": "Fair spinners always give identical totals",
-        "is_correct": false
-      },
-      {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "3",
         "is_correct": true
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "HT occurs twice and TH once, giving three mixed outcomes.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 8
   },
   {
     "id": "AC9M4P02-P-009",
@@ -301,35 +367,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "repeated_chance_trials",
-    "question": "At the community fair, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "At the community fair, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
+    "skill": "variation",
+    "question": "A fair coin gives 6 heads in 10 tosses. What can we conclude?",
+    "audio_prompt": "A fair coin gives 6 heads in 10 tosses. What can we conclude?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-009",
-      "alt_text": "At the community fair: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads occurred 8 times",
-        "is_correct": true
+        "text": "The coin is certainly unfair",
+        "is_correct": false
       },
       {
-        "text": "Heads must occur exactly 10 times",
-        "is_correct": false
+        "text": "Heads occurred 6 times in this set",
+        "is_correct": true
       },
       {
         "text": "The next toss must be tails",
         "is_correct": false
+      },
+      {
+        "text": "All later sets have 6 heads",
+        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "The coin is certainly unfair",
+      "Heads occurred 6 times in this set",
+      "The next toss must be tails",
+      "All later sets have 6 heads"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "Report the observation without turning a small sample into a certainty.",
+      "hint": "Separate what happened in this set from what is possible in the next trial."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M4P02-P-010",
@@ -337,35 +412,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "chance_variation",
-    "question": "In a library display, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "In a library display, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "replacement",
+    "question": "A card is drawn, recorded, returned and the deck shuffled each trial. Why return it?",
+    "audio_prompt": "A card is drawn, recorded, returned and the deck shuffled each trial. Why return it?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-010",
-      "alt_text": "In a library display: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "One group must have counted falsely",
+        "text": "To guarantee a new suit",
         "is_correct": false
       },
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "To remove all picture cards",
+        "is_correct": false
+      },
+      {
+        "text": "To restore the same deck for each trial",
         "is_correct": true
       },
       {
-        "text": "Fair spinners always give identical totals",
+        "text": "To make results identical",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "To guarantee a new suit",
+      "To remove all picture cards",
+      "To restore the same deck for each trial",
+      "To make results identical"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "Replacement keeps the available cards the same across trials.",
+      "hint": "Check whether the first result changes the available objects or the next trial."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M4P02-P-011",
@@ -373,35 +457,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "repeated_chance_trials",
-    "question": "During a science activity, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "During a science activity, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
+    "skill": "card_suits",
+    "question": "A card table has spades 4, clubs 6, diamonds 3, hearts 7. Which suit occurred most often?",
+    "audio_prompt": "A card table has spades 4, clubs 6, diamonds 3, hearts 7. Which suit occurred most often?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-011",
-      "alt_text": "During a science activity: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads must occur exactly 10 times",
+        "text": "Spades",
         "is_correct": false
       },
       {
-        "text": "The next toss must be tails",
+        "text": "Clubs",
         "is_correct": false
       },
       {
-        "text": "Heads occurred 10 times",
+        "text": "Diamonds",
+        "is_correct": false
+      },
+      {
+        "text": "Hearts",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Spades",
+      "Clubs",
+      "Diamonds",
+      "Hearts"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "Seven is the largest observed count.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M4P02-P-012",
@@ -409,35 +502,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "chance_variation",
-    "question": "At the school canteen, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "At the school canteen, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "card_total",
+    "question": "A suit table records 5 spades, 4 clubs, 6 diamonds and 5 hearts. How many draws?",
+    "audio_prompt": "A suit table records 5 spades, 4 clubs, 6 diamonds and 5 hearts. How many draws?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-012",
-      "alt_text": "At the school canteen: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "20",
         "is_correct": true
       },
       {
-        "text": "One group must have counted falsely",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "Fair spinners always give identical totals",
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "25",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "20",
+      "10",
+      "15",
+      "25"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "Add all four suit counts: 5 + 4 + 6 + 5 = 20.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M4P02-P-013",
@@ -445,35 +547,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "repeated_chance_trials",
-    "question": "While organising an excursion, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "While organising an excursion, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
+    "skill": "generator",
+    "question": "Which is a random generator suitable for a chance experiment?",
+    "audio_prompt": "Which is a random generator suitable for a chance experiment?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-013",
-      "alt_text": "While organising an excursion: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads must occur exactly 10 times",
+        "text": "Choosing a favourite number each time",
         "is_correct": false
       },
       {
-        "text": "Heads occurred 12 times",
+        "text": "A fair die rolled without controlling the result",
         "is_correct": true
       },
       {
-        "text": "The next toss must be tails",
+        "text": "Writing 1 every time",
+        "is_correct": false
+      },
+      {
+        "text": "Copying the previous outcome",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "Choosing a favourite number each time",
+      "A fair die rolled without controlling the result",
+      "Writing 1 every time",
+      "Copying the previous outcome"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "A die provides an uncertain result; deliberate choices do not use the proposed random process.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 13
   },
   {
     "id": "AC9M4P02-P-014",
@@ -481,35 +592,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "chance_variation",
-    "question": "In a games club, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "In a games club, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "virtual",
+    "question": "A virtual fair die gives 2, 2, 2. What is justified?",
+    "audio_prompt": "A virtual fair die gives 2, 2, 2. What is justified?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-014",
-      "alt_text": "In a games club: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "One group must have counted falsely",
+        "text": "The program is certainly broken",
         "is_correct": false
       },
       {
-        "text": "Fair spinners always give identical totals",
+        "text": "The next value must be 3",
         "is_correct": false
       },
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "Repeated values are possible",
         "is_correct": true
+      },
+      {
+        "text": "The next value cannot be 2",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "The program is certainly broken",
+      "The next value must be 3",
+      "Repeated values are possible",
+      "The next value cannot be 2"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "A short run can occur in a random sequence and does not settle whether the tool is fair.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 14
   },
   {
     "id": "AC9M4P02-P-015",
@@ -517,35 +637,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "repeated_chance_trials",
-    "question": "During an art project, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "During an art project, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
+    "skill": "compare",
+    "question": "Coin set A has 9 heads; set B has 13 heads, both in 20 tosses. Difference in heads?",
+    "audio_prompt": "Coin set A has 9 heads; set B has 13 heads, both in 20 tosses. Difference in heads?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-015",
-      "alt_text": "During an art project: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads occurred 14 times",
+        "text": "22",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": false
+      },
+      {
+        "text": "4",
         "is_correct": true
-      },
-      {
-        "text": "Heads must occur exactly 10 times",
-        "is_correct": false
-      },
-      {
-        "text": "The next toss must be tails",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "22",
+      "2",
+      "13",
+      "4"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "13 − 9 = 4 more heads in set B.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 15
   },
   {
     "id": "AC9M4P02-P-016",
@@ -553,35 +682,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "chance_variation",
-    "question": "At the recycling station, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "At the recycling station, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "ordered_results",
+    "question": "Why keep both an ordered results list and a tally table?",
+    "audio_prompt": "Why keep both an ordered results list and a tally table?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-016",
-      "alt_text": "At the recycling station: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "One group must have counted falsely",
-        "is_correct": false
-      },
-      {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "The list shows order; the tally shows counts",
         "is_correct": true
       },
       {
-        "text": "Fair spinners always give identical totals",
+        "text": "Both force equal results",
+        "is_correct": false
+      },
+      {
+        "text": "The table predicts every next result",
+        "is_correct": false
+      },
+      {
+        "text": "Order proves fairness",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "The list shows order; the tally shows counts",
+      "Both force equal results",
+      "The table predicts every next result",
+      "Order proves fairness"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "The two records answer different questions about the same experiment.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 16
   },
   {
     "id": "AC9M4P02-P-017",
@@ -589,35 +727,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "repeated_chance_trials",
-    "question": "While planning a survey, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "While planning a survey, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
+    "skill": "strategy",
+    "question": "In Noughts and Crosses, why is a coin experiment an incomplete model of winning?",
+    "audio_prompt": "In Noughts and Crosses, why is a coin experiment an incomplete model of winning?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-017",
-      "alt_text": "While planning a survey: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads must occur exactly 10 times",
+        "text": "There are no possible outcomes",
         "is_correct": false
       },
       {
-        "text": "The next toss must be tails",
-        "is_correct": false
-      },
-      {
-        "text": "Heads occurred 8 times",
+        "text": "Players' choices affect the game",
         "is_correct": true
+      },
+      {
+        "text": "The game must be a draw",
+        "is_correct": false
+      },
+      {
+        "text": "The first player always wins",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "There are no possible outcomes",
+      "Players' choices affect the game",
+      "The game must be a draw",
+      "The first player always wins"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "Strategy affects the result, unlike a simple independent coin toss.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 17
   },
   {
     "id": "AC9M4P02-P-018",
@@ -625,35 +772,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "chance_variation",
-    "question": "In a coding lesson, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "In a coding lesson, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "first_player",
+    "question": "How can a class investigate whether going first matters in a game?",
+    "audio_prompt": "How can a class investigate whether going first matters in a game?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-018",
-      "alt_text": "In a coding lesson: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "Play once and declare a rule",
+        "is_correct": false
+      },
+      {
+        "text": "Let one child always start",
+        "is_correct": false
+      },
+      {
+        "text": "Play repeated games and alternate who starts",
         "is_correct": true
       },
       {
-        "text": "One group must have counted falsely",
-        "is_correct": false
-      },
-      {
-        "text": "Fair spinners always give identical totals",
+        "text": "Discard all draws",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "Play once and declare a rule",
+      "Let one child always start",
+      "Play repeated games and alternate who starts",
+      "Discard all draws"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "Alternating starts and recording repeated games gives better evidence, although skill can still affect results.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 18
   },
   {
     "id": "AC9M4P02-P-019",
@@ -661,35 +817,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "repeated_chance_trials",
-    "question": "During a building task, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "During a building task, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
+    "skill": "first 20",
+    "question": "In First to 20, players add 1 or 2 to a running total; reaching 20 wins. At 18, what wins immediately?",
+    "audio_prompt": "In First to 20, players add 1 or 2 to a running total; reaching 20 wins. At 18, what wins immediately?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-019",
-      "alt_text": "During a building task: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads must occur exactly 10 times",
+        "text": "Add 1",
         "is_correct": false
       },
       {
-        "text": "Heads occurred 10 times",
+        "text": "Add 3",
+        "is_correct": false
+      },
+      {
+        "text": "Restart at 0",
+        "is_correct": false
+      },
+      {
+        "text": "Add 2",
         "is_correct": true
-      },
-      {
-        "text": "The next toss must be tails",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Add 1",
+      "Add 3",
+      "Restart at 0",
+      "Add 2"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "18 + 2 = 20, and adding 2 is allowed.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 19
   },
   {
     "id": "AC9M4P02-P-020",
@@ -697,35 +862,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "chance_variation",
-    "question": "At the local pool, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "At the local pool, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "first 20",
+    "question": "In First to 20, players add 1 or 2 to a running total and win by reaching 20 exactly. At 17, what can a player do to prevent an immediate win for the opponent?",
+    "audio_prompt": "In First to 20, players add 1 or 2 to a running total and win by reaching 20 exactly. At 17, what can a player do to prevent an immediate win for the opponent?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-020",
-      "alt_text": "At the local pool: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "One group must have counted falsely",
-        "is_correct": false
-      },
-      {
-        "text": "Fair spinners always give identical totals",
-        "is_correct": false
-      },
-      {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "No move prevents it",
         "is_correct": true
+      },
+      {
+        "text": "Add 1 guarantees safety",
+        "is_correct": false
+      },
+      {
+        "text": "Add 2 guarantees safety",
+        "is_correct": false
+      },
+      {
+        "text": "Add 0",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "No move prevents it",
+      "Add 1 guarantees safety",
+      "Add 2 guarantees safety",
+      "Add 0"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "Adding 1 leaves 18 and adding 2 leaves 19; the opponent can reach 20 from either.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 20
   },
   {
     "id": "AC9M4P02-P-021",
@@ -733,35 +907,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "repeated_chance_trials",
-    "question": "While preparing a camp, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "While preparing a camp, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
+    "skill": "AI",
+    "question": "How can random examples help when training an AI system?",
+    "audio_prompt": "How can random examples help when training an AI system?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-021",
-      "alt_text": "While preparing a camp: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads occurred 12 times",
+        "text": "They guarantee perfect predictions",
+        "is_correct": false
+      },
+      {
+        "text": "They can supply varied cases to practise on",
         "is_correct": true
       },
       {
-        "text": "Heads must occur exactly 10 times",
+        "text": "They remove the need to check results",
         "is_correct": false
       },
       {
-        "text": "The next toss must be tails",
+        "text": "They ensure all outputs are true",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "They guarantee perfect predictions",
+      "They can supply varied cases to practise on",
+      "They remove the need to check results",
+      "They ensure all outputs are true"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "Random sampling can vary training examples; it does not guarantee accuracy.",
+      "hint": "Use the clue or observation to revise a prediction without making it certain."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 21
   },
   {
     "id": "AC9M4P02-P-022",
@@ -769,35 +952,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "chance_variation",
-    "question": "In a music project, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "In a music project, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "spinner_record",
+    "question": "A spinner gives A 3 times, B 8 times and C 4 times. Order from least to most observed.",
+    "audio_prompt": "A spinner gives A 3 times, B 8 times and C 4 times. Order from least to most observed.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-022",
-      "alt_text": "In a music project: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "One group must have counted falsely",
+        "text": "B, C, A",
         "is_correct": false
       },
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "C, A, B",
+        "is_correct": false
+      },
+      {
+        "text": "A, C, B",
         "is_correct": true
       },
       {
-        "text": "Fair spinners always give identical totals",
+        "text": "A, B, C",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "B, C, A",
+      "C, A, B",
+      "A, C, B",
+      "A, B, C"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "The observed counts are 3, 4 and 8 in increasing order.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 22
   },
   {
     "id": "AC9M4P02-P-023",
@@ -805,35 +997,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "repeated_chance_trials",
-    "question": "At a playground redesign, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "At a playground redesign, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
+    "skill": "spinner_variation",
+    "question": "A fair four-colour equal-sector spinner is spun 12 times. Must each colour occur 3 times?",
+    "audio_prompt": "A fair four-colour equal-sector spinner is spun 12 times. Must each colour occur 3 times?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-023",
-      "alt_text": "At a playground redesign: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads must occur exactly 10 times",
+        "text": "Yes, always",
         "is_correct": false
       },
       {
-        "text": "The next toss must be tails",
+        "text": "Only on Mondays",
         "is_correct": false
       },
       {
-        "text": "Heads occurred 14 times",
+        "text": "Only if colours are named",
+        "is_correct": false
+      },
+      {
+        "text": "No; counts may vary",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Yes, always",
+      "Only on Mondays",
+      "Only if colours are named",
+      "No; counts may vary"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
+      "summary": "Equal sector sizes give equal chances, but short-run counts need not be equal.",
+      "hint": "Separate what happened in this set from what is possible in the next trial."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 23
   },
   {
     "id": "AC9M4P02-P-024",
@@ -841,35 +1042,986 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "practice",
-    "skill": "chance_variation",
-    "question": "During a book drive, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "During a book drive, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "missing",
+    "question": "A coin was tossed 18 times. Eleven results were heads. How many were tails?",
+    "audio_prompt": "A coin was tossed 18 times. Eleven results were heads. How many were tails?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-p-024",
-      "alt_text": "During a book drive: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "7",
         "is_correct": true
       },
       {
-        "text": "One group must have counted falsely",
+        "text": "11",
         "is_correct": false
       },
       {
-        "text": "Fair spinners always give identical totals",
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "29",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "7",
+      "11",
+      "18",
+      "29"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
+      "summary": "There are only heads and tails, so 18 − 11 = 7.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 24
+  },
+  {
+    "id": "AC9M4P02-P-025",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "record_error",
+    "question": "A learner reports 20 coin tosses but tallies 9 heads and 8 tails. What should be checked?",
+    "audio_prompt": "A learner reports 20 coin tosses but tallies 9 heads and 8 tails. What should be checked?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Heads must be changed to 10",
+        "is_correct": false
+      },
+      {
+        "text": "Three results are missing or the total is wrong",
+        "is_correct": true
+      },
+      {
+        "text": "Tails must be changed to 10",
+        "is_correct": false
+      },
+      {
+        "text": "There is no mismatch",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Heads must be changed to 10",
+      "Three results are missing or the total is wrong",
+      "Tails must be changed to 10",
+      "There is no mismatch"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "9 + 8 = 17, which does not match the stated 20 trials.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 25
+  },
+  {
+    "id": "AC9M4P02-P-026",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "card_categories",
+    "question": "In a deck without jokers, which cards are picture cards for this experiment?",
+    "audio_prompt": "In a deck without jokers, which cards are picture cards for this experiment?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Only aces",
+        "is_correct": false
+      },
+      {
+        "text": "All red cards",
+        "is_correct": false
+      },
+      {
+        "text": "Jacks, queens and kings",
+        "is_correct": true
+      },
+      {
+        "text": "Only numbered cards 2 to 10",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Only aces",
+      "All red cards",
+      "Jacks, queens and kings",
+      "Only numbered cards 2 to 10"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "State the categories clearly: J, Q and K are picture cards; record aces separately from numbered cards.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 26
+  },
+  {
+    "id": "AC9M4P02-P-027",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "card_record",
+    "question": "A drawn queen of clubs belongs in which records?",
+    "audio_prompt": "A drawn queen of clubs belongs in which records?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#cards",
+      "alt_text": "Record two features of the same card"
+    },
+    "answers": [
+      {
+        "text": "Hearts and numbered card",
+        "is_correct": false
+      },
+      {
+        "text": "Spades and ace",
+        "is_correct": false
+      },
+      {
+        "text": "Diamonds and picture card",
+        "is_correct": false
+      },
+      {
+        "text": "Clubs and picture card",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Hearts and numbered card",
+      "Spades and ace",
+      "Diamonds and picture card",
+      "Clubs and picture card"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Suit and card type are different features of the same draw.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 27
+  },
+  {
+    "id": "AC9M4P02-P-028",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "variation",
+    "question": "Four sets of 10 fair-coin tosses have 4, 7, 5 and 3 heads. Which statement fits?",
+    "audio_prompt": "Four sets of 10 fair-coin tosses have 4, 7, 5 and 3 heads. Which statement fits?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The head counts vary from set to set",
+        "is_correct": true
+      },
+      {
+        "text": "Every set had 5 heads",
+        "is_correct": false
+      },
+      {
+        "text": "A later set must have 1 head",
+        "is_correct": false
+      },
+      {
+        "text": "The largest count is certain next time",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "The head counts vary from set to set",
+      "Every set had 5 heads",
+      "A later set must have 1 head",
+      "The largest count is certain next time"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The actual counts differ; the next set is not fixed by these values.",
+      "hint": "Separate what happened in this set from what is possible in the next trial."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 28
+  },
+  {
+    "id": "AC9M4P02-P-029",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "comparison",
+    "question": "Two groups use different spinners and get different results. What else is needed before blaming chance variation alone?",
+    "audio_prompt": "Two groups use different spinners and get different results. What else is needed before blaming chance variation alone?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Only compare students' names",
+        "is_correct": false
+      },
+      {
+        "text": "Compare the spinners' sector sizes and labels",
+        "is_correct": true
+      },
+      {
+        "text": "Assume all spinners match",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the larger count",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Only compare students' names",
+      "Compare the spinners' sector sizes and labels",
+      "Assume all spinners match",
+      "Delete the larger count"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Different designs can change chances as well as random variation.",
+      "hint": "List all available outcomes and compare their stated counts or equal sectors."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 29
+  },
+  {
+    "id": "AC9M4P02-P-030",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "plan",
+    "question": "Which stopping rule avoids choosing results to fit a prediction?",
+    "audio_prompt": "Which stopping rule avoids choosing results to fit a prediction?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Stop as soon as the favourite outcome leads",
+        "is_correct": false
+      },
+      {
+        "text": "Restart every unwanted result",
+        "is_correct": false
+      },
+      {
+        "text": "Decide on 20 trials before starting",
+        "is_correct": true
+      },
+      {
+        "text": "Stop when heads is ahead",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Stop as soon as the favourite outcome leads",
+      "Restart every unwanted result",
+      "Decide on 20 trials before starting",
+      "Stop when heads is ahead"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A predetermined number avoids selectively ending at a desired result.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 30
+  },
+  {
+    "id": "AC9M4P02-P-031",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "two_coins",
+    "question": "A two-coin table has HH 4, HT 7, TH 5, TT 4. How many trials gave mixed outcomes?",
+    "audio_prompt": "A two-coin table has HH 4, HT 7, TH 5, TT 4. How many trials gave mixed outcomes?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#coins",
+      "alt_text": "Example: 20 two-coin trials"
+    },
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "7",
+      "5",
+      "8",
+      "12"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Add HT and TH: 7 + 5 = 12.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 31
+  },
+  {
+    "id": "AC9M4P02-P-032",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "two_coins",
+    "question": "The same table has HH 4, HT 7, TH 5, TT 4. How many trials had matching coins?",
+    "audio_prompt": "The same table has HH 4, HT 7, TH 5, TT 4. How many trials had matching coins?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#coins",
+      "alt_text": "Example: 20 two-coin trials"
+    },
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "8",
+      "12",
+      "4",
+      "20"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Matching outcomes are HH and TT, giving 4 + 4 = 8.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 32
+  },
+  {
+    "id": "AC9M4P02-P-033",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "report",
+    "question": "Which is the strongest report of a 15-roll die experiment?",
+    "audio_prompt": "Which is the strongest report of a 15-roll die experiment?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Face 4 will always win",
+        "is_correct": false
+      },
+      {
+        "text": "Face 4 appeared 5 times in our 15 rolls",
+        "is_correct": true
+      },
+      {
+        "text": "The next roll is certainly 4",
+        "is_correct": false
+      },
+      {
+        "text": "The die can no longer show 4",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Face 4 will always win",
+      "Face 4 appeared 5 times in our 15 rolls",
+      "The next roll is certainly 4",
+      "The die can no longer show 4"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Reporting 5 occurrences of face 4 in 15 rolls states the observed evidence without claiming a guaranteed future result.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 33
+  },
+  {
+    "id": "AC9M4P02-P-034",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "virtual",
+    "question": "A class compares a physical and virtual fair coin using 30 trials each. Must their sequences match?",
+    "audio_prompt": "A class compares a physical and virtual fair coin using 30 trials each. Must their sequences match?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Yes, every result must match",
+        "is_correct": false
+      },
+      {
+        "text": "Only tails must match",
+        "is_correct": false
+      },
+      {
+        "text": "No; independent sequences can differ",
+        "is_correct": true
+      },
+      {
+        "text": "Only heads must match",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Yes, every result must match",
+      "Only tails must match",
+      "No; independent sequences can differ",
+      "Only heads must match"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The same stated chances do not force the same ordered sequence.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 34
+  },
+  {
+    "id": "AC9M4P02-P-035",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "card_replacement",
+    "question": "Why specify whether cards are returned between draws?",
+    "audio_prompt": "Why specify whether cards are returned between draws?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "It changes their printed suits",
+        "is_correct": false
+      },
+      {
+        "text": "It prevents any tallying",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees all suits equally often",
+        "is_correct": false
+      },
+      {
+        "text": "Keeping cards out changes what remains",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "It changes their printed suits",
+      "It prevents any tallying",
+      "It guarantees all suits equally often",
+      "Keeping cards out changes what remains"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The procedure affects later possibilities, so the report must state it.",
+      "hint": "Check whether the first result changes the available objects or the next trial."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 35
+  },
+  {
+    "id": "AC9M4P02-P-036",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "strategy",
+    "question": "A child wins one game after going first. What can we say?",
+    "audio_prompt": "A child wins one game after going first. What can we say?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "They won this game; more investigation is needed",
+        "is_correct": true
+      },
+      {
+        "text": "Going first always wins",
+        "is_correct": false
+      },
+      {
+        "text": "Going second is impossible",
+        "is_correct": false
+      },
+      {
+        "text": "Strategy cannot matter",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "They won this game; more investigation is needed",
+      "Going first always wins",
+      "Going second is impossible",
+      "Strategy cannot matter"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "One game cannot establish a general first-player advantage.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 36
+  },
+  {
+    "id": "AC9M4P02-P-037",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "record",
+    "question": "For 10 rolls, a die tally has counts 1, 2, 0, 3, 1, 3 for faces 1 to 6. Which face did not occur?",
+    "audio_prompt": "For 10 rolls, a die tally has counts 1, 2, 0, 3, 1, 3 for faces 1 to 6. Which face did not occur?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "1",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The third tally entry, for face 3, is zero.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 37
+  },
+  {
+    "id": "AC9M4P02-P-038",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "comparison",
+    "question": "In 10 die rolls, the counts for faces 1 to 6 are 1, 2, 0, 3, 1, 3. Which faces tied for most observed?",
+    "audio_prompt": "In 10 die rolls, the counts for faces 1 to 6 are 1, 2, 0, 3, 1, 3. Which faces tied for most observed?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "1 and 5",
+        "is_correct": false
+      },
+      {
+        "text": "2 and 3",
+        "is_correct": false
+      },
+      {
+        "text": "4 and 6",
+        "is_correct": true
+      },
+      {
+        "text": "3 and 4",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "1 and 5",
+      "2 and 3",
+      "4 and 6",
+      "3 and 4"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Faces 4 and 6 each have three occurrences, the greatest counts.",
+      "hint": "List all available outcomes and compare their stated counts or equal sectors."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 38
+  },
+  {
+    "id": "AC9M4P02-P-039",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "AI",
+    "question": "A randomly generated training example is incorrect. What should a person do?",
+    "audio_prompt": "A randomly generated training example is incorrect. What should a person do?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Accept it because random means correct",
+        "is_correct": false
+      },
+      {
+        "text": "Assume all examples are wrong",
+        "is_correct": false
+      },
+      {
+        "text": "Hide it without checking other work",
+        "is_correct": false
+      },
+      {
+        "text": "Check and correct or reject it",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Accept it because random means correct",
+      "Assume all examples are wrong",
+      "Hide it without checking other work",
+      "Check and correct or reject it"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Random generation does not establish truth; examples still need checking.",
+      "hint": "Use the clue or observation to revise a prediction without making it certain."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 39
+  },
+  {
+    "id": "AC9M4P02-P-040",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "method",
+    "question": "A coin falls off the table during an experiment. Best preparation?",
+    "audio_prompt": "A coin falls off the table during an experiment. Best preparation?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Agree before starting how such tosses will be handled",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore only tails on the floor",
+        "is_correct": false
+      },
+      {
+        "text": "Count it as whichever result is needed",
+        "is_correct": false
+      },
+      {
+        "text": "Change the rule each time",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Agree before starting how such tosses will be handled",
+      "Ignore only tails on the floor",
+      "Count it as whichever result is needed",
+      "Change the rule each time"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A consistent rule avoids selectively keeping preferred outcomes.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "application",
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9M4P02-P-041",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "real_coin_trials",
+    "question": "Toss a coin 10 times, recording each result in order. Repeat for a second set of 10. Make a heads/tails table for each set and compare the actual results.",
+    "audio_prompt": "Toss a coin 10 times, recording each result in order. Repeat for a second set of 10. Make a heads/tails table for each set and compare the actual results.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Each table totals 10 and matches its sequence. Counts may match or differ; neither pattern guarantees the next toss.",
+      "hint": "Complete the actual work and keep your evidence."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 41,
+    "grading_mode": "adult-review",
+    "model_answer": "Each table totals 10 and matches its sequence. Counts may match or differ; neither pattern guarantees the next toss.",
+    "acceptance_note": "Inspect two genuine sequences, matching tallies, totals and an accurate comparison. Do not demand equal heads and tails.",
+    "response_instructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4P02-P-042",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "real_die_trials",
+    "question": "Roll a die 18 times. Record all outcomes and make a table for faces 1 to 6, including any zero counts. Order the faces by observed frequency, keeping ties together.",
+    "audio_prompt": "Roll a die 18 times. Record all outcomes and make a table for faces 1 to 6, including any zero counts. Order the faces by observed frequency, keeping ties together.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Counts total 18 and agree with the original sequence. The order follows observed counts, including ties and zeros.",
+      "hint": "Complete the actual work and keep your evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 42,
+    "grading_mode": "adult-review",
+    "model_answer": "Counts total 18 and agree with the original sequence. The order follows observed counts, including ties and zeros.",
+    "acceptance_note": "Inspect actual 18-trial record, all six labels, total, ordered counts and ties.",
+    "response_instructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4P02-P-043",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "real_two_coins",
+    "question": "Label two coins A and B. Toss both 16 times. Record HH, HT, TH or TT each trial. Compare the total of HT and TH with HH and TT and explain what happened in your set.",
+    "audio_prompt": "Label two coins A and B. Toss both 16 times. Record HH, HT, TH or TT each trial. Compare the total of HT and TH with HH and TT and explain what happened in your set.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Four category counts total 16. Mixed total is HT + TH; matching total is HH + TT. Describe actual counts without promising the same result next time.",
+      "hint": "Complete the actual work and keep your evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 43,
+    "grading_mode": "adult-review",
+    "model_answer": "Four category counts total 16. Mixed total is HT + TH; matching total is HH + TT. Describe actual counts without promising the same result next time.",
+    "acceptance_note": "Require real trial records, all four ordered categories, correct grouped totals and a qualified conclusion.",
+    "response_instructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4P02-P-044",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "real_cards",
+    "question": "Use a standard deck without jokers. Shuffle, draw, record suit and card type, return and shuffle; repeat 12 times. Use picture (J, Q, K), numbered (2–10) and ace as separate types. Summarise results.",
+    "audio_prompt": "Use a standard deck without jokers. Shuffle, draw, record suit and card type, return and shuffle; repeat 12 times. Use picture (J, Q, K), numbered (2–10) and ace as separate types. Summarise results.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Suit counts total 12 and type counts separately total 12. Returning each card keeps contents unchanged. Actual counts vary.",
+      "hint": "Complete the actual work and keep your evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 44,
+    "grading_mode": "adult-review",
+    "model_answer": "Suit counts total 12 and type counts separately total 12. Returning each card keeps contents unchanged. Actual counts vary.",
+    "acceptance_note": "Inspect 12 actual draws, both classifications, totals, replacement procedure and observed-results summary.",
+    "response_instructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4P02-P-045",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "game_investigation",
+    "question": "Play six games of Noughts and Crosses with a partner, alternating who starts. Record starter, winner or draw and one strategy used. Discuss whether your results settle who should start.",
+    "audio_prompt": "Play six games of Noughts and Crosses with a partner, alternating who starts. Record starter, winner or draw and one strategy used. Discuss whether your results settle who should start.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Six records include three starts each. Blocking and making a line are relevant strategies. Six games give limited evidence and ability or choices can affect results.",
+      "hint": "Complete the actual work and keep your evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 45,
+    "grading_mode": "adult-review",
+    "model_answer": "Six records include three starts each. Blocking and making a line are relevant strategies. Six games give limited evidence and ability or choices can affect results.",
+    "acceptance_note": "Require actual games, complete records, balanced starts, specific strategy and qualified conclusion.",
+    "response_instructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4P02-P-046",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "first 20_game",
+    "question": "Play First to 20: start at 0, alternate adding 1 or 2, and win by reaching 20 exactly. Play four games, alternating starters. Record moves and results; identify one helpful decision near 20.",
+    "audio_prompt": "Play First to 20: start at 0, alternate adding 1 or 2, and win by reaching 20 exactly. Play four games, alternating starters. Record moves and results; identify one helpful decision near 20.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Four real move lists use only 1 or 2 and end at 20. At 18 add 2; at 19 add 1. Discuss starter results without claiming one small trial proves a general rule.",
+      "hint": "Complete the actual work and keep your evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 46,
+    "grading_mode": "adult-review",
+    "model_answer": "Four real move lists use only 1 or 2 and end at 20. At 18 add 2; at 19 add 1. Discuss starter results without claiming one small trial proves a general rule.",
+    "acceptance_note": "Inspect actual legal games, alternated starters, result table and a justified strategy example.",
+    "response_instructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4P02-P-047",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "virtual_generator",
+    "question": "With an adult, use a virtual coin or die for 20 trials. Record the tool and results. Repeat 20 trials with the matching physical object. Compare counts and discuss how random examples might supply varied AI training cases.",
+    "audio_prompt": "With an adult, use a virtual coin or die for 20 trials. Record the tool and results. Repeat 20 trials with the matching physical object. Compare counts and discuss how random examples might supply varied AI training cases.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Both records total 20; counts can differ even with matching stated chances. Random examples provide variety, but training examples still need accuracy checks.",
+      "hint": "Complete the actual work and keep your evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 47,
+    "grading_mode": "adult-review",
+    "model_answer": "Both records total 20; counts can differ even with matching stated chances. Random examples provide variety, but training examples still need accuracy checks.",
+    "acceptance_note": "Require operation of both generators, actual records, matched totals and both variation and AI-checking explanations.",
+    "response_instructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4P02-P-048",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4P02",
+    "bank": "practice",
+    "skill": "spinner_experiment",
+    "question": "Make a fair four-equal-sector spinner labelled A, A, B, C. Spin 20 times using the same method, recording each outcome. Compare observed counts with your expectation and explain any variation.",
+    "audio_prompt": "Make a fair four-equal-sector spinner labelled A, A, B, C. Spin 20 times using the same method, recording each outcome. Compare observed counts with your expectation and explain any variation.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "A has more equal sectors than B or C, so is expected more often over many spins, but need not lead in a set of 20. The actual counts must be reported honestly.",
+      "hint": "Complete the actual work and keep your evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 48,
+    "grading_mode": "adult-review",
+    "model_answer": "A has more equal sectors than B or C, so is expected more often over many spins, but need not lead in a set of 20. The actual counts must be reported honestly.",
+    "acceptance_note": "Inspect equal sectors and labels, real 20-trial record, total and an explanation separating expected likelihood from observed frequency.",
+    "response_instructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4P02-T-001",
@@ -877,33 +2029,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated_chance_trials",
-    "question": "At a coastal station, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "At a coastal station, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
+    "skill": "tally",
+    "question": "A coin gives T, H, T, T, H, H, T, H. How many heads?",
+    "audio_prompt": "A coin gives T, H, T, T, H, H, T, H. How many heads?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-001",
-      "alt_text": "At a coastal station: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads must occur exactly 10 times",
+        "text": "3",
         "is_correct": false
       },
       {
-        "text": "Heads occurred 8 times",
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
         "is_correct": true
       },
       {
-        "text": "The next toss must be tails",
+        "text": "8",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "3",
+      "5",
+      "4",
+      "8"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
-    }
+      "summary": "There are four H entries among eight trials.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4P02-T-002",
@@ -911,33 +2074,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "chance_variation",
-    "question": "During a museum challenge, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "During a museum challenge, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "variation",
+    "question": "Two fair-coin sets of 12 tosses give 4 and 9 heads. What is true?",
+    "audio_prompt": "Two fair-coin sets of 12 tosses give 4 and 9 heads. What is true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-002",
-      "alt_text": "During a museum challenge: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "One group must have counted falsely",
+        "text": "One set must be false",
         "is_correct": false
       },
       {
-        "text": "Fair spinners always give identical totals",
+        "text": "Each set must give 6 heads",
         "is_correct": false
       },
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "Tails is now guaranteed",
+        "is_correct": false
+      },
+      {
+        "text": "Different totals can occur by chance",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "One set must be false",
+      "Each set must give 6 heads",
+      "Tails is now guaranteed",
+      "Different totals can occur by chance"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
-    }
+      "summary": "Short sets need not have identical or exactly balanced results.",
+      "hint": "Separate what happened in this set from what is possible in the next trial."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4P02-T-003",
@@ -945,33 +2119,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated_chance_trials",
-    "question": "At a charity event, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "At a charity event, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
+    "skill": "two_coins",
+    "question": "A table records HH 3, HT 4, TH 6, TT 3. Mixed outcomes total?",
+    "audio_prompt": "A table records HH 3, HT 4, TH 6, TT 3. Mixed outcomes total?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-003",
-      "alt_text": "At a charity event: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads occurred 10 times",
+        "text": "10",
         "is_correct": true
       },
       {
-        "text": "Heads must occur exactly 10 times",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "The next toss must be tails",
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "16",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "10",
+      "4",
+      "6",
+      "16"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
-    }
+      "summary": "HT and TH are the mixed outcomes: 4 + 6 = 10.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 3
   },
   {
     "id": "AC9M4P02-T-004",
@@ -979,33 +2164,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "chance_variation",
-    "question": "In an engineering workshop, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "In an engineering workshop, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "card",
+    "question": "A drawn jack of hearts belongs to which categories?",
+    "audio_prompt": "A drawn jack of hearts belongs to which categories?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "One group must have counted falsely",
+        "text": "Hearts and numbered card",
         "is_correct": false
       },
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "Hearts and picture card",
         "is_correct": true
       },
       {
-        "text": "Fair spinners always give identical totals",
+        "text": "Spades and picture card",
+        "is_correct": false
+      },
+      {
+        "text": "Clubs and ace",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "Hearts and numbered card",
+      "Hearts and picture card",
+      "Spades and picture card",
+      "Clubs and ace"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
-    }
+      "summary": "Jack is a picture card and its suit is hearts.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 4
   },
   {
     "id": "AC9M4P02-T-005",
@@ -1013,33 +2209,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated_chance_trials",
-    "question": "At a regional carnival, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "At a regional carnival, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
+    "skill": "method",
+    "question": "Which procedure keeps a card experiment's contents unchanged each trial?",
+    "audio_prompt": "Which procedure keeps a card experiment's contents unchanged each trial?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-005",
-      "alt_text": "At a regional carnival: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads must occur exactly 10 times",
+        "text": "Keep every card out",
         "is_correct": false
       },
       {
-        "text": "The next toss must be tails",
+        "text": "Return only hearts",
         "is_correct": false
       },
       {
-        "text": "Heads occurred 12 times",
+        "text": "Return the card and shuffle before the next draw",
         "is_correct": true
+      },
+      {
+        "text": "Replace only unwanted results",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "Keep every card out",
+      "Return only hearts",
+      "Return the card and shuffle before the next draw",
+      "Replace only unwanted results"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
-    }
+      "summary": "Consistent replacement restores the same available cards.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 5
   },
   {
     "id": "AC9M4P02-T-006",
@@ -1047,33 +2254,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "chance_variation",
-    "question": "During a farm study, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "During a farm study, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "plan",
+    "question": "To explore starting-player effects, which plan is strongest?",
+    "audio_prompt": "To explore starting-player effects, which plan is strongest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-006",
-      "alt_text": "During a farm study: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "Play once with the strongest child first",
+        "is_correct": false
+      },
+      {
+        "text": "Delete every draw",
+        "is_correct": false
+      },
+      {
+        "text": "Let the winner always start and claim a fair comparison",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat games, alternate starters and record wins and draws",
         "is_correct": true
-      },
-      {
-        "text": "One group must have counted falsely",
-        "is_correct": false
-      },
-      {
-        "text": "Fair spinners always give identical totals",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "Play once with the strongest child first",
+      "Delete every draw",
+      "Let the winner always start and claim a fair comparison",
+      "Repeat games, alternate starters and record wins and draws"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
-    }
+      "summary": "Repeated games with alternating starters distribute starts and provide evidence about results; skill and choices can still affect them.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 6
   },
   {
     "id": "AC9M4P02-T-007",
@@ -1081,33 +2299,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated_chance_trials",
-    "question": "While reading a trail guide, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "While reading a trail guide, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
+    "skill": "first 20",
+    "question": "First to 20 allows adding 1 or 2. At 19, what legal move wins?",
+    "audio_prompt": "First to 20 allows adding 1 or 2. At 19, what legal move wins?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads must occur exactly 10 times",
-        "is_correct": false
-      },
-      {
-        "text": "Heads occurred 14 times",
+        "text": "Add 1",
         "is_correct": true
       },
       {
-        "text": "The next toss must be tails",
+        "text": "Add 2",
+        "is_correct": false
+      },
+      {
+        "text": "Add 3",
+        "is_correct": false
+      },
+      {
+        "text": "Subtract 1",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Add 1",
+      "Add 2",
+      "Add 3",
+      "Subtract 1"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
-    }
+      "summary": "19 + 1 = 20; the target is reached exactly.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 7
   },
   {
     "id": "AC9M4P02-T-008",
@@ -1115,33 +2344,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "chance_variation",
-    "question": "In an architecture studio, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "In an architecture studio, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "record_check",
+    "question": "A group says it rolled 16 times but its six face tallies sum to 15. What next?",
+    "audio_prompt": "A group says it rolled 16 times but its six face tallies sum to 15. What next?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-008",
-      "alt_text": "In an architecture studio: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "One group must have counted falsely",
+        "text": "Add a 6 without evidence",
         "is_correct": false
       },
       {
-        "text": "Fair spinners always give identical totals",
-        "is_correct": false
-      },
-      {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "Check the original record for a missing result or wrong total",
         "is_correct": true
+      },
+      {
+        "text": "Change all faces to equal totals",
+        "is_correct": false
+      },
+      {
+        "text": "Declare the die unfair",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Add a 6 without evidence",
+      "Check the original record for a missing result or wrong total",
+      "Change all faces to equal totals",
+      "Declare the die unfair"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
-    }
+      "summary": "Reconcile the count with the record; do not invent a result.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 8
   },
   {
     "id": "AC9M4P02-T-009",
@@ -1149,33 +2389,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated_chance_trials",
-    "question": "During a food-truck project, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "During a food-truck project, a coin lands heads 8 times in 20 tosses. Which statement describes the result?",
+    "skill": "AI",
+    "question": "Why check results produced using random generators in AI training?",
+    "audio_prompt": "Why check results produced using random generators in AI training?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-009",
-      "alt_text": "During a food-truck project: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads occurred 8 times",
+        "text": "Random means always correct",
+        "is_correct": false
+      },
+      {
+        "text": "Computers never need checking",
+        "is_correct": false
+      },
+      {
+        "text": "Random examples may be varied without being accurate",
         "is_correct": true
       },
       {
-        "text": "Heads must occur exactly 10 times",
-        "is_correct": false
-      },
-      {
-        "text": "The next toss must be tails",
+        "text": "Variation makes checking impossible",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "Random means always correct",
+      "Computers never need checking",
+      "Random examples may be varied without being accurate",
+      "Variation makes checking impossible"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
-    }
+      "summary": "Variety and correctness are different properties.",
+      "hint": "Use the clue or observation to revise a prediction without making it certain."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M4P02-T-010",
@@ -1183,33 +2434,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "chance_variation",
-    "question": "At a festival, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "At a festival, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "report",
+    "question": "A spinner gives green 11 times in 20 spins. Best report?",
+    "audio_prompt": "A spinner gives green 11 times in 20 spins. Best report?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-010",
-      "alt_text": "At a festival: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "One group must have counted falsely",
+        "text": "Green must occur next",
         "is_correct": false
       },
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "The spinner is certainly unfair",
+        "is_correct": false
+      },
+      {
+        "text": "Every set must repeat these totals",
+        "is_correct": false
+      },
+      {
+        "text": "Green occurred 11 times in this set",
         "is_correct": true
-      },
-      {
-        "text": "Fair spinners always give identical totals",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Green must occur next",
+      "The spinner is certainly unfair",
+      "Every set must repeat these totals",
+      "Green occurred 11 times in this set"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
-    }
+      "summary": "The observation supports a count statement, not a guarantee.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M4P02-T-011",
@@ -1217,33 +2479,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated_chance_trials",
-    "question": "While organising a collection, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "While organising a collection, a coin lands heads 10 times in 20 tosses. Which statement describes the result?",
+    "skill": "two_coins",
+    "question": "Why label the two coins A and B in a record?",
+    "audio_prompt": "Why label the two coins A and B in a record?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-011",
-      "alt_text": "While organising a collection: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Heads must occur exactly 10 times",
-        "is_correct": false
-      },
-      {
-        "text": "The next toss must be tails",
-        "is_correct": false
-      },
-      {
-        "text": "Heads occurred 10 times",
+        "text": "To distinguish HT from TH",
         "is_correct": true
+      },
+      {
+        "text": "To force different results",
+        "is_correct": false
+      },
+      {
+        "text": "To guarantee equal totals",
+        "is_correct": false
+      },
+      {
+        "text": "To remove TT",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "To distinguish HT from TH",
+      "To force different results",
+      "To guarantee equal totals",
+      "To remove TT"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
-    }
+      "summary": "Labels show which coin produced each result.",
+      "hint": "Count the relevant recorded outcomes, including both orders when grouping mixed coins."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M4P02-T-012",
@@ -1251,33 +2524,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "chance_variation",
-    "question": "In an environmental study, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "In an environmental study, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "strategy",
+    "question": "Why discuss strategy when investigating Noughts and Crosses?",
+    "audio_prompt": "Why discuss strategy when investigating Noughts and Crosses?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-012",
-      "alt_text": "In an environmental study: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "Random results can vary in a limited number of trials",
+        "text": "The game is entirely a coin toss",
+        "is_correct": false
+      },
+      {
+        "text": "Choices and starting order may affect results",
         "is_correct": true
       },
       {
-        "text": "One group must have counted falsely",
+        "text": "Every legal move is identical",
         "is_correct": false
       },
       {
-        "text": "Fair spinners always give identical totals",
+        "text": "Chance guarantees the winner",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "The game is entirely a coin toss",
+      "Choices and starting order may affect results",
+      "Every legal move is identical",
+      "Chance guarantees the winner"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
-    }
+      "summary": "A repeated game investigation should consider players' choices as well as who starts.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M4P02-T-013",
@@ -1285,33 +2569,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated_chance_trials",
-    "question": "During a transport survey, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "During a transport survey, a coin lands heads 12 times in 20 tosses. Which statement describes the result?",
+    "skill": "coin_sets",
+    "question": "Conduct three sets of 8 coin tosses. Keep ordered records, count heads and tails in each set, and describe similarities or differences.",
+    "audio_prompt": "Conduct three sets of 8 coin tosses. Keep ordered records, count heads and tails in each set, and describe similarities or differences.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-013",
-      "alt_text": "During a transport survey: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "Heads must occur exactly 10 times",
-        "is_correct": false
-      },
-      {
-        "text": "Heads occurred 12 times",
-        "is_correct": true
-      },
-      {
-        "text": "The next toss must be tails",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
-    }
+      "summary": "Each set totals 8 and matches its sequence. Report actual variation or matching counts without claiming a forced next toss.",
+      "hint": "Complete the actual work and keep your evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 13,
+    "grading_mode": "adult-review",
+    "model_answer": "Each set totals 8 and matches its sequence. Report actual variation or matching counts without claiming a forced next toss.",
+    "acceptance_note": "Inspect 24 actual outcomes in three sets, accurate counts and qualified comparison.",
+    "response_instructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4P02-T-014",
@@ -1319,33 +2596,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "chance_variation",
-    "question": "At a strategy tournament, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "At a strategy tournament, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "two_coin_record",
+    "question": "Toss two labelled coins 12 times. Make a four-category tally, then combine mixed outcomes. Write one sentence comparing mixed with matching outcomes in your results.",
+    "audio_prompt": "Toss two labelled coins 12 times. Make a four-category tally, then combine mixed outcomes. Write one sentence comparing mixed with matching outcomes in your results.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "One group must have counted falsely",
-        "is_correct": false
-      },
-      {
-        "text": "Fair spinners always give identical totals",
-        "is_correct": false
-      },
-      {
-        "text": "Random results can vary in a limited number of trials",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
-    }
+      "summary": "HH, HT, TH, TT counts total 12; mixed=HT+TH and matching=HH+TT. The comparison matches actual evidence.",
+      "hint": "Complete the actual work and keep your evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 14,
+    "grading_mode": "adult-review",
+    "model_answer": "HH, HT, TH, TT counts total 12; mixed=HT+TH and matching=HH+TT. The comparison matches actual evidence.",
+    "acceptance_note": "Require actual 12-trial sequence, all four categories, two grouped totals and accurate statement.",
+    "response_instructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4P02-T-015",
@@ -1353,33 +2623,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "repeated_chance_trials",
-    "question": "While planning a community garden, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
-    "audio_prompt": "While planning a community garden, a coin lands heads 14 times in 20 tosses. Which statement describes the result?",
+    "skill": "spinner_comparison",
+    "question": "Use a fair two-equal-sector spinner labelled sun and moon. Conduct two sets of 15 spins. Record and compare results and explain why equal sectors need not give equal counts.",
+    "audio_prompt": "Use a fair two-equal-sector spinner labelled sun and moon. Conduct two sets of 15 spins. Record and compare results and explain why equal sectors need not give equal counts.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-015",
-      "alt_text": "While planning a community garden: a Year 4 repeated chance trials reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "Heads occurred 14 times",
-        "is_correct": true
-      },
-      {
-        "text": "Heads must occur exactly 10 times",
-        "is_correct": false
-      },
-      {
-        "text": "The next toss must be tails",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Experimental results report what occurred without predicting certainty.",
-      "hint": "Separate observed frequency from expected likelihood."
-    }
+      "summary": "Both sets total 15. Equal sectors describe chances, whereas actual counts vary. With 15 spins two counts cannot even be exactly equal.",
+      "hint": "Complete the actual work and keep your evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 15,
+    "grading_mode": "adult-review",
+    "model_answer": "Both sets total 15. Equal sectors describe chances, whereas actual counts vary. With 15 spins two counts cannot even be exactly equal.",
+    "acceptance_note": "Require actual 30 outcomes, accurate tables and explanation separating chance from result.",
+    "response_instructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4P02-T-016",
@@ -1387,32 +2650,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4P02",
     "bank": "test",
-    "skill": "chance_variation",
-    "question": "In a design exhibition, two groups use the same fair spinner and get different totals. Why can this happen?",
-    "audio_prompt": "In a design exhibition, two groups use the same fair spinner and get different totals. Why can this happen?",
+    "skill": "card_investigation",
+    "question": "Draw from a shuffled standard deck without jokers 10 times, returning and shuffling each time. Record each suit and whether the card is J, Q, K; 2–10; or ace. Compare the actual suit totals and explain your replacement rule.",
+    "audio_prompt": "Draw from a shuffled standard deck without jokers 10 times, returning and shuffling each time. Record each suit and whether the card is J, Q, K; 2–10; or ace. Compare the actual suit totals and explain your replacement rule.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#ac9m4p02-t-016",
-      "alt_text": "In a design exhibition: a Year 4 chance variation reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "One group must have counted falsely",
-        "is_correct": false
-      },
-      {
-        "text": "Random results can vary in a limited number of trials",
-        "is_correct": true
-      },
-      {
-        "text": "Fair spinners always give identical totals",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Chance variation is expected across finite trials.",
-      "hint": "More trials usually make long-run patterns clearer."
-    }
+      "summary": "Both classification totals independently equal 10. Report observed suits and ties accurately; replacement restores the deck.",
+      "hint": "Complete the actual work and keep your evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 16,
+    "grading_mode": "adult-review",
+    "model_answer": "Both classification totals independently equal 10. Report observed suits and ties accurately; replacement restores the deck.",
+    "acceptance_note": "Inspect 10 real draws, correct dual classifications, summaries and replacement explanation.",
+    "response_instructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   }
 ]

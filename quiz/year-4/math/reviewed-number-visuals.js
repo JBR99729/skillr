@@ -1,9 +1,9 @@
 "use strict";
 
 // Keep the authored mathematics models visible when a learner revisits an answer.
-// This adapter is loaded only by the scoped N01–N09, A01–A02 and M01–M04 pages.
+// This adapter is loaded only by reviewed Year 4 Maths activity pages.
 document.addEventListener("DOMContentLoaded", () => {
-  const code = location.pathname.match(/\/math\/(ac9m4(?:n0[1-9]|a0[12]|m0[1-4]))\//)?.[1];
+  const code = location.pathname.match(/\/math\/(ac9m4(?:n0[1-9]|a0[12]|m0[1-4]|sp0[1-3]|st0[1-3]|p0[12]))\//)?.[1];
   const bank = window.quizQuestions;
   if (!code || !Array.isArray(bank)) return;
   let result;
@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const correct = item.gradingMode === "adult-review" ? item.modelAnswer : item.answers?.[item.correct];
     if (correct !== answer.correctAnswer) return;
     const visual = item.visualMeta;
-    const localModel = new RegExp(`^/assets/assessment-visuals/year4/math/${code}(?:/[a-zA-Z0-9_-]+)*\\.svg#[a-zA-Z0-9_-]+$`);
+    const localModel = new RegExp(`^/assets/assessment-visuals/year4/math/${code}(?:[-/][a-zA-Z0-9_-]+)*\\.svg#[a-zA-Z0-9_-]+$`);
     if (visual?.type !== "svg" || !localModel.test(visual.asset_path || "")) return;
     const heading = card.querySelector("h2");
     if (!heading || card.querySelector(".reviewed-number-model")) return;

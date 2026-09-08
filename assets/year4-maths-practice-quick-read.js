@@ -8,8 +8,8 @@
   if (!match) return;
   const code = match[1].toUpperCase();
   const mode = match[2].toLowerCase();
-  const reviewedPreparation = /^AC9M4(?:N0[1-9]|A0[12]|M0[1-4])$/.test(code)
-    && /^20260908-year4-(?:first|second|third)-five$/.test(window.quizConfig?.bankVersion || "")
+  const reviewedPreparation = /^AC9M4(?:N0[1-9]|A0[12]|M0[1-4]|SP0[1-3]|ST0[1-3]|P0[12])$/.test(code)
+    && /^20260908-year4-(?:(?:first|second|third)-five|final-eight)$/.test(window.quizConfig?.bankVersion || "")
     && document.querySelector('.pre-read-notes[data-skillr-authored-preparation="true"]');
   const unit = window.SkillrYear4MathsData?.[code];
   if (!unit && !reviewedPreparation) return;

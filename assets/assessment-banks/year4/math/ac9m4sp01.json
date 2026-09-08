@@ -5,32 +5,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "In a class project, which familiar shapes best approximate a house?",
-    "audio_prompt": "In a class project, which familiar shapes best approximate a house?",
+    "skill": "identify_components",
+    "question": "Look at the front-view house. Which shape forms the roof?",
+    "audio_prompt": "Look at the front-view house. Which shape forms the roof?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-001",
-      "alt_text": "In a class project: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01-house.svg#model",
+      "alt_text": "Front view: a triangular roof above a rectangular wall, with one rectangular door and two square windows."
     },
     "answers": [
       {
-        "text": "rectangular prism and triangular prism",
+        "text": "rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "circle",
+        "is_correct": false
+      },
+      {
+        "text": "triangle",
         "is_correct": true
       },
       {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "unconnected lines with no relative positions",
+        "text": "cube",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "rectangle",
+      "circle",
+      "triangle",
+      "cube"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "The roof outline has three straight sides. A cube is a solid, not a flat triangular outline.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -42,36 +52,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "At the school market, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "At the school market, which familiar shapes best approximate a water tower?",
+    "skill": "identify_components",
+    "question": "In the house drawing, which statement names the door and both windows?",
+    "audio_prompt": "In the house drawing, which statement names the door and both windows?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-002",
-      "alt_text": "At the school market: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01-house.svg#model",
+      "alt_text": "Front view: a triangular roof above a rectangular wall, with one rectangular door and two square windows."
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "three circles",
         "is_correct": false
       },
       {
-        "text": "cylinder and supporting prisms",
+        "text": "one triangle and two rectangles",
+        "is_correct": false
+      },
+      {
+        "text": "one square and two triangles",
+        "is_correct": false
+      },
+      {
+        "text": "one rectangle and two squares",
         "is_correct": true
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "three circles",
+      "one triangle and two rectangles",
+      "one square and two triangles",
+      "one rectangle and two squares"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "The tall door is a rectangle; each window has four equal sides and square corners.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4SP01-P-003",
@@ -79,36 +99,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "While planning a garden, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "While planning a garden, which familiar shapes best approximate a rocket model?",
+    "skill": "recreate_components",
+    "question": "Cut the pictured square along its diagonal. What pieces can rebuild it exactly?",
+    "audio_prompt": "Cut the pictured square along its diagonal. What pieces can rebuild it exactly?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-003",
-      "alt_text": "While planning a garden: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01-tangram.svg#model",
+      "alt_text": "A square divided by one diagonal into two congruent right triangles."
     },
     "answers": [
       {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
-      },
-      {
-        "text": "cylinder, cone and triangular fins",
+        "text": "two matching right triangles",
         "is_correct": true
+      },
+      {
+        "text": "two circles",
+        "is_correct": false
+      },
+      {
+        "text": "three equal squares",
+        "is_correct": false
+      },
+      {
+        "text": "a rectangle and a circle",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "two matching right triangles",
+      "two circles",
+      "three equal squares",
+      "a rectangle and a circle"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "The diagonal connects opposite corners, producing two matching triangles that cover the square.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3
   },
   {
     "id": "AC9M4SP01-P-004",
@@ -116,36 +146,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "During a sports challenge, which familiar shapes best approximate a house?",
-    "audio_prompt": "During a sports challenge, which familiar shapes best approximate a house?",
+    "skill": "approximate_animal",
+    "question": "Which set matches the pictured fish?",
+    "audio_prompt": "Which set matches the pictured fish?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-004",
-      "alt_text": "During a sports challenge: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01-fish.svg#model",
+      "alt_text": "A cartoon fish made from an oval body, a triangular tail on its left, and a small circular eye on its right."
     },
     "answers": [
       {
-        "text": "rectangular prism and triangular prism",
+        "text": "rectangular body, square tail, triangular eye",
+        "is_correct": false
+      },
+      {
+        "text": "oval body, triangular tail, circular eye",
         "is_correct": true
       },
       {
-        "text": "one circle only",
+        "text": "circle body, rectangle tail, oval eye",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "triangle body, oval tail, square eye",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "rectangular body, square tail, triangular eye",
+      "oval body, triangular tail, circular eye",
+      "circle body, rectangle tail, oval eye",
+      "triangle body, oval tail, square eye"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "The large oval, left triangle and small circle preserve the fish’s main features.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4
   },
   {
     "id": "AC9M4SP01-P-005",
@@ -153,36 +193,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "At the wildlife centre, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "At the wildlife centre, which familiar shapes best approximate a water tower?",
+    "skill": "compose_and_approximate",
+    "question": "Two equal squares meet along a whole side without overlap. What outline do they form?",
+    "audio_prompt": "Two equal squares meet along a whole side without overlap. What outline do they form?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-005",
-      "alt_text": "At the wildlife centre: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01-joins.svg#model",
+      "alt_text": "Arrangement A has two squares sharing a full side; B has the same squares touching only at one corner."
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "a triangle",
         "is_correct": false
       },
       {
-        "text": "cylinder and supporting prisms",
+        "text": "a circle",
+        "is_correct": false
+      },
+      {
+        "text": "a rectangle",
         "is_correct": true
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "a pentagon",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "a triangle",
+      "a circle",
+      "a rectangle",
+      "a pentagon"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "Joining the squares side by side makes a longer shape with four right-angled corners.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 5
   },
   {
     "id": "AC9M4SP01-P-006",
@@ -190,36 +240,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "In the makerspace, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "In the makerspace, which familiar shapes best approximate a rocket model?",
+    "skill": "compose_and_approximate",
+    "question": "A flat arrow is made from a rectangular shaft and a triangular head. Where should the triangle go?",
+    "audio_prompt": "A flat arrow is made from a rectangular shaft and a triangular head. Where should the triangle go?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-006",
-      "alt_text": "In the makerspace: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "inside the middle, pointing across the shaft",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "far away from the shaft",
         "is_correct": false
       },
       {
-        "text": "cylinder, cone and triangular fins",
+        "text": "under the shaft, pointing backwards",
+        "is_correct": false
+      },
+      {
+        "text": "at one end, pointing away from the shaft",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "inside the middle, pointing across the shaft",
+      "far away from the shaft",
+      "under the shaft, pointing backwards",
+      "at one end, pointing away from the shaft"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "The attached triangular head gives the arrow a clear pointing direction.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 6
   },
   {
     "id": "AC9M4SP01-P-007",
@@ -227,36 +285,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "While checking a map, which familiar shapes best approximate a house?",
-    "audio_prompt": "While checking a map, which familiar shapes best approximate a house?",
+    "skill": "compose_and_approximate",
+    "question": "A simple snowman picture uses three circles. Which arrangement best represents a standing snowman?",
+    "audio_prompt": "A simple snowman picture uses three circles. Which arrangement best represents a standing snowman?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-007",
-      "alt_text": "While checking a map: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "rectangular prism and triangular prism",
+        "text": "circles stacked vertically, largest at the bottom",
         "is_correct": true
       },
       {
-        "text": "one circle only",
+        "text": "circles scattered apart",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "three circles in one horizontal row",
+        "is_correct": false
+      },
+      {
+        "text": "smallest circle underneath two much larger circles",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "circles stacked vertically, largest at the bottom",
+      "circles scattered apart",
+      "three circles in one horizontal row",
+      "smallest circle underneath two much larger circles"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "Relative position and size help the viewer recognise the body and head.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 7
   },
   {
     "id": "AC9M4SP01-P-008",
@@ -264,36 +330,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "During a cooking task, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "During a cooking task, which familiar shapes best approximate a water tower?",
+    "skill": "compose_and_approximate",
+    "question": "A flat flower symbol uses a circle surrounded by six ovals. What do the ovals represent?",
+    "audio_prompt": "A flat flower symbol uses a circle surrounded by six ovals. What do the ovals represent?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-008",
-      "alt_text": "During a cooking task: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "a solid stem",
         "is_correct": false
       },
       {
-        "text": "cylinder and supporting prisms",
+        "text": "petals",
         "is_correct": true
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "six cubes",
+        "is_correct": false
+      },
+      {
+        "text": "the whole background",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "a solid stem",
+      "petals",
+      "six cubes",
+      "the whole background"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "The ovals are arranged around the centre like petals around a flower centre.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 8
   },
   {
     "id": "AC9M4SP01-P-009",
@@ -301,35 +375,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "At the community fair, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "At the community fair, which familiar shapes best approximate a rocket model?",
+    "skill": "compose_and_approximate",
+    "question": "Which model best approximates a long, round pencil with a pointed tip?",
+    "audio_prompt": "Which model best approximates a long, round pencil with a pointed tip?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-009",
-      "alt_text": "At the community fair: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "two cubes side by side",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "a sphere above a cube",
         "is_correct": false
       },
       {
-        "text": "cylinder, cone and triangular fins",
+        "text": "a cylinder joined to a cone",
         "is_correct": true
+      },
+      {
+        "text": "one flat triangle only",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "two cubes side by side",
+      "a sphere above a cube",
+      "a cylinder joined to a cone",
+      "one flat triangle only"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "The cylinder models the long body and the cone the pointed tip.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M4SP01-P-010",
@@ -337,35 +420,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "In a library display, which familiar shapes best approximate a house?",
-    "audio_prompt": "In a library display, which familiar shapes best approximate a house?",
+    "skill": "compose_and_approximate",
+    "question": "Which solids best model a straight-sided tin with a round lid?",
+    "audio_prompt": "Which solids best model a straight-sided tin with a round lid?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-010",
-      "alt_text": "In a library display: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "rectangular prism and triangular prism",
+        "text": "a sphere for the whole tin",
+        "is_correct": false
+      },
+      {
+        "text": "a cone for the whole tin",
+        "is_correct": false
+      },
+      {
+        "text": "a pyramid for the whole tin",
+        "is_correct": false
+      },
+      {
+        "text": "a cylinder for the main tin",
         "is_correct": true
-      },
-      {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "a sphere for the whole tin",
+      "a cone for the whole tin",
+      "a pyramid for the whole tin",
+      "a cylinder for the main tin"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "A cylinder has parallel circular ends and a curved side like the simplified tin.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M4SP01-P-011",
@@ -373,35 +465,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "During a science activity, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "During a science activity, which familiar shapes best approximate a water tower?",
+    "skill": "compose_and_approximate",
+    "question": "A block model of a chair has a seat, legs and back. Which feature is most important to retain?",
+    "audio_prompt": "A block model of a chair has a seat, legs and back. Which feature is most important to retain?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-011",
-      "alt_text": "During a science activity: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "cylinder and supporting prisms",
+        "text": "the seat between the legs and raised back",
         "is_correct": true
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "the legs placed above the back",
+        "is_correct": false
+      },
+      {
+        "text": "the seat hanging far beside the legs",
+        "is_correct": false
+      },
+      {
+        "text": "the back placed underneath the seat",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "the seat between the legs and raised back",
+      "the legs placed above the back",
+      "the seat hanging far beside the legs",
+      "the back placed underneath the seat"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "The relative positions communicate the chair’s main structure.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M4SP01-P-012",
@@ -409,35 +510,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "At the school canteen, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "At the school canteen, which familiar shapes best approximate a rocket model?",
+    "skill": "compose_and_approximate",
+    "question": "Why can a cube model approximate a curved animal even though it is not exact?",
+    "audio_prompt": "Why can a cube model approximate a curved animal even though it is not exact?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-012",
-      "alt_text": "At the school canteen: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "cubes have curved faces",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
-      },
-      {
-        "text": "cylinder, cone and triangular fins",
+        "text": "many cubes can suggest the overall body and position",
         "is_correct": true
+      },
+      {
+        "text": "an approximation must copy every curve exactly",
+        "is_correct": false
+      },
+      {
+        "text": "any pile of cubes shows the same animal equally well",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "cubes have curved faces",
+      "many cubes can suggest the overall body and position",
+      "an approximation must copy every curve exactly",
+      "any pile of cubes shows the same animal equally well"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "Small blocks approximate the outline and arrangement while simplifying curved details.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M4SP01-P-013",
@@ -445,35 +555,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "While organising an excursion, which familiar shapes best approximate a house?",
-    "audio_prompt": "While organising an excursion, which familiar shapes best approximate a house?",
+    "skill": "compose_and_approximate",
+    "question": "A model bench uses six interlocking cubes connected in a row for its seat. Which addition represents two supports?",
+    "audio_prompt": "A model bench uses six interlocking cubes connected in a row for its seat. Which addition represents two supports?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-013",
-      "alt_text": "While organising an excursion: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "rectangular prism and triangular prism",
+        "text": "two cubes floating above the seat",
+        "is_correct": false
+      },
+      {
+        "text": "two cubes far from the seat",
+        "is_correct": false
+      },
+      {
+        "text": "one cube under each end",
         "is_correct": true
       },
       {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "unconnected lines with no relative positions",
+        "text": "two cubes hidden inside the same occupied space",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "two cubes floating above the seat",
+      "two cubes far from the seat",
+      "one cube under each end",
+      "two cubes hidden inside the same occupied space"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "Supports below opposite ends make the bench structure visible.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 13
   },
   {
     "id": "AC9M4SP01-P-014",
@@ -481,35 +600,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "In a games club, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "In a games club, which familiar shapes best approximate a water tower?",
+    "skill": "compose_and_approximate",
+    "question": "A staircase model will use adjacent columns of cubes. The diagram shows its first three column heights separately: one, two and three cubes. What should happen next to make a fourth rising step?",
+    "audio_prompt": "A staircase model will use adjacent columns of cubes. The diagram shows its first three column heights separately: one, two and three cubes. What should happen next to make a fourth rising step?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-014",
-      "alt_text": "In a games club: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01-cubesteps.svg#model",
+      "alt_text": "Three separate columns show proposed stair-model heights of one, two and three equal cubes, left to right."
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "remove the tallest column",
         "is_correct": false
       },
       {
-        "text": "cylinder and supporting prisms",
+        "text": "place one cube far away",
+        "is_correct": false
+      },
+      {
+        "text": "make all columns one cube high",
+        "is_correct": false
+      },
+      {
+        "text": "add a column four cubes high beside the third",
         "is_correct": true
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "remove the tallest column",
+      "place one cube far away",
+      "make all columns one cube high",
+      "add a column four cubes high beside the third"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "Successively taller adjacent columns represent rising steps.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 14
   },
   {
     "id": "AC9M4SP01-P-015",
@@ -517,35 +647,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "During an art project, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "During an art project, which familiar shapes best approximate a rocket model?",
+    "skill": "compose_and_approximate",
+    "question": "In a cube-model building, the tower should look taller than the entrance. Which change helps?",
+    "audio_prompt": "In a cube-model building, the tower should look taller than the entrance. Which change helps?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-015",
-      "alt_text": "During an art project: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
-      },
-      {
-        "text": "cylinder, cone and triangular fins",
+        "text": "add cubes above the tower",
         "is_correct": true
+      },
+      {
+        "text": "remove cubes from the tower only",
+        "is_correct": false
+      },
+      {
+        "text": "make the tower and entrance equally low",
+        "is_correct": false
+      },
+      {
+        "text": "move the tower out of the model",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "add cubes above the tower",
+      "remove cubes from the tower only",
+      "make the tower and entrance equally low",
+      "move the tower out of the model"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "Changing relative height makes the tall feature recognisable.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 15
   },
   {
     "id": "AC9M4SP01-P-016",
@@ -553,35 +692,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "At the recycling station, which familiar shapes best approximate a house?",
-    "audio_prompt": "At the recycling station, which familiar shapes best approximate a house?",
+    "skill": "compose_and_approximate",
+    "question": "Why is a circle a better flat approximation than a triangle for a round clock face?",
+    "audio_prompt": "Why is a circle a better flat approximation than a triangle for a round clock face?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-016",
-      "alt_text": "At the recycling station: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "rectangular prism and triangular prism",
+        "text": "it has three corners",
+        "is_correct": false
+      },
+      {
+        "text": "it preserves the round outline",
         "is_correct": true
       },
       {
-        "text": "one circle only",
+        "text": "it is a three-dimensional solid",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "it copies every number automatically",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "it has three corners",
+      "it preserves the round outline",
+      "it is a three-dimensional solid",
+      "it copies every number automatically"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "A circle shows the key round boundary without needing all the clock’s details.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 16
   },
   {
     "id": "AC9M4SP01-P-017",
@@ -589,35 +737,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "While planning a survey, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "While planning a survey, which familiar shapes best approximate a water tower?",
+    "skill": "compose_and_approximate",
+    "question": "A rectangular bus picture has two circular wheels. Why attach the wheels near the bottom?",
+    "audio_prompt": "A rectangular bus picture has two circular wheels. Why attach the wheels near the bottom?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-017",
-      "alt_text": "While planning a survey: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "circles can only be drawn there",
         "is_correct": false
       },
       {
-        "text": "cylinder and supporting prisms",
+        "text": "the wheels must cover all the windows",
+        "is_correct": false
+      },
+      {
+        "text": "their position helps represent a vehicle",
         "is_correct": true
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "circles become rectangles there",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "circles can only be drawn there",
+      "the wheels must cover all the windows",
+      "their position helps represent a vehicle",
+      "circles become rectangles there"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "The arrangement of the component shapes matters as well as their names.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 17
   },
   {
     "id": "AC9M4SP01-P-018",
@@ -625,35 +782,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "In a coding lesson, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "In a coding lesson, which familiar shapes best approximate a rocket model?",
+    "skill": "compose_and_approximate",
+    "question": "A toy castle uses a central prism and two cylinders with cones on top. What do the cylinders and cones represent?",
+    "audio_prompt": "A toy castle uses a central prism and two cylinders with cones on top. What do the cylinders and cones represent?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-018",
-      "alt_text": "In a coding lesson: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "circular openings in the central block",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "flat triangular windows",
         "is_correct": false
       },
       {
-        "text": "cylinder, cone and triangular fins",
+        "text": "rectangular doors below the central block",
+        "is_correct": false
+      },
+      {
+        "text": "towers with pointed roofs",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "circular openings in the central block",
+      "flat triangular windows",
+      "rectangular doors below the central block",
+      "towers with pointed roofs"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "The tall round cylinders and pointed cones model turret-like structures.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 18
   },
   {
     "id": "AC9M4SP01-P-019",
@@ -661,35 +827,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "During a building task, which familiar shapes best approximate a house?",
-    "audio_prompt": "During a building task, which familiar shapes best approximate a house?",
+    "skill": "compose_and_approximate",
+    "question": "A student names a sphere in a flat face drawing. Which correction is precise?",
+    "audio_prompt": "A student names a sphere in a flat face drawing. Which correction is precise?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-019",
-      "alt_text": "During a building task: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "rectangular prism and triangular prism",
+        "text": "The drawn outline is a circle; a ball model is a sphere.",
         "is_correct": true
       },
       {
-        "text": "one circle only",
+        "text": "A circle and sphere are always the same object.",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "Every round drawing is a cylinder.",
+        "is_correct": false
+      },
+      {
+        "text": "Flat drawings cannot represent real objects.",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "The drawn outline is a circle; a ball model is a sphere.",
+      "A circle and sphere are always the same object.",
+      "Every round drawing is a cylinder.",
+      "Flat drawings cannot represent real objects."
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "Use two-dimensional names for flat components and solid names for physical objects.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 19
   },
   {
     "id": "AC9M4SP01-P-020",
@@ -697,35 +872,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "At the local pool, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "At the local pool, which familiar shapes best approximate a water tower?",
+    "skill": "compose_and_approximate",
+    "question": "Two different animal drawings both use circles and triangles. Why might only one resemble a cat?",
+    "audio_prompt": "Two different animal drawings both use circles and triangles. Why might only one resemble a cat?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-020",
-      "alt_text": "At the local pool: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "the same shapes always make the same image",
         "is_correct": false
       },
       {
-        "text": "cylinder and supporting prisms",
+        "text": "shape size, position and arrangement differ",
         "is_correct": true
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "triangles cannot represent ears",
+        "is_correct": false
+      },
+      {
+        "text": "circles cannot be combined",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "the same shapes always make the same image",
+      "shape size, position and arrangement differ",
+      "triangles cannot represent ears",
+      "circles cannot be combined"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "Two triangular ears above a head circle communicate a different structure from scattered pieces.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 20
   },
   {
     "id": "AC9M4SP01-P-021",
@@ -733,35 +917,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "While preparing a camp, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "While preparing a camp, which familiar shapes best approximate a rocket model?",
+    "skill": "compose_and_approximate",
+    "question": "A flat fish has an oval body and triangle tail. Which arrangement recreates a fish pointing right?",
+    "audio_prompt": "A flat fish has an oval body and triangle tail. Which arrangement recreates a fish pointing right?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-021",
-      "alt_text": "While preparing a camp: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "put the tail inside the middle of the oval",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "place the tail detached above the oval",
         "is_correct": false
       },
       {
-        "text": "cylinder, cone and triangular fins",
+        "text": "attach the triangle at the left end of the oval",
         "is_correct": true
+      },
+      {
+        "text": "put the oval entirely inside the triangle",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "put the tail inside the middle of the oval",
+      "place the tail detached above the oval",
+      "attach the triangle at the left end of the oval",
+      "put the oval entirely inside the triangle"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "The tail attaches behind the body, opposite the direction the fish faces.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 21
   },
   {
     "id": "AC9M4SP01-P-022",
@@ -769,35 +962,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "In a music project, which familiar shapes best approximate a house?",
-    "audio_prompt": "In a music project, which familiar shapes best approximate a house?",
+    "skill": "compose_and_approximate",
+    "question": "A flat tent drawing uses a large triangle and a smaller doorway triangle. Which detail can a simple approximation omit?",
+    "audio_prompt": "A flat tent drawing uses a large triangle and a smaller doorway triangle. Which detail can a simple approximation omit?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-022",
-      "alt_text": "In a music project: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "rectangular prism and triangular prism",
+        "text": "the main triangular outline",
+        "is_correct": false
+      },
+      {
+        "text": "the doorway’s position",
+        "is_correct": false
+      },
+      {
+        "text": "the fact the doorway is smaller",
+        "is_correct": false
+      },
+      {
+        "text": "tiny fabric stitches",
         "is_correct": true
-      },
-      {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "the main triangular outline",
+      "the doorway’s position",
+      "the fact the doorway is smaller",
+      "tiny fabric stitches"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "An approximation keeps key form and relative size while omitting minor detail.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 22
   },
   {
     "id": "AC9M4SP01-P-023",
@@ -805,35 +1007,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "At a playground redesign, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "At a playground redesign, which familiar shapes best approximate a water tower?",
+    "skill": "compose_and_approximate",
+    "question": "A logo for a sailing club uses a triangle above a narrow curved hull. What does the triangle most likely represent?",
+    "audio_prompt": "A logo for a sailing club uses a triangle above a narrow curved hull. What does the triangle most likely represent?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-023",
-      "alt_text": "At a playground redesign: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "cylinder and supporting prisms",
+        "text": "a sail",
         "is_correct": true
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "a wheel",
+        "is_correct": false
+      },
+      {
+        "text": "a window in a tower",
+        "is_correct": false
+      },
+      {
+        "text": "a round ball",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "a sail",
+      "a wheel",
+      "a window in a tower",
+      "a round ball"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "The triangle’s position above the boat-shaped hull suggests a sail.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 23
   },
   {
     "id": "AC9M4SP01-P-024",
@@ -841,35 +1052,980 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "practice",
-    "skill": "composite_shapes",
-    "question": "During a book drive, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "During a book drive, which familiar shapes best approximate a rocket model?",
+    "skill": "compose_and_approximate",
+    "question": "Which set can represent a simple ice-cream symbol?",
+    "audio_prompt": "Which set can represent a simple ice-cream symbol?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-p-024",
-      "alt_text": "During a book drive: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "two separate rectangles only",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
-      },
-      {
-        "text": "cylinder, cone and triangular fins",
+        "text": "a circle partly overlapping the wide end of a triangle",
         "is_correct": true
+      },
+      {
+        "text": "a triangle hidden completely inside a circle",
+        "is_correct": false
+      },
+      {
+        "text": "three equal squares in a row",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "two separate rectangles only",
+      "a circle partly overlapping the wide end of a triangle",
+      "a triangle hidden completely inside a circle",
+      "three equal squares in a row"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The circle suggests a scoop and the downward triangle suggests a cone in a flat graphic.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 24
+  },
+  {
+    "id": "AC9M4SP01-P-025",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compose_and_approximate",
+    "question": "A drawing program lets you copy a small circle for wheels. What must you also decide?",
+    "audio_prompt": "A drawing program lets you copy a small circle for wheels. What must you also decide?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "only which shapes have the same colour",
+        "is_correct": false
+      },
+      {
+        "text": "only whether the circles overlap",
+        "is_correct": false
+      },
+      {
+        "text": "where to place the copies and their relative size",
+        "is_correct": true
+      },
+      {
+        "text": "only how many copies fit in one corner",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "only which shapes have the same colour",
+      "only whether the circles overlap",
+      "where to place the copies and their relative size",
+      "only how many copies fit in one corner"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
+      "summary": "Making a meaningful graphic requires positioning and scaling the familiar components.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 25
+  },
+  {
+    "id": "AC9M4SP01-P-026",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compose_and_approximate",
+    "question": "A bird logo has an oval body and triangular beak. The beak is detached far above it. What improves the representation?",
+    "audio_prompt": "A bird logo has an oval body and triangular beak. The beak is detached far above it. What improves the representation?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "make the beak invisible",
+        "is_correct": false
+      },
+      {
+        "text": "move the body off the page",
+        "is_correct": false
+      },
+      {
+        "text": "replace every component with text",
+        "is_correct": false
+      },
+      {
+        "text": "move the beak to the front of the head",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "make the beak invisible",
+      "move the body off the page",
+      "replace every component with text",
+      "move the beak to the front of the head"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Correct relative placement helps the viewer see a bird.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 26
+  },
+  {
+    "id": "AC9M4SP01-P-027",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compose_and_approximate",
+    "question": "Which comparison best evaluates two playground models?",
+    "audio_prompt": "Which comparison best evaluates two playground models?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Which preserves the main shapes, heights and positions more clearly?",
+        "is_correct": true
+      },
+      {
+        "text": "Which copies every colour but changes the main form?",
+        "is_correct": false
+      },
+      {
+        "text": "Which uses the most parts even if the structure is unclear?",
+        "is_correct": false
+      },
+      {
+        "text": "Which makes every component exactly the same size?",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Which preserves the main shapes, heights and positions more clearly?",
+      "Which copies every colour but changes the main form?",
+      "Which uses the most parts even if the structure is unclear?",
+      "Which makes every component exactly the same size?"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Model quality depends on how well it represents the object’s important form.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 27
+  },
+  {
+    "id": "AC9M4SP01-P-028",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compose_and_approximate",
+    "question": "A model of a bridge uses two tall blocks supporting a long block. Which feature is missing if all three blocks lie flat in one row?",
+    "audio_prompt": "A model of a bridge uses two tall blocks supporting a long block. Which feature is missing if all three blocks lie flat in one row?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the rectangular shape of each block",
+        "is_correct": false
+      },
+      {
+        "text": "the opening below the span",
+        "is_correct": true
+      },
+      {
+        "text": "the existence of three solid components",
+        "is_correct": false
+      },
+      {
+        "text": "the flat faces of the blocks",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "the rectangular shape of each block",
+      "the opening below the span",
+      "the existence of three solid components",
+      "the flat faces of the blocks"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Lifting the span onto supports communicates the gap underneath.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 28
+  },
+  {
+    "id": "AC9M4SP01-P-029",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compose_and_approximate",
+    "question": "A rectangular picture frame surrounds an opening. Which recreation preserves the opening?",
+    "audio_prompt": "A rectangular picture frame surrounds an opening. Which recreation preserves the opening?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "one solid rectangle covering the centre",
+        "is_correct": false
+      },
+      {
+        "text": "one circle with no opening",
+        "is_correct": false
+      },
+      {
+        "text": "four narrow rectangles arranged around an empty centre",
+        "is_correct": true
+      },
+      {
+        "text": "four rectangles scattered apart",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "one solid rectangle covering the centre",
+      "one circle with no opening",
+      "four narrow rectangles arranged around an empty centre",
+      "four rectangles scattered apart"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The frame includes an empty region, so the arrangement must leave that region open.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 29
+  },
+  {
+    "id": "AC9M4SP01-P-030",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compose_and_approximate",
+    "question": "A composite L outline can be made from two rectangles. What must their placement achieve?",
+    "audio_prompt": "A composite L outline can be made from two rectangles. What must their placement achieve?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "a circular outline",
+        "is_correct": false
+      },
+      {
+        "text": "separate rectangles with no contact",
+        "is_correct": false
+      },
+      {
+        "text": "complete overlap so only one rectangle shows",
+        "is_correct": false
+      },
+      {
+        "text": "the same L outline with no unintended gaps",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "a circular outline",
+      "separate rectangles with no contact",
+      "complete overlap so only one rectangle shows",
+      "the same L outline with no unintended gaps"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Matching the target involves arranging the parts to reproduce its boundary.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 30
+  },
+  {
+    "id": "AC9M4SP01-P-031",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compose_and_approximate",
+    "question": "A student says every house must be modelled by one rectangular prism and one triangular prism. What is the best response?",
+    "audio_prompt": "A student says every house must be modelled by one rectangular prism and one triangular prism. What is the best response?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "These suit some houses; choose components from the particular house’s form.",
+        "is_correct": true
+      },
+      {
+        "text": "All houses have exactly the same roof.",
+        "is_correct": false
+      },
+      {
+        "text": "Only spheres may model houses.",
+        "is_correct": false
+      },
+      {
+        "text": "A model must always use exactly two pieces.",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "These suit some houses; choose components from the particular house’s form.",
+      "All houses have exactly the same roof.",
+      "Only spheres may model houses.",
+      "A model must always use exactly two pieces."
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Approximations should follow the observed object rather than a fixed recipe.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 31
+  },
+  {
+    "id": "AC9M4SP01-P-032",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compose_and_approximate",
+    "question": "A flat panda face uses a large circle, two smaller ear circles and two eye ovals. What would oversized ears change?",
+    "audio_prompt": "A flat panda face uses a large circle, two smaller ear circles and two eye ovals. What would oversized ears change?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the number of sides on a circle",
+        "is_correct": false
+      },
+      {
+        "text": "the relative proportions and how the face looks",
+        "is_correct": true
+      },
+      {
+        "text": "the flat drawing into a solid",
+        "is_correct": false
+      },
+      {
+        "text": "the ovals into triangles",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "the number of sides on a circle",
+      "the relative proportions and how the face looks",
+      "the flat drawing into a solid",
+      "the ovals into triangles"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Relative size affects resemblance even when the component names stay the same.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 32
+  },
+  {
+    "id": "AC9M4SP01-P-033",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compose_and_approximate",
+    "question": "Why might more small cubes make a block model’s outline closer to a curved object?",
+    "audio_prompt": "Why might more small cubes make a block model’s outline closer to a curved object?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "cubes turn into spheres",
+        "is_correct": false
+      },
+      {
+        "text": "all gaps automatically disappear",
+        "is_correct": false
+      },
+      {
+        "text": "smaller steps can follow the outline more closely",
+        "is_correct": true
+      },
+      {
+        "text": "the object must become perfectly exact",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "cubes turn into spheres",
+      "all gaps automatically disappear",
+      "smaller steps can follow the outline more closely",
+      "the object must become perfectly exact"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "More finely placed blocks can reduce the size of the stepped changes without becoming truly curved.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 33
+  },
+  {
+    "id": "AC9M4SP01-P-034",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compose_and_approximate",
+    "question": "Which description clearly distinguishes a model from its object?",
+    "audio_prompt": "Which description clearly distinguishes a model from its object?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The model must contain real bark to count.",
+        "is_correct": false
+      },
+      {
+        "text": "Any cylinder is a perfect copy of every tree.",
+        "is_correct": false
+      },
+      {
+        "text": "The model cannot be useful unless alive.",
+        "is_correct": false
+      },
+      {
+        "text": "The cylinder approximates the tree trunk; it does not show every bark detail.",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "The model must contain real bark to count.",
+      "Any cylinder is a perfect copy of every tree.",
+      "The model cannot be useful unless alive.",
+      "The cylinder approximates the tree trunk; it does not show every bark detail."
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A familiar solid can show the important form while omitting surface details.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 34
+  },
+  {
+    "id": "AC9M4SP01-P-035",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compose_and_approximate",
+    "question": "A student draws a car using a rectangle and two circles, then labels the parts. What evidence best shows understanding?",
+    "audio_prompt": "A student draws a car using a rectangle and two circles, then labels the parts. What evidence best shows understanding?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "explaining how body and wheel positions represent the car",
+        "is_correct": true
+      },
+      {
+        "text": "only listing the number of shapes without their positions",
+        "is_correct": false
+      },
+      {
+        "text": "only naming circles while ignoring the body",
+        "is_correct": false
+      },
+      {
+        "text": "only saying every part is a three-dimensional cube",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "explaining how body and wheel positions represent the car",
+      "only listing the number of shapes without their positions",
+      "only naming circles while ignoring the body",
+      "only saying every part is a three-dimensional cube"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Explaining the component roles connects familiar shapes to the environmental object.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 35
+  },
+  {
+    "id": "AC9M4SP01-P-036",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compose_and_approximate",
+    "question": "Which step should come first when recreating a complex logo with familiar shapes?",
+    "audio_prompt": "Which step should come first when recreating a complex logo with familiar shapes?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "choose random sizes before identifying component roles",
+        "is_correct": false
+      },
+      {
+        "text": "identify its main component shapes and arrangement",
+        "is_correct": true
+      },
+      {
+        "text": "place all components at the centre regardless of the outline",
+        "is_correct": false
+      },
+      {
+        "text": "replace each curved component with a cornered one",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "choose random sizes before identifying component roles",
+      "identify its main component shapes and arrangement",
+      "place all components at the centre regardless of the outline",
+      "replace each curved component with a cornered one"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Planning from the visible components helps construct an accurate simplified graphic.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 36
+  },
+  {
+    "id": "AC9M4SP01-P-037",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "component_reasoning",
+    "question": "A flat arch is made from a semicircle above a rectangle of the same width. Which join preserves the outer arch outline?",
+    "audio_prompt": "A flat arch is made from a semicircle above a rectangle of the same width. Which join preserves the outer arch outline?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the curved edge meets the rectangle’s bottom edge",
+        "is_correct": false
+      },
+      {
+        "text": "the semicircle sits detached beside the rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "the semicircle’s straight edge meets the rectangle’s top edge",
+        "is_correct": true
+      },
+      {
+        "text": "the rectangle covers the semicircle completely",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "the curved edge meets the rectangle’s bottom edge",
+      "the semicircle sits detached beside the rectangle",
+      "the semicircle’s straight edge meets the rectangle’s top edge",
+      "the rectangle covers the semicircle completely"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Joining the equal-width straight edges makes vertical sides with a curved top.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 37
+  },
+  {
+    "id": "AC9M4SP01-P-038",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "component_reasoning",
+    "question": "Four equal squares form a larger square. Which arrangement works?",
+    "audio_prompt": "Four equal squares form a larger square. Which arrangement works?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "one row of four squares",
+        "is_correct": false
+      },
+      {
+        "text": "three squares in a row with one below an end",
+        "is_correct": false
+      },
+      {
+        "text": "four squares touching at corners only",
+        "is_correct": false
+      },
+      {
+        "text": "two rows of two squares sharing full sides",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "one row of four squares",
+      "three squares in a row with one below an end",
+      "four squares touching at corners only",
+      "two rows of two squares sharing full sides"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The two-by-two arrangement makes equal total width and height without gaps.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 38
+  },
+  {
+    "id": "AC9M4SP01-P-039",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "component_reasoning",
+    "question": "A simple kite-shaped picture is made from two isosceles triangles joined along equal bases. Which arrangement preserves the outer kite outline?",
+    "audio_prompt": "A simple kite-shaped picture is made from two isosceles triangles joined along equal bases. Which arrangement preserves the outer kite outline?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "triangles on opposite sides of the shared base",
+        "is_correct": true
+      },
+      {
+        "text": "both triangles overlapping on the same side",
+        "is_correct": false
+      },
+      {
+        "text": "triangles separated by a gap",
+        "is_correct": false
+      },
+      {
+        "text": "triangles touching only at their tips",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "triangles on opposite sides of the shared base",
+      "both triangles overlapping on the same side",
+      "triangles separated by a gap",
+      "triangles touching only at their tips"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Joining across a shared base lets their outside edges form the combined outline.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 39
+  },
+  {
+    "id": "AC9M4SP01-P-040",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "component_reasoning",
+    "question": "A cylinder lies horizontally as a model log. A student replaces it with one cube. What is lost most clearly?",
+    "audio_prompt": "A cylinder lies horizontally as a model log. A student replaces it with one cube. What is lost most clearly?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the fact it is three-dimensional",
+        "is_correct": false
+      },
+      {
+        "text": "the long rounded form",
+        "is_correct": true
+      },
+      {
+        "text": "the existence of any flat faces",
+        "is_correct": false
+      },
+      {
+        "text": "the ability to stand on a surface",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "the fact it is three-dimensional",
+      "the long rounded form",
+      "the existence of any flat faces",
+      "the ability to stand on a surface"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "One cube is short and square-faced; a long cylinder better represents a simplified log.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9M4SP01-P-041",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "recreate",
+    "question": "Cut two equal paper squares into triangles along their diagonals. Arrange all four triangles to make a larger square. Trace your result and mark every join. Label all four triangle pieces.",
+    "audio_prompt": "Cut two equal paper squares into triangles along their diagonals. Arrange all four triangles to make a larger square. Trace your result and mark every join. Label all four triangle pieces.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Four matching right triangles can form a square with the right-angle corners meeting at its centre.",
+      "hint": "Make and label the requested work, then check it against the task."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 41,
+    "grading_mode": "adult-review",
+    "model_answer": "Four matching right triangles can form a square with the right-angle corners meeting at its centre.",
+    "acceptance_note": "Inspect all four actual pieces, no overlaps or gaps, a square outline and four component labels.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP01-P-042",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "cube_model",
+    "question": "Use at least eight cubes to build a recognisable chair. Sketch front and side views, label seat, back and legs, and explain one simplification.",
+    "audio_prompt": "Use at least eight cubes to build a recognisable chair. Sketch front and side views, label seat, back and legs, and explain one simplification.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Models vary; cubes below the seat support it, and cubes above its rear form the back. Curves and fabric details may be omitted.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 42,
+    "grading_mode": "adult-review",
+    "model_answer": "Models vary; cubes below the seat support it, and cubes above its rear form the back. Curves and fabric details may be omitted.",
+    "acceptance_note": "Inspect the built model or clear photographs, labelled views, recognisable component positions and a justified simplification.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP01-P-043",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "cube_environment",
+    "question": "Build a tiny environment from cubes with a low building, a taller tower and an open path between them. Draw a labelled plan and explain how you kept the buildings different.",
+    "audio_prompt": "Build a tiny environment from cubes with a low building, a taller tower and an open path between them. Draw a labelled plan and explain how you kept the buildings different.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "A valid model has two distinguishable heights and an unobstructed route between structures.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 43,
+    "grading_mode": "adult-review",
+    "model_answer": "A valid model has two distinguishable heights and an unobstructed route between structures.",
+    "acceptance_note": "Inspect the actual cube arrangement, matching plan, height comparison and visible path. Physical or virtual cubes are acceptable.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP01-P-044",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "cartoon",
+    "question": "Draw a cartoon rabbit using at least three kinds of familiar flat shapes. Outline and label the components and explain how size and position suggest a rabbit.",
+    "audio_prompt": "Draw a cartoon rabbit using at least three kinds of familiar flat shapes. Outline and label the components and explain how size and position suggest a rabbit.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "For example, oval ears above a circular head, an oval body and triangular nose; ears are long relative to the head.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 44,
+    "grading_mode": "adult-review",
+    "model_answer": "For example, oval ears above a circular head, an oval body and triangular nose; ears are long relative to the head.",
+    "acceptance_note": "Require an original drawing, correct shape labels, meaningful arrangement and explanation of two component roles.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP01-P-045",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "compare",
+    "question": "Sketch a real object nearby in two different combinations of familiar shapes. Label every main component, then explain which approximation communicates its form better.",
+    "audio_prompt": "Sketch a real object nearby in two different combinations of familiar shapes. Label every main component, then explain which approximation communicates its form better.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Answers vary; both combinations should retain recognisable key features. The comparison refers to size, shape or arrangement.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 45,
+    "grading_mode": "adult-review",
+    "model_answer": "Answers vary; both combinations should retain recognisable key features. The comparison refers to size, shape or arrangement.",
+    "acceptance_note": "Inspect two genuine decompositions of the same object and a specific reason; liking a colour alone is insufficient.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP01-P-046",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "graphic_software",
+    "question": "Using a drawing program with an adult if needed, create an original garden-club logo from circles, ovals and rectangles. Save or print it, label the components and explain their roles.",
+    "audio_prompt": "Using a drawing program with an adult if needed, create an original garden-club logo from circles, ovals and rectangles. Save or print it, label the components and explain their roles.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "An example uses oval leaves, a circular flower centre and a rectangular stem; many original arrangements are valid.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 46,
+    "grading_mode": "adult-review",
+    "model_answer": "An example uses oval leaves, a circular flower centre and a rectangular stem; many original arrangements are valid.",
+    "acceptance_note": "Require the created digital graphic or saved screenshot, correct labels and component-role explanation, not only a plan.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP01-P-047",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "physical_recreate",
+    "question": "Draw a simple house front, then recreate it with cut-out shapes. Include a roof, wall, door and two windows. Compare the drawing with your arrangement.",
+    "audio_prompt": "Draw a simple house front, then recreate it with cut-out shapes. Include a roof, wall, door and two windows. Compare the drawing with your arrangement.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "A triangle can form the roof, a rectangle the wall and door, and squares the windows.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 47,
+    "grading_mode": "adult-review",
+    "model_answer": "A triangle can form the roof, a rectangle the wall and door, and squares the windows.",
+    "acceptance_note": "Inspect actual cut pieces and drawing, corresponding positions and relative sizes, and one comparison statement.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP01-P-048",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP01",
+    "bank": "practice",
+    "skill": "improve_model",
+    "question": "Build a long vehicle from blocks. Ask someone which feature makes it recognisable. Change one component’s shape, size or position to improve it; record before and after.",
+    "audio_prompt": "Build a long vehicle from blocks. Ask someone which feature makes it recognisable. Change one component’s shape, size or position to improve it; record before and after.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "A long body with wheels low on its sides can suggest a bus; moving or resizing wheels may improve the representation.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 48,
+    "grading_mode": "adult-review",
+    "model_answer": "A long body with wheels low on its sides can suggest a bus; moving or resizing wheels may improve the representation.",
+    "acceptance_note": "Require the physical or virtual model, documented change and explanation linked to recognisability.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4SP01-T-001",
@@ -877,33 +2033,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "At a coastal station, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "At a coastal station, which familiar shapes best approximate a rocket model?",
+    "skill": "composite_reasoning",
+    "question": "A flat lighthouse logo uses a tall rectangle, a triangle above it and three small squares inside. What do the squares most likely represent?",
+    "audio_prompt": "A flat lighthouse logo uses a tall rectangle, a triangle above it and three small squares inside. What do the squares most likely represent?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-001",
-      "alt_text": "At a coastal station: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "cylinder, cone and triangular fins",
+        "text": "a pointed roof",
+        "is_correct": false
+      },
+      {
+        "text": "the main tower",
+        "is_correct": false
+      },
+      {
+        "text": "windows",
         "is_correct": true
       },
       {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "unconnected lines with no relative positions",
+        "text": "a curved coastline",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "a pointed roof",
+      "the main tower",
+      "windows",
+      "a curved coastline"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "Their placement inside the tower suggests windows; the rectangle and triangle represent larger structural parts.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4SP01-T-002",
@@ -911,33 +2078,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "During a museum challenge, which familiar shapes best approximate a house?",
-    "audio_prompt": "During a museum challenge, which familiar shapes best approximate a house?",
+    "skill": "composite_reasoning",
+    "question": "A toy train engine has a block body and round wheels. Which pair names the solid body and flat wheel outlines correctly?",
+    "audio_prompt": "A toy train engine has a block body and round wheels. Which pair names the solid body and flat wheel outlines correctly?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-002",
-      "alt_text": "During a museum challenge: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "rectangle and spheres",
         "is_correct": false
       },
       {
-        "text": "rectangular prism and triangular prism",
+        "text": "triangle and cubes",
+        "is_correct": false
+      },
+      {
+        "text": "circle and cones",
+        "is_correct": false
+      },
+      {
+        "text": "rectangular prism and circles",
         "is_correct": true
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "rectangle and spheres",
+      "triangle and cubes",
+      "circle and cones",
+      "rectangular prism and circles"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "The solid block is a rectangular prism; the round outlines drawn on its sides are circles.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4SP01-T-003",
@@ -945,33 +2123,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "At a charity event, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "At a charity event, which familiar shapes best approximate a water tower?",
+    "skill": "composite_reasoning",
+    "question": "A model of a tree uses a cylinder below a sphere. Why is this a useful approximation?",
+    "audio_prompt": "A model of a tree uses a cylinder below a sphere. Why is this a useful approximation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-003",
-      "alt_text": "At a charity event: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
-      },
-      {
-        "text": "cylinder and supporting prisms",
+        "text": "it shows a trunk below a rounded leafy crown",
         "is_correct": true
+      },
+      {
+        "text": "it reproduces every leaf exactly",
+        "is_correct": false
+      },
+      {
+        "text": "the sphere has square faces",
+        "is_correct": false
+      },
+      {
+        "text": "the cylinder is flat",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "it shows a trunk below a rounded leafy crown",
+      "it reproduces every leaf exactly",
+      "the sphere has square faces",
+      "the cylinder is flat"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "The relative positions and familiar solids communicate the main tree form.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 3
   },
   {
     "id": "AC9M4SP01-T-004",
@@ -979,33 +2168,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "In an engineering workshop, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "In an engineering workshop, which familiar shapes best approximate a rocket model?",
+    "skill": "composite_reasoning",
+    "question": "Three cubes form one horizontal row. To represent a taller post at the right end, where should two more cubes go?",
+    "audio_prompt": "Three cubes form one horizontal row. To represent a taller post at the right end, where should two more cubes go?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "cylinder, cone and triangular fins",
+        "text": "far to the left, detached",
+        "is_correct": false
+      },
+      {
+        "text": "stacked above the rightmost cube",
         "is_correct": true
       },
       {
-        "text": "one circle only",
+        "text": "both inside the middle cube",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "one below every cube",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "far to the left, detached",
+      "stacked above the rightmost cube",
+      "both inside the middle cube",
+      "one below every cube"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "A vertical stack raises the end while preserving a horizontal base.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 4
   },
   {
     "id": "AC9M4SP01-T-005",
@@ -1013,33 +2213,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "At a regional carnival, which familiar shapes best approximate a house?",
-    "audio_prompt": "At a regional carnival, which familiar shapes best approximate a house?",
+    "skill": "composite_reasoning",
+    "question": "A logo’s triangle ear is behind its circular head and partly hidden. What does this show?",
+    "audio_prompt": "A logo’s triangle ear is behind its circular head and partly hidden. What does this show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-005",
-      "alt_text": "At a regional carnival: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "all component shapes must be separated",
         "is_correct": false
       },
       {
-        "text": "rectangular prism and triangular prism",
+        "text": "triangles stop being shapes when hidden",
+        "is_correct": false
+      },
+      {
+        "text": "familiar shapes may overlap to form a graphic",
         "is_correct": true
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "overlapping makes every model invalid",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "all component shapes must be separated",
+      "triangles stop being shapes when hidden",
+      "familiar shapes may overlap to form a graphic",
+      "overlapping makes every model invalid"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "Intentional overlap is useful in a graphic when it preserves the intended outline.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 5
   },
   {
     "id": "AC9M4SP01-T-006",
@@ -1047,33 +2258,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "During a farm study, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "During a farm study, which familiar shapes best approximate a water tower?",
+    "skill": "composite_reasoning",
+    "question": "A student makes a tower model wide and low although the real tower is tall and narrow. What needs improvement?",
+    "audio_prompt": "A student makes a tower model wide and low although the real tower is tall and narrow. What needs improvement?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-006",
-      "alt_text": "During a farm study: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "the number of components only",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "the surface colour only",
         "is_correct": false
       },
       {
-        "text": "cylinder and supporting prisms",
+        "text": "the names of the chosen solids only",
+        "is_correct": false
+      },
+      {
+        "text": "relative height and width",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "the number of components only",
+      "the surface colour only",
+      "the names of the chosen solids only",
+      "relative height and width"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "A model can use correct component types yet have unsuitable proportions.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 6
   },
   {
     "id": "AC9M4SP01-T-007",
@@ -1081,33 +2303,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "While reading a trail guide, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "While reading a trail guide, which familiar shapes best approximate a rocket model?",
+    "skill": "composite_reasoning",
+    "question": "A composite square picture is split into two rectangles. Which statement must hold for an exact recreation?",
+    "audio_prompt": "A composite square picture is split into two rectangles. Which statement must hold for an exact recreation?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "cylinder, cone and triangular fins",
+        "text": "the rectangles together cover the square without gaps or overlap",
         "is_correct": true
       },
       {
-        "text": "one circle only",
+        "text": "the rectangles must overlap across half their area",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "both rectangles must be smaller than one quarter of the square",
+        "is_correct": false
+      },
+      {
+        "text": "the rectangles must touch only at one corner",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "the rectangles together cover the square without gaps or overlap",
+      "the rectangles must overlap across half their area",
+      "both rectangles must be smaller than one quarter of the square",
+      "the rectangles must touch only at one corner"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "An exact decomposition covers the target region with the component pieces.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 7
   },
   {
     "id": "AC9M4SP01-T-008",
@@ -1115,33 +2348,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "In an architecture studio, which familiar shapes best approximate a house?",
-    "audio_prompt": "In an architecture studio, which familiar shapes best approximate a house?",
+    "skill": "composite_reasoning",
+    "question": "Why should a cube model of a tunnel leave a space through its middle?",
+    "audio_prompt": "Why should a cube model of a tunnel leave a space through its middle?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-008",
-      "alt_text": "In an architecture studio: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "all cubes must float",
         "is_correct": false
       },
       {
-        "text": "rectangular prism and triangular prism",
+        "text": "the opening is an important structural feature",
         "is_correct": true
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "the model must have no roof",
+        "is_correct": false
+      },
+      {
+        "text": "a tunnel is always a solid cube",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "all cubes must float",
+      "the opening is an important structural feature",
+      "the model must have no roof",
+      "a tunnel is always a solid cube"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "Filling the gap would lose the feature that makes the model a tunnel.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 8
   },
   {
     "id": "AC9M4SP01-T-009",
@@ -1149,33 +2393,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "During a food-truck project, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "During a food-truck project, which familiar shapes best approximate a water tower?",
+    "skill": "composite_reasoning",
+    "question": "A digital tree logo uses a rectangle for the trunk and three circles for foliage. Which change makes the crown wider without making the trunk wider?",
+    "audio_prompt": "A digital tree logo uses a rectangle for the trunk and three circles for foliage. Which change makes the crown wider without making the trunk wider?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-009",
-      "alt_text": "During a food-truck project: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "stretch every shape sideways equally",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "widen only the trunk rectangle",
         "is_correct": false
       },
       {
-        "text": "cylinder and supporting prisms",
+        "text": "move the outer circles farther apart while keeping them joined to the crown",
         "is_correct": true
+      },
+      {
+        "text": "move every circle below the trunk",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "stretch every shape sideways equally",
+      "widen only the trunk rectangle",
+      "move the outer circles farther apart while keeping them joined to the crown",
+      "move every circle below the trunk"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "Changing the relative positions of the foliage circles broadens the crown while preserving the narrow trunk.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M4SP01-T-010",
@@ -1183,33 +2438,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "At a festival, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "At a festival, which familiar shapes best approximate a rocket model?",
+    "skill": "composite_reasoning",
+    "question": "A flat penguin picture uses ovals for body and wings and a triangle for a beak. Which change best shows wings on both sides?",
+    "audio_prompt": "A flat penguin picture uses ovals for body and wings and a triangle for a beak. Which change best shows wings on both sides?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-010",
-      "alt_text": "At a festival: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "cylinder, cone and triangular fins",
+        "text": "put both wing ovals across the centre of the body",
+        "is_correct": false
+      },
+      {
+        "text": "place both wing ovals below the feet",
+        "is_correct": false
+      },
+      {
+        "text": "enlarge the beak to cover both wings",
+        "is_correct": false
+      },
+      {
+        "text": "place one wing oval on each side of the body",
         "is_correct": true
-      },
-      {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "put both wing ovals across the centre of the body",
+      "place both wing ovals below the feet",
+      "enlarge the beak to cover both wings",
+      "place one wing oval on each side of the body"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "The placement should correspond to the animal’s visible structure.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M4SP01-T-011",
@@ -1217,33 +2483,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "While organising a collection, which familiar shapes best approximate a house?",
-    "audio_prompt": "While organising a collection, which familiar shapes best approximate a house?",
+    "skill": "composite_reasoning",
+    "question": "Two models use different numbers of blocks. Which is the soundest judgement?",
+    "audio_prompt": "Two models use different numbers of blocks. Which is the soundest judgement?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-011",
-      "alt_text": "While organising a collection: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "rectangular prism and triangular prism",
+        "text": "compare how clearly each preserves the object’s important features",
         "is_correct": true
       },
       {
-        "text": "unconnected lines with no relative positions",
+        "text": "the one with more blocks must always be better",
+        "is_correct": false
+      },
+      {
+        "text": "the fewer-block model must always be exact",
+        "is_correct": false
+      },
+      {
+        "text": "neither can be useful unless identical",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "compare how clearly each preserves the object’s important features",
+      "the one with more blocks must always be better",
+      "the fewer-block model must always be exact",
+      "neither can be useful unless identical"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "The number of components alone does not decide the quality of the approximation.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M4SP01-T-012",
@@ -1251,33 +2528,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "In an environmental study, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "In an environmental study, which familiar shapes best approximate a water tower?",
+    "skill": "composite_reasoning",
+    "question": "A student adds small door handles to a model before choosing the building shape. What is a better approach?",
+    "audio_prompt": "A student adds small door handles to a model before choosing the building shape. What is a better approach?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-012",
-      "alt_text": "In an environmental study: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "one circle only",
+        "text": "start by choosing a title only",
         "is_correct": false
       },
       {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
-      },
-      {
-        "text": "cylinder and supporting prisms",
+        "text": "establish the main form first, then useful detail",
         "is_correct": true
+      },
+      {
+        "text": "ignore all relative positions",
+        "is_correct": false
+      },
+      {
+        "text": "use random solids until materials run out",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "start by choosing a title only",
+      "establish the main form first, then useful detail",
+      "ignore all relative positions",
+      "use random solids until materials run out"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "Major shapes and arrangement establish the structure that smaller details can support.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M4SP01-T-013",
@@ -1285,33 +2573,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "During a transport survey, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "During a transport survey, which familiar shapes best approximate a rocket model?",
+    "skill": "construct",
+    "question": "Recreate a flat boat picture using a trapezium hull, a narrow rectangular mast and two triangular sails. Make or draw actual pieces, label them and explain their positions.",
+    "audio_prompt": "Recreate a flat boat picture using a trapezium hull, a narrow rectangular mast and two triangular sails. Make or draw actual pieces, label them and explain their positions.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-013",
-      "alt_text": "During a transport survey: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "cylinder, cone and triangular fins",
-        "is_correct": true
-      },
-      {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "The hull lies below an upright mast; sails attach beside the mast above the hull.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 13,
+    "grading_mode": "adult-review",
+    "model_answer": "The hull lies below an upright mast; sails attach beside the mast above the hull.",
+    "acceptance_note": "Inspect the full recreation, four pieces: one trapezium hull, one rectangular mast and two triangular sails, sensible arrangement and explanation. The two sails may differ in size.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4SP01-T-014",
@@ -1319,33 +2600,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "At a strategy tournament, which familiar shapes best approximate a house?",
-    "audio_prompt": "At a strategy tournament, which familiar shapes best approximate a house?",
+    "skill": "cube_create",
+    "question": "Build a model from interlocking cubes of a bridge with two supports and a raised span, leaving an opening. Sketch it and explain what is approximated and what is omitted.",
+    "audio_prompt": "Build a model from interlocking cubes of a bridge with two supports and a raised span, leaving an opening. Sketch it and explain what is approximated and what is omitted.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "rectangular prism and triangular prism",
-        "is_correct": true
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "The span rests above separated supports with a clear space below; small railings or surface details can be omitted.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 14,
+    "grading_mode": "adult-review",
+    "model_answer": "The span rests above separated supports with a clear space below; small railings or surface details can be omitted.",
+    "acceptance_note": "Inspect an actual physical or virtual cube model, open gap, supported raised span and specific simplification.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4SP01-T-015",
@@ -1353,33 +2627,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "While planning a community garden, which familiar shapes best approximate a water tower?",
-    "audio_prompt": "While planning a community garden, which familiar shapes best approximate a water tower?",
+    "skill": "animal_create",
+    "question": "Create an original turtle drawing from familiar flat shapes. Label at least three different kinds of shape and explain how two size or position choices help it resemble a turtle.",
+    "audio_prompt": "Create an original turtle drawing from familiar flat shapes. Label at least three different kinds of shape and explain how two size or position choices help it resemble a turtle.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-015",
-      "alt_text": "While planning a community garden: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
-      },
-      {
-        "text": "cylinder and supporting prisms",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "One example uses an oval shell, circular head and four small triangular flippers placed around the shell.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 15,
+    "grading_mode": "adult-review",
+    "model_answer": "One example uses an oval shell, circular head and four small triangular flippers placed around the shell.",
+    "acceptance_note": "Require original drawing, three correct shape types, labelled roles and two explicit size/position reasons.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4SP01-T-016",
@@ -1387,32 +2654,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP01",
     "bank": "test",
-    "skill": "composite_shapes",
-    "question": "In a design exhibition, which familiar shapes best approximate a rocket model?",
-    "audio_prompt": "In a design exhibition, which familiar shapes best approximate a rocket model?",
+    "skill": "logo_create",
+    "question": "Use graphics software to create an original reading-club logo by combining familiar shapes. Save the design, label its components and describe one revision that made it clearer.",
+    "audio_prompt": "Use graphics software to create an original reading-club logo by combining familiar shapes. Save the design, label its components and describe one revision that made it clearer.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp01.svg#ac9m4sp01-t-016",
-      "alt_text": "In a design exhibition: a Year 4 composite shapes reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "cylinder, cone and triangular fins",
-        "is_correct": true
-      },
-      {
-        "text": "one circle only",
-        "is_correct": false
-      },
-      {
-        "text": "unconnected lines with no relative positions",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Useful components preserve important structure and proportion.",
-      "hint": "Identify the object's main faces and solids."
-    }
+      "summary": "For example, adjoining rectangles suggest book pages, with an arc or small triangle as a page-turn detail.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 16,
+    "grading_mode": "adult-review",
+    "model_answer": "For example, adjoining rectangles suggest book pages, with an arc or small triangle as a page-turn detail.",
+    "acceptance_note": "Inspect actual saved digital design and labelled components, plus a specific before/after change explaining improved representation.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
   }
 ]

@@ -1,0 +1,117 @@
+[
+  {
+    "bank": "ac9m4a01",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4a01.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4A01\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4A01|practice\": [\n      12,\n      12,\n      12,\n      12\n    ],\n    \"AC9M4A01|test\": [\n      4,\n      4,\n      4,\n      4\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4a02",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4a02.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4A02\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4A02|practice\": [\n      11,\n      11,\n      11,\n      11\n    ],\n    \"AC9M4A02|test\": [\n      3,\n      3,\n      4,\n      4\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4m01",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4m01.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4M01\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4M01|practice\": [\n      11,\n      11,\n      10,\n      10\n    ],\n    \"AC9M4M01|test\": [\n      4,\n      3,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4m02",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4m02.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4M02\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4M02|practice\": [\n      11,\n      11,\n      10,\n      10\n    ],\n    \"AC9M4M02|test\": [\n      4,\n      3,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4m03",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4m03.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4M03\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4M03|practice\": [\n      11,\n      11,\n      11,\n      11\n    ],\n    \"AC9M4M03|test\": [\n      3,\n      3,\n      4,\n      4\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4m04",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4m04.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4M04\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4M04|practice\": [\n      10,\n      11,\n      11,\n      10\n    ],\n    \"AC9M4M04|test\": [\n      4,\n      3,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4n01",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4n01.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4N01\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4N01|practice\": [\n      12,\n      12,\n      12,\n      12\n    ],\n    \"AC9M4N01|test\": [\n      4,\n      4,\n      4,\n      4\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4n02",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4n02.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4N02\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4N02|practice\": [\n      12,\n      12,\n      12,\n      12\n    ],\n    \"AC9M4N02|test\": [\n      4,\n      4,\n      4,\n      4\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4n03",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4n03.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4N03\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4N03|practice\": [\n      11,\n      11,\n      11,\n      11\n    ],\n    \"AC9M4N03|test\": [\n      3,\n      3,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4n04",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4n04.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4N04\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4N04|practice\": [\n      11,\n      11,\n      11,\n      11\n    ],\n    \"AC9M4N04|test\": [\n      3,\n      3,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4n05",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4n05.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4N05\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4N05|practice\": [\n      12,\n      12,\n      12,\n      12\n    ],\n    \"AC9M4N05|test\": [\n      4,\n      4,\n      4,\n      4\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4n06",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4n06.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4N06\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4N06|practice\": [\n      12,\n      12,\n      12,\n      12\n    ],\n    \"AC9M4N06|test\": [\n      4,\n      4,\n      4,\n      4\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4n07",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4n07.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4N07\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4N07|practice\": [\n      12,\n      12,\n      12,\n      12\n    ],\n    \"AC9M4N07|test\": [\n      4,\n      4,\n      4,\n      4\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4n08",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4n08.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4N08\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4N08|practice\": [\n      11,\n      11,\n      11,\n      11\n    ],\n    \"AC9M4N08|test\": [\n      3,\n      3,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4n09",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4n09.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4N09\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4N09|practice\": [\n      11,\n      11,\n      11,\n      11\n    ],\n    \"AC9M4N09|test\": [\n      3,\n      3,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4p01",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4p01.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4P01\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4P01|practice\": [\n      10,\n      10,\n      10,\n      10\n    ],\n    \"AC9M4P01|test\": [\n      3,\n      3,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4p02",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4p02.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4P02\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4P02|practice\": [\n      10,\n      10,\n      10,\n      10\n    ],\n    \"AC9M4P02|test\": [\n      3,\n      3,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4sp01",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4sp01.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4SP01\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4SP01|practice\": [\n      10,\n      10,\n      10,\n      10\n    ],\n    \"AC9M4SP01|test\": [\n      3,\n      3,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4sp02",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4sp02.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4SP02\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4SP02|practice\": [\n      10,\n      10,\n      10,\n      10\n    ],\n    \"AC9M4SP02|test\": [\n      3,\n      3,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4sp03",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4sp03.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4SP03\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4SP03|practice\": [\n      10,\n      10,\n      10,\n      10\n    ],\n    \"AC9M4SP03|test\": [\n      3,\n      3,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4st01",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4st01.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4ST01\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4ST01|practice\": [\n      10,\n      11,\n      11,\n      10\n    ],\n    \"AC9M4ST01|test\": [\n      3,\n      4,\n      4,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4st02",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4st02.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4ST02\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4ST02|practice\": [\n      10,\n      11,\n      11,\n      10\n    ],\n    \"AC9M4ST02|test\": [\n      3,\n      4,\n      4,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  },
+  {
+    "bank": "ac9m4st03",
+    "exit": 0,
+    "output": "{\n  \"file\": \"assets/assessment-banks/year4/math/ac9m4st03.json\",\n  \"items\": 64,\n  \"unique_ids\": 64,\n  \"bank_counts\": {\n    \"AC9M4ST03\": {\n      \"practice\": 48,\n      \"test\": 16\n    }\n  },\n  \"correct_index_distribution\": {\n    \"AC9M4ST03|practice\": [\n      10,\n      11,\n      11,\n      10\n    ],\n    \"AC9M4ST03|test\": [\n      4,\n      4,\n      3,\n      3\n    ]\n  },\n  \"status\": \"PASS\"\n}\n"
+  }
+]

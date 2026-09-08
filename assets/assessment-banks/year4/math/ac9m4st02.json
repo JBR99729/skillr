@@ -5,36 +5,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "interpret_data_displays",
-    "question": "In a class project, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
-    "audio_prompt": "In a class project, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "skill": "interpret_data",
+    "question": "A dot plot shows students’ counts of books read. What does each dot represent?",
+    "audio_prompt": "A dot plot shows students’ counts of books read. What does each dot represent?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-001",
-      "alt_text": "In a class project: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "Blue",
-        "is_correct": false
-      },
-      {
-        "text": "Green",
-        "is_correct": true
-      },
-      {
-        "text": "Red",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 1,
+    "answers": [
+      {
+        "text": "One book in the library",
+        "is_correct": false
+      },
+      {
+        "text": "One student’s recorded book count",
+        "is_correct": true
+      },
+      {
+        "text": "Every student with that count",
+        "is_correct": false
+      },
+      {
+        "text": "One class",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "One book in the library",
+      "One student’s recorded book count",
+      "Every student with that count",
+      "One class"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Each observation contributes one dot at its value.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-002",
@@ -42,36 +50,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "pictograph_keys",
-    "question": "At the school market, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
-    "audio_prompt": "At the school market, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "skill": "interpret_data",
+    "question": "A column graph shows fruit votes. Which question can it answer?",
+    "audio_prompt": "A column graph shows fruit votes. Which question can it answer?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-002",
-      "alt_text": "At the school market: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "16",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2,
+    "answers": [
+      {
+        "text": "Why every student chose their fruit",
+        "is_correct": false
+      },
+      {
+        "text": "Which fruit is healthiest",
+        "is_correct": false
+      },
+      {
+        "text": "Which fruit received most votes?",
+        "is_correct": true
+      },
+      {
+        "text": "What each student will choose next year",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Why every student chose their fruit",
+      "Which fruit is healthiest",
+      "Which fruit received most votes?",
+      "What each student will choose next year"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Recorded frequencies show popularity, not reasons or future choices.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-003",
@@ -79,36 +95,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "interpret_data_displays",
-    "question": "While planning a garden, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "audio_prompt": "While planning a garden, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "skill": "interpret_data",
+    "question": "Two graphs use the same data but different colours. What must remain unchanged?",
+    "audio_prompt": "Two graphs use the same data but different colours. What must remain unchanged?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-003",
-      "alt_text": "While planning a garden: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "Green",
-        "is_correct": true
-      },
-      {
-        "text": "Blue",
-        "is_correct": false
-      },
-      {
-        "text": "Red",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3,
+    "answers": [
+      {
+        "text": "The colours",
+        "is_correct": false
+      },
+      {
+        "text": "The title font size",
+        "is_correct": false
+      },
+      {
+        "text": "The bar fill pattern",
+        "is_correct": false
+      },
+      {
+        "text": "The represented values",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "The colours",
+      "The title font size",
+      "The bar fill pattern",
+      "The represented values"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Appearance can vary; values must stay faithful.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-004",
@@ -116,36 +140,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "pictograph_keys",
-    "question": "During a sports challenge, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "audio_prompt": "During a sports challenge, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "skill": "interpret_data",
+    "question": "A graph has equally spaced ticks labelled 0, 2, 4, 8. What is wrong?",
+    "audio_prompt": "A graph has equally spaced ticks labelled 0, 2, 4, 8. What is wrong?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-004",
-      "alt_text": "During a sports challenge: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "4",
-        "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": true
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4,
+    "answers": [
+      {
+        "text": "Equal spaces represent unequal increases",
+        "is_correct": true
+      },
+      {
+        "text": "There are too many labels",
+        "is_correct": false
+      },
+      {
+        "text": "The graph must use pictures",
+        "is_correct": false
+      },
+      {
+        "text": "Eight cannot be a frequency",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Equal spaces represent unequal increases",
+      "There are too many labels",
+      "The graph must use pictures",
+      "Eight cannot be a frequency"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use equal numerical steps for equal distances on a simple linear scale.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-005",
@@ -153,36 +185,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "interpret_data_displays",
-    "question": "At the wildlife centre, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "audio_prompt": "At the wildlife centre, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "skill": "interpret_data",
+    "question": "A column chart starts at 8 and makes counts 9 and 10 look very different. What helps a fair comparison?",
+    "audio_prompt": "A column chart starts at 8 and makes counts 9 and 10 look very different. What helps a fair comparison?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-005",
-      "alt_text": "At the wildlife centre: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "Blue",
-        "is_correct": false
-      },
-      {
-        "text": "Red",
-        "is_correct": false
-      },
-      {
-        "text": "Green",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 5,
+    "answers": [
+      {
+        "text": "Remove both values",
+        "is_correct": false
+      },
+      {
+        "text": "Use a zero baseline and equal intervals",
+        "is_correct": true
+      },
+      {
+        "text": "Make the larger column wider",
+        "is_correct": false
+      },
+      {
+        "text": "Hide the vertical axis",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Remove both values",
+      "Use a zero baseline and equal intervals",
+      "Make the larger column wider",
+      "Hide the vertical axis"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A zero baseline makes column lengths proportional to counts.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-006",
@@ -190,36 +230,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "pictograph_keys",
-    "question": "In the makerspace, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "audio_prompt": "In the makerspace, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "skill": "interpret_data",
+    "question": "One picture represents 4 tickets. A half picture represents how many tickets?",
+    "audio_prompt": "One picture represents 4 tickets. A half picture represents how many tickets?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-006",
-      "alt_text": "In the makerspace: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 6,
     "answers": [
       {
-        "text": "12",
-        "is_correct": true
+        "text": "1",
+        "is_correct": false
       },
       {
-        "text": "6",
+        "text": "4",
         "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
       },
       {
         "text": "8",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "1",
+      "4",
+      "2",
+      "8"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+      "summary": "Half of 4 is 2; the key applies to parts of a symbol.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-007",
@@ -227,36 +275,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "interpret_data_displays",
-    "question": "While checking a map, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
-    "audio_prompt": "While checking a map, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "skill": "interpret_data",
+    "question": "A news pictograph uses one symbol for 10 trees. Three full symbols and a half mean how many trees?",
+    "audio_prompt": "A news pictograph uses one symbol for 10 trees. Three full symbols and a half mean how many trees?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-007",
-      "alt_text": "While checking a map: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "Blue",
-        "is_correct": false
-      },
-      {
-        "text": "Green",
-        "is_correct": true
-      },
-      {
-        "text": "Red",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 7,
+    "answers": [
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "31",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "35",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "30",
+      "31",
+      "40",
+      "35"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "30 + 5 = 35; half a symbol stands for 5.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-008",
@@ -264,36 +320,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "pictograph_keys",
-    "question": "During a cooking task, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
-    "audio_prompt": "During a cooking task, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "skill": "interpret_data",
+    "question": "A symbol key is missing. Why is an exact count uncertain?",
+    "audio_prompt": "A symbol key is missing. Why is an exact count uncertain?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-008",
-      "alt_text": "During a cooking task: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "16",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 8,
+    "answers": [
+      {
+        "text": "We do not know how many observations each symbol represents",
+        "is_correct": true
+      },
+      {
+        "text": "Pictures cannot show any data",
+        "is_correct": false
+      },
+      {
+        "text": "Every symbol must mean one",
+        "is_correct": false
+      },
+      {
+        "text": "Colours always supply the count",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "We do not know how many observations each symbol represents",
+      "Pictures cannot show any data",
+      "Every symbol must mean one",
+      "Colours always supply the count"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A many-to-one key is essential to interpret the count.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-009",
@@ -301,35 +365,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "interpret_data_displays",
-    "question": "At the community fair, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "audio_prompt": "At the community fair, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "skill": "interpret_data",
+    "question": "For finding exact frequencies, why might a table help more than an unlabelled word cloud?",
+    "audio_prompt": "For finding exact frequencies, why might a table help more than an unlabelled word cloud?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-009",
-      "alt_text": "At the community fair: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9,
     "answers": [
       {
-        "text": "Green",
+        "text": "Tables always have more responses",
+        "is_correct": false
+      },
+      {
+        "text": "A table gives numerical counts directly",
         "is_correct": true
       },
       {
-        "text": "Blue",
+        "text": "Words cannot be categories",
         "is_correct": false
       },
       {
-        "text": "Red",
+        "text": "Tables prove the cause of a pattern",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "Tables always have more responses",
+      "A table gives numerical counts directly",
+      "Words cannot be categories",
+      "Tables prove the cause of a pattern"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A numerical table supports exact counts; cloud size alone may not.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-010",
@@ -337,35 +410,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "pictograph_keys",
-    "question": "In a library display, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "audio_prompt": "In a library display, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "skill": "interpret_data",
+    "question": "For comparing category sizes quickly, which display is useful?",
+    "audio_prompt": "For comparing category sizes quickly, which display is useful?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-010",
-      "alt_text": "In a library display: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10,
     "answers": [
       {
-        "text": "4",
+        "text": "An unsorted list of all responses",
         "is_correct": false
       },
       {
-        "text": "8",
+        "text": "A title with no values",
+        "is_correct": false
+      },
+      {
+        "text": "A labelled column graph with a consistent scale",
         "is_correct": true
       },
       {
-        "text": "6",
+        "text": "An illustration without a key",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "An unsorted list of all responses",
+      "A title with no values",
+      "A labelled column graph with a consistent scale",
+      "An illustration without a key"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Column heights on one scale make frequency comparisons visible.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-011",
@@ -373,35 +455,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "interpret_data_displays",
-    "question": "During a science activity, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "audio_prompt": "During a science activity, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "skill": "interpret_data",
+    "question": "A dataset is 1, 1, 2, 2, 2, 3, 7. Which description is accurate?",
+    "audio_prompt": "A dataset is 1, 1, 2, 2, 2, 3, 7. Which description is accurate?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-011",
-      "alt_text": "During a science activity: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 11,
     "answers": [
       {
-        "text": "Blue",
+        "text": "All values are near 7",
         "is_correct": false
       },
       {
-        "text": "Red",
+        "text": "There are values at 4, 5 and 6",
         "is_correct": false
       },
       {
-        "text": "Green",
+        "text": "All values are the same",
+        "is_correct": false
+      },
+      {
+        "text": "Most values are from 1 to 3, with one value at 7",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "All values are near 7",
+      "There are values at 4, 5 and 6",
+      "All values are the same",
+      "Most values are from 1 to 3, with one value at 7"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Six of seven values lie from 1 to 3; no values lie from 4 to 6.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-012",
@@ -409,35 +500,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "pictograph_keys",
-    "question": "At the school canteen, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "audio_prompt": "At the school canteen, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "skill": "interpret_data",
+    "question": "Class A has counts 3, 3, 4, 4, 5. Class B has 1, 2, 4, 6, 7. Which is more spread out?",
+    "audio_prompt": "Class A has counts 3, 3, 4, 4, 5. Class B has 1, 2, 4, 6, 7. Which is more spread out?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-012",
-      "alt_text": "At the school canteen: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 12,
     "answers": [
       {
-        "text": "12",
+        "text": "Class B",
         "is_correct": true
       },
       {
-        "text": "6",
+        "text": "Class A",
         "is_correct": false
       },
       {
-        "text": "8",
+        "text": "Both have identical spread",
+        "is_correct": false
+      },
+      {
+        "text": "Neither contains numerical data",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "Class B",
+      "Class A",
+      "Both have identical spread",
+      "Neither contains numerical data"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "B extends from 1 to 7 while A extends only from 3 to 5.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-013",
@@ -445,35 +545,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "interpret_data_displays",
-    "question": "While organising an excursion, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
-    "audio_prompt": "While organising an excursion, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "skill": "interpret_data",
+    "question": "A dot plot has no dots above 4 or 5. What does that mean?",
+    "audio_prompt": "A dot plot has no dots above 4 or 5. What does that mean?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-013",
-      "alt_text": "While organising an excursion: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 13,
     "answers": [
       {
-        "text": "Blue",
+        "text": "The graph is automatically wrong",
         "is_correct": false
       },
       {
-        "text": "Green",
+        "text": "No recorded observation has value 4 or 5",
         "is_correct": true
       },
       {
-        "text": "Red",
+        "text": "Four or five students are absent",
+        "is_correct": false
+      },
+      {
+        "text": "Those values are impossible forever",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "The graph is automatically wrong",
+      "No recorded observation has value 4 or 5",
+      "Four or five students are absent",
+      "Those values are impossible forever"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "A gap describes this recorded dataset, not all possible future values.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-014",
@@ -481,35 +590,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "pictograph_keys",
-    "question": "In a games club, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
-    "audio_prompt": "In a games club, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "skill": "interpret_data",
+    "question": "A developer sees 30 dog images and 2 cat images in training data. What does a graph reveal?",
+    "audio_prompt": "A developer sees 30 dog images and 2 cat images in training data. What does a graph reveal?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-014",
-      "alt_text": "In a games club: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 14,
     "answers": [
       {
-        "text": "8",
+        "text": "The AI is guaranteed accurate",
         "is_correct": false
       },
       {
-        "text": "10",
+        "text": "There are no cats anywhere",
         "is_correct": false
       },
       {
-        "text": "16",
+        "text": "The categories are very unevenly represented",
         "is_correct": true
+      },
+      {
+        "text": "Every category has equal support",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "The AI is guaranteed accurate",
+      "There are no cats anywhere",
+      "The categories are very unevenly represented",
+      "Every category has equal support"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Visualising frequencies exposes underrepresented categories before AI development.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-015",
@@ -517,35 +635,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "interpret_data_displays",
-    "question": "During an art project, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "audio_prompt": "During an art project, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "skill": "interpret_data",
+    "question": "A data plot has one entry of 90 pets when most entries are 0 to 3. What should an AI developer do first?",
+    "audio_prompt": "A data plot has one entry of 90 pets when most entries are 0 to 3. What should an AI developer do first?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-015",
-      "alt_text": "During an art project: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 15,
     "answers": [
       {
-        "text": "Green",
+        "text": "Delete it automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Change all records to 90",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the entire dataset",
+        "is_correct": false
+      },
+      {
+        "text": "Check the original record for a possible entry error",
         "is_correct": true
-      },
-      {
-        "text": "Blue",
-        "is_correct": false
-      },
-      {
-        "text": "Red",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "Delete it automatically",
+      "Change all records to 90",
+      "Ignore the entire dataset",
+      "Check the original record for a possible entry error"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "An unusual value needs checking; it is not automatically false.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-016",
@@ -553,35 +680,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "pictograph_keys",
-    "question": "At the recycling station, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "audio_prompt": "At the recycling station, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "skill": "interpret_data",
+    "question": "Why inspect distributions before developing AI?",
+    "audio_prompt": "Why inspect distributions before developing AI?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-016",
-      "alt_text": "At the recycling station: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 16,
     "answers": [
       {
-        "text": "4",
-        "is_correct": false
-      },
-      {
-        "text": "8",
+        "text": "To notice gaps, unusual entries and unbalanced coverage",
         "is_correct": true
       },
       {
-        "text": "6",
+        "text": "To prove the AI cannot make errors",
+        "is_correct": false
+      },
+      {
+        "text": "To replace all records with guesses",
+        "is_correct": false
+      },
+      {
+        "text": "To hide rare cases",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "To notice gaps, unusual entries and unbalanced coverage",
+      "To prove the AI cannot make errors",
+      "To replace all records with guesses",
+      "To hide rare cases"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Data visualisation helps assess what the data covers and what needs checking.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-017",
@@ -589,35 +725,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "interpret_data_displays",
-    "question": "While planning a survey, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "audio_prompt": "While planning a survey, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "skill": "interpret_data",
+    "question": "Two surveys have different numbers of responses. What must a comparison mention?",
+    "audio_prompt": "Two surveys have different numbers of responses. What must a comparison mention?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-017",
-      "alt_text": "While planning a survey: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 17,
     "answers": [
       {
-        "text": "Blue",
+        "text": "Only graph colour",
         "is_correct": false
       },
       {
-        "text": "Red",
-        "is_correct": false
-      },
-      {
-        "text": "Green",
+        "text": "The number of responses in each group",
         "is_correct": true
+      },
+      {
+        "text": "Only the taller graph",
+        "is_correct": false
+      },
+      {
+        "text": "Only the shorter title",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Only graph colour",
+      "The number of responses in each group",
+      "Only the taller graph",
+      "Only the shorter title"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Group size affects counts; do not infer a greater preference from raw counts alone.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-018",
@@ -625,35 +770,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "pictograph_keys",
-    "question": "In a coding lesson, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "audio_prompt": "In a coding lesson, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "skill": "interpret_data",
+    "question": "A student doubles the width and height of a picture to show twice as many votes. Why is this confusing?",
+    "audio_prompt": "A student doubles the width and height of a picture to show twice as many votes. Why is this confusing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-018",
-      "alt_text": "In a coding lesson: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 18,
     "answers": [
       {
-        "text": "12",
+        "text": "Its area stays the same",
+        "is_correct": false
+      },
+      {
+        "text": "The votes have changed in the source table",
+        "is_correct": false
+      },
+      {
+        "text": "Its area becomes four times as large",
         "is_correct": true
       },
       {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "8",
+        "text": "Pictures must never be used",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "Its area stays the same",
+      "The votes have changed in the source table",
+      "Its area becomes four times as large",
+      "Pictures must never be used"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Use repeated equal-sized symbols with a key so area does not exaggerate the change.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST02-P-019",
@@ -661,35 +815,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "interpret_data_displays",
-    "question": "During a building task, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
-    "audio_prompt": "During a building task, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "skill": "compare_distributions",
+    "question": "Which class has book counts spread across a wider interval?",
+    "audio_prompt": "Which class has book counts spread across a wider interval?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-019",
-      "alt_text": "During a building task: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+      "alt_text": "Dot plots of books read last week. Class A:2,3,3,4,4,5. Class B:0,1,3,4,7,9. Same scale0–9; each dot is one student."
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 19,
     "answers": [
       {
-        "text": "Blue",
+        "text": "Class A",
         "is_correct": false
       },
       {
-        "text": "Green",
+        "text": "Both have the same endpoints",
+        "is_correct": false
+      },
+      {
+        "text": "Neither has variation",
+        "is_correct": false
+      },
+      {
+        "text": "Class B",
         "is_correct": true
-      },
-      {
-        "text": "Red",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Class A",
+      "Both have the same endpoints",
+      "Neither has variation",
+      "Class B"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "B extends from 0 to 9; A from 2 to 5.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
   },
   {
     "id": "AC9M4ST02-P-020",
@@ -697,35 +862,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "pictograph_keys",
-    "question": "At the local pool, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
-    "audio_prompt": "At the local pool, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "skill": "compare_distributions",
+    "question": "How many students are represented in each class dot plot?",
+    "audio_prompt": "How many students are represented in each class dot plot?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-020",
-      "alt_text": "At the local pool: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+      "alt_text": "Dot plots of books read last week. Class A:2,3,3,4,4,5. Class B:0,1,3,4,7,9. Same scale0–9; each dot is one student."
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 20,
     "answers": [
       {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "16",
+        "text": "Six in each",
         "is_correct": true
+      },
+      {
+        "text": "Five in A and six in B",
+        "is_correct": false
+      },
+      {
+        "text": "Six in A and nine in B",
+        "is_correct": false
+      },
+      {
+        "text": "Nine in each",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Six in each",
+      "Five in A and six in B",
+      "Six in A and nine in B",
+      "Nine in each"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Count six dots in each; the largest book count is not the number of students.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
   },
   {
     "id": "AC9M4ST02-P-021",
@@ -733,35 +909,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "interpret_data_displays",
-    "question": "While preparing a camp, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "audio_prompt": "While preparing a camp, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "skill": "compare_distributions",
+    "question": "In the displayed Class A dot plot, the six book counts are 2, 3, 3, 4, 4 and 5. A report must describe where these values are concentrated. Which sentence matches all six observations?",
+    "audio_prompt": "In the displayed Class A dot plot, the six book counts are 2, 3, 3, 4, 4 and 5. A report must describe where these values are concentrated. Which sentence matches all six observations?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-021",
-      "alt_text": "While preparing a camp: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+      "alt_text": "Dot plots of books read last week. Class A:2,3,3,4,4,5. Class B:0,1,3,4,7,9. Same scale0–9; each dot is one student."
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 21,
     "answers": [
       {
-        "text": "Green",
+        "text": "Most book counts lie from 7 to 9",
+        "is_correct": false
+      },
+      {
+        "text": "All six book counts lie from 2 to 5",
         "is_correct": true
       },
       {
-        "text": "Blue",
+        "text": "There are no repeated book counts",
         "is_correct": false
       },
       {
-        "text": "Red",
+        "text": "All six students read 4 books",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "Most book counts lie from 7 to 9",
+      "All six book counts lie from 2 to 5",
+      "There are no repeated book counts",
+      "All six students read 4 books"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The smallest count is 2 and the largest is 5; every observation lies between them. Counts 3 and 4 each occur twice.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
   },
   {
     "id": "AC9M4ST02-P-022",
@@ -769,35 +956,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "pictograph_keys",
-    "question": "In a music project, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "audio_prompt": "In a music project, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "skill": "compare_distributions",
+    "question": "Which value occurs in Class B but not Class A?",
+    "audio_prompt": "Which value occurs in Class B but not Class A?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-022",
-      "alt_text": "In a music project: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+      "alt_text": "Dot plots of books read last week. Class A:2,3,3,4,4,5. Class B:0,1,3,4,7,9. Same scale0–9; each dot is one student."
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 22,
     "answers": [
+      {
+        "text": "3",
+        "is_correct": false
+      },
       {
         "text": "4",
         "is_correct": false
       },
       {
-        "text": "8",
+        "text": "0",
         "is_correct": true
       },
       {
-        "text": "6",
+        "text": "2",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "3",
+      "4",
+      "0",
+      "2"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "B contains 0; A does not. Values 3 and 4 occur in both;2 only in A.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
   },
   {
     "id": "AC9M4ST02-P-023",
@@ -805,35 +1003,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "interpret_data_displays",
-    "question": "At a playground redesign, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "audio_prompt": "At a playground redesign, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "skill": "compare_distributions",
+    "question": "Which description of gaps in Class B is accurate?",
+    "audio_prompt": "Which description of gaps in Class B is accurate?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-023",
-      "alt_text": "At a playground redesign: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+      "alt_text": "Dot plots of books read last week. Class A:2,3,3,4,4,5. Class B:0,1,3,4,7,9. Same scale0–9; each dot is one student."
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 23,
     "answers": [
       {
-        "text": "Blue",
+        "text": "No observations at 3 or 4",
         "is_correct": false
       },
       {
-        "text": "Red",
+        "text": "No observations at 0 or 9",
         "is_correct": false
       },
       {
-        "text": "Green",
+        "text": "Every position has an observation",
+        "is_correct": false
+      },
+      {
+        "text": "No observations at 2,5,6 or 8",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "No observations at 3 or 4",
+      "No observations at 0 or 9",
+      "Every position has an observation",
+      "No observations at 2,5,6 or 8"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The dots sit only at 0,1,3,4,7 and 9.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
   },
   {
     "id": "AC9M4ST02-P-024",
@@ -841,35 +1050,1050 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "practice",
-    "skill": "pictograph_keys",
-    "question": "During a book drive, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "audio_prompt": "During a book drive, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "skill": "compare_distributions",
+    "question": "Why use the same horizontal scale for the two plots?",
+    "audio_prompt": "Why use the same horizontal scale for the two plots?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-p-024",
-      "alt_text": "During a book drive: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+      "alt_text": "Dot plots of books read last week. Class A:2,3,3,4,4,5. Class B:0,1,3,4,7,9. Same scale0–9; each dot is one student."
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 24,
     "answers": [
       {
-        "text": "12",
+        "text": "Equal distances represent equal differences in book counts",
         "is_correct": true
       },
       {
-        "text": "6",
+        "text": "It forces both datasets to have the same values",
+        "is_correct": false
+      },
+      {
+        "text": "It changes how many students responded",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need to count dots",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Equal distances represent equal differences in book counts",
+      "It forces both datasets to have the same values",
+      "It changes how many students responded",
+      "It removes the need to count dots"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A common scale supports a fair visual spread comparison.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-025",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "compare_distributions",
+    "question": "Which question can these dot plots answer?",
+    "audio_prompt": "Which question can these dot plots answer?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+      "alt_text": "Dot plots of books read last week. Class A:2,3,3,4,4,5. Class B:0,1,3,4,7,9. Same scale0–9; each dot is one student."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 25,
+    "answers": [
+      {
+        "text": "Why one student read 9 books",
+        "is_correct": false
+      },
+      {
+        "text": "Which class has the larger highest recorded count?",
+        "is_correct": true
+      },
+      {
+        "text": "Which class enjoys reading more",
+        "is_correct": false
+      },
+      {
+        "text": "Which class will read most next month",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Why one student read 9 books",
+      "Which class has the larger highest recorded count?",
+      "Which class enjoys reading more",
+      "Which class will read most next month"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Recorded counts show maxima: B9 compared with A5. Reasons and future preferences were not collected.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-026",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "compare_distributions",
+    "question": "Which is an accurate comparison of repeated values?",
+    "audio_prompt": "Which is an accurate comparison of repeated values?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+      "alt_text": "Dot plots of books read last week. Class A:2,3,3,4,4,5. Class B:0,1,3,4,7,9. Same scale0–9; each dot is one student."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 26,
+    "answers": [
+      {
+        "text": "Both repeat every value",
+        "is_correct": false
+      },
+      {
+        "text": "B repeats 9 three times",
+        "is_correct": false
+      },
+      {
+        "text": "A repeats 3 and 4; B has no repeated value",
+        "is_correct": true
+      },
+      {
+        "text": "A has no repeated values",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Both repeat every value",
+      "B repeats 9 three times",
+      "A repeats 3 and 4; B has no repeated value",
+      "A has no repeated values"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A has two dots at 3 and two at 4; B has one at each shown value.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-027",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "compare_distributions",
+    "question": "What would a table of Class A need to preserve?",
+    "audio_prompt": "What would a table of Class A need to preserve?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+      "alt_text": "Dot plots of books read last week. Class A:2,3,3,4,4,5. Class B:0,1,3,4,7,9. Same scale0–9; each dot is one student."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 27,
+    "answers": [
+      {
+        "text": "Only its largest value 5",
+        "is_correct": false
+      },
+      {
+        "text": "Only the class name",
+        "is_correct": false
+      },
+      {
+        "text": "A total of 9 students",
+        "is_correct": false
+      },
+      {
+        "text": "Frequency 2 at 3 and frequency 2 at 4",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Only its largest value 5",
+      "Only the class name",
+      "A total of 9 students",
+      "Frequency 2 at 3 and frequency 2 at 4"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A faithful frequency table retains every observation, including repeated counts.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-028",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "compare_distributions",
+    "question": "Why is a dot plot useful here compared with just a total of books?",
+    "audio_prompt": "Why is a dot plot useful here compared with just a total of books?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+      "alt_text": "Dot plots of books read last week. Class A:2,3,3,4,4,5. Class B:0,1,3,4,7,9. Same scale0–9; each dot is one student."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 28,
+    "answers": [
+      {
+        "text": "It shows individual count frequencies and gaps",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the reasons for reading",
+        "is_correct": false
+      },
+      {
+        "text": "It removes all variation",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees next week’s results",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "It shows individual count frequencies and gaps",
+      "It proves the reasons for reading",
+      "It removes all variation",
+      "It guarantees next week’s results"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A single total hides how the counts are distributed.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-029",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "compare_distributions",
+    "question": "A student says Class B has more students because its plot reaches 9. What is the correction?",
+    "audio_prompt": "A student says Class B has more students because its plot reaches 9. What is the correction?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+      "alt_text": "Dot plots of books read last week. Class A:2,3,3,4,4,5. Class B:0,1,3,4,7,9. Same scale0–9; each dot is one student."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 29,
+    "answers": [
+      {
+        "text": "B has nine students",
+        "is_correct": false
+      },
+      {
+        "text": "Both plots contain six dots;9 is a book count",
+        "is_correct": true
+      },
+      {
+        "text": "A has five students",
+        "is_correct": false
+      },
+      {
+        "text": "The axes have no meaning",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "B has nine students",
+      "Both plots contain six dots;9 is a book count",
+      "A has five students",
+      "The axes have no meaning"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The horizontal axis shows books read; dots count students.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-030",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "compare_distributions",
+    "question": "What should a report avoid claiming from these plots alone?",
+    "audio_prompt": "What should a report avoid claiming from these plots alone?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+      "alt_text": "Dot plots of books read last week. Class A:2,3,3,4,4,5. Class B:0,1,3,4,7,9. Same scale0–9; each dot is one student."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 30,
+    "answers": [
+      {
+        "text": "B’s recorded counts vary more",
+        "is_correct": false
+      },
+      {
+        "text": "A’s counts lie from 2 to 5",
+        "is_correct": false
+      },
+      {
+        "text": "Class B students are better readers",
+        "is_correct": true
+      },
+      {
+        "text": "Each class has six recorded students",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "B’s recorded counts vary more",
+      "A’s counts lie from 2 to 5",
+      "Class B students are better readers",
+      "Each class has six recorded students"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Book counts do not by themselves measure reading skill.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-031",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "Read the student display: twenty-four spinner results display. How many responses or observations are in Blue?",
+    "audio_prompt": "Read the student display: twenty-four spinner results display. How many responses or observations are in Blue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-p-2",
+      "alt_text": "Student display: twenty-four spinner results. Red: 6, Blue: 10, Gold: 4, Green: 4. Spins. Vertical scale starts at zero with equal intervals."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 31,
+    "answers": [
+      {
+        "text": "12",
         "is_correct": false
       },
       {
         "text": "8",
         "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
       }
+    ],
+    "audio_answers": [
+      "12",
+      "8",
+      "14",
+      "10"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The display places Blue at 10. Read the scale or multiply symbols by the key.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-032",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "In the student display: twenty-four spinner results display, which category has the greatest count?",
+    "audio_prompt": "In the student display: twenty-four spinner results display, which category has the greatest count?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-p-2",
+      "alt_text": "Student display: twenty-four spinner results. Red: 6, Blue: 10, Gold: 4, Green: 4. Spins. Vertical scale starts at zero with equal intervals."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 32,
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": true
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      },
+      {
+        "text": "Gold",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Blue",
+      "Red",
+      "Gold",
+      "Green"
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "Blue has 10, the largest count.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-033",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "What is the total count in the student display: twenty-four spinner results display?",
+    "audio_prompt": "What is the total count in the student display: twenty-four spinner results display?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-p-2",
+      "alt_text": "Student display: twenty-four spinner results. Red: 6, Blue: 10, Gold: 4, Green: 4. Spins. Vertical scale starts at zero with equal intervals."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 33,
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": true
+      },
+      {
+        "text": "26",
+        "is_correct": false
+      },
+      {
+        "text": "32",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "20",
+      "24",
+      "26",
+      "32"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add all four counts: 6 + 10 + 4 + 4 = 24.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-034",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "In the student display: twenty-four spinner results display, how much greater is the largest count than the smallest?",
+    "audio_prompt": "In the student display: twenty-four spinner results display, how much greater is the largest count than the smallest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-p-2",
+      "alt_text": "Student display: twenty-four spinner results. Red: 6, Blue: 10, Gold: 4, Green: 4. Spins. Vertical scale starts at zero with equal intervals."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 34,
+    "answers": [
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "14",
+      "8",
+      "6",
+      "10"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The difference is 10 − 4 = 6.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-035",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "distribution_shape",
+    "question": "A second display lists book counts 0, 1, 1, 2, 5, 5, 6. Which description fits?",
+    "audio_prompt": "A second display lists book counts 0, 1, 1, 2, 5, 5, 6. Which description fits?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 35,
+    "answers": [
+      {
+        "text": "There are no observations at 0",
+        "is_correct": false
+      },
+      {
+        "text": "All observations lie from 0 to 2",
+        "is_correct": false
+      },
+      {
+        "text": "The value 6 appears twice",
+        "is_correct": false
+      },
+      {
+        "text": "There are no observations at 3 or 4",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "There are no observations at 0",
+      "All observations lie from 0 to 2",
+      "The value 6 appears twice",
+      "There are no observations at 3 or 4"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The list jumps from 2 to 5.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-036",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "Which statement about the student display: twenty-four spinner results display is supported?",
+    "audio_prompt": "Which statement about the student display: twenty-four spinner results display is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-p-2",
+      "alt_text": "Student display: twenty-four spinner results. Red: 6, Blue: 10, Gold: 4, Green: 4. Spins. Vertical scale starts at zero with equal intervals."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 36,
+    "answers": [
+      {
+        "text": "Red and Blue together have 16",
+        "is_correct": true
+      },
+      {
+        "text": "The data explains why each spin landed on its colour",
+        "is_correct": false
+      },
+      {
+        "text": "The same results must occur next time",
+        "is_correct": false
+      },
+      {
+        "text": "The results describe every class in Australia",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Red and Blue together have 16",
+      "The data explains why each spin landed on its colour",
+      "The same results must occur next time",
+      "The results describe every class in Australia"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "6 + 10 = 16. The other claims go beyond the recorded information.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-037",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "Read the student display: library genre choices display. How many responses or observations are in Animal?",
+    "audio_prompt": "Read the student display: library genre choices display. How many responses or observations are in Animal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-p-3",
+      "alt_text": "Student display: library genre choices. Mystery: 12, Animal: 6, Space: 8, Sport: 4. Responses. Each circle represents 2 responses."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 37,
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "8",
+      "6",
+      "4",
+      "10"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The display places Animal at 6. Read the scale or multiply symbols by the key.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-038",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "In the student display: library genre choices display, which category has the greatest count?",
+    "audio_prompt": "In the student display: library genre choices display, which category has the greatest count?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-p-3",
+      "alt_text": "Student display: library genre choices. Mystery: 12, Animal: 6, Space: 8, Sport: 4. Responses. Each circle represents 2 responses."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 38,
+    "answers": [
+      {
+        "text": "Animal",
+        "is_correct": false
+      },
+      {
+        "text": "Space",
+        "is_correct": false
+      },
+      {
+        "text": "Mystery",
+        "is_correct": true
+      },
+      {
+        "text": "Sport",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Animal",
+      "Space",
+      "Mystery",
+      "Sport"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Mystery has 12, the largest count.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-039",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "What is the total count in the student display: library genre choices display?",
+    "audio_prompt": "What is the total count in the student display: library genre choices display?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-p-3",
+      "alt_text": "Student display: library genre choices. Mystery: 12, Animal: 6, Space: 8, Sport: 4. Responses. Each circle represents 2 responses."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 39,
+    "answers": [
+      {
+        "text": "26",
+        "is_correct": false
+      },
+      {
+        "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "38",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "26",
+      "32",
+      "38",
+      "30"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Add all four counts: 12 + 6 + 8 + 4 = 30.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-040",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "In the student display: library genre choices display, how much greater is the largest count than the smallest?",
+    "audio_prompt": "In the student display: library genre choices display, how much greater is the largest count than the smallest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-p-3",
+      "alt_text": "Student display: library genre choices. Mystery: 12, Animal: 6, Space: 8, Sport: 4. Responses. Each circle represents 2 responses."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 40,
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "8",
+      "16",
+      "10",
+      "12"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The difference is 12 − 4 = 8.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-041",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "distribution_shape",
+    "question": "A second display lists book counts 3, 4, 4, 5, 5, 6. Which description fits?",
+    "audio_prompt": "A second display lists book counts 3, 4, 4, 5, 5, 6. Which description fits?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 41,
+    "answers": [
+      {
+        "text": "Most values are below 3",
+        "is_correct": false
+      },
+      {
+        "text": "Values are concentrated from 3 to 6",
+        "is_correct": true
+      },
+      {
+        "text": "There is a value at 0",
+        "is_correct": false
+      },
+      {
+        "text": "All values are equal",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Most values are below 3",
+      "Values are concentrated from 3 to 6",
+      "There is a value at 0",
+      "All values are equal"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Every observation is between 3 and 6 inclusive.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-042",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "Which statement about the student display: library genre choices display is supported?",
+    "audio_prompt": "Which statement about the student display: library genre choices display is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-p-3",
+      "alt_text": "Student display: library genre choices. Mystery: 12, Animal: 6, Space: 8, Sport: 4. Responses. Each circle represents 2 responses."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 42,
+    "answers": [
+      {
+        "text": "The data explains why every choice was made",
+        "is_correct": false
+      },
+      {
+        "text": "The same results must occur next time",
+        "is_correct": false
+      },
+      {
+        "text": "Mystery and Animal together have 18",
+        "is_correct": true
+      },
+      {
+        "text": "The results describe every class in Australia",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "The data explains why every choice was made",
+      "The same results must occur next time",
+      "Mystery and Animal together have 18",
+      "The results describe every class in Australia"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "12 + 6 = 18. The other claims go beyond the recorded information.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST02-P-043",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "create_and_interpret_data",
+    "question": "Make both a frequency table and dot plot for counts 1, 2, 2, 3, 3, 3, 6. Write one question each display can answer and answer it. Explain which better shows the gap.",
+    "audio_prompt": "Make both a frequency table and dot plot for counts 1, 2, 2, 3, 3, 3, 6. Write one question each display can answer and answer it. Explain which better shows the gap.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 43,
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Frequencies 1:1,2:2,3:3,6:1; total 7. The dot plot shows missing 4 and 5 more visibly when all positions 1–6 are labelled.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Frequencies 1:1,2:2,3:3,6:1; total 7. The dot plot shows missing 4 and 5 more visibly when all positions 1–6 are labelled.",
+    "acceptance_note": "Inspect both actual displays, seven dots, ordered positions, two questions with correct answers and a justified comparison.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4ST02-P-044",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "create_and_interpret_data",
+    "question": "Draw two dot plots on the same scale: A = 3, 3, 4, 4, 5, 5; B = 1, 2, 4, 4, 7, 8. Describe concentration and which group varies more.",
+    "audio_prompt": "Draw two dot plots on the same scale: A = 3, 3, 4, 4, 5, 5; B = 1, 2, 4, 4, 7, 8. Describe concentration and which group varies more.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 44,
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "A is concentrated 3–5; B extends 1–8 with gaps at 3,5,6. B is more spread out.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "A is concentrated 3–5; B extends 1–8 with gaps at 3,5,6. B is more spread out.",
+    "acceptance_note": "Inspect all 12 dots and shared scale; require specific endpoints and gap evidence, not just “different”.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4ST02-P-045",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "create_and_interpret_data",
+    "question": "Create a pictograph for 10, 15 and 20 tickets using one symbol for 10. Include partial symbols and a key. Explain why counting pictures as single tickets gives the wrong answer.",
+    "audio_prompt": "Create a pictograph for 10, 15 and 20 tickets using one symbol for 10. Include partial symbols and a key. Explain why counting pictures as single tickets gives the wrong answer.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 45,
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Use 1,1½,2 symbols. Half means 5 tickets; the total is 45 tickets.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Use 1,1½,2 symbols. Half means 5 tickets; the total is 45 tickets.",
+    "acceptance_note": "Inspect equal-sized symbols, accurate halves, key and correct total/explanation.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4ST02-P-046",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "create_and_interpret_data",
+    "question": "Represent votes A12, B8, C4 in a table and a column graph. Compare which helps find an exact count and which helps compare categories quickly. State one question neither answers.",
+    "audio_prompt": "Represent votes A12, B8, C4 in a table and a column graph. Compare which helps find an exact count and which helps compare categories quickly. State one question neither answers.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 46,
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Both show exact counts when labelled; the table lists values directly, while column heights aid comparison. Neither explains why each person voted.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Both show exact counts when labelled; the table lists values directly, while column heights aid comparison. Neither explains why each person voted.",
+    "acceptance_note": "Inspect both displays and scale; accept justified usefulness claims rather than requiring one universally best format.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4ST02-P-047",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "create_and_interpret_data",
+    "question": "Draw a misleading column graph for counts 9 and 10 using a vertical axis beginning at 8. Then redraw fairly from 0 using equal intervals. Label both and explain the difference.",
+    "audio_prompt": "Draw a misleading column graph for counts 9 and 10 using a vertical axis beginning at 8. Then redraw fairly from 0 using equal intervals. Label both and explain the difference.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 47,
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "The truncated bars have visible lengths 1 and 2, suggesting an exaggerated contrast. From 0 the counts 9 and 10 appear close.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "The truncated bars have visible lengths 1 and 2, suggesting an exaggerated contrast. From 0 the counts 9 and 10 appear close.",
+    "acceptance_note": "Inspect both scales, unchanged values and explanation that presentation changed but data did not.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4ST02-P-048",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST02",
+    "bank": "practice",
+    "skill": "create_and_interpret_data",
+    "question": "An AI developer’s example-data counts are dogs 20, cats 3, birds 0. Make a labelled display. Write what it reveals and two checks the developer should make before claiming the data covers all three groups.",
+    "audio_prompt": "An AI developer’s example-data counts are dogs 20, cats 3, birds 0. Make a labelled display. Write what it reveals and two checks the developer should make before claiming the data covers all three groups.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 48,
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Dogs dominate; cats are few and birds absent. Check collection/labels and obtain appropriate missing or underrepresented examples before a broad claim.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Dogs dominate; cats are few and birds absent. Check collection/labels and obtain appropriate missing or underrepresented examples before a broad claim.",
+    "acceptance_note": "Inspect accurate display and discussion of imbalance/missing coverage. Do not accept “the graph proves AI accuracy”.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4ST02-T-001",
@@ -877,32 +2101,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret_data_displays",
-    "question": "At a coastal station, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "audio_prompt": "At a coastal station, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "skill": "display_effectiveness",
+    "question": "A graph of the club data uses equal intervals labelled 0,4,8,12,16. Why is this scale suitable?",
+    "audio_prompt": "A graph of the club data uses equal intervals labelled 0,4,8,12,16. Why is this scale suitable?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-001",
-      "alt_text": "At a coastal station: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 1,
     "answers": [
       {
-        "text": "Blue",
+        "text": "It changes 14 to 16",
         "is_correct": false
       },
       {
-        "text": "Green",
+        "text": "It has equal steps and includes the largest count 14",
         "is_correct": true
       },
       {
-        "text": "Red",
+        "text": "It forces all counts to be multiples of 4",
+        "is_correct": false
+      },
+      {
+        "text": "It hides the smaller categories",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "It changes 14 to 16",
+      "It has equal steps and includes the largest count 14",
+      "It forces all counts to be multiples of 4",
+      "It hides the smaller categories"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "The scale reaches beyond 14 with equal increments; intermediate counts can be shown.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
     }
   },
   {
@@ -911,32 +2146,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph_keys",
-    "question": "During a museum challenge, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "audio_prompt": "During a museum challenge, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "skill": "display_effectiveness",
+    "question": "For the club data, why might a table be useful alongside the graph?",
+    "audio_prompt": "For the club data, why might a table be useful alongside the graph?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-002",
-      "alt_text": "During a museum challenge: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 2,
     "answers": [
       {
-        "text": "4",
+        "text": "It proves why students chose clubs",
         "is_correct": false
       },
       {
-        "text": "6",
+        "text": "It makes every category equal",
         "is_correct": false
       },
       {
-        "text": "8",
+        "text": "It gives exact counts directly",
         "is_correct": true
+      },
+      {
+        "text": "It predicts next year’s votes",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "It proves why students chose clubs",
+      "It makes every category equal",
+      "It gives exact counts directly",
+      "It predicts next year’s votes"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "A table complements visual comparisons with exact values.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
     }
   },
   {
@@ -945,32 +2191,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret_data_displays",
-    "question": "At a charity event, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "audio_prompt": "At a charity event, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "skill": "display_effectiveness",
+    "question": "A pictograph shows Art with 7 symbols and Music with 4, but no key. What is missing for exact counts?",
+    "audio_prompt": "A pictograph shows Art with 7 symbols and Music with 4, but no key. What is missing for exact counts?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-003",
-      "alt_text": "At a charity event: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 3,
     "answers": [
       {
-        "text": "Green",
+        "text": "The artist’s name",
+        "is_correct": false
+      },
+      {
+        "text": "A larger picture",
+        "is_correct": false
+      },
+      {
+        "text": "A different page colour",
+        "is_correct": false
+      },
+      {
+        "text": "How many responses each symbol represents",
         "is_correct": true
-      },
-      {
-        "text": "Blue",
-        "is_correct": false
-      },
-      {
-        "text": "Red",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "The artist’s name",
+      "A larger picture",
+      "A different page colour",
+      "How many responses each symbol represents"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "Without a key, symbol counts do not determine response counts.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
     }
   },
   {
@@ -979,32 +2236,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph_keys",
-    "question": "In an engineering workshop, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "audio_prompt": "In an engineering workshop, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "skill": "display_effectiveness",
+    "question": "Two displays of club data show totals 38 and 40. What must happen?",
+    "audio_prompt": "Two displays of club data show totals 38 and 40. What must happen?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 4,
     "answers": [
       {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "12",
+        "text": "Check both against the raw records",
         "is_correct": true
       },
       {
-        "text": "8",
+        "text": "Choose 40 because it is round",
+        "is_correct": false
+      },
+      {
+        "text": "Add the totals together",
+        "is_correct": false
+      },
+      {
+        "text": "Assume both are faithful",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Check both against the raw records",
+      "Choose 40 because it is round",
+      "Add the totals together",
+      "Assume both are faithful"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "The same recorded dataset should have the same total.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
     }
   },
   {
@@ -1013,32 +2281,45 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret_data_displays",
-    "question": "At a regional carnival, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
-    "audio_prompt": "At a regional carnival, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "skill": "interpret_data",
+    "question": "Which two club categories together have 14 responses?",
+    "audio_prompt": "Which two club categories together have 14 responses?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-005",
-      "alt_text": "At a regional carnival: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-test",
+      "alt_text": "Student graph of club choices. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 5,
     "answers": [
       {
-        "text": "Blue",
+        "text": "Art and Music",
         "is_correct": false
       },
       {
-        "text": "Red",
-        "is_correct": false
-      },
-      {
-        "text": "Green",
+        "text": "Music and Garden",
         "is_correct": true
+      },
+      {
+        "text": "Games and Garden",
+        "is_correct": false
+      },
+      {
+        "text": "Art and Garden",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Art and Music",
+      "Music and Garden",
+      "Games and Garden",
+      "Art and Garden"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "8 + 6 = 14.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1047,32 +2328,45 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph_keys",
-    "question": "During a farm study, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
-    "audio_prompt": "During a farm study, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "skill": "interpret_data",
+    "question": "Which conclusion stays within the club data?",
+    "audio_prompt": "Which conclusion stays within the club data?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-006",
-      "alt_text": "During a farm study: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-test",
+      "alt_text": "Student graph of club choices. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 6,
     "answers": [
       {
-        "text": "16",
+        "text": "Every child likes art best",
+        "is_correct": false
+      },
+      {
+        "text": "Art causes higher maths marks",
+        "is_correct": false
+      },
+      {
+        "text": "Art received the largest count among these respondents",
         "is_correct": true
       },
       {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "10",
+        "text": "Garden will never be popular",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "Every child likes art best",
+      "Art causes higher maths marks",
+      "Art received the largest count among these respondents",
+      "Garden will never be popular"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "14 is the largest observed count; the other claims are not established.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1081,32 +2375,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret_data_displays",
-    "question": "While reading a trail guide, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "audio_prompt": "While reading a trail guide, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "skill": "interpret_data",
+    "question": "Counts are 2, 2, 3, 3, 3, 4, 9. Which description fits?",
+    "audio_prompt": "Counts are 2, 2, 3, 3, 3, 4, 9. Which description fits?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 7,
     "answers": [
       {
-        "text": "Blue",
+        "text": "Most are near 9",
         "is_correct": false
       },
       {
-        "text": "Green",
+        "text": "There are observations at 5, 6 and 7",
+        "is_correct": false
+      },
+      {
+        "text": "All are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Most are between 2 and 4, with one high value at 9",
         "is_correct": true
-      },
-      {
-        "text": "Red",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Most are near 9",
+      "There are observations at 5, 6 and 7",
+      "All are identical",
+      "Most are between 2 and 4, with one high value at 9"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "Six values cluster from 2 to 4; 9 is separated.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1115,32 +2420,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph_keys",
-    "question": "In an architecture studio, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "audio_prompt": "In an architecture studio, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "skill": "interpret_data",
+    "question": "Group A: 4, 4, 5, 5. Group B: 1, 3, 6, 8. Which varies more?",
+    "audio_prompt": "Group A: 4, 4, 5, 5. Group B: 1, 3, 6, 8. Which varies more?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-008",
-      "alt_text": "In an architecture studio: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 8,
     "answers": [
       {
-        "text": "4",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "8",
+        "text": "Group B",
         "is_correct": true
+      },
+      {
+        "text": "Group A",
+        "is_correct": false
+      },
+      {
+        "text": "They have identical spread",
+        "is_correct": false
+      },
+      {
+        "text": "Neither has counts",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Group B",
+      "Group A",
+      "They have identical spread",
+      "Neither has counts"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "B extends from 1 to 8; A only from 4 to 5.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1149,32 +2465,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret_data_displays",
-    "question": "During a food-truck project, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "audio_prompt": "During a food-truck project, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "skill": "interpret_data",
+    "question": "A media graph uses one picture for 6 bicycles. A half picture means how many?",
+    "audio_prompt": "A media graph uses one picture for 6 bicycles. A half picture means how many?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-009",
-      "alt_text": "During a food-truck project: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 9,
     "answers": [
       {
-        "text": "Green",
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "3",
         "is_correct": true
       },
       {
-        "text": "Blue",
+        "text": "6",
         "is_correct": false
       },
       {
-        "text": "Red",
+        "text": "12",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "1",
+      "3",
+      "6",
+      "12"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "Half of 6 is 3.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1183,32 +2510,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph_keys",
-    "question": "At a festival, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "audio_prompt": "At a festival, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "skill": "interpret_data",
+    "question": "Which display best shows repeated individual whole-number counts and gaps?",
+    "audio_prompt": "Which display best shows repeated individual whole-number counts and gaps?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-010",
-      "alt_text": "At a festival: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 10,
     "answers": [
       {
-        "text": "6",
+        "text": "A single total only",
         "is_correct": false
       },
       {
-        "text": "12",
+        "text": "A decorative photograph",
+        "is_correct": false
+      },
+      {
+        "text": "A dot plot with one dot per observation",
         "is_correct": true
       },
       {
-        "text": "8",
+        "text": "A title without data",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "A single total only",
+      "A decorative photograph",
+      "A dot plot with one dot per observation",
+      "A title without data"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "A dot plot preserves frequency at each value and shows unoccupied positions.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1217,32 +2555,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret_data_displays",
-    "question": "While organising a collection, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
-    "audio_prompt": "While organising a collection, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
+    "skill": "interpret_data",
+    "question": "Two graphs of the same data show different totals. What follows?",
+    "audio_prompt": "Two graphs of the same data show different totals. What follows?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-011",
-      "alt_text": "While organising a collection: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 11,
     "answers": [
       {
-        "text": "Blue",
+        "text": "Both must be right because colours differ",
         "is_correct": false
       },
       {
-        "text": "Red",
+        "text": "Totals never matter",
         "is_correct": false
       },
       {
-        "text": "Green",
+        "text": "The larger total is automatically correct",
+        "is_correct": false
+      },
+      {
+        "text": "At least one representation needs checking",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Both must be right because colours differ",
+      "Totals never matter",
+      "The larger total is automatically correct",
+      "At least one representation needs checking"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "Faithful displays of the same observations must preserve the total.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1251,32 +2600,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph_keys",
-    "question": "In an environmental study, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
-    "audio_prompt": "In an environmental study, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
+    "skill": "interpret_data",
+    "question": "An AI dataset graph shows no examples of one required category. What has it revealed?",
+    "audio_prompt": "An AI dataset graph shows no examples of one required category. What has it revealed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-012",
-      "alt_text": "In an environmental study: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 12,
     "answers": [
       {
-        "text": "16",
+        "text": "A gap in the data coverage",
         "is_correct": true
       },
       {
-        "text": "8",
+        "text": "Proof the category does not exist",
         "is_correct": false
       },
       {
-        "text": "10",
+        "text": "Proof the AI is perfect",
+        "is_correct": false
+      },
+      {
+        "text": "A reason to hide the graph",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "A gap in the data coverage",
+      "Proof the category does not exist",
+      "Proof the AI is perfect",
+      "A reason to hide the graph"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "The missing category needs investigation before claiming broad coverage.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1285,32 +2645,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret_data_displays",
-    "question": "During a transport survey, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "audio_prompt": "During a transport survey, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
+    "skill": "interpret_data",
+    "question": "A graph of favourite pets cannot answer which question?",
+    "audio_prompt": "A graph of favourite pets cannot answer which question?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-013",
-      "alt_text": "During a transport survey: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 13,
     "answers": [
       {
-        "text": "Blue",
+        "text": "Which category has most votes",
         "is_correct": false
       },
       {
-        "text": "Green",
+        "text": "Why each person made their choice",
         "is_correct": true
       },
       {
-        "text": "Red",
+        "text": "How many voted for cats",
+        "is_correct": false
+      },
+      {
+        "text": "How many responses were recorded",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "Which category has most votes",
+      "Why each person made their choice",
+      "How many voted for cats",
+      "How many responses were recorded"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "Reasons were not recorded in the frequency display.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1319,32 +2690,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph_keys",
-    "question": "At a strategy tournament, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "audio_prompt": "At a strategy tournament, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
+    "skill": "interpret_data",
+    "question": "Why use the same numerical scale in two comparable column graphs?",
+    "audio_prompt": "Why use the same numerical scale in two comparable column graphs?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 14,
     "answers": [
       {
-        "text": "4",
+        "text": "So both groups must tie",
         "is_correct": false
       },
       {
-        "text": "6",
+        "text": "So labels are unnecessary",
         "is_correct": false
       },
       {
-        "text": "8",
+        "text": "So equal heights mean equal counts",
         "is_correct": true
+      },
+      {
+        "text": "So the source values change",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "So both groups must tie",
+      "So labels are unnecessary",
+      "So equal heights mean equal counts",
+      "So the source values change"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "A common scale makes visual comparisons meaningful.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1353,33 +2735,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret_data_displays",
-    "question": "While planning a community garden, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "audio_prompt": "While planning a community garden, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
+    "skill": "create_and_interpret_data",
+    "question": "Collect whole-number counts of books read last week from at least six willing people. Create your own table and dot plot. Describe a concentration, gap or absence of gaps and compare the usefulness of both displays.",
+    "audio_prompt": "Collect whole-number counts of books read last week from at least six willing people. Create your own table and dot plot. Describe a concentration, gap or absence of gaps and compare the usefulness of both displays.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-015",
-      "alt_text": "While planning a community garden: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "Green",
-        "is_correct": true
-      },
-      {
-        "text": "Blue",
-        "is_correct": false
-      },
-      {
-        "text": "Red",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 15,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
-    }
+      "summary": "Results vary; every response contributes one dot. State observed features only; a gap need not exist.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Results vary; every response contributes one dot. State observed features only; a gap need not exist.",
+    "acceptance_note": "Inspect actual records and both student-generated displays; verify frequencies, positions and evidence-based comparison.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4ST02-T-016",
@@ -1387,32 +2762,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph_keys",
-    "question": "In a design exhibition, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "audio_prompt": "In a design exhibition, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
+    "skill": "create_and_interpret_data",
+    "question": "A media-style pictograph uses one circle for 8 visitors. Draw rows for 12 and 20 visitors. Write an accurate comparison, explain the partial symbols and identify information needed before comparing these with another event.",
+    "audio_prompt": "A media-style pictograph uses one circle for 8 visitors. Draw rows for 12 and 20 visitors. Write an accurate comparison, explain the partial symbols and identify information needed before comparing these with another event.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-016",
-      "alt_text": "In a design exhibition: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 16,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
-    }
+      "summary": "Use 1½ and 2½ circles;20 is 8 more than 12. Half means 4. Check event, date/period, counting method and number of observations.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Use 1½ and 2½ circles;20 is 8 more than 12. Half means 4. Check event, date/period, counting method and number of observations.",
+    "acceptance_note": "Inspect the two precise half-symbol rows, key, difference 8 and relevant comparison conditions.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
   }
 ]

@@ -4,28 +4,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-001",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "compare likelihood",
+    "skill": "order",
     "printable": true,
     "type": "single",
-    "question": "At a coastal station, a bag has 2 red and 7 blue counters. Which colour is more likely?",
-    "audioPrompt": "At a coastal station, a bag has 2 red and 7 blue counters. Which colour is more likely?",
-    "visual": "At a coastal station: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-001\"></use></svg>",
+    "question": "A bag contains 2 white, 8 black and 5 red identical counters. Least to most likely colour?",
+    "audioPrompt": "A bag contains 2 white, 8 black and 5 red identical counters. Least to most likely colour?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-001",
-      "alt_text": "At a coastal station: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "blue",
-      "red",
-      "both are impossible"
+      "Black, red, white",
+      "Red, white, black",
+      "White, red, black",
+      "White, black, red"
     ],
-    "correct": 0,
-    "explanation": "Blue has more favourable outcomes.\nHint: Compare the counts without drawing.",
+    "audioAnswers": [
+      "Black, red, white",
+      "Red, white, black",
+      "White, red, black",
+      "White, black, red"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "The counts increase from 2 to 5 to 8.\nHint: List all available outcomes and compare their stated counts or equal sectors.",
     "structuredExplanation": {
-      "summary": "Blue has more favourable outcomes.",
-      "hint": "Compare the counts without drawing."
+      "summary": "The counts increase from 2 to 5 to 8.",
+      "hint": "List all available outcomes and compare their stated counts or equal sectors."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +41,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-002",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "chance language",
+    "skill": "independence",
     "printable": true,
     "type": "single",
-    "question": "During a museum challenge, which event is impossible when rolling a standard six-sided die?",
-    "audioPrompt": "During a museum challenge, which event is impossible when rolling a standard six-sided die?",
-    "visual": "During a museum challenge: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-002\"></use></svg>",
+    "question": "A fair coin shows H, H, H, H, H. A learner says tails is now more likely. What corrects this?",
+    "audioPrompt": "A fair coin shows H, H, H, H, H. A learner says tails is now more likely. What corrects this?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-002",
-      "alt_text": "During a museum challenge: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "rolling 2",
-      "rolling 8",
-      "rolling an even number"
+      "Tails is guaranteed",
+      "Heads is guaranteed",
+      "The coin has used all its heads",
+      "The next toss still has equal chances"
     ],
-    "correct": 1,
-    "explanation": "Eight is not an available outcome.\nHint: List the possible faces 1 to 6.",
+    "audioAnswers": [
+      "Tails is guaranteed",
+      "Heads is guaranteed",
+      "The coin has used all its heads",
+      "The next toss still has equal chances"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Earlier results do not alter the coin or the next independent toss.\nHint: Check whether the first result changes the available objects or the next trial.",
     "structuredExplanation": {
-      "summary": "Eight is not an available outcome.",
-      "hint": "List the possible faces 1 to 6."
+      "summary": "Earlier results do not alter the coin or the next independent toss.",
+      "hint": "Check whether the first result changes the available objects or the next trial."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +78,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-003",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "compare likelihood",
+    "skill": "dependence",
     "printable": true,
     "type": "single",
-    "question": "At a charity event, a bag has 4 red and 9 blue counters. Which colour is more likely?",
-    "audioPrompt": "At a charity event, a bag has 4 red and 9 blue counters. Which colour is more likely?",
-    "visual": "At a charity event: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-003\"></use></svg>",
+    "question": "A bag has 2 yellow and 1 green counter. Green is drawn and not replaced. What remains possible?",
+    "audioPrompt": "A bag has 2 yellow and 1 green counter. Green is drawn and not replaced. What remains possible?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-003",
-      "alt_text": "At a charity event: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "red",
-      "both are impossible",
-      "blue"
+      "Only yellow",
+      "Only green",
+      "Both colours",
+      "Neither colour"
     ],
-    "correct": 2,
-    "explanation": "Blue has more favourable outcomes.\nHint: Compare the counts without drawing.",
+    "audioAnswers": [
+      "Only yellow",
+      "Only green",
+      "Both colours",
+      "Neither colour"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "Both remaining counters are yellow.\nHint: Check whether the first result changes the available objects or the next trial.",
     "structuredExplanation": {
-      "summary": "Blue has more favourable outcomes.",
-      "hint": "Compare the counts without drawing."
+      "summary": "Both remaining counters are yellow.",
+      "hint": "Check whether the first result changes the available objects or the next trial."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +115,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-004",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "chance language",
+    "skill": "comparison",
     "printable": true,
     "type": "single",
-    "question": "In an engineering workshop, which event is impossible when rolling a standard six-sided die?",
-    "audioPrompt": "In an engineering workshop, which event is impossible when rolling a standard six-sided die?",
-    "visual": "In an engineering workshop: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-004\"></use></svg>",
+    "question": "A bag has 4 red and 2 white balls. Another has 8 red and 8 white. Which gives more chance of red?",
+    "audioPrompt": "A bag has 4 red and 2 white balls. Another has 8 red and 8 white. Which gives more chance of red?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "rolling 8",
-      "rolling 2",
-      "rolling an even number"
+      "The second bag",
+      "The first bag",
+      "The chances are equal",
+      "Neither can give red"
     ],
-    "correct": 0,
-    "explanation": "Eight is not an available outcome.\nHint: List the possible faces 1 to 6.",
+    "audioAnswers": [
+      "The second bag",
+      "The first bag",
+      "The chances are equal",
+      "Neither can give red"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "Red outnumbers white in the first; the second is balanced.\nHint: List all available outcomes and compare their stated counts or equal sectors.",
     "structuredExplanation": {
-      "summary": "Eight is not an available outcome.",
-      "hint": "List the possible faces 1 to 6."
+      "summary": "Red outnumbers white in the first; the second is balanced.",
+      "hint": "List all available outcomes and compare their stated counts or equal sectors."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +152,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-005",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "compare likelihood",
+    "skill": "exclusive",
     "printable": true,
     "type": "single",
-    "question": "At a regional carnival, a bag has 2 red and 6 blue counters. Which colour is more likely?",
-    "audioPrompt": "At a regional carnival, a bag has 2 red and 6 blue counters. Which colour is more likely?",
-    "visual": "At a regional carnival: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-005\"></use></svg>",
+    "question": "One standard card is a diamond. Which event cannot also happen?",
+    "audioPrompt": "One standard card is a diamond. Which event cannot also happen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-005",
-      "alt_text": "At a regional carnival: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "red",
-      "blue",
-      "both are impossible"
+      "It is red",
+      "It is a diamond",
+      "It is a black card",
+      "It is either a heart or diamond"
     ],
-    "correct": 1,
-    "explanation": "Blue has more favourable outcomes.\nHint: Compare the counts without drawing.",
+    "audioAnswers": [
+      "It is red",
+      "It is a diamond",
+      "It is a black card",
+      "It is either a heart or diamond"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 5,
+    "correct": 2,
+    "explanation": "Diamonds are red, so that card cannot be black.\nHint: Check the stated rules and conditions before deciding what can happen.",
     "structuredExplanation": {
-      "summary": "Blue has more favourable outcomes.",
-      "hint": "Compare the counts without drawing."
+      "summary": "Diamonds are red, so that card cannot be black.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +189,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-006",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "chance language",
+    "skill": "weather",
     "printable": true,
     "type": "single",
-    "question": "During a farm study, which event is impossible when rolling a standard six-sided die?",
-    "audioPrompt": "During a farm study, which event is impossible when rolling a standard six-sided die?",
-    "visual": "During a farm study: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-006\"></use></svg>",
+    "question": "An outdoor event goes ahead only in dry weather. Rain becomes more likely. What changes?",
+    "audioPrompt": "An outdoor event goes ahead only in dry weather. Rain becomes more likely. What changes?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-006",
-      "alt_text": "During a farm study: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "rolling 2",
-      "rolling an even number",
-      "rolling 8"
+      "The event becomes certain",
+      "The two events are independent",
+      "The event becomes impossible immediately",
+      "The event is less likely to go ahead"
     ],
-    "correct": 2,
-    "explanation": "Eight is not an available outcome.\nHint: List the possible faces 1 to 6.",
+    "audioAnswers": [
+      "The event becomes certain",
+      "The two events are independent",
+      "The event becomes impossible immediately",
+      "The event is less likely to go ahead"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 6,
+    "correct": 3,
+    "explanation": "The dry-weather rule links the event to the weather; a prediction is not certainty.\nHint: Check the stated rules and conditions before deciding what can happen.",
     "structuredExplanation": {
-      "summary": "Eight is not an available outcome.",
-      "hint": "List the possible faces 1 to 6."
+      "summary": "The dry-weather rule links the event to the weather; a prediction is not certainty.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +226,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-007",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "compare likelihood",
+    "skill": "AI",
     "printable": true,
     "type": "single",
-    "question": "While reading a trail guide, a bag has 4 red and 8 blue counters. Which colour is more likely?",
-    "audioPrompt": "While reading a trail guide, a bag has 4 red and 8 blue counters. Which colour is more likely?",
-    "visual": "While reading a trail guide: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-007\"></use></svg>",
+    "question": "A warning tool raises the estimated likelihood of a storm after new observations. What is justified?",
+    "audioPrompt": "A warning tool raises the estimated likelihood of a storm after new observations. What is justified?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "blue",
-      "red",
-      "both are impossible"
+      "New evidence can change its prediction",
+      "A storm is guaranteed",
+      "The old prediction must be a lie",
+      "All other weather becomes impossible"
     ],
+    "audioAnswers": [
+      "New evidence can change its prediction",
+      "A storm is guaranteed",
+      "The old prediction must be a lie",
+      "All other weather becomes impossible"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Blue has more favourable outcomes.\nHint: Compare the counts without drawing.",
+    "explanation": "Predictions can be updated when evidence changes.\nHint: Use the clue or observation to revise a prediction without making it certain.",
     "structuredExplanation": {
-      "summary": "Blue has more favourable outcomes.",
-      "hint": "Compare the counts without drawing."
+      "summary": "Predictions can be updated when evidence changes.",
+      "hint": "Use the clue or observation to revise a prediction without making it certain."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +263,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-008",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "chance language",
+    "skill": "predictive text",
     "printable": true,
     "type": "single",
-    "question": "In an architecture studio, which event is impossible when rolling a standard six-sided die?",
-    "audioPrompt": "In an architecture studio, which event is impossible when rolling a standard six-sided die?",
-    "visual": "In an architecture studio: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-008\"></use></svg>",
+    "question": "For 'Brush your ...', the next word starts with t. Which fits both clues best?",
+    "audioPrompt": "For 'Brush your ...', the next word starts with t. Which fits both clues best?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-008",
-      "alt_text": "In an architecture studio: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "rolling 2",
-      "rolling 8",
-      "rolling an even number"
+      "hair",
+      "teeth",
+      "shoes",
+      "rain"
     ],
+    "audioAnswers": [
+      "hair",
+      "teeth",
+      "shoes",
+      "rain"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "Eight is not an available outcome.\nHint: List the possible faces 1 to 6.",
+    "explanation": "Teeth fits both the sentence and first-letter clue.\nHint: Use the clue or observation to revise a prediction without making it certain.",
     "structuredExplanation": {
-      "summary": "Eight is not an available outcome.",
-      "hint": "List the possible faces 1 to 6."
+      "summary": "Teeth fits both the sentence and first-letter clue.",
+      "hint": "Use the clue or observation to revise a prediction without making it certain."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +300,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-009",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "compare likelihood",
+    "skill": "outcomes",
     "printable": true,
     "type": "single",
-    "question": "During a food-truck project, a bag has 2 red and 10 blue counters. Which colour is more likely?",
-    "audioPrompt": "During a food-truck project, a bag has 2 red and 10 blue counters. Which colour is more likely?",
-    "visual": "During a food-truck project: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-009\"></use></svg>",
+    "question": "A fair spinner has equal sectors labelled X, X, Y, Z. What is true?",
+    "audioPrompt": "A fair spinner has equal sectors labelled X, X, Y, Z. What is true?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-009",
-      "alt_text": "During a food-truck project: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "red",
-      "both are impossible",
-      "blue"
+      "Y is impossible",
+      "X is certain",
+      "X is more likely than Y",
+      "All three labels have equal chances"
     ],
+    "audioAnswers": [
+      "Y is impossible",
+      "X is certain",
+      "X is more likely than Y",
+      "All three labels have equal chances"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "Blue has more favourable outcomes.\nHint: Compare the counts without drawing.",
+    "explanation": "X has two sectors; Y and Z each have one.\nHint: List all available outcomes and compare their stated counts or equal sectors.",
     "structuredExplanation": {
-      "summary": "Blue has more favourable outcomes.",
-      "hint": "Compare the counts without drawing."
+      "summary": "X has two sectors; Y and Z each have one.",
+      "hint": "List all available outcomes and compare their stated counts or equal sectors."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +337,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-010",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "chance language",
+    "skill": "replacement",
     "printable": true,
     "type": "single",
-    "question": "At a festival, which event is impossible when rolling a standard six-sided die?",
-    "audioPrompt": "At a festival, which event is impossible when rolling a standard six-sided die?",
-    "visual": "At a festival: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-010\"></use></svg>",
+    "question": "A drawn counter is replaced and the bag mixed before another random draw. Why can the draws be independent?",
+    "audioPrompt": "A drawn counter is replaced and the bag mixed before another random draw. Why can the draws be independent?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-010",
-      "alt_text": "At a festival: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "rolling 8",
-      "rolling 2",
-      "rolling an even number"
+      "The next colour must differ",
+      "The bag loses a counter",
+      "The first colour becomes certain",
+      "The original contents are restored"
     ],
-    "correct": 0,
-    "explanation": "Eight is not an available outcome.\nHint: List the possible faces 1 to 6.",
+    "audioAnswers": [
+      "The next colour must differ",
+      "The bag loses a counter",
+      "The first colour becomes certain",
+      "The original contents are restored"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 10,
+    "correct": 3,
+    "explanation": "With the same contents and random selection, the first result does not change the second colour chances.\nHint: Check whether the first result changes the available objects or the next trial.",
     "structuredExplanation": {
-      "summary": "Eight is not an available outcome.",
-      "hint": "List the possible faces 1 to 6."
+      "summary": "With the same contents and random selection, the first result does not change the second colour chances.",
+      "hint": "Check whether the first result changes the available objects or the next trial."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +374,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-011",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "compare likelihood",
+    "skill": "conditions",
     "printable": true,
     "type": "single",
-    "question": "While organising a collection, a bag has 4 red and 7 blue counters. Which colour is more likely?",
-    "audioPrompt": "While organising a collection, a bag has 4 red and 7 blue counters. Which colour is more likely?",
-    "visual": "While organising a collection: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-011\"></use></svg>",
+    "question": "Two students order 'see snow tomorrow' differently because they live in different climates. Best response?",
+    "audioPrompt": "Two students order 'see snow tomorrow' differently because they live in different climates. Best response?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-011",
-      "alt_text": "While organising a collection: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "red",
-      "blue",
-      "both are impossible"
+      "Compare local conditions before judging their orders",
+      "One student must be wrong",
+      "Snow is equally likely everywhere",
+      "Snow must occur for both"
     ],
-    "correct": 1,
-    "explanation": "Blue has more favourable outcomes.\nHint: Compare the counts without drawing.",
+    "audioAnswers": [
+      "Compare local conditions before judging their orders",
+      "One student must be wrong",
+      "Snow is equally likely everywhere",
+      "Snow must occur for both"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 11,
+    "correct": 0,
+    "explanation": "Everyday likelihood depends on the relevant location and weather conditions.\nHint: Check the stated rules and conditions before deciding what can happen.",
     "structuredExplanation": {
-      "summary": "Blue has more favourable outcomes.",
-      "hint": "Compare the counts without drawing."
+      "summary": "Everyday likelihood depends on the relevant location and weather conditions.",
+      "hint": "Check the stated rules and conditions before deciding what can happen."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +411,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-012",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "chance language",
+    "skill": "equal",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, which event is impossible when rolling a standard six-sided die?",
-    "audioPrompt": "In an environmental study, which event is impossible when rolling a standard six-sided die?",
-    "visual": "In an environmental study: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-012\"></use></svg>",
+    "question": "A fair die is rolled once. Compare getting an odd and an even number.",
+    "audioPrompt": "A fair die is rolled once. Compare getting an odd and an even number.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-012",
-      "alt_text": "In an environmental study: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "rolling 2",
-      "rolling an even number",
-      "rolling 8"
+      "Odd is certain",
+      "They are equally likely",
+      "Even is impossible",
+      "Even is more likely"
     ],
-    "correct": 2,
-    "explanation": "Eight is not an available outcome.\nHint: List the possible faces 1 to 6.",
+    "audioAnswers": [
+      "Odd is certain",
+      "They are equally likely",
+      "Even is impossible",
+      "Even is more likely"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 12,
+    "correct": 1,
+    "explanation": "There are three odd and three even faces.\nHint: List all available outcomes and compare their stated counts or equal sectors.",
     "structuredExplanation": {
-      "summary": "Eight is not an available outcome.",
-      "hint": "List the possible faces 1 to 6."
+      "summary": "There are three odd and three even faces.",
+      "hint": "List all available outcomes and compare their stated counts or equal sectors."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +448,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-013",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "compare likelihood",
+    "skill": "event order",
     "printable": true,
-    "type": "single",
-    "question": "During a transport survey, a bag has 2 red and 9 blue counters. Which colour is more likely?",
-    "audioPrompt": "During a transport survey, a bag has 2 red and 9 blue counters. Which colour is more likely?",
-    "visual": "During a transport survey: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-013\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Accept a coherent invented forecast, ordered events and the explicit dry-weather link. No prediction is treated as guaranteed.",
+    "acceptanceNote": "Inspect the actual written scenario, justified order and dependence explanation.",
+    "responseInstructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "A picnic requires dry weather. Invent a forecast and three possible events for picnic day. Order their likelihood and explain which event depends on the weather.",
+    "audioPrompt": "A picnic requires dry weather. Invent a forecast and three possible events for picnic day. Order their likelihood and explain which event depends on the weather.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-013",
-      "alt_text": "During a transport survey: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "blue",
-      "red",
-      "both are impossible"
-    ],
-    "correct": 0,
-    "explanation": "Blue has more favourable outcomes.\nHint: Compare the counts without drawing.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 13,
+    "correct": "Accept a coherent invented forecast, ordered events and the explicit dry-weather link. No prediction is treated as guaranteed.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Blue has more favourable outcomes.",
-      "hint": "Compare the counts without drawing."
+      "summary": "Accept a coherent invented forecast, ordered events and the explicit dry-weather link. No prediction is treated as guaranteed.",
+      "hint": "Complete the actual work and keep your evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +480,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-014",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "chance language",
+    "skill": "bag comparison",
     "printable": true,
-    "type": "single",
-    "question": "At a strategy tournament, which event is impossible when rolling a standard six-sided die?",
-    "audioPrompt": "At a strategy tournament, which event is impossible when rolling a standard six-sided die?",
-    "visual": "At a strategy tournament: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-014\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "D is more red-heavy than balanced E. After removal D has 5 red and 3 white; keeping the ball out changes the next-draw chances.",
+    "acceptanceNote": "Check diagrams, relative-share comparison, remaining counts and dependence explanation.",
+    "responseInstructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Draw bag D with 6 red and 3 white balls and bag E with 9 red and 9 white. Explain which gives more chance of red. Then remove one red from D and record its new contents.",
+    "audioPrompt": "Draw bag D with 6 red and 3 white balls and bag E with 9 red and 9 white. Explain which gives more chance of red. Then remove one red from D and record its new contents.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "rolling 2",
-      "rolling 8",
-      "rolling an even number"
-    ],
-    "correct": 1,
-    "explanation": "Eight is not an available outcome.\nHint: List the possible faces 1 to 6.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 14,
+    "correct": "D is more red-heavy than balanced E. After removal D has 5 red and 3 white; keeping the ball out changes the next-draw chances.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Eight is not an available outcome.",
-      "hint": "List the possible faces 1 to 6."
+      "summary": "D is more red-heavy than balanced E. After removal D has 5 red and 3 white; keeping the ball out changes the next-draw chances.",
+      "hint": "Complete the actual work and keep your evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +512,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-015",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "compare likelihood",
+    "skill": "independent explanation",
     "printable": true,
-    "type": "single",
-    "question": "While planning a community garden, a bag has 4 red and 6 blue counters. Which colour is more likely?",
-    "audioPrompt": "While planning a community garden, a bag has 4 red and 6 blue counters. Which colour is more likely?",
-    "visual": "While planning a community garden: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Return the chosen card and shuffle before each draw. All three cards are again available, so repeats remain possible and the chances are restored.",
+    "acceptanceNote": "Require a workable procedure with replacement and mixing, all labels and explanation.",
+    "responseInstructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Design two successive random selections using three labelled cards so the second selection is independent of the first. Write the procedure and explain why a repeated label remains possible.",
+    "audioPrompt": "Design two successive random selections using three labelled cards so the second selection is independent of the first. Write the procedure and explain why a repeated label remains possible.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-015",
-      "alt_text": "While planning a community garden: a Year 4 compare likelihood reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "red",
-      "both are impossible",
-      "blue"
-    ],
-    "correct": 2,
-    "explanation": "Blue has more favourable outcomes.\nHint: Compare the counts without drawing.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 15,
+    "correct": "Return the chosen card and shuffle before each draw. All three cards are again available, so repeats remain possible and the chances are restored.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Blue has more favourable outcomes.",
-      "hint": "Compare the counts without drawing."
+      "summary": "Return the chosen card and shuffle before each draw. All three cards are again available, so repeats remain possible and the chances are restored.",
+      "hint": "Complete the actual work and keep your evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +544,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4p01-t-016",
     "curriculumCode": "AC9M4P01",
     "bank": "test",
-    "skill": "chance language",
+    "skill": "prediction revision",
     "printable": true,
-    "type": "single",
-    "question": "In a design exhibition, which event is impossible when rolling a standard six-sided die?",
-    "audioPrompt": "In a design exhibition, which event is impossible when rolling a standard six-sided die?",
-    "visual": "In a design exhibition: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "A letter or sentence clue narrows likely words; a new weather observation can change a warning. Both are evidence-based predictions rather than certainties.",
+    "acceptanceNote": "Require two plausible initial words, distinguishing clue and a correct link to uncertainty.",
+    "responseInstructions": "Complete the written or practical work. Ask an adult to inspect the evidence against the task-specific checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Write an example showing how an extra clue changes a next-word prediction. Explain how this resembles updating a weather warning and why neither guarantees the eventual outcome.",
+    "audioPrompt": "Write an example showing how an extra clue changes a next-word prediction. Explain how this resembles updating a weather warning and why neither guarantees the eventual outcome.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#ac9m4p01-t-016",
-      "alt_text": "In a design exhibition: a Year 4 chance language reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "rolling 8",
-      "rolling 2",
-      "rolling an even number"
-    ],
-    "correct": 0,
-    "explanation": "Eight is not an available outcome.\nHint: List the possible faces 1 to 6.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 16,
+    "correct": "A letter or sentence clue narrows likely words; a new weather observation can change a warning. Both are evidence-based predictions rather than certainties.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Eight is not an available outcome.",
-      "hint": "List the possible faces 1 to 6."
+      "summary": "A letter or sentence clue narrows likely words; a new weather observation can change a warning. Both are evidence-based predictions rather than certainties.",
+      "hint": "Complete the actual work and keep your evidence."
     },
     "qualitySchema": "production-v1"
   }
