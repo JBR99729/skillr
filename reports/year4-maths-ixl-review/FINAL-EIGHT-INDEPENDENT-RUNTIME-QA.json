@@ -1,0 +1,589 @@
+{
+  "checked_at": "2026-09-08T10:24:48.123864+00:00",
+  "environment": "Offline Node VM + linkedom using actual final activity HTML, published question objects, script.js bootstrap, script-runtime-v115.js, year1-maths-support.js, separate-review.js and reviewed-number-visuals.js. No browser.",
+  "coverage": "Eight codes, both Practice and Test, five cases per activity: correct MCQ, incorrect MCQ, written adult response, paper/drawn adult completion, and missing-helper fail-closed. Each sampled actual item was isolated as a one-item bank for deterministic completion; this is not a full five-question shuffled attempt test. MCQ answers remained shuffled and were selected by answer text. Test name fields used an offline QA label.",
+  "observed": [
+    "All32 correct/incorrect MCQ cases saved the expected answer identity and score.",
+    "All32 written/paper cases saved pendingReview=1,markedTotal=0,score=0,passed=false and isCorrect=null before adult marking.",
+    "All32 adult response cases could be marked through actual review controls; stored score became1,pendingReview=0 and reviewedBy=adult.",
+    "All16 missing-helper cases disabled Start and displayed the resource-load alert instead of falling back to self-check credit.",
+    "All64 completed cases preserved bank version,code,mode,question ID,text,explanation and answer/model identity; script.js normalized Review routes to the correct activity paths.",
+    "Every sampled SVG item restored a model in the saved review through the current guarded adapter."
+  ],
+  "limitations": [
+    "Audio playback,speech,layout,network loading,timers and actual navigation were stubbed; visual geometry QA is separately reported.",
+    "The production-question-ui styling layer and quick-read helper were not executed in this final harness; static integration checks and root live browser verification cover them.",
+    "The first harness run lacked a browser-only MutationObserver global, and a later harness run omitted the required Test name. These were harness setup issues, not production defects; final80cases use the required runtime setup and ordinary Test name input.",
+    "No learner account or production progress was touched."
+  ],
+  "runtime_sha256": {
+    "quiz/assets/script.js": "d4b3615c1cba96dbd326c1c24b055e8293ef71a6f7a16b38c9285b1906ab78a6",
+    "quiz/assets/script-runtime-v115.js": "cec2900af4c21d950dd97b7b21e981abc95f3c2375ba69e15397b07ef32d33a5",
+    "quiz/assets/year1-maths-support.js": "220bc7a4b8b4fa82b01771f3ca0fc60649705e0097a96a9cef5616d289663803",
+    "quiz/assets/separate-review.js": "4d90930eb071ba6fbb63ac6ee3c1d9d2b2ca9df1f90c9ead3543163e9d0acb53",
+    "quiz/year-4/math/reviewed-number-visuals.js": "99c73a7dcf8088a09559ba229ecdf6e30b0df3280570dd26a2153939958404a2"
+  },
+  "harness_sha256": "1021b7ab12b234de282f359b9fbddeffcb19bb7779350292faafe87e78bf3a66",
+  "results": [
+    {
+      "c": "ac9m4sp01",
+      "mode": "practice",
+      "kind": "correct",
+      "item": "ac9m4sp01-p-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "practice",
+      "kind": "incorrect",
+      "item": "ac9m4sp01-p-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "practice",
+      "kind": "adult-written",
+      "item": "ac9m4sp01-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "item": "ac9m4sp01-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "item": "ac9m4sp01-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "test",
+      "kind": "correct",
+      "item": "ac9m4sp01-t-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "test",
+      "kind": "incorrect",
+      "item": "ac9m4sp01-t-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "test",
+      "kind": "adult-written",
+      "item": "ac9m4sp01-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "test",
+      "kind": "adult-paper",
+      "item": "ac9m4sp01-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "test",
+      "kind": "missing-helper",
+      "item": "ac9m4sp01-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "practice",
+      "kind": "correct",
+      "item": "ac9m4sp02-p-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "practice",
+      "kind": "incorrect",
+      "item": "ac9m4sp02-p-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "practice",
+      "kind": "adult-written",
+      "item": "ac9m4sp02-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "item": "ac9m4sp02-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "item": "ac9m4sp02-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "test",
+      "kind": "correct",
+      "item": "ac9m4sp02-t-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "test",
+      "kind": "incorrect",
+      "item": "ac9m4sp02-t-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "test",
+      "kind": "adult-written",
+      "item": "ac9m4sp02-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "test",
+      "kind": "adult-paper",
+      "item": "ac9m4sp02-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "test",
+      "kind": "missing-helper",
+      "item": "ac9m4sp02-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "practice",
+      "kind": "correct",
+      "item": "ac9m4sp03-p-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "practice",
+      "kind": "incorrect",
+      "item": "ac9m4sp03-p-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "practice",
+      "kind": "adult-written",
+      "item": "ac9m4sp03-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "item": "ac9m4sp03-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "item": "ac9m4sp03-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "test",
+      "kind": "correct",
+      "item": "ac9m4sp03-t-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "test",
+      "kind": "incorrect",
+      "item": "ac9m4sp03-t-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "test",
+      "kind": "adult-written",
+      "item": "ac9m4sp03-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "test",
+      "kind": "adult-paper",
+      "item": "ac9m4sp03-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "test",
+      "kind": "missing-helper",
+      "item": "ac9m4sp03-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "practice",
+      "kind": "correct",
+      "item": "ac9m4st01-p-019",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "practice",
+      "kind": "incorrect",
+      "item": "ac9m4st01-p-019",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "practice",
+      "kind": "adult-written",
+      "item": "ac9m4st01-p-043",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "item": "ac9m4st01-p-043",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "item": "ac9m4st01-p-043",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "test",
+      "kind": "correct",
+      "item": "ac9m4st01-t-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "test",
+      "kind": "incorrect",
+      "item": "ac9m4st01-t-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "test",
+      "kind": "adult-written",
+      "item": "ac9m4st01-t-015",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "test",
+      "kind": "adult-paper",
+      "item": "ac9m4st01-t-015",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "test",
+      "kind": "missing-helper",
+      "item": "ac9m4st01-t-015",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "practice",
+      "kind": "correct",
+      "item": "ac9m4st02-p-019",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "practice",
+      "kind": "incorrect",
+      "item": "ac9m4st02-p-019",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "practice",
+      "kind": "adult-written",
+      "item": "ac9m4st02-p-043",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "item": "ac9m4st02-p-043",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "item": "ac9m4st02-p-043",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "test",
+      "kind": "correct",
+      "item": "ac9m4st02-t-005",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "test",
+      "kind": "incorrect",
+      "item": "ac9m4st02-t-005",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "test",
+      "kind": "adult-written",
+      "item": "ac9m4st02-t-015",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "test",
+      "kind": "adult-paper",
+      "item": "ac9m4st02-t-015",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "test",
+      "kind": "missing-helper",
+      "item": "ac9m4st02-t-015",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "practice",
+      "kind": "correct",
+      "item": "ac9m4st03-p-031",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "practice",
+      "kind": "incorrect",
+      "item": "ac9m4st03-p-031",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "practice",
+      "kind": "adult-written",
+      "item": "ac9m4st03-p-043",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "item": "ac9m4st03-p-043",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "item": "ac9m4st03-p-043",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "test",
+      "kind": "correct",
+      "item": "ac9m4st03-t-005",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "test",
+      "kind": "incorrect",
+      "item": "ac9m4st03-t-005",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "test",
+      "kind": "adult-written",
+      "item": "ac9m4st03-t-015",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "test",
+      "kind": "adult-paper",
+      "item": "ac9m4st03-t-015",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "test",
+      "kind": "missing-helper",
+      "item": "ac9m4st03-t-015",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "practice",
+      "kind": "correct",
+      "item": "ac9m4p01-p-018",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "practice",
+      "kind": "incorrect",
+      "item": "ac9m4p01-p-018",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "practice",
+      "kind": "adult-written",
+      "item": "ac9m4p01-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "item": "ac9m4p01-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "item": "ac9m4p01-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "test",
+      "kind": "correct",
+      "item": "ac9m4p01-t-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "test",
+      "kind": "incorrect",
+      "item": "ac9m4p01-t-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "test",
+      "kind": "adult-written",
+      "item": "ac9m4p01-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "test",
+      "kind": "adult-paper",
+      "item": "ac9m4p01-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "test",
+      "kind": "missing-helper",
+      "item": "ac9m4p01-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "practice",
+      "kind": "correct",
+      "item": "ac9m4p02-p-006",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "practice",
+      "kind": "incorrect",
+      "item": "ac9m4p02-p-006",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "practice",
+      "kind": "adult-written",
+      "item": "ac9m4p02-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "practice",
+      "kind": "adult-paper",
+      "item": "ac9m4p02-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "practice",
+      "kind": "missing-helper",
+      "item": "ac9m4p02-p-041",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "test",
+      "kind": "correct",
+      "item": "ac9m4p02-t-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "test",
+      "kind": "incorrect",
+      "item": "ac9m4p02-t-001",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "test",
+      "kind": "adult-written",
+      "item": "ac9m4p02-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "test",
+      "kind": "adult-paper",
+      "item": "ac9m4p02-t-013",
+      "status": "PASS"
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "test",
+      "kind": "missing-helper",
+      "item": "ac9m4p02-t-013",
+      "status": "PASS"
+    }
+  ]
+}

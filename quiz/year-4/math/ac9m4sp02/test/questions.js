@@ -4,28 +4,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-001",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid references",
+    "skill": "grid transfer",
     "printable": true,
     "type": "single",
-    "question": "At a coastal station, what does grid reference C4 mean?",
-    "audioPrompt": "At a coastal station, what does grid reference C4 mean?",
-    "visual": "At a coastal station: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-001\"></use></svg>",
+    "question": "A north-up map labels columns A–F left to right and rows 1–6 bottom to top. Which reference is column E, row 2?",
+    "audioPrompt": "A north-up map labels columns A–F left to right and rows 1–6 bottom to top. Which reference is column E, row 2?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-001",
-      "alt_text": "At a coastal station: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "row C, column 4",
-      "column C, row 4",
-      "4 steps in every direction"
+      "B5",
+      "2E",
+      "E5",
+      "E2"
     ],
-    "correct": 1,
-    "explanation": "Letter-number references use the declared column-then-row convention.\nHint: Read the letter first, then the number.",
+    "audioAnswers": [
+      "B5",
+      "2E",
+      "E5",
+      "E2"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "A cell reference gives the column letter before the row number.\nHint: Use the stated shapes, positions or transformation to check each choice.",
     "structuredExplanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "A cell reference gives the column letter before the row number.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +41,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-002",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions and pathways",
+    "skill": "grid transfer",
     "printable": true,
     "type": "single",
-    "question": "During a museum challenge, on a north-up grid, which direction is right?",
-    "audioPrompt": "During a museum challenge, on a north-up grid, which direction is right?",
-    "visual": "During a museum challenge: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-002\"></use></svg>",
+    "question": "On that north-up A–F,1–6 grid, a walker goes from B4 two east and one south. Where do they finish?",
+    "audioPrompt": "On that north-up A–F,1–6 grid, a walker goes from B4 two east and one south. Where do they finish?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-002",
-      "alt_text": "During a museum challenge: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "west",
-      "south",
-      "east"
+      "D3",
+      "D5",
+      "C2",
+      "A6"
     ],
-    "correct": 2,
-    "explanation": "East is right on a north-up grid.\nHint: Keep the map orientation fixed.",
+    "audioAnswers": [
+      "D3",
+      "D5",
+      "C2",
+      "A6"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "Two east changes B to D; one south changes 4 to 3.\nHint: Use the stated shapes, positions or transformation to check each choice.",
     "structuredExplanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "Two east changes B to D; one south changes 4 to 3.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +78,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-003",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid references",
+    "skill": "grid transfer",
     "printable": true,
     "type": "single",
-    "question": "At a charity event, what does grid reference B3 mean?",
-    "audioPrompt": "At a charity event, what does grid reference B3 mean?",
-    "visual": "At a charity event: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-003\"></use></svg>",
+    "question": "On a north-up grid with rows increasing upward, which direction takes C2 directly to C5?",
+    "audioPrompt": "On a north-up grid with rows increasing upward, which direction takes C2 directly to C5?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-003",
-      "alt_text": "At a charity event: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "column B, row 3",
-      "row B, column 3",
-      "3 steps in every direction"
+      "south",
+      "north",
+      "east",
+      "west"
     ],
-    "correct": 0,
-    "explanation": "Letter-number references use the declared column-then-row convention.\nHint: Read the letter first, then the number.",
+    "audioAnswers": [
+      "south",
+      "north",
+      "east",
+      "west"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "The column stays C and the row increases by 3.\nHint: Use the stated shapes, positions or transformation to check each choice.",
     "structuredExplanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "The column stays C and the row increases by 3.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +115,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-004",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions and pathways",
+    "skill": "grid transfer",
     "printable": true,
     "type": "single",
-    "question": "In an engineering workshop, on a north-up grid, which direction is right?",
-    "audioPrompt": "In an engineering workshop, on a north-up grid, which direction is right?",
-    "visual": "In an engineering workshop: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-004\"></use></svg>",
+    "question": "A spreadsheet uses letters across the top and numbers down its left. Which cell is directly below D8?",
+    "audioPrompt": "A spreadsheet uses letters across the top and numbers down its left. Which cell is directly below D8?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "west",
-      "east",
-      "south"
+      "D7",
+      "E8",
+      "D9",
+      "C8"
     ],
-    "correct": 1,
-    "explanation": "East is right on a north-up grid.\nHint: Keep the map orientation fixed.",
+    "audioAnswers": [
+      "D7",
+      "E8",
+      "D9",
+      "C8"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 4,
+    "correct": 2,
+    "explanation": "Below means the next larger row number in the same column.\nHint: Use the stated shapes, positions or transformation to check each choice.",
     "structuredExplanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "Below means the next larger row number in the same column.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +152,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-005",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid references",
+    "skill": "grid transfer",
     "printable": true,
     "type": "single",
-    "question": "At a regional carnival, what does grid reference A2 mean?",
-    "audioPrompt": "At a regional carnival, what does grid reference A2 mean?",
-    "visual": "At a regional carnival: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-005\"></use></svg>",
+    "question": "Observation names are in A2–A5. Their matching counts belong alongside in column C. Where should the count for the item in A4 go?",
+    "audioPrompt": "Observation names are in A2–A5. Their matching counts belong alongside in column C. Where should the count for the item in A4 go?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-005",
-      "alt_text": "At a regional carnival: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "row A, column 2",
-      "2 steps in every direction",
-      "column A, row 2"
+      "C2",
+      "A4",
+      "D4",
+      "C4"
     ],
-    "correct": 2,
-    "explanation": "Letter-number references use the declared column-then-row convention.\nHint: Read the letter first, then the number.",
+    "audioAnswers": [
+      "C2",
+      "A4",
+      "D4",
+      "C4"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 5,
+    "correct": 3,
+    "explanation": "The observation keeps row 4, and the count uses specified column C.\nHint: Use the stated shapes, positions or transformation to check each choice.",
     "structuredExplanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "The observation keeps row 4, and the count uses specified column C.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +189,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-006",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions and pathways",
+    "skill": "grid transfer",
     "printable": true,
     "type": "single",
-    "question": "During a farm study, on a north-up grid, which direction is right?",
-    "audioPrompt": "During a farm study, on a north-up grid, which direction is right?",
-    "visual": "During a farm study: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-006\"></use></svg>",
+    "question": "On a north-up grid, a robot at C3 faces north, turns right, then moves two cells. Where does it finish?",
+    "audioPrompt": "On a north-up grid, a robot at C3 faces north, turns right, then moves two cells. Where does it finish?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-006",
-      "alt_text": "During a farm study: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "east",
-      "west",
-      "south"
+      "E3",
+      "C5",
+      "A3",
+      "E5"
     ],
+    "audioAnswers": [
+      "E3",
+      "C5",
+      "A3",
+      "E5"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 6,
     "correct": 0,
-    "explanation": "East is right on a north-up grid.\nHint: Keep the map orientation fixed.",
+    "explanation": "Right from north faces east; two eastward moves change C to E while row 3 stays unchanged.\nHint: Use the stated shapes, positions or transformation to check each choice.",
     "structuredExplanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "Right from north faces east; two eastward moves change C to E while row 3 stays unchanged.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +226,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-007",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid references",
+    "skill": "grid transfer",
     "printable": true,
     "type": "single",
-    "question": "While reading a trail guide, what does grid reference C4 mean?",
-    "audioPrompt": "While reading a trail guide, what does grid reference C4 mean?",
-    "visual": "While reading a trail guide: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-007\"></use></svg>",
+    "question": "A map north arrow points right. Which page direction is south?",
+    "audioPrompt": "A map north arrow points right. Which page direction is south?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "row C, column 4",
-      "column C, row 4",
-      "4 steps in every direction"
+      "up",
+      "left",
+      "right",
+      "down"
     ],
+    "audioAnswers": [
+      "up",
+      "left",
+      "right",
+      "down"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 7,
     "correct": 1,
-    "explanation": "Letter-number references use the declared column-then-row convention.\nHint: Read the letter first, then the number.",
+    "explanation": "South is opposite north, so it points left on this rotated page.\nHint: Use the stated shapes, positions or transformation to check each choice.",
     "structuredExplanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "South is opposite north, so it points left on this rotated page.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +263,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-008",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions and pathways",
+    "skill": "grid transfer",
     "printable": true,
     "type": "single",
-    "question": "In an architecture studio, on a north-up grid, which direction is right?",
-    "audioPrompt": "In an architecture studio, on a north-up grid, which direction is right?",
-    "visual": "In an architecture studio: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-008\"></use></svg>",
+    "question": "Why might a grid reference alone not identify one of two flowers?",
+    "audioPrompt": "Why might a grid reference alone not identify one of two flowers?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-008",
-      "alt_text": "In an architecture studio: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "west",
-      "south",
-      "east"
+      "grids can never locate objects",
+      "all rows are identical positions",
+      "both flowers may lie within the same cell",
+      "letters always measure height"
     ],
+    "audioAnswers": [
+      "grids can never locate objects",
+      "all rows are identical positions",
+      "both flowers may lie within the same cell",
+      "letters always measure height"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 8,
     "correct": 2,
-    "explanation": "East is right on a north-up grid.\nHint: Keep the map orientation fixed.",
+    "explanation": "A reference identifies a cell; additional within-cell detail may distinguish objects sharing it.\nHint: Use the stated shapes, positions or transformation to check each choice.",
     "structuredExplanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "A reference identifies a cell; additional within-cell detail may distinguish objects sharing it.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +300,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-009",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid references",
+    "skill": "grid transfer",
     "printable": true,
     "type": "single",
-    "question": "During a food-truck project, what does grid reference B3 mean?",
-    "audioPrompt": "During a food-truck project, what does grid reference B3 mean?",
-    "visual": "During a food-truck project: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-009\"></use></svg>",
+    "question": "A4 by 4 picture grid has 1 cm cells. It is copied to a 4 by 4 grid with 3 cm cells. What is the new overall width?",
+    "audioPrompt": "A4 by 4 picture grid has 1 cm cells. It is copied to a 4 by 4 grid with 3 cm cells. What is the new overall width?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-009",
-      "alt_text": "During a food-truck project: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "column B, row 3",
-      "row B, column 3",
-      "3 steps in every direction"
+      "4 cm",
+      "7 cm",
+      "16 cm",
+      "12 cm"
     ],
-    "correct": 0,
-    "explanation": "Letter-number references use the declared column-then-row convention.\nHint: Read the letter first, then the number.",
+    "audioAnswers": [
+      "4 cm",
+      "7 cm",
+      "16 cm",
+      "12 cm"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 9,
+    "correct": 3,
+    "explanation": "Four columns each 3 cm wide make 12 cm; the cell count is unchanged.\nHint: Use the stated shapes, positions or transformation to check each choice.",
     "structuredExplanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "Four columns each 3 cm wide make 12 cm; the cell count is unchanged.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +337,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-010",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions and pathways",
+    "skill": "grid transfer",
     "printable": true,
     "type": "single",
-    "question": "At a festival, on a north-up grid, which direction is right?",
-    "audioPrompt": "At a festival, on a north-up grid, which direction is right?",
-    "visual": "At a festival: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-010\"></use></svg>",
+    "question": "In grid enlargement, a curve enters halfway down the left edge of cell B2. Where should it enter in the enlarged drawing?",
+    "audioPrompt": "In grid enlargement, a curve enters halfway down the left edge of cell B2. Where should it enter in the enlarged drawing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-010",
-      "alt_text": "At a festival: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "west",
-      "east",
-      "south"
+      "halfway down the left edge of the new B2",
+      "at the top of new B2",
+      "halfway down the right edge of new B2",
+      "halfway down cell C2"
     ],
-    "correct": 1,
-    "explanation": "East is right on a north-up grid.\nHint: Keep the map orientation fixed.",
+    "audioAnswers": [
+      "halfway down the left edge of the new B2",
+      "at the top of new B2",
+      "halfway down the right edge of new B2",
+      "halfway down cell C2"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 10,
+    "correct": 0,
+    "explanation": "Preserve both the corresponding cell and the relative position on its edge.\nHint: Use the stated shapes, positions or transformation to check each choice.",
     "structuredExplanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "Preserve both the corresponding cell and the relative position on its edge.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +374,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-011",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid references",
+    "skill": "grid transfer",
     "printable": true,
     "type": "single",
-    "question": "While organising a collection, what does grid reference A2 mean?",
-    "audioPrompt": "While organising a collection, what does grid reference A2 mean?",
-    "visual": "While organising a collection: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-011\"></use></svg>",
+    "question": "A robot turns left at A2 without moving. Which statement is true?",
+    "audioPrompt": "A robot turns left at A2 without moving. Which statement is true?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-011",
-      "alt_text": "While organising a collection: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "row A, column 2",
-      "2 steps in every direction",
-      "column A, row 2"
+      "Its cell must become B2.",
+      "Its cell stays A2 but its facing direction changes.",
+      "Its row must increase to 3.",
+      "Its facing direction stays fixed."
     ],
-    "correct": 2,
-    "explanation": "Letter-number references use the declared column-then-row convention.\nHint: Read the letter first, then the number.",
+    "audioAnswers": [
+      "Its cell must become B2.",
+      "Its cell stays A2 but its facing direction changes.",
+      "Its row must increase to 3.",
+      "Its facing direction stays fixed."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "Rotation changes orientation rather than location.\nHint: Use the stated shapes, positions or transformation to check each choice.",
     "structuredExplanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "Rotation changes orientation rather than location.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +411,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-012",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions and pathways",
+    "skill": "grid transfer",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, on a north-up grid, which direction is right?",
-    "audioPrompt": "In an environmental study, on a north-up grid, which direction is right?",
-    "visual": "In an environmental study: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-012\"></use></svg>",
+    "question": "A route from A1 to C3 on a north-up grid says east 2, north 1. What is missing?",
+    "audioPrompt": "A route from A1 to C3 on a north-up grid says east 2, north 1. What is missing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-012",
-      "alt_text": "In an environmental study: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "east",
-      "west",
-      "south"
+      "one more move east",
+      "one move south",
+      "one more move north",
+      "two moves west"
     ],
-    "correct": 0,
-    "explanation": "East is right on a north-up grid.\nHint: Keep the map orientation fixed.",
+    "audioAnswers": [
+      "one more move east",
+      "one move south",
+      "one more move north",
+      "two moves west"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "The instructions reach C2, so one northward move reaches C3.\nHint: Use the stated shapes, positions or transformation to check each choice.",
     "structuredExplanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "The instructions reach C2, so one northward move reaches C3.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +448,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-013",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid references",
+    "skill": "map create",
     "printable": true,
-    "type": "single",
-    "question": "During a transport survey, what does grid reference C4 mean?",
-    "audioPrompt": "During a transport survey, what does grid reference C4 mean?",
-    "visual": "During a transport survey: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-013\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example: A1 east 2 to C1, north 1 to C2; east 1 to D2, north 2 to D4.",
+    "acceptanceNote": "Inspect labelled map, all three correct references, route visiting food and finish, and complete matching directions.",
+    "responseInstructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Make an A–D,1–4 map of a small festival, with north up and rows increasing upward. Place an entrance at A1, food at C2 and a stage at D4. Draw and write a route from entrance via food to stage.",
+    "audioPrompt": "Make an A–D,1–4 map of a small festival, with north up and rows increasing upward. Place an entrance at A1, food at C2 and a stage at D4. Draw and write a route from entrance via food to stage.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-013",
-      "alt_text": "During a transport survey: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "row C, column 4",
-      "column C, row 4",
-      "4 steps in every direction"
-    ],
-    "correct": 1,
-    "explanation": "Letter-number references use the declared column-then-row convention.\nHint: Read the letter first, then the number.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 13,
+    "correct": "Example: A1 east 2 to C1, north 1 to C2; east 1 to D2, north 2 to D4.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "Example: A1 east 2 to C1, north 1 to C2; east 1 to D2, north 2 to D4.",
+      "hint": "Make and label the requested work, then check it against the task."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +480,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-014",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions and pathways",
+    "skill": "spreadsheet record",
     "printable": true,
-    "type": "single",
-    "question": "At a strategy tournament, on a north-up grid, which direction is right?",
-    "audioPrompt": "At a strategy tournament, on a north-up grid, which direction is right?",
-    "visual": "At a strategy tournament: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-014\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The third result belongs in B4 because row 1 contains headings. Outcomes vary.",
+    "acceptanceNote": "Inspect actual observation record/spreadsheet with eight correctly placed data cells, headings and B4 identified. A paper draft alone does not demonstrate cell entry.",
+    "responseInstructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Observe four turns of a coin landing heads or tails. In a spreadsheet use A1=Turn and B1=Result, then enter turn numbers 1–4 in A2–A5 and outcomes in B2–B5. Identify the cell holding the third result.",
+    "audioPrompt": "Observe four turns of a coin landing heads or tails. In a spreadsheet use A1=Turn and B1=Result, then enter turn numbers 1–4 in A2–A5 and outcomes in B2–B5. Identify the cell holding the third result.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "west",
-      "south",
-      "east"
-    ],
-    "correct": 2,
-    "explanation": "East is right on a north-up grid.\nHint: Keep the map orientation fixed.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 14,
+    "correct": "The third result belongs in B4 because row 1 contains headings. Outcomes vary.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "The third result belongs in B4 because row 1 contains headings. Outcomes vary.",
+      "hint": "Make and label the requested work, then check it against the task."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +512,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-015",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid references",
+    "skill": "enlarge create",
     "printable": true,
-    "type": "single",
-    "question": "While planning a community garden, what does grid reference B3 mean?",
-    "audioPrompt": "While planning a community garden, what does grid reference B3 mean?",
-    "visual": "While planning a community garden: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The new grid is 8 cm wide and 4 cm high; corresponding parts stay in the same cells.",
+    "acceptanceNote": "Inspect original and enlarged drawings, correct cell dimensions, corresponding points and a check that both dimensions enlarge equally.",
+    "responseInstructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Make a grid with two rows and four columns of 1 cm squares and draw an original arrow across it. Copy into a grid with two rows and four columns of 2 cm squares. Mark corresponding corners and explain one check for distortion.",
+    "audioPrompt": "Make a grid with two rows and four columns of 1 cm squares and draw an original arrow across it. Copy into a grid with two rows and four columns of 2 cm squares. Mark corresponding corners and explain one check for distortion.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-015",
-      "alt_text": "While planning a community garden: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "column B, row 3",
-      "row B, column 3",
-      "3 steps in every direction"
-    ],
-    "correct": 0,
-    "explanation": "Letter-number references use the declared column-then-row convention.\nHint: Read the letter first, then the number.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 15,
+    "correct": "The new grid is 8 cm wide and 4 cm high; corresponding parts stay in the same cells.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "The new grid is 8 cm wide and 4 cm high; corresponding parts stay in the same cells.",
+      "hint": "Make and label the requested work, then check it against the task."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +544,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4sp02-t-016",
     "curriculumCode": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions and pathways",
+    "skill": "robot debug",
     "printable": true,
-    "type": "single",
-    "question": "In a design exhibition, on a north-up grid, which direction is right?",
-    "audioPrompt": "In a design exhibition, on a north-up grid, which direction is right?",
-    "visual": "In a design exhibition: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Visited E2, E3, E4, D4, C4, B4; finish B4 facing west. A return is turn around, forward 3 to E4, turn right, forward 2 to E2.",
+    "acceptanceNote": "Inspect enactment or recorded simulation, correct ordered cells and legal reverse route. Accept compass directions if the turning/facing record is also clear.",
+    "responseInstructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "On an A–E,1–5 north-up grid with rows increasing upward, start at E2 facing north. Act out forward 2, turn left, forward 3. Record the visited cells and finish. Then write a reverse route to E2.",
+    "audioPrompt": "On an A–E,1–5 north-up grid with rows increasing upward, start at E2 facing north. Act out forward 2, turn left, forward 3. Record the visited cells and finish. Then write a reverse route to E2.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-016",
-      "alt_text": "In a design exhibition: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "west",
-      "east",
-      "south"
-    ],
-    "correct": 1,
-    "explanation": "East is right on a north-up grid.\nHint: Keep the map orientation fixed.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 16,
+    "correct": "Visited E2, E3, E4, D4, C4, B4; finish B4 facing west. A return is turn around, forward 3 to E4, turn right, forward 2 to E2.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "Visited E2, E3, E4, D4, C4, B4; finish B4 facing west. A return is turn around, forward 3 to E4, turn right, forward 2 to E2.",
+      "hint": "Make and label the requested work, then check it against the task."
     },
     "qualitySchema": "production-v1"
   }

@@ -1,0 +1,150 @@
+{
+  "javascriptSyntax": [
+    {
+      "file": "assets/year4-maths-practice-quick-read.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/assets/worksheet-pdf.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4p01/practice/practice-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4p01/practice/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4p01/test/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4p02/practice/practice-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4p02/practice/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4p02/test/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4sp01/practice/practice-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4sp01/practice/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4sp01/test/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4sp02/practice/practice-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4sp02/practice/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4sp02/test/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4sp03/practice/practice-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4sp03/practice/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4sp03/test/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4st01/practice/practice-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4st01/practice/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4st01/test/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4st02/practice/practice-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4st02/practice/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4st02/test/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4st03/practice/practice-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4st03/practice/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4st03/test/questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/reviewed-number-visuals.js",
+      "exit": 0
+    },
+    {
+      "file": "scripts/validate_year4_review_models.mjs",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4p01/worksheet/worksheet-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4p02/worksheet/worksheet-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4sp01/worksheet/worksheet-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4sp02/worksheet/worksheet-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4sp03/worksheet/worksheet-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4st01/worksheet/worksheet-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4st02/worksheet/worksheet-questions.js",
+      "exit": 0
+    },
+    {
+      "file": "quiz/year-4/math/ac9m4st03/worksheet/worksheet-questions.js",
+      "exit": 0
+    }
+  ],
+  "newBrokenLocalReferences": [],
+  "changedPaths": 177
+}

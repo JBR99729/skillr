@@ -1,0 +1,50 @@
+[
+  {
+    "code": "AC9M4SP01",
+    "preparationSource": "AC9M4SP01-P-001",
+    "asset": "/assets/assessment-visuals/year4/math/ac9m4sp01-house.svg#model",
+    "answer": "triangle"
+  },
+  {
+    "code": "AC9M4SP02",
+    "preparationSource": "AC9M4SP02-P-001",
+    "asset": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+    "answer": "B3"
+  },
+  {
+    "code": "AC9M4SP03",
+    "preparationSource": "AC9M4SP03-P-001",
+    "asset": "/assets/assessment-visuals/year4/math/ac9m4sp03-rectangle.svg#model",
+    "answer": "Yes, each point on one side matches a point on the other."
+  },
+  {
+    "code": "AC9M4ST01",
+    "preparationSource": "AC9M4ST01-P-019",
+    "asset": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-0",
+    "answer": "4"
+  },
+  {
+    "code": "AC9M4ST02",
+    "preparationSource": "AC9M4ST02-P-019",
+    "asset": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-compare",
+    "answer": "Class B"
+  },
+  {
+    "code": "AC9M4ST03",
+    "preparationSource": "AC9M4ST03-P-031",
+    "asset": "/assets/assessment-visuals/year4/math/ac9m4st03.svg#st03-p-2",
+    "answer": "10"
+  },
+  {
+    "code": "AC9M4P01",
+    "preparationSource": "AC9M4P01-P-018",
+    "asset": "/assets/assessment-visuals/year4/math/ac9m4p01.svg#bags",
+    "answer": "B, C, A"
+  },
+  {
+    "code": "AC9M4P02",
+    "preparationSource": "AC9M4P02-P-006",
+    "asset": "/assets/assessment-visuals/year4/math/ac9m4p02.svg#outcomes",
+    "answer": "HH, HT, TH, TT"
+  }
+]

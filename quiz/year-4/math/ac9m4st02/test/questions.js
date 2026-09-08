@@ -4,28 +4,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-001",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret data displays",
+    "skill": "display effectiveness",
     "printable": true,
     "type": "single",
-    "question": "At a coastal station, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "audioPrompt": "At a coastal station, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "visual": "At a coastal station: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-001\"></use></svg>",
+    "question": "A graph of the club data uses equal intervals labelled 0,4,8,12,16. Why is this scale suitable?",
+    "audioPrompt": "A graph of the club data uses equal intervals labelled 0,4,8,12,16. Why is this scale suitable?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-001",
-      "alt_text": "At a coastal station: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Blue",
-      "Green",
-      "Red"
+      "It changes 14 to 16",
+      "It has equal steps and includes the largest count 14",
+      "It forces all counts to be multiples of 4",
+      "It hides the smaller categories"
     ],
+    "audioAnswers": [
+      "It changes 14 to 16",
+      "It has equal steps and includes the largest count 14",
+      "It forces all counts to be multiples of 4",
+      "It hides the smaller categories"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 1,
     "correct": 1,
-    "explanation": "The tallest column represents the greatest count.\nHint: Read labels and scale together.",
+    "explanation": "The scale reaches beyond 14 with equal increments; intermediate counts can be shown.\nHint: Check the question, labels, source records and what the evidence actually supports.",
     "structuredExplanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "The scale reaches beyond 14 with equal increments; intermediate counts can be shown.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +41,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-002",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph keys",
+    "skill": "display effectiveness",
     "printable": true,
     "type": "single",
-    "question": "During a museum challenge, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "audioPrompt": "During a museum challenge, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "visual": "During a museum challenge: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-002\"></use></svg>",
+    "question": "For the club data, why might a table be useful alongside the graph?",
+    "audioPrompt": "For the club data, why might a table be useful alongside the graph?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-002",
-      "alt_text": "During a museum challenge: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "4",
-      "6",
-      "8"
+      "It proves why students chose clubs",
+      "It makes every category equal",
+      "It gives exact counts directly",
+      "It predicts next year’s votes"
     ],
+    "audioAnswers": [
+      "It proves why students chose clubs",
+      "It makes every category equal",
+      "It gives exact counts directly",
+      "It predicts next year’s votes"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
     "correct": 2,
-    "explanation": "Multiply the number of symbols by the key value.\nHint: Read the key before counting.",
+    "explanation": "A table complements visual comparisons with exact values.\nHint: Check the question, labels, source records and what the evidence actually supports.",
     "structuredExplanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "A table complements visual comparisons with exact values.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +78,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-003",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret data displays",
+    "skill": "display effectiveness",
     "printable": true,
     "type": "single",
-    "question": "At a charity event, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "audioPrompt": "At a charity event, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "visual": "At a charity event: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-003\"></use></svg>",
+    "question": "A pictograph shows Art with 7 symbols and Music with 4, but no key. What is missing for exact counts?",
+    "audioPrompt": "A pictograph shows Art with 7 symbols and Music with 4, but no key. What is missing for exact counts?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-003",
-      "alt_text": "At a charity event: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Green",
-      "Blue",
-      "Red"
+      "The artist’s name",
+      "A larger picture",
+      "A different page colour",
+      "How many responses each symbol represents"
     ],
-    "correct": 0,
-    "explanation": "The tallest column represents the greatest count.\nHint: Read labels and scale together.",
+    "audioAnswers": [
+      "The artist’s name",
+      "A larger picture",
+      "A different page colour",
+      "How many responses each symbol represents"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "Without a key, symbol counts do not determine response counts.\nHint: Check the question, labels, source records and what the evidence actually supports.",
     "structuredExplanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "Without a key, symbol counts do not determine response counts.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +115,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-004",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph keys",
+    "skill": "display effectiveness",
     "printable": true,
     "type": "single",
-    "question": "In an engineering workshop, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "audioPrompt": "In an engineering workshop, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "visual": "In an engineering workshop: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-004\"></use></svg>",
+    "question": "Two displays of club data show totals 38 and 40. What must happen?",
+    "audioPrompt": "Two displays of club data show totals 38 and 40. What must happen?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "6",
-      "12",
-      "8"
+      "Check both against the raw records",
+      "Choose 40 because it is round",
+      "Add the totals together",
+      "Assume both are faithful"
     ],
-    "correct": 1,
-    "explanation": "Multiply the number of symbols by the key value.\nHint: Read the key before counting.",
+    "audioAnswers": [
+      "Check both against the raw records",
+      "Choose 40 because it is round",
+      "Add the totals together",
+      "Assume both are faithful"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 4,
+    "correct": 0,
+    "explanation": "The same recorded dataset should have the same total.\nHint: Check the question, labels, source records and what the evidence actually supports.",
     "structuredExplanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "The same recorded dataset should have the same total.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +152,38 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-005",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret data displays",
+    "skill": "interpret data",
     "printable": true,
     "type": "single",
-    "question": "At a regional carnival, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
-    "audioPrompt": "At a regional carnival, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
-    "visual": "At a regional carnival: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-005\"></use></svg>",
+    "question": "Which two club categories together have 14 responses?",
+    "audioPrompt": "Which two club categories together have 14 responses?",
+    "visual": "Student graph of club choices. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Student graph of club choices. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-test\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-005",
-      "alt_text": "At a regional carnival: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-test",
+      "alt_text": "Student graph of club choices. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals."
     },
     "answers": [
-      "Blue",
-      "Red",
-      "Green"
+      "Art and Music",
+      "Music and Garden",
+      "Games and Garden",
+      "Art and Garden"
     ],
-    "correct": 2,
-    "explanation": "The tallest column represents the greatest count.\nHint: Read labels and scale together.",
+    "audioAnswers": [
+      "Art and Music",
+      "Music and Garden",
+      "Games and Garden",
+      "Art and Garden"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "8 + 6 = 14.\nHint: Read the recorded values, labels and question carefully; keep your claim within the evidence.",
     "structuredExplanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "8 + 6 = 14.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +191,38 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-006",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph keys",
+    "skill": "interpret data",
     "printable": true,
     "type": "single",
-    "question": "During a farm study, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
-    "audioPrompt": "During a farm study, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
-    "visual": "During a farm study: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-006\"></use></svg>",
+    "question": "Which conclusion stays within the club data?",
+    "audioPrompt": "Which conclusion stays within the club data?",
+    "visual": "Student graph of club choices. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Student graph of club choices. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-test\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-006",
-      "alt_text": "During a farm study: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#st02-test",
+      "alt_text": "Student graph of club choices. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals."
     },
     "answers": [
-      "16",
-      "8",
-      "10"
+      "Every child likes art best",
+      "Art causes higher maths marks",
+      "Art received the largest count among these respondents",
+      "Garden will never be popular"
     ],
-    "correct": 0,
-    "explanation": "Multiply the number of symbols by the key value.\nHint: Read the key before counting.",
+    "audioAnswers": [
+      "Every child likes art best",
+      "Art causes higher maths marks",
+      "Art received the largest count among these respondents",
+      "Garden will never be popular"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "14 is the largest observed count; the other claims are not established.\nHint: Read the recorded values, labels and question carefully; keep your claim within the evidence.",
     "structuredExplanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "14 is the largest observed count; the other claims are not established.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +230,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-007",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret data displays",
+    "skill": "interpret data",
     "printable": true,
     "type": "single",
-    "question": "While reading a trail guide, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "audioPrompt": "While reading a trail guide, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "visual": "While reading a trail guide: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-007\"></use></svg>",
+    "question": "Counts are 2, 2, 3, 3, 3, 4, 9. Which description fits?",
+    "audioPrompt": "Counts are 2, 2, 3, 3, 3, 4, 9. Which description fits?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Blue",
-      "Green",
-      "Red"
+      "Most are near 9",
+      "There are observations at 5, 6 and 7",
+      "All are identical",
+      "Most are between 2 and 4, with one high value at 9"
     ],
-    "correct": 1,
-    "explanation": "The tallest column represents the greatest count.\nHint: Read labels and scale together.",
+    "audioAnswers": [
+      "Most are near 9",
+      "There are observations at 5, 6 and 7",
+      "All are identical",
+      "Most are between 2 and 4, with one high value at 9"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 7,
+    "correct": 3,
+    "explanation": "Six values cluster from 2 to 4; 9 is separated.\nHint: Read the recorded values, labels and question carefully; keep your claim within the evidence.",
     "structuredExplanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "Six values cluster from 2 to 4; 9 is separated.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +267,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-008",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph keys",
+    "skill": "interpret data",
     "printable": true,
     "type": "single",
-    "question": "In an architecture studio, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "audioPrompt": "In an architecture studio, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "visual": "In an architecture studio: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-008\"></use></svg>",
+    "question": "Group A: 4, 4, 5, 5. Group B: 1, 3, 6, 8. Which varies more?",
+    "audioPrompt": "Group A: 4, 4, 5, 5. Group B: 1, 3, 6, 8. Which varies more?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-008",
-      "alt_text": "In an architecture studio: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "4",
-      "6",
-      "8"
+      "Group B",
+      "Group A",
+      "They have identical spread",
+      "Neither has counts"
     ],
-    "correct": 2,
-    "explanation": "Multiply the number of symbols by the key value.\nHint: Read the key before counting.",
+    "audioAnswers": [
+      "Group B",
+      "Group A",
+      "They have identical spread",
+      "Neither has counts"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 8,
+    "correct": 0,
+    "explanation": "B extends from 1 to 8; A only from 4 to 5.\nHint: Read the recorded values, labels and question carefully; keep your claim within the evidence.",
     "structuredExplanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "B extends from 1 to 8; A only from 4 to 5.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +304,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-009",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret data displays",
+    "skill": "interpret data",
     "printable": true,
     "type": "single",
-    "question": "During a food-truck project, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "audioPrompt": "During a food-truck project, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "visual": "During a food-truck project: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-009\"></use></svg>",
+    "question": "A media graph uses one picture for 6 bicycles. A half picture means how many?",
+    "audioPrompt": "A media graph uses one picture for 6 bicycles. A half picture means how many?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-009",
-      "alt_text": "During a food-truck project: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Green",
-      "Blue",
-      "Red"
+      "1",
+      "3",
+      "6",
+      "12"
     ],
-    "correct": 0,
-    "explanation": "The tallest column represents the greatest count.\nHint: Read labels and scale together.",
+    "audioAnswers": [
+      "1",
+      "3",
+      "6",
+      "12"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 9,
+    "correct": 1,
+    "explanation": "Half of 6 is 3.\nHint: Read the recorded values, labels and question carefully; keep your claim within the evidence.",
     "structuredExplanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "Half of 6 is 3.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +341,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-010",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph keys",
+    "skill": "interpret data",
     "printable": true,
     "type": "single",
-    "question": "At a festival, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "audioPrompt": "At a festival, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "visual": "At a festival: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-010\"></use></svg>",
+    "question": "Which display best shows repeated individual whole-number counts and gaps?",
+    "audioPrompt": "Which display best shows repeated individual whole-number counts and gaps?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-010",
-      "alt_text": "At a festival: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "6",
-      "12",
-      "8"
+      "A single total only",
+      "A decorative photograph",
+      "A dot plot with one dot per observation",
+      "A title without data"
     ],
-    "correct": 1,
-    "explanation": "Multiply the number of symbols by the key value.\nHint: Read the key before counting.",
+    "audioAnswers": [
+      "A single total only",
+      "A decorative photograph",
+      "A dot plot with one dot per observation",
+      "A title without data"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 10,
+    "correct": 2,
+    "explanation": "A dot plot preserves frequency at each value and shows unoccupied positions.\nHint: Read the recorded values, labels and question carefully; keep your claim within the evidence.",
     "structuredExplanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "A dot plot preserves frequency at each value and shows unoccupied positions.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +378,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-011",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret data displays",
+    "skill": "interpret data",
     "printable": true,
     "type": "single",
-    "question": "While organising a collection, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
-    "audioPrompt": "While organising a collection, a column graph shows Red 7, Blue 9, Green 11. Which is highest?",
-    "visual": "While organising a collection: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-011\"></use></svg>",
+    "question": "Two graphs of the same data show different totals. What follows?",
+    "audioPrompt": "Two graphs of the same data show different totals. What follows?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-011",
-      "alt_text": "While organising a collection: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Blue",
-      "Red",
-      "Green"
+      "Both must be right because colours differ",
+      "Totals never matter",
+      "The larger total is automatically correct",
+      "At least one representation needs checking"
     ],
-    "correct": 2,
-    "explanation": "The tallest column represents the greatest count.\nHint: Read labels and scale together.",
+    "audioAnswers": [
+      "Both must be right because colours differ",
+      "Totals never matter",
+      "The larger total is automatically correct",
+      "At least one representation needs checking"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 11,
+    "correct": 3,
+    "explanation": "Faithful displays of the same observations must preserve the total.\nHint: Read the recorded values, labels and question carefully; keep your claim within the evidence.",
     "structuredExplanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "Faithful displays of the same observations must preserve the total.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +415,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-012",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph keys",
+    "skill": "interpret data",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
-    "audioPrompt": "In an environmental study, a pictograph key says one symbol represents 2 votes. What do 8 symbols represent?",
-    "visual": "In an environmental study: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-012\"></use></svg>",
+    "question": "An AI dataset graph shows no examples of one required category. What has it revealed?",
+    "audioPrompt": "An AI dataset graph shows no examples of one required category. What has it revealed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-012",
-      "alt_text": "In an environmental study: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "16",
-      "8",
-      "10"
+      "A gap in the data coverage",
+      "Proof the category does not exist",
+      "Proof the AI is perfect",
+      "A reason to hide the graph"
     ],
+    "audioAnswers": [
+      "A gap in the data coverage",
+      "Proof the category does not exist",
+      "Proof the AI is perfect",
+      "A reason to hide the graph"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 12,
     "correct": 0,
-    "explanation": "Multiply the number of symbols by the key value.\nHint: Read the key before counting.",
+    "explanation": "The missing category needs investigation before claiming broad coverage.\nHint: Read the recorded values, labels and question carefully; keep your claim within the evidence.",
     "structuredExplanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "The missing category needs investigation before claiming broad coverage.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +452,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-013",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret data displays",
+    "skill": "interpret data",
     "printable": true,
     "type": "single",
-    "question": "During a transport survey, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "audioPrompt": "During a transport survey, a column graph shows Red 9, Blue 11, Green 13. Which is highest?",
-    "visual": "During a transport survey: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-013\"></use></svg>",
+    "question": "A graph of favourite pets cannot answer which question?",
+    "audioPrompt": "A graph of favourite pets cannot answer which question?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-013",
-      "alt_text": "During a transport survey: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "Blue",
-      "Green",
-      "Red"
+      "Which category has most votes",
+      "Why each person made their choice",
+      "How many voted for cats",
+      "How many responses were recorded"
     ],
+    "audioAnswers": [
+      "Which category has most votes",
+      "Why each person made their choice",
+      "How many voted for cats",
+      "How many responses were recorded"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 13,
     "correct": 1,
-    "explanation": "The tallest column represents the greatest count.\nHint: Read labels and scale together.",
+    "explanation": "Reasons were not recorded in the frequency display.\nHint: Read the recorded values, labels and question carefully; keep your claim within the evidence.",
     "structuredExplanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "Reasons were not recorded in the frequency display.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +489,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-014",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph keys",
+    "skill": "interpret data",
     "printable": true,
     "type": "single",
-    "question": "At a strategy tournament, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "audioPrompt": "At a strategy tournament, a pictograph key says one symbol represents 2 votes. What do 4 symbols represent?",
-    "visual": "At a strategy tournament: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-014\"></use></svg>",
+    "question": "Why use the same numerical scale in two comparable column graphs?",
+    "audioPrompt": "Why use the same numerical scale in two comparable column graphs?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "4",
-      "6",
-      "8"
+      "So both groups must tie",
+      "So labels are unnecessary",
+      "So equal heights mean equal counts",
+      "So the source values change"
     ],
+    "audioAnswers": [
+      "So both groups must tie",
+      "So labels are unnecessary",
+      "So equal heights mean equal counts",
+      "So the source values change"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 14,
     "correct": 2,
-    "explanation": "Multiply the number of symbols by the key value.\nHint: Read the key before counting.",
+    "explanation": "A common scale makes visual comparisons meaningful.\nHint: Read the recorded values, labels and question carefully; keep your claim within the evidence.",
     "structuredExplanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "A common scale makes visual comparisons meaningful.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +526,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-015",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "interpret data displays",
+    "skill": "create and interpret data",
     "printable": true,
-    "type": "single",
-    "question": "While planning a community garden, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "audioPrompt": "While planning a community garden, a column graph shows Red 5, Blue 7, Green 9. Which is highest?",
-    "visual": "While planning a community garden: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Results vary; every response contributes one dot. State observed features only; a gap need not exist.",
+    "acceptanceNote": "Inspect actual records and both student-generated displays; verify frequencies, positions and evidence-based comparison.",
+    "responseInstructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Collect whole-number counts of books read last week from at least six willing people. Create your own table and dot plot. Describe a concentration, gap or absence of gaps and compare the usefulness of both displays.",
+    "audioPrompt": "Collect whole-number counts of books read last week from at least six willing people. Create your own table and dot plot. Describe a concentration, gap or absence of gaps and compare the usefulness of both displays.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-015",
-      "alt_text": "While planning a community garden: a Year 4 interpret data displays reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "Green",
-      "Blue",
-      "Red"
-    ],
-    "correct": 0,
-    "explanation": "The tallest column represents the greatest count.\nHint: Read labels and scale together.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 15,
+    "correct": "Results vary; every response contributes one dot. State observed features only; a gap need not exist.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The tallest column represents the greatest count.",
-      "hint": "Read labels and scale together."
+      "summary": "Results vary; every response contributes one dot. State observed features only; a gap need not exist.",
+      "hint": "Keep the actual records and show each requested stage."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +558,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4st02-t-016",
     "curriculumCode": "AC9M4ST02",
     "bank": "test",
-    "skill": "pictograph keys",
+    "skill": "create and interpret data",
     "printable": true,
-    "type": "single",
-    "question": "In a design exhibition, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "audioPrompt": "In a design exhibition, a pictograph key says one symbol represents 2 votes. What do 6 symbols represent?",
-    "visual": "In a design exhibition: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Use 1½ and 2½ circles;20 is 8 more than 12. Half means 4. Check event, date/period, counting method and number of observations.",
+    "acceptanceNote": "Inspect the two precise half-symbol rows, key, difference 8 and relevant comparison conditions.",
+    "responseInstructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "A media-style pictograph uses one circle for 8 visitors. Draw rows for 12 and 20 visitors. Write an accurate comparison, explain the partial symbols and identify information needed before comparing these with another event.",
+    "audioPrompt": "A media-style pictograph uses one circle for 8 visitors. Draw rows for 12 and 20 visitors. Write an accurate comparison, explain the partial symbols and identify information needed before comparing these with another event.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st02.svg#ac9m4st02-t-016",
-      "alt_text": "In a design exhibition: a Year 4 pictograph keys reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "6",
-      "12",
-      "8"
-    ],
-    "correct": 1,
-    "explanation": "Multiply the number of symbols by the key value.\nHint: Read the key before counting.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 16,
+    "correct": "Use 1½ and 2½ circles;20 is 8 more than 12. Half means 4. Check event, date/period, counting method and number of observations.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Multiply the number of symbols by the key value.",
-      "hint": "Read the key before counting."
+      "summary": "Use 1½ and 2½ circles;20 is 8 more than 12. Half means 4. Check event, date/period, counting method and number of observations.",
+      "hint": "Keep the actual records and show each requested stage."
     },
     "qualitySchema": "production-v1"
   }

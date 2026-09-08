@@ -5,32 +5,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "grid_references",
-    "question": "In a class project, what does grid reference A2 mean?",
-    "audio_prompt": "In a class project, what does grid reference A2 mean?",
+    "skill": "interpret_grid_routes",
+    "question": "What is the cafe’s grid reference?",
+    "audio_prompt": "What is the cafe’s grid reference?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-001",
-      "alt_text": "In a class project: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "row A, column 2",
+        "text": "C2",
         "is_correct": false
       },
       {
-        "text": "column A, row 2",
+        "text": "B2",
+        "is_correct": false
+      },
+      {
+        "text": "C3",
+        "is_correct": false
+      },
+      {
+        "text": "B3",
         "is_correct": true
-      },
-      {
-        "text": "2 steps in every direction",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "C2",
+      "B2",
+      "C3",
+      "B3"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "The cafe is in column B and row 3; write the column letter first.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -42,36 +52,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "directions_and_pathways",
-    "question": "At the school market, on a north-up grid, which direction is right?",
-    "audio_prompt": "At the school market, on a north-up grid, which direction is right?",
+    "skill": "interpret_grid_routes",
+    "question": "Which landmark is in C5?",
+    "audio_prompt": "Which landmark is in C5?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-002",
-      "alt_text": "At the school market: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "west",
-        "is_correct": false
-      },
-      {
-        "text": "south",
-        "is_correct": false
-      },
-      {
-        "text": "east",
+        "text": "Tree",
         "is_correct": true
+      },
+      {
+        "text": "Cafe",
+        "is_correct": false
+      },
+      {
+        "text": "Hall",
+        "is_correct": false
+      },
+      {
+        "text": "Pond",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Tree",
+      "Cafe",
+      "Hall",
+      "Pond"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "Follow column C and row 5 to their shared cell.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4SP02-P-003",
@@ -79,36 +99,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "grid_references",
-    "question": "While planning a garden, what does grid reference C4 mean?",
-    "audio_prompt": "While planning a garden, what does grid reference C4 mean?",
+    "skill": "interpret_grid_routes",
+    "question": "Which landmark is farthest east?",
+    "audio_prompt": "Which landmark is farthest east?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-003",
-      "alt_text": "While planning a garden: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "column C, row 4",
+        "text": "Gate",
+        "is_correct": false
+      },
+      {
+        "text": "Hall",
         "is_correct": true
       },
       {
-        "text": "row C, column 4",
+        "text": "Tree",
         "is_correct": false
       },
       {
-        "text": "4 steps in every direction",
+        "text": "Cafe",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "Gate",
+      "Hall",
+      "Tree",
+      "Cafe"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "The hall is in column E, the rightmost column with north up.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3
   },
   {
     "id": "AC9M4SP02-P-004",
@@ -116,36 +146,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "directions_and_pathways",
-    "question": "During a sports challenge, on a north-up grid, which direction is right?",
-    "audio_prompt": "During a sports challenge, on a north-up grid, which direction is right?",
+    "skill": "interpret_grid_routes",
+    "question": "Which two landmarks share a row?",
+    "audio_prompt": "Which two landmarks share a row?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-004",
-      "alt_text": "During a sports challenge: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "west",
+        "text": "Tree and Cafe",
         "is_correct": false
       },
       {
-        "text": "east",
+        "text": "Hall and Tree",
+        "is_correct": false
+      },
+      {
+        "text": "Gate and Pond",
         "is_correct": true
       },
       {
-        "text": "south",
+        "text": "Cafe and Hall",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Tree and Cafe",
+      "Hall and Tree",
+      "Gate and Pond",
+      "Cafe and Hall"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "Gate A1 and Pond D1 are both in row 1.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4
   },
   {
     "id": "AC9M4SP02-P-005",
@@ -153,36 +193,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "grid_references",
-    "question": "At the wildlife centre, what does grid reference B3 mean?",
-    "audio_prompt": "At the wildlife centre, what does grid reference B3 mean?",
+    "skill": "interpret_grid_routes",
+    "question": "From the gate, move three cells east. Where do you arrive?",
+    "audio_prompt": "From the gate, move three cells east. Where do you arrive?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-005",
-      "alt_text": "At the wildlife centre: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "row B, column 3",
+        "text": "Cafe at B3",
         "is_correct": false
       },
       {
-        "text": "3 steps in every direction",
+        "text": "Tree at C5",
         "is_correct": false
       },
       {
-        "text": "column B, row 3",
+        "text": "Hall at E4",
+        "is_correct": false
+      },
+      {
+        "text": "Pond at D1",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Cafe at B3",
+      "Tree at C5",
+      "Hall at E4",
+      "Pond at D1"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "A1 to B1 to C1 to D1 is three eastward moves.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 5
   },
   {
     "id": "AC9M4SP02-P-006",
@@ -190,36 +240,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "directions_and_pathways",
-    "question": "In the makerspace, on a north-up grid, which direction is right?",
-    "audio_prompt": "In the makerspace, on a north-up grid, which direction is right?",
+    "skill": "interpret_grid_routes",
+    "question": "Which route takes you from the cafe to the tree?",
+    "audio_prompt": "Which route takes you from the cafe to the tree?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-006",
-      "alt_text": "In the makerspace: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "east",
+        "text": "one cell east, then two north",
         "is_correct": true
       },
       {
-        "text": "west",
+        "text": "one west, then two north",
         "is_correct": false
       },
       {
-        "text": "south",
+        "text": "two east, then one north",
+        "is_correct": false
+      },
+      {
+        "text": "one east, then two south",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "one cell east, then two north",
+      "one west, then two north",
+      "two east, then one north",
+      "one east, then two south"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "B3 becomes C3 after one east, then C5 after two north.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 6
   },
   {
     "id": "AC9M4SP02-P-007",
@@ -227,36 +287,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "grid_references",
-    "question": "While checking a map, what does grid reference A2 mean?",
-    "audio_prompt": "While checking a map, what does grid reference A2 mean?",
+    "skill": "interpret_grid_routes",
+    "question": "From the hall, move two cells west and one north. Where are you?",
+    "audio_prompt": "From the hall, move two cells west and one north. Where are you?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-007",
-      "alt_text": "While checking a map: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "row A, column 2",
+        "text": "Cafe at B3",
         "is_correct": false
       },
       {
-        "text": "column A, row 2",
+        "text": "Tree at C5",
         "is_correct": true
       },
       {
-        "text": "2 steps in every direction",
+        "text": "Pond at D1",
+        "is_correct": false
+      },
+      {
+        "text": "Gate at A1",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "Cafe at B3",
+      "Tree at C5",
+      "Pond at D1",
+      "Gate at A1"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "E4 to C4 is two west; C4 to C5 is one north.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 7
   },
   {
     "id": "AC9M4SP02-P-008",
@@ -264,36 +334,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "directions_and_pathways",
-    "question": "During a cooking task, on a north-up grid, which direction is right?",
-    "audio_prompt": "During a cooking task, on a north-up grid, which direction is right?",
+    "skill": "interpret_grid_routes",
+    "question": "A friend says the pond is in A4. What has gone wrong?",
+    "audio_prompt": "A friend says the pond is in A4. What has gone wrong?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-008",
-      "alt_text": "During a cooking task: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "west",
+        "text": "They moved one cell north.",
         "is_correct": false
       },
       {
-        "text": "south",
+        "text": "They used the correct reference.",
         "is_correct": false
       },
       {
-        "text": "east",
+        "text": "They swapped the column and row positions.",
         "is_correct": true
+      },
+      {
+        "text": "They counted only columns.",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "They moved one cell north.",
+      "They used the correct reference.",
+      "They swapped the column and row positions.",
+      "They counted only columns."
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "The pond is in the fourth column D and bottom row 1, not the first column and fourth row.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 8
   },
   {
     "id": "AC9M4SP02-P-009",
@@ -301,35 +381,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "grid_references",
-    "question": "At the community fair, what does grid reference C4 mean?",
-    "audio_prompt": "At the community fair, what does grid reference C4 mean?",
+    "skill": "interpret_grid_routes",
+    "question": "Which direction is the gate from the pond?",
+    "audio_prompt": "Which direction is the gate from the pond?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-009",
-      "alt_text": "At the community fair: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "column C, row 4",
+        "text": "east",
+        "is_correct": false
+      },
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "west",
         "is_correct": true
-      },
-      {
-        "text": "row C, column 4",
-        "is_correct": false
-      },
-      {
-        "text": "4 steps in every direction",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "east",
+      "north",
+      "south",
+      "west"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "Both are in row 1; the gate is left of the pond and north is up.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M4SP02-P-010",
@@ -337,35 +428,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "directions_and_pathways",
-    "question": "In a library display, on a north-up grid, which direction is right?",
-    "audio_prompt": "In a library display, on a north-up grid, which direction is right?",
+    "skill": "interpret_grid_routes",
+    "question": "A robot starts at B3 and moves one south, then three east. What is its finish cell?",
+    "audio_prompt": "A robot starts at B3 and moves one south, then three east. What is its finish cell?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-010",
-      "alt_text": "In a library display: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "west",
-        "is_correct": false
-      },
-      {
-        "text": "east",
+        "text": "E2",
         "is_correct": true
       },
       {
-        "text": "south",
+        "text": "D2",
+        "is_correct": false
+      },
+      {
+        "text": "E4",
+        "is_correct": false
+      },
+      {
+        "text": "A2",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "E2",
+      "D2",
+      "E4",
+      "A2"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "One south changes row 3 to 2; three east changes B to E.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M4SP02-P-011",
@@ -373,35 +475,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "grid_references",
-    "question": "During a science activity, what does grid reference B3 mean?",
-    "audio_prompt": "During a science activity, what does grid reference B3 mean?",
+    "skill": "interpret_grid_routes",
+    "question": "A robot at D1 turns to face north but does not move. What is its position?",
+    "audio_prompt": "A robot at D1 turns to face north but does not move. What is its position?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-011",
-      "alt_text": "During a science activity: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "row B, column 3",
+        "text": "D2",
         "is_correct": false
       },
       {
-        "text": "3 steps in every direction",
-        "is_correct": false
-      },
-      {
-        "text": "column B, row 3",
+        "text": "D1",
         "is_correct": true
+      },
+      {
+        "text": "C1",
+        "is_correct": false
+      },
+      {
+        "text": "E1",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "D2",
+      "D1",
+      "C1",
+      "E1"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "A turn changes facing direction but does not change the occupied cell.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M4SP02-P-012",
@@ -409,35 +522,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "directions_and_pathways",
-    "question": "At the school canteen, on a north-up grid, which direction is right?",
-    "audio_prompt": "At the school canteen, on a north-up grid, which direction is right?",
+    "skill": "interpret_grid_routes",
+    "question": "Which instruction would leave this grid immediately from E4?",
+    "audio_prompt": "Which instruction would leave this grid immediately from E4?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-012",
-      "alt_text": "At the school canteen: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "east",
+        "text": "move one cell west",
+        "is_correct": false
+      },
+      {
+        "text": "move one cell north",
+        "is_correct": false
+      },
+      {
+        "text": "move one cell east",
         "is_correct": true
       },
       {
-        "text": "west",
-        "is_correct": false
-      },
-      {
-        "text": "south",
+        "text": "move one cell south",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "move one cell west",
+      "move one cell north",
+      "move one cell east",
+      "move one cell south"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "Column E is the last column, so an eastward move leaves the grid.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M4SP02-P-013",
@@ -445,35 +569,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "grid_references",
-    "question": "While organising an excursion, what does grid reference A2 mean?",
-    "audio_prompt": "While organising an excursion, what does grid reference A2 mean?",
+    "skill": "interpret_grid_routes",
+    "question": "From the tree, travel south to row 2, then west to column A. Where do you finish?",
+    "audio_prompt": "From the tree, travel south to row 2, then west to column A. Where do you finish?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-013",
-      "alt_text": "While organising an excursion: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "row A, column 2",
+        "text": "C2",
         "is_correct": false
       },
       {
-        "text": "column A, row 2",
+        "text": "A5",
+        "is_correct": false
+      },
+      {
+        "text": "B2",
+        "is_correct": false
+      },
+      {
+        "text": "A2",
         "is_correct": true
-      },
-      {
-        "text": "2 steps in every direction",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "C2",
+      "A5",
+      "B2",
+      "A2"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "C5 to C2 changes the row; then C2 to A2 changes the column.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 13
   },
   {
     "id": "AC9M4SP02-P-014",
@@ -481,35 +616,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "directions_and_pathways",
-    "question": "In a games club, on a north-up grid, which direction is right?",
-    "audio_prompt": "In a games club, on a north-up grid, which direction is right?",
+    "skill": "interpret_grid_routes",
+    "question": "Which route from gate to cafe uses the fewest single-cell horizontal or vertical moves?",
+    "audio_prompt": "Which route from gate to cafe uses the fewest single-cell horizontal or vertical moves?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-014",
-      "alt_text": "In a games club: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "west",
-        "is_correct": false
-      },
-      {
-        "text": "south",
-        "is_correct": false
-      },
-      {
-        "text": "east",
+        "text": "one east and two north",
         "is_correct": true
+      },
+      {
+        "text": "three east and two north",
+        "is_correct": false
+      },
+      {
+        "text": "one west and two south",
+        "is_correct": false
+      },
+      {
+        "text": "two east and three north",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "one east and two north",
+      "three east and two north",
+      "one west and two south",
+      "two east and three north"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "A1 to B3 needs one column change and two row changes: three moves.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 14
   },
   {
     "id": "AC9M4SP02-P-015",
@@ -517,35 +663,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "grid_references",
-    "question": "During an art project, what does grid reference C4 mean?",
-    "audio_prompt": "During an art project, what does grid reference C4 mean?",
+    "skill": "interpret_grid_routes",
+    "question": "A route from Pond D1 to Hall E4 says one east, two north. What correction reaches the hall?",
+    "audio_prompt": "A route from Pond D1 to Hall E4 says one east, two north. What correction reaches the hall?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-015",
-      "alt_text": "During an art project: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "column C, row 4",
+        "text": "use three east instead of one",
+        "is_correct": false
+      },
+      {
+        "text": "use three north instead of two",
         "is_correct": true
       },
       {
-        "text": "row C, column 4",
+        "text": "use one south instead of two north",
         "is_correct": false
       },
       {
-        "text": "4 steps in every direction",
+        "text": "stay in row 1",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "use three east instead of one",
+      "use three north instead of two",
+      "use one south instead of two north",
+      "stay in row 1"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "D1 to E1 then three north reaches E4; two north stops at E3.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 15
   },
   {
     "id": "AC9M4SP02-P-016",
@@ -553,35 +710,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "directions_and_pathways",
-    "question": "At the recycling station, on a north-up grid, which direction is right?",
-    "audio_prompt": "At the recycling station, on a north-up grid, which direction is right?",
+    "skill": "interpret_grid_routes",
+    "question": "If a path cell at C3 is blocked, which route from B3 to D3 avoids it?",
+    "audio_prompt": "If a path cell at C3 is blocked, which route from B3 to D3 avoids it?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-016",
-      "alt_text": "At the recycling station: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "west",
+        "text": "east two",
         "is_correct": false
       },
       {
-        "text": "east",
+        "text": "east one, north one, east one, south one",
+        "is_correct": false
+      },
+      {
+        "text": "north one, east two, south one",
         "is_correct": true
       },
       {
-        "text": "south",
+        "text": "south one, north one, east two",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "east two",
+      "east one, north one, east one, south one",
+      "north one, east two, south one",
+      "south one, north one, east two"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "B3-B4-C4-D4-D3 avoids C3. Every other listed route enters C3.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 16
   },
   {
     "id": "AC9M4SP02-P-017",
@@ -589,35 +757,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "grid_references",
-    "question": "While planning a survey, what does grid reference B3 mean?",
-    "audio_prompt": "While planning a survey, what does grid reference B3 mean?",
+    "skill": "interpret_grid_routes",
+    "question": "What does reference E4 identify here?",
+    "audio_prompt": "What does reference E4 identify here?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-017",
-      "alt_text": "While planning a survey: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "row B, column 3",
+        "text": "the exact size of the hall",
         "is_correct": false
       },
       {
-        "text": "3 steps in every direction",
+        "text": "a distance of four metres east",
         "is_correct": false
       },
       {
-        "text": "column B, row 3",
+        "text": "a compass bearing",
+        "is_correct": false
+      },
+      {
+        "text": "a labelled grid cell containing the hall",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "the exact size of the hall",
+      "a distance of four metres east",
+      "a compass bearing",
+      "a labelled grid cell containing the hall"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "This grid reference locates a cell; no distance scale or exact within-cell point is supplied.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 17
   },
   {
     "id": "AC9M4SP02-P-018",
@@ -625,35 +804,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "directions_and_pathways",
-    "question": "In a coding lesson, on a north-up grid, which direction is right?",
-    "audio_prompt": "In a coding lesson, on a north-up grid, which direction is right?",
+    "skill": "interpret_grid_routes",
+    "question": "A friend starts at the gate facing north. They turn right and move one cell. Where are they?",
+    "audio_prompt": "A friend starts at the gate facing north. They turn right and move one cell. Where are they?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-018",
-      "alt_text": "In a coding lesson: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "east",
+        "text": "B1",
         "is_correct": true
       },
       {
-        "text": "west",
+        "text": "A2",
         "is_correct": false
       },
       {
-        "text": "south",
+        "text": "A1",
+        "is_correct": false
+      },
+      {
+        "text": "B2",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "B1",
+      "A2",
+      "A1",
+      "B2"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "With north up, a right turn faces east; one move from A1 reaches B1.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 18
   },
   {
     "id": "AC9M4SP02-P-019",
@@ -661,35 +851,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "grid_references",
-    "question": "During a building task, what does grid reference A2 mean?",
-    "audio_prompt": "During a building task, what does grid reference A2 mean?",
+    "skill": "interpret_grid_routes",
+    "question": "Starting at C5 facing south, a robot turns left and moves two cells. Where is it?",
+    "audio_prompt": "Starting at C5 facing south, a robot turns left and moves two cells. Where is it?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-019",
-      "alt_text": "During a building task: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "row A, column 2",
+        "text": "A5",
         "is_correct": false
       },
       {
-        "text": "column A, row 2",
+        "text": "E5",
         "is_correct": true
       },
       {
-        "text": "2 steps in every direction",
+        "text": "C3",
+        "is_correct": false
+      },
+      {
+        "text": "E3",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "A5",
+      "E5",
+      "C3",
+      "E3"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "Left when facing south is east. Two cells east from C5 reaches E5.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 19
   },
   {
     "id": "AC9M4SP02-P-020",
@@ -697,35 +898,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "directions_and_pathways",
-    "question": "At the local pool, on a north-up grid, which direction is right?",
-    "audio_prompt": "At the local pool, on a north-up grid, which direction is right?",
+    "skill": "interpret_grid_routes",
+    "question": "Which information is needed before following an instruction to turn left?",
+    "audio_prompt": "Which information is needed before following an instruction to turn left?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-020",
-      "alt_text": "At the local pool: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02-park.svg#model",
+      "alt_text": "Park grid: columns A to E left to right; rows 1 to 5 bottom to top. North is up. Gate A1, Pond D1, Cafe B3, Hall E4, Tree C5."
     },
     "answers": [
       {
-        "text": "west",
+        "text": "only the map title",
         "is_correct": false
       },
       {
-        "text": "south",
+        "text": "the colour of the grid lines",
         "is_correct": false
       },
       {
-        "text": "east",
+        "text": "the direction the traveller is facing",
         "is_correct": true
+      },
+      {
+        "text": "only the date",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "only the map title",
+      "the colour of the grid lines",
+      "the direction the traveller is facing",
+      "only the date"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "Left is relative to a facing direction; compass east or west is fixed on this map.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 20
   },
   {
     "id": "AC9M4SP02-P-021",
@@ -733,35 +945,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "grid_references",
-    "question": "While preparing a camp, what does grid reference C4 mean?",
-    "audio_prompt": "While preparing a camp, what does grid reference C4 mean?",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "In a spreadsheet, column letters run left to right and row numbers run top to bottom. Which cell is column C, row 7?",
+    "audio_prompt": "In a spreadsheet, column letters run left to right and row numbers run top to bottom. Which cell is column C, row 7?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-021",
-      "alt_text": "While preparing a camp: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "column C, row 4",
+        "text": "G3",
+        "is_correct": false
+      },
+      {
+        "text": "7C",
+        "is_correct": false
+      },
+      {
+        "text": "C3",
+        "is_correct": false
+      },
+      {
+        "text": "C7",
         "is_correct": true
-      },
-      {
-        "text": "row C, column 4",
-        "is_correct": false
-      },
-      {
-        "text": "4 steps in every direction",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "G3",
+      "7C",
+      "C3",
+      "C7"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "Spreadsheet references use the column letter followed by the row number.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 21
   },
   {
     "id": "AC9M4SP02-P-022",
@@ -769,35 +990,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "directions_and_pathways",
-    "question": "In a music project, on a north-up grid, which direction is right?",
-    "audio_prompt": "In a music project, on a north-up grid, which direction is right?",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "A spreadsheet has labels in A1 and B1. To enter 12 under B1 in the next row, which cell do you select?",
+    "audio_prompt": "A spreadsheet has labels in A1 and B1. To enter 12 under B1 in the next row, which cell do you select?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-022",
-      "alt_text": "In a music project: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "west",
-        "is_correct": false
-      },
-      {
-        "text": "east",
+        "text": "B2",
         "is_correct": true
       },
       {
-        "text": "south",
+        "text": "A2",
+        "is_correct": false
+      },
+      {
+        "text": "C1",
+        "is_correct": false
+      },
+      {
+        "text": "B1",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "B2",
+      "A2",
+      "C1",
+      "B1"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "The same column B and next row 2 locate the cell directly below B1.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 22
   },
   {
     "id": "AC9M4SP02-P-023",
@@ -805,35 +1035,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "grid_references",
-    "question": "At a playground redesign, what does grid reference B3 mean?",
-    "audio_prompt": "At a playground redesign, what does grid reference B3 mean?",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "Bird counts are stored in B2, B3 and B4. Which cells keep all three observations in the same column?",
+    "audio_prompt": "Bird counts are stored in B2, B3 and B4. Which cells keep all three observations in the same column?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-023",
-      "alt_text": "At a playground redesign: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "row B, column 3",
+        "text": "A2, B2 and C2",
         "is_correct": false
       },
       {
-        "text": "3 steps in every direction",
-        "is_correct": false
-      },
-      {
-        "text": "column B, row 3",
+        "text": "B2, B3 and B4",
         "is_correct": true
+      },
+      {
+        "text": "B2, C3 and D4",
+        "is_correct": false
+      },
+      {
+        "text": "A1, B2 and C3",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "A2, B2 and C2",
+      "B2, B3 and B4",
+      "B2, C3 and D4",
+      "A1, B2 and C3"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
+      "summary": "All three references begin with B, so the counts share a column.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 23
   },
   {
     "id": "AC9M4SP02-P-024",
@@ -841,18 +1080,605 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "practice",
-    "skill": "directions_and_pathways",
-    "question": "During a book drive, on a north-up grid, which direction is right?",
-    "audio_prompt": "During a book drive, on a north-up grid, which direction is right?",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "In a spreadsheet, what happens to the reference when you move from D4 one cell up?",
+    "audio_prompt": "In a spreadsheet, what happens to the reference when you move from D4 one cell up?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-p-024",
-      "alt_text": "During a book drive: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "east",
+        "text": "it becomes D5",
+        "is_correct": false
+      },
+      {
+        "text": "it becomes C4",
+        "is_correct": false
+      },
+      {
+        "text": "it becomes D3",
         "is_correct": true
+      },
+      {
+        "text": "it becomes E4",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "it becomes D5",
+      "it becomes C4",
+      "it becomes D3",
+      "it becomes E4"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Spreadsheet row numbers increase downward; moving up decreases 4 to 3.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 24
+  },
+  {
+    "id": "AC9M4SP02-P-025",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "A learner means to enter a result in C6 but types it in C5. What correction is needed?",
+    "audio_prompt": "A learner means to enter a result in C6 but types it in C5. What correction is needed?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "move it one row up",
+        "is_correct": false
+      },
+      {
+        "text": "move it one column right",
+        "is_correct": false
+      },
+      {
+        "text": "change the heading in A1",
+        "is_correct": false
+      },
+      {
+        "text": "move the result one row down in the same column",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "move it one row up",
+      "move it one column right",
+      "change the heading in A1",
+      "move the result one row down in the same column"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "C6 is directly below C5 under the spreadsheet convention.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 25
+  },
+  {
+    "id": "AC9M4SP02-P-026",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "Why must you check the grid labels before assuming row numbers increase northwards?",
+    "audio_prompt": "Why must you check the grid labels before assuming row numbers increase northwards?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "spreadsheets commonly number rows downward, unlike some maps",
+        "is_correct": true
+      },
+      {
+        "text": "letters always increase upward",
+        "is_correct": false
+      },
+      {
+        "text": "every grid uses compass north at the bottom",
+        "is_correct": false
+      },
+      {
+        "text": "row numbers cannot locate cells",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "spreadsheets commonly number rows downward, unlike some maps",
+      "letters always increase upward",
+      "every grid uses compass north at the bottom",
+      "row numbers cannot locate cells"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Different grid systems can label rows in different directions; read the convention shown.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 26
+  },
+  {
+    "id": "AC9M4SP02-P-027",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "A bird’s-eye park picture has three benches. Which extra information best distinguishes one using an overlaid grid?",
+    "audio_prompt": "A bird’s-eye park picture has three benches. Which extra information best distinguishes one using an overlaid grid?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "that it is a bench",
+        "is_correct": false
+      },
+      {
+        "text": "its column letter and row number",
+        "is_correct": true
+      },
+      {
+        "text": "that it is somewhere in the park",
+        "is_correct": false
+      },
+      {
+        "text": "that it is made of wood",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "that it is a bench",
+      "its column letter and row number",
+      "that it is somewhere in the park",
+      "that it is made of wood"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A cell reference narrows the location more clearly than a general object description.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 27
+  },
+  {
+    "id": "AC9M4SP02-P-028",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "Two trees lie inside the same cell B2. Which instruction pinpoints one more clearly?",
+    "audio_prompt": "Two trees lie inside the same cell B2. Which instruction pinpoints one more clearly?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "B2 only",
+        "is_correct": false
+      },
+      {
+        "text": "the tree somewhere on the map",
+        "is_correct": false
+      },
+      {
+        "text": "the tree in B2 nearest the cell’s north edge",
+        "is_correct": true
+      },
+      {
+        "text": "the green tree, when both are green",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "B2 only",
+      "the tree somewhere on the map",
+      "the tree in B2 nearest the cell’s north edge",
+      "the green tree, when both are green"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A grid cell can contain multiple objects, so an extra within-cell description may be needed.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 28
+  },
+  {
+    "id": "AC9M4SP02-P-029",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "Why does a transparent grid overlay help compare a scene with its picture?",
+    "audio_prompt": "Why does a transparent grid overlay help compare a scene with its picture?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "it changes every landmark’s real location",
+        "is_correct": false
+      },
+      {
+        "text": "it measures all distances automatically",
+        "is_correct": false
+      },
+      {
+        "text": "it gives every object its own cell automatically",
+        "is_correct": false
+      },
+      {
+        "text": "it adds a shared position system without hiding the scene",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "it changes every landmark’s real location",
+      "it measures all distances automatically",
+      "it gives every object its own cell automatically",
+      "it adds a shared position system without hiding the scene"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The same labels give viewers a consistent way to describe locations; several objects may still share a cell.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 29
+  },
+  {
+    "id": "AC9M4SP02-P-030",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "A drawing fills a 3 by 3 grid. To enlarge it, each old cell is copied to the matching cell of a new 3 by 3 grid with larger squares. What stays the same?",
+    "audio_prompt": "A drawing fills a 3 by 3 grid. To enlarge it, each old cell is copied to the matching cell of a new 3 by 3 grid with larger squares. What stays the same?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the cell-by-cell arrangement",
+        "is_correct": true
+      },
+      {
+        "text": "the physical width of each cell",
+        "is_correct": false
+      },
+      {
+        "text": "the physical height of the whole drawing",
+        "is_correct": false
+      },
+      {
+        "text": "the length of every drawn line",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "the cell-by-cell arrangement",
+      "the physical width of each cell",
+      "the physical height of the whole drawing",
+      "the length of every drawn line"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Matching cell positions preserve the arrangement while larger cells enlarge the physical drawing.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 30
+  },
+  {
+    "id": "AC9M4SP02-P-031",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "A1 cm grid is replaced by a 2 cm grid with the same rows and columns. A line crosses three full cells horizontally. How long is the enlarged line?",
+    "audio_prompt": "A1 cm grid is replaced by a 2 cm grid with the same rows and columns. A line crosses three full cells horizontally. How long is the enlarged line?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "3 cm",
+        "is_correct": false
+      },
+      {
+        "text": "6 cm",
+        "is_correct": true
+      },
+      {
+        "text": "5 cm",
+        "is_correct": false
+      },
+      {
+        "text": "9 cm",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "3 cm",
+      "6 cm",
+      "5 cm",
+      "9 cm"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Three new cells are each 2 cm wide, so the line is 6 cm long.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 31
+  },
+  {
+    "id": "AC9M4SP02-P-032",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "When enlarging an image by grid, a dot halfway across a cell should be placed where in the new matching cell?",
+    "audio_prompt": "When enlarging an image by grid, a dot halfway across a cell should be placed where in the new matching cell?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "at its left edge",
+        "is_correct": false
+      },
+      {
+        "text": "in the next column",
+        "is_correct": false
+      },
+      {
+        "text": "halfway across it",
+        "is_correct": true
+      },
+      {
+        "text": "twice past its right edge",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "at its left edge",
+      "in the next column",
+      "halfway across it",
+      "twice past its right edge"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keep the relative within-cell position as the cell gets larger.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 32
+  },
+  {
+    "id": "AC9M4SP02-P-033",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "A shape occupies cells A1, A2 and B1. Which copied arrangement preserves its shape on larger grid squares?",
+    "audio_prompt": "A shape occupies cells A1, A2 and B1. Which copied arrangement preserves its shape on larger grid squares?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "A1, B1 and C1",
+        "is_correct": false
+      },
+      {
+        "text": "A1, B2 and C3",
+        "is_correct": false
+      },
+      {
+        "text": "A1, A2 and A3",
+        "is_correct": false
+      },
+      {
+        "text": "A1, A2 and B1",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "A1, B1 and C1",
+      "A1, B2 and C3",
+      "A1, A2 and A3",
+      "A1, A2 and B1"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Corresponding cell positions preserve the L arrangement.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 33
+  },
+  {
+    "id": "AC9M4SP02-P-034",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "A copied picture becomes too wide but keeps its old height. What caused the distortion?",
+    "audio_prompt": "A copied picture becomes too wide but keeps its old height. What caused the distortion?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "only cell widths were enlarged",
+        "is_correct": true
+      },
+      {
+        "text": "both cell width and height doubled",
+        "is_correct": false
+      },
+      {
+        "text": "both dimensions stayed equal",
+        "is_correct": false
+      },
+      {
+        "text": "the same cell positions were used on uniformly larger squares",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "only cell widths were enlarged",
+      "both cell width and height doubled",
+      "both dimensions stayed equal",
+      "the same cell positions were used on uniformly larger squares"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "To preserve proportions, enlarge width and height together by the same factor.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 34
+  },
+  {
+    "id": "AC9M4SP02-P-035",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "A grid map uses cell references rather than point coordinates. What does B4 mean?",
+    "audio_prompt": "A grid map uses cell references rather than point coordinates. What does B4 mean?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "the intersection of exactly two numbered axes",
+        "is_correct": false
+      },
+      {
+        "text": "the region in column B and row 4",
+        "is_correct": true
+      },
+      {
+        "text": "four steps from every starting point",
+        "is_correct": false
+      },
+      {
+        "text": "a fixed distance in metres",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "the intersection of exactly two numbered axes",
+      "the region in column B and row 4",
+      "four steps from every starting point",
+      "a fixed distance in metres"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A cell reference identifies an area, not a coordinate point or distance unless another convention is stated.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 35
+  },
+  {
+    "id": "AC9M4SP02-P-036",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "A warehouse robot must go from A1 to A3 on a north-up grid with rows increasing upward. Which program works?",
+    "audio_prompt": "A warehouse robot must go from A1 to A3 on a north-up grid with rows increasing upward. Which program works?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "east, east",
+        "is_correct": false
+      },
+      {
+        "text": "south, south",
+        "is_correct": false
+      },
+      {
+        "text": "north, north",
+        "is_correct": true
+      },
+      {
+        "text": "north, east",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "east, east",
+      "south, south",
+      "north, north",
+      "north, east"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Keeping column A and increasing the row by 2 requires two northward moves.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 36
+  },
+  {
+    "id": "AC9M4SP02-P-037",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "A robot starts facing east. It turns right but stays in the same cell. Which way is it now facing?",
+    "audio_prompt": "A robot starts facing east. It turns right but stays in the same cell. Which way is it now facing?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "north",
+        "is_correct": false
+      },
+      {
+        "text": "east",
+        "is_correct": false
       },
       {
         "text": "west",
@@ -860,16 +1686,374 @@
       },
       {
         "text": "south",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "north",
+      "east",
+      "west",
+      "south"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A quarter-turn right from east faces south; turning does not move its position.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 37
+  },
+  {
+    "id": "AC9M4SP02-P-038",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "Which route information lets a partner reproduce a path reliably?",
+    "audio_prompt": "Which route information lets a partner reproduce a path reliably?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "start cell, ordered movements and grid orientation",
+        "is_correct": true
+      },
+      {
+        "text": "only the finish cell",
+        "is_correct": false
+      },
+      {
+        "text": "only the number of turns",
+        "is_correct": false
+      },
+      {
+        "text": "only a drawing title",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "start cell, ordered movements and grid orientation",
+      "only the finish cell",
+      "only the number of turns",
+      "only a drawing title"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
+      "summary": "A complete route needs a starting location and clear movements under a known orientation.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 38
+  },
+  {
+    "id": "AC9M4SP02-P-039",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "A map is turned so its north arrow points to the left of the page. Which way is north on that page?",
+    "audio_prompt": "A map is turned so its north arrow points to the left of the page. Which way is north on that page?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "up",
+        "is_correct": false
+      },
+      {
+        "text": "left",
+        "is_correct": true
+      },
+      {
+        "text": "right",
+        "is_correct": false
+      },
+      {
+        "text": "down",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "up",
+      "left",
+      "right",
+      "down"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use the north arrow, not the assumption that north is always page-up.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 39
+  },
+  {
+    "id": "AC9M4SP02-P-040",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet_and_grid_reasoning",
+    "question": "A student records observed insect counts in a spreadsheet. What makes the data understandable later?",
+    "audio_prompt": "A student records observed insect counts in a spreadsheet. What makes the data understandable later?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "numbers placed in random empty cells",
+        "is_correct": false
+      },
+      {
+        "text": "all observations replacing the same cell",
+        "is_correct": false
+      },
+      {
+        "text": "clear column headings, one observation per row and correct cells",
+        "is_correct": true
+      },
+      {
+        "text": "counts without any labels",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "numbers placed in random empty cells",
+      "all observations replacing the same cell",
+      "clear column headings, one observation per row and correct cells",
+      "counts without any labels"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Headings and consistent cell positions preserve what each observation means.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9M4SP02-P-041",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "create_map",
+    "question": "Draw a 5-column,4-row map of an imaginary park. Label columns A–E and rows 1–4 increasing upward, mark north up and put four named landmarks in different cells. Write directions between two landmarks and trace the route.",
+    "audio_prompt": "Draw a 5-column,4-row map of an imaginary park. Label columns A–E and rows 1–4 increasing upward, mark north up and put four named landmarks in different cells. Write directions between two landmarks and trace the route.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Maps vary; references must match cells and the ordered movements must reach the stated landmark.",
+      "hint": "Make and label the requested work, then check it against the task."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 41,
+    "grading_mode": "adult-review",
+    "model_answer": "Maps vary; references must match cells and the ordered movements must reach the stated landmark.",
+    "acceptance_note": "Inspect actual labelled map, north arrow, four locations and a correctly traced route with start and finish references.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP02-P-042",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "spreadsheet",
+    "question": "In a spreadsheet, put Object in A1 and Count in B1. Count three kinds of object nearby and enter names in A2–A4 and counts in B2–B4. Save a screenshot and list the six data-cell references.",
+    "audio_prompt": "In a spreadsheet, put Object in A1 and Count in B1. Count three kinds of object nearby and enter names in A2–A4 and counts in B2–B4. Save a screenshot and list the six data-cell references.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Names belong in A2, A3, A4 and their observed counts in B2, B3, B4.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 42,
+    "grading_mode": "adult-review",
+    "model_answer": "Names belong in A2, A3, A4 and their observed counts in B2, B3, B4.",
+    "acceptance_note": "Inspect actual spreadsheet/screenshot with headings, genuine observations, matching cells and six correct references; a proposed table alone is incomplete.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP02-P-043",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "overlay",
+    "question": "Draw a bird’s-eye scene containing two benches and a tree. Ask a partner to locate one bench from your words before adding a grid. Overlay labelled cells, give a new reference-based description and compare how clear the two descriptions are.",
+    "audio_prompt": "Draw a bird’s-eye scene containing two benches and a tree. Ask a partner to locate one bench from your words before adding a grid. Overlay labelled cells, give a new reference-based description and compare how clear the two descriptions are.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "The second description identifies a cell and, if both benches share it, an additional position within the cell.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 43,
+    "grading_mode": "adult-review",
+    "model_answer": "The second description identifies a cell and, if both benches share it, an additional position within the cell.",
+    "acceptance_note": "Require before/after scene, actual partner attempt or recorded comparison, clear grid labels and specific explanation of what the grid improves.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP02-P-044",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "enlarge",
+    "question": "Draw an original picture in a 3 by 3 grid of 1 cm squares. Copy it cell by cell into a 3 by 3 grid of 2 cm squares. Mark two matching points and explain how you kept their positions.",
+    "audio_prompt": "Draw an original picture in a 3 by 3 grid of 1 cm squares. Copy it cell by cell into a 3 by 3 grid of 2 cm squares. Mark two matching points and explain how you kept their positions.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "The whole picture becomes twice as wide and twice as high; matching relative positions in corresponding cells preserve the image.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 44,
+    "grading_mode": "adult-review",
+    "model_answer": "The whole picture becomes twice as wide and twice as high; matching relative positions in corresponding cells preserve the image.",
+    "acceptance_note": "Inspect both drawings, grid dimensions, at least two corresponding marked points and explanation of relative placement.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP02-P-045",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "robot",
+    "question": "Make a 5 by 5 north-up floor or paper grid with columns A–E and rows 1–5 increasing upward. Start a toy robot at A2 facing east. Write and act out a route to D4, recording each visited cell and every turn.",
+    "audio_prompt": "Make a 5 by 5 north-up floor or paper grid with columns A–E and rows 1–5 increasing upward. Start a toy robot at A2 facing east. Write and act out a route to D4, recording each visited cell and every turn.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "One route: forward 3 to D2, turn left to face north, forward 2 to D4; visited A2, B2, C2, D2, D3, D4.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 45,
+    "grading_mode": "adult-review",
+    "model_answer": "One route: forward 3 to D2, turn left to face north, forward 2 to D4; visited A2, B2, C2, D2, D3, D4.",
+    "acceptance_note": "Inspect actual enactment or clear record, legal movements, facing directions and finish D4. Accept other valid routes.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP02-P-046",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "debug_route",
+    "question": "On a north-up A–E,1–5 grid with rows increasing upward, start at B2. A program says north 2, east 2, south 1 and claims to finish D4. Draw and trace it, identify the actual finish and repair one instruction.",
+    "audio_prompt": "On a north-up A–E,1–5 grid with rows increasing upward, start at B2. A program says north 2, east 2, south 1 and claims to finish D4. Draw and trace it, identify the actual finish and repair one instruction.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "The actual finish is D3. Changing north 2 to north 3 reaches D4 after the final south 1.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 46,
+    "grading_mode": "adult-review",
+    "model_answer": "The actual finish is D3. Changing north 2 to north 3 reaches D4 after the final south 1.",
+    "acceptance_note": "Inspect traced B2-B4-D4-D3 route, correct finish and a valid repaired route staying inside the grid.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP02-P-047",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "compare_systems",
+    "question": "Draw a small map grid with row 1 at the bottom and a spreadsheet grid with row 1 at the top, both columns A–C. Mark B2 in each. Describe what one cell north on the map and one cell up in the spreadsheet do to the row number.",
+    "audio_prompt": "Draw a small map grid with row 1 at the bottom and a spreadsheet grid with row 1 at the top, both columns A–C. Mark B2 in each. Describe what one cell north on the map and one cell up in the spreadsheet do to the row number.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Map north increases row 2 to 3; spreadsheet up decreases row 2 to 1.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 47,
+    "grading_mode": "adult-review",
+    "model_answer": "Map north increases row 2 to 3; spreadsheet up decreases row 2 to 1.",
+    "acceptance_note": "Require two clearly labelled grids, both B2 cells correctly marked and explanation of different row directions.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4SP02-P-048",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4SP02",
+    "bank": "practice",
+    "skill": "route_obstacle",
+    "question": "Draw an A–E,1–5 north-up grid with rows increasing upward. Mark B3 blocked. Plan and trace two different routes from A3 to C3 that avoid B3. Describe both with compass directions.",
+    "audio_prompt": "Draw an A–E,1–5 north-up grid with rows increasing upward. Mark B3 blocked. Plan and trace two different routes from A3 to C3 that avoid B3. Describe both with compass directions.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "One route is north 1, east 2, south 1; another is south 1, east 2, north 1.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 48,
+    "grading_mode": "adult-review",
+    "model_answer": "One route is north 1, east 2, south 1; another is south 1, east 2, north 1.",
+    "acceptance_note": "Inspect two distinct valid paths, obstacle avoidance and matching ordered directions; accept longer correct paths.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4SP02-T-001",
@@ -877,33 +2061,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid_references",
-    "question": "At a coastal station, what does grid reference C4 mean?",
-    "audio_prompt": "At a coastal station, what does grid reference C4 mean?",
+    "skill": "grid_transfer",
+    "question": "A north-up map labels columns A–F left to right and rows 1–6 bottom to top. Which reference is column E, row 2?",
+    "audio_prompt": "A north-up map labels columns A–F left to right and rows 1–6 bottom to top. Which reference is column E, row 2?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-001",
-      "alt_text": "At a coastal station: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "row C, column 4",
+        "text": "B5",
         "is_correct": false
       },
       {
-        "text": "column C, row 4",
+        "text": "2E",
+        "is_correct": false
+      },
+      {
+        "text": "E5",
+        "is_correct": false
+      },
+      {
+        "text": "E2",
         "is_correct": true
-      },
-      {
-        "text": "4 steps in every direction",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "B5",
+      "2E",
+      "E5",
+      "E2"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
-    }
+      "summary": "A cell reference gives the column letter before the row number.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4SP02-T-002",
@@ -911,33 +2106,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions_and_pathways",
-    "question": "During a museum challenge, on a north-up grid, which direction is right?",
-    "audio_prompt": "During a museum challenge, on a north-up grid, which direction is right?",
+    "skill": "grid_transfer",
+    "question": "On that north-up A–F,1–6 grid, a walker goes from B4 two east and one south. Where do they finish?",
+    "audio_prompt": "On that north-up A–F,1–6 grid, a walker goes from B4 two east and one south. Where do they finish?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-002",
-      "alt_text": "During a museum challenge: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "west",
-        "is_correct": false
-      },
-      {
-        "text": "south",
-        "is_correct": false
-      },
-      {
-        "text": "east",
+        "text": "D3",
         "is_correct": true
+      },
+      {
+        "text": "D5",
+        "is_correct": false
+      },
+      {
+        "text": "C2",
+        "is_correct": false
+      },
+      {
+        "text": "A6",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "D3",
+      "D5",
+      "C2",
+      "A6"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
-    }
+      "summary": "Two east changes B to D; one south changes 4 to 3.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4SP02-T-003",
@@ -945,33 +2151,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid_references",
-    "question": "At a charity event, what does grid reference B3 mean?",
-    "audio_prompt": "At a charity event, what does grid reference B3 mean?",
+    "skill": "grid_transfer",
+    "question": "On a north-up grid with rows increasing upward, which direction takes C2 directly to C5?",
+    "audio_prompt": "On a north-up grid with rows increasing upward, which direction takes C2 directly to C5?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-003",
-      "alt_text": "At a charity event: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "column B, row 3",
+        "text": "south",
+        "is_correct": false
+      },
+      {
+        "text": "north",
         "is_correct": true
       },
       {
-        "text": "row B, column 3",
+        "text": "east",
         "is_correct": false
       },
       {
-        "text": "3 steps in every direction",
+        "text": "west",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "south",
+      "north",
+      "east",
+      "west"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
-    }
+      "summary": "The column stays C and the row increases by 3.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 3
   },
   {
     "id": "AC9M4SP02-T-004",
@@ -979,33 +2196,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions_and_pathways",
-    "question": "In an engineering workshop, on a north-up grid, which direction is right?",
-    "audio_prompt": "In an engineering workshop, on a north-up grid, which direction is right?",
+    "skill": "grid_transfer",
+    "question": "A spreadsheet uses letters across the top and numbers down its left. Which cell is directly below D8?",
+    "audio_prompt": "A spreadsheet uses letters across the top and numbers down its left. Which cell is directly below D8?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "west",
+        "text": "D7",
         "is_correct": false
       },
       {
-        "text": "east",
+        "text": "E8",
+        "is_correct": false
+      },
+      {
+        "text": "D9",
         "is_correct": true
       },
       {
-        "text": "south",
+        "text": "C8",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "D7",
+      "E8",
+      "D9",
+      "C8"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
-    }
+      "summary": "Below means the next larger row number in the same column.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 4
   },
   {
     "id": "AC9M4SP02-T-005",
@@ -1013,33 +2241,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid_references",
-    "question": "At a regional carnival, what does grid reference A2 mean?",
-    "audio_prompt": "At a regional carnival, what does grid reference A2 mean?",
+    "skill": "grid_transfer",
+    "question": "Observation names are in A2–A5. Their matching counts belong alongside in column C. Where should the count for the item in A4 go?",
+    "audio_prompt": "Observation names are in A2–A5. Their matching counts belong alongside in column C. Where should the count for the item in A4 go?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-005",
-      "alt_text": "At a regional carnival: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "row A, column 2",
+        "text": "C2",
         "is_correct": false
       },
       {
-        "text": "2 steps in every direction",
+        "text": "A4",
         "is_correct": false
       },
       {
-        "text": "column A, row 2",
+        "text": "D4",
+        "is_correct": false
+      },
+      {
+        "text": "C4",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "C2",
+      "A4",
+      "D4",
+      "C4"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
-    }
+      "summary": "The observation keeps row 4, and the count uses specified column C.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 5
   },
   {
     "id": "AC9M4SP02-T-006",
@@ -1047,33 +2286,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions_and_pathways",
-    "question": "During a farm study, on a north-up grid, which direction is right?",
-    "audio_prompt": "During a farm study, on a north-up grid, which direction is right?",
+    "skill": "grid_transfer",
+    "question": "On a north-up grid, a robot at C3 faces north, turns right, then moves two cells. Where does it finish?",
+    "audio_prompt": "On a north-up grid, a robot at C3 faces north, turns right, then moves two cells. Where does it finish?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-006",
-      "alt_text": "During a farm study: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "east",
+        "text": "E3",
         "is_correct": true
       },
       {
-        "text": "west",
+        "text": "C5",
         "is_correct": false
       },
       {
-        "text": "south",
+        "text": "A3",
+        "is_correct": false
+      },
+      {
+        "text": "E5",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "E3",
+      "C5",
+      "A3",
+      "E5"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
-    }
+      "summary": "Right from north faces east; two eastward moves change C to E while row 3 stays unchanged.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 6
   },
   {
     "id": "AC9M4SP02-T-007",
@@ -1081,33 +2331,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid_references",
-    "question": "While reading a trail guide, what does grid reference C4 mean?",
-    "audio_prompt": "While reading a trail guide, what does grid reference C4 mean?",
+    "skill": "grid_transfer",
+    "question": "A map north arrow points right. Which page direction is south?",
+    "audio_prompt": "A map north arrow points right. Which page direction is south?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "row C, column 4",
+        "text": "up",
         "is_correct": false
       },
       {
-        "text": "column C, row 4",
+        "text": "left",
         "is_correct": true
       },
       {
-        "text": "4 steps in every direction",
+        "text": "right",
+        "is_correct": false
+      },
+      {
+        "text": "down",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "up",
+      "left",
+      "right",
+      "down"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
-    }
+      "summary": "South is opposite north, so it points left on this rotated page.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 7
   },
   {
     "id": "AC9M4SP02-T-008",
@@ -1115,33 +2376,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions_and_pathways",
-    "question": "In an architecture studio, on a north-up grid, which direction is right?",
-    "audio_prompt": "In an architecture studio, on a north-up grid, which direction is right?",
+    "skill": "grid_transfer",
+    "question": "Why might a grid reference alone not identify one of two flowers?",
+    "audio_prompt": "Why might a grid reference alone not identify one of two flowers?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-008",
-      "alt_text": "In an architecture studio: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "west",
+        "text": "grids can never locate objects",
         "is_correct": false
       },
       {
-        "text": "south",
+        "text": "all rows are identical positions",
         "is_correct": false
       },
       {
-        "text": "east",
+        "text": "both flowers may lie within the same cell",
         "is_correct": true
+      },
+      {
+        "text": "letters always measure height",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "grids can never locate objects",
+      "all rows are identical positions",
+      "both flowers may lie within the same cell",
+      "letters always measure height"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
-    }
+      "summary": "A reference identifies a cell; additional within-cell detail may distinguish objects sharing it.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 8
   },
   {
     "id": "AC9M4SP02-T-009",
@@ -1149,33 +2421,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid_references",
-    "question": "During a food-truck project, what does grid reference B3 mean?",
-    "audio_prompt": "During a food-truck project, what does grid reference B3 mean?",
+    "skill": "grid_transfer",
+    "question": "A4 by 4 picture grid has 1 cm cells. It is copied to a 4 by 4 grid with 3 cm cells. What is the new overall width?",
+    "audio_prompt": "A4 by 4 picture grid has 1 cm cells. It is copied to a 4 by 4 grid with 3 cm cells. What is the new overall width?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-009",
-      "alt_text": "During a food-truck project: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "column B, row 3",
+        "text": "4 cm",
+        "is_correct": false
+      },
+      {
+        "text": "7 cm",
+        "is_correct": false
+      },
+      {
+        "text": "16 cm",
+        "is_correct": false
+      },
+      {
+        "text": "12 cm",
         "is_correct": true
-      },
-      {
-        "text": "row B, column 3",
-        "is_correct": false
-      },
-      {
-        "text": "3 steps in every direction",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "4 cm",
+      "7 cm",
+      "16 cm",
+      "12 cm"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
-    }
+      "summary": "Four columns each 3 cm wide make 12 cm; the cell count is unchanged.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M4SP02-T-010",
@@ -1183,33 +2466,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions_and_pathways",
-    "question": "At a festival, on a north-up grid, which direction is right?",
-    "audio_prompt": "At a festival, on a north-up grid, which direction is right?",
+    "skill": "grid_transfer",
+    "question": "In grid enlargement, a curve enters halfway down the left edge of cell B2. Where should it enter in the enlarged drawing?",
+    "audio_prompt": "In grid enlargement, a curve enters halfway down the left edge of cell B2. Where should it enter in the enlarged drawing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-010",
-      "alt_text": "At a festival: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "west",
-        "is_correct": false
-      },
-      {
-        "text": "east",
+        "text": "halfway down the left edge of the new B2",
         "is_correct": true
       },
       {
-        "text": "south",
+        "text": "at the top of new B2",
+        "is_correct": false
+      },
+      {
+        "text": "halfway down the right edge of new B2",
+        "is_correct": false
+      },
+      {
+        "text": "halfway down cell C2",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "halfway down the left edge of the new B2",
+      "at the top of new B2",
+      "halfway down the right edge of new B2",
+      "halfway down cell C2"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
-    }
+      "summary": "Preserve both the corresponding cell and the relative position on its edge.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M4SP02-T-011",
@@ -1217,33 +2511,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid_references",
-    "question": "While organising a collection, what does grid reference A2 mean?",
-    "audio_prompt": "While organising a collection, what does grid reference A2 mean?",
+    "skill": "grid_transfer",
+    "question": "A robot turns left at A2 without moving. Which statement is true?",
+    "audio_prompt": "A robot turns left at A2 without moving. Which statement is true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-011",
-      "alt_text": "While organising a collection: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "row A, column 2",
+        "text": "Its cell must become B2.",
         "is_correct": false
       },
       {
-        "text": "2 steps in every direction",
-        "is_correct": false
-      },
-      {
-        "text": "column A, row 2",
+        "text": "Its cell stays A2 but its facing direction changes.",
         "is_correct": true
+      },
+      {
+        "text": "Its row must increase to 3.",
+        "is_correct": false
+      },
+      {
+        "text": "Its facing direction stays fixed.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Its cell must become B2.",
+      "Its cell stays A2 but its facing direction changes.",
+      "Its row must increase to 3.",
+      "Its facing direction stays fixed."
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
-    }
+      "summary": "Rotation changes orientation rather than location.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M4SP02-T-012",
@@ -1251,33 +2556,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions_and_pathways",
-    "question": "In an environmental study, on a north-up grid, which direction is right?",
-    "audio_prompt": "In an environmental study, on a north-up grid, which direction is right?",
+    "skill": "grid_transfer",
+    "question": "A route from A1 to C3 on a north-up grid says east 2, north 1. What is missing?",
+    "audio_prompt": "A route from A1 to C3 on a north-up grid says east 2, north 1. What is missing?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-012",
-      "alt_text": "In an environmental study: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "east",
+        "text": "one more move east",
+        "is_correct": false
+      },
+      {
+        "text": "one move south",
+        "is_correct": false
+      },
+      {
+        "text": "one more move north",
         "is_correct": true
       },
       {
-        "text": "west",
-        "is_correct": false
-      },
-      {
-        "text": "south",
+        "text": "two moves west",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "one more move east",
+      "one move south",
+      "one more move north",
+      "two moves west"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
-    }
+      "summary": "The instructions reach C2, so one northward move reaches C3.",
+      "hint": "Use the stated shapes, positions or transformation to check each choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M4SP02-T-013",
@@ -1285,33 +2601,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid_references",
-    "question": "During a transport survey, what does grid reference C4 mean?",
-    "audio_prompt": "During a transport survey, what does grid reference C4 mean?",
+    "skill": "map_create",
+    "question": "Make an A–D,1–4 map of a small festival, with north up and rows increasing upward. Place an entrance at A1, food at C2 and a stage at D4. Draw and write a route from entrance via food to stage.",
+    "audio_prompt": "Make an A–D,1–4 map of a small festival, with north up and rows increasing upward. Place an entrance at A1, food at C2 and a stage at D4. Draw and write a route from entrance via food to stage.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-013",
-      "alt_text": "During a transport survey: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "row C, column 4",
-        "is_correct": false
-      },
-      {
-        "text": "column C, row 4",
-        "is_correct": true
-      },
-      {
-        "text": "4 steps in every direction",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
-    }
+      "summary": "Example: A1 east 2 to C1, north 1 to C2; east 1 to D2, north 2 to D4.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 13,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: A1 east 2 to C1, north 1 to C2; east 1 to D2, north 2 to D4.",
+    "acceptance_note": "Inspect labelled map, all three correct references, route visiting food and finish, and complete matching directions.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4SP02-T-014",
@@ -1319,33 +2628,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions_and_pathways",
-    "question": "At a strategy tournament, on a north-up grid, which direction is right?",
-    "audio_prompt": "At a strategy tournament, on a north-up grid, which direction is right?",
+    "skill": "spreadsheet_record",
+    "question": "Observe four turns of a coin landing heads or tails. In a spreadsheet use A1=Turn and B1=Result, then enter turn numbers 1–4 in A2–A5 and outcomes in B2–B5. Identify the cell holding the third result.",
+    "audio_prompt": "Observe four turns of a coin landing heads or tails. In a spreadsheet use A1=Turn and B1=Result, then enter turn numbers 1–4 in A2–A5 and outcomes in B2–B5. Identify the cell holding the third result.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "west",
-        "is_correct": false
-      },
-      {
-        "text": "south",
-        "is_correct": false
-      },
-      {
-        "text": "east",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
-    }
+      "summary": "The third result belongs in B4 because row 1 contains headings. Outcomes vary.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 14,
+    "grading_mode": "adult-review",
+    "model_answer": "The third result belongs in B4 because row 1 contains headings. Outcomes vary.",
+    "acceptance_note": "Inspect actual observation record/spreadsheet with eight correctly placed data cells, headings and B4 identified. A paper draft alone does not demonstrate cell entry.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4SP02-T-015",
@@ -1353,33 +2655,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "grid_references",
-    "question": "While planning a community garden, what does grid reference B3 mean?",
-    "audio_prompt": "While planning a community garden, what does grid reference B3 mean?",
+    "skill": "enlarge_create",
+    "question": "Make a grid with two rows and four columns of 1 cm squares and draw an original arrow across it. Copy into a grid with two rows and four columns of 2 cm squares. Mark corresponding corners and explain one check for distortion.",
+    "audio_prompt": "Make a grid with two rows and four columns of 1 cm squares and draw an original arrow across it. Copy into a grid with two rows and four columns of 2 cm squares. Mark corresponding corners and explain one check for distortion.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-015",
-      "alt_text": "While planning a community garden: a Year 4 grid references reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "column B, row 3",
-        "is_correct": true
-      },
-      {
-        "text": "row B, column 3",
-        "is_correct": false
-      },
-      {
-        "text": "3 steps in every direction",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Letter-number references use the declared column-then-row convention.",
-      "hint": "Read the letter first, then the number."
-    }
+      "summary": "The new grid is 8 cm wide and 4 cm high; corresponding parts stay in the same cells.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 15,
+    "grading_mode": "adult-review",
+    "model_answer": "The new grid is 8 cm wide and 4 cm high; corresponding parts stay in the same cells.",
+    "acceptance_note": "Inspect original and enlarged drawings, correct cell dimensions, corresponding points and a check that both dimensions enlarge equally.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4SP02-T-016",
@@ -1387,32 +2682,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4SP02",
     "bank": "test",
-    "skill": "directions_and_pathways",
-    "question": "In a design exhibition, on a north-up grid, which direction is right?",
-    "audio_prompt": "In a design exhibition, on a north-up grid, which direction is right?",
+    "skill": "robot_debug",
+    "question": "On an A–E,1–5 north-up grid with rows increasing upward, start at E2 facing north. Act out forward 2, turn left, forward 3. Record the visited cells and finish. Then write a reverse route to E2.",
+    "audio_prompt": "On an A–E,1–5 north-up grid with rows increasing upward, start at E2 facing north. Act out forward 2, turn left, forward 3. Record the visited cells and finish. Then write a reverse route to E2.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4sp02.svg#ac9m4sp02-t-016",
-      "alt_text": "In a design exhibition: a Year 4 directions and pathways reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "west",
-        "is_correct": false
-      },
-      {
-        "text": "east",
-        "is_correct": true
-      },
-      {
-        "text": "south",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "East is right on a north-up grid.",
-      "hint": "Keep the map orientation fixed."
-    }
+      "summary": "Visited E2, E3, E4, D4, C4, B4; finish B4 facing west. A return is turn around, forward 3 to E4, turn right, forward 2 to E2.",
+      "hint": "Make and label the requested work, then check it against the task."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 16,
+    "grading_mode": "adult-review",
+    "model_answer": "Visited E2, E3, E4, D4, C4, B4; finish B4 facing west. A return is turn around, forward 3 to E4, turn right, forward 2 to E2.",
+    "acceptance_note": "Inspect enactment or recorded simulation, correct ordered cells and legal reverse route. Accept compass directions if the turning/facing record is also clear.",
+    "response_instructions": "Complete the drawing, writing or practical task on paper or with the stated materials. Ask an adult to inspect your actual work against the model answer and checks.",
+    "completion_label": "My work is ready for an adult to check."
   }
 ]

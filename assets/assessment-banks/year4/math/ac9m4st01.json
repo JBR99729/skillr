@@ -5,36 +5,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "collect_data",
-    "question": "In a class project, which question collects categorical data?",
-    "audio_prompt": "In a class project, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "Which variable is categorical?",
+    "audio_prompt": "Which variable is categorical?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-001",
-      "alt_text": "In a class project: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "Which playground game do you prefer?",
-        "is_correct": true
-      },
-      {
-        "text": "How tall are you?",
-        "is_correct": false
-      },
-      {
-        "text": "How many minutes did you read?",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 1,
+    "answers": [
+      {
+        "text": "Number of siblings",
+        "is_correct": false
+      },
+      {
+        "text": "Favourite playground game",
+        "is_correct": true
+      },
+      {
+        "text": "Number of library books borrowed",
+        "is_correct": false
+      },
+      {
+        "text": "Number of goals scored",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Number of siblings",
+      "Favourite playground game",
+      "Number of library books borrowed",
+      "Number of goals scored"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Game names are categories; the other variables are counts.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-002",
@@ -42,36 +50,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "fair_data_collection",
-    "question": "At the school market, which method gives a fair class survey?",
-    "audio_prompt": "At the school market, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "Which variable is discrete numerical data?",
+    "audio_prompt": "Which variable is discrete numerical data?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-002",
-      "alt_text": "At the school market: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "Ask only two friends",
-        "is_correct": false
-      },
-      {
-        "text": "Ask every student the same clear question",
-        "is_correct": true
-      },
-      {
-        "text": "Change the options halfway through",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2,
+    "answers": [
+      {
+        "text": "Flower colour",
+        "is_correct": false
+      },
+      {
+        "text": "Preferred sport",
+        "is_correct": false
+      },
+      {
+        "text": "Number of seeds that sprouted",
+        "is_correct": true
+      },
+      {
+        "text": "Type of transport",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Flower colour",
+      "Preferred sport",
+      "Number of seeds that sprouted",
+      "Type of transport"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Sprouted seeds are counted in whole numbers.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-003",
@@ -79,36 +95,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "interpret_tallies",
-    "question": "While planning a garden, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "While planning a garden, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "interpret_data",
+    "question": "To answer “How many books did each student borrow today?”, what should be recorded?",
+    "audio_prompt": "To answer “How many books did each student borrow today?”, what should be recorded?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-003",
-      "alt_text": "While planning a garden: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "walk",
-        "is_correct": false
-      },
-      {
-        "text": "bike",
-        "is_correct": false
-      },
-      {
-        "text": "bus",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3,
+    "answers": [
+      {
+        "text": "Only the most popular title",
+        "is_correct": false
+      },
+      {
+        "text": "Each student’s favourite colour",
+        "is_correct": false
+      },
+      {
+        "text": "The total without individual counts",
+        "is_correct": false
+      },
+      {
+        "text": "A whole-number count for each student",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Only the most popular title",
+      "Each student’s favourite colour",
+      "The total without individual counts",
+      "A whole-number count for each student"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Individual whole-number counts answer the question about each student.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-004",
@@ -116,36 +140,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "collect_data",
-    "question": "During a sports challenge, which question collects categorical data?",
-    "audio_prompt": "During a sports challenge, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "A poll asks each of 20 students to choose one activity. Frequencies total 23. What should you do?",
+    "audio_prompt": "A poll asks each of 20 students to choose one activity. Frequencies total 23. What should you do?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-004",
-      "alt_text": "During a sports challenge: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "Which playground game do you prefer?",
-        "is_correct": true
-      },
-      {
-        "text": "How tall are you?",
-        "is_correct": false
-      },
-      {
-        "text": "How many minutes did you read?",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4,
+    "answers": [
+      {
+        "text": "Check the raw responses for duplicate or multiple choices",
+        "is_correct": true
+      },
+      {
+        "text": "Delete three random responses",
+        "is_correct": false
+      },
+      {
+        "text": "Change 23 to 20 without checking",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the total",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Check the raw responses for duplicate or multiple choices",
+      "Delete three random responses",
+      "Change 23 to 20 without checking",
+      "Ignore the total"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A one-choice poll should total 20; investigate the mismatch before graphing.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-005",
@@ -153,36 +185,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "fair_data_collection",
-    "question": "At the wildlife centre, which method gives a fair class survey?",
-    "audio_prompt": "At the wildlife centre, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "The raw list is walk, bus, walk, bike, bus, walk. What is the walk frequency?",
+    "audio_prompt": "The raw list is walk, bus, walk, bike, bus, walk. What is the walk frequency?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-005",
-      "alt_text": "At the wildlife centre: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "Ask only two friends",
-        "is_correct": false
-      },
-      {
-        "text": "Ask every student the same clear question",
-        "is_correct": true
-      },
-      {
-        "text": "Change the options halfway through",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 5,
+    "answers": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Walk appears three times.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-006",
@@ -190,36 +230,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "interpret_tallies",
-    "question": "In the makerspace, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "In the makerspace, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "interpret_data",
+    "question": "Six students report pet counts 0, 1, 1, 2, 0, 1. How many students have one pet?",
+    "audio_prompt": "Six students report pet counts 0, 1, 1, 2, 0, 1. How many students have one pet?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-006",
-      "alt_text": "In the makerspace: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "walk",
-        "is_correct": false
-      },
-      {
-        "text": "bike",
-        "is_correct": false
-      },
-      {
-        "text": "bus",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 6,
+    "answers": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "1",
+      "2",
+      "3",
+      "6"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Count the three entries equal to 1, not the total number of pets.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-007",
@@ -227,36 +275,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "collect_data",
-    "question": "While checking a map, which question collects categorical data?",
-    "audio_prompt": "While checking a map, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "A spreadsheet lists Bus, bus and BUS for the same travel category. What is appropriate?",
+    "audio_prompt": "A spreadsheet lists Bus, bus and BUS for the same travel category. What is appropriate?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-007",
-      "alt_text": "While checking a map: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "Which playground game do you prefer?",
-        "is_correct": true
-      },
-      {
-        "text": "How tall are you?",
-        "is_correct": false
-      },
-      {
-        "text": "How many minutes did you read?",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 7,
+    "answers": [
+      {
+        "text": "Count them as three transport types",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all bus responses",
+        "is_correct": false
+      },
+      {
+        "text": "Change them all to walk",
+        "is_correct": false
+      },
+      {
+        "text": "Combine them after checking they mean the same thing",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "Count them as three transport types",
+      "Remove all bus responses",
+      "Change them all to walk",
+      "Combine them after checking they mean the same thing"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Consistent category labels prevent one category being split.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-008",
@@ -264,36 +320,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "fair_data_collection",
-    "question": "During a cooking task, which method gives a fair class survey?",
-    "audio_prompt": "During a cooking task, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "A digital chart shows 9 blue votes, but the checked table has 6. Which is correct?",
+    "audio_prompt": "A digital chart shows 9 blue votes, but the checked table has 6. Which is correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-008",
-      "alt_text": "During a cooking task: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
-    },
-    "answers": [
-      {
-        "text": "Ask only two friends",
-        "is_correct": false
-      },
-      {
-        "text": "Ask every student the same clear question",
-        "is_correct": true
-      },
-      {
-        "text": "Change the options halfway through",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
+      "type": "none"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 8,
+    "answers": [
+      {
+        "text": "Repair the chart to match the checked data",
+        "is_correct": true
+      },
+      {
+        "text": "Change the table to 9",
+        "is_correct": false
+      },
+      {
+        "text": "Use 9 because computers are always right",
+        "is_correct": false
+      },
+      {
+        "text": "Average the two numbers",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Repair the chart to match the checked data",
+      "Change the table to 9",
+      "Use 9 because computers are always right",
+      "Average the two numbers"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A display must preserve the verified source counts.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-009",
@@ -301,35 +365,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "interpret_tallies",
-    "question": "At the community fair, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "At the community fair, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "interpret_data",
+    "question": "A word cloud makes “football” largest. What should you check before stating an exact count?",
+    "audio_prompt": "A word cloud makes “football” largest. What should you check before stating an exact count?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-009",
-      "alt_text": "At the community fair: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9,
     "answers": [
       {
-        "text": "walk",
+        "text": "Only the colour of the word",
         "is_correct": false
       },
       {
-        "text": "bike",
-        "is_correct": false
-      },
-      {
-        "text": "bus",
+        "text": "The frequency table and the cloud settings",
         "is_correct": true
+      },
+      {
+        "text": "The length of the word",
+        "is_correct": false
+      },
+      {
+        "text": "The order of the alphabet",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Only the colour of the word",
+      "The frequency table and the cloud settings",
+      "The length of the word",
+      "The order of the alphabet"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Size may indicate frequency, but an exact count requires the table or a numerical key.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-010",
@@ -337,35 +410,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "collect_data",
-    "question": "In a library display, which question collects categorical data?",
-    "audio_prompt": "In a library display, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "An AI-assisted poll tool suggests “Everyone loves football, right?” What should the class do?",
+    "audio_prompt": "An AI-assisted poll tool suggests “Everyone loves football, right?” What should the class do?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-010",
-      "alt_text": "In a library display: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 10,
     "answers": [
       {
-        "text": "Which playground game do you prefer?",
+        "text": "Keep it because AI suggested it",
+        "is_correct": false
+      },
+      {
+        "text": "Remove every other sport",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with a neutral choice question",
         "is_correct": true
       },
       {
-        "text": "How tall are you?",
-        "is_correct": false
-      },
-      {
-        "text": "How many minutes did you read?",
+        "text": "Record yes for absent students",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "Keep it because AI suggested it",
+      "Remove every other sport",
+      "Replace it with a neutral choice question",
+      "Record yes for absent students"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The wording should allow different genuine preferences.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-011",
@@ -373,35 +455,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "fair_data_collection",
-    "question": "During a science activity, which method gives a fair class survey?",
-    "audio_prompt": "During a science activity, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "Why compare an AI-generated graph with the original poll responses?",
+    "audio_prompt": "Why compare an AI-generated graph with the original poll responses?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-011",
-      "alt_text": "During a science activity: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 11,
     "answers": [
       {
-        "text": "Ask only two friends",
+        "text": "To make all columns equal",
         "is_correct": false
       },
       {
-        "text": "Ask every student the same clear question",
+        "text": "To guarantee the most popular choice wins forever",
+        "is_correct": false
+      },
+      {
+        "text": "To remove uncommon answers",
+        "is_correct": false
+      },
+      {
+        "text": "To check categories and counts were represented accurately",
         "is_correct": true
-      },
-      {
-        "text": "Change the options halfway through",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "To make all columns equal",
+      "To guarantee the most popular choice wins forever",
+      "To remove uncommon answers",
+      "To check categories and counts were represented accurately"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Automated displays still need checks against the data.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-012",
@@ -409,35 +500,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "interpret_tallies",
-    "question": "At the school canteen, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "At the school canteen, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "interpret_data",
+    "question": "In a science test, 4 bean seeds and 7 pea seeds sprout. Which statement reports only these observations?",
+    "audio_prompt": "In a science test, 4 bean seeds and 7 pea seeds sprout. Which statement reports only these observations?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-012",
-      "alt_text": "At the school canteen: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 12,
     "answers": [
       {
-        "text": "walk",
-        "is_correct": false
-      },
-      {
-        "text": "bike",
-        "is_correct": false
-      },
-      {
-        "text": "bus",
+        "text": "Three more pea seeds sprouted in this test",
         "is_correct": true
+      },
+      {
+        "text": "Peas always sprout better everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "All beans failed",
+        "is_correct": false
+      },
+      {
+        "text": "Seven more peas sprouted",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Three more pea seeds sprouted in this test",
+      "Peas always sprout better everywhere",
+      "All beans failed",
+      "Seven more peas sprouted"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "7 − 4 = 3; the statement stays within the observed test.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-013",
@@ -445,35 +545,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "collect_data",
-    "question": "While organising an excursion, which question collects categorical data?",
-    "audio_prompt": "While organising an excursion, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "A spinner is spun 12 times: red 5, blue 4, yellow 3. Which total checks the recording?",
+    "audio_prompt": "A spinner is spun 12 times: red 5, blue 4, yellow 3. Which total checks the recording?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-013",
-      "alt_text": "While organising an excursion: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 13,
     "answers": [
       {
-        "text": "Which playground game do you prefer?",
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "12",
         "is_correct": true
       },
       {
-        "text": "How tall are you?",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "How many minutes did you read?",
+        "text": "15",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "9",
+      "12",
+      "10",
+      "15"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "5 + 4 + 3 = 12, matching the number of spins.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-014",
@@ -481,35 +590,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "fair_data_collection",
-    "question": "In a games club, which method gives a fair class survey?",
-    "audio_prompt": "In a games club, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "A class observes birds for ten minutes on Monday and an hour on Tuesday. Why is a simple count comparison limited?",
+    "audio_prompt": "A class observes birds for ten minutes on Monday and an hour on Tuesday. Why is a simple count comparison limited?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-014",
-      "alt_text": "In a games club: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 14,
     "answers": [
       {
-        "text": "Ask only two friends",
+        "text": "Bird counts are never useful",
         "is_correct": false
       },
       {
-        "text": "Ask every student the same clear question",
+        "text": "A column graph cannot show counts",
+        "is_correct": false
+      },
+      {
+        "text": "The observation times differ",
         "is_correct": true
       },
       {
-        "text": "Change the options halfway through",
+        "text": "Tuesday must have more species",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Bird counts are never useful",
+      "A column graph cannot show counts",
+      "The observation times differ",
+      "Tuesday must have more species"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Unequal observation durations can affect counts.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-015",
@@ -517,35 +635,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "interpret_tallies",
-    "question": "During an art project, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "During an art project, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "interpret_data",
+    "question": "A class graphs last year’s burn-event counts from an official agency’s published table. Which source note accurately tells readers where the data came from?",
+    "audio_prompt": "A class graphs last year’s burn-event counts from an official agency’s published table. Which source note accurately tells readers where the data came from?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-015",
-      "alt_text": "During an art project: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 15,
     "answers": [
       {
-        "text": "walk",
+        "text": "New burn observations measured by our class today",
         "is_correct": false
       },
       {
-        "text": "bike",
+        "text": "Invented counts, because we did not collect them ourselves",
         "is_correct": false
       },
       {
-        "text": "bus",
+        "text": "A count of hectares, even though the table counts burn events",
+        "is_correct": false
+      },
+      {
+        "text": "Secondary records collected by the agency; give its name, place and year",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "New burn observations measured by our class today",
+      "Invented counts, because we did not collect them ourselves",
+      "A count of hectares, even though the table counts burn events",
+      "Secondary records collected by the agency; give its name, place and year"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The agency collected these records earlier, so the class is using secondary data. Cite the agency and the table’s place and year, and preserve burn events as the quantity counted.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-016",
@@ -553,35 +680,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "collect_data",
-    "question": "At the recycling station, which question collects categorical data?",
-    "audio_prompt": "At the recycling station, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "A fire-burn dataset gives hectares. What must the graph’s vertical-axis label show?",
+    "audio_prompt": "A fire-burn dataset gives hectares. What must the graph’s vertical-axis label show?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-016",
-      "alt_text": "At the recycling station: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 16,
     "answers": [
       {
-        "text": "Which playground game do you prefer?",
+        "text": "Area burned (hectares)",
         "is_correct": true
       },
       {
-        "text": "How tall are you?",
+        "text": "Number of rangers",
         "is_correct": false
       },
       {
-        "text": "How many minutes did you read?",
+        "text": "Number of fires",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "Area burned (hectares)",
+      "Number of rangers",
+      "Number of fires",
+      "Temperature"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Area and event counts are different quantities; retain the original unit.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-017",
@@ -589,35 +725,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "fair_data_collection",
-    "question": "While planning a survey, which method gives a fair class survey?",
-    "audio_prompt": "While planning a survey, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "A practice table has three burns in Area A and five in Area B. Can it tell which fire-management plan is best?",
+    "audio_prompt": "A practice table has three burns in Area A and five in Area B. Can it tell which fire-management plan is best?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-017",
-      "alt_text": "While planning a survey: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 17,
     "answers": [
       {
-        "text": "Ask only two friends",
+        "text": "Yes; fewer burns is always best",
         "is_correct": false
       },
       {
-        "text": "Ask every student the same clear question",
+        "text": "No; counts alone do not show timing, area or ecological effects",
         "is_correct": true
       },
       {
-        "text": "Change the options halfway through",
+        "text": "Yes; more burns is always best",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; the names of the areas decide",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "Yes; fewer burns is always best",
+      "No; counts alone do not show timing, area or ecological effects",
+      "Yes; more burns is always best",
+      "Yes; the names of the areas decide"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Use further evidence and Ranger expertise; a count display is not a fire-management recommendation.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-018",
@@ -625,35 +770,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "interpret_tallies",
-    "question": "In a coding lesson, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "In a coding lesson, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "interpret_data",
+    "question": "A poll records 10 responses and 2 blanks. What should its report say?",
+    "audio_prompt": "A poll records 10 responses and 2 blanks. What should its report say?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-018",
-      "alt_text": "In a coding lesson: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 18,
     "answers": [
       {
-        "text": "walk",
+        "text": "12 votes for the largest category",
         "is_correct": false
       },
       {
-        "text": "bike",
+        "text": "The blanks mean no preference unless checked",
         "is_correct": false
       },
       {
-        "text": "bus",
+        "text": "10 recorded responses and 2 missing responses",
         "is_correct": true
+      },
+      {
+        "text": "There were no missing responses",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "12 votes for the largest category",
+      "The blanks mean no preference unless checked",
+      "10 recorded responses and 2 missing responses",
+      "There were no missing responses"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Missing entries are not automatically a particular response.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-019",
@@ -661,35 +815,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "collect_data",
-    "question": "During a building task, which question collects categorical data?",
-    "audio_prompt": "During a building task, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "Read the class fruit poll display. How many responses or observations are in Pear?",
+    "audio_prompt": "Read the class fruit poll display. How many responses or observations are in Pear?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-019",
-      "alt_text": "During a building task: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-0",
+      "alt_text": "Class fruit poll. Apple: 8, Pear: 4, Plum: 6, Banana: 10. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 19,
     "answers": [
       {
-        "text": "Which playground game do you prefer?",
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "4",
         "is_correct": true
-      },
-      {
-        "text": "How tall are you?",
-        "is_correct": false
-      },
-      {
-        "text": "How many minutes did you read?",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "6",
+      "2",
+      "8",
+      "4"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The display places Pear at 4. Read the scale or multiply symbols by the key.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-020",
@@ -697,35 +862,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "fair_data_collection",
-    "question": "At the local pool, which method gives a fair class survey?",
-    "audio_prompt": "At the local pool, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "In the class fruit poll display, which category has the greatest count?",
+    "audio_prompt": "In the class fruit poll display, which category has the greatest count?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-020",
-      "alt_text": "At the local pool: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-0",
+      "alt_text": "Class fruit poll. Apple: 8, Pear: 4, Plum: 6, Banana: 10. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 20,
     "answers": [
       {
-        "text": "Ask only two friends",
-        "is_correct": false
-      },
-      {
-        "text": "Ask every student the same clear question",
+        "text": "Banana",
         "is_correct": true
       },
       {
-        "text": "Change the options halfway through",
+        "text": "Apple",
+        "is_correct": false
+      },
+      {
+        "text": "Pear",
+        "is_correct": false
+      },
+      {
+        "text": "Plum",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Banana",
+      "Apple",
+      "Pear",
+      "Plum"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Banana has 10, the largest count.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-021",
@@ -733,35 +909,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "interpret_tallies",
-    "question": "While preparing a camp, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "While preparing a camp, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "interpret_data",
+    "question": "What is the total count in the class fruit poll display?",
+    "audio_prompt": "What is the total count in the class fruit poll display?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-021",
-      "alt_text": "While preparing a camp: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-0",
+      "alt_text": "Class fruit poll. Apple: 8, Pear: 4, Plum: 6, Banana: 10. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 21,
     "answers": [
       {
-        "text": "walk",
+        "text": "24",
         "is_correct": false
       },
       {
-        "text": "bike",
-        "is_correct": false
-      },
-      {
-        "text": "bus",
+        "text": "28",
         "is_correct": true
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "24",
+      "28",
+      "30",
+      "36"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "Add all four counts: 8 + 4 + 6 + 10 = 28.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-022",
@@ -769,35 +956,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "collect_data",
-    "question": "In a music project, which question collects categorical data?",
-    "audio_prompt": "In a music project, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "In the class fruit poll display, how much greater is the largest count than the smallest?",
+    "audio_prompt": "In the class fruit poll display, how much greater is the largest count than the smallest?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-022",
-      "alt_text": "In a music project: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-0",
+      "alt_text": "Class fruit poll. Apple: 8, Pear: 4, Plum: 6, Banana: 10. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 22,
     "answers": [
       {
-        "text": "Which playground game do you prefer?",
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "6",
         "is_correct": true
       },
       {
-        "text": "How tall are you?",
-        "is_correct": false
-      },
-      {
-        "text": "How many minutes did you read?",
+        "text": "10",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "14",
+      "8",
+      "6",
+      "10"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "The difference is 10 − 4 = 6.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-023",
@@ -805,35 +1003,46 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "fair_data_collection",
-    "question": "At a playground redesign, which method gives a fair class survey?",
-    "audio_prompt": "At a playground redesign, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "For the class fruit poll data, a new pictograph uses one symbol for 2. How many full symbols show Apple?",
+    "audio_prompt": "For the class fruit poll data, a new pictograph uses one symbol for 2. How many full symbols show Apple?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-023",
-      "alt_text": "At a playground redesign: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-0",
+      "alt_text": "Class fruit poll. Apple: 8, Pear: 4, Plum: 6, Banana: 10. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 23,
     "answers": [
       {
-        "text": "Ask only two friends",
+        "text": "8",
         "is_correct": false
       },
       {
-        "text": "Ask every student the same clear question",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
         "is_correct": true
-      },
-      {
-        "text": "Change the options halfway through",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "8",
+      "16",
+      "5",
+      "4"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
+      "summary": "8 ÷ 2 = 4 full symbols; the key determines their value.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
   },
   {
     "id": "AC9M4ST01-P-024",
@@ -841,35 +1050,1042 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "practice",
-    "skill": "interpret_tallies",
-    "question": "During a book drive, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "During a book drive, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "interpret_data",
+    "question": "Which statement about the class fruit poll display is supported?",
+    "audio_prompt": "Which statement about the class fruit poll display is supported?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-p-024",
-      "alt_text": "During a book drive: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-0",
+      "alt_text": "Class fruit poll. Apple: 8, Pear: 4, Plum: 6, Banana: 10. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 24,
     "answers": [
       {
-        "text": "walk",
-        "is_correct": false
-      },
-      {
-        "text": "bike",
-        "is_correct": false
-      },
-      {
-        "text": "bus",
+        "text": "Apple and Pear together have 12",
         "is_correct": true
+      },
+      {
+        "text": "The data explains why every choice was made",
+        "is_correct": false
+      },
+      {
+        "text": "The same results must occur next time",
+        "is_correct": false
+      },
+      {
+        "text": "The results describe every class in Australia",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "Apple and Pear together have 12",
+      "The data explains why every choice was made",
+      "The same results must occur next time",
+      "The results describe every class in Australia"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "8 + 4 = 12. The other claims go beyond the recorded information.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-025",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "construct_science_display",
+    "question": "A science table records TrayA 4, B8, C10, D6 sprouted seeds. Which zero-based scale represents all values clearly?",
+    "audio_prompt": "A science table records TrayA 4, B8, C10, D6 sprouted seeds. Which zero-based scale represents all values clearly?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 25,
+    "answers": [
+      {
+        "text": "0,1,2,3,4 only",
+        "is_correct": false
+      },
+      {
+        "text": "0,2,4,6,8,10",
+        "is_correct": true
+      },
+      {
+        "text": "0,2,4,8,10 at equal spaces",
+        "is_correct": false
+      },
+      {
+        "text": "A scale with no numbers",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "0,1,2,3,4 only",
+      "0,2,4,6,8,10",
+      "0,2,4,8,10 at equal spaces",
+      "A scale with no numbers"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Equal steps of 2 reach the maximum 10.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-026",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "construct_science_display",
+    "question": "For sprouted-seed counts 4,8,10,6, a pictograph uses one symbol for 4. How many symbols show 10?",
+    "audio_prompt": "For sprouted-seed counts 4,8,10,6, a pictograph uses one symbol for 4. How many symbols show 10?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 26,
+    "answers": [
+      {
+        "text": "Two",
+        "is_correct": false
+      },
+      {
+        "text": "Four",
+        "is_correct": false
+      },
+      {
+        "text": "Two and a half",
+        "is_correct": true
+      },
+      {
+        "text": "Ten",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Two",
+      "Four",
+      "Two and a half",
+      "Ten"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
+      "summary": "Two full symbols represent 8; half represents 2.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-027",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "construct_science_display",
+    "question": "An additional tray has zero sprouted seeds at the observation time. What should the graph include?",
+    "audio_prompt": "An additional tray has zero sprouted seeds at the observation time. What should the graph include?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 27,
+    "answers": [
+      {
+        "text": "One invented seed",
+        "is_correct": false
+      },
+      {
+        "text": "No mention that it was observed",
+        "is_correct": false
+      },
+      {
+        "text": "A count copied from another tray",
+        "is_correct": false
+      },
+      {
+        "text": "Its tray label with a count of 0",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "One invented seed",
+      "No mention that it was observed",
+      "A count copied from another tray",
+      "Its tray label with a count of 0"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Zero is a real observed value and the label shows the tray was included.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-028",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "construct_science_display",
+    "question": "A digital seed graph shows TrayB 10, but the checked observation record says 8. What is required?",
+    "audio_prompt": "A digital seed graph shows TrayB 10, but the checked observation record says 8. What is required?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 28,
+    "answers": [
+      {
+        "text": "Change the graph’s TrayB count to 8",
+        "is_correct": true
+      },
+      {
+        "text": "Change the record to 10",
+        "is_correct": false
+      },
+      {
+        "text": "Add 2 seeds to every tray",
+        "is_correct": false
+      },
+      {
+        "text": "Keep both counts",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Change the graph’s TrayB count to 8",
+      "Change the record to 10",
+      "Add 2 seeds to every tray",
+      "Keep both counts"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The display must match the checked observations.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-029",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "construct_science_display",
+    "question": "A raw science list is sprouted, not sprouted, sprouted, sprouted, not sprouted, sprouted. Which frequencies are correct?",
+    "audio_prompt": "A raw science list is sprouted, not sprouted, sprouted, sprouted, not sprouted, sprouted. Which frequencies are correct?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 29,
+    "answers": [
+      {
+        "text": "Sprouted 3; not sprouted 3",
+        "is_correct": false
+      },
+      {
+        "text": "Sprouted 4; not sprouted 2",
+        "is_correct": true
+      },
+      {
+        "text": "Sprouted 2; not sprouted 4",
+        "is_correct": false
+      },
+      {
+        "text": "Sprouted 6; not sprouted 0",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Sprouted 3; not sprouted 3",
+      "Sprouted 4; not sprouted 2",
+      "Sprouted 2; not sprouted 4",
+      "Sprouted 6; not sprouted 0"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Four records say sprouted and two say not sprouted.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-030",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "construct_science_display",
+    "question": "TrayC has 10 sprouted seeds and TrayA has 4 at the same observation time. Which conclusion is supported?",
+    "audio_prompt": "TrayC has 10 sprouted seeds and TrayA has 4 at the same observation time. Which conclusion is supported?",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 30,
+    "answers": [
+      {
+        "text": "C always grows best",
+        "is_correct": false
+      },
+      {
+        "text": "C must have received more water",
+        "is_correct": false
+      },
+      {
+        "text": "C has 6 more sprouted seeds in this observation",
+        "is_correct": true
+      },
+      {
+        "text": "All A seeds are dead",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "C always grows best",
+      "C must have received more water",
+      "C has 6 more sprouted seeds in this observation",
+      "All A seeds are dead"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "10−4=6; causes and future outcomes need more evidence.",
+      "hint": "Check the question, labels, source records and what the evidence actually supports."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-031",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "Read the twenty-four spinner results display. How many responses or observations are in Blue?",
+    "audio_prompt": "Read the twenty-four spinner results display. How many responses or observations are in Blue?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-2",
+      "alt_text": "Twenty-four spinner results. Red: 6, Blue: 10, Gold: 4, Green: 4. Spins. Vertical scale starts at zero with equal intervals."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 31,
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "12",
+      "8",
+      "14",
+      "10"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The display places Blue at 10. Read the scale or multiply symbols by the key.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-032",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "In the twenty-four spinner results display, which category has the greatest count?",
+    "audio_prompt": "In the twenty-four spinner results display, which category has the greatest count?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-2",
+      "alt_text": "Twenty-four spinner results. Red: 6, Blue: 10, Gold: 4, Green: 4. Spins. Vertical scale starts at zero with equal intervals."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "fluency",
+    "sequence_priority": 32,
+    "answers": [
+      {
+        "text": "Blue",
+        "is_correct": true
+      },
+      {
+        "text": "Red",
+        "is_correct": false
+      },
+      {
+        "text": "Gold",
+        "is_correct": false
+      },
+      {
+        "text": "Green",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Blue",
+      "Red",
+      "Gold",
+      "Green"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Blue has 10, the largest count.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-033",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "What is the total count in the twenty-four spinner results display?",
+    "audio_prompt": "What is the total count in the twenty-four spinner results display?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-2",
+      "alt_text": "Twenty-four spinner results. Red: 6, Blue: 10, Gold: 4, Green: 4. Spins. Vertical scale starts at zero with equal intervals."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 33,
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": true
+      },
+      {
+        "text": "26",
+        "is_correct": false
+      },
+      {
+        "text": "32",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "20",
+      "24",
+      "26",
+      "32"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Add all four counts: 6 + 10 + 4 + 4 = 24.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-034",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "In the twenty-four spinner results display, how much greater is the largest count than the smallest?",
+    "audio_prompt": "In the twenty-four spinner results display, how much greater is the largest count than the smallest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-2",
+      "alt_text": "Twenty-four spinner results. Red: 6, Blue: 10, Gold: 4, Green: 4. Spins. Vertical scale starts at zero with equal intervals."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 34,
+    "answers": [
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "14",
+      "8",
+      "6",
+      "10"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The difference is 10 − 4 = 6.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-035",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "For the twenty-four spinner results data, a new pictograph uses one symbol for 2. How many full symbols show Red?",
+    "audio_prompt": "For the twenty-four spinner results data, a new pictograph uses one symbol for 2. How many full symbols show Red?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-2",
+      "alt_text": "Twenty-four spinner results. Red: 6, Blue: 10, Gold: 4, Green: 4. Spins. Vertical scale starts at zero with equal intervals."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 35,
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "6",
+      "12",
+      "4",
+      "3"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "6 ÷ 2 = 3 full symbols; the key determines their value.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-036",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "Which statement about the twenty-four spinner results display is supported?",
+    "audio_prompt": "Which statement about the twenty-four spinner results display is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-2",
+      "alt_text": "Twenty-four spinner results. Red: 6, Blue: 10, Gold: 4, Green: 4. Spins. Vertical scale starts at zero with equal intervals."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 36,
+    "answers": [
+      {
+        "text": "Red and Blue together have 16",
+        "is_correct": true
+      },
+      {
+        "text": "The data explains why each spin landed on its colour",
+        "is_correct": false
+      },
+      {
+        "text": "The same results must occur next time",
+        "is_correct": false
+      },
+      {
+        "text": "The results describe every class in Australia",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Red and Blue together have 16",
+      "The data explains why each spin landed on its colour",
+      "The same results must occur next time",
+      "The results describe every class in Australia"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "6 + 10 = 16. The other claims go beyond the recorded information.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-037",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "Read the library genre choices display. How many responses or observations are in Animal?",
+    "audio_prompt": "Read the library genre choices display. How many responses or observations are in Animal?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-3",
+      "alt_text": "Library genre choices. Mystery: 12, Animal: 6, Space: 8, Sport: 4. Responses. Each circle represents 2 responses."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 37,
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "8",
+      "6",
+      "4",
+      "10"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The display places Animal at 6. Read the scale or multiply symbols by the key.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-038",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "In the library genre choices display, which category has the greatest count?",
+    "audio_prompt": "In the library genre choices display, which category has the greatest count?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-3",
+      "alt_text": "Library genre choices. Mystery: 12, Animal: 6, Space: 8, Sport: 4. Responses. Each circle represents 2 responses."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 38,
+    "answers": [
+      {
+        "text": "Animal",
+        "is_correct": false
+      },
+      {
+        "text": "Space",
+        "is_correct": false
+      },
+      {
+        "text": "Mystery",
+        "is_correct": true
+      },
+      {
+        "text": "Sport",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "Animal",
+      "Space",
+      "Mystery",
+      "Sport"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Mystery has 12, the largest count.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-039",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "What is the total count in the library genre choices display?",
+    "audio_prompt": "What is the total count in the library genre choices display?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-3",
+      "alt_text": "Library genre choices. Mystery: 12, Animal: 6, Space: 8, Sport: 4. Responses. Each circle represents 2 responses."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 39,
+    "answers": [
+      {
+        "text": "26",
+        "is_correct": false
+      },
+      {
+        "text": "32",
+        "is_correct": false
+      },
+      {
+        "text": "38",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": true
+      }
+    ],
+    "audio_answers": [
+      "26",
+      "32",
+      "38",
+      "30"
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Add all four counts: 12 + 6 + 8 + 4 = 30.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-040",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "In the library genre choices display, how much greater is the largest count than the smallest?",
+    "audio_prompt": "In the library genre choices display, how much greater is the largest count than the smallest?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-3",
+      "alt_text": "Library genre choices. Mystery: 12, Animal: 6, Space: 8, Sport: 4. Responses. Each circle represents 2 responses."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 40,
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "8",
+      "16",
+      "10",
+      "12"
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The difference is 12 − 4 = 8.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-041",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "For the library genre choices data, a new pictograph uses one symbol for 2. How many full symbols show Mystery?",
+    "audio_prompt": "For the library genre choices data, a new pictograph uses one symbol for 2. How many full symbols show Mystery?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-3",
+      "alt_text": "Library genre choices. Mystery: 12, Animal: 6, Space: 8, Sport: 4. Responses. Each circle represents 2 responses."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 41,
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "12",
+      "6",
+      "24",
+      "7"
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "12 ÷ 2 = 6 full symbols; the key determines their value.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-042",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "interpret_data",
+    "question": "Which statement about the library genre choices display is supported?",
+    "audio_prompt": "Which statement about the library genre choices display is supported?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-p-3",
+      "alt_text": "Library genre choices. Mystery: 12, Animal: 6, Space: 8, Sport: 4. Responses. Each circle represents 2 responses."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 42,
+    "answers": [
+      {
+        "text": "The data explains why every choice was made",
+        "is_correct": false
+      },
+      {
+        "text": "The same results must occur next time",
+        "is_correct": false
+      },
+      {
+        "text": "Mystery and Animal together have 18",
+        "is_correct": true
+      },
+      {
+        "text": "The results describe every class in Australia",
+        "is_correct": false
+      }
+    ],
+    "audio_answers": [
+      "The data explains why every choice was made",
+      "The same results must occur next time",
+      "Mystery and Animal together have 18",
+      "The results describe every class in Australia"
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "12 + 6 = 18. The other claims go beyond the recorded information.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
+    }
+  },
+  {
+    "id": "AC9M4ST01-P-043",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "create_and_interpret_data",
+    "question": "Ask at least six willing people one neutral favourite-fruit question. Record one response each in a digital table. Make a frequency table and check its total. Show the raw responses and table to an adult.",
+    "audio_prompt": "Ask at least six willing people one neutral favourite-fruit question. Record one response each in a digital table. Make a frequency table and check its total. Show the raw responses and table to an adult.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 43,
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Results vary. Example: apple 3, pear 2, plum 1; total 6.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Results vary. Example: apple 3, pear 2, plum 1; total 6.",
+    "acceptance_note": "Inspect at least six real responses, consistent categories, digital entry and a matching total.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4ST01-P-044",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "create_and_interpret_data",
+    "question": "Using a real one-choice fruit survey of at least six willing people (collect one if you have not already done so), create a digital column graph with a title, category labels, a zero baseline and equal scale intervals. Write a comparison and a limitation.",
+    "audio_prompt": "Using a real one-choice fruit survey of at least six willing people (collect one if you have not already done so), create a digital column graph with a title, category labels, a zero baseline and equal scale intervals. Write a comparison and a limitation.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 44,
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Example: apple has one more vote than pear; these six respondents do not represent everyone.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Example: apple has one more vote than pear; these six respondents do not represent everyone.",
+    "acceptance_note": "Match every column to the actual table; inspect labels, scale, evidence and limitation.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4ST01-P-045",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "create_and_interpret_data",
+    "question": "Represent counts Red 8, Blue 6, Green 10 with a digital many-to-one pictograph using one symbol for 2. Add a title and key. Explain the largest category and the total.",
+    "audio_prompt": "Represent counts Red 8, Blue 6, Green 10 with a digital many-to-one pictograph using one symbol for 2. Add a title and key. Explain the largest category and the total.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 45,
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Red 4 symbols, Blue 3, Green 5; Green largest; total 24.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Red 4 symbols, Blue 3, Green 5; Green largest; total 24.",
+    "acceptance_note": "Inspect the student-created digital pictograph, equal symbol sizes, explicit key, frequencies and conclusion.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4ST01-P-046",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "create_and_interpret_data",
+    "question": "With an adult, observe an ongoing safe seed-growing science activity. Record how many seeds have sprouted in each of at least three labelled trays at the same observation time. Enter the counts digitally, graph them and discuss one result. Do not invent observations.",
+    "audio_prompt": "With an adult, observe an ongoing safe seed-growing science activity. Record how many seeds have sprouted in each of at least three labelled trays at the same observation time. Enter the counts digitally, graph them and discuss one result. Do not invent observations.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 46,
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Results vary; record tray labels, observation date, counts and number planted where known. The graph describes this observation, not all plant growth.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Results vary; record tray labels, observation date, counts and number planted where known. The graph describes this observation, not all plant growth.",
+    "acceptance_note": "Inspect actual observations and a matching digital graph; require a science-context comparison and a limit on the claim.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4ST01-P-047",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "create_and_interpret_data",
+    "question": "With your teacher, co-create a neutral online class poll. Use a school-approved tool to produce a graph or word cloud; if AI-assisted options are available, inspect one. Compare its categories and counts with the responses and record any correction. Do not enter names or private information.",
+    "audio_prompt": "With your teacher, co-create a neutral online class poll. Use a school-approved tool to produce a graph or word cloud; if AI-assisted options are available, inspect one. Compare its categories and counts with the responses and record any correction. Do not enter names or private information.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 47,
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "A useful record includes the question, anonymous responses, output and a count/category check. Word size alone may not supply exact frequencies.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "A useful record includes the question, anonymous responses, output and a count/category check. Word size alone may not supply exact frequencies.",
+    "acceptance_note": "Require actual teacher-supervised digital collection and output, not merely a proposed activity. Note honestly whether AI assistance was available; compare its output if used.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4ST01-P-048",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4ST01",
+    "bank": "practice",
+    "skill": "create_and_interpret_data",
+    "question": "Spin a three-colour paper spinner 18 times. Tally the results as they occur, enter the frequencies in a digital table and make a column graph. Compare two colours and state why another set of spins may differ.",
+    "audio_prompt": "Spin a three-colour paper spinner 18 times. Tally the results as they occur, enter the frequencies in a digital table and make a column graph. Compare two colours and state why another set of spins may differ.",
+    "visual": {
+      "type": "none"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 48,
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Counts vary but must total 18; the graph matches the tallies. Chance results can vary between repeated sets.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Counts vary but must total 18; the graph matches the tallies. Chance results can vary between repeated sets.",
+    "acceptance_note": "Inspect spinner trial record, digital table, graph, sum 18, numerical comparison and variation statement.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4ST01-T-001",
@@ -877,32 +2093,45 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "collect_data",
-    "question": "At a coastal station, which question collects categorical data?",
-    "audio_prompt": "At a coastal station, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "Read the club display. How many chose Music?",
+    "audio_prompt": "Read the club display. How many chose Music?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-001",
-      "alt_text": "At a coastal station: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-test",
+      "alt_text": "After-school club poll. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 1,
     "answers": [
       {
-        "text": "Which playground game do you prefer?",
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "8",
         "is_correct": true
       },
       {
-        "text": "How tall are you?",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "How many minutes did you read?",
+        "text": "14",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "4",
+      "8",
+      "10",
+      "14"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
+      "summary": "Music reaches 8 on the scale.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -911,32 +2140,45 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "fair_data_collection",
-    "question": "During a museum challenge, which method gives a fair class survey?",
-    "audio_prompt": "During a museum challenge, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "Read the club display. How many responses were recorded altogether?",
+    "audio_prompt": "Read the club display. How many responses were recorded altogether?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-002",
-      "alt_text": "During a museum challenge: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-test",
+      "alt_text": "After-school club poll. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 2,
     "answers": [
       {
-        "text": "Ask only two friends",
+        "text": "28",
         "is_correct": false
       },
       {
-        "text": "Ask every student the same clear question",
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "38",
         "is_correct": true
       },
       {
-        "text": "Change the options halfway through",
+        "text": "40",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "28",
+      "36",
+      "38",
+      "40"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
+      "summary": "14 + 8 + 10 + 6 = 38.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -945,32 +2187,45 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "interpret_tallies",
-    "question": "At a charity event, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "At a charity event, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "interpret_data",
+    "question": "How many more chose Art than Garden?",
+    "audio_prompt": "How many more chose Art than Garden?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-003",
-      "alt_text": "At a charity event: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-test",
+      "alt_text": "After-school club poll. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 3,
     "answers": [
       {
-        "text": "walk",
+        "text": "6",
         "is_correct": false
       },
       {
-        "text": "bike",
+        "text": "14",
         "is_correct": false
       },
       {
-        "text": "bus",
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "8",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "6",
+      "14",
+      "20",
+      "8"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
+      "summary": "14 − 6 = 8.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -979,32 +2234,45 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "collect_data",
-    "question": "In an engineering workshop, which question collects categorical data?",
-    "audio_prompt": "In an engineering workshop, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "A pictograph of these club data uses one symbol for 2 responses. How many symbols show Games?",
+    "audio_prompt": "A pictograph of these club data uses one symbol for 2 responses. How many symbols show Games?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-test",
+      "alt_text": "After-school club poll. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 4,
     "answers": [
       {
-        "text": "Which playground game do you prefer?",
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "How tall are you?",
+        "text": "2",
         "is_correct": false
       },
       {
-        "text": "How many minutes did you read?",
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "20",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "5",
+      "2",
+      "10",
+      "20"
+    ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
+      "summary": "10 ÷ 2 = 5 symbols.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1013,32 +2281,45 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "fair_data_collection",
-    "question": "At a regional carnival, which method gives a fair class survey?",
-    "audio_prompt": "At a regional carnival, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "Which two club categories together have 14 responses?",
+    "audio_prompt": "Which two club categories together have 14 responses?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-005",
-      "alt_text": "At a regional carnival: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-test",
+      "alt_text": "After-school club poll. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 5,
     "answers": [
       {
-        "text": "Ask only two friends",
+        "text": "Art and Music",
         "is_correct": false
       },
       {
-        "text": "Ask every student the same clear question",
+        "text": "Music and Garden",
         "is_correct": true
       },
       {
-        "text": "Change the options halfway through",
+        "text": "Games and Garden",
+        "is_correct": false
+      },
+      {
+        "text": "Art and Garden",
         "is_correct": false
       }
     ],
+    "audio_answers": [
+      "Art and Music",
+      "Music and Garden",
+      "Games and Garden",
+      "Art and Garden"
+    ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
+      "summary": "8 + 6 = 14.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1047,32 +2328,45 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "interpret_tallies",
-    "question": "During a farm study, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "During a farm study, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "interpret_data",
+    "question": "Which conclusion stays within the club data?",
+    "audio_prompt": "Which conclusion stays within the club data?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-006",
-      "alt_text": "During a farm study: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#st01-test",
+      "alt_text": "After-school club poll. Art: 14, Music: 8, Games: 10, Garden: 6. Responses. Vertical scale starts at zero with equal intervals."
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 6,
     "answers": [
       {
-        "text": "walk",
+        "text": "Every child likes art best",
         "is_correct": false
       },
       {
-        "text": "bike",
+        "text": "Art causes higher maths marks",
         "is_correct": false
       },
       {
-        "text": "bus",
+        "text": "Art received the largest count among these respondents",
         "is_correct": true
+      },
+      {
+        "text": "Garden will never be popular",
+        "is_correct": false
       }
+    ],
+    "audio_answers": [
+      "Every child likes art best",
+      "Art causes higher maths marks",
+      "Art received the largest count among these respondents",
+      "Garden will never be popular"
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
+      "summary": "14 is the largest observed count; the other claims are not established.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1081,32 +2375,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "collect_data",
-    "question": "While reading a trail guide, which question collects categorical data?",
-    "audio_prompt": "While reading a trail guide, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "Six students report 0, 2, 1, 2, 0, 2 books borrowed. What is the frequency of 2?",
+    "audio_prompt": "Six students report 0, 2, 1, 2, 0, 2 books borrowed. What is the frequency of 2?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 7,
     "answers": [
       {
-        "text": "Which playground game do you prefer?",
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "3",
         "is_correct": true
-      },
-      {
-        "text": "How tall are you?",
-        "is_correct": false
-      },
-      {
-        "text": "How many minutes did you read?",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "2",
+      "4",
+      "6",
+      "3"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
+      "summary": "Three students reported exactly 2 books.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1115,32 +2420,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "fair_data_collection",
-    "question": "In an architecture studio, which method gives a fair class survey?",
-    "audio_prompt": "In an architecture studio, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "A poll asks for favourite season. What kind of variable is this?",
+    "audio_prompt": "A poll asks for favourite season. What kind of variable is this?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-008",
-      "alt_text": "In an architecture studio: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 8,
     "answers": [
       {
-        "text": "Ask only two friends",
-        "is_correct": false
-      },
-      {
-        "text": "Ask every student the same clear question",
+        "text": "Categorical",
         "is_correct": true
       },
       {
-        "text": "Change the options halfway through",
+        "text": "Discrete numerical",
+        "is_correct": false
+      },
+      {
+        "text": "A measured length",
+        "is_correct": false
+      },
+      {
+        "text": "A measured mass",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Categorical",
+      "Discrete numerical",
+      "A measured length",
+      "A measured mass"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
+      "summary": "Season names are categories.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1149,32 +2465,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "interpret_tallies",
-    "question": "During a food-truck project, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "During a food-truck project, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "interpret_data",
+    "question": "One symbol means 4 seeds. What does one and a half symbols mean?",
+    "audio_prompt": "One symbol means 4 seeds. What does one and a half symbols mean?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-009",
-      "alt_text": "During a food-truck project: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 9,
     "answers": [
       {
-        "text": "walk",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "bike",
-        "is_correct": false
-      },
-      {
-        "text": "bus",
+        "text": "6",
         "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "4",
+      "6",
+      "5",
+      "8"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
+      "summary": "4 + 2 = 6 seeds.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1183,32 +2510,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "collect_data",
-    "question": "At a festival, which question collects categorical data?",
-    "audio_prompt": "At a festival, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "A digital graph omits a category with zero responses. What helps readers see that it was offered?",
+    "audio_prompt": "A digital graph omits a category with zero responses. What helps readers see that it was offered?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-010",
-      "alt_text": "At a festival: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 10,
     "answers": [
       {
-        "text": "Which playground game do you prefer?",
+        "text": "Add one invented response",
+        "is_correct": false
+      },
+      {
+        "text": "Rename another category",
+        "is_correct": false
+      },
+      {
+        "text": "Include the category with frequency 0",
         "is_correct": true
       },
       {
-        "text": "How tall are you?",
-        "is_correct": false
-      },
-      {
-        "text": "How many minutes did you read?",
+        "text": "Hide the survey question",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "Add one invented response",
+      "Rename another category",
+      "Include the category with frequency 0",
+      "Hide the survey question"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
+      "summary": "Zero is meaningful data for an offered option.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1217,32 +2555,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "fair_data_collection",
-    "question": "While organising a collection, which method gives a fair class survey?",
-    "audio_prompt": "While organising a collection, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "Observed insects total 18, but a graph totals 16. What should be checked?",
+    "audio_prompt": "Observed insects total 18, but a graph totals 16. What should be checked?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-011",
-      "alt_text": "While organising a collection: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 11,
     "answers": [
       {
-        "text": "Ask only two friends",
+        "text": "Whether 16 looks nicer",
         "is_correct": false
       },
       {
-        "text": "Ask every student the same clear question",
+        "text": "Only the graph colours",
+        "is_correct": false
+      },
+      {
+        "text": "Whether insects can be counted",
+        "is_correct": false
+      },
+      {
+        "text": "Every frequency against the original observation record",
         "is_correct": true
-      },
-      {
-        "text": "Change the options halfway through",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "Whether 16 looks nicer",
+      "Only the graph colours",
+      "Whether insects can be counted",
+      "Every frequency against the original observation record"
+    ],
+    "correct_index": 3,
     "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
+      "summary": "A faithful graph must represent all recorded observations.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1251,32 +2600,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "interpret_tallies",
-    "question": "In an environmental study, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "In an environmental study, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "interpret_data",
+    "question": "A generated word cloud spells the same answer in two ways. What should students check?",
+    "audio_prompt": "A generated word cloud spells the same answer in two ways. What should students check?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-012",
-      "alt_text": "In an environmental study: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 12,
     "answers": [
       {
-        "text": "walk",
-        "is_correct": false
-      },
-      {
-        "text": "bike",
-        "is_correct": false
-      },
-      {
-        "text": "bus",
+        "text": "Whether equivalent responses need grouping",
         "is_correct": true
+      },
+      {
+        "text": "Whether the largest word can be doubled",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the title should be removed",
+        "is_correct": false
+      },
+      {
+        "text": "Whether all responses should be replaced",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "audio_answers": [
+      "Whether equivalent responses need grouping",
+      "Whether the largest word can be doubled",
+      "Whether the title should be removed",
+      "Whether all responses should be replaced"
+    ],
+    "correct_index": 0,
     "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
+      "summary": "Check meaning before combining spellings and regenerating the display.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1285,32 +2645,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "collect_data",
-    "question": "During a transport survey, which question collects categorical data?",
-    "audio_prompt": "During a transport survey, which question collects categorical data?",
+    "skill": "interpret_data",
+    "question": "A secondary fire-burn table covers one region in one year. Which title is appropriate?",
+    "audio_prompt": "A secondary fire-burn table covers one region in one year. Which title is appropriate?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-013",
-      "alt_text": "During a transport survey: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 13,
     "answers": [
       {
-        "text": "Which playground game do you prefer?",
+        "text": "All Australian fires forever",
+        "is_correct": false
+      },
+      {
+        "text": "Recorded burns in that region and year",
         "is_correct": true
       },
       {
-        "text": "How tall are you?",
+        "text": "The best burn plan for every region",
         "is_correct": false
       },
       {
-        "text": "How many minutes did you read?",
+        "text": "Reasons every burn happened",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "audio_answers": [
+      "All Australian fires forever",
+      "Recorded burns in that region and year",
+      "The best burn plan for every region",
+      "Reasons every burn happened"
+    ],
+    "correct_index": 1,
     "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
+      "summary": "The title should reflect the source’s actual coverage.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1319,32 +2690,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "fair_data_collection",
-    "question": "At a strategy tournament, which method gives a fair class survey?",
-    "audio_prompt": "At a strategy tournament, which method gives a fair class survey?",
+    "skill": "interpret_data",
+    "question": "Why should a class retain raw responses after making a graph?",
+    "audio_prompt": "Why should a class retain raw responses after making a graph?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 fair data collection reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 14,
     "answers": [
       {
-        "text": "Ask only two friends",
+        "text": "So responses can be changed to a preferred result",
         "is_correct": false
       },
       {
-        "text": "Ask every student the same clear question",
+        "text": "So the title can replace the data",
+        "is_correct": false
+      },
+      {
+        "text": "So counts and decisions can be checked",
         "is_correct": true
       },
       {
-        "text": "Change the options halfway through",
+        "text": "So the total can be guessed",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "audio_answers": [
+      "So responses can be changed to a preferred result",
+      "So the title can replace the data",
+      "So counts and decisions can be checked",
+      "So the total can be guessed"
+    ],
+    "correct_index": 2,
     "explanation": {
-      "summary": "A consistent question supports fair comparison.",
-      "hint": "Check the sample and wording."
+      "summary": "The raw record provides evidence for the graph.",
+      "hint": "Read the recorded values, labels and question carefully; keep your claim within the evidence."
     }
   },
   {
@@ -1353,33 +2735,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "interpret_tallies",
-    "question": "While planning a community garden, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
-    "audio_prompt": "While planning a community garden, a tally has 8 walk, 11 bus and 5 bike responses. Which category is most common?",
+    "skill": "create_and_interpret_data",
+    "question": "With an adult, obtain a published fire-burn dataset from a named First Nations Ranger organisation or an official agency. Record source, place, period and units. Select at least three comparable records, create a digital display and write two statements it supports. Do not substitute invented data or recommend a burn plan.",
+    "audio_prompt": "With an adult, obtain a published fire-burn dataset from a named First Nations Ranger organisation or an official agency. Record source, place, period and units. Select at least three comparable records, create a digital display and write two statements it supports. Do not substitute invented data or recommend a burn plan.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-015",
-      "alt_text": "While planning a community garden: a Year 4 interpret tallies reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "walk",
-        "is_correct": false
-      },
-      {
-        "text": "bike",
-        "is_correct": false
-      },
-      {
-        "text": "bus",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 15,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "The largest tally is 11 for bus.",
-      "hint": "Compare the category counts."
-    }
+      "summary": "Results depend on the actual source. Preserve whether values are area burned or counts; report only the selected place/period and recognise Ranger expertise in interpretation.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Results depend on the actual source. Preserve whether values are area burned or counts; report only the selected place/period and recognise Ranger expertise in interpretation.",
+    "acceptance_note": "Inspect the real secondary source and exact selected values, source details, units, faithful display and two bounded statements. If unavailable, leave this task pending rather than inventing evidence.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4ST01-T-016",
@@ -1387,32 +2762,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4ST01",
     "bank": "test",
-    "skill": "collect_data",
-    "question": "In a design exhibition, which question collects categorical data?",
-    "audio_prompt": "In a design exhibition, which question collects categorical data?",
+    "skill": "create_and_interpret_data",
+    "question": "Collect the number of books borrowed today by at least six willing classmates, including any zeros. Enter the individual counts digitally, make a frequency table and a labelled graph. Explain how this numerical variable differs from favourite book genre.",
+    "audio_prompt": "Collect the number of books borrowed today by at least six willing classmates, including any zeros. Enter the individual counts digitally, make a frequency table and a labelled graph. Explain how this numerical variable differs from favourite book genre.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4st01.svg#ac9m4st01-t-016",
-      "alt_text": "In a design exhibition: a Year 4 collect data reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "Which playground game do you prefer?",
-        "is_correct": true
-      },
-      {
-        "text": "How tall are you?",
-        "is_correct": false
-      },
-      {
-        "text": "How many minutes did you read?",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 16,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Responses are category labels rather than measurements or counts.",
-      "hint": "Ask whether answers name groups."
-    }
+      "summary": "Book counts are whole-number numerical values; genre names are categories. Actual frequencies must total the number of respondents.",
+      "hint": "Keep the actual records and show each requested stage."
+    },
+    "grading_mode": "adult-review",
+    "model_answer": "Book counts are whole-number numerical values; genre names are categories. Actual frequencies must total the number of respondents.",
+    "acceptance_note": "Require real count data including genuine zeros if present, digital work, faithful graph and correct categorical/numerical distinction.",
+    "response_instructions": "Complete the actual collection, digital display or written work requested. Ask an adult to inspect your evidence against these checks.",
+    "completion_label": "My work is ready for an adult to check."
   }
 ]
