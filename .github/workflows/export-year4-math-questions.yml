@@ -20,9 +20,24 @@ jobs:
           python3 - <<'PY'
           import glob, json, os
 
+          def collect_questions(value):
+              found = []
+              if isinstance(value, list):
+                  for item in value:
+                      found.extend(collect_questions(item))
+              elif isinstance(value, dict):
+                  if isinstance(value.get('id'), str) and isinstance(value.get('question'), str):
+                      found.append(value)
+                  else:
+                      for child in value.values():
+                          if isinstance(child, (list, dict)):
+                              found.extend(collect_questions(child))
+              return found
+
           files = sorted(glob.glob('assets/assessment-banks/year4/math/*.json'))
           out = []
           total = 0
+          code_counts = {}
           out.append('SKILLRHUB YEAR 4 MATHS - ALL PRODUCTION ASSESSMENT QUESTIONS')
           out.append('Source: assets/assessment-banks/year4/math/*.json')
           out.append('Includes Practice and Test questions only; answers/explanations omitted.')
@@ -30,26 +45,41 @@ jobs:
 
           for path in files:
               with open(path, encoding='utf-8') as f:
-                  bank = json.load(f)
+                  data = json.load(f)
+              bank = collect_questions(data)
               if not bank:
                   continue
-              code = bank[0].get('curriculum_code') or os.path.basename(path).removesuffix('.json').upper()
+              code = (bank[0].get('curriculum_code') or os.path.basename(path).removesuffix('.json')).upper()
+              code_counts[code] = len(bank)
               out.append('=' * 78)
               out.append(code)
               out.append('=' * 78)
               current_bank = None
               for item in bank:
-                  b = item.get('bank', '').upper()
+                  b = str(item.get('bank', '')).upper()
                   if b != current_bank:
                       current_bank = b
                       out.append('')
-                      out.append(f'--- {current_bank} ---')
-                  qid = item.get('id', '').strip()
+                      out.append(f'--- {current_bank or "QUESTIONS"} ---')
+                  qid = str(item.get('id', '')).strip()
                   question = item.get('question', '').strip().replace('\r\n', '\n').replace('\r', '\n')
                   out.append(f'{qid}\t{question}')
                   total += 1
               out.append('')
 
+          expected_codes = {
+              *[f'AC9M4N0{i}' for i in range(1, 10)],
+              'AC9M4A01', 'AC9M4A02',
+              *[f'AC9M4M0{i}' for i in range(1, 5)],
+              'AC9M4SP01', 'AC9M4SP02', 'AC9M4SP03',
+              'AC9M4ST01', 'AC9M4ST02', 'AC9M4ST03',
+              'AC9M4P01', 'AC9M4P02'
+          }
+          if set(code_counts) != expected_codes:
+              raise SystemExit(f'Code mismatch. Found {sorted(code_counts)}')
+          bad = {code: count for code, count in code_counts.items() if count != 64}
+          if bad:
+              raise SystemExit(f'Expected 64 questions per code. Bad counts: {bad}')
           if total != 1472:
               raise SystemExit(f'Expected 1472 questions (23 x 64), found {total}')
 
@@ -57,7 +87,7 @@ jobs:
           os.makedirs('exports', exist_ok=True)
           with open('exports/year4-maths-all-questions.txt', 'w', encoding='utf-8') as f:
               f.write('\n'.join(out).rstrip() + '\n')
-          print(f'Wrote {total} questions from {len(files)} files')
+          print(f'Wrote {total} questions from {len(code_counts)} authorised codes')
           PY
       - name: Commit export to temporary branch
         shell: bash
