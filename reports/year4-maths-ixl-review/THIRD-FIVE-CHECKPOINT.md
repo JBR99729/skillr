@@ -2,7 +2,17 @@
 
 Date: 2026-09-08. Codes: AC9M4A02 and AC9M4M01–M04. This is a draft checkpoint, not a fully verified main release. The previous five codes were published to main at `c3a1073ccf167a3153c1528a079125a7c144cf48` under the owner's subsequent instruction; their source audit remains pending as recorded separately.
 
-## Resume status — 8 September 2026
+## Non-browser continuation — 8 September 2026
+
+The owner authorised continuing repository work while IXL and live-browser checks remain pending. Research log version 17 was retrieved again. Latest fetched main is now `fc8792ba13ddd3d550089c1cae2c2e3b5bac3c7a`, including the consistent-navigation and background-contrast corrections. It was merged into draft head `2e3358842219a98576ccd3909687dd711dc788b0` without conflicts. The four imported shared UI files match main exactly; all five-code assessment, teaching, visual and homework resources retain their reviewed draft bytes. The independent integration report records the comparison and artifact identities.
+
+Fresh local checks pass: all five production banks (48 Practice + 16 Test each), Year 4 static topics (23/23), static architecture, static loader guards, F–10 layout contract, JavaScript syntax for both changed loaders, and the unchanged verification ledger. These are integration/structural checks, not a new every-question review or live visual inspection. Prior independent content reviews remain applicable to the unchanged resources.
+
+Seven bounded supplementary Khan opens again exposed zero readable lesson lines; see `THIRD-FIVE-KHAN-NONBROWSER-20260908.md`. No source-derived teaching changes were justified. IXL worked examples/help and representative questions, actual Khan lesson comparison, and live browser interaction remain HOLD. Earlier in this conversation, root observed timeouts while fetching or creating browser tabs; a subsequent selected-tab check returned no available tab. Those browser operations were not repeated during this non-browser continuation. No login was attempted and no login-expiry diagnosis is made.
+
+This continuation updates only the existing draft and evidence. It does not move main, deploy Pages, record reviewed ledger entries or activate the Year 4 Maths badge. Next five remain queued. See `THIRD-FIVE-NONBROWSER-INTEGRATION-REVIEW.md` for independent preservation checks. The following resume section is historical evidence for the preceding draft checkpoint.
+
+## Earlier resume status — 8 September 2026
 
 PR #819 remains a draft. Latest fetched main is `348109b09c055ee54a56abf74ef77b3f27d6ba1c`; original remote draft head is `a37a42d6454aa8623a68eced97ad4c51ae9683b3`. The current Library research log remains version 17 (43,357 bytes); its historical Year 3 queue is superseded by the owner's explicit Year 4 request.
 
