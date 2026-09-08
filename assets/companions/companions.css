@@ -9,6 +9,7 @@
 .skillr-companions__title{margin:0 0 5px!important;font-size:1.2rem!important;line-height:1.35!important;color:var(--ink)!important}
 .skillr-companions__message{margin:0!important;color:var(--ink)!important;font-size:1rem!important;line-height:1.55!important;overflow-wrap:anywhere}
 .skillr-companions__actions{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-top:12px}
+.skillr-companions__usage{margin:8px 0 0!important;color:#174555!important;font-size:.875rem!important;line-height:1.55!important}
 .skillr-companions button,.skillr-companions__actions a{display:inline-flex;align-items:center;justify-content:center;min-height:42px;padding:8px 13px;border:1px solid #96b7c0;border-radius:9px;background:#fff;color:#174555;font:650 .875rem/1.4 system-ui,sans-serif;cursor:pointer;text-decoration:none;white-space:normal}
 .skillr-companions button:hover,.skillr-companions__actions a:hover{background:#e5f5f6;color:#133b48}
 .skillr-companions button:focus-visible,.skillr-companions a:focus-visible{outline:3px solid #b36e00;outline-offset:3px}

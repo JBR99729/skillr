@@ -210,6 +210,9 @@
       if (buttons.start) { buttons.start.hidden = false; buttons.start.textContent = 'Guide me'; }
     }
     if (steps.length) {
+      const usage = element('p', 'skillr-companions__usage');
+      usage.append('Start with ', element('strong', '', 'Guide me'), ', choose ', element('strong', '', 'Let me try'), ' when you’re ready, or ', element('strong', '', 'Hide companions'), ' for a quieter page.');
+      copy.appendChild(usage);
       button('start', 'Guide me', () => showStep(0));
       button('previous', 'Previous step', () => showStep(guideIndex - 1)).hidden = true;
       button('next', 'Next step', () => showStep(guideIndex + 1)).hidden = true;
