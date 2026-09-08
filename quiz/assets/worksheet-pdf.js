@@ -503,14 +503,19 @@
       const stem = `${index + 1}. ${question.question || ""}`;
       font(12,true);
       const stemHeight = wrap(doc,stem,width).length * 5.93;
-      // These authored Year 4 tasks need all four writing lines
-      // beside their prompt, even when the worksheet order is shuffled.
+      // Keep authored Year 4 writing space beside its prompt, even when
+      // shuffled. Only marked LA07–LA12 may request 4–12 response lines.
       const keepWrittenWorkspace = question.type === "self-check"
-        && /^(?:AC9M4(?:N0[6-9]|A0[12]|M0[1-4]|SP0[1-3]|ST0[1-3]|P0[12])|AC9S4(?:U0[1-4]|H0[12]|I0[1-6])|AC9E4LA0[1-6])$/.test(getSkillCode())
-        && (!/^AC9E4LA0[1-6]$/.test(getSkillCode()) || document.body?.getAttribute("data-skillr-authored-worksheet") === "true")
+        && /^(?:AC9M4(?:N0[6-9]|A0[12]|M0[1-4]|SP0[1-3]|ST0[1-3]|P0[12])|AC9S4(?:U0[1-4]|H0[12]|I0[1-6])|AC9E4LA(?:0[1-9]|1[0-2]))$/.test(getSkillCode())
+        && (!/^AC9E4LA(?:0[1-9]|1[0-2])$/.test(getSkillCode()) || document.body?.getAttribute("data-skillr-authored-worksheet") === "true")
         && question.curriculumCode === getSkillCode()
         && new RegExp(`^${getSkillCode().toLowerCase()}-w-\\d{3}$`).test(question.id || "");
-      const writingAllowance = keepWrittenWorkspace ? 46 : 28;
+      const responseLineCount = keepWrittenWorkspace
+        && /^AC9E4LA(?:0[7-9]|1[0-2])$/.test(getSkillCode())
+        && Number.isInteger(question.responseLines)
+        && question.responseLines >= 4 && question.responseLines <= 12
+        ? question.responseLines : 4;
+      const writingAllowance = keepWrittenWorkspace ? responseLineCount * 9 + 10 : 28;
       let contentAllowance = images.has(question) ? 60 : writingAllowance;
       if (keepWrittenWorkspace && images.has(question)) {
         const imageProps = doc.getImageProperties(images.get(question));
@@ -543,7 +548,7 @@
       } else if (type === "drag-image") {
         paragraph("Groups: " + (question.categories || []).map(optionText).join(" / "));
         (question.items || []).forEach(item => paragraph(`${itemText(item)}: ____________________`));
-      } else writingLines(type === "self-check" ? 4 : 2);
+      } else writingLines(type === "self-check" ? responseLineCount : 2);
       y += 7;
     });
     activeQuestion = "";

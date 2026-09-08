@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "In adding place detail to “The wallaby hopped”, which option best demonstrates the skill?",
-    "audio_prompt": "In adding place detail to “The wallaby hopped”, which option best demonstrates the skill?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The wallaby moved along the rocky track.” Which whole phrase tells where it moved?",
+    "audio_prompt": "Read: “The wallaby moved along the rocky track.” Which whole phrase tells where it moved?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The wallaby rocky hopped.",
-        "is_correct": false
-      },
-      {
-        "text": "The wallaby hopped across the rocky track.",
+        "text": "along the rocky track",
         "is_correct": true
       },
       {
-        "text": "Across hopped the wallaby track without a clear relationship.",
+        "text": "the rocky track",
+        "is_correct": false
+      },
+      {
+        "text": "The wallaby",
+        "is_correct": false
+      },
+      {
+        "text": "moved along",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
-      "hint": "Look for a phrase that answers where, when or how."
-    }
+      "summary": "The preposition “along” begins the complete place phrase; “the rocky track” names its object.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA08-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which choice fits adding place detail to “The wallaby hopped” most accurately?",
-    "audio_prompt": "Which choice fits adding place detail to “The wallaby hopped” most accurately?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “Before sunrise, the gardener checked the seedlings.” What detail does “Before sunrise” add?",
+    "audio_prompt": "Read: “Before sunrise, the gardener checked the seedlings.” What detail does “Before sunrise” add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The wallaby rocky hopped.",
+        "text": "Where the seedlings grew",
         "is_correct": false
       },
       {
-        "text": "Across hopped the wallaby track without a clear relationship.",
-        "is_correct": false
-      },
-      {
-        "text": "The wallaby hopped across the rocky track.",
+        "text": "When the checking happened",
         "is_correct": true
+      },
+      {
+        "text": "How carefully the gardener checked",
+        "is_correct": false
+      },
+      {
+        "text": "Which seedlings were tallest",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
-      "hint": "Look for a phrase that answers where, when or how."
-    }
+      "summary": "“Before sunrise” places the checking in time; it does not supply a place or manner.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA08-P-003",
@@ -66,28 +92,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which choice fits adding manner detail to “The choir sang” most accurately?",
-    "audio_prompt": "Which choice fits adding manner detail to “The choir sang” most accurately?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The drummer played very softly.” Which complete adverb group tells how the drummer played?",
+    "audio_prompt": "Read: “The drummer played very softly.” Which complete adverb group tells how the drummer played?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choir sang surprisingly softly.",
+        "text": "The drummer",
+        "is_correct": false
+      },
+      {
+        "text": "played very",
+        "is_correct": false
+      },
+      {
+        "text": "very softly",
         "is_correct": true
       },
       {
-        "text": "The choir sang under the stage if the meaning is manner.",
-        "is_correct": false
-      },
-      {
-        "text": "The choir softly surprising sang.",
+        "text": "softly played",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Surprisingly softly is an adverb group that tells how the choir sang.",
-      "hint": "Manner details explain how an activity happens."
-    }
+      "summary": "“Softly” is the main adverb and “very” adds degree. Together they describe the manner of playing.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA08-P-004",
@@ -96,28 +135,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Look closely at adding manner detail to “The choir sang”. Which response or wording works best?",
-    "audio_prompt": "Look closely at adding manner detail to “The choir sang”. Which response or wording works best?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “We waited outside.” Which word gives a place circumstance?",
+    "audio_prompt": "Read: “We waited outside.” Which word gives a place circumstance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choir sang under the stage if the meaning is manner.",
+        "text": "We",
         "is_correct": false
       },
       {
-        "text": "The choir sang surprisingly softly.",
+        "text": "waited",
+        "is_correct": false
+      },
+      {
+        "text": "We waited",
+        "is_correct": false
+      },
+      {
+        "text": "outside",
         "is_correct": true
-      },
-      {
-        "text": "The choir softly surprising sang.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Surprisingly softly is an adverb group that tells how the choir sang.",
-      "hint": "Manner details explain how an activity happens."
-    }
+      "summary": "“Outside” tells where the waiting happened. Adverbs do not all end in -ly.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA08-P-005",
@@ -126,28 +178,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Look closely at adding time detail to “We packed the tent”. Which response or wording works best?",
-    "audio_prompt": "Look closely at adding time detail to “We packed the tent”. Which response or wording works best?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The paper glider landed under the bench.” Which word begins the prepositional phrase?",
+    "audio_prompt": "Read: “The paper glider landed under the bench.” Which word begins the prepositional phrase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We packed before the tent sunrise.",
-        "is_correct": false
-      },
-      {
-        "text": "We sunrise packed the tent.",
-        "is_correct": false
-      },
-      {
-        "text": "We packed the tent before sunrise.",
+        "text": "under",
         "is_correct": true
+      },
+      {
+        "text": "glider",
+        "is_correct": false
+      },
+      {
+        "text": "landed",
+        "is_correct": false
+      },
+      {
+        "text": "bench",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Before sunrise is a prepositional phrase giving the time of the action.",
-      "hint": "Check what circumstance the phrase adds."
-    }
+      "summary": "“Under” links the landing to the place named by “the bench”. The complete phrase is “under the bench”.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA08-P-006",
@@ -156,28 +221,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "For adding time detail to “We packed the tent”, which option is the strongest match?",
-    "audio_prompt": "For adding time detail to “We packed the tent”, which option is the strongest match?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The visitors returned yesterday.” What does the adverb “yesterday” tell?",
+    "audio_prompt": "Read: “The visitors returned yesterday.” What does the adverb “yesterday” tell?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We packed the tent before sunrise.",
+        "text": "How they travelled",
+        "is_correct": false
+      },
+      {
+        "text": "When they returned",
         "is_correct": true
       },
       {
-        "text": "We packed before the tent sunrise.",
+        "text": "Where they returned",
         "is_correct": false
       },
       {
-        "text": "We sunrise packed the tent.",
+        "text": "How many visitors there were",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Before sunrise is a prepositional phrase giving the time of the action.",
-      "hint": "Check what circumstance the phrase adds."
-    }
+      "summary": "“Yesterday” adds time to the returning; it is not a place or a way of travelling.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA08-P-007",
@@ -186,28 +264,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "For placing a phrase so its meaning is clear, which option is the strongest match?",
-    "audio_prompt": "For placing a phrase so its meaning is clear, which option is the strongest match?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The class entered the hall with great care.” Which phrase describes the manner of entering?",
+    "audio_prompt": "Read: “The class entered the hall with great care.” Which phrase describes the manner of entering?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The class, after, visited lunch the gallery.",
+        "text": "The class",
         "is_correct": false
       },
       {
-        "text": "After lunch, the class visited the gallery.",
+        "text": "the hall",
+        "is_correct": false
+      },
+      {
+        "text": "with great care",
         "is_correct": true
       },
       {
-        "text": "The class visited after the gallery lunch.",
+        "text": "entered the hall",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
-      "hint": "Keep the phrase close to the activity it describes."
-    }
+      "summary": "“With great care” is a prepositional phrase that tells how the class entered.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA08-P-008",
@@ -216,28 +307,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which example should you choose for placing a phrase so its meaning is clear?",
-    "audio_prompt": "Which example should you choose for placing a phrase so its meaning is clear?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The ducks swam quite slowly.” Which word is the main adverb in “quite slowly”?",
+    "audio_prompt": "Read: “The ducks swam quite slowly.” Which word is the main adverb in “quite slowly”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The class, after, visited lunch the gallery.",
+        "text": "quite",
         "is_correct": false
       },
       {
-        "text": "The class visited after the gallery lunch.",
+        "text": "swam",
         "is_correct": false
       },
       {
-        "text": "After lunch, the class visited the gallery.",
+        "text": "ducks",
+        "is_correct": false
+      },
+      {
+        "text": "slowly",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
-      "hint": "Keep the phrase close to the activity it describes."
-    }
+      "summary": "“Slowly” describes swimming; “quite” changes its degree. The complete adverb group is “quite slowly”.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA08-P-009",
@@ -245,29 +349,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which example should you choose for adding a precise place detail to a science observation?",
-    "audio_prompt": "Which example should you choose for adding a precise place detail to a science observation?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “After the short rehearsal, we packed the instruments.” Which is the complete time phrase?",
+    "audio_prompt": "Read: “After the short rehearsal, we packed the instruments.” Which is the complete time phrase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The lizard rested beneath the warm rock.",
+        "text": "After the short rehearsal",
         "is_correct": true
       },
       {
-        "text": "The lizard rested warm.",
+        "text": "the short rehearsal",
         "is_correct": false
       },
       {
-        "text": "The lizard beneath rested rock the.",
+        "text": "After the short",
+        "is_correct": false
+      },
+      {
+        "text": "we packed",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Beneath the warm rock specifies where the lizard rested.",
-      "hint": "Choose detail that adds useful information, not just extra words."
-    }
+      "summary": "Include the preposition “After” and the whole noun group “the short rehearsal”.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA08-P-010",
@@ -275,29 +392,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "In adding a precise place detail to a science observation, which option best demonstrates the skill?",
-    "audio_prompt": "In adding a precise place detail to a science observation, which option best demonstrates the skill?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The puppy slept beside the basket.” Which question does “beside the basket” answer?",
+    "audio_prompt": "Read: “The puppy slept beside the basket.” Which question does “beside the basket” answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The lizard rested warm.",
+        "text": "When did the puppy sleep?",
         "is_correct": false
       },
       {
-        "text": "The lizard rested beneath the warm rock.",
+        "text": "Where did the puppy sleep?",
         "is_correct": true
       },
       {
-        "text": "The lizard beneath rested rock the.",
+        "text": "How long did the puppy sleep?",
+        "is_correct": false
+      },
+      {
+        "text": "How did the puppy feel?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Beneath the warm rock specifies where the lizard rested.",
-      "hint": "Choose detail that adds useful information, not just extra words."
-    }
+      "summary": "The phrase locates the sleeping beside a particular object.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA08-P-011",
@@ -305,29 +435,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Why does “The wallaby hopped across the rocky track.” work well for adding place detail to “The wallaby hopped”?",
-    "audio_prompt": "Why does “The wallaby hopped across the rocky track.” work well for adding place detail to “The wallaby hopped”?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Compare “The choir sang softly” and “The choir sang with a soft voice.” What is true about the manner detail in both?",
+    "audio_prompt": "Compare “The choir sang softly” and “The choir sang with a soft voice.” What is true about the manner detail in both?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The wallaby rocky hopped.” is always acceptable in this situation.",
+        "text": "Both are prepositional phrases because both tell how.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Both tell where the choir stood.",
         "is_correct": false
       },
       {
-        "text": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
+        "text": "Both tell how the choir sang, but the word groups have different forms.",
         "is_correct": true
+      },
+      {
+        "text": "Neither adds detail about the singing.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
-      "hint": "Look for a phrase that answers where, when or how."
-    }
+      "summary": "“Softly” is an adverb; “with a soft voice” begins with a preposition. Their shared job does not make their forms identical.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA08-P-012",
@@ -335,29 +478,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "What makes “The wallaby hopped across the rocky track.” a better choice in adding place detail to “The wallaby hopped”?",
-    "audio_prompt": "What makes “The wallaby hopped across the rocky track.” a better choice in adding place detail to “The wallaby hopped”?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “Every afternoon, Lila practises.” What is the most accurate description of “Every afternoon”?",
+    "audio_prompt": "Read: “Every afternoon, Lila practises.” What is the most accurate description of “Every afternoon”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
+        "text": "A prepositional phrase beginning with “every”.",
+        "is_correct": false
+      },
+      {
+        "text": "An adverb-headed group whose main adverb is “afternoon”.",
+        "is_correct": false
+      },
+      {
+        "text": "A manner phrase explaining how carefully Lila practises.",
+        "is_correct": false
+      },
+      {
+        "text": "A noun group used to give time; it is not a prepositional phrase.",
         "is_correct": true
-      },
-      {
-        "text": "Because “The wallaby rocky hopped.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
-      "hint": "Look for a phrase that answers where, when or how."
-    }
+      "summary": "“Afternoon” is a noun and “every” specifies it. A time circumstance can have a different form from the two forms studied here.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA08-P-013",
@@ -365,29 +521,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "What makes “The choir sang surprisingly softly.” a better choice in adding manner detail to “The choir sang”?",
-    "audio_prompt": "What makes “The choir sang surprisingly softly.” a better choice in adding manner detail to “The choir sang”?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The children waited very patiently near the gate.” Which pair correctly matches details to their jobs?",
+    "audio_prompt": "Read: “The children waited very patiently near the gate.” Which pair correctly matches details to their jobs?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The choir sang under the stage if the meaning is manner.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Surprisingly softly is an adverb group that tells how the choir sang.",
+        "text": "“very patiently”: how; “near the gate”: where",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "“very patiently”: where; “near the gate”: when",
+        "is_correct": false
+      },
+      {
+        "text": "“very patiently”: when; “near the gate”: how",
+        "is_correct": false
+      },
+      {
+        "text": "“very patiently”: how many; “near the gate”: why",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Surprisingly softly is an adverb group that tells how the choir sang.",
-      "hint": "Manner details explain how an activity happens."
-    }
+      "summary": "The adverb group describes manner and the prepositional phrase gives place.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA08-P-014",
@@ -395,29 +564,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which explanation best justifies “The choir sang surprisingly softly.” for adding manner detail to “The choir sang”?",
-    "audio_prompt": "Which explanation best justifies “The choir sang surprisingly softly.” for adding manner detail to “The choir sang”?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The friendly guide spoke clearly.” Which word describes how the guide spoke?",
+    "audio_prompt": "Read: “The friendly guide spoke clearly.” Which word describes how the guide spoke?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The choir sang under the stage if the meaning is manner.” is always acceptable in this situation.",
+        "text": "friendly",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Surprisingly softly is an adverb group that tells how the choir sang.",
+        "text": "clearly",
         "is_correct": true
+      },
+      {
+        "text": "guide",
+        "is_correct": false
+      },
+      {
+        "text": "The",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Surprisingly softly is an adverb group that tells how the choir sang.",
-      "hint": "Manner details explain how an activity happens."
-    }
+      "summary": "“Clearly” adds manner to “spoke”. “Friendly” describes the guide, despite ending in -ly.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA08-P-015",
@@ -425,29 +607,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which explanation best justifies “We packed the tent before sunrise.” for adding time detail to “We packed the tent”?",
-    "audio_prompt": "Which explanation best justifies “We packed the tent before sunrise.” for adding time detail to “We packed the tent”?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The children ran fast.” Which statement about “fast” is correct?",
+    "audio_prompt": "Read: “The children ran fast.” Which statement about “fast” is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Before sunrise is a prepositional phrase giving the time of the action.",
+        "text": "It cannot be an adverb because it lacks -ly.",
+        "is_correct": false
+      },
+      {
+        "text": "It names the place where they ran.",
+        "is_correct": false
+      },
+      {
+        "text": "It is an adverb here because it describes how they ran.",
         "is_correct": true
       },
       {
-        "text": "Because “We packed before the tent sunrise.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "It describes the noun “children” as a colour.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Before sunrise is a prepositional phrase giving the time of the action.",
-      "hint": "Check what circumstance the phrase adds."
-    }
+      "summary": "The job in this sentence matters: “fast” modifies the running.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA08-P-016",
@@ -455,29 +650,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "What should you notice about “We packed the tent before sunrise.” in adding time detail to “We packed the tent”?",
-    "audio_prompt": "What should you notice about “We packed the tent before sunrise.” in adding time detail to “We packed the tent”?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The gardeners meet monthly.” What does “monthly” tell here?",
+    "audio_prompt": "Read: “The gardeners meet monthly.” What does “monthly” tell here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “We packed before the tent sunrise.” is always acceptable in this situation.",
+        "text": "The place where they meet",
         "is_correct": false
       },
       {
-        "text": "Before sunrise is a prepositional phrase giving the time of the action.",
+        "text": "How quietly they meet",
+        "is_correct": false
+      },
+      {
+        "text": "The number of gardeners",
+        "is_correct": false
+      },
+      {
+        "text": "How often they meet, a time circumstance",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Before sunrise is a prepositional phrase giving the time of the action.",
-      "hint": "Check what circumstance the phrase adds."
-    }
+      "summary": "“Monthly” gives frequency. It does not describe manner, such as speaking quietly.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LA08-P-017",
@@ -485,29 +693,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "What should you notice about “After lunch, the class visited the gallery.” in placing a phrase so its meaning is clear?",
-    "audio_prompt": "What should you notice about “After lunch, the class visited the gallery.” in placing a phrase so its meaning is clear?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The child with a striped scarf waved.” What does “with a striped scarf” describe?",
+    "audio_prompt": "Read: “The child with a striped scarf waved.” What does “with a striped scarf” describe?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The class, after, visited lunch the gallery.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
+        "text": "Which child is being identified",
         "is_correct": true
+      },
+      {
+        "text": "How the waving was performed",
+        "is_correct": false
+      },
+      {
+        "text": "When the waving happened",
+        "is_correct": false
+      },
+      {
+        "text": "Where the waving happened",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
-      "hint": "Keep the phrase close to the activity it describes."
-    }
+      "summary": "This prepositional phrase modifies the noun “child”, not the waving. Not every prepositional phrase supplies circumstances of an activity.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LA08-P-018",
@@ -515,29 +736,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which reason explains why “After lunch, the class visited the gallery.” suits placing a phrase so its meaning is clear?",
-    "audio_prompt": "Which reason explains why “After lunch, the class visited the gallery.” suits placing a phrase so its meaning is clear?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The child waved with enthusiasm.” What is the job of “with enthusiasm” here?",
+    "audio_prompt": "Read: “The child waved with enthusiasm.” What is the job of “with enthusiasm” here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
+        "text": "It tells which striped scarf the child wore.",
+        "is_correct": false
+      },
+      {
+        "text": "It describes how the child waved.",
         "is_correct": true
       },
       {
-        "text": "Because “The class, after, visited lunch the gallery.” is always acceptable in this situation.",
+        "text": "It gives the time of the wave.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "It names a place beside the child.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
-      "hint": "Keep the phrase close to the activity it describes."
-    }
+      "summary": "In this sentence the phrase gives manner to the activity, rather than identifying the child.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LA08-P-019",
@@ -545,29 +779,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which reason explains why “The lizard rested beneath the warm rock.” suits adding a precise place detail to a science observation?",
-    "audio_prompt": "Which reason explains why “The lizard rested beneath the warm rock.” suits adding a precise place detail to a science observation?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “At the edge of the field, the hikers stopped.” Move the place phrase to the end without changing the event. Which version works?",
+    "audio_prompt": "Read: “At the edge of the field, the hikers stopped.” Move the place phrase to the end without changing the event. Which version works?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The lizard rested warm.” is always acceptable in this situation.",
+        "text": "The hikers walked away from the edge of the field.",
         "is_correct": false
       },
       {
-        "text": "Beneath the warm rock specifies where the lizard rested.",
+        "text": "At the edge, the field stopped the hikers.",
+        "is_correct": false
+      },
+      {
+        "text": "The hikers stopped at the edge of the field.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The hikers stopped before the field was built.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Beneath the warm rock specifies where the lizard rested.",
-      "hint": "Choose detail that adds useful information, not just extra words."
-    }
+      "summary": "The same stop and location remain. Moving the phrase changes what the reader meets first.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LA08-P-020",
@@ -575,29 +822,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Why does “The lizard rested beneath the warm rock.” work well for adding a precise place detail to a science observation?",
-    "audio_prompt": "Why does “The lizard rested beneath the warm rock.” work well for adding a precise place detail to a science observation?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The fox waited before sunrise.” What changes in “Before sunrise, the fox waited”?",
+    "audio_prompt": "Read: “The fox waited before sunrise.” What changes in “Before sunrise, the fox waited”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The lizard rested warm.” is always acceptable in this situation.",
+        "text": "The fox now waits after sunrise.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The fox becomes the thing that rises.",
         "is_correct": false
       },
       {
-        "text": "Beneath the warm rock specifies where the lizard rested.",
+        "text": "The sentence no longer contains a time detail.",
+        "is_correct": false
+      },
+      {
+        "text": "The time detail comes first; the basic event and time stay the same.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Beneath the warm rock specifies where the lizard rested.",
-      "hint": "Choose detail that adds useful information, not just extra words."
-    }
+      "summary": "Position can foreground a circumstance without changing the basic event.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LA08-P-021",
@@ -605,29 +865,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which revision best fixes the problem in “The wallaby rocky hopped.” for adding place detail to “The wallaby hopped”?",
-    "audio_prompt": "Which revision best fixes the problem in “The wallaby rocky hopped.” for adding place detail to “The wallaby hopped”?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "You want to add a place to “The cat rested.” Which addition gives a precise place without changing the action?",
+    "audio_prompt": "You want to add a place to “The cat rested.” Which addition gives a precise place without changing the action?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The wallaby hopped across the rocky track.",
+        "text": "The cat rested beneath the garden chair.",
         "is_correct": true
       },
       {
-        "text": "The wallaby rocky hopped.",
+        "text": "The cat rested quite peacefully.",
         "is_correct": false
       },
       {
-        "text": "Across hopped the wallaby track without a clear relationship.",
+        "text": "The cat rested after breakfast.",
+        "is_correct": false
+      },
+      {
+        "text": "The cat rested very briefly.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for a phrase that answers where, when or how."
-    }
+      "summary": "“Beneath the garden chair” tells where; the alternatives give manner, time or duration.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LA08-P-022",
@@ -635,29 +908,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Compare the choices for adding place detail to “The wallaby hopped”. Which one avoids the mistake in “The wallaby rocky hopped.”?",
-    "audio_prompt": "Compare the choices for adding place detail to “The wallaby hopped”. Which one avoids the mistake in “The wallaby rocky hopped.”?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "You want to add a time to “The team practised.” Which version does this with a prepositional phrase?",
+    "audio_prompt": "You want to add a time to “The team practised.” Which version does this with a prepositional phrase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The wallaby rocky hopped.",
+        "text": "The team practised outside.",
         "is_correct": false
       },
       {
-        "text": "The wallaby hopped across the rocky track.",
+        "text": "The team practised after lunch.",
         "is_correct": true
       },
       {
-        "text": "Across hopped the wallaby track without a clear relationship.",
+        "text": "The team practised very carefully.",
+        "is_correct": false
+      },
+      {
+        "text": "The team practised enthusiastically.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for a phrase that answers where, when or how."
-    }
+      "summary": "“After lunch” begins with the preposition “after” and gives time. The other additions use adverbs for place or manner.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LA08-P-023",
@@ -665,29 +951,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Compare the choices for adding manner detail to “The choir sang”. Which one avoids the mistake in “The choir sang under the stage if the meaning is manner.”?",
-    "audio_prompt": "Compare the choices for adding manner detail to “The choir sang”. Which one avoids the mistake in “The choir sang under the stage if the meaning is manner.”?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Which version expands “The artist drew” using an adverb group of more than one word to show manner?",
+    "audio_prompt": "Which version expands “The artist drew” using an adverb group of more than one word to show manner?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choir sang under the stage if the meaning is manner.",
+        "text": "The artist drew beside the window.",
         "is_correct": false
       },
       {
-        "text": "The choir softly surprising sang.",
+        "text": "The artist drew with a pencil.",
         "is_correct": false
       },
       {
-        "text": "The choir sang surprisingly softly.",
+        "text": "The artist drew surprisingly quickly.",
         "is_correct": true
+      },
+      {
+        "text": "The artist drew after the bell.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Surprisingly softly is an adverb group that tells how the choir sang. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Manner details explain how an activity happens."
-    }
+      "summary": "“Surprisingly quickly” is headed by the adverb “quickly”; the other additions begin with prepositions.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LA08-P-024",
@@ -695,29 +994,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "If “The choir sang under the stage if the meaning is manner.” does not work in adding manner detail to “The choir sang”, what should replace it?",
-    "audio_prompt": "If “The choir sang under the stage if the meaning is manner.” does not work in adding manner detail to “The choir sang”, what should replace it?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The toy rolled towards the doorway.” What does “towards the doorway” add?",
+    "audio_prompt": "Read: “The toy rolled towards the doorway.” What does “towards the doorway” add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choir sang surprisingly softly.",
+        "text": "The time when the toy was made",
+        "is_correct": false
+      },
+      {
+        "text": "How often the toy rolls",
+        "is_correct": false
+      },
+      {
+        "text": "The owner’s opinion of the toy",
+        "is_correct": false
+      },
+      {
+        "text": "The direction of the rolling",
         "is_correct": true
-      },
-      {
-        "text": "The choir sang under the stage if the meaning is manner.",
-        "is_correct": false
-      },
-      {
-        "text": "The choir softly surprising sang.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Surprisingly softly is an adverb group that tells how the choir sang. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Manner details explain how an activity happens."
-    }
+      "summary": "The prepositional phrase adds a place-related direction to the movement.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LA08-P-025",
@@ -725,29 +1037,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "If “We packed before the tent sunrise.” does not work in adding time detail to “We packed the tent”, what should replace it?",
-    "audio_prompt": "If “We packed before the tent sunrise.” does not work in adding time detail to “We packed the tent”, what should replace it?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “During the break, the children talked unusually quietly.” Which part is an adverb group rather than a prepositional phrase?",
+    "audio_prompt": "Read: “During the break, the children talked unusually quietly.” Which part is an adverb group rather than a prepositional phrase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We packed before the tent sunrise.",
-        "is_correct": false
-      },
-      {
-        "text": "We packed the tent before sunrise.",
+        "text": "unusually quietly",
         "is_correct": true
       },
       {
-        "text": "We sunrise packed the tent.",
+        "text": "During the break",
+        "is_correct": false
+      },
+      {
+        "text": "the break",
+        "is_correct": false
+      },
+      {
+        "text": "the children",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Before sunrise is a prepositional phrase giving the time of the action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check what circumstance the phrase adds."
-    }
+      "summary": "“Quietly” heads the adverb group; “unusually” adds degree. “During the break” is a prepositional time phrase.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LA08-P-026",
@@ -755,29 +1080,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which option corrects the meaning or form needed for adding time detail to “We packed the tent”?",
-    "audio_prompt": "Which option corrects the meaning or form needed for adding time detail to “We packed the tent”?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The hikers rested because of the heat.” What circumstance does “because of the heat” provide?",
+    "audio_prompt": "Read: “The hikers rested because of the heat.” What circumstance does “because of the heat” provide?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We packed before the tent sunrise.",
+        "text": "The precise place of the rest",
         "is_correct": false
       },
       {
-        "text": "We sunrise packed the tent.",
-        "is_correct": false
-      },
-      {
-        "text": "We packed the tent before sunrise.",
+        "text": "The reason for resting",
         "is_correct": true
+      },
+      {
+        "text": "The way the hikers sat",
+        "is_correct": false
+      },
+      {
+        "text": "The time shown on a clock",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Before sunrise is a prepositional phrase giving the time of the action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check what circumstance the phrase adds."
-    }
+      "summary": "The phrase gives cause/reason. Here “because of” begins a prepositional phrase with the noun group “the heat”.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LA08-P-027",
@@ -785,29 +1123,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which option corrects the meaning or form needed for placing a phrase so its meaning is clear?",
-    "audio_prompt": "Which option corrects the meaning or form needed for placing a phrase so its meaning is clear?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The cyclist stopped beside a fallen branch.” Which is the complete prepositional phrase, including its preposition and whole object?",
+    "audio_prompt": "Read: “The cyclist stopped beside a fallen branch.” Which is the complete prepositional phrase, including its preposition and whole object?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "After lunch, the class visited the gallery.",
+        "text": "a fallen branch",
+        "is_correct": false
+      },
+      {
+        "text": "beside a fallen",
+        "is_correct": false
+      },
+      {
+        "text": "beside a fallen branch",
         "is_correct": true
       },
       {
-        "text": "The class, after, visited lunch the gallery.",
-        "is_correct": false
-      },
-      {
-        "text": "The class visited after the gallery lunch.",
+        "text": "stopped beside",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Keep the phrase close to the activity it describes."
-    }
+      "summary": "The whole object is “a fallen branch”; keeping “beside” with it preserves the complete place phrase.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LA08-P-028",
@@ -815,29 +1166,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which choice is the clearest correction for placing a phrase so its meaning is clear?",
-    "audio_prompt": "Which choice is the clearest correction for placing a phrase so its meaning is clear?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The dog near the pond barked loudly.” Which detail clearly describes the barking?",
+    "audio_prompt": "Read: “The dog near the pond barked loudly.” Which detail clearly describes the barking?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The class, after, visited lunch the gallery.",
+        "text": "near the pond",
         "is_correct": false
       },
       {
-        "text": "After lunch, the class visited the gallery.",
+        "text": "The dog",
+        "is_correct": false
+      },
+      {
+        "text": "the pond",
+        "is_correct": false
+      },
+      {
+        "text": "loudly",
         "is_correct": true
-      },
-      {
-        "text": "The class visited after the gallery lunch.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Keep the phrase close to the activity it describes."
-    }
+      "summary": "“Loudly” gives manner to “barked”. “Near the pond” identifies the dog in this sentence.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LA08-P-029",
@@ -845,29 +1209,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which choice is the clearest correction for adding a precise place detail to a science observation?",
-    "audio_prompt": "Which choice is the clearest correction for adding a precise place detail to a science observation?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The team worked with care in the workshop.” Which description is correct?",
+    "audio_prompt": "Read: “The team worked with care in the workshop.” Which description is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The lizard rested warm.",
-        "is_correct": false
-      },
-      {
-        "text": "The lizard beneath rested rock the.",
-        "is_correct": false
-      },
-      {
-        "text": "The lizard rested beneath the warm rock.",
+        "text": "Both additions are prepositional phrases: one gives manner and one gives place.",
         "is_correct": true
+      },
+      {
+        "text": "Only “in the workshop” is prepositional because prepositions always show place.",
+        "is_correct": false
+      },
+      {
+        "text": "Both additions are adverb-headed groups because both add detail.",
+        "is_correct": false
+      },
+      {
+        "text": "“With care” gives time and “in the workshop” gives manner.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Beneath the warm rock specifies where the lizard rested. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose detail that adds useful information, not just extra words."
-    }
+      "summary": "Form and function are separate: “with” and “in” begin phrases serving different circumstantial jobs.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LA08-P-030",
@@ -875,29 +1252,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which revision best fixes the problem in “The lizard rested warm.” for adding a precise place detail to a science observation?",
-    "audio_prompt": "Which revision best fixes the problem in “The lizard rested warm.” for adding a precise place detail to a science observation?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The audience listened rather attentively.” What does “rather” do in the adverb group?",
+    "audio_prompt": "Read: “The audience listened rather attentively.” What does “rather” do in the adverb group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The lizard rested beneath the warm rock.",
+        "text": "It names the people who listened.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the degree of “attentively”.",
         "is_correct": true
       },
       {
-        "text": "The lizard rested warm.",
+        "text": "It supplies the place of the listening.",
         "is_correct": false
       },
       {
-        "text": "The lizard beneath rested rock the.",
+        "text": "It changes the action to speaking.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Beneath the warm rock specifies where the lizard rested. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose detail that adds useful information, not just extra words."
-    }
+      "summary": "“Attentively” describes the listening; “rather” modifies that adverb.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LA08-P-031",
@@ -906,28 +1296,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "You now need to handle adding place detail to “The wallaby hopped” independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle adding place detail to “The wallaby hopped” independently. Which choice should you use?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The puppy waited here.” Which version changes only the place detail into a prepositional phrase?",
+    "audio_prompt": "Read: “The puppy waited here.” Which version changes only the place detail into a prepositional phrase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Across hopped the wallaby track without a clear relationship.",
+        "text": "The puppy slept beside the door.",
         "is_correct": false
       },
       {
-        "text": "The wallaby hopped across the rocky track.",
+        "text": "The puppy waited very calmly.",
+        "is_correct": false
+      },
+      {
+        "text": "The puppy waited beside the door.",
         "is_correct": true
       },
       {
-        "text": "The wallaby rocky hopped.",
+        "text": "The puppy waited yesterday.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
-      "hint": "Look for a phrase that answers where, when or how."
-    }
+      "summary": "The action remains waiting, and the added place now has the form “beside” plus “the door”.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LA08-P-032",
@@ -936,28 +1339,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Apply the same idea to adding place detail to “The wallaby hopped”. Which option is best?",
-    "audio_prompt": "Apply the same idea to adding place detail to “The wallaby hopped”. Which option is best?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “Under the broad tree, we ate lunch slowly.” Which complete phrase gives place?",
+    "audio_prompt": "Read: “Under the broad tree, we ate lunch slowly.” Which complete phrase gives place?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Across hopped the wallaby track without a clear relationship.",
+        "text": "the broad tree",
         "is_correct": false
       },
       {
-        "text": "The wallaby rocky hopped.",
+        "text": "ate lunch slowly",
         "is_correct": false
       },
       {
-        "text": "The wallaby hopped across the rocky track.",
+        "text": "Under the broad",
+        "is_correct": false
+      },
+      {
+        "text": "Under the broad tree",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Across the rocky track is a prepositional phrase telling where the hopping happened.",
-      "hint": "Look for a phrase that answers where, when or how."
-    }
+      "summary": "The preposition and full noun group together locate the eating.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LA08-P-033",
@@ -966,28 +1382,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Apply the same idea to adding manner detail to “The choir sang”. Which option is best?",
-    "audio_prompt": "Apply the same idea to adding manner detail to “The choir sang”. Which option is best?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "A note must say that Tari used binoculars to see a boat. Which wording makes that meaning clearest?",
+    "audio_prompt": "A note must say that Tari used binoculars to see a boat. Which wording makes that meaning clearest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choir sang surprisingly softly.",
+        "text": "Using binoculars, Tari saw a boat.",
         "is_correct": true
       },
       {
-        "text": "The choir softly surprising sang.",
+        "text": "Tari saw a boat with binoculars.",
         "is_correct": false
       },
       {
-        "text": "The choir sang under the stage if the meaning is manner.",
+        "text": "The boat with binoculars saw Tari.",
+        "is_correct": false
+      },
+      {
+        "text": "Tari saw binoculars on a boat.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Surprisingly softly is an adverb group that tells how the choir sang.",
-      "hint": "Manner details explain how an activity happens."
-    }
+      "summary": "The chosen wording clearly assigns binocular use to Tari. “A boat with binoculars” could instead describe equipment on the boat; rewriting removes that possible reading.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LA08-P-034",
@@ -996,28 +1425,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which decision would produce the clearest result in adding manner detail to “The choir sang”?",
-    "audio_prompt": "Which decision would produce the clearest result in adding manner detail to “The choir sang”?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The class assembled outside before the performance.” Which addition tells when?",
+    "audio_prompt": "Read: “The class assembled outside before the performance.” Which addition tells when?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choir softly surprising sang.",
+        "text": "outside",
         "is_correct": false
       },
       {
-        "text": "The choir sang surprisingly softly.",
+        "text": "before the performance",
         "is_correct": true
       },
       {
-        "text": "The choir sang under the stage if the meaning is manner.",
+        "text": "The class",
+        "is_correct": false
+      },
+      {
+        "text": "assembled",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Surprisingly softly is an adverb group that tells how the choir sang.",
-      "hint": "Manner details explain how an activity happens."
-    }
+      "summary": "“Before the performance” gives time. “Outside” is a place adverb, showing that different forms can add circumstances.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LA08-P-035",
@@ -1026,28 +1468,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which decision would produce the clearest result in adding time detail to “We packed the tent”?",
-    "audio_prompt": "Which decision would produce the clearest result in adding time detail to “We packed the tent”?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The children stacked the cups with great care.” Which replacement keeps a similar manner meaning while changing to an adverb group?",
+    "audio_prompt": "Read: “The children stacked the cups with great care.” Which replacement keeps a similar manner meaning while changing to an adverb group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We sunrise packed the tent.",
+        "text": "under the shelf",
         "is_correct": false
       },
       {
-        "text": "We packed before the tent sunrise.",
+        "text": "before lunch",
         "is_correct": false
       },
       {
-        "text": "We packed the tent before sunrise.",
+        "text": "very carefully",
         "is_correct": true
+      },
+      {
+        "text": "every morning",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Before sunrise is a prepositional phrase giving the time of the action.",
-      "hint": "Check what circumstance the phrase adds."
-    }
+      "summary": "“Very carefully” describes manner like “with great care”, but it is headed by an adverb rather than a preposition.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LA08-P-036",
@@ -1056,28 +1511,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Choose the option that applies the skill correctly in adding time detail to “We packed the tent”.",
-    "audio_prompt": "Choose the option that applies the skill correctly in adding time detail to “We packed the tent”.",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The lantern shone above the doorway.” Which question is not answered by the place phrase?",
+    "audio_prompt": "Read: “The lantern shone above the doorway.” Which question is not answered by the place phrase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We packed the tent before sunrise.",
+        "text": "Where was the shining lantern?",
+        "is_correct": false
+      },
+      {
+        "text": "Above what did the lantern shine?",
+        "is_correct": false
+      },
+      {
+        "text": "What doorway-related position is described?",
+        "is_correct": false
+      },
+      {
+        "text": "When did the lantern shine?",
         "is_correct": true
-      },
-      {
-        "text": "We sunrise packed the tent.",
-        "is_correct": false
-      },
-      {
-        "text": "We packed before the tent sunrise.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Before sunrise is a prepositional phrase giving the time of the action.",
-      "hint": "Check what circumstance the phrase adds."
-    }
+      "summary": "“Above the doorway” supplies position, not time. The other questions concern that supplied location.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LA08-P-037",
@@ -1086,28 +1554,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Choose the option that applies the skill correctly in placing a phrase so its meaning is clear.",
-    "audio_prompt": "Choose the option that applies the skill correctly in placing a phrase so its meaning is clear.",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The group left shortly after lunch.” Which statement correctly identifies the whole “after lunch” phrase within the sentence?",
+    "audio_prompt": "Read: “The group left shortly after lunch.” Which statement correctly identifies the whole “after lunch” phrase within the sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The class visited after the gallery lunch.",
-        "is_correct": false
-      },
-      {
-        "text": "After lunch, the class visited the gallery.",
+        "text": "“After” is the preposition and “lunch” names its object.",
         "is_correct": true
       },
       {
-        "text": "The class, after, visited lunch the gallery.",
+        "text": "“Lunch” is an adverb because it follows “after”.",
+        "is_correct": false
+      },
+      {
+        "text": "“After” is a noun naming a place.",
+        "is_correct": false
+      },
+      {
+        "text": "“After lunch” tells how politely the group left.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
-      "hint": "Keep the phrase close to the activity it describes."
-    }
+      "summary": "The phrase gives time. The nearby adverb “shortly” adds further precision to that time relationship.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LA08-P-038",
@@ -1116,28 +1597,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "What would be the most effective choice for placing a phrase so its meaning is clear?",
-    "audio_prompt": "What would be the most effective choice for placing a phrase so its meaning is clear?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “We walked through the narrow tunnel.” Why does leaving out “through” change the information in “the narrow tunnel”?",
+    "audio_prompt": "Read: “We walked through the narrow tunnel.” Why does leaving out “through” change the information in “the narrow tunnel”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The class visited after the gallery lunch.",
+        "text": "Without it, “tunnel” becomes a manner adverb.",
         "is_correct": false
       },
       {
-        "text": "The class, after, visited lunch the gallery.",
-        "is_correct": false
-      },
-      {
-        "text": "After lunch, the class visited the gallery.",
+        "text": "The preposition shows the path of the walking in relation to the tunnel.",
         "is_correct": true
+      },
+      {
+        "text": "The preposition tells the exact time of day.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the walkers were moving quickly.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Placing After lunch together makes it clear that the phrase tells when the visit happened.",
-      "hint": "Keep the phrase close to the activity it describes."
-    }
+      "summary": "The full prepositional phrase connects the tunnel to the movement; the noun group alone only names it.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LA08-P-039",
@@ -1146,28 +1640,41 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "What would be the most effective choice for adding a precise place detail to a science observation?",
-    "audio_prompt": "What would be the most effective choice for adding a precise place detail to a science observation?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The dancer turned extremely gracefully near the curtain.” Which choice identifies both form and function accurately?",
+    "audio_prompt": "Read: “The dancer turned extremely gracefully near the curtain.” Which choice identifies both form and function accurately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The lizard rested beneath the warm rock.",
+        "text": "“Near the curtain” is an adverb-headed group giving time.",
+        "is_correct": false
+      },
+      {
+        "text": "“Extremely gracefully” is a prepositional phrase giving place.",
+        "is_correct": false
+      },
+      {
+        "text": "“Extremely gracefully” is an adverb group giving manner.",
         "is_correct": true
       },
       {
-        "text": "The lizard beneath rested rock the.",
-        "is_correct": false
-      },
-      {
-        "text": "The lizard rested warm.",
+        "text": "“The dancer” is a prepositional phrase giving manner.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Beneath the warm rock specifies where the lizard rested.",
-      "hint": "Choose detail that adds useful information, not just extra words."
-    }
+      "summary": "“Gracefully” is the main adverb, modified by “extremely”; the whole group tells how the dancer turned.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LA08-P-040",
@@ -1176,28 +1683,289 @@
     "curriculum_code": "AC9E4LA08",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "You now need to handle adding a precise place detail to a science observation independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle adding a precise place detail to a science observation independently. Which choice should you use?",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “At noon, the group waited beside the fountain.” Which version preserves both circumstances while changing their order?",
+    "audio_prompt": "Read: “At noon, the group waited beside the fountain.” Which version preserves both circumstances while changing their order?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The lizard beneath rested rock the.",
+        "text": "Before noon, the group waited beside the fountain.",
         "is_correct": false
       },
       {
-        "text": "The lizard rested beneath the warm rock.",
+        "text": "At noon, the group walked away from the fountain.",
+        "is_correct": false
+      },
+      {
+        "text": "Beside the fountain, the group waited until evening.",
+        "is_correct": false
+      },
+      {
+        "text": "Beside the fountain, the group waited at noon.",
         "is_correct": true
-      },
-      {
-        "text": "The lizard rested warm.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Beneath the warm rock specifies where the lizard rested.",
-      "hint": "Choose detail that adds useful information, not just extra words."
-    }
+      "summary": "Both versions keep waiting, noon and the fountain location. The alternatives alter time or action.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LA08-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “Before the lesson, the students entered quite quietly through the side door.” Copy the time phrase, the manner adverb group and the movement/place phrase. Name each as an adverb group or a prepositional phrase and explain what it adds.",
+    "audio_prompt": "Read: “Before the lesson, the students entered quite quietly through the side door.” Copy the time phrase, the manner adverb group and the movement/place phrase. Name each as an adverb group or a prepositional phrase and explain what it adds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“Before the lesson” is a prepositional phrase giving time; “quite quietly” is an adverb group giving manner; “through the side door” is a prepositional phrase giving the path of entering.",
+    "acceptance_note": "Require all three complete groups and matching meanings. Identify prepositional form for before/through and adverb-headed form for quite quietly.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "“Before the lesson” is a prepositional phrase giving time; “quite quietly” is an adverb group giving manner; “through the side door” is a prepositional phrase giving the path of entering.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LA08-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Expand “The wallaby paused” with one adverb group of at least two words for manner and one prepositional phrase for place. Identify both and explain their jobs.",
+    "audio_prompt": "Expand “The wallaby paused” with one adverb group of at least two words for manner and one prepositional phrase for place. Identify both and explain their jobs.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The wallaby paused very cautiously beside the rocky track. “Very cautiously” describes the manner of pausing; “beside the rocky track” gives place.",
+    "acceptance_note": "Require a multiword manner adverb group such as “very cautiously” and a prepositional place phrase, both fitted to the same pausing event. Accept varied meaningful wording and placements.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The wallaby paused very cautiously beside the rocky track. “Very cautiously” describes the manner of pausing; “beside the rocky track” gives place.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LA08-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Compare “The children listened attentively” and “The children listened with close attention”. Explain the similar detail and the different grammatical forms.",
+    "audio_prompt": "Compare “The children listened attentively” and “The children listened with close attention”. Explain the similar detail and the different grammatical forms.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Both describe how the children listened. “Attentively” is an adverb; “with close attention” is a prepositional phrase beginning with “with”.",
+    "acceptance_note": "Require shared manner meaning and accurate distinction between adverb and prepositional phrase; do not classify by length alone.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Both describe how the children listened. “Attentively” is an adverb; “with close attention” is a prepositional phrase beginning with “with”.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LA08-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Write a sentence about preparing a display using a prepositional time phrase and a multiword manner adverb group. Copy each group underneath and explain what it adds.",
+    "audio_prompt": "Write a sentence about preparing a display using a prepositional time phrase and a multiword manner adverb group. Copy each group underneath and explain what it adds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Before lunch, we prepared the display very carefully. “Before lunch” gives time; “very carefully” describes how we prepared it.",
+    "acceptance_note": "Require a prepositional time phrase such as “before lunch”, not a dependent clause, plus a multiword adverb-headed manner group and clear explanation. Preserve a complete sensible sentence.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Before lunch, we prepared the display very carefully. “Before lunch” gives time; “very carefully” describes how we prepared it.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LA08-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “Every evening, our group practises outside.” Explain why the time and place details do not have the same grammatical form. Copy the time group and the place adverb.",
+    "audio_prompt": "Read: “Every evening, our group practises outside.” Explain why the time and place details do not have the same grammatical form. Copy the time group and the place adverb.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“Every evening” is a noun group giving time; “outside” is an adverb giving place. Neither is a prepositional phrase in this sentence.",
+    "acceptance_note": "Require the complete noun time group and place adverb with correct form/function distinction.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "“Every evening” is a noun group giving time; “outside” is an adverb giving place. Neither is a prepositional phrase in this sentence.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LA08-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Rewrite “Nina watched the swimmer with goggles” so it clearly means Nina wore the goggles. Explain why you changed the wording.",
+    "audio_prompt": "Rewrite “Nina watched the swimmer with goggles” so it clearly means Nina wore the goggles. Explain why you changed the wording.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Nina wore goggles as she watched the swimmer. The original could make “with goggles” seem to describe the swimmer; my version states who wore them.",
+    "acceptance_note": "Require a clear assignment of goggles to Nina and explanation of the original possible attachment. Accept another clear rewrite, including a second sentence.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Nina wore goggles as she watched the swimmer. The original could make “with goggles” seem to describe the swimmer; my version states who wore them.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LA08-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Write two versions of “The fox waited” using “before sunrise” and “beside the log”. Put the time phrase first in one and the place phrase first in the other. Explain what stays the same.",
+    "audio_prompt": "Write two versions of “The fox waited” using “before sunrise” and “beside the log”. Put the time phrase first in one and the place phrase first in the other. Explain what stays the same.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Before sunrise, the fox waited beside the log. Beside the log, the fox waited before sunrise. The waiting, time and place stay the same; the opening detail changes.",
+    "acceptance_note": "Require both phrases preserved, correct requested openings and unchanged event. Accept suitable punctuation without making advanced comma terminology a gate.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Before sunrise, the fox waited beside the log. Beside the log, the fox waited before sunrise. The waiting, time and place stay the same; the opening detail changes.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LA08-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA08",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The girl in a yellow coat waved with excitement.” Explain what each prepositional phrase describes. Then replace the manner phrase with an adverb giving a similar meaning.",
+    "audio_prompt": "Read: “The girl in a yellow coat waved with excitement.” Explain what each prepositional phrase describes. Then replace the manner phrase with an adverb giving a similar meaning.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“In a yellow coat” identifies the girl; “with excitement” describes the waving. The girl in a yellow coat waved excitedly.",
+    "acceptance_note": "Require noun attachment versus activity circumstance, and a natural manner adverb replacement such as “excitedly”.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "“In a yellow coat” identifies the girl; “with excitement” describes the waving. The girl in a yellow coat waved excitedly.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LA08-T-001",
@@ -1205,29 +1973,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "New context: adding frequency to a routine. Which option is correct?",
-    "audio_prompt": "New context: adding frequency to a routine. Which option is correct?",
+    "stage": "recognise",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The rabbit hid behind the wooden box.” Which is the complete prepositional place phrase?",
+    "audio_prompt": "Read: “The rabbit hid behind the wooden box.” Which is the complete prepositional place phrase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The library team every checks afternoon the returns.",
-        "is_correct": false
-      },
-      {
-        "text": "The library team checks the returns blue.",
-        "is_correct": false
-      },
-      {
-        "text": "The library team checks the returns every afternoon.",
+        "text": "behind the wooden box",
         "is_correct": true
+      },
+      {
+        "text": "the wooden box",
+        "is_correct": false
+      },
+      {
+        "text": "behind the wooden",
+        "is_correct": false
+      },
+      {
+        "text": "rabbit hid",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
-      "hint": "Ask what detail helps the reader understand when or how often."
-    }
+      "summary": "Include “behind” and its whole object “the wooden box”.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA08-T-002",
@@ -1235,29 +2016,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "What is the best choice for adding frequency to a routine?",
-    "audio_prompt": "What is the best choice for adding frequency to a routine?",
+    "stage": "recognise",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “Mira answered unusually softly.” What is the main adverb in “unusually softly”?",
+    "audio_prompt": "Read: “Mira answered unusually softly.” What is the main adverb in “unusually softly”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The library team checks the returns every afternoon.",
+        "text": "unusually",
+        "is_correct": false
+      },
+      {
+        "text": "softly",
         "is_correct": true
       },
       {
-        "text": "The library team every checks afternoon the returns.",
+        "text": "Mira",
         "is_correct": false
       },
       {
-        "text": "The library team checks the returns blue.",
+        "text": "answered",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
-      "hint": "Ask what detail helps the reader understand when or how often."
-    }
+      "summary": "“Softly” gives manner and “unusually” modifies its degree.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA08-T-003",
@@ -1265,29 +2059,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which explanation best supports “The library team checks the returns every afternoon.” in adding frequency to a routine?",
-    "audio_prompt": "Which explanation best supports “The library team checks the returns every afternoon.” in adding frequency to a routine?",
+    "stage": "recognise",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “After the storm, the caretaker checked the windows.” What circumstance does the opening phrase add?",
+    "audio_prompt": "Read: “After the storm, the caretaker checked the windows.” What circumstance does the opening phrase add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The library team every checks afternoon the returns.” is always a safe choice.",
+        "text": "Place",
         "is_correct": false
       },
       {
-        "text": "Every afternoon gives a repeated time circumstance for the activity.",
+        "text": "Manner",
+        "is_correct": false
+      },
+      {
+        "text": "Time",
         "is_correct": true
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "Frequency",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
-      "hint": "Ask what detail helps the reader understand when or how often."
-    }
+      "summary": "“After the storm” tells when the checking happened.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA08-T-004",
@@ -1295,29 +2102,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which clue should guide your decision in adding frequency to a routine?",
-    "audio_prompt": "Which clue should guide your decision in adding frequency to a routine?",
+    "stage": "recognise",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The players gathered nearby.” Why can “nearby” be an adverb here?",
+    "audio_prompt": "Read: “The players gathered nearby.” Why can “nearby” be an adverb here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "It names the players as a noun.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and use the first familiar form.",
+        "text": "It begins a prepositional phrase with an object after it.",
         "is_correct": false
       },
       {
-        "text": "Ask what detail helps the reader understand when or how often.",
+        "text": "It gives an exact number of players.",
+        "is_correct": false
+      },
+      {
+        "text": "It adds place to the gathering even though it does not end in -ly.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
-      "hint": "Ask what detail helps the reader understand when or how often."
-    }
+      "summary": "The word’s job is to locate the activity; the ending alone does not decide its class.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA08-T-005",
@@ -1325,29 +2145,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which option would you reject first in adding frequency to a routine?",
-    "audio_prompt": "Which option would you reject first in adding frequency to a routine?",
+    "stage": "recognise",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The artist worked with patience.” Which version gives similar manner detail using an adverb?",
+    "audio_prompt": "Read: “The artist worked with patience.” Which version gives similar manner detail using an adverb?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The library team every checks afternoon the returns.",
+        "text": "The artist worked patiently.",
         "is_correct": true
       },
       {
-        "text": "The library team checks the returns every afternoon.",
+        "text": "The artist worked in the studio.",
         "is_correct": false
       },
       {
-        "text": "The library team checks the returns blue.",
+        "text": "The artist worked after dinner.",
+        "is_correct": false
+      },
+      {
+        "text": "The artist worked yesterday.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Every afternoon gives a repeated time circumstance for the activity.",
-      "hint": "Ask what detail helps the reader understand when or how often."
-    }
+      "summary": "“Patiently” and “with patience” both give manner through different forms.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA08-T-006",
@@ -1355,29 +2188,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which correction should replace “The library team every checks afternoon the returns.” in adding frequency to a routine?",
-    "audio_prompt": "Which correction should replace “The library team every checks afternoon the returns.” in adding frequency to a routine?",
+    "stage": "recognise",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The girl beside the gate smiled broadly.” Which phrase identifies the girl rather than describing the manner of smiling?",
+    "audio_prompt": "Read: “The girl beside the gate smiled broadly.” Which phrase identifies the girl rather than describing the manner of smiling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The library team every checks afternoon the returns.",
+        "text": "smiled broadly",
         "is_correct": false
       },
       {
-        "text": "The library team checks the returns every afternoon.",
+        "text": "beside the gate",
         "is_correct": true
       },
       {
-        "text": "The library team checks the returns blue.",
+        "text": "broadly",
+        "is_correct": false
+      },
+      {
+        "text": "The girl",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
-      "hint": "Ask what detail helps the reader understand when or how often."
-    }
+      "summary": "The prepositional phrase is attached to “girl”; “broadly” gives manner to smiling.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA08-T-007",
@@ -1385,29 +2231,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Apply the skill to adding frequency to a routine: what should you choose?",
-    "audio_prompt": "Apply the skill to adding frequency to a routine: what should you choose?",
+    "stage": "recognise",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The club meets weekly.” Which meaning does “weekly” add?",
+    "audio_prompt": "Read: “The club meets weekly.” Which meaning does “weekly” add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The library team every checks afternoon the returns.",
+        "text": "The room used for meetings",
         "is_correct": false
       },
       {
-        "text": "The library team checks the returns blue.",
+        "text": "How loudly members speak",
         "is_correct": false
       },
       {
-        "text": "The library team checks the returns every afternoon.",
+        "text": "Frequency: how often it meets",
         "is_correct": true
+      },
+      {
+        "text": "The reason the club began",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
-      "hint": "Ask what detail helps the reader understand when or how often."
-    }
+      "summary": "Frequency is a time circumstance, not manner.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA08-T-008",
@@ -1415,29 +2274,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which final choice gives the clearest and most accurate result for adding frequency to a routine?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for adding frequency to a routine?",
+    "stage": "recognise",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Which sentence uses a multiword adverb group to describe how the singer began?",
+    "audio_prompt": "Which sentence uses a multiword adverb group to describe how the singer began?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The library team checks the returns every afternoon.",
+        "text": "The singer began after the introduction.",
+        "is_correct": false
+      },
+      {
+        "text": "The singer began near the piano.",
+        "is_correct": false
+      },
+      {
+        "text": "The singer began with a microphone.",
+        "is_correct": false
+      },
+      {
+        "text": "The singer began rather nervously.",
         "is_correct": true
-      },
-      {
-        "text": "The library team every checks afternoon the returns.",
-        "is_correct": false
-      },
-      {
-        "text": "The library team checks the returns blue.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Every afternoon gives a repeated time circumstance for the activity.",
-      "hint": "Ask what detail helps the reader understand when or how often."
-    }
+      "summary": "“Rather nervously” is headed by the manner adverb “nervously”.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA08-T-009",
@@ -1445,29 +2317,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "New context: improving a sentence about a cyclist. Which option is correct?",
-    "audio_prompt": "New context: improving a sentence about a cyclist. Which option is correct?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The runner stopped at the corner before breakfast.” Which version moves the time phrase first without changing the event or place?",
+    "audio_prompt": "Read: “The runner stopped at the corner before breakfast.” Which version moves the time phrase first without changing the event or place?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The cyclist moved branch carefully fallen.",
-        "is_correct": false
-      },
-      {
-        "text": "The cyclist moved carefully around the fallen branch.",
+        "text": "Before breakfast, the runner stopped at the corner.",
         "is_correct": true
       },
       {
-        "text": "The cyclist moved with around.",
+        "text": "At breakfast, the runner stopped before the corner.",
+        "is_correct": false
+      },
+      {
+        "text": "Before breakfast, the runner started at the corner.",
+        "is_correct": false
+      },
+      {
+        "text": "After breakfast, the runner stopped at the corner.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
-      "hint": "Useful circumstances should attach clearly to the action."
-    }
+      "summary": "The correct move preserves stopping, at the corner and before breakfast.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA08-T-010",
@@ -1475,29 +2360,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "What is the best choice for improving a sentence about a cyclist?",
-    "audio_prompt": "What is the best choice for improving a sentence about a cyclist?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The children sang every Tuesday.” Which description of “every Tuesday” is accurate?",
+    "audio_prompt": "Read: “The children sang every Tuesday.” Which description of “every Tuesday” is accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The cyclist moved branch carefully fallen.",
+        "text": "A prepositional phrase beginning with “every”",
         "is_correct": false
       },
       {
-        "text": "The cyclist moved with around.",
-        "is_correct": false
-      },
-      {
-        "text": "The cyclist moved carefully around the fallen branch.",
+        "text": "A noun group adding time, not a prepositional phrase",
         "is_correct": true
+      },
+      {
+        "text": "An adverb group headed by the adverb “Tuesday”",
+        "is_correct": false
+      },
+      {
+        "text": "A group explaining how loudly the children sang",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
-      "hint": "Useful circumstances should attach clearly to the action."
-    }
+      "summary": "A time circumstance need not be prepositional or adverb-headed.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA08-T-011",
@@ -1505,29 +2403,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which explanation best supports “The cyclist moved carefully around the fallen branch.” in improving a sentence about a cyclist?",
-    "audio_prompt": "Which explanation best supports “The cyclist moved carefully around the fallen branch.” in improving a sentence about a cyclist?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “We carried the model extremely carefully across the room.” Which pair separates manner and place-related movement?",
+    "audio_prompt": "Read: “We carried the model extremely carefully across the room.” Which pair separates manner and place-related movement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Carefully explains manner and around the fallen branch explains the route or place.",
+        "text": "“extremely carefully”: time; “across the room”: manner",
+        "is_correct": false
+      },
+      {
+        "text": "“extremely carefully”: place; “across the room”: time",
+        "is_correct": false
+      },
+      {
+        "text": "“extremely carefully”: manner; “across the room”: movement/place",
         "is_correct": true
       },
       {
-        "text": "Because “The cyclist moved branch carefully fallen.” is always a safe choice.",
-        "is_correct": false
-      },
-      {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "“extremely carefully”: cause; “across the room”: frequency",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
-      "hint": "Useful circumstances should attach clearly to the action."
-    }
+      "summary": "The adverb group tells how the model was carried; the prepositional phrase gives its path.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA08-T-012",
@@ -1535,29 +2446,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which clue should guide your decision in improving a sentence about a cyclist?",
-    "audio_prompt": "Which clue should guide your decision in improving a sentence about a cyclist?",
+    "stage": "apply",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "A note must clearly say that Amir used a camera to record the dancer. Which version makes the user of the camera clear?",
+    "audio_prompt": "A note must clearly say that Amir used a camera to record the dancer. Which version makes the user of the camera clear?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "Amir recorded the dancer with a camera.",
         "is_correct": false
       },
       {
-        "text": "Useful circumstances should attach clearly to the action.",
+        "text": "The dancer with a camera recorded Amir.",
+        "is_correct": false
+      },
+      {
+        "text": "Amir recorded a camera beside the dancer.",
+        "is_correct": false
+      },
+      {
+        "text": "Amir used a camera to record the dancer.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
-      "hint": "Useful circumstances should attach clearly to the action."
-    }
+      "summary": "The explicit subject of “used” removes the possible reading that the dancer had the camera.",
+      "hint": "Look closely at the wording and the information supplied."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA08-T-013",
@@ -1565,29 +2489,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which option would you reject first in improving a sentence about a cyclist?",
-    "audio_prompt": "Which option would you reject first in improving a sentence about a cyclist?",
-    "answers": [
-      {
-        "text": "The cyclist moved carefully around the fallen branch.",
-        "is_correct": false
-      },
-      {
-        "text": "The cyclist moved with around.",
-        "is_correct": false
-      },
-      {
-        "text": "The cyclist moved branch carefully fallen.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “During the interval, the helpers moved rather quickly towards the stage.” Identify the time phrase, manner adverb group and movement phrase. Name each as an adverb group or a prepositional phrase and explain how it adds to the activity.",
+    "audio_prompt": "Read: “During the interval, the helpers moved rather quickly towards the stage.” Identify the time phrase, manner adverb group and movement phrase. Name each as an adverb group or a prepositional phrase and explain how it adds to the activity.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“During the interval” gives time; “rather quickly” gives manner; “towards the stage” gives direction. The first and last are prepositional phrases; the middle is adverb-headed.",
+    "acceptance_note": "Require all complete groups, correct functions and form distinction, with the moving event retained.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Carefully explains manner and around the fallen branch explains the route or place.",
-      "hint": "Useful circumstances should attach clearly to the action."
-    }
+      "summary": "“During the interval” gives time; “rather quickly” gives manner; “towards the stage” gives direction. The first and last are prepositional phrases; the middle is adverb-headed.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA08-T-014",
@@ -1595,29 +2520,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which correction should replace “The cyclist moved branch carefully fallen.” in improving a sentence about a cyclist?",
-    "audio_prompt": "Which correction should replace “The cyclist moved branch carefully fallen.” in improving a sentence about a cyclist?",
-    "answers": [
-      {
-        "text": "The cyclist moved carefully around the fallen branch.",
-        "is_correct": true
-      },
-      {
-        "text": "The cyclist moved branch carefully fallen.",
-        "is_correct": false
-      },
-      {
-        "text": "The cyclist moved with around.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Expand “The boat drifted” with a multiword manner adverb group and a prepositional place phrase. Identify each and explain the picture your details create.",
+    "audio_prompt": "Expand “The boat drifted” with a multiword manner adverb group and a prepositional place phrase. Identify each and explain the picture your details create.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The boat drifted very gently beside the reeds. “Very gently” describes manner and “beside the reeds” locates the drifting.",
+    "acceptance_note": "Require actual composed sentence, multiword manner adverb group and prepositional place phrase with accurate explanation. Accept sensible alternatives.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
-      "hint": "Useful circumstances should attach clearly to the action."
-    }
+      "summary": "The boat drifted very gently beside the reeds. “Very gently” describes manner and “beside the reeds” locates the drifting.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA08-T-015",
@@ -1625,29 +2551,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Apply the skill to improving a sentence about a cyclist: what should you choose?",
-    "audio_prompt": "Apply the skill to improving a sentence about a cyclist: what should you choose?",
-    "answers": [
-      {
-        "text": "The cyclist moved branch carefully fallen.",
-        "is_correct": false
-      },
-      {
-        "text": "The cyclist moved carefully around the fallen branch.",
-        "is_correct": true
-      },
-      {
-        "text": "The cyclist moved with around.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Read: “The boy with a red hat spoke with confidence.” Explain the job of each “with” phrase. Replace the second phrase with an adverb while keeping a similar meaning.",
+    "audio_prompt": "Read: “The boy with a red hat spoke with confidence.” Explain the job of each “with” phrase. Replace the second phrase with an adverb while keeping a similar meaning.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“With a red hat” identifies the boy. “With confidence” gives manner to speaking. The boy with a red hat spoke confidently.",
+    "acceptance_note": "Require both different attachments/functions and a natural adverb replacement, preserving the hat detail.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
-      "hint": "Useful circumstances should attach clearly to the action."
-    }
+      "summary": "“With a red hat” identifies the boy. “With confidence” gives manner to speaking. The boy with a red hat spoke confidently.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA08-T-016",
@@ -1655,28 +2582,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA08",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Adverb Groups and Prepositional Phrases",
-    "question": "Which final choice gives the clearest and most accurate result for improving a sentence about a cyclist?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for improving a sentence about a cyclist?",
-    "answers": [
-      {
-        "text": "The cyclist moved branch carefully fallen.",
-        "is_correct": false
-      },
-      {
-        "text": "The cyclist moved with around.",
-        "is_correct": false
-      },
-      {
-        "text": "The cyclist moved carefully around the fallen branch.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "adverb_groups_and_prepositional_phrases",
+    "question": "Write two versions of “The class gathered” using “after the lesson” and “outside the library”. Begin one with the time phrase and one with the place phrase. Explain how moving the phrase affects the information order.",
+    "audio_prompt": "Write two versions of “The class gathered” using “after the lesson” and “outside the library”. Begin one with the time phrase and one with the place phrase. Explain how moving the phrase affects the information order.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "After the lesson, the class gathered outside the library. Outside the library, the class gathered after the lesson. The opening gives time first in one and place first in the other, while the event stays the same.",
+    "acceptance_note": "Require both phrases in each complete sentence, correct time/place openings, unchanged meaning and a clear explanation. Accept grammatically appropriate punctuation.",
+    "response_instructions": "Write your actual response here or on paper, or dictate it using your usual communication support. An adult checks the completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Carefully explains manner and around the fallen branch explains the route or place.",
-      "hint": "Useful circumstances should attach clearly to the action."
-    }
+      "summary": "After the lesson, the class gathered outside the library. Outside the library, the class gathered after the lesson. The opening gives time first in one and place first in the other, while the event stays the same.",
+      "hint": "Use specific words and keep the supplied information unchanged."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]

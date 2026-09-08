@@ -25,7 +25,7 @@ const { parseHTML } = require(dependency.startsWith(".") ? path.resolve(dependen
 const output = option("--output");
 const ROOT = path.resolve(__dirname, "..");
 const CODE = option("--code") || "AC9E4LA01";
-assert(/^AC9E4LA0[1-6]$/.test(CODE), "Only authored LA01–LA06 supported.");
+assert(/^AC9E4LA(?:0[1-9]|1[0-2])$/.test(CODE), "Only authored LA01–LA12 supported.");
 const BASE = `/quiz/year-4/english/${CODE.toLowerCase()}/`;
 const rows = [];
 const touched = new Set();

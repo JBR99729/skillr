@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "In replacing “walked” in “The exhausted hiker walked back to camp”, which option best demonstrates the skill?",
-    "audio_prompt": "In replacing “walked” in “The exhausted hiker walked back to camp”, which option best demonstrates the skill?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The exhausted hiker walked slowly back to camp.” Which word could replace “walked” to add a sense of heavy, tired steps?",
+    "audio_prompt": "“The exhausted hiker walked slowly back to camp.” Which word could replace “walked” to add a sense of heavy, tired steps?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      {
-        "text": "skipped",
-        "is_correct": false
-      },
       {
         "text": "trudged",
         "is_correct": true
       },
       {
-        "text": "floated",
+        "text": "skipped",
+        "is_correct": false
+      },
+      {
+        "text": "sprinted",
+        "is_correct": false
+      },
+      {
+        "text": "strolled",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Trudged suggests slow, heavy movement and matches an exhausted hiker.",
-      "hint": "A synonym must fit the exact context, not merely have a related dictionary meaning."
-    }
+      "summary": "“Trudged” suggests slow, heavy walking. “Strolled” usually suggests a relaxed walk, while skipped and sprinted suggest different movement.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA11-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which choice fits replacing “walked” in “The exhausted hiker walked back to camp” most accurately?",
-    "audio_prompt": "Which choice fits replacing “walked” in “The exhausted hiker walked back to camp” most accurately?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The scientist examined a very small insect.” Which word best replaces “very small” while describing its overall size?",
+    "audio_prompt": "“The scientist examined a very small insect.” Which word best replaces “very small” while describing its overall size?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "skipped",
+        "text": "brief",
         "is_correct": false
       },
       {
-        "text": "floated",
-        "is_correct": false
-      },
-      {
-        "text": "trudged",
+        "text": "tiny",
         "is_correct": true
+      },
+      {
+        "text": "narrow",
+        "is_correct": false
+      },
+      {
+        "text": "young",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Trudged suggests slow, heavy movement and matches an exhausted hiker.",
-      "hint": "A synonym must fit the exact context, not merely have a related dictionary meaning."
-    }
+      "summary": "“Tiny” describes very small size. “Brief” describes duration, “narrow” width and “young” age.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA11-P-003",
@@ -66,28 +92,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which choice fits choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully” most accurately?",
-    "audio_prompt": "Which choice fits choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully” most accurately?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“We made a brief visit to the gallery.” Which phrase is closest to “brief” here?",
+    "audio_prompt": "“We made a brief visit to the gallery.” Which phrase is closest to “brief” here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "examined",
+        "text": "small in height",
+        "is_correct": false
+      },
+      {
+        "text": "thin in width",
+        "is_correct": false
+      },
+      {
+        "text": "short in time",
         "is_correct": true
       },
       {
-        "text": "glanced",
-        "is_correct": false
-      },
-      {
-        "text": "ignored",
+        "text": "quiet in sound",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Examined means looked at closely and carefully.",
-      "hint": "Compare the intensity and purpose of the words."
-    }
+      "summary": "A brief visit lasts a short time. Words about size or sound do not preserve that meaning.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA11-P-004",
@@ -96,28 +135,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Look closely at choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”. Which response or wording works best?",
-    "audio_prompt": "Look closely at choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”. Which response or wording works best?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“Kai glanced at the clock before returning to the book.” What does “glanced” add to the meaning of “looked”?",
+    "audio_prompt": "“Kai glanced at the clock before returning to the book.” What does “glanced” add to the meaning of “looked”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "glanced",
+        "text": "The look was necessarily angry.",
         "is_correct": false
       },
       {
-        "text": "examined",
+        "text": "Kai watched the clock for hours.",
+        "is_correct": false
+      },
+      {
+        "text": "Kai could not see the clock.",
+        "is_correct": false
+      },
+      {
+        "text": "The look was quick.",
         "is_correct": true
-      },
-      {
-        "text": "ignored",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Examined means looked at closely and carefully.",
-      "hint": "Compare the intensity and purpose of the words."
-    }
+      "summary": "“Glanced” suggests a quick look. It does not by itself express anger or a long inspection.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA11-P-005",
@@ -126,28 +178,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Look closely at finding the best antonym of “scarce” in a sentence about rainfall. Which response or wording works best?",
-    "audio_prompt": "Look closely at finding the best antonym of “scarce” in a sentence about rainfall. Which response or wording works best?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“Mira examined the tiny writing carefully.” Which replacement keeps the idea of close attention?",
+    "audio_prompt": "“Mira examined the tiny writing carefully.” Which replacement keeps the idea of close attention?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "dry",
-        "is_correct": false
-      },
-      {
-        "text": "tiny",
-        "is_correct": false
-      },
-      {
-        "text": "abundant",
+        "text": "studied",
         "is_correct": true
+      },
+      {
+        "text": "ignored",
+        "is_correct": false
+      },
+      {
+        "text": "glimpsed",
+        "is_correct": false
+      },
+      {
+        "text": "overlooked",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "In this context, abundant means plentiful, which contrasts with scarce.",
-      "hint": "Choose the opposite meaning that fits the same sense of the word."
-    }
+      "summary": "“Studied” can mean looked at closely. “Glimpsed” is brief and the other choices do not preserve careful attention.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA11-P-006",
@@ -156,28 +221,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "For finding the best antonym of “scarce” in a sentence about rainfall, which option is the strongest match?",
-    "audio_prompt": "For finding the best antonym of “scarce” in a sentence about rainfall, which option is the strongest match?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The child spoke softly so the baby would keep sleeping.” Which verb best replaces “spoke softly” in this context?",
+    "audio_prompt": "“The child spoke softly so the baby would keep sleeping.” Which verb best replaces “spoke softly” in this context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "abundant",
+        "text": "shouted",
+        "is_correct": false
+      },
+      {
+        "text": "whispered",
         "is_correct": true
       },
       {
-        "text": "dry",
+        "text": "announced",
         "is_correct": false
       },
       {
-        "text": "tiny",
+        "text": "yelled",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "In this context, abundant means plentiful, which contrasts with scarce.",
-      "hint": "Choose the opposite meaning that fits the same sense of the word."
-    }
+      "summary": "“Whispered” describes very quiet speech and fits the stated purpose.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA11-P-007",
@@ -186,28 +264,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "For choosing precise science vocabulary, which option is the strongest match?",
-    "audio_prompt": "For choosing precise science vocabulary, which option is the strongest match?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The crowd was delighted by the surprise performance.” Which word is closest to “delighted”?",
+    "audio_prompt": "“The crowd was delighted by the surprise performance.” Which word is closest to “delighted”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The liquid did a thing when it got hot.",
+        "text": "puzzled",
         "is_correct": false
       },
       {
-        "text": "The liquid evaporated as it gained heat.",
+        "text": "annoyed",
+        "is_correct": false
+      },
+      {
+        "text": "pleased",
         "is_correct": true
       },
       {
-        "text": "The liquid vanished magically.",
+        "text": "worried",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Evaporated precisely names the process being described.",
-      "hint": "Technical words can make meaning more exact when they are used correctly."
-    }
+      "summary": "“Pleased” shares the positive feeling, although “delighted” is usually stronger.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA11-P-008",
@@ -216,28 +307,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which example should you choose for choosing precise science vocabulary?",
-    "audio_prompt": "Which example should you choose for choosing precise science vocabulary?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The tiny crack was visible in the glass.” Which word is an antonym of “visible” in this sentence?",
+    "audio_prompt": "“The tiny crack was visible in the glass.” Which word is an antonym of “visible” in this sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The liquid did a thing when it got hot.",
+        "text": "fragile",
         "is_correct": false
       },
       {
-        "text": "The liquid vanished magically.",
+        "text": "clear",
         "is_correct": false
       },
       {
-        "text": "The liquid evaporated as it gained heat.",
+        "text": "shiny",
+        "is_correct": false
+      },
+      {
+        "text": "invisible",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Evaporated precisely names the process being described.",
-      "hint": "Technical words can make meaning more exact when they are used correctly."
-    }
+      "summary": "“Invisible” means unable to be seen, the opposite of visible in this context.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA11-P-009",
@@ -246,28 +350,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which example should you choose for choosing between “whispered”, “said” and “shouted”?",
-    "audio_prompt": "Which example should you choose for choosing between “whispered”, “said” and “shouted”?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“Water was scarce during the dry spell.” Which word gives the opposite meaning to “scarce” about the amount available?",
+    "audio_prompt": "“Water was scarce during the dry spell.” Which word gives the opposite meaning to “scarce” about the amount available?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The child whispered so the sleeping baby would not wake.",
+        "text": "abundant",
         "is_correct": true
       },
       {
-        "text": "The child shouted so the sleeping baby would not wake.",
+        "text": "damp",
         "is_correct": false
       },
       {
-        "text": "The child exploded the sentence.",
+        "text": "shallow",
+        "is_correct": false
+      },
+      {
+        "text": "muddy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Whispered includes the idea of speaking very quietly, which fits the situation.",
-      "hint": "Synonyms often carry different intensity or manner."
-    }
+      "summary": "“Abundant” means plentiful. The other words concern wetness, depth or condition, not the opposite amount.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA11-P-010",
@@ -276,28 +393,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "In choosing between “whispered”, “said” and “shouted”, which option best demonstrates the skill?",
-    "audio_prompt": "In choosing between “whispered”, “said” and “shouted”, which option best demonstrates the skill?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“This flexible strip bends easily.” Which word would describe the opposite property?",
+    "audio_prompt": "“This flexible strip bends easily.” Which word would describe the opposite property?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The child shouted so the sleeping baby would not wake.",
+        "text": "smooth",
         "is_correct": false
       },
       {
-        "text": "The child whispered so the sleeping baby would not wake.",
+        "text": "rigid",
         "is_correct": true
       },
       {
-        "text": "The child exploded the sentence.",
+        "text": "thin",
+        "is_correct": false
+      },
+      {
+        "text": "colourful",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Whispered includes the idea of speaking very quietly, which fits the situation.",
-      "hint": "Synonyms often carry different intensity or manner."
-    }
+      "summary": "“Rigid” means stiff rather than easily bent. A smooth or thin strip could still be flexible.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA11-P-011",
@@ -305,29 +435,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Why does “trudged” work well for replacing “walked” in “The exhausted hiker walked back to camp”?",
-    "audio_prompt": "Why does “trudged” work well for replacing “walked” in “The exhausted hiker walked back to camp”?",
+    "stage": "recognise",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“Noor was reluctant to enter the competition.” Which word gives the opposite attitude?",
+    "audio_prompt": "“Noor was reluctant to enter the competition.” Which word gives the opposite attitude?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “skipped” is always acceptable in this situation.",
+        "text": "quiet",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "careful",
         "is_correct": false
       },
       {
-        "text": "Trudged suggests slow, heavy movement and matches an exhausted hiker.",
+        "text": "eager",
         "is_correct": true
+      },
+      {
+        "text": "patient",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Trudged suggests slow, heavy movement and matches an exhausted hiker.",
-      "hint": "A synonym must fit the exact context, not merely have a related dictionary meaning."
-    }
+      "summary": "“Eager” means keen to do it; reluctant means unwilling or hesitant. Being quiet, careful or patient does not necessarily oppose reluctance.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA11-P-012",
@@ -335,29 +478,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "What makes “trudged” a better choice in replacing “walked” in “The exhausted hiker walked back to camp”?",
-    "audio_prompt": "What makes “trudged” a better choice in replacing “walked” in “The exhausted hiker walked back to camp”?",
+    "stage": "recognise",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The light suitcase was easy to lift.” What is the relevant antonym of “light”?",
+    "audio_prompt": "“The light suitcase was easy to lift.” What is the relevant antonym of “light”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Trudged suggests slow, heavy movement and matches an exhausted hiker.",
+        "text": "dark",
+        "is_correct": false
+      },
+      {
+        "text": "serious",
+        "is_correct": false
+      },
+      {
+        "text": "bright",
+        "is_correct": false
+      },
+      {
+        "text": "heavy",
         "is_correct": true
-      },
-      {
-        "text": "Because “skipped” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Trudged suggests slow, heavy movement and matches an exhausted hiker.",
-      "hint": "A synonym must fit the exact context, not merely have a related dictionary meaning."
-    }
+      "summary": "Here “light” concerns weight, so “heavy” is the opposite. Other senses of light need different opposites.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA11-P-013",
@@ -365,29 +521,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "What makes “examined” a better choice in choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”?",
-    "audio_prompt": "What makes “examined” a better choice in choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The pale blue paint is a light colour.” Which word gives the opposite colour sense of “light”?",
+    "audio_prompt": "“The pale blue paint is a light colour.” Which word gives the opposite colour sense of “light”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “glanced” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Examined means looked at closely and carefully.",
+        "text": "dark",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "heavy",
+        "is_correct": false
+      },
+      {
+        "text": "difficult",
+        "is_correct": false
+      },
+      {
+        "text": "loud",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Examined means looked at closely and carefully.",
-      "hint": "Compare the intensity and purpose of the words."
-    }
+      "summary": "The sentence concerns colour, not weight or difficulty.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA11-P-014",
@@ -395,29 +564,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which explanation best justifies “examined” for choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”?",
-    "audio_prompt": "Which explanation best justifies “examined” for choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The teacher gave a clear explanation that everyone understood.” Which word best opposes “clear” in this context?",
+    "audio_prompt": "“The teacher gave a clear explanation that everyone understood.” Which word best opposes “clear” in this context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “glanced” is always acceptable in this situation.",
+        "text": "cloudy",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Examined means looked at closely and carefully.",
+        "text": "confusing",
         "is_correct": true
+      },
+      {
+        "text": "transparent",
+        "is_correct": false
+      },
+      {
+        "text": "bright",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Examined means looked at closely and carefully.",
-      "hint": "Compare the intensity and purpose of the words."
-    }
+      "summary": "An unclear explanation is confusing. “Cloudy” can oppose clear weather, but does not naturally fit this explanation.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA11-P-015",
@@ -425,29 +607,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which explanation best justifies “abundant” for finding the best antonym of “scarce” in a sentence about rainfall?",
-    "audio_prompt": "Which explanation best justifies “abundant” for finding the best antonym of “scarce” in a sentence about rainfall?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The bag contains a hard wooden block.” Which word gives the opposite of “hard” here?",
+    "audio_prompt": "“The bag contains a hard wooden block.” Which word gives the opposite of “hard” here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "In this context, abundant means plentiful, which contrasts with scarce.",
+        "text": "easy",
+        "is_correct": false
+      },
+      {
+        "text": "simple",
+        "is_correct": false
+      },
+      {
+        "text": "soft",
         "is_correct": true
       },
       {
-        "text": "Because “dry” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "kind",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "In this context, abundant means plentiful, which contrasts with scarce.",
-      "hint": "Choose the opposite meaning that fits the same sense of the word."
-    }
+      "summary": "The sentence describes a material property. Easy opposes hard when hard means difficult, not when describing the block.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA11-P-016",
@@ -455,29 +650,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "What should you notice about “abundant” in finding the best antonym of “scarce” in a sentence about rainfall?",
-    "audio_prompt": "What should you notice about “abundant” in finding the best antonym of “scarce” in a sentence about rainfall?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“This puzzle was hard for me to solve.” Which word gives the opposite meaning to “hard” here?",
+    "audio_prompt": "“This puzzle was hard for me to solve.” Which word gives the opposite meaning to “hard” here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “dry” is always acceptable in this situation.",
+        "text": "soft",
         "is_correct": false
       },
       {
-        "text": "In this context, abundant means plentiful, which contrasts with scarce.",
+        "text": "gentle",
+        "is_correct": false
+      },
+      {
+        "text": "smooth",
+        "is_correct": false
+      },
+      {
+        "text": "easy",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "In this context, abundant means plentiful, which contrasts with scarce.",
-      "hint": "Choose the opposite meaning that fits the same sense of the word."
-    }
+      "summary": "For a puzzle, “hard” means difficult. “Easy” supplies the opposite sense.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LA11-P-017",
@@ -485,29 +693,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "What should you notice about “The liquid evaporated as it gained heat.” in choosing precise science vocabulary?",
-    "audio_prompt": "What should you notice about “The liquid evaporated as it gained heat.” in choosing precise science vocabulary?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“Arun was annoyed when his pencil snapped. After his entire drawing was torn, he was furious.” What difference do the words suggest in this story?",
+    "audio_prompt": "“Arun was annoyed when his pencil snapped. After his entire drawing was torn, he was furious.” What difference do the words suggest in this story?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The liquid did a thing when it got hot.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Evaporated precisely names the process being described.",
+        "text": "Furious suggests a stronger level of anger than annoyed.",
         "is_correct": true
+      },
+      {
+        "text": "Annoyed suggests stronger anger than furious.",
+        "is_correct": false
+      },
+      {
+        "text": "The words describe exactly the same strength of anger.",
+        "is_correct": false
+      },
+      {
+        "text": "Furious describes a brief surprise rather than anger.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Evaporated precisely names the process being described.",
-      "hint": "Technical words can make meaning more exact when they are used correctly."
-    }
+      "summary": "In this context furious expresses intense anger; annoyed is milder.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LA11-P-018",
@@ -515,29 +736,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which reason explains why “The liquid evaporated as it gained heat.” suits choosing precise science vocabulary?",
-    "audio_prompt": "Which reason explains why “The liquid evaporated as it gained heat.” suits choosing precise science vocabulary?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "A writer replaces “said” with “shouted” in “Lina said her name.” Which new meaning is added?",
+    "audio_prompt": "A writer replaces “said” with “shouted” in “Lina said her name.” Which new meaning is added?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Evaporated precisely names the process being described.",
+        "text": "Lina necessarily spoke angrily.",
+        "is_correct": false
+      },
+      {
+        "text": "Lina spoke loudly.",
         "is_correct": true
       },
       {
-        "text": "Because “The liquid did a thing when it got hot.” is always acceptable in this situation.",
+        "text": "Lina spoke more politely.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Lina spoke very quietly.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Evaporated precisely names the process being described.",
-      "hint": "Technical words can make meaning more exact when they are used correctly."
-    }
+      "summary": "Shouting adds volume. It can happen for different reasons, so anger is not guaranteed.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LA11-P-019",
@@ -545,29 +779,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which reason explains why “The child whispered so the sleeping baby would not wake.” suits choosing between “whispered”, “said” and “shouted”?",
-    "audio_prompt": "Which reason explains why “The child whispered so the sleeping baby would not wake.” suits choosing between “whispered”, “said” and “shouted”?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The team received a parcel. Later, they sent a thank-you card.” Which pair expresses opposite directions of transfer?",
+    "audio_prompt": "“The team received a parcel. Later, they sent a thank-you card.” Which pair expresses opposite directions of transfer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The child shouted so the sleeping baby would not wake.” is always acceptable in this situation.",
+        "text": "parcel, card",
         "is_correct": false
       },
       {
-        "text": "Whispered includes the idea of speaking very quietly, which fits the situation.",
+        "text": "team, they",
+        "is_correct": false
+      },
+      {
+        "text": "received, sent",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Later, thank-you",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Whispered includes the idea of speaking very quietly, which fits the situation.",
-      "hint": "Synonyms often carry different intensity or manner."
-    }
+      "summary": "Receiving brings something to someone; sending directs it away to a recipient.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LA11-P-020",
@@ -575,29 +822,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Why does “The child whispered so the sleeping baby would not wake.” work well for choosing between “whispered”, “said” and “shouted”?",
-    "audio_prompt": "Why does “The child whispered so the sleeping baby would not wake.” work well for choosing between “whispered”, “said” and “shouted”?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The path was narrow near the gate but wide beside the field.” Which two words contrast its width?",
+    "audio_prompt": "“The path was narrow near the gate but wide beside the field.” Which two words contrast its width?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The child shouted so the sleeping baby would not wake.” is always acceptable in this situation.",
+        "text": "path, gate",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "near, beside",
         "is_correct": false
       },
       {
-        "text": "Whispered includes the idea of speaking very quietly, which fits the situation.",
+        "text": "gate, field",
+        "is_correct": false
+      },
+      {
+        "text": "narrow, wide",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Whispered includes the idea of speaking very quietly, which fits the situation.",
-      "hint": "Synonyms often carry different intensity or manner."
-    }
+      "summary": "Narrow and wide give opposing width descriptions. The place words do not describe width.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LA11-P-021",
@@ -605,29 +865,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which revision best fixes the problem in “skipped” for replacing “walked” in “The exhausted hiker walked back to camp”?",
-    "audio_prompt": "Which revision best fixes the problem in “skipped” for replacing “walked” in “The exhausted hiker walked back to camp”?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“Our guide was calm during the delay.” Which word is a near-synonym of “calm” here?",
+    "audio_prompt": "“Our guide was calm during the delay.” Which word is a near-synonym of “calm” here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "trudged",
+        "text": "composed",
         "is_correct": true
       },
       {
-        "text": "skipped",
+        "text": "careless",
         "is_correct": false
       },
       {
-        "text": "floated",
+        "text": "silent",
+        "is_correct": false
+      },
+      {
+        "text": "sleepy",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Trudged suggests slow, heavy movement and matches an exhausted hiker. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "A synonym must fit the exact context, not merely have a related dictionary meaning."
-    }
+      "summary": "Composed describes keeping calm. A silent or sleepy person is not necessarily calm, and careless changes the attitude.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LA11-P-022",
@@ -635,29 +908,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Compare the choices for replacing “walked” in “The exhausted hiker walked back to camp”. Which one avoids the mistake in “skipped”?",
-    "audio_prompt": "Compare the choices for replacing “walked” in “The exhausted hiker walked back to camp”. Which one avoids the mistake in “skipped”?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "A notice says, “Please help us keep the area tidy.” Which replacement is nearest in meaning to “tidy”?",
+    "audio_prompt": "A notice says, “Please help us keep the area tidy.” Which replacement is nearest in meaning to “tidy”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "skipped",
+        "text": "empty",
         "is_correct": false
       },
       {
-        "text": "trudged",
+        "text": "neat",
         "is_correct": true
       },
       {
-        "text": "floated",
+        "text": "silent",
+        "is_correct": false
+      },
+      {
+        "text": "new",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Trudged suggests slow, heavy movement and matches an exhausted hiker. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "A synonym must fit the exact context, not merely have a related dictionary meaning."
-    }
+      "summary": "Neat means orderly. An area can be tidy while containing objects, making noise or being old.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LA11-P-023",
@@ -665,29 +951,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Compare the choices for choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”. Which one avoids the mistake in “glanced”?",
-    "audio_prompt": "Compare the choices for choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”. Which one avoids the mistake in “glanced”?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The athlete was swift and reached the finish quickly.” Which word in the sentence helps explain “swift”?",
+    "audio_prompt": "“The athlete was swift and reached the finish quickly.” Which word in the sentence helps explain “swift”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "glanced",
+        "text": "athlete",
         "is_correct": false
       },
       {
-        "text": "ignored",
+        "text": "finish",
         "is_correct": false
       },
       {
-        "text": "examined",
+        "text": "quickly",
         "is_correct": true
+      },
+      {
+        "text": "the",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Examined means looked at closely and carefully. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Compare the intensity and purpose of the words."
-    }
+      "summary": "Quickly supplies a context clue for the sense of fast movement.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LA11-P-024",
@@ -695,29 +994,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "If “glanced” does not work in choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”, what should replace it?",
-    "audio_prompt": "If “glanced” does not work in choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”, what should replace it?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The hall was vacant; no group was using it.” Which meaning of “vacant” is supported by this context?",
+    "audio_prompt": "“The hall was vacant; no group was using it.” Which meaning of “vacant” is supported by this context?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "examined",
+        "text": "It was being used by a group.",
+        "is_correct": false
+      },
+      {
+        "text": "It was quiet but could still be occupied.",
+        "is_correct": false
+      },
+      {
+        "text": "It was reserved for a group arriving later.",
+        "is_correct": false
+      },
+      {
+        "text": "It was unoccupied.",
         "is_correct": true
-      },
-      {
-        "text": "glanced",
-        "is_correct": false
-      },
-      {
-        "text": "ignored",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Examined means looked at closely and carefully. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Compare the intensity and purpose of the words."
-    }
+      "summary": "The phrase “no group was using it” clarifies vacant as unoccupied here. Quietness and a future booking are different matters.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LA11-P-025",
@@ -725,29 +1037,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "If “dry” does not work in finding the best antonym of “scarce” in a sentence about rainfall, what should replace it?",
-    "audio_prompt": "If “dry” does not work in finding the best antonym of “scarce” in a sentence about rainfall, what should replace it?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The storm caused severe damage to the roof.” Which replacement makes the damage sound less serious while keeping it a degree of damage?",
+    "audio_prompt": "“The storm caused severe damage to the roof.” Which replacement makes the damage sound less serious while keeping it a degree of damage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "dry",
-        "is_correct": false
-      },
-      {
-        "text": "abundant",
+        "text": "minor",
         "is_correct": true
       },
       {
-        "text": "tiny",
+        "text": "massive",
+        "is_correct": false
+      },
+      {
+        "text": "extensive",
+        "is_correct": false
+      },
+      {
+        "text": "serious",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "In this context, abundant means plentiful, which contrasts with scarce. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose the opposite meaning that fits the same sense of the word."
-    }
+      "summary": "Minor describes a small amount or low degree of damage. The other choices remain serious or extensive.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LA11-P-026",
@@ -755,29 +1080,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which option corrects the meaning or form needed for finding the best antonym of “scarce” in a sentence about rainfall?",
-    "audio_prompt": "Which option corrects the meaning or form needed for finding the best antonym of “scarce” in a sentence about rainfall?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“She made a generous offer to share her art materials.” Which revision gives the opposite attitude about sharing?",
+    "audio_prompt": "“She made a generous offer to share her art materials.” Which revision gives the opposite attitude about sharing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "dry",
+        "text": "She made a quiet offer to share the materials.",
         "is_correct": false
       },
       {
-        "text": "tiny",
-        "is_correct": false
-      },
-      {
-        "text": "abundant",
+        "text": "She made a selfish choice to keep all the materials for herself.",
         "is_correct": true
+      },
+      {
+        "text": "She made a cheerful offer to share the materials.",
+        "is_correct": false
+      },
+      {
+        "text": "She made a careful list of materials to share.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "In this context, abundant means plentiful, which contrasts with scarce. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose the opposite meaning that fits the same sense of the word."
-    }
+      "summary": "Selfish keeping-for-herself contrasts with generous sharing. Quiet, cheerful and careful do not necessarily oppose generosity.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LA11-P-027",
@@ -785,29 +1123,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which option corrects the meaning or form needed for choosing precise science vocabulary?",
-    "audio_prompt": "Which option corrects the meaning or form needed for choosing precise science vocabulary?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The coach asked us to start the activity.” Which word can replace “start” without changing the action?",
+    "audio_prompt": "“The coach asked us to start the activity.” Which word can replace “start” without changing the action?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The liquid evaporated as it gained heat.",
+        "text": "finish",
+        "is_correct": false
+      },
+      {
+        "text": "continue",
+        "is_correct": false
+      },
+      {
+        "text": "begin",
         "is_correct": true
       },
       {
-        "text": "The liquid did a thing when it got hot.",
-        "is_correct": false
-      },
-      {
-        "text": "The liquid vanished magically.",
+        "text": "repeat",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Evaporated precisely names the process being described. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Technical words can make meaning more exact when they are used correctly."
-    }
+      "summary": "Begin is a near-synonym for start. Continue and repeat describe different points in an activity.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LA11-P-028",
@@ -815,29 +1166,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which choice is the clearest correction for choosing precise science vocabulary?",
-    "audio_prompt": "Which choice is the clearest correction for choosing precise science vocabulary?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The road was closed, so we used an alternative route.” Which phrase best explains “alternative” here?",
+    "audio_prompt": "“The road was closed, so we used an alternative route.” Which phrase best explains “alternative” here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The liquid did a thing when it got hot.",
+        "text": "the only road that existed",
         "is_correct": false
       },
       {
-        "text": "The liquid evaporated as it gained heat.",
+        "text": "the route we had already finished",
+        "is_correct": false
+      },
+      {
+        "text": "a road that cannot be used",
+        "is_correct": false
+      },
+      {
+        "text": "a different available choice",
         "is_correct": true
-      },
-      {
-        "text": "The liquid vanished magically.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Evaporated precisely names the process being described. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Technical words can make meaning more exact when they are used correctly."
-    }
+      "summary": "Alternative means another possible choice in this route context.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LA11-P-029",
@@ -845,29 +1209,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which choice is the clearest correction for choosing between “whispered”, “said” and “shouted”?",
-    "audio_prompt": "Which choice is the clearest correction for choosing between “whispered”, “said” and “shouted”?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "NASA Space Place source note, paraphrased: gravity pulls objects towards one another. Which word names that scientific pull in “Earth’s ___ pulls the dropped ball down”?",
+    "audio_prompt": "NASA Space Place source note, paraphrased: gravity pulls objects towards one another. Which word names that scientific pull in “Earth’s ___ pulls the dropped ball down”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The child shouted so the sleeping baby would not wake.",
-        "is_correct": false
-      },
-      {
-        "text": "The child exploded the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "The child whispered so the sleeping baby would not wake.",
+        "text": "gravity",
         "is_correct": true
+      },
+      {
+        "text": "magnetism",
+        "is_correct": false
+      },
+      {
+        "text": "orbit",
+        "is_correct": false
+      },
+      {
+        "text": "repulsion",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Whispered includes the idea of speaking very quietly, which fits the situation. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Synonyms often carry different intensity or manner."
-    }
+      "summary": "The source names gravity as the pull between objects. Magnetism, orbit and repulsion are other terms from the lesson, but they do not name this Earth-to-ball gravitational pull.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LA11-P-030",
@@ -875,29 +1252,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which revision best fixes the problem in “The child shouted so the sleeping baby would not wake.” for choosing between “whispered”, “said” and “shouted”?",
-    "audio_prompt": "Which revision best fixes the problem in “The child shouted so the sleeping baby would not wake.” for choosing between “whispered”, “said” and “shouted”?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Science World word note, paraphrased: attract means draw towards; repel means push away. Which sentence uses “repel” with the stated meaning?",
+    "audio_prompt": "Science World word note, paraphrased: attract means draw towards; repel means push away. Which sentence uses “repel” with the stated meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The child whispered so the sleeping baby would not wake.",
+        "text": "The two magnets repel, pulling towards each other.",
+        "is_correct": false
+      },
+      {
+        "text": "The two magnets repel, pushing away from each other.",
         "is_correct": true
       },
       {
-        "text": "The child shouted so the sleeping baby would not wake.",
+        "text": "The two magnets repel, changing their colour.",
         "is_correct": false
       },
       {
-        "text": "The child exploded the sentence.",
+        "text": "The two magnets repel, becoming lighter.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Whispered includes the idea of speaking very quietly, which fits the situation. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Synonyms often carry different intensity or manner."
-    }
+      "summary": "The source meaning of repel matches movement away, not attraction or a change of colour or weight.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LA11-P-031",
@@ -906,28 +1297,42 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "You now need to handle replacing “walked” in “The exhausted hiker walked back to camp” independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle replacing “walked” in “The exhausted hiker walked back to camp” independently. Which choice should you use?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "A pupil’s note from Science World says “attract: draw towards”. Which everyday phrase has the closest meaning to the scientific use of “attract”?",
+    "audio_prompt": "A pupil’s note from Science World says “attract: draw towards”. Which everyday phrase has the closest meaning to the scientific use of “attract”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "floated",
+        "text": "push apart",
         "is_correct": false
       },
       {
-        "text": "trudged",
+        "text": "stay still",
+        "is_correct": false
+      },
+      {
+        "text": "pull closer",
         "is_correct": true
       },
       {
-        "text": "skipped",
+        "text": "break open",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Trudged suggests slow, heavy movement and matches an exhausted hiker.",
-      "hint": "A synonym must fit the exact context, not merely have a related dictionary meaning."
-    }
+      "summary": "Pull closer preserves the direction in the supplied scientific meaning.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LA11-P-032",
@@ -936,28 +1341,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Apply the same idea to replacing “walked” in “The exhausted hiker walked back to camp”. Which option is best?",
-    "audio_prompt": "Apply the same idea to replacing “walked” in “The exhausted hiker walked back to camp”. Which option is best?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "NASA Space Place explains that gravity helps keep planets in orbit around the Sun. In this note, “orbit” concerns which idea?",
+    "audio_prompt": "NASA Space Place explains that gravity helps keep planets in orbit around the Sun. In this note, “orbit” concerns which idea?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "floated",
+        "text": "a body spinning on its own axis",
         "is_correct": false
       },
       {
-        "text": "skipped",
+        "text": "a body staying fixed in one position",
         "is_correct": false
       },
       {
-        "text": "trudged",
+        "text": "a body moving away without travelling around another",
+        "is_correct": false
+      },
+      {
+        "text": "a body travelling around another body",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Trudged suggests slow, heavy movement and matches an exhausted hiker.",
-      "hint": "A synonym must fit the exact context, not merely have a related dictionary meaning."
-    }
+      "summary": "The note places planets around the Sun. Orbit refers to travel around another body, rather than spinning on an axis or staying in one place.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LA11-P-033",
@@ -966,28 +1384,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Apply the same idea to choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”. Which option is best?",
-    "audio_prompt": "Apply the same idea to choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”. Which option is best?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Science World word note: a magnetic material can be attracted to a magnet. Which sentence uses “magnetic material” as explained?",
+    "audio_prompt": "Science World word note: a magnetic material can be attracted to a magnet. Which sentence uses “magnetic material” as explained?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "examined",
+        "text": "The iron item moved towards the magnet; it is a magnetic material.",
         "is_correct": true
       },
       {
-        "text": "ignored",
+        "text": "The wooden label has the word magnet on it, so it is a magnetic material.",
         "is_correct": false
       },
       {
-        "text": "glanced",
+        "text": "The red object is automatically a magnetic material because of its colour.",
+        "is_correct": false
+      },
+      {
+        "text": "The largest object must be a magnetic material because it is large.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Examined means looked at closely and carefully.",
-      "hint": "Compare the intensity and purpose of the words."
-    }
+      "summary": "The relevant evidence is attraction to a magnet, not a label, colour or size.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LA11-P-034",
@@ -996,28 +1427,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which decision would produce the clearest result in choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”?",
-    "audio_prompt": "Which decision would produce the clearest result in choosing a stronger word than “looked” in “Mia looked at the tiny writing carefully”?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "An art glossary in a supplied class note says, “A portrait is a picture of a person.” Which sentence uses this new word accurately?",
+    "audio_prompt": "An art glossary in a supplied class note says, “A portrait is a picture of a person.” Which sentence uses this new word accurately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "ignored",
+        "text": "The artist painted only an empty beach and called it a portrait.",
         "is_correct": false
       },
       {
-        "text": "examined",
+        "text": "The artist painted a portrait of her grandfather.",
         "is_correct": true
       },
       {
-        "text": "glanced",
+        "text": "The artist painted only a bowl of fruit and called it a portrait.",
+        "is_correct": false
+      },
+      {
+        "text": "The artist painted only patterned shapes and called it a portrait.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Examined means looked at closely and carefully.",
-      "hint": "Compare the intensity and purpose of the words."
-    }
+      "summary": "The supplied glossary defines portrait as a picture of a person. The grandfather painting fits; the other examples have no person as their subject.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LA11-P-035",
@@ -1026,28 +1470,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which decision would produce the clearest result in finding the best antonym of “scarce” in a sentence about rainfall?",
-    "audio_prompt": "Which decision would produce the clearest result in finding the best antonym of “scarce” in a sentence about rainfall?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "A supplied music note defines “rhythm” as a pattern of beats or sounds. Which sentence uses the term accurately?",
+    "audio_prompt": "A supplied music note defines “rhythm” as a pattern of beats or sounds. Which sentence uses the term accurately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "tiny",
+        "text": "We called the song’s loudness its rhythm.",
         "is_correct": false
       },
       {
-        "text": "dry",
+        "text": "We used rhythm to mean how high the singer’s voice sounded.",
         "is_correct": false
       },
       {
-        "text": "abundant",
+        "text": "We clapped the rhythm of the song.",
         "is_correct": true
+      },
+      {
+        "text": "We used rhythm to mean the written words of the song.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "In this context, abundant means plentiful, which contrasts with scarce.",
-      "hint": "Choose the opposite meaning that fits the same sense of the word."
-    }
+      "summary": "The card defines rhythm through patterns of beats or sounds. Loudness, pitch and lyrics are related musical features, but they do not preserve that definition.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LA11-P-036",
@@ -1056,28 +1513,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Choose the option that applies the skill correctly in finding the best antonym of “scarce” in a sentence about rainfall.",
-    "audio_prompt": "Choose the option that applies the skill correctly in finding the best antonym of “scarce” in a sentence about rainfall.",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "A history note in class defines an “artefact” as an object made by people, often studied to learn about the past. Which example fits that meaning?",
+    "audio_prompt": "A history note in class defines an “artefact” as an object made by people, often studied to learn about the past. Which example fits that meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "abundant",
+        "text": "a cloud above an old building",
+        "is_correct": false
+      },
+      {
+        "text": "the sunset seen from a museum",
+        "is_correct": false
+      },
+      {
+        "text": "a naturally fallen leaf with no human changes",
+        "is_correct": false
+      },
+      {
+        "text": "an old handmade clay pot",
         "is_correct": true
-      },
-      {
-        "text": "tiny",
-        "is_correct": false
-      },
-      {
-        "text": "dry",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "In this context, abundant means plentiful, which contrasts with scarce.",
-      "hint": "Choose the opposite meaning that fits the same sense of the word."
-    }
+      "summary": "The pot is made by people and can supply evidence about the past; the other examples are natural things or events.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LA11-P-037",
@@ -1086,28 +1556,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Choose the option that applies the skill correctly in choosing precise science vocabulary.",
-    "audio_prompt": "Choose the option that applies the skill correctly in choosing precise science vocabulary.",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "State Library of Queensland word card: “waratah” is an English plant name traced to Dharug in the Sydney region. Which label keeps both the word’s category and its recorded origin?",
+    "audio_prompt": "State Library of Queensland word card: “waratah” is an English plant name traced to Dharug in the Sydney region. Which label keeps both the word’s category and its recorded origin?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The liquid vanished magically.",
-        "is_correct": false
-      },
-      {
-        "text": "The liquid evaporated as it gained heat.",
+        "text": "The gardener labelled a waratah as a plant with Dharug origins.",
         "is_correct": true
       },
       {
-        "text": "The liquid did a thing when it got hot.",
+        "text": "The gardener labelled a waratah as an animal with Dharug origins.",
+        "is_correct": false
+      },
+      {
+        "text": "The gardener labelled a waratah as a plant with Yuwaalaraay origins.",
+        "is_correct": false
+      },
+      {
+        "text": "The gardener labelled a waratah as a plant with Guugu Yimidhirr origins.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Evaporated precisely names the process being described.",
-      "hint": "Technical words can make meaning more exact when they are used correctly."
-    }
+      "summary": "The label preserves both facts on this source card: a plant name and its specific Dharug origin.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LA11-P-038",
@@ -1116,28 +1599,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "What would be the most effective choice for choosing precise science vocabulary?",
-    "audio_prompt": "What would be the most effective choice for choosing precise science vocabulary?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "State Library of Queensland word card: “bilby” is an animal name traced to Yuwaalaraay in north-west NSW. Which poster note fits both parts of the card?",
+    "audio_prompt": "State Library of Queensland word card: “bilby” is an animal name traced to Yuwaalaraay in north-west NSW. Which poster note fits both parts of the card?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The liquid vanished magically.",
+        "text": "An animal poster labels a bilby and records a Dharug origin for the word.",
         "is_correct": false
       },
       {
-        "text": "The liquid did a thing when it got hot.",
-        "is_correct": false
-      },
-      {
-        "text": "The liquid evaporated as it gained heat.",
+        "text": "An animal poster labels a bilby and records a Yuwaalaraay origin for the word.",
         "is_correct": true
+      },
+      {
+        "text": "An animal poster labels a bilby and records a Guugu Yimidhirr origin for the word.",
+        "is_correct": false
+      },
+      {
+        "text": "A plant poster labels a bilby as a shrub and records a Yuwaalaraay origin for the word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Evaporated precisely names the process being described.",
-      "hint": "Technical words can make meaning more exact when they are used correctly."
-    }
+      "summary": "Both the animal meaning and the particular Yuwaalaraay origin agree with the supplied card.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LA11-P-039",
@@ -1146,28 +1642,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "What would be the most effective choice for choosing between “whispered”, “said” and “shouted”?",
-    "audio_prompt": "What would be the most effective choice for choosing between “whispered”, “said” and “shouted”?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "State Library of Queensland traces the English animal name “kangaroo” to Guugu Yimidhirr in the Cooktown region. Which source note keeps that specific origin?",
+    "audio_prompt": "State Library of Queensland traces the English animal name “kangaroo” to Guugu Yimidhirr in the Cooktown region. Which source note keeps that specific origin?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The child whispered so the sleeping baby would not wake.",
+        "text": "Kangaroo: animal word; source language Dharug, according to State Library of Queensland.",
+        "is_correct": false
+      },
+      {
+        "text": "Kangaroo: animal word; source language Yuwaalaraay, according to State Library of Queensland.",
+        "is_correct": false
+      },
+      {
+        "text": "Kangaroo: animal word; source language Guugu Yimidhirr, according to State Library of Queensland.",
         "is_correct": true
       },
       {
-        "text": "The child exploded the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "The child shouted so the sleeping baby would not wake.",
+        "text": "Kangaroo: plant word; source language Guugu Yimidhirr, according to State Library of Queensland.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Whispered includes the idea of speaking very quietly, which fits the situation.",
-      "hint": "Synonyms often carry different intensity or manner."
-    }
+      "summary": "The correct note records the named source and language without turning one example into a claim about all languages.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LA11-P-040",
@@ -1176,28 +1685,290 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "You now need to handle choosing between “whispered”, “said” and “shouted” independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle choosing between “whispered”, “said” and “shouted” independently. Which choice should you use?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "A source card lists waratah as a plant word and bilby as an animal word. A writer says, “We drew a waratah and a bilby for a poster of plants and animals.” Does the word use fit the card?",
+    "audio_prompt": "A source card lists waratah as a plant word and bilby as an animal word. A writer says, “We drew a waratah and a bilby for a poster of plants and animals.” Does the word use fit the card?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The child exploded the sentence.",
+        "text": "No; both words must name tools.",
         "is_correct": false
       },
       {
-        "text": "The child whispered so the sleeping baby would not wake.",
+        "text": "No; both words must be names for the same animal.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; it proves the two words come from the same language.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; one word names a plant and the other an animal.",
         "is_correct": true
-      },
-      {
-        "text": "The child shouted so the sleeping baby would not wake.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Whispered includes the idea of speaking very quietly, which fits the situation.",
-      "hint": "Synonyms often carry different intensity or manner."
-    }
+      "summary": "The sentence uses both words within the categories on the card. It does not establish a shared language origin.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LA11-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA11",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Rewrite “The tired walker went along the track” using a more precise movement word. Explain what your choice adds, and why a different near-synonym might not fit.",
+    "audio_prompt": "Rewrite “The tired walker went along the track” using a more precise movement word. Explain what your choice adds, and why a different near-synonym might not fit.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The tired walker trudged along the track. Trudged adds slow, heavy steps; skipped would suggest a lighter, bouncier movement that does not fit the tired walker as well.",
+    "acceptance_note": "Require a natural, context-appropriate movement verb, a specific meaning explanation and a comparison with a different near-synonym. Accept other well-justified choices.",
+    "response_instructions": "Write your response here or on paper, or dictate using your usual communication support. An adult checks the actual work and explanation.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The tired walker trudged along the track. Trudged adds slow, heavy steps; skipped would suggest a lighter, bouncier movement that does not fit the tired walker as well.",
+      "hint": "Use the word in a complete new sentence and explain the meaning you intend."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LA11-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA11",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Write two sentences using “light” in different senses: one about weight and one about colour. Give a suitable antonym for light in each sentence and explain the difference.",
+    "audio_prompt": "Write two sentences using “light” in different senses: one about weight and one about colour. Give a suitable antonym for light in each sentence and explain the difference.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The parcel is light: the opposite is heavy. The paint is light blue: the opposite colour description is dark blue. Weight and colour use different senses of light.",
+    "acceptance_note": "Require two clear senses, appropriate heavy/dark opposites or equally defensible contextual alternatives, and an explanation.",
+    "response_instructions": "Write your response here or on paper, or dictate using your usual communication support. An adult checks the actual work and explanation.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The parcel is light: the opposite is heavy. The paint is light blue: the opposite colour description is dark blue. Weight and colour use different senses of light.",
+      "hint": "Use the word in a complete new sentence and explain the meaning you intend."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LA11-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA11",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Compare “The child was annoyed” with “The child was furious”. Write a short situation for each that makes the difference in strength clear. Explain the word choices.",
+    "audio_prompt": "Compare “The child was annoyed” with “The child was furious”. Write a short situation for each that makes the difference in strength clear. Explain the word choices.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The child was annoyed by a dripping tap. The child was furious when someone deliberately ruined the model. Furious expresses stronger anger than annoyed in these situations.",
+    "acceptance_note": "Require two meaningful situations and an explanation of the stronger feeling, without saying every person must react the same way.",
+    "response_instructions": "Write your response here or on paper, or dictate using your usual communication support. An adult checks the actual work and explanation.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The child was annoyed by a dripping tap. The child was furious when someone deliberately ruined the model. Furious expresses stronger anger than annoyed in these situations.",
+      "hint": "Use the word in a complete new sentence and explain the meaning you intend."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LA11-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA11",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Read “The empty hall was silent after everyone left”. Replace “empty” with a near-synonym that fits. Then explain why “quiet” would not preserve all of empty’s meaning.",
+    "audio_prompt": "Read “The empty hall was silent after everyone left”. Replace “empty” with a near-synonym that fits. Then explain why “quiet” would not preserve all of empty’s meaning.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The vacant hall was silent after everyone left. Vacant indicates nobody was using it; quiet concerns sound and a quiet hall could still contain people.",
+    "acceptance_note": "Require a fitting word such as vacant/unoccupied and the occupancy-versus-sound distinction. Preserve the supplied scene.",
+    "response_instructions": "Write your response here or on paper, or dictate using your usual communication support. An adult checks the actual work and explanation.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The vacant hall was silent after everyone left. Vacant indicates nobody was using it; quiet concerns sound and a quiet hall could still contain people.",
+      "hint": "Use the word in a complete new sentence and explain the meaning you intend."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LA11-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA11",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Read this paraphrased NASA source card: gravity pulls objects towards one another. Write a new sentence using “gravity” about a falling object, then explain the term in your own words and name the source.",
+    "audio_prompt": "Read this paraphrased NASA source card: gravity pulls objects towards one another. Write a new sentence using “gravity” about a falling object, then explain the term in your own words and name the source.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Gravity pulled the dropped eraser towards the ground. Here gravity names the pull acting on the eraser. My source card is based on NASA Space Place.",
+    "acceptance_note": "Require a sensible new sentence, accurate pull meaning and NASA Space Place attribution. No experiment or dropping objects is required.",
+    "response_instructions": "Write your response here or on paper, or dictate using your usual communication support. An adult checks the actual work and explanation.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Gravity pulled the dropped eraser towards the ground. Here gravity names the pull acting on the eraser. My source card is based on NASA Space Place.",
+      "hint": "Use the word in a complete new sentence and explain the meaning you intend."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LA11-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA11",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Read this Science World word card: attract means draw towards; repel means push away. Write two new sentences about magnets, one with each word. Explain why the words oppose each other in this context.",
+    "audio_prompt": "Read this Science World word card: attract means draw towards; repel means push away. Write two new sentences about magnets, one with each word. Explain why the words oppose each other in this context.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Two unlike magnetic poles attract, pulling towards one another. Two like poles repel, pushing apart. The words give opposite directions of the magnetic interaction.",
+    "acceptance_note": "Require accurate uses of both terms and an explanation of towards versus away. Accept sentences using imaginary observed movement without specifying poles; do not require a practical experiment.",
+    "response_instructions": "Write your response here or on paper, or dictate using your usual communication support. An adult checks the actual work and explanation.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Two unlike magnetic poles attract, pulling towards one another. Two like poles repel, pushing apart. The words give opposite directions of the magnetic interaction.",
+      "hint": "Use the word in a complete new sentence and explain the meaning you intend."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LA11-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA11",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "State Library of Queensland traces the English plant word “waratah” to Dharug in the Sydney region. Write a new sentence using waratah as a plant name. Add a source note naming the language and library.",
+    "audio_prompt": "State Library of Queensland traces the English plant word “waratah” to Dharug in the Sydney region. Write a new sentence using waratah as a plant name. Add a source note naming the language and library.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "I drew a waratah in my garden picture. Source note: State Library of Queensland links the English word waratah with Dharug in the Sydney region.",
+    "acceptance_note": "Require an original meaningful plant-word sentence and accurate attributed language note. Do not invent a literal translation, pronunciation or claim that all First Nations languages use the same word.",
+    "response_instructions": "Write your response here or on paper, or dictate using your usual communication support. An adult checks the actual work and explanation.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "I drew a waratah in my garden picture. Source note: State Library of Queensland links the English word waratah with Dharug in the Sydney region.",
+      "hint": "Use the word in a complete new sentence and explain the meaning you intend."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LA11-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA11",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Word card based on State Library of Queensland: bilby—animal name; Yuwaalaraay, north-west NSW. Create a two-sentence note for a drawing of a bilby. Use the word meaningfully, then explain what you learned from this source card.",
+    "audio_prompt": "Word card based on State Library of Queensland: bilby—animal name; Yuwaalaraay, north-west NSW. Create a two-sentence note for a drawing of a bilby. Use the word meaningfully, then explain what you learned from this source card.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "My drawing shows a bilby beside a shelter. I learned from the State Library of Queensland card that the English animal word bilby has a Yuwaalaraay origin.",
+    "acceptance_note": "Require two complete sentences including meaningful animal use and correctly attributed source learning. Imagined drawing details are fine; no image, community contact or invented language lesson is required.",
+    "response_instructions": "Write your response here or on paper, or dictate using your usual communication support. An adult checks the actual work and explanation.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "My drawing shows a bilby beside a shelter. I learned from the State Library of Queensland card that the English animal word bilby has a Yuwaalaraay origin.",
+      "hint": "Use the word in a complete new sentence and explain the meaning you intend."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LA11-T-001",
@@ -1205,29 +1976,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "New context: using a newly encountered First Nations Australian word accurately in context. Which option is correct?",
-    "audio_prompt": "New context: using a newly encountered First Nations Australian word accurately in context. Which option is correct?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The coach gave a concise explanation that used only a few necessary words.” Which word is closest to “concise”?",
+    "audio_prompt": "“The coach gave a concise explanation that used only a few necessary words.” Which word is closest to “concise”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We guessed a meaning because the word sounded familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "We changed the spelling to make it look more English.",
-        "is_correct": false
-      },
-      {
-        "text": "After reading the local language guide, we used the word only with the meaning and spelling given by the source.",
+        "text": "brief",
         "is_correct": true
+      },
+      {
+        "text": "confusing",
+        "is_correct": false
+      },
+      {
+        "text": "colourful",
+        "is_correct": false
+      },
+      {
+        "text": "lengthy",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Words from First Nations Australian languages should be used with care, accurate meaning and respect for the source.",
-      "hint": "Check the source, language and meaning rather than guessing."
-    }
+      "summary": "Concise means expressing the needed meaning in few words; brief is the nearest of these choices.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA11-T-002",
@@ -1235,29 +2019,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "What is the best choice for using a newly encountered First Nations Australian word accurately in context?",
-    "audio_prompt": "What is the best choice for using a newly encountered First Nations Australian word accurately in context?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The road was rough and made the ride bumpy.” Which word gives the opposite surface quality?",
+    "audio_prompt": "“The road was rough and made the ride bumpy.” Which word gives the opposite surface quality?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "After reading the local language guide, we used the word only with the meaning and spelling given by the source.",
+        "text": "easy",
+        "is_correct": false
+      },
+      {
+        "text": "smooth",
         "is_correct": true
       },
       {
-        "text": "We guessed a meaning because the word sounded familiar.",
+        "text": "silent",
         "is_correct": false
       },
       {
-        "text": "We changed the spelling to make it look more English.",
+        "text": "polite",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Words from First Nations Australian languages should be used with care, accurate meaning and respect for the source.",
-      "hint": "Check the source, language and meaning rather than guessing."
-    }
+      "summary": "Smooth opposes rough as a surface description. Other senses need different opposites.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA11-T-003",
@@ -1265,29 +2062,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which explanation best supports “After reading the local language guide, we used the word only with the meaning and spelling given by the source.” in using a newly encountered First Nations Australian word accurately in context?",
-    "audio_prompt": "Which explanation best supports “After reading the local language guide, we used the word only with the meaning and spelling given by the source.” in using a newly encountered First Nations Australian word accurately in context?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The audience was eager for the show to begin.” Which word gives the opposite attitude?",
+    "audio_prompt": "“The audience was eager for the show to begin.” Which word gives the opposite attitude?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “We guessed a meaning because the word sounded familiar.” is always a safe choice.",
+        "text": "excited",
         "is_correct": false
       },
       {
-        "text": "Words from First Nations Australian languages should be used with care, accurate meaning and respect for the source.",
+        "text": "keen",
+        "is_correct": false
+      },
+      {
+        "text": "reluctant",
         "is_correct": true
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "enthusiastic",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Words from First Nations Australian languages should be used with care, accurate meaning and respect for the source.",
-      "hint": "Check the source, language and meaning rather than guessing."
-    }
+      "summary": "Reluctant expresses unwillingness or hesitation, opposing eagerness.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA11-T-004",
@@ -1295,29 +2105,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which clue should guide your decision in using a newly encountered First Nations Australian word accurately in context?",
-    "audio_prompt": "Which clue should guide your decision in using a newly encountered First Nations Australian word accurately in context?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The shopper inspected the stitching carefully.” Which replacement is nearest to “inspected”?",
+    "audio_prompt": "“The shopper inspected the stitching carefully.” Which replacement is nearest to “inspected”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "glimpsed",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and use the first familiar form.",
+        "text": "ignored",
         "is_correct": false
       },
       {
-        "text": "Check the source, language and meaning rather than guessing.",
+        "text": "missed",
+        "is_correct": false
+      },
+      {
+        "text": "examined",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Words from First Nations Australian languages should be used with care, accurate meaning and respect for the source.",
-      "hint": "Check the source, language and meaning rather than guessing."
-    }
+      "summary": "Examined preserves close attention. Glimpsed suggests a brief look, while ignored/missed remove the inspection.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA11-T-005",
@@ -1326,28 +2149,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which option would you reject first in using a newly encountered First Nations Australian word accurately in context?",
-    "audio_prompt": "Which option would you reject first in using a newly encountered First Nations Australian word accurately in context?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "A character is “furious”, not merely “annoyed”. Which change would weaken the stated feeling?",
+    "audio_prompt": "A character is “furious”, not merely “annoyed”. Which change would weaken the stated feeling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We guessed a meaning because the word sounded familiar.",
+        "text": "Describe the character as irritated.",
         "is_correct": true
       },
       {
-        "text": "After reading the local language guide, we used the word only with the meaning and spelling given by the source.",
+        "text": "Describe the character as enraged.",
         "is_correct": false
       },
       {
-        "text": "We changed the spelling to make it look more English.",
+        "text": "Describe the character as extremely angry.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe the character as filled with rage.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Words from First Nations Australian languages should be used with care, accurate meaning and respect for the source.",
-      "hint": "Check the source, language and meaning rather than guessing."
-    }
+      "summary": "Irritated suggests a milder feeling than furious in this comparison. The other choices retain strong anger.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA11-T-006",
@@ -1356,28 +2192,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which correction should replace “We guessed a meaning because the word sounded familiar.” in using a newly encountered First Nations Australian word accurately in context?",
-    "audio_prompt": "Which correction should replace “We guessed a meaning because the word sounded familiar.” in using a newly encountered First Nations Australian word accurately in context?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The bright lamp lit the desk.” Which meaning of bright is used?",
+    "audio_prompt": "“The bright lamp lit the desk.” Which meaning of bright is used?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We guessed a meaning because the word sounded familiar.",
+        "text": "clever at solving problems",
         "is_correct": false
       },
       {
-        "text": "After reading the local language guide, we used the word only with the meaning and spelling given by the source.",
+        "text": "giving strong light",
         "is_correct": true
       },
       {
-        "text": "We changed the spelling to make it look more English.",
+        "text": "cheerful in mood",
+        "is_correct": false
+      },
+      {
+        "text": "promising for the future",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Words from First Nations Australian languages should be used with care, accurate meaning and respect for the source.",
-      "hint": "Check the source, language and meaning rather than guessing."
-    }
+      "summary": "The lamp and lighting context establish literal brightness, rather than other senses of the word.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA11-T-007",
@@ -1386,28 +2235,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Apply the skill to using a newly encountered First Nations Australian word accurately in context: what should you choose?",
-    "audio_prompt": "Apply the skill to using a newly encountered First Nations Australian word accurately in context: what should you choose?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“The team completed the task.” Which replacement keeps the meaning of “completed”?",
+    "audio_prompt": "“The team completed the task.” Which replacement keeps the meaning of “completed”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We guessed a meaning because the word sounded familiar.",
+        "text": "began",
         "is_correct": false
       },
       {
-        "text": "We changed the spelling to make it look more English.",
+        "text": "planned",
         "is_correct": false
       },
       {
-        "text": "After reading the local language guide, we used the word only with the meaning and spelling given by the source.",
+        "text": "finished",
         "is_correct": true
+      },
+      {
+        "text": "continued",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Words from First Nations Australian languages should be used with care, accurate meaning and respect for the source.",
-      "hint": "Check the source, language and meaning rather than guessing."
-    }
+      "summary": "Finished is a near-synonym in this context. The other choices describe different stages.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA11-T-008",
@@ -1416,28 +2278,41 @@
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
     "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which final choice gives the clearest and most accurate result for using a newly encountered First Nations Australian word accurately in context?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for using a newly encountered First Nations Australian word accurately in context?",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "“Food was plentiful at the celebration.” Which word is nearest in meaning to plentiful?",
+    "audio_prompt": "“Food was plentiful at the celebration.” Which word is nearest in meaning to plentiful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "After reading the local language guide, we used the word only with the meaning and spelling given by the source.",
+        "text": "scarce",
+        "is_correct": false
+      },
+      {
+        "text": "tasty",
+        "is_correct": false
+      },
+      {
+        "text": "expensive",
+        "is_correct": false
+      },
+      {
+        "text": "abundant",
         "is_correct": true
-      },
-      {
-        "text": "We guessed a meaning because the word sounded familiar.",
-        "is_correct": false
-      },
-      {
-        "text": "We changed the spelling to make it look more English.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Words from First Nations Australian languages should be used with care, accurate meaning and respect for the source.",
-      "hint": "Check the source, language and meaning rather than guessing."
-    }
+      "summary": "Abundant means available in a large amount. Taste or price does not preserve the amount meaning.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA11-T-009",
@@ -1445,29 +2320,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "New context: revising “The storm was bad” for a vivid weather report. Which option is correct?",
-    "audio_prompt": "New context: revising “The storm was bad” for a vivid weather report. Which option is correct?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "A NASA-based note says gravity draws objects towards one another. A learner writes, “Gravity is a scientific word for this pull.” How does the note support the learner’s sentence?",
+    "audio_prompt": "A NASA-based note says gravity draws objects towards one another. A learner writes, “Gravity is a scientific word for this pull.” How does the note support the learner’s sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The storm was super-duper mega bad.",
-        "is_correct": false
-      },
-      {
-        "text": "The storm was severe, with damaging wind gusts.",
+        "text": "It names the force and describes its pulling effect.",
         "is_correct": true
       },
       {
-        "text": "The storm was pleasant and damaging.",
+        "text": "It defines gravity as a type of colour.",
+        "is_correct": false
+      },
+      {
+        "text": "It says every pull must be caused by a magnet.",
+        "is_correct": false
+      },
+      {
+        "text": "It defines gravity as sound travelling.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Severe is precise and appropriately strong for damaging conditions.",
-      "hint": "Choose precision rather than simply making a word longer or more dramatic."
-    }
+      "summary": "The sentence uses the technical word with the pulling meaning provided, without confusing gravity with magnetism.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA11-T-010",
@@ -1475,29 +2363,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "What is the best choice for revising “The storm was bad” for a vivid weather report?",
-    "audio_prompt": "What is the best choice for revising “The storm was bad” for a vivid weather report?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Science World word note: repel means push away. Two magnets push one another apart. Which sentence uses the term accurately?",
+    "audio_prompt": "Science World word note: repel means push away. Two magnets push one another apart. Which sentence uses the term accurately?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The storm was super-duper mega bad.",
+        "text": "The magnets attract one another.",
         "is_correct": false
       },
       {
-        "text": "The storm was pleasant and damaging.",
-        "is_correct": false
-      },
-      {
-        "text": "The storm was severe, with damaging wind gusts.",
+        "text": "The magnets repel one another.",
         "is_correct": true
+      },
+      {
+        "text": "The magnets become the same object.",
+        "is_correct": false
+      },
+      {
+        "text": "The magnets change their mass.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Severe is precise and appropriately strong for damaging conditions.",
-      "hint": "Choose precision rather than simply making a word longer or more dramatic."
-    }
+      "summary": "Repel matches the stated movement apart. Attract would express the opposite direction.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA11-T-011",
@@ -1505,29 +2407,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which explanation best supports “The storm was severe, with damaging wind gusts.” in revising “The storm was bad” for a vivid weather report?",
-    "audio_prompt": "Which explanation best supports “The storm was severe, with damaging wind gusts.” in revising “The storm was bad” for a vivid weather report?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "A State Library of Queensland card identifies kangaroo as an animal word with Guugu Yimidhirr origins. Which illustration note preserves its meaning and recorded origin?",
+    "audio_prompt": "A State Library of Queensland card identifies kangaroo as an animal word with Guugu Yimidhirr origins. Which illustration note preserves its meaning and recorded origin?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Severe is precise and appropriately strong for damaging conditions.",
+        "text": "A kangaroo appears in our wildlife illustration; the note records a Dharug origin for its English name.",
+        "is_correct": false
+      },
+      {
+        "text": "A kangaroo appears in our wildlife illustration; the note records a Yuwaalaraay origin for its English name.",
+        "is_correct": false
+      },
+      {
+        "text": "A kangaroo appears in our wildlife illustration; the note records a Guugu Yimidhirr origin for its English name.",
         "is_correct": true
       },
       {
-        "text": "Because “The storm was super-duper mega bad.” is always a safe choice.",
-        "is_correct": false
-      },
-      {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "A kangaroo is labelled as a plant in our illustration; the note records a Guugu Yimidhirr origin.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Severe is precise and appropriately strong for damaging conditions.",
-      "hint": "Choose precision rather than simply making a word longer or more dramatic."
-    }
+      "summary": "The note keeps the animal meaning and the particular language origin supplied by the source card.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA11-T-012",
@@ -1535,29 +2450,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which clue should guide your decision in revising “The storm was bad” for a vivid weather report?",
-    "audio_prompt": "Which clue should guide your decision in revising “The storm was bad” for a vivid weather report?",
+    "stage": "apply",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "The source card says waratah is a plant word linked by State Library of Queensland to Dharug. Which note preserves both its use and specific source information?",
+    "audio_prompt": "The source card says waratah is a plant word linked by State Library of Queensland to Dharug. Which note preserves both its use and specific source information?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "I drew a waratah plant; the library identifies the word’s Yuwaalaraay origin.",
         "is_correct": false
       },
       {
-        "text": "Choose precision rather than simply making a word longer or more dramatic.",
+        "text": "I drew a waratah plant; the library identifies the word’s Guugu Yimidhirr origin.",
+        "is_correct": false
+      },
+      {
+        "text": "I drew a waratah animal; the library identifies the word’s Dharug origin.",
+        "is_correct": false
+      },
+      {
+        "text": "I drew a waratah plant; the library identifies the word’s Dharug origin.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Severe is precise and appropriately strong for damaging conditions.",
-      "hint": "Choose precision rather than simply making a word longer or more dramatic."
-    }
+      "summary": "The note keeps the plant meaning and attributed origin without generalising from one word.",
+      "hint": "Choose the meaning that fits this particular sentence or source card."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA11-T-013",
@@ -1565,29 +2493,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which option would you reject first in revising “The storm was bad” for a vivid weather report?",
-    "audio_prompt": "Which option would you reject first in revising “The storm was bad” for a vivid weather report?",
-    "answers": [
-      {
-        "text": "The storm was severe, with damaging wind gusts.",
-        "is_correct": false
-      },
-      {
-        "text": "The storm was pleasant and damaging.",
-        "is_correct": false
-      },
-      {
-        "text": "The storm was super-duper mega bad.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Write one sentence where “hard” means difficult and one where it describes a material. Give an appropriate antonym in each context and explain why the same opposite need not fit both.",
+    "audio_prompt": "Write one sentence where “hard” means difficult and one where it describes a material. Give an appropriate antonym in each context and explain why the same opposite need not fit both.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The puzzle was hard; its opposite here is easy. The cushion felt hard; its opposite here is soft. Difficulty and material firmness are different senses.",
+    "acceptance_note": "Require two clear senses, context-appropriate antonyms and an explanation. Accept a different object or task.",
+    "response_instructions": "Write your response here or on paper, or dictate using your usual communication support. An adult checks the actual work and explanation.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Severe is precise and appropriately strong for damaging conditions.",
-      "hint": "Choose precision rather than simply making a word longer or more dramatic."
-    }
+      "summary": "The puzzle was hard; its opposite here is easy. The cushion felt hard; its opposite here is soft. Difficulty and material firmness are different senses.",
+      "hint": "Use the word in a complete new sentence and explain the meaning you intend."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA11-T-014",
@@ -1595,29 +2524,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which correction should replace “The storm was super-duper mega bad.” in revising “The storm was bad” for a vivid weather report?",
-    "audio_prompt": "Which correction should replace “The storm was super-duper mega bad.” in revising “The storm was bad” for a vivid weather report?",
-    "answers": [
-      {
-        "text": "The storm was severe, with damaging wind gusts.",
-        "is_correct": true
-      },
-      {
-        "text": "The storm was super-duper mega bad.",
-        "is_correct": false
-      },
-      {
-        "text": "The storm was pleasant and damaging.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Revise “The player looked at the scoreboard for a moment” using one precise near-synonym for looked. Explain what your choice adds and why a word meaning a long stare would change the scene.",
+    "audio_prompt": "Revise “The player looked at the scoreboard for a moment” using one precise near-synonym for looked. Explain what your choice adds and why a word meaning a long stare would change the scene.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The player glanced at the scoreboard. Glanced suggests a brief look; stared would suggest a longer fixed look that does not preserve the quick moment as well.",
+    "acceptance_note": "Require a fitting quick-look word, explanation of the time/manner nuance and a contrast with longer looking. Accept defensible alternatives.",
+    "response_instructions": "Write your response here or on paper, or dictate using your usual communication support. An adult checks the actual work and explanation.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Severe is precise and appropriately strong for damaging conditions.",
-      "hint": "Choose precision rather than simply making a word longer or more dramatic."
-    }
+      "summary": "The player glanced at the scoreboard. Glanced suggests a brief look; stared would suggest a longer fixed look that does not preserve the quick moment as well.",
+      "hint": "Use the word in a complete new sentence and explain the meaning you intend."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA11-T-015",
@@ -1625,29 +2555,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Apply the skill to revising “The storm was bad” for a vivid weather report: what should you choose?",
-    "audio_prompt": "Apply the skill to revising “The storm was bad” for a vivid weather report: what should you choose?",
-    "answers": [
-      {
-        "text": "The storm was super-duper mega bad.",
-        "is_correct": false
-      },
-      {
-        "text": "The storm was severe, with damaging wind gusts.",
-        "is_correct": true
-      },
-      {
-        "text": "The storm was pleasant and damaging.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "Science World word note: attract means draw towards. Write a new sentence about a magnet using attract correctly. Explain the term and name the source.",
+    "audio_prompt": "Science World word note: attract means draw towards. Write a new sentence about a magnet using attract correctly. Explain the term and name the source.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The magnet attracted the iron pin towards it. Attracted means drew closer in this sentence. The word note comes from Science World.",
+    "acceptance_note": "Require meaningful accurate magnetic attraction, an explanation of direction and source attribution. Accept present or past forms and usual communication support; no experiment needed.",
+    "response_instructions": "Write your response here or on paper, or dictate using your usual communication support. An adult checks the actual work and explanation.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Severe is precise and appropriately strong for damaging conditions.",
-      "hint": "Choose precision rather than simply making a word longer or more dramatic."
-    }
+      "summary": "The magnet attracted the iron pin towards it. Attracted means drew closer in this sentence. The word note comes from Science World.",
+      "hint": "Use the word in a complete new sentence and explain the meaning you intend."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA11-T-016",
@@ -1655,28 +2586,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA11",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Synonyms, Antonyms and Precise Vocabulary",
-    "question": "Which final choice gives the clearest and most accurate result for revising “The storm was bad” for a vivid weather report?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for revising “The storm was bad” for a vivid weather report?",
-    "answers": [
-      {
-        "text": "The storm was super-duper mega bad.",
-        "is_correct": false
-      },
-      {
-        "text": "The storm was pleasant and damaging.",
-        "is_correct": false
-      },
-      {
-        "text": "The storm was severe, with damaging wind gusts.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "synonyms_antonyms_and_source_vocabulary",
+    "question": "State Library of Queensland links the English animal name bilby to Yuwaalaraay in north-west NSW. Write a new sentence using bilby, then record what this source tells you about the word’s origin.",
+    "audio_prompt": "State Library of Queensland links the English animal name bilby to Yuwaalaraay in north-west NSW. Write a new sentence using bilby, then record what this source tells you about the word’s origin.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The class included a bilby in its animal mural. State Library of Queensland records a Yuwaalaraay origin for the English word bilby.",
+    "acceptance_note": "Require an original meaningful animal-word sentence and accurate attributed origin. Do not require a literal translation or invent a claim that the word belongs to all First Nations languages.",
+    "response_instructions": "Write your response here or on paper, or dictate using your usual communication support. An adult checks the actual work and explanation.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Severe is precise and appropriately strong for damaging conditions.",
-      "hint": "Choose precision rather than simply making a word longer or more dramatic."
-    }
+      "summary": "The class included a bilby in its animal mural. State Library of Queensland records a Yuwaalaraay origin for the English word bilby.",
+      "hint": "Use the word in a complete new sentence and explain the meaning you intend."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]

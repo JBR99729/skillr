@@ -4,23 +4,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-001",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "In designing a poster about protecting turtles, which option best demonstrates the skill?",
-    "audioPrompt": "In designing a poster about protecting turtles, which option best demonstrates the skill?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Look at the beach pair. Which detail is available in A but outside B’s frame?",
+    "audioPrompt": "Look at the beach pair. Which detail is available in A but outside B’s frame?",
+    "visual": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.\"><use href=\"/assets/assessment-visuals/year4/english/la10/beach.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/beach.svg#model",
+      "alt_text": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame."
+    },
     "answers": [
-      "Place a large, sharply focused turtle near the centre and keep the background less detailed.",
-      "Make the turtle tiny in a crowded corner.",
-      "Crop the turtle out and enlarge an unrelated bin."
+      "Three other people on the beach.",
+      "The red bucket beside the child.",
+      "Sand below the child.",
+      "The red shirt worn by the child."
     ],
+    "difficulty": 1,
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Size, central placement and sharp focus make the turtle more salient.\nHint: Ask what the viewer will notice first and why.",
+    "explanation": "A includes four people. B keeps the red-shirted child and bucket while the other three people are outside its tighter frame.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Size, central placement and sharp focus make the turtle more salient.",
-      "hint": "Ask what the viewer will notice first and why."
+      "summary": "A includes four people. B keeps the red-shirted child and bucket while the other three people are outside its tighter frame.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +36,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-002",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which choice fits designing a poster about protecting turtles most accurately?",
-    "audioPrompt": "Which choice fits designing a poster about protecting turtles most accurately?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A caption says, “Several people are using this part of the beach.” Which view supplies the stronger visual support?",
+    "audioPrompt": "A caption says, “Several people are using this part of the beach.” Which view supplies the stronger visual support?",
+    "visual": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.\"><use href=\"/assets/assessment-visuals/year4/english/la10/beach.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/beach.svg#model",
+      "alt_text": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame."
+    },
     "answers": [
-      "Make the turtle tiny in a crowded corner.",
-      "Place a large, sharply focused turtle near the centre and keep the background less detailed.",
-      "Crop the turtle out and enlarge an unrelated bin."
+      "B, because enlarging one person shows how many others are present.",
+      "A, because it includes several people in the same view.",
+      "B, because its larger bucket proves that the whole beach is crowded.",
+      "A, because every wide view shows the entire beach."
     ],
+    "difficulty": 1,
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "Size, central placement and sharp focus make the turtle more salient.\nHint: Ask what the viewer will notice first and why.",
+    "explanation": "A supplies visible evidence of several people. It still shows only one part of the beach, not the entire beach.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Size, central placement and sharp focus make the turtle more salient.",
-      "hint": "Ask what the viewer will notice first and why."
+      "summary": "A supplies visible evidence of several people. It still shows only one part of the beach, not the entire beach.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +68,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-003",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which choice fits cropping a photo of a crowded beach for a news story most accurately?",
-    "audioPrompt": "Which choice fits cropping a photo of a crowded beach for a news story most accurately?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "What has changed from beach A to B?",
+    "audioPrompt": "What has changed from beach A to B?",
+    "visual": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.\"><use href=\"/assets/assessment-visuals/year4/english/la10/beach.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/beach.svg#model",
+      "alt_text": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame."
+    },
     "answers": [
-      "Crop tightly around one empty patch so the beach looks deserted.",
-      "Remove the shoreline so the location is unclear.",
-      "Keep enough of the crowd and shoreline visible to show the scale of the scene."
+      "The child has grown taller while standing still.",
+      "Three people have certainly left the beach.",
+      "The frame is tighter, so the child and bucket take up more of the picture.",
+      "The bucket has changed from red to blue."
     ],
+    "difficulty": 1,
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Cropping can change the apparent meaning by including or excluding context.\nHint: Check what information disappears when the frame changes.",
+    "explanation": "A tighter crop changes the information shown and the size of objects within the frame. It does not establish a real change in the child or the beach.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Cropping can change the apparent meaning by including or excluding context.",
-      "hint": "Check what information disappears when the frame changes."
+      "summary": "A tighter crop changes the information shown and the size of objects within the frame. It does not establish a real change in the child or the beach.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +100,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-004",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Look closely at cropping a photo of a crowded beach for a news story. Which response or wording works best?",
-    "audioPrompt": "Look closely at cropping a photo of a crowded beach for a news story. Which response or wording works best?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which caption avoids claiming more than beach B shows?",
+    "audioPrompt": "Which caption avoids claiming more than beach B shows?",
+    "visual": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.\"><use href=\"/assets/assessment-visuals/year4/english/la10/beach.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/beach.svg#model",
+      "alt_text": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame."
+    },
     "answers": [
-      "Keep enough of the crowd and shoreline visible to show the scale of the scene.",
-      "Crop tightly around one empty patch so the beach looks deserted.",
-      "Remove the shoreline so the location is unclear."
+      "This child is the only visitor at the beach today.",
+      "Everyone else has just gone home.",
+      "The entire beach is empty except for this bucket.",
+      "A child stands beside a bucket on the sand."
     ],
-    "correct": 0,
-    "explanation": "Cropping can change the apparent meaning by including or excluding context.\nHint: Check what information disappears when the frame changes.",
+    "difficulty": 1,
+    "sequencePriority": 4,
+    "correct": 3,
+    "explanation": "B supports the child, bucket and sand. People outside the crop cannot be counted or declared absent.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Cropping can change the apparent meaning by including or excluding context.",
-      "hint": "Check what information disappears when the frame changes."
+      "summary": "B supports the child, bucket and sand. People outside the crop cannot be counted or declared absent.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +132,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-005",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Look closely at showing a character as isolated in a film still. Which response or wording works best?",
-    "audioPrompt": "Look closely at showing a character as isolated in a film still. Which response or wording works best?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A designer wants viewers to inspect the bucket’s handle. Which choice helps most with this purpose?",
+    "audioPrompt": "A designer wants viewers to inspect the bucket’s handle. Which choice helps most with this purpose?",
+    "visual": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.\"><use href=\"/assets/assessment-visuals/year4/english/la10/beach.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/beach.svg#model",
+      "alt_text": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame."
+    },
     "answers": [
-      "Fill the frame with a close-up group selfie.",
-      "Place the character small and alone near the edge of a wide empty frame.",
-      "Put many bright objects around the character so isolation disappears."
+      "Use B, where the bucket and its handle appear larger.",
+      "Use A, because every object is equally easy to inspect at any size.",
+      "Remove the bucket and keep the other three people.",
+      "Use A and cover the bucket with a heading."
     ],
-    "correct": 1,
-    "explanation": "Distance, empty space and edge placement can make the character appear isolated.\nHint: Consider how position and surrounding space shape the response.",
+    "difficulty": 1,
+    "sequencePriority": 5,
+    "correct": 0,
+    "explanation": "The handle is present in both, but B enlarges it. Choose the frame for the particular information the viewer needs.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Distance, empty space and edge placement can make the character appear isolated.",
-      "hint": "Consider how position and surrounding space shape the response."
+      "summary": "The handle is present in both, but B enlarges it. Choose the frame for the particular information the viewer needs.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +164,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-006",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "For showing a character as isolated in a film still, which option is the strongest match?",
-    "audioPrompt": "For showing a character as isolated in a film still, which option is the strongest match?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which question should a reader ask before using B to judge how busy the beach is?",
+    "audioPrompt": "Which question should a reader ask before using B to judge how busy the beach is?",
+    "visual": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.\"><use href=\"/assets/assessment-visuals/year4/english/la10/beach.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/beach.svg#model",
+      "alt_text": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame."
+    },
     "answers": [
-      "Fill the frame with a close-up group selfie.",
-      "Put many bright objects around the character so isolation disappears.",
-      "Place the character small and alone near the edge of a wide empty frame."
+      "Why must the largest object be the oldest?",
+      "What people or places might lie outside this frame?",
+      "Which colour proves the time of day?",
+      "How many visitors must be behind the camera?"
     ],
-    "correct": 2,
-    "explanation": "Distance, empty space and edge placement can make the character appear isolated.\nHint: Consider how position and surrounding space shape the response.",
+    "difficulty": 1,
+    "sequencePriority": 6,
+    "correct": 1,
+    "explanation": "Considering excluded context is useful. The image cannot supply a definite count behind the camera or make size prove age.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Distance, empty space and edge placement can make the character appear isolated.",
-      "hint": "Consider how position and surrounding space shape the response."
+      "summary": "Considering excluded context is useful. The image cannot supply a definite count behind the camera or make size prove age.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +196,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-007",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "For making a warning symbol stand out on an information page, which option is the strongest match?",
-    "audioPrompt": "For making a warning symbol stand out on an information page, which option is the strongest match?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which change would restore more context to beach B while keeping the child visible?",
+    "audioPrompt": "Which change would restore more context to beach B while keeping the child visible?",
+    "visual": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.\"><use href=\"/assets/assessment-visuals/year4/english/la10/beach.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/beach.svg#model",
+      "alt_text": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame."
+    },
     "answers": [
-      "Use strong contrast and place the symbol close to the safety message.",
-      "Use the same pale colour as the background.",
-      "Place the symbol far from the warning text among decorations."
+      "Crop more closely around the bucket alone.",
+      "Enlarge only the child’s face until the surroundings disappear.",
+      "Widen the frame to include some surrounding people and sea.",
+      "Keep the same crop and change the caption’s font."
     ],
-    "correct": 0,
-    "explanation": "Contrast and proximity increase salience and connect the symbol to the warning.\nHint: Look at colour, size, position and closeness to related words.",
+    "difficulty": 1,
+    "sequencePriority": 7,
+    "correct": 2,
+    "explanation": "A wider frame can show relationships and surroundings. Changing a font does not restore visual information removed by cropping.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Contrast and proximity increase salience and connect the symbol to the warning.",
-      "hint": "Look at colour, size, position and closeness to related words."
+      "summary": "A wider frame can show relationships and surroundings. Changing a font does not restore visual information removed by cropping.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +228,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-008",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which example should you choose for making a warning symbol stand out on an information page?",
-    "audioPrompt": "Which example should you choose for making a warning symbol stand out on an information page?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A reader says, “B makes the child seem alone.” Which reply uses the comparison carefully?",
+    "audioPrompt": "A reader says, “B makes the child seem alone.” Which reply uses the comparison carefully?",
+    "visual": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.\"><use href=\"/assets/assessment-visuals/year4/english/la10/beach.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/beach.svg#model",
+      "alt_text": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame."
+    },
     "answers": [
-      "Use the same pale colour as the background.",
-      "Use strong contrast and place the symbol close to the safety message.",
-      "Place the symbol far from the warning text among decorations."
+      "B proves the child felt lonely all day.",
+      "A proves that no viewer could feel concern.",
+      "A and B must show different beaches because the frames differ.",
+      "The tight crop may give that impression, but A shows other people nearby."
     ],
-    "correct": 1,
-    "explanation": "Contrast and proximity increase salience and connect the symbol to the warning.\nHint: Look at colour, size, position and closeness to related words.",
+    "difficulty": 1,
+    "sequencePriority": 8,
+    "correct": 3,
+    "explanation": "Viewer response can be discussed as a possibility. The wider image supplies context that limits the claim of being alone.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Contrast and proximity increase salience and connect the symbol to the warning.",
-      "hint": "Look at colour, size, position and closeness to related words."
+      "summary": "Viewer response can be discussed as a possibility. The wider image supplies context that limits the claim of being alone.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +260,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-009",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which example should you choose for comparing two photographs of the same football match?",
-    "audioPrompt": "Which example should you choose for comparing two photographs of the same football match?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "In sea illustration A, which combination gives the turtle visual emphasis?",
+    "audioPrompt": "In sea illustration A, which combination gives the turtle visual emphasis?",
+    "visual": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.\"><use href=\"/assets/assessment-visuals/year4/english/la10/turtles.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/turtles.svg#model",
+      "alt_text": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish."
+    },
     "answers": [
-      "Both photos must mean exactly the same because they show the same match.",
-      "Only the camera brand changes the meaning.",
-      "The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions."
+      "Its larger size relative to the fish and its placement near the middle.",
+      "Its position outside the frame and lack of visible outline.",
+      "Its smaller size than every fish and position at the bottom left.",
+      "A written instruction naming the turtle above the water."
     ],
-    "correct": 2,
-    "explanation": "Framing controls how much context is visible and therefore what the viewer focuses on.\nHint: Compare what each frame includes and leaves out.",
+    "difficulty": 1,
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "The turtle is large compared with the three small fish and sits near the middle; those visible choices can draw attention to it.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on.",
-      "hint": "Compare what each frame includes and leaves out."
+      "summary": "The turtle is large compared with the three small fish and sits near the middle; those visible choices can draw attention to it.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +292,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-010",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "In comparing two photographs of the same football match, which option best demonstrates the skill?",
-    "audioPrompt": "In comparing two photographs of the same football match, which option best demonstrates the skill?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which statement accurately compares the main size relationship in the sea pair?",
+    "audioPrompt": "Which statement accurately compares the main size relationship in the sea pair?",
+    "visual": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.\"><use href=\"/assets/assessment-visuals/year4/english/la10/turtles.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/turtles.svg#model",
+      "alt_text": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish."
+    },
     "answers": [
-      "The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.",
-      "Both photos must mean exactly the same because they show the same match.",
-      "Only the camera brand changes the meaning."
+      "Both pictures give all animals the same space.",
+      "A gives the turtle more space; B gives the large fish more space.",
+      "B makes the turtle larger than the central fish.",
+      "A contains a large central fish but no turtle."
     ],
-    "correct": 0,
-    "explanation": "Framing controls how much context is visible and therefore what the viewer focuses on.\nHint: Compare what each frame includes and leaves out.",
+    "difficulty": 1,
+    "sequencePriority": 10,
+    "correct": 1,
+    "explanation": "The changed relative sizes shift the likely focus. The drawings do not establish the animals’ real sizes.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on.",
-      "hint": "Compare what each frame includes and leaves out."
+      "summary": "The changed relative sizes shift the likely focus. The drawings do not establish the animals’ real sizes.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +324,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-011",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Why does “Place a large, sharply focused turtle near the centre and keep the background less detailed.” work well for designing a poster about protecting turtles?",
-    "audioPrompt": "Why does “Place a large, sharply focused turtle near the centre and keep the background less detailed.” work well for designing a poster about protecting turtles?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "For an illustrated text about turtle shells, which picture better directs attention to a shell?",
+    "audioPrompt": "For an illustrated text about turtle shells, which picture better directs attention to a shell?",
+    "visual": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.\"><use href=\"/assets/assessment-visuals/year4/english/la10/turtles.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/turtles.svg#model",
+      "alt_text": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish."
+    },
     "answers": [
-      "Because “Make the turtle tiny in a crowded corner.” is always acceptable in this situation.",
-      "Size, central placement and sharp focus make the turtle more salient.",
-      "Because the longest or most complicated option must be correct."
+      "B, because its largest fish has a turtle shell.",
+      "B, because the turtle is completely absent.",
+      "A, because the turtle and the lines on its shell are easier to inspect.",
+      "A, because a central position always proves the subject of a text."
     ],
-    "correct": 1,
-    "explanation": "Size, central placement and sharp focus make the turtle more salient.\nHint: Ask what the viewer will notice first and why.",
+    "difficulty": 1,
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "A supplies an enlarged visible shell. Position alone would not prove a text’s topic; the stated purpose matters.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Size, central placement and sharp focus make the turtle more salient.",
-      "hint": "Ask what the viewer will notice first and why."
+      "summary": "A supplies an enlarged visible shell. Position alone would not prove a text’s topic; the stated purpose matters.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +356,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-012",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "What makes “Place a large, sharply focused turtle near the centre and keep the background less detailed.” a better choice in designing a poster about protecting turtles?",
-    "audioPrompt": "What makes “Place a large, sharply focused turtle near the centre and keep the background less detailed.” a better choice in designing a poster about protecting turtles?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which claim about the real animals cannot be established from the sea pair?",
+    "audioPrompt": "Which claim about the real animals cannot be established from the sea pair?",
+    "visual": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.\"><use href=\"/assets/assessment-visuals/year4/english/la10/turtles.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/turtles.svg#model",
+      "alt_text": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish."
+    },
     "answers": [
-      "Because “Make the turtle tiny in a crowded corner.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "Size, central placement and sharp focus make the turtle more salient."
+      "The turtle takes up more picture space in A than in B.",
+      "B places the turtle near the bottom left.",
+      "A includes three small fish around the turtle.",
+      "The fish is larger than the turtle in real life."
     ],
-    "correct": 2,
-    "explanation": "Size, central placement and sharp focus make the turtle more salient.\nHint: Ask what the viewer will notice first and why.",
+    "difficulty": 1,
+    "sequencePriority": 12,
+    "correct": 3,
+    "explanation": "An illustrator can choose scale for emphasis. These designed sizes are not measurements of real animals.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Size, central placement and sharp focus make the turtle more salient.",
-      "hint": "Ask what the viewer will notice first and why."
+      "summary": "An illustrator can choose scale for emphasis. These designed sizes are not measurements of real animals.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +388,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-013",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "What makes “Keep enough of the crowd and shoreline visible to show the scale of the scene.” a better choice in cropping a photo of a crowded beach for a news story?",
-    "audioPrompt": "What makes “Keep enough of the crowd and shoreline visible to show the scale of the scene.” a better choice in cropping a photo of a crowded beach for a news story?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A learner circles the large fish in B as the part they noticed first. What is the strongest supporting reason?",
+    "audioPrompt": "A learner circles the large fish in B as the part they noticed first. What is the strongest supporting reason?",
+    "visual": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.\"><use href=\"/assets/assessment-visuals/year4/english/la10/turtles.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/turtles.svg#model",
+      "alt_text": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish."
+    },
     "answers": [
-      "Cropping can change the apparent meaning by including or excluding context.",
-      "Because “Crop tightly around one empty patch so the beach looks deserted.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "It occupies a large area near the middle of B.",
+      "Every grey object is always noticed before every green object.",
+      "It is the only animal with an outline.",
+      "The picture states that every viewer must look at the fish first."
     ],
+    "difficulty": 2,
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Cropping can change the apparent meaning by including or excluding context.\nHint: Check what information disappears when the frame changes.",
+    "explanation": "A specific size-and-placement observation supports this response. Colour rules and universal claims are too strong.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Cropping can change the apparent meaning by including or excluding context.",
-      "hint": "Check what information disappears when the frame changes."
+      "summary": "A specific size-and-placement observation supports this response. Colour rules and universal claims are too strong.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +420,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-014",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best justifies “Keep enough of the crowd and shoreline visible to show the scale of the scene.” for cropping a photo of a crowded beach for a news story?",
-    "audioPrompt": "Which explanation best justifies “Keep enough of the crowd and shoreline visible to show the scale of the scene.” for cropping a photo of a crowded beach for a news story?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "How could a designer revise B for a turtle-protection message while retaining the fish?",
+    "audioPrompt": "How could a designer revise B for a turtle-protection message while retaining the fish?",
+    "visual": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.\"><use href=\"/assets/assessment-visuals/year4/english/la10/turtles.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/turtles.svg#model",
+      "alt_text": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish."
+    },
     "answers": [
-      "Because “Crop tightly around one empty patch so the beach looks deserted.” is always acceptable in this situation.",
-      "Cropping can change the apparent meaning by including or excluding context.",
-      "Because the longest or most complicated option must be correct."
+      "Make the turtle smaller and put a large heading over it.",
+      "Enlarge the turtle and give it clearer space among the fish.",
+      "Crop the turtle away and enlarge the biggest fish.",
+      "Add several equally large fish over the turtle."
     ],
+    "difficulty": 2,
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "Cropping can change the apparent meaning by including or excluding context.\nHint: Check what information disappears when the frame changes.",
+    "explanation": "Giving the turtle more visible space supports the purpose while keeping the fish. It is a reasoned design choice, not a guarantee about every viewer.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Cropping can change the apparent meaning by including or excluding context.",
-      "hint": "Check what information disappears when the frame changes."
+      "summary": "Giving the turtle more visible space supports the purpose while keeping the fish. It is a reasoned design choice, not a guarantee about every viewer.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +452,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-015",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best justifies “Place the character small and alone near the edge of a wide empty frame.” for showing a character as isolated in a film still?",
-    "audioPrompt": "Which explanation best justifies “Place the character small and alone near the edge of a wide empty frame.” for showing a character as isolated in a film still?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which explanation uses the word salience correctly for A?",
+    "audioPrompt": "Which explanation uses the word salience correctly for A?",
+    "visual": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.\"><use href=\"/assets/assessment-visuals/year4/english/la10/turtles.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/turtles.svg#model",
+      "alt_text": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish."
+    },
     "answers": [
-      "Because “Fill the frame with a close-up group selfie.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "Distance, empty space and edge placement can make the character appear isolated."
+      "Salience means the animal is scientifically the most important species.",
+      "Salience means every object must be placed at the exact centre.",
+      "The turtle has visual salience: its size and arrangement help it stand out.",
+      "Salience means the illustration is a photograph rather than a drawing."
     ],
+    "difficulty": 2,
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Distance, empty space and edge placement can make the character appear isolated.\nHint: Consider how position and surrounding space shape the response.",
+    "explanation": "Salience concerns what stands out visually in a particular composition. It does not rank species or require a photograph or exact central position.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Distance, empty space and edge placement can make the character appear isolated.",
-      "hint": "Consider how position and surrounding space shape the response."
+      "summary": "Salience concerns what stands out visually in a particular composition. It does not rank species or require a photograph or exact central position.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +484,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-016",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "What should you notice about “Place the character small and alone near the edge of a wide empty frame.” in showing a character as isolated in a film still?",
-    "audioPrompt": "What should you notice about “Place the character small and alone near the edge of a wide empty frame.” in showing a character as isolated in a film still?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "What changed between park notice A and B?",
+    "audioPrompt": "What changed between park notice A and B?",
+    "visual": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.\"><use href=\"/assets/assessment-visuals/year4/english/la10/signs.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/signs.svg#model",
+      "alt_text": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B."
+    },
     "answers": [
-      "Distance, empty space and edge placement can make the character appear isolated.",
-      "Because “Fill the frame with a close-up group selfie.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "The triangle moved into the middle of the circle.",
+      "The word PARK was removed in B.",
+      "The triangle became larger than the circle.",
+      "The triangle’s fill changed from yellow to grey."
     ],
-    "correct": 0,
-    "explanation": "Distance, empty space and edge placement can make the character appear isolated.\nHint: Consider how position and surrounding space shape the response.",
+    "difficulty": 2,
+    "sequencePriority": 16,
+    "correct": 3,
+    "explanation": "The triangle keeps its size and position. Its fill colour changes, allowing a comparison of colour contrast.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Distance, empty space and edge placement can make the character appear isolated.",
-      "hint": "Consider how position and surrounding space shape the response."
+      "summary": "The triangle keeps its size and position. Its fill colour changes, allowing a comparison of colour contrast.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -388,23 +516,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-017",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "What should you notice about “Use strong contrast and place the symbol close to the safety message.” in making a warning symbol stand out on an information page?",
-    "audioPrompt": "What should you notice about “Use strong contrast and place the symbol close to the safety message.” in making a warning symbol stand out on an information page?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Why might the small triangle draw attention in notice A even though it is away from the centre?",
+    "audioPrompt": "Why might the small triangle draw attention in notice A even though it is away from the centre?",
+    "visual": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.\"><use href=\"/assets/assessment-visuals/year4/english/la10/signs.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/signs.svg#model",
+      "alt_text": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B."
+    },
     "answers": [
-      "Because “Use the same pale colour as the background.” is always acceptable in this situation.",
-      "Contrast and proximity increase salience and connect the symbol to the warning.",
-      "Because the longest or most complicated option must be correct."
+      "Its yellow fill contrasts with the mostly grey surrounding shapes.",
+      "All shapes at the top right are always the most important.",
+      "The triangle is larger than the grey circle.",
+      "The yellow triangle is the only shape with any mark inside it."
     ],
-    "correct": 1,
-    "explanation": "Contrast and proximity increase salience and connect the symbol to the warning.\nHint: Look at colour, size, position and closeness to related words.",
+    "difficulty": 2,
+    "sequencePriority": 17,
+    "correct": 0,
+    "explanation": "Colour contrast can contribute to salience away from the centre. The circle is larger and also contains a word.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Contrast and proximity increase salience and connect the symbol to the warning.",
-      "hint": "Look at colour, size, position and closeness to related words."
+      "summary": "Colour contrast can contribute to salience away from the centre. The circle is larger and also contains a word.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -412,23 +548,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-018",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which reason explains why “Use strong contrast and place the symbol close to the safety message.” suits making a warning symbol stand out on an information page?",
-    "audioPrompt": "Which reason explains why “Use strong contrast and place the symbol close to the safety message.” suits making a warning symbol stand out on an information page?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which claim is contradicted by the design of notice A?",
+    "audioPrompt": "Which claim is contradicted by the design of notice A?",
+    "visual": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.\"><use href=\"/assets/assessment-visuals/year4/english/la10/signs.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/signs.svg#model",
+      "alt_text": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B."
+    },
     "answers": [
-      "Because “Use the same pale colour as the background.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "Contrast and proximity increase salience and connect the symbol to the warning."
+      "Contrast can help a small feature attract attention.",
+      "Only the largest object can stand out visually.",
+      "Different features can compete for attention.",
+      "A viewer can explain their response using visible details."
     ],
-    "correct": 2,
-    "explanation": "Contrast and proximity increase salience and connect the symbol to the warning.\nHint: Look at colour, size, position and closeness to related words.",
+    "difficulty": 2,
+    "sequencePriority": 18,
+    "correct": 1,
+    "explanation": "The smaller yellow triangle offers a clear contrasting feature. Salience can involve more than size alone.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Contrast and proximity increase salience and connect the symbol to the warning.",
-      "hint": "Look at colour, size, position and closeness to related words."
+      "summary": "The smaller yellow triangle offers a clear contrasting feature. Salience can involve more than size alone.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -436,23 +580,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-019",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which reason explains why “The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.” suits comparing two photographs of the same football match?",
-    "audioPrompt": "Which reason explains why “The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.” suits comparing two photographs of the same football match?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "To test the effect of colour contrast fairly, what feature has the designer kept the same in A and B?",
+    "audioPrompt": "To test the effect of colour contrast fairly, what feature has the designer kept the same in A and B?",
+    "visual": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.\"><use href=\"/assets/assessment-visuals/year4/english/la10/signs.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/signs.svg#model",
+      "alt_text": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B."
+    },
     "answers": [
-      "Framing controls how much context is visible and therefore what the viewer focuses on.",
-      "Because “Both photos must mean exactly the same because they show the same match.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "The triangle’s yellow fill.",
+      "The absence of words from both notices.",
+      "The shapes’ sizes and positions.",
+      "The number of colours in every shape."
     ],
-    "correct": 0,
-    "explanation": "Framing controls how much context is visible and therefore what the viewer focuses on.\nHint: Compare what each frame includes and leaves out.",
+    "difficulty": 2,
+    "sequencePriority": 19,
+    "correct": 2,
+    "explanation": "The pair changes the triangle’s fill while retaining the layout. That helps connect a different response to the colour choice.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on.",
-      "hint": "Compare what each frame includes and leaves out."
+      "summary": "The pair changes the triangle’s fill while retaining the layout. That helps connect a different response to the colour choice.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -460,23 +612,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-020",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Why does “The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.” work well for comparing two photographs of the same football match?",
-    "audioPrompt": "Why does “The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.” work well for comparing two photographs of the same football match?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "What does the exclamation mark add to the yellow triangle?",
+    "audioPrompt": "What does the exclamation mark add to the yellow triangle?",
+    "visual": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.\"><use href=\"/assets/assessment-visuals/year4/english/la10/signs.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/signs.svg#model",
+      "alt_text": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B."
+    },
     "answers": [
-      "Because “Both photos must mean exactly the same because they show the same match.” is always acceptable in this situation.",
-      "Framing controls how much context is visible and therefore what the viewer focuses on.",
-      "Because the longest or most complicated option must be correct."
+      "Proof of the exact danger present in the park.",
+      "A complete explanation of all park rules.",
+      "Proof that the notice was made yesterday.",
+      "A visible symbol that can support an attention or warning message."
     ],
-    "correct": 1,
-    "explanation": "Framing controls how much context is visible and therefore what the viewer focuses on.\nHint: Compare what each frame includes and leaves out.",
+    "difficulty": 2,
+    "sequencePriority": 20,
+    "correct": 3,
+    "explanation": "The mark can support an attention or warning meaning. It does not identify a particular danger, date or set of rules without more information.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on.",
-      "hint": "Compare what each frame includes and leaves out."
+      "summary": "The mark can support an attention or warning meaning. It does not identify a particular danger, date or set of rules without more information.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -484,23 +644,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-021",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which revision best fixes the problem in “Make the turtle tiny in a crowded corner.” for designing a poster about protecting turtles?",
-    "audioPrompt": "Which revision best fixes the problem in “Make the turtle tiny in a crowded corner.” for designing a poster about protecting turtles?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "For a safety notice, what useful written addition is still needed beside A’s warning symbol?",
+    "audioPrompt": "For a safety notice, what useful written addition is still needed beside A’s warning symbol?",
+    "visual": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.\"><use href=\"/assets/assessment-visuals/year4/english/la10/signs.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/signs.svg#model",
+      "alt_text": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B."
+    },
     "answers": [
-      "Make the turtle tiny in a crowded corner.",
-      "Crop the turtle out and enlarge an unrelated bin.",
-      "Place a large, sharply focused turtle near the centre and keep the background less detailed."
+      "Clear words naming the relevant hazard or action.",
+      "A claim that every viewer has already understood the hazard.",
+      "A larger decorative circle with no further information.",
+      "The word PARK repeated without naming any action."
     ],
-    "correct": 2,
-    "explanation": "Size, central placement and sharp focus make the turtle more salient. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what the viewer will notice first and why.",
+    "difficulty": 2,
+    "sequencePriority": 21,
+    "correct": 0,
+    "explanation": "Image and words can work together: a symbol attracts attention, while clear wording supplies the particular hazard or action.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Size, central placement and sharp focus make the turtle more salient. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what the viewer will notice first and why."
+      "summary": "Image and words can work together: a symbol attracts attention, while clear wording supplies the particular hazard or action.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,23 +676,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-022",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Compare the choices for designing a poster about protecting turtles. Which one avoids the mistake in “Make the turtle tiny in a crowded corner.”?",
-    "audioPrompt": "Compare the choices for designing a poster about protecting turtles. Which one avoids the mistake in “Make the turtle tiny in a crowded corner.”?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Two viewers notice different parts of A first. What is a sound way to discuss this?",
+    "audioPrompt": "Two viewers notice different parts of A first. What is a sound way to discuss this?",
+    "visual": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.\"><use href=\"/assets/assessment-visuals/year4/english/la10/signs.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/signs.svg#model",
+      "alt_text": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B."
+    },
     "answers": [
-      "Place a large, sharply focused turtle near the centre and keep the background less detailed.",
-      "Make the turtle tiny in a crowded corner.",
-      "Crop the turtle out and enlarge an unrelated bin."
+      "The viewer who noticed the circle must be unable to read images.",
+      "Each points to a visible feature, such as colour contrast, size or lettering.",
+      "The picture cannot use salience if responses differ.",
+      "The triangle must be central before anyone can notice it."
     ],
-    "correct": 0,
-    "explanation": "Size, central placement and sharp focus make the turtle more salient. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what the viewer will notice first and why.",
+    "difficulty": 2,
+    "sequencePriority": 22,
+    "correct": 1,
+    "explanation": "Viewer responses may vary. Each interpretation can still be supported and compared using visible composition choices.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Size, central placement and sharp focus make the turtle more salient. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what the viewer will notice first and why."
+      "summary": "Viewer responses may vary. Each interpretation can still be supported and compared using visible composition choices.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -532,23 +708,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-023",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Compare the choices for cropping a photo of a crowded beach for a news story. Which one avoids the mistake in “Crop tightly around one empty patch so the beach looks deserted.”?",
-    "audioPrompt": "Compare the choices for cropping a photo of a crowded beach for a news story. Which one avoids the mistake in “Crop tightly around one empty patch so the beach looks deserted.”?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which football view better shows where the two players are in relation to the goal?",
+    "audioPrompt": "Which football view better shows where the two players are in relation to the goal?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Crop tightly around one empty patch so the beach looks deserted.",
-      "Keep enough of the crowd and shoreline visible to show the scale of the scene.",
-      "Remove the shoreline so the location is unclear."
+      "A, because its enlarged face reveals the unseen player’s position.",
+      "A, because a close frame includes every part of the field.",
+      "B, because it includes both players and the goal in a wider frame.",
+      "B, because raised arms prove the score."
     ],
-    "correct": 1,
-    "explanation": "Cropping can change the apparent meaning by including or excluding context. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check what information disappears when the frame changes.",
+    "difficulty": 2,
+    "sequencePriority": 23,
+    "correct": 2,
+    "explanation": "B provides the relevant spatial context. Neither view supplies a score or an unseen player’s position through a facial close-up.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Cropping can change the apparent meaning by including or excluding context. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check what information disappears when the frame changes."
+      "summary": "B provides the relevant spatial context. Neither view supplies a score or an unseen player’s position through a facial close-up.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -556,23 +740,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-024",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "If “Crop tightly around one empty patch so the beach looks deserted.” does not work in cropping a photo of a crowded beach for a news story, what should replace it?",
-    "audioPrompt": "If “Crop tightly around one empty patch so the beach looks deserted.” does not work in cropping a photo of a crowded beach for a news story, what should replace it?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which visible feature is easier to inspect in football A than B?",
+    "audioPrompt": "Which visible feature is easier to inspect in football A than B?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Crop tightly around one empty patch so the beach looks deserted.",
-      "Remove the shoreline so the location is unclear.",
-      "Keep enough of the crowd and shoreline visible to show the scale of the scene."
+      "The blue-shirted player’s raised arms.",
+      "The full width of the goal.",
+      "The distance between the two players.",
+      "The red-shirted player’s face."
     ],
-    "correct": 2,
-    "explanation": "Cropping can change the apparent meaning by including or excluding context. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check what information disappears when the frame changes.",
+    "difficulty": 2,
+    "sequencePriority": 24,
+    "correct": 3,
+    "explanation": "The closer frame enlarges the red-shirted player. The other player and most of the goal are outside that frame.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Cropping can change the apparent meaning by including or excluding context. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check what information disappears when the frame changes."
+      "summary": "The closer frame enlarges the red-shirted player. The other player and most of the goal are outside that frame.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -580,23 +772,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-025",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "If “Fill the frame with a close-up group selfie.” does not work in showing a character as isolated in a film still, what should replace it?",
-    "audioPrompt": "If “Fill the frame with a close-up group selfie.” does not work in showing a character as isolated in a film still, what should replace it?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which account stays within what the football pair shows?",
+    "audioPrompt": "Which account stays within what the football pair shows?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Place the character small and alone near the edge of a wide empty frame.",
-      "Fill the frame with a close-up group selfie.",
-      "Put many bright objects around the character so isolation disappears."
+      "A red-shirted player and a ball appear in both views; B also includes another player.",
+      "The red-shirted player has certainly won a championship.",
+      "The other player has just scored three goals.",
+      "The close view proves the player is angry about losing."
     ],
+    "difficulty": 2,
+    "sequencePriority": 25,
     "correct": 0,
-    "explanation": "Distance, empty space and edge placement can make the character appear isolated. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Consider how position and surrounding space shape the response.",
+    "explanation": "The visible scene supports the players and ball, but not a match result, score or definite private feeling.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Distance, empty space and edge placement can make the character appear isolated. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Consider how position and surrounding space shape the response."
+      "summary": "The visible scene supports the players and ball, but not a match result, score or definite private feeling.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -604,23 +804,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-026",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which option corrects the meaning or form needed for showing a character as isolated in a film still?",
-    "audioPrompt": "Which option corrects the meaning or form needed for showing a character as isolated in a film still?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A school report needs an image to explain teamwork on the field. Which choice provides a more useful starting point?",
+    "audioPrompt": "A school report needs an image to explain teamwork on the field. Which choice provides a more useful starting point?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Fill the frame with a close-up group selfie.",
-      "Place the character small and alone near the edge of a wide empty frame.",
-      "Put many bright objects around the character so isolation disappears."
+      "A, because hiding the second player shows their teamwork more clearly.",
+      "B, because viewers can see two players and discuss their positions.",
+      "A, because an enlarged face always proves a shared plan.",
+      "B, because raised arms guarantee that the two players are friends."
     ],
+    "difficulty": 2,
+    "sequencePriority": 26,
     "correct": 1,
-    "explanation": "Distance, empty space and edge placement can make the character appear isolated. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Consider how position and surrounding space shape the response.",
+    "explanation": "B allows discussion of more than one player. Teamwork or friendship is not proved just by a pose; a report would need further context.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Distance, empty space and edge placement can make the character appear isolated. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Consider how position and surrounding space shape the response."
+      "summary": "B allows discussion of more than one player. Teamwork or friendship is not proved just by a pose; a report would need further context.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -628,23 +836,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-027",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which option corrects the meaning or form needed for making a warning symbol stand out on an information page?",
-    "audioPrompt": "Which option corrects the meaning or form needed for making a warning symbol stand out on an information page?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which cropping decision would remove the clue that another player is nearby?",
+    "audioPrompt": "Which cropping decision would remove the clue that another player is nearby?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Use the same pale colour as the background.",
-      "Place the symbol far from the warning text among decorations.",
-      "Use strong contrast and place the symbol close to the safety message."
+      "Include the full width of B.",
+      "Keep the blue-shirted player and goal on the right.",
+      "Keep only the left-hand area around the red-shirted player.",
+      "Add space around both sides of B."
     ],
+    "difficulty": 2,
+    "sequencePriority": 27,
     "correct": 2,
-    "explanation": "Contrast and proximity increase salience and connect the symbol to the warning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look at colour, size, position and closeness to related words.",
+    "explanation": "The second player is on the right. A left-hand crop can exclude that context without changing what happened in the scene.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Contrast and proximity increase salience and connect the symbol to the warning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look at colour, size, position and closeness to related words."
+      "summary": "The second player is on the right. A left-hand crop can exclude that context without changing what happened in the scene.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -652,23 +868,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-028",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which choice is the clearest correction for making a warning symbol stand out on an information page?",
-    "audioPrompt": "Which choice is the clearest correction for making a warning symbol stand out on an information page?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "If a viewer says B feels more like a shared activity than A, which evidence best supports that response?",
+    "audioPrompt": "If a viewer says B feels more like a shared activity than A, which evidence best supports that response?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Use strong contrast and place the symbol close to the safety message.",
-      "Use the same pale colour as the background.",
-      "Place the symbol far from the warning text among decorations."
+      "B uses a different sport with no ball.",
+      "A contains more players than B.",
+      "Every wide picture must show a happy event.",
+      "B includes a second player, while A concentrates on one player."
     ],
-    "correct": 0,
-    "explanation": "Contrast and proximity increase salience and connect the symbol to the warning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Look at colour, size, position and closeness to related words.",
+    "difficulty": 2,
+    "sequencePriority": 28,
+    "correct": 3,
+    "explanation": "The included second player supports a possible sense of shared activity. A wide frame does not guarantee any particular mood.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Contrast and proximity increase salience and connect the symbol to the warning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look at colour, size, position and closeness to related words."
+      "summary": "The included second player supports a possible sense of shared activity. A wide frame does not guarantee any particular mood.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -676,23 +900,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-029",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which choice is the clearest correction for comparing two photographs of the same football match?",
-    "audioPrompt": "Which choice is the clearest correction for comparing two photographs of the same football match?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which revision would most clearly shift a still picture’s emphasis from the red-shirted player to the ball?",
+    "audioPrompt": "Which revision would most clearly shift a still picture’s emphasis from the red-shirted player to the ball?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Both photos must mean exactly the same because they show the same match.",
-      "The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.",
-      "Only the camera brand changes the meaning."
+      "Reframe more tightly around the ball while leaving enough field to identify the setting.",
+      "Crop the ball out and keep the player’s face.",
+      "Cover the ball with a title.",
+      "Make the ball smaller while enlarging the player."
     ],
-    "correct": 1,
-    "explanation": "Framing controls how much context is visible and therefore what the viewer focuses on. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Compare what each frame includes and leaves out.",
+    "difficulty": 2,
+    "sequencePriority": 29,
+    "correct": 0,
+    "explanation": "A deliberate crop can enlarge the chosen subject. Keeping some field context can help the viewer recognise its setting.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Compare what each frame includes and leaves out."
+      "summary": "A deliberate crop can enlarge the chosen subject. Keeping some field context can help the viewer recognise its setting.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -700,23 +932,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-030",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which revision best fixes the problem in “Both photos must mean exactly the same because they show the same match.” for comparing two photographs of the same football match?",
-    "audioPrompt": "Which revision best fixes the problem in “Both photos must mean exactly the same because they show the same match.” for comparing two photographs of the same football match?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Play the six-second Practice football clip above. How does the frame change during the clip?",
+    "audioPrompt": "Play the six-second Practice football clip above. How does the frame change during the clip?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Both photos must mean exactly the same because they show the same match.",
-      "Only the camera brand changes the meaning.",
-      "The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions."
+      "It cuts suddenly between two unrelated rooms.",
+      "It gradually widens from the red-shirted player to more of the field.",
+      "It steadily narrows until only the ball fills the frame.",
+      "It stays identical while only the players run across it."
     ],
-    "correct": 2,
-    "explanation": "Framing controls how much context is visible and therefore what the viewer focuses on. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Compare what each frame includes and leaves out.",
+    "difficulty": 2,
+    "sequencePriority": 30,
+    "correct": 1,
+    "explanation": "The original clip holds a close view, gradually pulls back, then holds the wider scene. The drawn people do not animate.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Compare what each frame includes and leaves out."
+      "summary": "The original clip holds a close view, gradually pulls back, then holds the wider scene. The drawn people do not animate.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -724,23 +964,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-031",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "You now need to handle designing a poster about protecting turtles independently. Which choice should you use?",
-    "audioPrompt": "You now need to handle designing a poster about protecting turtles independently. Which choice should you use?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Watch the Practice football clip. Which information appears later because the frame widens?",
+    "audioPrompt": "Watch the Practice football clip. Which information appears later because the frame widens?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Place a large, sharply focused turtle near the centre and keep the background less detailed.",
-      "Crop the turtle out and enlarge an unrelated bin.",
-      "Make the turtle tiny in a crowded corner."
+      "A change from a red shirt to a yellow shirt.",
+      "A scoreboard showing the final result.",
+      "The blue-shirted player on the right.",
+      "A ball changing into a different object."
     ],
-    "correct": 0,
-    "explanation": "Size, central placement and sharp focus make the turtle more salient.\nHint: Ask what the viewer will notice first and why.",
+    "difficulty": 2,
+    "sequencePriority": 31,
+    "correct": 2,
+    "explanation": "The widening frame reveals the second player. No shirt change, scoreboard or object transformation appears.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Size, central placement and sharp focus make the turtle more salient.",
-      "hint": "Ask what the viewer will notice first and why."
+      "summary": "The widening frame reveals the second player. No shirt change, scoreboard or object transformation appears.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -748,23 +996,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-032",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Apply the same idea to designing a poster about protecting turtles. Which option is best?",
-    "audioPrompt": "Apply the same idea to designing a poster about protecting turtles. Which option is best?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "In the Practice football clip, what causes the red-shirted player to occupy less of the screen near the end?",
+    "audioPrompt": "In the Practice football clip, what causes the red-shirted player to occupy less of the screen near the end?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Crop the turtle out and enlarge an unrelated bin.",
-      "Place a large, sharply focused turtle near the centre and keep the background less detailed.",
-      "Make the turtle tiny in a crowded corner."
+      "The player visibly shrinks into a younger child.",
+      "The player runs far away during the clip.",
+      "The player changes clothing behind the goal.",
+      "The view pulls back to include more surroundings."
     ],
-    "correct": 1,
-    "explanation": "Size, central placement and sharp focus make the turtle more salient.\nHint: Ask what the viewer will notice first and why.",
+    "difficulty": 2,
+    "sequencePriority": 32,
+    "correct": 3,
+    "explanation": "The framing changes continuously; the drawn player stays in the same place in the scene.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Size, central placement and sharp focus make the turtle more salient.",
-      "hint": "Ask what the viewer will notice first and why."
+      "summary": "The framing changes continuously; the drawn player stays in the same place in the scene.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -772,23 +1028,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-033",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Apply the same idea to cropping a photo of a crowded beach for a news story. Which option is best?",
-    "audioPrompt": "Apply the same idea to cropping a photo of a crowded beach for a news story. Which option is best?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Which description separates the Practice clip from the still football pair correctly?",
+    "audioPrompt": "Which description separates the Practice clip from the still football pair correctly?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Remove the shoreline so the location is unclear.",
-      "Crop tightly around one empty patch so the beach looks deserted.",
-      "Keep enough of the crowd and shoreline visible to show the scale of the scene."
+      "The clip shows the framing change over time; the pair places two views side by side.",
+      "The pair proves the players move, but the clip cannot show time.",
+      "A pair of still images is always the same as watching a moving clip.",
+      "The clip contains spoken commentary that is missing from the pair."
     ],
-    "correct": 2,
-    "explanation": "Cropping can change the apparent meaning by including or excluding context.\nHint: Check what information disappears when the frame changes.",
+    "difficulty": 2,
+    "sequencePriority": 33,
+    "correct": 0,
+    "explanation": "The clip supplies visible change over time and is silent. The still pair supports comparison but does not show the movement between views.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Cropping can change the apparent meaning by including or excluding context.",
-      "hint": "Check what information disappears when the frame changes."
+      "summary": "The clip supplies visible change over time and is silent. The still pair supports comparison but does not show the movement between views.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -796,23 +1060,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-034",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which decision would produce the clearest result in cropping a photo of a crowded beach for a news story?",
-    "audioPrompt": "Which decision would produce the clearest result in cropping a photo of a crowded beach for a news story?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A maker wants the audience to know immediately that two players are present. How could they change the Practice clip’s opening?",
+    "audioPrompt": "A maker wants the audience to know immediately that two players are present. How could they change the Practice clip’s opening?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Keep enough of the crowd and shoreline visible to show the scale of the scene.",
-      "Remove the shoreline so the location is unclear.",
-      "Crop tightly around one empty patch so the beach looks deserted."
+      "Hold the existing close view for longer.",
+      "Start with the wide view that includes both players.",
+      "Crop the opening more tightly around the red-shirted face.",
+      "Hide the right side throughout the clip."
     ],
-    "correct": 0,
-    "explanation": "Cropping can change the apparent meaning by including or excluding context.\nHint: Check what information disappears when the frame changes.",
+    "difficulty": 2,
+    "sequencePriority": 34,
+    "correct": 1,
+    "explanation": "A wide opening reveals the shared setting immediately. A close opening delays the other player’s appearance.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Cropping can change the apparent meaning by including or excluding context.",
-      "hint": "Check what information disappears when the frame changes."
+      "summary": "A wide opening reveals the shared setting immediately. A close opening delays the other player’s appearance.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -820,23 +1092,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-035",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Which decision would produce the clearest result in showing a character as isolated in a film still?",
-    "audioPrompt": "Which decision would produce the clearest result in showing a character as isolated in a film still?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "What would reversing the order of the Practice football clip mainly change?",
+    "audioPrompt": "What would reversing the order of the Practice football clip mainly change?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Put many bright objects around the character so isolation disappears.",
-      "Place the character small and alone near the edge of a wide empty frame.",
-      "Fill the frame with a close-up group selfie."
+      "It would prove that the match happened backwards in real life.",
+      "It would add a third player to the drawing.",
+      "It would begin with shared field context and end with emphasis on one player.",
+      "It would change the ball’s colour."
     ],
-    "correct": 1,
-    "explanation": "Distance, empty space and edge placement can make the character appear isolated.\nHint: Consider how position and surrounding space shape the response.",
+    "difficulty": 2,
+    "sequencePriority": 35,
+    "correct": 2,
+    "explanation": "Reversing the framing progression changes when context is available and where attention ends. It does not reverse real events or create objects.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Distance, empty space and edge placement can make the character appear isolated.",
-      "hint": "Consider how position and surrounding space shape the response."
+      "summary": "Reversing the framing progression changes when context is available and where attention ends. It does not reverse real events or create objects.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -844,23 +1124,31 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-036",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
     "type": "single",
-    "question": "Choose the option that applies the skill correctly in showing a character as isolated in a film still.",
-    "audioPrompt": "Choose the option that applies the skill correctly in showing a character as isolated in a film still.",
-    "visual": "",
-    "visualHtml": "",
+    "question": "After watching the Practice clip, which statement uses evidence without inventing unseen action?",
+    "audioPrompt": "After watching the Practice clip, which statement uses evidence without inventing unseen action?",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
     "answers": [
-      "Put many bright objects around the character so isolation disappears.",
-      "Fill the frame with a close-up group selfie.",
-      "Place the character small and alone near the edge of a wide empty frame."
+      "The red-shirted player passes the ball twice during the clip.",
+      "The second player catches the ball after a goal.",
+      "The team celebrates its confirmed final score.",
+      "The frame widens and reveals another player, but it does not show a pass being made."
     ],
-    "correct": 2,
-    "explanation": "Distance, empty space and edge placement can make the character appear isolated.\nHint: Consider how position and surrounding space shape the response.",
+    "difficulty": 2,
+    "sequencePriority": 36,
+    "correct": 3,
+    "explanation": "The clip changes framing only. A wider view reveals context, not a filmed pass, catch or confirmed result.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Distance, empty space and edge placement can make the character appear isolated.",
-      "hint": "Consider how position and surrounding space shape the response."
+      "summary": "The clip changes framing only. A wider view reveals context, not a filmed pass, catch or confirmed result.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -868,23 +1156,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-037",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
-    "type": "single",
-    "question": "Choose the option that applies the skill correctly in making a warning symbol stand out on an information page.",
-    "audioPrompt": "Choose the option that applies the skill correctly in making a warning symbol stand out on an information page.",
-    "visual": "",
-    "visualHtml": "",
-    "answers": [
-      "Use strong contrast and place the symbol close to the safety message.",
-      "Place the symbol far from the warning text among decorations.",
-      "Use the same pale colour as the background."
-    ],
-    "correct": 0,
-    "explanation": "Contrast and proximity increase salience and connect the symbol to the warning.\nHint: Look at colour, size, position and closeness to related words.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "B frames the red-shirted child and bucket more tightly. It leaves the other three people outside the frame. This may make the child seem more alone, though A supplies wider context.",
+    "acceptanceNote": "Require an actual comparison with one correct inclusion/exclusion and a possible response linked to it. Accept other supported responses; do not require the word lonely or a fixed feeling.",
+    "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
+    "completionLabel": "My adult has checked the completed work.",
+    "question": "Compare beach A and B in two or three sentences. Name a framing choice, cite what it includes or leaves out, and explain one possible effect on a viewer.",
+    "audioPrompt": "Compare beach A and B in two or three sentences. Name a framing choice, cite what it includes or leaves out, and explain one possible effect on a viewer.",
+    "visual": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.\"><use href=\"/assets/assessment-visuals/year4/english/la10/beach.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/beach.svg#model",
+      "alt_text": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "sequencePriority": 37,
+    "correct": "B frames the red-shirted child and bucket more tightly. It leaves the other three people outside the frame. This may make the child seem more alone, though A supplies wider context.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Contrast and proximity increase salience and connect the symbol to the warning.",
-      "hint": "Look at colour, size, position and closeness to related words."
+      "summary": "B frames the red-shirted child and bucket more tightly. It leaves the other three people outside the frame. This may make the child seem more alone, though A supplies wider context.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -892,23 +1189,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-038",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
-    "type": "single",
-    "question": "What would be the most effective choice for making a warning symbol stand out on an information page?",
-    "audioPrompt": "What would be the most effective choice for making a warning symbol stand out on an information page?",
-    "visual": "",
-    "visualHtml": "",
-    "answers": [
-      "Place the symbol far from the warning text among decorations.",
-      "Use strong contrast and place the symbol close to the safety message.",
-      "Use the same pale colour as the background."
-    ],
-    "correct": 1,
-    "explanation": "Contrast and proximity increase salience and connect the symbol to the warning.\nHint: Look at colour, size, position and closeness to related words.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The turtle takes up much more space than the fish and is near the middle. Small fish surround it, so the turtle may attract attention when I first view the picture.",
+    "acceptanceNote": "Observe the actual explanation and pointing or labels. Require both relative size and placement, with a reasoned attention effect. Accept a different first-noticed feature if supported.",
+    "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
+    "completionLabel": "My adult has checked the completed work.",
+    "question": "Explain to an adult how size and placement work together in sea A. Point to the turtle and at least one fish as evidence.",
+    "audioPrompt": "Explain to an adult how size and placement work together in sea A. Point to the turtle and at least one fish as evidence.",
+    "visual": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.\"><use href=\"/assets/assessment-visuals/year4/english/la10/turtles.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/turtles.svg#model",
+      "alt_text": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "sequencePriority": 38,
+    "correct": "The turtle takes up much more space than the fish and is near the middle. Small fish surround it, so the turtle may attract attention when I first view the picture.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Contrast and proximity increase salience and connect the symbol to the warning.",
-      "hint": "Look at colour, size, position and closeness to related words."
+      "summary": "The turtle takes up much more space than the fish and is near the middle. Small fish surround it, so the turtle may attract attention when I first view the picture.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -916,23 +1222,32 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-039",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
-    "type": "single",
-    "question": "What would be the most effective choice for comparing two photographs of the same football match?",
-    "audioPrompt": "What would be the most effective choice for comparing two photographs of the same football match?",
-    "visual": "",
-    "visualHtml": "",
-    "answers": [
-      "Only the camera brand changes the meaning.",
-      "Both photos must mean exactly the same because they show the same match.",
-      "The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions."
-    ],
-    "correct": 2,
-    "explanation": "Framing controls how much context is visible and therefore what the viewer focuses on.\nHint: Compare what each frame includes and leaves out.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The triangle is yellow in A and grey in B. Its size and position stay the same, so I can compare how its contrast with the other shapes affects attention.",
+    "acceptanceNote": "Require the colour change and a retained size/position feature. Accept personal responses; do not assert that every viewer must prefer A.",
+    "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
+    "completionLabel": "My adult has checked the completed work.",
+    "question": "Write a two-sentence explanation of how the park pair lets you explore colour contrast. Say what changed and what stayed the same.",
+    "audioPrompt": "Write a two-sentence explanation of how the park pair lets you explore colour contrast. Say what changed and what stayed the same.",
+    "visual": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.\"><use href=\"/assets/assessment-visuals/year4/english/la10/signs.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/signs.svg#model",
+      "alt_text": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "sequencePriority": 39,
+    "correct": "The triangle is yellow in A and grey in B. Its size and position stay the same, so I can compare how its contrast with the other shapes affects attention.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on.",
-      "hint": "Compare what each frame includes and leaves out."
+      "summary": "The triangle is yellow in A and grey in B. Its size and position stay the same, so I can compare how its contrast with the other shapes affects attention.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   },
@@ -940,23 +1255,296 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4la10-p-040",
     "curriculumCode": "AC9E4LA10",
     "bank": "practice",
-    "skill": "Framing, Placement and Salience in Images",
+    "skill": "Framing, placement and salience in still and moving images",
     "printable": true,
-    "type": "single",
-    "question": "You now need to handle comparing two photographs of the same football match independently. Which choice should you use?",
-    "audioPrompt": "You now need to handle comparing two photographs of the same football match independently. Which choice should you use?",
-    "visual": "",
-    "visualHtml": "",
-    "answers": [
-      "The close-up of the goalkeeper emphasises emotion, while the wide shot shows team positions.",
-      "Only the camera brand changes the meaning.",
-      "Both photos must mean exactly the same because they show the same match."
-    ],
-    "correct": 0,
-    "explanation": "Framing controls how much context is visible and therefore what the viewer focuses on.\nHint: Compare what each frame includes and leaves out.",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "I choose B. It includes both players and the goal, so a reader can compare where they stand on the field.",
+    "acceptanceNote": "Require a chosen view and two accurate visible details linked to the purpose. A different choice needs a coherent narrower purpose, not a false claim that A includes the second player.",
+    "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
+    "completionLabel": "My adult has checked the completed work.",
+    "question": "Compare the two football stills for a caption about where players are positioned. Choose a view and justify it with two visible details.",
+    "audioPrompt": "Compare the two football stills for a caption about where players are positioned. Choose a view and justify it with two visible details.",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "sequencePriority": 40,
+    "correct": "I choose B. It includes both players and the goal, so a reader can compare where they stand on the field.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Framing controls how much context is visible and therefore what the viewer focuses on.",
-      "hint": "Compare what each frame includes and leaves out."
+      "summary": "I choose B. It includes both players and the goal, so a reader can compare where they stand on the field.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la10-p-041",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "Framing, placement and salience in still and moving images",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "A frame can include the red-shirted child, bucket and purple-shirted person, with sand around them. This retains evidence that another person is nearby.",
+    "acceptanceNote": "Inspect the actual sketch/annotated crop. Require the bucket and two people to remain inside, with one accurate explanation. Assess the framing decision rather than drawing polish; accept a described boundary with communication support.",
+    "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
+    "completionLabel": "My adult has checked the completed work.",
+    "question": "Sketch a new frame within beach A that keeps the red bucket and at least two people visible. Label the bucket and both people you include. Explain one piece of context you retain.",
+    "audioPrompt": "Sketch a new frame within beach A that keeps the red bucket and at least two people visible. Label the bucket and both people you include. Explain one piece of context you retain.",
+    "visual": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame.\"><use href=\"/assets/assessment-visuals/year4/english/la10/beach.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/beach.svg#model",
+      "alt_text": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "sequencePriority": 41,
+    "correct": "A frame can include the red-shirted child, bucket and purple-shirted person, with sand around them. This retains evidence that another person is nearby.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "A frame can include the red-shirted child, bucket and purple-shirted person, with sand around them. This retains evidence that another person is nearby.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la10-p-042",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "Framing, placement and salience in still and moving images",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "A large turtle sits above a much smaller fish with open space around its shell. Labels identify relative size and space around the turtle as choices directing attention.",
+    "acceptanceNote": "Require an actual new sketch or accessible composition plan, turtle plus another sea animal, two deliberate labelled choices and an explanation tied to the protection purpose. Accept varied placements and styles.",
+    "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
+    "completionLabel": "My adult has checked the completed work.",
+    "question": "Create a small original turtle-protection poster sketch. Use two visual choices to give the turtle emphasis while keeping another sea animal visible. Label both choices.",
+    "audioPrompt": "Create a small original turtle-protection poster sketch. Use two visual choices to give the turtle emphasis while keeping another sea animal visible. Label both choices.",
+    "visual": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.\"><use href=\"/assets/assessment-visuals/year4/english/la10/turtles.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/turtles.svg#model",
+      "alt_text": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "sequencePriority": 42,
+    "correct": "A large turtle sits above a much smaller fish with open space around its shell. Labels identify relative size and space around the turtle as choices directing attention.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "A large turtle sits above a much smaller fish with open space around its shell. Labels identify relative size and space around the turtle as choices directing attention.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la10-p-043",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "Framing, placement and salience in still and moving images",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "A large path outline has a small crossed-out bag on it. A bold heading says Keep the path clear, and a contrasting border groups the words and image.",
+    "acceptanceNote": "Inspect the actual designed notice. Require the stated words, an original relevant image and a labelled emphasis choice. Accept alternatives; do not require colour alone, and ensure the intended action is understandable.",
+    "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
+    "completionLabel": "My adult has checked the completed work.",
+    "question": "Design a park notice for “Keep the path clear”. Include those words and a simple original image. Label one visual choice that makes the important message stand out.",
+    "audioPrompt": "Design a park notice for “Keep the path clear”. Include those words and a simple original image. Label one visual choice that makes the important message stand out.",
+    "visual": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B.\"><use href=\"/assets/assessment-visuals/year4/english/la10/signs.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/signs.svg#model",
+      "alt_text": "Two park notices with the same shapes and positions. Each has a large grey circle marked PARK and a smaller triangle with an exclamation mark at the upper right. The triangle is yellow in A and grey in B."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "sequencePriority": 43,
+    "correct": "A large path outline has a small crossed-out bag on it. A bold heading says Keep the path clear, and a contrasting border groups the words and image.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "A large path outline has a small crossed-out bag on it. A bold heading says Keep the path clear, and a contrasting border groups the words and image.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la10-p-044",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "Framing, placement and salience in still and moving images",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "One frame enlarges a player’s head and shoulders; the other includes two players, a ball and part of the field. The first reveals expression detail and the second supplies spatial context.",
+    "acceptanceNote": "Require two actual frames or an accessible layout plan with distinct inclusion decisions and an accurate explanation. The scene can be invented; artistic detail and particular emotions are not graded.",
+    "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
+    "completionLabel": "My adult has checked the completed work.",
+    "question": "Draw two different frames for a new ball-game illustration: one to show a player’s expression and one to show the shared setting. Label what each frame includes.",
+    "audioPrompt": "Draw two different frames for a new ball-game illustration: one to show a player’s expression and one to show the shared setting. Label what each frame includes.",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "sequencePriority": 44,
+    "correct": "One frame enlarges a player’s head and shoulders; the other includes two players, a ball and part of the field. The first reveals expression detail and the second supplies spatial context.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "One frame enlarges a player’s head and shoulders; the other includes two players, a ball and part of the field. The first reveals expression detail and the second supplies spatial context.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la10-p-045",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "Framing, placement and salience in still and moving images",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "It opens close to the red-shirted player, gradually widens, and ends with both players and the goal. The second player is revealed later, so the opening delays that shared context.",
+    "acceptanceNote": "Require actual viewing, three accurate temporal observations and a timing/context explanation. If playback is unavailable, record viewing as pending; a still-pair description alone does not complete this moving-image task.",
+    "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
+    "completionLabel": "My adult has checked the completed work.",
+    "question": "Watch the Practice football clip. Describe its opening, its framing change and its ending. Explain how the time order affects when the viewer learns another player is nearby.",
+    "audioPrompt": "Watch the Practice football clip. Describe its opening, its framing change and its ending. Explain how the time order affects when the viewer learns another player is nearby.",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "sequencePriority": 45,
+    "correct": "It opens close to the red-shirted player, gradually widens, and ends with both players and the goal. The second player is revealed later, so the opening delays that shared context.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "It opens close to the red-shirted player, gradually widens, and ends with both players and the goal. The second player is revealed later, so the opening delays that shared context.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la10-p-046",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "Framing, placement and salience in still and moving images",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The first frame concentrates on the red-shirted player. The final frame gives more context because it includes another player and more of the goal.",
+    "acceptanceNote": "Observe playback and the learner’s actual explanation using both terms meaningfully. Accept spoken, signed, written or supported responses with a visible difference. A claim of action not shown needs correction.",
+    "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
+    "completionLabel": "My adult has checked the completed work.",
+    "question": "Watch the Practice clip and pause near the start and near the end. Give an oral comparison using the words frame and context, pointing to a visible difference.",
+    "audioPrompt": "Watch the Practice clip and pause near the start and near the end. Give an oral comparison using the words frame and context, pointing to a visible difference.",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "sequencePriority": 46,
+    "correct": "The first frame concentrates on the red-shirted player. The final frame gives more context because it includes another player and more of the goal.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "The first frame concentrates on the red-shirted player. The final frame gives more context because it includes another player and more of the goal.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la10-p-047",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "Framing, placement and salience in still and moving images",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Opening: both players and goal. Middle: move closer to the red-shirted player. Ending: that player and ball fill more of the frame. Attention moves from shared context towards one player.",
+    "acceptanceNote": "Inspect the actual ordered plan and explanation. Require genuine viewing first, an accurate reversed framing progression and its information/attention effect. Label the product a storyboard plan, not a newly filmed clip.",
+    "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
+    "completionLabel": "My adult has checked the completed work.",
+    "question": "After viewing the Practice clip, draw a three-frame plan that reverses its order. Label opening, middle and ending, then explain how the change would guide attention.",
+    "audioPrompt": "After viewing the Practice clip, draw a three-frame plan that reverses its order. Label opening, middle and ending, then explain how the change would guide attention.",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "sequencePriority": 47,
+    "correct": "Opening: both players and goal. Middle: move closer to the red-shirted player. Ending: that player and ball fill more of the frame. Attention moves from shared context towards one player.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "Opening: both players and goal. Middle: move closer to the red-shirted player. Ending: that player and ball fill more of the frame. Attention moves from shared context towards one player.",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4la10-p-048",
+    "curriculumCode": "AC9E4LA10",
+    "bank": "practice",
+    "skill": "Framing, placement and salience in still and moving images",
+    "printable": true,
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The frame widens, but the drawn players and ball do not move. We have not seen a pass. Is there another clip that actually shows the ball travelling between players?",
+    "acceptanceNote": "Require a respectful actual reply distinguishing changing frame from player/ball action, plus a relevant evidence question. Verify playback occurred; do not accept an unsupported claim that the pass happened off screen.",
+    "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
+    "completionLabel": "My adult has checked the completed work.",
+    "question": "Watch the Practice clip. A classmate says, “We watched a pass.” Write a respectful evidence-based reply and one question you would ask before claiming a pass occurred.",
+    "audioPrompt": "Watch the Practice clip. A classmate says, “We watched a pass.” Write a respectful evidence-based reply and one question you would ask before claiming a pass occurred.",
+    "visual": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal.\"><use href=\"/assets/assessment-visuals/year4/english/la10/football.svg#model\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/english/la10/football.svg#model",
+      "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
+    },
+    "answers": [],
+    "difficulty": 3,
+    "sequencePriority": 48,
+    "correct": "The frame widens, but the drawn players and ball do not move. We have not seen a pass. Is there another clip that actually shows the ball travelling between players?",
+    "explanation": "Check the completed work against this guidance before marking the response.",
+    "structuredExplanation": {
+      "summary": "The frame widens, but the drawn players and ball do not move. We have not seen a pass. Is there another clip that actually shows the ball travelling between players?",
+      "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
   }
