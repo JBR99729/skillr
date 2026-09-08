@@ -17,6 +17,10 @@ Triggered workflows inspected: Science static pages, Science pre-module notes (i
 
 - `quiz/assets/year4-science-pre-module-notes.js`: `9de9907787ceca80390eec85af8e9770220a3a185c1e3db7729eb8587e551b43`
 - `scripts/validate_year4_science_pre_module_notes.mjs`: `f2587644de2e24c45e8dce6dddbbe3b4270e24b8e7d76c683060714b2a9be956`
-- `scripts/validate_year4_science_pre_module_flow.mjs`: `b014c3467d75bc5abdea84c4013309323ab86e00c83d28ec3bb1c3d17e753ea3`
+- `scripts/validate_year4_science_pre_module_flow.mjs`: `76350db13e328874ef4836dd07892e41a0e6aefc894548622e8cca1a0521151d`
 - `scripts/validate_year4_science_static_topic_pages.mjs`: `3e3ce4fee8ab8a3bb62061f7607d7176b70d3cae380034483b0e1fc6ab56029b`
 - `scripts/validate_year4_science_topic_modules.mjs`: `bdd2cfca1857e0adaae5fa2b29448453f086ed8c4ad0ce96c8c5136382faa822`
+
+## PR 824 mobile-flow expectation correction
+
+Root reports initial CI 10/11 gates passing and all 24 desktop Science launches passing; the two mobile checks reached an obsolete shared default expecting question cycling enabled. Independently verified all 24 current Practice/Test wrapper configurations explicitly set `questionCycle: false`, and the existing notes validator already requires false. Reviewed the single added `expectedQuestionCycle: false` configuration: shared flow passes this explicit value into its mobile route assertion using nullish fallback, so false is preserved. This corrects the test expectation to the existing production behaviour; no shared validator or production code changed. Syntax passes. CI rerun is required to confirm the complete mobile flow after this assertion.
