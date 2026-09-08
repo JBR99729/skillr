@@ -28,21 +28,13 @@ Structural checks passed64unique IDs/prompts,48+16counts, four distinct options/
 
 Version `20260909-year4-english-la07-la12-v1`; worksheet body marker true; dedicated array `window.skillrWorksheetQuestions`; worksheet title `Tense and Meaning` avoids duplicate Worksheet suffix. Root owns attempt wrappers, shared guards, publishing and actual PDF/runtime checks. All independent gates remain pending.
 
-Practice preparation HTML — exact canonical lesson paragraph:
+Practice preparation HTML — exact canonical model and explanation:
 
 ```html
-<p>All three sentences keep the walker and destination. The verb groups and time context change how the reader places the event in time. You can write about an imagined journey; no journey is required.</p>
+<div class="unit-activity-grid"><article class="curriculum-worked-example"><h3>Past event</h3><p>Yesterday, I walked to school.</p><p>“Walked” presents the walk as a past event.</p></article><article class="curriculum-worked-example"><h3>Current routine</h3><p>I walk to school on most school days.</p><p>“Walk” describes a current habit. It does not mean I must be walking at this exact moment.</p></article><article class="curriculum-worked-example"><h3>Future plan</h3><p>Tomorrow, I will walk to school.</p><p>“Will walk” presents the walk as a future action. Use the base verb after “will”: <em>will walk</em>, not <em>will walked</em>.</p></article></div><p>All three sentences keep the walker and destination. The verb groups and time context change how the reader places the event in time. You can write about an imagined journey; no journey is required.</p>
 ```
 
-For a concrete model, copy these exact canonical paragraphs together:
-
-```html
-<p>Yesterday, I walked to school.</p>
-<p>I walk to school on most school days.</p>
-<p>Tomorrow, I will walk to school.</p>
-```
-
-Neutral Test reminder HTML — exact canonical paragraph, no Test answers:
+Neutral Test reminder:
 
 ```html
 <p>Read the whole text and each complete verb group. Check the intended time before changing a form. In writing tasks, explain your own choices; an adult checks the actual work.</p>
@@ -55,3 +47,14 @@ Neutral Test reminder HTML — exact canonical paragraph, no Test answers:
 - `year4/english/ac9e4la09-past-present-and-future-tenses-and-their-impact-on-meaning/teacher-slides/index.html`: `6f6f72b06309889c87b9e777bfcb67326394f1090108b42fd88b5ab736caeaad`
 - `quiz/year-4/english/ac9e4la09/worksheet/worksheet-questions.js`: `bfaaa32fa9438ee14c11d992e97eb79789d97a8939e5e7e5c3ab5bee62b3c1cd`
 - `quiz/year-4/english/ac9e4la09/worksheet/index.html`: `f1f945a3c9b92884ea33dd45968916be256d4e97a4d34acb4c2a9fbe76335ebe`
+
+
+## Independent review corrections applied
+
+Reviewer batch_supplement read all64, both teaching surfaces and all8 homework tasks. Applied two marking-alignment corrections: the hobby task now explicitly requests a time-choice explanation and models it; P041/P048 models name every whole verb group and their criteria require the requested identification. W001/W008 and the identical Topic/Classroom exit-ticket criteria explicitly check every whole group, accepting naming/listing as usual communication support. No other source/tense/key correction was requested. Root must refresh the two published bank items and regenerate changed-guidance PDFs before independent final checks. The prior hashes are historical; corrected source hashes:
+
+- `assets/assessment-banks/year4/english/ac9e4la09.json`: `aed3ce57bba0e6d2a3ae808b157fe92cbb4a82f0757da55797566192a06b210c`
+- `year4/english/ac9e4la09-past-present-and-future-tenses-and-their-impact-on-meaning/index.html`: `13f25b4e74ec88846bf664bf1132d4c5c1bb3f5a230ae6f7768aa870ea0db2a0`
+- `year4/english/ac9e4la09-past-present-and-future-tenses-and-their-impact-on-meaning/teacher-slides/index.html`: `335b856e2f01b424dcf74661bf3894406543e81d956f2a053f60864bdba73408`
+- `quiz/year-4/english/ac9e4la09/worksheet/worksheet-questions.js`: `874df61b5fb75de39a567ce8f0b235e5d3549cd80cb4914afe18ac47d9ca5d35`
+- `quiz/year-4/english/ac9e4la09/worksheet/index.html`: `10b82b76b70e7c513743efb8e95c878330302250efa0c24d231f994debbf8234`

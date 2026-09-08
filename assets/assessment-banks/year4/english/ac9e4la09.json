@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "In recounting yesterday’s excursion, which option best demonstrates the skill?",
-    "audio_prompt": "In recounting yesterday’s excursion, which option best demonstrates the skill?",
+    "skill": "tense_time_and_meaning",
+    "question": "“Yesterday, the class visited the aquarium and watched the penguins.” Which pair of words shows the completed past actions?",
+    "audio_prompt": "“Yesterday, the class visited the aquarium and watched the penguins.” Which pair of words shows the completed past actions?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We visit the aquarium yesterday and watch the penguins.",
-        "is_correct": false
-      },
-      {
-        "text": "We will visit the aquarium yesterday.",
-        "is_correct": false
-      },
-      {
-        "text": "We visited the aquarium and watched the penguins.",
+        "text": "visited, watched",
         "is_correct": true
+      },
+      {
+        "text": "Yesterday, class",
+        "is_correct": false
+      },
+      {
+        "text": "aquarium, penguins",
+        "is_correct": false
+      },
+      {
+        "text": "the, and",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Past-tense verbs match an event that already happened.",
-      "hint": "Use the time clue to decide which verb form fits."
-    }
+      "summary": "“Visited” and “watched” are past-tense verbs. “Yesterday” gives a time clue but is not a verb.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA09-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which choice fits recounting yesterday’s excursion most accurately?",
-    "audio_prompt": "Which choice fits recounting yesterday’s excursion most accurately?",
+    "skill": "tense_time_and_meaning",
+    "question": "“Every Saturday, I play cricket at the oval.” What does “play” describe here?",
+    "audio_prompt": "“Every Saturday, I play cricket at the oval.” What does “play” describe here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We visited the aquarium and watched the penguins.",
+        "text": "a single finished game last year",
+        "is_correct": false
+      },
+      {
+        "text": "a current repeated habit",
         "is_correct": true
       },
       {
-        "text": "We visit the aquarium yesterday and watch the penguins.",
+        "text": "a game promised for tomorrow only",
         "is_correct": false
       },
       {
-        "text": "We will visit the aquarium yesterday.",
+        "text": "an action that must be happening at this exact second",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Past-tense verbs match an event that already happened.",
-      "hint": "Use the time clue to decide which verb form fits."
-    }
+      "summary": "Simple present can describe a habit. “Every Saturday” supplies the repeated-time context.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA09-P-003",
@@ -66,28 +92,42 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which choice fits stating a general fact about water most accurately?",
-    "audio_prompt": "Which choice fits stating a general fact about water most accurately?",
+    "skill": "tense_time_and_meaning",
+    "question": "“The library opens at nine each school day. It lends books to our class.” Why does this information use “opens” and “lends”?",
+    "audio_prompt": "“The library opens at nine each school day. It lends books to our class.” Why does this information use “opens” and “lends”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Water froze at 0°C every time in general.",
+        "text": "All information about libraries must describe the past.",
         "is_correct": false
       },
       {
-        "text": "Water freezes at 0°C under standard conditions.",
+        "text": "The writer is promising to build a library.",
+        "is_correct": false
+      },
+      {
+        "text": "It describes the library’s current routine and service.",
         "is_correct": true
       },
       {
-        "text": "Water will freezing at 0°C.",
+        "text": "Present tense is used only when someone opens a door right now.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Simple present is commonly used for general truths.",
-      "hint": "Present tense can describe facts, not only what is happening this second."
-    }
+      "summary": "Present tense commonly describes current routines and general information, not only a moment happening now.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA09-P-004",
@@ -96,28 +136,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Look closely at stating a general fact about water. Which response or wording works best?",
-    "audio_prompt": "Look closely at stating a general fact about water. Which response or wording works best?",
+    "skill": "tense_time_and_meaning",
+    "question": "“Our class will visit the botanic gardens next Thursday.” Which complete verb group expresses the planned future action?",
+    "audio_prompt": "“Our class will visit the botanic gardens next Thursday.” Which complete verb group expresses the planned future action?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Water froze at 0°C every time in general.",
+        "text": "next Thursday",
         "is_correct": false
       },
       {
-        "text": "Water will freezing at 0°C.",
+        "text": "Our class",
         "is_correct": false
       },
       {
-        "text": "Water freezes at 0°C under standard conditions.",
+        "text": "the botanic gardens",
+        "is_correct": false
+      },
+      {
+        "text": "will visit",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Simple present is commonly used for general truths.",
-      "hint": "Present tense can describe facts, not only what is happening this second."
-    }
+      "summary": "“Will visit” is the whole verb group. “Next Thursday” tells when the action is planned.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA09-P-005",
@@ -126,28 +179,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Look closely at describing a plan for next week. Which response or wording works best?",
-    "audio_prompt": "Look closely at describing a plan for next week. Which response or wording works best?",
+    "skill": "tense_time_and_meaning",
+    "question": "Choose the simple past form for this recount: “Last night, we ___ a meteor.”",
+    "audio_prompt": "Choose the simple past form for this recount: “Last night, we ___ a meteor.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Our class will visit the botanic gardens next Thursday.",
+        "text": "saw",
         "is_correct": true
       },
       {
-        "text": "Our class visited the gardens next Thursday.",
+        "text": "see",
         "is_correct": false
       },
       {
-        "text": "Our class visiting next Thursday without a finite verb.",
+        "text": "seen",
+        "is_correct": false
+      },
+      {
+        "text": "seeing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Will visit places the event in the future and matches next Thursday.",
-      "hint": "Match the verb form to the stated time."
-    }
+      "summary": "“Saw” is the simple past of “see”. This common irregular verb does not form its past by adding -ed.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA09-P-006",
@@ -156,28 +222,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "For describing a plan for next week, which option is the strongest match?",
-    "audio_prompt": "For describing a plan for next week, which option is the strongest match?",
+    "skill": "tense_time_and_meaning",
+    "question": "Asha writes about a finished lunchtime event: “I ate my sandwich. Then I ___ my lunchbox.” Choose the simple past form.",
+    "audio_prompt": "Asha writes about a finished lunchtime event: “I ate my sandwich. Then I ___ my lunchbox.” Choose the simple past form.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Our class visited the gardens next Thursday.",
+        "text": "close",
         "is_correct": false
       },
       {
-        "text": "Our class will visit the botanic gardens next Thursday.",
+        "text": "closed",
         "is_correct": true
       },
       {
-        "text": "Our class visiting next Thursday without a finite verb.",
+        "text": "closing",
+        "is_correct": false
+      },
+      {
+        "text": "will close",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Will visit places the event in the future and matches next Thursday.",
-      "hint": "Match the verb form to the stated time."
-    }
+      "summary": "“Closed” keeps both completed lunchtime actions in the past. The other forms do not complete this past recount as requested.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA09-P-007",
@@ -186,28 +265,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "For writing about a regular Saturday activity, which option is the strongest match?",
-    "audio_prompt": "For writing about a regular Saturday activity, which option is the strongest match?",
+    "skill": "tense_time_and_meaning",
+    "question": "“The visitors are waiting beside the gate.” Which words together tell us about the action in progress?",
+    "audio_prompt": "“The visitors are waiting beside the gate.” Which words together tell us about the action in progress?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I played cricket every Saturday if the routine is still current.",
+        "text": "visitors are",
         "is_correct": false
       },
       {
-        "text": "I will played cricket every Saturday.",
+        "text": "beside the gate",
         "is_correct": false
       },
       {
-        "text": "I play cricket at the oval every Saturday.",
+        "text": "are waiting",
         "is_correct": true
+      },
+      {
+        "text": "The visitors",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Simple present can describe a repeated habit.",
-      "hint": "Words such as every Saturday often signal a routine."
-    }
+      "summary": "“Are” and “waiting” work together. Looking only at the -ing word misses part of the verb group.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA09-P-008",
@@ -216,28 +308,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which example should you choose for writing about a regular Saturday activity?",
-    "audio_prompt": "Which example should you choose for writing about a regular Saturday activity?",
+    "skill": "tense_time_and_meaning",
+    "question": "“The visitors were waiting beside the gate when the bell rang.” How is this different from “are waiting”?",
+    "audio_prompt": "“The visitors were waiting beside the gate when the bell rang.” How is this different from “are waiting”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I play cricket at the oval every Saturday.",
+        "text": "The visitors are definitely still waiting now.",
+        "is_correct": false
+      },
+      {
+        "text": "The waiting is promised for next week.",
+        "is_correct": false
+      },
+      {
+        "text": "The waiting never happened.",
+        "is_correct": false
+      },
+      {
+        "text": "The waiting is placed in the past.",
         "is_correct": true
-      },
-      {
-        "text": "I played cricket every Saturday if the routine is still current.",
-        "is_correct": false
-      },
-      {
-        "text": "I will played cricket every Saturday.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Simple present can describe a repeated habit.",
-      "hint": "Words such as every Saturday often signal a routine."
-    }
+      "summary": "“Were waiting” places the ongoing activity in a past situation; “are waiting” normally presents it as current in this context.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA09-P-009",
@@ -246,28 +351,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which example should you choose for correcting an irregular past-tense verb?",
-    "audio_prompt": "Which example should you choose for correcting an irregular past-tense verb?",
+    "skill": "tense_time_and_meaning",
+    "question": "Which sentence uses “will” correctly to describe a future action?",
+    "audio_prompt": "Which sentence uses “will” correctly to describe a future action?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Last night, we seed a meteor.",
-        "is_correct": false
-      },
-      {
-        "text": "Last night, we saw a meteor.",
+        "text": "The team will carry the banner tomorrow.",
         "is_correct": true
       },
       {
-        "text": "Last night, we see a meteor.",
+        "text": "The team will carried the banner tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "The team will carries the banner tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "The team carried the banner tomorrow.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Saw is the correct irregular past form of see.",
-      "hint": "Not every past-tense verb ends in -ed."
-    }
+      "summary": "After “will”, use the base verb “carry”. The future time word fits the planned action.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA09-P-010",
@@ -276,28 +394,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "In correcting an irregular past-tense verb, which option best demonstrates the skill?",
-    "audio_prompt": "In correcting an irregular past-tense verb, which option best demonstrates the skill?",
+    "skill": "tense_time_and_meaning",
+    "question": "“We are meeting the ranger at ten tomorrow.” When is the meeting arranged for?",
+    "audio_prompt": "“We are meeting the ranger at ten tomorrow.” When is the meeting arranged for?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Last night, we seed a meteor.",
+        "text": "the past, yesterday",
         "is_correct": false
       },
       {
-        "text": "Last night, we see a meteor.",
-        "is_correct": false
-      },
-      {
-        "text": "Last night, we saw a meteor.",
+        "text": "the future, tomorrow",
         "is_correct": true
+      },
+      {
+        "text": "right now, because every are-form means right now",
+        "is_correct": false
+      },
+      {
+        "text": "every day, with no particular date",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Saw is the correct irregular past form of see.",
-      "hint": "Not every past-tense verb ends in -ed."
-    }
+      "summary": "A present-form verb group can describe a future arrangement when the future time context is explicit.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA09-P-011",
@@ -305,29 +436,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Why does “We visited the aquarium and watched the penguins.” work well for recounting yesterday’s excursion?",
-    "audio_prompt": "Why does “We visited the aquarium and watched the penguins.” work well for recounting yesterday’s excursion?",
+    "stage": "recognise",
+    "skill": "tense_time_and_meaning",
+    "question": "A timetable says, “The bus leaves at eight tomorrow morning.” Which statement is accurate?",
+    "audio_prompt": "A timetable says, “The bus leaves at eight tomorrow morning.” Which statement is accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Past-tense verbs match an event that already happened.",
+        "text": "“Leaves” is a past form because it ends in -s.",
+        "is_correct": false
+      },
+      {
+        "text": "The bus must be leaving at this exact moment.",
+        "is_correct": false
+      },
+      {
+        "text": "“Leaves” is a present form used for a future scheduled event.",
         "is_correct": true
       },
       {
-        "text": "Because “We visit the aquarium yesterday and watch the penguins.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The sentence cannot describe the future without “will”.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Past-tense verbs match an event that already happened.",
-      "hint": "Use the time clue to decide which verb form fits."
-    }
+      "summary": "Timetables can use present forms for scheduled future events. “Tomorrow morning” makes the time clear.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA09-P-012",
@@ -335,29 +479,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "What makes “We visited the aquarium and watched the penguins.” a better choice in recounting yesterday’s excursion?",
-    "audio_prompt": "What makes “We visited the aquarium and watched the penguins.” a better choice in recounting yesterday’s excursion?",
+    "stage": "recognise",
+    "skill": "tense_time_and_meaning",
+    "question": "“I packed my bag last night, and now I am waiting for the bus.” Is the change in verb forms helpful?",
+    "audio_prompt": "“I packed my bag last night, and now I am waiting for the bus.” Is the change in verb forms helpful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “We visit the aquarium yesterday and watch the penguins.” is always acceptable in this situation.",
+        "text": "No; all sentences must contain only one tense.",
         "is_correct": false
       },
       {
-        "text": "Past-tense verbs match an event that already happened.",
+        "text": "No; “packed” describes the future.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; it proves both events happen every day.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; it shows the move from last night to now.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Past-tense verbs match an event that already happened.",
-      "hint": "Use the time clue to decide which verb form fits."
-    }
+      "summary": "“Packed” fits the completed past event; “am waiting” fits the current one. A clear time change can justify a tense change.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA09-P-013",
@@ -365,29 +522,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "What makes “Water freezes at 0°C under standard conditions.” a better choice in stating a general fact about water?",
-    "audio_prompt": "What makes “Water freezes at 0°C under standard conditions.” a better choice in stating a general fact about water?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "A recount describes yesterday’s trip: “We arrived at the farm. We fed the goats. We ___ the barn before lunch.” Which verb keeps the same past time?",
+    "audio_prompt": "A recount describes yesterday’s trip: “We arrived at the farm. We fed the goats. We ___ the barn before lunch.” Which verb keeps the same past time?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Water froze at 0°C every time in general.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Simple present is commonly used for general truths.",
+        "text": "explored",
         "is_correct": true
+      },
+      {
+        "text": "explore",
+        "is_correct": false
+      },
+      {
+        "text": "will explore",
+        "is_correct": false
+      },
+      {
+        "text": "are exploring",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Simple present is commonly used for general truths.",
-      "hint": "Present tense can describe facts, not only what is happening this second."
-    }
+      "summary": "“Explored” matches the past actions “arrived” and “fed”. The recount gives no switch to now or the future.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA09-P-014",
@@ -395,29 +566,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which explanation best justifies “Water freezes at 0°C under standard conditions.” for stating a general fact about water?",
-    "audio_prompt": "Which explanation best justifies “Water freezes at 0°C under standard conditions.” for stating a general fact about water?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "Read the report: “A helmet protects your head. Its straps hold it in place.” Which two verbs use present tense?",
+    "audio_prompt": "Read the report: “A helmet protects your head. Its straps hold it in place.” Which two verbs use present tense?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Simple present is commonly used for general truths.",
+        "text": "helmet, straps",
+        "is_correct": false
+      },
+      {
+        "text": "protects, hold",
         "is_correct": true
       },
       {
-        "text": "Because “Water froze at 0°C every time in general.” is always acceptable in this situation.",
+        "text": "head, place",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "your, its",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Simple present is commonly used for general truths.",
-      "hint": "Present tense can describe facts, not only what is happening this second."
-    }
+      "summary": "“Protects” and “hold” state what the helmet and straps do. Both are present forms, although only one ends in -s.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA09-P-015",
@@ -425,29 +610,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which explanation best justifies “Our class will visit the botanic gardens next Thursday.” for describing a plan for next week?",
-    "audio_prompt": "Which explanation best justifies “Our class will visit the botanic gardens next Thursday.” for describing a plan for next week?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“Last year our library occupied one room. Today it occupies two rooms.” Why are the verb forms different?",
+    "audio_prompt": "“Last year our library occupied one room. Today it occupies two rooms.” Why are the verb forms different?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Our class visited the gardens next Thursday.” is always acceptable in this situation.",
+        "text": "An information report must never use past tense.",
         "is_correct": false
       },
       {
-        "text": "Will visit places the event in the future and matches next Thursday.",
+        "text": "The library occupies both one and two rooms at the same time.",
+        "is_correct": false
+      },
+      {
+        "text": "The report compares a past situation with the current one.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "“Occupied” and “occupies” both describe tomorrow.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Will visit places the event in the future and matches next Thursday.",
-      "hint": "Match the verb form to the stated time."
-    }
+      "summary": "Information can include past and present when the writer clearly compares different times.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA09-P-016",
@@ -455,29 +654,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "What should you notice about “Our class will visit the botanic gardens next Thursday.” in describing a plan for next week?",
-    "audio_prompt": "What should you notice about “Our class will visit the botanic gardens next Thursday.” in describing a plan for next week?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "Which sentence records a completed event rather than a current habit or future plan?",
+    "audio_prompt": "Which sentence records a completed event rather than a current habit or future plan?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Our class visited the gardens next Thursday.” is always acceptable in this situation.",
+        "text": "The artist paints murals each summer.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The artist will paint a mural next summer.",
         "is_correct": false
       },
       {
-        "text": "Will visit places the event in the future and matches next Thursday.",
+        "text": "The artist is going to paint a mural next week.",
+        "is_correct": false
+      },
+      {
+        "text": "The artist painted a mural last summer.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Will visit places the event in the future and matches next Thursday.",
-      "hint": "Match the verb form to the stated time."
-    }
+      "summary": "“Painted” and “last summer” place this event in the completed past.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LA09-P-017",
@@ -485,29 +697,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "What should you notice about “I play cricket at the oval every Saturday.” in writing about a regular Saturday activity?",
-    "audio_prompt": "What should you notice about “I play cricket at the oval every Saturday.” in writing about a regular Saturday activity?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“Yesterday, Ben goed to the hall.” Which single-word change gives the usual simple past form?",
+    "audio_prompt": "“Yesterday, Ben goed to the hall.” Which single-word change gives the usual simple past form?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Simple present can describe a repeated habit.",
+        "text": "Replace “goed” with “went”.",
         "is_correct": true
       },
       {
-        "text": "Because “I played cricket every Saturday if the routine is still current.” is always acceptable in this situation.",
+        "text": "Replace “Yesterday” with “Tomorrow”.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Replace “goed” with “going”.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace “hall” with “halls”.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Simple present can describe a repeated habit.",
-      "hint": "Words such as every Saturday often signal a routine."
-    }
+      "summary": "The simple past of “go” is “went”, not “goed”. Changing a noun or time word does not repair the requested past form.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LA09-P-018",
@@ -515,29 +740,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which reason explains why “I play cricket at the oval every Saturday.” suits writing about a regular Saturday activity?",
-    "audio_prompt": "Which reason explains why “I play cricket at the oval every Saturday.” suits writing about a regular Saturday activity?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“Last month, the club bought new chess sets.” Which word is the past-tense verb?",
+    "audio_prompt": "“Last month, the club bought new chess sets.” Which word is the past-tense verb?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “I played cricket every Saturday if the routine is still current.” is always acceptable in this situation.",
+        "text": "Last",
         "is_correct": false
       },
       {
-        "text": "Simple present can describe a repeated habit.",
+        "text": "bought",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "month",
+        "is_correct": false
+      },
+      {
+        "text": "new",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Simple present can describe a repeated habit.",
-      "hint": "Words such as every Saturday often signal a routine."
-    }
+      "summary": "“Bought” is the irregular past of “buy”. “Last month” supplies the time context.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LA09-P-019",
@@ -545,29 +783,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which reason explains why “Last night, we saw a meteor.” suits correcting an irregular past-tense verb?",
-    "audio_prompt": "Which reason explains why “Last night, we saw a meteor.” suits correcting an irregular past-tense verb?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "A writer changes “Mum works at the library” to “Mum worked at the library”. What changes?",
+    "audio_prompt": "A writer changes “Mum works at the library” to “Mum worked at the library”. What changes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Last night, we seed a meteor.” is always acceptable in this situation.",
+        "text": "The second sentence proves Mum never worked there.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The second sentence promises she will start tomorrow.",
         "is_correct": false
       },
       {
-        "text": "Saw is the correct irregular past form of see.",
+        "text": "The work is presented in the past rather than as a current situation.",
         "is_correct": true
+      },
+      {
+        "text": "The workplace changes from a library to a school.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Saw is the correct irregular past form of see.",
-      "hint": "Not every past-tense verb ends in -ed."
-    }
+      "summary": "The verb changes the time viewpoint. Past wording alone does not tell us everything about Mum’s current job.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LA09-P-020",
@@ -575,29 +826,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Why does “Last night, we saw a meteor.” work well for correcting an irregular past-tense verb?",
-    "audio_prompt": "Why does “Last night, we saw a meteor.” work well for correcting an irregular past-tense verb?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“The seedlings grew beside the window.” Which revision presents this as a current general pattern?",
+    "audio_prompt": "“The seedlings grew beside the window.” Which revision presents this as a current general pattern?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Saw is the correct irregular past form of see.",
+        "text": "The seedlings grew beside the window yesterday.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings will grow beside the window next term.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings were growing beside the window last week.",
+        "is_correct": false
+      },
+      {
+        "text": "The seedlings grow beside the window.",
         "is_correct": true
-      },
-      {
-        "text": "Because “Last night, we seed a meteor.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Saw is the correct irregular past form of see.",
-      "hint": "Not every past-tense verb ends in -ed."
-    }
+      "summary": "“Grow” presents the growth in the present; the other revisions retain a past time or shift to the future.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LA09-P-021",
@@ -605,29 +869,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which revision best fixes the problem in “We visit the aquarium yesterday and watch the penguins.” for recounting yesterday’s excursion?",
-    "audio_prompt": "Which revision best fixes the problem in “We visit the aquarium yesterday and watch the penguins.” for recounting yesterday’s excursion?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "Which verb completes a sentence about the class’s current routine? “The class ___ a library book each Friday.”",
+    "audio_prompt": "Which verb completes a sentence about the class’s current routine? “The class ___ a library book each Friday.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We visit the aquarium yesterday and watch the penguins.",
-        "is_correct": false
-      },
-      {
-        "text": "We visited the aquarium and watched the penguins.",
+        "text": "borrows",
         "is_correct": true
       },
       {
-        "text": "We will visit the aquarium yesterday.",
+        "text": "borrowed yesterday",
+        "is_correct": false
+      },
+      {
+        "text": "will borrowed",
+        "is_correct": false
+      },
+      {
+        "text": "borrowing",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Past-tense verbs match an event that already happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use the time clue to decide which verb form fits."
-    }
+      "summary": "“Borrows” gives a complete present-tense sentence about the current routine. The -ing form needs a helping verb here.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LA09-P-022",
@@ -635,29 +912,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Compare the choices for recounting yesterday’s excursion. Which one avoids the mistake in “We visit the aquarium yesterday and watch the penguins.”?",
-    "audio_prompt": "Compare the choices for recounting yesterday’s excursion. Which one avoids the mistake in “We visit the aquarium yesterday and watch the penguins.”?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“The choir was singing when the lights dimmed.” Which event was already in progress in this past scene?",
+    "audio_prompt": "“The choir was singing when the lights dimmed.” Which event was already in progress in this past scene?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We visit the aquarium yesterday and watch the penguins.",
+        "text": "the lights being repaired tomorrow",
         "is_correct": false
       },
       {
-        "text": "We will visit the aquarium yesterday.",
-        "is_correct": false
-      },
-      {
-        "text": "We visited the aquarium and watched the penguins.",
+        "text": "the singing",
         "is_correct": true
+      },
+      {
+        "text": "the choir arriving next week",
+        "is_correct": false
+      },
+      {
+        "text": "the audience leaving now",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Past-tense verbs match an event that already happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use the time clue to decide which verb form fits."
-    }
+      "summary": "“Was singing” describes an activity in progress in the past when the lights dimmed.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LA09-P-023",
@@ -665,29 +955,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Compare the choices for stating a general fact about water. Which one avoids the mistake in “Water froze at 0°C every time in general.”?",
-    "audio_prompt": "Compare the choices for stating a general fact about water. Which one avoids the mistake in “Water froze at 0°C every time in general.”?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“This afternoon, I am going to practise the flute.” What does the full verb group communicate in this plan?",
+    "audio_prompt": "“This afternoon, I am going to practise the flute.” What does the full verb group communicate in this plan?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Water freezes at 0°C under standard conditions.",
+        "text": "a completed practice last month",
+        "is_correct": false
+      },
+      {
+        "text": "a flute that belongs to someone else",
+        "is_correct": false
+      },
+      {
+        "text": "an intended future activity",
         "is_correct": true
       },
       {
-        "text": "Water froze at 0°C every time in general.",
-        "is_correct": false
-      },
-      {
-        "text": "Water will freezing at 0°C.",
+        "text": "a rule about every instrument",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Simple present is commonly used for general truths. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Present tense can describe facts, not only what is happening this second."
-    }
+      "summary": "“Am going to practise” presents an intention. In this context “going to” is part of the plan, not a journey to a place.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LA09-P-024",
@@ -695,29 +998,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "If “Water froze at 0°C every time in general.” does not work in stating a general fact about water, what should replace it?",
-    "audio_prompt": "If “Water froze at 0°C every time in general.” does not work in stating a general fact about water, what should replace it?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "A notice written on Monday says, “The exhibition will open on Friday.” Which statement follows?",
+    "audio_prompt": "A notice written on Monday says, “The exhibition will open on Friday.” Which statement follows?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Water froze at 0°C every time in general.",
+        "text": "The exhibition opened before the notice was written.",
         "is_correct": false
       },
       {
-        "text": "Water freezes at 0°C under standard conditions.",
+        "text": "The notice describes a past Friday.",
+        "is_correct": false
+      },
+      {
+        "text": "The exhibition is already open on Monday.",
+        "is_correct": false
+      },
+      {
+        "text": "The notice presents opening as an event after Monday.",
         "is_correct": true
-      },
-      {
-        "text": "Water will freezing at 0°C.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Simple present is commonly used for general truths. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Present tense can describe facts, not only what is happening this second."
-    }
+      "summary": "“Will open” and the stated Monday-to-Friday context place opening in the future relative to the notice.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LA09-P-025",
@@ -725,29 +1042,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "If “Our class visited the gardens next Thursday.” does not work in describing a plan for next week, what should replace it?",
-    "audio_prompt": "If “Our class visited the gardens next Thursday.” does not work in describing a plan for next week, what should replace it?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“Last weekend, we built a model bridge. We tested it and recorded the results.” Which purpose best fits the past-tense choices?",
+    "audio_prompt": "“Last weekend, we built a model bridge. We tested it and recorded the results.” Which purpose best fits the past-tense choices?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Our class visited the gardens next Thursday.",
-        "is_correct": false
-      },
-      {
-        "text": "Our class visiting next Thursday without a finite verb.",
-        "is_correct": false
-      },
-      {
-        "text": "Our class will visit the botanic gardens next Thursday.",
+        "text": "recounting a completed investigation",
         "is_correct": true
+      },
+      {
+        "text": "describing a current everyday routine only",
+        "is_correct": false
+      },
+      {
+        "text": "giving a promise about next weekend only",
+        "is_correct": false
+      },
+      {
+        "text": "listing future materials without any actions",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Will visit places the event in the future and matches next Thursday. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Match the verb form to the stated time."
-    }
+      "summary": "The three past verbs recount actions that took place last weekend.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LA09-P-026",
@@ -755,29 +1086,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which option corrects the meaning or form needed for describing a plan for next week?",
-    "audio_prompt": "Which option corrects the meaning or form needed for describing a plan for next week?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“Our school has a hall. Classes use it for assemblies.” A writer changes “has” to “had” and “use” to “used”. What would the revision do?",
+    "audio_prompt": "“Our school has a hall. Classes use it for assemblies.” A writer changes “has” to “had” and “use” to “used”. What would the revision do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Our class will visit the botanic gardens next Thursday.",
+        "text": "Make it a more accurate current report automatically.",
+        "is_correct": false
+      },
+      {
+        "text": "Describe the hall and its use from a past viewpoint.",
         "is_correct": true
       },
       {
-        "text": "Our class visited the gardens next Thursday.",
+        "text": "Guarantee that the hall will be built tomorrow.",
         "is_correct": false
       },
       {
-        "text": "Our class visiting next Thursday without a finite verb.",
+        "text": "Leave the time meaning completely unchanged.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Will visit places the event in the future and matches next Thursday. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Match the verb form to the stated time."
-    }
+      "summary": "Past forms shift the viewpoint. They do not automatically make the information more accurate, and do not alone prove the current hall is gone.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LA09-P-027",
@@ -785,29 +1130,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which option corrects the meaning or form needed for writing about a regular Saturday activity?",
-    "audio_prompt": "Which option corrects the meaning or form needed for writing about a regular Saturday activity?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“The rabbit is hiding under the chair.” Which revision moves the whole action into a past scene?",
+    "audio_prompt": "“The rabbit is hiding under the chair.” Which revision moves the whole action into a past scene?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I played cricket every Saturday if the routine is still current.",
+        "text": "The rabbit is hid under the chair.",
         "is_correct": false
       },
       {
-        "text": "I play cricket at the oval every Saturday.",
+        "text": "The rabbit will hiding under the chair.",
+        "is_correct": false
+      },
+      {
+        "text": "The rabbit was hiding under the chair.",
         "is_correct": true
       },
       {
-        "text": "I will played cricket every Saturday.",
+        "text": "The rabbit hides under the chair every day.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Simple present can describe a repeated habit. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Words such as every Saturday often signal a routine."
-    }
+      "summary": "“Was hiding” places the activity in progress in the past. Keep the whole verb group grammatical.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LA09-P-028",
@@ -815,29 +1173,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which choice is the clearest correction for writing about a regular Saturday activity?",
-    "audio_prompt": "Which choice is the clearest correction for writing about a regular Saturday activity?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "A diary entry is about a finished birthday party: “We played games. We shared cake. We take photos.” Which change repairs the accidental time shift?",
+    "audio_prompt": "A diary entry is about a finished birthday party: “We played games. We shared cake. We take photos.” Which change repairs the accidental time shift?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I played cricket every Saturday if the routine is still current.",
+        "text": "Change “played” to “will play”.",
         "is_correct": false
       },
       {
-        "text": "I will played cricket every Saturday.",
+        "text": "Change “shared” to “share”.",
         "is_correct": false
       },
       {
-        "text": "I play cricket at the oval every Saturday.",
+        "text": "Change “photos” to “a photo”.",
+        "is_correct": false
+      },
+      {
+        "text": "Change “take” to “took”.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Simple present can describe a repeated habit. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Words such as every Saturday often signal a routine."
-    }
+      "summary": "“Took” keeps the final event in the same completed past sequence as the games and cake.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LA09-P-029",
@@ -845,29 +1217,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which choice is the clearest correction for correcting an irregular past-tense verb?",
-    "audio_prompt": "Which choice is the clearest correction for correcting an irregular past-tense verb?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“The coach trains the team on Tuesdays.” Which revision changes only the time viewpoint to a past routine?",
+    "audio_prompt": "“The coach trains the team on Tuesdays.” Which revision changes only the time viewpoint to a past routine?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Last night, we saw a meteor.",
+        "text": "The coach trained the team on Tuesdays.",
         "is_correct": true
       },
       {
-        "text": "Last night, we seed a meteor.",
+        "text": "The coach will train a different team on Fridays.",
         "is_correct": false
       },
       {
-        "text": "Last night, we see a meteor.",
+        "text": "The team trained the coach on Tuesdays.",
+        "is_correct": false
+      },
+      {
+        "text": "The coach trains the team in a different town.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Saw is the correct irregular past form of see. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Not every past-tense verb ends in -ed."
-    }
+      "summary": "“Trained” shifts the routine into a past viewpoint while keeping the coach, team and Tuesday schedule.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LA09-P-030",
@@ -875,29 +1260,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which revision best fixes the problem in “Last night, we seed a meteor.” for correcting an irregular past-tense verb?",
-    "audio_prompt": "Which revision best fixes the problem in “Last night, we seed a meteor.” for correcting an irregular past-tense verb?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "Read: “Today, the playground has a new shade sail. Before the upgrade, it had no shade sail.” What does the second sentence add?",
+    "audio_prompt": "Read: “Today, the playground has a new shade sail. Before the upgrade, it had no shade sail.” What does the second sentence add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Last night, we seed a meteor.",
+        "text": "another description of the exact same present condition",
         "is_correct": false
       },
       {
-        "text": "Last night, we saw a meteor.",
+        "text": "a contrasting past condition",
         "is_correct": true
       },
       {
-        "text": "Last night, we see a meteor.",
+        "text": "a prediction about a future shade sail",
+        "is_correct": false
+      },
+      {
+        "text": "a reason every report must be written only in past tense",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Saw is the correct irregular past form of see. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Not every past-tense verb ends in -ed."
-    }
+      "summary": "“Before the upgrade” and “had” let the informative passage compare the past with the present.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LA09-P-031",
@@ -906,28 +1305,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "You now need to handle recounting yesterday’s excursion independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle recounting yesterday’s excursion independently. Which choice should you use?",
+    "skill": "tense_time_and_meaning",
+    "question": "“At this moment, the helpers ___ the chairs.” Which option completes a present action in progress?",
+    "audio_prompt": "“At this moment, the helpers ___ the chairs.” Which option completes a present action in progress?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We will visit the aquarium yesterday.",
+        "text": "were arranging",
         "is_correct": false
       },
       {
-        "text": "We visit the aquarium yesterday and watch the penguins.",
+        "text": "will arrange",
         "is_correct": false
       },
       {
-        "text": "We visited the aquarium and watched the penguins.",
+        "text": "are arranging",
         "is_correct": true
+      },
+      {
+        "text": "arranged",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Past-tense verbs match an event that already happened.",
-      "hint": "Use the time clue to decide which verb form fits."
-    }
+      "summary": "“Are arranging” fits the explicit current moment; “were”, “will” and the simple past shift the time.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LA09-P-032",
@@ -936,28 +1348,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Apply the same idea to recounting yesterday’s excursion. Which option is best?",
-    "audio_prompt": "Apply the same idea to recounting yesterday’s excursion. Which option is best?",
+    "skill": "tense_time_and_meaning",
+    "question": "“Last winter, the pond froze overnight.” Which word supplies the irregular past form?",
+    "audio_prompt": "“Last winter, the pond froze overnight.” Which word supplies the irregular past form?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We visited the aquarium and watched the penguins.",
+        "text": "winter",
+        "is_correct": false
+      },
+      {
+        "text": "overnight",
+        "is_correct": false
+      },
+      {
+        "text": "pond",
+        "is_correct": false
+      },
+      {
+        "text": "froze",
         "is_correct": true
-      },
-      {
-        "text": "We will visit the aquarium yesterday.",
-        "is_correct": false
-      },
-      {
-        "text": "We visit the aquarium yesterday and watch the penguins.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Past-tense verbs match an event that already happened.",
-      "hint": "Use the time clue to decide which verb form fits."
-    }
+      "summary": "“Froze” is the past form of “freeze”; the time expressions support the past setting.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LA09-P-033",
@@ -966,28 +1391,42 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Apply the same idea to stating a general fact about water. Which option is best?",
-    "audio_prompt": "Apply the same idea to stating a general fact about water. Which option is best?",
+    "skill": "tense_time_and_meaning",
+    "question": "Which sentence is a current general statement, rather than a report of a single past event?",
+    "audio_prompt": "Which sentence is a current general statement, rather than a report of a single past event?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Water will freezing at 0°C.",
-        "is_correct": false
-      },
-      {
-        "text": "Water freezes at 0°C under standard conditions.",
+        "text": "A dictionary gives information about words.",
         "is_correct": true
       },
       {
-        "text": "Water froze at 0°C every time in general.",
+        "text": "Yesterday I used a dictionary.",
+        "is_correct": false
+      },
+      {
+        "text": "The librarian gave us a dictionary last term.",
+        "is_correct": false
+      },
+      {
+        "text": "Tomorrow we will borrow a dictionary.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Simple present is commonly used for general truths.",
-      "hint": "Present tense can describe facts, not only what is happening this second."
-    }
+      "summary": "“Gives” states the usual role of a dictionary in the present. The other sentences describe specific past or future events.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LA09-P-034",
@@ -996,28 +1435,42 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which decision would produce the clearest result in stating a general fact about water?",
-    "audio_prompt": "Which decision would produce the clearest result in stating a general fact about water?",
+    "skill": "tense_time_and_meaning",
+    "question": "“The guests will arrive at noon. They will unpack after lunch.” Which words consistently place the planned actions in the future?",
+    "audio_prompt": "“The guests will arrive at noon. They will unpack after lunch.” Which words consistently place the planned actions in the future?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Water will freezing at 0°C.",
+        "text": "at noon, after lunch",
         "is_correct": false
       },
       {
-        "text": "Water froze at 0°C every time in general.",
-        "is_correct": false
-      },
-      {
-        "text": "Water freezes at 0°C under standard conditions.",
+        "text": "will arrive, will unpack",
         "is_correct": true
+      },
+      {
+        "text": "The guests, They",
+        "is_correct": false
+      },
+      {
+        "text": "arrive, lunch",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Simple present is commonly used for general truths.",
-      "hint": "Present tense can describe facts, not only what is happening this second."
-    }
+      "summary": "The complete will-groups express the future actions. The time phrases locate them but are not verb groups.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LA09-P-035",
@@ -1026,28 +1479,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which decision would produce the clearest result in describing a plan for next week?",
-    "audio_prompt": "Which decision would produce the clearest result in describing a plan for next week?",
+    "skill": "tense_time_and_meaning",
+    "question": "“The children were tired after the walk.” What does “were” describe?",
+    "audio_prompt": "“The children were tired after the walk.” What does “were” describe?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Our class will visit the botanic gardens next Thursday.",
+        "text": "a future promise",
+        "is_correct": false
+      },
+      {
+        "text": "a physical action happening now",
+        "is_correct": false
+      },
+      {
+        "text": "a past state",
         "is_correct": true
       },
       {
-        "text": "Our class visiting next Thursday without a finite verb.",
-        "is_correct": false
-      },
-      {
-        "text": "Our class visited the gardens next Thursday.",
+        "text": "a command to become tired",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Will visit places the event in the future and matches next Thursday.",
-      "hint": "Match the verb form to the stated time."
-    }
+      "summary": "Verbs can describe states as well as actions. “Were” is a past form of “be”.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LA09-P-036",
@@ -1056,28 +1522,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Choose the option that applies the skill correctly in describing a plan for next week.",
-    "audio_prompt": "Choose the option that applies the skill correctly in describing a plan for next week.",
+    "skill": "tense_time_and_meaning",
+    "question": "“I am excited about the visit.” Which revision makes the state past while keeping who feels it and what it concerns?",
+    "audio_prompt": "“I am excited about the visit.” Which revision makes the state past while keeping who feels it and what it concerns?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Our class visiting next Thursday without a finite verb.",
+        "text": "I will be excited about another visit.",
         "is_correct": false
       },
       {
-        "text": "Our class will visit the botanic gardens next Thursday.",
+        "text": "They were excited about the concert.",
+        "is_correct": false
+      },
+      {
+        "text": "I am exciting the visitors.",
+        "is_correct": false
+      },
+      {
+        "text": "I was excited about the visit.",
         "is_correct": true
-      },
-      {
-        "text": "Our class visited the gardens next Thursday.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Will visit places the event in the future and matches next Thursday.",
-      "hint": "Match the verb form to the stated time."
-    }
+      "summary": "“Was” changes the state to a past viewpoint while keeping the person and visit unchanged.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LA09-P-037",
@@ -1086,28 +1565,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Choose the option that applies the skill correctly in writing about a regular Saturday activity.",
-    "audio_prompt": "Choose the option that applies the skill correctly in writing about a regular Saturday activity.",
+    "skill": "tense_time_and_meaning",
+    "question": "“We did not see the painting yesterday.” Which explanation is correct?",
+    "audio_prompt": "“We did not see the painting yesterday.” Which explanation is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I will played cricket every Saturday.",
-        "is_correct": false
-      },
-      {
-        "text": "I played cricket every Saturday if the routine is still current.",
-        "is_correct": false
-      },
-      {
-        "text": "I play cricket at the oval every Saturday.",
+        "text": "“Did” carries the past tense; “see” stays in its base form.",
         "is_correct": true
+      },
+      {
+        "text": "“See” proves the sentence is present tense.",
+        "is_correct": false
+      },
+      {
+        "text": "Both words must become past: “did not saw”.",
+        "is_correct": false
+      },
+      {
+        "text": "“Yesterday” is the verb in the sentence.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Simple present can describe a repeated habit.",
-      "hint": "Words such as every Saturday often signal a routine."
-    }
+      "summary": "In this past negative, “did” is the helping verb. Read the whole verb group instead of judging “see” alone.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LA09-P-038",
@@ -1116,28 +1608,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "What would be the most effective choice for writing about a regular Saturday activity?",
-    "audio_prompt": "What would be the most effective choice for writing about a regular Saturday activity?",
+    "skill": "tense_time_and_meaning",
+    "question": "A schedule says, “The rehearsal starts at four tomorrow.” A pupil says it cannot refer to the future because there is no “will”. Which reply is accurate?",
+    "audio_prompt": "A schedule says, “The rehearsal starts at four tomorrow.” A pupil says it cannot refer to the future because there is no “will”. Which reply is accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I play cricket at the oval every Saturday.",
+        "text": "All sentences without “will” describe the past.",
+        "is_correct": false
+      },
+      {
+        "text": "A present verb form can describe a scheduled future event.",
         "is_correct": true
       },
       {
-        "text": "I will played cricket every Saturday.",
+        "text": "“Tomorrow” means today in schedules.",
         "is_correct": false
       },
       {
-        "text": "I played cricket every Saturday if the routine is still current.",
+        "text": "“Starts” is an irregular past form.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Simple present can describe a repeated habit.",
-      "hint": "Words such as every Saturday often signal a routine."
-    }
+      "summary": "Future time can be expressed by a present-form schedule with a clear future time phrase.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LA09-P-039",
@@ -1146,28 +1651,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "What would be the most effective choice for correcting an irregular past-tense verb?",
-    "audio_prompt": "What would be the most effective choice for correcting an irregular past-tense verb?",
+    "skill": "tense_time_and_meaning",
+    "question": "“We read the notice yesterday.” Why is the time context especially useful for the written word “read”?",
+    "audio_prompt": "“We read the notice yesterday.” Why is the time context especially useful for the written word “read”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Last night, we see a meteor.",
+        "text": "“Read” has no past form.",
         "is_correct": false
       },
       {
-        "text": "Last night, we saw a meteor.",
+        "text": "Any sentence containing “notice” must be future.",
+        "is_correct": false
+      },
+      {
+        "text": "The present and past forms have the same spelling.",
         "is_correct": true
       },
       {
-        "text": "Last night, we seed a meteor.",
+        "text": "“Yesterday” turns every noun into a verb.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Saw is the correct irregular past form of see.",
-      "hint": "Not every past-tense verb ends in -ed."
-    }
+      "summary": "Written “read” can be present or past, although the pronunciation changes. Here “yesterday” establishes the past use.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LA09-P-040",
@@ -1176,28 +1694,296 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "You now need to handle correcting an irregular past-tense verb independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle correcting an irregular past-tense verb independently. Which choice should you use?",
+    "skill": "tense_time_and_meaning",
+    "question": "“Last night, I finished my book. Tomorrow, I will choose another.” What does the change of tense help the reader follow?",
+    "audio_prompt": "“Last night, I finished my book. Tomorrow, I will choose another.” What does the change of tense help the reader follow?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Last night, we see a meteor.",
+        "text": "two actions happening at the same present moment",
         "is_correct": false
       },
       {
-        "text": "Last night, we seed a meteor.",
+        "text": "a mistake that must be corrected by removing “Tomorrow”",
         "is_correct": false
       },
       {
-        "text": "Last night, we saw a meteor.",
+        "text": "a current habit with no stated time change",
+        "is_correct": false
+      },
+      {
+        "text": "a completed action followed by a future intention",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Saw is the correct irregular past form of see.",
-      "hint": "Not every past-tense verb ends in -ed."
-    }
+      "summary": "The clear time words support the change from finished past reading to a future choice.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LA09-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "tense_time_and_meaning",
+    "question": "Write three sentences about walking to school: one about yesterday, one about a current usual routine and one about tomorrow. Keep the same walker and destination. Underline the verb groups and explain one change.",
+    "audio_prompt": "Write three sentences about walking to school: one about yesterday, one about a current usual routine and one about tomorrow. Keep the same walker and destination. Underline the verb groups and explain one change.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Yesterday, I walked to school. I walk to school on most school days. Tomorrow, I will walk to school. The whole verb groups are walked, walk and will walk. “Walked” describes the completed past walk; “will walk” describes a future one.",
+    "acceptance_note": "Require three grammatically complete sentences with clear past/current routine/future meanings, the same walker/destination, identification of all three whole verb groups by underlining or naming/listing, and a matching explanation. Accept valid future arrangements or going-to wording when context fits. This is imagined writing; walking is not required.",
+    "response_instructions": "Write your response here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Yesterday, I walked to school. I walk to school on most school days. Tomorrow, I will walk to school. The whole verb groups are walked, walk and will walk. “Walked” describes the completed past walk; “will walk” describes a future one.",
+      "hint": "Use a clear time setting and explain what the verb forms tell your reader."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LA09-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "tense_time_and_meaning",
+    "question": "Read this short report: “Our library stores books. Readers borrow them. The staff organise displays.” Copy the three verb groups and explain why this report uses present tense.",
+    "audio_prompt": "Read this short report: “Our library stores books. Readers borrow them. The staff organise displays.” Copy the three verb groups and explain why this report uses present tense.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "stores; borrow; organise. They describe the library’s current services and routines rather than one finished visit.",
+    "acceptance_note": "Require all three actual verbs and an explanation tied to ongoing/current general information. Do not accept “all reports must use present tense”.",
+    "response_instructions": "Write your response here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "stores; borrow; organise. They describe the library’s current services and routines rather than one finished visit.",
+      "hint": "Use a clear time setting and explain what the verb forms tell your reader."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LA09-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "tense_time_and_meaning",
+    "question": "A recount is about a completed art lesson: “We mixed the paint. We draw a landscape. We cleaned the brushes.” Repair the unintended tense shift and explain it.",
+    "audio_prompt": "A recount is about a completed art lesson: “We mixed the paint. We draw a landscape. We cleaned the brushes.” Repair the unintended tense shift and explain it.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "We mixed the paint. We drew a landscape. We cleaned the brushes. “Drew” keeps the middle action in the same past lesson as the other two.",
+    "acceptance_note": "Require drew instead of draw, unchanged events and an explanation of consistent past time. Accept a faithful full rewrite retaining all three past actions.",
+    "response_instructions": "Write your response here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "We mixed the paint. We drew a landscape. We cleaned the brushes. “Drew” keeps the middle action in the same past lesson as the other two.",
+      "hint": "Use a clear time setting and explain what the verb forms tell your reader."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LA09-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "tense_time_and_meaning",
+    "question": "Write a two-sentence mini-report comparing a school club last year and now. Use a past verb and a present verb. Explain why the change in tense is useful.",
+    "audio_prompt": "Write a two-sentence mini-report comparing a school club last year and now. Use a past verb and a present verb. Explain why the change in tense is useful.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Last year, the chess club met in a classroom. Now, it meets in the library. The change tells the reader that the meeting place is different now.",
+    "acceptance_note": "Require explicitly different past/current time settings, complete verb groups appropriate to each and a meaningful explanation. Invented club details are fine; do not claim these are real school records.",
+    "response_instructions": "Write your response here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Last year, the chess club met in a classroom. Now, it meets in the library. The change tells the reader that the meeting place is different now.",
+      "hint": "Use a clear time setting and explain what the verb forms tell your reader."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LA09-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "tense_time_and_meaning",
+    "question": "Rewrite “We are meeting the artist at ten tomorrow” using “will” while keeping the people, event and time. Explain why the original already refers to the future.",
+    "audio_prompt": "Rewrite “We are meeting the artist at ten tomorrow” using “will” while keeping the people, event and time. Explain why the original already refers to the future.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "We will meet the artist at ten tomorrow. The original uses a present-form group for an arrangement, and “tomorrow” makes the future time clear.",
+    "acceptance_note": "Require will meet, same participants and time, plus recognition of an explicit future arrangement in the original. Do not say the original is wrong because it lacks will.",
+    "response_instructions": "Write your response here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "We will meet the artist at ten tomorrow. The original uses a present-form group for an arrangement, and “tomorrow” makes the future time clear.",
+      "hint": "Use a clear time setting and explain what the verb forms tell your reader."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LA09-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "tense_time_and_meaning",
+    "question": "Write a three-sentence recount of an imagined game yesterday. Use at least one regular past verb and one common irregular past verb. Name both and explain why past tense fits.",
+    "audio_prompt": "Write a three-sentence recount of an imagined game yesterday. Use at least one regular past verb and one common irregular past verb. Name both and explain why past tense fits.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Yesterday, we played a board game. I took the first turn. We counted the scores at the end. “Played” is regular and “took” is irregular; the game is in the past.",
+    "acceptance_note": "Require three connected completed-past sentences, correctly identified regular/irregular forms and past-time reasoning. Accept other common pairs, such as watched/saw or walked/went.",
+    "response_instructions": "Write your response here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Yesterday, we played a board game. I took the first turn. We counted the scores at the end. “Played” is regular and “took” is irregular; the game is in the past.",
+      "hint": "Use a clear time setting and explain what the verb forms tell your reader."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LA09-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "tense_time_and_meaning",
+    "question": "“The caretaker repairs the gate.” “The caretaker repaired the gate.” Explain the time difference without assuming that the gate is currently broken or currently fixed.",
+    "audio_prompt": "“The caretaker repairs the gate.” “The caretaker repaired the gate.” Explain the time difference without assuming that the gate is currently broken or currently fixed.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“Repairs” can describe the caretaker’s current work or routine. “Repaired” presents the repair as a past event. Neither sentence alone tells us the gate’s condition now.",
+    "acceptance_note": "Require present versus past viewpoint and no unsupported present-condition claim. Accept a concise explanation in the learner’s own words.",
+    "response_instructions": "Write your response here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "“Repairs” can describe the caretaker’s current work or routine. “Repaired” presents the repair as a past event. Neither sentence alone tells us the gate’s condition now.",
+      "hint": "Use a clear time setting and explain what the verb forms tell your reader."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LA09-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA09",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "tense_time_and_meaning",
+    "question": "Write two linked sentences: one about something you finished this morning and one about what you plan to do tomorrow. Underline the verb groups and explain why they need not use the same tense.",
+    "audio_prompt": "Write two linked sentences: one about something you finished this morning and one about what you plan to do tomorrow. Underline the verb groups and explain why they need not use the same tense.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "This morning, I finished a puzzle. Tomorrow, I will start another one. The whole verb groups are finished and will start. “Finished” is completed past; “will start” is a future plan, so the different times justify the change.",
+    "acceptance_note": "Require explicit completed-past and future settings, complete suitable verbs, identification of both whole verb groups by underlining or naming/listing, coherent meaning and an explanation. Accept imagined details and valid alternative future forms.",
+    "response_instructions": "Write your response here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "This morning, I finished a puzzle. Tomorrow, I will start another one. The whole verb groups are finished and will start. “Finished” is completed past; “will start” is a future plan, so the different times justify the change.",
+      "hint": "Use a clear time setting and explain what the verb forms tell your reader."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LA09-T-001",
@@ -1205,29 +1991,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "New context: shifting time clearly in a narrative. Which option is correct?",
-    "audio_prompt": "New context: shifting time clearly in a narrative. Which option is correct?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“Last term, the class planted herbs and labelled the pots.” Which pair contains the past-tense verbs?",
+    "audio_prompt": "“Last term, the class planted herbs and labelled the pots.” Which pair contains the past-tense verbs?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I packed my bag last night, and now I am waiting for the bus.",
+        "text": "planted, labelled",
         "is_correct": true
       },
       {
-        "text": "I pack my bag last night, and now I waited for the bus.",
+        "text": "term, class",
         "is_correct": false
       },
       {
-        "text": "I will pack last night, and now I wait yesterday.",
+        "text": "herbs, pots",
+        "is_correct": false
+      },
+      {
+        "text": "Last, the",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
-      "hint": "Tense does not need to stay identical when the time changes."
-    }
+      "summary": "The two action words are past forms; the nouns and time words are not verbs.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA09-T-002",
@@ -1235,29 +2034,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "What is the best choice for shifting time clearly in a narrative?",
-    "audio_prompt": "What is the best choice for shifting time clearly in a narrative?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“The gallery displays local artworks. Guides explain the exhibits.” Why are these present forms suitable?",
+    "audio_prompt": "“The gallery displays local artworks. Guides explain the exhibits.” Why are these present forms suitable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I pack my bag last night, and now I waited for the bus.",
+        "text": "Every gallery text must describe a past visit.",
         "is_correct": false
       },
       {
-        "text": "I packed my bag last night, and now I am waiting for the bus.",
+        "text": "The text describes the gallery’s current general activities.",
         "is_correct": true
       },
       {
-        "text": "I will pack last night, and now I wait yesterday.",
+        "text": "The writer promises a gallery will be built.",
+        "is_correct": false
+      },
+      {
+        "text": "The forms prove both actions happen only once.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
-      "hint": "Tense does not need to stay identical when the time changes."
-    }
+      "summary": "The report states usual/current activities rather than narrating one completed visit.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA09-T-003",
@@ -1265,29 +2078,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which explanation best supports “I packed my bag last night, and now I am waiting for the bus.” in shifting time clearly in a narrative?",
-    "audio_prompt": "Which explanation best supports “I packed my bag last night, and now I am waiting for the bus.” in shifting time clearly in a narrative?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“Last year the market opened on Sundays. Now it opens on Saturdays.” What does the tense change show?",
+    "audio_prompt": "“Last year the market opened on Sundays. Now it opens on Saturdays.” What does the tense change show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “I pack my bag last night, and now I waited for the bus.” is always a safe choice.",
+        "text": "two future promises",
         "is_correct": false
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "a mistake because reports cannot change tense",
         "is_correct": false
       },
       {
-        "text": "A tense shift is correct when the time frame clearly changes from last night to now.",
+        "text": "a past routine compared with the current routine",
         "is_correct": true
+      },
+      {
+        "text": "a claim that both routines are happening at the same time",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
-      "hint": "Tense does not need to stay identical when the time changes."
-    }
+      "summary": "The explicit last-year/now contrast supports the change in verb forms.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA09-T-004",
@@ -1295,29 +2122,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which clue should guide your decision in shifting time clearly in a narrative?",
-    "audio_prompt": "Which clue should guide your decision in shifting time clearly in a narrative?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "A sentence recounts a completed excursion: “Yesterday, we ___ a small cave.” Choose the simple past form.",
+    "audio_prompt": "A sentence recounts a completed excursion: “Yesterday, we ___ a small cave.” Choose the simple past form.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Tense does not need to stay identical when the time changes.",
+        "text": "find",
+        "is_correct": false
+      },
+      {
+        "text": "finding",
+        "is_correct": false
+      },
+      {
+        "text": "will find",
+        "is_correct": false
+      },
+      {
+        "text": "found",
         "is_correct": true
-      },
-      {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
-      "hint": "Tense does not need to stay identical when the time changes."
-    }
+      "summary": "“Found” is the simple past of “find”; it fits the completed excursion.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA09-T-005",
@@ -1326,28 +2166,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which option would you reject first in shifting time clearly in a narrative?",
-    "audio_prompt": "Which option would you reject first in shifting time clearly in a narrative?",
+    "skill": "tense_time_and_meaning",
+    "question": "“The volunteers are painting the fence now.” Which revision places the same activity in progress yesterday?",
+    "audio_prompt": "“The volunteers are painting the fence now.” Which revision places the same activity in progress yesterday?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I packed my bag last night, and now I am waiting for the bus.",
-        "is_correct": false
-      },
-      {
-        "text": "I pack my bag last night, and now I waited for the bus.",
+        "text": "The volunteers were painting the fence yesterday.",
         "is_correct": true
       },
       {
-        "text": "I will pack last night, and now I wait yesterday.",
+        "text": "The volunteers will paint the fence tomorrow.",
+        "is_correct": false
+      },
+      {
+        "text": "The volunteers paint a different fence each year.",
+        "is_correct": false
+      },
+      {
+        "text": "The volunteers are painted the fence yesterday.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A tense shift is correct when the time frame clearly changes from last night to now.",
-      "hint": "Tense does not need to stay identical when the time changes."
-    }
+      "summary": "“Were painting” shifts the ongoing activity to the past while keeping the volunteers and fence.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA09-T-006",
@@ -1356,28 +2209,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which correction should replace “I pack my bag last night, and now I waited for the bus.” in shifting time clearly in a narrative?",
-    "audio_prompt": "Which correction should replace “I pack my bag last night, and now I waited for the bus.” in shifting time clearly in a narrative?",
+    "skill": "tense_time_and_meaning",
+    "question": "“The class will present its play next week.” Which is the complete verb group?",
+    "audio_prompt": "“The class will present its play next week.” Which is the complete verb group?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I pack my bag last night, and now I waited for the bus.",
+        "text": "next week",
         "is_correct": false
       },
       {
-        "text": "I will pack last night, and now I wait yesterday.",
-        "is_correct": false
-      },
-      {
-        "text": "I packed my bag last night, and now I am waiting for the bus.",
+        "text": "will present",
         "is_correct": true
+      },
+      {
+        "text": "The class",
+        "is_correct": false
+      },
+      {
+        "text": "its play",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
-      "hint": "Tense does not need to stay identical when the time changes."
-    }
+      "summary": "The future group is “will present”; the time phrase gives the date but is not a verb.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA09-T-007",
@@ -1386,28 +2252,41 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Apply the skill to shifting time clearly in a narrative: what should you choose?",
-    "audio_prompt": "Apply the skill to shifting time clearly in a narrative: what should you choose?",
+    "skill": "tense_time_and_meaning",
+    "question": "“We are visiting the museum tomorrow.” What does the sentence describe?",
+    "audio_prompt": "“We are visiting the museum tomorrow.” What does the sentence describe?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I packed my bag last night, and now I am waiting for the bus.",
+        "text": "a visit finished last year",
+        "is_correct": false
+      },
+      {
+        "text": "a visit necessarily happening this exact second",
+        "is_correct": false
+      },
+      {
+        "text": "an arranged future visit",
         "is_correct": true
       },
       {
-        "text": "I pack my bag last night, and now I waited for the bus.",
-        "is_correct": false
-      },
-      {
-        "text": "I will pack last night, and now I wait yesterday.",
+        "text": "a visit that cannot happen because will is missing",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
-      "hint": "Tense does not need to stay identical when the time changes."
-    }
+      "summary": "The explicit “tomorrow” context gives this present-form group a future-arrangement meaning.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA09-T-008",
@@ -1416,28 +2295,42 @@
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
     "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which final choice gives the clearest and most accurate result for shifting time clearly in a narrative?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for shifting time clearly in a narrative?",
+    "skill": "tense_time_and_meaning",
+    "question": "“Last night we baked bread. We sliced it and share it with our neighbours.” Which change keeps the whole recount in the completed past?",
+    "audio_prompt": "“Last night we baked bread. We sliced it and share it with our neighbours.” Which change keeps the whole recount in the completed past?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "I pack my bag last night, and now I waited for the bus.",
+        "text": "Change “baked” to “will bake”.",
         "is_correct": false
       },
       {
-        "text": "I packed my bag last night, and now I am waiting for the bus.",
+        "text": "Change “sliced” to “slice”.",
+        "is_correct": false
+      },
+      {
+        "text": "Change “neighbours” to “neighbour”.",
+        "is_correct": false
+      },
+      {
+        "text": "Change “share” to “shared”.",
         "is_correct": true
-      },
-      {
-        "text": "I will pack last night, and now I wait yesterday.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A tense shift is correct when the time frame clearly changes from last night to now.",
-      "hint": "Tense does not need to stay identical when the time changes."
-    }
+      "summary": "“Shared” matches the past baking and slicing; no move to a new time is stated.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA09-T-009",
@@ -1445,29 +2338,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "New context: describing a future arrangement. Which option is correct?",
-    "audio_prompt": "New context: describing a future arrangement. Which option is correct?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“The doors close at six this evening.” In this schedule, which explanation fits?",
+    "audio_prompt": "“The doors close at six this evening.” In this schedule, which explanation fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We met the ranger tomorrow.",
-        "is_correct": false
-      },
-      {
-        "text": "We are met the ranger yesterday.",
-        "is_correct": false
-      },
-      {
-        "text": "We are meeting the ranger at 10 am tomorrow.",
+        "text": "A present form describes a future scheduled closing.",
         "is_correct": true
+      },
+      {
+        "text": "“Close” is a past form because doors are plural.",
+        "is_correct": false
+      },
+      {
+        "text": "The doors must be closing at this exact moment.",
+        "is_correct": false
+      },
+      {
+        "text": "A future event can only be described using will.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
-      "hint": "Future time is not expressed only with will."
-    }
+      "summary": "Schedules can use present forms with an explicit future time.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA09-T-010",
@@ -1475,29 +2381,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "What is the best choice for describing a future arrangement?",
-    "audio_prompt": "What is the best choice for describing a future arrangement?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“We did not take the bus yesterday.” Why does the sentence use “take” rather than “took”?",
+    "audio_prompt": "“We did not take the bus yesterday.” Why does the sentence use “take” rather than “took”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We are meeting the ranger at 10 am tomorrow.",
+        "text": "The trip is definitely in the future.",
+        "is_correct": false
+      },
+      {
+        "text": "The helping verb “did” already carries the past tense.",
         "is_correct": true
       },
       {
-        "text": "We met the ranger tomorrow.",
+        "text": "“Yesterday” is the helping verb.",
         "is_correct": false
       },
       {
-        "text": "We are met the ranger yesterday.",
+        "text": "The sentence should always say “did not took”.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
-      "hint": "Future time is not expressed only with will."
-    }
+      "summary": "After past “did”, the main verb uses its base form. Judge the whole group.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA09-T-011",
@@ -1505,29 +2424,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which explanation best supports “We are meeting the ranger at 10 am tomorrow.” in describing a future arrangement?",
-    "audio_prompt": "Which explanation best supports “We are meeting the ranger at 10 am tomorrow.” in describing a future arrangement?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“The shopkeeper was busy during the festival.” What does “was” communicate?",
+    "audio_prompt": "“The shopkeeper was busy during the festival.” What does “was” communicate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “We met the ranger tomorrow.” is always a safe choice.",
+        "text": "a future intention",
         "is_correct": false
       },
       {
-        "text": "Present continuous can express a planned future arrangement when the time is clear.",
+        "text": "an instruction to work faster",
+        "is_correct": false
+      },
+      {
+        "text": "a state in the past",
         "is_correct": true
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "a current routine at every festival",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
-      "hint": "Future time is not expressed only with will."
-    }
+      "summary": "“Was” places the busy state in a past setting. Verbs need not always name visible actions.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA09-T-012",
@@ -1535,29 +2467,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which clue should guide your decision in describing a future arrangement?",
-    "audio_prompt": "Which clue should guide your decision in describing a future arrangement?",
+    "stage": "apply",
+    "skill": "tense_time_and_meaning",
+    "question": "“I completed the poster yesterday. Now I am choosing a place to display it.” Why are the different verb forms appropriate?",
+    "audio_prompt": "“I completed the poster yesterday. Now I am choosing a place to display it.” Why are the different verb forms appropriate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "Every sentence describes the same finished activity.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and use the first familiar form.",
+        "text": "“Am choosing” means the poster was never completed.",
         "is_correct": false
       },
       {
-        "text": "Future time is not expressed only with will.",
+        "text": "All tense changes improve a text regardless of context.",
+        "is_correct": false
+      },
+      {
+        "text": "The text moves from a completed event to a current activity.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
-      "hint": "Future time is not expressed only with will."
-    }
+      "summary": "Yesterday and now make the intended time shift clear; the different verb groups match it.",
+      "hint": "Read the whole verb group and the time context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA09-T-013",
@@ -1565,29 +2511,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which option would you reject first in describing a future arrangement?",
-    "audio_prompt": "Which option would you reject first in describing a future arrangement?",
-    "answers": [
-      {
-        "text": "We met the ranger tomorrow.",
-        "is_correct": true
-      },
-      {
-        "text": "We are meeting the ranger at 10 am tomorrow.",
-        "is_correct": false
-      },
-      {
-        "text": "We are met the ranger yesterday.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "tense_time_and_meaning",
+    "question": "Write three sentences for a short information card about an invented school garden. Use present tense for its current features or routine. Identify two verbs and explain why the tense fits.",
+    "audio_prompt": "Write three sentences for a short information card about an invented school garden. Use present tense for its current features or routine. Identify two verbs and explain why the tense fits.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Our school garden contains three beds. Students water the plants each morning. The beds provide space for herbs. “Contains” and “water” describe current features and routine.",
+    "acceptance_note": "Require three coherent current/general-information sentences, two correctly identified verbs and a context-based reason. Do not require facts about a real garden or a rule that all information must be present tense.",
+    "response_instructions": "Write your response here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Present continuous can express a planned future arrangement when the time is clear.",
-      "hint": "Future time is not expressed only with will."
-    }
+      "summary": "Our school garden contains three beds. Students water the plants each morning. The beds provide space for herbs. “Contains” and “water” describe current features and routine.",
+      "hint": "Use a clear time setting and explain what the verb forms tell your reader."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA09-T-014",
@@ -1595,29 +2543,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which correction should replace “We met the ranger tomorrow.” in describing a future arrangement?",
-    "audio_prompt": "Which correction should replace “We met the ranger tomorrow.” in describing a future arrangement?",
-    "answers": [
-      {
-        "text": "We met the ranger tomorrow.",
-        "is_correct": false
-      },
-      {
-        "text": "We are meeting the ranger at 10 am tomorrow.",
-        "is_correct": true
-      },
-      {
-        "text": "We are met the ranger yesterday.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "tense_time_and_meaning",
+    "question": "The recount describes yesterday: “We went to the hall. We watch a puppet show. We walked back to class.” Rewrite it so all three actions stay in the completed past, then explain your edit.",
+    "audio_prompt": "The recount describes yesterday: “We went to the hall. We watch a puppet show. We walked back to class.” Rewrite it so all three actions stay in the completed past, then explain your edit.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "We went to the hall. We watched a puppet show. We walked back to class. “Watched” keeps the viewing in the same completed past time as went and walked.",
+    "acceptance_note": "Require watched, all three original actions and an explanation of the unintended time shift.",
+    "response_instructions": "Write your response here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
-      "hint": "Future time is not expressed only with will."
-    }
+      "summary": "We went to the hall. We watched a puppet show. We walked back to class. “Watched” keeps the viewing in the same completed past time as went and walked.",
+      "hint": "Use a clear time setting and explain what the verb forms tell your reader."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA09-T-015",
@@ -1625,29 +2575,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Apply the skill to describing a future arrangement: what should you choose?",
-    "audio_prompt": "Apply the skill to describing a future arrangement: what should you choose?",
-    "answers": [
-      {
-        "text": "We met the ranger tomorrow.",
-        "is_correct": false
-      },
-      {
-        "text": "We are met the ranger yesterday.",
-        "is_correct": false
-      },
-      {
-        "text": "We are meeting the ranger at 10 am tomorrow.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "tense_time_and_meaning",
+    "question": "Write two sentences about a drawing club: one about a completed meeting last month and one about an arranged meeting next week. Use clear times and explain how the verb groups communicate them.",
+    "audio_prompt": "Write two sentences about a drawing club: one about a completed meeting last month and one about an arranged meeting next week. Use clear times and explain how the verb groups communicate them.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Last month, the drawing club met in the hall. Next week, it is meeting in Room 2. “Met” is past; “is meeting” describes a future arrangement with the stated future time.",
+    "acceptance_note": "Require explicit past and future meeting contexts, complete grammatical verb groups and a correct explanation. Accept will meet, is going to meet or a suitable schedule form; no single future construction is compulsory.",
+    "response_instructions": "Write your response here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
-      "hint": "Future time is not expressed only with will."
-    }
+      "summary": "Last month, the drawing club met in the hall. Next week, it is meeting in Room 2. “Met” is past; “is meeting” describes a future arrangement with the stated future time.",
+      "hint": "Use a clear time setting and explain what the verb forms tell your reader."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA09-T-016",
@@ -1655,28 +2607,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA09",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Tense and Its Impact on Meaning",
-    "question": "Which final choice gives the clearest and most accurate result for describing a future arrangement?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for describing a future arrangement?",
-    "answers": [
-      {
-        "text": "We are meeting the ranger at 10 am tomorrow.",
-        "is_correct": true
-      },
-      {
-        "text": "We met the ranger tomorrow.",
-        "is_correct": false
-      },
-      {
-        "text": "We are met the ranger yesterday.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "tense_time_and_meaning",
+    "question": "Compare “The class reads stories every afternoon” with “The class read stories yesterday”. Explain what the written word “read” and the time phrases tell you. Then write your own sentence clearly showing past reading.",
+    "audio_prompt": "Compare “The class reads stories every afternoon” with “The class read stories yesterday”. Explain what the written word “read” and the time phrases tell you. Then write your own sentence clearly showing past reading.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The first sentence describes a current habit; “reads” is present. In the second, “read” is past and “yesterday” makes that clear. My sentence: Last night, I read a story to my brother.",
+    "acceptance_note": "Require the present habit/past event distinction, awareness that context supports interpreting past read, and a complete original past-reading sentence. Accept imagined details and usual communication support.",
+    "response_instructions": "Write your response here or on paper, or dictate it using your usual communication support. An adult checks the actual work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Present continuous can express a planned future arrangement when the time is clear.",
-      "hint": "Future time is not expressed only with will."
-    }
+      "summary": "The first sentence describes a current habit; “reads” is present. In the second, “read” is past and “yesterday” makes that clear. My sentence: Last night, I read a story to my brother.",
+      "hint": "Use a clear time setting and explain what the verb forms tell your reader."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]

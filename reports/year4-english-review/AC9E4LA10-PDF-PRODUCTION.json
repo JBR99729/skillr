@@ -1,0 +1,222 @@
+{
+  "status": "PASS",
+  "scope": "Two actual production PDFs; complete text, margins and actual SVG raster embedding where present. Every rendered page still needs independent visual review; native canvas simulation is not live browser verification.",
+  "canvasBackend": "/opt/codex/runtimes/codex-primary-runtime/dependencies/node/node_modules/@napi-rs/canvas",
+  "visualControls": {
+    "resolvedSymbol": true,
+    "redAndBluePixels": true,
+    "missingSymbolRejected": true
+  },
+  "rasters": [
+    {
+      "width": 1600,
+      "height": 750,
+      "nonWhitePixels": 946574,
+      "sha256": "14fee2fb8f3a44383c9fba7f0fb654676a5704585b6f0ef12bae77ed09c750ea"
+    },
+    {
+      "width": 1600,
+      "height": 750,
+      "nonWhitePixels": 948681,
+      "sha256": "0576a7b20037d0e1a5d5bb391572d02dcd247d92438ee5623ad579d76d02909d"
+    },
+    {
+      "width": 1600,
+      "height": 750,
+      "nonWhitePixels": 946574,
+      "sha256": "14fee2fb8f3a44383c9fba7f0fb654676a5704585b6f0ef12bae77ed09c750ea"
+    },
+    {
+      "width": 1600,
+      "height": 750,
+      "nonWhitePixels": 945716,
+      "sha256": "be920df3afadd10488e04ba0cf7f141df06b22ac6ec53585a926f5af14f0e26d"
+    },
+    {
+      "width": 1600,
+      "height": 750,
+      "nonWhitePixels": 945716,
+      "sha256": "be920df3afadd10488e04ba0cf7f141df06b22ac6ec53585a926f5af14f0e26d"
+    },
+    {
+      "width": 1600,
+      "height": 750,
+      "nonWhitePixels": 931029,
+      "sha256": "37d82adbf995e1ef2fd8f51d3fab2c6cfe8e2774b1c197b988b80ded8e88329f"
+    },
+    {
+      "width": 1600,
+      "height": 750,
+      "nonWhitePixels": 931029,
+      "sha256": "37d82adbf995e1ef2fd8f51d3fab2c6cfe8e2774b1c197b988b80ded8e88329f"
+    },
+    {
+      "width": 1600,
+      "height": 750,
+      "nonWhitePixels": 948681,
+      "sha256": "0576a7b20037d0e1a5d5bb391572d02dcd247d92438ee5623ad579d76d02909d"
+    },
+    {
+      "width": 1600,
+      "height": 750,
+      "nonWhitePixels": 945716,
+      "sha256": "be920df3afadd10488e04ba0cf7f141df06b22ac6ec53585a926f5af14f0e26d"
+    },
+    {
+      "width": 1600,
+      "height": 750,
+      "nonWhitePixels": 946574,
+      "sha256": "14fee2fb8f3a44383c9fba7f0fb654676a5704585b6f0ef12bae77ed09c750ea"
+    },
+    {
+      "width": 1600,
+      "height": 750,
+      "nonWhitePixels": 945716,
+      "sha256": "be920df3afadd10488e04ba0cf7f141df06b22ac6ec53585a926f5af14f0e26d"
+    },
+    {
+      "width": 1600,
+      "height": 750,
+      "nonWhitePixels": 946574,
+      "sha256": "14fee2fb8f3a44383c9fba7f0fb654676a5704585b6f0ef12bae77ed09c750ea"
+    }
+  ],
+  "inputs": {
+    "quiz/year-4/english/ac9e4la10/worksheet/index.html": "7c4b3d16177b4f91e90425a0c9d9775bf82ba5d1a39d596031d796eb67503497",
+    "quiz/year-4/english/ac9e4la10/worksheet/worksheet-questions.js": "2c93947e5af319e5b190568c3f3412b5bdc41aaa462142fcc9c587848103b5eb",
+    "quiz/assets/worksheet-pdf.js": "5e05c5a5caa4d2910ee79fd8e7c8247a6975864791f38fe3c7a484311f9d6a8e",
+    "scripts/validate_year4_english_la01_pdf.mjs": "467977729f8f35b6e7d9155c8574c3b5f3e8518bc7a587389199c53480b965eb"
+  },
+  "outputs": [
+    {
+      "file": "/workspace/scratch/1b8e561832f8/english-la10-next-six-final-pdf/1-framing-placement-and-salience-in-images-worksheet-worksheet.pdf",
+      "pages": 10,
+      "images": [
+        {
+          "sha256": "14fee2fb8f3a44383c9fba7f0fb654676a5704585b6f0ef12bae77ed09c750ea",
+          "x": 27.94999999999999,
+          "y": 100.80080000000001,
+          "width": 160,
+          "height": 75,
+          "page": 1
+        },
+        {
+          "sha256": "0576a7b20037d0e1a5d5bb391572d02dcd247d92438ee5623ad579d76d02909d",
+          "x": 27.94999999999999,
+          "y": 55.70815999999999,
+          "width": 160,
+          "height": 75,
+          "page": 3
+        },
+        {
+          "sha256": "14fee2fb8f3a44383c9fba7f0fb654676a5704585b6f0ef12bae77ed09c750ea",
+          "x": 27.94999999999999,
+          "y": 49.781119999999994,
+          "width": 160,
+          "height": 75,
+          "page": 5
+        },
+        {
+          "sha256": "be920df3afadd10488e04ba0cf7f141df06b22ac6ec53585a926f5af14f0e26d",
+          "x": 27.94999999999999,
+          "y": 55.70815999999999,
+          "width": 160,
+          "height": 75,
+          "page": 6
+        },
+        {
+          "sha256": "be920df3afadd10488e04ba0cf7f141df06b22ac6ec53585a926f5af14f0e26d",
+          "x": 27.94999999999999,
+          "y": 49.781119999999994,
+          "width": 160,
+          "height": 75,
+          "page": 7
+        },
+        {
+          "sha256": "37d82adbf995e1ef2fd8f51d3fab2c6cfe8e2774b1c197b988b80ded8e88329f",
+          "x": 27.94999999999999,
+          "y": 55.70815999999999,
+          "width": 160,
+          "height": 75,
+          "page": 8
+        }
+      ],
+      "responseLines": {
+        "ac9e4la10-w-001": 4,
+        "ac9e4la10-w-008": 8,
+        "ac9e4la10-w-002": 4,
+        "ac9e4la10-w-007": 8,
+        "ac9e4la10-w-005": 4,
+        "ac9e4la10-w-003": 4,
+        "ac9e4la10-w-006": 4,
+        "ac9e4la10-w-004": 4
+      },
+      "sha256": "5a2704dbc123ef5c15e357ec466c7b75954ecfddf07eb446cb591e0e15b7ade8"
+    },
+    {
+      "file": "/workspace/scratch/1b8e561832f8/english-la10-next-six-final-pdf/2-framing-placement-and-salience-in-images-worksheet-worksheet.pdf",
+      "pages": 10,
+      "images": [
+        {
+          "sha256": "37d82adbf995e1ef2fd8f51d3fab2c6cfe8e2774b1c197b988b80ded8e88329f",
+          "x": 27.94999999999999,
+          "y": 55.70815999999999,
+          "width": 160,
+          "height": 75,
+          "page": 2
+        },
+        {
+          "sha256": "0576a7b20037d0e1a5d5bb391572d02dcd247d92438ee5623ad579d76d02909d",
+          "x": 27.94999999999999,
+          "y": 55.70815999999999,
+          "width": 160,
+          "height": 75,
+          "page": 3
+        },
+        {
+          "sha256": "be920df3afadd10488e04ba0cf7f141df06b22ac6ec53585a926f5af14f0e26d",
+          "x": 27.94999999999999,
+          "y": 55.70815999999999,
+          "width": 160,
+          "height": 75,
+          "page": 5
+        },
+        {
+          "sha256": "14fee2fb8f3a44383c9fba7f0fb654676a5704585b6f0ef12bae77ed09c750ea",
+          "x": 27.94999999999999,
+          "y": 49.781119999999994,
+          "width": 160,
+          "height": 75,
+          "page": 6
+        },
+        {
+          "sha256": "be920df3afadd10488e04ba0cf7f141df06b22ac6ec53585a926f5af14f0e26d",
+          "x": 27.94999999999999,
+          "y": 49.781119999999994,
+          "width": 160,
+          "height": 75,
+          "page": 7
+        },
+        {
+          "sha256": "14fee2fb8f3a44383c9fba7f0fb654676a5704585b6f0ef12bae77ed09c750ea",
+          "x": 27.94999999999999,
+          "y": 49.781119999999994,
+          "width": 160,
+          "height": 75,
+          "page": 8
+        }
+      ],
+      "responseLines": {
+        "ac9e4la10-w-007": 8,
+        "ac9e4la10-w-004": 4,
+        "ac9e4la10-w-002": 4,
+        "ac9e4la10-w-008": 8,
+        "ac9e4la10-w-003": 4,
+        "ac9e4la10-w-005": 4,
+        "ac9e4la10-w-006": 4,
+        "ac9e4la10-w-001": 4
+      },
+      "sha256": "f5a2df63e4dfc6c3b1cb1b957d98705b0cecdb5fc777e6e3725c8b77b2b9f122"
+    }
+  ]
+}

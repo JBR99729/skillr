@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Punctuating Dialogue",
-    "question": "In punctuating a statement before a speech tag, which option best demonstrates the skill?",
-    "audio_prompt": "In punctuating a statement before a speech tag, which option best demonstrates the skill?",
+    "skill": "punctuating_dialogue",
+    "question": "Read the dialogue: Mina said, “I found the feather.” Which words were spoken aloud?",
+    "audio_prompt": "Read the dialogue: Mina said, “I found the feather.” Which words were spoken aloud?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“I found the missing hat”, Zara said.",
-        "is_correct": false
-      },
-      {
-        "text": "“i found the missing hat,” Zara said.",
-        "is_correct": false
-      },
-      {
-        "text": "“I found the missing hat,” Zara said.",
+        "text": "I found the feather.",
         "is_correct": true
+      },
+      {
+        "text": "Mina said",
+        "is_correct": false
+      },
+      {
+        "text": "Mina said, I found the feather.",
+        "is_correct": false
+      },
+      {
+        "text": "said, I found",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
-      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
-    }
+      "summary": "The quotation marks enclose Mina’s exact spoken words. The speech tag identifies who spoke.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA12-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Punctuating Dialogue",
-    "question": "Which choice fits punctuating a statement before a speech tag most accurately?",
-    "audio_prompt": "Which choice fits punctuating a statement before a speech tag most accurately?",
+    "skill": "punctuating_dialogue",
+    "question": "Using double quotation marks, which version correctly encloses only the spoken words?",
+    "audio_prompt": "Using double quotation marks, which version correctly encloses only the spoken words?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“I found the missing hat,” Zara said.",
+        "text": "“Leo said, The gate is open.”",
+        "is_correct": false
+      },
+      {
+        "text": "Leo said, “The gate is open.”",
         "is_correct": true
       },
       {
-        "text": "“I found the missing hat”, Zara said.",
+        "text": "Leo “said, The gate is open.”",
         "is_correct": false
       },
       {
-        "text": "“i found the missing hat,” Zara said.",
+        "text": "Leo said, The gate “is open.”",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
-      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
-    }
+      "summary": "Only The gate is open is speech. The name and said belong outside the quotation marks.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-P-003",
@@ -66,28 +92,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Punctuating Dialogue",
-    "question": "Which choice fits punctuating a question before a speech tag most accurately?",
-    "audio_prompt": "Which choice fits punctuating a question before a speech tag most accurately?",
+    "skill": "punctuating_dialogue",
+    "question": "The character says one complete sentence. Which capital letter is missing in this draft: Aya said, “the bus is here.”?",
+    "audio_prompt": "The character says one complete sentence. Which capital letter is missing in this draft: Aya said, “the bus is here.”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Are we leaving now,” Noah asked?",
+        "text": "The b in bus must become B.",
         "is_correct": false
       },
       {
-        "text": "“Are we leaving now?” Noah asked.",
+        "text": "The h in here must become H.",
+        "is_correct": false
+      },
+      {
+        "text": "The t in the must become T.",
         "is_correct": true
       },
       {
-        "text": "“Are we leaving now?” Noah Asked.",
+        "text": "The s in said must become S.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
-      "hint": "A question mark can replace the comma before a following speech tag."
-    }
+      "summary": "The first word of this spoken sentence needs a capital: “The bus is here.”",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA12-P-004",
@@ -96,28 +135,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Punctuating Dialogue",
-    "question": "Look closely at punctuating a question before a speech tag. Which response or wording works best?",
-    "audio_prompt": "Look closely at punctuating a question before a speech tag. Which response or wording works best?",
+    "skill": "punctuating_dialogue",
+    "question": "Choose the punctuation for a statement followed by a speech tag.",
+    "audio_prompt": "Choose the punctuation for a statement followed by a speech tag.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Are we leaving now,” Noah asked?",
+        "text": "“I packed a torch.” Finn said.",
         "is_correct": false
       },
       {
-        "text": "“Are we leaving now?” Noah Asked.",
+        "text": "“I packed a torch”, Finn said.",
         "is_correct": false
       },
       {
-        "text": "“Are we leaving now?” Noah asked.",
+        "text": "“I packed a torch,” Finn said,",
+        "is_correct": false
+      },
+      {
+        "text": "“I packed a torch,” Finn said.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
-      "hint": "A question mark can replace the comma before a following speech tag."
-    }
+      "summary": "In this dialogue convention, a comma sits inside the closing quotation mark before the tag. The full stop ends the whole sentence after said.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA12-P-005",
@@ -126,28 +178,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Punctuating Dialogue",
-    "question": "Look closely at starting a new speaker on a new line. Which response or wording works best?",
-    "audio_prompt": "Look closely at starting a new speaker on a new line. Which response or wording works best?",
+    "skill": "punctuating_dialogue",
+    "question": "Which version puts a comma between the speech tag and the spoken sentence?",
+    "audio_prompt": "Which version puts a comma between the speech tag and the spoken sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“I packed the water,” Ava said.\n“Great,” Ben replied.",
+        "text": "Rosa said, “The seedlings need water.”",
         "is_correct": true
       },
       {
-        "text": "“I packed the water,” Ava said. “Great,” Ben replied.",
+        "text": "Rosa, said “The seedlings need water.”",
         "is_correct": false
       },
       {
-        "text": "“I packed the water, Ava said.\nGreat,” Ben replied.",
+        "text": "Rosa said “,The seedlings need water.”",
+        "is_correct": false
+      },
+      {
+        "text": "Rosa said “The seedlings need water,”",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A new paragraph helps readers see that a different person is speaking.",
-      "hint": "Track speaker changes as well as punctuation marks."
-    }
+      "summary": "The tag Rosa said introduces the speech, so the comma follows said. The spoken statement ends with a full stop inside its quotation marks.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA12-P-006",
@@ -156,28 +221,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Punctuating Dialogue",
-    "question": "For starting a new speaker on a new line, which option is the strongest match?",
-    "audio_prompt": "For starting a new speaker on a new line, which option is the strongest match?",
+    "skill": "punctuating_dialogue",
+    "question": "A character asks a question. Which version keeps the question mark and joins the speech tag correctly?",
+    "audio_prompt": "A character asks a question. Which version keeps the question mark and joins the speech tag correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“I packed the water,” Ava said. “Great,” Ben replied.",
+        "text": "“Where is the map,” he asked.",
         "is_correct": false
       },
       {
-        "text": "“I packed the water,” Ava said.\n“Great,” Ben replied.",
+        "text": "“Where is the map?” he asked.",
         "is_correct": true
       },
       {
-        "text": "“I packed the water, Ava said.\nGreat,” Ben replied.",
+        "text": "“Where is the map?,” he asked.",
+        "is_correct": false
+      },
+      {
+        "text": "“Where is the map?” He asked.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A new paragraph helps readers see that a different person is speaking.",
-      "hint": "Track speaker changes as well as punctuation marks."
-    }
+      "summary": "The question mark belongs inside the quotation. Do not add a comma after it; he stays lower case because the tag continues the sentence.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA12-P-007",
@@ -186,28 +264,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Punctuating Dialogue",
-    "question": "For punctuating a speech tag before the quotation, which option is the strongest match?",
-    "audio_prompt": "For punctuating a speech tag before the quotation, which option is the strongest match?",
+    "skill": "punctuating_dialogue",
+    "question": "The words are a shouted warning. Which version uses an exclamation mark without an extra comma?",
+    "audio_prompt": "The words are a shouted warning. Which version uses an exclamation mark without an extra comma?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Dad called “Dinner is ready”!",
+        "text": "“Look out!,” she shouted.",
         "is_correct": false
       },
       {
-        "text": "Dad Called, “dinner is ready!”",
+        "text": "“Look out”!, she shouted.",
         "is_correct": false
       },
       {
-        "text": "Dad called, “Dinner is ready!”",
+        "text": "“Look out!” she shouted.",
         "is_correct": true
+      },
+      {
+        "text": "“Look out!” She shouted,",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
-      "hint": "Check punctuation on both sides of the opening quotation mark."
-    }
+      "summary": "The exclamation mark belongs to the spoken warning. The following tag continues the sentence without an extra comma.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA12-P-008",
@@ -216,28 +307,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Punctuating Dialogue",
-    "question": "Which example should you choose for punctuating a speech tag before the quotation?",
-    "audio_prompt": "Which example should you choose for punctuating a speech tag before the quotation?",
+    "skill": "punctuating_dialogue",
+    "question": "Read: “I can help,” Omar offered. Which words form the speech tag?",
+    "audio_prompt": "Read: “I can help,” Omar offered. Which words form the speech tag?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Dad called, “Dinner is ready!”",
+        "text": "I can help",
+        "is_correct": false
+      },
+      {
+        "text": "help, Omar",
+        "is_correct": false
+      },
+      {
+        "text": "I can help, Omar offered",
+        "is_correct": false
+      },
+      {
+        "text": "Omar offered",
         "is_correct": true
-      },
-      {
-        "text": "Dad called “Dinner is ready”!",
-        "is_correct": false
-      },
-      {
-        "text": "Dad Called, “dinner is ready!”",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
-      "hint": "Check punctuation on both sides of the opening quotation mark."
-    }
+      "summary": "Omar offered identifies the speaker and how the words are introduced. It stays outside the quotation marks.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA12-P-009",
@@ -246,28 +350,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Punctuating Dialogue",
-    "question": "Which example should you choose for punctuating dialogue followed by an action?",
-    "audio_prompt": "Which example should you choose for punctuating dialogue followed by an action?",
+    "skill": "punctuating_dialogue",
+    "question": "The speaker says “We should leave before lunch.” A tag interrupts this single sentence after should. Which version is correct?",
+    "audio_prompt": "The speaker says “We should leave before lunch.” A tag interrupts this single sentence after should. Which version is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Wait here”, Priya said pointing to the gate.",
-        "is_correct": false
-      },
-      {
-        "text": "“Wait here,” Priya said, pointing to the gate.",
+        "text": "“We should,” Ava said, “leave before lunch.”",
         "is_correct": true
       },
       {
-        "text": "“Wait here.” Priya said, pointing to the gate.",
+        "text": "“We should,” Ava said, “Leave before lunch.”",
+        "is_correct": false
+      },
+      {
+        "text": "“We should.” Ava said, “leave before lunch.”",
+        "is_correct": false
+      },
+      {
+        "text": "“We should,” Ava said “leave before lunch.”",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause.",
-      "hint": "Decide whether the words after the quote continue the same sentence."
-    }
+      "summary": "The spoken sentence continues after the tag, so leave stays lower case. Commas set off the interrupting speech tag.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA12-P-010",
@@ -276,28 +393,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Punctuating Dialogue",
-    "question": "In punctuating dialogue followed by an action, which option best demonstrates the skill?",
-    "audio_prompt": "In punctuating dialogue followed by an action, which option best demonstrates the skill?",
+    "skill": "punctuating_dialogue",
+    "question": "Which draft uses two matched pairs of quotation marks around a split spoken sentence?",
+    "audio_prompt": "Which draft uses two matched pairs of quotation marks around a split spoken sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Wait here”, Priya said pointing to the gate.",
+        "text": "“I think, Noor said, the rain has stopped.”",
         "is_correct": false
       },
       {
-        "text": "“Wait here.” Priya said, pointing to the gate.",
-        "is_correct": false
-      },
-      {
-        "text": "“Wait here,” Priya said, pointing to the gate.",
+        "text": "“I think,” Noor said, “the rain has stopped.”",
         "is_correct": true
+      },
+      {
+        "text": "“I think,” Noor said, the rain has stopped.”",
+        "is_correct": false
+      },
+      {
+        "text": "I think,” Noor said, “the rain has stopped.”",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause.",
-      "hint": "Decide whether the words after the quote continue the same sentence."
-    }
+      "summary": "The tag is outside the speech. Each spoken part has its own opening and closing quotation mark.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA12-P-011",
@@ -305,29 +435,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Punctuating Dialogue",
-    "question": "Why does ““I found the missing hat,” Zara said.” work well for punctuating a statement before a speech tag?",
-    "audio_prompt": "Why does ““I found the missing hat,” Zara said.” work well for punctuating a statement before a speech tag?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "Read: “I am ready,” she said. “We can begin.” Why does We begin with a capital?",
+    "audio_prompt": "Read: “I am ready,” she said. “We can begin.” Why does We begin with a capital?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
+        "text": "Every word after a closing quotation mark needs a capital.",
+        "is_correct": false
+      },
+      {
+        "text": "It is the second half of the same spoken sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "It begins a new spoken sentence.",
         "is_correct": true
       },
       {
-        "text": "Because ““I found the missing hat”, Zara said.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Words after said are always capitals.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
-      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
-    }
+      "summary": "The full stop after the tag ends the first sentence. “We can begin” is a new sentence, unlike a continuation after a comma.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA12-P-012",
@@ -335,29 +478,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Punctuating Dialogue",
-    "question": "What makes ““I found the missing hat,” Zara said.” a better choice in punctuating a statement before a speech tag?",
-    "audio_prompt": "What makes ““I found the missing hat,” Zara said.” a better choice in punctuating a statement before a speech tag?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "Which version correctly separates a complete action sentence from the speech before it?",
+    "audio_prompt": "Which version correctly separates a complete action sentence from the speech before it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because ““I found the missing hat”, Zara said.” is always acceptable in this situation.",
+        "text": "“The puzzle is finished,” Nia put down her pencil.",
         "is_correct": false
       },
       {
-        "text": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
+        "text": "“The puzzle is finished.” nia put down her pencil.",
+        "is_correct": false
+      },
+      {
+        "text": "“The puzzle is finished”, Nia put down her pencil.",
+        "is_correct": false
+      },
+      {
+        "text": "“The puzzle is finished.” Nia put down her pencil.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
-      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
-    }
+      "summary": "Putting down a pencil is an action, not a speech tag. The statement ends, then a new sentence begins with Nia.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA12-P-013",
@@ -365,29 +521,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Punctuating Dialogue",
-    "question": "What makes ““Are we leaving now?” Noah asked.” a better choice in punctuating a question before a speech tag?",
-    "audio_prompt": "What makes ““Are we leaving now?” Noah asked.” a better choice in punctuating a question before a speech tag?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Read: “Wait here,” Ravi said. “I will get the coach,” Jo replied. Where should a new paragraph begin to show the change of speaker?",
+    "audio_prompt": "Read: “Wait here,” Ravi said. “I will get the coach,” Jo replied. Where should a new paragraph begin to show the change of speaker?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because ““Are we leaving now,” Noah asked?” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
+        "text": "Before “I will get the coach,” Jo replied.",
         "is_correct": true
+      },
+      {
+        "text": "Before Ravi said.",
+        "is_correct": false
+      },
+      {
+        "text": "Between I will and get the coach.",
+        "is_correct": false
+      },
+      {
+        "text": "Before the comma after here.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
-      "hint": "A question mark can replace the comma before a following speech tag."
-    }
+      "summary": "Jo is a new speaker, so Jo’s whole turn begins a new paragraph. Keep each speech tag with its speaker’s words.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA12-P-014",
@@ -395,29 +564,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Punctuating Dialogue",
-    "question": "Which explanation best justifies ““Are we leaving now?” Noah asked.” for punctuating a question before a speech tag?",
-    "audio_prompt": "Which explanation best justifies ““Are we leaving now?” Noah asked.” for punctuating a question before a speech tag?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "A long spoken sentence wraps onto a second line on a phone. It is still the same person speaking. What should the writer do?",
+    "audio_prompt": "A long spoken sentence wraps onto a second line on a phone. It is still the same person speaking. What should the writer do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
+        "text": "Close and reopen quotation marks at every screen line.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the same quotation; automatic line wrapping does not create a new speaker.",
         "is_correct": true
       },
       {
-        "text": "Because ““Are we leaving now,” Noah asked?” is always acceptable in this situation.",
+        "text": "Add a new speech tag at every screen line.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Make the second line a new speaker’s paragraph.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
-      "hint": "A question mark can replace the comma before a following speech tag."
-    }
+      "summary": "Screen width changes line wrapping. Punctuation and speaker paragraphs follow the writing, not the screen’s line breaks.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA12-P-015",
@@ -425,29 +607,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Punctuating Dialogue",
-    "question": "Which explanation best justifies ““I packed the water,” Ava said.\n“Great,” Ben replied.” for starting a new speaker on a new line?",
-    "audio_prompt": "Which explanation best justifies ““I packed the water,” Ava said.\n“Great,” Ben replied.” for starting a new speaker on a new line?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Read this complete sentence: “Can we borrow this book?” asked Isla. Which mark ends the words spoken aloud?",
+    "audio_prompt": "Read this complete sentence: “Can we borrow this book?” asked Isla. Which mark ends the words spoken aloud?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because ““I packed the water,” Ava said. “Great,” Ben replied.” is always acceptable in this situation.",
+        "text": "The full stop after Isla.",
         "is_correct": false
       },
       {
-        "text": "A new paragraph helps readers see that a different person is speaking.",
+        "text": "The comma that should follow book.",
+        "is_correct": false
+      },
+      {
+        "text": "The question mark after book.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The opening quotation mark before Can.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A new paragraph helps readers see that a different person is speaking.",
-      "hint": "Track speaker changes as well as punctuation marks."
-    }
+      "summary": "The question mark ends the spoken question; the full stop after the tag ends the complete written sentence.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA12-P-016",
@@ -455,29 +650,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Punctuating Dialogue",
-    "question": "What should you notice about ““I packed the water,” Ava said.\n“Great,” Ben replied.” in starting a new speaker on a new line?",
-    "audio_prompt": "What should you notice about ““I packed the water,” Ava said.\n“Great,” Ben replied.” in starting a new speaker on a new line?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "The draft is missing one quotation mark: “The nest is empty, Ben said. Where should the closing mark go?",
+    "audio_prompt": "The draft is missing one quotation mark: “The nest is empty, Ben said. Where should the closing mark go?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because ““I packed the water,” Ava said. “Great,” Ben replied.” is always acceptable in this situation.",
+        "text": "After Ben.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Before empty.",
         "is_correct": false
       },
       {
-        "text": "A new paragraph helps readers see that a different person is speaking.",
+        "text": "After the final full stop.",
+        "is_correct": false
+      },
+      {
+        "text": "After the comma following empty.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A new paragraph helps readers see that a different person is speaking.",
-      "hint": "Track speaker changes as well as punctuation marks."
-    }
+      "summary": "The spoken words end after empty; the comma is inside the closing quote, and Ben said is outside.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LA12-P-017",
@@ -485,29 +693,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Punctuating Dialogue",
-    "question": "What should you notice about “Dad called, “Dinner is ready!”” in punctuating a speech tag before the quotation?",
-    "audio_prompt": "What should you notice about “Dad called, “Dinner is ready!”” in punctuating a speech tag before the quotation?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Read: The guide said, “Stay with the group.” What is the comma after said doing?",
+    "audio_prompt": "Read: The guide said, “Stay with the group.” What is the comma after said doing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
+        "text": "Separating the introducing speech tag from the quoted sentence.",
         "is_correct": true
       },
       {
-        "text": "Because “Dad called “Dinner is ready”!” is always acceptable in this situation.",
+        "text": "Showing that a different guide starts speaking.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Ending the whole sentence before the speech.",
+        "is_correct": false
+      },
+      {
+        "text": "Separating Stay from the other spoken words.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
-      "hint": "Check punctuation on both sides of the opening quotation mark."
-    }
+      "summary": "The comma introduces the exact speech after the tag. It does not signal a new speaker.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LA12-P-018",
@@ -515,29 +736,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Punctuating Dialogue",
-    "question": "Which reason explains why “Dad called, “Dinner is ready!”” suits punctuating a speech tag before the quotation?",
-    "audio_prompt": "Which reason explains why “Dad called, “Dinner is ready!”” suits punctuating a speech tag before the quotation?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Choose the version with the correct question punctuation after a tag placed first.",
+    "audio_prompt": "Choose the version with the correct question punctuation after a tag placed first.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Dad called “Dinner is ready”!” is always acceptable in this situation.",
+        "text": "Sami asked? “Is the bridge safe.”",
         "is_correct": false
       },
       {
-        "text": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
+        "text": "Sami asked, “Is the bridge safe?”",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Sami asked, “Is the bridge safe,”",
+        "is_correct": false
+      },
+      {
+        "text": "Sami asked, “Is the bridge safe”?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
-      "hint": "Check punctuation on both sides of the opening quotation mark."
-    }
+      "summary": "The question itself is inside the quotation marks, so its question mark goes inside too.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LA12-P-019",
@@ -545,29 +779,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Punctuating Dialogue",
-    "question": "Which reason explains why ““Wait here,” Priya said, pointing to the gate.” suits punctuating dialogue followed by an action?",
-    "audio_prompt": "Which reason explains why ““Wait here,” Priya said, pointing to the gate.” suits punctuating dialogue followed by an action?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Which version correctly punctuates the warning after the introducing tag?",
+    "audio_prompt": "Which version correctly punctuates the warning after the introducing tag?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because ““Wait here”, Priya said pointing to the gate.” is always acceptable in this situation.",
+        "text": "The coach called! “Stop at the line,”",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The coach called, “Stop at the line”!",
         "is_correct": false
       },
       {
-        "text": "The comma before the closing quotation mark links the speech to the following reporting clause.",
+        "text": "The coach called, “Stop at the line!”",
         "is_correct": true
+      },
+      {
+        "text": "The coach called, “stop at the line!”",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause.",
-      "hint": "Decide whether the words after the quote continue the same sentence."
-    }
+      "summary": "The tag is followed by a comma; the spoken warning starts with a capital and ends with its exclamation mark inside the quote.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LA12-P-020",
@@ -575,29 +822,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Punctuating Dialogue",
-    "question": "Why does ““Wait here,” Priya said, pointing to the gate.” work well for punctuating dialogue followed by an action?",
-    "audio_prompt": "Why does ““Wait here,” Priya said, pointing to the gate.” work well for punctuating dialogue followed by an action?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "In “I agree,” he said, which word should end with a full stop when this is the complete written sentence?",
+    "audio_prompt": "In “I agree,” he said, which word should end with a full stop when this is the complete written sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The comma before the closing quotation mark links the speech to the following reporting clause.",
+        "text": "agree",
+        "is_correct": false
+      },
+      {
+        "text": "he",
+        "is_correct": false
+      },
+      {
+        "text": "I",
+        "is_correct": false
+      },
+      {
+        "text": "said",
         "is_correct": true
-      },
-      {
-        "text": "Because ““Wait here”, Priya said pointing to the gate.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause.",
-      "hint": "Decide whether the words after the quote continue the same sentence."
-    }
+      "summary": "The comma links the spoken statement to the tag, so the full stop belongs at the end of said.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LA12-P-021",
@@ -605,29 +865,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Punctuating Dialogue",
-    "question": "Which revision best fixes the problem in ““I found the missing hat”, Zara said.” for punctuating a statement before a speech tag?",
-    "audio_prompt": "Which revision best fixes the problem in ““I found the missing hat”, Zara said.” for punctuating a statement before a speech tag?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Two students punctuate the same statement and tag. A: “The door is locked,” she said. B: “The door is locked,” She said. Which explanation is correct?",
+    "audio_prompt": "Two students punctuate the same statement and tag. A: “The door is locked,” she said. B: “The door is locked,” She said. Which explanation is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“I found the missing hat”, Zara said.",
-        "is_correct": false
-      },
-      {
-        "text": "“I found the missing hat,” Zara said.",
+        "text": "A works because she continues the same sentence as the speech tag.",
         "is_correct": true
       },
       {
-        "text": "“i found the missing hat,” Zara said.",
+        "text": "B works because every tag must start with a capital.",
+        "is_correct": false
+      },
+      {
+        "text": "Both need a question mark after locked.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither can have a comma inside the quotation.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
-    }
+      "summary": "A pronoun starting a continuing speech tag stays lower case. A name would retain its normal capital.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LA12-P-022",
@@ -635,29 +908,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Punctuating Dialogue",
-    "question": "Compare the choices for punctuating a statement before a speech tag. Which one avoids the mistake in ““I found the missing hat”, Zara said.”?",
-    "audio_prompt": "Compare the choices for punctuating a statement before a speech tag. Which one avoids the mistake in ““I found the missing hat”, Zara said.”?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Read: “Can you see it?” Amira asked. Why is Amira capitalised even though the tag continues the sentence?",
+    "audio_prompt": "Read: “Can you see it?” Amira asked. Why is Amira capitalised even though the tag continues the sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“I found the missing hat”, Zara said.",
+        "text": "A question mark always starts a new sentence before a tag.",
         "is_correct": false
       },
       {
-        "text": "“i found the missing hat,” Zara said.",
-        "is_correct": false
-      },
-      {
-        "text": "“I found the missing hat,” Zara said.",
+        "text": "Amira is a person’s name.",
         "is_correct": true
+      },
+      {
+        "text": "The word following any quotation must be capitalised.",
+        "is_correct": false
+      },
+      {
+        "text": "A following tag begins a different speaker’s turn.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
-    }
+      "summary": "Proper names keep their capital letters. Compare “Can you see it?” she asked, with lower-case she.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LA12-P-023",
@@ -665,29 +951,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Punctuating Dialogue",
-    "question": "Compare the choices for punctuating a question before a speech tag. Which one avoids the mistake in ““Are we leaving now,” Noah asked?”?",
-    "audio_prompt": "Compare the choices for punctuating a question before a speech tag. Which one avoids the mistake in ““Are we leaving now,” Noah asked?”?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Which edit keeps the quoted words but moves the tag in front correctly? Original: “We need more string,” Eli said.",
+    "audio_prompt": "Which edit keeps the quoted words but moves the tag in front correctly? Original: “We need more string,” Eli said.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Are we leaving now?” Noah asked.",
+        "text": "Eli said. “We need more string,”",
+        "is_correct": false
+      },
+      {
+        "text": "Eli said, “we need more string.”",
+        "is_correct": false
+      },
+      {
+        "text": "Eli said, “We need more string.”",
         "is_correct": true
       },
       {
-        "text": "“Are we leaving now,” Noah asked?",
-        "is_correct": false
-      },
-      {
-        "text": "“Are we leaving now?” Noah Asked.",
+        "text": "“Eli said, We need more string.”",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "A question mark can replace the comma before a following speech tag."
-    }
+      "summary": "The introducing tag takes a comma; the spoken statement ends with a full stop because no tag follows it.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LA12-P-024",
@@ -695,29 +994,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Punctuating Dialogue",
-    "question": "If ““Are we leaving now,” Noah asked?” does not work in punctuating a question before a speech tag, what should replace it?",
-    "audio_prompt": "If ““Are we leaving now,” Noah asked?” does not work in punctuating a question before a speech tag, what should replace it?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Which edit moves the tag after the same statement correctly? Original: Mei said, “The soup is warm.”",
+    "audio_prompt": "Which edit moves the tag after the same statement correctly? Original: Mei said, “The soup is warm.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Are we leaving now,” Noah asked?",
+        "text": "“The soup is warm.” Mei said.",
         "is_correct": false
       },
       {
-        "text": "“Are we leaving now?” Noah asked.",
+        "text": "“The soup is warm”, Mei said.",
+        "is_correct": false
+      },
+      {
+        "text": "“the soup is warm,” Mei said.",
+        "is_correct": false
+      },
+      {
+        "text": "“The soup is warm,” Mei said.",
         "is_correct": true
-      },
-      {
-        "text": "“Are we leaving now?” Noah Asked.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "A question mark can replace the comma before a following speech tag."
-    }
+      "summary": "Change the spoken statement’s full stop to a comma inside the closing quote when the tag follows.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LA12-P-025",
@@ -725,29 +1037,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Punctuating Dialogue",
-    "question": "If ““I packed the water,” Ava said. “Great,” Ben replied.” does not work in starting a new speaker on a new line, what should replace it?",
-    "audio_prompt": "If ““I packed the water,” Ava said. “Great,” Ben replied.” does not work in starting a new speaker on a new line, what should replace it?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "The draft says: “Are we late?”, she asked. What single deletion corrects the extra punctuation?",
+    "audio_prompt": "The draft says: “Are we late?”, she asked. What single deletion corrects the extra punctuation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“I packed the water,” Ava said. “Great,” Ben replied.",
-        "is_correct": false
-      },
-      {
-        "text": "“I packed the water, Ava said.\nGreat,” Ben replied.",
-        "is_correct": false
-      },
-      {
-        "text": "“I packed the water,” Ava said.\n“Great,” Ben replied.",
+        "text": "Delete the comma after the closing quotation mark.",
         "is_correct": true
+      },
+      {
+        "text": "Delete the question mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the opening quotation mark.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the full stop after asked.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A new paragraph helps readers see that a different person is speaking. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Track speaker changes as well as punctuation marks."
-    }
+      "summary": "The question mark already serves the boundary needed before the continuing tag; no comma is added.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LA12-P-026",
@@ -755,29 +1080,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Punctuating Dialogue",
-    "question": "Which option corrects the meaning or form needed for starting a new speaker on a new line?",
-    "audio_prompt": "Which option corrects the meaning or form needed for starting a new speaker on a new line?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Read: “The path is clear.” She lifted the rope. Why does She begin with a capital?",
+    "audio_prompt": "Read: “The path is clear.” She lifted the rope. Why does She begin with a capital?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“I packed the water,” Ava said.\n“Great,” Ben replied.",
+        "text": "It is a speech tag joined by a comma.",
+        "is_correct": false
+      },
+      {
+        "text": "It starts a separate action sentence.",
         "is_correct": true
       },
       {
-        "text": "“I packed the water,” Ava said. “Great,” Ben replied.",
+        "text": "All words after quotes must be capitalised.",
         "is_correct": false
       },
       {
-        "text": "“I packed the water, Ava said.\nGreat,” Ben replied.",
+        "text": "A following action is part of the same quoted sentence.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A new paragraph helps readers see that a different person is speaking. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Track speaker changes as well as punctuation marks."
-    }
+      "summary": "She lifted the rope describes an action. It is a new sentence, unlike she said attached to the speech.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LA12-P-027",
@@ -785,29 +1123,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Punctuating Dialogue",
-    "question": "Which option corrects the meaning or form needed for punctuating a speech tag before the quotation?",
-    "audio_prompt": "Which option corrects the meaning or form needed for punctuating a speech tag before the quotation?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Which version keeps the action outside the spoken words? The character says only “I won”; then she raises a hand.",
+    "audio_prompt": "Which version keeps the action outside the spoken words? The character says only “I won”; then she raises a hand.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Dad called “Dinner is ready”!",
+        "text": "“I won! She raised a hand.”",
         "is_correct": false
       },
       {
-        "text": "Dad called, “Dinner is ready!”",
+        "text": "“I won,” she raised a hand.",
+        "is_correct": false
+      },
+      {
+        "text": "“I won!” She raised a hand.",
         "is_correct": true
       },
       {
-        "text": "Dad Called, “dinner is ready!”",
+        "text": "I won! “She raised a hand.”",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check punctuation on both sides of the opening quotation mark."
-    }
+      "summary": "Only I won is dialogue. The separate action is punctuated as its own sentence.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LA12-P-028",
@@ -815,29 +1166,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Punctuating Dialogue",
-    "question": "Which choice is the clearest correction for punctuating a speech tag before the quotation?",
-    "audio_prompt": "Which choice is the clearest correction for punctuating a speech tag before the quotation?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Which version shows one sentence interrupted by a speech tag, with no new spoken sentence after the tag?",
+    "audio_prompt": "Which version shows one sentence interrupted by a speech tag, with no new spoken sentence after the tag?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Dad called “Dinner is ready”!",
+        "text": "“The package,” Dad said. “Will arrive today.”",
         "is_correct": false
       },
       {
-        "text": "Dad Called, “dinner is ready!”",
+        "text": "“The package,” Dad said, “Will arrive today.”",
         "is_correct": false
       },
       {
-        "text": "Dad called, “Dinner is ready!”",
+        "text": "“The package, Dad said, will arrive today.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The package,” Dad said, “will arrive today.”",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check punctuation on both sides of the opening quotation mark."
-    }
+      "summary": "Remove Dad said and the original spoken sentence is The package will arrive today. Will continues it and stays lower case.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LA12-P-029",
@@ -845,29 +1209,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Punctuating Dialogue",
-    "question": "Which choice is the clearest correction for punctuating dialogue followed by an action?",
-    "audio_prompt": "Which choice is the clearest correction for punctuating dialogue followed by an action?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "A speaker says two sentences: “I found the clue. It was under a chair.” Which version correctly places a tag after the first spoken sentence?",
+    "audio_prompt": "A speaker says two sentences: “I found the clue. It was under a chair.” Which version correctly places a tag after the first spoken sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Wait here,” Priya said, pointing to the gate.",
+        "text": "“I found the clue,” Tia said. “It was under a chair.”",
         "is_correct": true
       },
       {
-        "text": "“Wait here”, Priya said pointing to the gate.",
+        "text": "“I found the clue,” Tia said, “it was under a chair.”",
         "is_correct": false
       },
       {
-        "text": "“Wait here.” Priya said, pointing to the gate.",
+        "text": "“I found the clue.” Tia said, “It was under a chair.”",
+        "is_correct": false
+      },
+      {
+        "text": "“I found the clue,” Tia said. “it was under a chair.”",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Decide whether the words after the quote continue the same sentence."
-    }
+      "summary": "The full stop after the tag separates the two original sentences; It begins the second with a capital.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LA12-P-030",
@@ -875,29 +1252,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Punctuating Dialogue",
-    "question": "Which revision best fixes the problem in ““Wait here”, Priya said pointing to the gate.” for punctuating dialogue followed by an action?",
-    "audio_prompt": "Which revision best fixes the problem in ““Wait here”, Priya said pointing to the gate.” for punctuating dialogue followed by an action?",
+    "stage": "apply",
+    "skill": "punctuating_dialogue",
+    "question": "Which words should stay outside quotation marks in this dialogue: Max whispered, “The baby is asleep.”?",
+    "audio_prompt": "Which words should stay outside quotation marks in this dialogue: Max whispered, “The baby is asleep.”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Wait here”, Priya said pointing to the gate.",
+        "text": "The baby is asleep.",
         "is_correct": false
       },
       {
-        "text": "“Wait here,” Priya said, pointing to the gate.",
+        "text": "Max whispered",
         "is_correct": true
       },
       {
-        "text": "“Wait here.” Priya said, pointing to the gate.",
+        "text": "The baby",
+        "is_correct": false
+      },
+      {
+        "text": "is asleep.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Decide whether the words after the quote continue the same sentence."
-    }
+      "summary": "The tag reports the speech. Max did not say his own name and the word whispered as part of this quotation.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LA12-P-031",
@@ -906,28 +1296,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "You now need to handle punctuating a statement before a speech tag independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle punctuating a statement before a speech tag independently. Which choice should you use?",
+    "skill": "punctuating_dialogue",
+    "question": "The same speaker says two sentences in one turn. Which version puts both spoken sentences inside one pair of quotation marks?",
+    "audio_prompt": "The same speaker says two sentences in one turn. Which version puts both spoken sentences inside one pair of quotation marks?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“i found the missing hat,” Zara said.",
+        "text": "“I like this trail.” We should come again,” Bea said.",
         "is_correct": false
       },
       {
-        "text": "“I found the missing hat”, Zara said.",
+        "text": "“I like this trail. We should come again, Bea said.”",
         "is_correct": false
       },
       {
-        "text": "“I found the missing hat,” Zara said.",
+        "text": "“I like this trail. We should come again,” Bea said.",
         "is_correct": true
+      },
+      {
+        "text": "I like this trail. “We should come again,” Bea said.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
-      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
-    }
+      "summary": "Both sentences are speech. The final comma links the second spoken statement to Bea said.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LA12-P-032",
@@ -936,28 +1339,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Apply the same idea to punctuating a statement before a speech tag. Which option is best?",
-    "audio_prompt": "Apply the same idea to punctuating a statement before a speech tag. Which option is best?",
+    "skill": "punctuating_dialogue",
+    "question": "A new paragraph begins when Omar replies to Lena. Which detail should remain with Omar’s words?",
+    "audio_prompt": "A new paragraph begins when Omar replies to Lena. Which detail should remain with Omar’s words?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“I found the missing hat,” Zara said.",
+        "text": "Lena’s earlier speech tag.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the last word of Lena’s speech.",
+        "is_correct": false
+      },
+      {
+        "text": "The first half of Lena’s question.",
+        "is_correct": false
+      },
+      {
+        "text": "The speech tag that says Omar replied.",
         "is_correct": true
-      },
-      {
-        "text": "“i found the missing hat,” Zara said.",
-        "is_correct": false
-      },
-      {
-        "text": "“I found the missing hat”, Zara said.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The comma belongs before the closing quotation mark in this speech-tag pattern, and the spoken sentence begins with a capital.",
-      "hint": "Check the quotation marks, capital letter and punctuation before the speech tag."
-    }
+      "summary": "Keep a speaker’s words and identifying tag together so the new paragraph clearly belongs to that speaker.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LA12-P-033",
@@ -966,28 +1382,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Apply the same idea to punctuating a question before a speech tag. Which option is best?",
-    "audio_prompt": "Apply the same idea to punctuating a question before a speech tag. Which option is best?",
+    "skill": "punctuating_dialogue",
+    "question": "Which correction is needed in: Ana said, “put the lid on.”?",
+    "audio_prompt": "Which correction is needed in: Ana said, “put the lid on.”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Are we leaving now?” Noah Asked.",
-        "is_correct": false
-      },
-      {
-        "text": "“Are we leaving now?” Noah asked.",
+        "text": "Capitalise Put at the start of the complete spoken sentence.",
         "is_correct": true
       },
       {
-        "text": "“Are we leaving now,” Noah asked?",
+        "text": "Capitalise said because it is a tag.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the full stop outside the quotation marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the comma after said with a question mark.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
-      "hint": "A question mark can replace the comma before a following speech tag."
-    }
+      "summary": "An instruction can be a complete spoken sentence and needs a starting capital, just like a statement.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LA12-P-034",
@@ -996,28 +1425,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Which decision would produce the clearest result in punctuating a question before a speech tag?",
-    "audio_prompt": "Which decision would produce the clearest result in punctuating a question before a speech tag?",
+    "skill": "punctuating_dialogue",
+    "question": "Which sentence correctly keeps a comma within the spoken words to address a person?",
+    "audio_prompt": "Which sentence correctly keeps a comma within the spoken words to address a person?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Are we leaving now?” Noah Asked.",
+        "text": "“Thank you Arlo,” Jess said.",
         "is_correct": false
       },
       {
-        "text": "“Are we leaving now,” Noah asked?",
-        "is_correct": false
-      },
-      {
-        "text": "“Are we leaving now?” Noah asked.",
+        "text": "“Thank you, Arlo,” Jess said.",
         "is_correct": true
+      },
+      {
+        "text": "“Thank you,” Arlo Jess said.",
+        "is_correct": false
+      },
+      {
+        "text": "“Thank you, Arlo” Jess, said.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The question mark belongs to the spoken question, and asked stays lowercase because the reporting clause continues the sentence.",
-      "hint": "A question mark can replace the comma before a following speech tag."
-    }
+      "summary": "The first comma separates Arlo, the person addressed; the second comma links the whole spoken statement to Jess said.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LA12-P-035",
@@ -1026,28 +1468,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Which decision would produce the clearest result in starting a new speaker on a new line?",
-    "audio_prompt": "Which decision would produce the clearest result in starting a new speaker on a new line?",
+    "skill": "punctuating_dialogue",
+    "question": "Which comparison correctly explains the different punctuation? A: “We can go,” she said. B: “We can go.” She picked up her bag.",
+    "audio_prompt": "Which comparison correctly explains the different punctuation? A: “We can go,” she said. B: “We can go.” She picked up her bag.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“I packed the water,” Ava said.\n“Great,” Ben replied.",
+        "text": "Both should use commas because a person follows the speech.",
+        "is_correct": false
+      },
+      {
+        "text": "Both should capitalise she because quotation marks close.",
+        "is_correct": false
+      },
+      {
+        "text": "A continues with a speech tag; B starts a separate action sentence.",
         "is_correct": true
       },
       {
-        "text": "“I packed the water, Ava said.\nGreat,” Ben replied.",
-        "is_correct": false
-      },
-      {
-        "text": "“I packed the water,” Ava said. “Great,” Ben replied.",
+        "text": "A and B both put the action inside the quoted words.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A new paragraph helps readers see that a different person is speaking.",
-      "hint": "Track speaker changes as well as punctuation marks."
-    }
+      "summary": "Speech tags and separate actions have different jobs. The punctuation should show that difference.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LA12-P-036",
@@ -1056,28 +1511,41 @@
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Choose the option that applies the skill correctly in starting a new speaker on a new line.",
-    "audio_prompt": "Choose the option that applies the skill correctly in starting a new speaker on a new line.",
+    "skill": "punctuating_dialogue",
+    "question": "A writer uses double quotation marks for every character’s speech. How should they handle the next spoken turn in the same story?",
+    "audio_prompt": "A writer uses double quotation marks for every character’s speech. How should they handle the next spoken turn in the same story?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“I packed the water, Ava said.\nGreat,” Ben replied.",
+        "text": "Switch to single marks merely because a different character speaks.",
         "is_correct": false
       },
       {
-        "text": "“I packed the water,” Ava said.\n“Great,” Ben replied.",
+        "text": "Leave out closing marks whenever the speaker is named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a different quotation style on each screen line.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the chosen double-mark style consistent and punctuate the new turn clearly.",
         "is_correct": true
-      },
-      {
-        "text": "“I packed the water,” Ava said. “Great,” Ben replied.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A new paragraph helps readers see that a different person is speaking.",
-      "hint": "Track speaker changes as well as punctuation marks."
-    }
+      "summary": "Both single and double quotation styles exist. A story should use its chosen convention consistently; screen wrapping and speaker changes do not require switching styles.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LA12-P-037",
@@ -1085,29 +1553,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Choose the option that applies the skill correctly in punctuating a speech tag before the quotation.",
-    "audio_prompt": "Choose the option that applies the skill correctly in punctuating a speech tag before the quotation.",
-    "answers": [
-      {
-        "text": "Dad Called, “dinner is ready!”",
-        "is_correct": false
-      },
-      {
-        "text": "Dad called “Dinner is ready”!",
-        "is_correct": false
-      },
-      {
-        "text": "Dad called, “Dinner is ready!”",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Write one original sentence spoken by a character who has found something. Put the speech tag first. Name the marks that enclose the spoken words.",
+    "audio_prompt": "Write one original sentence spoken by a character who has found something. Put the speech tag first. Name the marks that enclose the spoken words.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Nora said, “I found a tiny shell.” The spoken words are enclosed by opening and closing quotation marks.",
+    "acceptance_note": "Require an original complete spoken sentence, introducing tag followed by comma, starting capital and final punctuation inside matched quotes, plus the quotation-mark explanation. Accept consistent single or double marks.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
     "explanation": {
-      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
-      "hint": "Check punctuation on both sides of the opening quotation mark."
-    }
+      "summary": "Nora said, “I found a tiny shell.” The spoken words are enclosed by opening and closing quotation marks.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LA12-P-038",
@@ -1115,29 +1585,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "What would be the most effective choice for punctuating a speech tag before the quotation?",
-    "audio_prompt": "What would be the most effective choice for punctuating a speech tag before the quotation?",
-    "answers": [
-      {
-        "text": "Dad called, “Dinner is ready!”",
-        "is_correct": true
-      },
-      {
-        "text": "Dad Called, “dinner is ready!”",
-        "is_correct": false
-      },
-      {
-        "text": "Dad called “Dinner is ready”!",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "A character offers help. Write their original spoken statement before a speech tag, then explain the comma placement.",
+    "audio_prompt": "A character offers help. Write their original spoken statement before a speech tag, then explain the comma placement.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“I can carry the empty box,” Ali said. The comma goes inside the closing quotation mark before the tag.",
+    "acceptance_note": "Require original helpful statement, a comma inside closing quotation marks, a clear tag and final full stop. Check the explanation names the tag connection.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
     "explanation": {
-      "summary": "A comma separates the speech tag from the quotation, and the spoken sentence begins with a capital letter.",
-      "hint": "Check punctuation on both sides of the opening quotation mark."
-    }
+      "summary": "“I can carry the empty box,” Ali said. The comma goes inside the closing quotation mark before the tag.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LA12-P-039",
@@ -1145,29 +1617,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "What would be the most effective choice for punctuating dialogue followed by an action?",
-    "audio_prompt": "What would be the most effective choice for punctuating dialogue followed by an action?",
-    "answers": [
-      {
-        "text": "“Wait here.” Priya said, pointing to the gate.",
-        "is_correct": false
-      },
-      {
-        "text": "“Wait here,” Priya said, pointing to the gate.",
-        "is_correct": true
-      },
-      {
-        "text": "“Wait here”, Priya said pointing to the gate.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Write a character’s original question about a lost item, followed by she asked or he asked. Explain why the pronoun is lower case.",
+    "audio_prompt": "Write a character’s original question about a lost item, followed by she asked or he asked. Explain why the pronoun is lower case.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“Where is my scarf?” she asked. She stays lower case because the speech tag continues the sentence.",
+    "acceptance_note": "Require a real question with question mark inside quotes, lower-case chosen pronoun in a continuing tag, final full stop and an explanation. No extra comma after the question mark.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
     "explanation": {
-      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause.",
-      "hint": "Decide whether the words after the quote continue the same sentence."
-    }
+      "summary": "“Where is my scarf?” she asked. She stays lower case because the speech tag continues the sentence.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LA12-P-040",
@@ -1175,29 +1649,287 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "You now need to handle punctuating dialogue followed by an action independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle punctuating dialogue followed by an action independently. Which choice should you use?",
-    "answers": [
-      {
-        "text": "“Wait here.” Priya said, pointing to the gate.",
-        "is_correct": false
-      },
-      {
-        "text": "“Wait here”, Priya said pointing to the gate.",
-        "is_correct": false
-      },
-      {
-        "text": "“Wait here,” Priya said, pointing to the gate.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Invent a brief warning in a fictional sports scene. Write it with an exclamation mark and a following speech tag. Explain where the exclamation mark belongs.",
+    "audio_prompt": "Invent a brief warning in a fictional sports scene. Write it with an exclamation mark and a following speech tag. Explain where the exclamation mark belongs.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“Watch the ball!” he called. The exclamation mark belongs inside the quotation because it punctuates the spoken warning.",
+    "acceptance_note": "Require an original suitable warning, exclamation inside paired quotation marks, continuing tag and final stop. Reject a redundant comma after the exclamation mark.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
     "explanation": {
-      "summary": "The comma before the closing quotation mark links the speech to the following reporting clause.",
-      "hint": "Decide whether the words after the quote continue the same sentence."
-    }
+      "summary": "“Watch the ball!” he called. The exclamation mark belongs inside the quotation because it punctuates the spoken warning.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LA12-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA12",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Write a character’s spoken statement followed by a separate action sentence. Explain why the action is not joined like a speech tag.",
+    "audio_prompt": "Write a character’s spoken statement followed by a separate action sentence. Explain why the action is not joined like a speech tag.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“The model is ready.” Sam placed it on the desk. Placing the model is an action, not a way of saying the words.",
+    "acceptance_note": "Require original speech ending with appropriate boundary punctuation inside quotes, separate capitalised complete action sentence, and the distinction from a speech tag.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
+    "explanation": {
+      "summary": "“The model is ready.” Sam placed it on the desk. Placing the model is an action, not a way of saying the words.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LA12-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA12",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Create a two-turn conversation about choosing a class game. Put each new speaker in a separate paragraph and include a speech tag for each.",
+    "audio_prompt": "Create a two-turn conversation about choosing a class game. Put each new speaker in a separate paragraph and include a speech tag for each.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“Shall we play a word game?” Imani asked.\n“We could try a spelling puzzle,” Luca replied.",
+    "acceptance_note": "Require two meaningful different-speaker turns in separate paragraphs, each with matched quotes, suitable capitals/boundaries and correctly attached tags. Assess actual punctuation; no points for only naming the convention.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
+    "explanation": {
+      "summary": "“Shall we play a word game?” Imani asked.\n“We could try a spelling puzzle,” Luca replied.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LA12-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA12",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Write an original spoken sentence about a picnic, then interrupt that same sentence with a speech tag. Show both versions.",
+    "audio_prompt": "Write an original spoken sentence about a picnic, then interrupt that same sentence with a speech tag. Show both versions.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“We can eat under the tree.”\n“We can,” Hana said, “eat under the tree.”",
+    "acceptance_note": "Require both versions with exactly the same spoken words and meaning; tag sits outside two matched quote pairs; continuation stays lower case unless it normally needs a capital; commas separate the tag.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
+    "explanation": {
+      "summary": "“We can eat under the tree.”\n“We can,” Hana said, “eat under the tree.”",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LA12-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA12",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Edit this draft without changing its words: ella asked where is the glue. Write it as dialogue with the tag first and explain two punctuation choices.",
+    "audio_prompt": "Edit this draft without changing its words: ella asked where is the glue. Write it as dialogue with the tag first and explain two punctuation choices.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Ella asked, “Where is the glue?” Ella starts the sentence with a capital; the question mark is inside the speech quotation.",
+    "acceptance_note": "Require Ella asked followed by comma, paired quotes around Where is the glue, capital Where and question mark inside. Accept any two accurate explanations; original word order is retained.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
+    "explanation": {
+      "summary": "Ella asked, “Where is the glue?” Ella starts the sentence with a capital; the question mark is inside the speech quotation.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LA12-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA12",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Write two sentences of original speech in one turn. Put a speech tag between the two sentences and explain why the second spoken sentence starts with a capital.",
+    "audio_prompt": "Write two sentences of original speech in one turn. Put a speech tag between the two sentences and explain why the second spoken sentence starts with a capital.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“The clouds are clearing,” Ben said. “We can see the hill.” The second quotation is a new sentence after the full stop.",
+    "acceptance_note": "Require two complete original spoken sentences with a tag after the first. A first statement uses a comma inside closing quotation marks before the tag; a first question or exclamation retains its own boundary mark with no extra comma. End the tag with a full stop and begin the second spoken sentence with a capital. Do not confuse this with a comma-interrupted continuation.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
+    "explanation": {
+      "summary": "“The clouds are clearing,” Ben said. “We can see the hill.” The second quotation is a new sentence after the full stop.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LA12-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA12",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Write a three-turn conversation between two invented characters about sharing art materials. Include one question and show every speaker change with a new paragraph.",
+    "audio_prompt": "Write a three-turn conversation between two invented characters about sharing art materials. Include one question and show every speaker change with a new paragraph.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“May I use the blue pencil?” Tara asked.\n“Yes, I have finished with it,” Owen replied.\n“Thank you,” Tara said.",
+    "acceptance_note": "Require three actual turns with identifiable alternating speakers, separate paragraphs, at least one properly punctuated question, matched quote pairs and correctly attached tags if used. Accept other respectful conversations.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
+    "explanation": {
+      "summary": "“May I use the blue pencil?” Tara asked.\n“Yes, I have finished with it,” Owen replied.\n“Thank you,” Tara said.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LA12-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA12",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Correct the punctuation, keeping the words: “I have an idea,” She drew a small map. Explain why your full stop or comma choice fits the action.",
+    "audio_prompt": "Correct the punctuation, keeping the words: “I have an idea,” She drew a small map. Explain why your full stop or comma choice fits the action.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“I have an idea.” She drew a small map. Drawing is a separate action, so the speech ends with a full stop and the next sentence begins with She.",
+    "acceptance_note": "Require full stop inside quote after idea, capital She and complete action sentence. Explain action versus speech tag; changing drawn action into a speech tag would not preserve the words.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
+    "explanation": {
+      "summary": "“I have an idea.” She drew a small map. Drawing is a separate action, so the speech ends with a full stop and the next sentence begins with She.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LA12-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA12",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Create a short dialogue in which a character asks for directions and another replies. Use a tag-first sentence in one turn and tag-last in the other. Explain how each tag joins the speech.",
+    "audio_prompt": "Create a short dialogue in which a character asks for directions and another replies. Use a tag-first sentence in one turn and tag-last in the other. Explain how each tag joins the speech.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Asha asked, “Where is the hall?”\n“The hall is beside the library,” Teo replied. The first tag introduces the speech with a comma. The second follows a comma inside the closing quotation.",
+    "acceptance_note": "Require two meaningful original speaker turns in new paragraphs, one tag-first and one tag-last construction, appropriate question/statement punctuation and correct explanations. Accept suitable other directions.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
+    "explanation": {
+      "summary": "Asha asked, “Where is the hall?”\n“The hall is beside the library,” Teo replied. The first tag introduces the speech with a comma. The second follows a comma inside the closing quotation.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LA12-T-001",
@@ -1205,29 +1937,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Punctuating Dialogue",
-    "question": "New context: punctuating an exclamation before a speech tag. Which option is correct?",
-    "audio_prompt": "New context: punctuating an exclamation before a speech tag. Which option is correct?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "Read: “The biscuits are cool,” Arjun said. Which words are the speech tag?",
+    "audio_prompt": "Read: “The biscuits are cool,” Arjun said. Which words are the speech tag?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Watch out!” Eli shouted.",
+        "text": "Arjun said",
         "is_correct": true
       },
       {
-        "text": "“Watch out,” Eli shouted!",
+        "text": "The biscuits are cool",
         "is_correct": false
       },
       {
-        "text": "“Watch out!” Eli Shouted.",
+        "text": "cool, Arjun",
+        "is_correct": false
+      },
+      {
+        "text": "The biscuits",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The exclamation mark belongs inside the quotation and the reporting verb remains lowercase.",
-      "hint": "Boundary punctuation inside the quote can replace a comma."
-    }
+      "summary": "Arjun said identifies the speaker; the quotation encloses the exact spoken statement.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA12-T-002",
@@ -1235,29 +1980,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Punctuating Dialogue",
-    "question": "What is the best choice for punctuating an exclamation before a speech tag?",
-    "audio_prompt": "What is the best choice for punctuating an exclamation before a speech tag?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "Choose the correctly punctuated tag-first sentence.",
+    "audio_prompt": "Choose the correctly punctuated tag-first sentence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Watch out,” Eli shouted!",
+        "text": "Zoe, said “The ladder is steady.”",
         "is_correct": false
       },
       {
-        "text": "“Watch out!” Eli shouted.",
+        "text": "Zoe said, “The ladder is steady.”",
         "is_correct": true
       },
       {
-        "text": "“Watch out!” Eli Shouted.",
+        "text": "Zoe said “The ladder is steady,”",
+        "is_correct": false
+      },
+      {
+        "text": "“Zoe said, The ladder is steady.”",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The exclamation mark belongs inside the quotation and the reporting verb remains lowercase.",
-      "hint": "Boundary punctuation inside the quote can replace a comma."
-    }
+      "summary": "The comma follows the introducing tag; only the complete spoken sentence is enclosed.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA12-T-003",
@@ -1265,29 +2023,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Punctuating Dialogue",
-    "question": "Which explanation best supports ““Watch out!” Eli shouted.” in punctuating an exclamation before a speech tag?",
-    "audio_prompt": "Which explanation best supports ““Watch out!” Eli shouted.” in punctuating an exclamation before a speech tag?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "Which version correctly joins a question to its following tag?",
+    "audio_prompt": "Which version correctly joins a question to its following tag?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because ““Watch out,” Eli shouted!” is always a safe choice.",
+        "text": "“Who has the tickets?,” she asked.",
         "is_correct": false
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "“Who has the tickets,” she asked.",
         "is_correct": false
       },
       {
-        "text": "The exclamation mark belongs inside the quotation and the reporting verb remains lowercase.",
+        "text": "“Who has the tickets?” she asked.",
         "is_correct": true
+      },
+      {
+        "text": "“Who has the tickets?” She asked.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The exclamation mark belongs inside the quotation and the reporting verb remains lowercase.",
-      "hint": "Boundary punctuation inside the quote can replace a comma."
-    }
+      "summary": "A question mark inside the quotation is followed directly by the lower-case continuing tag, without an extra comma.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA12-T-004",
@@ -1295,29 +2066,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Punctuating Dialogue",
-    "question": "Which clue should guide your decision in punctuating an exclamation before a speech tag?",
-    "audio_prompt": "Which clue should guide your decision in punctuating an exclamation before a speech tag?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "A character says one sentence: “The small boat is mine.” Which version correctly interrupts it with a speech tag?",
+    "audio_prompt": "A character says one sentence: “The small boat is mine.” Which version correctly interrupts it with a speech tag?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Boundary punctuation inside the quote can replace a comma.",
+        "text": "“The small boat,” Kiran said, “Is mine.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The small boat.” Kiran said, “is mine.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The small boat, Kiran said, is mine.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The small boat,” Kiran said, “is mine.”",
         "is_correct": true
-      },
-      {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The exclamation mark belongs inside the quotation and the reporting verb remains lowercase.",
-      "hint": "Boundary punctuation inside the quote can replace a comma."
-    }
+      "summary": "The spoken sentence continues after the interrupting tag. The continuation is stays lower case and the tag is outside both quote pairs.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA12-T-005",
@@ -1325,29 +2109,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Which option would you reject first in punctuating an exclamation before a speech tag?",
-    "audio_prompt": "Which option would you reject first in punctuating an exclamation before a speech tag?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "Which sentence distinguishes an action from a speech tag correctly?",
+    "audio_prompt": "Which sentence distinguishes an action from a speech tag correctly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Watch out!” Eli shouted.",
-        "is_correct": false
-      },
-      {
-        "text": "“Watch out,” Eli shouted!",
+        "text": "“It is your turn.” Ella rolled the dice.",
         "is_correct": true
       },
       {
-        "text": "“Watch out!” Eli Shouted.",
+        "text": "“It is your turn,” Ella rolled the dice.",
+        "is_correct": false
+      },
+      {
+        "text": "“It is your turn.” ella rolled the dice.",
+        "is_correct": false
+      },
+      {
+        "text": "“It is your turn, Ella rolled the dice.”",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The exclamation mark belongs inside the quotation and the reporting verb remains lowercase.",
-      "hint": "Boundary punctuation inside the quote can replace a comma."
-    }
+      "summary": "Rolling dice is an action, not a speech tag. It begins a separate sentence after the spoken statement.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA12-T-006",
@@ -1355,29 +2152,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Which correction should replace ““Watch out,” Eli shouted!” in punctuating an exclamation before a speech tag?",
-    "audio_prompt": "Which correction should replace ““Watch out,” Eli shouted!” in punctuating an exclamation before a speech tag?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "Read: “The tent is ready,” Theo said. “I will bring the bags,” Priya replied. Where does the new speaker’s paragraph begin?",
+    "audio_prompt": "Read: “The tent is ready,” Theo said. “I will bring the bags,” Priya replied. Where does the new speaker’s paragraph begin?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Watch out,” Eli shouted!",
+        "text": "Before Theo said.",
         "is_correct": false
       },
       {
-        "text": "“Watch out!” Eli Shouted.",
-        "is_correct": false
-      },
-      {
-        "text": "“Watch out!” Eli shouted.",
+        "text": "Before “I will bring the bags,” Priya replied.",
         "is_correct": true
+      },
+      {
+        "text": "Before bring the bags inside the second quotation.",
+        "is_correct": false
+      },
+      {
+        "text": "After Priya replied.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The exclamation mark belongs inside the quotation and the reporting verb remains lowercase.",
-      "hint": "Boundary punctuation inside the quote can replace a comma."
-    }
+      "summary": "The new paragraph contains Priya’s entire turn and its identifying tag.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA12-T-007",
@@ -1385,29 +2195,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Apply the skill to punctuating an exclamation before a speech tag: what should you choose?",
-    "audio_prompt": "Apply the skill to punctuating an exclamation before a speech tag: what should you choose?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "The tag follows a shouted warning. Which punctuation fits?",
+    "audio_prompt": "The tag follows a shouted warning. Which punctuation fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Watch out!” Eli shouted.",
+        "text": "“Stay back!,” he shouted.",
+        "is_correct": false
+      },
+      {
+        "text": "“Stay back”!, he shouted.",
+        "is_correct": false
+      },
+      {
+        "text": "“Stay back!” he shouted.",
         "is_correct": true
       },
       {
-        "text": "“Watch out,” Eli shouted!",
-        "is_correct": false
-      },
-      {
-        "text": "“Watch out!” Eli Shouted.",
+        "text": "“Stay back!” He shouted,",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The exclamation mark belongs inside the quotation and the reporting verb remains lowercase.",
-      "hint": "Boundary punctuation inside the quote can replace a comma."
-    }
+      "summary": "Keep the exclamation mark inside the speech quotation and do not add a comma. The tag continues with lower-case he.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA12-T-008",
@@ -1415,29 +2238,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Which final choice gives the clearest and most accurate result for punctuating an exclamation before a speech tag?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for punctuating an exclamation before a speech tag?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "Which version encloses only the words spoken by Nabil?",
+    "audio_prompt": "Which version encloses only the words spoken by Nabil?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Watch out,” Eli shouted!",
+        "text": "“Nabil whispered, The owl is near.”",
         "is_correct": false
       },
       {
-        "text": "“Watch out!” Eli shouted.",
+        "text": "Nabil “whispered, The owl is near.”",
+        "is_correct": false
+      },
+      {
+        "text": "Nabil whispered, The owl “is near.”",
+        "is_correct": false
+      },
+      {
+        "text": "Nabil whispered, “The owl is near.”",
         "is_correct": true
-      },
-      {
-        "text": "“Watch out!” Eli Shouted.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The exclamation mark belongs inside the quotation and the reporting verb remains lowercase.",
-      "hint": "Boundary punctuation inside the quote can replace a comma."
-    }
+      "summary": "The tag is narration about the speech, so it remains outside the quote pair.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA12-T-009",
@@ -1445,29 +2281,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Punctuating Dialogue",
-    "question": "New context: writing two lines of dialogue with clear speakers. Which option is correct?",
-    "audio_prompt": "New context: writing two lines of dialogue with clear speakers. Which option is correct?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "Move the tag after the statement without changing the spoken words. Original: Rina said, “The paint has dried.”",
+    "audio_prompt": "Move the tag after the statement without changing the spoken words. Original: Rina said, “The paint has dried.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Did you bring the map”? asked Ruby. “Yes it is in my bag”, Sam replied.",
-        "is_correct": false
-      },
-      {
-        "text": "Did you bring the map? “asked Ruby” Yes, it is in my bag.",
-        "is_correct": false
-      },
-      {
-        "text": "“Did you bring the map?” asked Ruby.\n“Yes, it is in my bag,” Sam replied.",
+        "text": "“The paint has dried,” Rina said.",
         "is_correct": true
+      },
+      {
+        "text": "“The paint has dried.” Rina said.",
+        "is_correct": false
+      },
+      {
+        "text": "“The paint has dried”, Rina said.",
+        "is_correct": false
+      },
+      {
+        "text": "“the paint has dried,” Rina said.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Correct quotation marks, punctuation and paragraphing make the change of speaker easy to follow.",
-      "hint": "Read the exchange aloud and check each speaker’s exact words and sentence boundary."
-    }
+      "summary": "The following tag is linked by a comma inside the closing quote, and the whole sentence ends after said.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA12-T-010",
@@ -1475,29 +2324,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Punctuating Dialogue",
-    "question": "What is the best choice for writing two lines of dialogue with clear speakers?",
-    "audio_prompt": "What is the best choice for writing two lines of dialogue with clear speakers?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "Read: “I know the answer,” he said. “It is twelve.” Why is It capitalised?",
+    "audio_prompt": "Read: “I know the answer,” he said. “It is twelve.” Why is It capitalised?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Did you bring the map?” asked Ruby.\n“Yes, it is in my bag,” Sam replied.",
+        "text": "It continues the first sentence after a comma.",
+        "is_correct": false
+      },
+      {
+        "text": "It begins a second complete spoken sentence.",
         "is_correct": true
       },
       {
-        "text": "“Did you bring the map”? asked Ruby. “Yes it is in my bag”, Sam replied.",
+        "text": "All words after he must start with capitals.",
         "is_correct": false
       },
       {
-        "text": "Did you bring the map? “asked Ruby” Yes, it is in my bag.",
+        "text": "The word twelve changes who is speaking.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Correct quotation marks, punctuation and paragraphing make the change of speaker easy to follow.",
-      "hint": "Read the exchange aloud and check each speaker’s exact words and sentence boundary."
-    }
+      "summary": "The full stop after the first tag ends that sentence. The next quotation starts a new sentence.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA12-T-011",
@@ -1505,29 +2367,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Punctuating Dialogue",
-    "question": "Which explanation best supports ““Did you bring the map?” asked Ruby.\n“Yes, it is in my bag,” Sam replied.” in writing two lines of dialogue with clear speakers?",
-    "audio_prompt": "Which explanation best supports ““Did you bring the map?” asked Ruby.\n“Yes, it is in my bag,” Sam replied.” in writing two lines of dialogue with clear speakers?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "Read the draft: “Did you find it?”, Amira asked. Which change removes unnecessary punctuation while keeping the question?",
+    "audio_prompt": "Read the draft: “Did you find it?”, Amira asked. Which change removes unnecessary punctuation while keeping the question?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because ““Did you bring the map”? asked Ruby. “Yes it is in my bag”, Sam replied.” is always a safe choice.",
+        "text": "Replace the question mark with a comma.",
         "is_correct": false
       },
       {
-        "text": "Correct quotation marks, punctuation and paragraphing make the change of speaker easy to follow.",
+        "text": "Remove both quotation marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the comma after the closing quotation mark.",
         "is_correct": true
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "Change Amira to lower case.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Correct quotation marks, punctuation and paragraphing make the change of speaker easy to follow.",
-      "hint": "Read the exchange aloud and check each speaker’s exact words and sentence boundary."
-    }
+      "summary": "The question mark already punctuates the spoken question. The proper name Amira keeps its capital in the continuing tag.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA12-T-012",
@@ -1535,29 +2410,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Punctuating Dialogue",
-    "question": "Which clue should guide your decision in writing two lines of dialogue with clear speakers?",
-    "audio_prompt": "Which clue should guide your decision in writing two lines of dialogue with clear speakers?",
+    "stage": "recognise",
+    "skill": "punctuating_dialogue",
+    "question": "The same character’s quoted sentence automatically wraps onto three screen lines. Which editing choice is correct?",
+    "audio_prompt": "The same character’s quoted sentence automatically wraps onto three screen lines. Which editing choice is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "Add a new opening quotation mark on every screen line.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and use the first familiar form.",
+        "text": "Add a speech tag at the end of every screen line.",
         "is_correct": false
       },
       {
-        "text": "Read the exchange aloud and check each speaker’s exact words and sentence boundary.",
+        "text": "Turn each wrapped line into a different speaker’s paragraph.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the original sentence punctuation; screen wrapping is not a speaker change.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Correct quotation marks, punctuation and paragraphing make the change of speaker easy to follow.",
-      "hint": "Read the exchange aloud and check each speaker’s exact words and sentence boundary."
-    }
+      "summary": "Paragraphs and quotation boundaries are part of the writing, independent of how a device wraps text.",
+      "hint": "Identify the spoken words and check how the speech tag or action joins them."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA12-T-013",
@@ -1565,29 +2453,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Which option would you reject first in writing two lines of dialogue with clear speakers?",
-    "audio_prompt": "Which option would you reject first in writing two lines of dialogue with clear speakers?",
-    "answers": [
-      {
-        "text": "“Did you bring the map”? asked Ruby. “Yes it is in my bag”, Sam replied.",
-        "is_correct": true
-      },
-      {
-        "text": "“Did you bring the map?” asked Ruby.\n“Yes, it is in my bag,” Sam replied.",
-        "is_correct": false
-      },
-      {
-        "text": "Did you bring the map? “asked Ruby” Yes, it is in my bag.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Write a two-turn original exchange about a missing library book. Include a question with a following speech tag and a reply with a tag first. Put the speakers in separate paragraphs.",
+    "audio_prompt": "Write a two-turn original exchange about a missing library book. Include a question with a following speech tag and a reply with a tag first. Put the speakers in separate paragraphs.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“Have you seen my library book?” Mia asked.\nNoah replied, “It is on the reading table.”",
+    "acceptance_note": "Require two meaningful different-speaker turns, question with following tag and no extra comma, reply with introducing tag/comma, paired quotes, capitals and new-speaker paragraph. Accept other plausible invented locations.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Correct quotation marks, punctuation and paragraphing make the change of speaker easy to follow.",
-      "hint": "Read the exchange aloud and check each speaker’s exact words and sentence boundary."
-    }
+      "summary": "“Have you seen my library book?” Mia asked.\nNoah replied, “It is on the reading table.”",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA12-T-014",
@@ -1595,29 +2485,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Which correction should replace ““Did you bring the map”? asked Ruby. “Yes it is in my bag”, Sam replied.” in writing two lines of dialogue with clear speakers?",
-    "audio_prompt": "Which correction should replace ““Did you bring the map”? asked Ruby. “Yes it is in my bag”, Sam replied.” in writing two lines of dialogue with clear speakers?",
-    "answers": [
-      {
-        "text": "“Did you bring the map”? asked Ruby. “Yes it is in my bag”, Sam replied.",
-        "is_correct": false
-      },
-      {
-        "text": "“Did you bring the map?” asked Ruby.\n“Yes, it is in my bag,” Sam replied.",
-        "is_correct": true
-      },
-      {
-        "text": "Did you bring the map? “asked Ruby” Yes, it is in my bag.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Write an original statement of dialogue and a separate action sentence about a character packing a bag. Explain the punctuation between them.",
+    "audio_prompt": "Write an original statement of dialogue and a separate action sentence about a character packing a bag. Explain the punctuation between them.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“I have everything.” Eden zipped the bag. The speech ends with a full stop, and the action begins a new sentence.",
+    "acceptance_note": "Require original speech and separate complete action, appropriate closing punctuation within quotation marks and new-sentence capital. Explanation distinguishes the action from a speech tag.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
     "explanation": {
-      "summary": "Correct quotation marks, punctuation and paragraphing make the change of speaker easy to follow.",
-      "hint": "Read the exchange aloud and check each speaker’s exact words and sentence boundary."
-    }
+      "summary": "“I have everything.” Eden zipped the bag. The speech ends with a full stop, and the action begins a new sentence.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA12-T-015",
@@ -1625,29 +2517,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Apply the skill to writing two lines of dialogue with clear speakers: what should you choose?",
-    "audio_prompt": "Apply the skill to writing two lines of dialogue with clear speakers: what should you choose?",
-    "answers": [
-      {
-        "text": "“Did you bring the map”? asked Ruby. “Yes it is in my bag”, Sam replied.",
-        "is_correct": false
-      },
-      {
-        "text": "Did you bring the map? “asked Ruby” Yes, it is in my bag.",
-        "is_correct": false
-      },
-      {
-        "text": "“Did you bring the map?” asked Ruby.\n“Yes, it is in my bag,” Sam replied.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Write one complete spoken sentence about a favourite place. Then insert a speech tag into that same sentence without changing its spoken words. Explain whether the continuation begins with a capital or lower-case letter.",
+    "audio_prompt": "Write one complete spoken sentence about a favourite place. Then insert a speech tag into that same sentence without changing its spoken words. Explain whether the continuation begins with a capital or lower-case letter.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“The shady bench is my favourite spot.”\n“The shady bench,” Layla said, “is my favourite spot.” Is is lower case because the same spoken sentence continues.",
+    "acceptance_note": "Require unchanged spoken words, a genuine interrupted sentence, two matching quote pairs, commas around the tag and correct continuation case. Accept a normal capital if the continuation begins with I or a proper name and the explanation identifies that reason.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
     "explanation": {
-      "summary": "Correct quotation marks, punctuation and paragraphing make the change of speaker easy to follow.",
-      "hint": "Read the exchange aloud and check each speaker’s exact words and sentence boundary."
-    }
+      "summary": "“The shady bench is my favourite spot.”\n“The shady bench,” Layla said, “is my favourite spot.” Is is lower case because the same spoken sentence continues.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA12-T-016",
@@ -1655,28 +2549,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA12",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Punctuating Dialogue",
-    "question": "Which final choice gives the clearest and most accurate result for writing two lines of dialogue with clear speakers?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for writing two lines of dialogue with clear speakers?",
-    "answers": [
-      {
-        "text": "“Did you bring the map?” asked Ruby.\n“Yes, it is in my bag,” Sam replied.",
-        "is_correct": true
-      },
-      {
-        "text": "“Did you bring the map”? asked Ruby. “Yes it is in my bag”, Sam replied.",
-        "is_correct": false
-      },
-      {
-        "text": "Did you bring the map? “asked Ruby” Yes, it is in my bag.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "punctuating_dialogue",
+    "question": "Write a three-turn conversation between two invented characters planning a model-building activity. Include one question, one excited exclamation and a third response. Show speaker changes clearly.",
+    "audio_prompt": "Write a three-turn conversation between two invented characters planning a model-building activity. Include one question, one excited exclamation and a third response. Show speaker changes clearly.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“Shall we build a castle?” Leo asked.\n“That sounds brilliant!” Anya replied.\n“I will collect the cardboard,” Leo said.",
+    "acceptance_note": "Require three meaningful original alternating turns with new paragraphs, a question and an exclamation correctly inside paired quotation marks, and a third response. Check speech-tag punctuation wherever tags are used. Accept consistent single or double quotation style.",
+    "response_instructions": "Write the actual dialogue and explanation on screen or paper, or dictate each punctuation mark and paragraph break using your usual support. An adult checks the completed work. Use consistent quotation marks; model answers use double marks.",
+    "completion_label": "My completed dialogue is ready for an adult to check.",
     "explanation": {
-      "summary": "Correct quotation marks, punctuation and paragraphing make the change of speaker easy to follow.",
-      "hint": "Read the exchange aloud and check each speaker’s exact words and sentence boundary."
-    }
+      "summary": "“Shall we build a castle?” Leo asked.\n“That sounds brilliant!” Anya replied.\n“I will collect the cardboard,” Leo said.",
+      "hint": "Check paired quotation marks, capitals, speech punctuation and speaker paragraphs."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]
