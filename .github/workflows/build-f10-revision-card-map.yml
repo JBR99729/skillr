@@ -15,8 +15,8 @@ jobs:
         run: |
           python3 - <<'PY'
           from pathlib import Path
-          from bs4 import BeautifulSoup
-          import json,re,html
+          from bs4 import BeautifulSoup, Tag
+          import json,re
 
           roots=[('foundation','Foundation')]+[(f'year{i}',f'Year {i}') for i in range(1,11)]
           subjects=['maths','science','english']
@@ -26,39 +26,64 @@ jobs:
           def clip(s,n):
               s=clean(s)
               return s if len(s)<=n else re.sub(r'\s+\S*$','',s[:n-1])+'…'
+          def text(el): return clean(el.get_text(' ',strip=True)) if el else ''
           def first_text(soup, selectors):
               for sel in selectors:
-                  el=soup.select_one(sel)
-                  if el:
-                      t=clean(el.get_text(' ',strip=True))
-                      if t: return t
+                  try: el=soup.select_one(sel)
+                  except Exception: el=None
+                  if text(el): return text(el)
+              return ''
+          def by_heading(soup, terms):
+              terms=[t.lower() for t in terms]
+              for h in soup.find_all(['summary','h2','h3','h4','strong']):
+                  ht=text(h).lower()
+                  if not ht or not any(t in ht for t in terms): continue
+                  container=h.find_parent(['details','section','article','div']) or h.parent
+                  if not container: continue
+                  # Prefer worked/example blocks or list items inside the matched section.
+                  for sel in ['.curriculum-worked-example','.worked-example','.example-card','.teacher-model','.model-card','article','li','p']:
+                      el=container.select_one(sel)
+                      if el and el is not h and text(el) and text(el)!=text(h): return text(el)
               return ''
           def pick_example(soup):
-              selectors=[
+              direct=first_text(soup,[
                 '#examples .curriculum-worked-example','#examples .worked-example',
                 '#examples .curriculum-detail-body article','#worked-examples article',
-                '.worked-example','.example-card','.curriculum-worked-example',
-                '#examples .curriculum-detail-body li','#guided-practice .curriculum-detail-body li',
-                '#assessment .curriculum-detail-body li'
-              ]
-              return first_text(soup,selectors)
-          def pick_remember(soup):
+                '.curriculum-worked-example','.worked-example','.example-card',
+                '.teacher-model','.model-card','[class*="worked-example"]','[class*="worked_example"]',
+                '[class*="teacher-model"]','[class*="teacher_model"]'
+              ])
+              if direct: return direct
+              headed=by_heading(soup,['worked example','solved example','teacher model','model it','example','guided practice','try it','apply it','questions and answers','practice and review'])
+              if headed: return headed
               return first_text(soup,[
+                '#examples .curriculum-detail-body li','#guided-practice .curriculum-detail-body li',
+                '#assessment .curriculum-detail-body li','#guided-practice li','#independent-practice li',
+                '#important-questions li','#assessment li','.guided-practice li','.practice li'
+              ])
+          def pick_remember(soup):
+              direct=first_text(soup,[
                 '#teaching .curriculum-detail-body p','#key-concept .curriculum-detail-body p',
                 '#learn .curriculum-detail-body li','#teaching-lesson .lesson-part p',
                 '.combined-lesson-content .lesson-part p','.curriculum-hero__lead',
-                '#prerequisites .curriculum-detail-body p'
+                '#prerequisites .curriculum-detail-body p','.learning-goal','.lesson-focus'
               ])
+              if direct: return direct
+              return by_heading(soup,['key concept','remember','learning goal','learn','focus','big idea','what you need to know','key idea'])
           def pick_mistake(soup):
-              return first_text(soup,[
+              direct=first_text(soup,[
                 '#misconceptions .curriculum-detail-body li','#common-mistakes li',
                 '.misconceptions li','.common-mistakes li','.review-hint',
-                '#assessment .review-hint'
+                '#assessment .review-hint','[class*="mistake"] li','[class*="misconception"] li'
               ])
+              if direct: return direct
+              return by_heading(soup,['common mistake','common misconception','mix-up','watch out','trap','don’t forget','dont forget'])
           def visual_selector(soup,subject):
               if subject not in ('maths','science'): return ''
-              for sel in ['#examples figure','#teaching figure','.math-concept-diagram','.science-diagram','figure','svg']:
-                  if soup.select_one(sel): return sel
+              for sel in ['#examples figure','#teaching figure','.math-concept-diagram','.science-diagram','.concept-diagram','.lesson-visual','figure','svg']:
+                  try:
+                      if soup.select_one(sel): return sel
+                  except Exception: pass
               return ''
 
           for root,label in roots:
@@ -66,43 +91,34 @@ jobs:
                   base=Path(root)/subject
                   if not base.exists(): continue
                   for p in sorted(base.glob('ac9*/index.html')):
-                      folder=p.parent.name
-                      code=folder.split('-',1)[0].upper()
+                      code=p.parent.name.split('-',1)[0].upper()
                       if not re.fullmatch(r'AC9[A-Z0-9]+',code): continue
                       soup=BeautifulSoup(p.read_text(errors='ignore'),'html.parser')
-                      remember=pick_remember(soup)
-                      example=pick_example(soup)
-                      mistake=pick_mistake(soup)
-                      vsel=visual_selector(soup,subject)
                       title=first_text(soup,['h1','.curriculum-hero h1']) or code
-                      if not remember: remember=title
-                      if not example:
-                          example=first_text(soup,['#guided-practice li','#independent-practice li','#important-questions li'])
-                      if not mistake:
-                          mistake='Check the exact wording, notation, units or evidence before choosing your final answer.'
-                      key=code
-                      data[key]={
+                      remember=pick_remember(soup) or title
+                      example=pick_example(soup)
+                      mistake=pick_mistake(soup) or 'Check the exact wording, notation, units or evidence before choosing your final answer.'
+                      vsel=visual_selector(soup,subject)
+                      data[code]={
                         'code':code,'year':label,'subject':subject,'title':clip(title,140),
                         'topicPath':'/'+p.parent.as_posix()+'/',
                         'remember':clip(remember,380),'example':clip(example,500),
                         'mistake':clip(mistake,300),'visualSelector':vsel
                       }
-                      report.append({
-                        'code':code,'year':label,'subject':subject,
-                        'remember':bool(remember),'example':bool(example),'mistake':bool(mistake),'visual':bool(vsel),
-                        'topicPath':'/'+p.parent.as_posix()+'/'
-                      })
+                      report.append({'code':code,'year':label,'subject':subject,'remember':bool(remember),'example':bool(example),'mistake':bool(mistake),'visual':bool(vsel),'topicPath':'/'+p.parent.as_posix()+'/'})
 
-          Path('assets/f10-revision-cards-data.js').write_text('window.SkillrF10RevisionCards='+json.dumps(data,ensure_ascii=False,separators=(',',':'))+';\n')
           counts={}
           for r in report:
               k=f"{r['year']} {r['subject']}"; c=counts.setdefault(k,{'codes':0,'examples':0,'visuals':0})
               c['codes']+=1; c['examples']+=int(r['example']); c['visuals']+=int(r['visual'])
-          summary={'totalCodes':len(report),'withExamples':sum(r['example'] for r in report),'mathsScienceWithVisual':sum(r['visual'] for r in report if r['subject'] in ('maths','science')),'byGroup':counts,'rows':report}
+          missing=[r for r in report if not r['example']]
+          summary={'totalCodes':len(report),'withExamples':sum(r['example'] for r in report),'missingExamples':len(missing),'mathsScienceWithVisual':sum(r['visual'] for r in report if r['subject'] in ('maths','science')),'byGroup':counts,'missingExampleRows':missing,'rows':report}
+          print(json.dumps({k:v for k,v in summary.items() if k not in ('rows','missingExampleRows')},indent=2))
+          print('MISSING_EXAMPLES',json.dumps(missing[:80],ensure_ascii=False))
+          Path('assets/f10-revision-cards-data.js').write_text('window.SkillrF10RevisionCards='+json.dumps(data,ensure_ascii=False,separators=(',',':'))+';\n')
           Path('reports/f10-revision-card-coverage.json').write_text(json.dumps(summary,indent=2,ensure_ascii=False))
           assert len(report)>500, f'Unexpectedly low F-10 topic count: {len(report)}'
-          assert sum(r['example'] for r in report) >= int(len(report)*0.90), 'Worked-example coverage below 90%'
-          print(json.dumps({k:v for k,v in summary.items() if k!='rows'},indent=2))
+          assert sum(r['example'] for r in report) >= int(len(report)*0.95), f"Worked-example coverage below 95%: {len(report)-len(missing)}/{len(report)}"
           PY
       - name: Commit generated content map
         run: |
