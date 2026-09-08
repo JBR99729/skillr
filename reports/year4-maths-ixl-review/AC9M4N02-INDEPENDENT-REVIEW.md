@@ -207,13 +207,15 @@ Khan Academy is a useful supplementary source across this first-five batch, not 
 
 | Reviewed resource | SHA256 |
 | --- | --- |
-| Topic Guide `year4/maths/ac9m4n02-explain-and-use-the-properties-of-odd-and-even-numbers/index.html` | `bdee83fef553eb519a5c37e857edbf714a1366c6d9c75d5f72eb4c46bbb1398a` |
-| Classroom View `year4/maths/ac9m4n02-explain-and-use-the-properties-of-odd-and-even-numbers/teacher-slides/index.html` | `cbf3cd15f683ed1c270a4ffa669f78a72a83828cef1630ee95fe456f9d9f0c45` |
+| Topic Guide `year4/maths/ac9m4n02-explain-and-use-the-properties-of-odd-and-even-numbers/index.html` | `c661be63e324e098e971e1b6928237e94ea3e5da00098874dd23f41c950e8004` |
+| Classroom View `year4/maths/ac9m4n02-explain-and-use-the-properties-of-odd-and-even-numbers/teacher-slides/index.html` | `40fb75e17d4055af52a4a8cc1d295b4e28f40da5d764a713ba8d706dee8482af` |
 | Worksheet page `quiz/year-4/math/ac9m4n02/worksheet/index.html` | `e0d88abbeaa27cae176fe72446332774fbadef704360298b37ec40495aea331f` |
 | Worksheet data `quiz/year-4/math/ac9m4n02/worksheet/worksheet-questions.js` | `ab79f4dcada1e17854af592da8129ab9541ee59ae4a896b90fa511106932ce53` |
 
 The six SVGs' sorted `[repository path, SHA256]` pairs, encoded as compact JSON with no whitespace, have aggregate SHA256 `146a21efdc5e10cfa9e237429355e435863ff846d2840aec6019cd9aeb99a1c7`.
 
 The Topic Guide's inaccurate fixed-slide-deck promise was corrected and rechecked: it now describes expanding Classroom View sections to project models and worked examples. All 64 assessment items, all six SVGs, all changed teaching mathematics, all eight written tasks and all four PDF pages pass substantive review. There are no unresolved content blockers.
+
+Compatibility correction reviewed after publication `a329adf8b480ad4385f42a2add8853900b277790`: the public QCAA reference now links to its [official v9 Mathematics HTML resource page](https://www.qcaa.qld.edu.au/p-10/aciq/version-9/learning-areas/p-10-mathematics), and the Classroom model section is labelled “Clean visual examples and worked thinking”. This reviewer independently opened the QCAA page and verified that it links to the Year 4 comparison and content-description resources. The complete file comparison against the published commit confirms that only the reference URL/label, section heading and final newline changed. Every mathematical example, question, explanation, SVG and worksheet source is unchanged. The refreshed resource hashes above cover this correction; the bank PASS and bank hash remain valid. Root must still confirm the repaired CI/release gates.
 
 Signed: `/root/reviewer_number`, independent content reviewer, 2026-09-08. Approval is for the reviewed source, content and artifact checkpoint. Root retains the explicit live HTML layout, activity functionality, review-aware publisher/ledger, release integrity and post-publication verification gates; this report does not claim those deployment checks have already happened.

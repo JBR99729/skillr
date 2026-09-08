@@ -163,6 +163,8 @@ Required resource corrections were applied and read back: the Topic/Classroom `1
 
 Release follow-up: the existing Classroom View `example-board` and `example-card` design containers were restored around the five actual reviewed worked examples. Cards use full-width rows for the place-value chart, headings remain in normal flow, and paragraph spacing is retained. Every visible word and calculation was compared before and after this bounded layout repair and is identical; all five worked-example texts still match the Topic Guide. The unchanged static topic validator passes all 23 Year 4 Maths pages. Browser layout verification remains a separate root-owned gate. A subsequent text-only correction accurately describes projecting and expanding Classroom View sections; the previous fixed-slide-deck instruction was removed. The How-to-use sentence also now names the actual Topic Guide → Classroom View → Homework → Practice → Test flow, using root-reviewed wording.
 
+CI compatibility follow-up: the Topic Guide and Classroom View now explicitly label the existing materials, charts/sliders and digital-pattern activities E1, E2 and E3 respectively. This numbering agrees with the official elaborations independently read above. The Topic Guide's QCAA reference now points to its official Mathematics resources landing page and accurately labels that destination; root confirmed the Year 4 comparison is available there. Exact comparison with the published base confirmed that only these labels, the reference URL/text and terminal newlines changed. Every mathematical explanation, question, answer and visual is unchanged; the bank approval remains valid.
+
 | Written worksheet item | Independent solution and verdict |
 | --- | --- |
 | W001 | PASS: 307, 3070, 30700; the 7 is worth 7, 70, 700. Drawn chart supplies constructed rather than selected evidence. |
@@ -191,8 +193,8 @@ One attempt to view the local Topic Guide in the cloud browser returned `ERR_BLO
 | Artifact | SHA256 |
 | --- | --- |
 | `assets/assessment-banks/year4/math/ac9m4n05.json` | `415772825c56946cb4426654d0e0f0fbbe39f4e264a5e1c6cdc3a9f81a262a44` |
-| `year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/index.html` | `d7935e7d216686e8f8ba4a29ff220eb0d56281814bd9cc8744e720d868248fac` |
-| `year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/teacher-slides/index.html` | `fb809ed086c137ba96188334c6fbe6f6931f8b7aaf48c39ac2a714b2c2d0b0f3` |
+| `year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/index.html` | `63de32f0f96ccd62b1766e840295a03acf737dcfd22042ac8a83568fe301ba4d` |
+| `year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/teacher-slides/index.html` | `931632b0fb435b0112b2141e5a1e3178b2f57d9aaf0cc7e0d85d3ce61fe117a1` |
 | `quiz/year-4/math/ac9m4n05/worksheet/index.html` | `c1eb3d9db25451a53fe7bfa2adbd684c45e0b11b9b195bb75b2945d654f31413` |
 | `quiz/year-4/math/ac9m4n05/worksheet/worksheet-questions.js` | `275d8af72581a1458455f3656e215bee48d946abac3246df286896e16847408e` |
 

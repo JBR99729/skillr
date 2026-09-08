@@ -147,10 +147,14 @@ Inspected exact PDF: `ac9m4n04-homework.pdf`, three pages, SHA256 `3f599826d78fc
 
 ### Inspected resource hashes
 
-- `year4/maths/ac9m4n04-count-by-fractions-including-mixed-numerals-locate-and/index.html` — SHA256 `27732d981942842b6a8e0346f2bb6d9b5d1587e896c056d6a638a744eef36964`
-- `year4/maths/ac9m4n04-count-by-fractions-including-mixed-numerals-locate-and/teacher-slides/index.html` — SHA256 `559e7e3a2be19988b535517ea04559434f02d6beac079d7777abc17bd162591d`
+- `year4/maths/ac9m4n04-count-by-fractions-including-mixed-numerals-locate-and/index.html` — SHA256 `ed418db5fca25a62490312b4b2714b9f784102a27cac8cddf2146e10abcec937`
+- `year4/maths/ac9m4n04-count-by-fractions-including-mixed-numerals-locate-and/teacher-slides/index.html` — SHA256 `51673dc81ef60d05461d44c7fd3ba0593fbe5826d2579d46bef54783abaa8ff9`
 - `quiz/year-4/math/ac9m4n04/worksheet/index.html` — SHA256 `accaf536b363536c2a29d2d5c5fd7d702be83bd31e2d60cead285fdbb4a2d923`
 - `quiz/year-4/math/ac9m4n04/worksheet/worksheet-questions.js` — SHA256 `7f84245abda6badb814defd2303433bd0d8327037313072f9371378e55d5ee1b`
+
+## Release compatibility re-review
+
+After published release `a329adf8b480`, the reviewer inspected the complete N04 Topic/Classroom diff. The only changes are elaboration markers from `E1.`-style text to bold `E1:`-style text, the Topic QCAA reference URL/label, and a final newline. Numbering and descriptive labels still match the official elaborations. Exact comparison after these transformations confirms that every mathematical statement, question, answer, explanation, SVG and other teaching content is unchanged. The [official QCAA v9 Mathematics landing page](https://www.qcaa.qld.edu.au/p-10/aciq/version-9/learning-areas/p-10-mathematics) was independently opened and confirms the new resource label; it includes the Year 4 v8.4/v9 comparator and Year 4 achievement-standard/content-description links. The current Topic/Classroom hashes above were refreshed. Substantive PASS is preserved; root owns the exact CI rerun and final live checks.
 
 ## Final release gate
 

@@ -155,10 +155,14 @@ Inspected exact PDF: `ac9m4n03-homework.pdf`, three pages, SHA256 `ed737e289698e
 
 ### Inspected resource hashes
 
-- `year4/maths/ac9m4n03-find-equivalent-representations-of-fractions-using-related/index.html` — SHA256 `123e7538505231933f35c2477684eb2a054e3e544925da5eb9d4a27f4328c7a1`
-- `year4/maths/ac9m4n03-find-equivalent-representations-of-fractions-using-related/teacher-slides/index.html` — SHA256 `cdcd432434fc3e72b1689c3d98f8906923fc10e3a71650a57e2234a357feb3d6`
+- `year4/maths/ac9m4n03-find-equivalent-representations-of-fractions-using-related/index.html` — SHA256 `137f3d63f7c13aee96c472d5f76cff26d543c613f0df3f3cd94a40a2d06f1d3b`
+- `year4/maths/ac9m4n03-find-equivalent-representations-of-fractions-using-related/teacher-slides/index.html` — SHA256 `c965504d1f853545755674c08c23e916170c80b500077129dfc17904059c3624`
 - `quiz/year-4/math/ac9m4n03/worksheet/index.html` — SHA256 `2bf8acd972baf1bf2de426018924882b084b966b34204972dc7a88a793c14b3a`
 - `quiz/year-4/math/ac9m4n03/worksheet/worksheet-questions.js` — SHA256 `a3a6c4092bd8d3cb7efd17e820b66eea2ae8483ac828e6d91ef520fb2fc78db7`
+
+## Release compatibility re-review
+
+After published release `a329adf8b480`, the reviewer inspected the complete N03 Topic/Classroom diff. The only changes are elaboration markers from `E1.`-style text to bold `E1:`-style text, the Topic QCAA reference URL/label, and a final newline. Numbering and descriptive labels still match the official elaborations. Exact comparison after these transformations confirms that every mathematical statement, question, answer, explanation, SVG and other teaching content is unchanged. The [official QCAA v9 Mathematics landing page](https://www.qcaa.qld.edu.au/p-10/aciq/version-9/learning-areas/p-10-mathematics) was independently opened and confirms the new resource label; it includes the Year 4 v8.4/v9 comparator and Year 4 achievement-standard/content-description links. The current Topic/Classroom hashes above were refreshed. Substantive PASS is preserved; root owns the exact CI rerun and final live checks.
 
 ## Final release gate
 

@@ -201,19 +201,21 @@ The supplementary report expressly corrects earlier preloaded hidden-help readin
 | Mixed notes and coins | P031–P036, P040; T010–T012; two teaching collection totals and W006 |
 | Reading money and measurement consistently | P037–P039; T013–T014; explicit spoken comparison model and W007 |
 
-Khan Academy was treated as a useful supplementary source across the first-five batch, not as a substitute for ACARA or a requirement to manufacture a separate comparison for each code. This review located a decimal-place-value article and decimal-naming lesson, but web retrieval supplied no lesson body and the reviewer's browser attempt failed during recovery. Those candidate pages are not represented as fully inspected Khan lessons. No N01 content conclusion depends on an unseen Khan explanation.
+Khan Academy was treated as a useful supplementary source across the first-five batch, not as a substitute for ACARA. The reviewer's initial web retrieval supplied no lesson body and its browser attempt failed during recovery. A subsequent researcher handoff records actual rendered inspection of the primary [Decimal place value review](https://www.khanacademy.org/math/cc-fifth-grade-math/imp-place-value-and-decimals/imp-decimal-place-value-intro/a/decimal-place-value-review) article. This reviewer read that handoff and independently checked its applicable example: 0.81 = 0.8 + 0.01 = 8/10 + 1/100. The chart through thousandths and a 0.009 embedded prompt exceed this code's boundary and were explicitly excluded. The article supports the reviewed place-value partitioning approach; no Khan practice submission or mastery is claimed. The rendered article inspection belongs to the named supplementary researcher, not to this reviewer.
 
 ## Final artifact checkpoint and decision
 
 | Reviewed resource | SHA256 |
 | --- | --- |
-| Topic Guide `year4/maths/ac9m4n01-and-extend-the-application-of-place-value-to-tenths-and/index.html` | `68ccaa6d75f898aaa14901b8e19b41c323bcfbcc8d7fc967d665dc3b32b5e902` |
-| Classroom View `year4/maths/ac9m4n01-and-extend-the-application-of-place-value-to-tenths-and/teacher-slides/index.html` | `6ae4d3f55228931cd3aa7a0f130bcf84a97605ab7a6df13e2c82906eafe40512` |
+| Topic Guide `year4/maths/ac9m4n01-and-extend-the-application-of-place-value-to-tenths-and/index.html` | `0c119d2f33316659d9f740210fae64d723ca849d3f79b8b78f566b4da793d17d` |
+| Classroom View `year4/maths/ac9m4n01-and-extend-the-application-of-place-value-to-tenths-and/teacher-slides/index.html` | `c962af35c419379b8ffa546383c2ba61ea5e39d6c920a58622eb3133e2af6fea` |
 | Worksheet page `quiz/year-4/math/ac9m4n01/worksheet/index.html` | `64c7cd5a1cc84ee38828f9ef1a63f1e162121769b4eb747d6111d00715eef3dc` |
 | Worksheet data `quiz/year-4/math/ac9m4n01/worksheet/worksheet-questions.js` | `eb01eff78d5757adc1857c8833a9a9af1f0d0d0c959713651a424c1ba88b1805` |
 
 The ten SVGs' sorted `[repository path, SHA256]` pairs, encoded as compact JSON with no whitespace, have aggregate SHA256 `aa436085c9dcdbbaa741d8e33c27c8b493967580636913dd76f9624663f635e9`. This checkpoint includes the corrected tenth-split diagram.
 
 The Topic Guide's inaccurate fixed-slide-deck promise was corrected and rechecked: it now describes expanding Classroom View sections to project models and worked examples. All 64 assessment items, all ten SVGs, all changed teaching mathematics, all eight written tasks and all four PDF pages pass substantive review. There are no unresolved content blockers.
+
+Compatibility correction reviewed after publication `a329adf8b480ad4385f42a2add8853900b277790`: the public QCAA reference now links to its [official v9 Mathematics HTML resource page](https://www.qcaa.qld.edu.au/p-10/aciq/version-9/learning-areas/p-10-mathematics), and the Classroom model section is labelled “Clean visual examples and worked thinking”. This reviewer independently opened the QCAA page and verified that it links to the Year 4 comparison and content-description resources. The complete file comparison against the published commit confirms that only the reference URL/label, section heading and final newline changed. Every mathematical example, question, explanation, SVG and worksheet source is unchanged. The refreshed resource hashes above cover this correction; the bank PASS and bank hash remain valid. Root must still confirm the repaired CI/release gates.
 
 Signed: `/root/reviewer_number`, independent content reviewer, 2026-09-08. Approval is for the reviewed source, content and artifact checkpoint. Root retains the explicit live HTML layout, activity functionality, review-aware publisher/ledger, release integrity and post-publication verification gates; this report does not claim those deployment checks have already happened.

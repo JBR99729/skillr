@@ -105,7 +105,7 @@ Root still owns: final independent evidence acceptance, review-aware publication
 | `assets/assessment-visuals/year4/math/ac9m4n05/p032-bar.svg` | `3b43a93821f9241af6b2d447f0efc820bb14b621b04778e9960a0a8e2d40b0ee` |
 | `assets/assessment-visuals/year4/math/ac9m4n05/p043-ribbon.svg` | `8213778b88fd419e9752320f46aaffcb8d9da9fd25a4cc737f6283333c645045` |
 | `assets/assessment-visuals/year4/math/ac9m4n05/t007-print.svg` | `8d4a0d1dafb026941570d979f6d480f023963117071fcfca01d7fa0d0217ee68` |
-| `year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/index.html` | `d7935e7d216686e8f8ba4a29ff220eb0d56281814bd9cc8744e720d868248fac` |
-| `year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/teacher-slides/index.html` | `fb809ed086c137ba96188334c6fbe6f6931f8b7aaf48c39ac2a714b2c2d0b0f3` |
+| `year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/index.html` | `63de32f0f96ccd62b1766e840295a03acf737dcfd22042ac8a83568fe301ba4d` |
+| `year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/teacher-slides/index.html` | `931632b0fb435b0112b2141e5a1e3178b2f57d9aaf0cc7e0d85d3ce61fe117a1` |
 | `quiz/year-4/math/ac9m4n05/worksheet/index.html` | `c1eb3d9db25451a53fe7bfa2adbd684c45e0b11b9b195bb75b2945d654f31413` |
 | `quiz/year-4/math/ac9m4n05/worksheet/worksheet-questions.js` | `275d8af72581a1458455f3656e215bee48d946abac3246df286896e16847408e` |
