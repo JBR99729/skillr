@@ -1,0 +1,87 @@
+name: Verify Year 4 Maths Complete
+
+on:
+  push:
+    branches:
+      - chore/verify-year4-maths-complete-20260908
+
+permissions:
+  contents: write
+
+jobs:
+  verify:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Verify recent edits and 48+16 banks
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import glob, json, os, subprocess
+
+          expected = [
+            *[f'AC9M4N0{i}' for i in range(1,10)],
+            'AC9M4A01','AC9M4A02',
+            *[f'AC9M4M0{i}' for i in range(1,5)],
+            'AC9M4SP01','AC9M4SP02','AC9M4SP03',
+            'AC9M4ST01','AC9M4ST02','AC9M4ST03',
+            'AC9M4P01','AC9M4P02'
+          ]
+
+          def collect(value):
+              out=[]
+              if isinstance(value,list):
+                  for x in value: out.extend(collect(x))
+              elif isinstance(value,dict):
+                  if isinstance(value.get('id'),str) and isinstance(value.get('question'),str):
+                      out.append(value)
+                  else:
+                      for x in value.values():
+                          if isinstance(x,(list,dict)): out.extend(collect(x))
+              return out
+
+          rows=[]
+          for code in expected:
+              path=f'assets/assessment-banks/year4/math/{code.lower()}.json'
+              if not os.path.exists(path): raise SystemExit(f'MISSING {path}')
+              with open(path,encoding='utf-8') as f: items=collect(json.load(f))
+              p=sum(1 for x in items if str(x.get('bank','')).lower()=='practice')
+              t=sum(1 for x in items if str(x.get('bank','')).lower()=='test')
+              if (p,t)!=(48,16): raise SystemExit(f'{code}: expected 48+16, found {p}+{t}')
+              date=subprocess.check_output(['git','log','-1','--format=%cs','--',path],text=True).strip()
+              if date != '2026-09-08': raise SystemExit(f'{code}: bank not edited on 2026-09-08; last edit {date or "UNKNOWN"}')
+              rows.append((code,p,t,date))
+
+          if len(rows)!=23: raise SystemExit(f'Expected 23 codes, found {len(rows)}')
+          print('PASS: all 23 Year 4 Maths banks were edited 2026-09-08 and contain 48 Practice + 16 Test')
+          for row in rows: print(f'{row[0]}\t{row[1]}+{row[2]}\t{row[3]}')
+          PY
+      - name: Reconcile verification ledger and generated status surfaces
+        shell: bash
+        run: |
+          set -euo pipefail
+          for code in \
+            AC9M4N01 AC9M4N02 AC9M4N03 AC9M4N04 AC9M4N05 AC9M4N06 AC9M4N07 AC9M4N08 AC9M4N09 \
+            AC9M4A01 AC9M4A02 \
+            AC9M4M01 AC9M4M02 AC9M4M03 AC9M4M04 \
+            AC9M4SP01 AC9M4SP02 AC9M4SP03 \
+            AC9M4ST01 AC9M4ST02 AC9M4ST03 \
+            AC9M4P01 AC9M4P02
+          do
+            node scripts/update_content_verification_status.mjs --record "$code" >/dev/null
+          done
+          node scripts/update_content_verification_status.mjs --check
+          grep -q '✓ Content Verified' year4/curriculum/maths/index.html
+          grep -q 'Year 4 Mathematics' editorial-standards.html
+      - name: Commit reconciled verification status
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git rm .github/workflows/verify-year4-maths-complete.yml
+          git add data/content-verification-status.json year4/curriculum/maths/index.html about.html editorial-standards.html llms.txt llms-full.txt ai-index.json
+          git commit -m 'chore: mark Year 4 Mathematics content verified'
+          git push
