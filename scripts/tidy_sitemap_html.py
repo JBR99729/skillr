@@ -87,6 +87,10 @@ def main() -> None:
     blocks: list[str] = []
     blocks.append(section("Start here", [
         link("/", "Foundation to Year 10 learning resources", required=True),
+        link("/learn/", "Learn by year", required=True),
+        link("/teach/", "Teach by year", required=True),
+        link("/products/", "Products and downloads", required=True),
+        link("/homeschooling-australia/", "Homeschooling Australia planner and progress record", required=True),
         link("/worksheets/", "Free worksheets and homework", required=True),
         link("/blogs/", "Australian Curriculum guides and learning articles", required=True),
         link("/updates.html", "Latest SkillrHub updates", required=True),

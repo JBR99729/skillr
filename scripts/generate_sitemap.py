@@ -2,6 +2,7 @@
 """Generate crawl-efficient XML sitemap index + human-readable sitemap."""
 from __future__ import annotations
 import html,json,re,subprocess
+import xml.etree.ElementTree as ET
 from collections import defaultdict
 from datetime import datetime
 from html.parser import HTMLParser
@@ -159,13 +160,30 @@ def today_iso():
  return datetime.now(ZoneInfo("Australia/Sydney")).date().isoformat()
 def git_dates():
  dates={};dirty=set()
+ # A shallow boundary looks like every file was newly added. Its commit date
+ # is not evidence of a page update: retain the previously published date.
+ previous={}
+ for key in ["site","foundation",*[f"year{i}" for i in range(1,11)],"practice","worksheets"]:
+  sitemap=ROOT/f"sitemap-{key}.xml"
+  if not sitemap.exists():continue
+  for node in ET.parse(sitemap).getroot().findall("{*}url"):
+   loc=node.find("{*}loc");mod=node.find("{*}lastmod")
+   if loc is None or mod is None or not loc.text or not mod.text:continue
+   path=unquote(urlparse(loc.text).path).lstrip("/")
+   if not path or path.endswith("/"):path+="index.html"
+   previous.setdefault(path,mod.text)
  try:
-  hist=subprocess.check_output(["git","log","--format=@@%cs","--name-only","--diff-filter=ACMR"],cwd=ROOT,text=True); current=today_iso()
+  shallow_path=Path(subprocess.check_output(["git","rev-parse","--git-path","shallow"],cwd=ROOT,text=True).strip())
+  if not shallow_path.is_absolute():shallow_path=ROOT/shallow_path
+  boundaries=set(shallow_path.read_text().splitlines()) if shallow_path.exists() else set()
+  hist=subprocess.check_output(["git","log","--format=@@%H %cs","--name-only","--diff-filter=ACMR"],cwd=ROOT,text=True); current=None
   for line in hist.splitlines():
-   if line.startswith("@@"):current=line[2:]
-   elif line and line not in dates:dates[line]=current
+   if line.startswith("@@"):
+    sha,day=line[2:].split();current=None if sha in boundaries else day
+   elif line and current and line not in dates:dates[line]=current
   for cmd in (["git","diff","--name-only"],["git","diff","--cached","--name-only"],["git","ls-files","--others","--exclude-standard"]):dirty.update(subprocess.check_output(cmd,cwd=ROOT,text=True).splitlines())
  except (subprocess.CalledProcessError,FileNotFoundError):pass
+ for path,day in previous.items():dates.setdefault(path,day)
  return dates,dirty
 def modified(path,dates,dirty):return today_iso() if path.as_posix() in dirty else dates.get(path.as_posix(),today_iso())
 def bucket(url):
