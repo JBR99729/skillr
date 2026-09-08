@@ -55,12 +55,16 @@ class MainBoundary(HTMLParser):
         self.close = None
         self.heading_end = None
         self.hero_close = None
+        self.intro_end = None
+        self.in_intro = False
         self.canonical = None
         self.refresh = None
         self.feed(source)
 
     def handle_starttag(self, tag, attrs):
         attrs = dict(attrs)
+        if tag == 'p' and 'curriculum-hero__lead' in attrs.get('class', '').split():
+            self.in_intro = True
         if tag == "link" and "canonical" in attrs.get("rel", "").lower().split():
             self.canonical = attrs.get("href")
         if tag == "meta" and attrs.get("http-equiv", "").lower() == "refresh":
@@ -69,6 +73,9 @@ class MainBoundary(HTMLParser):
     def handle_endtag(self, tag):
         line, column = self.getpos()
         point = self.line_offsets[line - 1] + column
+        if tag == 'p' and self.in_intro:
+            self.intro_end = self.source.index('>', point) + 1
+            self.in_intro = False
         if tag == "main" and self.close is None:
             self.close = point
         if tag == "h1" and self.heading_end is None:
@@ -147,7 +154,41 @@ def topic_sources(unit):
     raise ValueError(f"Topic redirect loop for {unit['code']}")
 
 
-def section(code, videos):
+def learning_links(source):
+    ids = set(re.findall(r'\bid=["\']([^"\']+)', source))
+    hrefs = re.findall(r'\bhref=["\']([^"\']+)', source)
+    def target(names, suffix=None):
+        for name in names:
+            if name in ids:
+                return '#' + name
+        return next((html.unescape(h) for h in hrefs if suffix and h.endswith(suffix)), None)
+    return {
+        'lesson': target(['learn', 'topic-guide']) or '#skillr-written-lesson',
+        'guided': target(['guided-practice'], '/practice/'),
+        'practice': target(['independent-practice'], '/practice/'),
+        'test': target([], '/test/'),
+    }
+
+
+def quick_learning(source, has_video):
+    links = learning_links(source)
+    items = [('lesson', '📖 Read the SkillrHub lesson')]
+    if has_video:
+        links['video'] = '#topic-videos'
+        items.append(('video', '🎥 Watch the optional video lesson'))
+    items += [('practice', "📝 Practise what you've learnt"), ('test', '✅ Test your understanding')]
+    navigation = ''.join(f'<li><a href="{html.escape(links[key], quote=True)}">{label}</a></li>'
+                         for key, label in items if links.get(key))
+    teaser = ('<aside class="skillr-video-shortcut"><strong>▶ Prefer learning by watching?</strong>'
+              '<p>Watch a carefully selected short optional lesson to reinforce the SkillrHub explanation. '
+              '<a href="#topic-videos">Jump to Video</a></p></aside>') if has_video else ''
+    return (SHORTCUT_START + '<nav class="skillr-quick-learning" aria-label="Quick Learning">'
+            '<h2>Quick Learning</h2><ul>' + navigation + '</ul>'
+            '<p>Estimated lesson time: 10–20 minutes. Work at your own pace.</p></nav>'
+            + teaser + '<span id="skillr-written-lesson"></span>' + SHORTCUT_END)
+
+
+def section(code, videos, source=''):
     esc = html.escape
     cards = []
     for index, video in enumerate(videos):
@@ -192,13 +233,21 @@ def section(code, videos):
             'You can continue with the written lesson and practice resources.</p></details>'
         )
     return (START + '\n<details class="curriculum-topic-section skillr-topic-videos" id="topic-videos">'
-            '<summary><strong>Watch an explanation</strong></summary><div class="curriculum-detail-body">'
-            '<p id="skillr-video-explanation" tabindex="-1">Optional videos to support this lesson. Choose an explanation, then try the short task. '
-            'The written lesson and practice resources also work without video.</p>'
+            '<summary><strong>🎥 Optional Video Lesson</strong></summary><div class="curriculum-detail-body">'
+            '<p id="skillr-video-explanation" tabindex="-1">The SkillrHub lesson remains the primary learning resource. '
+            'This optional video reinforces the explanation; you can complete the lesson and practice without watching.</p>'
             '<p><a href="#skillr-written-lesson">Back to the lesson</a></p>'
+            '<div class="skillr-video-prompts"><p><strong>Before you watch:</strong></p><ul>'
+            '<li>Pause after each worked example.</li><li>Try the examples yourself.</li>'
+            '<li>Return to the SkillrHub lesson before continuing.</li></ul></div>'
             + "".join(cards) +
+            '<nav class="skillr-video-prompts" aria-label="After the video"><p><strong>After you watch:</strong></p><ul>'
+            + ''.join(f'<li><a href="{esc(learning_links(source)[key], quote=True)}">{label}</a></li>'
+                      for key, label in [('guided', 'Continue to Guided Practice'),
+                                         ('practice', 'Independent Practice'), ('test', 'Topic Test')]
+                      if learning_links(source)[key]) + '</ul></nav>'
             '<details class="skillr-video-notice"><summary>About these videos</summary>'
-            '<p>These videos are provided by independent creators and played through YouTube. '
+            '<p>Videos are curated from trusted independent educational creators and played through YouTube. '
             'Rights remain with their respective owners. Inclusion does not imply that a creator or YouTube endorses SkillrHub.</p>'
             '<p>YouTube’s <a href="https://www.youtube.com/static?template=terms" target="_blank" rel="noopener noreferrer">terms</a> '
             'and <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">privacy policy</a> '
@@ -226,9 +275,9 @@ def without_owned_block(source):
     return source.replace(STYLE, "")
 
 
-def update_source(source, block):
+def update_source(source, block, include_quick=False):
     clean = without_owned_block(source)
-    if not block:
+    if not block and not include_quick:
         return clean
     source = remove_marked_block(source, SHORTCUT_START, SHORTCUT_END)
     if source.count(START) == 1:
@@ -242,10 +291,10 @@ def update_source(source, block):
             raise ValueError("No safe insertion point; lesson left untouched")
         result = clean[:point] + block + clean[point:]
     boundary = MainBoundary(result)
-    shortcut_point = boundary.hero_close if boundary.hero_close is not None else boundary.heading_end
+    shortcut_point = boundary.intro_end or boundary.hero_close or boundary.heading_end
     if shortcut_point is None:
         raise ValueError("No lesson heading for video shortcut; lesson left untouched")
-    result = result[:shortcut_point] + SHORTCUT + result[shortcut_point:]
+    result = result[:shortcut_point] + quick_learning(clean, bool(block)) + result[shortcut_point:]
     if STYLE not in result:
         if result.count("</head>") != 1:
             raise ValueError("Expected one head; lesson left untouched")
@@ -270,7 +319,7 @@ def main():
             if cleaned != alias_source:
                 outputs.append((alias, cleaned))
         path, source = sources[-1]
-        result = update_source(source, section(code, videos[code]) if videos[code] else "")
+        result = update_source(source, section(code, videos[code], source) if videos[code] else "", include_quick=True)
         if source != result:
             outputs.append((path, result))
     # Validate the entire input and all proposed output before the first write.

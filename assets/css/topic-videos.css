@@ -1,4 +1,12 @@
 /* Optional video resources and their supporting in-page navigation. */
+.skillr-quick-learning { margin: 1rem 0; padding: 1rem; border: 1px solid #cddbe8; border-radius: .65rem; background: #eef5fb; color: #17334d; font-size: 1rem; line-height: 1.6; }
+.skillr-quick-learning h2 { margin: 0 0 .5rem; font-size: 1.2rem; }
+.skillr-quick-learning ul { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; padding: 0; margin: 0; list-style: none; }
+.skillr-quick-learning a { display: inline-block; padding: .35rem 0; color: #0756a4; text-decoration: underline; }
+.skillr-quick-learning a:focus-visible { outline: 3px solid #0756a4; outline-offset: 4px; }
+.skillr-quick-learning p, .skillr-video-shortcut p { margin: .5rem 0 0; }
+.skillr-video-prompts { line-height: 1.6; }
+#topic-videos { scroll-margin-top: 6rem; }
 .skillr-video-shortcut { display: flex; flex-wrap: wrap; align-items: baseline; gap: .25rem .5rem; margin: .8rem 0 0; font-size: .95rem; line-height: 1.6; }
 .skillr-video-shortcut a { color: #0756a4; font-weight: 650; text-decoration: underline; text-underline-offset: .15em; }
 #skillr-written-lesson, #skillr-video-explanation { scroll-margin-top: 1.5rem; }
@@ -18,5 +26,5 @@
 .skillr-video-notice { border-top: 1px solid #cddbe8; margin-top: 1rem; padding-top: .85rem; font-size: .9rem; }
 .skillr-video-notice > summary { cursor: pointer; font-weight: 600; }
 @media print {
-  .skillr-topic-videos, .skillr-video-shortcut { display: none !important; }
+  .skillr-topic-videos, .skillr-video-shortcut, .skillr-quick-learning { display: none !important; }
 }
