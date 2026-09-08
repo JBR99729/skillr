@@ -1,0 +1,114 @@
+name: Build F-10 revision-card content map
+on: push
+permissions:
+  contents: write
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - run: pip install beautifulsoup4
+      - name: Build content map and coverage report
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from bs4 import BeautifulSoup
+          import json,re,html
+
+          roots=[('foundation','Foundation')]+[(f'year{i}',f'Year {i}') for i in range(1,11)]
+          subjects=['maths','science','english']
+          data={}; report=[]
+
+          def clean(s): return re.sub(r'\s+',' ',s or '').strip()
+          def clip(s,n):
+              s=clean(s)
+              return s if len(s)<=n else re.sub(r'\s+\S*$','',s[:n-1])+'…'
+          def first_text(soup, selectors):
+              for sel in selectors:
+                  el=soup.select_one(sel)
+                  if el:
+                      t=clean(el.get_text(' ',strip=True))
+                      if t: return t
+              return ''
+          def pick_example(soup):
+              selectors=[
+                '#examples .curriculum-worked-example','#examples .worked-example',
+                '#examples .curriculum-detail-body article','#worked-examples article',
+                '.worked-example','.example-card','.curriculum-worked-example',
+                '#examples .curriculum-detail-body li','#guided-practice .curriculum-detail-body li',
+                '#assessment .curriculum-detail-body li'
+              ]
+              return first_text(soup,selectors)
+          def pick_remember(soup):
+              return first_text(soup,[
+                '#teaching .curriculum-detail-body p','#key-concept .curriculum-detail-body p',
+                '#learn .curriculum-detail-body li','#teaching-lesson .lesson-part p',
+                '.combined-lesson-content .lesson-part p','.curriculum-hero__lead',
+                '#prerequisites .curriculum-detail-body p'
+              ])
+          def pick_mistake(soup):
+              return first_text(soup,[
+                '#misconceptions .curriculum-detail-body li','#common-mistakes li',
+                '.misconceptions li','.common-mistakes li','.review-hint',
+                '#assessment .review-hint'
+              ])
+          def visual_selector(soup,subject):
+              if subject not in ('maths','science'): return ''
+              for sel in ['#examples figure','#teaching figure','.math-concept-diagram','.science-diagram','figure','svg']:
+                  if soup.select_one(sel): return sel
+              return ''
+
+          for root,label in roots:
+              for subject in subjects:
+                  base=Path(root)/subject
+                  if not base.exists(): continue
+                  for p in sorted(base.glob('ac9*/index.html')):
+                      folder=p.parent.name
+                      code=folder.split('-',1)[0].upper()
+                      if not re.fullmatch(r'AC9[A-Z0-9]+',code): continue
+                      soup=BeautifulSoup(p.read_text(errors='ignore'),'html.parser')
+                      remember=pick_remember(soup)
+                      example=pick_example(soup)
+                      mistake=pick_mistake(soup)
+                      vsel=visual_selector(soup,subject)
+                      title=first_text(soup,['h1','.curriculum-hero h1']) or code
+                      if not remember: remember=title
+                      if not example:
+                          example=first_text(soup,['#guided-practice li','#independent-practice li','#important-questions li'])
+                      if not mistake:
+                          mistake='Check the exact wording, notation, units or evidence before choosing your final answer.'
+                      key=code
+                      data[key]={
+                        'code':code,'year':label,'subject':subject,'title':clip(title,140),
+                        'topicPath':'/'+p.parent.as_posix()+'/',
+                        'remember':clip(remember,380),'example':clip(example,500),
+                        'mistake':clip(mistake,300),'visualSelector':vsel
+                      }
+                      report.append({
+                        'code':code,'year':label,'subject':subject,
+                        'remember':bool(remember),'example':bool(example),'mistake':bool(mistake),'visual':bool(vsel),
+                        'topicPath':'/'+p.parent.as_posix()+'/'
+                      })
+
+          Path('assets/f10-revision-cards-data.js').write_text('window.SkillrF10RevisionCards='+json.dumps(data,ensure_ascii=False,separators=(',',':'))+';\n')
+          counts={}
+          for r in report:
+              k=f"{r['year']} {r['subject']}"; c=counts.setdefault(k,{'codes':0,'examples':0,'visuals':0})
+              c['codes']+=1; c['examples']+=int(r['example']); c['visuals']+=int(r['visual'])
+          summary={'totalCodes':len(report),'withExamples':sum(r['example'] for r in report),'mathsScienceWithVisual':sum(r['visual'] for r in report if r['subject'] in ('maths','science')),'byGroup':counts,'rows':report}
+          Path('reports/f10-revision-card-coverage.json').write_text(json.dumps(summary,indent=2,ensure_ascii=False))
+          assert len(report)>500, f'Unexpectedly low F-10 topic count: {len(report)}'
+          assert sum(r['example'] for r in report) >= int(len(report)*0.90), 'Worked-example coverage below 90%'
+          print(json.dumps({k:v for k,v in summary.items() if k!='rows'},indent=2))
+          PY
+      - name: Commit generated content map
+        run: |
+          rm .github/workflows/build-f10-revision-card-map.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/f10-revision-cards-data.js reports/f10-revision-card-coverage.json .github/workflows/build-f10-revision-card-map.yml
+          git commit -m 'content: generate F-10 revision-card content map'
+          git push origin HEAD:${{ github.ref_name }}
