@@ -101,7 +101,7 @@ Inspected all 4 PDF page PNGs at full readable size: pages 1–3 contain all 8 p
 | `assets/assessment-banks/year4/math/ac9m4p02.json` | `4bf54bf3ee96f92a05d2afc1a68e11c55a21a25bbb61dcc2267d97ba1e1aa663` |
 | `year4/maths/ac9m4p02-conduct-repeated-chance-experiments-to-observe-relationships/index.html` | `b01f5510f7b86c4eb9c609aa760105f69352e13aaed7fc631a16ba455eda4cbb` |
 | `year4/maths/ac9m4p02-conduct-repeated-chance-experiments-to-observe-relationships/teacher-slides/index.html` | `ec617723b994ec120b37f904baf50e2f59bb467f31459ed3005d8490ab6bb97f` |
-| `quiz/year-4/math/ac9m4p02/worksheet/index.html` | `49e278622adaa9415601fd92754cda26268df738165a2d3192854bd252d9aa23` |
+| `quiz/year-4/math/ac9m4p02/worksheet/index.html` | `a8ff84d076028ff1b77065fac8c946122140acb91f44a52cb8f68f1811f6f119` |
 | `quiz/year-4/math/ac9m4p02/worksheet/worksheet-questions.js` | `028f6ffe88f63652ab9eb655819d254efe92c549ba842c0fc5a955578d214304` |
 | `assets/assessment-visuals/year4/math/ac9m4p02.svg` | `51a6466b096799201af6fd940320af486d8934a102d3823803083a046e837d4c` |
 | QA PDF `ac9m4p02.pdf` (4 pages) | `1dd325483a65dc2961bdcf70f5d089ddc965f56ae28f77694ccb4ea3ba885754` |
@@ -111,3 +111,7 @@ Inspected all 4 PDF page PNGs at full readable size: pages 1–3 contain all 8 p
 IXL worked-example/progression and Khan actual readable lesson comparison are separate root-owned evidence. The official ACARA source was directly retrieved and all elaborations mapped, but this reviewer has not observed IXL/Khan full lessons or production/browser behavior. Preserve source HOLD and leave the year-level Content Verified badge off until its full requirements are actually met. Root owns review-aware publication, full-tree integrity, runtime checks, deployment and live verification. Any subsequent content change invalidates the affected hash and requires recheck.
 
 Post-integration recheck: worksheet wrapper PDF cache key now requests v18.4; source questions and PDF bytes unchanged. Wrapper hash above refreshed after reading this cache-only change.
+
+Worksheet preservation recheck: authored body marker and fresh guardedrenderer load added; all authored text, questionbank and PDFbytes unchanged. Final wrapper hash refreshed. See YEAR4-AUTHORED-WORKSHEET-RUNTIME-REGRESSION.md.
+
+Visual-helper wrapper recheck: explicit fresh guarded helper prevents late genericmodel injection; worksheettext/bank/PDFbytes remain unchanged. Final wrapper hash refreshed.

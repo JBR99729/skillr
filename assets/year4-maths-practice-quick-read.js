@@ -48,7 +48,13 @@
 
     // Reviewed preparation is authored in the activity HTML. Keep its approved
     // model, explanation and response instructions when the legacy data loads.
-    if (reviewedPreparation && card.contains(reviewedPreparation)) {
+    if (reviewedPreparation) {
+      // The shared Practice initializer removes legacy quick reads. Reattach
+      // this same authored node if that cleanup detached it; never rebuild it.
+      if (!card.contains(reviewedPreparation)) {
+        const summary = card.querySelector(".quiz-summary");
+        summary ? card.insertBefore(reviewedPreparation, summary) : card.appendChild(reviewedPreparation);
+      }
       const intro = card.querySelector(".intro-text");
       if (intro) intro.textContent = mode === "test"
         ? "Review the model and worked example, then take the Test."
@@ -87,6 +93,10 @@
     return true;
   }
 
+  // Run after the shared initializer as well as now, including cached runtimes.
+  if (reviewedPreparation && document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", apply, { once: true });
+  }
   if (apply()) return;
   const observer = new MutationObserver(() => { if (apply()) observer.disconnect(); });
   observer.observe(document.body || document.documentElement, { childList: true, subtree: true });

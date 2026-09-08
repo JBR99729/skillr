@@ -24,3 +24,15 @@ Reviewer: sweep_curriculum_sources, independent of root integration author. Date
 ## Artifact identities
 
 Exact candidate integration files are enumerated in FINAL-EIGHT-INDEPENDENT-INTEGRATION-HASHES.json. Full 23 source/published counts and resource/ledger status are recorded in YEAR4-ALL-23-INDEPENDENT-INVENTORY.json. No browser, remote write or publication was performed by this reviewer. Any subsequent content/integration mutation requires comparison against these hashes and a focused recheck.
+
+## Subsequent live-discovered correction
+
+Static integration checks missed runtime removal of authored preparation. FINAL-EIGHT-PREPARATION-RUNTIME-REGRESSION.md records the reproduced defect and final Year4-local helper correction. The initial shared-runtime patch is superseded; final runtime/bootstrap bytes equal commit48990. The final helper restores the identical authored DOM node after shared cleanup, preserving one unchanged guide on all16activities. The integration hash manifest includes final helper/wrapper hashes and unchanged runtime/bootstrap identities. No canonical bank content changed.
+
+## Subsequent authored worksheet correction
+
+Live inspection revealed a late legacy renderer overwriting worksheet bodies, missed by earlier static/PDF checks. YEAR4-AUTHORED-WORKSHEET-RUNTIME-REGRESSION.md documents reproduction and25passingcases for the final23pageguard/explicitload fix. The integration hash manifest now contains all23finalworksheet wrappers and the guardedrenderer.
+
+## Subsequent generic visual-layer correction
+
+Live inspection exposed a late generic-clock injection, missed by earlier static checks. YEAR4-AUTHORED-VISUAL-LAYER-REGRESSION.md records72passingcases for the final69resource guard/load fix and combined earlierregression reruns. The wrapper stillappendscachedv1, but its executionreturns through the loadedflag. The finalintegrationmanifest includes all69resource wrappers and the guardedhelper.

@@ -10,6 +10,12 @@
   const slideMatch = path.match(/^\/worksheets\/(foundation|year\d+)\/(maths|science|english)\/teacher-slides\/live\.html$/i);
   if (!topicMatch && !quizMatch && !slideMatch) return;
 
+  // Reviewed Year 4 resources already contain their topic-specific models.
+  // Do not add a second model from the legacy curriculum data.
+  if (quizMatch?.[1]?.toLowerCase() === "year-4" && /^(math|maths)$/i.test(quizMatch[2]) &&
+      (document.querySelector('[data-skillr-authored-preparation="true"]') ||
+       document.body?.getAttribute("data-skillr-authored-worksheet") === "true")) return;
+
   const normaliseSubject = (value) => value === "math" ? "maths" : String(value || "").toLowerCase();
   const subject = normaliseSubject(topicMatch?.[2] || quizMatch?.[2] || slideMatch?.[2]);
   const code = (topicMatch?.[3] || quizMatch?.[3] || new URLSearchParams(location.search).get("code") || "").toUpperCase();

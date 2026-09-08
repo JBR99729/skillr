@@ -585,5 +585,15 @@
       "item": "ac9m4p02-t-013",
       "status": "PASS"
     }
-  ]
+  ],
+  "preparationRegressionCorrection": {
+    "at": "2026-09-08T10:44:03.145553+00:00",
+    "priorOmission": "Original80cases did not assert guide survival; root live inspection discovered a real defect.",
+    "report": "FINAL-EIGHT-PREPARATION-RUNTIME-REGRESSION.json",
+    "finalApproach": "Year4-local helper restores same authored node; runtime/bootstrap exact48990 baseline. Earlier sharedruntime patch superseded.",
+    "markingRerun": "80/80 PASS against final unmodified shared runtime",
+    "runtimeSha256": "cec2900af4c21d950dd97b7b21e981abc95f3c2375ba69e15397b07ef32d33a5",
+    "bootstrapSha256": "d4b3615c1cba96dbd326c1c24b055e8293ef71a6f7a16b38c9285b1906ab78a6",
+    "helperSha256": "4a5f210d429804531d0d25297c3ce456accf9768a63f64d906283dc9a9fef6e3"
+  }
 }
