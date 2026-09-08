@@ -1,0 +1,56 @@
+{
+  "code": "AC9S4U04",
+  "source_url": "https://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/export/MRAC/2024/04/LA/SCI.jsonld",
+  "source_sha256": "50c24e93a6b099111d058cf296022f6575dc4d92592b3406440e5831bf56bd53",
+  "statements": [
+    {
+      "code": "AC9S4U04",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/785e8381-c83a-48f7-bc1f-62a8a84d4d0f",
+      "wording": "examine the properties of natural and made materials including fibres, metals, glass and plastics and consider how these properties influence their use"
+    },
+    {
+      "code": "AC9S4U04_E1",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/6e5b4b62-e2a4-4572-b10d-55d8c48ab373",
+      "wording": "identifying and naming materials in the classroom, and grouping objects made of similar materials or combinations of materials"
+    },
+    {
+      "code": "AC9S4U04_E2",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/09298475-c050-456e-b7b2-e8edffa3e1b2",
+      "wording": "exploring vocabulary for describing properties; observing different fibres, metals, glass and plastics; and using appropriate terms to describe, compare and contrast their properties"
+    },
+    {
+      "code": "AC9S4U04_E3",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/3f4956c6-a725-45bf-bb9c-2287e6d4f7a7",
+      "wording": "investigating familiar objects, such as shoes, drink containers or backpacks, examining the combination of materials from which they are made and suggesting reasons for those combinations based on properties of materials"
+    },
+    {
+      "code": "AC9S4U04_E4",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/425b51aa-01ec-4498-b12c-855061e1b388",
+      "wording": "considering how First Nations Australians use materials for different purposes, such as tools, clothing and shelter, based on their properties"
+    },
+    {
+      "code": "AC9S4U04_E5",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/91345c0c-c938-4545-bf64-b105611d2acf",
+      "wording": "designing, building and testing an object or structure for a specific purpose, such as a tent, lunchbox or bird feeder"
+    },
+    {
+      "code": "AC9S4U04_E6",
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/6aa2c58f-0915-4df7-8456-e9d5034b0cca",
+      "wording": "investigating which materials can be recycled and researching alternatives for materials such as single use plastics"
+    }
+  ],
+  "primary_background": [
+    {
+      "url": "https://www.australiancurriculum.edu.au/support-resources/background-information/science_teacher_background_information_AC9S4U04_E4",
+      "observed": "Exact descriptor, six-elaboration context and attributed Yir Yoront lawyer-cane shelter ties example. Scientific property links authored in original language; no cultural designs copied."
+    },
+    {
+      "url": "https://www.detsi.qld.gov.au/our-department/news-media/down-to-earth/dos-donts-recycling",
+      "observed": "Recycling guidance calls for checking local collection rules."
+    },
+    {
+      "url": "https://primaryconnections.org.au/teaching-sequences/year-4/packaging-pioneers",
+      "observed": "Primary Year4 material testing and property-to-purpose design sequence; not used as a question source."
+    }
+  ]
+}

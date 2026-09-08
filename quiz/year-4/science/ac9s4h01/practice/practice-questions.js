@@ -21,17 +21,16 @@ window.skillrPracticeQuestions = [
       "I wanted the water to be warmer",
       "Everyone knows black is best"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Scientific evidence is based on observations or measurements that relate to the question.\nHint: Look for measured data.",
     "structuredExplanation": {
       "summary": "Scientific evidence is based on observations or measurements that relate to the question.",
       "hint": "Look for measured data."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-002",
@@ -40,8 +39,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Which part of an explanation is the claim?",
-    "audioPrompt": "Which part of an explanation is the claim?",
+    "question": "A report asks which of two materials keeps ice frozen longer. Which sentence is its claim?",
+    "audioPrompt": "A report asks which of two materials keeps ice frozen longer. Which sentence is its claim?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -49,22 +48,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A random opinion about the equipment",
-      "A list of favourite colours",
-      "A guess with no link to data",
-      "The answer to the investigation question"
+      "We used equal-sized ice cubes",
+      "We checked each cube every two minutes",
+      "The table lists melting times",
+      "The wrapped ice lasted longer in our test"
     ],
-    "correct": 3,
-    "explanation": "A claim states the answer or conclusion being explained.\nHint: What is being argued?",
-    "structuredExplanation": {
-      "summary": "A claim states the answer or conclusion being explained.",
-      "hint": "What is being argued?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The claim answers the investigation question. The method describes what was done; results provide the observations used to support the claim.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "The claim answers the investigation question. The method describes what was done; results provide the observations used to support the claim.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-003",
@@ -73,8 +71,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Which part of an explanation is reasoning?",
-    "audioPrompt": "Which part of an explanation is reasoning?",
+    "question": "A learner writes: Both cups began at 50°C. After ten minutes A was 42°C and B was 35°C. Which sentence explains the comparison?",
+    "audioPrompt": "A learner writes: Both cups began at 50°C. After ten minutes A was 42°C and B was 35°C. Which sentence explains the comparison?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -82,22 +80,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A number copied with no explanation",
-      "A personal preference",
-      "The link that shows how evidence supports the claim",
-      "The colour of the graph paper"
+      "Cup A was on the left of the table",
+      "The two final readings were 42°C and 35°C",
+      "Cup A lost less heat because its temperature fell by less under the same conditions",
+      "The test lasted ten minutes"
     ],
-    "correct": 2,
-    "explanation": "Reasoning explains why the evidence supports the claim.\nHint: Evidence needs a link.",
-    "structuredExplanation": {
-      "summary": "Reasoning explains why the evidence supports the claim.",
-      "hint": "Evidence needs a link."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "A cooled by 8°C and B by 15°C. Linking a smaller temperature fall to less cooling interprets the evidence.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "A cooled by 8°C and B by 15°C. Linking a smaller temperature fall to less cooling interprets the evidence.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-004",
@@ -106,31 +103,31 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Which is a pattern in data?",
-    "audioPrompt": "Which is a pattern in data?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "Model data: the same toy car travelled 61, 60 and 62 cm on smooth card, and 28, 30 and 29 cm on felt. What pattern is shown?",
+    "audioPrompt": "Model data: the same toy car travelled 61, 60 and 62 cm on smooth card, and 28, 30 and 29 cm on felt. What pattern is shown?",
+    "visual": "Model data in centimetres: smooth card trials 61, 60 and 62; felt trials 28, 30 and 29. Same car and ramp release.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Model data in centimetres: smooth card trials 61, 60 and 62; felt trials 28, 30 and 29. Same car and ramp release.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h01/car-trial-data.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h01/car-trial-data.svg#model",
+      "alt_text": "Model data in centimetres: smooth card trials 61, 60 and 62; felt trials 28, 30 and 29. Same car and ramp release."
     },
     "answers": [
-      "The title used large letters",
-      "The darker paper was warmer than the lighter paper in all three trials",
-      "One student liked dark paper",
-      "The thermometer was blue"
+      "The car travelled farther on felt in every trial",
+      "The car travelled farther on smooth card in all three trials",
+      "Both surfaces gave the same distances",
+      "Only the longest single trial can be described"
     ],
-    "correct": 1,
-    "explanation": "A pattern is a repeated relationship in the results.\nHint: Repeated result.",
-    "structuredExplanation": {
-      "summary": "A pattern is a repeated relationship in the results.",
-      "hint": "Repeated result."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Each smooth-card distance exceeds each felt distance. This repeated pattern supports a comparison for these test conditions.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Each smooth-card distance exceeds each felt distance. This repeated pattern supports a comparison for these test conditions.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-005",
@@ -153,17 +150,16 @@ window.skillrPracticeQuestions = [
       "One reading proves the rule",
       "No future data could change this"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 5,
     "correct": 0,
     "explanation": "Cautious science conclusions match the evidence and conditions tested.\nHint: Avoid always and proves.",
     "structuredExplanation": {
       "summary": "Cautious science conclusions match the evidence and conditions tested.",
       "hint": "Avoid always and proves."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-006",
@@ -186,17 +182,16 @@ window.skillrPracticeQuestions = [
       "The question had a clear variable",
       "Only one plant was tested in each condition"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 6,
     "correct": 3,
     "explanation": "Testing only one plant reduces confidence because individual differences may affect results.\nHint: What weakens confidence?",
     "structuredExplanation": {
       "summary": "Testing only one plant reduces confidence because individual differences may affect results.",
       "hint": "What weakens confidence?"
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-007",
@@ -205,8 +200,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Which item is least useful as evidence for which cup keeps water warm?",
-    "audioPrompt": "Which item is least useful as evidence for which cup keeps water warm?",
+    "question": "A report compares which cup keeps water warm. Which observation is least relevant to the cooling comparison?",
+    "audioPrompt": "A report compares which cup keeps water warm. Which observation is least relevant to the cooling comparison?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -214,22 +209,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Starting temperature",
-      "Repeated temperature readings",
-      "The cup pattern printed on the outside",
-      "Temperature after 30 minutes"
+      "Both cups started at 50°C",
+      "Cup A was 43°C after ten minutes",
+      "The cup has a striped decoration",
+      "Cup B was 36°C after ten minutes"
     ],
-    "correct": 2,
-    "explanation": "Decoration does not directly answer how well the cup keeps water warm.\nHint: Relevant to temperature?",
-    "structuredExplanation": {
-      "summary": "Decoration does not directly answer how well the cup keeps water warm.",
-      "hint": "Relevant to temperature?"
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "A decoration observation does not measure cooling. Starting and later temperature readings are relevant; decoration alone cannot establish insulation performance.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "A decoration observation does not measure cooling. Starting and later temperature readings are relevant; decoration alone cannot establish insulation performance.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-008",
@@ -252,17 +246,16 @@ window.skillrPracticeQuestions = [
       "Keep only the favourite result",
       "Change all equipment each time"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 8,
     "correct": 1,
     "explanation": "Repeated trials can show whether a pattern is reliable.\nHint: Repeat fairly.",
     "structuredExplanation": {
       "summary": "Repeated trials can show whether a pattern is reliable.",
       "hint": "Repeat fairly."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-009",
@@ -285,17 +278,16 @@ window.skillrPracticeQuestions = [
       "The white cup started at 50°C",
       "The test was repeated three times"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise",
+    "sequencePriority": 9,
     "correct": 0,
     "explanation": "Looking better is a preference, not scientific evidence.\nHint: Preference words.",
     "structuredExplanation": {
       "summary": "Looking better is a preference, not scientific evidence.",
       "hint": "Preference words."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-010",
@@ -304,8 +296,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "What should a graph help students identify?",
-    "audioPrompt": "What should a graph help students identify?",
+    "question": "A scientist labels a graph Rainfall (mm) and River flow (litres per second). Why are the units useful?",
+    "audioPrompt": "A scientist labels a graph Rainfall (mm) and River flow (litres per second). Why are the units useful?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -313,22 +305,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Only the prettiest colour",
-      "The teacher’s favourite result",
-      "A way to avoid measuring",
-      "Patterns and comparisons in data"
+      "They prove rainfall is the only cause of river flow",
+      "They remove the need to state dates",
+      "They show that the graph cannot contain an error",
+      "They tell readers what each measurement means"
     ],
-    "correct": 3,
-    "explanation": "Graphs can make patterns and comparisons easier to see.\nHint: Data display.",
-    "structuredExplanation": {
-      "summary": "Graphs can make patterns and comparisons easier to see.",
-      "hint": "Data display."
-    },
-    "stage": "recognise",
     "difficulty": 1,
     "difficultyTier": "recognise",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Units let readers interpret measurements. A labelled graph still needs dates, context and checks.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Units let readers interpret measurements. A labelled graph still needs dates, context and checks.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-011",
@@ -351,17 +342,16 @@ window.skillrPracticeQuestions = [
       "It may not show a repeated pattern or account for variation",
       "One number proves all cases forever"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 11,
     "correct": 2,
     "explanation": "A single reading can be affected by error or unusual conditions.\nHint: Need repeated support.",
     "structuredExplanation": {
       "summary": "A single reading can be affected by error or unusual conditions.",
       "hint": "Need repeated support."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-012",
@@ -370,8 +360,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Why should evidence be relevant to the investigation question?",
-    "audioPrompt": "Why should evidence be relevant to the investigation question?",
+    "question": "An article claims a wetland has fewer frogs. Which record most directly helps check this?",
+    "audioPrompt": "An article claims a wetland has fewer frogs. Which record most directly helps check this?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -379,22 +369,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Irrelevant data is always stronger",
-      "Only relevant data can support the claim being made",
-      "Any number supports any claim",
-      "Opinions become evidence when written neatly"
+      "One frog photograph without its date or search time",
+      "Frog counts made with the same search method over several seasons",
+      "Counts from one site searched for ten minutes and another searched for two hours, with no adjustment",
+      "Only water-temperature records, without any frog observations"
     ],
-    "correct": 1,
-    "explanation": "Evidence must connect directly to the claim and question.\nHint: Does it answer the question?",
-    "structuredExplanation": {
-      "summary": "Evidence must connect directly to the claim and question.",
-      "hint": "Does it answer the question?"
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Comparable frog observations across time are relevant to a decline claim. Search effort and season matter when comparing counts.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Comparable frog observations across time are relevant to a decline claim. Search effort and season matter when comparing counts.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-013",
@@ -403,8 +392,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Why does reasoning matter in a scientific explanation?",
-    "audioPrompt": "Why does reasoning matter in a scientific explanation?",
+    "question": "Model data: shaded water rose from 20°C to 22°C and sunny water from 20°C to 28°C in equal time. Which explanation fits?",
+    "audioPrompt": "Model data: shaded water rose from 20°C to 22°C and sunny water from 20°C to 28°C in equal time. Which explanation fits?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -412,22 +401,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It explains how the data supports the claim",
-      "It replaces the need for data",
-      "It makes opinions become measurements",
-      "It hides limitations"
+      "The sunny water warmed more in this comparison: its rise was larger",
+      "The shaded water warmed more because it began at 20°C",
+      "The sunny water is always warmer in every place",
+      "Sunlight was the only possible difference without checking the setup"
     ],
-    "correct": 0,
-    "explanation": "Reasoning connects the evidence to the conclusion instead of just listing results.\nHint: Bridge between data and claim.",
-    "structuredExplanation": {
-      "summary": "Reasoning connects the evidence to the conclusion instead of just listing results.",
-      "hint": "Bridge between data and claim."
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The rises were 2°C and 8°C. The data supports a comparison within the stated test; other important conditions should be checked.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "The rises were 2°C and 8°C. The data supports a comparison within the stated test; other important conditions should be checked.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-014",
@@ -450,17 +438,16 @@ window.skillrPracticeQuestions = [
       "To prove both groups are wrong",
       "To check methods, variation and whether the pattern is reliable"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 14,
     "correct": 3,
     "explanation": "Conflicting results should be investigated through method checks and repeated evidence.\nHint: Do not just delete conflict.",
     "structuredExplanation": {
       "summary": "Conflicting results should be investigated through method checks and repeated evidence.",
       "hint": "Do not just delete conflict."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-015",
@@ -483,17 +470,16 @@ window.skillrPracticeQuestions = [
       "The test only supports what happened under those conditions",
       "The data can never support any claim"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 15,
     "correct": 2,
     "explanation": "Scientific conclusions should not go beyond the evidence collected.\nHint: Limit the claim.",
     "structuredExplanation": {
       "summary": "Scientific conclusions should not go beyond the evidence collected.",
       "hint": "Limit the claim."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-016",
@@ -516,17 +502,16 @@ window.skillrPracticeQuestions = [
       "Starting temperature is only an opinion",
       "It makes the graph look colourful"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 16,
     "correct": 1,
     "explanation": "A fair comparison needs important starting conditions kept the same.\nHint: Same starting point.",
     "structuredExplanation": {
       "summary": "A fair comparison needs important starting conditions kept the same.",
       "hint": "Same starting point."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-017",
@@ -549,17 +534,16 @@ window.skillrPracticeQuestions = [
       "Evidence should be ignored after the first claim",
       "Only old data can be used"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 17,
     "correct": 0,
     "explanation": "Science improves by testing explanations against evidence.\nHint: New data can revise ideas.",
     "structuredExplanation": {
       "summary": "Science improves by testing explanations against evidence.",
       "hint": "New data can revise ideas."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-018",
@@ -568,8 +552,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Why is a bar graph useful for comparing average plant heights?",
-    "audioPrompt": "Why is a bar graph useful for comparing average plant heights?",
+    "question": "An article has a title, question, method, results graph and conclusion. Where should a reader look first to find how measurements were collected?",
+    "audioPrompt": "An article has a title, question, method, results graph and conclusion. Where should a reader look first to find how measurements were collected?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -577,22 +561,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It makes plants grow faster",
-      "It replaces all measurements",
-      "It hides the smallest result",
-      "It can show differences between groups clearly"
+      "Title only",
+      "Conclusion only",
+      "Reference list only",
+      "Method"
     ],
-    "correct": 3,
-    "explanation": "A graph can display measured differences so patterns are easier to interpret.\nHint: Shows comparisons.",
-    "structuredExplanation": {
-      "summary": "A graph can display measured differences so patterns are easier to interpret.",
-      "hint": "Shows comparisons."
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The method describes the procedure and conditions. Readers need this to judge the measurements and compare studies.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "The method describes the procedure and conditions. Readers need this to judge the measurements and compare studies.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-019",
@@ -615,17 +598,16 @@ window.skillrPracticeQuestions = [
       "It shows how confident we can be and where the evidence may be weak",
       "It makes the conclusion false"
     ],
+    "difficulty": 2,
+    "difficultyTier": "explain",
+    "sequencePriority": 19,
     "correct": 2,
     "explanation": "Limitations help readers judge how far the evidence can be trusted.\nHint: Confidence boundary.",
     "structuredExplanation": {
       "summary": "Limitations help readers judge how far the evidence can be trusted.",
       "hint": "Confidence boundary."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-020",
@@ -634,8 +616,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Why is “the cup was red” poor evidence for heat retention?",
-    "audioPrompt": "Why is “the cup was red” poor evidence for heat retention?",
+    "question": "A student says the red cup kept water warmer because it was red. What evidence is missing?",
+    "audioPrompt": "A student says the red cup kept water warmer because it was red. What evidence is missing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -643,22 +625,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A cup colour is always the tested variable",
-      "Colour alone does not show how much the temperature changed",
-      "Red cups cannot be measured",
-      "Heat retention is only about opinions"
+      "A longer description of the red colour",
+      "Comparable starting and later temperatures, with other important conditions controlled",
+      "A vote about which cup looks best",
+      "The price of the pencil used"
     ],
-    "correct": 1,
-    "explanation": "Useful evidence for heat retention needs temperature data over time.\nHint: Relevant measurement.",
-    "structuredExplanation": {
-      "summary": "Useful evidence for heat retention needs temperature data over time.",
-      "hint": "Relevant measurement."
-    },
-    "stage": "explain",
     "difficulty": 2,
     "difficultyTier": "explain",
     "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Colour could be a variable in a particular test, but naming it alone is not evidence of how much cooling occurred.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Colour could be a variable in a particular test, but naming it alone is not evidence of how much cooling occurred.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-021",
@@ -667,8 +648,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Which explanation uses claim, evidence and reasoning best?",
-    "audioPrompt": "Which explanation uses claim, evidence and reasoning best?",
+    "question": "Model data: equal-sized strips are tested the same way with identical washers. Strip A holds 8 and Strip B holds 5 before breaking. Which statement stays within the evidence?",
+    "audioPrompt": "Model data: equal-sized strips are tested the same way with identical washers. Strip A holds 8 and Strip B holds 5 before breaking. Which statement stays within the evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -676,22 +657,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The dark paper warmed more; it reached 44°C while white reached 37°C under the same lamp, so the comparison supports the claim",
-      "Dark paper is best because I like it",
-      "The thermometer was on the bench",
-      "White paper was white, so it lost"
+      "Strip A held more washers in this test; repeat with more matching strips",
+      "Strip A is strongest for every use",
+      "Strip B can never hold a load",
+      "The result explains every material property"
     ],
-    "correct": 0,
-    "explanation": "The best explanation states a claim, cites relevant data and links it to the comparison.\nHint: Claim plus values plus link.",
-    "structuredExplanation": {
-      "summary": "The best explanation states a claim, cites relevant data and links it to the comparison.",
-      "hint": "Claim plus values plus link."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
     "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The measured load supports this limited comparison. Repeats and other conditions are needed before broader claims.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "The measured load supports this limited comparison. Repeats and other conditions are needed before broader claims.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-022",
@@ -700,8 +680,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Which statement is a misconception?",
-    "audioPrompt": "Which statement is a misconception?",
+    "question": "A report gives butterfly counts but omits how long each site was searched. Why does that matter?",
+    "audioPrompt": "A report gives butterfly counts but omits how long each site was searched. Why does that matter?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -709,22 +689,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Evidence must be relevant",
-      "Reasoning links evidence to a claim",
-      "Patterns can support explanations",
-      "Any number can be used as evidence for any scientific claim"
+      "A count without a colourful graph is not data",
+      "All sites must contain exactly the same butterflies",
+      "Search time cannot affect a count",
+      "A longer search may find more butterflies, making counts difficult to compare"
     ],
-    "correct": 3,
-    "explanation": "Numbers only count as useful evidence when they are relevant to the question.\nHint: Relevant data matters.",
-    "structuredExplanation": {
-      "summary": "Numbers only count as useful evidence when they are relevant to the question.",
-      "hint": "Relevant data matters."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
     "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Recording search effort helps readers judge whether a difference reflects the population or the observation method.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Recording search effort helps readers judge whether a difference reflects the population or the observation method.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-023",
@@ -747,17 +726,16 @@ window.skillrPracticeQuestions = [
       "In our three trials, the insulated cup cooled less than the paper cup",
       "The insulated cup is best for every drink forever"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 23,
     "correct": 2,
     "explanation": "The conclusion stays within the repeated classroom evidence.\nHint: Cautious scope.",
     "structuredExplanation": {
       "summary": "The conclusion stays within the repeated classroom evidence.",
       "hint": "Cautious scope."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-024",
@@ -780,17 +758,16 @@ window.skillrPracticeQuestions = [
       "Which soil looks darker",
       "Which group liked soil A"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 24,
     "correct": 1,
     "explanation": "Drainage rate needs relevant controlled measurements.\nHint: Measure draining.",
     "structuredExplanation": {
       "summary": "Drainage rate needs relevant controlled measurements.",
       "hint": "Measure draining."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-025",
@@ -813,17 +790,16 @@ window.skillrPracticeQuestions = [
       "Use only that trial for the claim",
       "Stop writing all results"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 25,
     "correct": 0,
     "explanation": "Unusual results should be investigated rather than automatically ignored.\nHint: Check and repeat.",
     "structuredExplanation": {
       "summary": "Unusual results should be investigated rather than automatically ignored.",
       "hint": "Check and repeat."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-026",
@@ -832,8 +808,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Which phrase shows appropriate uncertainty?",
-    "audioPrompt": "Which phrase shows appropriate uncertainty?",
+    "question": "In a model news report, a researcher says: We counted 14 nesting birds this season and 9 last season using the same method. Which part is data?",
+    "audioPrompt": "In a model news report, a researcher says: We counted 14 nesting birds this season and 9 last season using the same method. Which part is data?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -841,22 +817,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The data proves forever",
-      "It must always happen",
-      "No other result is possible",
-      "The data suggests"
+      "The researcher’s prediction that there will be more birds next year",
+      "The explanation that better nesting places may have helped",
+      "The suggestion that the population will keep increasing",
+      "The two recorded counts, 14 and 9"
     ],
-    "correct": 3,
-    "explanation": "Suggests is cautious and matches limited evidence better than absolute wording.\nHint: Cautious wording.",
-    "structuredExplanation": {
-      "summary": "Suggests is cautious and matches limited evidence better than absolute wording.",
-      "hint": "Cautious wording."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
     "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The counts are recorded observations. They support comparison, while the context helps judge what the difference means.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "The counts are recorded observations. They support comparison, while the context helps judge what the difference means.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-027",
@@ -865,8 +840,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Which is a limitation in a magnet test?",
-    "audioPrompt": "Which is a limitation in a magnet test?",
+    "question": "A magnet investigation asks how attraction changes with distance but tests only 2 cm. What is a limitation?",
+    "audioPrompt": "A magnet investigation asks how attraction changes with distance but tests only 2 cm. What is a limitation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -874,22 +849,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The question was about attraction distance",
-      "The same magnet was used each time",
-      "Only one distance was tested",
-      "The results were measured in centimetres"
+      "It cannot provide any observation at 2 cm",
+      "Using centimetres makes the result invalid",
+      "It cannot show what happens at other distances",
+      "A repeated observation cannot be useful"
     ],
-    "correct": 2,
-    "explanation": "Testing only one distance limits what can be concluded about distance effects.\nHint: What restricts the claim?",
-    "structuredExplanation": {
-      "summary": "Testing only one distance limits what can be concluded about distance effects.",
-      "hint": "What restricts the claim?"
-    },
-    "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
     "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "The evidence applies to the tested distance. Several distances are needed to investigate how the outcome changes with distance.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "The evidence applies to the tested distance. Several distances are needed to investigate how the outcome changes with distance.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-028",
@@ -912,17 +886,16 @@ window.skillrPracticeQuestions = [
       "Cup A ended at 42°C",
       "Cup B ended at 36°C"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 28,
     "correct": 1,
     "explanation": "Reasoning explains how the data comparison supports the claim.\nHint: Explains the link.",
     "structuredExplanation": {
       "summary": "Reasoning explains how the data comparison supports the claim.",
       "hint": "Explains the link."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-029",
@@ -945,17 +918,16 @@ window.skillrPracticeQuestions = [
       "A drawing of the car",
       "One pushed trial on tile and one released trial on grass"
     ],
+    "difficulty": 2,
+    "difficultyTier": "discriminate",
+    "sequencePriority": 29,
     "correct": 0,
     "explanation": "Repeated controlled data for each surface gives stronger evidence.\nHint: Repeated fair comparison.",
     "structuredExplanation": {
       "summary": "Repeated controlled data for each surface gives stronger evidence.",
       "hint": "Repeated fair comparison."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-030",
@@ -964,8 +936,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "Which claim goes beyond the evidence?",
-    "audioPrompt": "Which claim goes beyond the evidence?",
+    "question": "A headline says New cover ends all evaporation. The model study found a covered container lost 2 mL and an open one 18 mL. What should change?",
+    "audioPrompt": "A headline says New cover ends all evaporation. The model study found a covered container lost 2 mL and an open one 18 mL. What should change?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -973,22 +945,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "In this test, this strip held the most weight",
-      "The strip broke at 12 washers",
-      "We tested equal-width strips",
-      "This material is strongest in every possible situation"
+      "Keep ends all because 2 is smaller than 18",
+      "Remove the 2 mL reading to match the headline",
+      "Claim both containers gained water",
+      "Say the cover reduced water loss in the test"
     ],
-    "correct": 3,
-    "explanation": "A classroom test cannot prove strongest in every situation.\nHint: Too broad.",
-    "structuredExplanation": {
-      "summary": "A classroom test cannot prove strongest in every situation.",
-      "hint": "Too broad."
-    },
-    "stage": "discriminate",
     "difficulty": 2,
     "difficultyTier": "discriminate",
     "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The covered container still lost water. The headline must reflect reduction rather than complete prevention.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "The covered container still lost water. The headline must reflect reduction rather than complete prevention.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-031",
@@ -997,8 +968,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "A class measured bean plants under two light levels for three weeks. Which evidence best supports “more light increased growth”?",
-    "audioPrompt": "A class measured bean plants under two light levels for three weeks. Which evidence best supports “more light increased growth”?",
+    "question": "A model plant study keeps water, soil and starting size alike while varying light. Which evidence best supports more growth in the brighter condition?",
+    "audioPrompt": "A model plant study keeps water, soil and starting size alike while varying light. Which evidence best supports more growth in the brighter condition?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1006,22 +977,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The room had windows",
-      "The seed packets were colourful",
-      "Average height increased more in the higher-light group",
-      "One high-light pot looked nicer"
+      "One final height with no starting measurement",
+      "A preference for the brighter location",
+      "Repeated measurements show a greater increase in height in that group",
+      "A drawing without measured heights"
     ],
-    "correct": 2,
-    "explanation": "The claim needs measured growth data comparing the groups.\nHint: Compare heights.",
-    "structuredExplanation": {
-      "summary": "The claim needs measured growth data comparing the groups.",
-      "hint": "Compare heights."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Growth means change from the starting height. Comparable repeated measurements are stronger than one attractive example.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Growth means change from the starting height. Comparable repeated measurements are stronger than one attractive example.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-032",
@@ -1044,17 +1014,16 @@ window.skillrPracticeQuestions = [
       "Which cup colour was prettier",
       "Whether water can be measured"
     ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 32,
     "correct": 1,
     "explanation": "Different starting conditions can explain different results.\nHint: Check fairness.",
     "structuredExplanation": {
       "summary": "Different starting conditions can explain different results.",
       "hint": "Check fairness."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-033",
@@ -1063,8 +1032,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "A student writes, “The rough ramp slowed the toy car. It travelled 40 cm, while on smooth card it travelled 90 cm.” What is missing?",
-    "audioPrompt": "A student writes, “The rough ramp slowed the toy car. It travelled 40 cm, while on smooth card it travelled 90 cm.” What is missing?",
+    "question": "A learner repeatedly tests the same toy car on rough and smooth surfaces, releasing it from the same ramp height each time. How can they connect its consistently shorter rough-surface distance to an explanation?",
+    "audioPrompt": "A learner repeatedly tests the same toy car on rough and smooth surfaces, releasing it from the same ramp height each time. How can they connect its consistently shorter rough-surface distance to an explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1072,22 +1041,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Reasoning that links shorter distance to greater friction",
-      "All evidence values",
-      "The claim",
-      "The measured result"
+      "Friction opposes motion; the repeated shorter distance supports greater slowing on that surface",
+      "Shorter distance means no force acted",
+      "The smoother surface must have pulled the car with a magnet",
+      "The numbers need no connection to a science idea"
     ],
-    "correct": 0,
-    "explanation": "The student has a claim and evidence but still needs to explain why the evidence supports the claim.\nHint: Add the link.",
-    "structuredExplanation": {
-      "summary": "The student has a claim and evidence but still needs to explain why the evidence supports the claim.",
-      "hint": "Add the link."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The explanation links the measured movement to friction, while keeping the claim to a fair comparison of the tested surfaces.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "The explanation links the measured movement to friction, while keeping the claim to a fair comparison of the tested surfaces.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-034",
@@ -1096,8 +1064,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "A graph shows three trials where shaded soil stayed cooler than unshaded soil. Which conclusion is best?",
-    "audioPrompt": "A graph shows three trials where shaded soil stayed cooler than unshaded soil. Which conclusion is best?",
+    "question": "A hydrologist sees lower river flow in a dry month than a wet month. What additional information could improve the explanation?",
+    "audioPrompt": "A hydrologist sees lower river flow in a dry month than a wet month. What additional information could improve the explanation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1105,22 +1073,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Shade always makes all soils cold",
-      "The unshaded soil data should be deleted",
-      "Graphs prove results without measurements",
-      "In these trials, shade helped soil stay cooler"
+      "Only the wet month’s rainfall, without the dry month’s records",
+      "A single river photograph with no date",
+      "Only the river’s width measured once, without flow or use records",
+      "Water taken from the river and water released from storage during both months"
     ],
-    "correct": 3,
-    "explanation": "The conclusion uses the repeated pattern and cautious wording.\nHint: Stay within data.",
-    "structuredExplanation": {
-      "summary": "The conclusion uses the repeated pattern and cautious wording.",
-      "hint": "Stay within data."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Rainfall is relevant, but use, storage releases and other water inputs also affect flow. A single cause should not be assumed.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Rainfall is relevant, but use, storage releases and other water inputs also affect flow. A single cause should not be assumed.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-035",
@@ -1129,8 +1096,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "A student claims a sponge is most absorbent because it feels soft. What evidence would be better?",
-    "audioPrompt": "A student claims a sponge is most absorbent because it feels soft. What evidence would be better?",
+    "question": "Researchers map native food vines and Richmond birdwing butterfly sightings. How can these records help?",
+    "audioPrompt": "Researchers map native food vines and Richmond birdwing butterfly sightings. How can these records help?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1138,22 +1105,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which sample has the nicest colour",
-      "The brand name only",
-      "Measured water absorbed by equal-sized samples",
-      "How soft the sponge feels"
+      "They can prove food is the only cause without checking any other conditions",
+      "They can treat unequal search times as directly comparable counts",
+      "They can investigate whether fewer suitable food plants may help explain fewer butterflies",
+      "They can use one butterfly sighting to conclude every local population has recovered"
     ],
-    "correct": 2,
-    "explanation": "Absorbency needs measured water uptake under fair conditions.\nHint: Measure the property.",
-    "structuredExplanation": {
-      "summary": "Absorbency needs measured water uptake under fair conditions.",
-      "hint": "Measure the property."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Caterpillars depend on suitable food vines. Comparing food-plant and butterfly records can inform an explanation; other threats must also be considered.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Caterpillars depend on suitable food vines. Comparing food-plant and butterfly records can inform an explanation; other threats must also be considered.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-036",
@@ -1176,17 +1142,16 @@ window.skillrPracticeQuestions = [
       "Use that one plant only",
       "Ignore every other plant"
     ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 36,
     "correct": 1,
     "explanation": "A single conflicting result should be checked against the whole data pattern.\nHint: One result versus pattern.",
     "structuredExplanation": {
       "summary": "A single conflicting result should be checked against the whole data pattern.",
       "hint": "One result versus pattern."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-037",
@@ -1195,8 +1160,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "A thermometer reading is copied incorrectly in one table. How could this affect the explanation?",
-    "audioPrompt": "A thermometer reading is copied incorrectly in one table. How could this affect the explanation?",
+    "question": "A model results table shows 18 cm, but the field notebook says 13 cm. What should the team do?",
+    "audioPrompt": "A model results table shows 18 cm, but the field notebook says 13 cm. What should the team do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1204,22 +1169,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It could make the evidence appear to support the wrong claim",
-      "It makes reasoning unnecessary",
-      "It proves the test was perfect",
-      "It changes opinions into data"
+      "Check the original record and correct the copying error transparently",
+      "Keep 18 because it better supports the prediction",
+      "Delete both results without explanation",
+      "Change the prediction and leave the wrong number"
     ],
-    "correct": 0,
-    "explanation": "Errors in evidence can lead to weak or incorrect conclusions.\nHint: Bad data can mislead.",
-    "structuredExplanation": {
-      "summary": "Errors in evidence can lead to weak or incorrect conclusions.",
-      "hint": "Bad data can mislead."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Explanations depend on accurate records. Checking the source and documenting a correction avoids selecting data to suit a claim.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Explanations depend on accurate records. Checking the source and documenting a correction avoids selecting data to suit a claim.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-038",
@@ -1228,8 +1192,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "A group says their parachute design is best after one drop. What would make the explanation stronger?",
-    "audioPrompt": "A group says their parachute design is best after one drop. What would make the explanation stronger?",
+    "question": "A report says native food vines were planted and later more butterflies were seen. What would strengthen a claim that planting helped?",
+    "audioPrompt": "A report says native food vines were planted and later more butterflies were seen. What would strengthen a claim that planting helped?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1237,22 +1201,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose the nicest-looking parachute",
-      "Drop each parachute from a different height",
-      "Ignore wind and method",
-      "Repeat drops and compare times under the same conditions"
+      "Only one photograph of a butterfly",
+      "Ignoring weather and search effort",
+      "Counting only the busiest day",
+      "Repeated comparable surveys, vine records and checks of other changes"
     ],
-    "correct": 3,
-    "explanation": "Repeated fair trials provide stronger evidence for a design explanation.\nHint: Repeat fairly.",
-    "structuredExplanation": {
-      "summary": "Repeated fair trials provide stronger evidence for a design explanation.",
-      "hint": "Repeat fairly."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Repeated records and context help evaluate the explanation. A later increase alone does not prove planting was the only cause.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Repeated records and context help evaluate the explanation. A later increase alone does not prove planting was the only cause.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-039",
@@ -1261,8 +1224,8 @@ window.skillrPracticeQuestions = [
     "skill": "using data to develop scientific explanations",
     "printable": true,
     "type": "single",
-    "question": "A class compares two explanations for the same data. What should they judge first?",
-    "audioPrompt": "A class compares two explanations for the same data. What should they judge first?",
+    "question": "Two explanations use the same river data. One considers rainfall and water use; the other says rainfall is always the only cause. Which is stronger?",
+    "audioPrompt": "Two explanations use the same river data. One considers rainfall and water use; the other says rainfall is always the only cause. Which is stronger?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1270,22 +1233,21 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Which explanation has the funniest words",
-      "Which one avoids all numbers",
-      "Which explanation uses relevant evidence and sound reasoning",
-      "Which explanation is longest"
+      "The one that uses always",
+      "The longer one regardless of evidence",
+      "The one that explains relevant inputs and use while checking the evidence",
+      "The one without any measurements"
     ],
-    "correct": 2,
-    "explanation": "A strong explanation is judged by evidence and reasoning, not length or style alone.\nHint: Evidence quality.",
-    "structuredExplanation": {
-      "summary": "A strong explanation is judged by evidence and reasoning, not length or style alone.",
-      "hint": "Evidence quality."
-    },
-    "stage": "apply",
     "difficulty": 3,
     "difficultyTier": "apply",
     "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Relevant evidence and sound connections matter. Water use can affect flow, so an explanation should not ignore it when data is available.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Relevant evidence and sound connections matter. Water use can affect flow, so an explanation should not ignore it when data is available.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h01-p-040",
@@ -1308,16 +1270,272 @@ window.skillrPracticeQuestions = [
       "Hide the new data",
       "Keep the first prediction no matter what"
     ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 40,
     "correct": 1,
     "explanation": "Scientific explanations can be revised when evidence changes.\nHint: Evidence can update claims.",
     "structuredExplanation": {
       "summary": "Scientific explanations can be revised when evidence changes.",
       "hint": "Evidence can update claims."
     },
-    "stage": "apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4h01-p-041",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using data to develop scientific explanations",
+    "printable": true,
+    "type": "single",
+    "question": "A journal graph gives counts but no dates. Why would adding dates improve the report?",
+    "audioPrompt": "A journal graph gives counts but no dates. Why would adding dates improve the report?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Readers can compare when observations were made",
+      "Dates make every claim correct",
+      "Dates replace the measurements",
+      "Dates prove the cause of a change"
+    ],
     "difficulty": 3,
     "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "sequencePriority": 41,
+    "correct": 0,
+    "explanation": "Timing helps readers interpret and compare observations; it does not by itself explain the cause.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Timing helps readers interpret and compare observations; it does not by itself explain the cause.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4h01-p-042",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using data to develop scientific explanations",
+    "printable": true,
+    "type": "single",
+    "question": "A science article lists its sources. What can a reader use that list for?",
+    "audioPrompt": "A science article lists its sources. What can a reader use that list for?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "To replace reading the results",
+      "To trace information and check supporting research",
+      "To choose the longest title",
+      "To assume every source says the same thing"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 42,
+    "correct": 1,
+    "explanation": "References help readers find the source of information and examine the evidence.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "References help readers find the source of information and examine the evidence.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4h01-p-043",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using data to develop scientific explanations",
+    "printable": true,
+    "type": "single",
+    "question": "A researcher in a documentary says the evidence suggests an explanation. What does suggests communicate?",
+    "audioPrompt": "A researcher in a documentary says the evidence suggests an explanation. What does suggests communicate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "There are no observations",
+      "The explanation can never change",
+      "The evidence supports an idea without proving every possible case",
+      "The researcher has chosen an answer by popularity"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 43,
+    "correct": 2,
+    "explanation": "Cautious language recognises that evidence has a scope and explanations can be refined.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Cautious language recognises that evidence has a scope and explanations can be refined.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4h01-p-044",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using data to develop scientific explanations",
+    "printable": true,
+    "type": "single",
+    "question": "Richmond birdwing larvae can die after eating introduced Dutchman’s pipe leaves. What action follows from this food-relationship evidence?",
+    "audioPrompt": "Richmond birdwing larvae can die after eating introduced Dutchman’s pipe leaves. What action follows from this food-relationship evidence?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Plant more Dutchman’s pipe everywhere",
+      "Remove all native food vines",
+      "Stop monitoring the butterflies",
+      "Seek expert help to replace the harmful vine with suitable native host vines"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 44,
+    "correct": 3,
+    "explanation": "Identifying a harmful food plant informs a targeted conservation action. Plant identification and work should be guided by local experts.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Identifying a harmful food plant informs a targeted conservation action. Plant identification and work should be guided by local experts.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4h01-p-045",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using data to develop scientific explanations",
+    "printable": true,
+    "type": "single",
+    "question": "Model river records show similar rainfall in two months but much greater water use and lower downstream flow in the second. Which explanation is worth investigating?",
+    "audioPrompt": "Model river records show similar rainfall in two months but much greater water use and lower downstream flow in the second. Which explanation is worth investigating?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Greater water use may have contributed to the lower flow",
+      "The same rainfall guarantees identical flow",
+      "Water use cannot affect downstream flow",
+      "The lower flow proves there was no rainfall"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 45,
+    "correct": 0,
+    "explanation": "Water use is a relevant possible contributor. Check other influences before claiming it was the only cause.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Water use is a relevant possible contributor. Check other influences before claiming it was the only cause.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4h01-p-046",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using data to develop scientific explanations",
+    "printable": true,
+    "type": "single",
+    "question": "A model river chart shows flow rising after rain, with a delay. Why record rainfall and flow over several days?",
+    "audioPrompt": "A model river chart shows flow rising after rain, with a delay. Why record rainfall and flow over several days?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "To make the chart longer only",
+      "To see how their timing and changes are connected",
+      "To prove all rain instantly reaches the river",
+      "To avoid measuring water use"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 46,
+    "correct": 1,
+    "explanation": "Measurements over time can reveal a delayed response; soil, storage and other conditions may influence it.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Measurements over time can reveal a delayed response; soil, storage and other conditions may influence it.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4h01-p-047",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using data to develop scientific explanations",
+    "printable": true,
+    "type": "single",
+    "question": "ACARA describes First Nations Australians refining technologies through observation, testing and repetition. Which student summary is appropriate?",
+    "audioPrompt": "ACARA describes First Nations Australians refining technologies through observation, testing and repetition. Which student summary is appropriate?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Only modern digital instruments can produce useful data",
+      "All communities used one identical process",
+      "People used accumulated observations to check predictions and improve processes",
+      "No change was ever made after testing"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 47,
+    "correct": 2,
+    "explanation": "Careful observations can provide data without digital instruments. Accounts should identify specific practices when the source provides them.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Careful observations can provide data without digital instruments. Accounts should identify specific practices when the source provides them.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s4h01-p-048",
+    "curriculumCode": "AC9S4H01",
+    "bank": "practice",
+    "skill": "using data to develop scientific explanations",
+    "printable": true,
+    "type": "single",
+    "question": "A learner wants to explain a documented First Nations technology. What is the best evidence practice?",
+    "audioPrompt": "A learner wants to explain a documented First Nations technology. What is the best evidence practice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Invent a trial and present it as a community record",
+      "Assume the practice belongs to every Nation",
+      "Replace the source with a guess",
+      "Use an appropriate attributed source and distinguish its observations from the learner’s own model"
+    ],
+    "difficulty": 3,
+    "difficultyTier": "apply",
+    "sequencePriority": 48,
+    "correct": 3,
+    "explanation": "Attribution and a clear distinction between evidence and a classroom model avoid inventing or generalising cultural knowledge.\nHint: Use relevant observations and keep the claim within the evidence.",
+    "structuredExplanation": {
+      "summary": "Attribution and a clear distinction between evidence and a classroom model avoid inventing or generalising cultural knowledge.",
+      "hint": "Use relevant observations and keep the claim within the evidence."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

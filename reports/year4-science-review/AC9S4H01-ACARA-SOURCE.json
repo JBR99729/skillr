@@ -1,0 +1,33 @@
+{
+  "code": "AC9S4H01",
+  "source_url": "https://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/export/MRAC/2024/04/LA/SCI.jsonld",
+  "source_sha256": "50c24e93a6b099111d058cf296022f6575dc4d92592b3406440e5831bf56bd53",
+  "descriptor": "examine how people use data to develop scientific explanations",
+  "elaborations": [
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/ec2ae9b7-f337-4d43-a35b-ec406c63a818",
+      "text": "examining age-appropriate scientific journal articles, identifying common text features and exploring why the scientific community might have conventions for sharing information about data and explanations",
+      "notation": "AC9S4H01_E1"
+    },
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/81ec915b-90cb-43d4-b9f1-aeec6dd5abcc",
+      "text": "viewing or listening to documentaries or news reports that feature researchers and identifying how they talk about their area of research, particularly references to observations, data and evidence",
+      "notation": "AC9S4H01_E2"
+    },
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/4c229659-89b4-41dc-9fff-5bcf451a13ce",
+      "text": "investigating how ecologists use food chain data to develop explanations for population decline of native species such as the Richmond birdwing butterfly, and to develop strategies to increase their population",
+      "notation": "AC9S4H01_E3"
+    },
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/cc776468-b93b-45d3-a0e6-759f5d197474",
+      "text": "explore how hydrologists use rainfall and water use data to explain the amount of water flowing in rivers and why this changes over time",
+      "notation": "AC9S4H01_E4"
+    },
+    {
+      "id": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/SCI/3207fcba-41ad-4868-842c-e24a7e908386",
+      "text": "investigating how First Nations Australians test predictions and gather data in the development of technologies and processes",
+      "notation": "AC9S4H01_E5"
+    }
+  ]
+}

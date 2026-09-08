@@ -18,7 +18,7 @@
 
   // The first three reviewed Science codes carry their own authored models.
   if (quizMatch?.[1]?.toLowerCase() === "year-4" && quizMatch[2].toLowerCase() === "science" &&
-      /^ac9s4u0[123]$/i.test(quizMatch[3]) &&
+      /^ac9s4(?:u0[1-4]|h0[12])$/i.test(quizMatch[3]) &&
       (document.querySelector('[data-skillr-authored-preparation="true"]') ||
        document.body?.getAttribute("data-skillr-authored-worksheet") === "true")) return;
 

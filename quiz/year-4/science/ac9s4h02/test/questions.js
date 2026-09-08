@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9s4h02-t-001",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "compost",
     "printable": true,
     "type": "single",
-    "question": "Which is the best measurable criterion for a solar oven?",
-    "audioPrompt": "Which is the best measurable criterion for a solar oven?",
+    "question": "A compost facility mixes air into suitable organic waste. Which explanation supports this action?",
+    "audioPrompt": "A compost facility mixes air into suitable organic waste. Which explanation supports this action?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,31 +16,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Has a fun name",
-      "Everyone thinks it is clever",
-      "Raises water temperature by at least 15°C in 30 minutes",
-      "Looks like a real oven"
+      "Many decomposers need air to break the material down.",
+      "Air makes all plastic compostable.",
+      "Air removes every need for moisture.",
+      "Decomposers are not involved in composting."
     ],
-    "correct": 2,
-    "explanation": "A measurable criterion states what success looks like using evidence.\nHint: Number and time.",
-    "structuredExplanation": {
-      "summary": "A measurable criterion states what success looks like using evidence.",
-      "hint": "Number and time."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Managing living decomposers’ conditions helps process suitable waste.\nHint: Think about living decomposers, suitable conditions and what remains in the output.",
+    "structuredExplanation": {
+      "summary": "Managing living decomposers’ conditions helps process suitable waste.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-002",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "compost",
     "printable": true,
     "type": "single",
-    "question": "A design brief says only classroom scrap materials can be used. What is this?",
-    "audioPrompt": "A design brief says only classroom scrap materials can be used. What is this?",
+    "question": "A “compostable” cup remains intact in a home heap. Which explanation should be checked?",
+    "audioPrompt": "A “compostable” cup remains intact in a home heap. Which explanation should be checked?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -48,31 +48,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A claim only",
-      "A constraint",
-      "A result",
-      "A prototype"
+      "All cups break down at the same rate.",
+      "The cup must have become metal.",
+      "Home heaps contain no living organisms.",
+      "It may require processing conditions the home heap does not provide."
     ],
-    "correct": 1,
-    "explanation": "A limit on materials is a constraint.\nHint: Design limit.",
-    "structuredExplanation": {
-      "summary": "A limit on materials is a constraint.",
-      "hint": "Design limit."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Some products need specific composting conditions; check the stated requirements and accepted materials.\nHint: Think about living decomposers, suitable conditions and what remains in the output.",
+    "structuredExplanation": {
+      "summary": "Some products need specific composting conditions; check the stated requirements and accepted materials.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-003",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "water",
     "printable": true,
     "type": "single",
-    "question": "Why should two cooling-box prototypes be tested with the same starting temperature?",
-    "audioPrompt": "Why should two cooling-box prototypes be tested with the same starting temperature?",
+    "question": "A bore-water sample looks clear but contains an unwanted dissolved substance. What follows?",
+    "audioPrompt": "A bore-water sample looks clear but contains an unwanted dissolved substance. What follows?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -80,31 +80,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "So differences are more likely due to the prototype design",
-      "So one design automatically wins",
-      "So no thermometer is needed",
-      "So cost becomes a temperature"
+      "Clear water proves every unwanted substance is absent.",
+      "Cloth filtering always removes dissolved substances.",
+      "Appearance alone cannot establish whether treatment has worked.",
+      "The substance disappears when the container is labelled clean."
     ],
-    "correct": 0,
-    "explanation": "Controlling starting temperature makes the comparison fairer.\nHint: Same starting condition.",
-    "structuredExplanation": {
-      "summary": "Controlling starting temperature makes the comparison fairer.",
-      "hint": "Same starting condition."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Water quality requires appropriate tests, not appearance alone.\nHint: Separate water quantity from quality; visible clarity does not reveal dissolved substances.",
+    "structuredExplanation": {
+      "summary": "Water quality requires appropriate tests, not appearance alone.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-004",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "water",
     "printable": true,
     "type": "single",
-    "question": "A rainwater collector catches lots of water but tips over easily. What does this show?",
-    "audioPrompt": "A rainwater collector catches lots of water but tips over easily. What does this show?",
+    "question": "Why can a solar-powered treatment unit still need trained local operators?",
+    "audioPrompt": "Why can a solar-powered treatment unit still need trained local operators?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -112,31 +112,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A perfect solution",
-      "A result that should be hidden",
-      "A criterion that cannot be measured",
-      "A trade-off or weakness that needs redesign"
+      "Sunlight guarantees permanent success.",
+      "Its operation, maintenance and water quality need checking.",
+      "Training replaces every water test.",
+      "Scientific equipment can never develop faults."
     ],
-    "correct": 3,
-    "explanation": "The collector meets one goal but has a stability problem.\nHint: Benefit plus limitation.",
-    "structuredExplanation": {
-      "summary": "The collector meets one goal but has a stability problem.",
-      "hint": "Benefit plus limitation."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "A useful solution must continue meeting the community’s needs over time.\nHint: Separate water quantity from quality; visible clarity does not reveal dissolved substances.",
+    "structuredExplanation": {
+      "summary": "A useful solution must continue meeting the community’s needs over time.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-005",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "plants",
     "printable": true,
     "type": "single",
-    "question": "Which recommendation is best supported?",
-    "audioPrompt": "Which recommendation is best supported?",
+    "question": "Why can knowledge of a tree’s survival help people obtain bark sustainably?",
+    "audioPrompt": "Why can knowledge of a tree’s survival help people obtain bark sustainably?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -144,31 +144,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose the first idea",
-      "Choose the one not tested",
-      "Choose the sleeve that kept water coolest and still fit the cost limit",
-      "Choose the prettiest sleeve"
+      "It can guide choices that protect the living source of future material.",
+      "A tree can lose any amount of bark without harm.",
+      "Harvesting always makes trees grow faster.",
+      "Only the finished object matters."
     ],
-    "correct": 2,
-    "explanation": "The recommendation uses performance evidence and a constraint.\nHint: Evidence and limit.",
-    "structuredExplanation": {
-      "summary": "The recommendation uses performance evidence and a constraint.",
-      "hint": "Evidence and limit."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "The scientific link is between plant needs, harvesting decisions and continued resource supply.\nHint: Link the useful plant material to plant survival and future growth.",
+    "structuredExplanation": {
+      "summary": "The scientific link is between plant needs, harvesting decisions and continued resource supply.",
+      "hint": "Link the useful plant material to plant survival and future growth."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-006",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "plants",
     "printable": true,
     "type": "single",
-    "question": "A prototype is tested before the final product because:",
-    "audioPrompt": "A prototype is tested before the final product because:",
+    "question": "A learner says every First Nations community uses the same plant for artwork. What is the best correction?",
+    "audioPrompt": "A learner says every First Nations community uses the same plant for artwork. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -176,31 +176,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Criteria should be guessed later",
-      "Early evidence can guide improvements",
-      "Testing only works after selling it",
-      "Models cannot be changed"
+      "One example proves all communities use it.",
+      "Plant knowledge has no relationship to place.",
+      "A generic label is always more accurate.",
+      "Use the specific community and plant identified by a reliable source."
     ],
-    "correct": 1,
-    "explanation": "Prototype testing helps teams improve designs before final decisions.\nHint: Test early.",
-    "structuredExplanation": {
-      "summary": "Prototype testing helps teams improve designs before final decisions.",
-      "hint": "Test early."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "First Nations knowledges are diverse and connected with particular communities and environments.\nHint: Link the useful plant material to plant survival and future growth.",
+    "structuredExplanation": {
+      "summary": "First Nations knowledges are diverse and connected with particular communities and environments.",
+      "hint": "Link the useful plant material to plant survival and future growth."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-007",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "plastic",
     "printable": true,
     "type": "single",
-    "question": "Which is the best science link for an insulated cup design?",
-    "audioPrompt": "Which is the best science link for an insulated cup design?",
+    "question": "A plastic item fragments outdoors but the pieces remain. What decision does this evidence support?",
+    "audioPrompt": "A plastic item fragments outdoors but the pieces remain. What decision does this evidence support?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -208,31 +208,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Reducing heat transfer helps keep the drink temperature more stable",
-      "Adding a bigger sticker cools the drink",
-      "The cup name changes heat",
-      "Colour preference proves insulation"
+      "Small pieces prove there is no plastic left.",
+      "Fragmenting is the same as safe composting.",
+      "Prevent litter and use suitable collection rather than assuming it disappears.",
+      "Littering improves its useful lifetime."
     ],
-    "correct": 0,
-    "explanation": "The science explanation connects insulation to heat transfer.\nHint: Science behind feature.",
-    "structuredExplanation": {
-      "summary": "The science explanation connects insulation to heat transfer.",
-      "hint": "Science behind feature."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Persistence and fragmentation help explain why disposal matters.\nHint: Compare the useful property with what happens after use; fragmentation is not disappearance.",
+    "structuredExplanation": {
+      "summary": "Persistence and fragmentation help explain why disposal matters.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-008",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "plastic",
     "printable": true,
     "type": "single",
-    "question": "Which design claim wrongly overgeneralises?",
-    "audioPrompt": "Which design claim wrongly overgeneralises?",
+    "question": "Which statement uses a property to justify reusing a container?",
+    "audioPrompt": "Which statement uses a property to justify reusing a container?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -240,31 +240,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Criteria help judge success",
-      "Constraints limit choices",
-      "Evidence can improve designs",
-      "Best means best for every user and every situation"
+      "A bright colour guarantees it is safe forever.",
+      "Its durability allows repeated suitable use, reducing replacement.",
+      "All plastic lasts identically under all conditions.",
+      "Reuse means disposal instructions never matter."
     ],
-    "correct": 3,
-    "explanation": "The best design depends on the user, criteria and constraints.\nHint: Best for whom?",
-    "structuredExplanation": {
-      "summary": "The best design depends on the user, criteria and constraints.",
-      "hint": "Best for whom?"
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Durability can support reuse while the container remains fit for its purpose.\nHint: Compare the useful property with what happens after use; fragmentation is not disappearance.",
+    "structuredExplanation": {
+      "summary": "Durability can support reuse while the container remains fit for its purpose.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-009",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "friction",
     "printable": true,
     "type": "single",
-    "question": "A team chooses a heavier material because it survives all drop tests. What should they also consider?",
-    "audioPrompt": "A team chooses a heavier material because it survives all drop tests. What should they also consider?",
+    "question": "A bicycle needs to stop on a slippery surface. Which scientific idea is relevant?",
+    "audioPrompt": "A bicycle needs to stop on a slippery surface. Which scientific idea is relevant?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -272,31 +272,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Whether testing should stop forever",
-      "Whether evidence is unnecessary",
-      "Whether the mass still meets the user’s needs",
-      "Whether it has the longest name"
+      "Tyre-road grip and braking depend on friction.",
+      "Stopping requires gravity to switch off.",
+      "Friction occurs only without contact.",
+      "Every surface supplies identical grip."
     ],
-    "correct": 2,
-    "explanation": "A strong material may still be unsuitable if it is too heavy.\nHint: Check constraints.",
-    "structuredExplanation": {
-      "summary": "A strong material may still be unsuitable if it is too heavy.",
-      "hint": "Check constraints."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "Contact friction helps braking and grip; slippery conditions can limit them.\nHint: Identify the contacting surfaces and how their grip affects stopping.",
+    "structuredExplanation": {
+      "summary": "Contact friction helps braking and grip; slippery conditions can limit them.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-010",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "friction",
     "printable": true,
     "type": "single",
-    "question": "Which evidence would improve a claim about a bike helmet liner?",
-    "audioPrompt": "Which evidence would improve a claim about a bike helmet liner?",
+    "question": "Two brake-pad designs are compared on different wetness levels. Why is the conclusion weak?",
+    "audioPrompt": "Two brake-pad designs are compared on different wetness levels. Why is the conclusion weak?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -304,31 +304,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The price with no safety test",
-      "Impact-test results under the same drop conditions",
-      "The student’s favourite colour",
-      "A drawing without data"
+      "Water can never affect friction.",
+      "The best design needs no comparison.",
+      "A wetter surface guarantees the same grip.",
+      "Both pad design and surface condition changed."
     ],
-    "correct": 1,
-    "explanation": "Safety design claims need relevant test evidence.\nHint: Impact evidence.",
-    "structuredExplanation": {
-      "summary": "Safety design claims need relevant test evidence.",
-      "hint": "Impact evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Controlling relevant conditions helps identify the effect of the design.\nHint: Identify the contacting surfaces and how their grip affects stopping.",
+    "structuredExplanation": {
+      "summary": "Controlling relevant conditions helps identify the effect of the design.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-011",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "magnetism",
     "printable": true,
     "type": "single",
-    "question": "A first prototype leaks at the corner. What is the most evidence-based next step?",
-    "audioPrompt": "A first prototype leaks at the corner. What is the most evidence-based next step?",
+    "question": "A magnet lifts iron pieces from a mixture but leaves copper. What limit does this show?",
+    "audioPrompt": "A magnet lifts iron pieces from a mixture but leaves copper. What limit does this show?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -336,31 +336,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Change the corner seal and retest for leaks",
-      "Ignore the leak because the idea was first",
-      "Choose by decoration",
-      "Stop recording water"
+      "Copper must not be metal.",
+      "All metal has been removed.",
+      "Magnetic separation does not remove every metal.",
+      "Iron is attracted because of its colour only."
     ],
-    "correct": 0,
-    "explanation": "The redesign targets the observed weakness.\nHint: Fix what failed.",
-    "structuredExplanation": {
-      "summary": "The redesign targets the observed weakness.",
-      "hint": "Fix what failed."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Common magnets strongly attract iron but not copper. Other sorting methods may be needed.\nHint: Check which materials respond to a common magnet and which remain.",
+    "structuredExplanation": {
+      "summary": "Common magnets strongly attract iron but not copper. Other sorting methods may be needed.",
+      "hint": "Check which materials respond to a common magnet and which remain."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-012",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "magnetism",
     "printable": true,
     "type": "single",
-    "question": "Which pair is criterion and constraint?",
-    "audioPrompt": "Which pair is criterion and constraint?",
+    "question": "A food processor uses a magnet to remove suitable steel fragments. Which claim is too broad?",
+    "audioPrompt": "A food processor uses a magnet to remove suitable steel fragments. Which claim is too broad?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -368,31 +368,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Blue colour; funny team name",
-      "Favourite material; neat poster",
-      "Graph title; class vote",
-      "Keeps ice frozen for 3 hours; costs under $10"
+      "It can attract suitable steel fragments.",
+      "The magnet removes every type of contamination.",
+      "Other checks can still be needed.",
+      "Its effectiveness should be tested."
     ],
-    "correct": 3,
-    "explanation": "The first is measurable performance and the second is a limit.\nHint: Performance plus limit.",
-    "structuredExplanation": {
-      "summary": "The first is measurable performance and the second is a limit.",
-      "hint": "Performance plus limit."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Magnetic removal targets particular materials; it is not a universal safety check.\nHint: Check which materials respond to a common magnet and which remain.",
+    "structuredExplanation": {
+      "summary": "Magnetic removal targets particular materials; it is not a universal safety check.",
+      "hint": "Check which materials respond to a common magnet and which remain."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-013",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "water",
     "printable": true,
     "type": "single",
-    "question": "Why can a design that works in one test still need more testing?",
-    "audioPrompt": "Why can a design that works in one test still need more testing?",
+    "question": "A water-storage plan is successful during rainy months but runs short in the dry season. What should be considered?",
+    "audioPrompt": "A water-storage plan is successful during rainy months but runs short in the dry season. What should be considered?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -400,63 +400,64 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "More evidence always weakens claims",
-      "Working once means criteria do not matter",
-      "Different conditions may reveal new limitations",
-      "One test proves every future use"
+      "Supply and demand across different seasons.",
+      "Only the wettest month proves year-round success.",
+      "A tank creates rain whenever needed.",
+      "A scientific explanation removes seasonal changes."
     ],
-    "correct": 2,
-    "explanation": "Testing under varied relevant conditions checks reliability and limitations.\nHint: Conditions vary.",
-    "structuredExplanation": {
-      "summary": "Testing under varied relevant conditions checks reliability and limitations.",
-      "hint": "Conditions vary."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "A solution must be judged against the conditions and needs it is meant to meet.\nHint: Separate water quantity from quality; visible clarity does not reveal dissolved substances.",
+    "structuredExplanation": {
+      "summary": "A solution must be judged against the conditions and needs it is meant to meet.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-014",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "compost",
     "printable": true,
     "type": "single",
-    "question": "A school shade design must cool seats and let teachers see students. What does this show?",
-    "audioPrompt": "A school shade design must cool seats and let teachers see students. What does this show?",
-    "visual": "",
-    "visualHtml": "",
+    "question": "A facility’s sorting change reduces plastic contamination in compost from 12 pieces to 2 in equal-sized samples. Which conclusion fits?",
+    "audioPrompt": "A facility’s sorting change reduces plastic contamination in compost from 12 pieces to 2 in equal-sized samples. Which conclusion fits?",
+    "visual": "Equal-sized samples: twelve visible plastic pieces before the sorting change, two after.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Equal-sized samples: twelve visible plastic pieces before the sorting change, two after.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4h02/sorting-evidence.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02/sorting-evidence.svg#model",
+      "alt_text": "Equal-sized samples: twelve visible plastic pieces before the sorting change, two after."
     },
     "answers": [
-      "Criteria are opinions only",
-      "A solution may need to meet several criteria at once",
-      "Only cooling matters",
-      "Visibility cannot be a requirement"
+      "The process now removes all plastic forever.",
+      "The change had no effect because two remained.",
+      "The samples prove every facility behaves identically.",
+      "The change helped in these samples, but some contamination remains."
     ],
-    "correct": 1,
-    "explanation": "Real designs often need to satisfy multiple requirements.\nHint: Several needs.",
-    "structuredExplanation": {
-      "summary": "Real designs often need to satisfy multiple requirements.",
-      "hint": "Several needs."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "The evidence supports improvement with a remaining limitation, not a universal guarantee.\nHint: Think about living decomposers, suitable conditions and what remains in the output.",
+    "structuredExplanation": {
+      "summary": "The evidence supports improvement with a remaining limitation, not a universal guarantee.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-015",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "science application",
     "printable": true,
     "type": "single",
-    "question": "Which statement best evaluates an advertisement saying “science says this bottle is best”?",
-    "audioPrompt": "Which statement best evaluates an advertisement saying “science says this bottle is best”?",
+    "question": "A reusable bag is strong but too difficult for its user to carry. What should the designers do?",
+    "audioPrompt": "A reusable bag is strong but too difficult for its user to carry. What should the designers do?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -464,31 +465,31 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ask what tests, criteria, comparisons and limits support the claim",
-      "Accept it without evidence",
-      "Reject all science in products",
-      "Choose it for the label"
+      "Choose by strength alone regardless of the user.",
+      "Ignore the scientific test because needs differ.",
+      "Consider strength and the user’s carrying needs together.",
+      "Assume every user needs the same bag."
     ],
-    "correct": 0,
-    "explanation": "A scientific product claim should be backed by transparent evidence.\nHint: Check evidence.",
-    "structuredExplanation": {
-      "summary": "A scientific product claim should be backed by transparent evidence.",
-      "hint": "Check evidence."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Science helps explain performance, but a solution must meet the actual need.\nHint: Name the user’s need, the property that helps and the remaining limitation.",
+    "structuredExplanation": {
+      "summary": "Science helps explain performance, but a solution must meet the actual need.",
+      "hint": "Name the user’s need, the property that helps and the remaining limitation."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4h02-t-016",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using science to meet needs and solve problems",
+    "skill": "magnetism",
     "printable": true,
     "type": "single",
-    "question": "A group improves a bridge after measuring where it bent. What process is being used?",
-    "audioPrompt": "A group improves a bridge after measuring where it bent. What process is being used?",
+    "question": "Which explanation best connects a recycling action to science?",
+    "audioPrompt": "Which explanation best connects a recycling action to science?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -496,20 +497,22 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Precipitation",
-      "Food-chain modelling",
-      "Preference voting",
-      "Evidence-based redesign"
+      "The separator works because its name sounds scientific.",
+      "Magnetic attraction lets a separator lift suitable iron pieces from other materials.",
+      "All shiny objects must be attracted.",
+      "Any machine automatically solves every sorting problem."
     ],
-    "correct": 3,
-    "explanation": "They used test evidence to guide an improvement.\nHint: Data to redesign.",
-    "structuredExplanation": {
-      "summary": "They used test evidence to guide an improvement.",
-      "hint": "Data to redesign."
-    },
-    "difficulty": 3,
-    "difficultyTier": "independent",
+    "difficulty": 2,
+    "difficultyTier": "apply",
     "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "The explanation identifies the property, action and useful result.\nHint: Check which materials respond to a common magnet and which remain.",
+    "structuredExplanation": {
+      "summary": "The explanation identifies the property, action and useful result.",
+      "hint": "Check which materials respond to a common magnet and which remain."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

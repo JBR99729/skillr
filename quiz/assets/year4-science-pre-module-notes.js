@@ -6,52 +6,50 @@
     "code": "AC9S4H01",
     "topic": "Using Data to Develop Scientific Explanations",
     "source": {
-      "teacher_slide_ids": [
-        "Learning intention and success criteria",
-        "Concept refresher and visual clues",
-        "Guided worked example",
-        "60-second Quick Check / Turn and Talk"
+      "topic_path": "year4/science/ac9s4h01-examine-how-people-use-data-to-develop-scientific-explanations/index.html",
+      "classroom_path": "year4/science/ac9s4h01-examine-how-people-use-data-to-develop-scientific-explanations/teacher-slides/index.html",
+      "static_section_ids": [
+        "Read a repeated comparison"
       ],
       "model_ids": [
-        "Build a claim–evidence–reasoning explanation"
+        "Read a repeated comparison"
       ]
     },
     "pre_module_notes": {
-      "target_read_time_seconds": 71,
+      "target_read_time_seconds": 72,
       "title": "Read This Before You Start!",
-      "big_idea": "Scientific explanations become stronger when a clear claim is linked to relevant data and reasoning that explains what the pattern means.",
+      "big_idea": "Scientific explanations link a clear claim to relevant observations and reasoning, while acknowledging what the available evidence cannot tell us.",
       "key_rules": [
-        "Begin with a claim that answers the question. Choose evidence from observations or measurements that directly compare the conditions, not a favourite result or an unrelated number.",
-        "Evidence must come from relevant observations or measurements. Look for a repeated pattern and compare the two conditions fairly; one preferred value cannot support the whole explanation.",
-        "Reasoning is the link between the data and the claim. Say how the measured pattern supports your answer, and state any uncertainty or limitation that affects confidence."
+        "Find the question, method, results and conclusion when reading a research report. A labelled figure helps you see evidence, and references help you trace its source; an impressive title alone does not establish a claim.",
+        "Compare all the relevant observations under matching conditions. Look for a repeated pattern, explain how it supports your answer and check whether another difference could affect the result.",
+        "Listen for what researchers measured and what remains uncertain. Ecologists and hydrologists connect several kinds of observations, while new evidence can lead people to refine an explanation."
       ],
-      "memory_clue": "Picture the teacher deck’s three connected boxes. Claim: the dark surface warmed faster. Evidence: both started at thirty degrees Celsius, then one reached forty-four while the other reached thirty-seven in equal time. Reasoning: the repeated temperature pattern supports the comparison."
+      "memory_clue": "Picture the repeated car trials on smooth card and felt. The same car starts from the same ramp height, and every trial shows farther travel on card. That pattern supports a surface effect under those conditions, not a rule for every car."
     }
   },
   "AC9S4H02": {
     "code": "AC9S4H02",
     "topic": "Using Science to Meet Needs and Solve Problems",
     "source": {
-      "teacher_slide_ids": [
-        "Learning intention and success criteria",
-        "Concept refresher and visual clues",
-        "Guided worked example",
-        "60-second Quick Check / Turn and Talk"
+      "topic_path": "year4/science/ac9s4h02-consider-how-people-use-scientific-explanations-to-meet-a-need/index.html",
+      "classroom_path": "year4/science/ac9s4h02-consider-how-people-use-scientific-explanations-to-meet-a-need/teacher-slides/index.html",
+      "static_section_ids": [
+        "E1 · Decomposers solve a waste problem"
       ],
       "model_ids": [
-        "Turn heat-transfer science into an insulated-container design"
+        "E1 · Decomposers solve a waste problem"
       ]
     },
     "pre_module_notes": {
       "target_read_time_seconds": 72,
       "title": "Read This Before You Start!",
-      "big_idea": "Science helps people solve practical problems by turning an explanation into a design that can be tested, compared and improved.",
+      "big_idea": "People use scientific explanations to choose practical solutions, test whether those solutions meet a need and improve them using evidence.",
       "key_rules": [
-        "Start with the need, then choose the science idea that could help. Write a measurable success criterion, such as the drink’s temperature after two hours, before choosing materials.",
-        "A design must also fit constraints such as cost, mass, safety and reuse. Meeting one criterion does not make a solution perfect, because real choices involve trade-offs.",
-        "Test under stated conditions, record evidence and compare the result with the criterion. Use what the test shows to improve the design instead of trusting the first idea."
+        "Identify the need and explain why a proposed action could help. Link the action to a science idea, such as decomposers breaking down suitable waste or materials slowing heat transfer.",
+        "Choose useful checks before testing a design. Compare evidence with the stated goal, consider limits such as cost and safety, and revise a weak part when observations show a problem.",
+        "Use reliable, community appropriate sources when learning about First Nations knowledge. Name the specific people and context, and distinguish a classroom model from evidence that a real solution will work everywhere."
       ],
-      "memory_clue": "Picture the teacher deck’s path for an insulated container: keep a drink cool, reduce heat transfer, measure the temperature after two hours, choose materials, test, then improve. Each arrow moves from the need to evidence about whether the solution works."
+      "memory_clue": "Picture the compost model: suitable scraps enter a managed process, and decomposers help produce compost. Air and moisture support the process, but ordinary plastic must be sorted out. More time alone does not make every material suitable for composting."
     }
   },
   "AC9S4I01": {
@@ -297,26 +295,27 @@
     "code": "AC9S4U04",
     "topic": "Natural and Made Materials: Properties and Uses",
     "source": {
-      "teacher_slide_ids": [
-        "Learning intention and success criteria",
-        "Concept refresher and visual clues",
-        "Guided worked example",
-        "60-second Quick Check / Turn and Talk"
+      "topic_path": "year4/science/ac9s4u04-examine-the-properties-of-natural-and-made-materials-including/index.html",
+      "classroom_path": "year4/science/ac9s4u04-examine-the-properties-of-natural-and-made-materials-including/teacher-slides/index.html",
+      "static_section_ids": [
+        "Example 2: combine properties in a familiar object",
+        "Example 3: use test evidence for a decision"
       ],
       "model_ids": [
-        "Link material properties to function"
+        "Example 2: combine properties in a familiar object",
+        "Example 3: use test evidence for a decision"
       ]
     },
     "pre_module_notes": {
-      "target_read_time_seconds": 74,
+      "target_read_time_seconds": 72,
       "title": "Read This Before You Start!",
-      "big_idea": "Material choices work best when tested properties match a purpose; whether a material is natural or made does not decide its quality.",
+      "big_idea": "Materials are chosen for useful properties, and different parts of one object can need different materials to do their jobs.",
       "key_rules": [
-        "A property is an observable or measurable characteristic. Natural and made describe a material’s origin, not whether it is automatically safe, sustainable or suitable.",
-        "Compare properties with fair tests: keep sample dimensions, water volume, time, light or force consistent as needed, and record evidence for absorbency, strength, flexibility, transparency or water resistance.",
-        "Choose by weighing several useful properties and constraints, not by preference alone. A material can suit one job but fail another because every option can bring limitations or trade-offs."
+        "Name the object, its material and a relevant property separately. Describe what you can observe or measure, such as flexibility, absorbency or strength, then explain how that property helps the part work.",
+        "Compare samples fairly by keeping their dimensions, layers, water and testing time the same. Repeat observations and limit your conclusion to the property you actually tested; an absorbency result cannot establish strength.",
+        "Build and test a safe model, record any weak point and improve it using evidence. Check reliable information about material sources and current local collection rules before deciding how to reuse or recycle an item."
       ],
-      "memory_clue": "Picture the teacher deck’s material table. Cotton fibre bends and absorbs for clothing; steel is strong but may corrode; glass lets light through but is brittle; plastic is light and mouldable but brings disposal concerns. Each row links properties to a use and a limitation."
+      "memory_clue": "Picture the labelled shoe: its upper bends, its lining cushions and its sole grips. Then picture the sample chart: the most absorbent sample may suit wiping, but that result does not show which makes a waterproof roof."
     }
   }
 });

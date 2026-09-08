@@ -21,16 +21,16 @@ window.skillrTestQuestions = [
       "Transparency",
       "Absorbency"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Transparency lets light pass through so the contents can be seen.\nHint: See-through property.",
     "structuredExplanation": {
       "summary": "Transparency lets light pass through so the contents can be seen.",
       "hint": "See-through property."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-002",
@@ -48,21 +48,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Transparency and hardness only",
+      "Transparency and hardness",
       "Water resistance and flexibility",
       "Brittleness and absorbency",
-      "Magnetism and flavour"
+      "Rigidity and transparency"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Rainwear needs to resist water while remaining flexible.\nHint: Rain plus movement.",
     "structuredExplanation": {
       "summary": "Rainwear needs to resist water while remaining flexible.",
       "hint": "Rain plus movement."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-003",
@@ -81,20 +81,20 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "It can hold liquid but may break if hit hard",
-      "It is always stretchy",
-      "It is a natural fibre",
-      "It becomes magnetic when kicked"
+      "It is flexible enough to rebound like a ball",
+      "Its ability to hold liquid proves impact resistance",
+      "It must absorb the drink because it is ceramic"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
     "correct": 0,
     "explanation": "A material can suit one use and fail another because different properties matter.\nHint: Use changes the requirements.",
     "structuredExplanation": {
       "summary": "A material can suit one use and fail another because different properties matter.",
       "hint": "Use changes the requirements."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-004",
@@ -112,21 +112,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Use wider strips for the favourite fabric",
-      "Pull one fabric gently and one sharply",
-      "Stop when the colour looks strong",
-      "Use equal-width strips and add weight the same way"
+      "Use different strip lengths for each fabric",
+      "Add the same weights at different speeds",
+      "Use two layers of one fabric and one of the other",
+      "Use strips with the same dimensions and layers; add weights in the same way"
     ],
-    "correct": 3,
-    "explanation": "A fair strength test controls sample dimensions and method.\nHint: Same size and method.",
-    "structuredExplanation": {
-      "summary": "A fair strength test controls sample dimensions and method.",
-      "hint": "Same size and method."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 3,
+    "explanation": "Control dimensions, number of layers, support spacing and load method when comparing fabrics. Keep loads small and use adult supervision.\nHint: Same size and method.",
+    "structuredExplanation": {
+      "summary": "Control dimensions, number of layers, support spacing and load method when comparing fabrics. Keep loads small and use adult supervision.",
+      "hint": "Same size and method."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-005",
@@ -144,21 +144,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "They always last forever",
-      "They never need processing",
+      "Their source proves they have no environmental impact",
+      "They never need processing before use",
       "They still need evidence before judging safety or sustainability",
-      "They are always harmless"
+      "Natural origin guarantees the best choice for every product"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
     "correct": 2,
     "explanation": "Source alone does not prove safety, environmental impact or suitability.\nHint: Natural is not automatic proof.",
     "structuredExplanation": {
       "summary": "Source alone does not prove safety, environmental impact or suitability.",
       "hint": "Natural is not automatic proof."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-006",
@@ -167,8 +167,8 @@ window.skillrTestQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "Which made material is not plastic?",
-    "audioPrompt": "Which made material is not plastic?",
+    "question": "A local collection guide says clean metal cans are accepted but drinking glasses are not. Which action follows that evidence?",
+    "audioPrompt": "A local collection guide says clean metal cans are accepted but drinking glasses are not. Which action follows that evidence?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -176,21 +176,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Plastic bottle cap",
-      "Glass window pane",
-      "Plastic straw",
-      "Plastic lunch wrap"
+      "Put both in that recycling bin because both feel hard",
+      "Put the clean can in that recycling bin and follow the guide for the glass",
+      "Put only the glass in because it is transparent",
+      "Ignore the guide because all made materials are accepted"
     ],
-    "correct": 1,
-    "explanation": "Glass is a made or processed material, but it is not plastic.\nHint: Made can mean more than plastic.",
-    "structuredExplanation": {
-      "summary": "Glass is a made or processed material, but it is not plastic.",
-      "hint": "Made can mean more than plastic."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 1,
+    "explanation": "Follow the supplied collection evidence for each item. Being made from glass or metal does not by itself decide local collection.\nHint: Use the specific guide, not a general guess.",
+    "structuredExplanation": {
+      "summary": "Follow the supplied collection evidence for each item. Being made from glass or metal does not by itself decide local collection.",
+      "hint": "Use the specific guide, not a general guess."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-007",
@@ -209,20 +209,20 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "Results for leak resistance, strength, mass and safety",
-      "Which bottle has the coolest sticker",
-      "Which student guesses first",
-      "Whether the bottle name is longest"
+      "The most popular colour among older students",
+      "The container with the largest label",
+      "The material name that sounds most familiar"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
     "correct": 0,
     "explanation": "The choice should use relevant evidence about performance and safety.\nHint: Criteria and evidence.",
     "structuredExplanation": {
       "summary": "The choice should use relevant evidence about performance and safety.",
       "hint": "Criteria and evidence."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-008",
@@ -245,16 +245,16 @@ window.skillrTestQuestions = [
       "Magnetic attraction",
       "Brittleness"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
     "correct": 3,
     "explanation": "A brittle material can break suddenly rather than bend.\nHint: Breaks instead of bends.",
     "structuredExplanation": {
       "summary": "A brittle material can break suddenly rather than bend.",
       "hint": "Breaks instead of bends."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-009",
@@ -263,8 +263,8 @@ window.skillrTestQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "Why might cotton be chosen for a tea towel?",
-    "audioPrompt": "Why might cotton be chosen for a tea towel?",
+    "question": "Two cleaning pads absorb the same amount of water. In repeated wet-use tests, Pad A falls apart but Pad B stays together. Which choice best fits a reusable wiping-pad requirement?",
+    "audioPrompt": "Two cleaning pads absorb the same amount of water. In repeated wet-use tests, Pad A falls apart but Pad B stays together. Which choice best fits a reusable wiping-pad requirement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -272,21 +272,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It repels all water forever",
-      "It is strongly attracted to magnets",
-      "It can absorb water and bend easily",
-      "It is transparent and brittle"
+      "Pad A, because falling apart shows durability",
+      "Either pad, because absorbency is the only property that matters",
+      "Pad B, because it absorbs water and stays together when wet",
+      "Neither pad, because reusable pads must never absorb water"
     ],
-    "correct": 2,
-    "explanation": "Cotton fibres can soak up water and are flexible.\nHint: Absorbent fabric.",
-    "structuredExplanation": {
-      "summary": "Cotton fibres can soak up water and are flexible.",
-      "hint": "Absorbent fabric."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 2,
+    "explanation": "Both pads meet the tested absorbency need, but Pad B also remains intact during wet use. A reusable wiping pad needs more than one useful property.\nHint: Match both absorbing and staying intact to the job.",
+    "structuredExplanation": {
+      "summary": "Both pads meet the tested absorbency need, but Pad B also remains intact during wet use. A reusable wiping pad needs more than one useful property.",
+      "hint": "Match both absorbing and staying intact to the job."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-010",
@@ -304,21 +304,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Scratches make it transparent",
+      "A useful property removes every limitation",
       "A trade-off between useful and limiting properties",
-      "Plastic has no useful properties",
-      "Flexibility proves it is natural"
+      "Scratching proves that the material has no useful properties",
+      "Flexibility proves that the material came directly from a plant"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
     "correct": 1,
     "explanation": "A material can have benefits and drawbacks at the same time.\nHint: Benefit plus limitation.",
     "structuredExplanation": {
       "summary": "A material can have benefits and drawbacks at the same time.",
       "hint": "Benefit plus limitation."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-011",
@@ -329,28 +329,29 @@ window.skillrTestQuestions = [
     "type": "single",
     "question": "Which test result best supports water resistance?",
     "audioPrompt": "Which test result best supports water resistance?",
-    "visual": "",
-    "visualHtml": "",
+    "visual": "Same five-minute water test: Sample A dry underneath; Sample B wet underneath.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Same five-minute water test: Sample A dry underneath; Sample B wet underneath.\"><use href=\"/assets/assessment-visuals/year4/science/ac9s4u04/water-resistance.svg#model\"></use></svg>",
     "visualMeta": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04/water-resistance.svg#model",
+      "alt_text": "Same five-minute water test: Sample A dry underneath; Sample B wet underneath."
     },
     "answers": [
       "After equal water drops for five minutes, Sample A stayed dry underneath",
-      "Sample A was blue",
-      "Sample A had the smoothest label",
-      "Sample A was tested for half the time"
+      "Sample A was tested with less water",
+      "Sample A used three layers instead of one",
+      "Sample A was checked after half the time"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
     "correct": 0,
     "explanation": "Controlled water-drop evidence supports a water-resistance claim.\nHint: Use fair evidence.",
     "structuredExplanation": {
       "summary": "Controlled water-drop evidence supports a water-resistance claim.",
       "hint": "Use fair evidence."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-012",
@@ -368,21 +369,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It is always magnetic",
-      "It is a natural fibre",
-      "It absorbs all food",
+      "Being metal guarantees enough stiffness for any structure",
+      "Its thinness makes it stronger than every thick material",
+      "Food wrapping requires a material that absorbs the food",
       "It is light and bends easily but lacks enough strength for the frame"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
     "correct": 3,
     "explanation": "Different uses require different levels of strength, stiffness and flexibility.\nHint: Fit material to purpose.",
     "structuredExplanation": {
       "summary": "Different uses require different levels of strength, stiffness and flexibility.",
       "hint": "Fit material to purpose."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-013",
@@ -400,21 +401,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Does it absorb the most water?",
-      "Can it be torn like tissue?",
+      "Does it absorb water quickly enough?",
+      "Can it tear easily when stretched?",
       "Is it transparent, impact-resistant and safe near the eyes?",
-      "Is it the teacher’s favourite colour?"
+      "Does it block the view completely?"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
     "correct": 2,
     "explanation": "Safety goggles need clear vision and protection from impact.\nHint: Function and safety.",
     "structuredExplanation": {
       "summary": "Safety goggles need clear vision and protection from impact.",
       "hint": "Function and safety."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-014",
@@ -432,21 +433,21 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Absorbency cannot be tested",
+      "Absorbency must be guessed without observations",
       "Sample size is not controlled",
-      "The test has too many repeats",
-      "Water cannot be measured"
+      "The two samples must be the same colour",
+      "Water volume cannot be compared"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
     "correct": 1,
     "explanation": "Different sample sizes make the comparison unfair.\nHint: Control sample size.",
     "structuredExplanation": {
       "summary": "Different sample sizes make the comparison unfair.",
       "hint": "Control sample size."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-015",
@@ -455,8 +456,8 @@ window.skillrTestQuestions = [
     "skill": "natural and made materials properties and uses",
     "printable": true,
     "type": "single",
-    "question": "Which material would be poor for a transparent greenhouse roof?",
-    "audioPrompt": "Which material would be poor for a transparent greenhouse roof?",
+    "question": "Which material would fail the requirement for a clear, see-through greenhouse roof?",
+    "audioPrompt": "Which material would fail the requirement for a clear, see-through greenhouse roof?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -469,16 +470,16 @@ window.skillrTestQuestions = [
       "Clear polycarbonate",
       "Transparent acrylic"
     ],
-    "correct": 0,
-    "explanation": "An opaque material blocks the light needed for a see-through roof.\nHint: Greenhouse needs light.",
-    "structuredExplanation": {
-      "summary": "An opaque material blocks the light needed for a see-through roof.",
-      "hint": "Greenhouse needs light."
-    },
     "difficulty": 3,
     "difficultyTier": "independent",
     "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "correct": 0,
+    "explanation": "An opaque tarpaulin blocks a clear view and light. The specified roof needs transparency; some other greenhouse designs use translucent materials.\nHint: Use the stated clear-view requirement.",
+    "structuredExplanation": {
+      "summary": "An opaque tarpaulin blocks a clear view and light. The specified roof needs transparency; some other greenhouse designs use translucent materials.",
+      "hint": "Use the stated clear-view requirement."
+    },
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s4u04-t-016",
@@ -496,20 +497,22 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose steel because one property always decides",
-      "Choose plastic because made materials are all the same",
-      "Choose by preference only",
+      "Choose steel because strength decides every requirement",
+      "Choose plastic because all plastics perform identically",
+      "Choose the first material without comparing results",
       "Choose using evidence against the criteria, including benefits and limitations"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
     "correct": 3,
     "explanation": "A justified material choice compares evidence, criteria and trade-offs.\nHint: Evidence-based decision.",
     "structuredExplanation": {
       "summary": "A justified material choice compares evidence, criteria and trade-offs.",
       "hint": "Evidence-based decision."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

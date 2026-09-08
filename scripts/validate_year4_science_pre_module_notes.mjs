@@ -9,8 +9,8 @@ const errors = [];
 const assert = (condition, message) => { if (!condition) errors.push(message); };
 const wordCount = (value) => (String(value || "").match(/[\p{L}\p{N}]+(?:[’'-][\p{L}\p{N}]+)*/gu) || []).length;
 const proseFor = (notes) => [notes.big_idea, ...(notes.key_rules || []), notes.memory_clue].join(" ");
-const reviewedStaticCodes = new Set(["AC9S4U01", "AC9S4U02", "AC9S4U03"]);
-const reviewedModels = {"AC9S4U01": ["Read a feeding arrow", "Decomposers connect to every feeding level", "Compare two habitats"], "AC9S4U02": ["Make and test a water-cycle model (E4–E5)"], "AC9S4U03": ["E1 · Magnets pull and push", "E4 · Water can support an object", "E8 · Draw the force, not the journey"]};
+const reviewedStaticCodes = new Set(["AC9S4U01", "AC9S4U02", "AC9S4U03", "AC9S4U04", "AC9S4H01", "AC9S4H02"]);
+const reviewedModels = {"AC9S4U01": ["Read a feeding arrow", "Decomposers connect to every feeding level", "Compare two habitats"], "AC9S4U02": ["Make and test a water-cycle model (E4–E5)"], "AC9S4U03": ["E1 · Magnets pull and push", "E4 · Water can support an object", "E8 · Draw the force, not the journey"], "AC9S4U04": ["Example 2: combine properties in a familiar object", "Example 3: use test evidence for a decision"], "AC9S4H01": ["Read a repeated comparison"], "AC9S4H02": ["E1 · Decomposers solve a waste problem"]};
 const requiredSlideRoles = [
   "Learning intention and success criteria",
   "Concept refresher and visual clues",
@@ -104,7 +104,7 @@ for (const code of codes) {
     assert(config.maxQuestions === expectedQuestionCount, `${code} ${mode}: expected ${expectedQuestionCount}-question launch`);
     assert(config.shuffleQuestions === true && config.shuffleAnswers === true && config.questionCycle === false, `${code} ${mode}: bank selection changed`);
     assert(config.requireStudentName === !isPractice, `${code} ${mode}: student-name flow changed`);
-    const noteVersion = reviewedStaticCodes.has(code) ? "20260908-science-first-three" : "20260814-1";
+    const noteVersion = ["AC9S4U04", "AC9S4H01", "AC9S4H02"].includes(code) ? "20260908-science-next-three" : reviewedStaticCodes.has(code) ? "20260908-science-first-three" : "20260814-1";
     assert((html.match(/year4-science-pre-module-notes\.js\?v=[^"\s]+/g) || []).join("") === `year4-science-pre-module-notes.js?v=${noteVersion}`, `${code} ${mode}: shared source must load exactly once`);
     assert(html.indexOf("year4-science-pre-module-notes.js") < html.indexOf("/quiz/assets/script.js?v=117"), `${code} ${mode}: note source must load before engine`);
     assert(html.includes("/quiz/assets/style.css?v=115"), `${code} ${mode}: responsive style version missing`);
