@@ -4,28 +4,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-001",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "elapsed time",
+    "skill": "within hour duration",
     "printable": true,
     "type": "single",
-    "question": "At a coastal station, an activity starts at 9:15 and lasts 45 minutes. When does it finish?",
-    "audioPrompt": "At a coastal station, an activity starts at 9:15 and lasts 45 minutes. When does it finish?",
-    "visual": "At a coastal station: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-001\"></use></svg>",
+    "question": "On Friday a session runs from 3:18 pm to 3:52 pm. How long is it?",
+    "audioPrompt": "On Friday a session runs from 3:18 pm to 3:52 pm. How long is it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-001",
-      "alt_text": "At a coastal station: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "9:00",
-      "10:00",
-      "10:30"
+      "24 minutes",
+      "70 minutes",
+      "34 minutes",
+      "1 hour 34 minutes"
     ],
-    "correct": 1,
-    "explanation": "Elapsed minutes are added to the starting time.\nHint: Bridge to the next hour.",
+    "audioAnswers": [
+      "24 minutes",
+      "70 minutes",
+      "34 minutes",
+      "1 hour 34 minutes"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "52 − 18 = 34 minutes within the same hour.\nHint: The hour and day do not change.",
     "structuredExplanation": {
-      "summary": "Elapsed minutes are added to the starting time.",
-      "hint": "Bridge to the next hour."
+      "summary": "52 − 18 = 34 minutes within the same hour.",
+      "hint": "The hour and day do not change."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +41,38 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-002",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "convert time units",
+    "skill": "cross noon duration",
     "printable": true,
     "type": "single",
-    "question": "During a museum challenge, how many minutes are in 2 hours?",
-    "audioPrompt": "During a museum challenge, how many minutes are in 2 hours?",
-    "visual": "During a museum challenge: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-002\"></use></svg>",
+    "question": "A Thursday visit runs from 11:20 am to 1:05 pm. How long is it?",
+    "audioPrompt": "A Thursday visit runs from 11:20 am to 1:05 pm. How long is it?",
+    "visual": "Thursday: 11:20 am to noon is 40 minutes, then 1 hour 5 minutes to 1:05 pm.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Thursday: 11:20 am to noon is 40 minutes, then 1 hour 5 minutes to 1:05 pm.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#m-test-noon\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-002",
-      "alt_text": "During a museum challenge: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#m-test-noon",
+      "alt_text": "Thursday: 11:20 am to noon is 40 minutes, then 1 hour 5 minutes to 1:05 pm."
     },
     "answers": [
-      "200",
-      "62",
-      "120"
+      "2 hours 15 minutes",
+      "45 minutes",
+      "13 hours 45 minutes",
+      "1 hour 45 minutes"
     ],
-    "correct": 2,
-    "explanation": "Each hour contains 60 minutes.\nHint: Multiply the hours by 60.",
+    "audioAnswers": [
+      "2 hours 15 minutes",
+      "45 minutes",
+      "13 hours 45 minutes",
+      "1 hour 45 minutes"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "40 minutes to noon plus 1 hour 5 minutes after noon is 1 hour 45 minutes.\nHint: Combine the jumps across noon.",
     "structuredExplanation": {
-      "summary": "Each hour contains 60 minutes.",
-      "hint": "Multiply the hours by 60."
+      "summary": "40 minutes to noon plus 1 hour 5 minutes after noon is 1 hour 45 minutes.",
+      "hint": "Combine the jumps across noon."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +80,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-003",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "elapsed time",
+    "skill": "cross midnight duration",
     "printable": true,
     "type": "single",
-    "question": "At a charity event, an activity starts at 11:45 and lasts 75 minutes. When does it finish?",
-    "audioPrompt": "At a charity event, an activity starts at 11:45 and lasts 75 minutes. When does it finish?",
-    "visual": "At a charity event: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-003\"></use></svg>",
+    "question": "A film starts at 11:15 pm Saturday and ends at 12:50 am Sunday, the next day. What is its duration?",
+    "audioPrompt": "A film starts at 11:15 pm Saturday and ends at 12:50 am Sunday, the next day. What is its duration?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-003",
-      "alt_text": "At a charity event: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "13:00",
-      "11:00",
-      "13:30"
+      "1 hour 35 minutes",
+      "1 hour 65 minutes",
+      "35 minutes",
+      "13 hours 35 minutes"
     ],
+    "audioAnswers": [
+      "1 hour 35 minutes",
+      "1 hour 65 minutes",
+      "35 minutes",
+      "13 hours 35 minutes"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 3,
     "correct": 0,
-    "explanation": "Elapsed minutes are added to the starting time.\nHint: Bridge to the next hour.",
+    "explanation": "45 minutes to midnight plus 50 minutes after midnight is 95 minutes = 1 hour 35 minutes.\nHint: Use midnight at the start of Sunday.",
     "structuredExplanation": {
-      "summary": "Elapsed minutes are added to the starting time.",
-      "hint": "Bridge to the next hour."
+      "summary": "45 minutes to midnight plus 50 minutes after midnight is 95 minutes = 1 hour 35 minutes.",
+      "hint": "Use midnight at the start of Sunday."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +117,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-004",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "convert time units",
+    "skill": "find end across noon",
     "printable": true,
     "type": "single",
-    "question": "In an engineering workshop, how many minutes are in 4 hours?",
-    "audioPrompt": "In an engineering workshop, how many minutes are in 4 hours?",
-    "visual": "In an engineering workshop: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-004\"></use></svg>",
+    "question": "A Monday activity starts at 11:35 am and lasts 55 minutes. When does it end?",
+    "audioPrompt": "A Monday activity starts at 11:35 am and lasts 55 minutes. When does it end?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "400",
-      "240",
-      "64"
+      "12:30 am Monday",
+      "12:30 pm Monday",
+      "11:90 am Monday",
+      "1:30 pm Monday"
     ],
+    "audioAnswers": [
+      "12:30 am Monday",
+      "12:30 pm Monday",
+      "11:90 am Monday",
+      "1:30 pm Monday"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 4,
     "correct": 1,
-    "explanation": "Each hour contains 60 minutes.\nHint: Multiply the hours by 60.",
+    "explanation": "25 minutes reach noon, leaving 30 minutes: 12:30 pm Monday.\nHint: Account for all 55 minutes.",
     "structuredExplanation": {
-      "summary": "Each hour contains 60 minutes.",
-      "hint": "Multiply the hours by 60."
+      "summary": "25 minutes reach noon, leaving 30 minutes: 12:30 pm Monday.",
+      "hint": "Account for all 55 minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +154,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-005",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "elapsed time",
+    "skill": "find start across midnight",
     "printable": true,
     "type": "single",
-    "question": "At a regional carnival, an activity starts at 9:15 and lasts 45 minutes. When does it finish?",
-    "audioPrompt": "At a regional carnival, an activity starts at 9:15 and lasts 45 minutes. When does it finish?",
-    "visual": "At a regional carnival: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-005\"></use></svg>",
+    "question": "An event ends at 12:15 am Friday after 40 minutes. When did it start?",
+    "audioPrompt": "An event ends at 12:15 am Friday after 40 minutes. When did it start?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-005",
-      "alt_text": "At a regional carnival: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "9:00",
-      "10:30",
-      "10:00"
+      "11:35 pm Friday",
+      "12:55 am Friday",
+      "11:35 pm Thursday",
+      "11:75 pm Thursday"
     ],
+    "audioAnswers": [
+      "11:35 pm Friday",
+      "12:55 am Friday",
+      "11:35 pm Thursday",
+      "11:75 pm Thursday"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 5,
     "correct": 2,
-    "explanation": "Elapsed minutes are added to the starting time.\nHint: Bridge to the next hour.",
+    "explanation": "15 minutes back reach midnight at the start of Friday; 25 more reach 11:35 pm Thursday.\nHint: Move backwards across the day boundary.",
     "structuredExplanation": {
-      "summary": "Elapsed minutes are added to the starting time.",
-      "hint": "Bridge to the next hour."
+      "summary": "15 minutes back reach midnight at the start of Friday; 25 more reach 11:35 pm Thursday.",
+      "hint": "Move backwards across the day boundary."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +191,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-006",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "convert time units",
+    "skill": "mixed hours conversion",
     "printable": true,
     "type": "single",
-    "question": "During a farm study, how many minutes are in 3 hours?",
-    "audioPrompt": "During a farm study, how many minutes are in 3 hours?",
-    "visual": "During a farm study: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-006\"></use></svg>",
+    "question": "Convert 3 hours 5 minutes to minutes.",
+    "audioPrompt": "Convert 3 hours 5 minutes to minutes.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-006",
-      "alt_text": "During a farm study: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "180",
-      "300",
-      "63"
+      "305 minutes",
+      "180 minutes",
+      "35 minutes",
+      "185 minutes"
     ],
-    "correct": 0,
-    "explanation": "Each hour contains 60 minutes.\nHint: Multiply the hours by 60.",
+    "audioAnswers": [
+      "305 minutes",
+      "180 minutes",
+      "35 minutes",
+      "185 minutes"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 6,
+    "correct": 3,
+    "explanation": "3 × 60 + 5 = 180 + 5 = 185 minutes.\nHint: Convert the hours before adding the minutes.",
     "structuredExplanation": {
-      "summary": "Each hour contains 60 minutes.",
-      "hint": "Multiply the hours by 60."
+      "summary": "3 × 60 + 5 = 180 + 5 = 185 minutes.",
+      "hint": "Convert the hours before adding the minutes."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +228,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-007",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "elapsed time",
+    "skill": "mixed seconds conversion",
     "printable": true,
     "type": "single",
-    "question": "While reading a trail guide, an activity starts at 11:45 and lasts 75 minutes. When does it finish?",
-    "audioPrompt": "While reading a trail guide, an activity starts at 11:45 and lasts 75 minutes. When does it finish?",
-    "visual": "While reading a trail guide: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-007\"></use></svg>",
+    "question": "Write 205 seconds in minutes and seconds.",
+    "audioPrompt": "Write 205 seconds in minutes and seconds.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "11:00",
-      "13:00",
-      "13:30"
+      "3 minutes 25 seconds",
+      "2 minutes 5 seconds",
+      "3 minutes 45 seconds",
+      "20 minutes 5 seconds"
     ],
-    "correct": 1,
-    "explanation": "Elapsed minutes are added to the starting time.\nHint: Bridge to the next hour.",
+    "audioAnswers": [
+      "3 minutes 25 seconds",
+      "2 minutes 5 seconds",
+      "3 minutes 45 seconds",
+      "20 minutes 5 seconds"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "3 minutes is 180 seconds, leaving 25 seconds.\nHint: Group seconds in sixties.",
     "structuredExplanation": {
-      "summary": "Elapsed minutes are added to the starting time.",
-      "hint": "Bridge to the next hour."
+      "summary": "3 minutes is 180 seconds, leaving 25 seconds.",
+      "hint": "Group seconds in sixties."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +265,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-008",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "convert time units",
+    "skill": "compare durations",
     "printable": true,
     "type": "single",
-    "question": "In an architecture studio, how many minutes are in 2 hours?",
-    "audioPrompt": "In an architecture studio, how many minutes are in 2 hours?",
-    "visual": "In an architecture studio: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-008\"></use></svg>",
+    "question": "Which lasts longer: 95 minutes or 1 hour 40 minutes?",
+    "audioPrompt": "Which lasts longer: 95 minutes or 1 hour 40 minutes?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-008",
-      "alt_text": "In an architecture studio: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "200",
-      "62",
-      "120"
+      "95 minutes, by 5 minutes",
+      "1 hour 40 minutes, by 5 minutes",
+      "They are equal",
+      "1 hour 40 minutes, by 45 minutes"
     ],
-    "correct": 2,
-    "explanation": "Each hour contains 60 minutes.\nHint: Multiply the hours by 60.",
+    "audioAnswers": [
+      "95 minutes, by 5 minutes",
+      "1 hour 40 minutes, by 5 minutes",
+      "They are equal",
+      "1 hour 40 minutes, by 45 minutes"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "1 hour 40 minutes equals 100 minutes, which is 5 more than 95.\nHint: Convert to a common unit.",
     "structuredExplanation": {
-      "summary": "Each hour contains 60 minutes.",
-      "hint": "Multiply the hours by 60."
+      "summary": "1 hour 40 minutes equals 100 minutes, which is 5 more than 95.",
+      "hint": "Convert to a common unit."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +302,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-009",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "elapsed time",
+    "skill": "combine routine",
     "printable": true,
     "type": "single",
-    "question": "During a food-truck project, an activity starts at 9:15 and lasts 45 minutes. When does it finish?",
-    "audioPrompt": "During a food-truck project, an activity starts at 9:15 and lasts 45 minutes. When does it finish?",
-    "visual": "During a food-truck project: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-009\"></use></svg>",
+    "question": "A routine has four 30-second activities and three 20-second rests. What is its total duration?",
+    "audioPrompt": "A routine has four 30-second activities and three 20-second rests. What is its total duration?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-009",
-      "alt_text": "During a food-truck project: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "10:00",
-      "9:00",
-      "10:30"
+      "2 minutes 20 seconds",
+      "3 minutes 20 seconds",
+      "3 minutes",
+      "4 minutes"
     ],
-    "correct": 0,
-    "explanation": "Elapsed minutes are added to the starting time.\nHint: Bridge to the next hour.",
+    "audioAnswers": [
+      "2 minutes 20 seconds",
+      "3 minutes 20 seconds",
+      "3 minutes",
+      "4 minutes"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Activities use 120 seconds; rests use 60 seconds. Total 180 seconds = 3 minutes.\nHint: Use the stated number of rests.",
     "structuredExplanation": {
-      "summary": "Elapsed minutes are added to the starting time.",
-      "hint": "Bridge to the next hour."
+      "summary": "Activities use 120 seconds; rests use 60 seconds. Total 180 seconds = 3 minutes.",
+      "hint": "Use the stated number of rests."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +339,38 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-010",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "convert time units",
+    "skill": "schedule gap",
     "printable": true,
     "type": "single",
-    "question": "At a festival, how many minutes are in 4 hours?",
-    "audioPrompt": "At a festival, how many minutes are in 4 hours?",
-    "visual": "At a festival: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-010\"></use></svg>",
+    "question": "Using the Monday museum timetable, how long is the gap between the Red group finishing and the Blue group starting?",
+    "audioPrompt": "Using the Monday museum timetable, how long is the gap between the Red group finishing and the Blue group starting?",
+    "visual": "Monday museum visits: Red 9:40–10:25 am; Blue 10:35–11:20 am; Green 11:40 am–12:25 pm.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Monday museum visits: Red 9:40–10:25 am; Blue 10:35–11:20 am; Green 11:40 am–12:25 pm.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#m-test-schedule\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-010",
-      "alt_text": "At a festival: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#m-test-schedule",
+      "alt_text": "Monday museum visits: Red 9:40–10:25 am; Blue 10:35–11:20 am; Green 11:40 am–12:25 pm."
     },
     "answers": [
-      "400",
-      "240",
-      "64"
+      "20 minutes",
+      "35 minutes",
+      "45 minutes",
+      "10 minutes"
     ],
-    "correct": 1,
-    "explanation": "Each hour contains 60 minutes.\nHint: Multiply the hours by 60.",
+    "audioAnswers": [
+      "20 minutes",
+      "35 minutes",
+      "45 minutes",
+      "10 minutes"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 10,
+    "correct": 3,
+    "explanation": "The Red group ends at 10:25 am; Blue starts at 10:35 am. The gap is 10 minutes.\nHint: Read the finish of one event and start of the next.",
     "structuredExplanation": {
-      "summary": "Each hour contains 60 minutes.",
-      "hint": "Multiply the hours by 60."
+      "summary": "The Red group ends at 10:25 am; Blue starts at 10:35 am. The gap is 10 minutes.",
+      "hint": "Read the finish of one event and start of the next."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +378,38 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-011",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "elapsed time",
+    "skill": "schedule duration",
     "printable": true,
     "type": "single",
-    "question": "While organising a collection, an activity starts at 11:45 and lasts 75 minutes. When does it finish?",
-    "audioPrompt": "While organising a collection, an activity starts at 11:45 and lasts 75 minutes. When does it finish?",
-    "visual": "While organising a collection: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-011\"></use></svg>",
+    "question": "How long is the Green group’s Monday visit?",
+    "audioPrompt": "How long is the Green group’s Monday visit?",
+    "visual": "Monday museum visits: Red 9:40–10:25 am; Blue 10:35–11:20 am; Green 11:40 am–12:25 pm.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Monday museum visits: Red 9:40–10:25 am; Blue 10:35–11:20 am; Green 11:40 am–12:25 pm.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#m-test-schedule\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-011",
-      "alt_text": "While organising a collection: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#m-test-schedule",
+      "alt_text": "Monday museum visits: Red 9:40–10:25 am; Blue 10:35–11:20 am; Green 11:40 am–12:25 pm."
     },
     "answers": [
-      "11:00",
-      "13:30",
-      "13:00"
+      "45 minutes",
+      "85 minutes",
+      "1 hour 45 minutes",
+      "25 minutes"
     ],
-    "correct": 2,
-    "explanation": "Elapsed minutes are added to the starting time.\nHint: Bridge to the next hour.",
+    "audioAnswers": [
+      "45 minutes",
+      "85 minutes",
+      "1 hour 45 minutes",
+      "25 minutes"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 11,
+    "correct": 0,
+    "explanation": "11:40 am to noon is 20 minutes; noon to 12:25 pm is 25 minutes. Total 45.\nHint: Include both sides of noon.",
     "structuredExplanation": {
-      "summary": "Elapsed minutes are added to the starting time.",
-      "hint": "Bridge to the next hour."
+      "summary": "11:40 am to noon is 20 minutes; noon to 12:25 pm is 25 minutes. Total 45.",
+      "hint": "Include both sides of noon."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +417,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-012",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "convert time units",
+    "skill": "noon midnight",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, how many minutes are in 3 hours?",
-    "audioPrompt": "In an environmental study, how many minutes are in 3 hours?",
-    "visual": "In an environmental study: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-012\"></use></svg>",
+    "question": "Which label means the start of Sunday at midnight?",
+    "audioPrompt": "Which label means the start of Sunday at midnight?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-012",
-      "alt_text": "In an environmental study: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "180",
-      "300",
-      "63"
+      "12:00 pm Sunday",
+      "12:00 am Sunday",
+      "12:00 am Monday",
+      "11:00 pm Saturday"
     ],
-    "correct": 0,
-    "explanation": "Each hour contains 60 minutes.\nHint: Multiply the hours by 60.",
+    "audioAnswers": [
+      "12:00 pm Sunday",
+      "12:00 am Sunday",
+      "12:00 am Monday",
+      "11:00 pm Saturday"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 12,
+    "correct": 1,
+    "explanation": "Midnight starts the new day and is labelled 12:00 am.\nHint: Check day and am/pm together.",
     "structuredExplanation": {
-      "summary": "Each hour contains 60 minutes.",
-      "hint": "Multiply the hours by 60."
+      "summary": "Midnight starts the new day and is labelled 12:00 am.",
+      "hint": "Check day and am/pm together."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +454,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-013",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "elapsed time",
+    "skill": "cultural attribution",
     "printable": true,
     "type": "single",
-    "question": "During a transport survey, an activity starts at 9:15 and lasts 45 minutes. When does it finish?",
-    "audioPrompt": "During a transport survey, an activity starts at 9:15 and lasts 45 minutes. When does it finish?",
-    "visual": "During a transport survey: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-013\"></use></svg>",
+    "question": "The public ACARA account links Nyangumarta observation of Moon phases with months. Why can a repeating lunar pattern help mark time?",
+    "audioPrompt": "The public ACARA account links Nyangumarta observation of Moon phases with months. Why can a repeating lunar pattern help mark time?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-013",
-      "alt_text": "During a transport survey: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "9:00",
-      "10:00",
-      "10:30"
+      "Every lunar cycle is exactly 60 minutes.",
+      "The Moon stays in one phase forever.",
+      "A return to a similar phase marks another cycle.",
+      "Moon phases tell every bus’s start time."
     ],
-    "correct": 1,
-    "explanation": "Elapsed minutes are added to the starting time.\nHint: Bridge to the next hour.",
+    "audioAnswers": [
+      "Every lunar cycle is exactly 60 minutes.",
+      "The Moon stays in one phase forever.",
+      "A return to a similar phase marks another cycle.",
+      "Moon phases tell every bus’s start time."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 13,
+    "correct": 2,
+    "explanation": "A repeating sequence provides a returning marker. This does not mean a lunar cycle equals a fixed clock hour or gives a timetable.\nHint: Connect repetition with the passing of an interval.",
     "structuredExplanation": {
-      "summary": "Elapsed minutes are added to the starting time.",
-      "hint": "Bridge to the next hour."
+      "summary": "A repeating sequence provides a returning marker. This does not mean a lunar cycle equals a fixed clock hour or gives a timetable.",
+      "hint": "Connect repetition with the passing of an interval."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +491,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-014",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "convert time units",
+    "skill": "cultural stars",
     "printable": true,
     "type": "single",
-    "question": "At a strategy tournament, how many minutes are in 2 hours?",
-    "audioPrompt": "At a strategy tournament, how many minutes are in 2 hours?",
-    "visual": "At a strategy tournament: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-014\"></use></svg>",
+    "question": "Kirsten Banks, Wiradjuri, describes the Emu in the sky as a seasonal indicator in the National Museum’s Sky stories. Which conclusion stays within that account?",
+    "audioPrompt": "Kirsten Banks, Wiradjuri, describes the Emu in the sky as a seasonal indicator in the National Museum’s Sky stories. Which conclusion stays within that account?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "200",
-      "62",
-      "120"
+      "Every First Nations community has exactly the same calendar.",
+      "The pattern gives an exact race time in seconds.",
+      "The pattern changes only once and never returns.",
+      "A sky pattern can help identify a recurring season."
     ],
-    "correct": 2,
-    "explanation": "Each hour contains 60 minutes.\nHint: Multiply the hours by 60.",
+    "audioAnswers": [
+      "Every First Nations community has exactly the same calendar.",
+      "The pattern gives an exact race time in seconds.",
+      "The pattern changes only once and never returns.",
+      "A sky pattern can help identify a recurring season."
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 14,
+    "correct": 3,
+    "explanation": "The supplied public account connects a sky pattern and a recurring season. It does not establish one shared calendar for all communities or a stopwatch reading.\nHint: Use the scope of the named speaker’s public account.",
     "structuredExplanation": {
-      "summary": "Each hour contains 60 minutes.",
-      "hint": "Multiply the hours by 60."
+      "summary": "The supplied public account connects a sky pattern and a recurring season. It does not establish one shared calendar for all communities or a stopwatch reading.",
+      "hint": "Use the scope of the named speaker’s public account."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +528,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-015",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "elapsed time",
+    "skill": "create routine timetable",
     "printable": true,
-    "type": "single",
-    "question": "While planning a community garden, an activity starts at 11:45 and lasts 75 minutes. When does it finish?",
-    "audioPrompt": "While planning a community garden, an activity starts at 11:45 and lasts 75 minutes. When does it finish?",
-    "visual": "While planning a community garden: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "One plan: marching, 9:00:00–9:00:45 am; rest, 9:00:45–9:01:00 am; arm circles, 9:01:00–9:01:45 am; rest, 9:01:45–9:02:00 am; balancing, 9:02:00–9:02:45 am, all Tuesday. Total 3 × 45 + 2 × 15 = 165 seconds = 2 minutes 45 seconds.",
+    "acceptanceNote": "Require three named activities and exactly two rests, all five time intervals correct to the second, Tuesday morning context and both equivalent totals with working. Accept any suitable activity names.",
+    "responseInstructions": "Complete the requested drawing, writing or practical task on paper. Ask an adult to inspect the actual work against the model answer and task-specific checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Create a Tuesday exercise timetable beginning at 9:00 am. Include three activities of 45 seconds each, with a 15-second rest between activities and no rest at the end. Name the activities, write every start and finish time to the second, and write the total-duration calculation and give the total in seconds and minutes/seconds.",
+    "audioPrompt": "Create a Tuesday exercise timetable beginning at 9:00 am. Include three activities of 45 seconds each, with a 15-second rest between activities and no rest at the end. Name the activities, write every start and finish time to the second, and write the total-duration calculation and give the total in seconds and minutes/seconds.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-015",
-      "alt_text": "While planning a community garden: a Year 4 elapsed time reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "13:00",
-      "11:00",
-      "13:30"
-    ],
-    "correct": 0,
-    "explanation": "Elapsed minutes are added to the starting time.\nHint: Bridge to the next hour.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 15,
+    "correct": "One plan: marching, 9:00:00–9:00:45 am; rest, 9:00:45–9:01:00 am; arm circles, 9:01:00–9:01:45 am; rest, 9:01:45–9:02:00 am; balancing, 9:02:00–9:02:45 am, all Tuesday. Total 3 × 45 + 2 × 15 = 165 seconds = 2 minutes 45 seconds.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Elapsed minutes are added to the starting time.",
-      "hint": "Bridge to the next hour."
+      "summary": "One plan: marching, 9:00:00–9:00:45 am; rest, 9:00:45–9:01:00 am; arm circles, 9:01:00–9:01:45 am; rest, 9:01:45–9:02:00 am; balancing, 9:02:00–9:02:45 am, all Tuesday. Total 3 × 45 + 2 × 15 = 165 seconds = 2 minutes 45 seconds.",
+      "hint": "Convert at each 60-second boundary and count only the two rests."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +560,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4m03-t-016",
     "curriculumCode": "AC9M4M03",
     "bank": "test",
-    "skill": "convert time units",
+    "skill": "explain mixed overnight duration",
     "printable": true,
-    "type": "single",
-    "question": "In a design exhibition, how many minutes are in 4 hours?",
-    "audioPrompt": "In a design exhibition, how many minutes are in 4 hours?",
-    "visual": "In a design exhibition: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "There are 1 hour 20 minutes from 10:40 pm Thursday to midnight at the start of Friday, then 25 minutes to arrival. Total 1 hour 45 minutes = 105 minutes. The minutes digits alone omit elapsed hours and the change of day. Clock minutes restart after 60, not 100.",
+    "acceptanceNote": "Require both days and am/pm, a labelled midnight point, valid jump durations, both totals and a specific explanation about hours/day and base-60 clock minutes. Accept equivalent correct timeline partitions.",
+    "responseInstructions": "Complete the requested drawing, writing or practical task on paper. Ask an adult to inspect the actual work against the model answer and task-specific checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "A coach leaves at 10:40 pm Thursday and arrives at 12:25 am Friday, the next day, using the same local time. Draw a timeline through midnight and label each elapsed jump. Find the duration in hours/minutes and in minutes, and explain why subtracting 40 from 25 does not solve the problem.",
+    "audioPrompt": "A coach leaves at 10:40 pm Thursday and arrives at 12:25 am Friday, the next day, using the same local time. Draw a timeline through midnight and label each elapsed jump. Find the duration in hours/minutes and in minutes, and explain why subtracting 40 from 25 does not solve the problem.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#ac9m4m03-t-016",
-      "alt_text": "In a design exhibition: a Year 4 convert time units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "400",
-      "240",
-      "64"
-    ],
-    "correct": 1,
-    "explanation": "Each hour contains 60 minutes.\nHint: Multiply the hours by 60.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 16,
+    "correct": "There are 1 hour 20 minutes from 10:40 pm Thursday to midnight at the start of Friday, then 25 minutes to arrival. Total 1 hour 45 minutes = 105 minutes. The minutes digits alone omit elapsed hours and the change of day. Clock minutes restart after 60, not 100.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Each hour contains 60 minutes.",
-      "hint": "Multiply the hours by 60."
+      "summary": "There are 1 hour 20 minutes from 10:40 pm Thursday to midnight at the start of Friday, then 25 minutes to arrival. Total 1 hour 45 minutes = 105 minutes. The minutes digits alone omit elapsed hours and the change of day. Clock minutes restart after 60, not 100.",
+      "hint": "Count actual elapsed intervals, keeping the midnight boundary visible."
     },
     "qualitySchema": "production-v1"
   }

@@ -1,0 +1,64 @@
+{
+  "base_before_work": "c3a1073ccf167a3153c1528a079125a7c144cf48",
+  "latest_main": "348109b09c055ee54a56abf74ef77b3f27d6ba1c",
+  "purpose": "Preserve newer main video navigation additions without replacing authored teaching. All upstream changes to these five pages are insertions.",
+  "pages": [
+    {
+      "code": "AC9M4A02",
+      "path": "year4/maths/ac9m4a02-recall-and-demonstrate-proficiency-with-multiplication-facts-up/index.html",
+      "authored_before_sha256": "ee9f54ee12e0bb731f41b136ae21e880e1ceb60e06b1df8741c22790053c2a09",
+      "integrated_sha256": "b2037a0b2ec5aaefe9d1fcb7da1ea5f133005b2fc7611667250c253fc681fa09",
+      "upstream_insertions": [
+        "><!-- skillr-video-shortcut:start --><p class=\"skillr-video-shortcut\" id=\"skillr-written-lesson\"><span>Need another explanation?</span> <a href=\"#skillr-video-explanation\">Watch a video</a></p><!-- skillr-video-shortcut:end --",
+        " id=\"skillr-video-explanation\" tabindex=\"-1\"",
+        "</p><p><a href=\"#skillr-written-lesson\">Back to the lesson</a>"
+      ]
+    },
+    {
+      "code": "AC9M4M01",
+      "path": "year4/maths/ac9m4m01-interpret-unmarked-and-partial-units-when-measuring-and/index.html",
+      "authored_before_sha256": "57c21d67714b47daa0303977ef7d89760399c35f0bb59fa59de1f7d54f85d965",
+      "integrated_sha256": "a786f5b1eb0ae9fbdff89437f9e8cd708164fdaee9b0f73752ffb8903fa01d5b",
+      "upstream_insertions": [
+        "><!-- skillr-video-shortcut:start --><p class=\"skillr-video-shortcut\" id=\"skillr-written-lesson\"><span>Need another explanation?</span> <a href=\"#skillr-video-explanation\">Watch a video</a></p><!-- skillr-video-shortcut:end --",
+        " id=\"skillr-video-explanation\" tabindex=\"-1\"",
+        "</p><p><a href=\"#skillr-written-lesson\">Back to the lesson</a>"
+      ]
+    },
+    {
+      "code": "AC9M4M02",
+      "path": "year4/maths/ac9m4m02-ways-of-measuring-and-approximating-the-perimeter-and-area-of/index.html",
+      "authored_before_sha256": "179a9c2003851d73b0e35dea64b350e196e18181c1d5824abe1a84067323480b",
+      "integrated_sha256": "47b0099d0cd7f6f8523313bd1cbdc7443b8bb1c43f42744c6465d1114f04f358",
+      "upstream_insertions": [
+        "><!-- skillr-video-shortcut:start --><p class=\"skillr-video-shortcut\" id=\"skillr-written-lesson\"><span>Need another explanation?</span> <a href=\"#skillr-video-explanation\">Watch a video</a></p><!-- skillr-video-shortcut:end --",
+        " id=\"skillr-video-explanation\" tabindex=\"-1\"",
+        "</p><p><a href=\"#skillr-written-lesson\">Back to the lesson</a>"
+      ],
+      "post_integration_citation_change": "The architecture gate also prohibits direct PDF links on Topic pages. The ALFA annual-report link was changed to a cite element with identical visible source name/pages. The primary URL is retained in evidence reports; teaching text and video navigation are unchanged.",
+      "release_sha256": "2515a556e758612cfc64f2d6a8cea20401f6b04538c46e596ff65aa818ffa069"
+    },
+    {
+      "code": "AC9M4M03",
+      "path": "year4/maths/ac9m4m03-solve-problems-involving-the-duration-of-time-including/index.html",
+      "authored_before_sha256": "d4feae82d95a7e8a7a7feb328d953ca688a312a3ae66610b8b8ec72277855224",
+      "integrated_sha256": "0bfc09ec51a89fa21da771ded45bf220a29dbaef635c4b4be367839e65eda759",
+      "upstream_insertions": [
+        "><!-- skillr-video-shortcut:start --><p class=\"skillr-video-shortcut\" id=\"skillr-written-lesson\"><span>Need another explanation?</span> <a href=\"#skillr-video-explanation\">Watch a video</a></p><!-- skillr-video-shortcut:end --",
+        " id=\"skillr-video-explanation\" tabindex=\"-1\"",
+        "</p><p><a href=\"#skillr-written-lesson\">Back to the lesson</a>"
+      ]
+    },
+    {
+      "code": "AC9M4M04",
+      "path": "year4/maths/ac9m4m04-estimate-and-compare-angles-using-angle-names-including-acute/index.html",
+      "authored_before_sha256": "7e8dce506667d8a83701c524179031778eebca4fb33175040b4c0f90008d9f0f",
+      "integrated_sha256": "143f5ee0ad84cd822e97a23f78147fd02d8afc0e7630869a7db637e9434e877e",
+      "upstream_insertions": [
+        "><!-- skillr-video-shortcut:start --><p class=\"skillr-video-shortcut\" id=\"skillr-written-lesson\"><span>Need another explanation?</span> <a href=\"#skillr-video-explanation\">Watch a video</a></p><!-- skillr-video-shortcut:end --",
+        " id=\"skillr-video-explanation\" tabindex=\"-1\"",
+        "</p><p><a href=\"#skillr-written-lesson\">Back to the lesson</a>"
+      ]
+    }
+  ]
+}

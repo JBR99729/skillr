@@ -5,32 +5,34 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "perimeter",
-    "question": "In a class project, a rectangle is 5 m by 3 m. What is its perimeter?",
-    "audio_prompt": "In a class project, a rectangle is 5 m by 3 m. What is its perimeter?",
+    "skill": "boundary_or_area",
+    "question": "A gardener wants edging all the way around a garden bed. Which measurement is needed?",
+    "audio_prompt": "A gardener wants edging all the way around a garden bed. Which measurement is needed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-001",
-      "alt_text": "In a class project: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "16 m",
+        "text": "Perimeter",
         "is_correct": true
       },
       {
-        "text": "15 m",
+        "text": "Area",
         "is_correct": false
       },
       {
-        "text": "18 m",
+        "text": "Mass",
+        "is_correct": false
+      },
+      {
+        "text": "Height",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
+      "summary": "Edging follows the boundary, so the gardener needs the total distance around it.",
+      "hint": "Ask whether the material goes around or covers."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -42,36 +44,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "area",
-    "question": "At the school market, a rectangle is 6 m by 5 m. What is its area?",
-    "audio_prompt": "At the school market, a rectangle is 6 m by 5 m. What is its area?",
+    "skill": "boundary_or_area",
+    "question": "A classroom floor will be covered with square carpet tiles. Which measurement is needed?",
+    "audio_prompt": "A classroom floor will be covered with square carpet tiles. Which measurement is needed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-002",
-      "alt_text": "At the school market: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "29 m²",
+        "text": "Duration",
         "is_correct": false
       },
       {
-        "text": "30 m²",
+        "text": "Area",
         "is_correct": true
       },
       {
-        "text": "32 m²",
+        "text": "Perimeter",
+        "is_correct": false
+      },
+      {
+        "text": "Length of just one edge",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
+      "summary": "Area measures the surface to cover. The square tiles cover that surface.",
+      "hint": "Which attribute describes covering?"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4M02-P-003",
@@ -79,36 +83,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "perimeter",
-    "question": "While planning a garden, a rectangle is 7 m by 7 m. What is its perimeter?",
-    "audio_prompt": "While planning a garden, a rectangle is 7 m by 7 m. What is its perimeter?",
+    "skill": "perimeter_units",
+    "question": "Which is a suitable formal unit for the perimeter of a small picture frame?",
+    "audio_prompt": "Which is a suitable formal unit for the perimeter of a small picture frame?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-003",
-      "alt_text": "While planning a garden: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "27 m",
+        "text": "Square centimetres",
         "is_correct": false
       },
       {
-        "text": "30 m",
+        "text": "Litres",
         "is_correct": false
       },
       {
-        "text": "28 m",
+        "text": "Centimetres",
         "is_correct": true
+      },
+      {
+        "text": "Square metres",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
+      "summary": "Perimeter is length around the edge and can be recorded in centimetres.",
+      "hint": "Perimeter measures length."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 3
   },
   {
     "id": "AC9M4M02-P-004",
@@ -116,36 +122,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "area",
-    "question": "During a sports challenge, a rectangle is 8 m by 3 m. What is its area?",
-    "audio_prompt": "During a sports challenge, a rectangle is 8 m by 3 m. What is its area?",
+    "skill": "area_units",
+    "question": "Which formal unit suits recording the area of a classroom floor?",
+    "audio_prompt": "Which formal unit suits recording the area of a classroom floor?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-004",
-      "alt_text": "During a sports challenge: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "24 m²",
+        "text": "Metres",
+        "is_correct": false
+      },
+      {
+        "text": "Kilograms",
+        "is_correct": false
+      },
+      {
+        "text": "Litres",
+        "is_correct": false
+      },
+      {
+        "text": "Square metres",
         "is_correct": true
-      },
-      {
-        "text": "23 m²",
-        "is_correct": false
-      },
-      {
-        "text": "26 m²",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
+      "summary": "Square metres describe surface coverage at a useful scale for a room.",
+      "hint": "Area uses square units."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 4
   },
   {
     "id": "AC9M4M02-P-005",
@@ -153,36 +161,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "perimeter",
-    "question": "At the wildlife centre, a rectangle is 9 m by 5 m. What is its perimeter?",
-    "audio_prompt": "At the wildlife centre, a rectangle is 9 m by 5 m. What is its perimeter?",
+    "skill": "grid_perimeter",
+    "question": "What is the perimeter of the orange boundary?",
+    "audio_prompt": "What is the perimeter of the orange boundary?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-005",
-      "alt_text": "At the wildlife centre: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-rect64",
+      "alt_text": "Rectangle: 6 by 4. 4 rows of 6 equal squares. Each small square side is 1 unit. Only the outer boundary is orange."
     },
     "answers": [
       {
-        "text": "27 m",
-        "is_correct": false
-      },
-      {
-        "text": "28 m",
+        "text": "20 units",
         "is_correct": true
       },
       {
-        "text": "30 m",
+        "text": "10 units",
+        "is_correct": false
+      },
+      {
+        "text": "24 units",
+        "is_correct": false
+      },
+      {
+        "text": "14 units",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
+      "summary": "The rectangle has sides 6, 4, 6 and 4 units: 6 + 4 + 6 + 4 = 20 units.",
+      "hint": "Count the lengths around the outside, not internal lines."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 5
   },
   {
     "id": "AC9M4M02-P-006",
@@ -190,36 +202,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "area",
-    "question": "In the makerspace, a rectangle is 10 m by 7 m. What is its area?",
-    "audio_prompt": "In the makerspace, a rectangle is 10 m by 7 m. What is its area?",
+    "skill": "grid_area",
+    "question": "What is the area of the blue rectangle?",
+    "audio_prompt": "What is the area of the blue rectangle?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-006",
-      "alt_text": "In the makerspace: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-rect64",
+      "alt_text": "Rectangle: 6 by 4. 4 rows of 6 equal squares. Each small square side is 1 unit. Only the outer boundary is orange."
     },
     "answers": [
       {
-        "text": "69 m²",
+        "text": "20 square units",
         "is_correct": false
       },
       {
-        "text": "72 m²",
-        "is_correct": false
-      },
-      {
-        "text": "70 m²",
+        "text": "24 square units",
         "is_correct": true
+      },
+      {
+        "text": "24 units of length",
+        "is_correct": false
+      },
+      {
+        "text": "12 square units",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
+      "summary": "Four rows of six equal squares cover the region: 24 square units.",
+      "hint": "Count the square tiles covering the surface."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 6
   },
   {
     "id": "AC9M4M02-P-007",
@@ -227,36 +243,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "perimeter",
-    "question": "While checking a map, a rectangle is 11 m by 3 m. What is its perimeter?",
-    "audio_prompt": "While checking a map, a rectangle is 11 m by 3 m. What is its perimeter?",
+    "skill": "internal_lines",
+    "question": "Why are the internal grid lines excluded when measuring perimeter?",
+    "audio_prompt": "Why are the internal grid lines excluded when measuring perimeter?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-007",
-      "alt_text": "While checking a map: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-rect53",
+      "alt_text": "Rectangle: 5 by 3. 3 rows of 5 equal squares. Each small square side is 1 cm. Only the outer boundary is orange."
     },
     "answers": [
       {
-        "text": "28 m",
+        "text": "They have no length",
+        "is_correct": false
+      },
+      {
+        "text": "They must all be added twice",
+        "is_correct": false
+      },
+      {
+        "text": "They are inside the shape, not on its boundary",
         "is_correct": true
       },
       {
-        "text": "27 m",
-        "is_correct": false
-      },
-      {
-        "text": "30 m",
+        "text": "They should be subtracted from the boundary lengths",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
+      "summary": "Perimeter follows only the outside boundary. Interior lines partition area but are not boundary lengths.",
+      "hint": "Trace one full trip around the outside."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 7
   },
   {
     "id": "AC9M4M02-P-008",
@@ -264,36 +284,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "area",
-    "question": "During a cooking task, a rectangle is 4 m by 5 m. What is its area?",
-    "audio_prompt": "During a cooking task, a rectangle is 4 m by 5 m. What is its area?",
+    "skill": "informal_length_units",
+    "question": "A bed’s boundary measures 24 short sticks or 12 long sticks with no gaps. What follows if all sticks of each type are equal?",
+    "audio_prompt": "A bed’s boundary measures 24 short sticks or 12 long sticks with no gaps. What follows if all sticks of each type are equal?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-008",
-      "alt_text": "During a cooking task: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "19 m²",
+        "text": "One short stick is twice as long as one long stick",
         "is_correct": false
       },
       {
-        "text": "20 m²",
+        "text": "The bed changed size",
+        "is_correct": false
+      },
+      {
+        "text": "Add 24 and 12 to get the perimeter in metres",
+        "is_correct": false
+      },
+      {
+        "text": "One long stick is twice as long as one short stick",
         "is_correct": true
-      },
-      {
-        "text": "22 m²",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
+      "summary": "The same boundary uses half as many long sticks. Each long stick covers twice the length.",
+      "hint": "The measured boundary stays the same."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 8
   },
   {
     "id": "AC9M4M02-P-009",
@@ -301,35 +323,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "perimeter",
-    "question": "At the community fair, a rectangle is 5 m by 7 m. What is its perimeter?",
-    "audio_prompt": "At the community fair, a rectangle is 5 m by 7 m. What is its perimeter?",
+    "skill": "rectangle_boundary",
+    "question": "How long is the boundary of this 5 cm by 3 cm rectangle?",
+    "audio_prompt": "How long is the boundary of this 5 cm by 3 cm rectangle?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-009",
-      "alt_text": "At the community fair: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-rect53",
+      "alt_text": "Rectangle: 5 by 3. 3 rows of 5 equal squares. Each small square side is 1 cm. Only the outer boundary is orange."
     },
     "answers": [
       {
-        "text": "23 m",
-        "is_correct": false
-      },
-      {
-        "text": "26 m",
-        "is_correct": false
-      },
-      {
-        "text": "24 m",
+        "text": "16 cm",
         "is_correct": true
+      },
+      {
+        "text": "15 cm",
+        "is_correct": false
+      },
+      {
+        "text": "8 cm",
+        "is_correct": false
+      },
+      {
+        "text": "10 cm",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
+      "summary": "Add all four sides: 5 + 3 + 5 + 3 = 16 cm.",
+      "hint": "Opposite sides of a rectangle have equal lengths."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M4M02-P-010",
@@ -337,35 +364,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "area",
-    "question": "In a library display, a rectangle is 6 m by 3 m. What is its area?",
-    "audio_prompt": "In a library display, a rectangle is 6 m by 3 m. What is its area?",
+    "skill": "rectangle_boundary",
+    "question": "A rectangular paddock is 7 m long and 2 m wide. What fence length surrounds it with no gate opening?",
+    "audio_prompt": "A rectangular paddock is 7 m long and 2 m wide. What fence length surrounds it with no gate opening?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-010",
-      "alt_text": "In a library display: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-rect72",
+      "alt_text": "Rectangle: 7 by 2. 2 rows of 7 equal squares. Each small square side is 1 m. Only the outer boundary is orange."
     },
     "answers": [
       {
-        "text": "18 m²",
+        "text": "14 m",
+        "is_correct": false
+      },
+      {
+        "text": "18 m",
         "is_correct": true
       },
       {
-        "text": "17 m²",
+        "text": "9 m",
         "is_correct": false
       },
       {
-        "text": "20 m²",
+        "text": "16 m",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
+      "summary": "Two sides are 7 m and two are 2 m. 7 + 2 + 7 + 2 = 18 m.",
+      "hint": "Include every side once."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M4M02-P-011",
@@ -373,35 +405,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "perimeter",
-    "question": "During a science activity, a rectangle is 7 m by 5 m. What is its perimeter?",
-    "audio_prompt": "During a science activity, a rectangle is 7 m by 5 m. What is its perimeter?",
+    "skill": "efficient_perimeter",
+    "question": "Which is an efficient correct way to find the perimeter of a 12 m by 8 m rectangle?",
+    "audio_prompt": "Which is an efficient correct way to find the perimeter of a 12 m by 8 m rectangle?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-011",
-      "alt_text": "During a science activity: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "23 m",
+        "text": "12 + 8",
         "is_correct": false
       },
       {
-        "text": "24 m",
+        "text": "12 × 8",
+        "is_correct": false
+      },
+      {
+        "text": "12 + 8 + 12 + 8",
         "is_correct": true
       },
       {
-        "text": "26 m",
+        "text": "12 + 12 + 8",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
+      "summary": "Adding the four side lengths gives the whole boundary. Multiplying rows and columns finds area.",
+      "hint": "Track all four boundary lengths."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M4M02-P-012",
@@ -409,35 +444,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "area",
-    "question": "At the school canteen, a rectangle is 8 m by 7 m. What is its area?",
-    "audio_prompt": "At the school canteen, a rectangle is 8 m by 7 m. What is its area?",
+    "skill": "square_perimeter",
+    "question": "What is the perimeter of this square?",
+    "audio_prompt": "What is the perimeter of this square?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-012",
-      "alt_text": "At the school canteen: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-square4",
+      "alt_text": "Rectangle: 4 by 4. 4 rows of 4 equal squares. Each small square side is 1 cm. Only the outer boundary is orange."
     },
     "answers": [
       {
-        "text": "55 m²",
+        "text": "8 cm",
         "is_correct": false
       },
       {
-        "text": "58 m²",
+        "text": "4 cm",
         "is_correct": false
       },
       {
-        "text": "56 m²",
+        "text": "12 cm",
+        "is_correct": false
+      },
+      {
+        "text": "16 cm",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
+      "summary": "All four sides are 4 cm. 4 + 4 + 4 + 4 = 16 cm.",
+      "hint": "A square has four equal boundary sides."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M4M02-P-013",
@@ -445,35 +485,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "perimeter",
-    "question": "While organising an excursion, a rectangle is 9 m by 3 m. What is its perimeter?",
-    "audio_prompt": "While organising an excursion, a rectangle is 9 m by 3 m. What is its perimeter?",
+    "skill": "same_area_different_boundary",
+    "question": "Which rectangle has the longer perimeter?",
+    "audio_prompt": "Which rectangle has the longer perimeter?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-013",
-      "alt_text": "While organising an excursion: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-equalarea",
+      "alt_text": "Rectangle A has 4 columns and 3 rows. Rectangle B has 6 columns and 2 rows. Both use 1 cm square tiles."
     },
     "answers": [
       {
-        "text": "24 m",
+        "text": "B",
         "is_correct": true
       },
       {
-        "text": "23 m",
+        "text": "A",
         "is_correct": false
       },
       {
-        "text": "26 m",
+        "text": "Their perimeters are equal",
+        "is_correct": false
+      },
+      {
+        "text": "The boundaries cannot be compared because the areas are equal",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
+      "summary": "A has perimeter 4 + 3 + 4 + 3 = 14 cm. B has 6 + 2 + 6 + 2 = 16 cm. Both areas are 12 cm².",
+      "hint": "Compare boundary sums, not tile totals."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13
   },
   {
     "id": "AC9M4M02-P-014",
@@ -481,35 +526,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "area",
-    "question": "In a games club, a rectangle is 10 m by 5 m. What is its area?",
-    "audio_prompt": "In a games club, a rectangle is 10 m by 5 m. What is its area?",
+    "skill": "same_perimeter",
+    "question": "A 5 cm by 3 cm rectangle and a 6 cm by 2 cm rectangle both have perimeter 16 cm. Which has greater area?",
+    "audio_prompt": "A 5 cm by 3 cm rectangle and a 6 cm by 2 cm rectangle both have perimeter 16 cm. Which has greater area?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-014",
-      "alt_text": "In a games club: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "49 m²",
+        "text": "Their areas must be equal",
         "is_correct": false
       },
       {
-        "text": "50 m²",
+        "text": "The 5 cm by 3 cm rectangle",
         "is_correct": true
       },
       {
-        "text": "52 m²",
+        "text": "The 6 cm by 2 cm rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "Neither has an area because only side lengths are given",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
+      "summary": "They cover 15 and 12 square centimetres respectively. Equal perimeters need not enclose equal areas.",
+      "hint": "Count rows of square units for each rectangle."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14
   },
   {
     "id": "AC9M4M02-P-015",
@@ -517,35 +565,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "perimeter",
-    "question": "During an art project, a rectangle is 11 m by 7 m. What is its perimeter?",
-    "audio_prompt": "During an art project, a rectangle is 11 m by 7 m. What is its perimeter?",
+    "skill": "irregular_perimeter",
+    "question": "What is the perimeter of this L-shaped region?",
+    "audio_prompt": "What is the perimeter of this L-shaped region?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-015",
-      "alt_text": "During an art project: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-lshape",
+      "alt_text": "An irregular shape. Rows from top to bottom contain 4, 2, 2 equal squares, all aligned at the left edge. Each small square side is 1 cm. Only the outer boundary is orange."
     },
     "answers": [
       {
-        "text": "35 m",
+        "text": "8 cm",
         "is_correct": false
       },
       {
-        "text": "38 m",
+        "text": "12 cm",
         "is_correct": false
       },
       {
-        "text": "36 m",
+        "text": "14 cm",
         "is_correct": true
+      },
+      {
+        "text": "10 cm",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
+      "summary": "Following the boundary gives lengths 4 + 1 + 2 + 2 + 2 + 3 = 14 cm.",
+      "hint": "Trace the inward corner as well as the outside edges."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15
   },
   {
     "id": "AC9M4M02-P-016",
@@ -553,35 +606,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "area",
-    "question": "At the recycling station, a rectangle is 4 m by 3 m. What is its area?",
-    "audio_prompt": "At the recycling station, a rectangle is 4 m by 3 m. What is its area?",
+    "skill": "irregular_area",
+    "question": "What area does this L-shaped region cover?",
+    "audio_prompt": "What area does this L-shaped region cover?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-016",
-      "alt_text": "At the recycling station: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-lshape",
+      "alt_text": "An irregular shape. Rows from top to bottom contain 4, 2, 2 equal squares, all aligned at the left edge. Each small square side is 1 cm. Only the outer boundary is orange."
     },
     "answers": [
       {
-        "text": "12 m²",
+        "text": "14 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "12 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "6 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "8 cm²",
         "is_correct": true
-      },
-      {
-        "text": "11 m²",
-        "is_correct": false
-      },
-      {
-        "text": "14 m²",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
+      "summary": "The rows contain 4, 2 and 2 squares: 4 + 2 + 2 = 8 cm².",
+      "hint": "Count each covered square once."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16
   },
   {
     "id": "AC9M4M02-P-017",
@@ -589,35 +647,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "perimeter",
-    "question": "While planning a survey, a rectangle is 5 m by 5 m. What is its perimeter?",
-    "audio_prompt": "While planning a survey, a rectangle is 5 m by 5 m. What is its perimeter?",
+    "skill": "irregular_area",
+    "question": "What is the area of the step-shaped region?",
+    "audio_prompt": "What is the area of the step-shaped region?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-017",
-      "alt_text": "While planning a survey: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-step",
+      "alt_text": "A step-shaped region. Rows from top to bottom contain 3, 3, 2 equal squares, all aligned at the left edge. Each small square side is 1 unit. Only the outer boundary is orange."
     },
     "answers": [
       {
-        "text": "19 m",
-        "is_correct": false
-      },
-      {
-        "text": "20 m",
+        "text": "8 square units",
         "is_correct": true
       },
       {
-        "text": "22 m",
+        "text": "12 square units",
+        "is_correct": false
+      },
+      {
+        "text": "9 square units",
+        "is_correct": false
+      },
+      {
+        "text": "6 square units",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
+      "summary": "There are 3 squares in the top row, 3 in the middle and 2 in the bottom: 8.",
+      "hint": "Count only the covered squares."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17
   },
   {
     "id": "AC9M4M02-P-018",
@@ -625,35 +688,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "area",
-    "question": "In a coding lesson, a rectangle is 6 m by 7 m. What is its area?",
-    "audio_prompt": "In a coding lesson, a rectangle is 6 m by 7 m. What is its area?",
+    "skill": "curved_boundary",
+    "question": "Which method best measures the perimeter of this curved shape?",
+    "audio_prompt": "Which method best measures the perimeter of this curved shape?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-018",
-      "alt_text": "In a coding lesson: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-curved",
+      "alt_text": "An irregular closed boundary with curved sections. A string follows the entire outer edge once. Mark its meeting point, then straighten it to measure."
     },
     "answers": [
       {
-        "text": "41 m²",
+        "text": "Measure only its widest straight distance",
         "is_correct": false
       },
       {
-        "text": "44 m²",
-        "is_correct": false
-      },
-      {
-        "text": "42 m²",
+        "text": "Fit string once around the edge, mark it, then straighten and measure it",
         "is_correct": true
+      },
+      {
+        "text": "Count the squares needed to cover it",
+        "is_correct": false
+      },
+      {
+        "text": "Measure the straight width and double it",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
+      "summary": "Flexible string can follow the curved boundary; its straightened length approximates the perimeter.",
+      "hint": "Follow every section of the edge."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18
   },
   {
     "id": "AC9M4M02-P-019",
@@ -661,35 +729,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "perimeter",
-    "question": "During a building task, a rectangle is 7 m by 3 m. What is its perimeter?",
-    "audio_prompt": "During a building task, a rectangle is 7 m by 3 m. What is its perimeter?",
+    "skill": "curved_measurement",
+    "question": "A string fitted once around a shape is straightened as shown. What is the estimated perimeter?",
+    "audio_prompt": "A string fitted once around a shape is straightened as shown. What is the estimated perimeter?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-019",
-      "alt_text": "During a building task: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-rope",
+      "alt_text": "Straightened string from an irregular boundary aligns with ruler marks labelled 0 cm and 78 cm. The ruler continues to a separate mark labelled 90 cm."
     },
     "answers": [
       {
-        "text": "20 m",
+        "text": "90 cm",
+        "is_correct": false
+      },
+      {
+        "text": "12 cm",
+        "is_correct": false
+      },
+      {
+        "text": "78 cm",
         "is_correct": true
       },
       {
-        "text": "19 m",
-        "is_correct": false
-      },
-      {
-        "text": "22 m",
+        "text": "156 cm",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
+      "summary": "The string’s end marks align with 0 and 78 cm. The ruler’s extra length is not part of the string.",
+      "hint": "Read both ends of the measured string."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19
   },
   {
     "id": "AC9M4M02-P-020",
@@ -697,35 +770,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "area",
-    "question": "At the local pool, a rectangle is 8 m by 5 m. What is its area?",
-    "audio_prompt": "At the local pool, a rectangle is 8 m by 5 m. What is its area?",
+    "skill": "measurement_repeat",
+    "question": "Two careful string measurements of the same curved edge give 81 cm and 83 cm. Which report is sensible?",
+    "audio_prompt": "Two careful string measurements of the same curved edge give 81 cm and 83 cm. Which report is sensible?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-020",
-      "alt_text": "At the local pool: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "39 m²",
+        "text": "The perimeter is exactly 2 cm",
         "is_correct": false
       },
       {
-        "text": "40 m²",
+        "text": "The perimeter is exactly 164 cm",
+        "is_correct": false
+      },
+      {
+        "text": "About 81 m",
+        "is_correct": false
+      },
+      {
+        "text": "The perimeter is about 82 cm",
         "is_correct": true
-      },
-      {
-        "text": "42 m²",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
+      "summary": "The repeated readings are close. About 82 cm is a reasonable estimate between them, with small measuring variation.",
+      "hint": "An estimate should match the approximate size of both readings."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20
   },
   {
     "id": "AC9M4M02-P-021",
@@ -733,35 +809,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "perimeter",
-    "question": "While preparing a camp, a rectangle is 9 m by 7 m. What is its perimeter?",
-    "audio_prompt": "While preparing a camp, a rectangle is 9 m by 7 m. What is its perimeter?",
+    "skill": "suitable_informal_unit",
+    "question": "Which informal length unit is most practical for comparing the boundaries of two large garden beds?",
+    "audio_prompt": "Which informal length unit is most practical for comparing the boundaries of two large garden beds?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-021",
-      "alt_text": "While preparing a camp: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "31 m",
-        "is_correct": false
-      },
-      {
-        "text": "34 m",
-        "is_correct": false
-      },
-      {
-        "text": "32 m",
+        "text": "The same long stick, counted in stick lengths",
         "is_correct": true
+      },
+      {
+        "text": "A different-sized leaf at each placement",
+        "is_correct": false
+      },
+      {
+        "text": "Tiny grains of sand placed by hand",
+        "is_correct": false
+      },
+      {
+        "text": "A different-length stick for each side",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
+      "summary": "A consistent stick gives repeated equal lengths and a manageable count. Mixed units cannot be compared by count alone.",
+      "hint": "Choose equal units that suit the size of the boundary."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21
   },
   {
     "id": "AC9M4M02-P-022",
@@ -769,35 +848,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "area",
-    "question": "In a music project, a rectangle is 10 m by 3 m. What is its area?",
-    "audio_prompt": "In a music project, a rectangle is 10 m by 3 m. What is its area?",
+    "skill": "half_square_area",
+    "question": "What is the area of the triangular blue region?",
+    "audio_prompt": "What is the area of the triangular blue region?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-022",
-      "alt_text": "In a music project: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-triangle",
+      "alt_text": "Whole squares and half squares. A 4-by-4 square grid with blue coverage below the diagonal from the top-left to the bottom-right corner. Each small square is 1 square unit."
     },
     "answers": [
       {
-        "text": "30 m²",
+        "text": "10 square units",
+        "is_correct": false
+      },
+      {
+        "text": "8 square units",
         "is_correct": true
       },
       {
-        "text": "29 m²",
+        "text": "6 square units",
         "is_correct": false
       },
       {
-        "text": "32 m²",
+        "text": "16 square units",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
+      "summary": "Six full squares and four half squares cover the triangle. Four halves make two wholes: 6 + 2 = 8.",
+      "hint": "Pair the halves along the sloping edge."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 22
   },
   {
     "id": "AC9M4M02-P-023",
@@ -805,35 +889,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "perimeter",
-    "question": "At a playground redesign, a rectangle is 11 m by 5 m. What is its perimeter?",
-    "audio_prompt": "At a playground redesign, a rectangle is 11 m by 5 m. What is its perimeter?",
+    "skill": "half_square_area",
+    "question": "What area does the blue shape cover?",
+    "audio_prompt": "What area does the blue shape cover?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-023",
-      "alt_text": "At a playground redesign: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-pentagon",
+      "alt_text": "Combine the edge parts. Two rows of three full blue squares. At the right is a point made by two half-square triangles, one in each row. Blue region: whole squares and two triangular halves."
     },
     "answers": [
       {
-        "text": "31 m",
+        "text": "6 square units",
         "is_correct": false
       },
       {
-        "text": "32 m",
+        "text": "8 square units",
+        "is_correct": false
+      },
+      {
+        "text": "7 square units",
         "is_correct": true
       },
       {
-        "text": "34 m",
+        "text": "6½ square units",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
+      "summary": "There are six whole squares and two half squares. The halves make one whole: 7 square units.",
+      "hint": "Do not count each half as a whole square."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 23
   },
   {
     "id": "AC9M4M02-P-024",
@@ -841,35 +930,914 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "practice",
-    "skill": "area",
-    "question": "During a book drive, a rectangle is 4 m by 7 m. What is its area?",
-    "audio_prompt": "During a book drive, a rectangle is 4 m by 7 m. What is its area?",
+    "skill": "quarter_square_area",
+    "question": "What is the area of the blue region?",
+    "audio_prompt": "What is the area of the blue region?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-p-024",
-      "alt_text": "During a book drive: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-quarters",
+      "alt_text": "Quarter parts at a sloping edge. Two rows of three full blue squares. In the next column, the upper square is one quarter blue and the lower square is three quarters blue. Right-edge parts: one quarter and three quarters."
     },
     "answers": [
       {
-        "text": "27 m²",
+        "text": "6 square units",
         "is_correct": false
       },
       {
-        "text": "30 m²",
+        "text": "8 square units",
         "is_correct": false
       },
       {
-        "text": "28 m²",
+        "text": "6¼ square units",
+        "is_correct": false
+      },
+      {
+        "text": "7 square units",
         "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Six whole squares plus one quarter and three quarters make seven whole square units.",
+      "hint": "The two right-edge parts combine to one whole."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 24
+  },
+  {
+    "id": "AC9M4M02-P-025",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "combine_parts",
+    "question": "A region covers 5 whole square tiles and 6 half tiles of the same unit. What is its area?",
+    "audio_prompt": "A region covers 5 whole square tiles and 6 half tiles of the same unit. What is its area?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "8 square units",
+        "is_correct": true
+      },
+      {
+        "text": "11 square units",
+        "is_correct": false
+      },
+      {
+        "text": "5.6 square units",
+        "is_correct": false
+      },
+      {
+        "text": "7 square units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Six halves combine into three whole units. 5 + 3 = 8 square units.",
+      "hint": "Pair the half tiles."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 25
+  },
+  {
+    "id": "AC9M4M02-P-026",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "compare_fractional_area",
+    "question": "Region A covers 7 whole squares and 2 halves. Region B covers 6 whole squares and 4 halves of the same unit. How do their areas compare?",
+    "audio_prompt": "Region A covers 7 whole squares and 2 halves. Region B covers 6 whole squares and 4 halves of the same unit. How do their areas compare?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "B is greater",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal at 8 square units",
+        "is_correct": true
+      },
+      {
+        "text": "A is greater",
+        "is_correct": false
+      },
+      {
+        "text": "A is 9 and B is 10 square units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A: 7 + 1 = 8. B: 6 + 2 = 8. Combine the halves before comparing.",
+      "hint": "Express both totals in whole square units."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26
+  },
+  {
+    "id": "AC9M4M02-P-027",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "partial_unit_accuracy",
+    "question": "Why should small pieces at an edge be included when estimating area?",
+    "audio_prompt": "Why should small pieces at an edge be included when estimating area?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "All small pieces have no area",
+        "is_correct": false
+      },
+      {
+        "text": "Every piece must count as a whole square",
+        "is_correct": false
+      },
+      {
+        "text": "Several small pieces may combine into whole square units",
+        "is_correct": true
+      },
+      {
+        "text": "Every edge piece must count as exactly one half",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
+      "summary": "Discarding every small piece can underestimate the covered surface. Combine or estimate the parts consistently.",
+      "hint": "Small fractions still cover some surface."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 27
+  },
+  {
+    "id": "AC9M4M02-P-028",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "fractional_area_units",
+    "question": "A shape covers 3 whole square units and one half of another. Which record is correct?",
+    "audio_prompt": "A shape covers 3 whole square units and one half of another. Which record is correct?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "3½ units of perimeter",
+        "is_correct": false
+      },
+      {
+        "text": "4½ square units",
+        "is_correct": false
+      },
+      {
+        "text": "3¼ square units",
+        "is_correct": false
+      },
+      {
+        "text": "3½ square units",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Area counts full and part square units covering the shape. The total is 3½ square units.",
+      "hint": "Keep the half-unit and name the area unit."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 28
+  },
+  {
+    "id": "AC9M4M02-P-029",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "repeat_one_unit",
+    "question": "You have one paper square to measure a rectangle’s area. What should you do?",
+    "audio_prompt": "You have one paper square to measure a rectangle’s area. What should you do?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-oneunit",
+      "alt_text": "One square unit sits at the corner of a rectangular surface. An arrow shows it being moved to the next adjacent position. Each position must be recorded without gaps or overlaps."
+    },
+    "answers": [
+      {
+        "text": "Move it to adjacent positions, tracing and counting each placement",
+        "is_correct": true
+      },
+      {
+        "text": "Stretch the square whenever a gap appears",
+        "is_correct": false
+      },
+      {
+        "text": "Count the square once and stop",
+        "is_correct": false
+      },
+      {
+        "text": "Move the square but leave small gaps between placements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The one square can represent many equal unit positions. Marking each helps cover the whole surface once.",
+      "hint": "Keep the unit size fixed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 29
+  },
+  {
+    "id": "AC9M4M02-P-030",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "area_gaps",
+    "question": "Why is counting the six tiles not a complete area measurement here?",
+    "audio_prompt": "Why is counting the six tiles not a complete area measurement here?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-gap",
+      "alt_text": "Six equal tiles arranged with uncovered gaps in a rectangular surface. The tiles do not cover the whole surface."
+    },
+    "answers": [
+      {
+        "text": "The tiles are too colourful",
+        "is_correct": false
+      },
+      {
+        "text": "Gaps remain uncovered",
+        "is_correct": true
+      },
+      {
+        "text": "A rectangle cannot have area",
+        "is_correct": false
+      },
+      {
+        "text": "Square tiles can only measure perimeter",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The count omits the uncovered gaps. Area measurement must cover the whole region with no gaps.",
+      "hint": "Look between the tiles."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 30
+  },
+  {
+    "id": "AC9M4M02-P-031",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "area_overlaps",
+    "question": "What is wrong with counting these overlapping placements as three full units of covered area?",
+    "audio_prompt": "What is wrong with counting these overlapping placements as three full units of covered area?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-overlap",
+      "alt_text": "Three placements of a square overlap neighbouring placements. Some surface has been counted more than once."
+    },
+    "answers": [
+      {
+        "text": "The unit is too small to exist",
+        "is_correct": false
+      },
+      {
+        "text": "Only perimeter can be counted",
+        "is_correct": false
+      },
+      {
+        "text": "Some surface is counted more than once",
+        "is_correct": true
+      },
+      {
+        "text": "Each overlapping part should be counted twice",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Overlapping units count the same part of the surface again, making the total too large.",
+      "hint": "Each piece of surface should be covered once."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 31
+  },
+  {
+    "id": "AC9M4M02-P-032",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "same_area_unit",
+    "question": "One student uses 2 cm by 2 cm paper squares; another uses 1 cm by 1 cm squares. Why can their tile counts not be compared directly?",
+    "audio_prompt": "One student uses 2 cm by 2 cm paper squares; another uses 1 cm by 1 cm squares. Why can their tile counts not be compared directly?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The bigger square has a shorter side",
+        "is_correct": false
+      },
+      {
+        "text": "Square tiles cannot measure area",
+        "is_correct": false
+      },
+      {
+        "text": "Every square unit has area 1 cm² whatever its side length",
+        "is_correct": false
+      },
+      {
+        "text": "The area units have different sizes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Each large square covers more surface than each small square. Compare with the same unit or account for unit size.",
+      "hint": "A count needs a clearly defined unit."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 32
+  },
+  {
+    "id": "AC9M4M02-P-033",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "larger_area_unit",
+    "question": "A tabletop takes 24 small equal tiles to cover. One large tile covers exactly 4 small tiles. How many large tiles cover the same area?",
+    "audio_prompt": "A tabletop takes 24 small equal tiles to cover. One large tile covers exactly 4 small tiles. How many large tiles cover the same area?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "96",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Group the 24 small tiles into groups of 4: six large units. The tabletop area stays the same.",
+      "hint": "A larger unit gives a smaller count for the same area."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 33
+  },
+  {
+    "id": "AC9M4M02-P-034",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "part_unit_record",
+    "question": "A paper square fits 9 full times in a region, with two half-unit gaps left at the edge. What total should be recorded?",
+    "audio_prompt": "A paper square fits 9 full times in a region, with two half-unit gaps left at the edge. What total should be recorded?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "9 square units",
+        "is_correct": false
+      },
+      {
+        "text": "10 square units",
+        "is_correct": true
+      },
+      {
+        "text": "11 square units",
+        "is_correct": false
+      },
+      {
+        "text": "9½ square units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The two half-unit edge gaps together make one whole unit. 9 + 1 = 10.",
+      "hint": "Combine the uncovered edge parts without overlap."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 34
+  },
+  {
+    "id": "AC9M4M02-P-035",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "estimate_area_bounds",
+    "question": "An outline covers 12 whole grid squares and parts of 7 other squares. Which statement must be true?",
+    "audio_prompt": "An outline covers 12 whole grid squares and parts of 7 other squares. Which statement must be true?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Its perimeter is 19 units",
+        "is_correct": false
+      },
+      {
+        "text": "Its area is exactly 19 square units",
+        "is_correct": false
+      },
+      {
+        "text": "Its area is more than 12 and less than 19 square units",
+        "is_correct": true
+      },
+      {
+        "text": "Its area is exactly 12 square units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The covered parts add some area, but less than seven whole units. Exact fractions are not given.",
+      "hint": "Separate the certain whole squares from incomplete edge squares."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 35
+  },
+  {
+    "id": "AC9M4M02-P-036",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "estimate_area_method",
+    "question": "A curved region covers 10 whole squares. Its edge pieces can be grouped into about 4 more whole squares. What is a suitable area estimate?",
+    "audio_prompt": "A curved region covers 10 whole squares. Its edge pieces can be grouped into about 4 more whole squares. What is a suitable area estimate?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Exactly 10 square units",
+        "is_correct": false
+      },
+      {
+        "text": "About 4 units of length",
+        "is_correct": false
+      },
+      {
+        "text": "About 40 square units",
+        "is_correct": false
+      },
+      {
+        "text": "About 14 square units",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Count the 10 whole squares and add about 4 made from edge parts. The parts were estimated, so say about.",
+      "hint": "Combine the inside squares and estimated edge coverage."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 36
+  },
+  {
+    "id": "AC9M4M02-P-037",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "approximation_quality",
+    "question": "Why might a smaller square grid improve an estimate of a leaf’s area?",
+    "audio_prompt": "Why might a smaller square grid improve an estimate of a leaf’s area?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "The smaller squares show the boundary in finer detail",
+        "is_correct": true
+      },
+      {
+        "text": "The leaf becomes larger",
+        "is_correct": false
+      },
+      {
+        "text": "All curved edges become exactly straight",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the area units into length units",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Smaller units make the uncertain boundary pieces smaller and help follow its shape more closely.",
+      "hint": "The object stays unchanged; the measuring unit changes."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 37
+  },
+  {
+    "id": "AC9M4M02-P-038",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "perimeter_not_area",
+    "question": "A string around a pond measures 46 m. Can that number alone give its area?",
+    "audio_prompt": "A string around a pond measures 46 m. Can that number alone give its area?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Yes; its area must be 23 m²",
+        "is_correct": false
+      },
+      {
+        "text": "No; it measures boundary length, not enclosed surface",
+        "is_correct": true
+      },
+      {
+        "text": "Yes; its area must be 46 m²",
+        "is_correct": false
+      },
+      {
+        "text": "Yes; its area must be 2116 m²",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Different shapes can share a perimeter but enclose different areas. Surface coverage needs its own measurement.",
+      "hint": "Length around and area inside are different attributes."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 38
+  },
+  {
+    "id": "AC9M4M02-P-039",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "ranger_land_area",
+    "question": "ALFA’s public 2020 report describes Mimal Rangers using mapped patches of land in wildfire planning. To compare how much land patches cover, which attribute is needed?",
+    "audio_prompt": "ALFA’s public 2020 report describes Mimal Rangers using mapped patches of land in wildfire planning. To compare how much land patches cover, which attribute is needed?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Perimeter only",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature only",
+        "is_correct": false
+      },
+      {
+        "text": "Area",
+        "is_correct": true
+      },
+      {
+        "text": "Mass",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Area measures land coverage. The public example links mapped land patches with planning; classroom measurements are simplified models.",
+      "hint": "Ask which measurement describes an enclosed region."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 39
+  },
+  {
+    "id": "AC9M4M02-P-040",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "ranger_model_area",
+    "question": "This invented classroom map models comparing land areas. How much greater is region A than region B?",
+    "audio_prompt": "This invented classroom map models comparing land areas. How much greater is region A than region B?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-land",
+      "alt_text": "Invented map on equal square area units. Region A covers 3 columns by 4 rows. Region B covers 3 columns by 3 rows. The map is not a real Ranger site."
+    },
+    "answers": [
+      {
+        "text": "21 equal area units",
+        "is_correct": false
+      },
+      {
+        "text": "1 unit of boundary",
+        "is_correct": false
+      },
+      {
+        "text": "3 units of boundary length",
+        "is_correct": false
+      },
+      {
+        "text": "3 equal area units",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A covers 12 squares and B covers 9 of the same size: 12 − 9 = 3 area units.",
+      "hint": "Count the equal map squares in each patch."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9M4M02-P-041",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "ranger_area_limit",
+    "question": "What can the invented grid map tell a class on its own?",
+    "audio_prompt": "What can the invented grid map tell a class on its own?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-land",
+      "alt_text": "Invented map on equal square area units. Region A covers 3 columns by 4 rows. Region B covers 3 columns by 3 rows. The map is not a real Ranger site."
+    },
+    "answers": [
+      {
+        "text": "Which drawn region covers more equal area units",
+        "is_correct": true
+      },
+      {
+        "text": "The cultural meaning of a real site",
+        "is_correct": false
+      },
+      {
+        "text": "The safe time and place for a real fire burn",
+        "is_correct": false
+      },
+      {
+        "text": "The exact length of a real site's boundary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The map supports a mathematical area comparison. Real decisions also depend on authorised local expertise and information beyond this invented model.",
+      "hint": "Use only the evidence this model contains."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9M4M02-P-042",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "unit_label",
+    "question": "A student writes “area = 18 squares” after using identical paper squares. What detail makes the record more reproducible?",
+    "audio_prompt": "A student writes “area = 18 squares” after using identical paper squares. What detail makes the record more reproducible?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Change the answer to 18 metres",
+        "is_correct": false
+      },
+      {
+        "text": "State or show the size of the paper square unit",
+        "is_correct": true
+      },
+      {
+        "text": "Write perimeter instead of area",
+        "is_correct": false
+      },
+      {
+        "text": "State the colour of the squares",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Another person can repeat the measurement when the informal area unit is defined.",
+      "hint": "Equal counts are comparable only when the units match."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9M4M02-P-043",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "draw_rectangles",
+    "question": "On square grid paper, draw two rectangles with different side-length pairs that each cover 12 squares. Label all side lengths in grid units. Trace each boundary, calculate each perimeter by adding its sides, and compare the results. Use separate paper.",
+    "audio_prompt": "On square grid paper, draw two rectangles with different side-length pairs that each cover 12 squares. Label all side lengths in grid units. Trace each boundary, calculate each perimeter by adding its sides, and compare the results. Use separate paper.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Examples: 3 by 4 has perimeter 14 units; 2 by 6 has perimeter 16 units. Both cover 12 square units. A 1 by 12 rectangle is also valid.",
+      "hint": "Keep the tile total fixed while rearranging the rows."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 43,
+    "grading_mode": "adult-review",
+    "model_answer": "Examples: 3 by 4 has perimeter 14 units; 2 by 6 has perimeter 16 units. Both cover 12 square units. A 1 by 12 rectangle is also valid.",
+    "acceptance_note": "Inspect two actually drawn rectangles with area 12, all side lengths, a full traced boundary and correct boundary sums. Accept any two different dimension pairs and their accurate comparison.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4M02-P-044",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "measure_curved_perimeter",
+    "question": "Draw a closed shape with at least one curved section on separate paper. Fit string once around its entire boundary, mark the meeting point, straighten it and measure it with a ruler. Repeat, record both lengths and give an approximate perimeter with a unit.",
+    "audio_prompt": "Draw a closed shape with at least one curved section on separate paper. Fit string once around its entire boundary, mark the meeting point, straighten it and measure it with a ruler. Repeat, record both lengths and give an approximate perimeter with a unit.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Example measurements 31 cm and 32 cm support about 32 cm (or about 31.5 cm). Actual shapes vary.",
+      "hint": "Avoid stretching the string or skipping curved sections."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 44,
+    "grading_mode": "adult-review",
+    "model_answer": "Example measurements 31 cm and 32 cm support about 32 cm (or about 31.5 cm). Actual shapes vary.",
+    "acceptance_note": "Inspect the drawn closed curved shape, actual string use around the full boundary, two recorded measured lengths with units and a reasonable approximate result. Accept nearby rounded estimates consistent with both readings.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4M02-P-045",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "repeat_one_square",
+    "question": "Use one paper square repeatedly to measure the area of a rectangle you draw. Trace each adjacent placement, number the placements and include any partial units at the edge. Record the unit’s size, total area and how you avoided gaps or overlaps. Use separate paper.",
+    "audio_prompt": "Use one paper square repeatedly to measure the area of a rectangle you draw. Trace each adjacent placement, number the placements and include any partial units at the edge. Record the unit’s size, total area and how you avoided gaps or overlaps. Use separate paper.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Example: a 1 cm square moves to 12 adjacent full positions in a 4 cm by 3 cm rectangle, giving 12 cm². Other rectangles may need part units.",
+      "hint": "Trace the square before moving it so you do not count a place twice."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 45,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: a 1 cm square moves to 12 adjacent full positions in a 4 cm by 3 cm rectangle, giving 12 cm². Other rectangles may need part units.",
+    "acceptance_note": "Inspect actual repeated use of one square, the trace/numbered placements, stated unit, accurate full/part count and explanation of no gaps or overlaps. Accept any valid rectangle and consistent unit.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4M02-P-046",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "measure_triangle_parts",
+    "question": "Draw a triangle on square grid paper. Use one matching paper square repeatedly to trace or mark whole-square and partial-square coverage inside the triangle. Record the full-square count and combined part count, and use these to estimate its area. Explain why ignoring parts would be inaccurate. Use separate paper.",
+    "audio_prompt": "Draw a triangle on square grid paper. Use one matching paper square repeatedly to trace or mark whole-square and partial-square coverage inside the triangle. Record the full-square count and combined part count, and use these to estimate its area. Explain why ignoring parts would be inaccurate. Use separate paper.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Example: a triangle on a 4 by 4 grid has 6 whole squares and 4 halves: area 8 square units. Other triangles give other totals or estimates.",
+      "hint": "Mark whole units first, then combine smaller edge pieces."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 46,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: a triangle on a 4 by 4 grid has 6 whole squares and 4 halves: area 8 square units. Other triangles give other totals or estimates.",
+    "acceptance_note": "Inspect the actual triangle, repeated single-unit measuring, full and part-unit record, consistent combination and area estimate with square units. Require a reason for including parts; accept reasonable estimates for non-half edge pieces.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4M02-P-047",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "compare_formal_informal",
+    "question": "Measure the perimeter of a rectangular book using the same paper strip longer than 1 cm repeatedly, then using a ruler. Record the strip’s length, number of strip units (including any part), all four side lengths in centimetres, and both perimeter records. Explain why the numerical counts differ.",
+    "audio_prompt": "Measure the perimeter of a rectangular book using the same paper strip longer than 1 cm repeatedly, then using a ruler. Record the strip’s length, number of strip units (including any part), all four side lengths in centimetres, and both perimeter records. Explain why the numerical counts differ.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Example: a 12 cm by 8 cm book has perimeter 40 cm. A 5 cm strip fits 8 times around it. 8 strip units and 40 cm name the same boundary.",
+      "hint": "Follow every side once with no gaps or overlaps between strip placements."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 47,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: a 12 cm by 8 cm book has perimeter 40 cm. A 5 cm strip fits 8 times around it. 8 strip units and 40 cm name the same boundary.",
+    "acceptance_note": "Inspect actual measuring, a fixed strip unit longer than 1 cm, complete boundary with part units if needed, four cm side lengths and two consistent perimeter records. Require the explanation that changing unit size changes the count.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4M02-P-048",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M02",
+    "bank": "practice",
+    "skill": "create_area_map",
+    "question": "Draw an invented land-area map on grid paper with two enclosed patches, one including partial squares. Estimate each area using the same square unit. Record full squares, combined parts and whether A, B or neither is larger. Explain why this class model alone cannot choose a real fire-burn location. Use separate paper.",
+    "audio_prompt": "Draw an invented land-area map on grid paper with two enclosed patches, one including partial squares. Estimate each area using the same square unit. Record full squares, combined parts and whether A, B or neither is larger. Explain why this class model alone cannot choose a real fire-burn location. Use separate paper.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Example: A = 8 whole + 4 halves = 10 square units; B = 9 whole = 9 square units, so A is larger by 1 square unit. Equal-area patches are also valid if correctly compared. Real fire planning requires authorised local knowledge and other site information.",
+      "hint": "Show how the partial squares contribute to each estimate."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 48,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: A = 8 whole + 4 halves = 10 square units; B = 9 whole = 9 square units, so A is larger by 1 square unit. Equal-area patches are also valid if correctly compared. Real fire planning requires authorised local knowledge and other site information.",
+    "acceptance_note": "Inspect the actual invented map, two areas with at least one fractional-edge region, common units, explicit whole/part working and correct comparison, including equality where appropriate. Require a clear limit on the classroom model, without inventing cultural claims.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4M02-T-001",
@@ -877,33 +1845,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "perimeter",
-    "question": "At a coastal station, a rectangle is 5 m by 7 m. What is its perimeter?",
-    "audio_prompt": "At a coastal station, a rectangle is 5 m by 7 m. What is its perimeter?",
+    "skill": "boundary_or_area",
+    "question": "A ribbon goes once around a card’s edge. Which unit fits the measurement needed?",
+    "audio_prompt": "A ribbon goes once around a card’s edge. Which unit fits the measurement needed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-001",
-      "alt_text": "At a coastal station: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "24 m",
+        "text": "Centimetres of perimeter",
         "is_correct": true
       },
       {
-        "text": "23 m",
+        "text": "Millilitres of capacity",
         "is_correct": false
       },
       {
-        "text": "26 m",
+        "text": "Square centimetres of area",
+        "is_correct": false
+      },
+      {
+        "text": "Centimetres of area",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
-    }
+      "summary": "The ribbon follows the boundary, so its length is measured in centimetres.",
+      "hint": "Decide whether this is around or covering."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4M02-T-002",
@@ -911,33 +1884,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "area",
-    "question": "During a museum challenge, a rectangle is 6 m by 3 m. What is its area?",
-    "audio_prompt": "During a museum challenge, a rectangle is 6 m by 3 m. What is its area?",
+    "skill": "rectangle_perimeter",
+    "question": "A rectangle has sides 8 m and 3 m. How much fence encloses it with no opening?",
+    "audio_prompt": "A rectangle has sides 8 m and 3 m. How much fence encloses it with no opening?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-002",
-      "alt_text": "During a museum challenge: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "17 m²",
+        "text": "24 m",
         "is_correct": false
       },
       {
-        "text": "18 m²",
+        "text": "22 m",
         "is_correct": true
       },
       {
-        "text": "20 m²",
+        "text": "11 m",
+        "is_correct": false
+      },
+      {
+        "text": "16 m",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
-    }
+      "summary": "8 + 3 + 8 + 3 = 22 m. All four sides contribute to the boundary.",
+      "hint": "Include the opposite sides too."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4M02-T-003",
@@ -945,33 +1923,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "perimeter",
-    "question": "At a charity event, a rectangle is 7 m by 5 m. What is its perimeter?",
-    "audio_prompt": "At a charity event, a rectangle is 7 m by 5 m. What is its perimeter?",
+    "skill": "irregular_perimeter",
+    "question": "Find the perimeter of this step-shaped region.",
+    "audio_prompt": "Find the perimeter of this step-shaped region.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-003",
-      "alt_text": "At a charity event: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-step",
+      "alt_text": "A step-shaped region. Rows from top to bottom contain 3, 3, 2 equal squares, all aligned at the left edge. Each small square side is 1 unit. Only the outer boundary is orange."
     },
     "answers": [
       {
-        "text": "23 m",
+        "text": "8 units",
         "is_correct": false
       },
       {
-        "text": "26 m",
+        "text": "10 units",
         "is_correct": false
       },
       {
-        "text": "24 m",
+        "text": "12 units",
         "is_correct": true
+      },
+      {
+        "text": "14 units",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
-    }
+      "summary": "Trace lengths 3 + 2 + 1 + 1 + 2 + 3 = 12 units. Internal lines do not count.",
+      "hint": "Include the step in the outer boundary."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 3
   },
   {
     "id": "AC9M4M02-T-004",
@@ -979,33 +1964,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "area",
-    "question": "In an engineering workshop, a rectangle is 8 m by 7 m. What is its area?",
-    "audio_prompt": "In an engineering workshop, a rectangle is 8 m by 7 m. What is its area?",
+    "skill": "irregular_area",
+    "question": "What area is covered by the blue L-shaped region?",
+    "audio_prompt": "What area is covered by the blue L-shaped region?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-lshape",
+      "alt_text": "An irregular shape. Rows from top to bottom contain 4, 2, 2 equal squares, all aligned at the left edge. Each small square side is 1 cm. Only the outer boundary is orange."
     },
     "answers": [
       {
-        "text": "56 m²",
+        "text": "12 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "14 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "10 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "8 cm²",
         "is_correct": true
-      },
-      {
-        "text": "55 m²",
-        "is_correct": false
-      },
-      {
-        "text": "58 m²",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
-    }
+      "summary": "Rows of 4, 2 and 2 squares total 8 cm².",
+      "hint": "Count square coverage, not outside edge lengths."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 4
   },
   {
     "id": "AC9M4M02-T-005",
@@ -1013,33 +2005,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "perimeter",
-    "question": "At a regional carnival, a rectangle is 9 m by 3 m. What is its perimeter?",
-    "audio_prompt": "At a regional carnival, a rectangle is 9 m by 3 m. What is its perimeter?",
+    "skill": "curved_boundary",
+    "question": "Why is string useful for estimating this shape’s perimeter?",
+    "audio_prompt": "Why is string useful for estimating this shape’s perimeter?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-005",
-      "alt_text": "At a regional carnival: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-curved",
+      "alt_text": "An irregular closed boundary with curved sections. A string follows the entire outer edge once. Mark its meeting point, then straighten it to measure."
     },
     "answers": [
       {
-        "text": "23 m",
-        "is_correct": false
-      },
-      {
-        "text": "24 m",
+        "text": "It bends to follow curved sections before being straightened and measured",
         "is_correct": true
       },
       {
-        "text": "26 m",
+        "text": "It measures the inside area automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Its colour determines its length",
+        "is_correct": false
+      },
+      {
+        "text": "A string is always the same length as the shape's width",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
-    }
+      "summary": "A flexible string follows the full boundary. Measuring its marked length gives a perimeter estimate.",
+      "hint": "Think about how the string fits the shape."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 5
   },
   {
     "id": "AC9M4M02-T-006",
@@ -1047,33 +2046,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "area",
-    "question": "During a farm study, a rectangle is 10 m by 5 m. What is its area?",
-    "audio_prompt": "During a farm study, a rectangle is 10 m by 5 m. What is its area?",
+    "skill": "half_square_area",
+    "question": "What is the area of this triangle?",
+    "audio_prompt": "What is the area of this triangle?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-006",
-      "alt_text": "During a farm study: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-testtriangle",
+      "alt_text": "Measure this triangular region. A 3-by-3 square grid with blue coverage below the diagonal from the top-left to the bottom-right corner. Each small square is 1 cm²."
     },
     "answers": [
       {
-        "text": "49 m²",
+        "text": "6 cm²",
         "is_correct": false
       },
       {
-        "text": "52 m²",
-        "is_correct": false
-      },
-      {
-        "text": "50 m²",
+        "text": "4½ cm²",
         "is_correct": true
+      },
+      {
+        "text": "3 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "9 cm²",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
-    }
+      "summary": "There are three whole squares and three halves. Three halves are 1½, so the area is 4½ cm².",
+      "hint": "Combine the halves along the sloping boundary."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 6
   },
   {
     "id": "AC9M4M02-T-007",
@@ -1081,33 +2087,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "perimeter",
-    "question": "While reading a trail guide, a rectangle is 11 m by 7 m. What is its perimeter?",
-    "audio_prompt": "While reading a trail guide, a rectangle is 11 m by 7 m. What is its perimeter?",
+    "skill": "quarter_square_area",
+    "question": "A shape covers 4 whole square units, 1 quarter and 3 quarters. What is its area?",
+    "audio_prompt": "A shape covers 4 whole square units, 1 quarter and 3 quarters. What is its area?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "36 m",
+        "text": "4 square units",
+        "is_correct": false
+      },
+      {
+        "text": "6 square units",
+        "is_correct": false
+      },
+      {
+        "text": "5 square units",
         "is_correct": true
       },
       {
-        "text": "35 m",
-        "is_correct": false
-      },
-      {
-        "text": "38 m",
+        "text": "4¼ square units",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
-    }
+      "summary": "One quarter plus three quarters is one whole. Add that to the four full units.",
+      "hint": "Combine the fractional parts first."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 7
   },
   {
     "id": "AC9M4M02-T-008",
@@ -1115,33 +2126,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "area",
-    "question": "In an architecture studio, a rectangle is 4 m by 3 m. What is its area?",
-    "audio_prompt": "In an architecture studio, a rectangle is 4 m by 3 m. What is its area?",
+    "skill": "same_area_different_boundary",
+    "question": "Which statement about these two tiled rectangles is correct?",
+    "audio_prompt": "Which statement about these two tiled rectangles is correct?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-008",
-      "alt_text": "In an architecture studio: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-equalarea",
+      "alt_text": "Rectangle A has 4 columns and 3 rows. Rectangle B has 6 columns and 2 rows. Both use 1 cm square tiles."
     },
     "answers": [
       {
-        "text": "11 m²",
+        "text": "They have equal perimeters but different areas",
         "is_correct": false
       },
       {
-        "text": "12 m²",
+        "text": "B has twice the area of A",
+        "is_correct": false
+      },
+      {
+        "text": "Both have area 12 cm² and perimeter 12 cm",
+        "is_correct": false
+      },
+      {
+        "text": "They have equal areas but different perimeters",
         "is_correct": true
-      },
-      {
-        "text": "14 m²",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
-    }
+      "summary": "Each covers 12 cm². A’s perimeter is 14 cm and B’s is 16 cm.",
+      "hint": "Check surface coverage and boundary separately."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 8
   },
   {
     "id": "AC9M4M02-T-009",
@@ -1149,33 +2167,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "perimeter",
-    "question": "During a food-truck project, a rectangle is 5 m by 5 m. What is its perimeter?",
-    "audio_prompt": "During a food-truck project, a rectangle is 5 m by 5 m. What is its perimeter?",
+    "skill": "repeat_unit_error",
+    "question": "What correction is needed before these tiles can measure the rectangle’s whole area?",
+    "audio_prompt": "What correction is needed before these tiles can measure the rectangle’s whole area?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-009",
-      "alt_text": "During a food-truck project: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-gap",
+      "alt_text": "Six equal tiles arranged with uncovered gaps in a rectangular surface. The tiles do not cover the whole surface."
     },
     "answers": [
       {
-        "text": "19 m",
-        "is_correct": false
-      },
-      {
-        "text": "22 m",
-        "is_correct": false
-      },
-      {
-        "text": "20 m",
+        "text": "Cover the gaps using the same unit and any needed part units",
         "is_correct": true
+      },
+      {
+        "text": "Count only the outermost tiles",
+        "is_correct": false
+      },
+      {
+        "text": "Call six tiles six centimetres of perimeter",
+        "is_correct": false
+      },
+      {
+        "text": "Double the six-tile count without filling the gaps",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
-    }
+      "summary": "The current six tiles leave uncovered area. A complete count must include it without overlaps.",
+      "hint": "Look for surface that has not been measured."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M4M02-T-010",
@@ -1183,33 +2208,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "area",
-    "question": "At a festival, a rectangle is 6 m by 7 m. What is its area?",
-    "audio_prompt": "At a festival, a rectangle is 6 m by 7 m. What is its area?",
+    "skill": "estimate_area_bounds",
+    "question": "A leaf outline contains 9 whole squares and parts of 5 more. Which range contains its area?",
+    "audio_prompt": "A leaf outline contains 9 whole squares and parts of 5 more. Which range contains its area?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-010",
-      "alt_text": "At a festival: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "42 m²",
+        "text": "Less than 9 square units",
+        "is_correct": false
+      },
+      {
+        "text": "More than 9 and less than 14 square units",
         "is_correct": true
       },
       {
-        "text": "41 m²",
+        "text": "Exactly 14 square units",
         "is_correct": false
       },
       {
-        "text": "44 m²",
+        "text": "Exactly 9 square units",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
-    }
+      "summary": "The parts add more than zero but less than five whole units, so the total lies between 9 and 14.",
+      "hint": "Use full squares as a lower bound and touched squares as an upper bound."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M4M02-T-011",
@@ -1217,33 +2247,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "perimeter",
-    "question": "While organising a collection, a rectangle is 7 m by 3 m. What is its perimeter?",
-    "audio_prompt": "While organising a collection, a rectangle is 7 m by 3 m. What is its perimeter?",
+    "skill": "unit_comparison",
+    "question": "The same surface is covered by 24 small square tiles or 6 large square tiles. What is true?",
+    "audio_prompt": "The same surface is covered by 24 small square tiles or 6 large square tiles. What is true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-011",
-      "alt_text": "While organising a collection: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "19 m",
+        "text": "The surface is smaller with large tiles",
         "is_correct": false
       },
       {
-        "text": "20 m",
+        "text": "Each small tile covers 4 large tiles",
+        "is_correct": false
+      },
+      {
+        "text": "Each large tile covers the area of 4 small tiles",
         "is_correct": true
       },
       {
-        "text": "22 m",
+        "text": "Each large tile covers the area of 2 small tiles",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
-    }
+      "summary": "24 small units divided among 6 equal large units gives 4 small units per large unit.",
+      "hint": "The surface area remains fixed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M4M02-T-012",
@@ -1251,33 +2286,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "area",
-    "question": "In an environmental study, a rectangle is 8 m by 5 m. What is its area?",
-    "audio_prompt": "In an environmental study, a rectangle is 8 m by 5 m. What is its area?",
+    "skill": "ranger_model_area",
+    "question": "On the invented map, which record compares the covered areas correctly?",
+    "audio_prompt": "On the invented map, which record compares the covered areas correctly?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-012",
-      "alt_text": "In an environmental study: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-land",
+      "alt_text": "Invented map on equal square area units. Region A covers 3 columns by 4 rows. Region B covers 3 columns by 3 rows. The map is not a real Ranger site."
     },
     "answers": [
       {
-        "text": "39 m²",
+        "text": "A: 9 area units; B: 12 area units",
         "is_correct": false
       },
       {
-        "text": "42 m²",
+        "text": "A: 14 area units; B: 12 area units",
         "is_correct": false
       },
       {
-        "text": "40 m²",
+        "text": "A: 3 area units; B: 3 area units",
+        "is_correct": false
+      },
+      {
+        "text": "A: 12 area units; B: 9 area units",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
-    }
+      "summary": "Count equal square coverage: A is 3 by 4 and B is 3 by 3. These are invented map units, not real site data.",
+      "hint": "Count only each region’s coloured squares."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M4M02-T-013",
@@ -1285,33 +2327,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "perimeter",
-    "question": "During a transport survey, a rectangle is 9 m by 7 m. What is its perimeter?",
-    "audio_prompt": "During a transport survey, a rectangle is 9 m by 7 m. What is its perimeter?",
+    "skill": "area_perimeter_reason",
+    "question": "A child says “a shape’s perimeter is 20 cm, so its area is 20 cm²”. What is the best response?",
+    "audio_prompt": "A child says “a shape’s perimeter is 20 cm, so its area is 20 cm²”. What is the best response?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-013",
-      "alt_text": "During a transport survey: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "32 m",
+        "text": "Area needs a separate surface measurement; perimeter alone does not give it",
         "is_correct": true
       },
       {
-        "text": "31 m",
+        "text": "The area must instead be 10 cm²",
         "is_correct": false
       },
       {
-        "text": "34 m",
+        "text": "The claim is always true",
+        "is_correct": false
+      },
+      {
+        "text": "The area must be 400 cm²",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
-    }
+      "summary": "Boundary length and enclosed surface are different attributes. Equal perimeters can enclose different areas.",
+      "hint": "A square unit measures a different attribute from a length unit."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13
   },
   {
     "id": "AC9M4M02-T-014",
@@ -1319,33 +2366,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "area",
-    "question": "At a strategy tournament, a rectangle is 10 m by 3 m. What is its area?",
-    "audio_prompt": "At a strategy tournament, a rectangle is 10 m by 3 m. What is its area?",
+    "skill": "construct_rectangles",
+    "question": "Draw two rectangles with different side-length pairs on square grid paper, each with perimeter 20 grid units. Label all four side lengths, show each boundary sum, count each area and compare. Use separate paper.",
+    "audio_prompt": "Draw two rectangles with different side-length pairs on square grid paper, each with perimeter 20 grid units. Label all four side lengths, show each boundary sum, count each area and compare. Use separate paper.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "29 m²",
-        "is_correct": false
-      },
-      {
-        "text": "30 m²",
-        "is_correct": true
-      },
-      {
-        "text": "32 m²",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
-    }
+      "summary": "Examples: 6 by 4 has perimeter 20 and area 24 square units; 7 by 3 has perimeter 20 and area 21 square units. Other valid pairs are accepted.",
+      "hint": "Two adjacent side lengths must add to 10 units."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 14,
+    "grading_mode": "adult-review",
+    "model_answer": "Examples: 6 by 4 has perimeter 20 and area 24 square units; 7 by 3 has perimeter 20 and area 21 square units. Other valid pairs are accepted.",
+    "acceptance_note": "Inspect two distinct drawn rectangles with boundary 20, four correctly labelled sides, valid sums, correct areas and an explicit comparison. Accept any different whole-unit dimension pairs.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4M02-T-015",
@@ -1353,33 +2393,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "perimeter",
-    "question": "While planning a community garden, a rectangle is 11 m by 5 m. What is its perimeter?",
-    "audio_prompt": "While planning a community garden, a rectangle is 11 m by 5 m. What is its perimeter?",
+    "skill": "actual_irregular_measurement",
+    "question": "Choose a flat object with a curved edge, or draw a closed curved shape. Use string to measure its whole perimeter twice. Record the two measurements with units, give a reasonable estimate and explain one possible source of variation, or why the readings agree.",
+    "audio_prompt": "Choose a flat object with a curved edge, or draw a closed curved shape. Use string to measure its whole perimeter twice. Record the two measurements with units, give a reasonable estimate and explain one possible source of variation, or why the readings agree.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-015",
-      "alt_text": "While planning a community garden: a Year 4 perimeter reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "31 m",
-        "is_correct": false
-      },
-      {
-        "text": "34 m",
-        "is_correct": false
-      },
-      {
-        "text": "32 m",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Perimeter is the distance around all four sides.",
-      "hint": "Add two lengths and two widths."
-    }
+      "summary": "Example: 43 cm and 44 cm support about 44 cm or 43.5 cm. A small gap between string and edge can change a reading. Actual results vary.",
+      "hint": "Keep the starting point fixed and follow the edge carefully."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 15,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: 43 cm and 44 cm support about 44 cm or 43.5 cm. A small gap between string and edge can change a reading. Actual results vary.",
+    "acceptance_note": "Inspect actual object/drawing, full-boundary string method, two real readings, units, a sensible estimate and a relevant possible reason for variation or for matching readings.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4M02-T-016",
@@ -1387,32 +2420,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M02",
     "bank": "test",
-    "skill": "area",
-    "question": "In a design exhibition, a rectangle is 4 m by 7 m. What is its area?",
-    "audio_prompt": "In a design exhibition, a rectangle is 4 m by 7 m. What is its area?",
+    "skill": "actual_area_measurement",
+    "question": "Use one paper square repeatedly to measure a shape with a sloping edge. Trace or mark each placement, record full and part units, combine the parts and give its area or a justified estimate. Explain how you prevented gaps and overlaps. Use separate paper.",
+    "audio_prompt": "Use one paper square repeatedly to measure a shape with a sloping edge. Trace or mark each placement, record full and part units, combine the parts and give its area or a justified estimate. Explain how you prevented gaps and overlaps. Use separate paper.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#ac9m4m02-t-016",
-      "alt_text": "In a design exhibition: a Year 4 area reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "28 m²",
-        "is_correct": true
-      },
-      {
-        "text": "27 m²",
-        "is_correct": false
-      },
-      {
-        "text": "30 m²",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "Area counts square units covering the surface.",
-      "hint": "Multiply rows by columns."
-    }
+      "summary": "Example: a triangle covering 3 full squares and 3 halves has area 4½ square units. Other shapes and carefully justified estimates are valid.",
+      "hint": "Do not discard the pieces at the sloping edge."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 16,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: a triangle covering 3 full squares and 3 halves has area 4½ square units. Other shapes and carefully justified estimates are valid.",
+    "acceptance_note": "Inspect actual shape, repeated single-square use, marked positions, explicit full/part count, combined total with square units and the no-gap/no-overlap explanation. A final number alone is incomplete.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   }
 ]

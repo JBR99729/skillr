@@ -1,0 +1,166 @@
+{
+  "checked_at": "2026-09-08T03:48:55.083035+00:00",
+  "environment": "Offline jsdom with actual repository production UI, activity runtime, adult-response support, preparation helper and result/review scripts. This is not live browser verification.",
+  "coverage": "One SVG multiple-choice response and one adult-reviewed practical response in both Practice and Test for each of the five codes. Checks preserved preparation, exact question display, saved response identity and bank version, diagram restoration, pending work receiving zero credit, adult approval updating the score, and correct result-review routes.",
+  "correction": "Initial M04 adult-response check found the existing adult helper was missing from new wrappers. Loaded the unchanged helper on all five code launch/review/result pages; all final cases pass. Shared activity runtime was not changed.",
+  "results": [
+    {
+      "code": "ac9m4a02",
+      "mode": "practice",
+      "kind": "mcq",
+      "item": "ac9m4a02-p-013",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4a02",
+      "mode": "practice",
+      "kind": "adult",
+      "item": "ac9m4a02-p-045",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4a02",
+      "mode": "test",
+      "kind": "mcq",
+      "item": "ac9m4a02-t-003",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4a02",
+      "mode": "test",
+      "kind": "adult",
+      "item": "ac9m4a02-t-015",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m03",
+      "mode": "practice",
+      "kind": "mcq",
+      "item": "ac9m4m03-p-007",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m03",
+      "mode": "practice",
+      "kind": "adult",
+      "item": "ac9m4m03-p-045",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m03",
+      "mode": "test",
+      "kind": "mcq",
+      "item": "ac9m4m03-t-002",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m03",
+      "mode": "test",
+      "kind": "adult",
+      "item": "ac9m4m03-t-015",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m01",
+      "mode": "practice",
+      "kind": "mcq",
+      "item": "ac9m4m01-p-001",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m01",
+      "mode": "practice",
+      "kind": "adult",
+      "item": "ac9m4m01-p-043",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m01",
+      "mode": "test",
+      "kind": "mcq",
+      "item": "ac9m4m01-t-001",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m01",
+      "mode": "test",
+      "kind": "adult",
+      "item": "ac9m4m01-t-014",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m02",
+      "mode": "practice",
+      "kind": "mcq",
+      "item": "ac9m4m02-p-005",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m02",
+      "mode": "practice",
+      "kind": "adult",
+      "item": "ac9m4m02-p-043",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m02",
+      "mode": "test",
+      "kind": "mcq",
+      "item": "ac9m4m02-t-003",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m02",
+      "mode": "test",
+      "kind": "adult",
+      "item": "ac9m4m02-t-014",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m04",
+      "mode": "practice",
+      "kind": "mcq",
+      "item": "ac9m4m04-p-001",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m04",
+      "mode": "practice",
+      "kind": "adult",
+      "item": "ac9m4m04-p-043",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m04",
+      "mode": "test",
+      "kind": "mcq",
+      "item": "ac9m4m04-t-001",
+      "status": "PASS"
+    },
+    {
+      "code": "ac9m4m04",
+      "mode": "test",
+      "kind": "adult",
+      "item": "ac9m4m04-t-014",
+      "status": "PASS"
+    }
+  ],
+  "artifact_sha256": {
+    "assets/assessment-banks/year4/math/ac9m4a02.json": "60ea1a6e301039cb20e12fe7c25b899366b49b24fff0fe2b9bac5d87051d8495",
+    "quiz/year-4/math/ac9m4a02/practice/questions.js": "3dc0c136add528ebde72a45200fbd8870bad94f0c00b334b1db05bcbb2c0cb29",
+    "quiz/year-4/math/ac9m4a02/test/questions.js": "39137d7164513b22cc605c71a483bd922cb3bd650551eb48a0c0f201186812a1",
+    "assets/assessment-banks/year4/math/ac9m4m01.json": "7405dd8396e3750080d59f3724ce0b28a306805f9e6dcfae35cea684861b4019",
+    "quiz/year-4/math/ac9m4m01/practice/questions.js": "b82a15d18a0faf3a823498131f4723d3e46348e9d1da41d92c49dd59439ceac8",
+    "quiz/year-4/math/ac9m4m01/test/questions.js": "09d34cedcf42200f44dbf5a5b2dedf759a8d44af5017b0500134b4c85f60c435",
+    "assets/assessment-banks/year4/math/ac9m4m02.json": "be54929ca950294e70655feb92cd9e7953afbee1f5f9ee66db09ea71be711516",
+    "quiz/year-4/math/ac9m4m02/practice/questions.js": "b854be17a6a3a95d74e441cd1e2816e790f57be7f5d7f22ecb1a265b82c2d3e8",
+    "quiz/year-4/math/ac9m4m02/test/questions.js": "75f6f337396e91893f1401c93562e7efdb767c49a73c286eba41913a54852f54",
+    "assets/assessment-banks/year4/math/ac9m4m03.json": "f597ae3db671d23e45b99a411ad2ab6597a6dfcba55987b1d1c3982ab88c4d43",
+    "quiz/year-4/math/ac9m4m03/practice/questions.js": "1856c0f5f41c20d935aa9a0551e911263f24f2b7e22162779b2e7afd573ecb51",
+    "quiz/year-4/math/ac9m4m03/test/questions.js": "8702ad90fb39adcdac8320272b14c276ed7f5e086f96971164744d8a02347683",
+    "assets/assessment-banks/year4/math/ac9m4m04.json": "4c57c4e2a122f8cf0b2764edb4deb5d92a7f37bdbaa741058d2c55acb429fcbd",
+    "quiz/year-4/math/ac9m4m04/practice/questions.js": "67c00543b7704b86df98608f8b073847b06831fd49585399badfae142fb9ac6c",
+    "quiz/year-4/math/ac9m4m04/test/questions.js": "008aa97bc810f28416ea777fa5c56dd50fabe267594bbfc74a7f4327e16c63b3"
+  },
+  "final_rechecks": "M01/M02 response/scoring cases were rerun after four-choice correction and all eight passed. A02 final audio-only equality correction was independently proved to leave every mathematical field unchanged and final generated-source parity passed; its response/scoring behavior is unchanged."
+}

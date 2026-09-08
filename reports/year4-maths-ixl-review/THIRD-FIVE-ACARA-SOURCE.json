@@ -1,0 +1,157 @@
+{
+  "AC9M4A02": {
+    "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/261c1d24-0625-4985-b7b0-d192bb23b783",
+    "description": "recall and demonstrate proficiency with multiplication facts up to 10 x 10 and related division facts; extend and apply facts to develop efficient mental strategies for computation with larger numbers without a calculator",
+    "elaborations": [
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/953387ba-62ad-4e34-9e5a-bf7fbca8a0f5",
+        "notation": "AC9M4A02_E1",
+        "description": "using arrays on grid paper or created with blocks or counters to develop, represent and explain patterns in the \\(10 \\times 10\\) multiplication facts; using the arrays to explain the related division facts"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/38938a64-f062-4622-b47c-cf9d27ef1fe5",
+        "notation": "AC9M4A02_E2",
+        "description": "using materials or diagrams to develop and record multiplication strategies such as doubling, halving, commutativity, and adding one more or subtracting from a group to reach a known fact; for example, creating multiples of \\(3\\) on grid paper and doubling to find multiples of \\(6\\); recording and explaining the connections to the \\(\\times3\\) and \\(\\times6\\) multiplication facts: \\(3, 6, 9,\\) \u2026 doubled is \\(6, 12, 18,\\) \u2026"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/4331bcf6-d834-42ec-9ea3-96371efa5f81",
+        "notation": "AC9M4A02_E3",
+        "description": "using known multiplication facts for \\(2, 3, 5\\) and \\(10\\) to establish multiplication facts for \\(4, 6, 7, 8\\) and \\(9\\) in different ways; for example, using multiples of \\(10\\) to establish the multiples of \\(9\\) as \u201cto multiply a number by \\(9\\) you multiply by \\(10\\) then take the number away\u201d; \\(9 \\times 4 = 10 \\times 4\\space \u2013 \\space4\\), so \\(9 \\times 4\\) is \\(40 \\space\u2013 \\space4 = 36\\); using multiple of \\(3\\) as \u201cto multiply a number by \\(9\\) you multiply by \\(3\\), and then multiply the result by \\(3\\) again\u201d"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/ff6fa235-8156-4093-a670-b5c78ee9242b",
+        "notation": "AC9M4A02_E4",
+        "description": "using arrays and known multiplication facts for twos and fives to develop the multiplication facts for sevens, applying the distributive property of multiplication; for example, when finding \\(6 \\times 7\\), knowing that \\(7\\) is made up of \\(2\\) and \\(5\\), and using an array to show that \\(6 \\times 7\\) is the same as \\(6 \\times 2 + 6 \\times 5 = 12 + 30\\) which is \\(42\\)"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/004c806d-1c83-4e37-9b00-98352ae2a0fd",
+        "notation": "AC9M4A02_E5",
+        "description": "using known multiplication facts up to \\(10 \\times 10\\) and the inverse relationship of multiplication and division to establish corresponding division facts"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/501306f3-3958-4f74-949d-80df112c4dbc",
+        "notation": "AC9M4A02_E6",
+        "description": "designing, creating and playing instructive card games that involve the recall, recognition and explanation of the \\(10 \\times 10\\) multiplication facts and related division facts"
+      }
+    ]
+  },
+  "AC9M4M01": {
+    "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/9cbf7d42-4ce1-4de6-bdb5-87dafa2ab286",
+    "description": "interpret unmarked and partial units when measuring and comparing attributes of length, mass, capacity, duration and temperature, using scaled and digital instruments and appropriate units",
+    "elaborations": [
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/577e5ff2-9928-40a6-8601-35fb3a29084a",
+        "notation": "AC9M4M01_E1",
+        "description": "reading the mass of objects measured with digital and analog kitchen scales and explaining what unit of mass the lines on the analog scales refer to"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/eb19605b-5f96-4b31-8c02-aa2139dc5b7b",
+        "notation": "AC9M4M01_E2",
+        "description": "deciding on which attribute, unit and measuring instrument to use to compare the length and mass of various things, such as the distance travelled by an object in a science investigation; explaining the use of units such as grams or millimetres to give accurate measures when needed"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/1fa29fca-c666-448b-b0c6-4dabce117f44",
+        "notation": "AC9M4M01_E3",
+        "description": "using scaled instruments such as tape measures, measuring jugs, kitchen scales and thermometers, recording measures using whole units; for example, \\(560\\) millimetres, or whole and part units; for example, \\(5.25\\) metres, \\(1.75\\) litres, \\(2.5\\) kilograms, \\(28.5\\)\u00b0 Celsius"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/fd8daaae-7cbe-45c9-8df5-689626b4ba92",
+        "notation": "AC9M4M01_E4",
+        "description": "reading and interpreting the scale of an analog clock without marked minutes to estimate the time to the nearest minute and to determine the duration of time between events"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/c72ebedc-ed18-4d99-a45c-348dea1742a4",
+        "notation": "AC9M4M01_E5",
+        "description": "using the timer or alarm function of a clock to alert when a specified duration has elapsed from a given starting time; for example, the different activities of an exercise routine"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/0aea8775-c6ec-4e79-b4d2-8817e3d60959",
+        "notation": "AC9M4M01_E6",
+        "description": "making a scaled measuring instrument such as a tape measure, ruler, sand timer, sun dial or measuring cup using scaled instruments and direct comparisons"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/f7049737-abbf-463d-8e79-b425d45ea9ae",
+        "notation": "AC9M4M01_E7",
+        "description": "exploring the different types of scaled instruments used by First Nations Ranger Groups and other groups to make decisions about caring for Country/Place, and modelling these in local contexts"
+      }
+    ]
+  },
+  "AC9M4M02": {
+    "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/3e91c7d5-96d5-4be0-a11c-729206f75e82",
+    "description": "recognise ways of measuring and approximating the perimeter and area of shapes and enclosed spaces, using appropriate formal and informal units",
+    "elaborations": [
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/b452c207-0d11-4960-b396-ece459de6df5",
+        "notation": "AC9M4M02_E1",
+        "description": "recognising that perimeter is the sum of the lengths that form the boundary of a shape or enclosed space; choosing suitable units from a range of objects to measure around the boundary of a shape such as a garden bed; comparing the results to say which unit was an appropriate choice for the context; using a piece of string or rope to measure the perimeter of irregular shapes and enclosed spaces, including those that have curved sections"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/d0b32f63-def5-432d-9563-83d01f59f7d8",
+        "notation": "AC9M4M02_E2",
+        "description": "creating a range of rectangles representing \u201cpaddocks\u201d on grid paper and establishing different methods of working out the length of the boundary fences; explaining that the more efficient methods involve adding the side lengths rather than counting squares"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/a8a3e548-8491-4c95-aa04-cbf0701aafe2",
+        "notation": "AC9M4M02_E3",
+        "description": "recognising that area is the space enclosed by the boundary of a shape or the surface of an object; measuring and comparing the area of shapes, using an array of paper tiles or mosaic squares, including part units to fill gaps at the edge of the shapes; comparing the total areas by combining the fractional parts to make whole units"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/479e5960-e06a-4560-8cb2-63ab4b3e9882",
+        "notation": "AC9M4M02_E4",
+        "description": "demonstrating how to use one unit repeatedly to measure the area of a shape; for example, using one paper square to measure and compare the area of a rectangle and a triangle; recording and explaining how they used part units to give a more accurate measure, and why they needed to ensure there were no gaps or overlaps"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/cb88fdb4-dd01-4587-91c6-7e1c8862c4f1",
+        "notation": "AC9M4M02_E5",
+        "description": "investigating the ways First Nations Ranger Groups and other groups measure areas of land to make decisions about fire burns to care for Country/Place"
+      }
+    ]
+  },
+  "AC9M4M03": {
+    "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/4c8c7f2d-2898-4cca-bdf7-594418e0ad66",
+    "description": "solve problems involving the duration of time including situations involving \u201cam\u201d and \u201cpm\u201d and conversions between units of time",
+    "elaborations": [
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/b7e013a6-9895-4675-8678-92c30368d389",
+        "notation": "AC9M4M03_E1",
+        "description": "calculating the amount of time between \\(2\\) events, such as the start and finish of a movie, a bus journey or a flight, including cases where the starting and finishing times are written using \u201cam\u201d and \u201cpm\u201d notation"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/27d61691-3c36-4683-9260-5de1959d6317",
+        "notation": "AC9M4M03_E2",
+        "description": "converting units of time using relationships between units, such as \\(60\\) minutes in an hour and \\(60\\) seconds in a minute, to solve problems; for example, creating a daily timetable for an activity such as an athletics carnival or planning an exercise routine with activities and rests"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/8df841d6-e092-4288-a1f5-eeac53103ff9",
+        "notation": "AC9M4M03_E3",
+        "description": "exploring First Nations Australians\u2019 explanations of the passing of time through cultural accounts about cyclic phenomena involving sun, moon and stars"
+      }
+    ]
+  },
+  "AC9M4M04": {
+    "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/8d5471c2-4085-496d-ae1b-86beb47f2d63",
+    "description": "estimate and compare angles using angle names including acute, obtuse, straight angle, reflex and revolution, and recognise their relationship to a right angle",
+    "elaborations": [
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/b48bcb3d-42d4-4f8c-8460-a9745487e0bb",
+        "notation": "AC9M4M04_E1",
+        "description": "classifying the interior angles of a range of shapes, using examples of angles to identify acute, obtuse, right and reflex angles"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/99d4ed71-8579-488e-b7c9-eefaf09769db",
+        "notation": "AC9M4M04_E2",
+        "description": "identifying angles within the environment and estimating whether they are acute, obtuse right or reflex"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/f81a4120-6aa0-4602-be54-30bcdafc9cea",
+        "notation": "AC9M4M04_E3",
+        "description": "creating a right-angle template using cardboard or a double-folded piece of paper and using it to compare angles in the environment, commenting on whether they are smaller than or greater than a right angle"
+      },
+      {
+        "uri": "http://vocabulary.curriculum.edu.au/MRAC/2024/04/LA/MAT/0945614b-e7de-4990-afbe-412e0fe74185",
+        "notation": "AC9M4M04_E4",
+        "description": "using different measuring tools such as a spirit level or set squares to determine whether lines or objects are straight, square or perpendicular (at right angles)"
+      }
+    ]
+  }
+}

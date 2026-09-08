@@ -1,0 +1,72 @@
+{
+  "AC9M4A02": {
+    "focus": [
+      "Use multiplication facts to 10 × 10 and their related division facts. An array shows equal rows and columns; turning it preserves the total.",
+      "Build a less familiar fact from known facts: double, halve, split groups, or add or remove one whole group. Explain what each part counts.",
+      "Extend facts to larger mental calculations without a calculator. Keep track of tens and hundreds, and check using the inverse relationship."
+    ],
+    "model_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#a-split6x7",
+    "model_alt": "Six rows of counters, each split into two blue counters and five gold counters.",
+    "model_caption": "Split 7 columns into 2 and 5. The parts contain 6 × 2 = 12 and 6 × 5 = 30 counters, so 6 × 7 = 42.",
+    "example": "Use 6 × 7 = 42 to find 60 × 7: sixty is six tens, so the result is 42 tens, or 420. The inverse check is 420 ÷ 7 = 60. For 23 × 4, split 23 into 20 and 3: 80 + 12 = 92.",
+    "mistake": "One more group of 8 adds 8, not 1. When you use a fact with tens, keep the tens unit in the answer.",
+    "materials": "Have paper, a pencil and small paper cards ready. Drawing and game tasks require your actual work; an adult checks the array, calculations, rules and recorded play before awarding credit.",
+    "review": "Name the known fact that helped, explain your strategy and check a related division fact. Accept a different strategy when every step is correct."
+  },
+  "AC9M4M01": {
+    "focus": [
+      "Choose the attribute, instrument and unit: length, mass, capacity, duration or temperature. Read the unit on a digital display as well as the digits.",
+      "On a scale, find two labelled values and count the equal intervals between them. Divide their difference by the number of intervals to find each step.",
+      "Read whole and part units carefully. Estimate between marks only as precisely as the instrument allows, and explain how you checked the measurement."
+    ],
+    "model_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-mass350",
+    "model_alt": "A mass scale runs from 200 grams to 500 grams in six equal intervals. The pointer is three intervals after 200 grams.",
+    "model_caption": "The labelled difference is 300 g across 6 equal intervals. Each interval is 50 g, so the pointer reads 200 g + 150 g = 350 g.",
+    "example": "A thermometer has five equal intervals from 20 °C to 30 °C. Each interval is 2 °C, so the third interval above 20 °C reads 26 °C. If an object's ends line up with 2 cm and 9 cm on a ruler, its length is 9 − 2 = 7 cm.",
+    "mistake": "Count spaces between marks, not the marks themselves. A timer showing 02:35 in minutes:seconds means 2 minutes 35 seconds, not 2.35 minutes.",
+    "materials": "Some tasks need a ruler, a measuring jug, a timer or other named instrument. Prepare the equipment with an adult or complete the task in class. Record the actual measurement and unit; an adult checks practical work before awarding credit.",
+    "review": "Explain the value of one interval, the starting reading and the pointer position. For a made instrument, compare several readings with a trusted instrument."
+  },
+  "AC9M4M03": {
+    "focus": [
+      "State the starting and finishing times, including am or pm and the day. Count forward in useful jumps through the next hour, noon or midnight.",
+      "Use 60 seconds = 1 minute and 60 minutes = 1 hour. Use groups of 60 when converting between these units, not groups of 100.",
+      "When planning a timetable, include activities, rests and any waiting time. Public cultural accounts can explain repeating Sun, Moon and star cycles; identify the particular community and source."
+    ],
+    "model_path": "/assets/assessment-visuals/year4/math/ac9m4m03.svg#m-noon-bridge",
+    "model_alt": "Friday timeline: 11:45 am to 12 noon is a 15-minute jump; noon to 12:25 pm is a 25-minute jump.",
+    "model_caption": "The two jumps cross noon on Friday: 15 minutes + 25 minutes = 40 minutes altogether. Noon is 12 pm.",
+    "example": "From 11:40 pm on Monday to 12:15 am on Tuesday, count 20 minutes to midnight, then 15 minutes: 35 minutes. To convert 2 minutes 35 seconds, calculate 2 × 60 + 35 = 155 seconds.",
+    "mistake": "12 noon is 12 pm; midnight is 12 am and starts a new day. Do not treat 1 hour 30 minutes as 130 minutes: it is 60 + 30 = 90 minutes.",
+    "materials": "Have paper and a pencil ready for timelines and schedules. Written planning tasks need all activity times and any rests; an adult checks your completed work before awarding credit.",
+    "review": "Add the duration back to the start and check that you reach the stated finish on the correct day. Check conversions with groups of 60."
+  },
+  "AC9M4M04": {
+    "focus": [
+      "Compare the indicated opening or turn with a right angle. Acute is smaller than a right angle; obtuse is larger than a right angle and smaller than a straight angle.",
+      "A straight angle is two right angles. A reflex angle is greater than a straight angle and less than a full revolution. One revolution is four right angles.",
+      "Arm length and page orientation do not change angle size. Align a checked right-angle template at the vertex and along one arm; follow the marked arc to identify the intended angle."
+    ],
+    "model_path": "/assets/assessment-visuals/year4/math/ac9m4m04.svg#ac9m4m04-p-012",
+    "model_alt": "An arrow turns anticlockwise from an upward arm through three quarters of a circle to a rightward arm.",
+    "model_caption": "The marked turn is three right angles. It is greater than a straight angle and less than a revolution, so it is reflex.",
+    "example": "On a top-view sketch of an open door, place a right-angle template at the drawn hinge, with one edge along the closed position. If the marked opening is wider than the template but less than a half turn, it is obtuse. Check the indicated opening, because the same arms also enclose a different angle around the other side.",
+    "mistake": "Longer arms do not make a larger angle. A spirit level checks level or plumb using the appropriate vial; use a set square or a checked right-angle template to compare a corner with a right angle.",
+    "materials": "Prepare a pencil, separate paper, folding paper or card, a checked right-angle template and the tools named in a practical task. Arrange set-square or spirit-level work with an adult or in class. Complete the actual task before asking an adult to check it.",
+    "review": "Point to the vertex and marked opening, compare it with right-angle turns, and explain how a template or suitable tool supports your conclusion."
+  },
+  "AC9M4M02": {
+    "focus": [
+      "Perimeter measures the whole boundary using length units. Area measures the enclosed surface using square units or other equal area units.",
+      "Count boundary lengths for perimeter and covered tiles for area. Fit area units without gaps or overlaps; combine part units when a boundary cuts through a tile.",
+      "Choose formal or informal units that suit the space. State when a result is approximate, and explain your measuring method."
+    ],
+    "model_path": "/assets/assessment-visuals/year4/math/ac9m4m02.svg#m02-rect64",
+    "model_alt": "A rectangle has six columns and four rows of square tiles. Each tile side is one length unit. Orange outlines only the outer boundary.",
+    "model_caption": "The boundary is 6 + 4 + 6 + 4 = 20 length units. The surface contains 4 rows of 6 tiles, so its area is 24 square units.",
+    "example": "If a region covers 12 whole grid squares and 6 half-squares, pair the halves to make 3 whole squares. The area is 12 + 3 = 15 square units. For a curved boundary, fit string around the complete edge once, mark the meeting point, then straighten and measure the string.",
+    "mistake": "Do not add internal grid lines to the perimeter or count boundary lengths as area. The same area can have different perimeters. For the same length or area, smaller units give a larger count.",
+    "materials": "Have paper, a pencil, a ruler, string and one paper square ready for practical tasks. Use separate paper when a diagram needs more room. An adult checks actual measuring, drawings and explanations before awarding credit; a printed picture is not a calibrated ruler.",
+    "review": "Trace the complete boundary for perimeter. For area, check how the units cover the surface and how part units combine. Include the unit and explain any estimate."
+  }
+}

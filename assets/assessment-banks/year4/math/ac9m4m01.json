@@ -5,32 +5,36 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "choose_measurement_units",
-    "question": "In a class project, which unit best measures a drink bottle?",
-    "audio_prompt": "In a class project, which unit best measures a drink bottle?",
+    "skill": "mass_interval",
+    "question": "What mass does one interval on this scale represent?",
+    "audio_prompt": "What mass does one interval on this scale represent?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-001",
-      "alt_text": "In a class project: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-mass350",
+      "alt_text": "Part of a mass scale. Scale from 200 to 500 g with 6 equal intervals. Pointer is 3 intervals after the first mark."
     },
     "answers": [
       {
-        "text": "kilometres",
-        "is_correct": false
-      },
-      {
-        "text": "kilograms",
-        "is_correct": false
-      },
-      {
-        "text": "millilitres",
+        "text": "50 g",
         "is_correct": true
+      },
+      {
+        "text": "60 g",
+        "is_correct": false
+      },
+      {
+        "text": "300 g",
+        "is_correct": false
+      },
+      {
+        "text": "75 g",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
+      "summary": "500 − 200 = 300 g. Six equal spaces share 300 g, so each space is 50 g.",
+      "hint": "Count spaces between the labelled values."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
@@ -42,36 +46,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "read_scaled_instruments",
-    "question": "At the school market, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "At the school market, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "read_analog_mass",
+    "question": "Read the mass shown by the pointer.",
+    "audio_prompt": "Read the mass shown by the pointer.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-002",
-      "alt_text": "At the school market: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-mass350",
+      "alt_text": "Part of a mass scale. Scale from 200 to 500 g with 6 equal intervals. Pointer is 3 intervals after the first mark."
     },
     "answers": [
       {
-        "text": "250 mL",
+        "text": "400 g",
+        "is_correct": false
+      },
+      {
+        "text": "350 g",
         "is_correct": true
       },
       {
-        "text": "25 mL",
+        "text": "300 g",
         "is_correct": false
       },
       {
-        "text": "400 mL",
+        "text": "250 g",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
+      "summary": "The pointer is three 50 g intervals after 200 g: 200 + 150 = 350 g.",
+      "hint": "Find the interval size, then count from 200 g."
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4M01-P-003",
@@ -79,36 +87,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "choose_measurement_units",
-    "question": "While planning a garden, which unit best measures an apple?",
-    "audio_prompt": "While planning a garden, which unit best measures an apple?",
+    "skill": "read_analog_mass",
+    "question": "What mass is shown on the analog kitchen scale?",
+    "audio_prompt": "What mass is shown on the analog kitchen scale?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-003",
-      "alt_text": "While planning a garden: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-mass1500",
+      "alt_text": "Analog kitchen scale: 4 equal intervals from 0 to 2 kg, increasing clockwise. Pointer is 3 intervals after zero."
     },
     "answers": [
       {
-        "text": "metres",
+        "text": "0.5 kg",
         "is_correct": false
       },
       {
-        "text": "grams",
+        "text": "3 kg",
+        "is_correct": false
+      },
+      {
+        "text": "1.5 kg",
         "is_correct": true
       },
       {
-        "text": "millilitres",
+        "text": "1 kg",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
+      "summary": "Four equal intervals span 2 kg. Each is 0.5 kg and the pointer is three intervals from zero.",
+      "hint": "The scale increases from left to right."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 3
   },
   {
     "id": "AC9M4M01-P-004",
@@ -116,36 +128,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "read_scaled_instruments",
-    "question": "During a sports challenge, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "During a sports challenge, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "read_digital_mass",
+    "question": "Which record matches this digital scale?",
+    "audio_prompt": "Which record matches this digital scale?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-004",
-      "alt_text": "During a sports challenge: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-digital1250",
+      "alt_text": "Digital kitchen scale. Display 1.25 kg. Mass of the object; scale was zeroed first."
     },
     "answers": [
       {
-        "text": "25 mL",
+        "text": "1 kg and 25 g",
         "is_correct": false
       },
       {
-        "text": "400 mL",
+        "text": "125 kg",
         "is_correct": false
       },
       {
-        "text": "250 mL",
+        "text": "1 kg and 500 g",
+        "is_correct": false
+      },
+      {
+        "text": "1 kg and 250 g",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
+      "summary": "1.25 kg is 1 kg plus a quarter of a kilogram; a quarter of 1000 g is 250 g.",
+      "hint": "Read the kg unit as well as the digits."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 4
   },
   {
     "id": "AC9M4M01-P-005",
@@ -153,36 +169,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "choose_measurement_units",
-    "question": "At the wildlife centre, which unit best measures a classroom door?",
-    "audio_prompt": "At the wildlife centre, which unit best measures a classroom door?",
+    "skill": "compare_mass",
+    "question": "The analog scale shows one parcel. Another parcel has mass 675 g. Which is heavier?",
+    "audio_prompt": "The analog scale shows one parcel. Another parcel has mass 675 g. Which is heavier?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-005",
-      "alt_text": "At the wildlife centre: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-mass650",
+      "alt_text": "Analog kitchen scale: 20 equal intervals from 0 to 1000 g, increasing clockwise. Pointer is 13 intervals after zero."
     },
     "answers": [
       {
-        "text": "metres",
+        "text": "The 675 g parcel, by 25 g",
         "is_correct": true
       },
       {
-        "text": "litres",
+        "text": "They have equal mass",
         "is_correct": false
       },
       {
-        "text": "grams",
+        "text": "The analog parcel, by 25 g",
+        "is_correct": false
+      },
+      {
+        "text": "The 675 g parcel, by 50 g",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
+      "summary": "The dial shows 650 g. 675 − 650 = 25 g.",
+      "hint": "Each interval is 50 g."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 5
   },
   {
     "id": "AC9M4M01-P-006",
@@ -190,36 +210,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "read_scaled_instruments",
-    "question": "In the makerspace, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "In the makerspace, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "partial_mass",
+    "question": "Read the pointer on this part of a mass scale.",
+    "audio_prompt": "Read the pointer on this part of a mass scale.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-006",
-      "alt_text": "In the makerspace: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-mass2500",
+      "alt_text": "Part of a mass scale. Scale from 1 to 3 kg with 4 equal intervals. Pointer is 3 intervals after the first mark."
     },
     "answers": [
       {
-        "text": "25 mL",
+        "text": "1.5 kg",
         "is_correct": false
       },
       {
-        "text": "250 mL",
+        "text": "2.5 kg",
         "is_correct": true
       },
       {
-        "text": "400 mL",
+        "text": "2.05 kg",
+        "is_correct": false
+      },
+      {
+        "text": "3 kg",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
+      "summary": "The scale begins at 1 kg. Three half-kilogram spaces reach 2.5 kg.",
+      "hint": "Begin at the printed starting value."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 6
   },
   {
     "id": "AC9M4M01-P-007",
@@ -227,36 +251,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "choose_measurement_units",
-    "question": "While checking a map, which unit best measures a drink bottle?",
-    "audio_prompt": "While checking a map, which unit best measures a drink bottle?",
+    "skill": "mass_unit_choice",
+    "question": "Which unit and instrument suit measuring the mass of a paperclip accurately?",
+    "audio_prompt": "Which unit and instrument suit measuring the mass of a paperclip accurately?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-007",
-      "alt_text": "While checking a map: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "kilometres",
+        "text": "Metres on a tape measure",
         "is_correct": false
       },
       {
-        "text": "kilograms",
+        "text": "Litres in a measuring jug",
         "is_correct": false
       },
       {
-        "text": "millilitres",
+        "text": "Grams on kitchen scales",
         "is_correct": true
+      },
+      {
+        "text": "Kilograms on a bathroom scale",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
+      "summary": "Mass is measured in grams or kilograms. Grams suit a small, light object.",
+      "hint": "Which attribute tells how heavy the paperclip is?"
     },
     "difficulty": 1,
     "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "sequence_priority": 7
   },
   {
     "id": "AC9M4M01-P-008",
@@ -264,36 +290,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "read_scaled_instruments",
-    "question": "During a cooking task, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "During a cooking task, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "mass_zero",
+    "question": "A bowl alone reads 200 g. After flour is added, the scale reads 650 g. What is the mass of the flour?",
+    "audio_prompt": "A bowl alone reads 200 g. After flour is added, the scale reads 650 g. What is the mass of the flour?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-008",
-      "alt_text": "During a cooking task: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "250 mL",
+        "text": "650 g",
+        "is_correct": false
+      },
+      {
+        "text": "850 g",
+        "is_correct": false
+      },
+      {
+        "text": "200 g",
+        "is_correct": false
+      },
+      {
+        "text": "450 g",
         "is_correct": true
-      },
-      {
-        "text": "25 mL",
-        "is_correct": false
-      },
-      {
-        "text": "400 mL",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
+      "summary": "The display includes bowl and flour. Subtract the bowl: 650 − 200 = 450 g.",
+      "hint": "Remove the bowl’s contribution to the total."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 8
   },
   {
     "id": "AC9M4M01-P-009",
@@ -301,35 +329,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "choose_measurement_units",
-    "question": "At the community fair, which unit best measures an apple?",
-    "audio_prompt": "At the community fair, which unit best measures an apple?",
+    "skill": "read_length",
+    "question": "How long is the strip?",
+    "audio_prompt": "How long is the strip?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-009",
-      "alt_text": "At the community fair: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-length70",
+      "alt_text": "Measuring a strip. Scale from 0 to 100 mm with 10 equal intervals. Object begins 0 intervals after the first mark and ends 7 intervals after it."
     },
     "answers": [
       {
-        "text": "metres",
-        "is_correct": false
-      },
-      {
-        "text": "grams",
+        "text": "70 mm",
         "is_correct": true
       },
       {
-        "text": "millilitres",
+        "text": "7 mm",
+        "is_correct": false
+      },
+      {
+        "text": "80 mm",
+        "is_correct": false
+      },
+      {
+        "text": "100 mm",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
+      "summary": "Each space is 10 mm. The strip runs from 0 to 70 mm.",
+      "hint": "Count equal spaces from zero."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M4M01-P-010",
@@ -337,35 +370,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "read_scaled_instruments",
-    "question": "In a library display, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "In a library display, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "partial_length",
+    "question": "How long is the pencil on this centimetre scale?",
+    "audio_prompt": "How long is the pencil on this centimetre scale?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-010",
-      "alt_text": "In a library display: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-length65",
+      "alt_text": "Measuring a pencil. Scale from 0 to 10 cm with 20 equal intervals. Object begins 0 intervals after the first mark and ends 13 intervals after it."
     },
     "answers": [
       {
-        "text": "25 mL",
+        "text": "6.05 cm",
         "is_correct": false
       },
       {
-        "text": "400 mL",
-        "is_correct": false
-      },
-      {
-        "text": "250 mL",
+        "text": "6.5 cm",
         "is_correct": true
+      },
+      {
+        "text": "7.5 cm",
+        "is_correct": false
+      },
+      {
+        "text": "13 cm",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
+      "summary": "Each space is half a centimetre. The endpoint is halfway between 6 cm and 7 cm.",
+      "hint": "Two spaces make one centimetre."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M4M01-P-011",
@@ -373,35 +411,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "choose_measurement_units",
-    "question": "During a science activity, which unit best measures a classroom door?",
-    "audio_prompt": "During a science activity, which unit best measures a classroom door?",
+    "skill": "nonzero_start",
+    "question": "The strip begins at 2 cm and ends at 9 cm. What is its length?",
+    "audio_prompt": "The strip begins at 2 cm and ends at 9 cm. What is its length?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-011",
-      "alt_text": "During a science activity: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-offset",
+      "alt_text": "Measuring with a worn ruler. Scale from 0 to 12 cm with 12 equal intervals. Object begins 2 intervals after the first mark and ends 9 intervals after it."
     },
     "answers": [
       {
-        "text": "metres",
+        "text": "11 cm",
+        "is_correct": false
+      },
+      {
+        "text": "9 cm",
+        "is_correct": false
+      },
+      {
+        "text": "7 cm",
         "is_correct": true
       },
       {
-        "text": "litres",
-        "is_correct": false
-      },
-      {
-        "text": "grams",
+        "text": "12 cm",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
+      "summary": "The length is the distance between endpoints: 9 − 2 = 7 cm.",
+      "hint": "A nonzero starting mark must be subtracted."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M4M01-P-012",
@@ -409,35 +452,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "read_scaled_instruments",
-    "question": "At the school canteen, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "At the school canteen, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "partial_length",
+    "question": "What reading is shown on the tape?",
+    "audio_prompt": "What reading is shown on the tape?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-012",
-      "alt_text": "At the school canteen: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-tape525",
+      "alt_text": "Part of a measuring tape. Scale from 5 to 6 m with 4 equal intervals. Pointer is 1 interval after the first mark."
     },
     "answers": [
       {
-        "text": "25 mL",
+        "text": "0.25 m",
         "is_correct": false
       },
       {
-        "text": "250 mL",
+        "text": "5.4 m",
+        "is_correct": false
+      },
+      {
+        "text": "5.5 m",
+        "is_correct": false
+      },
+      {
+        "text": "5.25 m",
         "is_correct": true
-      },
-      {
-        "text": "400 mL",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
+      "summary": "The part from 5 m to 6 m has four equal spaces. The first mark after 5 m is 5.25 m.",
+      "hint": "A quarter of a metre is 0.25 m."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M4M01-P-013",
@@ -445,35 +493,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "choose_measurement_units",
-    "question": "While organising an excursion, which unit best measures a drink bottle?",
-    "audio_prompt": "While organising an excursion, which unit best measures a drink bottle?",
+    "skill": "read_length",
+    "question": "What reading is shown on the millimetre scale?",
+    "audio_prompt": "What reading is shown on the millimetre scale?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-013",
-      "alt_text": "While organising an excursion: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-length560",
+      "alt_text": "Part of a millimetre scale. Scale from 500 to 600 mm with 10 equal intervals. Pointer is 6 intervals after the first mark."
     },
     "answers": [
       {
-        "text": "kilometres",
-        "is_correct": false
-      },
-      {
-        "text": "kilograms",
-        "is_correct": false
-      },
-      {
-        "text": "millilitres",
+        "text": "560 mm",
         "is_correct": true
+      },
+      {
+        "text": "506 mm",
+        "is_correct": false
+      },
+      {
+        "text": "60 mm",
+        "is_correct": false
+      },
+      {
+        "text": "550 mm",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
+      "summary": "Ten spaces span 100 mm, so each is 10 mm. Six spaces after 500 mm reach 560 mm.",
+      "hint": "Do not restart counting from zero."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13
   },
   {
     "id": "AC9M4M01-P-014",
@@ -481,35 +534,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "read_scaled_instruments",
-    "question": "In a games club, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "In a games club, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "length_instrument",
+    "question": "A toy car travels about 2 metres across a floor. Which instrument and unit suit comparing its travel distances?",
+    "audio_prompt": "A toy car travels about 2 metres across a floor. Which instrument and unit suit comparing its travel distances?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-014",
-      "alt_text": "In a games club: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "250 mL",
+        "text": "A thermometer, recording degrees Celsius",
+        "is_correct": false
+      },
+      {
+        "text": "A tape measure, recording centimetres",
         "is_correct": true
       },
       {
-        "text": "25 mL",
+        "text": "Kitchen scales, recording grams",
         "is_correct": false
       },
       {
-        "text": "400 mL",
+        "text": "A ruler, recording square centimetres",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
+      "summary": "A tape measure measures the distance travelled; centimetres allow closer comparisons than whole metres.",
+      "hint": "The attribute is length, even though the car is moving."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14
   },
   {
     "id": "AC9M4M01-P-015",
@@ -517,35 +573,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "choose_measurement_units",
-    "question": "During an art project, which unit best measures an apple?",
-    "audio_prompt": "During an art project, which unit best measures an apple?",
+    "skill": "length_precision",
+    "question": "Two seedlings are 34 mm and 38 mm tall. Why are millimetres useful here?",
+    "audio_prompt": "Two seedlings are 34 mm and 38 mm tall. Why are millimetres useful here?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-015",
-      "alt_text": "During an art project: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "metres",
+        "text": "They measure mass",
         "is_correct": false
       },
       {
-        "text": "grams",
+        "text": "They make both heights exactly equal",
+        "is_correct": false
+      },
+      {
+        "text": "They show the small difference in height",
         "is_correct": true
       },
       {
-        "text": "millilitres",
+        "text": "They make a small height difference disappear",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
+      "summary": "Their heights differ by 4 mm. Smaller length units can describe this difference clearly.",
+      "hint": "Both measurements are lengths."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15
   },
   {
     "id": "AC9M4M01-P-016",
@@ -553,35 +612,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "read_scaled_instruments",
-    "question": "At the recycling station, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "At the recycling station, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "compare_length",
+    "question": "Which is longer: 56 cm or 560 mm?",
+    "audio_prompt": "Which is longer: 56 cm or 560 mm?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-016",
-      "alt_text": "At the recycling station: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "25 mL",
+        "text": "56 cm",
         "is_correct": false
       },
       {
-        "text": "400 mL",
+        "text": "560 mm",
         "is_correct": false
       },
       {
-        "text": "250 mL",
+        "text": "56 cm is longer by 56 mm",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
+      "summary": "Each centimetre is 10 mm, so 56 cm is 560 mm.",
+      "hint": "Use the same unit before comparing."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16
   },
   {
     "id": "AC9M4M01-P-017",
@@ -589,35 +651,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "choose_measurement_units",
-    "question": "While planning a survey, which unit best measures a classroom door?",
-    "audio_prompt": "While planning a survey, which unit best measures a classroom door?",
+    "skill": "capacity_interval",
+    "question": "This jug has four equal intervals from 0 to 1 L. What is one interval?",
+    "audio_prompt": "This jug has four equal intervals from 0 to 1 L. What is one interval?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-017",
-      "alt_text": "While planning a survey: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-jug750",
+      "alt_text": "Jug marked from 0 to 1 L in 4 equal intervals. Liquid level is 3 intervals above zero."
     },
     "answers": [
       {
-        "text": "metres",
+        "text": "250 mL",
         "is_correct": true
       },
       {
-        "text": "litres",
+        "text": "400 mL",
         "is_correct": false
       },
       {
-        "text": "grams",
+        "text": "25 mL",
+        "is_correct": false
+      },
+      {
+        "text": "200 mL",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
+      "summary": "1 L is 1000 mL. 1000 shared into four equal parts is 250 mL.",
+      "hint": "Count spaces, not the five marks."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 17
   },
   {
     "id": "AC9M4M01-P-018",
@@ -625,35 +692,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "read_scaled_instruments",
-    "question": "In a coding lesson, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "In a coding lesson, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "read_capacity",
+    "question": "How much liquid is in the jug?",
+    "audio_prompt": "How much liquid is in the jug?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-018",
-      "alt_text": "In a coding lesson: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-jug750",
+      "alt_text": "Jug marked from 0 to 1 L in 4 equal intervals. Liquid level is 3 intervals above zero."
     },
     "answers": [
       {
-        "text": "25 mL",
+        "text": "0.25 L",
         "is_correct": false
       },
       {
-        "text": "250 mL",
+        "text": "0.75 L",
         "is_correct": true
       },
       {
-        "text": "400 mL",
+        "text": "3 L",
+        "is_correct": false
+      },
+      {
+        "text": "0.5 L",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
+      "summary": "Three quarter-litre spaces above zero give 0.75 L.",
+      "hint": "Each of the four spaces is 0.25 L."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18
   },
   {
     "id": "AC9M4M01-P-019",
@@ -661,35 +733,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "choose_measurement_units",
-    "question": "During a building task, which unit best measures a drink bottle?",
-    "audio_prompt": "During a building task, which unit best measures a drink bottle?",
+    "skill": "partial_capacity",
+    "question": "Read the liquid level in this jug.",
+    "audio_prompt": "Read the liquid level in this jug.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-019",
-      "alt_text": "During a building task: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-jug1750",
+      "alt_text": "Jug marked from 0 to 2 L in 8 equal intervals. Liquid level is 7 intervals above zero."
     },
     "answers": [
       {
-        "text": "kilometres",
+        "text": "1.5 L",
         "is_correct": false
       },
       {
-        "text": "kilograms",
+        "text": "1.07 L",
         "is_correct": false
       },
       {
-        "text": "millilitres",
+        "text": "1.75 L",
         "is_correct": true
+      },
+      {
+        "text": "1.25 L",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
+      "summary": "Eight equal spaces span 2 L, so one is 0.25 L. Seven spaces give 1.75 L.",
+      "hint": "Find the value of one space first."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19
   },
   {
     "id": "AC9M4M01-P-020",
@@ -697,35 +774,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "read_scaled_instruments",
-    "question": "At the local pool, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "At the local pool, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "partial_capacity",
+    "question": "The liquid is halfway between two adjacent 100 mL marks. About how much is there?",
+    "audio_prompt": "The liquid is halfway between two adjacent 100 mL marks. About how much is there?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-020",
-      "alt_text": "At the local pool: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-jug450",
+      "alt_text": "Jug marked from 0 to 600 mL in 6 equal intervals. Liquid level is 4.5 intervals above zero."
     },
     "answers": [
       {
-        "text": "250 mL",
-        "is_correct": true
-      },
-      {
-        "text": "25 mL",
+        "text": "500 mL",
         "is_correct": false
       },
       {
         "text": "400 mL",
         "is_correct": false
+      },
+      {
+        "text": "425 mL",
+        "is_correct": false
+      },
+      {
+        "text": "450 mL",
+        "is_correct": true
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
+      "summary": "The level is halfway between 400 mL and 500 mL, so it is about 450 mL.",
+      "hint": "A halfway reading adds half the interval."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20
   },
   {
     "id": "AC9M4M01-P-021",
@@ -733,35 +815,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "choose_measurement_units",
-    "question": "While preparing a camp, which unit best measures an apple?",
-    "audio_prompt": "While preparing a camp, which unit best measures an apple?",
+    "skill": "compare_capacity",
+    "question": "A jug holds 1.25 L of water and a bottle holds 1180 mL. Which contains more?",
+    "audio_prompt": "A jug holds 1.25 L of water and a bottle holds 1180 mL. Which contains more?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-021",
-      "alt_text": "While preparing a camp: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "metres",
-        "is_correct": false
-      },
-      {
-        "text": "grams",
+        "text": "The jug, by 70 mL",
         "is_correct": true
       },
       {
-        "text": "millilitres",
+        "text": "The bottle, by 70 mL",
+        "is_correct": false
+      },
+      {
+        "text": "The jug, by 7 mL",
+        "is_correct": false
+      },
+      {
+        "text": "The jug, by 700 mL",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
+      "summary": "1.25 L = 1250 mL. 1250 − 1180 = 70 mL.",
+      "hint": "Express both amounts in millilitres."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21
   },
   {
     "id": "AC9M4M01-P-022",
@@ -769,35 +854,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "read_scaled_instruments",
-    "question": "In a music project, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "In a music project, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "capacity_instrument",
+    "question": "You want to measure how much water a cup holds. Which instrument and unit fit?",
+    "audio_prompt": "You want to measure how much water a cup holds. Which instrument and unit fit?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-022",
-      "alt_text": "In a music project: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "25 mL",
+        "text": "A ruler marked in mm",
         "is_correct": false
       },
       {
-        "text": "400 mL",
-        "is_correct": false
-      },
-      {
-        "text": "250 mL",
+        "text": "A measuring jug marked in mL",
         "is_correct": true
+      },
+      {
+        "text": "A clock marked in hours",
+        "is_correct": false
+      },
+      {
+        "text": "Kitchen scales marked in grams",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
+      "summary": "Capacity tells how much a container holds. A measuring jug can measure it in millilitres.",
+      "hint": "Choose a unit for an amount of liquid."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 22
   },
   {
     "id": "AC9M4M01-P-023",
@@ -805,35 +893,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "choose_measurement_units",
-    "question": "At a playground redesign, which unit best measures a classroom door?",
-    "audio_prompt": "At a playground redesign, which unit best measures a classroom door?",
+    "skill": "read_temperature",
+    "question": "What temperature does this thermometer show?",
+    "audio_prompt": "What temperature does this thermometer show?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-023",
-      "alt_text": "At a playground redesign: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-temp26",
+      "alt_text": "Thermometer has 5 equal intervals from 20 to 30 degrees Celsius. Liquid is 3 intervals above the lowest labelled mark."
     },
     "answers": [
       {
-        "text": "metres",
+        "text": "28 °C",
+        "is_correct": false
+      },
+      {
+        "text": "23 °C",
+        "is_correct": false
+      },
+      {
+        "text": "26 °C",
         "is_correct": true
       },
       {
-        "text": "litres",
-        "is_correct": false
-      },
-      {
-        "text": "grams",
+        "text": "24 °C",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
+      "summary": "Five equal intervals span 20 °C to 30 °C. Each is 2 °C; three intervals above 20 °C give 26 °C.",
+      "hint": "Work out the size of each space."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 23
   },
   {
     "id": "AC9M4M01-P-024",
@@ -841,35 +934,918 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "practice",
-    "skill": "read_scaled_instruments",
-    "question": "During a book drive, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "During a book drive, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "partial_temperature",
+    "question": "Read this partial-degree temperature.",
+    "audio_prompt": "Read this partial-degree temperature.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-p-024",
-      "alt_text": "During a book drive: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-temp285",
+      "alt_text": "Thermometer has 4 equal intervals from 28 to 30 degrees Celsius. Liquid is 1 interval above the lowest labelled mark."
     },
     "answers": [
       {
-        "text": "25 mL",
+        "text": "28.05 °C",
         "is_correct": false
       },
       {
-        "text": "250 mL",
+        "text": "29.5 °C",
+        "is_correct": false
+      },
+      {
+        "text": "29 °C",
+        "is_correct": false
+      },
+      {
+        "text": "28.5 °C",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Four spaces span 2 °C. Each is 0.5 °C and the level is one space above 28 °C.",
+      "hint": "Half a degree is written 0.5 °C."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 24
+  },
+  {
+    "id": "AC9M4M01-P-025",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "read_digital_temperature",
+    "question": "How should this digital temperature be read?",
+    "audio_prompt": "How should this digital temperature be read?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-digital245",
+      "alt_text": "Digital thermometer. Display 24.5 °C. Temperature in degrees Celsius"
+    },
+    "answers": [
+      {
+        "text": "24 and a half degrees Celsius",
         "is_correct": true
       },
       {
-        "text": "400 mL",
+        "text": "24 degrees and 5 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "245 degrees Celsius",
+        "is_correct": false
+      },
+      {
+        "text": "24 and five hundredths degrees Celsius",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "24.5 means 24 plus five tenths, or a half, of a degree Celsius.",
+      "hint": "The unit is °C."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 25
+  },
+  {
+    "id": "AC9M4M01-P-026",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "compare_temperature",
+    "question": "Room A is 28.5 °C and room B is 26 °C. How much warmer is room A?",
+    "audio_prompt": "Room A is 28.5 °C and room B is 26 °C. How much warmer is room A?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "1.5 °C",
+        "is_correct": false
+      },
+      {
+        "text": "2.5 °C",
+        "is_correct": true
+      },
+      {
+        "text": "54.5 °C",
+        "is_correct": false
+      },
+      {
+        "text": "3.5 °C",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
+      "summary": "Count from 26 to 28, then another half degree: a difference of 2.5 °C.",
+      "hint": "Compare by finding a difference."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26
+  },
+  {
+    "id": "AC9M4M01-P-027",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "temperature_unit",
+    "question": "Which instrument and unit can compare shade and sunshine temperatures?",
+    "audio_prompt": "Which instrument and unit can compare shade and sunshine temperatures?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "A jug in litres",
+        "is_correct": false
+      },
+      {
+        "text": "A tape measure in metres",
+        "is_correct": false
+      },
+      {
+        "text": "A thermometer in degrees Celsius",
+        "is_correct": true
+      },
+      {
+        "text": "Kitchen scales in grams",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Temperature is measured with a thermometer. Degrees Celsius state the temperature scale.",
+      "hint": "Choose a measure of warmth, not length or capacity."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 27
+  },
+  {
+    "id": "AC9M4M01-P-028",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "clock_minutes",
+    "question": "Estimate the time to the nearest minute.",
+    "audio_prompt": "Estimate the time to the nearest minute.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-clock317",
+      "alt_text": "Clock with hour numbers and no minute marks. Short hand between 3 and 4, nearer 3; minute hand is about 2 fifths of the way clockwise from 3 to 4."
+    },
+    "answers": [
+      {
+        "text": "3:15",
+        "is_correct": false
+      },
+      {
+        "text": "3:35",
+        "is_correct": false
+      },
+      {
+        "text": "3:18",
+        "is_correct": false
+      },
+      {
+        "text": "3:17",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The minute hand is a little past the 3, which marks 15 minutes. It is about two of the five minutes towards 4: about 3:17.",
+      "hint": "Imagine five equal minute spaces between neighbouring hour numbers."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 28
+  },
+  {
+    "id": "AC9M4M01-P-029",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "clock_minutes",
+    "question": "Estimate the time shown to the nearest minute.",
+    "audio_prompt": "Estimate the time shown to the nearest minute.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-clock942",
+      "alt_text": "Clock with hour numbers and no minute marks. Short hand between 9 and 10, nearer 10; minute hand is about 2 fifths of the way clockwise from 8 to 9."
+    },
+    "answers": [
+      {
+        "text": "9:42",
+        "is_correct": true
+      },
+      {
+        "text": "8:48",
+        "is_correct": false
+      },
+      {
+        "text": "9:40",
+        "is_correct": false
+      },
+      {
+        "text": "9:45",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The minute hand is about two minutes beyond 8 (40 minutes). The short hand is between 9 and 10.",
+      "hint": "Find the hour with the short hand, then estimate minutes."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 29
+  },
+  {
+    "id": "AC9M4M01-P-030",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "clock_minutes",
+    "question": "Which time is the best estimate for this clock?",
+    "audio_prompt": "Which time is the best estimate for this clock?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-clock158",
+      "alt_text": "Clock with hour numbers and no minute marks. Short hand between 1 and 2, nearer 2; minute hand is about 3 fifths of the way clockwise from 11 to 12."
+    },
+    "answers": [
+      {
+        "text": "2:00",
+        "is_correct": false
+      },
+      {
+        "text": "1:58",
+        "is_correct": true
+      },
+      {
+        "text": "1:50",
+        "is_correct": false
+      },
+      {
+        "text": "2:58",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The minute hand is about two minutes before 12. The short hand is approaching 2, so the hour is still 1.",
+      "hint": "The hour changes only when the minute hand reaches 12."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 30
+  },
+  {
+    "id": "AC9M4M01-P-031",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "elapsed_duration",
+    "question": "A game starts at about the time on this clock and ends at 3:32. About how long does it last?",
+    "audio_prompt": "A game starts at about the time on this clock and ends at 3:32. About how long does it last?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-clock317",
+      "alt_text": "Clock with hour numbers and no minute marks. Short hand between 3 and 4, nearer 3; minute hand is about 2 fifths of the way clockwise from 3 to 4."
+    },
+    "answers": [
+      {
+        "text": "17 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "32 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "15 minutes",
+        "is_correct": true
+      },
+      {
+        "text": "49 minutes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The clock is about 3:17. From 3:17 to 3:32 is 15 minutes.",
+      "hint": "Use the clock reading as the starting time."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 31
+  },
+  {
+    "id": "AC9M4M01-P-032",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "digital_duration",
+    "question": "How long has this elapsed-time timer run?",
+    "audio_prompt": "How long has this elapsed-time timer run?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-timer235",
+      "alt_text": "Elapsed-time timer. Display 02:35. Display format: minutes : seconds"
+    },
+    "answers": [
+      {
+        "text": "235 seconds",
+        "is_correct": false
+      },
+      {
+        "text": "2 hours 35 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "2 minutes 3.5 seconds",
+        "is_correct": false
+      },
+      {
+        "text": "2 minutes 35 seconds",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The display label says minutes : seconds, so 02:35 is 2 minutes and 35 seconds.",
+      "hint": "Read the display format."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "confidence",
+    "sequence_priority": 32
+  },
+  {
+    "id": "AC9M4M01-P-033",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "analog_duration",
+    "question": "Read the duration shown on this analog timer scale.",
+    "audio_prompt": "Read the duration shown on this analog timer scale.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-seconds45",
+      "alt_text": "Analog timer scale. Scale from 0 to 60 s with 12 equal intervals. Pointer is 9 intervals after the first mark."
+    },
+    "answers": [
+      {
+        "text": "45 seconds",
+        "is_correct": true
+      },
+      {
+        "text": "9 seconds",
+        "is_correct": false
+      },
+      {
+        "text": "50 seconds",
+        "is_correct": false
+      },
+      {
+        "text": "40 seconds",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Twelve equal spaces span 60 seconds, so each is 5 seconds. Nine spaces give 45 seconds.",
+      "hint": "Find the value of a space."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 33
+  },
+  {
+    "id": "AC9M4M01-P-034",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "timer_setup",
+    "question": "A stretch should last 45 seconds. Which timer setting fits a minutes : seconds display?",
+    "audio_prompt": "A stretch should last 45 seconds. Which timer setting fits a minutes : seconds display?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "45:00",
+        "is_correct": false
+      },
+      {
+        "text": "00:45",
+        "is_correct": true
+      },
+      {
+        "text": "00:04",
+        "is_correct": false
+      },
+      {
+        "text": "00:54",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "00:45 means zero minutes and 45 seconds. 45:00 would last 45 minutes.",
+      "hint": "Put the seconds after the colon."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 34
+  },
+  {
+    "id": "AC9M4M01-P-035",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "alarm_time",
+    "question": "An activity begins at 10:20 and lasts 15 minutes. At what time should its finishing alarm ring?",
+    "audio_prompt": "An activity begins at 10:20 and lasts 15 minutes. At what time should its finishing alarm ring?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "10:45",
+        "is_correct": false
+      },
+      {
+        "text": "10:15",
+        "is_correct": false
+      },
+      {
+        "text": "10:35",
+        "is_correct": true
+      },
+      {
+        "text": "10:05",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Add 15 minutes to the starting time: 10:20 → 10:35.",
+      "hint": "The alarm is set for the end, not the duration itself."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 35
+  },
+  {
+    "id": "AC9M4M01-P-036",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "timer_duration",
+    "question": "A minutes : seconds countdown begins at 03:00. It now shows 01:00. How long has elapsed?",
+    "audio_prompt": "A minutes : seconds countdown begins at 03:00. It now shows 01:00. How long has elapsed?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "1 minute",
+        "is_correct": false
+      },
+      {
+        "text": "3 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "4 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "2 minutes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The display shows time remaining. It has dropped by 2 minutes, from 3 minutes to 1 minute.",
+      "hint": "Subtract the remaining time from the starting duration."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 36
+  },
+  {
+    "id": "AC9M4M01-P-037",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "scale_construction",
+    "question": "A paper ruler has 0 cm and 10 cm marked correctly. You want ten equal centimetre intervals. How many interior marks are needed?",
+    "audio_prompt": "A paper ruler has 0 cm and 10 cm marked correctly. You want ten equal centimetre intervals. How many interior marks are needed?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Nine interior marks make ten spaces between the two endpoint marks.",
+      "hint": "Try dividing a short line into two spaces first."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 37
+  },
+  {
+    "id": "AC9M4M01-P-038",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "cup_calibration",
+    "question": "A cup widens towards the top. How can you make reliable 100 mL marks?",
+    "audio_prompt": "A cup widens towards the top. How can you make reliable 100 mL marks?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Copy centimetre numbers onto the cup",
+        "is_correct": false
+      },
+      {
+        "text": "Add measured 100 mL portions and mark each level",
+        "is_correct": true
+      },
+      {
+        "text": "Make every mark the same height apart without checking",
+        "is_correct": false
+      },
+      {
+        "text": "Mark the empty and full levels, then guess the middle marks",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Equal volumes may reach different height gaps in a widening cup. Directly measured portions calibrate its capacity marks.",
+      "hint": "Equal height gaps do not always mean equal volumes."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 38
+  },
+  {
+    "id": "AC9M4M01-P-039",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "instrument_accuracy",
+    "question": "A paper ruler has uneven spaces labelled 1 cm each. What is the best repair?",
+    "audio_prompt": "A paper ruler has uneven spaces labelled 1 cm each. What is the best repair?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Keep the uneven spaces and change the colour",
+        "is_correct": false
+      },
+      {
+        "text": "Label the gaps as grams",
+        "is_correct": false
+      },
+      {
+        "text": "Compare with a real ruler and redraw equal 1 cm spaces",
+        "is_correct": true
+      },
+      {
+        "text": "Change every label to 2 cm without checking the lengths",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A centimetre has a fixed length. Compare directly with an accurate centimetre scale.",
+      "hint": "Equal units need equal lengths on a ruler."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 39
+  },
+  {
+    "id": "AC9M4M01-P-040",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "ranger_instruments",
+    "question": "JCU TropWATER describes First Nations Land and Sea Rangers helping deploy temperature loggers in seagrass habitats. Which classroom measurement models that attribute?",
+    "audio_prompt": "JCU TropWATER describes First Nations Land and Sea Rangers helping deploy temperature loggers in seagrass habitats. Which classroom measurement models that attribute?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Weigh water in grams and call it temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Measure a cup width in cm and call it temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Time a walk in minutes and call it temperature",
+        "is_correct": false
+      },
+      {
+        "text": "Record water temperature with a thermometer in °C",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Temperature loggers record temperature. A classroom thermometer measures the same attribute in degrees Celsius. These are model observations, not Ranger data.",
+      "hint": "Match the instrument to the attribute, temperature."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9M4M01-P-041",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "ranger_reading",
+    "question": "In a classroom model of temperature monitoring, two invented readings are 27.5 °C and 28.5 °C. What change do they show?",
+    "audio_prompt": "In a classroom model of temperature monitoring, two invented readings are 27.5 °C and 28.5 °C. What change do they show?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "A rise of 1 °C",
+        "is_correct": true
+      },
+      {
+        "text": "A rise of 10 °C",
+        "is_correct": false
+      },
+      {
+        "text": "A fall of 1 °C",
+        "is_correct": false
+      },
+      {
+        "text": "A rise of 2 °C",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "28.5 is one degree above 27.5. These invented readings practise measurement, not a real environmental conclusion.",
+      "hint": "Compare the second reading with the first."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9M4M01-P-042",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "attribute_precision",
+    "question": "A student records “the bottle is 500”. What information is missing for a useful measurement?",
+    "audio_prompt": "A student records “the bottle is 500”. What information is missing for a useful measurement?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Only the bottle colour",
+        "is_correct": false
+      },
+      {
+        "text": "The attribute and its unit, such as capacity 500 mL",
+        "is_correct": true
+      },
+      {
+        "text": "Nothing; 500 is a complete measurement",
+        "is_correct": false
+      },
+      {
+        "text": "Only the number of digits in 500",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "500 could describe different quantities. Naming the attribute and unit makes the measurement clear.",
+      "hint": "A number alone does not identify what was measured."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9M4M01-P-043",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "make_ruler",
+    "question": "Make a 10 cm paper ruler by copying an accurate ruler. Mark 0 and every centimetre, then add the half-centimetre marks. Use it to measure a small object. Record its length with a unit and check against the original ruler. Show both rulers and your record to an adult.",
+    "audio_prompt": "Make a 10 cm paper ruler by copying an accurate ruler. Mark 0 and every centimetre, then add the half-centimetre marks. Use it to measure a small object. Record its length with a unit and check against the original ruler. Show both rulers and your record to an adult.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "A correct paper ruler has ten equal centimetre spaces and a halfway mark in each. An example record is 6.5 cm using both rulers; actual lengths vary.",
+      "hint": "Compare the marks directly; do not estimate where centimetres belong."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 43,
+    "grading_mode": "adult-review",
+    "model_answer": "A correct paper ruler has ten equal centimetre spaces and a halfway mark in each. An example record is 6.5 cm using both rulers; actual lengths vary.",
+    "acceptance_note": "Inspect the actual ruler: zero, ten equal spaces, half marks, a real object aligned to zero, a recorded length and comparison with the original instrument. Accept a suitable different object and any accurate measurement.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4M01-P-044",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "real_length_measurement",
+    "question": "Measure the length of two pencils using a real ruler. Record each length to the nearest millimetre, show where you aligned zero, and state which is longer and by how much.",
+    "audio_prompt": "Measure the length of two pencils using a real ruler. Record each length to the nearest millimetre, show where you aligned zero, and state which is longer and by how much.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Example: 143 mm and 128 mm; the first is 15 mm longer. Actual measurements vary.",
+      "hint": "Use the same length unit for both objects."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 44,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: 143 mm and 128 mm; the first is 15 mm longer. Actual measurements vary.",
+    "acceptance_note": "Inspect actual ruler use and both records with mm units. Check zero alignment, nearest-mm reading and the comparison/difference against the measured objects.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4M01-P-045",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "real_mass_measurement",
+    "question": "Use kitchen scales to measure the mass of two safe objects. Check the empty scale reads zero. Record each display or pointer reading with its unit, explain a scale interval if it is analog, and compare the masses.",
+    "audio_prompt": "Use kitchen scales to measure the mass of two safe objects. Check the empty scale reads zero. Record each display or pointer reading with its unit, explain a scale interval if it is analog, and compare the masses.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Example: 120 g and 175 g, so the second is heavier by 55 g. Actual objects and scale readings vary.",
+      "hint": "Read the scale unit before comparing."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 45,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: 120 g and 175 g, so the second is heavier by 55 g. Actual objects and scale readings vary.",
+    "acceptance_note": "Inspect real measuring, zero check, two unit-labelled readings and accurate comparison. For an analog scale require the interval value; for a digital scale require correct interpretation of its unit.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4M01-P-046",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "make_measuring_cup",
+    "question": "With an adult, make a measuring cup using a clear container, water and a marked measuring jug. Add 100 mL at a time up to 400 mL and mark each level. Measure a fresh amount with your cup, record it, and check it with the jug.",
+    "audio_prompt": "With an adult, make a measuring cup using a clear container, water and a marked measuring jug. Add 100 mL at a time up to 400 mL and mark each level. Measure a fresh amount with your cup, record it, and check it with the jug.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Marks represent 100, 200, 300 and 400 mL. In a widening container the height gaps can differ. A trial might read 250 mL in both; actual trials vary.",
+      "hint": "Use the jug to measure each added amount, not the height of the water."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 46,
+    "grading_mode": "adult-review",
+    "model_answer": "Marks represent 100, 200, 300 and 400 mL. In a widening container the height gaps can differ. A trial might read 250 mL in both; actual trials vary.",
+    "acceptance_note": "Inspect actual measured additions, correctly labelled levels, a trial record and direct comparison with the jug. Do not accept equal guessed height marks as calibrated volume marks.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4M01-P-047",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "use_timer",
+    "question": "Use a real timer to run a 30-second activity followed by a 20-second rest. Record both timer settings and observe each alert. Record the total planned duration and explain the minutes : seconds notation.",
+    "audio_prompt": "Use a real timer to run a 30-second activity followed by a 20-second rest. Record both timer settings and observe each alert. Record the total planned duration and explain the minutes : seconds notation.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Settings 00:30 and 00:20; total planned duration 50 seconds. The two parts of the display are minutes and seconds.",
+      "hint": "Check the timer format before pressing start."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 47,
+    "grading_mode": "adult-review",
+    "model_answer": "Settings 00:30 and 00:20; total planned duration 50 seconds. The two parts of the display are minutes and seconds.",
+    "acceptance_note": "Inspect actual timer operation and observed alerts, both settings, the 50-second planned total and explanation of the display. Allow a quiet activity such as drawing.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9M4M01-P-048",
+    "subject": "math",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9M4M01",
+    "bank": "practice",
+    "skill": "real_temperature_measurement",
+    "question": "Use a safe classroom thermometer to measure the temperature in two places chosen by an adult. Record both readings in °C, identify the smallest marked interval or digital unit, and compare the readings. Label these as classroom measurements.",
+    "audio_prompt": "Use a safe classroom thermometer to measure the temperature in two places chosen by an adult. Record both readings in °C, identify the smallest marked interval or digital unit, and compare the readings. Label these as classroom measurements.",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "Example: 22 °C and 24.5 °C; the second place is 2.5 °C warmer. Actual readings vary.",
+      "hint": "Wait for a stable reading and keep the unit with the number."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 48,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: 22 °C and 24.5 °C; the second place is 2.5 °C warmer. Actual readings vary.",
+    "acceptance_note": "Inspect actual readings, places, °C units, interval/display interpretation and correct comparison. Adult chooses safe locations; no hot liquids or environmental claim is required.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4M01-T-001",
@@ -877,33 +1853,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "choose_measurement_units",
-    "question": "At a coastal station, which unit best measures an apple?",
-    "audio_prompt": "At a coastal station, which unit best measures an apple?",
+    "skill": "read_analog_mass",
+    "question": "What mass does the analog kitchen scale show?",
+    "audio_prompt": "What mass does the analog kitchen scale show?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-001",
-      "alt_text": "At a coastal station: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-mass650",
+      "alt_text": "Analog kitchen scale: 20 equal intervals from 0 to 1000 g, increasing clockwise. Pointer is 13 intervals after zero."
     },
     "answers": [
       {
-        "text": "metres",
-        "is_correct": false
-      },
-      {
-        "text": "millilitres",
-        "is_correct": false
-      },
-      {
-        "text": "grams",
+        "text": "650 g",
         "is_correct": true
+      },
+      {
+        "text": "700 g",
+        "is_correct": false
+      },
+      {
+        "text": "600 g",
+        "is_correct": false
+      },
+      {
+        "text": "750 g",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
-    }
+      "summary": "Each of the twenty spaces is 50 g. The pointer is at 650 g.",
+      "hint": "Count from a labelled endpoint."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 1
   },
   {
     "id": "AC9M4M01-T-002",
@@ -911,33 +1894,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "read_scaled_instruments",
-    "question": "During a museum challenge, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "During a museum challenge, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "compare_mass",
+    "question": "The digital scale shows one object. Another has a mass of 0.8 kg. Which is heavier?",
+    "audio_prompt": "The digital scale shows one object. Another has a mass of 0.8 kg. Which is heavier?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-002",
-      "alt_text": "During a museum challenge: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-digital750",
+      "alt_text": "Digital kitchen scale. Display 750 g. Mass of the object; scale was zeroed first."
     },
     "answers": [
       {
-        "text": "250 mL",
+        "text": "The displayed object, by 50 g",
+        "is_correct": false
+      },
+      {
+        "text": "The 0.8 kg object, by 50 g",
         "is_correct": true
       },
       {
-        "text": "25 mL",
+        "text": "The masses are equal",
         "is_correct": false
       },
       {
-        "text": "400 mL",
+        "text": "The 0.8 kg object, by 5 g",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
-    }
+      "summary": "0.8 kg = 800 g. The display is 750 g, a difference of 50 g.",
+      "hint": "Use grams for both masses."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 2
   },
   {
     "id": "AC9M4M01-T-003",
@@ -945,33 +1935,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "choose_measurement_units",
-    "question": "At a charity event, which unit best measures a classroom door?",
-    "audio_prompt": "At a charity event, which unit best measures a classroom door?",
+    "skill": "nonzero_start",
+    "question": "A strip lies from 2 cm to 9 cm on a ruler. Which calculation finds its length?",
+    "audio_prompt": "A strip lies from 2 cm to 9 cm on a ruler. Which calculation finds its length?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-003",
-      "alt_text": "At a charity event: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-offset",
+      "alt_text": "Measuring with a worn ruler. Scale from 0 to 12 cm with 12 equal intervals. Object begins 2 intervals after the first mark and ends 9 intervals after it."
     },
     "answers": [
       {
-        "text": "litres",
+        "text": "9 + 2 = 11 cm",
         "is_correct": false
       },
       {
-        "text": "metres",
+        "text": "9 − 0 = 9 cm",
+        "is_correct": false
+      },
+      {
+        "text": "9 − 2 = 7 cm",
         "is_correct": true
       },
       {
-        "text": "grams",
+        "text": "9 × 2 = 18 cm",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
-    }
+      "summary": "Length is the difference between the endpoint readings, even if the object starts above zero.",
+      "hint": "Find the distance between the two ends."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 3
   },
   {
     "id": "AC9M4M01-T-004",
@@ -979,33 +1976,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "read_scaled_instruments",
-    "question": "In an engineering workshop, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "In an engineering workshop, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "partial_length",
+    "question": "The tape is labelled in metres. What is its pointer reading?",
+    "audio_prompt": "The tape is labelled in metres. What is its pointer reading?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-tape525",
+      "alt_text": "Part of a measuring tape. Scale from 5 to 6 m with 4 equal intervals. Pointer is 1 interval after the first mark."
     },
     "answers": [
       {
-        "text": "25 mL",
+        "text": "0.25 m",
         "is_correct": false
       },
       {
-        "text": "400 mL",
+        "text": "5.75 m",
         "is_correct": false
       },
       {
-        "text": "250 mL",
+        "text": "5.5 m",
+        "is_correct": false
+      },
+      {
+        "text": "5.25 m",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
-    }
+      "summary": "Four spaces span 1 metre, and the pointer is one quarter metre above 5 m.",
+      "hint": "Start at the labelled 5 m."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 4
   },
   {
     "id": "AC9M4M01-T-005",
@@ -1013,33 +2017,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "choose_measurement_units",
-    "question": "At a regional carnival, which unit best measures a drink bottle?",
-    "audio_prompt": "At a regional carnival, which unit best measures a drink bottle?",
+    "skill": "choose_precision",
+    "question": "You must compare two leaves whose lengths differ by only a few millimetres. Which choice is suitable?",
+    "audio_prompt": "You must compare two leaves whose lengths differ by only a few millimetres. Which choice is suitable?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-005",
-      "alt_text": "At a regional carnival: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "millilitres",
+        "text": "A ruler marked in millimetres",
         "is_correct": true
       },
       {
-        "text": "kilometres",
+        "text": "A timer marked in seconds",
         "is_correct": false
       },
       {
-        "text": "kilograms",
+        "text": "A jug marked in millilitres",
+        "is_correct": false
+      },
+      {
+        "text": "A ruler marked only every 10 cm",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
-    }
+      "summary": "Millimetres are small length units and a ruler compares leaf lengths.",
+      "hint": "Choose both the correct attribute and a useful unit."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 5
   },
   {
     "id": "AC9M4M01-T-006",
@@ -1047,33 +2056,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "read_scaled_instruments",
-    "question": "During a farm study, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "During a farm study, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "partial_capacity",
+    "question": "Read this jug to the nearest 50 mL.",
+    "audio_prompt": "Read this jug to the nearest 50 mL.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-006",
-      "alt_text": "During a farm study: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-jug450",
+      "alt_text": "Jug marked from 0 to 600 mL in 6 equal intervals. Liquid level is 4.5 intervals above zero."
     },
     "answers": [
       {
-        "text": "25 mL",
+        "text": "400 mL",
         "is_correct": false
       },
       {
-        "text": "250 mL",
+        "text": "450 mL",
         "is_correct": true
       },
       {
-        "text": "400 mL",
+        "text": "500 mL",
+        "is_correct": false
+      },
+      {
+        "text": "550 mL",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
-    }
+      "summary": "The liquid is halfway between 400 and 500 mL, so its reading is about 450 mL.",
+      "hint": "Use the two marks around the level."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 6
   },
   {
     "id": "AC9M4M01-T-007",
@@ -1081,33 +2097,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "choose_measurement_units",
-    "question": "While reading a trail guide, which unit best measures an apple?",
-    "audio_prompt": "While reading a trail guide, which unit best measures an apple?",
+    "skill": "capacity_interval",
+    "question": "How much liquid does each equal space on this jug represent?",
+    "audio_prompt": "How much liquid does each equal space on this jug represent?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-jug1750",
+      "alt_text": "Jug marked from 0 to 2 L in 8 equal intervals. Liquid level is 7 intervals above zero."
     },
     "answers": [
       {
-        "text": "metres",
+        "text": "2 L",
         "is_correct": false
       },
       {
-        "text": "millilitres",
+        "text": "0.5 L",
         "is_correct": false
       },
       {
-        "text": "grams",
+        "text": "0.25 L",
         "is_correct": true
+      },
+      {
+        "text": "0.2 L",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
-    }
+      "summary": "There are eight equal spaces from 0 to 2 L. Each is one quarter litre.",
+      "hint": "Divide the labelled amount by the number of spaces."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 7
   },
   {
     "id": "AC9M4M01-T-008",
@@ -1115,33 +2138,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "read_scaled_instruments",
-    "question": "In an architecture studio, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "In an architecture studio, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "read_temperature",
+    "question": "What is the temperature shown?",
+    "audio_prompt": "What is the temperature shown?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-008",
-      "alt_text": "In an architecture studio: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-temp17",
+      "alt_text": "Thermometer has 10 equal intervals from 10 to 20 degrees Celsius. Liquid is 7 intervals above the lowest labelled mark."
     },
     "answers": [
       {
-        "text": "250 mL",
+        "text": "13 °C",
+        "is_correct": false
+      },
+      {
+        "text": "7 °C",
+        "is_correct": false
+      },
+      {
+        "text": "18 °C",
+        "is_correct": false
+      },
+      {
+        "text": "17 °C",
         "is_correct": true
-      },
-      {
-        "text": "25 mL",
-        "is_correct": false
-      },
-      {
-        "text": "400 mL",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
-    }
+      "summary": "Ten spaces cover 10 degrees, so each is 1 degree. The liquid is seven spaces above 10 °C.",
+      "hint": "Include the starting value."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 8
   },
   {
     "id": "AC9M4M01-T-009",
@@ -1149,33 +2179,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "choose_measurement_units",
-    "question": "During a food-truck project, which unit best measures a classroom door?",
-    "audio_prompt": "During a food-truck project, which unit best measures a classroom door?",
+    "skill": "compare_temperature",
+    "question": "One thermometer reads 28.5 °C. Another reads 29 °C. What is true?",
+    "audio_prompt": "One thermometer reads 28.5 °C. Another reads 29 °C. What is true?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-009",
-      "alt_text": "During a food-truck project: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "litres",
-        "is_correct": false
-      },
-      {
-        "text": "metres",
+        "text": "29 °C is 0.5 °C warmer",
         "is_correct": true
       },
       {
-        "text": "grams",
+        "text": "28.5 °C is warmer",
+        "is_correct": false
+      },
+      {
+        "text": "They differ by 5 °C",
+        "is_correct": false
+      },
+      {
+        "text": "29 °C is 1.5 °C warmer",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
-    }
+      "summary": "28.5 is halfway between 28 and 29, so the difference is half a degree.",
+      "hint": "Compare the whole and part degrees."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 9
   },
   {
     "id": "AC9M4M01-T-010",
@@ -1183,33 +2218,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "read_scaled_instruments",
-    "question": "At a festival, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "At a festival, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "clock_minutes",
+    "question": "Estimate this clock reading to the nearest minute.",
+    "audio_prompt": "Estimate this clock reading to the nearest minute.",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-010",
-      "alt_text": "At a festival: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-clock942",
+      "alt_text": "Clock with hour numbers and no minute marks. Short hand between 9 and 10, nearer 10; minute hand is about 2 fifths of the way clockwise from 8 to 9."
     },
     "answers": [
       {
-        "text": "25 mL",
+        "text": "8:42",
         "is_correct": false
       },
       {
-        "text": "400 mL",
-        "is_correct": false
-      },
-      {
-        "text": "250 mL",
+        "text": "9:42",
         "is_correct": true
+      },
+      {
+        "text": "9:08",
+        "is_correct": false
+      },
+      {
+        "text": "9:45",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
-    }
+      "summary": "The minute hand is about two minutes past 40; the short hand is between 9 and 10.",
+      "hint": "Imagine five minute spaces between 8 and 9."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 10
   },
   {
     "id": "AC9M4M01-T-011",
@@ -1217,33 +2259,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "choose_measurement_units",
-    "question": "While organising a collection, which unit best measures a drink bottle?",
-    "audio_prompt": "While organising a collection, which unit best measures a drink bottle?",
+    "skill": "elapsed_duration",
+    "question": "An event begins at the time shown and finishes at 2:10. Approximately how long is it?",
+    "audio_prompt": "An event begins at the time shown and finishes at 2:10. Approximately how long is it?",
     "visual": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-011",
-      "alt_text": "While organising a collection: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#m01-clock158",
+      "alt_text": "Clock with hour numbers and no minute marks. Short hand between 1 and 2, nearer 2; minute hand is about 3 fifths of the way clockwise from 11 to 12."
     },
     "answers": [
       {
-        "text": "millilitres",
+        "text": "8 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "52 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "12 minutes",
         "is_correct": true
       },
       {
-        "text": "kilometres",
-        "is_correct": false
-      },
-      {
-        "text": "kilograms",
+        "text": "68 minutes",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
-    }
+      "summary": "The clock is about 1:58. Two minutes reach 2:00, then ten more reach 2:10: about 12 minutes.",
+      "hint": "Count to the next hour, then onward."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11
   },
   {
     "id": "AC9M4M01-T-012",
@@ -1251,33 +2300,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "read_scaled_instruments",
-    "question": "In an environmental study, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "In an environmental study, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "timer_alarm",
+    "question": "A timer is set for 2 minutes 30 seconds. Which minutes : seconds setting is correct?",
+    "audio_prompt": "A timer is set for 2 minutes 30 seconds. Which minutes : seconds setting is correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-012",
-      "alt_text": "In an environmental study: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "25 mL",
+        "text": "02:03",
         "is_correct": false
       },
       {
-        "text": "250 mL",
+        "text": "30:02",
+        "is_correct": false
+      },
+      {
+        "text": "02:50",
+        "is_correct": false
+      },
+      {
+        "text": "02:30",
         "is_correct": true
-      },
-      {
-        "text": "400 mL",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
-    }
+      "summary": "The minutes go before the colon; seconds go after it.",
+      "hint": "The colon separates two different time units."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12
   },
   {
     "id": "AC9M4M01-T-013",
@@ -1285,33 +2339,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "choose_measurement_units",
-    "question": "During a transport survey, which unit best measures an apple?",
-    "audio_prompt": "During a transport survey, which unit best measures an apple?",
+    "skill": "ranger_model",
+    "question": "A class models the temperature logging described by JCU TropWATER with First Nations Land and Sea Rangers. Why should the class record °C beside every invented reading?",
+    "audio_prompt": "A class models the temperature logging described by JCU TropWATER with First Nations Land and Sea Rangers. Why should the class record °C beside every invented reading?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-013",
-      "alt_text": "During a transport survey: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "metres",
-        "is_correct": false
-      },
-      {
-        "text": "millilitres",
-        "is_correct": false
-      },
-      {
-        "text": "grams",
+        "text": "It identifies temperature and allows like-unit comparisons",
         "is_correct": true
+      },
+      {
+        "text": "It turns a temperature into a mass",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the class measured a real Ranger site",
+        "is_correct": false
+      },
+      {
+        "text": "It means every reading was taken in the same place",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
-    }
+      "summary": "The unit identifies temperature. Classroom model readings cannot be presented as real Ranger measurements.",
+      "hint": "Think about what the unit tells a reader."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13
   },
   {
     "id": "AC9M4M01-T-014",
@@ -1319,33 +2378,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "read_scaled_instruments",
-    "question": "At a strategy tournament, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "At a strategy tournament, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "make_and_test_instrument",
+    "question": "Make a paper measuring strip from 0 to 8 cm, using an accurate ruler to mark centimetres and halfway points. Measure an object with it and the original ruler. Record both lengths and explain how you checked the scale.",
+    "audio_prompt": "Make a paper measuring strip from 0 to 8 cm, using an accurate ruler to mark centimetres and halfway points. Measure an object with it and the original ruler. Record both lengths and explain how you checked the scale.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "250 mL",
-        "is_correct": true
-      },
-      {
-        "text": "25 mL",
-        "is_correct": false
-      },
-      {
-        "text": "400 mL",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
-    }
+      "summary": "A valid strip has eight equal cm intervals and half-cm marks. Matching measurements, such as 4.5 cm and 4.5 cm, support the scale check. Actual objects vary.",
+      "hint": "A useful homemade scale needs a known unit and a check."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 14,
+    "grading_mode": "adult-review",
+    "model_answer": "A valid strip has eight equal cm intervals and half-cm marks. Matching measurements, such as 4.5 cm and 4.5 cm, support the scale check. Actual objects vary.",
+    "acceptance_note": "Inspect the constructed strip, direct copying/alignment, correct markings, a real measured object, two readings with units and a clear comparison.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4M01-T-015",
@@ -1353,33 +2405,26 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "choose_measurement_units",
-    "question": "While planning a community garden, which unit best measures a classroom door?",
-    "audio_prompt": "While planning a community garden, which unit best measures a classroom door?",
+    "skill": "real_measurement_comparison",
+    "question": "Choose two safe objects and compare either their lengths with a ruler or their masses with kitchen scales. Record the attribute, instrument, units, two actual measurements and which is greater. Explain how you read a partial unit or a small scale interval.",
+    "audio_prompt": "Choose two safe objects and compare either their lengths with a ruler or their masses with kitchen scales. Record the attribute, instrument, units, two actual measurements and which is greater. Explain how you read a partial unit or a small scale interval.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-015",
-      "alt_text": "While planning a community garden: a Year 4 choose measurement units reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "litres",
-        "is_correct": false
-      },
-      {
-        "text": "metres",
-        "is_correct": true
-      },
-      {
-        "text": "grams",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "The unit matches the attribute and scale.",
-      "hint": "Decide whether measuring length, mass or capacity."
-    }
+      "summary": "Example for length: ruler, mm, 84 mm and 91 mm; the second is longer by 7 mm. One small ruler interval is 1 mm.",
+      "hint": "Choose a scale that shows enough detail to distinguish the objects."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 15,
+    "grading_mode": "adult-review",
+    "model_answer": "Example for length: ruler, mm, 84 mm and 91 mm; the second is longer by 7 mm. One small ruler interval is 1 mm.",
+    "acceptance_note": "Require real measuring, an appropriate instrument/unit, both readings, correct comparison and scale-interval or partial-unit explanation. Accept either stated attribute and measurements matching the objects.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   },
   {
     "id": "AC9M4M01-T-016",
@@ -1387,32 +2432,25 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9M4M01",
     "bank": "test",
-    "skill": "read_scaled_instruments",
-    "question": "In a design exhibition, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
-    "audio_prompt": "In a design exhibition, a scale goes from 0 to 1 litre in four equal intervals. What is one interval?",
+    "skill": "timer_operation",
+    "question": "Set and run a 40-second timer for a quiet activity. Record the minutes : seconds setting, observe the alert, and explain how you know the intended duration elapsed.",
+    "audio_prompt": "Set and run a 40-second timer for a quiet activity. Record the minutes : seconds setting, observe the alert, and explain how you know the intended duration elapsed.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4m01.svg#ac9m4m01-t-016",
-      "alt_text": "In a design exhibition: a Year 4 read scaled instruments reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      {
-        "text": "25 mL",
-        "is_correct": false
-      },
-      {
-        "text": "400 mL",
-        "is_correct": false
-      },
-      {
-        "text": "250 mL",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "answers": [],
+    "correct_index": null,
     "explanation": {
-      "summary": "One litre is 1000 mL; divide by four.",
-      "hint": "Count equal spaces, not tick marks."
-    }
+      "summary": "00:40 sets zero minutes and forty seconds. The timer reaches zero and alerts at the end of its countdown.",
+      "hint": "Read the display format and watch what happens at zero."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "reasoning",
+    "sequence_priority": 16,
+    "grading_mode": "adult-review",
+    "model_answer": "00:40 sets zero minutes and forty seconds. The timer reaches zero and alerts at the end of its countdown.",
+    "acceptance_note": "Inspect actual timer setting and operation, 00:40 record and explanation of the observed countdown/alert. A proposed setting without operation is incomplete.",
+    "response_instructions": "Complete the measuring, making or written work requested. Ask an adult to inspect the actual work against the model and task-specific checks.",
+    "completion_label": "My work is ready for an adult to check."
   }
 ]

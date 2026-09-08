@@ -1,7 +1,7 @@
 "use strict";
 
 /* =========================================================
-   SKILLRHUB WORKSHEET PDF - DIRECT PDF v18.1
+   SKILLRHUB WORKSHEET PDF - DIRECT PDF v18.3
    File path: /quiz/assets/worksheet-pdf.js
 
    IMPORTANT
@@ -14,7 +14,7 @@
    ========================================================= */
 
 (() => {
-  const VERSION = "18.1";
+  const VERSION = "18.3";
   const JSPDF_URL =
     "https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js";
 
@@ -506,11 +506,19 @@
       // These authored Year 4 tasks need all four writing lines
       // beside their prompt, even when the worksheet order is shuffled.
       const keepWrittenWorkspace = question.type === "self-check"
-        && /^AC9M4(?:N0[6-9]|A01)$/.test(getSkillCode())
+        && /^AC9M4(?:N0[6-9]|A0[12]|M0[1-4])$/.test(getSkillCode())
         && question.curriculumCode === getSkillCode()
         && new RegExp(`^${getSkillCode().toLowerCase()}-w-\\d{3}$`).test(question.id || "");
       const writingAllowance = keepWrittenWorkspace ? 46 : 28;
-      ensure(Math.min(stemHeight + (images.has(question) ? 60 : writingAllowance), bottom - 35));
+      let contentAllowance = images.has(question) ? 60 : writingAllowance;
+      if (keepWrittenWorkspace && images.has(question)) {
+        const imageProps = doc.getImageProperties(images.get(question));
+        const printedImageHeight = Math.min(width / imageProps.width, 75 / imageProps.height) * imageProps.height;
+        // Keep the authored measurement prompt, its actual diagram and writing
+        // space together, rather than leaving the diagram on the next page.
+        contentAllowance = printedImageHeight + 5 + writingAllowance;
+      }
+      ensure(Math.min(stemHeight + contentAllowance, bottom - 35));
       activeQuestion = `Question ${index + 1}`;
       paragraph(stem, {bold:true});
       const picture = images.get(question);

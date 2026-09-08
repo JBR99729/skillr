@@ -4,28 +4,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-001",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "recall nines",
     "printable": true,
     "type": "single",
-    "question": "At a coastal station, which fact is connected to 9 × 6 = 54?",
-    "audioPrompt": "At a coastal station, which fact is connected to 9 × 6 = 54?",
-    "visual": "At a coastal station: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-001\"></use></svg>",
+    "question": "What is 9 × 8?",
+    "audioPrompt": "What is 9 × 8?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-001",
-      "alt_text": "At a coastal station: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "54 ÷ 6 = 10",
-      "54 ÷ 9 = 6",
-      "54 − 9 = 6"
+      "63",
+      "81",
+      "72",
+      "17"
     ],
-    "correct": 1,
-    "explanation": "Multiplication and division form a fact family.\nHint: Use the same three numbers.",
+    "audioAnswers": [
+      "63",
+      "81",
+      "72",
+      "17"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "10 × 8 − 8 = 80 − 8 = 72.\nHint: Use a nearby tens fact.",
     "structuredExplanation": {
-      "summary": "Multiplication and division form a fact family.",
-      "hint": "Use the same three numbers."
+      "summary": "10 × 8 − 8 = 80 − 8 = 72.",
+      "hint": "Use a nearby tens fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +41,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-002",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "extend known facts",
+    "skill": "division sixes",
     "printable": true,
     "type": "single",
-    "question": "During a museum challenge, use a known fact to find 30 × 8.",
-    "audioPrompt": "During a museum challenge, use a known fact to find 30 × 8.",
-    "visual": "During a museum challenge: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-002\"></use></svg>",
+    "question": "What is 54 ÷ 6?",
+    "audioPrompt": "What is 54 ÷ 6?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-002",
-      "alt_text": "During a museum challenge: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "24",
-      "2400",
-      "240"
+      "8",
+      "6",
+      "48",
+      "9"
     ],
-    "correct": 2,
-    "explanation": "Ten times one factor makes the product ten times larger.\nHint: Solve the basic fact first.",
+    "audioAnswers": [
+      "8",
+      "6",
+      "48",
+      "9"
+    ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "6 × 9 = 54, so 54 ÷ 6 = 9.\nHint: Use the inverse multiplication fact.",
     "structuredExplanation": {
-      "summary": "Ten times one factor makes the product ten times larger.",
-      "hint": "Solve the basic fact first."
+      "summary": "6 × 9 = 54, so 54 ÷ 6 = 9.",
+      "hint": "Use the inverse multiplication fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +78,38 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-003",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "read array",
     "printable": true,
     "type": "single",
-    "question": "At a charity event, which fact is connected to 4 × 10 = 40?",
-    "audioPrompt": "At a charity event, which fact is connected to 4 × 10 = 40?",
-    "visual": "At a charity event: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-003\"></use></svg>",
+    "question": "How many counters are in 7 rows of 9?",
+    "audioPrompt": "How many counters are in 7 rows of 9?",
+    "visual": "An array has 7 rows of 9 counters.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An array has 7 rows of 9 counters.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#a-array7x9\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-003",
-      "alt_text": "At a charity event: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#a-array7x9",
+      "alt_text": "An array has 7 rows of 9 counters."
     },
     "answers": [
-      "40 ÷ 4 = 10",
-      "40 ÷ 10 = 5",
-      "40 − 4 = 10"
+      "63",
+      "16",
+      "56",
+      "72"
     ],
+    "audioAnswers": [
+      "63",
+      "16",
+      "56",
+      "72"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 3,
     "correct": 0,
-    "explanation": "Multiplication and division form a fact family.\nHint: Use the same three numbers.",
+    "explanation": "7 × 9 = 63. For example, 7 × 10 − 7 = 63.\nHint: Each of the seven rows has nine.",
     "structuredExplanation": {
-      "summary": "Multiplication and division form a fact family.",
-      "hint": "Use the same three numbers."
+      "summary": "7 × 9 = 63. For example, 7 × 10 − 7 = 63.",
+      "hint": "Each of the seven rows has nine."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +117,38 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-004",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "extend known facts",
+    "skill": "sevens distributive",
     "printable": true,
     "type": "single",
-    "question": "In an engineering workshop, use a known fact to find 50 × 4.",
-    "audioPrompt": "In an engineering workshop, use a known fact to find 50 × 4.",
-    "visual": "In an engineering workshop: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-004\"></use></svg>",
+    "question": "This array represents 9 × 7. What do its coloured parts give?",
+    "audioPrompt": "This array represents 9 × 7. What do its coloured parts give?",
+    "visual": "A 9-row array is split into 5 blue columns and 2 gold columns.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A 9-row array is split into 5 blue columns and 2 gold columns.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#a-split9x7\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#a-split9x7",
+      "alt_text": "A 9-row array is split into 5 blue columns and 2 gold columns."
     },
     "answers": [
-      "20",
-      "200",
-      "2000"
+      "9 × 5 + 2 = 47",
+      "9 × 5 + 9 × 2 = 45 + 18 = 63",
+      "9 × 2 + 5 = 23",
+      "9 × 5 − 9 × 2 = 27"
     ],
+    "audioAnswers": [
+      "9 times 5 plus 2 equals 47",
+      "9 times 5 plus 9 times 2 equals 45 plus 18 equals 63",
+      "9 times 2 plus 5 equals 23",
+      "9 times 5 minus 9 times 2 equals 27"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 4,
     "correct": 1,
-    "explanation": "Ten times one factor makes the product ten times larger.\nHint: Solve the basic fact first.",
+    "explanation": "Five columns plus two columns make seven columns, with 9 counters in each column.\nHint: Add the two part totals.",
     "structuredExplanation": {
-      "summary": "Ten times one factor makes the product ten times larger.",
-      "hint": "Solve the basic fact first."
+      "summary": "Five columns plus two columns make seven columns, with 9 counters in each column.",
+      "hint": "Add the two part totals."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +156,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-005",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "double and halve",
     "printable": true,
     "type": "single",
-    "question": "At a regional carnival, which fact is connected to 6 × 6 = 36?",
-    "audioPrompt": "At a regional carnival, which fact is connected to 6 × 6 = 36?",
-    "visual": "At a regional carnival: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-005\"></use></svg>",
+    "question": "Use 10 × 8 = 80 to find 5 × 8.",
+    "audioPrompt": "Use 10 × 8 = 80 to find 5 × 8.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-005",
-      "alt_text": "At a regional carnival: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "36 ÷ 6 = 7",
-      "36 − 6 = 6",
-      "36 ÷ 6 = 6"
+      "16",
+      "75",
+      "40",
+      "160"
     ],
+    "audioAnswers": [
+      "16",
+      "75",
+      "40",
+      "160"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 5,
     "correct": 2,
-    "explanation": "Multiplication and division form a fact family.\nHint: Use the same three numbers.",
+    "explanation": "Half as many equal groups gives half the product: 80 ÷ 2 = 40.\nHint: Compare five groups with ten.",
     "structuredExplanation": {
-      "summary": "Multiplication and division form a fact family.",
-      "hint": "Use the same three numbers."
+      "summary": "Half as many equal groups gives half the product: 80 ÷ 2 = 40.",
+      "hint": "Compare five groups with ten."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +193,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-006",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "extend known facts",
+    "skill": "commutative fact",
     "printable": true,
     "type": "single",
-    "question": "During a farm study, use a known fact to find 70 × 8.",
-    "audioPrompt": "During a farm study, use a known fact to find 70 × 8.",
-    "visual": "During a farm study: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-006\"></use></svg>",
+    "question": "Luca knows 8 × 6 = 48. Which fact follows by turning an 8-by-6 array?",
+    "audioPrompt": "Luca knows 8 × 6 = 48. Which fact follows by turning an 8-by-6 array?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-006",
-      "alt_text": "During a farm study: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "560",
-      "56",
-      "5600"
+      "6 + 8 = 48",
+      "48 × 8 = 6",
+      "8 × 8 = 48",
+      "6 × 8 = 48"
     ],
-    "correct": 0,
-    "explanation": "Ten times one factor makes the product ten times larger.\nHint: Solve the basic fact first.",
+    "audioAnswers": [
+      "6 plus 8 equals 48",
+      "48 times 8 equals 6",
+      "8 times 8 equals 48",
+      "6 times 8 equals 48"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 6,
+    "correct": 3,
+    "explanation": "Turning exchanges rows and columns while preserving all 48 counters.\nHint: The factors swap roles; the total stays the same.",
     "structuredExplanation": {
-      "summary": "Ten times one factor makes the product ten times larger.",
-      "hint": "Solve the basic fact first."
+      "summary": "Turning exchanges rows and columns while preserving all 48 counters.",
+      "hint": "The factors swap roles; the total stays the same."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +230,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-007",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "derive eights",
     "printable": true,
     "type": "single",
-    "question": "While reading a trail guide, which fact is connected to 8 × 10 = 80?",
-    "audioPrompt": "While reading a trail guide, which fact is connected to 8 × 10 = 80?",
-    "visual": "While reading a trail guide: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-007\"></use></svg>",
+    "question": "Use 4 × 9 = 36 to find 8 × 9.",
+    "audioPrompt": "Use 4 × 9 = 36 to find 8 × 9.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "80 ÷ 10 = 9",
-      "80 ÷ 8 = 10",
-      "80 − 8 = 10"
+      "72",
+      "40",
+      "45",
+      "108"
     ],
-    "correct": 1,
-    "explanation": "Multiplication and division form a fact family.\nHint: Use the same three numbers.",
+    "audioAnswers": [
+      "72",
+      "40",
+      "45",
+      "108"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "Double 36 because eight groups are twice four groups: 72.\nHint: Keep the size of each group at nine.",
     "structuredExplanation": {
-      "summary": "Multiplication and division form a fact family.",
-      "hint": "Use the same three numbers."
+      "summary": "Double 36 because eight groups are twice four groups: 72.",
+      "hint": "Keep the size of each group at nine."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +267,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-008",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "extend known facts",
+    "skill": "one more group",
     "printable": true,
     "type": "single",
-    "question": "In an architecture studio, use a known fact to find 90 × 4.",
-    "audioPrompt": "In an architecture studio, use a known fact to find 90 × 4.",
-    "visual": "In an architecture studio: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-008\"></use></svg>",
+    "question": "If 5 × 8 = 40, what is 6 × 8?",
+    "audioPrompt": "If 5 × 8 = 40, what is 6 × 8?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-008",
-      "alt_text": "In an architecture studio: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "36",
-      "3600",
-      "360"
+      "41",
+      "48",
+      "46",
+      "56"
     ],
-    "correct": 2,
-    "explanation": "Ten times one factor makes the product ten times larger.\nHint: Solve the basic fact first.",
+    "audioAnswers": [
+      "41",
+      "48",
+      "46",
+      "56"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "One extra group of 8 gives 40 + 8 = 48.\nHint: Add the size of one whole group.",
     "structuredExplanation": {
-      "summary": "Ten times one factor makes the product ten times larger.",
-      "hint": "Solve the basic fact first."
+      "summary": "One extra group of 8 gives 40 + 8 = 48.",
+      "hint": "Add the size of one whole group."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +304,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-009",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "missing factor",
     "printable": true,
     "type": "single",
-    "question": "During a food-truck project, which fact is connected to 3 × 6 = 18?",
-    "audioPrompt": "During a food-truck project, which fact is connected to 3 × 6 = 18?",
-    "visual": "During a food-truck project: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-009\"></use></svg>",
+    "question": "Find the box: 7 × □ = 70.",
+    "audioPrompt": "Find the box: 7 × □ = 70.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-009",
-      "alt_text": "During a food-truck project: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "18 ÷ 3 = 6",
-      "18 ÷ 6 = 4",
-      "18 − 3 = 6"
+      "7",
+      "63",
+      "10",
+      "100"
     ],
-    "correct": 0,
-    "explanation": "Multiplication and division form a fact family.\nHint: Use the same three numbers.",
+    "audioAnswers": [
+      "7",
+      "63",
+      "10",
+      "100"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "7 × 10 = 70, so 70 ÷ 7 = 10.\nHint: Recall a tens fact.",
     "structuredExplanation": {
-      "summary": "Multiplication and division form a fact family.",
-      "hint": "Use the same three numbers."
+      "summary": "7 × 10 = 70, so 70 ÷ 7 = 10.",
+      "hint": "Recall a tens fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +341,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-010",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "extend known facts",
+    "skill": "division fact family",
     "printable": true,
     "type": "single",
-    "question": "At a festival, use a known fact to find 40 × 8.",
-    "audioPrompt": "At a festival, use a known fact to find 40 × 8.",
-    "visual": "At a festival: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-010\"></use></svg>",
+    "question": "Which division equation belongs to 9 × 4 = 36?",
+    "audioPrompt": "Which division equation belongs to 9 × 4 = 36?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-010",
-      "alt_text": "At a festival: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "32",
-      "320",
-      "3200"
+      "9 ÷ 4 = 36",
+      "36 ÷ 4 = 8",
+      "36 − 9 = 4",
+      "36 ÷ 9 = 4"
     ],
-    "correct": 1,
-    "explanation": "Ten times one factor makes the product ten times larger.\nHint: Solve the basic fact first.",
+    "audioAnswers": [
+      "9 divided by 4 equals 36",
+      "36 divided by 4 equals 8",
+      "36 minus 9 equals 4",
+      "36 divided by 9 equals 4"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 10,
+    "correct": 3,
+    "explanation": "Divide the product 36 by one factor 9 to find the other factor 4.\nHint: Keep the product as the whole being divided.",
     "structuredExplanation": {
-      "summary": "Ten times one factor makes the product ten times larger.",
-      "hint": "Solve the basic fact first."
+      "summary": "Divide the product 36 by one factor 9 to find the other factor 4.",
+      "hint": "Keep the product as the whole being divided."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +378,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-011",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "larger partition",
     "printable": true,
     "type": "single",
-    "question": "While organising a collection, which fact is connected to 5 × 10 = 50?",
-    "audioPrompt": "While organising a collection, which fact is connected to 5 × 10 = 50?",
-    "visual": "While organising a collection: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-011\"></use></svg>",
+    "question": "Find 32 × 6 mentally.",
+    "audioPrompt": "Find 32 × 6 mentally.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-011",
-      "alt_text": "While organising a collection: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "50 ÷ 10 = 6",
-      "50 − 5 = 10",
-      "50 ÷ 5 = 10"
+      "192",
+      "182",
+      "312",
+      "38"
     ],
-    "correct": 2,
-    "explanation": "Multiplication and division form a fact family.\nHint: Use the same three numbers.",
+    "audioAnswers": [
+      "192",
+      "182",
+      "312",
+      "38"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 11,
+    "correct": 0,
+    "explanation": "30 × 6 = 180 and 2 × 6 = 12; 180 + 12 = 192.\nHint: Partition 32 into tens and ones.",
     "structuredExplanation": {
-      "summary": "Multiplication and division form a fact family.",
-      "hint": "Use the same three numbers."
+      "summary": "30 × 6 = 180 and 2 × 6 = 12; 180 + 12 = 192.",
+      "hint": "Partition 32 into tens and ones."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +415,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-012",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "extend known facts",
+    "skill": "larger near fact",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, use a known fact to find 60 × 4.",
-    "audioPrompt": "In an environmental study, use a known fact to find 60 × 4.",
-    "visual": "In an environmental study: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-012\"></use></svg>",
+    "question": "Use 30 × 7 = 210 to find 29 × 7.",
+    "audioPrompt": "Use 30 × 7 = 210 to find 29 × 7.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-012",
-      "alt_text": "In an environmental study: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "240",
-      "24",
-      "2400"
+      "209",
+      "203",
+      "217",
+      "193"
     ],
-    "correct": 0,
-    "explanation": "Ten times one factor makes the product ten times larger.\nHint: Solve the basic fact first.",
+    "audioAnswers": [
+      "209",
+      "203",
+      "217",
+      "193"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 12,
+    "correct": 1,
+    "explanation": "Remove one group of 7: 210 − 7 = 203.\nHint: Twenty-nine groups are one fewer than thirty.",
     "structuredExplanation": {
-      "summary": "Ten times one factor makes the product ten times larger.",
-      "hint": "Solve the basic fact first."
+      "summary": "Remove one group of 7: 210 − 7 = 203.",
+      "hint": "Twenty-nine groups are one fewer than thirty."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +452,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-013",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "larger division",
     "printable": true,
     "type": "single",
-    "question": "During a transport survey, which fact is connected to 7 × 6 = 42?",
-    "audioPrompt": "During a transport survey, which fact is connected to 7 × 6 = 42?",
-    "visual": "During a transport survey: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-013\"></use></svg>",
+    "question": "Use 8 × 9 = 72 to find 720 ÷ 9.",
+    "audioPrompt": "Use 8 × 9 = 72 to find 720 ÷ 9.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-013",
-      "alt_text": "During a transport survey: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "42 ÷ 6 = 8",
-      "42 ÷ 7 = 6",
-      "42 − 7 = 6"
+      "8",
+      "800",
+      "80",
+      "90"
     ],
-    "correct": 1,
-    "explanation": "Multiplication and division form a fact family.\nHint: Use the same three numbers.",
+    "audioAnswers": [
+      "8",
+      "800",
+      "80",
+      "90"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 13,
+    "correct": 2,
+    "explanation": "72 tens divided by 9 gives 8 tens, or 80.\nHint: Keep the tens unit when applying the fact.",
     "structuredExplanation": {
-      "summary": "Multiplication and division form a fact family.",
-      "hint": "Use the same three numbers."
+      "summary": "72 tens divided by 9 gives 8 tens, or 80.",
+      "hint": "Keep the tens unit when applying the fact."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +489,36 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-014",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "extend known facts",
+    "skill": "doubling halving product",
     "printable": true,
     "type": "single",
-    "question": "At a strategy tournament, use a known fact to find 80 × 8.",
-    "audioPrompt": "At a strategy tournament, use a known fact to find 80 × 8.",
-    "visual": "At a strategy tournament: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-014\"></use></svg>",
+    "question": "Which calculation has the same product as 50 × 6?",
+    "audioPrompt": "Which calculation has the same product as 50 × 6?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "64",
-      "6400",
-      "640"
+      "25 × 6 = 150",
+      "100 × 6 = 600",
+      "50 × 3 = 150",
+      "25 × 12 = 300"
     ],
-    "correct": 2,
-    "explanation": "Ten times one factor makes the product ten times larger.\nHint: Solve the basic fact first.",
+    "audioAnswers": [
+      "25 times 6 equals 150",
+      "100 times 6 equals 600",
+      "50 times 3 equals 150",
+      "25 times 12 equals 300"
+    ],
+    "difficulty": 2,
+    "difficultyTier": "fluency",
+    "sequencePriority": 14,
+    "correct": 3,
+    "explanation": "Halving one factor and doubling the other keeps the product: 25 × 12 = 300.\nHint: Check how both factors change.",
     "structuredExplanation": {
-      "summary": "Ten times one factor makes the product ten times larger.",
-      "hint": "Solve the basic fact first."
+      "summary": "Halving one factor and doubling the other keeps the product: 25 × 12 = 300.",
+      "hint": "Check how both factors change."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +526,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-015",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "multiplication facts",
+    "skill": "construct compare strategies",
     "printable": true,
-    "type": "single",
-    "question": "While planning a community garden, which fact is connected to 9 × 10 = 90?",
-    "audioPrompt": "While planning a community garden, which fact is connected to 9 × 10 = 90?",
-    "visual": "While planning a community garden: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "For example, split 8 rows into 5 and 3: 35 + 21 = 56. Or double 4 rows: 28 + 28 = 56. The divisions are 56 ÷ 8 = 7 and 56 ÷ 7 = 8.",
+    "acceptanceNote": "Require an 8-by-7 array or equivalent rotation, two visible valid groupings, complete matching calculations totalling 56 and both division facts. Accept other useful splits.",
+    "responseInstructions": "Complete the requested drawing, writing or practical task on paper. Ask an adult to inspect the actual work against the model answer and task-specific checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Draw an array for 8 × 7. Show and label two different useful splits or groupings. Use each to write a complete mental calculation, then write the two related division facts.",
+    "audioPrompt": "Draw an array for 8 × 7. Show and label two different useful splits or groupings. Use each to write a complete mental calculation, then write the two related division facts.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-015",
-      "alt_text": "While planning a community garden: a Year 4 multiplication facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "90 ÷ 9 = 10",
-      "90 ÷ 10 = 10",
-      "90 − 9 = 10"
-    ],
-    "correct": 0,
-    "explanation": "Multiplication and division form a fact family.\nHint: Use the same three numbers.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 15,
+    "correct": "For example, split 8 rows into 5 and 3: 35 + 21 = 56. Or double 4 rows: 28 + 28 = 56. The divisions are 56 ÷ 8 = 7 and 56 ÷ 7 = 8.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Multiplication and division form a fact family.",
-      "hint": "Use the same three numbers."
+      "summary": "For example, split 8 rows into 5 and 3: 35 + 21 = 56. Or double 4 rows: 28 + 28 = 56. The divisions are 56 ÷ 8 = 7 and 56 ÷ 7 = 8.",
+      "hint": "Show what each part counts, rather than writing only 56."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +558,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4a02-t-016",
     "curriculumCode": "AC9M4A02",
     "bank": "test",
-    "skill": "extend known facts",
+    "skill": "design create play game",
     "printable": true,
-    "type": "single",
-    "question": "In a design exhibition, use a known fact to find 30 × 4.",
-    "audioPrompt": "In a design exhibition, use a known fact to find 30 × 4.",
-    "visual": "In a design exhibition: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Example families: 7 × 9, 63, 63 ÷ 7 = 9, 63 ÷ 9 = 7; and 8 × 4, 32, 32 ÷ 8 = 4, 32 ÷ 4 = 8. A valid turn explains a product strategy, matches the answer and checks a division.",
+    "acceptanceNote": "Inspect eight actual cards from two valid families with different products, workable written rules and two played turns recorded with match, strategy and inverse check. Accept different correct facts and game rules.",
+    "responseInstructions": "Complete the requested drawing, writing or practical task on paper. Ask an adult to inspect the actual work against the model answer and task-specific checks.",
+    "completionLabel": "My work is ready for an adult to check.",
+    "question": "Design and make a mini card game for two players using two multiplication facts with different products and factors 2 to 10. Make a multiplication card, product card and two division cards for each fact. Write rules requiring a match, a mental strategy and an inverse check. Play two turns with a partner or adult and record all three parts of each turn.",
+    "audioPrompt": "Design and make a mini card game for two players using two multiplication facts with different products and factors 2 to 10. Make a multiplication card, product card and two division cards for each fact. Write rules requiring a match, a mental strategy and an inverse check. Play two turns with a partner or adult and record all three parts of each turn.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4a02.svg#ac9m4a02-t-016",
-      "alt_text": "In a design exhibition: a Year 4 extend known facts reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "12",
-      "120",
-      "1200"
-    ],
-    "correct": 1,
-    "explanation": "Ten times one factor makes the product ten times larger.\nHint: Solve the basic fact first.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 16,
+    "correct": "Example families: 7 × 9, 63, 63 ÷ 7 = 9, 63 ÷ 9 = 7; and 8 × 4, 32, 32 ÷ 8 = 4, 32 ÷ 4 = 8. A valid turn explains a product strategy, matches the answer and checks a division.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Ten times one factor makes the product ten times larger.",
-      "hint": "Solve the basic fact first."
+      "summary": "Example families: 7 × 9, 63, 63 ÷ 7 = 9, 63 ÷ 9 = 7; and 8 × 4, 32, 32 ÷ 8 = 4, 32 ÷ 4 = 8. A valid turn explains a product strategy, matches the answer and checks a division.",
+      "hint": "Build families first; design a rule that makes players explain."
     },
     "qualitySchema": "production-v1"
   }
