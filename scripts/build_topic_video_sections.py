@@ -126,7 +126,7 @@ def section(code, videos):
             'referrerpolicy="strict-origin-when-cross-origin">Load video player</a> '
             '<span class="skillr-video-privacy">Loads YouTube in this lesson. See the video notice below.</span></p>'
             f'<iframe class="skillr-video-frame" title="{esc(video["title"], quote=True)} by {esc(video["creator"], quote=True)}"'
-            f' name="{frame_name}" srcdoc="{esc(poster, quote=True)}" loading="lazy" width="640" height="360"'
+            f' name="{frame_name}" srcdoc="{esc(poster, quote=True)}" width="640" height="360"'
             ' referrerpolicy="strict-origin-when-cross-origin"'
             ' allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>'
             f'<p><strong>Try it:</strong> {esc(video["after_watching"])}</p>'

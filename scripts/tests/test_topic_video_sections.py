@@ -98,6 +98,7 @@ class VideoSections(unittest.TestCase):
         self.assertEqual(len(frames), 1)
         frame = frames[0]
         self.assertNotIn("src", frame)
+        self.assertNotIn("loading", frame)
         self.assertEqual(frame["referrerpolicy"], "strict-origin-when-cross-origin")
         placeholder = Tags(frame["srcdoc"]).tags
         self.assertFalse(any(tag in ("script", "img", "iframe", "link") for tag, _ in placeholder))
